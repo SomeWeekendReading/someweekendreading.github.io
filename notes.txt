@@ -155,7 +155,7 @@ TODOs: These should be GitHub issues!
     A more detailed guide (recent version, not incompatible older guides, which are confusing!)
     https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html
     - Set up GitHub bot account: needs its own, unique email address?!
-      Gmail account: SomeWeekendReadingBot@gmail.com, password in Bitwarden
+      Gmail account: SomeWeekendReadingBot@gmail.com, password in Bitwarden; forwards to me
       Github account: SomeWeekendReadingBot, password in Bitwarden
     - Generate personal access token (PAT):
       See https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
@@ -204,15 +204,22 @@ TODOs: These should be GitHub issues!
     - Invite & accept bot to blog
       SomeWeekendReading invited SomeWeekendReadingBot
       Accepted via the email, not the weird https thing Travis said
-    - Enable reCAPTCHA: v2/checkbox style google.com/recaptcha
+    - Enable reCAPTCHA: v2/checkbox style  (NB: done with the BOT account, not the blog
+      account, which technically owns the domain!)
+      https://developers.google.com/recaptcha
       Took some hunting to find the signup area, but found it & generated the site key &
       secret key.  Stored both in Bitwarden, SomeWeekendReading Github account.
       o Encrypt: https://staticman-someweekendreading.herokuapp.com/v2/encrypt/SECRET-KEY
         (travis says YOUR-SITE-KEY, but obviously it has to be the secret key!)
         got the big blob
       o Put stuff in staticman.yml and _config.yml
-    *****
-    - Integrate comments into site
+
+    - Integrate comments into site: use the version that allows 1 level of reply (only)
+      o Add some liquid script to the bottom of any post
+        made comments.html in _includes, also comment.html and comment_form.html
+	include add to in post.html in _layouts (where disqus used to be)
+    ****
+      o Have to set comments: true in front matter of posts
 
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR

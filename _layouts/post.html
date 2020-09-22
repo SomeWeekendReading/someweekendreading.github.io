@@ -20,5 +20,7 @@ layout: default
     Written {{ page.date | date: "%a %Y-%b-%d" }}
   </div>
 
-  {% include disqus.html %}
+  {% if page.comments == true %}
+    {% include comments.html %}
+  {% endif %}
 </article>
