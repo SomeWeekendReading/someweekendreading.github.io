@@ -41,48 +41,48 @@ Notes on blogging tech.
   - DNS opinion of what's what:
     $ dig someweekendreading.blog www.someweekendreading.blog
 
-    ; <<>> DiG 9.10.6 <<>> someweekendreading.blog www.someweekendreading.blog
-    ;; global options: +cmd
-    ;; Got answer:
-    ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31346
-    ;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+   ; <<>> DiG 9.10.6 <<>> someweekendreading.blog www.someweekendreading.blog
+   ;; global options: +cmd
+   ;; Got answer:
+   ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39900
+   ;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
 
-    ;; OPT PSEUDOSECTION:
-    ; EDNS: version: 0, flags:; udp: 512
-    ;; QUESTION SECTION:
-    ;someweekendreading.blog.	IN	A
+   ;; OPT PSEUDOSECTION:
+   ; EDNS: version: 0, flags:; udp: 512
+   ;; QUESTION SECTION:
+   ;someweekendreading.blog.	IN	A
 
-    ;; ANSWER SECTION:
-    someweekendreading.blog. 3600	IN	A	185.199.110.153
-    someweekendreading.blog. 3600	IN	A	185.199.109.153
-    someweekendreading.blog. 3600	IN	A	185.199.108.153
-    someweekendreading.blog. 3600	IN	A	185.199.111.153
+   ;; ANSWER SECTION:
+   someweekendreading.blog. 3600	IN	A	185.199.110.153
+   someweekendreading.blog. 3600	IN	A	185.199.111.153
+   someweekendreading.blog. 3600	IN	A	185.199.108.153
+   someweekendreading.blog. 3600	IN	A	185.199.109.153
 
-    ;; Query time: 104 msec
-    ;; SERVER: 192.168.1.1#53(192.168.1.1)
-    ;; WHEN: Sat Sep 19 20:52:09 EDT 2020
-    ;; MSG SIZE  rcvd: 116
+   ;; Query time: 94 msec
+   ;; SERVER: 192.168.1.1#53(192.168.1.1)
+   ;; WHEN: Mon Sep 21 21:19:12 EDT 2020
+   ;; MSG SIZE  rcvd: 116
 
-    ;; Got answer:
-    ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33257
-    ;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+   ;; Got answer:
+   ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5802
+   ;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
 
-    ;; OPT PSEUDOSECTION:
-    ; EDNS: version: 0, flags:; udp: 512
-    ;; QUESTION SECTION:
-    ;www.someweekendreading.blog.	IN	A
+   ;; OPT PSEUDOSECTION:
+   ; EDNS: version: 0, flags:; udp: 512
+   ;; QUESTION SECTION:
+   ;www.someweekendreading.blog.	IN	A
 
-    ;; ANSWER SECTION:
-    www.someweekendreading.blog. 3600 IN	CNAME	sgr000.github.io.
-    sgr000.github.io.	3600	IN	A	185.199.108.153
-    sgr000.github.io.	3600	IN	A	185.199.111.153
-    sgr000.github.io.	3600	IN	A	185.199.110.153
-    sgr000.github.io.	3600	IN	A	185.199.109.153
+   ;; ANSWER SECTION:
+   www.someweekendreading.blog. 474 IN	CNAME	SomeWeekendReading.github.io.
+   SomeWeekendReading.github.io. 474 IN	A	185.199.108.153
+   SomeWeekendReading.github.io. 474 IN	A	185.199.111.153
+   SomeWeekendReading.github.io. 474 IN	A	185.199.109.153
+   SomeWeekendReading.github.io. 474 IN	A	185.199.110.153
 
-    ;; Query time: 41 msec
-    ;; SERVER: 192.168.1.1#53(192.168.1.1)
-    ;; WHEN: Sat Sep 19 20:52:09 EDT 2020
-    ;; MSG SIZE  rcvd: 150
+  ;; Query time: 17 msec
+  ;; SERVER: 192.168.1.1#53(192.168.1.1)
+  ;; WHEN: Mon Sep 21 21:19:12 EDT 2020
+  ;; MSG SIZE  rcvd: 162
 
 * DONE: Get tags working without a plugin (https://github.com/mynux/jekyll-hashtags),
   because github won't do that.  Instead:
@@ -118,8 +118,28 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
-*** Move the whole thing off my personal GitHub account, to a SomeWeekendReading account
-    (and its bot for StaticMan)?
+*** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
+    credentials on command line somehow?  (And then delete myself as a collaborator.)
+    https://stackoverflow.com/questions/29776439/username-and-password-in-command-for-git-push
+    This prompts for the password:
+    git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
+
+To clear history:
+    ## Delete all the old history in local clone
+    rm -rf .git
+    ## Make this directory a new repository
+    git init
+    git add .
+    git commit -m "Initial commit"
+    ## Connect it to the remot at github
+    git remote add origin git@github.com:SomeWeekendReading/someweekendreading.github.io.git
+    ## Change the connect method from SSH to HTTPS
+    git remote -v
+    git remote set-url origin https://github.com/SomeWeekendReading/someweekendreading.github.io.git
+    git remote -v
+    ## Push everything up to the remote repo
+    ## *** Requires to be a collaborator, or supply SWR credentials somehow?
+    git push --mirror --force
 
 *** Comments:
     https://staticman.net/
