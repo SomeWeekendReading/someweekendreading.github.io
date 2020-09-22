@@ -204,8 +204,14 @@ TODOs: These should be GitHub issues!
     - Invite & accept bot to blog
       SomeWeekendReading invited SomeWeekendReadingBot
       Accepted via the email, not the weird https thing Travis said
+    - Enable reCAPTCHA: v2/checkbox style google.com/recaptcha
+      Took some hunting to find the signup area, but found it & generated the site key &
+      secret key.  Stored both in Bitwarden, SomeWeekendReading Github account.
+      o Encrypt: https://staticman-someweekendreading.herokuapp.com/v2/encrypt/SECRET-KEY
+        (travis says YOUR-SITE-KEY, but obviously it has to be the secret key!)
+        got the big blob
+      o Put stuff in staticman.yml and _config.yml
     *****
-    - Enable reCAPTCHA
     - Integrate comments into site
 
 
