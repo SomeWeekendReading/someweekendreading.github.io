@@ -2,6 +2,7 @@
 layout: post
 title: And what about the Moderna/Lonza COVID vaccine Phase 3 delay?
 tags: SomebodyAskedMe COVID PharmaAndBiotech
+comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tag/SomebodyAskedMe) &mdash; same troublemakers, in case you're curious &mdash; about

@@ -2,6 +2,7 @@
 layout: post
 title: The Retirement of Iphegenia
 tags: Retirement Obscurantism NotableAndQuotable SomebodyAskedMe
+comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tag/SomebodyAskedMe), "What's your retirement plan?"  

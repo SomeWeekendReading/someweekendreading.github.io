@@ -2,6 +2,7 @@
 layout: post
 title: Lord Kelvin on quantitative knowledge
 tags: MathInTheNews NotableAndQuotable Obscurantism
+comments: true
 ---
 
 Qualitative knowledge is real, but... quantitative knowledge is almost always _better_.  

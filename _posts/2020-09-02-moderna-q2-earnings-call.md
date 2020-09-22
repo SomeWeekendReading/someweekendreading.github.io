@@ -2,6 +2,7 @@
 layout: post
 title: What's in the Moderna Q2 earnings call?
 tags: SomebodyAskedMe COVID PharmaAndBiotech
+comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tag/SomebodyAskedMe) (different "somebody" this
