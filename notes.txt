@@ -219,7 +219,7 @@ TODOs: These should be GitHub issues!
         made comments.html in _includes, also comment.html and comment_form.html
 	include add to in post.html in _layouts (where disqus used to be)
     ****
-      o Have to set comments: true in front matter of posts
+      o Have to set comments: true in front matter of posts; added to existing posts
 
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
