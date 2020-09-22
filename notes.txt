@@ -132,30 +132,7 @@ Notes on blogging tech.
     - We're indexed!  A search for "Occasional tart thoughts of a grumpy old retired
       scientist, your humble Weekend Editor." came up with the page.
 
-TODOs: These should be GitHub issues!
-
-*** Comments:
-    https://staticman.net/
-    https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html
-    - Need GitHub bot account
-    - Store personal access token, once generated, in BitWarden under the GitHub bot account
-      Same with RSA keypair.
-    - Have to keep _config.yml and staticman.yml in synch because some info is recorded in
-      both places (not DRY!)
-    - 
-
-*** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
-    credentials on command line somehow?  (And then delete myself as a collaborator.)
-    Looks related to the staticman bot pushing comments into the repo with a personal
-    access token, so maybe solve the comment problem first?
-
-    https://stackoverflow.com/questions/29776439/username-and-password-in-command-for-git-push
-    This prompts for the password:
-    git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
-
-    also: https://www.appveyor.com/docs/how-to/git-push/
-
-    To clear history:
+* DONE: To clear history (but also remove myself as collaborator, and use personal access token!)
     ## Delete all the old history in local clone
     rm -rf .git
     ## Make this directory a new repository
@@ -171,6 +148,77 @@ TODOs: These should be GitHub issues!
     ## Push everything up to the remote repo
     ## *** Requires to be a collaborator, or supply SWR credentials somehow?
     git push --mirror --force
+
+TODOs: These should be GitHub issues!
+
+*** Comments: https://staticman.net/
+    A more detailed guide (recent version, not incompatible older guides, which are confusing!)
+    https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html
+    - Set up GitHub bot account: needs its own, unique email address?!
+      Gmail account: SomeWeekendReadingBot@gmail.com, password in Bitwarden
+      Github account: SomeWeekendReadingBot, password in Bitwarden
+    - Generate personal access token (PAT):
+      See https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
+      With repo and user access: stored in Bitwarden, under SomeWeekendReading
+    - staticman stuff in _config.yml is for static build; stuff in staticman.yml is for
+      dynamic comments (i.e., the bot?)
+      o took travid downs's sample staticman.yml
+      o modified as per his suggestions; made dir _data/comments
+      o added staticman_url field to _config.yml
+    - Generate RSA keypair:
+      $ ssh-keygen -m PEM -t rsa -b 4096 -C "staticman key" -f ~/.ssh/staticman_key
+      Generating public/private rsa key pair.
+      Enter passphrase (empty for no passphrase): 
+      Enter same passphrase again: 
+      Your identification has been saved in /Users/sgr/.ssh/staticman_key.
+      Your public key has been saved in /Users/sgr/.ssh/staticman_key.pub.
+      The key fingerprint is:
+      SHA256:o5tk2wfez92NAViGwdyp2ll8PsJ8rb7nr4iEm2AE0qg staticman key
+      The key's randomart image is:
+      +---[RSA 4096]----+
+      |         o.. .   |
+      |   o      ooo    |
+      |  o o     .oo    |
+      | . . .    .+o .  |
+      |E     . So.=.o . |
+      |     . .ooo +.+ .|
+      |      *..o.  o.o |
+      |     + *.+oo o.+o|
+      |      + +...+.*=*|
+      +----[SHA256]-----+
+      $ head -2 ~/.ssh/staticman_key
+      -----BEGIN RSA PRIVATE KEY-----
+      MIIJKQIBAAKCAgEA18W7rSmk3HxI7Kxdl542ELllxIDY8wUIUENooSxoA8m27bLP
+    - Sign up for heroku https://signup.heroku.com/
+      FN: SomeWeekendReading LN: Bot
+      Gave bot email address, role "other", use "another language"
+      Verified email, password in Bitwarden
+    - Deploy staticman to heroku: follow travis's instructions
+    - Configure bridge secrets: didn't want to install heroku CLI, so...
+      o At heroku, click on app, then Settings -> Reveal Config Vars
+      o Add RSA_PRIVATE_KEY and GITHUB_TOKEN
+        NB: my RSA_PRIVATE_KEY shows multiple lines, whereas Travis's is on 1 long line?!
+	Whoops, on the command line he does $(cat ~/.ssh/staticman_key | tr -d '\n'), so
+	maybe I have to remove newlines?   Did the cat/tr thing above to get the string
+	to paste into the Heroku config var, and now it looks like his.
+    - Invite & accept bot to blog
+      SomeWeekendReading invited SomeWeekendReadingBot
+      Accepted via the email, not the weird https thing Travis said
+    *****
+    - Enable reCAPTCHA
+    - Integrate comments into site
+
+
+*** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
+    credentials on command line somehow?  (And then delete myself as a collaborator.)
+    Looks related to the staticman bot pushing comments into the repo with a personal
+    access token, so maybe solve the comment problem first?
+
+    https://stackoverflow.com/questions/29776439/username-and-password-in-command-for-git-push
+    This prompts for the password:
+    git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
+
+    also: https://www.appveyor.com/docs/how-to/git-push/
 
 *** Google Analytics & AdSense, once we have some readers
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
@@ -221,6 +269,7 @@ TODOs: These should be GitHub issues!
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* Election Night of the Living Beta Binomials: Who's Gonna Win?
 * Bitwarden Roolz!
 * What's that stupid avatar?
 * SIR modeling of COVID-19
@@ -230,7 +279,6 @@ Blog posts:
   "But people turn out to be really, really complicated. And even seven months later, that’s a lesson we’re still struggling to learn."
 * M&Ms and the multinomial distribution
 * Are corporate bonds like treasuries + stock?  (Specific stock or total market?  Best diversifier?)
-* Election Night of the Living Beta Binomials: Who's Gonna Win?
 * Continued fraction expansion of probability distributions
 * Rational polynomial models of the treasury yield curve
 * Conformal mapping, heat tranfer, and wind chill: why is it so damn cold out there?
@@ -252,5 +300,11 @@ Blog posts:
   https://www.livius.org/sources/content/herodotus/cyrus-takes-babylon/
 * Nontransitive dice
 * Blogging infrastructure: Github, Jekyll, Staticman, Heroku, Github Pages, ... Oh, my!
-* A chi-square test: when is my portfolio REALLY in need of rebalancing?
+* A rebalancing chi-square test: when is my portfolio REALLY in need of rebalancing?
+* Eulenspieglia the Merry Prankster Muse, or Through the Owl Mirror
+* Michel de Montaigne: How to Freak Out Teennagers at Club Med with Your Beach Reading
+* The smartest people in the room
+* The requisite post on monads
+* Psychotherapy and machine learning: how much corrective experience is required for change?
+* The L1-regularized efficient frontier
 * ...?
