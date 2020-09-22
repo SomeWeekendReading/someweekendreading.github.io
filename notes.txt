@@ -121,10 +121,13 @@ TODOs: These should be GitHub issues!
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)
     https://stackoverflow.com/questions/29776439/username-and-password-in-command-for-git-push
+
     This prompts for the password:
     git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
 
-To clear history:
+    also: https://www.appveyor.com/docs/how-to/git-push/
+
+    To clear history:
     ## Delete all the old history in local clone
     rm -rf .git
     ## Make this directory a new repository
