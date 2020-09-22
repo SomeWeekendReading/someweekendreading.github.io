@@ -1,0 +1,86 @@
+###
+### Configuration flags to customize the site
+###
+
+## Name of site & short description (displayed in the header)
+name: Some Weekend Reading
+description: Occasional tart thoughts of a grumpy old retired scientist, your humble Weekend Editor.
+
+## NB: changed usage of site.avatar in _layouts/default.html to prepend {{ site.baseurl }}/ to this.
+## Any other uses will have to do the same, e.g., a link/rel/icon in the meta section.
+avatar: images/root-fractal-1000.png
+
+###
+### Flags below are optional
+###
+
+## Includes an icon in the footer for each username entered (or something nonblank)
+footer-links:
+  dribbble:
+  email:         SomeWeekendReadingEditor@gmail.com
+  facebook:
+  flickr:
+  github:        # sgr000/sgr000.github.io, iff we decide to decloak
+  instagram:
+  linkedin:
+  pinterest:
+  rss:           rss # anything here creates a working RSS icon
+  twitter:       # jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube:       # channel/<your_long_string> or user/<user-name>
+  googleplus:    # anything in your profile username that comes after plus.google.com/
+
+## Disqus shortname (not username) to enable commenting on posts, or empty to leave it out.
+## You can find your shortname on the Settings page of your Disqus account.
+disqus:
+
+## Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+## Used for sitemap.xml and RSS feed.xml
+## url: https://sgr000.github.io
+## *** Fix to use https when that works
+url: http://www.someweekendreading.blog
+
+## If hosting site at a Project repository on GitHub pages
+##   (https://yourusername.github.io/repository-name)
+## and NOT your User repository (https://yourusername.github.io)
+## then add in the baseurl here, like this: "/repository-name".
+baseurl: ""
+
+###
+### !! You don't need to change any of the configuration flags below !!
+###
+
+permalink: /:title/
+
+## The release of Jekyll Now that you're using
+version: v4.1.1
+
+## Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  ## Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  ## Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    ## Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+## Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :expanded
+
+## Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed    # Create an Atom feed using the official Jekyll feed gem
+
+## Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - notes.txt
