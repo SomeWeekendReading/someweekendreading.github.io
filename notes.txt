@@ -10,6 +10,9 @@ Notes on blogging tech.
   - git commit -F -
     commits, reading commit comment from stdin in weird emacs shell
     (or combine add & commit in git commit -a -F -)
+    or
+    git commit -a -m "msg"
+    will automatically add changed files that are tracked (not new files), and use commit msg
   - git push -u origin master
     pushes changes up to github, where site will be rebuilt
   - git status
@@ -41,48 +44,48 @@ Notes on blogging tech.
   - DNS opinion of what's what:
     $ dig someweekendreading.blog www.someweekendreading.blog
 
-   ; <<>> DiG 9.10.6 <<>> someweekendreading.blog www.someweekendreading.blog
-   ;; global options: +cmd
-   ;; Got answer:
-   ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39900
-   ;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+    ; <<>> DiG 9.10.6 <<>> someweekendreading.blog www.someweekendreading.blog
+    ;; global options: +cmd
+    ;; Got answer:
+    ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28028
+    ;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
 
-   ;; OPT PSEUDOSECTION:
-   ; EDNS: version: 0, flags:; udp: 512
-   ;; QUESTION SECTION:
-   ;someweekendreading.blog.	IN	A
+    ;; OPT PSEUDOSECTION:
+    ; EDNS: version: 0, flags:; udp: 512
+    ;; QUESTION SECTION:
+    ;someweekendreading.blog.	IN	A
 
-   ;; ANSWER SECTION:
-   someweekendreading.blog. 3600	IN	A	185.199.110.153
-   someweekendreading.blog. 3600	IN	A	185.199.111.153
-   someweekendreading.blog. 3600	IN	A	185.199.108.153
-   someweekendreading.blog. 3600	IN	A	185.199.109.153
+    ;; ANSWER SECTION:
+    someweekendreading.blog. 3600	IN	A	185.199.109.153
+    someweekendreading.blog. 3600	IN	A	185.199.111.153
+    someweekendreading.blog. 3600	IN	A	185.199.108.153
+    someweekendreading.blog. 3600	IN	A	185.199.110.153
 
-   ;; Query time: 94 msec
-   ;; SERVER: 192.168.1.1#53(192.168.1.1)
-   ;; WHEN: Mon Sep 21 21:19:12 EDT 2020
-   ;; MSG SIZE  rcvd: 116
+    ;; Query time: 70 msec
+    ;; SERVER: 192.168.1.1#53(192.168.1.1)
+    ;; WHEN: Mon Sep 21 21:39:58 EDT 2020
+    ;; MSG SIZE  rcvd: 116
 
-   ;; Got answer:
-   ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5802
-   ;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+    ;; Got answer:
+    ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59452
+    ;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
 
-   ;; OPT PSEUDOSECTION:
-   ; EDNS: version: 0, flags:; udp: 512
-   ;; QUESTION SECTION:
-   ;www.someweekendreading.blog.	IN	A
+    ;; OPT PSEUDOSECTION:
+    ; EDNS: version: 0, flags:; udp: 512
+    ;; QUESTION SECTION:
+    ;www.someweekendreading.blog.	IN	A
 
-   ;; ANSWER SECTION:
-   www.someweekendreading.blog. 474 IN	CNAME	SomeWeekendReading.github.io.
-   SomeWeekendReading.github.io. 474 IN	A	185.199.108.153
-   SomeWeekendReading.github.io. 474 IN	A	185.199.111.153
-   SomeWeekendReading.github.io. 474 IN	A	185.199.109.153
-   SomeWeekendReading.github.io. 474 IN	A	185.199.110.153
+    ;; ANSWER SECTION:
+    www.someweekendreading.blog. 3583 IN	CNAME	someweekendreading.github.io.
+    someweekendreading.github.io. 3583 IN	A	185.199.109.153
+    someweekendreading.github.io. 3583 IN	A	185.199.110.153
+    someweekendreading.github.io. 3583 IN	A	185.199.108.153
+    someweekendreading.github.io. 3583 IN	A	185.199.111.153
 
-  ;; Query time: 17 msec
-  ;; SERVER: 192.168.1.1#53(192.168.1.1)
-  ;; WHEN: Mon Sep 21 21:19:12 EDT 2020
-  ;; MSG SIZE  rcvd: 162
+    ;; Query time: 13 msec
+    ;; SERVER: 192.168.1.1#53(192.168.1.1)
+    ;; WHEN: Mon Sep 21 21:39:58 EDT 2020
+    ;; MSG SIZE  rcvd: 162
 
 * DONE: Get tags working without a plugin (https://github.com/mynux/jekyll-hashtags),
   because github won't do that.  Instead:
@@ -116,7 +119,30 @@ Notes on blogging tech.
 
 * DONE: feed works with theoldreader.com.  Yay!  Now blog link is stored in my feeds.
 
+* DONE: Submit sitemap.xml to Google, to get us crawled
+    - https://search.google.com/search-console/welcome (while logged in as SomeWeekendReadingEditor)
+      Instructed to add a TXT entry to DNS with a certain google-site-verification value,
+      to prove ownership. Did that, waiting for it to propagate. (the www subdomain)
+    - *** Is google looking at the apex domain, whereas I put the verification on www subdomain?
+      Moved the TXT property to @; wait overnight to see if it verifies.
+      That worked!
+    - Submitted https://www.someweekendreading.blog/sitemap.xml
+      Google retrieved it.
+    - Now what?  Wait for a day.
+    - We're indexed!  A search for "Occasional tart thoughts of a grumpy old retired
+      scientist, your humble Weekend Editor." came up with the page.
+
 TODOs: These should be GitHub issues!
+
+*** Comments:
+    https://staticman.net/
+    https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html
+    - Need GitHub bot account
+    - Store personal access token, once generated, in BitWarden under the GitHub bot account
+      Same with RSA keypair.
+    - Have to keep _config.yml and staticman.yml in synch because some info is recorded in
+      both places (not DRY!)
+    - 
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)
@@ -143,27 +169,6 @@ TODOs: These should be GitHub issues!
     ## Push everything up to the remote repo
     ## *** Requires to be a collaborator, or supply SWR credentials somehow?
     git push --mirror --force
-
-*** Comments:
-    https://staticman.net/
-    https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html
-    - Need GitHub bot account
-    - Store personal access token, once generated, in BitWarden under the GitHub bot account
-      Same with RSA keypair.
-    - Have to keep _config.yml and staticman.yml in synch because some info is recorded in
-      both places (not DRY!)
-    - 
-
-*** Submit sitemap.xml to Google, to get us crawled
-    - https://search.google.com/search-console/welcome (while logged in as SomeWeekendReadingEditor)
-      Instructed to add a TXT entry to DNS with a certain google-site-verification value,
-      to prove ownership. Did that, waiting for it to propagate. (the www subdomain)
-    - *** Is google looking at the apex domain, whereas I put the verification on www subdomain?
-      Moved the TXT property to @; wait overnight to see if it verifies.
-      That worked!
-    - Submitted https://www.someweekendreading.blog/sitemap.xml
-      Google retrieved it.
-    - Now what?
 
 *** Google Analytics & AdSense, once we have some readers
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
