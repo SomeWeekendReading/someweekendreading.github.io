@@ -257,10 +257,9 @@ TODOs: These should be GitHub issues!
 *** Google Analytics & AdSense, once we have some readers
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
 
-
 *** Comments: make assets/main.scss.txt work
 
-*** Figure out themes, and make my stuff a theme. 
+*** Figure out themes, and make my stuff a theme.  Maybe use MinimalMistakes?
 
 *** Put footer icons at the TOP of the page, RHS opposite the permalinks?
 
