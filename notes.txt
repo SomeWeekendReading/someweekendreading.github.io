@@ -237,7 +237,6 @@ TODOs: These should be GitHub issues!
 4. View your website at https://127.0.0.1:4000/
 5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
-*** Comments: reformat to civilized size
 *** Comments: make assets/main.scss.txt work
 
 *** Put last build time in footer, so I can tell if it rebuilt?
