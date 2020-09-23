@@ -38,9 +38,7 @@ disqus:
 google_analytics:
 
 ## Used for sitemap.xml and RSS feed.xml
-## url: https://sgr000.github.io
-## *** Fix to use https when that works
-url: http://www.someweekendreading.blog
+url: https://www.someweekendreading.blog
 
 ## If hosting site at a Project repository on GitHub pages
 ##   (https://yourusername.github.io/repository-name)
