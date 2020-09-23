@@ -15,10 +15,10 @@ the application of all of those to cancer drug discovery research.  He is now ga
 attempting to navigate the maddening morass of the US health insurance system on his own
 behalf via Medicare and on behalf of his partner, the Weekend Editrix.  
 
-Also he's attempting weak anonymity here, just to deter annoyances.  He hasn't done _all_
-the work to keep it anonymous, just maybe 1/8th of it.  So... it's
-hemi-semi-demi-anonymous.  Basically, if you happen to know the Weekend Editor in RL,
-please avoid mentioning personal info in the comments, ok?  
+Also your humble Weekend Editor is attempting weak anonymity here, just to deter
+annoyances.  He hasn't done _all_ the work to keep it anonymous, just maybe 1/8th of it.
+So... it's hemi-semi-demi-anonymous.  Basically, if you happen to know the Weekend Editor
+in RL, please avoid mentioning personal info in the comments, ok?  
 
 ## What?
 
