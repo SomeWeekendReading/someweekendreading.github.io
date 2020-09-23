@@ -149,9 +149,7 @@ Notes on blogging tech.
     ## *** Requires to be a collaborator, or supply SWR credentials somehow?
     git push --mirror --force
 
-TODOs: These should be GitHub issues!
-
-*** Comments: https://staticman.net/
+* DONE: Comments: https://staticman.net/
     A more detailed guide (recent version, not incompatible older guides, which are confusing!)
     https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html
     - Set up GitHub bot account: needs its own, unique email address?!
@@ -226,8 +224,10 @@ TODOs: These should be GitHub issues!
       o So... will users see that?!
       o Got an email, forwarded from someweekendreading@gmail.com.  Merged, and it
         appeared.
-      o But... nested reply link doesn't work?
 
+TODOs: These should be GitHub issues!
+
+*** Comments: reformat to civilized size; make nested reply work.
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)

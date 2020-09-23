@@ -61,5 +61,6 @@ Weekend Editor _never_ does anything fashionable.  It's almost a matter of _prin
 
 ## Contact
 
-Um... try the email link at the bottom of every page, maybe?  Someday soon I'll get
-[Staticman](https://staticman.net/) working to support comments.
+Um... try the email link at the bottom of every page, maybe?  The comment feature on posts
+seems to be working, albeit clunkily (when it succeeds it shows an irrelevant JSON page so
+just hit the back button, and the nested reply feature doesn't work yet).  
