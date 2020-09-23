@@ -4,6 +4,7 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
+
     {% if site.tags != "" %}
       {% include collecttags.html %}
     {% endif %}
@@ -12,9 +13,12 @@
       <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="icon" type="image/png" href="{{ site.baseurl }}/{{ site.avatar }}">
+    <link rel="stylesheet" type="text/css" 
+          href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" 
+          title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="icon" type="image/png" 
+          href="{{ site.baseurl }}/{{ site.avatar }}">
   </head>
 
   <body>
@@ -45,7 +49,7 @@
         <footer class="footer">
           <div style="float: left;">Site build: {{ site.time | date: "%a %Y-%b-%d %H:%M %Z" }} </div>
           {% include svg-icons.html %}
-          <!-- Include validity badges?  float right -->
+	  {% include merit-badges.html %}
         </footer>
       </div>
     </div>

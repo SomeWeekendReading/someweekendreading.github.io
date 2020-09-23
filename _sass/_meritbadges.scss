@@ -1,0 +1,42 @@
+.meritBadge {
+  float:           right;
+  margin:          0;
+  width:           10em;
+  font-family:     helvetica,arial,sans-serif;
+  font-size:       70%;
+  font-weight:     bold;
+  border:          none;
+  border-collapse: collapse;
+  border-spacing:  0;
+  padding:         0;
+}
+.meritBadge a {
+  display: block;
+  width:   100%;
+}
+.meritBadge a:link,
+.meritBadge a:visited,
+.meritBadge a:hover {
+  background:      #fc6;
+  color:           #000;
+  text-decoration: none;
+}
+.meritBadge a:link,
+.meritBadge a:visited {
+  border-top:    1px solid #cecece;
+  border-bottom: 2px solid #4a4a4a;
+  border-left:   1px solid #cecece;
+  border-right:  2px solid #4a4a4a;
+}
+.meritBadge a:hover {
+  border-bottom: 1px solid #cecece;
+  border-top:    2px solid #4a4a4a;
+  border-right:  1px solid #cecece;
+  border-left:   2px solid #4a4a4a;
+}
+.meritBadge span.w3c {
+  padding:    0 0.4em;
+  width:      7em;
+  background: #fff;
+  color:      #0c479d;
+}

@@ -243,6 +243,10 @@ TODOs: These should be GitHub issues!
 4. View your website at https://127.0.0.1:4000/
 5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
+*** Combine all tags onto 1 page, make tag refs go to #tag on that page
+
+*** Make tags have # at front?  Or is that going to make them comments or something?
+
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)
     Looks related to the staticman bot pushing comments into the repo with a personal
@@ -317,6 +321,48 @@ TODOs: These should be GitHub issues!
     </tr>
   </tbody>
 </table>
+.meritBadge {
+  float:           right;
+  margin:          0;
+  width:           10em;
+  font-family:     helvetica,arial,sans-serif;
+  font-size:       70%;
+  font-weight:     bold;
+  border:          none;
+  border-collapse: collapse;
+  border-spacing:  0;
+  padding:         0;
+}
+.meritBadge a {
+  display: block;
+  width:   100%;
+}
+.meritBadge a:link,
+.meritBadge a:visited,
+.meritBadge a:hover {
+  background:      #fc6;
+  color:           #000;
+  text-decoration: none;
+}
+.meritBadge a:link,
+.meritBadge a:visited {
+  border-top:    1px solid #cecece;
+  border-bottom: 2px solid #4a4a4a;
+  border-left:   1px solid #cecece;
+  border-right:  2px solid #4a4a4a;
+}
+.meritBadge a:hover {
+  border-bottom: 1px solid #cecece;
+  border-top:    2px solid #4a4a4a;
+  border-right:  1px solid #cecece;
+  border-left:   2px solid #4a4a4a;
+}
+.meritBadge span.w3c {
+  padding:    0 0.4em;
+  width:      7em;
+  background: #fff;
+  color:      #0c479d;
+}
 
 *** Fiddle with font sizes to make everything more compressed
 
@@ -334,7 +380,6 @@ Post topics: "though borrowing trouble is often my wont" as an anxiety-prone dep
 Blog posts:
 * Election Night of the Living Beta Binomials: Who's Gonna Win?
 * Bitwarden Roolz!
-
 * What's that stupid avatar?
 * Trump and QAnon as the Black Death and the flagellants
   https://en.wikipedia.org/wiki/Flagellant
