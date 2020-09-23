@@ -33,10 +33,10 @@ We are indeed learning a lot.  In particular if the mRNA vaccines work, then we'
 track to rapid design of test candidates.  Though, to be fair, testing through Phase 3
 will still take a year or so.  
 
-We live in paranoid times.  We're full of disinformation, lying, distrust, and general
+But... we live in paranoid times! <sup id="fn3a">[[3](#fn3)]</sup>   We're full of disinformation, lying, distrust, and general
 disrespect for the truth.  Politicians are meddling with federal health agencies
 scientific reporting and decision making.  People are for _absolutely no good reason_ suspicious of
-vaccines. <sup id="fn1a">[[2](#fn2)]</sup>  Consequently, lots of people in the US,
+vaccines. <sup id="fn2a">[[2](#fn2)]</sup>  Consequently, lots of people in the US,
 despite the fear of COVID-19, say they won't take the vaccine because they fear the
 vaccine more?!  
 
@@ -87,3 +87,7 @@ who started the scare relating autism to vaccines.  His research was fraudulent,
 papers were retracted, and he lost his medical license.  It was so bad, he is barred from
 the practice of medicine in both the US and in his native Britain.  So... he's not a good
 reason to be suspicious of anything other than suspicion of him. [↩](#fn2a)  
+
+<a name="fn3">3</a>: With deep historical roots!  You might want to re-read Richard Hofstader's
+masterful article from 1964, [_The Paranoid Style in American Politics_](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/).
+The seeds planted back then have flowered in the most horrible way.[↩](#fn3a)  
