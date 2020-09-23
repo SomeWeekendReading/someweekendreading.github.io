@@ -291,11 +291,17 @@ TODOs: These should be GitHub issues!
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
-* COVID point of hope and how to evaluate a vaccine
- - Derek lowe and 538
 * Election Night of the Living Beta Binomials: Who's Gonna Win?
 * Bitwarden Roolz!
+
 * What's that stupid avatar?
+* Trump and QAnon as the Black Death and the flagellants
+  https://en.wikipedia.org/wiki/Flagellant
+  http://www.eyewitnesstohistory.com/flagellants.htm
+  https://www.newadvent.org/cathen/06089c.htm
+  https://sites.google.com/site/theblackdeathmary/daily-life/the-flagellants
+  https://blackdeathfacts.com/flagellants/
+  ... and the hatred of Obamacare.
 * SIR modeling of COVID-19
   scientists weren't ready to be so wrong in their assumptions... about politicians
   https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/
