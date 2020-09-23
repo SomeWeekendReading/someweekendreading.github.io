@@ -43,7 +43,9 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
+          <div style="float: left;">Jekyll build: {{ page.date | date: "%a %Y-%b-%d %H:%M" }} </div>
           {% include svg-icons.html %}
+          <!-- Include validity badges?  float right -->
         </footer>
       </div>
     </div>
