@@ -291,6 +291,8 @@ TODOs: These should be GitHub issues!
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* COVID point of hope and how to evaluate a vaccine
+ - Derek lowe and 538
 * Election Night of the Living Beta Binomials: Who's Gonna Win?
 * Bitwarden Roolz!
 * What's that stupid avatar?
