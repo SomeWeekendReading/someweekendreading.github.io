@@ -226,7 +226,13 @@ Notes on blogging tech.
         appeared.  If I close w/o merging, comment is rejected.  Nice.
       o Either way leaves a branch behind, but you can delete those.
 
+* DONE: Comments: reformat to civilized size
+
+* DONE: Put last build time in footer, so I can tell if it rebuilt?
+
 TODOs: These should be GitHub issues!
+
+*** Test math: kramdown/mathjax?
 
 *** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
   - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
@@ -236,10 +242,6 @@ TODOs: These should be GitHub issues!
 3. Serve the site and watch for markup/sass changes `jekyll serve`
 4. View your website at https://127.0.0.1:4000/
 5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
-
-*** Comments: make assets/main.scss.txt work
-
-*** Put last build time in footer, so I can tell if it rebuilt?
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)
@@ -256,7 +258,9 @@ TODOs: These should be GitHub issues!
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
 
 
-*** Test math: kramdown/mathjax?
+*** Comments: make assets/main.scss.txt work
+
+*** Figure out themes, and make my stuff a theme. 
 
 *** Put footer icons at the TOP of the page, RHS opposite the permalinks?
 
