@@ -218,8 +218,15 @@ TODOs: These should be GitHub issues!
       o Add some liquid script to the bottom of any post
         made comments.html in _includes, also comment.html and comment_form.html
 	include add to in post.html in _layouts (where disqus used to be)
-    ****
       o Have to set comments: true in front matter of posts; added to existing posts
+      o Didn't try to host all the javascript stuff myself
+    - Tried a test comment
+      o got a page with this on it:
+        {"success":true,"fields":{"replying_to_uid":"","message":"Test comment","name":"Weekend Editor","email":"f69a760795868739158aee5168b63b69","hp":"","date":1600817677}}
+      o So... will users see that?!
+      o Got an email, forwarded from someweekendreading@gmail.com.  Merged, and it
+        appeared.
+      o But... nested reply link doesn't work?
 
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
