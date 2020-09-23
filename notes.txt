@@ -228,8 +228,19 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
+*** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
+  - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
+  - Also need to update RubyGems
+1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
+2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
+3. Serve the site and watch for markup/sass changes `jekyll serve`
+4. View your website at https://127.0.0.1:4000/
+5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+
 *** Comments: reformat to civilized size
 *** Comments: make assets/main.scss.txt work
+
+*** Put last build time in footer, so I can tell if it rebuilt?
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)
@@ -245,14 +256,6 @@ TODOs: These should be GitHub issues!
 *** Google Analytics & AdSense, once we have some readers
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
 
-*** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
-  - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
-  - Also need to update RubyGems
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at https://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
 *** Test math: kramdown/mathjax?
 
