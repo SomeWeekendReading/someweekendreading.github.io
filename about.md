@@ -15,6 +15,11 @@ the application of all of those to cancer drug discovery research.  He is now ga
 attempting to navigate the maddening morass of the US health insurance system on his own
 behalf via Medicare and on behalf of his partner, the Weekend Editrix.  
 
+Also he's attempting weak anonymity here, just to deter annoyances.  He hasn't done _all_
+the work to keep it anonymous, just maybe 1/8th of it.  So... it's
+hemi-semi-demi-anonymous.  Basically, if you happen to know the Weekend Editor in RL,
+please avoid mentioning personal info in the comments, ok?  
+
 ## What?
 
 Here he writes mostly about stuff people ask him.  People ask about the damndest things!
@@ -62,5 +67,6 @@ Weekend Editor _never_ does anything fashionable.  It's almost a matter of _prin
 ## Contact
 
 Um... try the email link at the bottom of every page, maybe?  The comment feature on posts
-seems to be working, albeit clunkily (when it succeeds it shows an irrelevant JSON page so
-just hit the back button, and the nested reply feature doesn't work yet).  
+seems to be working, albeit clunkily (if you disable Javascript it will "work" but display
+some useless JSON when it's done, requiring use of the BACK button; also, the styles and
+sizes of the comment box are ridiculous).  
