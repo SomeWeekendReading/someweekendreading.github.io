@@ -223,11 +223,13 @@ Notes on blogging tech.
         {"success":true,"fields":{"replying_to_uid":"","message":"Test comment","name":"Weekend Editor","email":"f69a760795868739158aee5168b63b69","hp":"","date":1600817677}}
       o So... will users see that?!
       o Got an email, forwarded from someweekendreading@gmail.com.  Merged, and it
-        appeared.
+        appeared.  If I close w/o merging, comment is rejected.  Nice.
+      o Either way leaves a branch behind, but you can delete those.
 
 TODOs: These should be GitHub issues!
 
-*** Comments: reformat to civilized size; make nested reply work.
+*** Comments: reformat to civilized size
+*** Comments: make nested reply work.
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)
