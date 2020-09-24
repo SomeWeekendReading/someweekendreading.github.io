@@ -18,6 +18,7 @@ Display equation:
 
 $$f(x) = \frac{1}{sqrt(2\pi)} e^{-x^2 / 2}$$  
 
+  
 
 $$\begin{multline}
 \shoveleft
