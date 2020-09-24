@@ -73,7 +73,7 @@ fireswamp of loud opinions.  __Science matters.__
 
 __Notes:__ 
 
-<a name="fn1">1</a>: And funny: check out the
+<a id="fn1">1</a>: And funny: check out the
 ["things I won't work with"](https://blogs.sciencemag.org/pipeline/archives/category/things-i-wont-work-with) 
 and 
 ["things I'm glad I don't do"](https://blogs.sciencemag.org/pipeline/archives/category/things-im-glad-i-dont-do)
@@ -82,11 +82,11 @@ categories of his blog.  The category
 is also great for seeing what the general public's irrational hatred of pharma looks like from the
 inside.  Yeah, we hate [Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli), too. [↩](#fn1a)  
 
-<a name="fn2">2</a>: With deep historical roots!  You might want to re-read Richard Hofstader's
+<a id="fn2">2</a>: With deep historical roots!  You might want to re-read Richard Hofstader's
 masterful article from 1964, [_The Paranoid Style in American Politics_](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/).
 The seeds planted back then have flowered in the most horrible way. [↩](#fn2a)  
 
-<a name="fn3">3</a>: Most of it comes down to scaremongering by [Andrew Wakefield](https://en.wikipedia.org/wiki/Andrew_Wakefield), 
+<a id="fn3">3</a>: Most of it comes down to scaremongering by [Andrew Wakefield](https://en.wikipedia.org/wiki/Andrew_Wakefield), 
 who started the scare relating autism to vaccines.  His research was fraudulent, his
 papers were retracted, and he lost his medical license.  It was so bad, he is barred from
 the practice of medicine in both the US and in his native Britain.  So... he's not a good
