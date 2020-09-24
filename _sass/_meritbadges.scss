@@ -1,6 +1,6 @@
 .meritBadge {
   margin-top:      0;
-  vertical-align:  top;  
+  padding:         0 0;
   text-align:      left;
   float:           right;
   margin:          0;
@@ -11,10 +11,10 @@
   border:          none;
   border-collapse: collapse;
   border-spacing:  0;
-  padding:         0 0;
 }
 
 .meritBadge a {
+    float: left;
   display: block;
   width:   100%;
 }
