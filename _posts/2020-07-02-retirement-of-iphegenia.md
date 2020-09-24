@@ -53,6 +53,6 @@ My favorite part is the last verse, learned while playing pétanque chez Club Me
 __Notes:__ <sup id="fn2a">[[2](#fn2)]</sup>  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/Y05EGVYO-FQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-<a name="fn1">1</a>: Of course, you had it figured out PDQ that this wasn't the one in Brooklyn, right? [↩](#fn1a)  
+<a id="fn1">1</a>: Of course, you had it figured out PDQ that this wasn't the one in Brooklyn, right? [↩](#fn1a)  
 
-<a name="fn2">2</a>: Yes, this blog has footnotes.  Footnotes are your friends.  Get over it. [↩](#fn2a)  
+<a id="fn2">2</a>: Yes, this blog has footnotes.  Footnotes are your friends.  Get over it. [↩](#fn2a)  

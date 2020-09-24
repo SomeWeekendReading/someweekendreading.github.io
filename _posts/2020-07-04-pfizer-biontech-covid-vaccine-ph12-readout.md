@@ -117,7 +117,7 @@ Also, nobody's going to make a bundle on this.  They're all going to have to giv
 
 __Notes:__  
 
-<a name="fn1">1</a>: Hey, I believe in confirmation bias. If I keep seeing examples of
+<a id="fn1">1</a>: Hey, I believe in confirmation bias. If I keep seeing examples of
 confirmation bias everywhere, is _that_ an example of confirmation bias about confirmation
 bias?! [↩](#fn1a)   
 
