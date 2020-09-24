@@ -1,4 +1,5 @@
 .meritBadge {
+  margin-top:      0;
   vertical-align:  top;  
   float:           right;
   margin:          0;
@@ -9,7 +10,7 @@
   border:          none;
   border-collapse: collapse;
   border-spacing:  0;
-  padding:         0;
+  padding:         0 0;
 }
 
 .meritBadge a {
