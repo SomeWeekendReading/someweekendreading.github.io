@@ -235,6 +235,8 @@ Notes on blogging tech.
 TODOs: These should be GitHub issues!
 
 *** Test math: kramdown/mathjax?
+    https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
+    
 
 *** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
   - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
@@ -258,7 +260,7 @@ TODOs: These should be GitHub issues!
     This prompts for the password:
     git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
 
-    also: https://www.appveyor.com/docs/how-to/git-push/
+    ALSO: https://www.appveyor.com/docs/how-to/git-push/
 
 *** Google Analytics & AdSense, once we have some readers
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
@@ -302,6 +304,7 @@ TODOs: These should be GitHub issues!
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* Petrov day
 * Election Night of the Living Beta Binomials: Who's Gonna Win?
 * Bitwarden Roolz!
 * What's that stupid avatar?
