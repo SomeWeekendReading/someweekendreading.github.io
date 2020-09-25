@@ -58,8 +58,8 @@ with the system that would have ended the world.  Or as Eliezer put it:
 Petrov is a hero who should never have needed to show his heroism, but for being
 surrounded by institutional failure.  In today's pandemic, we face similar levels of
 institutional decay and bias for destruction.  We could have controlled the pandemic; we
-thought some triviality was more important.  We desperately need to organize our societies so
-their default action is to build, not destroy.  
+thought instead that some triviality was more important.  We desperately need to organize
+our societies so their default action is to build, not destroy.  
 
 Today in the "rationalist community"<sup id="fn3a">[[3](#fn3)]</sup> surrounding
 Yudkowsky, people have invented rituals with which to celebrate Petrov Day (e.g., 
