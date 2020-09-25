@@ -3,10 +3,10 @@
     <tr>
       <td style="border-collapse: collapse; border: none; border-spacing: 0; padding: 0;">
         <!-- Looks like the validator has issues with HTTPS that prevent referer from
-        working? https://validator.w3.org/docs/help.html#faq-referer
+             working? https://validator.w3.org/docs/help.html#faq-referer
+             So instead of referer, we supply the absolute URL to this page.
         <a href="https://validator.w3.org/check?uri=referer" target="_blank" title="Re-check HTML5 validity of this page">
         -->
-        <!-- *** Get rid of the absolute url here! Also, multiple slashes... -->
         <a href="https://validator.w3.org/check?url={{site.url}}{{ site.baseurl }}{{ page.url }}" target="_blank" title="Re-check HTML5 validity of this page">
            <span class="w3c">W3C&nbsp;&nbsp;&nbsp;&nbsp;</span>
            <span class="spec">HTML5</span>
