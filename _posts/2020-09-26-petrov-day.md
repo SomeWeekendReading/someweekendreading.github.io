@@ -50,22 +50,27 @@ Sunlight reflected off clouds had convinced a Soviet satellite watching a US mis
 that 5 missiles had launched.  Petrov, on his own authority, defied the launch on warning
 standing orders and declared it a false alarm.  Probably Petrov thought something like, "One
 missile, I can understand &mdash; that's an accident.  One thousand missiles, I can understand
-&mdash; that's an attack.  But FIVE missiles?  This I cannot understand."  Or as Eliezer
-put it:  
-
+&mdash; that's an attack.  But FIVE missiles?  This I cannot understand."  Petrov stepped
+outside the box of obedience, applied critial thinking, and decided _not_ to cooperate
+with the system that would have ended the world.  Or as Eliezer put it:  
 > Petrov decided that, all else being equal, he would prefer not to destroy the world.
+
+Petrov is a hero who should never have needed to show his heroism, but for being
+surrounded by institutional failure.  In today's pandemic, we face similar levels of
+institutional decay and bias for destruction.  We could have controlled the pandemic; we
+thought some triviality was more important.  We desperately need to organize our societies so
+their default action is to build, not destroy.  
 
 Today in the "rationalist community"<sup id="fn3a">[[3](#fn3)]</sup> surrounding
 Yudkowsky, people have invented rituals with which to celebrate Petrov Day (e.g., 
 [here](https://thingofthings.wordpress.com/2020/07/03/petrov-day/),
-[here (coronavirus edition)](https://thingofthings.wordpress.com/2020/09/18/petrov-day-ritual-coronavirus-edition/), 
-[here](http://petrovday.com/)).  It's a thing
-well worth celebrating, the survival of humanity, no?  
+[here (coronavirus edition, especially good)](https://thingofthings.wordpress.com/2020/09/18/petrov-day-ritual-coronavirus-edition/), or
+[here](http://petrovday.com/)).  It's a thing well worth celebrating, the survival of humanity, no?  
 
 So take a minute today to celebrate Petrov Day properly: do something that doesn't end the
 world, but saves/improves/redeems everything within your reach.  Being a member of
-the Billionaire's Club isn't the point; doing everything within your reach _is_.  
-
+the Billionaire's Club isn't the point; but doing everything within your reach is the
+point of _mip'nei tikkun ha'olam_:  
 > Do not be daunted by the enormity of the world's grief.  Do justly, now.  Love mercy,
 > now.  Walk humbly, now.  You are not obligated to complete the work, but neither are you
 > free to abandon it. &mdash; Rabbi Tarfon, _Pirke Avot_ 2:21, _Talmud_
@@ -79,7 +84,7 @@ extent the father of modern chemical warfare.  Opinion on his membership status 
 divided. [↩](#fn1a)  
 
 <a id="fn2">2</a>: Though, admittedly, at huge costs in fossil-fuel-derived fertilizers.
-Probably a net win overall, but climate change may change our opinions, as well. [↩](#fn2a)  
+Probably a net win overall, but climate change may change our opinion here, as well. [↩](#fn2a)  
 
 <a id="fn3">3</a>: An eccentric but fascinating community of people attempting to become
 more rational, more deliberate, more responsive to evidence, and able to live better
