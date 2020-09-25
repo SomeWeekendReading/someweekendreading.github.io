@@ -81,7 +81,7 @@ divided. [↩](#fn1a)
 <a id="fn2">2</a>: Though, admittedly, at huge costs in fossil-fuel-derived fertilizers.
 Probably a net win overall, but climate change may change our opinions, as well. [↩](#fn2a)  
 
-<a id="fn2">2</a>: An eccentric but fascinating community of people attempting to become
+<a id="fn3">3</a>: An eccentric but fascinating community of people attempting to become
 more rational, more deliberate, more responsive to evidence, and able to live better
 lives.  Like all such attempts, they have their good days and bad days.  See, e.g., the
 [_Less Wrong_ blog community](https://www.lesswrong.com/). [↩](#fn3a)  
