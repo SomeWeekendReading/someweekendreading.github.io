@@ -304,7 +304,6 @@ TODOs: These should be GitHub issues!
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
-* Petrov day
 * Election Night of the Living Beta Binomials: Who's Gonna Win?
 * Impact of election years on stock returns (old weekend reading)
 * Bitwarden Roolz!
