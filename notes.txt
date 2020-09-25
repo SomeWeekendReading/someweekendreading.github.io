@@ -234,6 +234,9 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
+*** HTML validation always looks at the front page, not the exact referer?  Looks like an
+    HTTPS issue: https://validator.w3.org/docs/help.html#faq-referer
+
 *** Test math: kramdown/mathjax?
     https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
     
