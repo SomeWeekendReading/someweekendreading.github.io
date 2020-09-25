@@ -18,11 +18,13 @@
   display: block;
   width:   100%;
 }
+/*
 .meritBadge a:link, .meritBadge a:visited, .meritBadge a:hover {
   background:      #fc6;
   color:           #000;
   text-decoration: none;
 }
+*/
 .meritBadge a:link, .meritBadge a:visited {
   border-top:    1px solid #cecece;
   border-bottom: 2px solid #4a4a4a;
@@ -37,6 +39,7 @@
 }
 
 .meritBadge span.w3c {
+  text-decoration: none;
   padding:    0 0;
   width:      7em;
   background: #fff;
@@ -45,4 +48,6 @@
 
 .meritBadge span.spec {
   padding:    0 0;
+  background:      #fc6;
+  color:           #000;
 }
