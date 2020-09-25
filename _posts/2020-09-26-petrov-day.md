@@ -8,7 +8,7 @@ comments: true
 Today we commemorate 1983-Sep-26: the day Stanislav Yevgrafovich Petrov prevented the end the
 world.  Go thou forth and do likewise: _save as much of the world as you can_.  
 
-<a href="https://en.wikipedia.org/wiki/Stanislav_Petrov" target="_blank"><img src="{{site.baseurl }}/images/2020-09-26-petrov-day-portrait.jpg" width="400" height="520" alt="Petrov Day" title="Petrov Day" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://en.wikipedia.org/wiki/Stanislav_Petrov" target="_blank"><img src="{{site.baseurl }}/images/2020-09-26-petrov-day-portrait.jpg" width="300" height="390" alt="Petrov Day" title="Petrov Day" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 Ozy [once wrote at _Thing of Things_](https://thingofthings.wordpress.com/2015/09/26/stanislav-petrov-day/) 
 inviting us to imagine a club in Heaven, called something like the _Billionaire's Club_.
@@ -16,7 +16,7 @@ Not, of course, rich guys, because... eugh.  Rather, a club of people who have s
 billion human lives.  Can there be such a thing?  Who might be in such a club?  
 
 Depending on your religious community, you might of course imagine your deity as club
-president.  Creating/redeeming humanity hath its perks.  But who else?  Ozy starts us off
+president (creating/redeeming humanity hath its perks).  But who else?  Ozy starts us off
 with 9 names:  
 
 * [Vasili Arkhipov](https://en.wikipedia.org/wiki/Vasili_Arkhipov): flotilla commander of
