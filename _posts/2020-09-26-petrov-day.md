@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Petrov Day: The Day the World Didn't End
+title: Petrov Day &mdash; The Day the World Didn't End
 tags: CorporateLifeAndItsDiscontents NotableAndQuotable Politics
 comments: true
 ---
