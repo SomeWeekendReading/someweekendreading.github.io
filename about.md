@@ -66,6 +66,6 @@ Weekend Editor _never_ does anything fashionable.  It's almost a matter of _prin
 
 ## Contact
 
-Um... try the email link at the bottom of every page, maybe?  The comment feature on posts
+Um... try the email link at the top of every page, maybe?  The comment feature on posts
 seems to be working, albeit clunkily (e.g., if you disable Javascript it will "work" but display
 some useless JSON when it's done, requiring use of the BACK button).  
