@@ -83,22 +83,23 @@ exclude:
   - CNAME
   - notes.txt
 
-# The URL for the staticman API bridge endpoint
-# You will want to modify some of the values:
-#  ${github-username}: the username of the account with which you publish your blog
-#  ${blog-repo}: the name of your blog repository in github
-#  master: this the branch out of which your blog is published, often master or gh-pages
-#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
-#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
-#
-# for me, this line reads:
-# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+## The URL for the staticman API bridge endpoint
+## You will want to modify some of the values:
+##  ${github-username}: the username of the account with which you publish your blog
+##  ${blog-repo}: the name of your blog repository in github
+##  master: this the branch out of which your blog is published, often master or gh-pages
+##  ${bridge_app_name}: the name you chose in Heroku for your bridge API
+##  comments: the so-called property, this defines the key in staticman.yml where the configuration
+##  is found
+##
+## for me, this line reads:
+## https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
 staticman_url: https://staticman-someweekendreading.herokuapp.com/v2/entry/SomeWeekendReading/someweekendreading.github.io/master/comments
 
-# reCaptcha configuration info: the exact same site key and *encrypted* secret that you
-# used in staticman.yml I personally don't think the secret needs to be included in the
-# generated site, but the staticman API bridge uses it to ensure the site configuration
-# and bridge configuration match (but why not just compare the site key?)
+## reCaptcha configuration info: the exact same site key and *encrypted* secret that you
+## used in staticman.yml I personally don't think the secret needs to be included in the
+## generated site, but the staticman API bridge uses it to ensure the site configuration
+## and bridge configuration match (but why not just compare the site key?)
 reCaptcha:
   siteKey: 6LdaX88ZAAAAAOtxS8-kPLz5n4YDUnVVF0NPVBdF
   secret: JinFRQgnzmIHF2g0ggmTeYtAgMmq+XA2L6PqwaaYWKXVJsd3tXThmEercN3xBhNb7y0IiwAsaAtwy5D0wzdzidQt9JK9j2AD15zAaTCoDB8Dh2hQSTX+xpvqMgS1ncGNN21/mfYZ16tL6zh3TzbIEdFN95jfiswuOeuub4u6XiOtzM3TDtmR8P6W15fTU13ci3ptrZJDjJhkxbnsMwgK/vG+kJq0rj4WTULBK0nnslWbh01jvxVRQULTPi1JnBxak72mOSYiRKx/SfoYjuRz0riOA0zvZeIXxgFBFLiiRlD42qu1A/oYd/1Pg2D5UgNOl3VpUGbFvleJNWX6e6r+rEhPbw31KsRRgmQ7QDtOq20x+X/0FfFChgt4ptCWVNXR9wFCYCXd2eSUVfcC025ZR7TCF90dW6ENHL2zMVCEs0RWgYSLNT6gY+k0GC2OY9Mc+85lP2RB9aAB08REbBNvj1AMXNCo+lo75038N/G9UG5NCvz/Dzp+25dkPERI0pqJW/PsVBtszfqJwSP5djRUXhtG6JFER1m7yOlGEnduussLGIMtz/SG2XbGCW+2EQ7LKRm2h1+02YCIJX3w5EBj/ZqyfRRh/xa2lyaGLYezJvAwjOxvkv4iEIBZKYgR+c/pO8wwNxMSrnTWc9OsGsopbSH7ifKI58Zh/sx8k9fMXuE=

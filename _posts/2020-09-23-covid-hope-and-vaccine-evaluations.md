@@ -47,7 +47,7 @@ those folk are the _best_ at building statistical models of modern American elec
 [A recent article on 538 by Maggie Koerth](https://fivethirtyeight.com/features/how-to-know-when-you-can-trust-a-covid-19-vaccine/)
 discusses how to know if you can _trust_ a vaccine.  (I never thought I'd even have to ask
 that question, but... _o tempora, o mores_.)  The high points:  
-- __Look for transparency in the data:__ even if you don't review it yourself, ask if it was
+- __Look for transparency in the data:__ Even if you don't review it yourself, ask if it was
   _disclosed_.  Don't listen to politician's opinions about vaccines, as they are not
   competent to have opinions worth hearing.  Listen to independent scientists, listen to
   your doctor.  
