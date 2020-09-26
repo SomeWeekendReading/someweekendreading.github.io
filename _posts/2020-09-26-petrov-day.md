@@ -70,7 +70,7 @@ Yudkowsky, people have invented rituals with which to celebrate Petrov Day (e.g.
 So take a minute today to celebrate Petrov Day properly: do something that doesn't end the
 world, but saves/improves/redeems everything within your reach.  Being a member of
 the Billionaire's Club isn't the point; but doing everything within your reach is the
-point of _mip'nei tikkun ha'olam_:  
+point of [_mip'nei tikkun ha'olam_](https://en.wikipedia.org/wiki/Tikkun_olam):  
 > Do not be daunted by the enormity of the world's grief.  Do justly, now.  Love mercy,
 > now.  Walk humbly, now.  You are not obligated to complete the work, but neither are you
 > free to abandon it. &mdash; Rabbi Tarfon, _Pirke Avot_ 2:21, _Talmud_
