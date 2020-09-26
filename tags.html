@@ -17,12 +17,13 @@ layout: default
       {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
       <a href="/tag/{{ tagname }}"><span style="white-space: nowrap;"><code class="highligher-rouge">{{ tagname }}</code>&nbsp;</span></a>
     {% endfor %}
+    <hr>
 
     {% for temptag in sortedtemptags %}
       {% assign tagitems = temptag | split: '#' %}
       {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
       <a id="#{{ tagname }}"><strong>{{ tagname }}:</strong></a>
-      </ul>
+      <ul>
         {% for item in tagitems %}
           <li>{{ page.date | date: "%a %Y-%b-%d" }}: <a href="{{ page.url }}">{{ page.title }}</a><br>
                 {{ page.description }}
