@@ -9,6 +9,8 @@ comments: true
 COVID vaccine phase 3 start.  Basically, it looks like the start of a reasonably designed
 Phase 3 trial: the beginning of a long slog to test safety &amp; efficacy.  
 
+## Data  
+
 First, as always, links to the data sources:  
 
 | __NIH Twitter__ | __NIH Press Release__ | __ClinicalTrials.GOV__ |
@@ -16,6 +18,8 @@ First, as always, links to the data sources:
 | <a href="https://twitter.com/NIH/status/1287713859130679296" target="_blank"><img src="{{site.baseurl }}/images/2020-08-01-moderna-covid-vaccine-phase3-start-twitter.png" width="200" height="183" alt="The Twitter announcement from the NIH, for those with short attention spans" title="The Twitter announcement from the NIH, for those with short attention spans" style="vertical-align: top; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a> | <a href="https://www.nih.gov/news-events/news-releases/phase-3-clinical-trial-investigational-vaccine-covid-19-begins" target="_blank"><img src="{{ site.baseurl }}/images/2020-08-01-moderna-covid-vaccine-phase3-start-nih.png" width="200" height="166" alt="The NIH press release" title="The NIH press release" style="vertical-align: top; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a> | <a href="https://clinicaltrials.gov/ct2/show/NCT04470427" target="_blank"><img src="{{ site.baseurl }}/images/2020-08-01-moderna-covid-vaccine-phase3-start-clinicaltrials.png" width="200" height="114" alt="The official registry of the trial, i.e., the real stuff" title="The official registry of the trial, i.e., the real stuff" style="vertical-align: top; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a> |
 
 _How to volunteer:_ See the good folk at the [coronavirus prevention network](https://www.coronaviruspreventionnetwork.org/). Trial sites are all around the US concentrated in cities, one of them my home.  Somewhat of a puzzle to me that all sites are in the US, not internationally?!  Who even _does_ that nowadays?  I imagine it will fill up fast -- I asked the Weekend Editrix if we should volunteer, and got a somewhat equivocal response.  
+
+## Some Details
 
 A few details from reading the clinical trial registry entry:  
 
@@ -36,6 +40,8 @@ flu vaccine in the control arm?  For example, in a trial for ketamine injections
 I'd have been interested in volunteering if the Weekend Editrix had said ok, but for now with "ambiguous" health insurance status at least for a while, maybe it's not the time for me to be confusing our rather cruel &amp; arbitrary health care delivery system.  
 
 Unsurprisingly, as of a couple days after that announcement, there were over 100,000 volunteers for this 30,0000 person trial.  They'll pick a subset to ensure diversity over pre-existing condition, age, body mass index, gender, race, and so on.  Probably little chance to get in, should you still be interested at this point.  
+
+## Multiply-Blinded, Placebo Controlled Design
 
 What's remarkable is the number of times when designs are _not_ thoughtful, when the MDs running the trial think they have no need of a statistician to design the experiment.  (Of course, I'm a grizzled old statistician, so I would say that, wouldn't I?)  
 

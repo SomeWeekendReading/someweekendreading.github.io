@@ -23,7 +23,7 @@ how, even given the favorable Phase 1/2 readout, there's a delay in starting Pha
 emphasize:_ this is an utterly normal sort of delay, for a protocol amendment: nailing down
 all the rules to be followed in the trial.  Normal, responsible thing to see happen.  
 
-Things to think about:  
+## Things to think about  
 
 * Moderna's vaccine is an mRNA vaccine, as you might guess from the company's name -- they're specialists in this exact thing, trying to make it work all the way to approval.  
 

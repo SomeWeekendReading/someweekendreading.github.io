@@ -22,6 +22,8 @@ my rule on how to read a stock proxy: the good news is in the front under the pi
 the chairman, and the bad news is in the back in the footnotes to the financial
 statements.  Nothing deeper than that, really.  And nothing less cynical.  
 
+## Quarterly Report to Analysts
+
 <img src="{{ site.baseurl }}/images/2020-09-02-moderna-q2-earnings-call-slide1.png" width="400" height="192" alt="Moderna 2020 Q2 Business Update Slide 1" title="Moderna 2020 Q2 Business Update Slide 1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> 
 Still... [somebody asked me]({{ site.baseurl }}/tag/SomebodyAskedMe) "What do you think of
 [this](https://investors.modernatx.com/static-files/dc121fec-63eb-4794-a2fd-e0d3eadbaa6f)?"
@@ -37,6 +39,8 @@ very hype things" and had "ethical problems".  I was curious to see if there was
 evidence of that, and am happy to see that there's nothing here with which I have a
 problem.  (Other than the usual very low opinion I have of corporate types.  As these
 things go, the report looks ok.)  
+
+## A Look Through the Slides
 
 <img src="{{ site.baseurl }}/images/2020-09-02-moderna-q2-earnings-call-slide7.png" width="400" height="209" alt="Moderna 2020 Q2 Business Update Slide 7" title="Moderna 2020 Q2 Business Update Slide 7" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> 
 For a (mini-) pharma company like Moderna ("mode RNA", get it?), this involves a pipeline
@@ -67,6 +71,8 @@ for a pharma company.  Yes, they're boasting; boasting of this very specific, ve
 carefully sanitized-by-lawyers form is what this kind of earnings call presentation is all
 about!  
 
+## Content &amp; Interpretation
+
 Some thoughts on the content:  
 
 * They raised $1.3bln in a stock offering and got a $0.5bln grant from BARDA for '1273 (the COVID vaccine candidate).  Add in considerable in-house investment that they'll never tell you about, and they're up to their eyeballs to the tune of more than a $2bln bet here.  __Interpretation:__ This vaccine is a make-or-break thing for them.  You might not like to take that risk, personally or as an investor, but you certainly can't accuse them of timid half-measures!  Taking risks is great... when it pays off.  We call it "risk" because sometimes it doesn't pay off, and this looks to me like a financially existential risk for them (as in, if it blows up, they won't exist afterwards).  
@@ -91,6 +97,8 @@ Some thoughts on the content:
 
 <img src="{{ site.baseurl }}/images/2020-09-02-moderna-q2-earnings-call-slide28.png" width="400" height="208" alt="Moderna 2020 Q2 Business Update Slide 28" title="Moderna 2020 Q2 Business Update Slide 28" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 * Slide 28: Check out the top line of the table!  In March they had $1.7bln in cash, equivalents, and investments; but now they have $3bln!  Remember I told you above they took in about $2bln?  There it is.  __Interpretation:__ Money comes with strings attached; the people who gave it to them will want something back.  Like, a profitable COVID vaccine.  This will be in tension with the goal to make it freely available.  Also, the table says they're running at a net loss (unsurprising, with no products).  
+
+## Conclusions?
 
 So, unlike my friend's judgement, I have no problems with them ethically: they look like
 everybody else, and are at least trying to do the right thing, to the extent that they're

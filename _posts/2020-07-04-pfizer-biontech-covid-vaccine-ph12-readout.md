@@ -23,6 +23,8 @@ to the primary literature which is where you get the real goods.  In this case, 
 [NCT04368728](https://clinicaltrials.gov/ct2/show/NCT04368728).  I'm just going to take a
 quick look through the paper for our purposes here, not at the ClinicalTrials.gov page.  
 
+## Cautions &amp; Encouragements
+
 __Caution #1:__ MedRXiv, _in imitatione_ of the physics server [arxiv.org](arxiv.org), is
 a _preprint_ server.  That means it contains papers that have been written up and are
 being _proposed_ for publication and the required peer review.  They have _not_ yet been peer
@@ -87,7 +89,9 @@ __Caution #6:__  To their credit, they mention some cautions on page 5:
 
 Ok, that's as much as I can get after spending about an hour with the paper (not scrutinizing everything in it by any means!), and not looking at the ClinicalTrials.gov page at all.  
 
-__Summary:__  This looks like a good, credible, well-designed, early safety study.  But the
+## Summary
+
+This looks like a good, credible, well-designed, early safety study.  But the
 cautions above are now something I believe are even more important: it's not yet
 peer-reviewed, it's too early to have any idea whether it will work, no mRNA vaccine has
 ever before made it to approval, _everybody_ got some degree of relatively nasty
@@ -100,6 +104,8 @@ if it's long-lasting).
 So... well done, Pfizer + BioNTech.  If I were peer reviewing this -- well, after a lot
 more work than I've done here, since I tend to be a pretty careful reviewer -- then I'd
 probably give it a thumbs up for publication.  
+
+## Investing
 
 Investing, though?  
 
@@ -115,7 +121,7 @@ Also, nobody's going to make a bundle on this.  They're all going to have to giv
 
 ---
 
-__Notes:__  
+## Notes  
 
 <a id="fn1">1</a>: Hey, I believe in confirmation bias. If I keep seeing examples of
 confirmation bias everywhere, is _that_ an example of confirmation bias about confirmation

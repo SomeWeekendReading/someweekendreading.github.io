@@ -8,6 +8,8 @@ comments: true
 Today we commemorate 1983-Sep-26: the day Stanislav Yevgrafovich Petrov prevented the end the
 world.  Go thou forth and do likewise: _save as much of the world as you can_.  
 
+## The Billionaire's Club  
+
 <a href="https://en.wikipedia.org/wiki/Stanislav_Petrov" target="_blank"><img src="{{site.baseurl }}/images/2020-09-26-petrov-day-portrait.jpg" width="300" height="390" alt="Petrov Day" title="Petrov Day" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Ozy [once wrote at _Thing of Things_](https://thingofthings.wordpress.com/2015/09/26/stanislav-petrov-day/) 
 inviting us to imagine a club in Heaven, called something like the _Billionaire's Club_.
@@ -41,6 +43,8 @@ before whom we couldn't really reliably store blood for transfusion.
 * [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug)<sup id="fn2a">[[2](#fn2)]</sup>, 
 father of the "Green Revolution", new species of cereal grains which now feed most of humanity.  
 
+## Petrov and a Skepticism of Authority: Do What's Right, Not What's Asked  
+
 Today is the anniversary of Petrov's decision not to follow orders that would almost
 certainly led to the extinction of humanity.  I first learned about the details of his
 story from 
@@ -60,6 +64,8 @@ institutional decay and bias for destruction.  We could have controlled the pand
 thought instead that some triviality was more important.  We desperately need to organize
 our societies so their default action is to build, not destroy.  
 
+## Celebration
+
 Today in the "rationalist community"<sup id="fn3a">[[3](#fn3)]</sup> surrounding
 Yudkowsky, people have invented rituals with which to celebrate Petrov Day (e.g., 
 [here](https://thingofthings.wordpress.com/2020/07/03/petrov-day/),
@@ -76,7 +82,7 @@ point of [_mip'nei tikkun ha'olam_](https://en.wikipedia.org/wiki/Tikkun_olam):
 
 ---
 
-__Notes:__ 
+## Notes  
 
 <a id="fn1">1</a>: Haber is a _provisional_ member of the club, as he is also to some
 extent the father of modern chemical warfare.  Opinion on his membership status is
@@ -90,7 +96,7 @@ more rational, more deliberate, more responsive to evidence, and able to live be
 lives.  Like all such attempts, they have their good days and bad days.  See, e.g., the
 [_Less Wrong_ blog community](https://www.lesswrong.com/). [↩](#fn3a)  
 
-__References:__
+## References  
 
 1. Ozy Brennan, ["Stanislav Petrov Day"](https://thingofthings.wordpress.com/2015/09/26/stanislav-petrov-day/), _Thing of Things_, 2015-Sep-26.
 

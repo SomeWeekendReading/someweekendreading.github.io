@@ -8,6 +8,8 @@ comments: true
 Looking for a glimmer of hope amid the COVID clouds?  Worried about whether a vaccine will
 be appropriately safe &amp; effective?  You've come to the right place.  
 
+## A COVID Point of Hope
+
 Derek Lowe is a med chemist (_don't_ say "mad" chemist; these guys are miracle workers)
 who's been blogging about the triumphs and travails of working in the pharma industry for
 years.  His blog, _In the Pipeline_, is now hosted at _Science_ magazine, which tells you
@@ -26,12 +28,13 @@ So take a look through Derek's survey, even though it's a month out of date.  (A
 vaccine development used to be _nothing_, when vaccines took about 10 years.)  The
 particular piece to which I believe more attention should be called is the last paragraph,
 which gives us great hope for the future:  
-
 > An excellent side effect is that vaccine technology will never be the same after this – it’s going to be like aircraft design before and after World War II, and for many of the same reasons. This whole pandemic has been awful, in many different ways, but we’re going to come out of it stronger and more capable than when we went in.  
 
 We are indeed learning a lot.  In particular if the mRNA vaccines work, then we're on
 track to rapid design of test candidates.  Though, to be fair, testing through Phase 3
 will still take a year or so.  
+
+## Evaluating a Vaccine in Paranoid Times
 
 But... we live in paranoid times! <sup id="fn2a">[[2](#fn2)]</sup>   We're full of disinformation, lying, distrust, and general
 disrespect for the truth.  Politicians are meddling with federal health agencies
@@ -71,7 +74,7 @@ fireswamp of loud opinions.  __Science matters.__
 
 ---
 
-__Notes:__ 
+## Notes:  
 
 <a id="fn1">1</a>: And funny: check out the
 ["things I won't work with"](https://blogs.sciencemag.org/pipeline/archives/category/things-i-wont-work-with) 
