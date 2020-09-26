@@ -9,7 +9,7 @@ layout: default
     {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
     {% for tagname in sortedtagnames %}
-      {% assign tagpages = site.tags[tagname][1] %}
+      {% assign tagpages = site.tags[tagname] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
         {% for page in tagpages %}
