@@ -34,7 +34,7 @@ describes as "otium negotiosum".
 
 It may be that this blog will be a mad scramble of its own; it may be that it will be a satisfying, productive activity.  (["It may be that the gulfs shall wash us down... It may be we shall touch the Happy Isles"](https://www.poetryfoundation.org/poems/45392/ulysses%20Tennyson's%20_Ulysses_), as go the words Tennyson put in Ulysses' mouth upon his "retirement".)  
 
-<iframe width="373" height="210" src="https://www.youtube.com/embed/84vhdgqdubA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<iframe width="373" height="210" src="https://www.youtube.com/embed/84vhdgqdubA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 There are, of course, other options, as one of my wonderful French colleagues pointed out
 in Henri Salvador's brilliantly silly/sarcastic song, 
 [_Le travail c'est la santé_](https://fr.wikipedia.org/wiki/Le_travail_c%27est_la_sant%C3%A9) 
@@ -52,7 +52,7 @@ My favorite part is the last verse, learned while playing pétanque chez Club Me
 
 __Notes:__ <sup id="fn2a">[[2](#fn2)]</sup>  
 
-<iframe width="373" height="210" src="https://www.youtube.com/embed/Y05EGVYO-FQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<iframe width="373" height="210" src="https://www.youtube.com/embed/Y05EGVYO-FQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <a id="fn1">1</a>: Of course, you had it figured out PDQ that this wasn't the one in Brooklyn, right? [↩](#fn1a)  
 
 <a id="fn2">2</a>: Yes, this blog has footnotes.  Footnotes are your friends.  Get over it. [↩](#fn2a)  
