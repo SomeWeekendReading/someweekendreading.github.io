@@ -43,7 +43,7 @@ before whom we couldn't really reliably store blood for transfusion.
 * [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug)<sup id="fn2a">[[2](#fn2)]</sup>, 
 father of the "Green Revolution", new species of cereal grains which now feed most of humanity.  
 
-## Petrov and a Skepticism of Authority: Do What's Right, Not What's Asked  
+## Petrov and Healthy Skepticism of Authority: Do What's Right, Not What's Asked  
 
 Today is the anniversary of Petrov's decision not to follow orders that would almost
 certainly led to the extinction of humanity.  I first learned about the details of his
