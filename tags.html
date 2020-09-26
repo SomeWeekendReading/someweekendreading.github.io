@@ -5,13 +5,14 @@ layout: default
 <div class="post">
   <h1>Tags &amp; Posts Using Them</h1>
 
-    <!-- *** Sort tags alpha by tag name, sort posts for tag reverse chronological order. -->
+    <!-- List of tags in "natural" alphanumeric order.  Can this be made more elegant?  -->
     {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-    {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
-    {% for tagname in sortedtagnames %}
+
+    {% for tagname in  tagnames | split:',' | sort_natural %}
       {% assign tagpages = site.tags[tagname] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
+        <!-- *** These appear to be naturally in rev chron order; how to enforce that? -->
         {% for page in tagpages %}
           <li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}:</span> <a href="{{ page.url }}">{{ page.title }}</a>
               <br> {{ page.excerpt| strip_html }}
