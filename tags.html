@@ -12,7 +12,7 @@ layout: default
       <ul>
         {% for page in tagpages %}
           <li>{{ page.date | date: "%a %Y-%b-%d" }}: <a href="{{ page.url }}">{{ page.title }}</a>
-              <br> {{ page.description }}
+              <br> {{ page.excerpt| strip_html }}
           </li>
         {% endfor %}
       </ul>
