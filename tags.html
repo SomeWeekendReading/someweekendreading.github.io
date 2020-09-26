@@ -5,12 +5,6 @@ layout: default
 <div class="post">
   <h1>Tags &amp; Posts Using Them</h1>
 
-    <!-- *** Sort tags alpha by tag name, sort posts for tag reverse chronological order. -->
-    <!-- 
-    {% for tag in site.tags %}
-      {% assign tagname  = tag[0]%}
-      {% assign tagpages = tag[1] %}
-    -->
     {% for tagname in site.tags | first | sort %}
       {% assign tagpages = site.tags[tagname] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>

@@ -256,6 +256,11 @@ TODOs: These should be GitHub issues!
     Prob not working because tagpage.html assumes it can ref post.date, post.title, post.description
     An ordinary page has a title, but no date and no description?  Add to YML?  (didn't
     work either)
+    <!-- 
+    {% for tag in site.tags %}
+      {% assign tagname  = tag[0]%}
+      {% assign tagpages = tag[1] %}
+    -->
 
 *** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
     credentials on command line somehow?  (And then delete myself as a collaborator.)
