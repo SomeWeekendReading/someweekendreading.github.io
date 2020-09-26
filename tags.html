@@ -4,35 +4,17 @@ layout: default
 
 <div class="post">
   <h1>Tags</h1>
-    {% capture temptags %}
-      {% for tag in site.tags %}
-	{{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
-      {% endfor %}
-    {% endcapture %}
-
-    {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
-
-    {% for temptag in sortedtemptags %}
-      {% assign tagitems = temptag | split: '#' %}
-      {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-      <a href="/tag/{{ tagname }}"><span style="white-space: nowrap;"><code class="highligher-rouge">{{ tagname }}</code>&nbsp;</span></a>
-    {% endfor %}
-    <hr>
 
     <code>{{ site.tags}}</code>
 
     <hr>
 
-    <code>{{ sortedtemptags }}</code>
-
-    <hr>
-    
-    {% for temptag in sortedtemptags %}
-      {% assign tagitems = temptag | split: '#' %}
-      {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+    {% for tag in site.tags %}
+      {% assign tagname  = tag[0] %}
+      {% assign tagitems = tag[1] %}
       <a id="#{{ tagname }}"><strong>{{ tagname }}:</strong></a>
       <ul>
-        {% for item in tagitems %}
+        {% for page in tagitems %}
           <li>{{ page.date | date: "%a %Y-%b-%d" }}: <a href="{{ page.url }}">{{ page.title }}</a><br>
                 {{ page.description }}
           </li>
