@@ -19,11 +19,11 @@ layout: default
     {% endfor %}
     <hr>
 
-    {{ site.tags}}
+    <code>{{ site.tags}}</code>
 
     <hr>
 
-    {{ sortedtemptags }}
+    <code>{{ sortedtemptags }}</code>
     
     {% for temptag in sortedtemptags %}
       {% assign tagitems = temptag | split: '#' %}
