@@ -2,9 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-tags: About
+tags: About This Blog
 date: 2020-07-01
-description: About this site.
+description: What's this all about, then?
 ---
 
 ## Who?
@@ -67,6 +67,5 @@ Weekend Editor _never_ does anything fashionable.  It's almost a matter of _prin
 ## Contact
 
 Um... try the email link at the bottom of every page, maybe?  The comment feature on posts
-seems to be working, albeit clunkily (if you disable Javascript it will "work" but display
-some useless JSON when it's done, requiring use of the BACK button; also, the styles and
-sizes of the comment box are ridiculous).  
+seems to be working, albeit clunkily (e.g., if you disable Javascript it will "work" but display
+some useless JSON when it's done, requiring use of the BACK button).  

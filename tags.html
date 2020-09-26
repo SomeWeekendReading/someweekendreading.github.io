@@ -8,10 +8,10 @@ layout: default
     {% for tag in site.tags %}
       {% assign tagname  = tag[0] %}
       {% assign tagpages = tag[1] %}
-      <a id="{{ tagname }}"><strong>{{ tagname }}:</strong></a>
+      <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
         {% for page in tagpages %}
-          <li>{{ page.date | date: "%a %Y-%b-%d" }}: <a href="{{ page.url }}">{{ page.title }}</a>
+          <li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}</span>: <a href="{{ page.url }}">{{ page.title }}</a>
               <br> {{ page.excerpt| strip_html }}
           </li>
         {% endfor %}
@@ -19,4 +19,3 @@ layout: default
      {% endfor %}
 
 </div>
-
