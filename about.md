@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About This Blog
 permalink: /about/
-tags: About This Blog
+tags: About
 date: 2020-07-01
 description: What's this all about, then?
 ---

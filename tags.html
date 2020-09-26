@@ -1,24 +1,26 @@
 ---
 layout: default
+title: Tags &amp; Posts Using Them
+permalink: /tags/
+description: Index of tags to posts
 ---
 
 <div class="post">
-  <h1>Tags &amp; Posts Using Them</h1>
-    <!-- List of tags in "natural" alphanumeric order.  Can this be made more elegant?  -->
-    {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-    {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
+  <!-- List of tags in "natural" alphanumeric order.  Can this be made more elegant?  -->
+  {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+  {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
 
-    {% for tagname in sortedtagnames %}
-      {% assign tagpages = site.tags[tagname] %}
-      <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
-      <ul>
-        <!-- Have to assign to a separate variable first?! Can this be made more elegant? -->
-        {% assign sortedpages = tagpages | sort: 'date' | reverse %}
-        {% for page in sortedpages %}
-          <li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}:</span> <a href="{{ page.url }}">{{ page.title }}</a>
-              <br> {{ page.excerpt| strip_html }}
-          </li>
-        {% endfor %}
-      </ul>
-     {% endfor %}
+  {% for tagname in sortedtagnames %}
+    {% assign tagpages = site.tags[tagname] %}
+    <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
+    <ul>
+      <!-- Have to assign to a separate variable first?! Can this be made more elegant? -->
+      {% assign sortedpages = tagpages | sort: 'date' | reverse %}
+      {% for page in sortedpages %}
+	<li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}:</span> <a href="{{ page.url }}">{{ page.title }}</a>
+	    <br> {{ page.excerpt| strip_html }}
+	</li>
+      {% endfor %}
+    </ul>
+   {% endfor %}
 </div>
