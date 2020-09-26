@@ -7,8 +7,9 @@ layout: default
 
     <!-- List of tags in "natural" alphanumeric order.  Can this be made more elegant?  -->
     {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
 
-    {% for tagname in  tagnames | split:',' | sort_natural %}
+    {% for tagname in sortedtagnames %}
       {% assign tagpages = site.tags[tagname] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
