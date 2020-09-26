@@ -6,7 +6,7 @@ layout: default
   <h1>Tags &amp; Posts Using Them</h1>
 
     {% for tagname in site.tags | first | sort %}
-      {% assign tagpages = site.tags[tagname] %}
+      {% assign tagpages = site.tags[tagname][1] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
         {% for page in tagpages %}
