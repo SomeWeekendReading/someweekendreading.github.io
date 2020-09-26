@@ -13,8 +13,8 @@ layout: default
       {% assign tagpages = site.tags[tagname] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
-        <!-- *** These appear to be naturally in rev chron order; how to enforce that? -->
-        {% for page in tagpages %}
+        {% assign sortedpages = tagpages | sort: 'date' | reverse %}
+        {% for page in sortedpages %}
           <li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}:</span> <a href="{{ page.url }}">{{ page.title }}</a>
               <br> {{ page.excerpt| strip_html }}
           </li>
