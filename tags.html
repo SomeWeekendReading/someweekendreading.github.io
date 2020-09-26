@@ -13,6 +13,7 @@ layout: default
       {% assign tagpages = site.tags[tagname] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
+        <!-- Have to assign to a separate variable first?! Can this be made more elegant? -->
         {% assign sortedpages = tagpages | sort: 'date' | reverse %}
         {% for page in sortedpages %}
           <li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}:</span> <a href="{{ page.url }}">{{ page.title }}</a>
