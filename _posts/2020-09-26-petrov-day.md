@@ -13,8 +13,8 @@ world.  Go thou forth and do likewise: _save as much of the world as you can_.
 <a href="https://en.wikipedia.org/wiki/Stanislav_Petrov" target="_blank"><img src="{{site.baseurl }}/images/2020-09-26-petrov-day-portrait.jpg" width="300" height="390" alt="Petrov Day" title="Petrov Day" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Ozy [once wrote at _Thing of Things_](https://thingofthings.wordpress.com/2015/09/26/stanislav-petrov-day/) 
 inviting us to imagine a club in Heaven, called something like the _Billionaire's Club_.
-Not, of course, rich guys, because... eugh.  Rather, a club of people who have saved a
-billion human lives.  Can there be such a thing?  Who might be in such a club?  
+Not, of course, rich guys, because... eugh.  Rather, a club of people who have _saved a
+billion human lives._  Can there be such a thing?  Who might be in such a club?  
 
 Depending on your religious community, you might of course imagine your deity as club
 president (creating/redeeming humanity hath its perks).  But who else?  Ozy starts us off
