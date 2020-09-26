@@ -95,6 +95,8 @@ __References:__
 
 1. Ozy Brennan, ["Stanislav Petrov Day"](https://thingofthings.wordpress.com/2015/09/26/stanislav-petrov-day/), _Thing of Things_, 2015-Sep-26.
 
+1. Ozy Brennan, ["Petrov Day Ritual: Coronavirus Edition"](https://thingofthings.wordpress.com/2020/09/18/petrov-day-ritual-coronavirus-edition/), _Thing of Things_, 2020-Sep-18.
+
 1. Eliezer Yudkowsky, ["9/26 is Petrov Day"](https://www.lesswrong.com/posts/QtyKq4BDyuJ3tysoK/9-26-is-petrov-day), _Less Wrong_, 2007-Sep-26.
 
 1. Simon Burton-Jones, ["The Day the World Should Have Ended: Stanislav Petrov died in
