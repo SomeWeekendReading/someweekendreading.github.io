@@ -231,11 +231,13 @@ Notes on blogging tech.
 * DONE: Put last build time in footer, so I can tell if it rebuilt?
 
 * DONE: footer badges
+
 * DONE: HTML validation always looks at the front page, not the exact referer?  Looks like an
   HTTPS issue: https://validator.w3.org/docs/help.html#faq-referer
   So now using absolute URL, not referer... *sigh*
 
-* DONE: Combine all tags onto 1 page, make tag refs go to #tag on that page
+* DONE: Combine all tags onto 1 page, make tag refs go to #tag on that page.  Also, sort
+  tags by name, and posts for each tag in reverse chronological order.
 
 TODOs: These should be GitHub issues!
 
