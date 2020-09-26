@@ -243,7 +243,10 @@ TODOs: These should be GitHub issues!
 
 *** Test math: kramdown/mathjax?
     https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
-    
+
+*** Figure out how to add svg icons for home, about, tags, and sitemap to
+    _sass/_svg-icons.scss, and then use them in the nav bar.  Remove from footer.
+
 *** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
   - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
   - Also need to update RubyGems
