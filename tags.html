@@ -7,11 +7,9 @@ layout: default
 
     <!-- *** Sort tags alpha by tag name, sort posts for tag reverse chronological order. -->
     {% for tag in  site.tags %}
-      {% assign tagname  = tag[0] %}
-      {% assign tagpages = tag[1] %}
-      <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
+      <a id="{{ tag[0] }}"><h2>{{ tag[0] }}:</h2></a>
       <ul>
-        {% for page in tagpages %}
+        {% for page in tag[1] %}
           <li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}:</span> <a href="{{ page.url }}">{{ page.title }}</a>
               <br> {{ page.excerpt| strip_html }}
           </li>
