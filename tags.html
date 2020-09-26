@@ -5,7 +5,7 @@ layout: default
 <div class="post">
   <h1>Tags &amp; Posts Using Them</h1>
 
-    {% capture tagnames %}{% for tag in site.tags %}{{tag | first}}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
     {{ sortedtagnames }}
   
