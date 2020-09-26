@@ -231,15 +231,16 @@ Notes on blogging tech.
 * DONE: Put last build time in footer, so I can tell if it rebuilt?
 
 * DONE: footer badges
+* DONE: HTML validation always looks at the front page, not the exact referer?  Looks like an
+  HTTPS issue: https://validator.w3.org/docs/help.html#faq-referer
+  So now using absolute URL, not referer... *sigh*
 
 TODOs: These should be GitHub issues!
-
-*** HTML validation always looks at the front page, not the exact referer?  Looks like an
-    HTTPS issue: https://validator.w3.org/docs/help.html#faq-referer
 
 *** Test math: kramdown/mathjax?
     https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
     
+*** Combine all tags onto 1 page, make tag refs go to #tag on that page
 
 *** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
   - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
@@ -249,8 +250,6 @@ TODOs: These should be GitHub issues!
 3. Serve the site and watch for markup/sass changes `jekyll serve`
 4. View your website at https://127.0.0.1:4000/
 5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
-
-*** Combine all tags onto 1 page, make tag refs go to #tag on that page
 
 *** Make tags have # at front?  Or is that going to make them comments or something?
 
