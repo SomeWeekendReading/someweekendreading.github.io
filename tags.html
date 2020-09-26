@@ -5,15 +5,12 @@ layout: default
 <div class="post">
   <h1>Tags</h1>
 
-    <code>{{ site.tags}}</code>
-
-    <hr>
-
     {% for tag in site.tags %}
       {% assign tagname  = tag[0] %}
       {% assign tagitems = tag[1] %}
       <a id="#{{ tagname }}"><strong>{{ tagname }}:</strong></a>
       <ul>
+        <code>{{ tagitems }}</code>
         {% for page in tagitems %}
           <li>{{ page.date | date: "%a %Y-%b-%d" }}: <a href="{{ page.url }}">{{ page.title }}</a><br>
                 {{ page.description }}
