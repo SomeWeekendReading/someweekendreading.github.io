@@ -5,6 +5,15 @@ layout: default
 <div class="post">
   <h1>Tags &amp; Posts Using Them</h1>
 
+    <!-- <code> {{ site.tags | first | sort_natural }} </code> -->
+    {% capture tagnames %}
+      {% for tag in site.tags %}
+	{{tag | first}}{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    {% endcapture %}
+    {% assign tagnames = tagnames | split:',' | sort_natural %}
+    {{ tagnames }}
+  
     <!-- *** Sort tags alpha by tag name, sort posts for tag reverse chronological order. -->
     {% for tag in site.tags %}
       {% assign tagname  = tag[0]%}
