@@ -13,7 +13,7 @@ layout: default
       {% assign tagpages = site.tags[tagname] %}
       <a id="{{ tagname }}"><h2>{{ tagname }}:</h2></a>
       <ul>
-        {% assign sortedpages = tagpages | sort: 'date' | reverse %}
+        {% assign sortedpages = tagpages | sort: 'date'  %}
         {% for page in sortedpages %}
           <li><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}:</span> <a href="{{ page.url }}">{{ page.title }}</a>
               <br> {{ page.excerpt| strip_html }}
