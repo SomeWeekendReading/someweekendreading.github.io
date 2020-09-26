@@ -6,7 +6,7 @@ layout: default
   <h1>Tags &amp; Posts Using Them</h1>
 
     <!-- *** Sort tags alpha by tag name, sort posts for tag reverse chronological order. -->
-    <code> {{ site.tags | first | sort }} </code>
+    <!-- <code> {{ site.tags | first | sort }} </code> -->
 
     {% for tag in site.tags %}
       {% assign tagname  = tag[0]%}
