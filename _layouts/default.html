@@ -3,8 +3,9 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
-
+    {% include meta.html    %}
+    {% include mathjax.html %}
+    
     {% if site.tags != "" %}
       {% include collecttags.html %}
     {% endif %}

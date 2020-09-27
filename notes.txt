@@ -241,6 +241,8 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
+https://github.com/google/material-design-icons/tree/master/iconfont
+
 *** Test math: kramdown/mathjax?
     https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
 
