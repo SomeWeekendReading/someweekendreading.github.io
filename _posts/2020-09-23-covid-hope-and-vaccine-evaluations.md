@@ -66,8 +66,8 @@ that question, but... _o tempora, o mores_.)  The high points:
   else:__ People who tell you it's going to be like a measles vaccine, where you get
   near-perfect lifetime immunity, are either lying, ignorant, or stupid.  Listen to the
   experts who tell you about limitations, like
-  [_quantitative_](./2020-07-18-Lord-Kelvin-on-quantitative-knowledge.html) efficacy
-  rates.  
+  [_quantitative_]({{ site.baseurl }}/2020-07-18-Lord-Kelvin-on-quantitative-knowledge/) 
+  efficacy rates.  
 
 So... you _can_ engage your critical thinking skills to decide properly.  It's not _all_ a
 fireswamp of loud opinions.  __Science matters.__  
