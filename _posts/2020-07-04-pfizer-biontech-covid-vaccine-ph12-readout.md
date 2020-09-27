@@ -25,7 +25,7 @@ quick look through the paper for our purposes here, not at the ClinicalTrials.go
 
 ## Cautions &amp; Encouragements
 
-__Caution #1:__ MedRXiv, _in imitatione_ of the physics server [arxiv.org](arxiv.org), is
+__Caution #1:__ MedRXiv, _in imitatione_ of the physics server [arxiv.org](https://arxiv.org/), is
 a _preprint_ server.  That means it contains papers that have been written up and are
 being _proposed_ for publication and the required peer review.  They have _not_ yet been peer
 reviewed, and thus are suspect from the very start.  I've never published a paper that
