@@ -5,7 +5,7 @@ tags: SomebodyAskedMe COVID PharmaAndBiotech
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tag/#SomebodyAskedMe) (really it's the same "somebody" behind all of these) about the Moderna
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) (really it's the same "somebody" behind all of these) about the Moderna
 COVID vaccine phase 3 start.  Basically, it looks like the start of a reasonably designed
 Phase 3 trial: the beginning of a long slog to test safety &amp; efficacy.  
 

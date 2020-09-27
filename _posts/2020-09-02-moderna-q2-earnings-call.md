@@ -5,7 +5,7 @@ tags: SomebodyAskedMe COVID PharmaAndBiotech
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tag/#SomebodyAskedMe) (different "somebody" this
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) (different "somebody" this
 time, though the same subject) about the Moderna Q2 earnings call.  Do I look like I know the answer
 to questions like that?!  On close inspection, though, it looks like a python swallowing a
 pig: a smallish company tackling a _big_ problem with COVID vaccines.  
@@ -25,7 +25,7 @@ statements.  Nothing deeper than that, really.  And nothing less cynical.
 ## Quarterly Report to Analysts
 
 <img src="{{ site.baseurl }}/images/2020-09-02-moderna-q2-earnings-call-slide1.png" width="400" height="192" alt="Moderna 2020 Q2 Business Update Slide 1" title="Moderna 2020 Q2 Business Update Slide 1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> 
-Still... [somebody asked me]({{ site.baseurl }}/tag/#SomebodyAskedMe) "What do you think of
+Still... [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) "What do you think of
 [this](https://investors.modernatx.com/static-files/dc121fec-63eb-4794-a2fd-e0d3eadbaa6f)?"
 "This" turned out to be a fairly vanilla quarterly report to analysts.  Nearly every big
 company, especially public ones, and many small ones, do this.  The slides are heavily

@@ -5,7 +5,7 @@ tags: SomebodyAskedMe MathInTheNews Politics
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tag/#SomebodyAskedMe) about [this article in the _Boston Globe_ by Vernal Coleman](https://www.bostonglobe.com/2020/06/30/metro/boston-police-once-resembled-community-force-has-grown-whiter-city-becomes-more-diverse/)
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about [this article in the _Boston Globe_ by Vernal Coleman](https://www.bostonglobe.com/2020/06/30/metro/boston-police-once-resembled-community-force-has-grown-whiter-city-becomes-more-diverse/)
 on the racial makeup of the Boston Police Department: does it resemble the
 community it polices?  
 

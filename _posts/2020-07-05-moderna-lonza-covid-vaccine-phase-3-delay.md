@@ -5,7 +5,7 @@ tags: SomebodyAskedMe COVID PharmaAndBiotech
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tag/#SomebodyAskedMe) &mdash; same troublemakers, in case you're curious &mdash; about
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) &mdash; same troublemakers, in case you're curious &mdash; about
 whether the Moderna/Lonza Phase 1/2 vaccine trial looked reasonable and if the delay of
 Phase 3 start for a protocol amendment was reasonable.  Sure seems so!  No,
 it's not an investment signal.  
