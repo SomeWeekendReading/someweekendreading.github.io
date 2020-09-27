@@ -5,7 +5,7 @@ tags: Retirement Obscurantism NotableAndQuotable SomebodyAskedMe
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tag/SomebodyAskedMe), "What's your retirement plan?"  
+[Somebody asked me]({{ site.baseurl }}/tag/#SomebodyAskedMe), "What's your retirement plan?"  
 
 Why, to retire in the classical style, of course:  
 >__Otio qui nescit uti__  

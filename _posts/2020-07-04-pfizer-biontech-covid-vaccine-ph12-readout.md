@@ -5,7 +5,7 @@ tags: SomebodyAskedMe COVID PharmaAndBiotech
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tag/SomebodyAskedMe) what's in the Phase 1/2 readout of the Pfizer/BioNTech COVID vaccine.
+[Somebody asked me]({{ site.baseurl }}/tag/#SomebodyAskedMe) what's in the Phase 1/2 readout of the Pfizer/BioNTech COVID vaccine.
 Of course they wanted to know about the trial results, but they also wanted to know if it
 is an investment signal.  It is not.  
 
