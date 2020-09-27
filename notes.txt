@@ -246,6 +246,8 @@ https://github.com/google/material-design-icons/tree/master/iconfont
 *** Test math: kramdown/mathjax?
     https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
 
+*** add w3c link checks: https://validator.w3.org/checklink?uri=https%3A%2F%2Fwww.someweekendreading.blog%2F&hide_type=all&depth=&check=Check
+
 *** Figure out how to add svg icons for home, about, tags, and sitemap to
     _sass/_svg-icons.scss, and then use them in the nav bar.  Remove from footer.
     https://base64.guru/converter/encode/image/svg is good for base64-converting svg
