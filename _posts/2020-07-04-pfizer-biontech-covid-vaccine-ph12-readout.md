@@ -117,7 +117,7 @@ revenues (looks like about 10% of total revenues?).  People putting down money o
 taking a very long shot, and doing it for something that might affect a _fraction_ of the
 10% of Pfizer revenue from vaccines.  
 
-Also, nobody's going to make a bundle on this.  They're all going to have to give it away, pretty much.  Imagine what would happen to a pharma company that wanted to charge $2k/person for a vaccine, in a world with 8 billion people many of whom are poor?  They'd lose their corporate charter more or less immediately, or face nationalization.  (BTW, Gilead is charging $3k/patient for remdesivir, which only shortens the hospitalization of the most severe patients by 4 days, and does not affect death rates at all.  I wonder if Gilead will survive the storm that is sure to cause?  Or if governments will invoke the "compulsory licensing" provisions in law to just take it away?  Vaccine makers are, trust me, _not unaware of this._)
+Also, nobody's going to make a bundle on this.  They're all going to have to give it away, pretty much.  Imagine what would happen to a pharma company that wanted to charge \\$2k/person for a vaccine, in a world with 8 billion people many of whom are poor?  They'd lose their corporate charter more or less immediately, or face nationalization.  (BTW, Gilead is charging \\$3k/patient for remdesivir, which only shortens the hospitalization of the most severe patients by 4 days, and does not affect death rates at all.  I wonder if Gilead will survive the storm that is sure to cause?  Or if governments will invoke the "compulsory licensing" provisions in law to just take it away?  Vaccine makers are, trust me, _not unaware of this._)
 
 ---
 

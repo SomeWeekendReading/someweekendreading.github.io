@@ -241,7 +241,9 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
-https://github.com/google/material-design-icons/tree/master/iconfont
+*** https://github.com/google/material-design-icons/tree/master/iconfont
+
+*** Test links.  Look for $ to make sure they're adequately escaped, if not math!
 
 *** Test math: kramdown/mathjax?
     https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
