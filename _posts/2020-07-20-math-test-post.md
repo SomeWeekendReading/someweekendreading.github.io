@@ -29,4 +29,15 @@ G_t&=R_{t+1}+\gamma R_{t+2}+\gamma^2 R_{t+3}+\gamma^3 R_{t+4}+...\\
 \end{aligned}
 \end{multline}$$  
 
+Oh, Maxwell...  
+
+$$
+\begin{align}
+  \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &= \frac{4\pi}{c}\vec{\mathbf{j}} \\
+  \nabla\cdot\vec{\mathbf{E}} &= 4\pi\rho \\
+  \nabla\times\vec{\mathbf{E}}+\frac{1}{c}\frac{\partial\vec{\mathbf{B}}}{\partial t} &= \vec{\mathbf{0}} \\
+  \nabla\cdot\vec{\mathbf{B}} &= 0
+\end{align}
+$$
+
 ![Hmpf.]({{ site.baseurl }}/images/hmpf.png)
