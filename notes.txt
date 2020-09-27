@@ -239,16 +239,19 @@ Notes on blogging tech.
 * DONE: Combine all tags onto 1 page, make tag refs go to #tag on that page.  Also, sort
   tags by name, and posts for each tag in reverse chronological order.
 
+* DONE: Test math: kramdown/mathjax?
+    https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
+
+* DONE: add w3c link checks: 
+  https://validator.w3.org/checklink?uri=https%3A%2F%2Fwww.someweekendreading.blog%2F&hide_type=all&depth=&check=Check
+
 TODOs: These should be GitHub issues!
 
 *** https://github.com/google/material-design-icons/tree/master/iconfont
 
+*** Get favicon working in Chrome (already works in Firefox & Safari).
+
 *** Test links.  Look for $ to make sure they're adequately escaped, if not math!
-
-*** Test math: kramdown/mathjax?
-    https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
-
-*** add w3c link checks: https://validator.w3.org/checklink?uri=https%3A%2F%2Fwww.someweekendreading.blog%2F&hide_type=all&depth=&check=Check
 
 *** Figure out how to add svg icons for home, about, tags, and sitemap to
     _sass/_svg-icons.scss, and then use them in the nav bar.  Remove from footer.
