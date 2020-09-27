@@ -9,6 +9,7 @@ Just seeing if I can make the math typesetting work.  Nothing to see here, kid..
 along.  
 
 <!-- https://intuitive-theory.com/jekyll-styling-syntax/ -->
+<!-- https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/ -->
 
 Inline equation: $f(x) = \frac{1}{sqrt(2\pi)} e^{-x^2 / 2}$  
 
@@ -38,6 +39,14 @@ $$
   \nabla\times\vec{\mathbf{E}}+\frac{1}{c}\frac{\partial\vec{\mathbf{B}}}{\partial t} &= \vec{\mathbf{0}} \\
   \nabla\cdot\vec{\mathbf{B}} &= 0
 \end{align}
+$$
+
+$$
+\begin{align*}
+  \dot{x} &= \sigma(y - x) \\
+  \dot{y} &= \rho x - y - xz \\
+  \dot{z} &= -\beta z + xy
+\end{align*}
 $$
 
 ![Hmpf.]({{ site.baseurl }}/images/hmpf.png)
