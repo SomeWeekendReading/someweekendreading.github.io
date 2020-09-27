@@ -246,6 +246,8 @@ TODOs: These should be GitHub issues!
 
 *** Figure out how to add svg icons for home, about, tags, and sitemap to
     _sass/_svg-icons.scss, and then use them in the nav bar.  Remove from footer.
+    https://base64.guru/converter/encode/image/svg is good for base64-converting svg
+    files; be sure to select Output Format = CSS Background Image -- backgrond-image:url()
 
 *** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
   - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
