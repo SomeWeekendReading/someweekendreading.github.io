@@ -49,7 +49,7 @@ Ok, enough _story_.
 Do the _data_ give us any guidance as to what to think about that story?  So here's what we _know_:  
 
 * The venerable _Globe_'s chart tells us the current BPD officers are 65.4% white.  
-* [Wikipedia on the BPD](https://en.wikipedia.org/wiki/Boston_Police_Department#:~:text=The%20Boston%20Police%20Department%20has,and%20a%20population%20of%20617%2C594.) tells us they have 2015 officers.  
+* [Wikipedia on the BPD](https://en.wikipedia.org/wiki/Boston_Police_Department#Departmental_organization:~:text=The%20Boston%20Police%20Department%20has,and%20a%20population%20of%20617%2C594.) tells us they have 2015 officers.  
 * The [census data on Boston](https://www.census.gov/quickfacts/bostoncitymassachusetts) tells us city has 692,600 residents, of whom 52.6% are white.  
 
 So our research question is: is 65.4% of BPD being white significantly different from
