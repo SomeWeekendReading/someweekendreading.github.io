@@ -241,22 +241,25 @@ Notes on blogging tech.
 
 * DONE: Test math: kramdown/mathjax?
     https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
+  Also escaped existing $ characters.
 
-* DONE: add w3c link checks: 
+* DONE: add w3c link checks: n
   https://validator.w3.org/checklink?uri=https%3A%2F%2Fwww.someweekendreading.blog%2F&hide_type=all&depth=&check=Check
+
+* DONE: Get favicon working in Chrome (already works in Firefox & Safari).
+    Changed to 48x48, cleared history, restarted Chrome.
+
+* DONE: Put footer icons at the TOP of the page, RHS opposite the permalinks?
+
+* DONE: Figure out how to add svg icons for home, about, tags, and sitemap to
+    _sass/_svg-icons.scss, and then use them in the nav bar.  Remove from footer.
+    https://base64.guru/converter/encode/image/svg is good for base64-converting svg
+    files; be sure to select Output Format = CSS Background Image -- backgrond-image:url()
+  But... Home and Sitemap icons not showing!
 
 TODOs: These should be GitHub issues!
 
 *** https://github.com/google/material-design-icons/tree/master/iconfont
-
-*** Get favicon working in Chrome (already works in Firefox & Safari).
-
-*** Test links.  Look for $ to make sure they're adequately escaped, if not math!
-
-*** Figure out how to add svg icons for home, about, tags, and sitemap to
-    _sass/_svg-icons.scss, and then use them in the nav bar.  Remove from footer.
-    https://base64.guru/converter/encode/image/svg is good for base64-converting svg
-    files; be sure to select Output Format = CSS Background Image -- backgrond-image:url()
 
 *** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
   - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
@@ -287,28 +290,21 @@ TODOs: These should be GitHub issues!
 *** Google Analytics & AdSense, once we have some readers
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
 
-*** Comments: make assets/main.scss.txt work
+*** Comments: make assets/main.scss.txt work?
 
-*** Figure out themes, and make my stuff a theme.  Maybe use MinimalMistakes?
+*** Figure out themes, and make my stuff a theme.  Maybe use MinimalMistakes?  Or duplicate it?
+*** Clean up CSS in general
+*** Fiddle with font sizes to make everything more compressed
 
-*** Put footer icons at the TOP of the page, RHS opposite the permalinks?
+*** Add a side table of tags, maybe a word cloud
 
-*** R script to gather all tags, make associated .md files
-*** Add a side table of hashtags, maybe a word cloud, instead of list @ bottom?
 *** Convert sitemap to an HTML page & permalink it?
 
 *** Copyright notice on each page?
 
 *** Read Pro GIT
 
-*** footer badges: clean up appearance with css
-
-*** Footer badges: clean up generated  HTML so it passes validation
-
-*** Fiddle with font sizes to make everything more compressed
-
 *** Verify that mail account is still forwarding emails to me... seems not?
-
 *** mailto: link doesn't work?  (Both Firefox and Chrome; in Safari clicks on the mailto
     link cause the browser to bury itself and do nothing.)  Reloaded GMail, it asked to be
     allowed to open mail links which I allowed, and now it works?!
