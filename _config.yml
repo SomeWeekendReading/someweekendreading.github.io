@@ -8,6 +8,7 @@ description: Occasional tart thoughts of a grumpy old retired scientist, your hu
 
 ## NB: changed usage of site.avatar in _layouts/default.html to prepend {{ site.baseurl }}/ to this.
 ## Any other uses will have to do the same, e.g., a link/rel/icon in the meta section.
+## Also added shrunk version for favicon purposes.
 avatar: images/root-fractal-1000.png
 icon:   images/root-fractal-1000-icon.png
 
