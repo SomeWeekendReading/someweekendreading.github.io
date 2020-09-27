@@ -15,11 +15,11 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" 
-          href="{{ site.baseurl }}/style.css" />
+          href="{{ site.baseurl  | absolute_url }}/style.css" />
     <link rel="alternate" type="application/rss+xml" 
-          title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+          title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl | absolute_url }}/feed.xml" />
     <link rel="icon" type="image/png" 
-          href="{{ site.baseurl }}/{{ site.icon }}"> 
+          href="{{ site.baseurl  | absolute_url }}/{{ site.icon }}"> 
 
   </head>
 
@@ -48,7 +48,8 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <p>Icon: {{ site.baseurl }}/{{ site.icon }}</p>
+      <p>Icon: {{ site.baseurl  | absolute_url }}/{{ site.icon }}</p>
+      <p>Feed: {{ site.baseurl | absolute_url }}/feed.xml </p>
       {{ content }}
     </div>
 
