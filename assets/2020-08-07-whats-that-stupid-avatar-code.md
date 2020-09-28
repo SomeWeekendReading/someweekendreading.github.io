@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code for \"What\'s that stupid avatar?\"
+title: Code for &quot;What&apos;s that stupid avatar?&quot;
 tags: SomebodyAskedMe About R
 date: 2020-08-07
 comments: false
