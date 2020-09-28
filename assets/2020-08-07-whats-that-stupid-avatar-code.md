@@ -2,7 +2,8 @@
 layout: post
 title: Code for "What's that stupid avatar?"
 tags: SomebodyAskedMe About R
-comments: true
+date: 2020-08-07
+comments: false
 ---
 
 Here's the script `root-fractal.r` for the post:
