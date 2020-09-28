@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code for &quot;What&apos;s that stupid avatar?&quot;
-tags: SomebodyAskedMe About R
+tags: SomebodyAskedMe About R Math
 date: 2020-08-07
 comments: false
 ---
@@ -164,5 +164,4 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
 ## 6  500  57.99  59.4032132  -2.4369946
 ## 7 1000 255.33 255.0412611   0.1130846
 ##
-
 ```

@@ -271,9 +271,12 @@ Notes on blogging tech.
 * DONE: How to add R code, served as a separate page? Put it in the assets dir?  Maybe as an
     .md file, but with code typeset?  Then refer to it in the references? :-)
   NB: .md files in assets/ must have a date: field in the YML frontmatter, and should
-  have comments turned off.
+  have comments turned off.  Also, escape quotes in title with &quot; and &apos;.
 
 TODOs: These should be GitHub issues!
+
+*** Tags aren't working in .md files in /assets/ (all 1 tag, as revealed by HTML checker:
+    <a href="/tags/#SomebodyAskedMe About R">
 
 *** Figure out how to self-host the material icons
     https://github.com/google/material-design-icons/tree/master/font
