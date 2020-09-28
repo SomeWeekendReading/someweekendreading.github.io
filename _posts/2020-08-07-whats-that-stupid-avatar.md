@@ -44,12 +44,16 @@ place.  (Or, in our case, one of the 3 places above.)
 
 ## Nature is _Not_ Kind
 
-<img src="{{ site.baseurl }}/images/2020-08-07-whats-that-stupid-avatar-expected.png" width="300" height="300" alt="Expected basins of attraction" title="Expected basins of attraction" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2020-08-07-whats-that-stupid-avatar-expected.png" width="200" height="200" alt="Expected basins of attraction" title="Expected basins of attraction" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 That sort of thinking is illustrated here.  You might hope that wherever in the complex
 $z$ plane you pick as your initial guess, you'd converge to the nearest root.  Thus we
 expect 3 basins of attraction: initial guesses in the red zone converge to $1$, those in
 the green zone converge to $e^{2 \pi i / 3}$, and those in the blue zone converge to $e^{4
-\pi i / 3}$.  
+\pi i / 3}$.  If the world were really that simple, _it would not matter_ where you
+started out, because you'd surely &amp; predictably end up at the nearest root.  Nifty,
+no?  
 
 <img src="{{ site.baseurl }}/images/root-fractal-1000.png" width="300" height="300" alt="Actual basins of attraction" title="Actual basins of attraction" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Alas, this is _not_ what actually happens!  
+Alas, this is _not_ what actually happens!  What actually happens is illustrated in the
+second figure.  As before, teh red, green, and blue zones converge to the same roots we
+predicted above.  But take a look at the boundaries!  
