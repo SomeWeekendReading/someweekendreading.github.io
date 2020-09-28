@@ -95,4 +95,4 @@ as it is sometimes pretentiously called:
 >for they are already enduring it.  
 > -- Eugene Gendlin
 
-The world is complicated; rather than pretending we can ignore it, we should engage it.  
+The world is complicated; rather than pretending we can ignore the complexity, we should engage it.  
