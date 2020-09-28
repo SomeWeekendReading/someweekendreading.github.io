@@ -84,7 +84,7 @@ can sometimes tease them apart with analysis, mathematics, and patience.  What w
 do is just ignore the complexity and hope it will go away.  We have to cope with it, and
 since it's built in down at the keel-blocks of the wold in which we live, we cannot escape
 it.  This is th spirit of the "Litany of [Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)",
-as it is sometimes pretentiously called:  
+as it is sometimes (pretentiously) called:  
 
 >What is true is already so.  
 >Owning up to it doesn't make it worse.  
