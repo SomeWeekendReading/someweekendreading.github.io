@@ -132,6 +132,15 @@ Notes on blogging tech.
     - We're indexed!  A search for "Occasional tart thoughts of a grumpy old retired
       scientist, your humble Weekend Editor." came up with the page.
 
+    * Check your XML Sitemap is on your server and the URL loads (or use a sitemap testing
+      tool, of which there are many). Usually, you upload your sitemap.xml file to the
+      root directory of your website. It’s quite normal to have it located at:
+      https://mywebsite.com/sitemap.xml
+    * Log in to Search Console
+    * Under “Crawl,” choose “Sitemaps”
+    * Click “Add/Test Sitemap”
+    * Enter the URL of the sitemap and click “Submit Sitemap”
+
 * DONE: To clear history (but also remove myself as collaborator, and use personal access token!)
     ## Delete all the old history in local clone
     rm -rf .git
@@ -257,9 +266,13 @@ Notes on blogging tech.
     files; be sure to select Output Format = CSS Background Image -- backgrond-image:url()
   But... Home and Sitemap icons not showing!
 
+* DONE: using google material icons
+
 TODOs: These should be GitHub issues!
 
-*** https://github.com/google/material-design-icons/tree/master/iconfont
+*** Figure out how to self-host the material icons
+    https://github.com/google/material-design-icons/tree/master/font
+    https://google.github.io/material-design-icons/#icon-font-for-the-web
 
 *** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
   - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
@@ -295,10 +308,9 @@ TODOs: These should be GitHub issues!
 *** Figure out themes, and make my stuff a theme.  Maybe use MinimalMistakes?  Or duplicate it?
 *** Clean up CSS in general
 *** Fiddle with font sizes to make everything more compressed
-
 *** Add a side table of tags, maybe a word cloud
 
-*** Convert sitemap to an HTML page & permalink it?
+*** Convert sitemap to an HTML page & permalink it?  put it also in nav bar?
 
 *** Copyright notice on each page?
 
