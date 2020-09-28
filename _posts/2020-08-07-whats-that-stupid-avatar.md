@@ -15,9 +15,9 @@ roots distributed equally about the unit circle:
 
 $$
 \begin{align*}
-  z &=& 1               \\
-  z &=& e^{2 \pi i / 3} \\
-  z &=& e^{4 \pi i / 3} \\
+  z &= 1               \\
+  z &= e^{2 \pi i / 3} \\
+  z &= e^{4 \pi i / 3} \\
 \end{align*}
 $$
 
