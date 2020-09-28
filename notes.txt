@@ -270,6 +270,8 @@ Notes on blogging tech.
 
 * DONE: How to add R code, served as a separate page? Put it in the assets dir?  Maybe as an
     .md file, but with code typeset?  Then refer to it in the references? :-)
+  NB: .md files in assets/ must have a date: field in the YML frontmatter, and should
+  have comments turned off.
 
 TODOs: These should be GitHub issues!
 

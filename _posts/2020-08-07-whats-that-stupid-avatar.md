@@ -83,7 +83,7 @@ That's why this blog uses it as a logo: the world can be complex in its details,
 can sometimes tease them apart with analysis, mathematics, and patience.  What we _cannot_
 do is just ignore the complexity and hope it will go away.  We have to cope with it, and
 since it's built in down at the keel-blocks of the wold in which we live, we cannot escape
-it.  This is th spirit of the "Litany of [Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)",
+it.  This is the spirit of the "Litany of [Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)",
 as it is sometimes (pretentiously) called:  
 
 >What is true is already so.  
