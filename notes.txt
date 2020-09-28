@@ -351,6 +351,8 @@ Blog posts:
   "using a model effectively is harder than just doing the math"
   "But people turn out to be really, really complicated. And even seven months later, that’s a lesson we’re still struggling to learn."
 * M&Ms and the multinomial distribution
+* Droste effect (continuing the chocolate theme)
+* Chocolate phase diagram
 * Are corporate bonds like treasuries + stock?  (Specific stock or total market?  Best diversifier?)
 * Continued fraction expansion of probability distributions
 * Rational polynomial models of the treasury yield curve

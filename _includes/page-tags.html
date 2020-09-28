@@ -1,0 +1,6 @@
+  <span>Tagged:
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tags/#{{ tag_name }}">&nbsp;<code class="highligher-rouge">{{ tag_name }}</code></a>
+    {% endfor %}
+  </span>
