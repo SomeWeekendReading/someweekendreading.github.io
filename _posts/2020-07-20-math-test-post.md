@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Math test post
-tags: About Obscurantism
+tags: About Obscurantism Math
 comments: true
 ---
 
