@@ -18,5 +18,6 @@ $$
   z &=& 1               \\
   z &=& e^{2 \pi i / 3} \\
   z &=& e^{4 \pi i / 3} \\
-\end{align}
+\end{align*}
 $$
+
