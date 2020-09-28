@@ -59,7 +59,7 @@ version: v4.1.1
 
 ## Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
-  ## Use GitHub flavored markdown, including triple backtick fenced code blocks
+  ## Use GitHub Flavored Markdown, including triple backtick fenced code blocks
   input: GFM
   ## Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
@@ -69,7 +69,7 @@ kramdown:
 
 ## Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :expanded
+  style: :compressed # Some might prefer using :expanded?
 
 ## Use the following plug-ins
 gems:
@@ -93,12 +93,9 @@ exclude:
 ##  ${bridge_app_name}: the name you chose in Heroku for your bridge API
 ##  comments: the so-called property, this defines the key in staticman.yml where the configuration
 ##  is found
-##
-## for me, this line reads:
-## https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
 staticman_url: https://staticman-someweekendreading.herokuapp.com/v2/entry/SomeWeekendReading/someweekendreading.github.io/master/comments
 
-## reCaptcha configuration info: the exact same site key and *encrypted* secret that you
+## Configuration info for reCaptcha: the exact same site key and *encrypted* secret that you
 ## used in staticman.yml I personally don't think the secret needs to be included in the
 ## generated site, but the staticman API bridge uses it to ensure the site configuration
 ## and bridge configuration match (but why not just compare the site key?)

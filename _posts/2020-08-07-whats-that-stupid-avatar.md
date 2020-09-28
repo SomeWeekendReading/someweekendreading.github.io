@@ -93,7 +93,7 @@ as it is sometimes (pretentiously) called:
 >Anything untrue isn't there to be lived.  
 >People can stand what is true,  
 >for they are already enduring it.  
-> -- Eugene Gendlin
+> &mdash; Eugene Gendlin
 
 The world is complicated; rather than pretending we can ignore the complexity, we should engage it.  
 
