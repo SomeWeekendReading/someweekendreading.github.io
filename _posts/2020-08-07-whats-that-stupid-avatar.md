@@ -11,8 +11,8 @@ look closely enough.  And sometimes even if you don't!
 
 ## The question  
 
-Suppose you want to look for the cube roots of unity in the complex $z$ plane.  That is,
-you're looking for the roots of a simple polynomial function $f(z) = z^3 - 1 = 0$.  The
+Suppose you want to look for the cube roots of unity in the complex $z$ plane.<sup id="fn1a">[[1](#fn1)]</sup>
+That is,you're looking for the roots of a simple polynomial function $f(z) = z^3 - 1 = 0$.  The
 answer is pretty simple; there are 3 roots distributed equally about the unit circle:
 
 $$
@@ -96,3 +96,14 @@ as it is sometimes (pretentiously) called:
 > -- Eugene Gendlin
 
 The world is complicated; rather than pretending we can ignore the complexity, we should engage it.  
+
+---
+
+## Notes:  
+
+<a id="fn1">1</a>: This particular example is not original to me.  I found it via Steven
+Strogatz, who in turn provides more extensive references. [↩](#fn1a)  
+
+## References  
+
+1. S Strogatz, ["Finding Your Roots"](http://opinionator.blogs.nytimes.com/2010/03/07/finding-your-roots/), _NYT Opinionator_, 2010-Mar-07.  
