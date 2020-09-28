@@ -47,9 +47,9 @@ of the 3 places above.)  So: do you think Nature is kind?
 
 ## Nature is _not_ kind
 
-<figure style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000; width: 250">
+<figure style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000; display: inline-block">
   <img src="{{ site.baseurl }}/images/2020-08-07-whats-that-stupid-avatar-expected.png" width="200" height="200" alt="Expected basins of attraction" title="Expected basins of attraction"  style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-  <figcaption>Fig. 1: Expected basins of attraction for Newton root-finding on $f(z) = z^3 - 1$</figcaption>
+  <figcaption><em>Fig. 1:</em> Expected basins of attraction for Newton root-finding on $f(z) = z^3 - 1$</figcaption>
 </figure>
 That sort of thinking is illustrated here.  You might hope that wherever in the complex
 $z$ plane you pick as your initial guess, you'd converge to the nearest root.  Thus we
