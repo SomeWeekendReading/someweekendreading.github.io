@@ -283,6 +283,9 @@ TODOs: These should be GitHub issues!
 4. View your website at https://127.0.0.1:4000/
 5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
+*** How to add R code, served as a separate page? Put it in the assets dir?  Maybe as an
+    .md file, but with code typeset?  Then refer to it in the references? :-)
+
 *** Make tag collection scan non-post files like about.md, and 404.md.
     *** 1st attempt not working:
     Prob not working because tagpage.html assumes it can ref post.date, post.title, post.description
