@@ -63,11 +63,27 @@ Alas, this is _not_ what actually happens!  What actually happens is illustrated
 second figure.  As before, the red, green, and blue basins converge to $1$, $e^{2 \pi i /
 3}$, and $e^{4 \pi i / 3}$, respectively, as we predicted above.  But take a look at those
 lovely, fractal boundaries!  And we're not zoomed in here to some absurd level where we're
-looking at numerical roundoff: the horizontal and vertical extents are $[-1, +1]$.
+looking at numerical roundoff: the horizontal and vertical extents are $[-1, +1]$.  
+
+You can't cross from red to green without encountering blue.  In fact, you can't cross from
+any color to any other color without encountering the third color.  Think about what that
+means recursively: you can never cross a simple border, because if you zoom in on the
+border you'll see that it's infinite numbers borders with colors interposing between each
+other, forever.  _You can never have a simple border between these basins of attraction._  
+
+So our hapless undergrad could pick an initial guess in the blue zone at the upper right,
+and end up converged to the blue root in the lower left &mdash; the root that is
+_maximally distant_ from the initial guess.  Sometimes, you really have to understand
+where to start, and in some detail.  
 
 ## So... cope with it!  
 
-Litany of [Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)
+That's why this blog uses it as a logo: the world can be complex in its details, but we
+can sometimes tease them apart with analysis, mathematics, and patience.  What we _cannot_
+do is just ignore the complexity and hope it will go away.  We have to cope with it, and
+since it's built in down at the keel-blocks of the wold in which we live, we cannot escape
+it.  This is th spirit of the "Litany of [Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)",
+as it is sometimes pretentiously called:  
 
 >What is true is already so.  
 >Owning up to it doesn't make it worse.  
@@ -76,3 +92,6 @@ Litany of [Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)
 >Anything untrue isn't there to be lived.  
 >People can stand what is true,  
 >for they are already enduring it.  
+> -- Eugene Gendlin
+
+The world is complicated; rather than pretending we can ignore it, we should engage it.  
