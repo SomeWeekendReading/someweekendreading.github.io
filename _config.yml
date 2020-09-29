@@ -4,7 +4,7 @@
 
 ## Name of site & short description (displayed in the header)
 name: Some Weekend Reading
-description: Occasional tart thoughts from a grumpy old retired scientist, your humble Weekend Editor.
+description: Occasional tart thoughts of a grumpy old retired scientist, your humble Weekend Editor.
 
 ## NB: changed usage of site.avatar in _layouts/default.html to prepend {{ site.baseurl }}/ to this.
 ## Any other uses will have to do the same, e.g., a link/rel/icon in the meta section.
