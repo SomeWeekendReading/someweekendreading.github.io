@@ -64,6 +64,8 @@ institutional decay and bias for destruction.  We could have controlled the pand
 thought instead that some triviality was more important.  We desperately need to organize
 our societies so their default action is to build, not destroy.  
 
+Petrov died in 2017 at age 77.  NPR (reference 5) has a nice obituary.  
+
 ## Celebration
 
 Today in the "rationalist community"<sup id="fn3a">[[3](#fn3)]</sup> surrounding
@@ -100,9 +102,11 @@ lives.  Like all such attempts, they have their good days and bad days.  See, e.
 
 1. Ozy Brennan, ["Stanislav Petrov Day"](https://thingofthings.wordpress.com/2015/09/26/stanislav-petrov-day/), _Thing of Things_, 2015-Sep-26.
 
-1. Ozy Brennan, ["Petrov Day Ritual: Coronavirus Edition"](https://thingofthings.wordpress.com/2020/09/18/petrov-day-ritual-coronavirus-edition/), _Thing of Things_, 2020-Sep-18.
+2. Ozy Brennan, ["Petrov Day Ritual: Coronavirus Edition"](https://thingofthings.wordpress.com/2020/09/18/petrov-day-ritual-coronavirus-edition/), _Thing of Things_, 2020-Sep-18.
 
-1. Eliezer Yudkowsky, ["9/26 is Petrov Day"](https://www.lesswrong.com/posts/QtyKq4BDyuJ3tysoK/9-26-is-petrov-day), _Less Wrong_, 2007-Sep-26.
+3. Eliezer Yudkowsky, ["9/26 is Petrov Day"](https://www.lesswrong.com/posts/QtyKq4BDyuJ3tysoK/9-26-is-petrov-day), _Less Wrong_, 2007-Sep-26.
 
-1. Simon Burton-Jones, ["The Day the World Should Have Ended: Stanislav Petrov died in
+4. Simon Burton-Jones, ["The Day the World Should Have Ended: Stanislav Petrov died in
    September 2017. Raise a glass to him. You owe him your life."](http://www.simonburton-jones.com/JUST%20SEEN/The%20day%20The%20World%20Should%20Have%20Ended%20SEP2017.html), _Just Seen_, 2017-Sep.  Burton-Jones is the Bishop of Tonbridge in the Church of England.
+
+5. G Myre, ["Stanislav Petrov, 'The Man Who Saved The World,' Dies At 77"](https://www.npr.org/sections/thetwo-way/2017/09/18/551792129/stanislav-petrov-the-man-who-saved-the-world-dies-at-77), _NPR: The Two-Way_, 2018-Sep-18.

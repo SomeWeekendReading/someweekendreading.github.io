@@ -73,7 +73,7 @@ fireswamp of loud opinions.  __Science matters.__
 
 ---
 
-## Notes:  
+## Notes  
 
 <a id="fn1">1</a>: And funny: check out the
 ["things I won't work with"](https://blogs.sciencemag.org/pipeline/archives/category/things-i-wont-work-with) 
