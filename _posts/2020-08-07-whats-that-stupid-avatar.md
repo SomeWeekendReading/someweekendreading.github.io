@@ -43,7 +43,9 @@ _cannot_ trust the output of the numerical method.
 
 If Nature were kind, you could guess anything you like.  Bad guesses might converge more
 slowly than good ones, but they'd all converge to the same place.  (Or, in our case, one 
-of the 3 places above.)  So: do you think Nature is kind?  
+of the 3 places above.)  
+
+So: do you think Nature is kind?  
 
 ## Nature is _not_ kind
 
