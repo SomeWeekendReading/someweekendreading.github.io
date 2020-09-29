@@ -102,7 +102,7 @@ The world is complicated; rather than pretending we can ignore the complexity, w
 ## Notes  
 
 <a id="fn1">1</a>: This particular example is not original to me.  I found it via Steven
-Strogatz, who in turn provides more extensive references. [↩](#fn1a)  
+Strogatz (reference 1), who in turn provides more extensive references. [↩](#fn1a)  
 
 ## References  
 
