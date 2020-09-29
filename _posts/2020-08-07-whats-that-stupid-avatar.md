@@ -82,7 +82,7 @@ where to start, and in some detail.
 That's why this blog uses it as a logo: the world can be complex in its details, but we
 can sometimes tease them apart with analysis, mathematics, and patience.  What we _cannot_
 do is just ignore the complexity and hope it will go away.  We have to cope with it, and
-since it's built in down at the keel-blocks of the wold in which we live, we cannot escape
+since it's built in down at the keel-blocks of reality, we cannot escape
 it.  This is the spirit of the "Litany of [Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)",
 as it is sometimes (pretentiously) called:  
 

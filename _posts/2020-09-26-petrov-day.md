@@ -60,8 +60,8 @@ with the system that would have ended the world.  Or as Eliezer put it:
 
 Petrov is a hero who should never have needed to show his heroism, but for being
 surrounded by institutional failure.  In today's pandemic, we face similar levels of
-institutional decay and bias for destruction.  We could have controlled the pandemic; we
-thought instead that some triviality was more important.  We desperately need to organize
+institutional decay and bias for destruction.  We could have controlled the COVID-19 pandemic; we
+thought instead that some triviality or other was more important.  We desperately need to organize
 our societies so their default action is to build, not destroy.  
 
 Petrov died in 2017 at age 77.  NPR (reference 5) has a nice obituary.  
