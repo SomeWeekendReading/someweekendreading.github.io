@@ -378,7 +378,7 @@ Blog posts:
 * Blogging infrastructure: Github, Jekyll, Staticman, Heroku, Github Pages, ... Oh, my!
 * A rebalancing chi-square test: when is my portfolio REALLY in need of rebalancing?
 * Eulenspieglia: the Merry Prankster Muse, or Through the Owl Mirror
-* Michel de Montaigne, or: How to Freak Out French Teennagers with Your Beach Reading at Club Med
+* Michel de Montaigne: The Ur-Blogger, Or: How to Freak Out French Teennagers with Your Beach Reading at Club Med
 * The smartest people in the room
 * The requisite post on monads
 * Psychotherapy and machine learning: how much corrective experience is required for change?
