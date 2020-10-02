@@ -1,0 +1,8 @@
+_id: 220b6780-0328-11eb-b7e1-11c2dd88aad6
+_parent: 'https://www.someweekendreading.blog/whats-that-stupid-avatar/'
+replying_to_uid: ''
+message: "Fractal boundaries: consider this .\r\nWe generate the Mandelbrot set from z_n+1= (z_n )^2+c. You start with z_0 = 0, and iterate. YOu choose a value for c, .If the series does not diverge to infinity then c is in the set. Thus c=i is in the set. A problem: find a value of c near i  (say within a circle of radius <.01) such that this new value is in the set. And yet this value must exist because the set is connected."
+name: David Wunsch
+email: 598f1f11d03d27fa98fe80217b428cba
+hp: ''
+date: 1601475647
