@@ -57,8 +57,8 @@ $$
 
 ## Notes  
 
-<a id="fn1">1</a>: As they say in Japan: "名は体を表す" (na wa tai o arawasu), or "names
-reveal the nature of things".  In equally pretentious Latin, _nomen omen est_.  This is,
+<a id="fn1">1</a>: As they say in Japan: "名は体を表す" (_na wa tai o arawasu_), or "names
+reveal the inner nature of things".  In equally pretentious Latin, _nomen omen est_.  This is,
 of course, strictly false; but it is occasionally useful for pretending one knows whereof
 one speaks. [↩](#fn1a)
 
