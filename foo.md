@@ -1,3 +1,10 @@
+---
+layout: post
+title: Night of the Living Beta Binomials
+tags: MathInTheNews Politics
+comments: true
+---
+
 2020-09-30-night-of-the-living-beta-binomials.md:
 
 As you may have heard, the US is about to face an election more conentious than any since
@@ -12,15 +19,15 @@ Imagine we lived in a simplified (and desireable!) world:
 - There is no [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College); rather the election is decided by direct popular vote.  
 - There is no [red mirage/blue shift effect](https://www.cnn.com/2020/09/01/politics/2020-election-count-red-mirage-blue-shift/index.html) (in-person votes preferred by one party are known on election night, but mail-in ballots preferred by the other get counted more slowly over the next couple days.  
 - The number of popular votes to be cast, $N$, is somehow known in advance.  
-- The candidate accruing $K > \ceil{N/2}$ wins, and since there are only 2 candidates and all $N$ ballots always vote either GoodGuy or BadGuy, this will surely happen one way or the other.  
+- The candidate accruing $K > \lceil N/2 \rceil$ wins, and since there are only 2 candidates and all $N$ ballots always vote either GoodGuy or BadGuy, this will surely happen one way or the other.  
 
 So here we are on election night, anxiously listening to the returns (on NPR or PBS, of
 course, since we're GoodGuys).  
 - Out of $N$ ballots to come, just $n < N$ have been counted.  
 - They add up to $k < n$ votes for GoodGuy.  
 What should we predict about the final outcome from this partial information?  In
-particular, what is the probability distribution $Pr(K | k, n, N)$ for the final number of
-GoodGuy votes?  What is the probability $Pr(K > \ceil{N/2} | k, n, N)$ for a GoodGuy win?
+particular, what is the probability distribution $\Pr(K | k, n, N)$ for the final number of
+GoodGuy votes?  What is the probability $\Pr(K > \lceil N/2 \rceil | k, n, N)$ for a GoodGuy win?
 Will the media ever learn this, and report accordingly?  
 
 With the exception of the last question, for which the answer is apparently and
