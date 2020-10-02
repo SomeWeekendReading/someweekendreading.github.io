@@ -10,9 +10,9 @@ the Civil War.  With vote counting likely drawn out due to right-wing mischief a
 example, the Post Office, what are we to make of partial returns as far as predicting the
 outcome?  And will there be [zombies](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)?  
 
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-movie.jpg" width="220" height="325" alt="Night of the Living Dead" title="Night of the Living Dead" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 ## The problem  
 
-<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-movie.jpg" width="220" height="325" alt="Night of the Living Dead" title="Night of the Living Dead" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Imagine we lived in a simplified, and and much more desireable, world:  
 - There are only 2 candidates for election, hereinafter termed GoodGuy and BadGuy.  (US politics is downright [Manichaean](https://en.wikipedia.org/wiki/Manichaeism) at the moment.)  
 - There is no [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College); rather the election is decided by direct popular vote.  
