@@ -5,30 +5,30 @@ tags: MathInTheNews Politics
 comments: true
 ---
 
-2020-09-30-night-of-the-living-beta-binomials.md:
-
 As you may have heard, the US is about to face an election more conentious than any since
-the Civil War.  With election counting likely drawn out due to right-wing mischief at, for
+the Civil War.  With vote counting likely drawn out due to right-wing mischief at, for
 example, the Post Office, what are we to make of partial returns as far as predicting the
 outcome?  And will there be [zombies](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)?  
 
 ## The problem  
 
-Imagine we lived in a simplified (and desireable!) world:  
+Imagine we lived in a simplified, and and much more desireable, world:  
 - There are only 2 candidates for election, hereinafter termed GoodGuy and BadGuy.  (US politics is downright [Manichaean](https://en.wikipedia.org/wiki/Manichaeism) at the moment.)  
 - There is no [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College); rather the election is decided by direct popular vote.  
-- There is no [red mirage/blue shift effect](https://www.cnn.com/2020/09/01/politics/2020-election-count-red-mirage-blue-shift/index.html) (in-person votes preferred by one party are known on election night, but mail-in ballots preferred by the other get counted more slowly over the next couple days.  
+- There is no [red mirage/blue shift effect](https://www.cnn.com/2020/09/01/politics/2020-election-count-red-mirage-blue-shift/index.html) (in-person votes preferred by one party are known on election night, but mail-in ballots preferred by the other get counted more slowly over the next couple days).  
 - The number of popular votes to be cast, $N$, is somehow known in advance.  
-- The candidate accruing $K > \lceil N/2 \rceil$ wins, and since there are only 2 candidates and all $N$ ballots always vote either GoodGuy or BadGuy, this will surely happen one way or the other.  
+- The candidate accruing $K \geq \lceil N/2 \rceil$ votes wins.  Since there are only 2 candidates and all $N$ ballots always vote either GoodGuy or BadGuy, this will surely happen one way or the other.  
 
 So here we are on election night, anxiously listening to the returns (on NPR or PBS, of
-course, since we're GoodGuys).  
-- Out of $N$ ballots to come, just $n < N$ have been counted.  
+course, since we're GoodGuys &mdash; though the BBC and the _Guardian_ get honorable mention).  
+- Out of $N$ ballots to be counted, just $n < N$ have been counted so far.  
 - They add up to $k < n$ votes for GoodGuy.  
+
 What should we predict about the final outcome from this partial information?  In
 particular, what is the probability distribution $\Pr(K | k, n, N)$ for the final number of
-GoodGuy votes?  What is the probability $\Pr(K > \lceil N/2 \rceil | k, n, N)$ for a GoodGuy win?
-Will the media ever learn this, and report accordingly?  
+GoodGuy votes?  What is the probability $\Pr(K \geq \lceil N/2 \rceil | k, n, N)$ for a
+GoodGuy win, i.e., the cumulative distribution function?  Will the media ever learn this,
+and report accordingly?  
 
 With the exception of the last question, for which the answer is apparently and
 unfortunately a hard "no", the other questions can be addressed probabilistically.  
@@ -37,7 +37,7 @@ unfortunately a hard "no", the other questions can be addressed probabilisticall
 
 Meet your new best friend, the
 [beta-binomial distribution](https://en.wikipedia.org/wiki/Beta-binomial_distribution),
-which, as from its name [[1](#fn1)]</sup>, combines features from:
+which, as from its name <sup id="fn1a">[[1](#fn1)]</sup>, combines features from:
 - the [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution) (probability distribution of votes for GoodGuy out of $n$ voters, each with probability $p$ of voting GoodGuy), and  
 - the [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution) (probability
 distribution for $p$, based on previously observed voters in the same population).  
