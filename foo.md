@@ -12,6 +12,7 @@ outcome?  And will there be [zombies](https://en.wikipedia.org/wiki/Night_of_the
 
 ## The problem  
 
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-movie.jpg" width="220" height="325" alt="Night of the Living Dead" title="Night of the Living Dead" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Imagine we lived in a simplified, and and much more desireable, world:  
 - There are only 2 candidates for election, hereinafter termed GoodGuy and BadGuy.  (US politics is downright [Manichaean](https://en.wikipedia.org/wiki/Manichaeism) at the moment.)  
 - There is no [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College); rather the election is decided by direct popular vote.  
@@ -42,14 +43,14 @@ which, as from its name <sup id="fn1a">[[1](#fn1)]</sup>, combines features from
 - the [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution) (probability
 distribution for $p$, based on previously observed voters in the same population).  
 
-Binomial and beta are [conjugate priors](https://en.wikipedia.org/wiki/Conjugate_prior),
-i.e., if you observe some binomially-distributed votes (say, $k$ out of $n$ here) then the
-beta distribution tells you what to believe about the underlying $p$ that generated those
+Binomial and beta are [conjugate priors](https://en.wikipedia.org/wiki/Conjugate_prior):
+if you observe some binomially-distributed votes (say, $k$ out of $n$ here) then the beta
+distribution tells you what to believe about the underlying $p$ that generated those
 votes.  Heckerman's Bayesian tutorial (reference 4), for example, explores this in a
 tutorial way, with a coin-toss example to estimate how the coin is loaded.
 
 $$
-\Pr(K | N, n, k) = \binom{n}{k}
+\Pr(K | N) = \binom{N}{K} p^{K} (1-p)^{(N-K)}
 $$
 
 
