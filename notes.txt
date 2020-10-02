@@ -310,6 +310,7 @@ TODOs: These should be GitHub issues!
 
 *** Google Analytics & AdSense, once we have some readers
     https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
+    https://michaelsoolee.com/google-analytics-jekyll/
 
 *** Comments: make assets/main.scss.txt work?
 
@@ -320,7 +321,7 @@ TODOs: These should be GitHub issues!
 
 *** Convert sitemap to an HTML page & permalink it?  put it also in nav bar?
 
-*** Copyright notice on each page?
+*** Copyright notice on each page?v
 
 *** Read Pro GIT
 
@@ -394,20 +395,20 @@ Blog posts:
 As you may have heard, the US is about to face an election more conentious than any since
 the Civil War.  With election counting likely drawn out due to right-wing mischief at, for
 example, the Post Office, what are we to make of partial returns as far as predicting the
-outcome?  
+outcome?  And will there be [zombies](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)?  
 
 ## The problem  
 
-Imagine we lived in a simplified (and more desireable!) world:  
-- There are only 2 candidates for election, hereinafter termed GoodGuy and BadGuy.  
-- There is no electoral college; rather the election is decided by direct popular vote.  
-- The number of popular votes to be cast, $N$, is known in advance.  
-- The candidate accruing $K > \ceil{N/2}$ wins, and since there are only 2 candidates and
-all $N$ ballots vote either GoodGuy or BadGuy, this will surely happen.  
+Imagine we lived in a simplified (and desireable!) world:  
+- There are only 2 candidates for election, hereinafter termed GoodGuy and BadGuy.  (US politics is downright [Manichaean](https://en.wikipedia.org/wiki/Manichaeism) at the moment.)  
+- There is no [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College); rather the election is decided by direct popular vote.  
+- There is no [red mirage/blue shift effect](https://www.cnn.com/2020/09/01/politics/2020-election-count-red-mirage-blue-shift/index.html) (in-person votes preferred by one party are known on election night, but mail-in ballots preferred by the other get counted more slowly over the next couple days.  
+- The number of popular votes to be cast, $N$, is somehow known in advance.  
+- The candidate accruing $K > \ceil{N/2}$ wins, and since there are only 2 candidates and all $N$ ballots always vote either GoodGuy or BadGuy, this will surely happen one way or the other.  
 
 So here we are on election night, anxiously listening to the returns (on NPR or PBS, of
 course, since we're GoodGuys).  
-- Out of $N$ ballots to come, $n < N$ have been counted.  
+- Out of $N$ ballots to come, just $n < N$ have been counted.  
 - They add up to $k < n$ votes for GoodGuy.  
 What should we predict about the final outcome from this partial information?  In
 particular, what is the probability distribution $Pr(K | k, n, N)$ for the final number of
@@ -430,7 +431,11 @@ Binomial and beta are [conjugate priors](https://en.wikipedia.org/wiki/Conjugate
 i.e., if you observe some binomially-distributed votes (say, $k$ out of $n$ here) then the
 beta distribution tells you what to believe about the underlying $p$ that generated those
 votes.  Heckerman's Bayesian tutorial (reference 4), for example, explores this in a
-tutorial way.  
+tutorial way, with a coin-toss example to estimate how the coin is loaded.
+
+$$
+\Pr(K | N, n, k) = \binom{n}{k}
+$$
 
 
 ---
@@ -452,5 +457,9 @@ one speaks. [↩](#fn1a)
 
 1. D Heckerman, ["A tutorial on learning with Bayesian networks"](https://arxiv.org/pdf/2002.00269.pdf), Arxive.org, 1996-Nov (revised 2020-Jan).  
 
+1. T Minka, ["Estimating a Dirichlet distribution"](https://tminka.github.io/papers/dirichlet/), Microsoft Technical Report, 2000 (revised 2003, 2009, 2012).
 
+1. RC Tripathi, _et al._, ["Estimation of parameters in the beta binomial model"](https://www.ism.ac.jp/editsec/aism/pdf/046_2_0317.pdf), _Ann Inst Stat Math_, 46:2 (1994), pp 317-331.
+
+1. Y Qassim, A Abassi, ["Parameter estimation of Polya Distribution"](http://people.oregonstate.edu/~qassimy/Joe_Qassim_Site/Projects/Entries/2011/11/8_ECE_565__ESTIMATION,_DETECTION,_AND_FILTERING_files/ECE565%20Est%20Project%20Presentation.pdf), unpublished talk.
 ================================================================================
