@@ -81,7 +81,10 @@ $$
 where $B(k+1, n-k+1)$ is the normalization integral, our old college buddy from freshman
 year, the complete beta function.  This distribution is a beta distribution of the first
 kind, with the parameters in the usual notation being $\alpha = k+1$ and 
-$\beta = n-k+1$. <sup id="fn2a">[[2](#fn2)]</sup>  <sup id="fn3a">[[3](#fn3)]</sup>  
+$\beta = n-k+1$. <sup id="fn2a">[[2](#fn2)]</sup>  <sup id="fn3a">[[3](#fn3)]</sup> the
+figure illustrates an example with $n = 10$ and $k = 8$, e.g., if you flip a coin 10 times
+and it comes up heads 8 times, what should you believe about the probability $p$ of
+flipping heads?
 
 The beta-binomial distribution combines these: pick a value for $p$ from a beta
 distribution, then draw binomial samples using that $p$.  It just wraps all of that
