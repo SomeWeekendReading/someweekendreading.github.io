@@ -140,7 +140,7 @@ votes for GoodGuy (just a hair over half).  What's the chance of a GoodGuy win?
 That's odd... with a bare margin of 500 votes out of 500,000 &mdash; 1 in 1000! &mdash;
 we're suddenly _very_ confident of a win at 92% probability. How can that be?
 
-## And why it's not so practical
+## ...and why it's _not_ so practical
 
 <img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 There are a number of infelicities in models like this.  Among them are the 2 that are
