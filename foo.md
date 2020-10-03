@@ -40,9 +40,9 @@ Meet your new best friend, the
 which, as from its name <sup id="fn1a">[[1](#fn1)]</sup>, combines features from:
 - the [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution) (probability distribution of votes for GoodGuy out of $n$ voters, each with probability $p$ of voting GoodGuy), and  
 - the [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution) (probability
-distribution for $p$, based on previously observed voters in the same population).  
+distribution for $p$, based on already observed voters in the same population).  
 
-If we knew the probability $p$ of voting GoodGuy, then the total GoodGuy votes would be
+If we knew the probability $p$ of individuals voting GoodGuy, then the total GoodGuy votes would be
 binomially distributed:  
 
 $$
@@ -52,7 +52,8 @@ $$
 But we _don't_ know $p$.  We do have a sample of $n$ votes, $k$ for GoodGuy.  A
 frequentist might plug in the point estimate $p = k/n$ and be done with it.  That's not
 bad, but we can do better: we can use Bayesian methods to get a posterior _distribution_
-for $p$, thereby capturing our knowledge gleaned from $(n, k)$ and our uncertainty.  
+for $p$, thereby capturing our knowledge gleaned from $(n, k)$ observations, and our
+remaining uncertainty.  
 
 Let's start with a uniform prior on $p$, i.e., we are maximally ignorant and believe any
 value in $[0, 1]$ is as likely as any other:  
@@ -64,10 +65,10 @@ $$
 where $\theta()$ is the Heaviside step function, here ensuring that $p$ has support only in
 $[0, 1]$.
 
-The likelihood function for observing $k$ out of $n$ votes is binomial:
+The likelihood function for $p$ when we observed $k$ out of $n$ votes is binomial
 
 $$
-Pr(k | n, p) =  \binom{n}{k} p^{k} (1-p)^{n-k}
+L(p | n, k) = Pr(k | n, p) = \binom{n}{k} p^{k} (1-p)^{n-k}
 $$
 
 Mash them together in Bayes' rule, and note that the result is a beta distribution: 
@@ -78,17 +79,10 @@ $$
 
 where $B(k+1, n-k+1)$ is the normalization integral, our old college buddy from freshman
 year, the complete beta function.  This distribution is a beta distribution of the first
-kind, with the parameters in the usual notation being $\alpha = k+1$ and $\beta = n-k+1$.
-In particular, a $B(1, 1)$ distribution is just the
-uniform distribution, so it's betas all the way across the board.  
+kind, with the parameters in the usual notation being $\alpha = k+1$ and 
+$\beta = n-k+1$. <sup id="fn2a">[[2](#fn2)]</sup>  <sup id="fn3a">[[3](#fn3)]</sup>  
 
-(Binomial and beta are [conjugate priors](https://en.wikipedia.org/wiki/Conjugate_prior):
-if you observe $k$ out of $n$ binomially-distributed samples,  then the beta
-distribution tells you what to believe about the underlying $p$ that generated those
-votes.  Heckerman's Bayesian tutorial (reference 4), for example, explores this in a
-tutorial way, with a coin-toss example to estimate how the coin is loaded.)  
-
-THe beta-binomial distribution combines these: pick a value for $p$ from a beta
+The beta-binomial distribution combines these: pick a value for $p$ from a beta
 distribution, then draw binomial samples using that $p$.  It just wraps all of that
 process up into a single distribution function:  
 
@@ -128,6 +122,15 @@ aaa
 reveal the inner nature of things".  In equally pretentious Latin, _nomen omen est_.  This is,
 of course, strictly false; but it is occasionally useful for pretending one knows whereof
 one speaks. [↩](#fn1a)
+
+<a id="fn2">2</a>: In particular, a $B(1, 1)$ distribution is just the uniform
+distribution, so it's betas all the way across the board. [↩](#fn2a)
+
+<a id="fn3">3</a>: Binomial and beta are [conjugate priors](https://en.wikipedia.org/wiki/Conjugate_prior):
+if you observe $k$ out of $n$ binomially-distributed samples,  then the beta
+distribution tells you what to believe about the underlying $p$ that generated those
+votes.  Heckerman's Bayesian tutorial (reference 4), for example, explores this in a
+tutorial way, with a coin-toss example to estimate how the coin is loaded.[↩](#fn3a)
 
 ## References
 
