@@ -165,7 +165,7 @@ swing wildly back and forth.
 
 __Conclusion:__ We've had a lot of fun here, and for nerdly types like your humble Weekend
 Editor this is a good anxiety relieving process.  But we've modeled an over-simplified
-world.  
+world.  Our model has failed to be believably predictive.
 
 __The sad facts:__ There are more than 2 candidates in most jurisdictions, and thus a significant
 spoiler effect (Ralph Nader in 2000, anyone?).  There is, sadly, an Electoral College and
