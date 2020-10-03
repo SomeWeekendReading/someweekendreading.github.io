@@ -81,7 +81,7 @@ $$
 where $B(k+1, n-k+1)$ is the normalization integral, our old college buddy from freshman
 year, the complete beta function.  This distribution is a beta distribution of the first
 kind, with the parameters in the usual notation being $\alpha = k+1$ and 
-$\beta = n-k+1$. <sup id="fn2a">[[2](#fn2)]</sup>  <sup id="fn3a">[[3](#fn3)]</sup> the
+$\beta = n-k+1$. <sup id="fn2a">[[2](#fn2)]</sup>  <sup id="fn3a">[[3](#fn3)]</sup> The
 figure illustrates an example with $n = 10$ and $k = 8$, e.g., if you flip a coin 10 times
 and it comes up heads 8 times, what should you believe about the probability $p$ of
 flipping heads?
@@ -122,7 +122,12 @@ distribution, its cumulative distribution, and many other things.  That's the ni
 about working in a language with a vibrant user community: other people largely write your
 software for you.  
 
-aaa
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/U.S._Vote_for_President_as_Population_Share.png/500px-U.S._Vote_for_President_as_Population_Share.png" width="400" height="200" alt="Wikipedia: US voter turnout" title="Wikipedia: US voter turnout" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+The US currently has a population of about 328 million.  How many of those can be expected
+to vote?  According to [Wikipedia on US voter turnout in US presidential elections](https://en.wikipedia.org/wiki/Voter_turnout_in_the_United_States_presidential_elections), about 40% &ndash; 42%
+in the recent past.  A turnout of 45% of the population (a higher fraction of eligible
+voters) would be  a new record.  So let's go with 45%.  
 
 ## And why it's not so practical
 
