@@ -169,12 +169,14 @@ world.  Our model has failed to be believably predictive.
 
 __The sad facts:__ There are more than 2 candidates in most jurisdictions, and thus a significant
 spoiler effect (Ralph Nader in 2000, anyone?).  There is, sadly, an Electoral College and
-it severly biases voting in the US towards Republicans representing rural, sparsely
+it severely biases voting in the US towards Republicans representing rural, sparsely
 populated, conservative districts.  The backup for the Electoral College, voting in the
 House of Representatives, is also biased: each state gets 1 vote, again over-representing
-rural conservative state.  The red mirage/blue shift is a real thing.  The candidate
+rural conservative states.  The red mirage/blue shift is a real thing.  The candidate
 elected seldom gets a majority (though some states are now experimenting with
-rank-preference voting mechanisms of various sorts, which would help).  
+rank-preference voting mechanisms of various sorts, which would help).  It's important to
+enumerate your assumptions, as we did at the outset, so later you can see if they've
+steered you wrong.
 
 So... hang on.  There may yet be zombies.  
 
