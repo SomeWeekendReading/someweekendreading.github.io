@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code for &quot;Night of the Living Beta Binomials&quot;
+title: Code for &quot;Election Night of the Living Beta Binomials&quot;
 tags: MathInTheNews Politics R
 date: 2020-10-02
 comments: false

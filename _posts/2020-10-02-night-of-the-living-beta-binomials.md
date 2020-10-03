@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Night of the Living Beta Binomials
+title: Election Night of the Living Beta Binomials
 tags: MathInTheNews Politics
 comments: true
 ---
