@@ -156,12 +156,13 @@ tricking us into over-confidence:
   small districts, and so on.
   
 <img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-To illustrate this, consider the same problem above ($N$ = 45% of 328 million, $n$ = 500,000)
-but now vary the number of GoodGuy votes $k$ from 249,000 to 251,000.  This is clearly a
-very small variation.  But note in the figure that the probability of a GoodGuy win goes from nearly 0
-to nearly 1!  Moving just 1000 votes either way makes the model swing wildly in its
-prediction.  Over the course of election night, as the tallies vary, our predictions would
-swing wildly back and forth.
+To illustrate this, consider the same problem above ($N$ = 45% of 328 million votes to be
+cast, $n$ = 500,000 already counted) but now vary the number of already counted GoodGuy
+votes $k$ from 249,000 to 251,000.  This is clearly a very small variation.  But note in
+the figure that the probability of a GoodGuy win goes from nearly 0 to nearly 1!  Moving
+just 1000 votes either way makes the model swing wildly in its prediction.  Over the
+course of election night, as the tallies vary, our predictions would swing wildly back and
+forth.
 
 __Conclusion:__ We've had a lot of fun here, and for nerdly types like your humble Weekend
 Editor this is a good anxiety relieving process.  But we've modeled an over-simplified

@@ -15,6 +15,8 @@ anything therein without permission:
 
 * \_posts/  
 * images/  
+* assets/  
+* \_data/comments/  
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you
 please. If you do use them, a link back to https://www.someweekendreading.blog/ would be
