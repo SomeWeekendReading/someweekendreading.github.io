@@ -5,6 +5,8 @@ permalink: /tags/
 description: Index of tags to posts
 ---
 
+### Tags &amp; Posts Using Them
+
 <div class="post">
   <!-- List of tags in "natural" alphanumeric order.  Can this be made more elegant?  -->
   {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
