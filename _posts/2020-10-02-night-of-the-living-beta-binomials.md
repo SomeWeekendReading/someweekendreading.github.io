@@ -138,12 +138,45 @@ votes for GoodGuy (just a hair over half).  What's the chance of a GoodGuy win?
 ```
 
 That's odd... with a bare margin of 500 votes out of 500,000 &mdash; 1 in 1000! &mdash;
-we're suddenly _very_ confident of a win.
+we're suddenly _very_ confident of a win at 92% probability. How can that be?
 
 ## And why it's not so practical
 
 <img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-aaa
+There are a number of infelicities in models like this.  Among them are the 2 that are
+tricking us into over-confidence:
+- The assumption that the early votes are entirely randomly selected, and in no way
+  reflect underlying political structures, are not biased for one candidate, etc.  This
+  is, of course, false.
+- The very large numbers here, where we're looking at 147 million voters, and 500,000
+  early voters.  As numbers like that get large, the statistical significance of a model
+  zooms upward, generating more and more certain predictions.  For reasons entangled with
+  the first, this is, of course, false: you might have large numbers, but they're _biased_
+  large numbers.  The [red mirage/blue shift effect](https://www.cnn.com/2020/09/01/politics/2020-election-count-red-mirage-blue-shift/index.html)
+  is a real thing, large cities with lots of liberal voters take longer to tabulate than
+  small districts, and so on.
+  
+To illustrate this, consider the same problem above ($N$ = 45% of 328 million, $n$ = 500,000)
+but now vary the number of GoodGuy votes $k$ from 249,000 to 251,000.  This is clearly a
+very small variation.  But note that the probability of a GoodGuy win goes from nearly 0
+to nearly 1!  Moving just 1000 votes either way makes the model swing wildly in its
+prediction.  Over the course of election night, as the tallies vary, our predictions would
+swing wildly back and forth.
+
+__Conclusion:__ We've had a lot of fun here, and for nerdly types like your humble Weekend
+Editor this is a good anxiety relieving process.  But we've modeled an over-simplified
+world.  
+
+There are more than 2 candidates in most jurisdictions, and thus a significant
+spoiler effect (Ralph Nader in 2000, anyone?).  There is, sadly, an Electoral College and
+it severly biases voting in the US towards Republicans representing rural, sparsely
+populated, conservative districts.  The backup for the Electoral College, voting in the
+House of Representatives, is also biased: each state gets 1 vote, again over-representing
+rural conservative state.  The red mirage/blue shift is a real thing.  The candidate
+elected seldom gets a majority (though some states are now experimenting with
+rank-preference voting mechanisms of various sorts, which would help).  
+
+So... hang on.  There may yet be zombies.  
 
 ---
 
