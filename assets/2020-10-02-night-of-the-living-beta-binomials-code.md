@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code for &quot;Night of the Living Beta Binomials&quot;
-tags: MathInThe News Politics R
+tags: MathInTheNews Politics R
 date: 2020-10-02
 comments: false
 ---
