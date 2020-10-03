@@ -55,8 +55,6 @@ bad, but we can do better: we can use Bayesian methods to get a posterior _distr
 for $p$, thereby capturing our knowledge gleaned from $(n, k)$ observations, and our
 remaining uncertainty.  
 
-<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-betas.png" width="400"
-height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Let's start with a uniform prior on $p$, i.e., we are maximally ignorant and believe any
 value in $[0, 1]$ is as likely as any other:  
 
@@ -79,6 +77,7 @@ $$
 Pr(p | n, k) = \frac{p^{k} (1-p)^{(n-k)}}{ B(k+1, n-k+1) }
 $$
 
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-betas.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 where $B(k+1, n-k+1)$ is the normalization integral, our old college buddy from freshman
 year, the complete beta function.  This distribution is a beta distribution of the first
 kind, with the parameters in the usual notation being $\alpha = k+1$ and 
