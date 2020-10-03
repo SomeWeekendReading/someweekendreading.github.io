@@ -167,7 +167,7 @@ __Conclusion:__ We've had a lot of fun here, and for nerdly types like your humb
 Editor this is a good anxiety relieving process.  But we've modeled an over-simplified
 world.  
 
-There are more than 2 candidates in most jurisdictions, and thus a significant
+__The sad facts:__ There are more than 2 candidates in most jurisdictions, and thus a significant
 spoiler effect (Ralph Nader in 2000, anyone?).  There is, sadly, an Electoral College and
 it severly biases voting in the US towards Republicans representing rural, sparsely
 populated, conservative districts.  The backup for the Electoral College, voting in the
