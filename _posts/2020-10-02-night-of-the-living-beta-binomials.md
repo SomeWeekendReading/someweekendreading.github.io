@@ -124,6 +124,7 @@ software for you.
 
 aaa
 
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 ## And why it's not so practical
 
 aaa
