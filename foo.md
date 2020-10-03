@@ -18,7 +18,7 @@ Imagine we lived in a simplified, and and much more desireable, world:
 - There is no [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College); rather the election is decided by direct popular vote.  
 - There is no [red mirage/blue shift effect](https://www.cnn.com/2020/09/01/politics/2020-election-count-red-mirage-blue-shift/index.html) (in-person votes preferred by one party are known on election night, but mail-in ballots preferred by the other get counted more slowly over the next couple days).  
 - The number of popular votes to be cast, $N$, is somehow known in advance.  
-- The candidate accruing $K \geq \left\lceil N/2 \right\rceil$ votes wins.  Since there are only 2 candidates and all $N$ ballots always vote either GoodGuy or BadGuy, this will surely happen one way or the other.  
+- The candidate accruing $K \geq \lceil N/2 \rceil$ votes wins.  Since there are only 2 candidates and all $N$ ballots always vote either GoodGuy or BadGuy, this will surely happen one way or the other.  
 
 So here we are on election night, anxiously listening to the returns (on NPR or PBS, of
 course, since we're GoodGuys &mdash; though the BBC and the _Guardian_ get honorable
@@ -27,7 +27,7 @@ add up to $k < n$ votes for GoodGuy.
 
 What should we predict about the final outcome from this partial information?  
 - In particular, what is the probability distribution $\Pr(K | N, n, k)$ for the final number of GoodGuy votes?  
-- What is the probability $\Pr(K \geq \left\lceil N/2 \right\rceil | N, n, k)$ for a GoodGuy win, i.e., the cumulative distribution function?  
+- What is the probability $\Pr(K \geq \lceil N/2 \rceil | N, n, k)$ for a GoodGuy win, i.e., the cumulative distribution function?  
 - Will the media ever learn this, and report accordingly?  
 
 With the exception of the last question, for which the answer is apparently and
@@ -101,7 +101,7 @@ where we've conveniently written everything in terms of the complete beta functi
 The probability of a win is the cumulative distribution function,  
 
 $$
-Pr(K \geq \left\lceil N/2 \right\rceil | N, n, k) = \sum_{K = \left\lceil N/2 \right\rceil}^{N} \binom{N}{K} \frac{B(K+k+1, N-K+n-k+1)}{B(k+1, n-k+1)}
+Pr(K \geq \lceil N/2 \rceil | N, n, k) = \sum_{K = \lceil N/2 \rceil}^{N} \binom{N}{K} \frac{B(K+k+1, N-K+n-k+1)}{B(k+1, n-k+1)}
 $$
 
 That can be written in terms of the generalized hypergeometric function $_{3}F_{2}()$, but
