@@ -99,7 +99,7 @@ Pr(K \geq \left\lceil N/2 \right\rceil | N, n, k) = \sum_{K = \left\lceil N/2 \r
 $$
 
 That can be written in terms of the generalized hypergeometric function ${}\_{3}F\_{2}()$, but
-that's likely more trouble than it's worth.  
+that's likely more trouble than it's worth. <sup id="fn4a">[[4](#fn4)]</sup>  
 
 ## Parameter estimation  
 
@@ -111,6 +111,10 @@ $\alpha$ and $\beta$ so that the binomial part of it best reflects the $(n, k)$ 
 This is sort of a poor man's maximum likelihood.  
 
 ## Practical use  
+
+aaa
+
+## And why it's not so practical
 
 aaa
 
@@ -132,6 +136,9 @@ distribution tells you what to believe about the underlying $p$ that generated t
 votes.  Heckerman's Bayesian tutorial (reference 4), for example, explores this in a
 tutorial way, with a coin-toss example to estimate how the coin is loaded.[↩](#fn3a)
 
+<a id="fn4">4</a>: Your humble Weekend Editor is still working through some childhood
+trauma around exposure to hypergeometric functions. [↩](#fn4a)
+
 ## References
 
 1. T Vladeck, ["Unpacking the election results using bayesian inference"](https://tomvladeck.com/2016/12/31/unpacking-the-election-results-using-bayesian-inference/), _TomVladeck.com_, 2016-12-31.  
@@ -147,3 +154,5 @@ tutorial way, with a coin-toss example to estimate how the coin is loaded.[↩](
 1. RC Tripathi, _et al._, ["Estimation of parameters in the beta binomial model"](https://www.ism.ac.jp/editsec/aism/pdf/046_2_0317.pdf), _Ann Inst Stat Math_, 46:2 (1994), pp 317-331.
 
 1. Y Qassim, A Abassi, ["Parameter estimation of Polya Distribution"](http://people.oregonstate.edu/~qassimy/Joe_Qassim_Site/Projects/Entries/2011/11/8_ECE_565__ESTIMATION,_DETECTION,_AND_FILTERING_files/ECE565%20Est%20Project%20Presentation.pdf), unpublished talk.
+
+1. K Coombes, ["TailRank R package"](https://cran.r-project.org/web/packages/TailRank/TailRank.pdf), _CRAN_ 2018-May-18.
