@@ -120,7 +120,7 @@ As with so many things when working in [R](https://www.r-project.org/), someone 
 me to it: the TailRank package (reference 8) already implements the beta binomial
 distribution, its cumulative distribution, and many other things.  That's the nice thing
 about working in a language with a vibrant user community: other people largely write your
-software for you.  
+software for you. (reference 9)  
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/U.S._Vote_for_President_as_Population_Share.png/500px-U.S._Vote_for_President_as_Population_Share.png" width="400" height="200" alt="Wikipedia: US voter turnout" title="Wikipedia: US voter turnout" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -128,6 +128,17 @@ The US currently has a population of about 328 million.  How many of those can b
 to vote?  According to [Wikipedia on US voter turnout in US presidential elections](https://en.wikipedia.org/wiki/Voter_turnout_in_the_United_States_presidential_elections), about 40% &ndash; 42%
 in the recent past.  A turnout of 45% of the population (a higher fraction of eligible
 voters) would be  a new record.  So let's go with 45%.  
+
+Let's suppose early returns have given us the results for 500,000 voters, and it's 250,500
+votes for GoodGuy (just a hair over half).  What's the chance of a GoodGuy win?  
+
+```R
+> probWin(N, n, 250500)
+[1] 0.9209983
+```
+
+That's odd... with a bare margin of 500 votes out of 500,000 &mdash; 1 in 1000! &mdash;
+we're suddenly _very_ confident of a win.
 
 ## And why it's not so practical
 
