@@ -26,8 +26,8 @@ mention).  Out of $N$ ballots to be counted, just $n < N$ have been counted so f
 add up to $k < n$ votes for GoodGuy.  
 
 What should we predict about the final outcome from this partial information?  
-- In particular, what is the probability distribution \$\Pr(K \| N, n, k)\$ for the final number of GoodGuy votes?  
-- What is the probability \$\Pr(K \geq \lceil N/2 \rceil \| N, n, k)\$ for a GoodGuy win, i.e., the cumulative distribution function?  
+- In particular, what is the probability distribution $\Pr(K \| N, n, k)$ for the final number of GoodGuy votes?  
+- What is the probability $\Pr(K \geq \lceil N/2 \rceil \| N, n, k)$ for a GoodGuy win, i.e., the cumulative distribution function?  
 - Will the media ever learn this, and report accordingly?  
 
 With the exception of the last question, for which the answer is apparently and
@@ -73,7 +73,7 @@ $$
 Put them together in Bayes' rule, and note that the result is a beta distribution: 
 
 $$
-Pr(p | n, k) = p^{k} (1-p)^{(n-k)} / B(k+1, n-k+1)
+Pr(p | n, k) = \frac{p^{k} (1-p)^{(n-k)}}{ B(k+1, n-k+1) }
 $$
 
 where $B(k+1, n-k+1)$ is the normalization integral, our old college buddy from freshman
