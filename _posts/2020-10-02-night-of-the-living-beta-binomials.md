@@ -142,7 +142,6 @@ we're suddenly _very_ confident of a win at 92% probability. How can that be?
 
 ## ...and why it's _not_ so practical
 
-<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 There are a number of infelicities in models like this.  Among them are the 2 that are
 tricking us into over-confidence:
 - The assumption that the early votes are entirely randomly selected, and in no way
@@ -156,9 +155,10 @@ tricking us into over-confidence:
   is a real thing, large cities with lots of liberal voters take longer to tabulate than
   small districts, and so on.
   
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 To illustrate this, consider the same problem above ($N$ = 45% of 328 million, $n$ = 500,000)
 but now vary the number of GoodGuy votes $k$ from 249,000 to 251,000.  This is clearly a
-very small variation.  But note that the probability of a GoodGuy win goes from nearly 0
+very small variation.  But note in the figure that the probability of a GoodGuy win goes from nearly 0
 to nearly 1!  Moving just 1000 votes either way makes the model swing wildly in its
 prediction.  Over the course of election night, as the tallies vary, our predictions would
 swing wildly back and forth.
