@@ -124,9 +124,9 @@ software for you.
 
 aaa
 
-<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 ## And why it's not so practical
 
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-wins.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 aaa
 
 ---
@@ -167,3 +167,5 @@ trauma around early exposure to hypergeometric functions. [↩](#fn4a)
 1. Y Qassim, A Abassi, ["Parameter estimation of Polya Distribution"](http://people.oregonstate.edu/~qassimy/Joe_Qassim_Site/Projects/Entries/2011/11/8_ECE_565__ESTIMATION,_DETECTION,_AND_FILTERING_files/ECE565%20Est%20Project%20Presentation.pdf), unpublished talk.
 
 1. K Coombes, ["TailRank R package"](https://cran.r-project.org/web/packages/TailRank/TailRank.pdf), _CRAN_ 2018-May-18.
+
+1. Weekend Editor, [`night-of-the-living-beta-binomials.r`]({{ site.baseurl }}/assets/2020-10-02-night-of-the-living-beta-binomials-code/), _Some Weekend Reading_, 2020-Aug-07.  
