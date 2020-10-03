@@ -55,6 +55,8 @@ bad, but we can do better: we can use Bayesian methods to get a posterior _distr
 for $p$, thereby capturing our knowledge gleaned from $(n, k)$ observations, and our
 remaining uncertainty.  
 
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-betas.png" width="400"
+height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Let's start with a uniform prior on $p$, i.e., we are maximally ignorant and believe any
 value in $[0, 1]$ is as likely as any other:  
 
@@ -112,6 +114,12 @@ This is sort of a poor man's maximum likelihood.
 
 ## Practical use  
 
+As with so many things when working in [R](https://www.r-project.org/), someone has beaten
+me to it: the TailRank package (reference 8) already implements the beta binomial
+distribution, its cumulative distribution, and many other things.  That's the nice thing
+about working in a language with a vibrant user community: other people largely write your
+software for you.  
+
 aaa
 
 ## And why it's not so practical
@@ -137,7 +145,7 @@ votes.  Heckerman's Bayesian tutorial (reference 4), for example, explores this 
 tutorial way, with a coin-toss example to estimate how the coin is loaded.[↩](#fn3a)
 
 <a id="fn4">4</a>: Your humble Weekend Editor is still working through some childhood
-trauma around exposure to hypergeometric functions. [↩](#fn4a)
+trauma around early exposure to hypergeometric functions. [↩](#fn4a)
 
 ## References
 
