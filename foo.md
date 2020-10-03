@@ -104,7 +104,7 @@ $$
 Pr(K \geq \left\lceil N/2 \right\rceil | N, n, k) = \sum_{K = \left\lceil N/2 \right\rceil}^{N} \binom{N}{K} \frac{B(K+k+1, N-K+n-k+1)}{B(k+1, n-k+1)}
 $$
 
-That can be written in terms of the generalized hypergeometric function ${}_{3}F_{2}()$, but
+That can be written in terms of the generalized hypergeometric function ${}\_{3}F\_{2}()$, but
 that's likely more trouble than it's worth.  
 
 ## Parameter estimation  
