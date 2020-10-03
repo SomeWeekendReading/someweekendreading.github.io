@@ -336,6 +336,9 @@ TODOs: These should be GitHub issues!
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* Sam's game
+* Solstice sun times
+* Yield curve model
 * Statins and COVID: email of 2020-Sep-29
 * Impact of election years on stock returns (old weekend reading)
 * Bitwarden Roolz!
