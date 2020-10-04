@@ -42,14 +42,13 @@ which, as from its name <sup id="fn1a">[[1](#fn1)]</sup>, combines features from
 - the [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution) (probability
 distribution for $p$, based on already observed voters in the same population).  
 
-If we knew the probability $p$ of individuals voting GoodGuy, then the total GoodGuy votes would be
-binomially distributed:  
+If we somehow knew the probability $p$ of individuals voting GoodGuy, then the total GoodGuy votes would be binomially distributed:  
 
 $$
 \Pr(K | N, p) = \binom{N}{K} p^{K} (1-p)^{N-K}
 $$
 
-But we _don't_ know $p$.  We do have a sample of $n$ votes, $k$ for GoodGuy.  A
+But we _don't_ know $p$.  We do have a sample of $n$ votes, $k$ of them for GoodGuy.  A
 frequentist might plug in the point estimate $p = k/n$ and be done with it.  That's not
 bad, but we can do better: we can use Bayesian methods to get a posterior _distribution_
 for $p$, thereby capturing our knowledge gleaned from $(n, k)$ observations, and our
