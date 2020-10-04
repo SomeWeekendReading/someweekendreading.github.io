@@ -61,7 +61,7 @@ predictably end up at the nearest root.  Nifty, no?
 
 <!-- *** figure/figcaption -->
 <img src="{{ site.baseurl }}/images/root-fractal-1000.png" width="300" height="300" alt="Actual basins of attraction" title="Actual basins of attraction" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Alas, this is _not_ what actually happens!  What actually happens is illustrated in the
+Alas, this is _not_ what actually happens!  What actually happens (reference 2) is illustrated in the
 second (slightly larger) figure.  As before, the red, green, and blue basins converge to 
 $1$, $e^{2 \pi i / 3}$, and $e^{4 \pi i / 3}$, respectively, as we predicted above.  
 But take a look at those lovely, fractal boundaries!  And we're not zoomed in here to some 
