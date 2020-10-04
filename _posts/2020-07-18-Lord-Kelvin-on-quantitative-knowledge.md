@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lord Kelvin on quantitative knowledge
-tags: MathInTheNews NotableAndQuotable Obscurantism
+tags: Math NotableAndQuotable Obscurantism
 comments: true
 ---
 
