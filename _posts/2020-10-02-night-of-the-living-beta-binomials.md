@@ -210,7 +210,7 @@ trauma around early exposure to hypergeometric functions. [↩](#fn4a)
 
 1. ["Beta-binomial distribution"](https://en.wikipedia.org/wiki/Beta-binomial_distribution), _Wikipedia_, last edited 2020-04-26.  
 
-1. D Heckerman, ["A tutorial on learning with Bayesian networks"](https://arxiv.org/pdf/2002.00269.pdf), Arxive.org, 1996-Nov (revised 2020-Jan).  
+1. D Heckerman, ["A tutorial on learning with Bayesian networks"](https://arxiv.org/pdf/2002.00269.pdf), Arxiv.org, 1996-Nov (revised 2020-Jan).  
 
 1. T Minka, ["Estimating a Dirichlet distribution"](https://tminka.github.io/papers/dirichlet/), Microsoft Technical Report, 2000 (revised 2003, 2009, 2012).
 
