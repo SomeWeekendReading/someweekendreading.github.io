@@ -275,7 +275,7 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
-*** Tags aren't working in .md files in /assets/ (all 1 tag, as revealed by HTML checker:
+*** Tags aren't working in .md files in root or /assets/ all 1 tag, as revealed by HTML checker:
     <a href="/tags/#SomebodyAskedMe About R">
 
 *** Figure out how to self-host the material icons
