@@ -10,7 +10,7 @@ Today I voted.  You should too, if you're an eligible US voter.
 <img src="{{site.baseurl }}/images/2020-10-06-today-i-voted.png" width="300" height="150" alt="Today I Voted" title="Today I Voted" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The anxiously-awaited mail-in ballot arrived via US Mail at 9:30am.  By 11:30am, it was
 filled out, put in the ballot envelope, signed exactly as requested, put in the mailer
-envelope, then walked _past the Post Office_<sup id="fn1a">[[1](#fn1)]</sup> to the town
+envelope, then walked _past the Post Office_ <sup id="fn1a">[[1](#fn1)]</sup> to the town
 clerk's drop-box, and therein deposited.  
 
 Please don't vote Republican.  Not for any imaginable office, not under any conceivable
