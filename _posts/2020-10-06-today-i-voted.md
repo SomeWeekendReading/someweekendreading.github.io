@@ -14,7 +14,7 @@ envelope, then walked _past the Post Office_<sup id="fn1a">[[1](#fn1)]</sup> to 
 clerk's drop-box, and therein deposited.  
 
 Please don't vote Republican.  Not for any imaginable office, not under any conceivable
-circumstance.  Please don't vote 3rd party: that's half a vote for Trump.  If you think he
+circumstance.  Also, please don't vote 3rd party: that's half a vote for Trump.  If you think he
 needs to go &mdash; and _you should_ &mdash; then you know you have to vote for
 Biden/Harris.  Just do it: [settle for Biden](https://www.settleforbiden.org/).  
 
