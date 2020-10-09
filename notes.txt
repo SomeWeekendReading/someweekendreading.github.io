@@ -275,7 +275,7 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
-*** Add "GitHub Hosted" to merit badges, put merit badges in nav bar with icons.
+*** put merit badges in nav bar with icons.
 
 *** Tags aren't working in .md files in root or /assets/ all 1 tag, as revealed by HTML checker:
     <a href="/tags/#SomebodyAskedMe About R">
