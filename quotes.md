@@ -7,6 +7,7 @@ tags: NotableAndQuotable
 date: 2020-07-01
 ---
 
-<div class="post">
-  Something will appear here.
-</div>
+
+## Something will appear here.
+
+Soonish.  

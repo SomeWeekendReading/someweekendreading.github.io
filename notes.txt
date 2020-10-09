@@ -275,6 +275,9 @@ Notes on blogging tech.
 
 TODOs: These should be GitHub issues!
 
+*** robustify merit badges: protect style settings from nav bar mischief, make out of
+    tables so it doesn't rely on artful spacing, etc.
+
 *** put merit badges in nav bar with icons.
 
 *** Tags aren't working in .md files in root or /assets/ all 1 tag, as revealed by HTML checker:
