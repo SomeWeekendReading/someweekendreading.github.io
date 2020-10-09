@@ -323,7 +323,9 @@ TODOs: These should be GitHub issues!
 
 *** Convert sitemap to an HTML page & permalink it?  put it also in nav bar?
 
-*** Copyright notice on each page?v
+*** Copyright notice on each page? (in site build timestamp?)
+
+*** Add a quotes page @ top level, use format_quote icon
 
 *** Read Pro GIT
 
