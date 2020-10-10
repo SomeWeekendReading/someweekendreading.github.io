@@ -10,9 +10,9 @@ date: 2020-07-01
 ## The Surreal  
 
 "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read."
-&mdash; [Groucho Marx](http://en.wikipedia.org/wiki/Groucho_marx)  
+&mdash; [Groucho Marx](https://en.wikipedia.org/wiki/Groucho_marx)  
 
-[Yogi Berra](http://en.wikipedia.org/wiki/Yogi_berra):  
+[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_berra):  
 - "When you get to a fork in the road, take it."  
 - "You can observe a lot by watching."  
 - "Never answer an anonymous letter."  
@@ -20,7 +20,7 @@ date: 2020-07-01
 - "Prediction is hard, especially when it's about the future."  
 - "What?  You mean right now?" &mdash; in response to "What time is it?"  
 
-"Numquam 'morde me' lamiae dices." (Never say 'bite me' to a vampire.) &mdash; Nobody who will admit it, but quite likely a [Buffy](http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) fan  
+"Numquam 'morde me' lamiae dices." (Never say 'bite me' to a vampire.) &mdash; Nobody who will admit it, but quite likely a [Buffy](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) fan  
 
 "Fait au Qu&eacute;bec par les Qu&eacute;b&eacute;cois/Made in Canada by Canadians."
 &mdash; ad campaign by Quebec-based Abris Penguin Shelters  
@@ -28,68 +28,68 @@ date: 2020-07-01
 ## The Political &amp; The Economic  
 
 "Well, most politicians have nothing against reason, but they won't go out of their way
-to visit it."  &mdash; linguist [Geoffrey Nunberg](http://en.wikipedia.org/wiki/Geoffrey_Nunberg), 
+to visit it."  &mdash; linguist [Geoffrey Nunberg](https://en.wikipedia.org/wiki/Geoffrey_Nunberg), 
 interviewed in Anna Mundow, "The Interview: with Geoffrey Nunberg", _Boston Globe_,
 30-July-2006, Ideas Section, p. D7.  
 
 "&hellip; political discourse is necessarily symbolic because the facts exceed our
 curiosity."  &mdash; attributed to 
-[Walter Lipmann](http://en.wikipedia.org/wiki/Walter_Lipmann), in Anna Mundow, "The
+[Walter Lipmann](https://en.wikipedia.org/wiki/Walter_Lippmann), in Anna Mundow, "The
 Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.  
 
 "One of the biggest changes in politics in my lifetime is that the delusional is no
-longer marginal." &mdash; [Bill Moyers](http://en.wikipedia.org/wiki/Bill_Moyers)  
+longer marginal." &mdash; [Bill Moyers](https://en.wikipedia.org/wiki/Bill_Moyers)  
 
 "The whole point of society is to be less unforgiving than nature." &mdash; Arthur
 D. Hlavaty  
 
 "Mundus vult decipi, ergo decipiatur."  (The world would be deceived, so let it be
 deceived.) &mdash; misattributed to
-[Petronius the Arbiter](http://en.wikipedia.org/wiki/Mundus_vult_decipi,_ergo_decipiatur) 
+[Petronius the Arbiter](https://en.wikipedia.org/wiki/Mundus_vult_decipi,_ergo_decipiatur) 
 (27-66CE: the 
-[Neronian voluptuary and satirist](http://en.wikipedia.org/wiki/Petronius_Arbiter), 
-not [the cat](http://www.heinleinsociety.org/concordance/P_HC.htm#petroniusthearbiter))  
+[Neronian voluptuary and satirist](https://en.wikipedia.org/wiki/Petronius_Arbiter), 
+not [the cat](https://www.heinleinsociety.org/concordance/P_HC.htm#petroniusthearbiter))  
 
 "Times are bad. Children no longer obey their parents, and everyone is writing a book."
-&mdash; [Marcus Tullius Cicero](http://en.wikipedia.org/wiki/Cicero), Roman 
+&mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), Roman 
 statesman/orator/writer (106-43 BCE)  NB: Rome ruled for another 5 centuries  
 
-"The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true." &mdash; [James Branch Cabell](http://en.wikipedia.org/wiki/James_Branch_Cabell)  
+"The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true." &mdash; [James Branch Cabell](https://en.wikipedia.org/wiki/James_Branch_Cabell)  
 
 "You need &hellip; to know that you are fit for something better than slavery and cannon
-fodder." &mdash; [Eugene V. Debs](http://en.wikipedia.org/wiki/Eugene_Debs), 
+fodder." &mdash; [Eugene V. Debs](https://en.wikipedia.org/wiki/Eugene_Debs), 
 American socialist leader in early 20th century.  __NB:__ Debs was convicted, imprisoned, and 
-disenfranchised for [this speech](http://en.wikisource.org/wiki/Debs%27_Speech_of_Sedition)
+disenfranchised for [this speech](https://en.wikisource.org/wiki/Debs%27_Speech_of_Sedition)
 against World War I, delivered on June 16, 1918.  
 
 "First they ignore you, then they ridicule you, then they fight you, then you
-win." &mdash; [Gandhi](http://en.wikipedia.org/wiki/Mahatma_Gandhi)
+win." &mdash; [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
 
 "&hellip; we should catch young people before they become CEOs, investment bankers,
 consultants, and money managers, and do our best to poison their minds with humanity."
-&mdash; [Kurt Vonnegut](http://en.wikipedia.org/wiki/Kurt_Vonnegut)  
+&mdash; [Kurt Vonnegut](https://en.wikipedia.org/wiki/Kurt_Vonnegut)  
 
 "The test of our progress is not whether we add more to the abundance of those who have
 much; it is whether we provide enough for those who have too little." &mdash; 
-[Franklin D. Roosevelt](http://en.wikipedia.org/wiki/Franklin_D._Roosevelt)  
+[Franklin D. Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt)  
 
 "The rich aren't working hard enough because they're not being paid _enough_; the poor
 aren't working hard enough because they're being paid _too much_?"  &mdash; attributed to
-[J. K. Galbraith](http://en.wikipedia.org/wiki/John_Kenneth_Galbraith), satirizing neocon
+[J. K. Galbraith](https://en.wikipedia.org/wiki/John_Kenneth_Galbraith), satirizing neocon
 capitalism  
 
-"Authority is the mask of violence." &mdash; [Ralph Steadman](http://en.wikipedia.org/wiki/Ralph_Steadman)  
+"Authority is the mask of violence." &mdash; [Ralph Steadman](https://en.wikipedia.org/wiki/Ralph_Steadman)  
 
-"Certitude leads to violence."  &mdash; [Oliver Wendell Holmes](http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes%2C_Jr.)  
+"Certitude leads to violence."  &mdash; [Oliver Wendell Holmes](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes%2C_Jr.)  
 
 "Thieves respect property. They merely wish the property to become their property that
-they may more perfectly respect it." [G. K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton)  
+they may more perfectly respect it." [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
 
-"The poor object to being governed badly; the rich to being governed at all." &mdash; [G. K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton), [_The Man Who Was Thursday_](http://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday)  
+"The poor object to being governed badly; the rich to being governed at all." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [_The Man Who Was Thursday_](https://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday)  
 
 "When the master governs, people are hardly aware that he exists &hellip; when his work is
 done, the people say, 'Amazing:  we did it, all by ourselves!'" &mdash; 
-[_Tao te Ching_](http://en.wikipedia.org/wiki/Tao_te_ching), &num;17, transl. Stephen
+[_Tao te Ching_](https://en.wikipedia.org/wiki/Tao_te_ching), &num;17, transl. Stephen
 Mitchell  
 
 "Libertarianism. A simple-minded right-wing ideology ideally suited to those unable or
@@ -103,10 +103,10 @@ _Notices of the American Mathematical Society_, [Not. AMS 43:10, 1108](http://ww
 ## The Rational &amp; The Scientists
 
 "Never attribute to malice that which can be adequately explained by stupidity." 
-&mdash; [Hanlon's razor (1980)](http://en.wikipedia.org/wiki/Hanlon's_razor); but see: 
+&mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor); but see: 
 "You have attributed conditions to villainy that simply result from stupidity." 
-&mdash; [Robert Heinlein](http://en.wikipedia.org/wiki/Robert_A._Heinlein), 
-["Logic of Empire" (1941)](http://en.wikipedia.org/wiki/Logic_of_Empire)  
+&mdash; [Robert Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein), 
+["Logic of Empire" (1941)](https://en.wikipedia.org/wiki/Logic_of_Empire)  
 
 "What is true is already so.  
 Owning up to it doesn’t make it worse.  
@@ -116,7 +116,7 @@ Anything untrue isn’t there to be lived.
 People can stand what is true,  
 for they are already enduring it." &mdash; [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)  
 
-"Any sufficiently advanced JK Rowling is indistinguishable from magic." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky), [Harry Potter and the Methods of Rationality](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
+"Any sufficiently advanced JK Rowling is indistinguishable from magic." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky), [Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
 
 "&hellip; if you were ignorant about a phenomenon, that was a fact about your own state of mind, not
 a fact about the phenomenon itself; that your uncertainty was a fact about you, not a fact
