@@ -20,14 +20,50 @@ date: 2020-07-01
 - "Prediction is hard, especially when it's about the future."  
 - "What?  You mean right now?" &mdash; in response to "What time is it?"  
 
-"Numquam &quot;morde me&quot; lamiae dices." (Never say 'bite me' to a vampire.) &mdash; Nobody who will admit it, but quite likely a [Buffy](http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) fan  
+"Numquam 'morde me' lamiae dices." (Never say 'bite me' to a vampire.) &mdash; Nobody who will admit it, but quite likely a [Buffy](http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) fan  
 
 "Fait au Qu&eacute;bec par les Qu&eacute;b&eacute;cois/Made in Canada by Canadians."
 &mdash; ad campaign by Quebec-based Abris Penguin Shelters  
 
+## The Political &amp; The Economic  
+
+"Well, most politicians have nothing against reason, but they won't go out of their way
+to visit it."  &mdash; linguist [Geoffrey Nunberg](http://en.wikipedia.org/wiki/Geoffrey_Nunberg), 
+interviewed in Anna Mundow, "The Interview: with Geoffrey Nunberg", _Boston Globe_,
+30-July-2006, Ideas Section, p. D7.  
+
+"&hellip; political discourse is necessarily symbolic because the facts exceed our
+curiosity."  &mdash; attributed to 
+[Walter Lipmann](http://en.wikipedia.org/wiki/Walter_Lipmann), in Anna Mundow, "The
+Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7. </li>
+
+"One of the biggest changes in politics in my lifetime is that the delusional is no
+longer marginal." &mdash; [Bill Moyers](http://en.wikipedia.org/wiki/Bill_Moyers)  
+
+"The whole point of society is to be less unforgiving than nature." &mdash; Arthur
+D. Hlavaty  
+
+"Mundus vult decipi, ergo decipiatur."  (The world would be deceived, so let it be
+deceived.) &mdash; misattributed to
+[Petronius the Arbiter](http://en.wikipedia.org/wiki/Mundus_vult_decipi,_ergo_decipiatur) 
+(27-66CE: the 
+[Neronian voluptuary and satirist](http://en.wikipedia.org/wiki/Petronius_Arbiter), 
+not [the cat](http://www.heinleinsociety.org/concordance/P_HC.htm#petroniusthearbiter))  
+
+"Times are bad. Children no longer obey their parents, and everyone is writing a book."
+&mdash; [Marcus Tullius Cicero](http://en.wikipedia.org/wiki/Cicero), Roman 
+statesman/orator/writer (106-43 BCE)  NB: Rome ruled for another 5 centuries  
+
 "The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true." &mdash; [James Branch Cabell](http://en.wikipedia.org/wiki/James_Branch_Cabell)  
 
-## The Political &amp; The Economic  
+"You need &hellip; to know that you are fit for something better than slavery and cannon
+fodder." &mdash; [Eugene V. Debs](http://en.wikipedia.org/wiki/Eugene_Debs), 
+American socialist leader in early 20th century.  __NB:__ Debs was convicted, imprisoned, and 
+disenfranchised for [this speech](http://en.wikisource.org/wiki/Debs%27_Speech_of_Sedition)
+against World War I, delivered on June 16, 1918.  
+
+<li>First they ignore you, then they ridicule you, then they fight you, then you
+win. &mdash; <a href="http://en.wikipedia.org/wiki/Mahatma_Gandhi">Gandhi</a></li>
 
 "&hellip; we should catch young people before they become CEOs, investment bankers,
 consultants, and money managers, and do our best to poison their minds with humanity."
