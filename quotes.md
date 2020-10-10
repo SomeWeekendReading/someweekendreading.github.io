@@ -101,9 +101,8 @@ used the third derivative to advance his case for reelection." &mdash; Hugo Ross
 _Notices of the American Mathematical Society_, [Not. AMS 43:10, 1108](http://www.ams.org/notices/199610/page2.pdf).  
 
 "We are all [Kitty Genovese](https://en.wikipedia.org/wiki/Kitty_Genovese)'s 
-neighbors." &mdash; [_United States v. George W. Bush et al._](http://www.alternet.org/rights/44815/), 
-by former federal prosecutor 
-[Elizabeth de la Vega](http://www.thenation.com/directory/bios/elizabeth_de_la_vega)  
+neighbors." &mdash; _United States v. George W. Bush et al._, by former federal prosecutor 
+[Elizabeth de la Vega](https://www.thenation.com/authors/elizabeth-de-la-vega/)  
 
 "In the end, there's no justice.  There's just us."  &mdash; Who?
 
