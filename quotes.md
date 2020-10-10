@@ -34,7 +34,18 @@ asserted no human language uses double-positives to state a negative
 &mdash; [Sidney Morgenbesser](https://en.wikipedia.org/wiki/Sidney_Morgenbesser) (__NB:__
 "Pragmatism" here jokingly refers to a school of philosophy, of which Morgenbesser was one
 of the exponents; he's being self-deprecating to an audience of insiders.)
- 
+
+"Be who you are and say what you feel because those who mind don't matter and those who
+matter don't mind." &mdash; [Ted Geisel](https://en.wikipedia.org/wiki/Ted_Geisel)
+(&quot;Dr. Seuss&quot;)  
+
+"Nous naissons tous fous, quelques-uns le demeurent." (We are all born crazy, only some
+of us stay that way.) &mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Samuel_Beckett), _En attendant Godot_  
+
+"You don't have to run away to join the circus.  The circus is right here, and it's
+swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(singer-songwriter)) [Hardy](https://www.jackhardy.com/), &quot;Out of Control&quot;, [_The Mirror of My Madness_](http://www.jackhardy.com/jhdisco.html#mirror) (1976)  
+
+
 ## The Political &amp; The Economic  
 
 "Well, most politicians have nothing against reason, but they won't go out of their way
@@ -73,7 +84,7 @@ disenfranchised for [this speech](https://en.wikisource.org/wiki/Debs%27_Speech_
 against World War I, delivered on June 16, 1918.  
 
 "First they ignore you, then they ridicule you, then they fight you, then you
-win." &mdash; [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
+win." &mdash; [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)  
 
 "&hellip; we should catch young people before they become CEOs, investment bankers,
 consultants, and money managers, and do our best to poison their minds with humanity."
@@ -114,14 +125,30 @@ _Notices of the American Mathematical Society_, [Not. AMS 43:10, 1108](http://ww
 neighbors." &mdash; _United States v. George W. Bush et al._, by former federal prosecutor 
 [Elizabeth de la Vega](https://www.thenation.com/authors/elizabeth-de-la-vega/)  
 
-"In the end, there's no justice.  There's just us."  &mdash; Who?
+"In the end, there's no justice.  There's just us."  &mdash; Who?  
 
 "No, it's not fair. You're in the wrong universe for fair." 
-&mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)
+&mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)  
+
+"A man is incapable of comprehending any argument which interferes with his revenue."
+&mdash; [Ren&eacute; Descartes](https://en.wikipedia.org/wiki/Rene_Descartes) (But see also:
+"It's amazing how difficult it is for a man to understand something if he's paid a small
+fortune not to understand it." &mdash; [Upton Sinclair](https://en.wikipedia.org/wiki/Upton_Sinclair))  
+
+"The pursuit of self-interest does not necessarily lead to overall economic
+efficiency." &mdash; [Joseph Stiglitz](https://en.wikipedia.org/wiki/Joseph_Stiglitz)  
+
+:And in that state of nature, no arts; no letters; no society; and which is worst of
+all, continual fear and danger of violent death; and the life of man, solitary, poor,
+nasty, brutish, and short." 
+&mdash; [Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes), 
+[_Leviathan_](https://en.wikipedia.org/wiki/Leviathan_%28book%29)  
+
+
 
 ## The Rational &amp; The Scientists
 
-"Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo
+"Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo  
 
 "Never attribute to malice that which can be adequately explained by stupidity." 
 &mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor) (But see also: 
@@ -158,6 +185,10 @@ quoted in A. L. Mackay, _The Harvest of a Quiet Eye_, 1977.
 "We are all agreed that your theory is crazy. The question that divides us is whether it is
 crazy enough to have a chance of being correct." &mdash; Niels Bohr, on evaluating a
 colleague's work  
+
+"Education is the ability to listen to almost anything without losing your temper." 
+&mdash; [Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost)  
+
 
 ## The Religious  
 
@@ -202,6 +233,8 @@ perhaps one of the 20th century's greatest theologians
 injustice makes democracy necessary." &mdash; 
 [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
 
+"We could bring calamity on ourselves and the world by forgetting that even the most powerful nations &hellip; remain themselves creatures as well as creators of the historical process." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr), _The Irony of American History_(1952)  
+
 "It is said that science will dehumanize people and turn them into numbers.  That is
 false: tragically false.  Look for yourself.  This is the concentration camp and
 crematorium at Auschwitz.  This is where people were turned into numbers.  Into this
@@ -243,8 +276,8 @@ reason, and intellect has intended us to forego their use."
 &mdash; [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)  
 
 "&hellip; some are guilty, but all are responsible." 
-&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
 
 "When I was young, I used to admire intelligent people; as I grow older, I admire
 kind people." 
-&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
