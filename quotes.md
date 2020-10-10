@@ -165,23 +165,23 @@ whether you hold your peace, through love hold your peace; whether you cry out,
 through love cry out; whether you correct, through love correct; whether you spare,
 through love do you spare: let the root of love be within, of this root can nothing
 spring but what is good. &mdash; 
-[St. Augustine](http://en.wikipedia.org/wiki/Augustine_of_Hippo),
-[Homily 7 on 1 John](http://www.newadvent.org/fathers/170207.htm)  
+[St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo),
+[Homily 7 on 1 John](https://www.newadvent.org/fathers/170207.htm)  
 
 "Niebuhr was a critic of national innocence, which he regarded as a
 delusion. &hellip; &lsquo;Nations, as individuals, who are completely innocent in
 their own esteem,&rsquo; Niebuhr wrote, &lsquo;are insufferable in their human
 contacts.&rsquo; The self-righteous delusion of innocence encouraged a kind of
 Manichaeism dividing the world between good (us) and evil (our critics)."
-&mdash; [Arthur M. Schlesinger Jr.](http://en.wikipedia.org/wiki/Arthur_M._Schlesinger,_Jr.), in 
-["Forgetting Reinhold Niebuhr"](http://www.nytimes.com/2005/09/18/books/review/18schlesinger.html?_r=1&amp;pagewanted=1&amp;ei=5070&amp;en=ef79f3332f5e8629&amp;ex=1182744000&amp;oref=slogin), 
+&mdash; [Arthur M. Schlesinger Jr.](https://en.wikipedia.org/wiki/Arthur_M._Schlesinger,_Jr.), in 
+["Forgetting Reinhold Niebuhr"](https://www.nytimes.com/2005/09/18/books/review/forgetting-reinhold-niebuhr.html), 
 a NYT essay on why American conservative religious hysteria ignores 
-[Reinhold Niebuhr](http://en.wikipedia.org/wiki/Reinhold_Niebuhr),
+[Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr),
 perhaps one of the 20th century's greatest theologians  
 
 "Man's capacity for justice makes democracy possible; but man's inclination to
 injustice makes democracy necessary." &mdash; 
-[Reinhold Niebuhr](http://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
+[Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
 
 
 
