@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Quotes
+title: Quotes I've used from time to time
 permalink: /quotes/
 description: Quotes that amuse me
 tags: NotableAndQuotable
 date: 2020-07-01
 ---
-
-## General
 
 "Never attribute to malice that which can be adequately explained by stupidity." 
 &mdash; [Hanlon's razor (1980)](http://en.wikipedia.org/wiki/Hanlon's_razor); but see: 
@@ -35,6 +33,19 @@ much; it is whether we provide enough for those who have too little." &mdash;
 [Franklin D. Roosevelt](http://en.wikipedia.org/wiki/Franklin_D._Roosevelt)  
 
 "The rich aren't working hard enough because they're not being paid _enough_; the poor
-aren't working hard enough because they're being paid _too much?_"  &mdash; attributed to
+aren't working hard enough because they're being paid _too much_?"  &mdash; attributed to
 [J. K. Galbraith](http://en.wikipedia.org/wiki/John_Kenneth_Galbraith), satirizing neocon
 capitalism  
+
+"Numquam &quot;morde me&quot; lamiae dices." &mdash; Nobody who will admit it, but quite
+likely a [Buffy](http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) fan  
+
+"Authority is the mask of violence." &mdash; [Ralph Steadman](http://en.wikipedia.org/wiki/Ralph_Steadman)  
+
+"Certitude leads to violence."  &mdash; [Oliver Wendell Holmes](http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes%2C_Jr.)  
+
+"Thieves respect property. They merely wish the property to become their property that
+they may more perfectly respect it." [G. K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton)  
+
+"The poor object to being governed badly; the rich to being governed at all." &mdash; [G. K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton), [_The Man Who Was Thursday_](http://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday)  
+
