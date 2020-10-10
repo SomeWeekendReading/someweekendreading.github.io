@@ -35,7 +35,7 @@ interviewed in Anna Mundow, "The Interview: with Geoffrey Nunberg", _Boston Glob
 "&hellip; political discourse is necessarily symbolic because the facts exceed our
 curiosity."  &mdash; attributed to 
 [Walter Lipmann](http://en.wikipedia.org/wiki/Walter_Lipmann), in Anna Mundow, "The
-Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.
+Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.  
 
 "One of the biggest changes in politics in my lifetime is that the delusional is no
 longer marginal." &mdash; [Bill Moyers](http://en.wikipedia.org/wiki/Bill_Moyers)  
@@ -132,10 +132,7 @@ finding that we must learn a great deal more about 'and'." &mdash; Sir Arthur Ed
 quoted in A. L. Mackay, _The Harvest of a Quiet Eye_, 1977.  
 
 "Not only is the universe stranger than we imagine, it is stranger than we can imagine."
-&mdash; Sir Arthur Eddington  
-
-"Not only is the universe stranger than we suspect; it is stranger than we can
-suspect." &mdash; J. B. S. Haldane  
+&mdash; Sir Arthur Eddington.  See also: "Not only is the universe stranger than we suspect; it is stranger than we can suspect." &mdash; J. B. S. Haldane  
 
 "We are all agreed that your theory is crazy. The question that divides us is whether it is
 crazy enough to have a chance of being correct." &mdash; Niels Bohr, on evaluating a
