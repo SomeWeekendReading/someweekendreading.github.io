@@ -100,6 +100,16 @@ of inflation was decreasing. This was the first time a sitting president
 used the third derivative to advance his case for reelection." &mdash; Hugo Rossi, Editor of
 _Notices of the American Mathematical Society_, [Not. AMS 43:10, 1108](http://www.ams.org/notices/199610/page2.pdf).  
 
+"We are all [Kitty Genovese](https://en.wikipedia.org/wiki/Kitty_Genovese)'s 
+neighbors." &mdash; [_United States v. George W. Bush et al._](http://www.alternet.org/rights/44815/), 
+by former federal prosecutor 
+[Elizabeth de la Vega](http://www.thenation.com/directory/bios/elizabeth_de_la_vega)  
+
+"In the end, there's no justice.  There's just us."  &mdash; Who?
+
+"No, it's not fair. You're in the wrong universe for fair." 
+&mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)
+
 ## The Rational &amp; The Scientists
 
 "Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo
@@ -222,4 +232,11 @@ _De Genesi ad litteram libri duodecim_ (_The Literal Meaning of Genesis_)
 "I do not feel obliged to believe that the same God who has endowed us with sense,
 reason, and intellect has intended us to forego their use."
 &mdash; [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)  
+
+"&hellip; some are guilty, but all are responsible." 
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)
+
+"When I was young, I used to admire intelligent people; as I grow older, I admire
+kind people." 
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)
 
