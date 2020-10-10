@@ -102,11 +102,13 @@ _Notices of the American Mathematical Society_, [Not. AMS 43:10, 1108](http://ww
 
 ## The Rational &amp; The Scientists
 
+"Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo
+
 "Never attribute to malice that which can be adequately explained by stupidity." 
-&mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor); but see: 
+&mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor) (But see also: 
 "You have attributed conditions to villainy that simply result from stupidity." 
 &mdash; [Robert Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein), 
-["Logic of Empire" (1941)](https://en.wikipedia.org/wiki/Logic_of_Empire)  
+["Logic of Empire" (1941)](https://en.wikipedia.org/wiki/Logic_of_Empire))  
 
 "What is true is already so.  
 Owning up to it doesn’t make it worse.  
@@ -125,14 +127,14 @@ reality; that a blank map did not correspond to a blank territory. There were my
 questions, but a mysterious answer was a contradiction in terms." 
 &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky), channelling 
 ET Jaynes in 
-[Harry Potter and the Methods of Rationality](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
+[Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
 
 "We used to think that if we knew one, we knew two, because one and one are two. We are
 finding that we must learn a great deal more about 'and'." &mdash; Sir Arthur Eddington,
 quoted in A. L. Mackay, _The Harvest of a Quiet Eye_, 1977.  
 
 "Not only is the universe stranger than we imagine, it is stranger than we can imagine."
-&mdash; Sir Arthur Eddington.  See also: "Not only is the universe stranger than we suspect; it is stranger than we can suspect." &mdash; J. B. S. Haldane  
+&mdash; Sir Arthur Eddington.  (But see also: "Not only is the universe stranger than we suspect; it is stranger than we can suspect." &mdash; J. B. S. Haldane)  
 
 "We are all agreed that your theory is crazy. The question that divides us is whether it is
 crazy enough to have a chance of being correct." &mdash; Niels Bohr, on evaluating a
