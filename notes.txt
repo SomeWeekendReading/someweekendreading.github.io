@@ -280,6 +280,8 @@ TODOs: These should be GitHub issues!
 
 *** put merit badges in nav bar with icons.
 
+*** search this blog
+
 *** Tags aren't working in .md files in root or /assets/ all 1 tag, as revealed by HTML checker:
     <a href="/tags/#SomebodyAskedMe About R">
 
