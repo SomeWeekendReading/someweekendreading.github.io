@@ -35,7 +35,7 @@ interviewed in Anna Mundow, "The Interview: with Geoffrey Nunberg", _Boston Glob
 "&hellip; political discourse is necessarily symbolic because the facts exceed our
 curiosity."  &mdash; attributed to 
 [Walter Lipmann](http://en.wikipedia.org/wiki/Walter_Lipmann), in Anna Mundow, "The
-Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7. </li>
+Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.
 
 "One of the biggest changes in politics in my lifetime is that the delusional is no
 longer marginal." &mdash; [Bill Moyers](http://en.wikipedia.org/wiki/Bill_Moyers)  
@@ -62,8 +62,8 @@ American socialist leader in early 20th century.  __NB:__ Debs was convicted, im
 disenfranchised for [this speech](http://en.wikisource.org/wiki/Debs%27_Speech_of_Sedition)
 against World War I, delivered on June 16, 1918.  
 
-<li>First they ignore you, then they ridicule you, then they fight you, then you
-win. &mdash; <a href="http://en.wikipedia.org/wiki/Mahatma_Gandhi">Gandhi</a></li>
+"First they ignore you, then they ridicule you, then they fight you, then you
+win." &mdash; [Gandhi](http://en.wikipedia.org/wiki/Mahatma_Gandhi)
 
 "&hellip; we should catch young people before they become CEOs, investment bankers,
 consultants, and money managers, and do our best to poison their minds with humanity."
