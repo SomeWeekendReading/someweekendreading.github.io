@@ -25,6 +25,16 @@ date: 2020-07-01
 "Fait au Qu&eacute;bec par les Qu&eacute;b&eacute;cois/Made in Canada by Canadians."
 &mdash; ad campaign by Quebec-based Abris Penguin Shelters  
 
+"Yeah, right." &mdash; [Sidney Morgenbesser](https://en.wikipedia.org/wiki/Sidney_Morgenbesser), 
+during a lecture by the Oxford linguist 
+[J. L. Austin](https://en.wikipedia.org/wiki/J._L._Austin), in which Austin
+asserted no human language uses double-positives to state a negative  
+
+"Pragmatism is great in theory, but it doesn't work in practice."
+&mdash; [Sidney Morgenbesser](https://en.wikipedia.org/wiki/Sidney_Morgenbesser) (__NB:__
+"Pragmatism" here jokingly refers to a school of philosophy, of which Morgenbesser was one
+of the exponents; he's being self-deprecating to an audience of insiders.)
+ 
 ## The Political &amp; The Economic  
 
 "Well, most politicians have nothing against reason, but they won't go out of their way
@@ -238,4 +248,3 @@ reason, and intellect has intended us to forego their use."
 "When I was young, I used to admire intelligent people; as I grow older, I admire
 kind people." 
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)
-
