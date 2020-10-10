@@ -189,26 +189,25 @@ crematorium at Auschwitz.  This is where people were turned into numbers.  Into 
 pond were flushed the ashes of four million people.  And that was not done by gas.  It
 was done by arrogance.  It was done by dogma.  It was done by ignorance.  When people
 believe that they have absolute knowledge, with no test in reality &mdash; this is how
-they behave.  This is what men do when they aspire to the knowledge of gods&hellip;  
-In the end, the words were said by Oliver Cromwell: I beseech you, in the bowels of
-Christ: Think it possible you may be mistaken. &mdash; Jacob Bronowski, _The Ascent of
+they behave.  This is what men do when they aspire to the knowledge of gods&hellip;
+In the end, the words were said by Oliver Cromwell: 'I beseech you, in the bowels of
+Christ: Think it possible you may be mistaken.'" &mdash; Jacob Bronowski, _The Ascent of
 Man_  
 
 "They lied to you. The Devil is not the Prince of Matter; the Devil is the arrogance of
 the spirit, faith without smile, truth that is never seized by doubt. The Devil is grim
 because he knows where he is going, and, in moving, he always returns whence he came."
-&mdash; [Umberto Eco](http://en.wikipedia.org/wiki/Umberto_Eco), _The Name of the Rose_  
+&mdash; [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco), _The Name of the Rose_  
 
 "Adam was but human &mdash; this explains it all. He did not want the apple for the apple's
 sake, he wanted it only because it was forbidden. The mistake was in not forbidding the
 serpent; then he would have eaten the serpent." 
-&mdash; [Mark Twain](http://en.wikipedia.org/wiki/Mark_twain)  
+&mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
 
-"Faith is something more to be struggled with than had." 
-&mdash; [Jeremy Ahouse](http://jeremyahouse.com/)  
+"Faith is something more to be struggled with than had." &mdash; Jeremy Ahouse  
 
 "Doubt isn't the opposite of faith; it is an element of faith."
-&mdash; [Paul Tillich](http://en.wikipedia.org/wiki/Paul_Tillich)  
+&mdash; [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich)  
 
 "Often a non-Christian knows something about the earth, the heavens, and the other
 parts of the world, about the motions and orbits of the stars and even their sizes and
@@ -217,10 +216,10 @@ experience. It is thus offensive and disgraceful for an unbeliever to hear a Chr
 talk nonsense about such things, claiming that what he is saying is based in
 Scripture. We should do all that we can to avoid such an embarrassing situation, lest
 the unbeliever see only ignorance in the Christian and laugh to scorn."
-&mdash; [Augustine of Hippo](http://en.wikipedia.org/wiki/Augustine_of_Hippo), 
+&mdash; [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo), 
 _De Genesi ad litteram libri duodecim_ (_The Literal Meaning of Genesis_)  
 
 "I do not feel obliged to believe that the same God who has endowed us with sense,
 reason, and intellect has intended us to forego their use."
-&mdash; [Galileo Galilei](http://en.wikipedia.org/wiki/Galileo_Galilei)  
+&mdash; [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)  
 
