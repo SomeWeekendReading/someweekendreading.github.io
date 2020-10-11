@@ -7,6 +7,8 @@ tags: NotableAndQuotable
 date: 2020-07-01
 ---
 
+"A witty saying proves nothing." &mdash; <a href="https://en.wikipedia.org/wiki/Voltaire">Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;</a> (1694-1778)
+
 ## The Surreal  
 
 "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read."
@@ -288,9 +290,9 @@ kind people."
 - "There is no evolutionary premium on elegance.  Life is a kludge."  
 - "&lsquo;This sentence is true&rsquo; &ndash; why isn't that as outrageous as the other one?"  
 - "Serendipity is wherever you find it."  
-- "You can't plan serendipity -- give _chance_ a chance."  
+- "You can't plan serendipity -- give _chance_ a chance!"  
 - "I once tried a meta-search engine, but all it gave me was serendipity."  
-- "Don't tell me I didn't tell you I wasn't going to tell you I told you so."  
+- "Don't tell me I didn't tell you I wasn't going to tell you I told you so!"  
 - "Never offer a predator a second bite."  
 - "Are you going to break the rules, or are the rules going to break you?"  
 - "People are so intent on bashing each others brains out with authoritative quotes from impressively ancient tomes that they often forget to read those lovely old books to find out what's actually in them."  
