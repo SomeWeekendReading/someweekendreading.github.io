@@ -87,15 +87,16 @@ point of [_mip'nei tikkun ha'olam_](https://en.wikipedia.org/wiki/Tikkun_olam):
 ## Notes  
 
 <a id="fn1">1</a>: Haber is a _provisional_ member of the club, as he is also to some
-extent the father of modern chemical warfare.  Opinion on his membership status is
-divided. [↩](#fn1a)  
+extent the father of modern chemical warfare.  Opinion on his membership status is therefore
+somewhat divided. [↩](#fn1a)  
 
 <a id="fn2">2</a>: Though, admittedly, at huge costs in fossil-fuel-derived fertilizers.
 Probably a net win overall, but climate change may change our opinion here, as well. [↩](#fn2a)  
 
 <a id="fn3">3</a>: An eccentric but fascinating community of people attempting to become
 more rational, more deliberate, more responsive to evidence, and able to live better
-lives.  Like all such attempts, they have their good days and bad days.  See, e.g., the
+lives less in thrall to [ἀκρασία](https://en.wikipedia.org/wiki/Akrasia).  Like all such
+attempts, they have their good days and bad days.  See, e.g., the 
 [_Less Wrong_ blog community](https://www.lesswrong.com/). [↩](#fn3a)  
 
 ## References  
