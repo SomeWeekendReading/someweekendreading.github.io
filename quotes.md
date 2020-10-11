@@ -286,7 +286,7 @@ kind people."
 - "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)  
 - "Freedom is the mastery of form."  
 - "There is no evolutionary premium on elegance.  Life is a kludge."  
-- "&lsquot;This sentence is true&rsquot; &ndash; why isn't that as outrageous as the other one?"  
+- "&lsquo;This sentence is true&rsquo; &ndash; why isn't that as outrageous as the other one?"  
 - "Serendipity is wherever you find it."  
 - "You can't plan serendipity -- give Chance a chance."  
 - "I once tried a meta-search engine, but all it gave me was serendipity."  
