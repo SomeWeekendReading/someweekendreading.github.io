@@ -195,7 +195,23 @@ colleague's work
 "Nothing worth doing is completed in our lifetime; therefore, we are saved by hope. 
 Nothing true or beautiful or good makes complete sense in any immediate context of history; 
 therefore, we are saved by faith.  Nothing we do, however virtuous, can be accomplished
-alone; therefore, we are saved by love."  &mdash; Reinhold Niebuhr  
+alone; therefore, we are saved by love." 
+&mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
+
+"Niebuhr was a critic of national innocence, which he regarded as a
+delusion. &hellip; &lsquo;Nations, as individuals, who are completely innocent in
+their own esteem,&rsquo; Niebuhr wrote, &lsquo;are insufferable in their human
+contacts.&rsquo; The self-righteous delusion of innocence encouraged a kind of
+Manichaeism dividing the world between good (us) and evil (our critics)."
+&mdash; [Arthur M. Schlesinger Jr.](https://en.wikipedia.org/wiki/Arthur_M._Schlesinger,_Jr.), in 
+["Forgetting Reinhold Niebuhr"](https://www.nytimes.com/2005/09/18/books/review/forgetting-reinhold-niebuhr.html), 
+a NYT essay on why American conservative religious hysteria ignores 
+[Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr),
+perhaps one of the 20th century's greatest theologians  
+
+"Man's capacity for justice makes democracy possible; but man's inclination to injustice makes democracy necessary." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
+
+"We could bring calamity on ourselves and the world by forgetting that even the most powerful nations &hellip; remain themselves creatures as well as creators of the historical process." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr), _The Irony of American History_(1952)  
 
 "Reality is that which, when you stop believing in it, doesn't go away." &mdash; Phillip K
 Dick  
@@ -217,23 +233,6 @@ through love do you spare: let the root of love be within, of this root can noth
 spring but what is good. &mdash; 
 [St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo),
 [Homily 7 on 1 John](https://www.newadvent.org/fathers/170207.htm)  
-
-"Niebuhr was a critic of national innocence, which he regarded as a
-delusion. &hellip; &lsquo;Nations, as individuals, who are completely innocent in
-their own esteem,&rsquo; Niebuhr wrote, &lsquo;are insufferable in their human
-contacts.&rsquo; The self-righteous delusion of innocence encouraged a kind of
-Manichaeism dividing the world between good (us) and evil (our critics)."
-&mdash; [Arthur M. Schlesinger Jr.](https://en.wikipedia.org/wiki/Arthur_M._Schlesinger,_Jr.), in 
-["Forgetting Reinhold Niebuhr"](https://www.nytimes.com/2005/09/18/books/review/forgetting-reinhold-niebuhr.html), 
-a NYT essay on why American conservative religious hysteria ignores 
-[Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr),
-perhaps one of the 20th century's greatest theologians  
-
-"Man's capacity for justice makes democracy possible; but man's inclination to
-injustice makes democracy necessary." &mdash; 
-[Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
-
-"We could bring calamity on ourselves and the world by forgetting that even the most powerful nations &hellip; remain themselves creatures as well as creators of the historical process." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr), _The Irony of American History_(1952)  
 
 "It is said that science will dehumanize people and turn them into numbers.  That is
 false: tragically false.  Look for yourself.  This is the concentration camp and
