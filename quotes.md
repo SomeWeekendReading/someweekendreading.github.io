@@ -234,6 +234,16 @@ spring but what is good. &mdash;
 [St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo),
 [Homily 7 on 1 John](https://www.newadvent.org/fathers/170207.htm)  
 
+"Often a non-Christian knows something about the earth, the heavens, and the other
+parts of the world, about the motions and orbits of the stars and even their sizes and
+distances,&hellip;  and this knowledge he holds with certainty from reason and
+experience. It is thus offensive and disgraceful for an unbeliever to hear a Christian
+talk nonsense about such things, claiming that what he is saying is based in
+Scripture. We should do all that we can to avoid such an embarrassing situation, lest
+the unbeliever see only ignorance in the Christian and laugh to scorn."
+&mdash; [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo), 
+_De Genesi ad litteram libri duodecim_ (_The Literal Meaning of Genesis_)  
+
 "It is said that science will dehumanize people and turn them into numbers.  That is
 false: tragically false.  Look for yourself.  This is the concentration camp and
 crematorium at Auschwitz.  This is where people were turned into numbers.  Into this
@@ -259,16 +269,6 @@ serpent; then he would have eaten the serpent."
 
 "Doubt isn't the opposite of faith; it is an element of faith."
 &mdash; [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich)  
-
-"Often a non-Christian knows something about the earth, the heavens, and the other
-parts of the world, about the motions and orbits of the stars and even their sizes and
-distances,&hellip;  and this knowledge he holds with certainty from reason and
-experience. It is thus offensive and disgraceful for an unbeliever to hear a Christian
-talk nonsense about such things, claiming that what he is saying is based in
-Scripture. We should do all that we can to avoid such an embarrassing situation, lest
-the unbeliever see only ignorance in the Christian and laugh to scorn."
-&mdash; [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo), 
-_De Genesi ad litteram libri duodecim_ (_The Literal Meaning of Genesis_)  
 
 "I do not feel obliged to believe that the same God who has endowed us with sense,
 reason, and intellect has intended us to forego their use."
