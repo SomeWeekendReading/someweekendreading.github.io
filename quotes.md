@@ -281,7 +281,7 @@ reason, and intellect has intended us to forego their use."
 kind people." 
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
 
-## Your Humble Weekend Editor
+## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com)
 
 - "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)  
 - "Freedom is the mastery of form."  
