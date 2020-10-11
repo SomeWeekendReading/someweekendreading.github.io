@@ -280,3 +280,29 @@ reason, and intellect has intended us to forego their use."
 "When I was young, I used to admire intelligent people; as I grow older, I admire
 kind people." 
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+
+## Your Humble Weekend Editor
+
+- "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)  
+- "Freedom is the mastery of form."  
+- "There is no evolutionary premium on elegance.  Life is a kludge."  
+- "&lsquot;This sentence is true&rsquot; &ndash; why isn't that as outrageous as the other one?"  
+- "Serendipity is wherever you find it."  
+- "You can't plan serendipity -- give Chance a chance."  
+- "I once tried a meta-search engine, but all it gave me was serendipity."  
+- "Don't tell me I didn't tell you I wasn't going to tell you I told you so."  
+- "Never offer a predator a second bite."  
+- "Are you going to break the rules, or are the rules going to break you?"  
+- "People are so intent on bashing each others brains out with authoritative quotes from impressively ancient tomes that they often forget to read those lovely old books to find out what's actually in them."  
+- "If you're always at your best, then your range is too narrow."  
+- "Learn to love good, then live as you please." (Possibly inspired by Augustine's homily on John, above?)  
+- "Doubt is what keeps you from believing stupid stuff; fear is what keeps you from _doing_ stupid stuff."  
+- "Authority is a poor excuse for leadership.  Real authority comes from truth, not power."  
+- "Certainty is just an excuse not to listen to new evidence."  
+- "Just because you see an example of something being done badly doesn't mean it cannot also be done well."  
+- "Scientists talk about nature; cranks talk about themselves."  
+- "It never pays to humiliate an opponent.  Defeat, disarm, divert, coopt, compromise, befriend, &hellip; never humiliate.  
+- "If you're gonna lose your grip on reality, let go with _both_ hands.  No half measures!"  
+- "If you don't have a solution, you can always admire the problem."  
+- "An archetype is what you get when you factor-analyze a real person."  
+- "Look&hellip; if I could _explain_ it, it wouldn't _be_ transcendant in the first place, now would it?"  
