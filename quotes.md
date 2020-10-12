@@ -11,7 +11,7 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political-the-economic), [The Rational &amp; The Scientists](#the-rational--the-scientists), [The Statistical](#the-statistical), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
+__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political--the-economic), [The Rational &amp; The Scientists](#the-rational--the-scientists), [The Statistical](#the-statistical), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
 ## The Surreal  
 
