@@ -13,7 +13,7 @@ date: 2020-07-01
 
 __Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political-and-economic), [The Rational &amp; The Scientists](#the-rational-and-the-scientists), [The Statistical](#the-statistical), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
-## The Surreal ##{#the-surreal}  
+## The Surreal  
 
 "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read."
 &mdash; [Groucho Marx](https://en.wikipedia.org/wiki/Groucho_marx)  
