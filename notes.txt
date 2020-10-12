@@ -284,8 +284,8 @@ TODOs: These should be GitHub issues!
 
 *** Tags aren't working in .md files in root or /assets/ all 1 tag, as revealed by HTML checker:
     <a href="/tags/#SomebodyAskedMe About R">
-    Also, they're not in the sitemap?! (about, quotes, etc.)
     Also, they're not in the RSS feed?!
+    But they are in the sitemap.  I do the sitemap, the feed is somewhere inside Jekyll.
 
 *** Figure out how to self-host the material icons
     https://github.com/google/material-design-icons/tree/master/font
