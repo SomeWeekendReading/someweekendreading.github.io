@@ -47,6 +47,13 @@ of us stay that way.) &mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Sam
 "You don't have to run away to join the circus.  The circus is right here, and it's
 swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(singer-songwriter)) [Hardy](https://www.jackhardy.com/), &quot;Out of Control&quot;, [_The Mirror of My Madness_](http://www.jackhardy.com/jhdisco.html#mirror) (1976)  
 
+[W.C. Fields](https://en.wikipedia.org/wiki/WC_Fields): &quot;How do you do, Miss West?&quot;<br>
+[Mae West](https://en.wikipedia.org/wiki/Mae_West)</a>: &quot;How do you do _what_?&quot;  
+
+"When you're running down the street on fire, people get out of your way."
+&mdash; [Richard Pryor](https://en.wikipedia.org/wiki/Richard_Pryor)  
+
+"Because that's where the money is." &mdash; [Willie Sutton](https://en.wikipedia.org/wiki/Willie_Sutton), upon being asked why he robbed banks
 
 ## The Political &amp; The Economic  
 
@@ -55,10 +62,28 @@ to visit it."  &mdash; linguist [Geoffrey Nunberg](https://en.wikipedia.org/wiki
 interviewed in Anna Mundow, "The Interview: with Geoffrey Nunberg", _Boston Globe_,
 30-July-2006, Ideas Section, p. D7.  
 
+"Before mass leaders seize the power to fit reality to their lies, their propaganda is
+marked by its extreme contempt for facts as such, for in their opinion fact depends
+entirely on the power of the man who can fabricate it."
+&mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt), 
+_The Origins of Totalitarianism_, 1973, p. 350.  
+
+"The whole aim of practical politics is to keep the populace alarmed (and hence
+clamorous to be led to safety) by an endless series of hobgoblins, most of them
+imaginary." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
+
+"To announce that there must be no criticism of the president, or that we are to stand
+by the president, right or wrong, is not only unpatriotic and servile, but is morally
+treasonable to the American public." 
+&mdash; President [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_roosevelt)  
+
 "&hellip; political discourse is necessarily symbolic because the facts exceed our
 curiosity."  &mdash; attributed to 
 [Walter Lipmann](https://en.wikipedia.org/wiki/Walter_Lippmann), in Anna Mundow, "The
 Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.  
+
+"Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; whilst you find a rock.
+&mdash; attributed to Charles Maurice de Talleyrand-P&eacute;rigord  
 
 "One of the biggest changes in politics in my lifetime is that the delusional is no
 longer marginal." &mdash; [Bill Moyers](https://en.wikipedia.org/wiki/Bill_Moyers)  
@@ -140,13 +165,26 @@ fortune not to understand it." &mdash; [Upton Sinclair](https://en.wikipedia.org
 "The pursuit of self-interest does not necessarily lead to overall economic
 efficiency." &mdash; [Joseph Stiglitz](https://en.wikipedia.org/wiki/Joseph_Stiglitz)  
 
-:And in that state of nature, no arts; no letters; no society; and which is worst of
+"And in that state of nature, no arts; no letters; no society; and which is worst of
 all, continual fear and danger of violent death; and the life of man, solitary, poor,
 nasty, brutish, and short." 
 &mdash; [Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes), 
 [_Leviathan_](https://en.wikipedia.org/wiki/Leviathan_%28book%29)  
 
+[George Santayana](https://en.wikipedia.org/wiki/George_Santayana):
+- "Fanaticism consists in redoubling your efforts when you have forgotten your aim." &mdash; _Life of Reason_ (1905) Vol I, &quot;Introduction&quot;  
+- "The truth is cruel, but it can be loved, and it makes free those who have loved it." &mdash; _Little Essays_ (1920) &quot;Ideal Immortality&quot;  
+- "Skepticism is the chastity of the intellect, and it is shameful to surrender it too soon or to the first comer." &mdash; _Skepticism and Animal Faith_ (1923)  
+- "Those who cannot learn from history are doomed to repeat it."  
 
+"Those who profess to favor freedom, yet depreciate agitation, are men who want crops
+without plowing up the ground.  They want rain without thunder and lightning. They want the
+ocean without the awful roar of its many waters.  This struggle may be a moral one; or it
+may be a physical one; or it may be both moral and physical; but it must be a
+struggle.  Power concedes nothing without a demand.  It never did and it never will."
+&mdash; [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass), 
+American [abolitionist](https://en.wikipedia.org/wiki/Abolitionism), letter to an
+associate (1849)  
 
 ## The Rational &amp; The Scientists
 
@@ -190,6 +228,9 @@ colleague's work
 
 "Education is the ability to listen to almost anything without losing your temper." 
 &mdash; [Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost)  
+
+
+"The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
 
 
 ## The Religious  
@@ -261,6 +302,9 @@ Man_
 the spirit, faith without smile, truth that is never seized by doubt. The Devil is grim
 because he knows where he is going, and, in moving, he always returns whence he came."
 &mdash; [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco), _The Name of the Rose_  
+
+"Tradition is not the worship of ashes, but the preservation of fire."
+&mdash; [Gustav Mahler](https://en.wikipedia.org/wiki/Gustav_Mahler)
 
 "Adam was but human &mdash; this explains it all. He did not want the apple for the apple's
 sake, he wanted it only because it was forbidden. The mistake was in not forbidding the
