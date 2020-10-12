@@ -288,13 +288,37 @@ His purpose." &mdash; [Florence Nightingale](https://en.wikipedia.org/wiki/Flore
 "Statistical thinking will one day be as necessary for efficient citizenship as the
 ability to read and write." &mdash; [H.G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)  
 
-"Statistics don't work on people whose sense of superiority depends on not understanding
-statistics." &mdash; Who?  
-
 "If people aren't given well-founded methods ..., they'll just use dubious ones
 instead."  &mdash; [Jonathan Tawn](http://www.maths.lancs.ac.uk/department/info/people/person/tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
 
 "Extreme Value Theory is too expensive to ignore." &mdash; Valérie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](http://www.approximity.com/papers/evt_wp.pdf), 8-Jan-2004.  
+
+"Statistics don't work on people whose sense of superiority depends on not understanding
+statistics." &mdash; Who?  
+
+"If your result needs a statistician, then you should design a better experiment." &mdash;
+[Ernest Rutherford, 1st Baron Rutherford of Nelson and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  
+
+"Statistical and applied probabilistic knowledge is the core of knowledge; statistics is
+what tells you if something is true, false, or merely anecdotal; it is the 'logic of
+science'; it is the instrument of risk-taking; it is the applied tools of epistemology;
+you can't be a modern intellectual and not think probabilistically &mdash; but... let's not be
+suckers. The problem is much more complicated than it seems to the casual, mechanistic
+user who picked it up in graduate school. Statistics can fool you." 
+&mdash; [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), 
+[The Fourth Quadrant: a Map of the Limits of Statistics](http://www.edge.org/3rd_culture/taleb08/taleb08_index.html)  
+
+"But statistical regularities, like facts, are stubborn things. You bet against them at your peril." &mdash; [Alan S. Blinder](https://en.wikipedia.org/wiki/Alan_Blinder), Princeton economics professor &amp; former vice chair of the Federal Reserve, ["Is History Siding with Obama's Economic Plan?"](http://www.nytimes.com/2008/08/31/business/31view.html), NYT 30-Aug-2008.  
+
+"It is easy to lie with statistics." &mdash; [Darrell Huff](https://en.wikipedia.org/wiki/Darrell_Huff), [_How to Lie with Statistics_](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics).  (But see: "It is easier to lie without them." &amp; [Frederick Mosteller](https://en.wikipedia.org/wiki/Frederick_Mosteller), founding chair of the Harvard statistics department.)  
+
+"Most people use statistics the way a drunk uses a lamp post -- more for support than
+enlightenment." &mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)  
+
+"A big computer, a complex algorithm and a long time does not equal science." 
+&mdash; [Robert Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)), 
+one of the invetors of [R](https://en.wikipedia.org/wiki/R_(programming_language)), 
+at SSC 2003, Halifax (June 2003).  
 
 
 ## <a id="the-religious">The Religious</a>  
