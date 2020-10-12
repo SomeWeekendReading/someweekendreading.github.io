@@ -69,7 +69,7 @@ works for the lawyer who presents cases before the supreme court", from
 [back](https://catdynamics.blogspot.com/))  
 
 
-## <a id="#the-political-and-economic">The Political &amp; The Economic</a>  
+## <a id="the-political-and-economic">The Political &amp; The Economic</a>  
 
 "A little patience, and we shall see the reign of witches pass over, their spells
 dissolve, and the people, recovering their true sight, restore their government to its
