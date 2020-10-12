@@ -11,7 +11,7 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political-and-economic), [The Rational &amp; The Scientists](#the-rational-and-the-scientists), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
+__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political-and-economic), [The Rational &amp; The Scientists](#the-rational-and-the-scientists), [The Statistical](#the-statistical), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
 ## <a id="the-surreal">The Surreal</a>  
 
@@ -275,6 +275,26 @@ colleague's work
 &mdash; [Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost)  
 
 "The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
+
+
+## <a id="the-statistical">The Statistical</a>  
+
+"The best thing about being a statistician is that you get to play in everyone's
+backyard."  &mdash; [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)  
+
+"To understand God's thoughts we must study statistics, for these are the measures of
+His purpose." &mdash; [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) (1820-1910)  
+
+"Statistical thinking will one day be as necessary for efficient citizenship as the
+ability to read and write." &mdash; [H.G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)  
+
+"Statistics don't work on people whose sense of superiority depends on not understanding
+statistics." &mdash; Who?  
+
+"If people aren't given well-founded methods ..., they'll just use dubious ones
+instead."  &mdash; [Jonathan Tawn](http://www.maths.lancs.ac.uk/department/info/people/person/tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
+
+"Extreme Value Theory is too expensive to ignore." &mdash; Valérie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](http://www.approximity.com/papers/evt_wp.pdf), 8-Jan-2004.  
 
 
 ## <a id="the-religious">The Religious</a>  
