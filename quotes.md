@@ -41,16 +41,16 @@ of the exponents; he's being self-deprecating to an audience of insiders.)
 
 "Be who you are and say what you feel because those who mind don't matter and those who
 matter don't mind." &mdash; [Ted Geisel](https://en.wikipedia.org/wiki/Ted_Geisel)
-(&quot;Dr. Seuss&quot;)  
+("Dr. Seuss")  
 
 "Nous naissons tous fous, quelques-uns le demeurent." (We are all born crazy, only some
 of us stay that way.) &mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Samuel_Beckett), _En attendant Godot_  
 
 "You don't have to run away to join the circus.  The circus is right here, and it's
-swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(singer-songwriter)) [Hardy](https://www.jackhardy.com/), &quot;Out of Control&quot;, [_The Mirror of My Madness_](http://www.jackhardy.com/jhdisco.html#mirror) (1976)  
+swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(singer-songwriter)) [Hardy](https://www.jackhardy.com/), "Out of Control", [_The Mirror of My Madness_](http://www.jackhardy.com/jhdisco.html#mirror) (1976)  
 
-[W.C. Fields](https://en.wikipedia.org/wiki/WC_Fields): &quot;How do you do, Miss West?&quot;<br>
-[Mae West](https://en.wikipedia.org/wiki/Mae_West): &quot;How do you do _what_?&quot;  
+[W.C. Fields](https://en.wikipedia.org/wiki/WC_Fields): "How do you do, Miss West?"<br>
+[Mae West](https://en.wikipedia.org/wiki/Mae_West): "How do you do _what_?"  
 
 "When you're running down the street on fire, people get out of your way."
 &mdash; [Richard Pryor](https://en.wikipedia.org/wiki/Richard_Pryor)  
@@ -58,8 +58,8 @@ swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(s
 "Because that's where the money is." &mdash; [Willie Sutton](https://en.wikipedia.org/wiki/Willie_Sutton), upon being asked why he robbed banks
 
 "H&aelig;star&eacute;ttarm&aacute;laflutningsl&ouml;gmannsvinnukonu&uacute;tidyralyklakippuhringurinn" 
-&mdash; In Icelandic, &quot;the key ring holding the front door key belonging to the maid who
-works for the lawyer who presents cases before the supreme court&quot;, from 
+&mdash; In Icelandic, "the key ring holding the front door key belonging to the maid who
+works for the lawyer who presents cases before the supreme court", from 
 [Steinn Sigur&eth;sson](http://www.astro.psu.edu/users/steinn/), of the
 [PSU Astro Dept](http://www.astro.psu.edu/main/), in his blog
 [Dynamics of Cats](http://catdynamics.blogspot.com/2006/01/htidyralyklakippuhringurinn.html)
@@ -111,7 +111,7 @@ mind is far more coherent than the real world." &mdash;
 [Richard Hofstader](https://en.wikipedia.org/wiki/Richard_Hofstader), 
 [_The Paranoid Style in American Politics_](http://karws.gso.uri.edu/jfk/conspiracy_theory/the_paranoid_mentality/the_paranoid_style.html).
 
-"Wicked men, ambitious of power, with hatred of liberty and contempt of law, may fill the place once occupied by Washington and Lincoln, and if this right is conceded, and the calamities of war again befall us, the dangers to human liberty are frightful to contemplate." &mdash; [71 U.S. 2 (1866), _ex parte Milligan_](https://en.wikipedia.org/wiki/Ex_Parte_Milligan), the US Civil War-era case upholding _habeas corpus_ in wartime, even for &quot;aiding the enemy&quot;, and that citizens cannot be tried by military tribunals.  
+"Wicked men, ambitious of power, with hatred of liberty and contempt of law, may fill the place once occupied by Washington and Lincoln, and if this right is conceded, and the calamities of war again befall us, the dangers to human liberty are frightful to contemplate." &mdash; [71 U.S. 2 (1866), _ex parte Milligan_](https://en.wikipedia.org/wiki/Ex_Parte_Milligan), the US Civil War-era case upholding _habeas corpus_ in wartime, even for "aiding the enemy", and that citizens cannot be tried by military tribunals.  
 
 "&hellip; political discourse is necessarily symbolic because the facts exceed our
 curiosity."  &mdash; attributed to 
@@ -208,8 +208,8 @@ nasty, brutish, and short."
 [_Leviathan_](https://en.wikipedia.org/wiki/Leviathan_%28book%29)  
 
 [George Santayana](https://en.wikipedia.org/wiki/George_Santayana):
-- "Fanaticism consists in redoubling your efforts when you have forgotten your aim." &mdash; _Life of Reason_ (1905) Vol I, &quot;Introduction&quot;  
-- "The truth is cruel, but it can be loved, and it makes free those who have loved it." &mdash; _Little Essays_ (1920) &quot;Ideal Immortality&quot;  
+- "Fanaticism consists in redoubling your efforts when you have forgotten your aim." &mdash; _Life of Reason_ (1905) Vol I, "Introduction"  
+- "The truth is cruel, but it can be loved, and it makes free those who have loved it." &mdash; _Little Essays_ (1920) "Ideal Immortality"  
 - "Skepticism is the chastity of the intellect, and it is shameful to surrender it too soon or to the first comer." &mdash; _Skepticism and Animal Faith_ (1923)  
 - "Those who cannot learn from history are doomed to repeat it."  
 
