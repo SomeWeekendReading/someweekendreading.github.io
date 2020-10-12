@@ -291,9 +291,9 @@ His purpose." &mdash; [Florence Nightingale](https://en.wikipedia.org/wiki/Flore
 ability to read and write." &mdash; [H.G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)  
 
 "If people aren't given well-founded methods ..., they'll just use dubious ones
-instead."  &mdash; [Jonathan Tawn](http://www.maths.lancs.ac.uk/department/info/people/person/tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
+instead."  &mdash; [Jonathan Tawn](https://www.maths.lancs.ac.uk/department/info/people/person/tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
 
-"Extreme Value Theory is too expensive to ignore." &mdash; Valérie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](http://www.approximity.com/papers/evt_wp.pdf), 8-Jan-2004.  
+"Extreme Value Theory is too expensive to ignore." &mdash; Valérie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](https://www.approximity.com/papers/evt_wp.pdf), 8-Jan-2004.  
 
 "Statistics don't work on people whose sense of superiority depends on not understanding
 statistics." &mdash; Who?  
@@ -310,7 +310,7 @@ user who picked it up in graduate school. Statistics can fool you."
 &mdash; [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), 
 [The Fourth Quadrant: a Map of the Limits of Statistics](http://www.edge.org/3rd_culture/taleb08/taleb08_index.html)  
 
-"But statistical regularities, like facts, are stubborn things. You bet against them at your peril." &mdash; [Alan S. Blinder](https://en.wikipedia.org/wiki/Alan_Blinder), Princeton economics professor &amp; former vice chair of the Federal Reserve, ["Is History Siding with Obama's Economic Plan?"](http://www.nytimes.com/2008/08/31/business/31view.html), NYT 30-Aug-2008.  
+"But statistical regularities, like facts, are stubborn things. You bet against them at your peril." &mdash; [Alan S. Blinder](https://en.wikipedia.org/wiki/Alan_Blinder), Princeton economics professor &amp; former vice chair of the Federal Reserve, ["Is History Siding with Obama's Economic Plan?"](https://www.nytimes.com/2008/08/31/business/31view.html), NYT 30-Aug-2008.  
 
 "It is easy to lie with statistics." &mdash; [Darrell Huff](https://en.wikipedia.org/wiki/Darrell_Huff), [_How to Lie with Statistics_](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics).  (But see: "It is easier to lie without them." &amp; [Frederick Mosteller](https://en.wikipedia.org/wiki/Frederick_Mosteller), founding chair of the Harvard statistics department.)  
 
