@@ -233,7 +233,8 @@ in _The General Theory of Employment, Interest and Money_.
 
 ## The Rational &amp; The Scientists  
 
-"Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo  
+"Science says the first word on everything, and the last word on nothing." 
+&mdash; [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  
 
 "Never attribute to malice that which can be adequately explained by stupidity." 
 &mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor) (But see also: 
@@ -291,9 +292,9 @@ His purpose." &mdash; [Florence Nightingale](https://en.wikipedia.org/wiki/Flore
 ability to read and write." &mdash; [H.G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)  
 
 "If people aren't given well-founded methods ..., they'll just use dubious ones
-instead."  &mdash; [Jonathan Tawn](https://www.maths.lancs.ac.uk/department/info/people/person/tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
+instead."  &mdash; [Jonathan Tawn](https://www.lancaster.ac.uk/maths/people/jon-tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
 
-"Extreme Value Theory is too expensive to ignore." &mdash; Valérie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](https://www.approximity.com/papers/evt_wp.pdf), 8-Jan-2004.  
+"Extreme Value Theory is too expensive to ignore." &mdash; Valérie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](http://risknews.de/fileadmin/eLibrary/EVT-Paper-Roehrl-Chavez-Demoulin.pdf), 8-Jan-2004.  
 
 "Statistics don't work on people whose sense of superiority depends on not understanding
 statistics." &mdash; Who?  
