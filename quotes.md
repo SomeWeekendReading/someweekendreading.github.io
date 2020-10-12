@@ -60,10 +60,11 @@ swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(s
 "H&aelig;star&eacute;ttarm&aacute;laflutningsl&ouml;gmannsvinnukonu&uacute;tidyralyklakippuhringurinn" 
 &mdash; In Icelandic, "the key ring holding the front door key belonging to the maid who
 works for the lawyer who presents cases before the supreme court", from 
-[Steinn Sigur&eth;sson](http://www.astro.psu.edu/users/steinn/), of the
-[PSU Astro Dept](http://www.astro.psu.edu/main/), in his blog
-[Dynamics of Cats](http://catdynamics.blogspot.com/2006/01/htidyralyklakippuhringurinn.html)
-(later moved [here](http://scienceblogs.com/catdynamics/)
+[Steinn Sigur&eth;sson](https://science.psu.edu/astro/people/sxs540), of the
+[PSU Astro Dept](https://science.psu.edu/astro), in his blog
+[Dynamics of Cats](https://catdynamics.blogspot.com/2006/01/htidyralyklakippuhringurinn.html)
+(later moved [here](https://scienceblogs.com/catdynamics/), still later 
+[back](https://catdynamics.blogspot.com/))
 
 
 ## The Political &amp; The Economic  
@@ -109,7 +110,7 @@ _Conference for Media Reform_ in St Louis on May 14-15, 2005.
 "The higher paranoid scholarship is nothing if not coherent &ndash; in fact the paranoid
 mind is far more coherent than the real world." &mdash; 
 [Richard Hofstader](https://en.wikipedia.org/wiki/Richard_Hofstader), 
-[_The Paranoid Style in American Politics_](http://karws.gso.uri.edu/jfk/conspiracy_theory/the_paranoid_mentality/the_paranoid_style.html).
+[_The Paranoid Style in American Politics_](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/).
 
 "Wicked men, ambitious of power, with hatred of liberty and contempt of law, may fill the place once occupied by Washington and Lincoln, and if this right is conceded, and the calamities of war again befall us, the dangers to human liberty are frightful to contemplate." &mdash; [71 U.S. 2 (1866), _ex parte Milligan_](https://en.wikipedia.org/wiki/Ex_Parte_Milligan), the US Civil War-era case upholding _habeas corpus_ in wartime, even for "aiding the enemy", and that citizens cannot be tried by military tribunals.  
 
