@@ -7,7 +7,9 @@ tags: NotableAndQuotable
 date: 2020-07-01
 ---
 
-"A witty saying proves nothing." &mdash; <a href="https://en.wikipedia.org/wiki/Voltaire">Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;</a> (1694-1778)
+"A witty saying proves nothing." &mdash; 
+[Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
+(1694-1778)
 
 ## The Surreal  
 
@@ -48,14 +50,29 @@ of us stay that way.) &mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Sam
 swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(singer-songwriter)) [Hardy](https://www.jackhardy.com/), &quot;Out of Control&quot;, [_The Mirror of My Madness_](http://www.jackhardy.com/jhdisco.html#mirror) (1976)  
 
 [W.C. Fields](https://en.wikipedia.org/wiki/WC_Fields): &quot;How do you do, Miss West?&quot;<br>
-[Mae West](https://en.wikipedia.org/wiki/Mae_West)</a>: &quot;How do you do _what_?&quot;  
+[Mae West](https://en.wikipedia.org/wiki/Mae_West): &quot;How do you do _what_?&quot;  
 
 "When you're running down the street on fire, people get out of your way."
 &mdash; [Richard Pryor](https://en.wikipedia.org/wiki/Richard_Pryor)  
 
 "Because that's where the money is." &mdash; [Willie Sutton](https://en.wikipedia.org/wiki/Willie_Sutton), upon being asked why he robbed banks
 
+"H&aelig;star&eacute;ttarm&aacute;laflutningsl&ouml;gmannsvinnukonu&uacute;tidyralyklakippuhringurinn" 
+&mdash; In Icelandic, &quot;the key ring holding the front door key belonging to the maid who
+works for the lawyer who presents cases before the supreme court&quot;, from 
+[Steinn Sigur&eth;sson](http://www.astro.psu.edu/users/steinn/), of the
+[PSU Astro Dept](http://www.astro.psu.edu/main/), in his blog
+[Dynamics of Cats](http://catdynamics.blogspot.com/2006/01/htidyralyklakippuhringurinn.html)
+(later moved [here](http://scienceblogs.com/catdynamics/)
+
+
 ## The Political &amp; The Economic  
+
+"A little patience, and we shall see the reign of witches pass over, their spells
+dissolve, and the people, recovering their true sight, restore their government to its
+true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_jefferson) 
+in 1798, after the passage of the 
+[Alien and Sedition Acts](https://en.wikipedia.org/wiki/Alien_and_sedition_acts)  
 
 "Well, most politicians have nothing against reason, but they won't go out of their way
 to visit it."  &mdash; linguist [Geoffrey Nunberg](https://en.wikipedia.org/wiki/Geoffrey_Nunberg), 
@@ -76,6 +93,25 @@ imaginary." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)
 by the president, right or wrong, is not only unpatriotic and servile, but is morally
 treasonable to the American public." 
 &mdash; President [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_roosevelt)  
+
+"I never meant to say that the Conservatives are generally stupid. I meant to say that
+stupid people are generally Conservative. I believe that is so obviously and universally
+admitted a principle that I hardly think any gentleman will deny it." 
+&mdash; [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), in a March 
+1866 letter to Conservative MP [Sir John Pakington](https://en.wikipedia.org/wiki/Pakington)  
+
+"The more compelling our journalism, the angrier the radical right of the Republican
+Party gets.  That's because the one thing they loathe more than liberals is the truth."
+&mdash; [Bill Moyers](https://en.wikipedia.org/wiki/Bill_Moyers), in 
+[_The Nation_](https://en.wikipedia.org/wiki/The_Nation), reporting on a speech at the 
+_Conference for Media Reform_ in St Louis on May 14-15, 2005.
+
+"The higher paranoid scholarship is nothing if not coherent &ndash; in fact the paranoid
+mind is far more coherent than the real world." &mdash; 
+[Richard Hofstader](https://en.wikipedia.org/wiki/Richard_Hofstader), 
+[_The Paranoid Style in American Politics_](http://karws.gso.uri.edu/jfk/conspiracy_theory/the_paranoid_mentality/the_paranoid_style.html).
+
+"Wicked men, ambitious of power, with hatred of liberty and contempt of law, may fill the place once occupied by Washington and Lincoln, and if this right is conceded, and the calamities of war again befall us, the dangers to human liberty are frightful to contemplate." &mdash; [71 U.S. 2 (1866), _ex parte Milligan_](https://en.wikipedia.org/wiki/Ex_Parte_Milligan), the US Civil War-era case upholding _habeas corpus_ in wartime, even for &quot;aiding the enemy&quot;, and that citizens cannot be tried by military tribunals.  
 
 "&hellip; political discourse is necessarily symbolic because the facts exceed our
 curiosity."  &mdash; attributed to 
@@ -186,6 +222,12 @@ struggle.  Power concedes nothing without a demand.  It never did and it never w
 American [abolitionist](https://en.wikipedia.org/wiki/Abolitionism), letter to an
 associate (1849)  
 
+"Practical men, who believe themselves to be quite exempt from any intellectual
+influences, are usually the slaves of some defunct economist."
+&mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) (1883-1946) 
+in _The General Theory of Employment, Interest and Money_.
+
+
 ## The Rational &amp; The Scientists
 
 "Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo  
@@ -255,6 +297,9 @@ perhaps one of the 20th century's greatest theologians
 "Man's capacity for justice makes democracy possible; but man's inclination to injustice makes democracy necessary." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
 
 "We could bring calamity on ourselves and the world by forgetting that even the most powerful nations &hellip; remain themselves creatures as well as creators of the historical process." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr), _The Irony of American History_(1952)  
+
+"It's not necessary to be a saint to do good.  You need willing hands, not clean ones."
+&mdash; [Mother Theresa](https://en.wikipedia.org/wiki/Mother_Teresa)
 
 "Reality is that which, when you stop believing in it, doesn't go away." &mdash; Phillip K
 Dick  
@@ -326,6 +371,7 @@ reason, and intellect has intended us to forego their use."
 "When I was young, I used to admire intelligent people; as I grow older, I admire
 kind people." 
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com)
 
