@@ -55,7 +55,7 @@ swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(s
 "When you're running down the street on fire, people get out of your way."
 &mdash; [Richard Pryor](https://en.wikipedia.org/wiki/Richard_Pryor)  
 
-"Because that's where the money is." &mdash; [Willie Sutton](https://en.wikipedia.org/wiki/Willie_Sutton), upon being asked why he robbed banks
+"Because that's where the money is." &mdash; [Willie Sutton](https://en.wikipedia.org/wiki/Willie_Sutton), upon being asked why he robbed banks  
 
 "H&aelig;star&eacute;ttarm&aacute;laflutningsl&ouml;gmannsvinnukonu&uacute;tidyralyklakippuhringurinn" 
 &mdash; In Icelandic, "the key ring holding the front door key belonging to the maid who
@@ -63,8 +63,8 @@ works for the lawyer who presents cases before the supreme court", from
 [Steinn Sigur&eth;sson](https://science.psu.edu/astro/people/sxs540), of the
 [PSU Astro Dept](https://science.psu.edu/astro), in his blog
 [Dynamics of Cats](https://catdynamics.blogspot.com/2006/01/htidyralyklakippuhringurinn.html)
-(later moved [here](https://scienceblogs.com/catdynamics/), still later 
-[back](https://catdynamics.blogspot.com/))
+(later moved [here](https://scienceblogs.com/catdynamics), still later 
+[back](https://catdynamics.blogspot.com/))  
 
 
 ## The Political &amp; The Economic  
@@ -120,7 +120,7 @@ curiosity."  &mdash; attributed to
 Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.  
 
 "Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; whilst you find a rock.
-&mdash; attributed to Charles Maurice de Talleyrand-P&eacute;rigord  
+&mdash; attributed to Charles Maurice de Talleyrand-P&eacute;rigord, but also to Will Rogers  
 
 "One of the biggest changes in politics in my lifetime is that the delusional is no
 longer marginal." &mdash; [Bill Moyers](https://en.wikipedia.org/wiki/Bill_Moyers)  
@@ -272,7 +272,6 @@ colleague's work
 "Education is the ability to listen to almost anything without losing your temper." 
 &mdash; [Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost)  
 
-
 "The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
 
 
@@ -300,7 +299,7 @@ perhaps one of the 20th century's greatest theologians
 "We could bring calamity on ourselves and the world by forgetting that even the most powerful nations &hellip; remain themselves creatures as well as creators of the historical process." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr), _The Irony of American History_(1952)  
 
 "It's not necessary to be a saint to do good.  You need willing hands, not clean ones."
-&mdash; [Mother Theresa](https://en.wikipedia.org/wiki/Mother_Teresa)
+&mdash; [Mother Theresa](https://en.wikipedia.org/wiki/Mother_Teresa)  
 
 "Reality is that which, when you stop believing in it, doesn't go away." &mdash; Phillip K
 Dick  
@@ -350,7 +349,7 @@ because he knows where he is going, and, in moving, he always returns whence he 
 &mdash; [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco), _The Name of the Rose_  
 
 "Tradition is not the worship of ashes, but the preservation of fire."
-&mdash; [Gustav Mahler](https://en.wikipedia.org/wiki/Gustav_Mahler)
+&mdash; [Gustav Mahler](https://en.wikipedia.org/wiki/Gustav_Mahler)  
 
 "Adam was but human &mdash; this explains it all. He did not want the apple for the apple's
 sake, he wanted it only because it was forbidden. The mistake was in not forbidding the
