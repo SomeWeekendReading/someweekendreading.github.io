@@ -11,7 +11,9 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-## The Surreal  
+[The Surreal](#the-surreal) [The Political &amp; The Economic](#the-political-and-economic)
+
+## <a id="the-surreal">The Surreal</a>  
 
 "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read."
 &mdash; [Groucho Marx](https://en.wikipedia.org/wiki/Groucho_marx)  
@@ -67,7 +69,7 @@ works for the lawyer who presents cases before the supreme court", from
 [back](https://catdynamics.blogspot.com/))  
 
 
-## The Political &amp; The Economic  
+## <a id="#the-political-and-economic">The Political &amp; The Economic</a>  
 
 "A little patience, and we shall see the reign of witches pass over, their spells
 dissolve, and the people, recovering their true sight, restore their government to its
@@ -119,7 +121,7 @@ curiosity."  &mdash; attributed to
 [Walter Lipmann](https://en.wikipedia.org/wiki/Walter_Lippmann), in Anna Mundow, "The
 Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.  
 
-"Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; whilst you find a rock.
+"Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; whilst you find a rock."
 &mdash; attributed to Charles Maurice de Talleyrand-P&eacute;rigord, but also to Will Rogers  
 
 "One of the biggest changes in politics in my lifetime is that the delusional is no
