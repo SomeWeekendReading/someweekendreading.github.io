@@ -279,6 +279,8 @@ colleague's work
 
 ## The Statistical  
 
+"Essentially, all models are wrong, but some are useful." &mdash; [George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box), [_Empirical Model-Building and Response Surfaces_](https://pdfs.semanticscholar.org/5d09/0074d5fa968d852e4468820cb683040d075a.pdf), 1987.  
+
 "The best thing about being a statistician is that you get to play in everyone's
 backyard."  &mdash; [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)  
 
