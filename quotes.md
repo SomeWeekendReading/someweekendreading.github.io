@@ -11,7 +11,7 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-[The Surreal](#the-surreal) [The Political &amp; The Economic](#the-political-and-economic)
+__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political-and-economic), [The Rational &amp; The Scientists](#the-rational-and-the-scientists), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
 ## <a id="the-surreal">The Surreal</a>  
 
@@ -231,7 +231,7 @@ influences, are usually the slaves of some defunct economist."
 in _The General Theory of Employment, Interest and Money_.
 
 
-## The Rational &amp; The Scientists
+## <a id="the-rational-and-the-scientists">The Rational &amp; The Scientists</a>  
 
 "Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo  
 
@@ -277,7 +277,7 @@ colleague's work
 "The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
 
 
-## The Religious  
+## <a id="the-religious">The Religious</a>  
 
 "Nothing worth doing is completed in our lifetime; therefore, we are saved by hope. 
 Nothing true or beautiful or good makes complete sense in any immediate context of history; 
@@ -375,7 +375,7 @@ kind people."
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
 
 
-## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com)
+## <a id="your-humble-weekend-editor">[Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com)</a>  
 
 - "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)  
 - "Freedom is the mastery of form."  
