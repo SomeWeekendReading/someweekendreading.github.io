@@ -11,7 +11,7 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political-and-economic), [The Rational &amp; The Scientists](#the-rational-and-the-scientists), [The Statistical](#the-statistical), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
+__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political-the-economic), [The Rational &amp; The Scientists](#the-rational--the-scientists), [The Statistical](#the-statistical), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
 ## The Surreal  
 
@@ -69,7 +69,7 @@ works for the lawyer who presents cases before the supreme court", from
 [back](https://catdynamics.blogspot.com/))  
 
 
-## <a id="the-political-and-economic">The Political &amp; The Economic</a>  
+## The Political &amp; The Economic  
 
 "A little patience, and we shall see the reign of witches pass over, their spells
 dissolve, and the people, recovering their true sight, restore their government to its
@@ -231,7 +231,7 @@ influences, are usually the slaves of some defunct economist."
 in _The General Theory of Employment, Interest and Money_.
 
 
-## <a id="the-rational-and-the-scientists">The Rational &amp; The Scientists</a>  
+## The Rational &amp; The Scientists  
 
 "Science says the first word on everything, and the last word on nothing." &mdash; Victor Hugo  
 
@@ -277,7 +277,7 @@ colleague's work
 "The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
 
 
-## <a id="the-statistical">The Statistical</a>  
+## The Statistical  
 
 "The best thing about being a statistician is that you get to play in everyone's
 backyard."  &mdash; [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)  
@@ -321,7 +321,7 @@ one of the invetors of [R](https://en.wikipedia.org/wiki/R_(programming_language
 at SSC 2003, Halifax (June 2003).  
 
 
-## <a id="the-religious">The Religious</a>  
+## The Religious  
 
 "Nothing worth doing is completed in our lifetime; therefore, we are saved by hope. 
 Nothing true or beautiful or good makes complete sense in any immediate context of history; 
@@ -419,7 +419,7 @@ kind people."
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
 
 
-## <a id="your-humble-weekend-editor">[Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com)</a>  
+## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com)  
 
 - "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)  
 - "Freedom is the mastery of form."  
