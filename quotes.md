@@ -11,9 +11,9 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-__Categories:__ [The Surreal](#the-surreal), [The Political &amp; The Economic](#the-political--the-economic), [The Rational &amp; The Scientists](#the-rational--the-scientists), [The Statistical](#the-statistical), [The Religious](#the-religious), [Your Humble Weekend Editor](#your-humble-weekend-editor)
+__Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political--the-economic-dismal-ones), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
-## The Surreal  
+## The Surreal Ones  
 
 "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read."
 &mdash; [Groucho Marx](https://en.wikipedia.org/wiki/Groucho_marx)  
@@ -69,8 +69,7 @@ works for the lawyer who presents cases before the supreme court", from
 [back](https://catdynamics.blogspot.com/))  
 
 
-## The Political &amp; The Economic  
-
+## The Political Ones &amp; The Economic Dismals  
 "A little patience, and we shall see the reign of witches pass over, their spells
 dissolve, and the people, recovering their true sight, restore their government to its
 true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_jefferson) 
@@ -231,7 +230,7 @@ influences, are usually the slaves of some defunct economist."
 in _The General Theory of Employment, Interest and Money_.
 
 
-## The Rational &amp; The Scientists  
+## Those of Rational &amp; Scientific Bent
 
 "Science says the first word on everything, and the last word on nothing." 
 &mdash; [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  
@@ -278,7 +277,7 @@ colleague's work
 "The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
 
 
-## The Statistical  
+## The Statistical Ones  
 
 "Essentially, all models are wrong, but some are useful." &mdash; [George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box), [_Empirical Model-Building and Response Surfaces_](https://pdfs.semanticscholar.org/5d09/0074d5fa968d852e4468820cb683040d075a.pdf), 1987.  
 
@@ -324,7 +323,7 @@ one of the invetors of [R](https://en.wikipedia.org/wiki/R_(programming_language
 at SSC 2003, Halifax (June 2003).  
 
 
-## The Religious  
+## The Religious Ones  
 
 "Nothing worth doing is completed in our lifetime; therefore, we are saved by hope. 
 Nothing true or beautiful or good makes complete sense in any immediate context of history; 
