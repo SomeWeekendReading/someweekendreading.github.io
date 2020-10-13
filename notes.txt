@@ -286,6 +286,8 @@ TODOs: These should be GitHub issues!
     <a href="/tags/#SomebodyAskedMe About R">
     Also, they're not in the RSS feed?!
     But they are in the sitemap.  I do the sitemap, the feed is somewhere inside Jekyll.
+    See https://jekyllrb.com/tutorials/convert-site-to-jekyll/#10-rss-feed for how to do
+    it without the jekyll-feed gem, which doesn't seem to handle this?
 
 *** Figure out how to self-host the material icons
     https://github.com/google/material-design-icons/tree/master/font
