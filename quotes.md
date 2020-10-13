@@ -489,8 +489,8 @@ this: that, while the old man may stand by some stupid custom, the young man alw
 attacks it with some theory that turns out to be equally stupid."
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
 
-"Above all, the prophets remind us of the moral state of a people: _Few are guilty, but all
-are responsible._ If we admit that the individual is in some measure conditioned or
+"Above all, the prophets remind us of the moral state of a people: __Few are guilty, but all
+are responsible.__ If we admit that the individual is in some measure conditioned or
 affected by the spirit of society, an individual’s crime discloses society’s
 corruption. In a community not indifferent to suffering, uncompromisingly impatient with
 cruelty and falsehood, continually concerned for God and every \[person\], crime would be
