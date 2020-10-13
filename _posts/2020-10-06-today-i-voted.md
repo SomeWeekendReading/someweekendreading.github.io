@@ -16,7 +16,7 @@ clerk's drop-box, and therein deposited.
 Please don't vote Republican.  Not for any imaginable office, not under any conceivable
 circumstance.  Also, please don't vote 3rd party: that's half a vote for Trump.  If you think he
 needs to go &mdash; and you _should_ &mdash; then you know you have to vote for
-Biden/Harris.  Just do it: [settle for Biden](https://www.settleforbiden.org/).  
+Biden/Harris.  Just do it: [settle for Biden](https://www.settleforbiden.org/ "Settle for now.  _Hound_ him once he's elected!").  
 
 ### Added 2020-Oct-09:
 
