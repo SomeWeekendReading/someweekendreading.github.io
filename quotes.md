@@ -421,6 +421,16 @@ reason, and intellect has intended us to forego their use."
 kind people." 
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
 
+"A prophet is ... a witness to the divine pathos, one who bears testimony to God's concern
+for human beings."
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+
+"The opposite of good is not evil, but indifference."
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+
+"... to speak about God and remain silent on Vietnam is blasphemous."
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email Weekend Editor")  
 
