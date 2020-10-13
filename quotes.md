@@ -72,6 +72,7 @@ works for the lawyer who presents cases before the supreme court", from
 
 
 ## The Political Ones &amp; The Economic Dismals  
+
 "A little patience, and we shall see the reign of witches pass over, their spells
 dissolve, and the people, recovering their true sight, restore their government to its
 true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_jefferson) 
@@ -171,9 +172,34 @@ capitalism
 "Certitude leads to violence."  &mdash; [Oliver Wendell Holmes](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes%2C_Jr.)  
 
 "Thieves respect property. They merely wish the property to become their property that
-they may more perfectly respect it." [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+they may more perfectly respect it." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+
+"All that we want for Government is a man not criminal and insane..." 
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), 
+_The Napoleon of Notting Hill_, p. 44.  
+
+"The whole modern world has divided itself into Conservatives and Progressives. The
+business of Progressives is to go on making mistakes. The business of the Conservatives is
+to prevent the mistakes from being corrected."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), _Illustrated
+London News_, 1924-Apr-04.  
+
+"Tradition means giving votes to the most obscure of all classes, our ancestors. It is the
+democracy of the dead. Tradition refuses to submit to that arrogant oligarchy who merely
+happen to be walking around."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+
+"...at present we all tend to one mistake; we tend to make politics too important."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
 
 "The poor object to being governed badly; the rich to being governed at all." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [_The Man Who Was Thursday_](https://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday)  
+
+"... the poor are pressed down from above into such stinking and suffocating underworlds of
+squalor, that poor people must not be allowed to have hair, because in their case it must
+mean lice in the hair. Therefore, the doctors propose to abolish the hair. It never seems
+to have occurred to them to abolish the lice. Yet it could be done. As is common in most
+modern discussions the unmentionable thing is the pivot of the whole discussion."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
 
 "When the master governs, people are hardly aware that he exists &hellip; when his work is
 done, the people say, 'Amazing:  we did it, all by ourselves!'" &mdash; 
@@ -415,8 +441,61 @@ serpent; then he would have eaten the serpent."
 reason, and intellect has intended us to forego their use."
 &mdash; [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)  
 
-"&hellip; some are guilty, but all are responsible." 
-&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+"The Christian ideal has not been tried and found wanting; it has been found difficult
+and left untried." 
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+[_What's Wrong with the World?_ (1910), Chapter 5](http://www.gutenberg.org/etext/1717).  
+
+"...there is a law written in the darkest of the Books of Life, and it is this: If you look
+at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it
+the thousandth time, you are[Pg 24] in frightful danger of seeing it for the first
+time."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+_The Napoleon of Notting Hill_, p. 23-24.  
+
+"All science, even the divine science, is a sublime detective story. Only it is not set to detect why a man is dead; but the darker secret of why he is alive." &mdash; 
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+[_The Thing_ CW. III 191](http://www.cse.dmu.ac.uk/~mward/gkc/books/The_Thing.txt).  
+
+"I have sometimes had occasion to murmur meekly that those who endure the heavy labour
+of reading a book might possibly endure that of reading the title-page of a book.  For
+there are more examples than may be imagined, in which earnest critics might solve many of
+their problems about what a book is, merely by discovering what it professes to be." 
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+on critics who misunderstood 
+[_The Man Who Was Thursday_](https://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday).  
+
+"The voice of the special rebels and prophets, recommending discontent, should ... sound
+now and then suddenly, like a trumpet. But the voices of the saints and sages,
+recommending contentment, should sound unceasingly, like the sea."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+
+"The Bible tells us to love our neighbors, and also to love our enemies; probably because
+generally they are the same people."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+
+"Religious liberty might be supposed to mean that everybody is free to discuss
+religion. In practice it means that hardly anybody is allowed to mention it."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+_Autobiography_, 1937.  
+
+"To have a right to do a thing is not at all the same as to be right in doing it." 
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), _A Short
+History of England_, chapter 10.
+
+"I believe what really happens in history is this: the old man is always wrong; and the
+young people are always wrong about what is wrong with him. The practical form it takes is
+this: that, while the old man may stand by some stupid custom, the young man always
+attacks it with some theory that turns out to be equally stupid."
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+
+"Above all, the prophets remind us of the moral state of a people: _Few are guilty, but all
+are responsible._ If we admit that the individual is in some measure conditioned or
+affected by the spirit of society, an individual’s crime discloses society’s
+corruption. In a community not indifferent to suffering, uncompromisingly impatient with
+cruelty and falsehood, continually concerned for God and every \[person\], crime would be
+infrequent rather than common."
+&mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel), _The Prophets_.  
 
 "When I was young, I used to admire intelligent people; as I grow older, I admire
 kind people." 
