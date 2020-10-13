@@ -447,10 +447,10 @@ working out the basics of probability in gambling.
 "It's important in life and in investing always to question yourself. Understand that you
 may be wrong, especially when you believe too firmly that you're right." 
 &mdash; [George Soros](https://en.wikipedia.org/wiki/George_Soros), 
-[interview in CNN Money 14-May-2008](http://money.cnn.com/2008/05/12/pf/soros_interview.moneymag/index.htm?postversion=2008051404).  
+[interview in CNN Money 14-May-2008](https://money.cnn.com/2008/05/12/pf/soros_interview.moneymag/index.htm?postversion=2008051404).  
 
 "Those stock market guys are crooked." &mdash; [Al Capone](https://en.wikipedia.org/wiki/Al_Capone),
-famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](http://www.alternet.org/module/printversion/143649).  
+famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](https://www.alternet.org/2009/11/bill_moyers_and_james_galbraith_our_free_market_makes_economic_collapse_inevitable/).  
 
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
