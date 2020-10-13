@@ -453,9 +453,9 @@ may be wrong, especially when you believe too firmly that you're right."
 famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](http://www.alternet.org/module/printversion/143649).  
 
 
-## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email Weekend Editor")  
+## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
 
-- "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)  
+- "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)"  
 - "Freedom is the mastery of form."  
 - "There is no evolutionary premium on elegance.  Life is a kludge."  
 - "&lsquo;This sentence is true&rsquo; &ndash; why wasn't Epimenides as outraged by this as the other one?"  
