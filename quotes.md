@@ -11,7 +11,9 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-__Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political-ones--the-economic-dismals), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), and [Your Humble Weekend Editor](#your-humble-weekend-editor)
+__Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political-ones--the-economic-dismals), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), [The Index Invested Ones](#the-index-invested-ones), and [Your Humble Weekend Editor](#your-humble-weekend-editor)
+
+
 
 ## The Surreal Ones  
 
@@ -429,6 +431,26 @@ for human beings."
 
 "... to speak about God and remain silent on Vietnam is blasphemous."
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+
+
+## The Index Invested Ones  
+
+"If you don't get this elementary, but mildly unnatural, mathematics of elementary
+probability into your repertoire, then you go through a long life like a one-legged man in
+an ass-kicking contest." &mdash; [Charlie Munger](https://en.wikipedia.org/wiki/Charlie_Munger), 
+in a 1994 speech to students at USC, quoted in 
+[_ValueWalk_](https://www.valuewalk.com/2016/01/charlie-munger-are-you-a-one-legged-investor-in-a-butt-kicking-contest/).
+He's speaking of 
+[some letters exchanged between Pascal & Fermat](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf), 
+working out the basics of probability in gambling.  
+
+"It's important in life and in investing always to question yourself. Understand that you
+may be wrong, especially when you believe too firmly that you're right." 
+&mdash; [George Soros](https://en.wikipedia.org/wiki/George_Soros), 
+[interview in CNN Money 14-May-2008](http://money.cnn.com/2008/05/12/pf/soros_interview.moneymag/index.htm?postversion=2008051404).  
+
+"Those stock market guys are crooked." &mdash; [Al Capone](https://en.wikipedia.org/wiki/Al_Capone),
+famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](http://www.alternet.org/module/printversion/143649).  
 
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email Weekend Editor")  
