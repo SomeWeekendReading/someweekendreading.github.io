@@ -11,7 +11,7 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-__Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political--the-economic-dismal-ones), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), [Your Humble Weekend Editor](#your-humble-weekend-editor)
+__Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political-ones--the-economic-dismals), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
 ## The Surreal Ones  
 
