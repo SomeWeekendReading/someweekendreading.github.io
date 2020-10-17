@@ -14,8 +14,8 @@ looks quite legit.  Not gonna change the world, but even small bits of good news
 Initially I was a bit suspicious: there's some evidence that ACE inhibitors actually
 _increase_ the expression of ACE2, which SARS-COV-2 uses to enter cells, and that would
 _increase_ risk.  Also, it's by a bunch of cardilogists, apparently trying to tell us
-their discipline rules the world.  Finally, it was a press release (reference 1), and I
-have a rather dyspeptic view of press releases.  
+their discipline rules the world.  Finally, it was a press release (reference 1), and your
+Weekend Editor has a rather dyspeptic view of press releases.  
 
 I was wrong on all counts.  This looks like preliminary but legit evidence (reference 2)
 of at least _some_ lowering of the risk of mild COVID becoming severe.  There was an
@@ -26,7 +26,7 @@ independent lab, and they'll be ready to figure out how to _use_ the information
 situations.  
 
 <img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-daniels-1.png" width="400" height="154" alt="Daniels: Statins and COVID-19" title="Daniels: Statins and COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-First, let's take a look at Daniels, _et al._ (reference 1) and their report on statins
+First, let's take a look at Daniels, _et al._ (reference 2) and their report on statins
 (to lower cholesterol), ACE inhibitors (to lower blood pressure), and ARB inhibitors (also
 to lower blood pressure by a related mechanism).  
 - They wondered if statins, ACE inhibitors, and ARB inhibitors interacted with COVID-19,
@@ -53,7 +53,7 @@ to lower blood pressure by a related mechanism).
   though, is the implicit result: ACE/ARB drugs don't help against COVID, but they also
   _don't hurt_, so if you're taking them already for blood pressure you should continue.  
 
-<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-daniels-2.png" width="294" height="353" alt="Daniels: Odds ratio of predictors" title="Daniels: Odds ratio of predictors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-daniels-2.png" width="353" height="294" alt="Daniels: Odds ratio of predictors" title="Daniels: Odds ratio of predictors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Here's a summary of their results.  They're measuring the odds ratio of progression to
 severe COVID-19 (and recall that, as they're using logistic regression, we're always
 dealing in odds ratios).  The predictors are in the column on the left.  The thing in the
@@ -63,6 +63,10 @@ confidence interval be on one side or the other of 1.0 in order to declare that 
 is a good predictor.  Note that: use of statins is a good predictor (and in the good
 direction); diabetes is a good predictor (in the bad direction); nothing else makes the
 grade (including ACE/ARB drugs).  
+
+So that was time to progression to severe disease.  They also did a similar analysis for
+time to death.  However, since nothing was statistically significant, it was exiled to the
+supplement of the paper.  
 
 <img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-daniels-3.png" width="400" height="150" alt="Daniels: Kaplan-Meier" title="Daniels: Kaplan-Meier" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 They did something called a Cox proportional hazards model to (essentially) measure
@@ -79,10 +83,19 @@ statistically significantly different.  From table 2 in the paper:
   always being hopeful, thought they could see a weak trend.  Crusty old statisticians
   like your Weekend Editor are seldom sympathetic to this.)  
 - Age cohort (10 year groups) was also statistically wildly significant, in the bad
-  direction.  There are, alas, as yet few treatments for age.  
+  direction ($p \leq 0.001$).  There are, alas, as yet few treatments for age.  
 
+There's more, but that's kind of the bottom line:  
+- If you're taking a cholesterol-lowering drug, particularly a statin, congratulations on
+  your partial defense against severe COVID-19.  Keep doing that, because your doctor
+  has your best interests at heart here. <sup id="fn4a">[[4](#fn4)]</sup>  
+- If you're taking an ACE/ARB inhibitor for blood pressure, it doesn't help against
+  COVID-19, but _it also doesn't hurt_, so congratulations on treating your high blood
+  pressure.  Keep doing that, again following your doctor's advice. 
+
+<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-1.png" width="400" height="229" alt="Wang: 25HC and COVID" title="Wang: 25HC and COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 They then speculate about all kinds of mechanisms, but they're all over the map and show
-no data.  Fortunately, the next paper does exactly that.  
+no data.  Fortunately, the next paper (Wang, _et al._, reference 3) does exactly that.  
 
 ...TBD...  
 
@@ -113,6 +126,11 @@ regress the log odds ratio of severe disease on all the confounders (age, sex, o
 ...) and then do prediction using the cholesterol/bp meds on the residuals.  (In fact it
 happens slightly differently, but that's often the way to explain it for the first time
 and have people more or less get it.)[↩](#fn3a)  
+
+<a id="fn4">4</a>: And most especially: _please don't ever take anything you read here as
+medical advice!_  Your humble Weekend Editor is not an MD, but a totally different sort of
+doctor (PhD). Please listen to your own doctor.  Right-wing political mischief with health
+insurance in the US is a problem everybody here has, so do your best. [↩](#fn4a)  
 
 ## References  
 
