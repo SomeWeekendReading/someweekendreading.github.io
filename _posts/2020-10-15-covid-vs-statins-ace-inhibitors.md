@@ -169,7 +169,7 @@ cell membrane, then virus entry is blocked.
 __But does that work in something like a human lung, not just in cell cultures?__  Figure
 5 shows that the answer is yes.  They grew lung organoids (basically a cell culture in
 something like soft agar where lung cells can build 3d structures that are at least
-somewhat similar to actual lung tissue.    The dose response curves show that the
+somewhat similar to actual lung tissue).    The dose response curves show that the
 inhibition of virus by 25HC is still dose-dependent in cell lines, and that the potency
 looks to be around 0.5$\mu$M.  Also, the bar charts below show a dramatic effect on virus
 blocking in lung organoids.  So it's both dose-dependent, and works in something like an
