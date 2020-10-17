@@ -77,7 +77,7 @@ statin/non-statin cohorts.  From those, you make [Kaplan-Meier plots](https://en
 vertically compared to here), showing the cumulative progressions/recoveries vs time.  By comparing the
 black line with the dotted line, you can see that the statin patients were slower (or
 never) to progress to severe disease, and faster to recover.  More quantitatively, they
-computed the usual hazard ratio and associated logrank $p$-value, to assess whether the curves are
+computed the usual hazard ratio and associated [logrank $p$-value](https://en.wikipedia.org/wiki/Logrank_test), to assess whether the curves are
 statistically _significantly_ different, not just visually.  From table 2 in the paper:  
 - For time to recovery, statin use was significant ($p \leq 0.004$), but ACE/ARB use was
   not.  
@@ -99,7 +99,43 @@ There's more, but that's kind of the bottom line:
 They then speculate about all kinds of mechanisms, but they're all over the map and show
 no data.  Fortunately, the next paper (Wang, _et al._, reference 3) does exactly that.  
 
+They explore a model which is at once pretty simple (A causes B causes C causes D...) and laughably complex, as things always seem to be in biology where the [Law of Unintended Consequences](https://en.wikipedia.org/wiki/Unintended_consequences#Everyday_usage) runs riot.  They are very careful to do a number of "rescue assays" to see if interrupting the chain at various points has the effect one would predict.  
+
+<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-2.png" width="400" height="278" alt="Wang: mechanism model" title="Wang: mechanism model" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+The basics: viruses stimulate the [innate immune system](https://en.wikipedia.org/wiki/Innate_immune_system), 
+which causes the release of [interferons of various kinds](https://en.wikipedia.org/wiki/Interferon), 
+which turn on a gene called [CH25H](https://www.ncbi.nlm.nih.gov/gene/9023), which makes
+something called [25-hydroxycholesterol (25HC)}(https://pubchem.ncbi.nlm.nih.gov/compound/25-Hydroxycholesterol),
+which activates another gene called [ACAT](https://www.ncbi.nlm.nih.gov/gene/38) on the ER
+membrane (and elsewhere), which then internalizes
+cholesterol usually found in the cell membrane.  This low-cholesterol membrane then
+prevents the virus from being endocytosed, or absorbed into the cell.  It stays outside,
+where it can't do much damage and where it can be recognized by the adaptive immune system
+(eventually).  So... A causes B causes C causes... for 6 steps!  
+
+<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-3.png" width="283" height="138" alt="Wang: CH25H lowers virus entry" title="Wang: CH25H lowers virus entry" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+They present evidence that cells infected with SARS-COV-2 do indeed raise their expression
+of CH25H, and that this is also observed in patient samples.  They then showed that when
+they forced overexpression of CH25H in cell lines, SARS-COV-2 entry to cells was lowered,
+and that was statistically significant by $t$-test.  (Showing Figure 1 C & D here: green
+spots show cells infected by SARS-COV-2, while the bar chart shows the data after image
+quantitation.  It is significant: $p \leq 0.0001$ by $t$-test.)  
+
+But is this just a cell line thing, of no relevance to actual patients?  They also did
+something similar in patient samples (Figure EV-1), to similar effect.  So
+it's not just a cell line thing.  
+
+
+<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-4.png" width="354" height="115" alt="Wang: CH25H dose dependence" title="Wang: CH25H dose dependence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+But is this dependent on the dose of 25HC, as you would expect?  Yes.  In Figure 2 A&B
+shown here, we see that both quantitatively and visually with a GFP fluorescence image.
+More 25HC leads to less SARS-COV-2 entry into cells.  
+
+
+
 ...TBD...  
+
+
 
 ---
 
@@ -146,3 +182,5 @@ insurance in the US is a problem everybody here has, so do your best with that. 
 
 4. L Fang, _et al._, ["Are patients with hypertension and diabetes mellitus at increased
    risk for COVID-19 infection?"](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30116-8/fulltext), _Lancet Resp Med_, 8:4, 2020-Apr-01.  DOI: [10.1016/S2213-2600(20)30116-8](https://doi.org/10.1016/S2213-2600(20)30116-8).
+
+5. S Zu, _et al._, ["25-Hydroxycholesterol is a potent SARS-CoV-2 inhibitor"](https://www.nature.com/articles/s41422-020-00398-1), _Nature Cell Res_, 2020-Aug-18.  
