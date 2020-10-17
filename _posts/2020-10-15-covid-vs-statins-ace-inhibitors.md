@@ -134,12 +134,12 @@ insurance in the US is a problem everybody here has, so do your best. [↩](#fn4
 
 ## References  
 
-1. H Buschman and J Vazquez, ["Statins reduce COVID-19 severity, likely by removing cholesterol that virus uses to infect."](https://www.sciencedaily.com/releases/2020/09/200923164603.htm), UC San Diego News Center, 2020-Sep-23.  
+1. H Buschman and J Vazquez, ["Statins reduce COVID-19 severity, likely by removing cholesterol that virus uses to infect."](https://ucsdnews.ucsd.edu/pressrelease/statins-reduce-covid-19-severity-likely-by-removing-cholesterol-that-virus-uses-to-infect), UC San Diego News Center, 2020-Sep-23.  Also reported in [_Science Daily_](https://www.sciencedaily.com/releases/2020/09/200923164603.htm).  
 
-1. L Daniels, _et al._, ["Relation of Statin Use Prior to Admission to Severity and Recovery Among COVID-19 Inpatients"](https://www.ajconline.org/article/S0002-9149(20)30947-4/fulltext), _AmJCardiol_, 2020-Sep-15 DOI: [10.1016/j.amjcard.2020.09.012](http://dx.doi.org/10.1016/j.amjcard.2020.09.012).  
+2. L Daniels, _et al._, ["Relation of Statin Use Prior to Admission to Severity and Recovery Among COVID-19 Inpatients"](https://www.ajconline.org/article/S0002-9149(20)30947-4/fulltext), _AmJCardiol_, 2020-Sep-15 DOI: [10.1016/j.amjcard.2020.09.012](http://dx.doi.org/10.1016/j.amjcard.2020.09.012).  
 
-1. S Wang, _et al._, ["Cholesterol 25‐Hydroxylase inhibits SARS‐CoV‐2 and coronaviruses by
+3. S Wang, _et al._, ["Cholesterol 25‐Hydroxylase inhibits SARS‐CoV‐2 and coronaviruses by
    depleting membrane cholesterol"](https://www.embopress.org/doi/full/10.15252/embj.2020106057), _EMBO Jnl_, e106057, 2020-Oct-05. DOI: [10.15252/embj.2020106057](https://doi.org/10.15252/embj.2020106057).  
 
-1. L Fang, _et al._, ["Are patients with hypertension and diabetes mellitus at increased
+4. L Fang, _et al._, ["Are patients with hypertension and diabetes mellitus at increased
    risk for COVID-19 infection?"](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30116-8/fulltext), _Lancet Resp Med_, 8:4, 2020-Apr-01.  DOI: [10.1016/S2213-2600(20)30116-8](https://doi.org/10.1016/S2213-2600(20)30116-8).
