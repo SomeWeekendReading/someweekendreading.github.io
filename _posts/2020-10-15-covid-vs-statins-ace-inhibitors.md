@@ -19,7 +19,7 @@ Weekend Editor has a rather dyspeptic view of press releases.
 
 Happily, I was wrong on all counts.  This looks like preliminary but legit evidence
 (reference 2) of at least _some_ lowering of the risk of mild COVID becoming severe.
-There was an accompanying paper on the mechanism, involving 25-hydroxy-cholesterol and
+There was an accompanying paper (reference 3) on the mechanism, involving 25-hydroxy-cholesterol and
 several effect-rescue assays that also look pretty good.  They've got clinical evidence of
 effect, and lab bench evidence of a mechanism of action.  Now they need confirmation from
 an independent lab, maybe a multi-center test, and they'll be ready to figure out how to
@@ -178,7 +178,7 @@ organ.
 There's a lot more there, but it's pretty convincing at this point.  The only thing you
 might wonder is why bother with statins as a back-door path to all this, when you could
 administer 25HC itself and get the effect more directly? Reference 5 points out exactly
-this point.  But... practically speaking, statins are an old and very safe drug taken by
+this.  But... practically speaking, statins are an old and very safe drug taken by
 millions with excellent effect on cardiac health, while 25HC use as a drug is a totally
 new thing, requiring new trials.  Still, it's worth investigating, I suppose.  
 
