@@ -134,7 +134,7 @@ insurance in the US is a problem everybody here has, so do your best. [↩](#fn4
 
 ## References  
 
-1. H Buschman and J Vazquez, ["Statins reduce COVID-19 severity, likely by removing cholesterol that virus uses to infect."](www.sciencedaily.com/releases/2020/09/200923164603.htm), UC San Diego News Center, 2020-Sep-23.  Also reported in [_Science Daily_](www.sciencedaily.com/releases/2020/09/200923164603.htm).  
+1. H Buschman and J Vazquez, ["Statins reduce COVID-19 severity, likely by removing cholesterol that virus uses to infect."](https://www.sciencedaily.com/releases/2020/09/200923164603.htm), UC San Diego News Center, 2020-Sep-23.  
 
 1. L Daniels, _et al._, ["Relation of Statin Use Prior to Admission to Severity and Recovery Among COVID-19 Inpatients"](https://www.ajconline.org/article/S0002-9149(20)30947-4/fulltext), _AmJCardiol_, 2020-Sep-15 DOI: [10.1016/j.amjcard.2020.09.012](http://dx.doi.org/10.1016/j.amjcard.2020.09.012).  
 
