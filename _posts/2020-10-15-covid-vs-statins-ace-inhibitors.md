@@ -105,7 +105,7 @@ They explore a model which is at once pretty simple (A causes B causes C causes 
 The basics: viruses stimulate the [innate immune system](https://en.wikipedia.org/wiki/Innate_immune_system), 
 which causes the release of [interferons of various kinds](https://en.wikipedia.org/wiki/Interferon), 
 which turn on a gene called [CH25H](https://www.ncbi.nlm.nih.gov/gene/9023), which makes
-something called [25-hydroxycholesterol (25HC)}(https://pubchem.ncbi.nlm.nih.gov/compound/25-Hydroxycholesterol),
+something called [25-hydroxycholesterol (25HC)](https://pubchem.ncbi.nlm.nih.gov/compound/25-Hydroxycholesterol),
 which activates another gene called [ACAT](https://www.ncbi.nlm.nih.gov/gene/38) on the ER
 membrane (and elsewhere), which then internalizes
 cholesterol usually found in the cell membrane.  This low-cholesterol membrane then
