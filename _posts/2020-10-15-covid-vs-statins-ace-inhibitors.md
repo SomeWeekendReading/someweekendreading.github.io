@@ -127,9 +127,17 @@ quantitation.  It is significant: $p \leq 0.0001$ by $t$-test.)
 
 Then, the objections start:  
 
+<img src="{{ site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-3a.png" width="381" height="195" alt="Wang: CH25H dose dependence" title="Wang: CH25H dose dependence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 __But is this just a cell line thing, of no relevance to actual patients?__  They also did
-something similar in patient samples (Figure EV-1), to similar effect.  So
-it's not just a cell line thing.  
+something similar in patient samples (Figure EV-1), to similar effect.  On the left are
+the gene expressions levels of CH25H in epithelia from bronchoalveolar lavage (basically
+they wasn your lungs from the inside and collect the goop; doesn't that sound pleasant?)
+in healthy, moderate, and sever COVID patients.  The differences are statistically
+significant by $t$-test ($p \leq 0.01$ or $p \leq 0.05$).  On the right are the gene
+expression fold inductions (ratio of infected to normal patient levels); note that CH25H
+is induced about 4 times more in infected patients.  (They did not report significance
+here, but it looks good and we could follow their reference chain to find the original
+data and check, should that become an issue.) So it's not just a cell line thing.  
 
 <img src="{{ site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-4.png" width="354" height="115" alt="Wang: CH25H dose dependence" title="Wang: CH25H dose dependence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 __But is this dependent on the dose of 25HC, as you would expect?__  Yes.  In Figure 2 A&B
