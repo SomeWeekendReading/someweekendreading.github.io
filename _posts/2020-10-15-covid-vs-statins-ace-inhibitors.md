@@ -85,7 +85,7 @@ statistically _significantly_ different, not just visually.  From table 2 in the
   always being hopeful, thought they could see a weak trend.  Crusty old statisticians
   like your Weekend Editor are seldom sympathetic to this.)  
 - Age cohort (10 year groups) was also statistically wildly significant, in the bad
-  direction ($p \leq 0.001$).  There are, alas, as yet few treatments for age.  
+  direction ($p \leq 0.001$).  (There are, alas, as yet few treatments for age.)  
 
 There's more, but that's kind of the bottom line:  
 - If you're taking a cholesterol-lowering drug, particularly a statin, congratulations on
@@ -101,7 +101,7 @@ no data.  Fortunately, the next paper (Wang, _et al._, reference 3) does exactly
 
 They explore a model which is at once pretty simple (A causes B causes C causes D...) and laughably complex, as things always seem to be in biology where the [Law of Unintended Consequences](https://en.wikipedia.org/wiki/Unintended_consequences#Everyday_usage) runs riot.  They are very careful to do a number of "rescue assays" to see if interrupting the chain at various points has the effect one would predict.  
 
-<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-2.png" width="400" height="278" alt="Wang: mechanism model" title="Wang: mechanism model" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-2.png" width="400" height="278" alt="Wang: mechanism model" title="Wang: mechanism model" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The basics: viruses stimulate the [innate immune system](https://en.wikipedia.org/wiki/Innate_immune_system), 
 which causes the release of [interferons of various kinds](https://en.wikipedia.org/wiki/Interferon), 
 which turn on a gene called [CH25H](https://www.ncbi.nlm.nih.gov/gene/9023), which makes
@@ -113,7 +113,7 @@ prevents the virus from being endocytosed, or absorbed into the cell.  It stays 
 where it can't do much damage and where it can be recognized by the adaptive immune system
 (eventually).  So... A causes B causes C causes... for 6 steps!  
 
-<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-3.png" width="283" height="138" alt="Wang: CH25H lowers virus entry" title="Wang: CH25H lowers virus entry" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-3.png" width="283" height="138" alt="Wang: CH25H lowers virus entry" title="Wang: CH25H lowers virus entry" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 They present evidence that cells infected with SARS-COV-2 do indeed raise their expression
 of CH25H, and that this is also observed in patient samples.  They then showed that when
 they forced overexpression of CH25H in cell lines, SARS-COV-2 entry to cells was lowered,
@@ -126,7 +126,7 @@ something similar in patient samples (Figure EV-1), to similar effect.  So
 it's not just a cell line thing.  
 
 
-<img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-4.png" width="354" height="115" alt="Wang: CH25H dose dependence" title="Wang: CH25H dose dependence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-4.png" width="354" height="115" alt="Wang: CH25H dose dependence" title="Wang: CH25H dose dependence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But is this dependent on the dose of 25HC, as you would expect?  Yes.  In Figure 2 A&B
 shown here, we see that both quantitatively and visually with a GFP fluorescence image.
 More 25HC leads to less SARS-COV-2 entry into cells.  
