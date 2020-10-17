@@ -11,25 +11,25 @@ inhibitor drugs. <sup id="fn1a">[[1](#fn1)]</sup> <sup id="fn2a">[[2](#fn2)]</su
 Very preliminary stuff, and the effect size is not giant, but it is peer-reviewed and
 looks quite legit.  Not gonna change the world, but even small bits of good news are welcome.  
 
-Initially I was a bit suspicious: there's some evidence that ACE inhibitors actually
-_increase_ the expression of ACE2, which SARS-COV-2 uses to enter cells, and that would
-_increase_ risk.  Also, it's by a bunch of cardilogists, apparently trying to tell us
+Initially I was a bit suspicious: there's some evidence that [ACE](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme) inhibitors actually
+_increase_ the expression of [ACE2](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme_2), which SARS-COV-2 uses to enter cells, and that would
+_increase_ risk.  Also, it's by a bunch of cardiologists, apparently trying to tell us
 their discipline rules the world.  Finally, it was a press release (reference 1), and your
 Weekend Editor has a rather dyspeptic view of press releases.  
 
-I was wrong on all counts.  This looks like preliminary but legit evidence (reference 2)
-of at least _some_ lowering of the risk of mild COVID becoming severe.  There was an
-accompanying paper on the mechanism, involving 25-hydroxy-cholesterol and several effect
-rescue assays that also looks pretty good.  They've got clinical evidence of effect, and
-lab bench evidence of a mechanism of action.  Now they need confirmation from an
-independent lab, and they'll be ready to figure out how to _use_ the information in combat
-situations.  
+Happily, I was wrong on all counts.  This looks like preliminary but legit evidence
+(reference 2) of at least _some_ lowering of the risk of mild COVID becoming severe.
+There was an accompanying paper on the mechanism, involving 25-hydroxy-cholesterol and
+several effect-rescue assays that also look pretty good.  They've got clinical evidence of
+effect, and lab bench evidence of a mechanism of action.  Now they need confirmation from
+an independent lab, maybe a multi-center test, and they'll be ready to figure out how to
+_use_ the information in combat situations.  
 
 <img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-daniels-1.png" width="400" height="154" alt="Daniels: Statins and COVID-19" title="Daniels: Statins and COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 First, let's take a look at Daniels, _et al._ (reference 2) and their report on statins
-(to lower cholesterol), ACE inhibitors (to lower blood pressure), and ARB inhibitors (also
-to lower blood pressure by a related mechanism).  
-- They wondered if statins, ACE inhibitors, and ARB inhibitors interacted with COVID-19,
+(to lower cholesterol), ACE inhibitors (to lower blood pressure), and ARB blockers (also
+to lower blood pressure by a related mechanism):  
+- They wondered if [statins](https://en.wikipedia.org/wiki/Statin), [ACE inhibitors](https://en.wikipedia.org/wiki/ACE_inhibitor), and [ARB blockers](https://en.wikipedia.org/wiki/Angiotensin_II_receptor_blocker) interacted with COVID-19,
   given they are all but ubiquitous in middle-aged and older people (in developed
   countries who have access to health insurance, both of which are sometimes doubtful in
   the US). Also, see reference 4 for other speculation about cholesterol, bp, and COVID.  
@@ -39,25 +39,26 @@ to lower blood pressure by a related mechanism).
 - They looked at 170 patients hospitalized for COVID-19, and 5281 COVID-negative
   controls.  They measured time from hospital admission to onset of _severe_ disease
   (death or ICU), time to discharge with no longer severe disease, or time to death.  
-- They did multivariate logistic regressions (in [R](https://www.r-project.org/), bless
+- They did multivariate [logistic regressions](https://en.wikipedia.org/wiki/Logistic_regression) (in [R](https://www.r-project.org/), bless
   their little hearts) to account for the effect of statin/ACE/ARB drugs, and to account
   for confounding factors like age, sex, obesity, etc. <sup id="fn3a">[[3]](#fn3)</sup>  
 - Statins were strongly associated with reduced risk of progressing to severe disease and
   with faster recovery times, by a couple of interesting statistical tests (_q.v._).  
 - But... statin use in the COVID-negative controls was more weakly associated with
-  progression: it won't stop you getting COVID-19, but it helps (a little) once you
+  progression: it won't _stop_ you getting COVID-19, but it helps (a little) once you
   already have it.  
 - They say there is "potential evidence" associating ACE/ARB drugs to faster recovery, but
-  their statistical significance tests say no.  No idea why they said "potential
-  evidence", when it's clear their statistician told them "no".  More medically important,
+  their statistical significance tests say otherwise.  No idea why they said "potential
+  evidence", when it's clear their statistician told them "No."  More medically important,
   though, is the implicit result: ACE/ARB drugs don't help against COVID, but they also
-  _don't hurt_, so if you're taking them already for blood pressure you should continue.  
+  _don't hurt_, so if you're taking them already for blood pressure you should continue to
+  take them as your doctor prescribes.  
 
 <img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-daniels-2.png" width="353" height="294" alt="Daniels: Odds ratio of predictors" title="Daniels: Odds ratio of predictors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Here's a summary of their results.  They're measuring the odds ratio of progression to
 severe COVID-19 (and recall that, as they're using logistic regression, we're always
-dealing in odds ratios).  The predictors are in the column on the left.  The thing in the
-middle is sometimes called a "forest plot": the favorable situation (odds ratio < 1.0) is on
+dealing in [log odds ratios](https://en.wikipedia.org/wiki/Logistic_regression#Logistic_function,_odds,_odds_ratio,_and_logit)).  The predictors are in the column on the left.  The thing in the
+middle is sometimes called a ["forest plot"](https://en.wikipedia.org/wiki/Forest_plot): the favorable situation (odds ratio < 1.0) is on
 the left, and unfavorable on the right.  You want to see the central blob _and_ it's 95%
 confidence interval be on one side or the other of 1.0 in order to declare that variable
 is a good predictor.  Note that: use of statins is a good predictor (and in the good
@@ -66,17 +67,18 @@ grade (including ACE/ARB drugs).
 
 So that was time to progression to severe disease.  They also did a similar analysis for
 time to death.  However, since nothing was statistically significant, it was exiled to the
-supplement of the paper.  
+supplement of the paper.  The supplements are always either (a) where the good stuff is,
+in detail, or (b) where the nonsignificant data goes to die.  
 
 <img src="{{site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-daniels-3.png" width="400" height="150" alt="Daniels: Kaplan-Meier" title="Daniels: Kaplan-Meier" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-They did something called a Cox proportional hazards model to (essentially) measure
+They did something called a [Cox proportional hazards model](https://en.wikipedia.org/wiki/Proportional_hazards_model) to (essentially) measure
 probability per unit time to the onset of severe disease, or to recovery based on the
-statin/non-statin cohorts.  From those, you make Kaplan-Meier plot (conventionally flipped
-vertically), showing the cumulative progressions/recoveries vs time.  By comparing the
+statin/non-statin cohorts.  From those, you make [Kaplan-Meier plots](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator) (conventionally flipped
+vertically compared to here), showing the cumulative progressions/recoveries vs time.  By comparing the
 black line with the dotted line, you can see that the statin patients were slower (or
 never) to progress to severe disease, and faster to recover.  More quantitatively, they
-computed the usual hazard ratio and logrank $p$-value, to assess whether the curves are
-statistically significantly different.  From table 2 in the paper:  
+computed the usual hazard ratio and associated logrank $p$-value, to assess whether the curves are
+statistically _significantly_ different, not just visually.  From table 2 in the paper:  
 - For time to recovery, statin use was significant ($p \leq 0.004$), but ACE/ARB use was
   not.  
 - For time to progression to severe disease, nobody made the cut.  (Though the authors, as
@@ -129,8 +131,9 @@ and have people more or less get it.)[↩](#fn3a)
 
 <a id="fn4">4</a>: And most especially: _please don't ever take anything you read here as
 medical advice!_  Your humble Weekend Editor is not an MD, but a totally different sort of
-doctor (PhD). Please listen to your own doctor.  Right-wing political mischief with health
-insurance in the US is a problem everybody here has, so do your best. [↩](#fn4a)  
+doctor (PhD). The closest we'll come to medical advice is: (a) get a doctor, and (b) do
+what your doctor says.  Right-wing political mischief with health
+insurance in the US is a problem everybody here has, so do your best with that. [↩](#fn4a)  
 
 ## References  
 
