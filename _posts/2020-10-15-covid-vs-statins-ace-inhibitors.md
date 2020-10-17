@@ -154,7 +154,8 @@ significant, by $t$-test with $p$ in the range of 0.01 to 0.0001.
 <img src="{{ site.baseurl }}/images/2020-10-15-covid-vs-statins-ace-inhibitors-wang-6.png" width="473" height="166" alt="Wang: ACAT rescue" title="Wang: ACAT rescue" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 __But is ACAT really the gene involved in this mechanism?__  If you "knock down" the ACAT
 gene with shRNA or an experimental ACAT inhibitor compound, you'd expect the virus to be
-able to get in again.  Figure 4 shows this.  Yes: whether by shRNA to prevent ACAT from
+able to get in again, i.e., another rescue experiment.  Figure 4 shows this.  Yes: whether
+by shRNA to prevent ACAT from 
 being made, or with a molecule to inhibit ACAT activity, once ACAT is shut down the effect
 goes away.  
 
