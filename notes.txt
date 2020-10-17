@@ -273,87 +273,17 @@ Notes on blogging tech.
   NB: .md files in assets/ must have a date: field in the YML frontmatter, and should
   have comments turned off.  Also, escape quotes in title with &quot; and &apos;.
 
-TODOs: These should be GitHub issues!
-
-*** robustify merit badges: protect style settings from nav bar mischief, make out of
-    tables so it doesn't rely on artful spacing, etc.
-
-*** put merit badges in nav bar with icons.
-
-*** search this blog
-
-*** Tags aren't working in .md files in root or /assets/ all 1 tag, as revealed by HTML checker:
-    <a href="/tags/#SomebodyAskedMe About R">
-    Also, they're not in the RSS feed?!
-    But they are in the sitemap.  I do the sitemap, the feed is somewhere inside Jekyll.
-    See https://jekyllrb.com/tutorials/convert-site-to-jekyll/#10-rss-feed for how to do
-    it without the jekyll-feed gem, which doesn't seem to handle this?
-    Also: https://joelglovier.com/writing/rss-for-jekyll
-
-*** Figure out how to self-host the material icons
-    https://github.com/google/material-design-icons/tree/master/font
-    https://google.github.io/material-design-icons/#icon-font-for-the-web
-
-*** Install jekyll locally, so I can debug locally before pushing out to the world (see README.md)
-  - Needs Ruby 2.5.0 or higher; I have only 2.3.7p456, so have to upgrade.
-  - Also need to update RubyGems
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at https://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
-
-*** Make tag collection scan non-post files like about.md, and 404.md, and .md files in assets/.
-    *** 1st attempt not working:
-    Prob not working because tagpage.html assumes it can ref post.date, post.title, post.description
-    An ordinary page has a title, but no date and no description?  Add to YML?  (didn't
-    work either)
-
-*** How to do pushes from my laptop, when SomeWeekendReading now owns it?  Supply SWR
-    credentials on command line somehow?  (And then delete myself as a collaborator.)
-    Looks related to the staticman bot pushing comments into the repo with a personal
-    access token, so maybe solve the comment problem first?
-
-    https://stackoverflow.com/questions/29776439/username-and-password-in-command-for-git-push
-    This prompts for the password:
-    git push https://YOUR_GIT_USERNAME@github.com/YOUR_GIT_USERNAME/yourGitFileName.git
-
-    ALSO: https://www.appveyor.com/docs/how-to/git-push/
-
-*** Google Analytics & AdSense, once we have some readers
-    https://flipdazed.github.io/blog/website/google-adsense-and-google-analytics
-    https://michaelsoolee.com/google-analytics-jekyll/
-
-*** Comments: make assets/main.scss.txt work?
-
-*** Figure out themes, and make my stuff a theme.  Maybe use MinimalMistakes?  Or duplicate it?
-*** Clean up CSS in general
-*** Fiddle with font sizes to make everything more compressed
-*** Add a side table of tags, maybe a word cloud
-
-*** Convert sitemap to an HTML page & permalink it?  put it also in nav bar?
-
-*** Copyright notice on each page? (in site build timestamp?)
-
-*** Add a quotes page @ top level, use format_quote icon
-
-*** Read Pro GIT
-
-*** Verify that mail account is still forwarding emails to me... seems not?
-*** mailto: link doesn't work?  (Both Firefox and Chrome; in Safari clicks on the mailto
-    link cause the browser to bury itself and do nothing.)  Reloaded GMail, it asked to be
-    allowed to open mail links which I allowed, and now it works?!
-    AMBIGUOUS...
-
 --------------------------------------------------------------------------------
 
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* Statins and COVID: email of 2020-Sep-29
+* Derek lowe on repurposing trials
+* Derek lowe on re-infection
 * Sam's game
 * Solstice sun times
 * Yield curve model
-* Statins and COVID: email of 2020-Sep-29
 * Impact of election years on stock returns (old weekend reading)
 * Bitwarden Roolz!
 * Trump and QAnon as the Black Death and the flagellants
