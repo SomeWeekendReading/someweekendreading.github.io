@@ -87,7 +87,9 @@ statistically _significantly_ different, not just visually.  From table 2 in the
   always being hopeful, thought they could see a weak trend.  Crusty old statisticians
   like your Weekend Editor are seldom sympathetic to this.)  
 - Age cohort (10 year groups) was also statistically wildly significant, in the bad
-  direction ($p \leq 0.001$).  (There are, alas, as yet few treatments for age.)  
+  direction ($p \leq 0.001$).  (There are, alas, as yet few treatments for aging.  Perhaps
+  [Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey) will one day have
+  something to say about that?)  
 
 There's more, but that's kind of the bottom line:  
 - If you're taking a cholesterol-lowering drug, particularly a statin, congratulations on

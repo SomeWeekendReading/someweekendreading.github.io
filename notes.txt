@@ -278,7 +278,7 @@ Notes on blogging tech.
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
-* Derek lowe on repurposing trials
+* Derek lowe on repurposing trials (SOLIDARITY data, post of 2020-oct-16)
 * Derek lowe on re-infection
 * Sam's game
 * Solstice sun times
@@ -332,5 +332,12 @@ Blog posts:
 * https://bigthink.com/strange-maps/four-folkways and Scott Alexander's review of _Albion's Seed_
 * How bad is the Corona unemployment?
   https://3.bp.blogspot.com/-uqLs0cxchY0/X1I01cbu9CI/AAAAAAAA2EQ/N4XHh9ts9zggWDzwtiAiM1tuQjA4paDxwCLcBGAsYHQ/s1600/EmployRecessionAug2020.PNG
+* Bohmian mechanics: http://backreaction.blogspot.com/2020/10/david-bohms-pilot-wave-interpretation.html
+  Turn wf into absolute value & phase, put int TDSE, separate into real & imag parts.
+  One is cons prob & determines what guiding field does, other is "guiding equation" and
+  determines particle position, depends on guiding field.  To get prob for particle @ posn
+  in guiding field, need 3rd eqn: quantum equil hypothesis, more or less Born's rule.
+  Exact same results as QM, but particle is in 1 place always.  But more non-local than
+  QM: guiding field dep on ALL particles to be measured, can't make QFT.
 * ...?
 
