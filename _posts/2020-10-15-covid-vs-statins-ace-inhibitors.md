@@ -15,7 +15,7 @@ Initially I was a bit suspicious:<sup id="fn1a">[[1](#fn1)]</sup> <sup id="fn2a"
 there's some evidence that [ACE](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme) 
 inhibitors actually _increase_ the expression of 
 [ACE2](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme_2), which SARS-COV-2
-uses to enter cells, and that would _increase_ risk.  Also, its by a bunch of
+uses to enter cells, and that would _increase_ risk.  Also, it's by a bunch of
 cardiologists, apparently trying to tell us their discipline rules the world.  Finally, 
 it was a press release (reference 1), and your Weekend Editor has a rather dyspeptic view 
 of press releases.  
