@@ -7,15 +7,18 @@ comments: true
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) (honest!) about a news item
 linking improved treatment outcomes for COVID-19 with patients using statin and ACE
-inhibitor drugs. <sup id="fn1a">[[1](#fn1)]</sup> <sup id="fn2a">[[2](#fn2)]</sup> 
-Very preliminary stuff, and the effect size is not giant, but it is peer-reviewed and
-looks quite legit.  Not gonna change the world, but even small bits of good news are welcome.  
+inhibitor drugs.  Very preliminary stuff, and the effect size is not giant, but it is
+peer-reviewed and looks quite legit.  Not gonna change the world, but even small bits of 
+good news are welcome.  
 
-Initially I was a bit suspicious: there's some evidence that [ACE](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme) inhibitors actually
-_increase_ the expression of [ACE2](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme_2), which SARS-COV-2 uses to enter cells, and that would
-_increase_ risk.  Also, it's by a bunch of cardiologists, apparently trying to tell us
-their discipline rules the world.  Finally, it was a press release (reference 1), and your
-Weekend Editor has a rather dyspeptic view of press releases.  
+Initially I was a bit suspicious:<sup id="fn1a">[[1](#fn1)]</sup> <sup id="fn2a">[[2](#fn2)]</sup> 
+there's some evidence that [ACE](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme) 
+inhibitors actually _increase_ the expression of 
+[ACE2](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme_2), which SARS-COV-2
+uses to enter cells, and that would _increase_ risk.  Also, it's by a bunch of
+cardiologists, apparently trying to tell us their discipline rules the world.  Finally, 
+it was a press release (reference 1), and your Weekend Editor has a rather dyspeptic view 
+of press releases.  
 
 Happily, I was wrong on all counts.  This looks like preliminary but legit evidence
 (reference 2) of at least _some_ lowering of the risk of mild COVID becoming severe.
