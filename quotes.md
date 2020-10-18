@@ -327,7 +327,7 @@ instead."  &mdash; [Jonathan Tawn](https://www.lancaster.ac.uk/maths/people/jon-
 statistics." &mdash; Who?  
 
 "If your result needs a statistician, then you should design a better experiment." &mdash;
-[Ernest Rutherford, 1st Baron Rutherford of Nelson and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  
+[Ernest Rutherford, 1st Baron Rutherford of Nelson, and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  
 
 "Statistical and applied probabilistic knowledge is the core of knowledge; statistics is
 what tells you if something is true, false, or merely anecdotal; it is the 'logic of
@@ -340,7 +340,7 @@ user who picked it up in graduate school. Statistics can fool you."
 
 "But statistical regularities, like facts, are stubborn things. You bet against them at your peril." &mdash; [Alan S. Blinder](https://en.wikipedia.org/wiki/Alan_Blinder), Princeton economics professor &amp; former vice chair of the Federal Reserve, ["Is History Siding with Obama's Economic Plan?"](https://www.nytimes.com/2008/08/31/business/31view.html), NYT 30-Aug-2008.  
 
-"It is easy to lie with statistics." &mdash; [Darrell Huff](https://en.wikipedia.org/wiki/Darrell_Huff), [_How to Lie with Statistics_](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics).  (But see: "It is easier to lie without them." &amp; [Frederick Mosteller](https://en.wikipedia.org/wiki/Frederick_Mosteller), founding chair of the Harvard statistics department.)  
+"It is easy to lie with statistics." &mdash; [Darrell Huff](https://en.wikipedia.org/wiki/Darrell_Huff), [_How to Lie with Statistics_](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics).  (But see: "It is easier to lie without them." &mdash; [Frederick Mosteller](https://en.wikipedia.org/wiki/Frederick_Mosteller), founding chair of the Harvard statistics department.)  
 
 "Most people use statistics the way a drunk uses a lamp post -- more for support than
 enlightenment." &mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)  
@@ -353,10 +353,12 @@ at SSC 2003, Halifax (June 2003).
 
 ## The Religious Ones  
 
-"Nothing worth doing is completed in our lifetime; therefore, we are saved by hope. 
-Nothing true or beautiful or good makes complete sense in any immediate context of history; 
-therefore, we are saved by faith.  Nothing we do, however virtuous, can be accomplished
-alone; therefore, we are saved by love." 
+"Nothing worth doing is completed in our lifetime;<br> 
+therefore, we are saved by hope.<br>
+Nothing true or beautiful or good makes complete sense in any immediate context of history;<br>
+therefore, we are saved by faith.<br>
+Nothing we do, however virtuous, can be accomplished alone;<br>
+therefore, we are saved by love."
 &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
 
 "Niebuhr was a critic of national innocence, which he regarded as a
