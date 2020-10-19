@@ -11,8 +11,9 @@ date: 2020-07-01
   <!-- List of tags in "natural" alphanumeric order.  Can this be made more elegant?  -->
   {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
-
+ <hr>
  <em>Tags used so far:</em> {% for tagname in sortedtagnames %}<a href="#{{ tagname }}">{{ tagname }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+ <hr>
 
   {% for tagname in sortedtagnames %}
     {% assign tagpages = site.tags[tagname] %}
