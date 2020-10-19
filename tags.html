@@ -12,7 +12,7 @@ date: 2020-07-01
   {% capture tagnames %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign sortedtagnames = tagnames | split:',' | sort_natural %}
 
-  _Tags used so far:_ {% for tagname in sortedtagnames %}<a href="#{{ tagname }}">{{ tagname }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+ <em>Tags used so far:</em> {% for tagname in sortedtagnames %}<a href="#{{ tagname }}">{{ tagname }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
 
   {% for tagname in sortedtagnames %}
     {% assign tagpages = site.tags[tagname] %}
