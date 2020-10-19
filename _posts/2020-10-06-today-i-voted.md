@@ -24,6 +24,10 @@ I see from the Secretary of States' web page for my state that my ballot has bee
 received, signature checked, and accepted for counting.  So... that's done.  Now, as the
 Weekend Editrix pointed out, we just have to worry about the _outcome_.  
 
+### Added 2020-Oct-19:
+
+[Scalzi sums it up nicely, with a pretty autumnal picture, to boot.](https://whatever.scalzi.com/2020/10/19/and-now-some-general-thoughts-about-the-election/)  
+
 ## Notes  
 
 <a id="fn1">1</a>: Too much Republican mischief at the Post Office: [72% of the mail sorting machines removed "for cost savings" were in counties won by Clinton in the last election](https://www.huffpost.com/entry/postmaster-dejoy-sorting-machines-stripped-for-parts_n_5f6d71d5c5b64deddeeb9107), according to [a federal court finding](https://www.dropbox.com/s/jq05j72ptz598ad/gov.uscourts.waed.91975.81.0_1.pdf?dl=0).  So... it's _deliberate_.[↩](#fn1a)
