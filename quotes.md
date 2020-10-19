@@ -532,6 +532,21 @@ and rosiness of happy moments. What we want, in short, is a life and a self that
 is a fitting response to &mdash; and then to give it that response."
 &mdash; [Robert Nozick](https://en.wikipedia.org/wiki/Robert_Nozick), _The Examined Life_.  
 
+"Always preach the gospel; use words, if necessary."
+&mdash; [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi) (though probably 
+[falsely attributed](http://www.americancatholic.org/Messenger/Oct2001/Wiseman.asp#F1), this 
+reflects the spirit of Chapter XVII of the 
+[Rule of 1221](https://en.wikipedia.org/wiki/Franciscan#The_rule_of_1221)  
+
+
+"Life can only be understood backwards; but it must be lived forwards."
+&mdash; [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)  
+
+"Equity bids us to be merciful to the weakness of human nature; to think less about
+what he said than about what he meant; not to consider the actions of the accused so
+much as his intentions, nor this or that detail so much as the whole story."
+&mdash; [Aristotle](https://en.wikipedia.org/wiki/Aristotle)  
+
 
 ## The Index Invested Ones  
 
