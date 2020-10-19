@@ -223,6 +223,14 @@ neighbors." &mdash; _United States v. George W. Bush et al._, by former federal 
 "No, it's not fair. You're in the wrong universe for fair." 
 &mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)  
 
+"&hellip; almost everyone thinks he's the good guy, and if you take your stand on
+the slope of Mount Righteous Cause, it has proven as slippery as greased glass.   But
+social dominators will run to take their chances on that slippery slope.  
+&mdash; psychologist [Bob Altemeyer](https://en.wikipedia.org/wiki/Robert_Altemeyer), 
+in his popular-level summary of his work on 
+[Right Wing Authoritarianism](https://en.wikipedia.org/wiki/Right_Wing_Authoritarianism), 
+[_The Authoritarians_](http://home.cc.umanitoba.ca/~altemey/), p. 163.  
+
 "A man is incapable of comprehending any argument which interferes with his revenue."
 &mdash; [Ren&eacute; Descartes](https://en.wikipedia.org/wiki/Rene_Descartes) (But see also:
 "It's amazing how difficult it is for a man to understand something if he's paid a small
@@ -255,7 +263,11 @@ associate (1849)
 "Practical men, who believe themselves to be quite exempt from any intellectual
 influences, are usually the slaves of some defunct economist."
 &mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) (1883-1946) 
-in _The General Theory of Employment, Interest and Money_.
+in _The General Theory of Employment, Interest and Money_.  
+
+"The market can stay irrational longer than you can stay solvent." 
+&mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  
+
 
 
 ## Those of Rational &amp; Scientific Bent
@@ -512,6 +524,13 @@ for human beings."
 
 "... to speak about God and remain silent on Vietnam is blasphemous."
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
+
+"We want experiences, fitting ones, of profound connection with others, of deep
+understanding of natural phenomena, of love, of being profoundly moved by music or
+tragedy, or doing something new and innovative, experiences very different from the bounce
+and rosiness of happy moments. What we want, in short, is a life and a self that happiness
+is a fitting response to &mdash; and then to give it that response."
+&mdash; [Robert Nozick](https://en.wikipedia.org/wiki/Robert_Nozick), _The Examined Life_.  
 
 
 ## The Index Invested Ones  
