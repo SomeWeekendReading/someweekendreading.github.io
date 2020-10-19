@@ -229,7 +229,7 @@ social dominators will run to take their chances on that slippery slope.
 &mdash; psychologist [Bob Altemeyer](https://en.wikipedia.org/wiki/Robert_Altemeyer), 
 in his popular-level summary of his work on 
 [Right Wing Authoritarianism](https://en.wikipedia.org/wiki/Right_Wing_Authoritarianism), 
-[_The Authoritarians_](http://home.cc.umanitoba.ca/~altemey/), p. 163.  
+[_The Authoritarians_](https://theauthoritarians.org/), p. 163.  
 
 "A man is incapable of comprehending any argument which interferes with his revenue."
 &mdash; [Ren&eacute; Descartes](https://en.wikipedia.org/wiki/Rene_Descartes) (But see also:
