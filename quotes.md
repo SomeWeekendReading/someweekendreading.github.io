@@ -467,9 +467,9 @@ time."
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
 _The Napoleon of Notting Hill_, p. 23-24.  
 
-"All science, even the divine science, is a sublime detective story. Only it is not set to detect why a man is dead; but the darker secret of why he is alive." &mdash; 
+"All science, even the divine science, is a sublime detective story. Only it is not set to detect why a man is dead; but the darker secret of why he is alive."
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
-[_The Thing_ CW. III 191](http://www.gkc.org.uk/gkc/books/The_Thing.txt).  
+[_The Thing_ Ch 9 'What do they think?'](http://www.gkc.org.uk/gkc/books/The_Thing.txt).  
 
 "I have sometimes had occasion to murmur meekly that those who endure the heavy labour
 of reading a book might possibly endure that of reading the title-page of a book.  For
