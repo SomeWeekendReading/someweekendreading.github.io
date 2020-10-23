@@ -268,7 +268,8 @@ in _The General Theory of Employment, Interest and Money_.
 "The market can stay irrational longer than you can stay solvent." 
 &mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  
 
-
+"Justice is what love looks like in public, just like tenderness is what love feels like
+in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)  
 
 ## Those of Rational &amp; Scientific Bent
 
