@@ -202,6 +202,10 @@ Ok, so that was a long trip.  I think the basics are:
 - There may be better ways to do this (direct administration of 25-hydroxycholesterol,
   perhaps directly to the lungs with a nebulizer?), but statins seem to _help_.  
 - Statins, unlike remdesivir, are long-approved, well-understood, and cheap.  
+- __A few missing items:__ expansion beyond a single-center trial (replication is
+  important!), and a link between clinically observed response in patients and the
+  specific mechanism involving interferon/CH25H/25HC/ACAT/membrane cholesterol depletion,
+  vs almost anything else.  
 
 So take your statins, if you doctor has prescribed them!  
 
