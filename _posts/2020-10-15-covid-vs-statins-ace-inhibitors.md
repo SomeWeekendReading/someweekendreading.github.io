@@ -205,8 +205,8 @@ Ok, so that was a long trip.  I think the basics are:
 - __A few missing items:__ expansion beyond a single-center trial (replication is
   important!), and a link between clinically observed response in patients and the
   specific mechanism involving interferon/CH25H/25HC/ACAT/membrane cholesterol depletion
-  _vs_ almost any _other_ mechanism, and a response biomarker telling us which COVID-19 patients
-  are most likely to benefit to benefit from statin therapy.  
+  _vs_ almost any _other_ mechanism, and finally a response biomarker telling us which
+  COVID-19 patients are most likely to benefit to benefit from statin therapy.  
 
 So take your statins, if you doctor has prescribed them!  
 
