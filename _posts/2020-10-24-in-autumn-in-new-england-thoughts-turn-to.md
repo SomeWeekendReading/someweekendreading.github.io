@@ -134,7 +134,7 @@ $R = v_{0}^{2} \sin 2\theta / g$.  (As a check, differentiation with respect to 
 recovers the expected result that range is maximized by firing at $\theta = \pi/4$, or
 45&deg;.)  
 
-Solve for the muzzle velocity to get $v_0 = \sqrt{R g / \sin 2\theta}$.  But $\sin
-2\theta = 1$ at 45&deg;.  For a range $R = 4000$ ft and earth gravit $g = 32
-\textrm{ft}/\textrm{sec}^2$, we get a muzzle velocity of $v_0 = 357.7 \textrm{ft/sec} = 244 \textrm{mi/hr}$.
-[↩](#fn3a)  
+Solve for the muzzle velocity to get $v_0 = \sqrt{R g / \sin 2\theta}$.
+But $\sin 2\theta = 1$ at 45&deg;.  For a range $R = 4000$ ft and earth gravity 
+$g = 32 \textrm{ft}/\textrm{sec}^2$, we get a muzzle velocity of 
+$v_0 = 357.7 \textrm{ft/sec} = 244 \textrm{mi/hr}$. [↩](#fn3a)  
