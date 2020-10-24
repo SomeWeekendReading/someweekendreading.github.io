@@ -96,7 +96,7 @@ rules.
 Some other rules are... less obvious.  I mean: if your hobby requires a Range Safety
 Officer, a no firearms policy, required ultrasound testing of pressure vessels, and an
 explicit ban on explosives... it might be time to rethink your life choices.  The events
-that led to those rules sound like things you'd want to skip.__
+that led to those rules sound like things you'd want to skip.  
 
 Still, I bet it's a blast (ahem). There may be madness to their methods; but their madness is the 
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
