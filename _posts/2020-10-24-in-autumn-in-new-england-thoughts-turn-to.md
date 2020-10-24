@@ -47,7 +47,7 @@ sunset, was something to make one pause.
 
 So... yeah, that was pretty good.  
 
-## The _other_ thing about autumn
+## The _other_ thing about autumn: pumpkins!
 
 The other thing about autumn is what people get up to with pumpkins.  I mean, it' just
 some innocent gourd, right?  But they decorate with them, even to 
