@@ -49,4 +49,23 @@ So... yeah, that was pretty good.
 
 ## The _other_ thing about autumn
 
+The other thing about autumn is what people get up to with pumpkins.  I mean, it' just
+some innocent gourd, right?  But they decorate with them, even to 
+[using glass labs at a major research university to craft blown-glass replicas](https://news.mit.edu/2020/its-virtual-great-glass-pumpkin-patch-mit-1021), 
+a favorite of your Weekend Editrix.  And they carve them.  Good Heaven, they carve them in
+oddball ways.  They even 
+[pumpkinize the face of Dr. Horrible](https://www.flickr.com/photos/steveoftheweb/4062468120/) 
+from [Dr. Horrible's Sing-Along Blog](https://drhorrible.com/).  
+
+<iframe width="373" height="210" src="https://www.youtube.com/watch?v=Z_8jF6FygN4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+But all this, _cute_ as it is, is as nothing compared to what happens when mathematicians,
+scientists, and engineers put their minds to The Problem of the Pumpkin.  For example, at
+MIT (and apparently also at CalTech) there is a tradition of dropping pumpkins from high
+buildings, to "investigate" the splatter patterns.  I once observed pumpkins filled with
+liquid nitrogen, frozen solid, converting 20 stories of gravitational potential energy to
+kinetic, interacting _most satisfactorily_ with the concrete & asphalt below.  I swear
+they flashed as they hit, maybe a triboluminescent thing going on there.  
+
 TBD  
+
+There may be madness to their methods; but their madness is the [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
