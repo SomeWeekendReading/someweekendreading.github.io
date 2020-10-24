@@ -105,12 +105,13 @@ Still, I bet it's a blast (ahem). There may be madness to their methods; but the
 
 <a id="fn1">1</a>: And apparently 
 [also at CalTech](https://www.latimes.com/socal/burbank-leader/the818now/pasadenasu-1101-halloween-pumpkins-meet-their-explosive-end-at-caltech-story.html)?
-Possibly elsewhere. It's becoming a bit of a Nerd Tribe custom.  If you shiver with
-excitement, wish you were there, and want to participate, you may be a potential member of
-the Tribe.  If, on the other hand, you think something like "Why in the world would
-you...", then you are not a member of the Tribe.  So long as you are even slightly
-respectful of our customs, you may consider
-yourself granted Honored Guest status within the Nerd Tribe. [↩](#fn1a)  
+Possibly elsewhere.  
+
+It's become a bit of a Nerd Tribe custom.  If you shiver with excitement, wish you were
+there, and want to participate, you may be a potential member of the Tribe.  If, on the
+other hand, you think something like "Why in the world would you...", then you are not a
+member of the Tribe.  So long as you are even slightly respectful of our customs, you may
+consider yourself granted Honored Guest status within the Nerd Tribe. [↩](#fn1a)  
 
 <a id="fn2">2</a>: Maybe a [triboluminescent](https://en.wikipedia.org/wiki/Triboluminescence)
 thing going on there, like 
