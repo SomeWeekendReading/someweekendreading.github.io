@@ -50,23 +50,21 @@ So... yeah, that was pretty good.
 ## The _other_ thing about autumn: pumpkins!
 
 The other thing about autumn is what people get up to with pumpkins.  I mean, it' just
-some innocent gourd, right?  But they decorate with them, even to 
+some innocent gourd, right?  But they decorate with them, even to the extent of
 [using glass labs at a major research university to craft blown-glass replicas](https://news.mit.edu/2020/its-virtual-great-glass-pumpkin-patch-mit-1021), 
-a favorite of your Weekend Editrix.  And they carve them.  Good Heaven, they carve them in
+a favorite of the Weekend Editrix.  And they carve them.  Good Heaven, they carve them in
 oddball ways.  They even 
 [pumpkinize the face of Dr. Horrible](https://www.flickr.com/photos/steveoftheweb/4062468120/) 
 from [Dr. Horrible's Sing-Along Blog](https://drhorrible.com/).  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/Z_8jF6FygN4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-But all this... _cute_ as it is... is as _nothing_ compared to what happens when mathematicians,
+But all that... _cute_ as it is... is as _nothing_ compared to what happens when mathematicians,
 scientists, and engineers put their minds to The Problem of the Pumpkin.  For example, at
-MIT (and apparently also at CalTech) there is a tradition of dropping pumpkins from high
+MIT <sup id="fn1a">[[1](#fn1)]</sup> there is a tradition of dropping pumpkins from high
 buildings, to "investigate" the splatter patterns.  I once observed pumpkins filled with
 liquid nitrogen, frozen solid, converting 22 stories of gravitational potential energy to
-kinetic, interacting _most satisfactorily_ with the concrete & asphalt below.  (I swear
-they flashed as they hit, maybe a [triboluminescent](https://en.wikipedia.org/wiki/Triboluminescence)
-thing going on there, like 
-[the wintergreen Life-Savers example](https://en.wikipedia.org/wiki/Triboluminescence#Examples)?)  
+kinetic, interacting _most satisfactorily_ with the concrete & asphalt below.  I swear
+I remember they flashed as they hit <sup id="fn2a">[[2](#fn2)]</sup>.  
 
 Nonetheless... cute as _that_ is... it has recently come to my attention that there is a
 higher form of pumpkin madness: the annual since 1986 
@@ -92,7 +90,7 @@ they impact the ground to obtain an official measurement."  Now, _how can they t
 pumpkin disintegrates in flight?  A quick back of the envelope calculation says,
 neglecting air resistance, to travel 4000 feet downrange launched at an optimal 45&deg;,
 the muzzle velocity must be 243 mph &mdash; at which speed it's difficult to decide if the
-pumpkin has cracked up enough.  
+pumpkin has cracked up enough. <sup id="fn3a">[[3](#fn3)]  
 
 Some are... less obvious.  I
 mean: if your hobby requires a Range Safety Officer, a no firearms policy, required
@@ -101,3 +99,21 @@ time to rethink your life choices.__
 
 Still, I bet it's a blast. There may be madness to their methods; but their madness is the 
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
+
+## Notes
+
+<a id="fn1">1</a>: And apparently also at CalTech?  Possibly elsewhere. It's becoming a
+bit of a Nerd Tribe custom.  If you shiver with excitement, wish you were there, and want
+to participate, you may be a potential member of the Tribe.  If, on the other hand, you
+think something like "Why in the world would you...", then you are not a member of the
+Tribe.  So long as you are even slightly respectful of our customs, you may consider
+yourself granted Honored Guest status within the Nerd Tribe. [↩](#fn1a)  
+
+<a id="fn2">2</a>: Maybe a [triboluminescent](https://en.wikipedia.org/wiki/Triboluminescence)
+thing going on there, like 
+[the wintergreen Life-Savers example](https://en.wikipedia.org/wiki/Triboluminescence#Examples)? 
+[↩](#fn2a)  
+
+<a id="fn3">3</a>: Let $v_0$ be the muzzle velocity, $R$ be the range, and $\theta$ be the
+angle of inclination of the barrel at firing.
+[↩](#fn3a)  
