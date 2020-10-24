@@ -15,6 +15,8 @@ of wear and tear on all of us.  But autumn _in New England_... well, even the mo
 and depressed heart such as that of your humble Weekend Editor cannot help but breath in
 the beautiful scents and bask with relief in the beauty.  
 
+## Autumnal stress-relief trip
+
 This week, your Weekend Editor & Editrix went on a little trip to look at foliage in the 
 [Berkshires](https://en.wikipedia.org/wiki/Berkshires).  (Don't
 judge us; it's a New Enland _thing_.)  We stayed at the (empty) house of some friends,
