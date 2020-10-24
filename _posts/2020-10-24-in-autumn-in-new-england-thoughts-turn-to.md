@@ -120,17 +120,17 @@ gravity.  We'll totally (and unrealistically) neglect air friction.
 
 Then the initial vertical velocity is $v_0 \sin \theta$.  The vertical distance
 travelled as a function of time, by elementary kinematics, is: 
-$y(t) = v_0 \sin \theta t - 1/2 g t^2$.  The pumpkin is at ground height when $y = 0$.
+$y(t) = v_0 \sin \theta\, t - g t^2 / 2$.  The pumpkin is at ground height when $y = 0$.
 Setting $y(t) = 0$ gives 2 solutions: $t = 0$ (at launch) and $t = 2 v_0 \sin \theta / g$
 (at impact).  
 
 So the latter solution tells us how long the pumpkin is in the air.  Then the range
-travelled is the horizontal velocity $v0 \cos \theta$ times the time in the air, or 
-$R = v_{0}^{2} \sin 2\theta / g$.  As a check, differentiation with respect to $\theta$
-yields the expected result that range is maximized by firing at $\theta = \pi/4$, or
-45&deg;.  
+travelled is the horizontal velocity $v_0 \cos \theta$ times the time in the air, or 
+$R = v_{0}^{2} \sin 2\theta / g$.  )As a check, differentiation with respect to $\theta$
+recovers the expected result that range is maximized by firing at $\theta = \pi/4$, or
+45&deg;.)  
 
 Solve for the muzzle velocity to get $v_0 = \sqrt{R g / \sin 2\theta}$.  But $\sin
 2\theta = 1$ at 45&deg;.  For a range $R = 4000$ ft and earth gravit $g = 32
-\rm{ft}/\rm{sec}^2$, we get a muzzle velocity of $v_0 = 357.7 \rm{ft/sec} = 243 \rm{mph}$.
+\textrm{ft}/\textrm{sec}^2$, we get a muzzle velocity of $v_0 = 357.7 \textrm{ft/sec} = 243 \textrm{mph}$.
 [↩](#fn3a)  
