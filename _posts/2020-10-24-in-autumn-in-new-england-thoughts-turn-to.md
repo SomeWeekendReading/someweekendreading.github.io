@@ -70,8 +70,16 @@ thing going on there, like
 
 Nonetheless... _cute_ as that is... it has recently come to my attention that there is a
 higher form of pumpkin madness: the annual since 1986 
-[World Championship Punkin Chunkin](https://www.punkinchunkin.com/).
+[World Championship Punkin Chunkin](https://www.punkinchunkin.com/).  They use trebuchets,
+catapaults, and (my favorite) compressed air cannons apparently with multi-stage pressure
+injection!  
 
-TBD  
+<img src="{{ site.baseurl }}/images/2020-10-24-in-autumn-in-new-england-thoughts-turn-to-pumpkin-air-cannon.jpg" width="250" height="250" alt="Pumpkin air cannon" title="Pumpkin air cannon" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+The record is a 2013 throw of a full-sized pumpkin for 4694.68ft.  (I love that they
+hallucinate the ability to get a preicsion of 6 significant figures.)  Throwing a pumpkin
+for just a bit short of a mile is... well, artillery.  It should come as no surprise that
+it's being held at a small airport &mdash; they may need redirection of air traffic.  
+
+Their [rule book](https://www.punkinchunkin.com/the-competition/rules/) makes for for interesting reading, too.  
 
 There may be madness to their methods; but their madness is the [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
