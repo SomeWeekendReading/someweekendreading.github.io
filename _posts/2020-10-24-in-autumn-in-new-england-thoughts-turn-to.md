@@ -19,7 +19,7 @@ the beautiful scents and bask with relief in the beauty.
 
 This week, your Weekend Editor & Editrix went on a little trip to look at foliage in the 
 [Berkshires](https://en.wikipedia.org/wiki/Berkshires).  (Don't
-judge us; it's a New Enland _thing_.)  We stayed at the (empty) house of some friends,
+judge us; it's a New England thing.)  We stayed at the (empty) house of some friends,
 cooked for ourselves, work masks outside, and maintained extreme social distance.  But
 was, quite literally, our first time away from home in the last 7 months due to the
 COVID-19 pandemic.  So it was _special_.  
@@ -33,9 +33,9 @@ COVID-19 pandemic.  So it was _special_.
 The views from the hairpin turn near the Whitcomb Summit on the 
 [Mohawk Trail](https://en.wikipedia.org/wiki/Mohawk_Trail) in the 
 Hoosac Range, and from the peak of
-[Mt Greylock](https://en.wikipedia.org/wiki/Mount_Greylock) were spectacular!  The 
-[Bridge of Flowers](https://en.wikipedia.org/wiki/Bridge_of_Flowers_(bridge)) is also great, 
-though perhaps this was not the correct time of the year.  
+[Mt Greylock](https://en.wikipedia.org/wiki/Mount_Greylock) were spectacular!  (The 
+[Bridge of Flowers](https://en.wikipedia.org/wiki/Bridge_of_Flowers_(bridge)) is also
+pretty great, though perhaps this was not the correct time of the year.)  
 
 At lower altitudes, Pontoosuc Lake and the view of the mountains from 
 [The Clark](https://www.clarkart.edu/).  (The photo doesn't _quite_ capture how beautiful the
@@ -44,5 +44,9 @@ Your Weekend Editor is a crappy photographer.)
 
 Even something as simple as a backyard tree at the house of our friends, illuminated by a
 sunset, was something to make one pause.  
+
+So... yeah, that was pretty good.  
+
+## The _other_ thing about autumn
 
 TBD  
