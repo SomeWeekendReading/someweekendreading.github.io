@@ -1,14 +1,14 @@
 ---
 layout: post
-title: In autumn in New England, thoughts turn to...
+title: At autumn in New England, thoughts turn to...
 tags: Beauty TheDivineMadness
 comments: true
 ---
 
-In autumn in New England, thoughts turn to the extreme beauty of nature, the weather
-turning more comfortably cool, cinnamon and nutmeg smells everywhere, and... trebuchets,
-catapaults, air cannons, and other implements of imparting to pumpkins various levels of
-sub-orbital trajectories.  
+At autumn in New England, thoughts turn to the extreme beauty of nature, the weather
+turning more comfortably cooler &amp; drier, cinnamon and nutmeg smells everywhere,
+and... trebuchets, catapaults, air cannons, and other implements of imparting to pumpkins
+various levels of sub-orbital trajectories.  
 
 It's autumn... _finally_.  2020, in a single year, has managed to impose several decades
 of wear and tear on all of us.  But autumn _in New England_... well, even the most dour
@@ -57,7 +57,7 @@ oddball ways.  They even
 [pumpkinize the face of Dr. Horrible](https://www.flickr.com/photos/steveoftheweb/4062468120/) 
 from [Dr. Horrible's Sing-Along Blog](https://drhorrible.com/).  
 
-<iframe width="373" height="210" src="https://www.youtube.com/watch?v=Z_8jF6FygN4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<iframe width="373" height="210" src="https://www.youtube.com/embed/Z_8jF6FygN4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 But all this, _cute_ as it is, is as nothing compared to what happens when mathematicians,
 scientists, and engineers put their minds to The Problem of the Pumpkin.  For example, at
 MIT (and apparently also at CalTech) there is a tradition of dropping pumpkins from high
