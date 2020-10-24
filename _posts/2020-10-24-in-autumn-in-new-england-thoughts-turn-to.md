@@ -68,7 +68,7 @@ they flashed as they hit, maybe a [triboluminescent](https://en.wikipedia.org/wi
 thing going on there, like 
 [the wintergreen Life-Savers example](https://en.wikipedia.org/wiki/Triboluminescence#Examples)?)  
 
-Nonetheless... _cute_ as that is... it has recently come to my attention that there is a
+Nonetheless... cute as _that_ is... it has recently come to my attention that there is a
 higher form of pumpkin madness: the annual since 1986 
 [World Championship Punkin Chunkin](https://www.punkinchunkin.com/).  They use trebuchets,
 catapaults, and (my favorite) compressed air cannons apparently with multi-stage pressure
@@ -78,8 +78,26 @@ injection!
 The record is a 2013 throw of a full-sized pumpkin for 4694.68ft.  (I love that they
 hallucinate the ability to get a preicsion of 6 significant figures.)  Throwing a pumpkin
 for just a bit short of a mile is... well, artillery.  It should come as no surprise that
-it's being held at a small airport &mdash; they may need redirection of air traffic.  
+it's being held at a small airport &mdash; they may need redirection of air traffic: if
+you're going a mile downrange, you're probably going _up_ about half that &mdash; a flying
+pumpkin at 2500 feet altitude is surely a hazard to air navigation.  
 
-Their [rule book](https://www.punkinchunkin.com/the-competition/rules/) makes for for interesting reading, too.  
+Their [rule book](https://www.punkinchunkin.com/the-competition/rules/) makes for for
+interesting reading, too.  They've been at this for rather a long time (since 1986), and
+have extensive (and laudable) safety rules.  Some are pretty obvious, like a strict no
+alcohol policy and that minors must be always supervised.  
 
-There may be madness to their methods; but their madness is the [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
+Still other rules make me scratch my head: "All pumpkins fired must remain intact until
+they impact the ground to obtain an official measurement."  Now, _how can they tell_ if a
+pumpkin disintegrates in flight?  A quick back of the envelope calculation says,
+neglecting air resistance, to travel 4000 feet downrange launched at an optimal 45&deg;,
+the muzzle velocity must be 243 mph &mdash; at which speed it's difficult to decide if the
+pumpkin has cracked up enough.  
+
+Some are... less obvious.  I
+mean: if your hobby requires a Range Safety Officer, a no firearms policy, required
+ultrasound testing of pressure vessels, and an explicit ban on explosives... it might be
+time to rethink your life choices.__
+
+Still, I bet it's a blast. There may be madness to their methods; but their madness is the 
+[divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
