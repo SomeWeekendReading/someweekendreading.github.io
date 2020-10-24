@@ -103,11 +103,13 @@ Still, I bet it's a blast (ahem). There may be madness to their methods; but the
 
 ## Notes
 
-<a id="fn1">1</a>: And apparently also at CalTech?  Possibly elsewhere. It's becoming a
-bit of a Nerd Tribe custom.  If you shiver with excitement, wish you were there, and want
-to participate, you may be a potential member of the Tribe.  If, on the other hand, you
-think something like "Why in the world would you...", then you are not a member of the
-Tribe.  So long as you are even slightly respectful of our customs, you may consider
+<a id="fn1">1</a>: And apparently 
+[also at CalTech](https://www.latimes.com/socal/burbank-leader/the818now/pasadenasu-1101-halloween-pumpkins-meet-their-explosive-end-at-caltech-story.html)?
+Possibly elsewhere. It's becoming a bit of a Nerd Tribe custom.  If you shiver with
+excitement, wish you were there, and want to participate, you may be a potential member of
+the Tribe.  If, on the other hand, you think something like "Why in the world would
+you...", then you are not a member of the Tribe.  So long as you are even slightly
+respectful of our customs, you may consider
 yourself granted Honored Guest status within the Nerd Tribe. [↩](#fn1a)  
 
 <a id="fn2">2</a>: Maybe a [triboluminescent](https://en.wikipedia.org/wiki/Triboluminescence)
@@ -133,5 +135,5 @@ recovers the expected result that range is maximized by firing at $\theta = \pi/
 
 Solve for the muzzle velocity to get $v_0 = \sqrt{R g / \sin 2\theta}$.  But $\sin
 2\theta = 1$ at 45&deg;.  For a range $R = 4000$ ft and earth gravit $g = 32
-\textrm{ft}/\textrm{sec}^2$, we get a muzzle velocity of $v_0 = 357.7 \textrm{ft/sec} = 244 \textrm{mph}$.
+\textrm{ft}/\textrm{sec}^2$, we get a muzzle velocity of $v_0 = 357.7 \textrm{ft/sec} = 244 \textrm{mi/hr}$.
 [↩](#fn3a)  
