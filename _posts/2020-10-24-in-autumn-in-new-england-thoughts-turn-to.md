@@ -89,15 +89,16 @@ Still other rules make me scratch my head: "All pumpkins fired must remain intac
 they impact the ground to obtain an official measurement."  Now, _how can they tell_ if a
 pumpkin disintegrates in flight?  A quick back of the envelope calculation says,
 neglecting air resistance, to travel 4000 feet downrange launched at an optimal 45&deg;,
-the muzzle velocity must be 243 mph &mdash; at which speed it's difficult to decide if the
-pumpkin has cracked up enough. <sup id="fn3a">[[3](#fn3)]  
+the muzzle velocity must be 244 mph <sup id="fn3a">[[3](#fn3)]</sup> &mdash; at which
+speed it's difficult to decide if the pumpkin has cracked up "enough" to violate the
+rules.  
 
-Some are... less obvious.  I
-mean: if your hobby requires a Range Safety Officer, a no firearms policy, required
-ultrasound testing of pressure vessels, and an explicit ban on explosives... it might be
-time to rethink your life choices.__
+Some other rules are... less obvious.  I mean: if your hobby requires a Range Safety
+Officer, a no firearms policy, required ultrasound testing of pressure vessels, and an
+explicit ban on explosives... it might be time to rethink your life choices.  The events
+that led to those rules sound like things you'd want to skip.__
 
-Still, I bet it's a blast. There may be madness to their methods; but their madness is the 
+Still, I bet it's a blast (ahem). There may be madness to their methods; but their madness is the 
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
 
 ## Notes
@@ -118,7 +119,7 @@ thing going on there, like
 angle of inclination of the barrel at firing, and $g$ be the downard acceleration due to
 gravity.  We'll totally (and unrealistically) neglect air friction.  
 
-Then the initial vertical velocity is $v_0 \sin \theta$.  The vertical distance
+Then the initial vertical velocity is $v_0 \sin \theta$.  The vertical distance $y$
 travelled as a function of time, by elementary kinematics, is: 
 $y(t) = v_0 \sin \theta\, t - g t^2 / 2$.  The pumpkin is at ground height when $y = 0$.
 Setting $y(t) = 0$ gives 2 solutions: $t = 0$ (at launch) and $t = 2 v_0 \sin \theta / g$
@@ -126,11 +127,11 @@ Setting $y(t) = 0$ gives 2 solutions: $t = 0$ (at launch) and $t = 2 v_0 \sin \t
 
 So the latter solution tells us how long the pumpkin is in the air.  Then the range
 travelled is the horizontal velocity $v_0 \cos \theta$ times the time in the air, or 
-$R = v_{0}^{2} \sin 2\theta / g$.  )As a check, differentiation with respect to $\theta$
+$R = v_{0}^{2} \sin 2\theta / g$.  (As a check, differentiation with respect to $\theta$
 recovers the expected result that range is maximized by firing at $\theta = \pi/4$, or
 45&deg;.)  
 
 Solve for the muzzle velocity to get $v_0 = \sqrt{R g / \sin 2\theta}$.  But $\sin
 2\theta = 1$ at 45&deg;.  For a range $R = 4000$ ft and earth gravit $g = 32
-\textrm{ft}/\textrm{sec}^2$, we get a muzzle velocity of $v_0 = 357.7 \textrm{ft/sec} = 243 \textrm{mph}$.
+\textrm{ft}/\textrm{sec}^2$, we get a muzzle velocity of $v_0 = 357.7 \textrm{ft/sec} = 244 \textrm{mph}$.
 [↩](#fn3a)  
