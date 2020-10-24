@@ -58,13 +58,19 @@ oddball ways.  They even
 from [Dr. Horrible's Sing-Along Blog](https://drhorrible.com/).  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/Z_8jF6FygN4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-But all this, _cute_ as it is, is as nothing compared to what happens when mathematicians,
+But all this... _cute_ as it is... is as _nothing_ compared to what happens when mathematicians,
 scientists, and engineers put their minds to The Problem of the Pumpkin.  For example, at
 MIT (and apparently also at CalTech) there is a tradition of dropping pumpkins from high
 buildings, to "investigate" the splatter patterns.  I once observed pumpkins filled with
-liquid nitrogen, frozen solid, converting 20 stories of gravitational potential energy to
-kinetic, interacting _most satisfactorily_ with the concrete & asphalt below.  I swear
-they flashed as they hit, maybe a triboluminescent thing going on there.  
+liquid nitrogen, frozen solid, converting 22 stories of gravitational potential energy to
+kinetic, interacting _most satisfactorily_ with the concrete & asphalt below.  (I swear
+they flashed as they hit, maybe a [triboluminescent](https://en.wikipedia.org/wiki/Triboluminescence)
+thing going on there, like 
+[the wintergreen Life-Savers example](https://en.wikipedia.org/wiki/Triboluminescence#Examples)?)  
+
+Nonetheless... _cute_ as that is... it has recently come to my attention that there is a
+higher form of pumpkin madness: the annual since 1986 
+[World Championship Punkin Chunkin](https://www.punkinchunkin.com/).
 
 TBD  
 
