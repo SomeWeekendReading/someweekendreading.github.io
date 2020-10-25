@@ -71,7 +71,7 @@ Nonetheless... cute as _that_ is... it has recently come to my attention that th
 higher form of pumpkin madness: the annual (since 1986)
 [World Championship Punkin Chunkin](https://www.punkinchunkin.com/).  They use trebuchets,
 catapaults, and (my favorite) compressed air cannons apparently with multi-stage pressure
-injection!  
+injection!  (I wonder if the barrels have rifling to impart spin stabilization to the pumpkin?)  
 
 <img src="{{ site.baseurl }}/images/2020-10-24-in-autumn-in-new-england-thoughts-turn-to-pumpkin-air-cannon.jpg" width="250" height="250" alt="Pumpkin air cannon" title="Pumpkin air cannon" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The record is a 2013 throw of a full-sized pumpkin for 4694.68ft.  (I love that they
@@ -79,7 +79,7 @@ hallucinate the ability to get a preicsion of 6 significant figures.)  Throwing 
 for just a bit short of a mile is... well, artillery.  It should come as no surprise that
 it's being held at a small airport &mdash; they may need redirection of air traffic: if
 you're going a mile downrange, you're probably going _up_ about half that &mdash; a flying
-pumpkin at 2500 feet altitude is surely a hazard to air navigation.  
+pumpkin at 2300 feet altitude is surely a hazard to air navigation.  
 
 Their [rule book](https://www.punkinchunkin.com/the-competition/rules/) makes for for
 interesting reading, too.  They've been at this for rather a long time (since 1986), and
