@@ -537,7 +537,7 @@ is a fitting response to &mdash; and then to give it that response."
 &mdash; [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi) (though probably 
 [falsely attributed](http://www.americancatholic.org/Messenger/Oct2001/Wiseman.asp#F1), this 
 reflects the spirit of Chapter XVII of the 
-[Rule of 1221](https://en.wikipedia.org/wiki/Franciscan#The_rule_of_1221)  
+[Rule of 1221](https://en.wikipedia.org/wiki/Franciscan#The_rule_of_1221))  
 
 
 "Life can only be understood backwards; but it must be lived forwards."
