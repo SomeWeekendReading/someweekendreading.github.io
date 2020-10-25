@@ -77,7 +77,7 @@ injection!  (I wonder if the barrels have rifling to impart spin stabilization t
 The record is a 2013 throw of a full-sized pumpkin for 4694.68ft.  (I love that they
 hallucinate the ability to get a preicsion of 6 significant figures.)  Throwing a pumpkin
 for just a bit short of a mile is... well, artillery.  It should come as no surprise that
-it's being held at a small airport &mdash; they may need redirection of air traffic: if
+it's being held at a small airport.  They may need redirection of air traffic: if
 you're going a mile downrange, you're probably going _up_ about half that &mdash; a flying
 pumpkin at 2300 feet altitude is surely a hazard to air navigation.  
 
@@ -87,9 +87,11 @@ have extensive (and laudable) safety rules.
 
 - Some safety rules are pretty obvious, like a strict no alcohol policy and that minors must be always supervised.  
 - Still other rules make me scratch my head: "All pumpkins fired must remain intact until they impact the ground to obtain an official measurement."  Now, _how can they tell_ if a pumpkin disintegrates in flight?  A quick back of the envelope calculation <sup id="fn3a">[[3](#fn3)]</sup> says, neglecting air resistance, to travel 4000 feet downrange launched at the optimal 45&deg;, the muzzle velocity must be 244 mph  &mdash; at which speed it's difficult to decide if the pumpkin has cracked up "enough" to violate the rules.  
-- Some other rules are... less obvious.  I mean: if your hobby requires a Range Safety Officer, a no firearms policy, required ultrasound testing of pressure vessels, and an explicit ban on explosives... it might be time to rethink your life choices.  The events that led to those rules sound like things you'd want to skip.  
+- Some other rules are... less obvious.  I mean: if your hobby requires a Range Safety Officer, a no firearms policy, required ultrasound testing of pressure vessels, and an explicit ban on _explosives_... it may be time to rethink your life choices.  The events that led to those rules sound like things I'd want to skip.  
 
-Still, I bet it's a blast. (Ahem.) There may be madness to their methods; but their madness is the 
+Still, I bet it's a blast. (Ahem.)  
+
+There may be madness to their methods; but their madness is the 
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
 
 ## Notes
