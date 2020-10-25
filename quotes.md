@@ -548,6 +548,12 @@ what he said than about what he meant; not to consider the actions of the accuse
 much as his intentions, nor this or that detail so much as the whole story."
 &mdash; [Aristotle](https://en.wikipedia.org/wiki/Aristotle)  
 
+"The trouble with the world is that the stupid are cocksure and the intelligent are full of
+doubt." &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)  
+
+"Forgive him , for he believes that the customs of his tribe are the laws of nature."
+&mdash; [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)  
+
 
 ## The Index Invested Ones  
 
