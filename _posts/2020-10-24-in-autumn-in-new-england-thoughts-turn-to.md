@@ -75,7 +75,9 @@ higher form of pumpkin madness: the annual (since 1986)
 [trebuchets](https://en.wikipedia.org/wiki/Trebuchet),
 [catapaults](https://en.wikipedia.org/wiki/Catapult), and (my favorite) compressed air
 cannons apparently with [multi-stage pressure injection](https://en.wikipedia.org/wiki/V-3_cannon)!
-(I wonder if the barrels have rifling to impart spin stabilization to the pumpkin?)  
+(I wonder if the barrels have rifling to impart spin stabilization to the pumpkin?  Or
+would the irregularity of the pumpkin surface cause enough unpredictable turbulence to
+make that kind of pointless?  So many questions!)  
 
 <img src="{{ site.baseurl }}/images/2020-10-24-in-autumn-in-new-england-thoughts-turn-to-pumpkin-air-cannon.jpg" width="200" height="200" alt="Pumpkin air cannon" title="Pumpkin air cannon" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The record is a 2013 throw of a full-sized pumpkin for 4694.68ft.  (I love that they
