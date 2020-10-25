@@ -94,6 +94,9 @@ _The Origins of Totalitarianism_, 1973, p. 350.
 clamorous to be led to safety) by an endless series of hobgoblins, most of them
 imaginary." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
 
+"An idealist is one who, on noticing that roses smell better than a cabbage, concludes that
+it will also make better soup." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
+
 "To announce that there must be no criticism of the president, or that we are to stand
 by the president, right or wrong, is not only unpatriotic and servile, but is morally
 treasonable to the American public." 
@@ -105,16 +108,21 @@ admitted a principle that I hardly think any gentleman will deny it."
 &mdash; [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), in a March 
 1866 letter to Conservative MP [Sir John Pakington](https://en.wikipedia.org/wiki/Pakington)  
 
+"It is bad enough that so many people believe things without any evidence. What is worse is
+that some people have no conception of evidence and regard facts as just someone else’s
+opinion." &mdash; [Thomas Sowell](https://en.wikipedia.org/wiki/Thomas_Sowell) (though in
+general, I don't care much for his other opinions)  
+
 "The more compelling our journalism, the angrier the radical right of the Republican
 Party gets.  That's because the one thing they loathe more than liberals is the truth."
 &mdash; [Bill Moyers](https://en.wikipedia.org/wiki/Bill_Moyers), in 
 [_The Nation_](https://en.wikipedia.org/wiki/The_Nation), reporting on a speech at the 
-_Conference for Media Reform_ in St Louis on May 14-15, 2005.
+_Conference for Media Reform_ in St Louis on May 14-15, 2005.  
 
 "The higher paranoid scholarship is nothing if not coherent &ndash; in fact the paranoid
 mind is far more coherent than the real world." &mdash; 
 [Richard Hofstader](https://en.wikipedia.org/wiki/Richard_Hofstader), 
-[_The Paranoid Style in American Politics_](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/).
+[_The Paranoid Style in American Politics_](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/).  
 
 "Wicked men, ambitious of power, with hatred of liberty and contempt of law, may fill the place once occupied by Washington and Lincoln, and if this right is conceded, and the calamities of war again befall us, the dangers to human liberty are frightful to contemplate." &mdash; [71 U.S. 2 (1866), _ex parte Milligan_](https://en.wikipedia.org/wiki/Ex_Parte_Milligan), the US Civil War-era case upholding _habeas corpus_ in wartime, even for "aiding the enemy", and that citizens cannot be tried by military tribunals.  
 
