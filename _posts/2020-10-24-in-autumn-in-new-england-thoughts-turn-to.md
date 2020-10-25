@@ -40,7 +40,8 @@ quite spectacular in a different way, though perhaps this was not the correct ti
 At lower altitudes, Pontoosuc Lake and the view of the mountains from 
 [The Clark](https://www.clarkart.edu/).  (The photo doesn't _quite_ capture how beautiful the
 leaves falling at The Clark were; every gust of wind brought a huge hail of leaves down.
-Your Weekend Editor is a crappy photographer.)  
+Your Weekend Editor is a crappy photographer.  Hint: the mouse-over hovertext for each
+picture gives you the caption; each picture is a link to a larger version.)  
 
 Even something as simple as a backyard tree at the house of our friends, illuminated by a
 sunset, was something to make one pause.  
