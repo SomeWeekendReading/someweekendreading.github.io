@@ -11,8 +11,8 @@ and... trebuchets, catapaults, air cannons, and other implements of imparting to
 various levels of sub-orbital trajectories.  
 
 It's autumn... _finally_.  2020, in a single year, has managed to impose several decades
-of wear and tear on all of us.  But autumn _in New England_... well, even the most dour
-and depressed heart such as that of your humble Weekend Editor cannot help but breath in
+of wear and tear on all of us.  But autumn _in New England_... well, even the most dark, dour
+and depressed heart such as that of your humble Weekend Editor cannot help but breathe in
 the beautiful scents and bask with relief in the beauty.  
 
 ## Autumnal stress-relief trip
@@ -35,7 +35,7 @@ The views from the hairpin turn near the Whitcomb Summit on the
 Hoosac Range, and from the peak of
 [Mt Greylock](https://en.wikipedia.org/wiki/Mount_Greylock) were spectacular!  (The 
 [Bridge of Flowers](https://en.wikipedia.org/wiki/Bridge_of_Flowers_(bridge)) is also
-pretty great, though perhaps this was not the correct time of the year.)  
+quite spectacular in a different way, though perhaps this was not the correct time of the year.)  
 
 At lower altitudes, Pontoosuc Lake and the view of the mountains from 
 [The Clark](https://www.clarkart.edu/).  (The photo doesn't _quite_ capture how beautiful the
