@@ -82,21 +82,11 @@ pumpkin at 2500 feet altitude is surely a hazard to air navigation.
 
 Their [rule book](https://www.punkinchunkin.com/the-competition/rules/) makes for for
 interesting reading, too.  They've been at this for rather a long time (since 1986), and
-have extensive (and laudable) safety rules.  Some are pretty obvious, like a strict no
-alcohol policy and that minors must be always supervised.  
+have extensive (and laudable) safety rules.  
 
-Still other rules make me scratch my head: "All pumpkins fired must remain intact until
-they impact the ground to obtain an official measurement."  Now, _how can they tell_ if a
-pumpkin disintegrates in flight?  A quick back of the envelope calculation says,
-neglecting air resistance, to travel 4000 feet downrange launched at an optimal 45&deg;,
-the muzzle velocity must be 244 mph <sup id="fn3a">[[3](#fn3)]</sup> &mdash; at which
-speed it's difficult to decide if the pumpkin has cracked up "enough" to violate the
-rules.  
-
-Some other rules are... less obvious.  I mean: if your hobby requires a Range Safety
-Officer, a no firearms policy, required ultrasound testing of pressure vessels, and an
-explicit ban on explosives... it might be time to rethink your life choices.  The events
-that led to those rules sound like things you'd want to skip.  
+- Some are pretty obvious, like a strict no alcohol policy and that minors must be always supervised.  
+- Still other rules make me scratch my head: "All pumpkins fired must remain intact until they impact the ground to obtain an official measurement."  Now, _how can they tell_ if a pumpkin disintegrates in flight?  A quick back of the envelope calculation says, neglecting air resistance, to travel 4000 feet downrange launched at an optimal 45&deg;, the muzzle velocity must be 244 mph <sup id="fn3a">[[3](#fn3)]</sup> &mdash; at which speed it's difficult to decide if the pumpkin has cracked up "enough" to violate the rules.  
+- Some other rules are... less obvious.  I mean: if your hobby requires a Range Safety Officer, a no firearms policy, required ultrasound testing of pressure vessels, and an explicit ban on explosives... it might be time to rethink your life choices.  The events that led to those rules sound like things you'd want to skip.  
 
 Still, I bet it's a blast (ahem). There may be madness to their methods; but their madness is the 
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
