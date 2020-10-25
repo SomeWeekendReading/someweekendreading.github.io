@@ -52,8 +52,8 @@ So... yeah, that was pretty good.
 The other thing about autumn is what people get up to with pumpkins.  I mean, it' just
 some innocent gourd, right?  But they decorate with them, even to the extent of
 [using glass labs at a major research university to craft blown-glass replicas](https://news.mit.edu/2020/its-virtual-great-glass-pumpkin-patch-mit-1021), 
-a favorite of the Weekend Editrix.  And they carve them.  Good Heaven, they carve them in
-oddball ways.  They even 
+a favorite of the Weekend Editrix.  And they carve them &mdash; good heavens, they carve them in
+oddball ways!  They even 
 [pumpkinize the face of Dr. Horrible](https://www.flickr.com/photos/steveoftheweb/4062468120/) 
 from [Dr. Horrible's Sing-Along Blog](https://drhorrible.com/).  
 
@@ -67,7 +67,7 @@ kinetic, then interacting with the concrete &amp; asphalt below in a manner _mos
 satisfactory_.  I seem to remember they flashed as they hit, too. <sup id="fn2a">[[2](#fn2)]</sup>  
 
 Nonetheless... cute as _that_ is... it has recently come to my attention that there is a
-higher form of pumpkin madness: the annual since 1986 
+higher form of pumpkin madness: the annual (since 1986)
 [World Championship Punkin Chunkin](https://www.punkinchunkin.com/).  They use trebuchets,
 catapaults, and (my favorite) compressed air cannons apparently with multi-stage pressure
 injection!  
@@ -84,11 +84,11 @@ Their [rule book](https://www.punkinchunkin.com/the-competition/rules/) makes fo
 interesting reading, too.  They've been at this for rather a long time (since 1986), and
 have extensive (and laudable) safety rules.  
 
-- Some are pretty obvious, like a strict no alcohol policy and that minors must be always supervised.  
-- Still other rules make me scratch my head: "All pumpkins fired must remain intact until they impact the ground to obtain an official measurement."  Now, _how can they tell_ if a pumpkin disintegrates in flight?  A quick back of the envelope calculation says, neglecting air resistance, to travel 4000 feet downrange launched at an optimal 45&deg;, the muzzle velocity must be 244 mph <sup id="fn3a">[[3](#fn3)]</sup> &mdash; at which speed it's difficult to decide if the pumpkin has cracked up "enough" to violate the rules.  
+- Some safety rules are pretty obvious, like a strict no alcohol policy and that minors must be always supervised.  
+- Still other rules make me scratch my head: "All pumpkins fired must remain intact until they impact the ground to obtain an official measurement."  Now, _how can they tell_ if a pumpkin disintegrates in flight?  A quick back of the envelope calculation <sup id="fn3a">[[3](#fn3)]</sup> says, neglecting air resistance, to travel 4000 feet downrange launched at the optimal 45&deg;, the muzzle velocity must be 244 mph  &mdash; at which speed it's difficult to decide if the pumpkin has cracked up "enough" to violate the rules.  
 - Some other rules are... less obvious.  I mean: if your hobby requires a Range Safety Officer, a no firearms policy, required ultrasound testing of pressure vessels, and an explicit ban on explosives... it might be time to rethink your life choices.  The events that led to those rules sound like things you'd want to skip.  
 
-Still, I bet it's a blast (ahem). There may be madness to their methods; but their madness is the 
+Still, I bet it's a blast. (Ahem.) There may be madness to their methods; but their madness is the 
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
 
 ## Notes
@@ -105,7 +105,7 @@ consider yourself granted Honored Guest status within the Nerd Tribe. [↩](#fn1
 
 <a id="fn2">2</a>: Maybe a [triboluminescent](https://en.wikipedia.org/wiki/Triboluminescence)
 thing going on there, like 
-[the wintergreen Life-Savers example](https://en.wikipedia.org/wiki/Triboluminescence#Examples)? 
+[the wintergreen Life-Savers trick](https://en.wikipedia.org/wiki/Triboluminescence#Examples)? 
 [↩](#fn2a)  
 
 <a id="fn3">3</a>: Let $v_0$ be the muzzle velocity, $R$ be the range, $\theta$ be the
