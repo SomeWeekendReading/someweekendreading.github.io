@@ -63,8 +63,8 @@ scientists, and engineers put their minds to The Problem of the Pumpkin.  For ex
 MIT <sup id="fn1a">[[1](#fn1)]</sup> there is a tradition of dropping pumpkins from high
 buildings, to "investigate" the splatter patterns.  I once observed pumpkins filled with
 liquid nitrogen, frozen solid, converting 22 stories of gravitational potential energy to
-kinetic, interacting _most satisfactorily_ with the concrete & asphalt below.  I swear
-I remember they flashed as they hit <sup id="fn2a">[[2](#fn2)]</sup>.  
+kinetic, interacting with the concrete &amp; asphalt below in a manner _most
+satisfactory_.  I seem to remember they flashed as they hit, too. <sup id="fn2a">[[2](#fn2)]</sup>  
 
 Nonetheless... cute as _that_ is... it has recently come to my attention that there is a
 higher form of pumpkin madness: the annual since 1986 
