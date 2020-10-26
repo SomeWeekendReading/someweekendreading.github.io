@@ -1,6 +1,6 @@
   <span>Tagged:
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tags/#{{ tag_name }}">&nbsp;<code class="highligher-rouge">{{ tag_name }}</code></a>
+      <a href="/tags/#{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>{% unless forloop.last %} / {% endunless %}
     {% endfor %}
   </span>
