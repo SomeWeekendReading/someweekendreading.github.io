@@ -14,7 +14,6 @@ date: 2020-07-01
 __Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political-ones--the-economic-dismals), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), [The Index Invested Ones](#the-index-invested-ones), and [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
 
-
 ## The Surreal Ones  
 
 "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read."
@@ -306,7 +305,7 @@ about whatever you were uncertain about; that ignorance existed in the mind, not
 reality; that a blank map did not correspond to a blank territory. There were mysterious
 questions, but a mysterious answer was a contradiction in terms." 
 &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky), channelling 
-ET Jaynes in 
+[ET Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes) in 
 [Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
 
 "We used to think that if we knew one, we knew two, because one and one are two. We are
