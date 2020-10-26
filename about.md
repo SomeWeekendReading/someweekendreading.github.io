@@ -36,9 +36,9 @@ It could be:
 - cooking
 - the intellectual perils of learning [Haskell](https://haskell.org/) at an advanced age
 - vintage AI algorithms from the "expert systems" era of the 1980s
-- the frustration of a left-winger with current politics 
+- the frustration of a left-winger with current American politics 
 
-... all kinds of things, most of which you don't need to know about.  So read selectively,
+... all kinds of things, most of which you don't care about.  So read selectively,
 and most of all _critically_.  He is an expert in _some_ of those areas, but certainly by
 no means all!  Critical peer review has been something for whose value he has
 painfully &amp; loudly advocated in the past anyway... so a little polite payback is totally fair.  
