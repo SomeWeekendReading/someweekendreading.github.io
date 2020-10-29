@@ -324,6 +324,8 @@ colleague's work
 
 "The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
 
+"There are two novels that can change a bookish fourteen-year old’s life: The Lord of the Rings and Atlas Shrugged. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs." &mdash; [John Rogers](https://en.wikipedia.org/wiki/John_Rogers_(writer)), [Kung Fu Monkey, 2009-Mar-19](http://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html).  Also quoted in [GoodReads](https://www.goodreads.com/quotes/366635-there-are-two-novels-that-can-change-a-bookish-fourteen-year).  Example of a [bait & switch comparison](https://tvtropes.org/pmwiki/pmwiki.php/Main/BaitAndSwitchComparison), or [This is Not That Trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/WellThisIsNotThatTrope).  
+
 
 ## The Statistical Ones  
 

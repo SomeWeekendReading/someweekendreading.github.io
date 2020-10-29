@@ -106,6 +106,8 @@ The world is complicated; rather than pretending we can ignore the complexity, w
 <a id="fn1">1</a>: This particular example is not original to me.  I found it via Steven
 Strogatz (reference 1), who in turn provides more extensive references. [↩](#fn1a)  
 
+---
+
 ## References  
 
 1. S Strogatz, ["Finding Your Roots"](http://opinionator.blogs.nytimes.com/2010/03/07/finding-your-roots/), _NYT Opinionator_, 2010-Mar-07.  

@@ -16,7 +16,7 @@ Notes on blogging tech.
   - git push -u origin master
     pushes changes up to github, where site will be rebuilt
   - git status
-    to check whether it all worked
+    to check whether it all worked 
   - use git clone to re-download from github to the local machine
 
 * DONE: Domain:
@@ -148,7 +148,7 @@ Notes on blogging tech.
     git init
     git add .
     git commit -m "Initial commit"
-    ## Connect it to the remot at github
+    ## Connect it to the remote at github
     git remote add origin git@github.com:SomeWeekendReading/someweekendreading.github.io.git
     ## Change the connect method from SSH to HTTPS
     git remote -v
@@ -279,6 +279,7 @@ Post topics: "though borrowing trouble is often my wont" as an anxiety-prone dep
 
 Blog posts:
 * Impact of election years on stock returns (old weekend reading)
+* Lifetime of COVID-19 abs (email of 2020-oct-27)
 * Sam's game (email of 2016-Nov-20)
 * Solstice sun times
 * Yield curve model
@@ -338,4 +339,5 @@ Blog posts:
   Exact same results as QM, but particle is in 1 place always.  But more non-local than
   QM: guiding field dep on ALL particles to be measured, can't make QFT.
 * ...?
+
 

@@ -244,6 +244,8 @@ doctor (PhD). The closest we'll come to medical advice is: (a) get a doctor, and
 what your doctor says.  Right-wing political mischief with health
 insurance in the US is a problem everybody here has, so do your best with that. [↩](#fn4a)  
 
+---
+
 ## References  
 
 1. H Buschman and J Vazquez, ["Statins reduce COVID-19 severity, likely by removing cholesterol that virus uses to infect."](https://ucsdnews.ucsd.edu/pressrelease/statins-reduce-covid-19-severity-likely-by-removing-cholesterol-that-virus-uses-to-infect), UC San Diego News Center, 2020-Sep-23.  Also reported in [_Science Daily_](https://www.sciencedaily.com/releases/2020/09/200923164603.htm).  

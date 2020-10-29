@@ -201,7 +201,9 @@ tutorial way, with a coin-toss example to estimate how the coin is loaded.[↩](
 <a id="fn4">4</a>: Your humble Weekend Editor is still working through some childhood
 trauma around early exposure to hypergeometric functions. [↩](#fn4a)
 
-## References
+---
+
+## References  
 
 1. T Vladeck, ["Unpacking the election results using bayesian inference"](https://tomvladeck.com/2016/12/31/unpacking-the-election-results-using-bayesian-inference/), _TomVladeck.com_, 2016-12-31.  
 

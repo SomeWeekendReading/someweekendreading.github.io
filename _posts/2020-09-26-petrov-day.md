@@ -99,6 +99,8 @@ lives less in thrall to [ἀκρασία](https://en.wikipedia.org/wiki/Akrasia)
 attempts, they have their good days and bad days.  See, e.g., the 
 [_Less Wrong_ blog community](https://www.lesswrong.com/). [↩](#fn3a)  
 
+---
+
 ## References  
 
 1. Ozy Brennan, ["Stanislav Petrov Day"](https://thingofthings.wordpress.com/2015/09/26/stanislav-petrov-day/), _Thing of Things_, 2015-Sep-26.

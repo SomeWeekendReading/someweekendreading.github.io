@@ -100,6 +100,8 @@ Still, I bet it's a blast. (Ahem.)
 There may be madness to their methods; but their madness is the 
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness).  
 
+---
+
 ## Notes
 
 <a id="fn1">1</a>: And apparently 
