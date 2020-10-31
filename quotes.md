@@ -548,7 +548,6 @@ is a fitting response to &mdash; and then to give it that response."
 reflects the spirit of Chapter XVII of the 
 [Rule of 1221](https://en.wikipedia.org/wiki/Franciscan#The_rule_of_1221))  
 
-
 "Life can only be understood backwards; but it must be lived forwards."
 &mdash; [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)  
 
@@ -562,6 +561,13 @@ doubt." &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russel
 
 "Forgive him , for he believes that the customs of his tribe are the laws of nature."
 &mdash; [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)  
+
+"&hellip; the first sign of civilization in an ancient culture was a femur 
+that had been broken and then healed." &mdash; attributed to anthropologist
+[Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead),
+quoted in Ira Byock, 
+[_The Best Care Possible: A Physician’s Quest to Transform Care Through the End of Life_](https://www.goodreads.com/book/show/12669445-the-best-care-possible) (Avery, 2012).  Byock goes on to explain:
+"&hellip; broken femur that has healed is evidence that someone has taken time to stay with the one who fell, has bound up the wound, has carried the person to safety and has tended the person through recovery. Helping someone else through difficulty is where civilization starts. We are at our best when we serve others. Be civilized."  
 
 
 ## The Index Invested Ones  
