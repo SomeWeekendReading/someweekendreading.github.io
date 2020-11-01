@@ -405,8 +405,8 @@ perhaps one of the 20th century's greatest theologians
 "It's not necessary to be a saint to do good.  You need willing hands, not clean ones."
 &mdash; [Mother Theresa](https://en.wikipedia.org/wiki/Mother_Teresa)  
 
-"Reality is that which, when you stop believing in it, doesn't go away." &mdash; Phillip K
-Dick  
+"Reality is that which, when you stop believing in it, doesn't go away." 
+&mdash; [Phillip K Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  
 
 "When I give food to the poor, they call me a saint. When I ask why the poor have no food,
 they call me a communist." &mdash; Dom Helder Camara, archbishop of Recife and apostle of social
