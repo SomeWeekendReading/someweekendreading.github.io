@@ -326,6 +326,10 @@ colleague's work
 
 "There are two novels that can change a bookish fourteen-year old’s life: The _Lord of the Rings_ and _Atlas Shrugged_. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs." &mdash; [John Rogers](https://en.wikipedia.org/wiki/John_Rogers_(writer)), [Kung Fu Monkey, 2009-Mar-19](http://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html).  Also quoted in [GoodReads](https://www.goodreads.com/quotes/366635-there-are-two-novels-that-can-change-a-bookish-fourteen-year).  Example of a [bait & switch comparison](https://tvtropes.org/pmwiki/pmwiki.php/Main/BaitAndSwitchComparison), or [This is Not That Trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/WellThisIsNotThatTrope).  
 
+"In adolescence, I hated life and was continually on the verge of suicide, from which,
+however, I was restrained by the desire to know more mathematics." 
+&mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
+
 
 ## The Statistical Ones  
 
