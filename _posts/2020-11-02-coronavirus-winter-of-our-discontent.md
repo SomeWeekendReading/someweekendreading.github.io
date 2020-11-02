@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coronavirus &amp; Elections: The Winter of Our Discontent
+title: Coronavirus &amp; Elections\: The Winter of Our Discontent
 tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
