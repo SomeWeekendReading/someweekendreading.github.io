@@ -128,7 +128,7 @@ _resisted_ doing even simple things like wearing masks.
 
 But don't ignore the better news from Asia: until there's a vaccine, control of the virus
 is _possible_.  We just have to muster up enough spirit of cooperation to do it.
-But... we probably won't, says my inner cynic.  
+(But... we probably won't, says my inner cynic.)  
 
 ## What you can do  
 
@@ -143,8 +143,8 @@ So what can we do about it?  Several things:
 - __Get a flu shot!__  At this point, I have exactly _zero_ patience left to listen to anybody
   whine about their "skepticism" of vaccines.  You don't want to present at your local
   ER this winter as yet another febrile patient with headache, aches &amp; pains, and a
-  cough.  You really don't: you'll be using up resources that a real COVID-19 patient
-  needs, _just to stay alive_.  So get a flu shot, and get out of their way.  It's covered
+  cough.  You really don't: you'll be using up resources that real COVID-19 patients
+  need, _just to stay alive_.  So get a flu shot, and get out of their way.  It's covered
   by all reasonable insurance and Medicare.  Even if not covered, it's like \$20 at your
   local drugstore.  You got this.  Just do it.  
 - __Lay in some extra food &amp; prescription medications if you need them.__  In case of
