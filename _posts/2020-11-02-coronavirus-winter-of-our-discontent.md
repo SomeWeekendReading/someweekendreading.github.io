@@ -151,13 +151,13 @@ So what can we do about it?  Several things:
   another lockdown or &mdash; Heaven forbid &mdash; civil unrest, you'll be glad you don't
   have to go out.  A bit of home preparedness now will let you relax a bit in the coming
   weeks.  
-<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-cat-relaxed.jpg" width="300" height="400" alt="Your Weekend Publisher, in Hallowe'en regalia" title="The Weekend Publisher, in Hallowe'en regalia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - __Vote, dammit!__  Look, it really matters that you vote.  You already know my opinion,
   but really: you can't possibly be _undecided_, can you?  Even if you're a lifelong Republican
   just now awakening to the damage accrued since Reagan... well, get over it and vote that sort
   of thing out of office at every level.  As someone who grew up Republican, I promise
   you: it doesn't hurt.  
 
+<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-cat-relaxed.jpg" width="225" height="300" alt="Your Weekend Publisher, in Hallowe'en regalia" title="The Weekend Publisher, in Hallowe'en regalia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Then you can relax at least a _little_ bit.  None of us, of course, will be able to relax
 as fully and regularly as the Weekend Publisher.  But then, he is a master of the art.
 (He has, however, not as yet told us how he would vote.  Felines are big believers in the
