@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coronavirus/Elections: The Winter of Our Discontent
+title: The Winter of Our Discontent
 tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
@@ -128,22 +128,24 @@ election, which will further drive us to take shelter together. That's a recipe 
 disaster in many ways, but one of those ways is COVID-19 transmission.  
 
 So what can we do about it?  Several things:
-- __Stay home, or work remotely if you can.__  Not everybody can do this, but if you can, you should.  
+- __Stay home, or work remotely if you can.__  Not everybody can do this, but if you can,
+  you should.  Think of it as your civic duty.  
 - __Get a flu shot!__  At this point, I have exactly _zero_ patience left to listen to anybody
-  whine about their "skepticism" about vaccines.  You don't want to present at your local
-  ER this winter as yet another febrile person with headache, aches &amp; pains, and a
+  whine about their "skepticism" of vaccines.  You don't want to present at your local
+  ER this winter as yet another febrile patient with headache, aches &amp; pains, and a
   cough.  You really don't: you'll be using up resources that a real COVID-19 patient
   needs, _just to stay alive_.  So get a flu shot, and get out of their way.  It's covered
   by all reasonable insurance and Medicare.  Even if not covered, it's like \$20 at your
-  local drugstore.  
+  local drugstore.  You got this.  Just do it.  
 - __Lay in some extra food &amp; prescription medications if you need them.__  In case of
   another lockdown or &mdash; Heaven forbid &mdash; civil unrest, you'll be glad you don't
   have to go out.  A bit of home preparedness now will let you relax a bit in the coming
   weeks.  
 - __Vote, dammit!__  Look, it really matters that you vote.  You already know my opinion,
-  but really: you can't possibly be _undecided_, can you?  If you're a lifelong Republican
-  now awakening to the damage accrued since Reagan... well, get over it and vote that sort
-  of thing out of office at every level.  
+  but really: you can't possibly be _undecided_, can you?  Even if you're a lifelong Republican
+  just now awakening to the damage accrued since Reagan... well, get over it and vote that sort
+  of thing out of office at every level.  As someone who grew up Republican, I promise
+  you: it doesn't hurt.  
 
 ---
 
