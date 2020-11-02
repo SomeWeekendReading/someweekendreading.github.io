@@ -32,7 +32,7 @@ __Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp;
 "Fait au Qu&eacute;bec par les Qu&eacute;b&eacute;cois/Made in Canada by Canadians."
 &mdash; ad campaign by Quebec-based Abris Penguin Shelters  
 
-"Yeah, right." &mdash; [Sidney Morgenbesser](https://en.wikipedia.org/wiki/Sidney_Morgenbesser), 
+"Yeah, right!" &mdash; [Sidney Morgenbesser](https://en.wikipedia.org/wiki/Sidney_Morgenbesser), 
 during a lecture by the Oxford linguist 
 [J. L. Austin](https://en.wikipedia.org/wiki/J._L._Austin), in which Austin
 asserted no human language uses double-positives to state a negative  

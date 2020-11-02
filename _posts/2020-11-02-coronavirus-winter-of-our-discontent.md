@@ -37,6 +37,13 @@ threatening to cling to power if he loses, etc.  It's a good time to take a coup
 off work, so you can either stay home or demonstrate (peacefully).  This is not going to
 be trivial.  
 
+>"A little patience, and we shall see the reign of witches pass over, their spells
+>dissolve, and the people, recovering their true sight, restore their government to its
+>true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_jefferson) 
+>in 1798, after the passage of the 
+>[Alien and Sedition Acts](https://en.wikipedia.org/wiki/Alien_and_sedition_acts)  
+
+
 ## Coronavirus and the winter wave  
 
 ### Strike 1  
