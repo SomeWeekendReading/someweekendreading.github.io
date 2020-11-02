@@ -23,7 +23,7 @@ of state's web site.  Please do the same: either drop off your ballet with your 
 ballot counting office (_not_ the Post Office! <sup id="fn1a">[[1](#fn1)]</sup>), or vote
 in person if you have to.  [Scalzi has a nice summary over at _Whatever_.](https://whatever.scalzi.com/2020/11/02/election-eve-info/)  
 
-<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-cat.jpg" width="334" height="400" alt="Your Weekend Publisher, in Hallowe'en regalia" title="The Weekend Publisher, in Hallowe'en regalia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-cat.jpg" width="167" height="200" alt="Your Weekend Publisher, in Hallowe'en regalia" title="The Weekend Publisher, in Hallowe'en regalia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Especially the last part from Scalzi: "Thank you for your attention.  Here's a picture of a cat."  In
 that spirit, here's a picture of the Weekend Publisher, in his full Hallowe'en regalia.
 Don't you just get a contact high from all the _enthusiasm_ wafting off him?  
