@@ -69,6 +69,8 @@ works for the lawyer who presents cases before the supreme court", from
 (later moved [here](https://scienceblogs.com/catdynamics), still later 
 [back](https://catdynamics.blogspot.com/))  
 
+"The second mouse gets the cheese." &mdash; Who?
+
 
 ## The Political Ones &amp; The Economic Dismals  
 
@@ -95,6 +97,9 @@ imaginary." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)
 
 "An idealist is one who, on noticing that roses smell better than a cabbage, concludes that
 it will also make better soup." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
+
+"He had only one idea, and that was wrong." 
+&mdash; [Benjamin Disraeli](https://en.wikipedia.org/wiki/Benjamin_Disraeli), _Sybil_
 
 "To announce that there must be no criticism of the president, or that we are to stand
 by the president, right or wrong, is not only unpatriotic and servile, but is morally
@@ -329,6 +334,15 @@ colleague's work
 "In adolescence, I hated life and was continually on the verge of suicide, from which,
 however, I was restrained by the desire to know more mathematics." 
 &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
+
+"Aha &ndash; what I wanted to be true would be, had I wanted the right thing to be true." 
+&mdash; [Dan Asimov](http://www.genealogy.math.ndsu.nodak.edu/html/id.phtml?id=31877), on
+the Math-Fun mailing list  
+
+"Creatures inveterately wrong in their inductions have a pathetic but praiseworthy
+tendency to die before reproducing their kind."
+&mdash; [W.V.O. Quine](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine), 
+_Natural Kinds_  
 
 
 ## The Statistical Ones  
@@ -572,6 +586,13 @@ that had been broken and then healed." &mdash; attributed to anthropologist
 quoted in Ira Byock, 
 [_The Best Care Possible: A Physician’s Quest to Transform Care Through the End of Life_](https://www.goodreads.com/book/show/12669445-the-best-care-possible) (Avery, 2012).  Byock goes on to explain:
 "&hellip; broken femur that has healed is evidence that someone has taken time to stay with the one who fell, has bound up the wound, has carried the person to safety and has tended the person through recovery. Helping someone else through difficulty is where civilization starts. We are at our best when we serve others. Be civilized."  
+
+"Men, like poets, rush 'into the middest', _in medias res_, when they
+are born; they also die _in mediis rebus_, and to make sense of their span they
+need fictive concords with origins and ends, such as give meaning to lives and to poems.
+The End they imagine will reflect their irreducibly intermediary preoccupations.  They
+fear it, and as far as we can see have always done so; the End is a figure for their own deaths."
+&mdash; [Frank Kermode](https://en.wikipedia.org/wiki/Frank_Kermode), _The Sense of an Ending_  
 
 
 ## The Index Invested Ones  
