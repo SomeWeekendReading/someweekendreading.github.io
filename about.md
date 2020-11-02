@@ -13,7 +13,8 @@ Your humble Weekend Editor is a now-retired scientist, having (barely) survived 
 in theoretical physics, then artificial intelligence &amp; machine learning, and finally
 the application of all of those to cancer drug discovery research.  He is now gamely
 attempting to navigate the maddening morass of the US health insurance system on his own
-behalf via Medicare and on behalf of his partner, the Weekend Editrix.  
+behalf via Medicare and on behalf of his partner, the Weekend Editrix.  (Also veterinary
+care on behalf of his cat, the Weekend Publisher.  Because editors report to publishers.)  
 
 Also your humble Weekend Editor is attempting weak anonymity here, just to deter
 annoyances.  He hasn't done _all_ the work to keep it anonymous, just maybe 1/8th of it.

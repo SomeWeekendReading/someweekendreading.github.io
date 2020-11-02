@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coronavirus &amp; Elections &mdash; The Winter of Our Discontent
-tags: COVID MathInTheNews PharmaAndBiotech Politics
+tags: COVID MathInTheNews Politics
 comments: true
 ---
 
@@ -13,7 +13,7 @@ terrifying, but there are some things you can do.
 
 There's an election happening _now_ in the US, coming to a climax tomorrow.  (Perhaps
 you've noticed?)  It's probably the most important election since the Civil War.  It's
-_important_ that you vote, and that you not vote Republican for any office whatsoever: it
+_important_ that you vote, and that you not vote Republican for any office whatsoever: that
 would just be enabling the bad guys.  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-ballot-tracking.png" width="400" height="159" alt="Chez Weekend ballot tracking" title="Chez Weekend ballot tracking" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
@@ -43,8 +43,9 @@ be trivial.
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mass-cases.png" width="362" height="400" alt="Mass tops 1000 cases/day for 9 consecutive days" title="Mass tops 1000 cases/day for 9 consecutive days" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As if the non-stop horrors of right-wing political nihilism and stupidity for the last
-generation were not enough, COVID-19 is ramping up again.  Submitted for your
-consideration: the venerable _Globe_ today, in an article by John Hilliard (reference 1),
+generation were not enough, COVID-19 is _also_ ramping back up.  
+[Submitted for your approval](https://www.imdb.com/title/tt0297727/): 
+the venerable _Globe_ today, in an article by John Hilliard (reference 1),
 points out that Massachusetts is now reporting more than 1,000 new cases/day, _for the 9th
 straight day_.  There have been an awful lot of exceptionally stupid parties in
 student-heavy Boston, home gatherings spreading virus _inter familia_, the demented policy
