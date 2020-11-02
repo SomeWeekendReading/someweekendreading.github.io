@@ -24,9 +24,9 @@ ballot counting office (_not_ the Post Office! <sup id="fn1a">[[1](#fn1)]</sup>)
 in person if you have to.  [Scalzi has a nice summary over at _Whatever_.](https://whatever.scalzi.com/2020/11/02/election-eve-info/)  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-cat.jpg" width="334" height="400" alt="Your Weekend Publisher, in Hallowe'en regalia" title="The Weekend Publisher, in Hallowe'en regalia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Especially the last part: "Thank you for your attention.  Here's a picture of a cat."  In
+Especially the last part from Scalzi: "Thank you for your attention.  Here's a picture of a cat."  In
 that spirit, here's a picture of the Weekend Publisher, in his full Hallowe'en regalia.
-Can't you just get a contact high from all the _enthusiasm_ wafting off him?  
+Don't you just get a contact high from all the _enthusiasm_ wafting off him?  
 
 But: for the first time in my long(ish) life in the US, I fear some post-election
 political violence.  It _almost_ happened in 2000, when demonstrators in Florida prevented
@@ -66,8 +66,7 @@ Boston and semi-adjacent suburbs, reacing out quite a ways (green & orange in th
 figure).  
 
 The MWRA folks did something clever: partnering with [Biobot Analytics](https://www.biobot.io/), 
-they applied [metagenomics](https://en.wikipedia.org/wiki/Metagenomics) to the wastewater, 
-
+they applied [metagenomics](https://en.wikipedia.org/wiki/Metagenomics) to the wastewater,
 and started tracking the amount of SARS-COV-2 viral RNA versus time.  This is as _unbiased
 a sample as it's possible to get:_ if you use a toilet in (extended-)metro Boston, you're
 part of the sample set.  Back in August, the venerable _Globe_ reported that there were
@@ -108,17 +107,20 @@ cultural [essentialism](https://en.wikipedia.org/wiki/Essentialism), basically a
 that cultural differences are the _only_ thing worth attention.  It saves you the trouble
 of examining your own behavior for faults, apparently.  
 
-In fact, while waiting for a vaccine, we can implement widespread &amp; fast testing,
-contact tracing, and isolating of positive cases.  We could provide financial support for
-people who need to be quarantined (give them a place to stay &amp; support their families so
-they don't keep going to work).  We did none of that: testing almost impossible to obtain,
-results available weeks later when they're useless, almost no contact tracing, exactly
-zero support for quarantines.  In fact, we _resisted_ doing even simple things like
-wearing masks.  
+In fact, while waiting for a vaccine, we can do what they did: 
+- implement widespread &amp; fast testing, 
+- do real contact tracing, 
+- isolate positive cases found  
+- provide financial support for people who need to be quarantined (give them a place to stay &amp; support their families so they don't keep going to work).  
+
+We did none of that: testing was almost impossible to obtain (and in fact discouraged by
+the Trump government!), results became available _weeks_ later when they were useless,
+there was almost no contact tracing, exactly zero support for quarantinees.  In fact, we
+_resisted_ doing even simple things like wearing masks.  
 
 But don't ignore the better news from Asia: until there's a vaccine, control of the virus
 is _possible_.  We just have to muster up enough spirit of cooperation to do it.
-But... we probably won't.  
+But... we probably won't, says my inner cynic.  
 
 ## What you can do  
 
