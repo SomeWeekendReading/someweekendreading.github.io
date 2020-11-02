@@ -158,12 +158,12 @@ So what can we do about it?  Several things:
   you: it doesn't hurt.  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-cat-relaxed.jpg" width="150" height="200" alt="Your Weekend Publisher, in Hallowe'en regalia" title="The Weekend Publisher, in Hallowe'en regalia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Then you can relax at least a _little_ bit.  None of us, of course, will be able to relax
+Then you can relax at least a _little_ bit.  Maybe.  None of us, of course, will be able to relax
 as fully and regularly as the Weekend Publisher, shown here exhibiting his skills.  He is,
 after all, a master of the art.  (He has, however, not as yet told us how he would vote.
 Felines are big believers in the secret ballot.)  Perhaps we can "rebuild better", in
-Biden's parlance, a society in which we can all provide safety for each other and feel as
-safe and warm and confident as the Weekend Publisher?  I hope so.  
+Biden's parlance, a society where we can all provide safety and care for each other, to feel as
+safe and warm and confident as the Weekend Publisher?  I hope so.  That's my dream, anyway.  
 
 ---
 
