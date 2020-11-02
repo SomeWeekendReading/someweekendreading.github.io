@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coronavirus &amp; Elections: The Winter of Our Discontent
+title: Coronavirus/Elections: The Winter of Our Discontent
 tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
@@ -41,7 +41,7 @@ be trivial.
 
 ### Strike 1  
 
-<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mass-cases.jpg" width="362" height="400" alt="Mass tops 1000 cases/day for 9 consecutive days" title="Mass tops 1000 cases/day for 9 consecutive days" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mass-cases.png" width="362" height="400" alt="Mass tops 1000 cases/day for 9 consecutive days" title="Mass tops 1000 cases/day for 9 consecutive days" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As if the non-stop horrors of right-wing political nihilism and stupidity for the last
 generation were not enough, COVID-19 is ramping up again.  Submitted for your
 consideration: the venerable _Globe_ today, in an article by John Hilliard (reference 1),
@@ -58,7 +58,7 @@ That's just [strike 1](https://en.wikipedia.org/wiki/Three-strikes_law).
 
 ### Strike 2  
 
-<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-zones.jpg" width="400" height="365" alt="MWRA sewage processing zones" title="MWRA sewage processing zones" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-zones.png" width="400" height="365" alt="MWRA sewage processing zones" title="MWRA sewage processing zones" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Strike 2 is from the Massachusetts Water Resources Authority (MWRA).  They basically run
 the water supply, the Quabbin Reservoir, and some really interesting sewage processing
 plants on Deer Island.  The processing is done separately for northern and southern metro
@@ -89,7 +89,8 @@ Massachusetts, where you can get yelled at for not wearing a mask in public, has
 problem &hellip; just imagine what's in store for the states where they still (somehow!)
 don't believe masks work, or that the pandemic is real.  
 
-<a href="http://wondermark.com/c1520/"><img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-malki.png" width="450" height="450" alt="Malki on how stupid we are" title="Malki on how stupid we are" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/></a>
+[![Malki on how stupid we all are]({{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-malki.png)](http://wondermark.com/c1520/)
+
 
 ### Strike 3  
  
