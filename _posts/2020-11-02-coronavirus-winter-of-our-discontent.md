@@ -12,15 +12,16 @@ terrifying, but there are some things you can do.
 ## The election  
 
 There's an election happening _now_ in the US, coming to a climax tomorrow.  (Perhaps
-you've noticed?)  It's probably the most important election since the Civil War.  It's
-_important_ that you vote, and that you not vote Republican for any office whatsoever: that
-would just be enabling the bad guys.  
+you've noticed?)  It's probably the most important election since the American Civil War.  It's
+_important_ that you vote (and that you not vote Republican for any office whatsoever: that
+would just be enabling the bad guys).  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-ballot-tracking.png" width="400" height="159" alt="Chez Weekend ballot tracking" title="Chez Weekend ballot tracking" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 [Here at Chez Weekend, our vote is already submitted](https://www.someweekendreading.blog/today-i-voted/) 
 to the town clerk's drop box, and verified as "accepted for counting" from the secretary
 of state's web site.  Please do the same: either drop off your ballet with your local
-ballot counting office (_not_ the Post Office! <sup id="fn1a">[[1](#fn1)]</sup>), or vote
+ballot counting office (_not_ the now criminally-impaired Post 
+Office! <sup id="fn1a">[[1](#fn1)]</sup>), or vote
 in person if you have to.  [Scalzi has a nice summary over at _Whatever_.](https://whatever.scalzi.com/2020/11/02/election-eve-info/)  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-cat.jpg" width="251" height="300" alt="Your Weekend Publisher, in Hallowe'en regalia" title="The Weekend Publisher, in Hallowe'en regalia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
@@ -32,7 +33,8 @@ But: for the first time in my long(ish) life in the US, I fear some post-electio
 political violence.  It _almost_ happened in 2000, when demonstrators in Florida prevented
 the recount from proceeding until the Supreme Court could peremptorily hand the election to
 the Republicans.  Now, it's even worse: Trump pretty much _promises_ post-election chaos:
-legal challenges, telling the Proud Boys they have free reign for violence,
+legal challenges, telling the [Proud Boys](https://en.wikipedia.org/wiki/Proud_Boys) 
+they have free reign for violence,
 threatening to cling to power if he loses, etc.  It's a good time to take a couple days
 off work, so you can either stay home or demonstrate (peacefully).  This is not going to
 be trivial.  
@@ -62,7 +64,7 @@ virus affects them or that they affect anyone else.  (Don't be the sociopath in 
 circle, ok?  Also, don't vote for 
 [the sociopath](https://www.psychologytoday.com/us/blog/moral-landscapes/202008/the-psychology-donald-trump), either.)  
 
-That's just [strike 1](https://en.wikipedia.org/wiki/Three-strikes_law).  
+And&hellip; that's just [strike 1](https://en.wikipedia.org/wiki/Three-strikes_law)!  
 
 ### Strike 2  
 
@@ -104,7 +106,7 @@ don't believe masks work, or that the pandemic is real.
 <a href="https://twitter.com/bopinion/status/1322937610348777474"><img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-bloomberg-country-comparison.png" width="400" height="292" alt="Bloomberg Opinion: East-West Divide" title="Bloomberg Opinion: East-West Divide" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/></a>
 Strike 3 is that _it didn't have to be this bad!_  Bloomberg Opinion has a nice tweet
 thread showing that some eastern countries have a remarkably low COVID-19 death rate,
-while the US &amp; Europe are correspondingly miserable.  
+while the US &amp; Europe are correspondingly miserable. (reference 4)  
 
 You cannot argue that the eastern countries are uniquely positioned geographically (though
 with New Zealand one can note that it's easy to close the borders of an island).  Usually,
@@ -116,9 +118,9 @@ that cultural differences are the _only_ thing worth attention.  It saves you th
 of examining your own behavior for faults, apparently.  
 
 In fact, while waiting for a vaccine, we can do what they did: 
-- implement widespread &amp; fast testing, 
-- do real contact tracing, 
-- isolate positive cases found  
+- implement widespread &amp; fast testing,  
+- do real contact tracing,  
+- isolate positive cases found,  
 - provide financial support for people who need to be quarantined (give them a place to stay &amp; support their families so they don't keep going to work).  
 
 We did none of that: testing was almost impossible to obtain (and in fact discouraged by
@@ -178,7 +180,7 @@ attribute this to (a) some clinical learning in how to treat COVID-19 patients
 (dexamethasone, remdesivir, ventilation in prone position, ...) and (b) the patient
 population has changed. Most of the elderly are scared away from going in public much, and
 with the start of the fall college semester, we're getting a lot of young, healthy people
-doing dum things.  Their death rate is lower, so they may survive personally.  But not
+doing dumb things.  Their death rate is lower, so they may survive personally.  But not
 without spraying virus to all they contact, including elderly or otherwise at-risk family
 members, teachers, bus drivers, grocery workers, and others.  So don't applaud the lower
 death rate _yet_. [↩](#fn2a)  
