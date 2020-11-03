@@ -164,10 +164,9 @@ So what can we do about it?  Several things:
 Then you can relax at least a _little_ bit.  Maybe.  
 
 None of us, of course, will be able to relax as fully and regularly as the Weekend
-Publisher, shown here exhibiting his skills.  He is, after all, a master of the art.  (He
-has, however, not as yet told us how he would vote.  Felines are big believers in the
-secret ballot.)  Perhaps we can "rebuild better", in Biden's parlance, a society where we
-can all provide safety and care for each other, to feel as safe and warm and confident as
+Publisher, shown here exhibiting his skills.  He is, after all, a master of the
+art. Perhaps we can "rebuild better", in Biden's parlance, a society where we can all
+provide safety and care for each other, to feel as safe and warm and confident as
 the Weekend Publisher?  I hope so.  That's my dream, anyway.  
 
 ---
