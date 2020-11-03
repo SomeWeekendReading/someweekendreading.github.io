@@ -89,10 +89,10 @@ I was right about the noise.  I was _wrong_ in thinking that there was no proble
 Look at the latest results on the MWRA web page (reference 3). While the uptick in August
 was probably statistical nonsense, what we see today is obviously a second wave: currently
 about half the height of the first wave in April, but rising at a slope equal to or
-arguably steeper than the first wave.  
+arguably steeper than the first wave. <sup id="fn2a">[[2](#fn2)]</sup>  
 
 What this predicts: in a couple of weeks, there will be a desperate tsunami of
-hospitalizations, followed by a miserable wave of deaths.  <sup id="fn2a">[[2](#fn2)]</sup>
+hospitalizations, followed by a miserable wave of deaths.  <sup id="fn3a">[[3](#fn3)]</sup>
 Other areas will have other indicators, and perhaps differences of timing.  But if even
 Massachusetts, where you can get yelled at for not wearing a mask in public, has this
 problem &hellip; just imagine what's in store for the states where they still (somehow!)
@@ -130,11 +130,11 @@ _resisted_ doing even simple things like wearing masks.
 
 But don't ignore the better news from Asia: until there's a vaccine, control of the virus
 is _possible_.  We just have to muster up enough spirit of cooperation to do it.
-(But... we probably won't, says my inner cynic.)  
+(But&hellip; we probably won't, says my inner cynic.)  
 
 ## What you can do  
 
-Look, winter is coming. <sup id="fn3a">[[3](#fn3)]</sup>  People will be stuck indoors, in
+Look, winter is coming. <sup id="fn4a">[[4](#fn4)]</sup>  People will be stuck indoors, in
 close proximity, with poor ventilation.  There may be right-wing violence in the streets after the
 election, which will further drive us to take shelter together. That's a recipe for
 disaster in many ways, but one of those ways is COVID-19 transmission.  
@@ -155,7 +155,7 @@ So what can we do about it?  Several things:
   weeks.  
 - __Vote, dammit!__  Look, it really matters that you vote.  You already know my opinion,
   but really: you can't possibly be _undecided_, can you?  Even if you're a lifelong Republican
-  just now awakening to the damage accrued since Reagan... well, get over it and vote that sort
+  just now awakening to the damage accrued since Reagan&hellip; well, get over it and vote that sort
   of thing out of office at every level.  As someone who grew up Republican, I promise
   you: it doesn't hurt.  
 
@@ -173,21 +173,26 @@ the Weekend Publisher?  I hope so.  That's my dream, anyway.
 
 ## Notes  
 
-<a id="fn1">1</a>: Too much Republican mischief at the Post Office: [72% of the mail sorting machines removed "for cost savings" were in counties won by Clinton in the last election](https://www.huffpost.com/entry/postmaster-dejoy-sorting-machines-stripped-for-parts_n_5f6d71d5c5b64deddeeb9107), according to [a federal court finding](https://www.dropbox.com/s/jq05j72ptz598ad/gov.uscourts.waed.91975.81.0_1.pdf?dl=0).  So... it's _deliberate_.[↩](#fn1a)  
+<a id="fn1">1</a>: Too much Republican mischief at the Post Office: [72% of the mail sorting machines removed "for cost savings" were in counties won by Clinton in the last election](https://www.huffpost.com/entry/postmaster-dejoy-sorting-machines-stripped-for-parts_n_5f6d71d5c5b64deddeeb9107), according to [a federal court finding](https://www.dropbox.com/s/jq05j72ptz598ad/gov.uscourts.waed.91975.81.0_1.pdf?dl=0).  So&hellip; it's _deliberate_.[↩](#fn1a)  
 
-<a id="fn2">2</a>: Though, to be fair, the death rate seems to have been declining.  I
+<a id="fn2">2</a>: It would be fascinating to do some sort of time series model relating
+hospitalization rates each week to viral RNA levels in wastewater in preceeding weeks.
+Either a simple regression model, or maybe an [ARMA(p, q)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 
+model.  Maybe in another post, we'll explore how _quantitatively predictive_ this data is. [↩](#fn2a)  
+
+<a id="fn3">3</a>: Though, to be fair, the death rate seems to have been declining.  I
 attribute this to (a) some clinical learning in how to treat COVID-19 patients
-(dexamethasone, remdesivir, ventilation in prone position, ...) and (b) the patient
+(dexamethasone, remdesivir, ventilation in prone position, &hellip;) and (b) the patient
 population has changed. Most of the elderly are scared away from going in public much, and
 with the start of the fall college semester, we're getting a lot of young, healthy people
 doing dumb things.  Their death rate is lower, so they may survive personally.  But not
 without spraying virus to all they contact, including elderly or otherwise at-risk family
 members, teachers, bus drivers, grocery workers, and others.  So don't applaud the lower
-death rate _yet_. [↩](#fn2a)  
+death rate _yet_. [↩](#fn3a)  
 
-<a id="fn3">3</a>: I am apparently the last remaining human on the planet who has not
+<a id="fn4">4</a>: I am apparently the last remaining human on the planet who has not
 watched the US televsion show _Game of Thrones_.  I gather the phrase "winter is coming"
-has something to do with that.  Me, I just _like_ winter. [↩](#fn3a)  
+has something to do with that.  Me, I just _like_ winter. [↩](#fn4a)  
 
 ---
 
