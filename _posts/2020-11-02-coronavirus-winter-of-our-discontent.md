@@ -11,8 +11,8 @@ terrifying, but there are some things you can do.
 
 ## The election  
 
-There's an election happening _now_ in the US, coming to a climax tomorrow.  (Perhaps
-you've noticed?)  It's probably the most important election since the American Civil War.  It's
+There's an election happening _now_ in the US, coming to a climax tomorrow.  Perhaps
+you've noticed?  It's probably the most important election since the American Civil War.  It's
 _important_ that you vote (and that you not vote Republican for any office whatsoever: that
 would just be enabling the bad guys).  
 
@@ -20,7 +20,7 @@ would just be enabling the bad guys).
 [Here at Chez Weekend, our vote is already submitted](https://www.someweekendreading.blog/today-i-voted/) 
 to the town clerk's drop box, and verified as "accepted for counting" from the secretary
 of state's web site.  Please do the same: either drop off your ballet with your local
-ballot counting office (_not_ the now criminally-impaired Post 
+ballot counting office (_not_ at the now criminally-impaired Post 
 Office! <sup id="fn1a">[[1](#fn1)]</sup>), or vote
 in person if you have to.  [Scalzi has a nice summary over at _Whatever_.](https://whatever.scalzi.com/2020/11/02/election-eve-info/)  
 
@@ -54,13 +54,15 @@ be trivial.
 As if the non-stop horrors of right-wing political nihilism and stupidity for the last
 generation were not enough, COVID-19 is _also_ ramping back up.  
 [Submitted for your approval](https://www.imdb.com/title/tt0297727/): 
-the venerable _Globe_ today, in an article by John Hilliard (reference 1),
+the venerable _Boston Globe_ today, in an article by John Hilliard (reference 1),
 points out that Massachusetts is now reporting more than 1,000 new cases/day, _for the 9th
-straight day_.  There have been an awful lot of exceptionally stupid parties in
-student-heavy Boston, home gatherings spreading virus _inter familia_, the demented policy
-of indoor dining at restaurants, as well as church
-gatherings of people whose sociopathic regard for their beliefs allows them to refuse to believe the
-virus affects them or that they affect anyone else.  (Don't be the sociopath in your
+straight day_.  
+
+There have been an awful lot of exceptionally stupid parties in
+student-heavy Boston, home gatherings spreading virus _inter familia_, a demented policy
+allowing indoor dining at restaurants, as well as church
+gatherings where a sociopathic regard for beliefs allows a refusal to believe the
+virus affects the worshippers or that they affect anyone else.  (Don't be the sociopath in your
 circle, ok?  Also, don't vote for 
 [the sociopath](https://www.psychologytoday.com/us/blog/moral-landscapes/202008/the-psychology-donald-trump), either.)  
 
@@ -70,20 +72,25 @@ And&hellip; that's just [strike 1](https://en.wikipedia.org/wiki/Three-strikes_l
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-zones.png" width="400" height="365" alt="MWRA sewage processing zones" title="MWRA sewage processing zones" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Strike 2 is from the Massachusetts Water Resources Authority (MWRA).  They basically run
-the water supply, the Quabbin Reservoir, and some really interesting sewage processing
-plants on Deer Island.  The processing is done separately for northern and southern metro
+the water supply, the [Quabbin Reservoir](https://en.wikipedia.org/wiki/Quabbin_Reservoir), 
+and a really interesting 
+[wastewater treatment plant on Deer Island](https://en.wikipedia.org/wiki/Deer_Island_Waste_Water_Treatment_Plant).
+The processing is done separately for northern and southern metro
 Boston and semi-adjacent suburbs, reacing out quite a ways (green & orange in the
-figure).  
+figure).  It serves 43 communities!  
 
-The MWRA folks did something clever: partnering with [Biobot Analytics](https://www.biobot.io/), 
+The MWRA folks did something really clever: partnering with 
+[Biobot Analytics](https://www.biobot.io/), 
 they applied [metagenomics](https://en.wikipedia.org/wiki/Metagenomics) to the wastewater,
-and started tracking the amount of SARS-COV-2 viral RNA versus time.  This is as _unbiased
-a sample as it's possible to get:_ if you use a toilet in (extended-)metro Boston, you're
-part of the sample set.  Back in August, the venerable _Globe_ reported that there were
-some suspicions of an uptick (reference 2), presaging an uptick in cases, then hospitalizations, then deaths.  I didn't make much of it at the time, since it didn't look statistically significant
-&mdash; likely noise.  
+and using RNA sequencing to track the amount of SARS-COV-2 viral RNA versus time.  This is
+as _unbiased a sample as it's possible to get:_ if you use a toilet in (extended-)metro
+Boston, you're part of the sample set.  Back in August, the venerable _Globe_ reported
+that there were some suspicions of an uptick (reference 2), presaging an uptick in cases,
+then hospitalizations, then deaths.  I didn't make much of it at the time, since it didn't
+look statistically significant &mdash; likely noise.  
 
-I was right about the noise.  I was _wrong_ in thinking that there was no problem here.  
+I was right about _that_ being noise, back in August.  I was _wrong_ in thinking that
+there would be no problem _later_.  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-viral-rna-tracking.png" width="400" height="297" alt="MWRA metagenomics: SARS-COV-2 viral RNA in sewage vs time" title="MWRA metagenomics: SARS-COV-2 viral RNA in sewage vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Look at the latest results on the MWRA web page (reference 3). While the uptick in August
@@ -95,10 +102,10 @@ What this predicts: in a couple of weeks, there will be a desperate tsunami of
 hospitalizations, followed by a miserable wave of deaths.  <sup id="fn3a">[[3](#fn3)]</sup>
 Other areas will have other indicators, and perhaps differences of timing.  But if even
 Massachusetts, where you can get yelled at for not wearing a mask in public, has this
-problem &hellip; just imagine what's in store for the states where they still (somehow!)
+problem&hellip; just imagine what's in store for the states where they still (somehow!)
 don't believe masks work, or that the pandemic is real.  
 
-David Malki has the goods my cynicism about our proudly fact-defying ignorance:  
+David Malki has the goods on my cynicism about our proudly fact-defying ignorance:  
 [![Malki on how stupid we all are]({{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-malki.png)](http://wondermark.com/c1520/)
 
 
@@ -110,21 +117,22 @@ thread showing that some eastern countries have a remarkably low COVID-19 death 
 while the US &amp; Europe are correspondingly miserable. (reference 4)  
 
 You cannot argue that the eastern countries are uniquely positioned geographically (though
-with New Zealand one can note that it's easy to close the borders of an island).  Usually,
-Bloomberg Opinion goes on to note, we explain that with what amounts to a rather
+with New Zealand one can note that it's easy to close the borders of an island; also
+Taiwan).
+Usually, Bloomberg Opinion goes on to note, we explain that with what amounts to a rather
 dreary colonial attitude of [orientalism](https://en.wikipedia.org/wiki/Orientalism):
 their culture is so different, they can do things we never would do.  This is a form of
 cultural [essentialism](https://en.wikipedia.org/wiki/Essentialism), basically asserting
 that cultural differences are the _only_ thing worth attention.  It saves you the trouble
 of examining your own behavior for faults, apparently.  
 
-In fact, while waiting for a vaccine, we can do what they did: 
+In fact, while waiting for a vaccine, we can do what they did:
 - implement widespread &amp; fast testing,  
 - do real contact tracing,  
 - isolate positive cases found,  
 - provide financial support for people who need to be quarantined (give them a place to stay &amp; support their families so they don't keep going to work).  
 
-We did none of that: testing was almost impossible to obtain (and in fact discouraged by
+We did _none_ of that: testing was almost impossible to obtain (and in fact discouraged by
 the Trump government!), results became available _weeks_ later when they were useless,
 there was almost no contact tracing, exactly zero support for quarantinees.  In fact, we
 _resisted_ doing even simple things like wearing masks.  
