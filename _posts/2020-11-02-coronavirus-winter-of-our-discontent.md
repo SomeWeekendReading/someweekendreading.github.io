@@ -98,6 +98,8 @@ Massachusetts, where you can get yelled at for not wearing a mask in public, has
 problem &hellip; just imagine what's in store for the states where they still (somehow!)
 don't believe masks work, or that the pandemic is real.  
 
+David Malki has the goods here on how cynical I feel about our level of proudly
+fact-defying ignorance: 
 [![Malki on how stupid we all are]({{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-malki.png)](http://wondermark.com/c1520/)
 
 
