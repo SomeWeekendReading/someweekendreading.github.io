@@ -414,7 +414,7 @@ perhaps one of the 20th century's greatest theologians
 
 "Man's capacity for justice makes democracy possible; but man's inclination to injustice makes democracy necessary." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
 
-"We could bring calamity on ourselves and the world by forgetting that even the most powerful nations &hellip; remain themselves creatures as well as creators of the historical process." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr), _The Irony of American History_(1952)  
+"We could bring calamity on ourselves and the world by forgetting that even the most powerful nations &hellip; remain themselves creatures as well as creators of the historical process." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr), _The Irony of American History_ (1952)  
 
 "It's not necessary to be a saint to do good.  You need willing hands, not clean ones."
 &mdash; [Mother Theresa](https://en.wikipedia.org/wiki/Mother_Teresa)  
@@ -422,9 +422,7 @@ perhaps one of the 20th century's greatest theologians
 "Reality is that which, when you stop believing in it, doesn't go away." 
 &mdash; [Phillip K Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  
 
-"When I give food to the poor, they call me a saint. When I ask why the poor have no food,
-they call me a communist." &mdash; Dom Helder Camara, archbishop of Recife and apostle of social
-justice  
+"When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist." &mdash; Dom Hélder Pessoa Câmara, archbishop of Recife and apostle of social justice  
 
 "Truth, like gold, is to be obtained not by its growth, but by washing away from it all
 that is not gold." &mdash; Leo Nikolaevich Tolstoy  
@@ -576,6 +574,8 @@ much as his intentions, nor this or that detail so much as the whole story."
 
 "The trouble with the world is that the stupid are cocksure and the intelligent are full of
 doubt." &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)  
+
+"The best lack all conviction, while the worst are full of passionate intensity." &mdash; [William Butler Yeats](https://en.wikipedia.org/wiki/W._B._Yeats), ["The Second Coming"](https://en.wikipedia.org/wiki/The_Second_Coming_(poem))  
 
 "Forgive him , for he believes that the customs of his tribe are the laws of nature."
 &mdash; [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)  
