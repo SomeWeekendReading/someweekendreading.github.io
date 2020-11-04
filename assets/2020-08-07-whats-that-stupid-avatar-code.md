@@ -6,8 +6,7 @@ date: 2020-08-07
 comments: false
 ---
 
-Here's the script `root-fractal.r` for the post:
-
+Here's the script `root-fractal.r` for the post:  
 ```R
 ## Created on Thursday, March 10, 2010 at 10:10pm EST by WeekendEditor on WeekendEditorMachine.
 ## UnCopyright (u) 2020, WeekendEditor.  All rights reversed.  As if you care.

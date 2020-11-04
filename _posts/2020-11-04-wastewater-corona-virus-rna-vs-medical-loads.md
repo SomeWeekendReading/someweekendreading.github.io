@@ -86,4 +86,4 @@ deaths/day.
 
 3. Weekend Editor, [analysis script in R]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis/), _Some Weekend Reading_, 2020-11-04.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis-transcript/).  
 
-4. Weekend Editor, [joint RNA &amp; COVID medical load dataset](2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-joint-data.tsv), _Some Weekend Reading_, 2020-11-04.  
+4. Weekend Editor, [joint RNA &amp; COVID medical load dataset](2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-joint-data/), _Some Weekend Reading_, 2020-11-04.  

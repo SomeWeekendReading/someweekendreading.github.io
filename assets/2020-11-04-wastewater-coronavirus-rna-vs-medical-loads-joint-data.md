@@ -1,3 +1,13 @@
+---
+layout: post
+title: Joint dataset for &quot;Wastewater coronavirus RNA vs medical loads&quot;
+tags: COVID MathInTheNews R
+date: 2020-11-04
+comments: false
+---
+
+Here's the joint dataset for the post, in tsv format:  
+```
 Date	North.7	South.7	RNA.7	hospIncr.7	deadIncr.7
 2020-03-11	14	18	16	0	0
 2020-03-12	13	18	15.5	0	0
@@ -155,3 +165,4 @@ Date	North.7	South.7	RNA.7	hospIncr.7	deadIncr.7
 2020-10-24	139	182	160.5	19.4	16.6
 2020-10-25	119	191	155	20.1	18.1
 2020-10-26	120	171	145.5	21.6	18.3
+```

@@ -6,8 +6,7 @@ date: 2020-10-02
 comments: false
 ---
 
-Here's the script `night-of-the-living-beta-binomials.r` for the post:
-
+Here's the script `night-of-the-living-beta-binomials.r` for the post:  
 ```R
 ## Created on Thursday, October  1, 2020 at 9:21pm EDT by WeekendEditor on WeekendEditorMachine.
 ## Copyright (c) 2020, nobody-in-particular.  All rights reserved.  As if you care.
