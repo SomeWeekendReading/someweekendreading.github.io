@@ -6,7 +6,7 @@ comments: true
 ---
 
 [Previously](https://www.someweekendreading.blog/coronavirus-winter-of-our-discontent/),
-we mentioned there was data showing the level of coronavirus RNA in metro Boston
+we mentioned there were data showing the level of coronavirus RNA in metro Boston
 wastewater, and speculated that it might be predictive of medical loads like
 hospitalization and death rates.  It turns out to be _weirder_ than that.  
 
