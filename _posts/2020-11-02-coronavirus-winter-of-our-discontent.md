@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coronavirus &amp; Elections &mdash; The Winter of Our Discontent
+title: Coronavirus &amp; Elections&colon; The Winter of Our Discontent
 tags: COVID MathInTheNews Politics
 comments: true
 ---
@@ -53,6 +53,7 @@ be trivial.
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mass-cases.png" width="362" height="400" alt="Mass tops 1000 cases/day for 9 consecutive days" title="Mass tops 1000 cases/day for 9 consecutive days" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As if the non-stop horrors of right-wing political nihilism and stupidity for the last
 generation were not enough, COVID-19 is _also_ ramping back up.  
+
 [Submitted for your approval](https://www.imdb.com/title/tt0297727/): 
 the venerable _Boston Globe_ today, in an article by John Hilliard (reference 1),
 points out that Massachusetts is now reporting more than 1,000 new cases/day, _for the 9th
@@ -61,10 +62,10 @@ straight day_.
 There have been an awful lot of exceptionally stupid parties in
 student-heavy Boston, home gatherings spreading virus _inter familia_, a demented policy
 allowing indoor dining at restaurants, as well as church
-gatherings where a sociopathic regard for beliefs allows a refusal to believe the
+gatherings where a sociopathic regard for belief allows a refusal to believe the
 virus affects the worshippers or that they affect anyone else.  (Don't be the sociopath in your
 circle, ok?  Also, don't vote for 
-[the sociopath](https://www.psychologytoday.com/us/blog/moral-landscapes/202008/the-psychology-donald-trump), either.)  
+[the sociopath](https://www.psychologytoday.com/us/blog/moral-landscapes/202008/the-psychology-donald-trump).)  
 
 And&hellip; that's just [strike 1](https://en.wikipedia.org/wiki/Three-strikes_law)!  
 
@@ -94,7 +95,7 @@ there would be no problem _later_.
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-viral-rna-tracking.png" width="400" height="297" alt="MWRA metagenomics: SARS-COV-2 viral RNA in sewage vs time" title="MWRA metagenomics: SARS-COV-2 viral RNA in sewage vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Look at the latest results on the MWRA web page (reference 3). While the uptick in August
-was probably statistical nonsense, what we see today is obviously a second wave: currently
+was more or less pure statistical nonsense, what we see today is obviously a second wave: currently
 about half the height of the first wave in April, but rising at a slope equal to or
 arguably steeper than the first wave. <sup id="fn2a">[[2](#fn2)]</sup>  
 
@@ -148,9 +149,13 @@ close proximity, with poor ventilation.  There may be right-wing violence in the
 election, which will further drive us to take shelter together. That's a recipe for
 disaster in many ways, but one of those ways is COVID-19 transmission.  
 
-So what can we do about it?  Several things:
-- __Stay home, or work remotely if you can.__  Not everybody can do this, but if you can,
+So what can you do about it?  Several things:
+- __Stay home or work remotely, if you can.__  Not everybody can do this.  But if you can,
   you should.  Think of it as your civic duty.  
+- __Lay in some extra food &amp; prescription medications if you need them.__  In case of
+  another lockdown or &mdash; Heaven forbid &mdash; civil unrest, you'll be glad you don't
+  have to go out.  A bit of home preparedness now will let you relax a bit in the coming
+  weeks.  Think of it as your duty to your family &amp; loved ones.  
 - __Get a flu shot!__  At this point, I have exactly _zero_ patience left to listen to anybody
   whine about their "skepticism" of vaccines.  You don't want to present at your local
   ER this winter as yet another febrile patient with headache, aches &amp; pains, and a
@@ -158,10 +163,6 @@ So what can we do about it?  Several things:
   need, _just to stay alive_.  So get a flu shot, and get out of their way.  It's covered
   by all reasonable insurance and Medicare.  Even if not covered, it's like \$20 at your
   local drugstore.  You got this.  Just do it.  
-- __Lay in some extra food &amp; prescription medications if you need them.__  In case of
-  another lockdown or &mdash; Heaven forbid &mdash; civil unrest, you'll be glad you don't
-  have to go out.  A bit of home preparedness now will let you relax a bit in the coming
-  weeks.  
 - __Vote, dammit!__  Look, it really matters that you vote.  You already know my opinion,
   but really: you can't possibly be _undecided_, can you?  Even if you're a lifelong Republican
   just now awakening to the damage accrued since Reagan&hellip; well, get over it and vote that sort
