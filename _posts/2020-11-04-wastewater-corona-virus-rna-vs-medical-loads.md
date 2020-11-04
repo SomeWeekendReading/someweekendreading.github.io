@@ -152,7 +152,7 @@ promising, then it stopped working, and we don't know _why!_
 
 ## References  
 
-1. COVID Tracking Project, [Massachusetts medical use data](https://covidtracking.com/data/state/massachusetts), retrieved 2020-Nov-02.  
+1. COVID Tracking Project, [Massachusetts medical use data](https://covidtracking.com/data/state/massachusetts/), retrieved 2020-Nov-02.  
 
 2. Massachusetts Water Resources Authority, [Biobot wastewater RNA data](http://www.mwra.com/biobot/biobotdata.htm), retrieved 2020-Nov-02.  
 
