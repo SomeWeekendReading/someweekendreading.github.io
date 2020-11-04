@@ -92,7 +92,7 @@ curious and we'll return to it in a minute.
 On the right, we've made a scatterplot of the northern versus southern RNA measurements.
 Each point is a single 7-day trailing average.  If they were identical, we'd expect to see
 all the points on a diagonal.  As it is, they're pretty highly correlated: the squared
-Pearson correlation is $R^2 = 83%$, i.e., knowing either explains 83% of the variance in
+Pearson correlation is $R^2 = 83%%$, i.e., knowing either explains 83% of the variance in
 the other.  This is as highly correlated as real-world data usually get, so combining them
 by taking the mean of north &amp; south measurements on a given day makes sense.  (Though
 it might make sense to combine the original data, _then_ take the 7 day rolling average.
