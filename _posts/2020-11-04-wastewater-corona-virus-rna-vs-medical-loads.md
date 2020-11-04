@@ -70,9 +70,41 @@ issues, and uses an inner join on the date fields to make a joint dataset (refer
 giving the date and 7-day moving averages of wastewater RNA, hospital admissions/day, and
 deaths/day.  
 
+We first made some plots of the northern and southern district RNA measurements, vs time
+and each other.  The goals were:  
+- to see if we could reproduce the time course plot from the MWRA web page and diagnose
+any errors, and  
+- to see if the 2 districts were sufficiently correlated that it might make sense to
+combine them by taking their mean, as an overall Boston metro RNA signal.   
+
 ![Correlation of north and south district wastewater RNA]({{ site.baseurl  }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-north-south.png)
 
+On the left is the time course plot, for the northern &amp; southern districts.  
+- The RNA levels are 7 day trailing averages, so they correspond to the 7 day curves shown
+by the MWRA.  
+- We've put the RNA axis on a log scale, to see the details at low readings, but otherwise this is
+reasonable evidence that we've reproduced the MWRA's data adequately well.  
+- Note in particular that in the first wave of infections, the blue and gray points are
+very tightly correlated, but that in the second wave (basically after July 1, entirely
+coincidentally the birth of this blog), they are more loosely coupled.  This is very
+curious and we'll return to it in a minute.
+
+On the right, we've made a scatterplot of the northern versus southern RNA measurements.
+Each point is a single 7-day trailing average.  If they were identical, we'd expect to see
+all the points on a diagonal.  As it is, they're pretty highly correlated: the squared
+Pearson correlation is $R^2 = 83%$, i.e., knowing either explains 83% of the variance in
+the other.  This is as highly correlated as real-world data usually get, so combining them
+by taking the mean of north &amp; south measurements on a given day makes sense.  (Though
+it might make sense to combine the original data, _then_ take the 7 day rolling average.
+We did not explore that.)  
+
 ![Relationship of mean RNA to medical loads]({{ site.baseurl  }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-med-loads-vs-RNA.png)
+
+
+
+## Conclusions  
+
+...
 
 <sup id="fn1a">[[1](#fn1)]</sup>
 
