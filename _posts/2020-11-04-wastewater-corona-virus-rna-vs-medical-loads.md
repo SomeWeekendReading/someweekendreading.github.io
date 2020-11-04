@@ -143,7 +143,7 @@ cytokine storm, put patients in prone position &mdash; on their stomachs &mdash;
 ventilator, and so on).  Maybe that's affecting hospitalizations and deaths?  If so, that
 might mean something is _working right_.  
 
-Or it could be something completely different.
+Or it could be something completely different.  
 
 All we can conclude here is that, based on these data, the wastewater RNA content looked
 promising, then it stopped working, and we don't know _why!_  
