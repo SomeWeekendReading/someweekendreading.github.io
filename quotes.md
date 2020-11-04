@@ -321,8 +321,8 @@ quoted in A. L. Mackay, _The Harvest of a Quiet Eye_, 1977.
 &mdash; Sir Arthur Eddington.  (But see also: "Not only is the universe stranger than we suspect; it is stranger than we can suspect." &mdash; J. B. S. Haldane)  
 
 "We are all agreed that your theory is crazy. The question that divides us is whether it is
-crazy enough to have a chance of being correct." &mdash; Niels Bohr, on evaluating a
-colleague's work  
+crazy enough to have a chance of being correct." 
+&mdash; [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr), on evaluating a colleague's work  
 
 "Education is the ability to listen to almost anything without losing your temper." 
 &mdash; [Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost)  
