@@ -112,23 +112,41 @@ down side of Wave 1, where the RNA goes down _first_, followed by the others.  T
 approximately what we expected to see, and would have made a fine short-term predictor
 for medical loads coming in the next week or so.  
 - _Would have._  Because note in Wave 2, this relationship of medical loads to RNA is
-  broken!  The RNA rises beginning mid-October, just as fast as Wave 1 and (so far) about
-  half as high.  But&hellip; the hospitalization and death rates remain unmoved!  
+broken!  The RNA rises beginning mid-October, just as fast as Wave 1 and (so far) about
+half as high.  But&hellip; the hospitalization and death rates remain unmoved!  
 
+On the right, we scatterplot the medical load (hospitalization & death rates) vs the
+wastewater RNA.  We do that separately, with Wave 1 using circular points and Wave 2 using
+square points.  
+- Note that the circular points very roughly confirm an increase the medical load when the RNA
+rises.  It's not linear, or much of anything, but the medical load gets bigger with a
+lot of noise.  
+- But look at the square points, all along the bottom: the RNA goes up and&hellip;
+_nothing_.  
 
+Now, normally I'd go on from here to build some regression models with a time lag to
+predict medical load from RNA, or an ARMA(p, q) time series model.  But when the data says
+_both yes and no_ to predictive power, there's no point in doing that until we understand
+why.  
 
 ## Conclusions  
 
 <img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-...
+So basically that's it: the data say both yes and no, so we cannot say anything
+meaningful.  It certainly looked like the first wave was saying the RNA was a leading
+indicator of medical load in the immediate future, but the second wave says "nah".  
 
-<sup id="fn1a">[[1](#fn1)]</sup>
+Why might this be?  We're entering the territory of speculation here, but among other
+things, we've learned a lot about COVID-19 in the last 7 months.  We know not to do some
+things (hydroxychloroquine), and we know to some others (dexamethasone to calm the
+cytokine storm, put patients in prone position &mdash; on their stomachs &mdash; when on a
+ventilator, and so on).  Maybe that's affecting hospitalizations and deaths?  If so, that
+might mean something is _working right_.  
 
----
+Or it could be something completely different.
 
-## Notes
-
-<a id="fn1">1</a>:  ... [↩](#fn1a)  
+All we can conclude here is that, based on these data, the wastewater RNA content looked
+promising, then it stopped working, and we don't know _why!_  
 
 ---
 
