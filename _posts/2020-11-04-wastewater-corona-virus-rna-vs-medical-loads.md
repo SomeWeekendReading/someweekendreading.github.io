@@ -38,7 +38,7 @@ policy and planning for surges in medical resource needs: a model like a time se
 [ARMA(p, q)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 
 model, or even a simple regression model could be quite useful.  
 
-If __no__, then&hellip; we really don't know _what_ the heck is going on.  
+If __no__, then&hellip; we really don't know _what_ the heck is going on!  
 
 ## Data  
 
@@ -63,10 +63,16 @@ data disclosure (technically disclosed, but in a way to block any kind of peer r
 analysis).  I _hope_ it was the former.  Also, there are plenty of missing days, so it's
 an irregular time series.  
 
+## Methods  
+
 The [R](https://www.r-project.org/) script (reference 3) loads those data, cleans up some
 issues, and uses an inner join on the date fields to make a joint dataset (reference 4)
 giving the date and 7-day moving averages of wastewater RNA, hospital admissions/day, and
 deaths/day.  
+
+![Correlation of north and south district wastewater RNA]({{ site.baseurl  }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-north-south.png)
+
+![Relationship of mean RNA to medical loads]({{ site.baseurl  }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-med-loads-vs-RNA.png)
 
 <sup id="fn1a">[[1](#fn1)]</sup>
 
