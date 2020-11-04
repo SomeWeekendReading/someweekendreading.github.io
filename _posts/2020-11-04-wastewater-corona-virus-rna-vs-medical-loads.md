@@ -136,16 +136,29 @@ So basically that's it: the data say both yes and no, so we cannot say anything
 meaningful.  It certainly looked like the first wave was saying the RNA was a leading
 indicator of medical load in the immediate future, but the second wave says "nah".  
 
-Why might this be?  We're entering the territory of speculation here, but among other
-things, we've learned a lot about COVID-19 in the last 7 months.  We know not to do some
-things (hydroxychloroquine), and we know to some others (dexamethasone to calm the
-cytokine storm, put patients in prone position &mdash; on their stomachs &mdash; when on a
+Why might this be?  
+
+We're entering the territory of speculation here, but among other things, we've learned a
+lot about COVID-19 in the last 7 months.  We know not to do some things
+(hydroxychloroquine), and we know to some others (dexamethasone to calm the cytokine
+storm, put patients in prone position &mdash; on their stomachs &mdash; when on a
 ventilator, and so on).  Maybe that's affecting hospitalizations and deaths?  If so, that
 might mean something is _working right_.  
 
-Or it could be something completely different.  
+Also, I hear rumors that the demographics of COVID patients in hospitals is changing.  In
+Wave 1, we didn't yet fear COVID sufficiently, so we got patients from all strata of
+society.  Now, all the elderly and those with complicating conditions realize that COVID
+will likely kill them, so they're very cautious.  That leaves us with the enormous student
+population, who are attempting to party in secret.  They may be passing the virus around,
+with asymptomatic or low symptom results, so no associated hospitalizations.  They may not
+understand the long-term damage COVID does even to the young.  If COVID breaks out of
+their population and gets
+into their professors, families, and others, it will be _really_ ugly.  
 
-All we can conclude here is that, based on these data, the wastewater RNA content looked
+Or it could be something completely different.  The reasons above are just _stories_ I
+made up, not data.  
+
+All we can conclude is that, based on these data, the wastewater RNA content looked
 promising, then it stopped working, and we don't know _why!_  
 
 ---

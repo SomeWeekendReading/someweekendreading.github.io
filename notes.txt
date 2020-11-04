@@ -278,11 +278,6 @@ Notes on blogging tech.
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
-* How much do the MWRA viral metagenomics (http://www.mwra.com/biobot/biobotdata.htm)
-  predict later hospitalization rates?  ARMA(p, q) time series model or regression model?
-  Explore correlations of hospitalization @ time t with wastewater RNA at times t-1, ..., t-q?
-  https://covidtracking.com/data/state/massachusetts/hospitalization
-  https://covidtracking.com/data/state/massachusetts/outcomes
 * Click chemotherapy (in the pipeline: https://blogs.sciencemag.org/pipeline/archives/2020/10/28/click-chemotherapy)
 * Impact of election years on stock returns (old weekend reading)
 * Lifetime of COVID-19 abs (email of 2020-oct-27)
