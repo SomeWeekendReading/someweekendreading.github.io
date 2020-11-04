@@ -119,7 +119,7 @@ for medical loads coming in the next week or so.
 
 ## Conclusions  
 
-<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="365" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 ...
 
 <sup id="fn1a">[[1](#fn1)]</sup>
