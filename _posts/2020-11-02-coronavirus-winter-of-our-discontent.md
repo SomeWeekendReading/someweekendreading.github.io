@@ -72,8 +72,9 @@ And&hellip; that's just [strike 1](https://en.wikipedia.org/wiki/Three-strikes_l
 ### Strike 2  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-zones.png" width="400" height="365" alt="MWRA sewage processing zones" title="MWRA sewage processing zones" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Strike 2 is from the Massachusetts Water Resources Authority (MWRA).  They basically run
-the water supply, the [Quabbin Reservoir](https://en.wikipedia.org/wiki/Quabbin_Reservoir), 
+Strike 2 is from the [Massachusetts Water Resources Authority (MWRA)](http://www.mwra.com/).
+They basically run the water supply, the 
+[Quabbin Reservoir](https://en.wikipedia.org/wiki/Quabbin_Reservoir), 
 and a really interesting 
 [wastewater treatment plant on Deer Island](https://en.wikipedia.org/wiki/Deer_Island_Waste_Water_Treatment_Plant).
 The processing is done separately for northern and southern metro

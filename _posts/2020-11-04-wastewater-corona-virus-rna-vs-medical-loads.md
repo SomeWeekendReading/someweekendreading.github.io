@@ -1,0 +1,89 @@
+---
+layout: post
+title: Wastewater coronavirus RNA vs medical loads
+tags: COVID MathInTheNews R
+comments: true
+---
+
+[Previously](https://www.someweekendreading.blog/coronavirus-winter-of-our-discontent/),
+we mentioned there was data showing the level of coronavirus RNA in metro Boston
+wastewater, and speculated that it might be predictive of medical loads like
+hospitalization and death rates.  It turns out to be _weirder_ than that.  
+
+Let's&hellip;
+[_avoid_ further election anxiety](https://www.balloon-juice.com/2020/11/04/wednesday-morning-open-thread-settle-down-support-the-ongoing-count/), 
+and pretend not so many of us vote for the Cruel &amp; Stupid.  Instead, let's think about
+something also cruel &amp; stupid, but excusably so, since it's just a virus.  
+
+<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-zones.png" width="400" height="365" alt="MWRA sewage processing zones" title="MWRA sewage processing zones" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-viral-rna-tracking.png" width="400" height="297" alt="MWRA metagenomics: SARS-COV-2 viral RNA in sewage vs time" title="MWRA metagenomics: SARS-COV-2 viral RNA in sewage vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+We mentiond that the 
+[Mass Water Resources Authority (MWRA)](http://www.mwra.com/), in combination with
+[Biobot Analytics](https://www.biobot.io/), is applying 
+[metagenomics](https://en.wikipedia.org/wiki/Metagenomics)
+at the 
+[wastewater treatment plant on Deer Island](https://en.wikipedia.org/wiki/Deer_Island_Waste_Water_Treatment_Plant).
+Basically, they're measuring viral RNA (copies/ml) versus time in the wastewater, getting
+a near-perfectly unbiased sample of viral load in the entire toilet-using population of 43
+communities around Boston.  For complicated reasons, they divide the data into northern
+&amp; southern regions, but we can combine them if they're correlated enough.  
+
+## Research question  
+
+Does wastewater viral RNA level predict loads on the medical system like hospitalizations,
+possibly a couple weeks later?  
+
+If __yes__, then we have a very nice community exposure measure to use for setting isolation
+policy and planning for surges in medical resource needs: a model like a time series
+[ARMA(p, q)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 
+model, or even a simple regression model could be quite useful.  
+
+If __no__, then&hellip; we really don't know _what_ the heck is going on.  
+
+## Data  
+
+The data for Massachusetts medical loads from COVID and the MWRA wastewater RNA data are
+available for download (references 1 &amp; 2).  Of course, since it's real-world data and
+not some classroom exercise, thre are issues:
+- __Medical use data (reference 1):__ The [COVID Tracking Project](https://covidtracking.com/) 
+provided a pretty straightforward spreadsheet, in csv format.  There were 12 columns that were
+mysteriously empty, but perhaps they are for data only reported by other states.  We
+parsed out the date, the incremental deaths, and the incremental hospitalizations, and
+computed 7-day rolling averages in R, using the 
+[rollmean() function from the zoo package](https://www.rdocumentation.org/packages/zoo/versions/1.8-8/topics/rollmean).
+One apparent anomaly: the incremental hospitalization rate on 2020-09-02 is -91, i.e., an
+inexplicably _negative_ value.  This messes up the 7 day rolling average a bit, but
+everything else looks ok.  
+- __Wastewater RNA data (reference 2):__ This&hellip; could have gone better.  The data 
+is theoretically available, but provided only in a PDF.  Also, the PDF is constructed in
+such a way that a copy/paste takes some of the data in column order and others in row
+order, making a complete hash of everything.  So I had to retype it by hand, pretty much.
+Either they just didn't assemble the PDF competently, or it was malicious compliance with
+data disclosure (technically disclosed, but in a way to block any kind of peer review
+analysis).  I _hope_ it was the former.  Also, there are plenty of missing days, so it's
+an irregular time series.  
+
+The [R](https://www.r-project.org/) script (reference 3) loads those data, cleans up some
+issues, and uses an inner join on the date fields to make a joint dataset (reference 4)
+giving the date and 7-day moving averages of wastewater RNA, hospital admissions/day, and
+deaths/day.  
+
+<sup id="fn1a">[[1](#fn1)]</sup>
+
+---
+
+## Notes
+
+<a id="fn1">1</a>:  ... [↩](#fn1a)  
+
+---
+
+## References  
+
+1. COVID Tracking Project, [Massachusetts medical use data](https://covidtracking.com/data/state/massachusetts), retrieved 2020-Nov-02.  
+
+2. Massachusetts Water Resources Authority, [Biobot wastewater RNA data](http://www.mwra.com/biobot/biobotdata.htm), retrieved 2020-Nov-02.  
+
+3. Weekend Editor, [analysis script in R]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis/), _Some Weekend Reading_, 2020-11-04.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis-transcript/).  
+
+4. Weekend Editor, [joint RNA &amp; COVID medical load dataset](2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-joint-data.tsv), _Some Weekend Reading_, 2020-11-04.  
