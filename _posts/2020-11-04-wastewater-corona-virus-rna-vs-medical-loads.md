@@ -30,15 +30,13 @@ communities around Boston.  For complicated reasons, they divide the data into n
 
 ## Research question  
 
-Does wastewater viral RNA level predict loads on the medical system like hospitalizations,
-possibly a couple weeks later?  
-
-If __yes__, then we have a very nice community exposure measure to use for setting isolation
+_Does wastewater viral RNA level predict loads on the medical system like hospitalizations,
+possibly a couple weeks later?_  
+- If __yes__, then we have a very nice community exposure measure to use for setting isolation
 policy and planning for surges in medical resource needs: a model like a time series
 [ARMA(p, q)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 
 model, or even a simple regression model could be quite useful.  
-
-If __no__, then&hellip; we really don't know _what_ the heck is going on!  
+- If __no__, then&hellip; we really don't know _what_ the heck is going on!  
 
 ## Data  
 
@@ -77,7 +75,7 @@ any errors, and
 - to see if the 2 districts were sufficiently correlated that it might make sense to
 combine them by taking their mean, as an overall Boston metro RNA signal.   
 
-![Correlation of north and south district wastewater RNA]({{ site.baseurl  }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-north-south.png)
+![Correlation of north and south district wastewater RNA]({{ site.baseurl }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-north-south.png "Correlation of north and south district wastewater RNA")
 
 On the left is the time course plot, for the northern &amp; southern districts.  
 - The RNA levels are 7 day trailing averages, so they correspond to the 7 day curves shown
@@ -99,12 +97,29 @@ by taking the mean of north &amp; south measurements on a given day makes sense.
 it might make sense to combine the original data, _then_ take the 7 day rolling average.
 We did not explore that.)  
 
-![Relationship of mean RNA to medical loads]({{ site.baseurl  }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-med-loads-vs-RNA.png)
+Now we can start looking at the relationship between the mean RNA level and the
+hospitalization rate and death rate (rates per day, averaged over the trailing 7 days).  
+
+![Relationship of mean RNA to medical loads]({{ site.baseurl  }}/images/2020-11-04-wastewater-corona-virus-rna-vs-medical-loads-plot-med-loads-vs-RNA.png "Relationship of mean RNA to medical loads")
+
+On the left is a time course showing the RNA level (steel blue), the hospitalization rate
+(green), and the death rate (red).  I've divided it into first &amp; second wave periods,
+splitting at July 1 where teh curves appear to return to baseline (and this blog was
+started; remember correlation is not causation!).  
+- Note that in Wave 1, the RNA goes up first, then a couple days later the infection rates
+go up, and a week or so later the death rate goes up.  The same thing happens on the
+down side of Wave 1, where the RNA goes down _first_, followed by the others.  This is
+approximately what we expected to see, and would have made a fine short-term predictor
+for medical loads coming in the next week or so.  
+- _Would have._  Because note in Wave 2, this relationship of medical loads to RNA is
+  broken!  The RNA rises beginning mid-October, just as fast as Wave 1 and (so far) about
+  half as high.  But&hellip; the hospitalization and death rates remain unmoved!  
 
 
 
 ## Conclusions  
 
+<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="365" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 ...
 
 <sup id="fn1a">[[1](#fn1)]</sup>
