@@ -137,7 +137,7 @@ __But is this just a cell line thing, of no relevance to actual patients?__  The
 something similar in patient samples (Figure EV-1), to similar effect.  On the left are
 the gene expressions levels of CH25H in epithelia from bronchoalveolar lavage (basically
 they wasn your lungs from the inside and collect the goop; doesn't that sound pleasant?)
-in healthy, moderate, and sever COVID patients.  The differences are statistically
+in healthy, moderate, and severe COVID patients.  The differences are statistically
 significant by $t$-test ($p \leq 0.01$ or $p \leq 0.05$).  On the right are the gene
 expression fold inductions (ratio of infected to normal patient levels); note that CH25H
 is induced about 4 times more in infected patients.  (They did not report significance
