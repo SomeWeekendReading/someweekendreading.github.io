@@ -34,7 +34,7 @@ _Does wastewater viral RNA level predict loads on the medical system like hospit
 possibly a couple weeks later?_  
 - If __yes__, then we have a very nice community exposure measure to use for setting isolation
 policy and planning for surges in medical resource needs: a model like a time series
-[ARMA(p, q)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 
+[ARMA(_p_, _q_)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 
 model, or even a simple regression model could be quite useful.  
 - If __no__, then&hellip; we really don't know _what_ the heck is going on!  
 
@@ -118,15 +118,15 @@ half as high.  But&hellip; the hospitalization and death rates remain unmoved!
 On the right, we scatterplot the medical load (hospitalization & death rates) vs the
 wastewater RNA.  We do that separately, with Wave 1 using circular points and Wave 2 using
 square points.  
-- Note that the circular points very roughly confirm an increase the medical load when the RNA
-rises.  It's not linear, or much of anything, but the medical load gets bigger with a
-lot of noise.  
-- But look at the square points, all along the bottom: the RNA goes up and&hellip;
-_nothing_.  
+- Note that the circular Wave 1 points very roughly confirm an increase the medical load when the RNA
+rises.  It's not linear, or much of anything, but the medical load gets bigger with a lot of noise.  
+- But look at the square Wave 2 points, all along the bottom: the RNA goes up and&hellip; _nothing_.  
 
 Now, normally I'd go on from here to build some regression models with a time lag to
-predict medical load from RNA, or an ARMA(p, q) time series model.  But when the data says
-_both yes and no_ to predictive power, there's no point in doing that until we understand
+predict medical load from RNA, or an 
+[ARMA(_p_, _q_)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model)
+time series model.  But when the data says _both yes and no_ to predictive power, there's
+no point in doing that until we understand
 why.  
 
 ## Conclusions  
@@ -138,24 +138,26 @@ leading indicator of medical load in the immediate future, but the second wave s
 So we cannot say anything meaningful, beyond "well, _that's_ weird".  
 
 Why might this be?  
-- __Treatments:__ We're entering the territory of speculation here, but among other things, we've learned
-a lot about COVID-19 in the last 7 months.  We know not to do some things
-(hydroxychloroquine), and we know to some others (dexamethasone to calm the cytokine
+- __Treatments:__ We're entering the territory of speculation here, but among other things, 
+we've learned a lot about COVID-19 in the last 7 months.  We know not to do some things
+(hydroxychloroquine), and we know to do some others (dexamethasone to calm the cytokine
 storm, put patients in prone position &mdash; on their stomachs &mdash; when on a
 ventilator, and so on).  Maybe that's affecting hospitalizations and deaths?  If so, that
-might mean something is _working right_.  
-- __Demographics:__ Also, I hear rumors that the demographics of COVID patients in hospitals is changing.  In
-Wave 1, we didn't yet fear COVID sufficiently, so we got patients from all strata of
-society.  Now, all the elderly and those with complicating conditions realize that COVID
-will likely kill them, so they're very cautious.  That leaves us with the enormous student
-population, who are attempting to party in secret.  They may be passing the virus around,
-with asymptomatic or low symptom results, thus no associated hospitalizations.  They may not
-understand the long-term damage COVID does even to the young.  If COVID breaks out of
-their population and gets
-into their professors, families, and others, it will be _really_ ugly.  
+might mean something is _working right_, for once.  
+- __Demographics:__ Also, I hear rumors that the demographics of COVID patients in
+hospitals is changing.  In Wave 1, we didn't yet fear COVID sufficiently. So, we got
+patients from all strata of society.  Now, all the elderly and those with high-risk
+conditions realize that COVID will likely kill them, so they're very cautious about
+avoiding it.  That leaves us with the enormous young/student population, who are attempting to
+party in secret.  They may be passing the virus around, with asymptomatic or low symptom
+results, thus no associated hospitalizations even though they increase the wastewater RNA.  
+They may not understand the long-term damage COVID does even to the young.  If COVID 
+breaks out of their population and gets into their professors, families, and others 
+this winter, it will be _really_ ugly.  
 
 Or it could be something completely different.  The reasons above are just _stories_ I
-made up, not data.  
+made up, not data.  Grizzled old statisticians and other quantitative folk don't trust
+_stories_.  
 
 All we can conclude is that, based on these data, the wastewater RNA content looked
 promising, then it stopped working, and we don't know _why!_  
