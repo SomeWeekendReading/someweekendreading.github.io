@@ -511,7 +511,7 @@ reason, and intellect has intended us to forego their use."
 &mdash; [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)  
 
 ["E pur si muove!"](https://en.wikipedia.org/wiki/E_pur_si_muove!) (And yet it moves!)
-&mdash [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), allegedly muttered 
+&mdash; [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), allegedly muttered 
 under his breath after being [forced](https://en.wikipedia.org/wiki/Galileo_affair) by the 
 [Inquisition](https://en.wikipedia.org/wiki/Inquisition) to recant his belief that
 the earth orbits the sun.  
