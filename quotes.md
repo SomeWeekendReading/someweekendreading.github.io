@@ -297,6 +297,9 @@ wisdom." &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_M
 "Μὴ κίνη χέραδασ." (If you are squeamish, don't prod the beach rubble.)
 &mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)
 
+"What cannot be said will be wept."
+&mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)
+
 
 ## Those of Rational &amp; Scientific Bent
 
