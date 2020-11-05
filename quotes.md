@@ -294,6 +294,9 @@ in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)
 "We can be knowledgeable with other men’s knowledge but we cannot be wise with other men’s
 wisdom." &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)  
 
+"Μὴ κίνη χέραδασ." (If you are squeamish, don't prod the beach rubble.)
+&mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)
+
 
 ## Those of Rational &amp; Scientific Bent
 
@@ -621,6 +624,16 @@ things to admire in humanity than to despise."
 world." &mdash; [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), a
 formulation of his [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative), 
 basically saying "What if everybody did that?"
+
+"&hellip; skepticism means that, whatever one's doubts, one must act as if one can make
+a difference." 
+&mdash; [John William Ward](https://en.wikipedia.org/wiki/John_William_Ward_(professor)),
+chair of the Ward Commission investigating corruption in public construction in
+Massachusetts in the 1980s, quoted in Mark L. Wolf's opinion piece, 
+["A death foreshadowed"](http://archive.boston.com/news/globe/editorial_opinion/oped/articles/2006/07/23/a_death_foreshadowed/), 
+_Boston Globe_, Sunday July 23, 2006, p. E9.  Wolf is cheif judge of the US District
+Courts for the District of Massachusetts, and was one of the first successful prosecutors
+of public figures using the powers resulting from the Ward Commission's work.  
 
 
 ## The Index Invested Ones  
