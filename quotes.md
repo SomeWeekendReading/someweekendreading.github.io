@@ -283,7 +283,7 @@ in _The General Theory of Employment, Interest and Money_.
 "Justice is what love looks like in public, just like tenderness is what love feels like
 in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)  
 
-"Nemo enim fere saltat sobrius, nisi forte insanit." (No one dances sober, unless he is insane.) &mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), [_Pro Murena vi.13_](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext:1999.02.0010%3atext=Mur.%3achapter=6%3asection=13), 64BCE.  He was discussing the ramifications of a political insult from Cato, who called a consuls a "dancer".  
+"Nemo enim fere saltat sobrius, nisi forte insanit." (No one dances sober, unless he is insane.) &mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), [_Pro Murena vi.13_](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext:1999.02.0010%3atext=Mur.%3achapter=6%3asection=13), 64BCE.  He was discussing the ramifications of a political insult from Cato, who called a consul a "dancer".  
 
 "Dignity does not consist of possessing honors, but in deserving them." 
 &mdash; [Aristotle](https://en.wikipedia.org/wiki/Aristotle)  
@@ -295,16 +295,27 @@ in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)
 wisdom." &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)  
 
 "Μὴ κίνη χέραδασ." (If you are squeamish, don't prod the beach rubble.)
-&mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)
+&mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)  
 
-"What cannot be said will be wept."
-&mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)
+"Americans can always be counted on to do the right thing - after they have exhausted
+all other possibilities." 
+&mdash; [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)  
+
+"If a free society cannot help the many who are poor, it cannot save the few who are
+rich." &mdash; President [John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy), 
+inaugural address, 1961.  
 
 
 ## Those of Rational &amp; Scientific Bent
 
 "Science says the first word on everything, and the last word on nothing." 
 &mdash; [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  
+
+["E pur si muove!"](https://en.wikipedia.org/wiki/E_pur_si_muove!) (And yet it moves!)
+&mdash [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), allegedly muttered 
+under his breath after being [forced](https://en.wikipedia.org/wiki/Galileo_affair) by the 
+[Inquisition](https://en.wikipedia.org/wiki/Inquisition) to recant his belief that
+the earth orbits the sun.  
 
 "Never attribute to malice that which can be adequately explained by stupidity." 
 &mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor) (But see also: 
@@ -637,6 +648,13 @@ Massachusetts in the 1980s, quoted in Mark L. Wolf's opinion piece,
 _Boston Globe_, Sunday July 23, 2006, p. E9.  Wolf is cheif judge of the US District
 Courts for the District of Massachusetts, and was one of the first successful prosecutors
 of public figures using the powers resulting from the Ward Commission's work.  
+
+"What cannot be said will be wept."
+&mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)  
+
+"Speaking to suffering is a skill born in empathy, and it's not easily learned. Odin
+gave up an eye for wisdom." 
+&mdash; John Isbell, in [a comment at _Crooked Timber_](https://crookedtimber.org/2005/02/28/mother-drive-bys/#comment-63301)  
 
 
 ## The Index Invested Ones  
