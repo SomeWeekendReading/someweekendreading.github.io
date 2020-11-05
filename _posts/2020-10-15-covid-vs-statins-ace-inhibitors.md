@@ -15,7 +15,7 @@ Initially I was a bit suspicious:<sup id="fn1a">[[1](#fn1)]</sup> <sup id="fn2a"
 there's some evidence that [ACE](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme) 
 inhibitors actually _increase_ the expression of 
 [ACE2](https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme_2), which SARS-COV-2
-uses to enter cells, and that would _increase_ risk.  Also, it's by a bunch of
+uses to enter cells, and that would _increase_ risk.  Also, the paper is by a bunch of
 cardiologists, apparently trying to tell us their discipline rules the world.  Finally, 
 it was a press release (reference 1), and your Weekend Editor has a rather dyspeptic view 
 of press releases.  
@@ -64,7 +64,7 @@ Here's a summary of their results.  They're measuring the odds ratio of progress
 severe COVID-19 (and recall that, as they're using logistic regression, we're always
 dealing in [log odds ratios](https://en.wikipedia.org/wiki/Logistic_regression#Logistic_function,_odds,_odds_ratio,_and_logit)).  The predictors are in the column on the left.  The thing in the
 middle is sometimes called a ["forest plot"](https://en.wikipedia.org/wiki/Forest_plot): the favorable situation (odds ratio < 1.0) is on
-the left, and unfavorable on the right.  You want to see the central blob _and_ it's 95%
+the left, and unfavorable on the right.  You want to see the central blob _and_ its 95%
 confidence interval be on one side or the other of 1.0 in order to declare that variable
 is a good predictor.  Note that: use of statins is a good predictor (and in the good
 direction); diabetes is a good predictor (in the bad direction); nothing else makes the
