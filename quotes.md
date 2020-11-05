@@ -311,12 +311,6 @@ inaugural address, 1961.
 "Science says the first word on everything, and the last word on nothing." 
 &mdash; [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  
 
-["E pur si muove!"](https://en.wikipedia.org/wiki/E_pur_si_muove!) (And yet it moves!)
-&mdash [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), allegedly muttered 
-under his breath after being [forced](https://en.wikipedia.org/wiki/Galileo_affair) by the 
-[Inquisition](https://en.wikipedia.org/wiki/Inquisition) to recant his belief that
-the earth orbits the sun.  
-
 "Never attribute to malice that which can be adequately explained by stupidity." 
 &mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor) (But see also: 
 "You have attributed conditions to villainy that simply result from stupidity." 
@@ -515,6 +509,12 @@ serpent; then he would have eaten the serpent."
 "I do not feel obliged to believe that the same God who has endowed us with sense,
 reason, and intellect has intended us to forego their use."
 &mdash; [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)  
+
+["E pur si muove!"](https://en.wikipedia.org/wiki/E_pur_si_muove!) (And yet it moves!)
+&mdash [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), allegedly muttered 
+under his breath after being [forced](https://en.wikipedia.org/wiki/Galileo_affair) by the 
+[Inquisition](https://en.wikipedia.org/wiki/Inquisition) to recant his belief that
+the earth orbits the sun.  
 
 "The Christian ideal has not been tried and found wanting; it has been found difficult
 and left untried." 
