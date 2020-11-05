@@ -150,7 +150,7 @@ Wave 1, we didn't yet fear COVID sufficiently, so we got patients from all strat
 society.  Now, all the elderly and those with complicating conditions realize that COVID
 will likely kill them, so they're very cautious.  That leaves us with the enormous student
 population, who are attempting to party in secret.  They may be passing the virus around,
-with asymptomatic or low symptom results, so no associated hospitalizations.  They may not
+with asymptomatic or low symptom results, thus no associated hospitalizations.  They may not
 understand the long-term damage COVID does even to the young.  If COVID breaks out of
 their population and gets
 into their professors, families, and others, it will be _really_ ugly.  
