@@ -132,10 +132,9 @@ why.
 ## Conclusions  
 
 <img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-
 So basically that's it: the data say _both_ "yes" and "no" as to whether wastewater RNA
 predicts medical loads.  It certainly looked like the first wave was saying the RNA was a
-leading indicator of medical load in the immediate future, but the second wave says "nah".
+leading indicator of medical load in the immediate future, but the second wave said "nah".
 So we cannot say anything meaningful, beyond "well, _that's_ weird".  
 
 Why might this be?  
