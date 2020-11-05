@@ -333,7 +333,7 @@ crazy enough to have a chance of being correct."
 
 "In adolescence, I hated life and was continually on the verge of suicide, from which,
 however, I was restrained by the desire to know more mathematics." 
-&mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
+&mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)  
 
 "Aha &ndash; what I wanted to be true would be, had I wanted the right thing to be true." 
 &mdash; [Dan Asimov](http://www.genealogy.math.ndsu.nodak.edu/html/id.phtml?id=31877), on
@@ -343,6 +343,12 @@ the Math-Fun mailing list
 tendency to die before reproducing their kind."
 &mdash; [W.V.O. Quine](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine), 
 _Natural Kinds_  
+
+"The best way to have a good idea is to have lots of ideas."
+&mdash; [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling)  
+
+"I try. I fail. I try again. I fail better." 
+&mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Samuel_Beckett)  
 
 
 ## The Statistical Ones  
@@ -593,6 +599,16 @@ need fictive concords with origins and ends, such as give meaning to lives and t
 The End they imagine will reflect their irreducibly intermediary preoccupations.  They
 fear it, and as far as we can see have always done so; the End is a figure for their own deaths."
 &mdash; [Frank Kermode](https://en.wikipedia.org/wiki/Frank_Kermode), _The Sense of an Ending_  
+
+"&hellip; to state quite simply what we learn in time of [Great Tribulation]: that there are more
+things to admire in humanity than to despise."
+&mdash [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus),
+[_The Plague_](https://en.wikipedia.org/wiki/The_Plague)  
+
+"Act that your principle of action might safely be made a law for the whole
+world." &mdash; [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), a
+formulation of his [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative), 
+basically saying "What if everybody did that?"
 
 
 ## The Index Invested Ones  
