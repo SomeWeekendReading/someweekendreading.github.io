@@ -305,6 +305,38 @@ all other possibilities."
 rich." &mdash; President [John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy), 
 inaugural address, 1961.  
 
+"Good judgement comes from experience; experience comes from bad judgement."
+&mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
+
+"Each man must for himself alone decide what is right and what is wrong, which course
+is patriotic and which isn't.  You cannot shirk this and be a man."
+&mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
+
+"Every man is a moon &mdash; he has a side no one sees."
+&mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
+
+Patriotism is supporting your country all the time, and your government when it deserves it."
+&mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
+
+"I envy university professors. They are paid to question people who know nothing but
+try very hard to say something, while I have to question people who know everything but do
+their utmost to say nothing at all." 
+&mdash; [Piercamillo Davigo](https://it.wikipedia.org/wiki/Piercamillo_Davigo), an Italian
+judge investigating corrupt politicians  
+
+"Wooden-headedness is a factor that plays a large role in government.  It consists in
+assessing a situation in terms of preconceived fixed notions while ignoring or rejecting
+any contrary signs.  It is acting according to wish while not allowing oneself to be
+deflected by the facts.  It is epitomized in a historian's statement about Phillip II of
+Spain, the surpassing wooden-head of all sovereigns: No experience of the failure of his
+policy could shake his belief in its essential excellence." 
+&mdash; my favorite historian, [Barbara Tuchman](https://en.wikipedia.org/wiki/Barbara_Tuchman), 
+_The March of Folly_.  This book is brilliantly 
+[described in Wikipedia](https://en.wikipedia.org/wiki/Barbara_Tuchman) as: "A
+meditation on the historical recurrence of governments pursuing policies evidently
+contrary to their own interests."  Not entirely by coincidence, it is also a brilliant
+description of George W. Bush and Donald J. Trump.  
+
 
 ## Those of Rational &amp; Scientific Bent
 
@@ -675,6 +707,9 @@ may be wrong, especially when you believe too firmly that you're right."
 
 "Those stock market guys are crooked." &mdash; [Al Capone](https://en.wikipedia.org/wiki/Al_Capone),
 famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](https://www.alternet.org/2009/11/bill_moyers_and_james_galbraith_our_free_market_makes_economic_collapse_inevitable/).  
+
+"Simplicity is the ultimate form of sophistication."
+&mdash; [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_vinci)  
 
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
