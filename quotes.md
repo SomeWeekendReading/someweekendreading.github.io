@@ -337,6 +337,20 @@ meditation on the historical recurrence of governments pursuing policies evident
 contrary to their own interests."  Not entirely by coincidence, it is also a brilliant
 description of George W. Bush and Donald J. Trump.  
 
+"When the facts change, I change my mind.  What do you do, sir?" 
+&mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  
+
+"The 'purposive' man is always trying to secure a spurious and delusive immortality for his
+acts by pushing his interest in them forward into time. He does not love his cat, but his
+cat’s kittens; nor, in truth, the kittens, but only the kittens’ kittens, and so on
+forward forever to the end of cat-dom. For him jam is not jam unless it is a case of jam
+to-morrow and never jam to-day. Thus by pushing his jam always forward into the future, he
+strives to secure for his act of boiling it an immortality."
+&mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes), ["Economic Possibilities for our Grandchildren"](http://www.marxists.org/reference/subject/economics/keynes/1930/our-grandchildren.htm)  
+
+"If all else fails, immortality can always be assured by spectacular error."
+&mdash; [John Kenneth Galbraith](https://en.wikipedia.org/wiki/John_Kenneth_Galbraith)  
+
 
 ## Those of Rational &amp; Scientific Bent
 

@@ -150,7 +150,7 @@ patients from all strata of society.  Now, all the elderly and those with high-r
 conditions realize that COVID will likely kill them, so they're very cautious about
 avoiding it.  That leaves us with the enormous young/student population, who are attempting to
 party in secret.  They may be passing the virus around, with asymptomatic or low symptom
-results, thus no associated hospitalizations even though they increase the wastewater RNA.  
+results, thus no associated hospitalizations even though they increase the wastewater RNA.
 They may not understand the long-term damage COVID does even to the young.  If COVID 
 breaks out of their population and gets into their professors, families, and others 
 this winter, it will be _really_ ugly.  
