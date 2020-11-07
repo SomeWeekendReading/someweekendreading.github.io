@@ -8,7 +8,7 @@ comments: true
 [Previously](https://www.someweekendreading.blog/coronavirus-winter-of-our-discontent/),
 we mentioned there were data showing the level of coronavirus RNA in metro Boston
 wastewater, and speculated that it might be predictive of medical loads like
-hospitalization and death rates.  The truth turns out to be _weirder_ than that.  Comme d'habitude.  
+hospitalization and death rates.  The truth turns out to be _weirder_ than that (comme d'habitude).  
 
 Let's&hellip;
 [_avoid_ further election anxiety](https://www.balloon-juice.com/2020/11/04/wednesday-morning-open-thread-settle-down-support-the-ongoing-count/), 
