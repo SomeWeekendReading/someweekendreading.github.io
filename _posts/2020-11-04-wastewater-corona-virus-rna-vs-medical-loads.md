@@ -145,7 +145,7 @@ Now, normally I'd go on from here to build some regression models with a time la
 predict medical load from RNA, or an 
 [ARMA(_p_, _q_)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model)
 time series model.  But when the data say _both yes and no_ to predictive power, there's
-no point in doing that until we understand _why_!  
+no point in doing that until we understand _why!_  
 
 ## Conclusions  
 
