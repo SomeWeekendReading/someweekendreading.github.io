@@ -126,23 +126,25 @@ We can test this by looking at the correlations between RNA and medical loads.  
 just the Wave 1 data, the Pearson correlation matrix is indicates $R \sim 0.77, 0.68$
 which is pretty good predictive evidence for RNA:  
 ```
+             RNA.7 hospIncr.7 deadIncr.7
 RNA.7         1.00       0.77       0.68
-hospIncr.7               1.00       0.81
-deadIncr.7                          1.00
+hospIncr.7      -        1.00       0.81
+deadIncr.7      -          -        1.00
 ```
 
 But if you look at the Wave 2 data, the situation is quite different, with Pearson $R \sim
 0.10, 0.14$, i.e., miserably bad evidence of predictivity of RNA:  
 ```
+             RNA.7 hospIncr.7 deadIncr.7
 RNA.7         1.00       0.10       0.14
-hospIncr.7               1.00       0.71
-deadIncr.7                          1.00
+hospIncr.7      -        1.00       0.71
+deadIncr.7      -          -        1.00
 ```
 
 Now, normally I'd go on from here to build some regression models with a time lag to
 predict medical load from RNA, or an 
 [ARMA(_p_, _q_)](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model)
-time series model.  But when the data says _both yes and no_ to predictive power, there's
+time series model.  But when the data say _both yes and no_ to predictive power, there's
 no point in doing that until we understand _why_!  
 
 ## Conclusions  
