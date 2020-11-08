@@ -419,6 +419,12 @@ _Natural Kinds_
 "I try. I fail. I try again. I fail better." 
 &mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Samuel_Beckett)  
 
+"A university student should know something about everything, and everything about 
+something."  &mdash; [Anatole France](https://en.wikipedia.org/wiki/Anatole_France)  
+
+A horselaugh is worth a thousand syllogisms. 
+&mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
+
 
 ## The Statistical Ones  
 
@@ -684,6 +690,10 @@ things to admire in humanity than to despise."
 world." &mdash; [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), a
 formulation of his [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative), 
 basically saying "What if everybody did that?"
+
+"Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades
+gezimmert werden." (Out of the crooked timber of humanity no straight thing was ever made.)
+&mdash; [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 
 "&hellip; skepticism means that, whatever one's doubts, one must act as if one can make
 a difference." 
