@@ -351,6 +351,9 @@ strives to secure for his act of boiling it an immortality."
 "If all else fails, immortality can always be assured by spectacular error."
 &mdash; [John Kenneth Galbraith](https://en.wikipedia.org/wiki/John_Kenneth_Galbraith)  
 
+"Never tell people _how_ to do things. Tell them _what_ to do, and they will surprise you with
+their ingenuity." &mdash; [George S. Patton](https://en.wikipedia.org/wiki/George_S._Patton)
+
 
 ## Those of Rational &amp; Scientific Bent
 
@@ -422,7 +425,7 @@ _Natural Kinds_
 "A university student should know something about everything, and everything about 
 something."  &mdash; [Anatole France](https://en.wikipedia.org/wiki/Anatole_France)  
 
-A horselaugh is worth a thousand syllogisms. 
+"A horselaugh is worth a thousand syllogisms."
 &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
 
 
@@ -761,3 +764,4 @@ famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](https://
 - "If you don't have a solution, you can always admire the problem."  
 - "An archetype is what you get when you factor-analyze a real person."  
 - "Look&hellip; if I could _explain_ it, it wouldn't _be_ transcendant in the first place, now would it?"  
+- "Footnotes are your friends."  
