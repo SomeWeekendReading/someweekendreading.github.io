@@ -174,8 +174,8 @@ breaks out of their population and gets into their professors, families, and oth
 this winter, it will be _really_ ugly.  
 
 Or it could be something completely different.  The reasons above are just _stories_ I
-made up, not data.  Grizzled old statisticians and other quantitative folk don't trust
-_stories_.  
+made up, not data.  Grizzled old statisticians (and other quantitative folk) don't trust
+_stories_; we trust _data_.  
 
 All we can conclude is that, based on these data, the wastewater RNA content looked
 promising, then it stopped working, and we don't know _why!_  
