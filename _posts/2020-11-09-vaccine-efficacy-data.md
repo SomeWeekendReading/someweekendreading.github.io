@@ -8,9 +8,11 @@ comments: true
 Today the Pfizer/BioNTech vaccine trial gave its _first interim_ readout: 90% efficacy.
 This is unabashedly good news.  
 
+<img src="{{ site.baseurl }}/images/2020-11-09-vaccine-efficacy-data-pfizer-press-release.png" width="400" height="250" alt="Pfizer/BioNTech efficacy press release" title="Pfizer/BioNTech efficacy press release" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 This is an _interim_ readout from Pfizer &amp; BioNTech <sup id="fn1a">[[reference 1](#fn1)]</sup>,
-meaning it's an early look at the data using simplified analyses.  But&hellip; 90%
-efficacy is very good news, indeed!  
+meaning it's an early look at the data using simplified analyses.  And it's just a press
+release: a bit of corporate propaganda to which your Weekend Editor has allergies, instead
+of peer-reviewed science.  But still&hellip; 90% efficacy is very good news, indeed!  
 
 I'm very slightly surprised that Moderna wasn't the first to do an interim readout, since
 they looked slightly ahead.  But, a lot of this sort of thing is down to random chance, so
@@ -65,7 +67,7 @@ But at least we have preliminary evidence that it's _possible_ to make a coronav
 vaccine.  
 
 I won't go into the details here.  You can read the Pfizer/BioNTech press release in 
-<sup id="fn1a">[[reference 1](#fn1)]</sup>, or you can read Derek Lowe's excellent summary
+[reference 1](#fn1), or you can read Derek Lowe's excellent summary
 of it in <sup id="fn2a">[[reference 2](#fn2)]</sup>.  
 
 ---
