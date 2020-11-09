@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pfizer/BioNTech vaccine readout&colon; 90% efficacy!
+title: Pfizer/BioNTech vaccine interim readout&colon; 90% efficacy!
 tags: COVID MathInTheNews
 comments: true
 ---
