@@ -63,12 +63,12 @@ they can be developed _very_ quickly.
   
 ## Remember the good news  
   
-But at least we have preliminary evidence that it's _possible_ to make a coronavirus
+At least we have preliminary evidence that it's _possible_ to make a coronavirus
 vaccine.  
 
 I won't go into the details here.  You can read the Pfizer/BioNTech press release in 
 [reference 1](#fn1), or you can read Derek Lowe's excellent summary
-of it in <sup id="fn2a">[[reference 2](#fn2)]</sup>.  
+in <sup id="fn2a">[[reference 2](#fn2)]</sup>.  
 
 ---
 
