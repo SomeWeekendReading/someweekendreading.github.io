@@ -180,6 +180,26 @@ _stories_; we trust _data_.
 All we can conclude is that, based on these data, the wastewater RNA content looked
 promising, then it stopped working, and we don't know _why!_  
 
+## Added 2020-Nov-08  
+
+The venerable _Globe_ reports something similar (reference 5).  People are surviving
+COVID-19 a bit better, and for approximately the reasons we speculated above:  
+>&hellip; local doctors theorize that a higher percentage of infections among younger
+>people, improved understanding of how to treat the illness, and less stress on hospital
+>systems have contributed to the change.  
+
+The thing to watch for is contagion from the young to the old in the next few weeks.
+Also, we've stopped some of the stupidity we practiced earlier:  
+> In the early days of the pandemic, people who tested positive or had early symptoms were
+> advised to go home and come back only if they got sicker.  
+
+Combine this with improved infection control in nursing homes, and a reduction in the
+death rate starts to make sense.  (Massachusetts deaths remain low at approximately
+20/day.  That's what passes for "good news" nowadays, I guess.)  
+
+Still doesn't explain why the RNA levels in wastewater don't predict the _infection_ rate,
+even if it doesn't predict the death rate.  
+
 ---
 
 ## References  
@@ -191,3 +211,5 @@ promising, then it stopped working, and we don't know _why!_
 3. Weekend Editor, [analysis script in R]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis/), _Some Weekend Reading_, 2020-11-04.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis-transcript/).  
 
 4. Weekend Editor, [joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-joint-data/), _Some Weekend Reading_, 2020-11-04.  
+
+5. F Freyer, ["People sick with COVID-19 face better odds of survival"](https://www.bostonglobe.com/2020/11/08/metro/people-sick-with-covid-19-face-better-odds-survival/?s_campaign=coronavirusnow:newsletter), _Boston Globe_, 2020-Nov-08.  
