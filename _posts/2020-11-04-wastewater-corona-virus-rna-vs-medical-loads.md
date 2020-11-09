@@ -180,7 +180,7 @@ _stories_; we trust _data_.
 All we can conclude is that, based on these data, the wastewater RNA content looked
 promising, then it stopped working, and we don't know _why!_  
 
-## Added 2020-Nov-08  
+## Added 2020-Nov-08:  
 
 The venerable _Globe_ reports something similar (reference 5).  People are surviving
 COVID-19 a bit better, and for approximately the reasons we speculated above:  
