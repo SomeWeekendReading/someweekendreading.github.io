@@ -79,11 +79,11 @@ so we can just repurpose that machinery.  Let's use the following notation:
 $$
 \begin{align*}
 N  & = \mbox{# patients in trial w/2nd dose} & = 38955 \\
-NT & = \mbox{# patients in treatment arm} & = N/2   \\
-NP & = \mbox{# patients in placebo arm} & = N/2   \\
+NT & = \mbox{# patients in treatment arm}    & = N/2   \\
+NP & = \mbox{# patients in placebo arm}      & = N/2   \\
 K  & = \mbox{# infections seen in both arms} & =  94   \\
-KT & = \mbox{# infections in treatment arm} & \mbox{} \\
-KP & = \mbox{# infections in placebo arm} & \mbox{}
+KT & = \mbox{# infections in treatment arm}  & \mbox{} \\
+KP & = \mbox{# infections in placebo arm}    & \mbox{} \\
 \end{align*}
 $$
 
@@ -193,14 +193,15 @@ time interval it is between now and the average enrollment date).
 These methods, of course, are wrong!  The statistically principled way to do this is using
 something called a [Cox proportional hazard model](https://en.wikipedia.org/wiki/Proportional_hazards_model), 
 a [Kaplan Meier plot](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator),
-and a [logrank $p$-value](https://en.wikipedia.org/wiki/Logrank_test).  Of course the press 
-release doesn't report enough information to do that (and if it did, the media would
-immediately garble it).  So we are forced to use more dubious methods, in adherence with
-long-held tradition:  
+and a [logrank $p$-value](https://en.wikipedia.org/wiki/Logrank_test).  The official
+analysis submitted to the FDA will certainly do that.  But for now, the press
+release doesn't report enough information to do those kinds of analyses (and if it did,
+the media would immediately garble it).  So we are forced to use more dubious methods, in
+adherence to long-held tradition:  
 
 > "If people aren't given well-founded methods &hellip;, they'll just use dubious ones instead."  &mdash; [Jonathan Tawn](https://www.lancaster.ac.uk/maths/people/jon-tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
 
-So while this is wrong, it's not great, whacking-stupid wrong.  It does indeed confirm
+So while this is wrong, it's not great-whacking-stupid wrong.  It does indeed confirm
 that even with just a few infections observed so far, the vaccine seems to work.  It's
 highly likely that the Moderna vaccine, which is also an mRNA vaccine against the same
 viral spike protein, will also work.  It's pretty likely that the other vaccines, using
