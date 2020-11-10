@@ -70,7 +70,7 @@ I won't go into the details here.  You can read the Pfizer/BioNTech press releas
 [reference 1](#fn1), or you can read Derek Lowe's excellent summary
 in <sup id="fn2a">[reference 2](#fn2)</sup>.  
 
-## Added 2020-Nov-10, because I just can't let this alone  
+## Added 2020-Nov-10, because I just can't leave this alone:  
 
 Hey, it's good news, and this is 2020, right?  I can't just walk away from this.  As
 astute readers may recall, we solved a similar problem in 
@@ -78,12 +78,12 @@ astute readers may recall, we solved a similar problem in
 so we can just repurpose that machinery.  Let's use the following notation:  
 $$
 \begin{align*}
-N  & = \mbox{\verb|#| patients in trial w/2nd dose} & = 38955 \\
-NT & = \mbox{\verb|#| patients in treatment arm}    & = N/2   \\
-NP & = \mbox{\verb|#| patients in placebo arm}      & = N/2   \\
-K  & = \mbox{\verb|#| infections seen in both arms} & =  94   \\
-KT & = \mbox{\verb|#| infections in treatment arm}  & \mbox{} \\
-KP & = \mbox{\verb|#| infections in placebo arm}    & \mbox{}
+N  & = \mbox{# patients in trial w/2nd dose} & = 38955 \\
+NT & = \mbox{# patients in treatment arm} & = N/2   \\
+NP & = \mbox{# patients in placebo arm} & = N/2   \\
+K  & = \mbox{# infections seen in both arms} & =  94   \\
+KT & = \mbox{# infections in treatment arm} & \mbox{} \\
+KP & = \mbox{# infections in placebo arm} & \mbox{}
 \end{align*}
 $$
 
@@ -95,7 +95,7 @@ KT / KP & = 0.10
 \end{align*}
 $$
 
-Solve for $KT$, $KP$:  
+Solve those 2 equations for $KT$ and $KP$:  
 $$
 \begin{align*}
 KP & = K / 1.1 & = 85.45455  \\
@@ -136,7 +136,7 @@ odds ratio
  0.1054685 
 ```
 
-The similar (slightly old-fashioned but still serviceable) 
+The similar (slightly old-fashioned, but still serviceable) 
 [test of proportion](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/prop.test)
 confirms that result:  
 ```R
@@ -190,13 +190,14 @@ way out in the tails of both.  The MAP estimators of the probability of infectio
 wrong, but not horribly so) differ by about a factor of 10: 0.4% vs 0.04% (per whatever
 time interval it is between now and the average enrollment date).  
 
-That method, of course, is wrong!  The statistically principled way to do this is using
-something called a [Cox proportional hazard
-model](https://en.wikipedia.org/wiki/Proportional_hazards_model), 
+These methods, of course, are wrong!  The statistically principled way to do this is using
+something called a [Cox proportional hazard model](https://en.wikipedia.org/wiki/Proportional_hazards_model), 
 a [Kaplan Meier plot](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator),
-and a logrank $p$-value.  Of course the press release doesn't report enough information to
-do that (and if it did, the media would immediately garble it).  So we are forced to use
-more dubious methods, in adherence with the long-held tradition:  
+and a [logrank $p$-value](https://en.wikipedia.org/wiki/Logrank_test).  Of course the press 
+
+release doesn't report enough information to do that (and if it did, the media would
+immediately garble it).  So we are forced to use more dubious methods, in adherence with
+long-held tradition:  
 
 > "If people aren't given well-founded methods &hellip;, they'll just use dubious ones instead."  &mdash; [Jonathan Tawn](https://www.lancaster.ac.uk/maths/people/jon-tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
 
