@@ -81,9 +81,9 @@ $$
 N  & = \mbox{# patients in trial w/2nd dose} & = 38955 \\
 NT & = \mbox{# patients in treatment arm}    & = N/2   \\
 NP & = \mbox{# patients in placebo arm}      & = N/2   \\
-K  & = \mbox{# infections seen in both arms} & =  94   \\
+K  & = \mbox{# infections seen in both arms} & = 94    \\
 KT & = \mbox{# infections in treatment arm}  & \mbox{} \\
-KP & = \mbox{# infections in placebo arm}    & \mbox{} \\
+KP & = \mbox{# infections in placebo arm}    & \mbox{}
 \end{align*}
 $$
 
@@ -201,7 +201,7 @@ adherence to long-held tradition:
 
 > "If people aren't given well-founded methods &hellip;, they'll just use dubious ones instead."  &mdash; [Jonathan Tawn](https://www.lancaster.ac.uk/maths/people/jon-tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
 
-So while this is wrong, it's not great-whacking-stupid wrong.  It does indeed confirm
+So while this is wrong, it's not _great-whacking-stupid_ wrong.  It does indeed confirm
 that even with just a few infections observed so far, the vaccine seems to work.  It's
 highly likely that the Moderna vaccine, which is also an mRNA vaccine against the same
 viral spike protein, will also work.  It's pretty likely that the other vaccines, using
