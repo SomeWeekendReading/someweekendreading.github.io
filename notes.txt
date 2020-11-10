@@ -344,19 +344,6 @@ Scalzi: Instead, Donald Trump received seventy million, four hundred thousand vo
 * ...?
 --------------------
 
-N=38955 (have rec'd 2nd dose)
-k=94
-
-kT + kP = 94   --> 1.1 * kP = 94 --> kP = 85.45, kT = 8.54
-kT = 0.10 * kP
-
-So let's go with NP = N/2 = 19477.5 and kP = 85
-                 NT = N/2 = 19477.5 and kT =  9
-
-What is posterior beta for pP and pT, the probability of infection in placebo & treatment arms?
-
-pP ~ Beta(NP+1, kP+1)
-pT ~ Beta(NT+1, kT+1)
 
 pbinom(9, 94, c(0.1,0.2,0.3)) # probability of 9 or less in 94 trials at p=0.1, 0.2, 0.3
 [1] 5.321499e-01 5.165619e-03 1.865777e-06
@@ -368,5 +355,6 @@ Or... flip a coin 94 times, count how many heads you get. It’s going to be mor
 So, 85 infections in placebo subjects and 9 in active-dose subjects (rounding case count to make it “above 90%” as 8+86 would be under 90%), with a bit less than 38,955 subjects eligible for the analysis (a bit less since the endpoint in this trial starts 1 week after the second dose). Assume 1:1 randomization was accurate.
 
 That gives a relative risk of 0.1 (as expected), with a 95% confidence interval of 0.054 to 0.214. The NNT is approximately 250. The p-value has lots of zeros between the decimal point and the first non-zero digit.
+
 
 --------------------
