@@ -78,12 +78,12 @@ astute readers may recall, we solved a similar problem in
 so we can just repurpose that machinery.  Let's use the following notation:  
 $$
 \begin{align*}
-N  & = \mbox{\# patients in trial w/2nd dose} & = 38955 \\
-NT & = \mbox{\# patients in treatment arm}    & = N/2   \\
-NP & = \mbox{\# patients in placebo arm}      & = N/2   \\
-K  & = \mbox{\# infections seen in both arms} & =  94   \\
-KT & = \mbox{\# infections in treatment arm}  &         \\
-KP & = \mbox{\# infections in placebo arm}    & 
+N  & = \mbox{\verb|#| patients in trial w/2nd dose} & = 38955 \\
+NT & = \mbox{\verb|#| patients in treatment arm}    & = N/2   \\
+NP & = \mbox{\verb|#| patients in placebo arm}      & = N/2   \\
+K  & = \mbox{\verb|#| infections seen in both arms} & =  94   \\
+KT & = \mbox{\verb|#| infections in treatment arm}  & \mbox{} \\
+KP & = \mbox{\verb|#| infections in placebo arm}    & \mbox{}
 \end{align*}
 $$
 
@@ -91,11 +91,11 @@ Then, by conservation of patients and the 90% efficacy claim, we know that:
 $$
 \begin{align*}
 KT + KP & = K \\
-KT / KP & = 0.10, \mbox{what we assume they mean by "90% efficacy"}
+KT / KP & = 0.10
 \end{align*}
 $$
 
-Solve for $KT$, $KP$:
+Solve for $KT$, $KP$:  
 $$
 \begin{align*}
 KP & = K / 1.1 & = 85.45455  \\
@@ -157,13 +157,13 @@ sample estimates:
 If we think like a Bayesian for a moment, we realize that each arm took a bunch of people,
 did something to them, and then measured the probability per unit time, $p$, of getting infected
 in each group.  We can start from a prior uniform distribution for $p$, where we assume we
-know nothing at all about the likely value of $p$: $\Pr(p) \sim \mbox{Uniform}(0, 1)$.  
-Then [the Bayesian posterior distributions are Beta distributions](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading14a.pdf):
+know nothing at all about the likely value of $p$: $\Pr(p) \sim \mbox{Uniform}(0, 1)$.
+Then [the Bayesian posterior distributions are Beta distributions](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading14a.pdf):  
 
 $$
 \begin{align*}
-Pr(pP | \mbox{placebo})    & \sim Beta(KP + 1, NP - KP + 1) \\
-Pr(pT | \mbox{treatment})  & \sim Beta(KT + 1, NT - KT + 1) \\
+\Pr(pP | \mbox{placebo})    & \sim Beta(KP + 1, NP - KP + 1) \\
+\Pr(pT | \mbox{treatment})  & \sim Beta(KT + 1, NT - KT + 1) \\
 \end{align*}
 $$
 
@@ -188,7 +188,7 @@ Here we see that the distributions are indeed quite distinct; the equiprobabilit
 way out in the tails of both.  The MAP estimators of the probability of infection per time
 (here we're rashly assuming all patients are in the trial for the same time which is
 wrong, but not horribly so) differ by about a factor of 10: 0.4% vs 0.04% (per whatever
-time interval it is between now and the average enrollment date.  
+time interval it is between now and the average enrollment date).  
 
 That method, of course, is wrong!  The statistically principled way to do this is using
 something called a [Cox proportional hazard
