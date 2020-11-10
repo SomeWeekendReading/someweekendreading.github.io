@@ -162,8 +162,8 @@ Then [the Bayesian posterior distributions are Beta distributions](https://ocw.m
 
 $$
 \begin{align*}
-\Pr(pP | \mbox{placebo})    & \sim Beta(KP + 1, NP - KP + 1) \\
-\Pr(pT | \mbox{treatment})  & \sim Beta(KT + 1, NT - KT + 1) \\
+& \Pr(pP | \mbox{placebo})    & \sim \mathrm{Beta}(KP + 1, NP - KP + 1) \\
+& \Pr(pT | \mbox{treatment})  & \sim \mathrm{Beta}(KT + 1, NT - KT + 1)
 \end{align*}
 $$
 
