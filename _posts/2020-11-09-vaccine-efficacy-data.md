@@ -28,9 +28,9 @@ they can be developed _very_ quickly.
 
 - Being an _interim_ readout, there is a chance that the final results will weaken the
   result.  
-- We're talking about a study with $N = 43,538$ participants, and we've thus far seen only
-  94 COVID cases in both treatment & control arms, total.  That is a very small fraction
-  of the total (about 0.2%)!  
+- We're talking about a study with $N = 38,955$ participants who have received both doses, 
+  and we've thus far seen only 94 COVID cases in both treatment & control arms, total.
+  That is a very small fraction of the total (about 0.2%)!  
 - The initial study design called for an interim readout at 32 cases, and while the FDA
   was negotiating a protocol amendment to increase that to 62 cases, the number of cases 
   climbed up to 94.  We really have let political dysfunction lead into uncontrolled
@@ -41,8 +41,8 @@ they can be developed _very_ quickly.
 - Protection looks like it will last at least a year.  Possibly longer, but even so, it's
   acceptable to get an annual booster shot until the virus is stamped out of human
   circulation.  
-- Strangely, Pence tried to claim to day that the Trump administrations Operation Warp
-  Speed helped; Pfizer was quick to deny that they were ever part of that, nor had they
+- Strangely, Pence tried to claim today that the Trump administrations Operation Warp
+  Speed helped.  Pfizer was quick to deny that they were ever part of that, nor had they
   ever taken money from the Trump administration for this.  So, at least that got slapped
   down quickly.  
 - The required safety data is not yet in hand.  We want to see at least 2 months of safety
@@ -50,8 +50,8 @@ they can be developed _very_ quickly.
   be vaccinated, but thin ice if you're going to vaccinate billions.  After all, if you
   have a billion patients, then one-in-a-million events are going to crop up about 1,000
   times.  
-- The vaccine requires an onerous cold chain of -70C freezers.  That's going to be
-  hideously difficult in most of the world, where you take the vaccine out of the -70C
+- The vaccine requires an onerous cold chain of -70&deg;C freezers.  That's going to be
+  hideously difficult in most of the world, where you take the vaccine out of the -70&deg;C
   freezer, dry ice pack it, and from that moment you're on a short timeline with the clock
   ticking away the minutes until you get it into a patient.  I have literally no idea how
   that can work in the developing world; even in the US, Europe, and Japan it's difficult
@@ -61,14 +61,14 @@ they can be developed _very_ quickly.
   immunity built up after the second dose.  So... isolation is the rule of the day for at
   least 8 more months.  
   
-## Remember the good news  
+## But hey, remember the good news  
   
 At least we have preliminary evidence that it's _possible_ to make a coronavirus
 vaccine.  
 
 I won't go into the details here.  You can read the Pfizer/BioNTech press release in 
 [reference 1](#fn1), or you can read Derek Lowe's excellent summary
-in <sup id="fn2a">[[reference 2](#fn2)]</sup>.  
+in <sup id="fn2a">[reference 2](#fn2)</sup>.  
 
 ---
 
