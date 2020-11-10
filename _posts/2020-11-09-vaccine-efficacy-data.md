@@ -78,27 +78,27 @@ astute readers may recall, we solved a similar problem in
 so we can just repurpose that machinery.  Let's use the following notation:  
 $$
 \begin{align*}
-N  & = \mbox{\# patients in trial w/2nd dose} & = 38955 
-NT & = \mbox{\# patients in treatment arm}    & = N/2
-NP & = \mbox{\# patients in placebo arm}      & = N/2
-K  & = \mbox{\# infections seen in both arms} & =  94
-KT & = \mbox{\# infections in treatment arm}  &
+N  & = \mbox{\# patients in trial w/2nd dose} & = 38955 \\
+NT & = \mbox{\# patients in treatment arm}    & = N/2   \\
+NP & = \mbox{\# patients in placebo arm}      & = N/2   \\
+K  & = \mbox{\# infections seen in both arms} & =  94   \\
+KT & = \mbox{\# infections in treatment arm}  &         \\
 KP & = \mbox{\# infections in placebo arm}    & 
-\end{align*}                             &
+\end{align*}
 $$
 
 Then, by conservation of patients and the 90% efficacy claim, we know that:  
 $$
 \begin{align*}
-(a) KT + KP = K
-(b) KT / KP = 0.10, \mbox{what we assume they mean by "90% efficacy"}
+KT + KP & = K \\
+KT / KP & = 0.10, \mbox{what we assume they mean by "90% efficacy"}
 \end{align*}
 $$
 
 Solve for $KT$, $KP$:
 $$
 \begin{align*}
-KP & = K / 1.1 & = 85.45455
+KP & = K / 1.1 & = 85.45455  \\
 KT & = K - KP  & =  8.545455
 \end{align*}
 $$
@@ -162,8 +162,8 @@ Then [the Bayesian posterior distributions are Beta distributions](https://ocw.m
 
 $$
 \begin{align*}
-Pr(pP | \mbox{placebo})    & \sim Beta(KP + 1, NP - KP + 1)
-Pr(pT | \mbox{treatment})  & \sim Beta(KT + 1, NT - KT + 1)
+Pr(pP | \mbox{placebo})    & \sim Beta(KP + 1, NP - KP + 1) \\
+Pr(pT | \mbox{treatment})  & \sim Beta(KT + 1, NT - KT + 1) \\
 \end{align*}
 $$
 
