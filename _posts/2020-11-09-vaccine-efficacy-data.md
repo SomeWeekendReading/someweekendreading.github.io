@@ -98,7 +98,7 @@ $$
 Solve those 2 equations for $KT$ and $KP$:  
 $$
 \begin{align*}
-KP & = K / 1.1 & = 85.45455  \\
+KP & = K / 1.1 & = 85.45455 \\
 KT & = K - KP  & =  8.545455
 \end{align*}
 $$
@@ -194,7 +194,6 @@ These methods, of course, are wrong!  The statistically principled way to do thi
 something called a [Cox proportional hazard model](https://en.wikipedia.org/wiki/Proportional_hazards_model), 
 a [Kaplan Meier plot](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator),
 and a [logrank $p$-value](https://en.wikipedia.org/wiki/Logrank_test).  Of course the press 
-
 release doesn't report enough information to do that (and if it did, the media would
 immediately garble it).  So we are forced to use more dubious methods, in adherence with
 long-held tradition:  
