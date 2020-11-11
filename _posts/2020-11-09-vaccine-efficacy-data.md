@@ -210,6 +210,10 @@ different technology, will also work.
 And it's dead certain that we're going to have a sea change in the vaccine industry,
 moving to more mRNA vaccines in the future.  That's even more good news.  
 
+## Added 2020-Nov-11  
+
+There's a nice Bayesian view of this result at _Economics and R_, reposted on [_R-bloggers_](https://www.r-bloggers.com/), specifically see <sup id="fn3a">[[reference 3](#fn3)]</sup>.  
+
 ---
 
 ## Notes &amp; References  
@@ -217,3 +221,5 @@ moving to more mRNA vaccines in the future.  That's even more good news.
 <a id="fn1">1</a>: Pfizer & BioNTech, ["Pfizer and Biontech announce vaccine candidate against COVID-19 achieved success in first interim analysis from Phase 3 study"](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against), Pfizer.com press releases, 2020-Nov-09.[↩](#fn1a)  
 
 <a id="fn2">2</a>: D Lowe, ["Vaccine Efficacy Data!"](https://blogs.sciencemag.org/pipeline/archives/2020/11/09/vaccine-efficacy-data), _In the Pipeline_ blog at _SciTranslMed_, 2020-Nov-09.[↩](#fn2a)  
+
+<a id="fn3">3</a>: _Economics and R_, ["A look at the Biontech/Pfizer's Bayesian analysis of their Covid-19 vaccine trial"](https://www.r-bloggers.com/2020/11/a-look-at-biontech-pfizers-bayesian-analysis-of-their-covid-19-vaccine-trial/), reposted in [_R-bloggers_](https://www.r-bloggers.com/).[↩](#fn2a)  
