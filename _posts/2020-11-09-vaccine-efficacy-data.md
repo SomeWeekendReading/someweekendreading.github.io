@@ -213,9 +213,10 @@ moving to more mRNA vaccines in the future.  That's even more good news.
 ## Added 2020-Nov-11  
 
 There's a nice Bayesian view of this result at _Economics and R_, reposted on [_R-bloggers_](https://www.r-bloggers.com/), specifically see <sup id="fn3a">[[reference 3](#fn3)]</sup>
-and <sup id="fn4a">[[reference 4](#fn4)]</sup> (written by someone who took the trouble to
-dig through the actual clinical trial protocol document, which earns my respect; they find
-the point estimate is more like 97% for a variety of technical reasons).  
+and from _Fells Stats_ <sup id="fn4a">[[reference 4](#fn4)]</sup> (written by someone 
+who took the trouble to dig through the actual clinical trial protocol document, which
+earns my respect; they find the point estimate is more like 97% for a variety of technical
+reasons).  
 
 ---
 
