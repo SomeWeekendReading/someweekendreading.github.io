@@ -180,7 +180,7 @@ they should be.
 
 > source("~/Documents/laboratory/tools/graphics-tools.r")
 
-> withPNG("./images/2020-11-09-vaccine-efficacy-data.png", 600, 300, FALSE, function() { withPars(function() { matplot(ps, matrix(c(pTs, pPs), byrow = FALSE, ncol = 2), type = "l", lty = "solid", col = c("blue", "black"), xlab = "p", ylab = "Density", main = "Posterior Beta Distribution: Infection Probability by Trial Arm"); legend("topright", inset = 0.01, bg = "antiquewhite", legend = c(sprintf("Treatment MAP: %.5f", ps[which.max(pTs)]), sprintf("Control MAP:      %.5f", ps[which.max(pPs)])), col = c("blue", "black"), lty = "solid", lwd = 2) }, pty = "m", bg = "transparent", ps = 16, mar = c(3, 3, 2, 1), mgp = c(1.7, 0.5, 0)) })
+> withPNG("./images/2020-11-09-vaccine-efficacy-data.png", 600, 300, FALSE, function() { withPars(function() { matplot(ps, matrix(c(pTs, pPs), byrow = FALSE, ncol = 2), type = "l", lty = "solid", col = c("blue", "black"), xlab = "p", ylab = "Density", main = "Posterior Beta Distribution: Infection Probability by Trial Arm"); legend("topright", inset = 0.01, bg = "antiquewhite", legend = c(sprintf("Treatment MAP: %.5f", ps[which.max(pTs)]), sprintf("Placebo MAP:     %.5f", ps[which.max(pPs)])), col = c("blue", "black"), lty = "solid", lwd = 2) }, pty = "m", bg = "transparent", ps = 16, mar = c(3, 3, 2, 1), mgp = c(1.7, 0.5, 0)) })
 ```
 
 <a href="{{ site.baseurl }}/images/2020-11-09-vaccine-efficacy-data.png" target="_blank"><img src="{{ site.baseurl }}/images/2020-11-09-vaccine-efficacy-data.png" height="150" width="300" alt="Bayesian posteriors" title="Bayesian posteriors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
