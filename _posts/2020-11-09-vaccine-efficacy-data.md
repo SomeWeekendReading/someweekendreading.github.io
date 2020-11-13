@@ -218,6 +218,11 @@ who took the trouble to dig through the actual clinical trial protocol document,
 earns my respect; they find the point estimate is more like 97% for a variety of technical
 reasons).  
 
+## Added 2020-Nov-12  
+
+Zvi, over at [_Less Wrong_](https://www.lesswrong.com), wrote 
+[a nice summary of another sort](https://www.lesswrong.com/posts/L4dWWjYPXxm64p2oA/covid-11-12-the-winds-of-winter).  
+
 ---
 
 ## Notes &amp; References  
