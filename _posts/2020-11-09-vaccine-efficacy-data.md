@@ -221,7 +221,8 @@ reasons).
 ## Added 2020-Nov-12  
 
 Zvi, over at [_Less Wrong_](https://www.lesswrong.com), wrote 
-[a nice summary of another sort](https://www.lesswrong.com/posts/L4dWWjYPXxm64p2oA/covid-11-12-the-winds-of-winter).  
+[a nice summary of another sort](https://www.lesswrong.com/posts/L4dWWjYPXxm64p2oA/covid-11-12-the-winds-of-winter)
+<sup id="fn5a">[[reference 5](#fn5)]</sup>.  
 
 ---
 
@@ -234,3 +235,6 @@ Zvi, over at [_Less Wrong_](https://www.lesswrong.com), wrote
 <a id="fn3">3</a>: _Economics and R_, ["A look at the Biontech/Pfizer's Bayesian analysis of their Covid-19 vaccine trial"](https://www.r-bloggers.com/2020/11/a-look-at-biontech-pfizers-bayesian-analysis-of-their-covid-19-vaccine-trial/), reposted in [_R-bloggers_](https://www.r-bloggers.com/).[↩](#fn3a)  
 
 <a id="fn4">4</a>: _Fells Stats_, ["The Pfizer-Biontech Vaccine May Be A Lot More Effective Than You Think"](https://www.r-bloggers.com/2020/11/the-pfizer-biontech-vaccine-may-be-a-lot-more-effective-than-you-think/), reposted in [_R-bloggers_](https://www.r-bloggers.com/).[↩](#fn4a)  
+
+<a id="fn5">5</a>: Zvi, ["Covid 11/12: The Winds of Winter"](https://www.lesswrong.com/posts/L4dWWjYPXxm64p2oA/covid-11-12-the-winds-of-winter), [_Less Wrong_](https://www.lesswrong.com/), 2020-Nov-12
+(reposted from [_Don't Worry About the Vase_](https://thezvi.wordpress.com/).[↩](#fn5a)  
