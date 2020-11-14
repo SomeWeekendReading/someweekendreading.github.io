@@ -80,7 +80,8 @@ the Billionaire's Club isn't the point; but doing everything within your reach i
 point of [_mip'nei tikkun ha'olam_](https://en.wikipedia.org/wiki/Tikkun_olam):  
 > Do not be daunted by the enormity of the world's grief.  Do justly, now.  Love mercy,
 > now.  Walk humbly, now.  You are not obligated to complete the work, but neither are you
-> free to abandon it. &mdash; Rabbi Tarfon, _Pirke Avot_ 2:21, _Talmud_
+> free to abandon it. &mdash; Rabbi Tarfon, _Pirkei Avot_ 2:16, _Talmud_ (_very_
+> approximately; actually a mix of sources)  
 
 ---
 

@@ -641,6 +641,16 @@ for human beings."
 "... to speak about God and remain silent on Vietnam is blasphemous."
 &mdash; [Rabbi Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel)  
 
+"Do not be daunted by the enormity of the world’s grief. Do justly, now. Love mercy,
+now. Walk humbly, now. You are not obligated to complete the work, but neither are you
+free to abandon it." &mdash; Rabbi Tarfon, 
+[Pirkei Avot](https://en.wikipedia.org/wiki/Pirkei_Avot) 
+[2:16](https://www.sefaria.org/Pirkei_Avot.2.16?lang=bi&with=all&lang2=en), 
+[Talmud](https://en.wikipedia.org/wiki/Talmud) (This popularized version rather mangles
+the original; it appears to be 
+[from a mix of sources](https://merrimackvalleyhavurah.wordpress.com/2018/06/23/fake-news-fake-quotes/)
+including the book of Micah, the Pirkei Avot, and a modern day text.)  
+
 "We want experiences, fitting ones, of profound connection with others, of deep
 understanding of natural phenomena, of love, of being profoundly moved by music or
 tragedy, or doing something new and innovative, experiences very different from the bounce
