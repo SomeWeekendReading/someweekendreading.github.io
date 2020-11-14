@@ -649,7 +649,8 @@ free to abandon it." &mdash; Rabbi Tarfon,
 [Talmud](https://en.wikipedia.org/wiki/Talmud) (This popularized version rather mangles
 the original; it appears to be 
 [from a mix of sources](https://merrimackvalleyhavurah.wordpress.com/2018/06/23/fake-news-fake-quotes/)
-including the book of Micah, the Pirkei Avot, and a modern day text.)  
+including the book of Micah 6:8, the Pirkei Avot 2:16, and 
+[a modern day translation by Rami Shapiro of Pirke Avot](https://smile.amazon.com/Wisdom-Jewish-Sages-Modern-Reading/dp/0517799669/).)  
 
 "We want experiences, fitting ones, of profound connection with others, of deep
 understanding of natural phenomena, of love, of being profoundly moved by music or
