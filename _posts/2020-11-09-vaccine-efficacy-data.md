@@ -190,6 +190,8 @@ way out in the tails of both.  The MAP estimators of the probability of infectio
 wrong, but not horribly so) differ by about a factor of 10: 0.4% vs 0.04% (per whatever
 time interval it is between now and the average enrollment date).  
 
+## Why That's All Wrong  
+
 These methods, of course, are wrong!  The statistically principled way to do this is using
 something called a [Cox proportional hazard model](https://en.wikipedia.org/wiki/Proportional_hazards_model), 
 a [Kaplan Meier plot](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator),
