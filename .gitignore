@@ -1,5 +1,6 @@
 _site
 .DS_Store
+.Rhistory
 .jekyll
 .jekyll-metadata
 .bundle
