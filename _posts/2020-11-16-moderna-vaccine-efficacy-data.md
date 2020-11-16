@@ -44,7 +44,8 @@ just this once.  Some numbers:
 - mRNA-1273 has been tested in "more than" $N = 30,000$ participants, presumably equally
   divided into placebo and treatment arms.  
 - Thus far, 95 cases of COVID-19 have been observed; 90 were in the placebo arm and 5 were
-  in the treatment arm.  This leads to an efficacy of 94.5%.  
+  in the treatment arm.  This leads to a stupid-simple point estimate of efficacy of 
+  (95 - 5) / 95 = 94.7%.  That's close enough to the more sophisticated 94.5% reported by Moderna.  
 - A secondary endpoint of preventing severe COVID-19 was even more interesting, with 11
   cases in the placebo arm and 0 in the treatment arm.  
 - The 95 COVID-19 cases were 15 people age 65+, 20 people identifying as non-white (12
