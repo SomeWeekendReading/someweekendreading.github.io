@@ -138,6 +138,7 @@ Do you think we're not gonna at least _try_ to repeat
 [the spot-check we did for the Pfizer vaccine readout](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/#added-2020-nov-10-because-i-just-cant-leave-this-alone)?  
 
 Notation:  
+$$
 \begin{align*}
 N  & = \mbox{# patients in trial w/2nd dose} & = 30000 \\
 NT & = \mbox{# patients in treatment arm}    & = N/2   \\
