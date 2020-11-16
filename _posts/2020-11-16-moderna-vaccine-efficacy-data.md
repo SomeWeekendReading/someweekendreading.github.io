@@ -240,7 +240,7 @@ $$
 <a href="{{ site.baseurl }}/images/2020-11-16-moderna-vaccine-efficacy-data-severe.png" target="_blank"><img src="{{ site.baseurl }}/images/2020-11-16-moderna-vaccine-efficacy-data-severe.png" height="150" width="300" alt="Bayesian posterior for severe COVID-19" title="Bayesian posterior for severe COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 As you can see, the probability of severe COVID-19 infection is not exactly 0.  With only
 11 observations, we have relatively broad error bands here!  But at least it's
-concentrated down pretty low, with a median of about 5.8%.  
+concentrated down pretty low, with a median of about 5.8%.  Not bad, for 11 observations&hellip;
 
 ## This analysis is still wrong  
 
