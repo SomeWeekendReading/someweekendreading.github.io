@@ -144,7 +144,7 @@ N  & = \mbox{# patients in trial w/2nd dose} & = 30000 \\
 NT & = \mbox{# patients in treatment arm}    & = N/2   \\
 NP & = \mbox{# patients in placebo arm}      & = N/2   \\
 K  & = \mbox{# infections seen in both arms} & = 95    \\
-KT & = \mbox{# infections in treatment arm}  & =  5 \\
+KT & = \mbox{# infections in treatment arm}  & =  5    \\
 KP & = \mbox{# infections in placebo arm}    & = 90
 \end{align*}
 $$
@@ -220,6 +220,28 @@ $$
 Just as in the Pfizer case, the distributions are indeed quite distinct.  The MAP
 estimators show the probability per unit time of infection in the arms differ by about a
 factor of 20, even stronger than the factor of 10 we found with the Pfizer vaccine.  
+
+Finally, with 11 severe infections in the control arm and 0 in the treatment what
+should we believe about the probability of severe infection in the treatment arm?  The
+obvious point estimate is $pS = 0$, but we can do the posterior Beta distribution trick
+there, too:  
+$$
+Pr(pS | \mbox{treatment}) \sim \mathrm{Beta}(0 + 1, 11 + 1)
+$$
+
+<!-- How to get the median in here? -->
+```R
+> ps  <- seq(from = 0.0, to = 1.0, length.out = 1000)
+> pSs <- dbeta(ps, shape1 = 1, shape2 = 12)
+> med <- median(rbeta(n = 1000, shape1 = 1, shape2 = 12))
+
+> withPNG("./images/2020-11-16-moderna-vaccine-efficacy-data-severe.png", 600, 300, FALSE, function() { withPars(function() { plot(ps, pSs, type = "l", lty = "solid", col = "blue", xlim = c(0.0, 1.0), xlab = "p", ylab = "Density", main = "Posterior Beta: Severe Infection After Treatment"); abline(v = med, lty = "dashed", col = "black"); legend("topright", inset = 0.01, bg = "antiquewhite", legend = sprintf("Median: %.1f%%", 100.0 * med)) }, pty = "m", bg = "transparent", ps = 16, mar = c(3, 3, 2, 1), mgp = c(1.7, 0.5, 0)) })
+```
+
+<a href="{{ site.baseurl }}/images/2020-11-16-moderna-vaccine-efficacy-severe.png" target="_blank"><img src="{{ site.baseurl }}/images/2020-11-16-moderna-vaccine-efficacy-severe.png" height="150" width="300" alt="Bayesian posterior for severe COVID-19" title="Bayesian posterior for severe COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+As you can see, the probability of severe COVID-19 infection is not exactly 0.  With only
+11 observations, we have relatively broad error bands here!  But at least it's
+concentrated down pretty low, with a median of about 5.8%.  
 
 ## This analysis is still wrong  
 
