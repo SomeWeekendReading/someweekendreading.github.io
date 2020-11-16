@@ -141,7 +141,6 @@ The similar (slightly old-fashioned, but still serviceable)
 confirms that result:  
 ```R
 > prop.test(mx)
-
 	2-sample test for equality of proportions with continuity correction
 
 data:  mx
