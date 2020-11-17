@@ -210,6 +210,6 @@ even if it doesn't predict the death rate.
 
 3. Weekend Editor, [analysis script in R]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis/), _Some Weekend Reading_, 2020-11-04.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis-transcript/).  
 
-4. Weekend Editor, [joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-joint-data/), _Some Weekend Reading_, 2020-11-04.  
+4. Weekend Editor, [joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-joint-data.tsv), _Some Weekend Reading_, 2020-11-04.  
 
 5. F Freyer, ["People sick with COVID-19 face better odds of survival"](https://www.bostonglobe.com/2020/11/08/metro/people-sick-with-covid-19-face-better-odds-survival/?s_campaign=coronavirusnow:newsletter), _Boston Globe_, 2020-Nov-08.  
