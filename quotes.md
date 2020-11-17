@@ -428,6 +428,19 @@ something."  &mdash; [Anatole France](https://en.wikipedia.org/wiki/Anatole_Fran
 "A horselaugh is worth a thousand syllogisms."
 &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
 
+"Die Welt ist alles, was der Fall ist." (The world is all that is the case.)
+&mdash; [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein),
+[_Tractatus_](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus), Proposition 1
+(How the _Tractatus_ begins.  Wittgenstein is famous for near-incomprehensible prose.  It
+might be deep, it might be trivial.  Or, it might be both: seeing the depth in the
+ordinariness of things.  Ah, but _which_&hellip;)  
+
+"Wovon man nicht sprechen kann, dar&uuml;ber mu&szlig; man schweigen." (Whereof one cannot
+speak, thereof must one remain silent.) 
+&mdash; [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein),
+[_Tractatus_](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus), Proposition 7
+(at which point the _Tractatus_ ends)  
+
 
 ## The Statistical Ones  
 
