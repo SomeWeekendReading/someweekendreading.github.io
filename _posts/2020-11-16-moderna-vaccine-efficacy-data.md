@@ -180,6 +180,11 @@ odds ratio
 0.05523721 
 ```
 
+The odds ratio above of 0.055 is what translates to an efficacy of 1 - 0.055 = 94.5%.  The
+95% confidence limits on the odds ratio of 0.018 &ndash; 0.134 mean the 95% confidence
+limit on the efficacy is 86.6% &ndash; 98.2%.  So we're 97.5% confident that the efficacy
+is above 86.6%.  
+
 Significance test, by [test of proportion](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/prop.test),
 confirms statistical significance:  
 ```R
