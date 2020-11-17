@@ -81,7 +81,7 @@ logistics folks breathing a sigh of relief: the standard medical infrastructure 
 handles stuff like that.  
 
 There's still stuff to do, as he points out:  
-> there are several other categories that could differentiate all the vaccine candidates: point efficacy (as we have now, 14 days after the second), effect on severity of disease when it does occur, duration of efficacy (which we’ll need time for, and there’s no other way), overall safety (which also needs big numbers and will sharpen with longer time points), and whatever differences in all these categories may show up in different patient populations.  
+> &hellip;there are several other categories that could differentiate all the vaccine candidates: point efficacy (as we have now, 14 days after the second), effect on severity of disease when it does occur, duration of efficacy (which we’ll need time for, and there’s no other way), overall safety (which also needs big numbers and will sharpen with longer time points), and whatever differences in all these categories may show up in different patient populations.  
 
 ## Summary: the Good Stuff  
 
@@ -249,7 +249,8 @@ $$
 <a href="{{ site.baseurl }}/images/2020-11-16-moderna-vaccine-efficacy-data-severe.png" target="_blank"><img src="{{ site.baseurl }}/images/2020-11-16-moderna-vaccine-efficacy-data-severe.png" height="150" width="300" alt="Bayesian posterior for severe COVID-19" title="Bayesian posterior for severe COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 As you can see, the probability of severe COVID-19 infection is not exactly 0.  With only
 11 observations, we have relatively broad error bands here!  But at least it's
-concentrated down pretty low, with a median of about 5.8%.  Not bad, for 11 observations&hellip;
+concentrated down pretty low, with a median of about 5.8%.  Not bad, for 11
+observations&hellip; I'll take that.  
 
 ## This analysis is still wrong  
 

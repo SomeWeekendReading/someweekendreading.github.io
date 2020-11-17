@@ -441,6 +441,9 @@ speak, thereof must one remain silent.)
 [_Tractatus_](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus), Proposition 7
 (at which point the _Tractatus_ ends)  
 
+"There is no permanent place in the world for ugly mathematics."
+&mdash; [G. H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
+
 
 ## The Statistical Ones  
 
