@@ -45,7 +45,10 @@ just this once.  Some numbers:
   divided into placebo and treatment arms.  
 - Thus far, 95 cases of COVID-19 have been observed; 90 were in the placebo arm and 5 were
   in the treatment arm.  This leads to a simple-minded point estimate of efficacy of 
-  (95 - 5) / 95 = 94.7%.  That's close enough to the more sophisticated 94.5% reported by Moderna.  
+  (95 - 5) / 95 = 94.7%.  That's close enough to the more sophisticated 94.5% reported by
+  Moderna (see the [Fisher exact test below for a slightly more sophisticated way](#some-analyses) 
+  that gets Moderna's number and a confidence interval on it, but is 
+  [still kind of wrong for a survival problem](#this-analysis-is-still-wrong)).  
 - A secondary endpoint of preventing severe COVID-19 was even more interesting, with 11
   cases in the placebo arm and 0 in the treatment arm.  
 - The 95 COVID-19 cases were 15 people age 65+, 20 people identifying as non-white (12
