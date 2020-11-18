@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A thought on COVID vaccine protection persistence
+title: On COVID vaccine protection persistence
 tags: COVID MathInTheNews
 comments: true
 ---
