@@ -208,7 +208,7 @@ even if it doesn't predict the death rate.
 
 2. Massachusetts Water Resources Authority, [Biobot wastewater RNA data](http://www.mwra.com/biobot/biobotdata.htm), retrieved 2020-Nov-02.  
 
-3. Weekend Editor, [analysis script in R]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis/), _Some Weekend Reading_, 2020-11-04.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis-transcript/).  
+3. Weekend Editor, [analysis script in R]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis.r), _Some Weekend Reading_, 2020-11-04.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-analysis-transcript/).  
 
 4. Weekend Editor, [joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2020-11-04-wastewater-coronavirus-rna-vs-medical-loads-joint-data.tsv), _Some Weekend Reading_, 2020-11-04.  
 

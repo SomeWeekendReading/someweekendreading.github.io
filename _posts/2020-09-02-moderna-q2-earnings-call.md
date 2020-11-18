@@ -52,7 +52,7 @@ stage of trials they're in, what results have been approved by the regulatory bo
 release, etc.  They will do this until submission to the FDA and hope for approval, or
 until they fail (in which case they often sink beneath the waves like a rock, never to be
 seen again except in case of lawsuit).  So here on slide 7 you see the stuff they have
-going on that they want to tell you about.  THe know you want to hear all about COVID-19
+going on that they want to tell you about.  They know you want to hear all about COVID-19
 vaccines, but they're gonna make you sit through reports on their CMV &amp; Zika vaccines
 now that they have your ear.  
 

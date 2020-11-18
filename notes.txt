@@ -341,4 +341,21 @@ Scalzi: Instead, Donald Trump received seventy million, four hundred thousand vo
   in guiding field, need 3rd eqn: quantum equil hypothesis, more or less Born's rule.
   Exact same results as QM, but particle is in 1 place always.  But more non-local than
   QM: guiding field dep on ALL particles to be measured, can't make QFT.
+* chi-square rebalancing criterion vs 5/25 vs absolute drift vs ...
 * ...?
+--------------------
+
+
+pbinom(9, 94, c(0.1,0.2,0.3)) # probability of 9 or less in 94 trials at p=0.1, 0.2, 0.3
+[1] 5.321499e-01 5.165619e-03 1.865777e-06
+
+I.e., with 10% chance of a given infection being in the treatment arm, 90% in the control arm (not exactly the same as 90% efficacy, but close at this limit), there’s about 50-50 chance of these results or better (fewer infections in the treatment arm), rising to 20% chance (~75% efficacy) it becomes about 0.5% chance we’d get these results, at 30% chance (~60% efficacy) these results are about 2 million to one.
+
+Or... flip a coin 94 times, count how many heads you get. It’s going to be more than 9, I’ll be quite surprised if it’s less than 30.
+----------
+So, 85 infections in placebo subjects and 9 in active-dose subjects (rounding case count to make it “above 90%” as 8+86 would be under 90%), with a bit less than 38,955 subjects eligible for the analysis (a bit less since the endpoint in this trial starts 1 week after the second dose). Assume 1:1 randomization was accurate.
+
+That gives a relative risk of 0.1 (as expected), with a 95% confidence interval of 0.054 to 0.214. The NNT is approximately 250. The p-value has lots of zeros between the decimal point and the first non-zero digit.
+
+
+--------------------
