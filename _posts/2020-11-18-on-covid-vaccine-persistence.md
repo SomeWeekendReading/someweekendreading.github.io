@@ -11,7 +11,7 @@ now?
 
 Unsurprisingly, very little.  Really the only way to know is to vaccinate a bunch of
 people and watch them for a couple of years.  The animal data looked pretty good before
-the clinical trials, but it _always_ looks good or the human trial wouldn't have been
+the clinical trials, but it _always_ looks good or the human trials wouldn't have been
 allowed to start.  
 
 Over at [_In the Pipeline_](https://blogs.sciencemag.org/pipeline), Derek Lowe wrote about
@@ -27,7 +27,8 @@ medical literature!  It basically says that at 6 months post-infection:
 - the spike-specific B cells that form immune memory were still abundant,
 - the CD4+ and CD8+ T cells that do the actual work were slowly decaying with a half life
   of about 3-5 months, as one would expect of an immune system slowly standing down after
-  an infection.
+  an infection.  
+
 That's the good news.  
 
 <img src="{{ site.baseurl }}/images/2020-11-18-thought-on-vaccine-persistence-dan-abs.jpg" width="269" height="144" alt="Dan, et al. on SARS-COV-2 spike antibodies over time" title="Dan, et al. on SARS-COV-2 spike antibodies over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
