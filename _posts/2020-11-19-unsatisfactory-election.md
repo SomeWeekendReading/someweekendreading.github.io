@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Well&hellip; that was somewhat&hellip; _unsatisfactory_
+title: Well&hellip; that was somewhat&hellip; <em>unsatisfactory</em>
 tags: Politics
 comments: true
 ---
