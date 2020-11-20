@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Well, that was somewhat&hellip; <em>unsatisfactory</em>
+title: Well, that was somewhat&hellip; <em>unsatisfying</em>
 tags: Politics
 comments: true
 ---
@@ -19,7 +19,7 @@ thousand but leaving the result unchanged: a win for Biden by a 0.2% margin of G
 
 So Biden wins the Electoral College, 306 Biden to 232 Trump; 270 required to win.  There
 are, unfortunately, a number of complex steps that must happen next in the arcane,
-archaic, and downright silly US election system.  Trump seems hell-bent (and I use the
+archaic, and downright silly US election system.  Trump seems hell-bent (and I use that
 term in its proper theological sense) on interfering at each stage:  
 1. He began suing in every state he could, to assert there was widespread election fraud. He's lost every one of those suits, because there is no such evidence.  Trump even fired his DHS chief of CISA (Cybersecurity and Infrastructure Security Agency) this week <sup id="fn2a">[[2](#fn2)]</sup> for disagreeing and pointing out this was probably the most secure election in US history, refuting Trump's rather desperate claims of fraud everywhere.  (And really: if Democrats rigged the election for Biden, why didn't they pick up a few Senators along the way, as long as they were in there?)  
 2. Each state must next "certify" the vote, i.e., give their official imprimatur on the resuts as genuine.  In Michigan, Trump has tried to interfere with this by getting the Republican members of the canvassing board to withold certification. <sup id="fn3a">[[3](#fn3)]</sup>  There was also some discussion of certifying the vote for all of the state _except for Detroit_, which is heavily Democratic and thus would flip the state back to Trump.  Aside from the general chaos, a deadlocked certification would mean the legislatures could decide the matter.  In states with Republican legislatures, this would mean they could (theoretically) throw out the election votes and send Electoral College electors for Trump instead.  
