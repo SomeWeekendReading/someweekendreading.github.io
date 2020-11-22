@@ -704,15 +704,14 @@ doubt." &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russel
 
 "The best lack all conviction, while the worst are full of passionate intensity." &mdash; [William Butler Yeats](https://en.wikipedia.org/wiki/W._B._Yeats), ["The Second Coming"](https://en.wikipedia.org/wiki/The_Second_Coming_(poem))  
 
-"Forgive him , for he believes that the customs of his tribe are the laws of nature."
+"Forgive him, for he believes that the customs of his tribe are the laws of nature."
 &mdash; [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)  
 
 "&hellip; the first sign of civilization in an ancient culture was a femur 
 that had been broken and then healed." &mdash; attributed to anthropologist
 [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead),
 quoted in Ira Byock, 
-[_The Best Care Possible: A Physician’s Quest to Transform Care Through the End of Life_](https://www.goodreads.com/book/show/12669445-the-best-care-possible) (Avery, 2012).  Byock goes on to explain:
-"&hellip; broken femur that has healed is evidence that someone has taken time to stay with the one who fell, has bound up the wound, has carried the person to safety and has tended the person through recovery. Helping someone else through difficulty is where civilization starts. We are at our best when we serve others. Be civilized."  
+[_The Best Care Possible: A Physician’s Quest to Transform Care Through the End of Life_](https://www.goodreads.com/book/show/12669445-the-best-care-possible) (Avery, 2012).  Byock goes on to explain: "&hellip; broken femur that has healed is evidence that someone has taken time to stay with the one who fell, has bound up the wound, has carried the person to safety and has tended the person through recovery. Helping someone else through difficulty is where civilization starts. We are at our best when we serve others. Be civilized."  (It appears, though, that Mead never said anything like this.)  
 
 "Men, like poets, rush 'into the middest', _in medias res_, when they
 are born; they also die _in mediis rebus_, and to make sense of their span they
@@ -723,13 +722,13 @@ fear it, and as far as we can see have always done so; the End is a figure for t
 
 "&hellip; to state quite simply what we learn in time of [Great Tribulation]: that there are more
 things to admire in humanity than to despise."
-&mdash [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus),
+&mdash; [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus),
 [_The Plague_](https://en.wikipedia.org/wiki/The_Plague)  
 
 "Act that your principle of action might safely be made a law for the whole
 world." &mdash; [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), a
 formulation of his [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative), 
-basically saying "What if everybody did that?"
+basically asking "What if everybody did that?"
 
 "Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades
 gezimmert werden." (Out of the crooked timber of humanity no straight thing was ever made.)
