@@ -165,7 +165,7 @@ not [the cat](https://www.heinleinsociety.org/concordance/P_HC.htm#petroniusthea
 &mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), Roman 
 statesman/orator/writer (106-43 BCE)  NB: Rome ruled for another 5 centuries  
 
-"The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true." &mdash; [James Branch Cabell](https://en.wikipedia.org/wiki/James_Branch_Cabell)  
+"The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true." &mdash; [James Branch Cabell](https://en.wikipedia.org/wiki/James_Branch_Cabell) in [_The Silver Stallion: A Comedy of Redemption_](https://www.google.com/books/edition/The_Silver_Stallion/x0h0M6HHfHwC?hl=en&gbpv=1&printsec=frontcover) (1926), Book Four: Coth at Porutsa, Chapter 26: The Realist in Defeat.  
 
 "You need &hellip; to know that you are fit for something better than slavery and cannon
 fodder." &mdash; [Eugene V. Debs](https://en.wikipedia.org/wiki/Eugene_Debs), 

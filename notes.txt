@@ -280,7 +280,6 @@ Post topics: "though borrowing trouble is often my wont" as an anxiety-prone dep
 Blog posts:
 * Click chemotherapy (in the pipeline: https://blogs.sciencemag.org/pipeline/archives/2020/10/28/click-chemotherapy)
 * Impact of election years on stock returns (old weekend reading)
-* Lifetime of COVID-19 abs (email of 2020-oct-27)
 * Sam's game (email of 2016-Nov-20)
 * Solstice sun times
 * Yield curve model
@@ -304,7 +303,7 @@ Blog posts:
 * Continued fraction expansion of probability distributions
 * Rational polynomial models of the treasury yield curve
 * Conformal mapping, heat tranfer, and wind chill: why is it so damn cold out there?
-* The Numen and the Noumenon
+* The Numen and the Noumenon (Gnosis and Phronesis?)
 * Sutor, non ultra crepidam!
 * Meyers-Briggs Type Inventory: Valid Personality Test, or HR Woo?
 * My retirement portfolio
