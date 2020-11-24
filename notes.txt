@@ -278,6 +278,14 @@ Notes on blogging tech.
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* US Elections Project calculates the voting-eligible population to be 239,247,182. Popular vote number are of course still not-quite-complete, but let’s use Cook Political Report’s estimate a/o today to size up four factions:
+
+33.3% (79,827,486) voted Biden/Harris
+30.8% (73,793,739) voted  Trump/Pence
+1.1% (2,862,679) voted third-party
+34.6% (82,839,370 — the largest faction) didn’t vote
+
+Cook estimates that 156,483,904 valid votes have been so far recorded.
 * Click chemotherapy (in the pipeline: https://blogs.sciencemag.org/pipeline/archives/2020/10/28/click-chemotherapy)
 * Impact of election years on stock returns (old weekend reading)
 * Sam's game (email of 2016-Nov-20)

@@ -798,7 +798,7 @@ famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](https://
 - "Certainty is just an excuse not to listen to new evidence."  
 - "Just because you see an example of something being done badly doesn't mean it cannot also be done well."  
 - "Scientists talk about nature; cranks talk about themselves."  
-- "It never pays to humiliate an opponent.  Defeat, disarm, divert, coopt, compromise, befriend, &hellip; never humiliate.  
+- "It never pays to humiliate an opponent.  Defeat, disarm, divert, coopt, compromise, befriend, &hellip; never humiliate."  
 - "If you're gonna lose your grip on reality, let go with _both_ hands.  No half measures!"  
 - "If you don't have a solution, you can always admire the problem."  
 - "An archetype is what you get when you factor-analyze a real person."  
