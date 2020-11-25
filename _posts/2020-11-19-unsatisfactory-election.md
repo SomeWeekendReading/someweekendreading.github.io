@@ -31,7 +31,7 @@ So&hellip; lots of places for things to go wrong.
 
 As if that's not enough, _both_ Georgia's Senate races go to a run-off on 2021-Jan-05.  Democrats must win both of them, or the Senate will stay Republican.  A Republican Senate means no judges confirmed, no legislation on health care, tax reform, climate change, or _anything_.  Mitch McConnell (R-KY) has already said he wants veto power over any Biden cabinet appointments.  His record as a dog in the manger, blocking _everything_ is well-documented.  
 
-So getting _anything_ moving in the US depends on winning both those Senate seats in Florida, at which point the Senate will be 50-50 with Vice President Harris casting tie-breaking votes.  Democrats will still have difficulty doing anything, since they will need absolute unanimity to get all 50 Democratic Senators on board; the most conservative Democrats will effectively have veto power.  And that's the _best_ outcome.  
+So getting _anything_ moving in the US depends on winning both those Senate seats in Georgia, at which point the Senate will be 50-50 with Vice President Harris casting tie-breaking votes.  Democrats will still have difficulty doing anything, since they will need absolute unanimity to get all 50 Democratic Senators on board; the most conservative Democrats will effectively have veto power.  And that's the _best_ outcome.  
 
 So here at Chez Weekend, we donated (a _small_ amount of) money to the Warnock and Ossof campaigns for Senate in Georgia.  We did it through the [Warren Democrats page for flipping the Senate at ActBlue](https://secure.actblue.com/donate/wd-ew-jo-rw/), but you can find other ways to give them a few bucks and maybe save the world.  Please do that, if you can.  
 
