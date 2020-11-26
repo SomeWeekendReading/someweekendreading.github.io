@@ -752,7 +752,10 @@ gave up an eye for wisdom."
 &mdash; John Isbell, in [a comment at _Crooked Timber_](https://crookedtimber.org/2005/02/28/mother-drive-bys/#comment-63301)  
 
 "Wisdom is a virtue of old age, and it seems to come only to those who, when young, were
-neither wise nor prudent." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt)
+neither wise nor prudent." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt)  
+
+"The sad truth is that most evil is done by people who never make up their minds to be
+good or evil." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt)  
 
 
 ## The Index Invested Ones  
