@@ -80,6 +80,11 @@ true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thoma
 in 1798, after the passage of the 
 [Alien and Sedition Acts](https://en.wikipedia.org/wiki/Alien_and_sedition_acts)  
 
+"We live in capitalism; its power seems inescapable. So did the divine right of kings."
+&mdash; [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin), accepting 
+the National Book Foundation’s Medal for Distinguished Contribution to American Letters 
+at the 65th National Book Awards on November 19, 2014.
+
 "Well, most politicians have nothing against reason, but they won't go out of their way
 to visit it."  &mdash; linguist [Geoffrey Nunberg](https://en.wikipedia.org/wiki/Geoffrey_Nunberg), 
 interviewed in Anna Mundow, "The Interview: with Geoffrey Nunberg", _Boston Globe_,
@@ -126,6 +131,10 @@ admitted a principle that I hardly think any gentleman will deny it."
 that some people have no conception of evidence and regard facts as just someone else’s
 opinion." &mdash; [Thomas Sowell](https://en.wikipedia.org/wiki/Thomas_Sowell) (though in
 general, I don't care much for his other opinions)  
+
+"&hellip;each new generation born is in effect an invasion of civilization by little barbarians,
+who must be civilized before it is too late." 
+&mdash; [Thomas Sowell](https://en.wikipedia.org/wiki/Thomas_Sowell)
 
 "The more compelling our journalism, the angrier the radical right of the Republican
 Party gets.  That's because the one thing they loathe more than liberals is the truth."
@@ -380,11 +389,37 @@ need of an angry magistrate for the punishment of foolish and wicked men."
 "Science says the first word on everything, and the last word on nothing." 
 &mdash; [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  
 
+"The scientist does not study nature because it is useful; he studies it because he
+delights in it, and he delights in it because it is beautiful." 
+&mdash; [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)  
+
+"Physics is very muddled again at the moment; it is much too hard for me anyway, and I wish
+I were a movie comedian or something like that and had never heard anything about physics!"
+&mdash; [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli),
+1925 in the process of being one of the founders of quantum mechanics  
+
+"I do not like it, and I am sorry I ever had anything to do with it." 
+&mdash; [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), 
+on quantum mechanics (talk about _misplaced_ regrets!)  
+
+"A method is more important than a discovery, since the right method will lead to new and
+even more important discoveries." &mdash; [Lev Landau](https://en.wikipedia.org/wiki/Lev_Landau)  
+
+"The secret is comprised in three words -- Work.  Finish.  Publish." 
+&mdash; [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday), 
+in response to being asked the secret of being a great scientist  
+
 "Never attribute to malice that which can be adequately explained by stupidity." 
 &mdash; [Hanlon's razor (1980)](https://en.wikipedia.org/wiki/Hanlon's_razor) (But see also: 
 "You have attributed conditions to villainy that simply result from stupidity." 
 &mdash; [Robert Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein), 
 ["Logic of Empire" (1941)](https://en.wikipedia.org/wiki/Logic_of_Empire))  
+
+"Being intelligent is not a felony. But most societies evaluate it as at least a
+misdemeanor." &mdash; [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)  
+
+"Everything in the universe is the fruit of chance and of necessity." 
+&mdash; [Democritus](https://en.wikipedia.org/wiki/Democritus)  
 
 "What is true is already so.  
 Owning up to it doesn’t make it worse.  
