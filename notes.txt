@@ -278,6 +278,7 @@ Notes on blogging tech.
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* AZ/Ox vaccine email of 2020-Nov-26
 * US Elections Project calculates the voting-eligible population to be 239,247,182. Popular vote number are of course still not-quite-complete, but let’s use Cook Political Report’s estimate a/o today to size up four factions:
 
 33.3% (79,827,486) voted Biden/Harris
