@@ -11,7 +11,7 @@ date: 2020-07-01
 [Fran&ccedil;ois-Marie Arouet, a.k.a. &lsquo;Voltaire&rsquo;](https://en.wikipedia.org/wiki/Voltaire)
 (1694-1778)
 
-__Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political-ones--the-economic-dismals), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), [The Index Invested Ones](#the-index-invested-ones), and [Your Humble Weekend Editor](#your-humble-weekend-editor)
+__Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp; The Economic Dismals](#the-political-ones--the-economic-dismals), [Those of Rational &amp; Scientific Bent](#those-of-rational--scientific-bent), [The Statistical Ones](#the-statistical-ones), [The Religious Ones](#the-religious-ones), [The One Who Is Voltaire](#the-one-who-is-voltaire), [The Index Invested Ones](#the-index-invested-ones), and [Your Humble Weekend Editor](#your-humble-weekend-editor)
 
 
 ## The Surreal Ones  
@@ -769,6 +769,31 @@ good or evil." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Aren
 
 "You are personally responsible for becoming more ethical than the society you grew up
 in." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)  
+
+
+## THe One Who Is Voltaire  
+
+[Fran&ccedil;ois-Marie Arouet, a.k.a. "Voltaire"](https://en.wikipedia.org/wiki/Voltaire), 
+(1694-1778):  
+
+- "Optimism is the madness of insisting that all is well when we are miserable." &mdash; [_Candide_](https://en.wikipedia.org/wiki/Candide)  
+- "The English gain two hours a day more than we do, by eating their syllables." &mdash; quoted in [Erin McKean, "The Word", Boston Globe Ideas section, 2010-Oct-31](http://www.boston.com/bostonglobe/ideas/articles/2010/10/31/pithy/)  
+- "No snowflake in an avalanche ever feels responsible."  
+- "Doubt is not a pleasant condition, but certainty is absurd."  
+- "Il est dangereux d’avoir raison dans des choses où des hommes accrédités ont tort." (It is dangerous to be right on matters where the authorities are wrong.)  
+- "A witty saying proves nothing."  (To which your Weekend Editor adds: including this one.)  
+- "Dans ce pays-ci, il est bon de tuer de temps en temps un amiral pour encourager les autres."  (In this country, it is good to kill an admiral from time to time, to encourage the others.)  
+- "If there were only one religion in England there would be danger of despotism; if there were two they would cut each other's throats. But there are thirty, and they live in peace and happiness."  
+- "Those who can make you believe absurdities can make you commit atrocities."  
+- "Every man is guilty of the good he didn't do."  
+- "What is tolerance?  It is the consequence of humanity.  We are all formed of frailty and error; let us pardon reciprocally each other's folly &ndash; that is the first law of nature."  
+- "Think for yourselves and let others enjoy the privilege to do so too."  
+- "I am very fond of truth, but not at all of martyrdom."  
+- "Anything that is too stupid to be spoken is sung."  (To which your Weekend Editor adds: hence, the origin of American musical theatre.)  
+- "Appreciation is a wonderful thing: It makes what is excellent in others belong to us as well."  
+- "I advise you to go on living solely to enrage those who are paying you annuities."  
+- "It is one of the superstitions of the human mind to have imagined that virginity could be a virtue."  
+- "So far from believing in nothing, I can believe in witchcraft and am confident that with incantations (and arsenic) it is possible to poison a flock of sheep!" (upon accusation of atheism)  
 
 
 ## The Index Invested Ones  
