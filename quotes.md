@@ -364,6 +364,16 @@ strives to secure for his act of boiling it an immortality."
 "Never tell people _how_ to do things. Tell them _what_ to do, and they will surprise you with
 their ingenuity." &mdash; [George S. Patton](https://en.wikipedia.org/wiki/George_S._Patton)
 
+"To bear trials with a calm mind / robs misfortune of its strength and burden."
+&mdash; [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger), 
+[_Hercules Oetaeus_](https://en.wikipedia.org/wiki/Hercules_Oetaeus) (authorship disputed)  
+
+"It is not for the dignity of a judge, when he comes to pronounce the fatal sentence, to
+express any emotions of anger… for he condemns the vice, not the man… nor is there any
+need of an angry magistrate for the punishment of foolish and wicked men."
+&mdash; [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger),
+[_De Ira_ (On Anger)](https://en.wikipedia.org/wiki/De_Ira)  
+
 
 ## Those of Rational &amp; Scientific Bent
 
