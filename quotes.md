@@ -767,6 +767,9 @@ neither wise nor prudent." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki
 "The sad truth is that most evil is done by people who never make up their minds to be
 good or evil." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt)  
 
+"You are personally responsible for becoming more ethical than the society you grew up
+in." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)  
+
 
 ## The Index Invested Ones  
 
