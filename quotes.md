@@ -378,7 +378,7 @@ their ingenuity." &mdash; [George S. Patton](https://en.wikipedia.org/wiki/Georg
 [_Hercules Oetaeus_](https://en.wikipedia.org/wiki/Hercules_Oetaeus) (authorship disputed)  
 
 "It is not for the dignity of a judge, when he comes to pronounce the fatal sentence, to
-express any emotions of anger… for he condemns the vice, not the man… nor is there any
+express any emotions of anger&hellip; for he condemns the vice, not the man… nor is there any
 need of an angry magistrate for the punishment of foolish and wicked men."
 &mdash; [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger),
 [_De Ira_ (On Anger)](https://en.wikipedia.org/wiki/De_Ira)  
@@ -498,6 +498,26 @@ speak, thereof must one remain silent.)
 
 "There is no permanent place in the world for ugly mathematics."
 &mdash; [G. H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
+
+"The scientist is not a person who gives the right answers, he is one who asks the right
+questions."  
+&mdash; [Claude L&eacute;vi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss),
+[_Le Cru et le cuit_](http://fr.wikipedia.org/wiki/Le_cru_et_le_cuit)
+([_The Raw and the Cooked_](https://en.wikipedia.org/wiki/The_Raw_and_the_Cooked)), 1964.  
+
+"The society which scorns excellence in plumbing because plumbing is a humble activity
+and tolerates shoddiness in philosophy because it is an exalted activity will have neither
+good plumbing nor good philosophy. Neither its pipes nor its theories will hold water."
+&mdash; [John Gardner](https://en.wikipedia.org/wiki/John_William_Gardner),
+[_Excellence: Can we be equal and excellent too?_](https://science.sciencemag.org/content/133/3456/872),
+1961.  
+
+"He who can do nothing, knows nothing."
+&mdash; [Paracelsus](https://en.wikipedia.org/wiki/Paracelsus).  
+
+"One must learn by doing the thing; for though you think you know it, you have no
+certainty until you try."
+&mdash; [Sophocles](https://en.wikipedia.org/wiki/Sophocles), ca. 450 BCE.
 
 
 ## The Statistical Ones  
@@ -806,7 +826,7 @@ good or evil." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Aren
 in." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)  
 
 
-## THe One Who Is Voltaire  
+## The One Who Is Voltaire  
 
 [Fran&ccedil;ois-Marie Arouet, a.k.a. "Voltaire"](https://en.wikipedia.org/wiki/Voltaire), 
 (1694-1778):  
