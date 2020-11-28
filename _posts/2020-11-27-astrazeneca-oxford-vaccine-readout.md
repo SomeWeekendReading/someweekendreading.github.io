@@ -73,7 +73,7 @@ But (again)&hellip; the smell of the rest of the press release immediately raise
   start Phase 3.  That's what Phases 1 &amp; 2 are _for_: to test safety and find a dose,
   along with any efficacy you can pick up along the way.  The press release is silent
   about why this might be: is it a clever design or an error?  
-- __Why is the high efficacy response in the lower dose group?__  Normally you like to see
+- __Why is the *high* efficacy response in the *low* dose group?__  Normally you like to see
   the efficacy be dose-responsive, i.e., increase along with the dose (though there are some
   exceptions, which are called instances of
   [_hormesis_](https://en.wikipedia.org/wiki/Hormesis)).  There could be a thousand
