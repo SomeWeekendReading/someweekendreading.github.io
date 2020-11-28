@@ -500,7 +500,7 @@ speak, thereof must one remain silent.)
 &mdash; [G. H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
 
 "The scientist is not a person who gives the right answers, he is one who asks the right
-questions."  
+questions."
 &mdash; [Claude L&eacute;vi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss),
 [_Le Cru et le cuit_](http://fr.wikipedia.org/wiki/Le_cru_et_le_cuit)
 ([_The Raw and the Cooked_](https://en.wikipedia.org/wiki/The_Raw_and_the_Cooked)), 1964.  
@@ -509,8 +509,7 @@ questions."
 and tolerates shoddiness in philosophy because it is an exalted activity will have neither
 good plumbing nor good philosophy. Neither its pipes nor its theories will hold water."
 &mdash; [John Gardner](https://en.wikipedia.org/wiki/John_William_Gardner),
-[_Excellence: Can we be equal and excellent too?_](https://science.sciencemag.org/content/133/3456/872),
-1961.  
+[_Excellence: Can we be equal and excellent too?_](https://science.sciencemag.org/content/133/3456/872), 1961.  
 
 "He who can do nothing, knows nothing."
 &mdash; [Paracelsus](https://en.wikipedia.org/wiki/Paracelsus).  
