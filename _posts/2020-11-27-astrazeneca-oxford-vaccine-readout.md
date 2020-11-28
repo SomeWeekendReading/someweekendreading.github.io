@@ -37,7 +37,7 @@ But&hellip; if you use an existing human virus, some of your population will alr
 to it (like cold viruses: old people have had a lot of colds).  So they used a simian
 adenovirus, ChAdOx1 (basically monkey colds).  Unless you live in close proximity to chimps and
 somehow exchange nasal fluids with them, you probably aren't immune to this one.
-<sup id="fn1a">[[1]](#fn1)]</sup> 
+<sup id="fn1a">[[1]](#fn1)</sup> 
 
 There are a few other differences, like changing an amino acid to stabilize the spike
 protein and replacing thei viral leader sequence with human TPA.  These appear to be
@@ -50,7 +50,7 @@ But the simian adenovirus will, sort of, infect human cells. So&hellip; _maybe_ 
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-az-pr.jpg" width="400" height="206" alt="AZ Press Release" title="AZ Press Release" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-ox-pr.jpg" width="400" height="328" alt="Oxford Press Release" title="Oxford Press Release" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First up is the press release from AstraZeneca, and the Oxford version.
-<sup id="fn2a">[[2]](#fn2)]</sup> <sup id="fn3a">[[3]](#fn3)]</sup>
+<sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>
 They claim 70% efficacy, which is actually pretty good, albeit not quite like the 95%
 efficacies seen by Pfizer &amp; Moderna.  But&hellip; there were 2 dosing regimens (and
 controls):
@@ -58,7 +58,7 @@ controls):
   had a 62% efficacy rate ($N = 8895$).  
 - The other group got a _half dose initially_, and a full dose on the second booster.
   This group had a 90% efficacy rate ($N = 2741).  
-Combining these 2 groups &ndash; _somehow_ <sup id="fn4a">[[4]](#fn4)</sup>&ndash; is
+Combining these 2 groups &ndash; _somehow_ <sup id="fn4a">[[4]](#fn4)</sup> &ndash; is
 claimed to have an efficacy of 70%.  
 
 One nice thing is that people in the control arm didn't just get an injection of saline,
