@@ -110,6 +110,7 @@ mechanisms to explain why the _lower_ dose had the _higher_ efficacy:
   according to the trial protocol, be excluded from the endpoint?  
 - Crazily, one dose arm included elders while the other did not!  Isn't that a good reason
   to expect different effiacies?  
+
 In some ways, this is satisfyingly perverse: biology is just _maddening_ in the way that
 everything interacts with everything else, all the time.  This is the sort of roadblock
 you'd expect&hellip; but why didn't the Phase 1/2 dose finding trials find this?  
@@ -194,5 +195,5 @@ AstraZeneca and Oxford"](https://www.reuters.com/article/us-health-coronavirus-a
 
 <a id="fn10">10</a>: D Kirka, ["AstraZeneca manufacturing error clouds vaccine study results"](https://medicalxpress.com/news/2020-11-astrazeneca-error-clouds-vaccine-results.html), _MedicalXPress_, 2020-Nov-25. [↩](#fn10a)  
 
-<a id="fn11">11</a>: S Ring &amp; J Paton, ["Astra Eyes Extra Global Vaccine Trial as Questions Mount"](https://www.bloomberg.com/news/articles/2020-11-26/astra-likely-to-run-fresh-global-covid-vaccine-trial-ceo-says), _Bloomberg_, 2020-Nov-26. [↩](#fn11a)  
+<a id="fn11">11</a>: S Ring &amp; J Paton, ["Astra Eyes Extra Global Vaccine Trial as Questions Mount"](https://www.bloomberg.com/news/articles/2020-11-26/astra-likely-to-run-fresh-global-covid-vaccine-trial-ceo-says), _Bloomberg_, 2020-Nov-26. __NB:__ It appears he still insists the manufacturing/delivery error was "not a mistake" because they amended the trial protocol to accomodate it.  A rigid insistence on being always right does not inspire confidence, at least not from me. [↩](#fn11a)  
 
