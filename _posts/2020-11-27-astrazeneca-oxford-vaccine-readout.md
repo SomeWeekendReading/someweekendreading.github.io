@@ -196,5 +196,5 @@ AstraZeneca and Oxford"](https://www.reuters.com/article/us-health-coronavirus-a
 
 <a id="fn10">10</a>: D Kirka, ["AstraZeneca manufacturing error clouds vaccine study results"](https://medicalxpress.com/news/2020-11-astrazeneca-error-clouds-vaccine-results.html), _MedicalXPress_, 2020-Nov-25. [↩](#fn10a)  
 
-<a id="fn11">11</a>: S Ring &amp; J Paton, ["Astra Eyes Extra Global Vaccine Trial as Questions Mount"](https://www.bloomberg.com/news/articles/2020-11-26/astra-likely-to-run-fresh-global-covid-vaccine-trial-ceo-says), _Bloomberg_, 2020-Nov-26. __NB:__ It appears he still insists the manufacturing/delivery error was "not a mistake" because they amended the trial protocol to accomodate it.  A rigid insistence on being always right does not inspire confidence, at least not from me. [↩](#fn11a)  
+<a id="fn11">11</a>: S Ring &amp; J Paton, ["Astra Eyes Extra Global Vaccine Trial as Questions Mount"](https://www.bloomberg.com/news/articles/2020-11-26/astra-likely-to-run-fresh-global-covid-vaccine-trial-ceo-says), _Bloomberg_, 2020-Nov-26. __NB:__ It appears the AZ CEO still insists the manufacturing/delivery error was "not a mistake" because they amended the trial protocol to accomodate it.  A rigid insistence on being always right does not inspire confidence, at least not from me. [↩](#fn11a)  
 
