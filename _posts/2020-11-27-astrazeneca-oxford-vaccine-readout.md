@@ -37,7 +37,7 @@ But&hellip; if you use an existing human virus, some of your population will alr
 to it (like cold viruses: old people have had a lot of colds).  So they used a simian
 adenovirus, ChAdOx1 (basically monkey colds).  Unless you live in close proximity to chimps and
 somehow exchange nasal fluids with them, you probably aren't immune to this one.
-<sup id="fn1a">1(#fn1)]</sup> 
+<sup id="fn1a">[[1]](#fn1)]</sup> 
 
 There are a few other differences, like changing an amino acid to stabilize the spike
 protein and replacing thei viral leader sequence with human TPA.  These appear to be
@@ -50,7 +50,7 @@ But the simian adenovirus will, sort of, infect human cells. So&hellip; _maybe_ 
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-az-pr.jpg" width="400" height="206" alt="AZ Press Release" title="AZ Press Release" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-ox-pr.jpg" width="400" height="328" alt="Oxford Press Release" title="Oxford Press Release" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First up is the press release from AstraZeneca, and the Oxford version.
-<sup id="fn2a">2(#fn2)]</sup> <sup id="fn3a">3(#fn3)]</sup>
+<sup id="fn2a">[[2]](#fn2)]</sup> <sup id="fn3a">[[3]](#fn3)]</sup>
 They claim 70% efficacy, which is actually pretty good, albeit not quite like the 95%
 efficacies seen by Pfizer &amp; Moderna.  But&hellip; there were 2 dosing regimens (and
 controls):
@@ -58,7 +58,7 @@ controls):
   had a 62% efficacy rate ($N = 8895$).  
 - The other group got a _half dose initially_, and a full dose on the second booster.
   This group had a 90% efficacy rate ($N = 2741).  
-Combining these 2 groups &ndash; _somehow_ <sup id="fn4a">[4](#fn4)</sup>&ndash; is
+Combining these 2 groups &ndash; _somehow_ <sup id="fn4a">[[4]](#fn4)</sup>&ndash; is
 claimed to have an efficacy of 70%.  
 
 One nice thing is that people in the control arm didn't just get an injection of saline,
@@ -100,7 +100,7 @@ Our next 2 stops are Derek Lowe's blog
 [_In the Pipeline_](https://blogs.sciencemag.org/pipeline) at 
 [_Science Translational Medicine_](https://stm.sciencemag.org/), and a news article at 
 [_Nature_](https://www.nature.com) by Ewen Callaway.
-<sup id="fn5a">[5](#fn5)</sup> <sup id="fn6a">[6](#fn6)</sup>  Both posit similar
+<sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>  Both posit similar
 mechanisms to explain why the _lower_ dose had the _higher_ efficacy:  
 - Immune systems are highly complex and nonlinear, so maybe there's a feedback mechanism
   to throttle down T cell reactionsn to the high dose?  
@@ -118,19 +118,19 @@ Now the story takes a slightly darker turn, for 2 reasons:
 1. Nowhere in the AZ/OX press releases did they mention that the low dose group had an age
    cap of 55, while the high dose group did not.  It would be madness to design a trial
    this way, and we only find out about it through other sources.  In this case, it comes
-   to us from Moncef Slaoui, the head of Operation Warp Speed. <sup id="fn7a">[7](#fn7)</sup>
+   to us from Moncef Slaoui, the head of Operation Warp Speed. <sup id="fn7a">[[7]](#fn7)</sup>
    So the efficacy difference is hopelessly entangled with age differences in the test
    populations.  
 2. It turns out the 2 doses in a Phase 3 trial were not some clever thing, but a blunder
    in manufacturing and delivery: _an accident_. 
-   <sup id="fn8a">[8](#fn8)</sup> <sup id="fn9a">[9](#fn9)</sup> <sup id="fn10a">[10](#fn10)</sup>
+   <sup id="fn8a">[[8]](#fn8)</sup> <sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
    Apparently, when this was discovered, AZ &amp; OX went to the regulatory authorities
    (FDA, EMA, &hellip; and whatever the Brazilian equivalent is) and dsclosed this.  Good
    for them; that's the right thing to do.  The regulatory bodies said to continue as if
    it had been designed as a 2-dose vs placebo trial, which is about as much as you can do
    to salvage the situation.  
 
-However, the data are now pretty weird.  Kirka's article <sup id="fn10a">[10](#fn10)</sup>
+However, the data are now pretty weird.  Kirka's article <sup id="fn10a">[[10]](#fn10)</sup>
 quotes David Salisbury, an associate fellow of the global health program at the Chatham
 House think tank:  
 >"You've taken two studies for which different doses were used and come up with a
@@ -156,7 +156,7 @@ good some of the time."  But they chose to tell _part_ of the truth.
 
 Both Pfizer/BioNTech and Moderna/Lonza were pretty convincing.  AZ/OX&hellip; not so
 much.  As of yesterday, the AstraZeneca CEO is admitting they might have to do another
-Phase 3 clinical trial to clean up the mess. <sup id="fn11a">[11](#fn11)</sup>  
+Phase 3 clinical trial to clean up the mess. <sup id="fn11a">[[11]](#fn11)</sup>  
 
 Sounds about right.  
 
