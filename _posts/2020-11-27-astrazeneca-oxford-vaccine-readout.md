@@ -10,10 +10,11 @@ they said 70% efficacy.  It's not a stunningly good 95% result like Pfizer or Mo
 still, it's a good, craftsmanlike bit of work.  But then&hellip; things got _weird_.  
 
 Yet another round of science by press release &ndash; here at Chez Weekend we understand
-the tight schedule constraints, but are getting a bit testy at having to comb through the
-pronouncments of managers, lawyers, and PR people instead of scientific evidence.  In the
-recent cases of [Pfizer](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/) 
-and [Moderna](https://www.someweekendreading.blog/moderna-vaccine-efficacy-data/), this
+the tight schedule constraints &amp; are prepared to be reasonably sympathetic.  But we
+are getting a bit testy at having to comb through the vague, blurred, and ambiguous
+pronouncements of managers, lawyers, and PR people instead of scientific evidence.  In the
+recent cases of [Pfizer](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/) and
+[Moderna](https://www.someweekendreading.blog/moderna-vaccine-efficacy-data/), this
 seems to have worked out mostly ok.  
 
 But not this time.  
@@ -57,7 +58,7 @@ controls):
 - One group got a full dose initially, and a full dose in the second booster.  This group
   had a 62% efficacy rate ($N = 8895$).  
 - The other group got a _half dose initially_, and a full dose on the second booster.
-  This group had a 90% efficacy rate ($N = 2741).  
+  This group had a 90% efficacy rate ($N = 2741$).  
 
 Combining these 2 groups &ndash; _somehow_ <sup id="fn4a">[[4]](#fn4)</sup> &ndash; is
 claimed to have an efficacy of 70%.  
@@ -98,7 +99,7 @@ Ok, we gotta dig deeper!
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-nature.jpg" width="400" height="215" 
 alt="Ewen Callaway, Nature" title="Ewen Callaway, Nature" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Our next 2 stops are Derek Lowe's blog 
-[_In the Pipeline_](https://blogs.sciencemag.org/pipeline) at 
+[_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) at 
 [_Science Translational Medicine_](https://stm.sciencemag.org/), and a news article at 
 [_Nature_](https://www.nature.com) by Ewen Callaway.
 <sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>  Both posit similar
@@ -154,7 +155,7 @@ This is the problem with science by press release: the PR is always wordsmithed 
 people, managers, and lawyers to give it "good spin", sometimes (I hope inadvertently) at
 the expense of truth.  I'd be much more understanding if the initial PR had said, "Hey, we
 kind screwed up a few things, but the underlying efficacies are still pretty
-good some of the time."  But they chose to tell _part_ of the truth.  
+good some of the time."  But they chose instead to tell just _part_ of the truth.  
 
 Both Pfizer/BioNTech and Moderna/Lonza were pretty convincing.  AZ/OX&hellip; not so
 much.  As of yesterday, the AstraZeneca CEO is admitting they might have to do another
@@ -197,4 +198,3 @@ AstraZeneca and Oxford"](https://www.reuters.com/article/us-health-coronavirus-a
 <a id="fn10">10</a>: D Kirka, ["AstraZeneca manufacturing error clouds vaccine study results"](https://medicalxpress.com/news/2020-11-astrazeneca-error-clouds-vaccine-results.html), _MedicalXPress_, 2020-Nov-25. [↩](#fn10a)  
 
 <a id="fn11">11</a>: S Ring &amp; J Paton, ["Astra Eyes Extra Global Vaccine Trial as Questions Mount"](https://www.bloomberg.com/news/articles/2020-11-26/astra-likely-to-run-fresh-global-covid-vaccine-trial-ceo-says), _Bloomberg_, 2020-Nov-26. __NB:__ It appears the AZ CEO still insists the manufacturing/delivery error was "not a mistake" because they amended the trial protocol to accomodate it.  A rigid insistence on being always right does not inspire confidence, at least not from me. [↩](#fn11a)  
-
