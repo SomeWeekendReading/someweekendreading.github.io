@@ -5,9 +5,10 @@ tags: COVID MathInTheNews R
 comments: true
 ---
 
-This week the AstraZeneca/Oxford vaccine Phase 3 trial gave an early readout.  Initially
-they said 70% efficacy.  It's not a stunningly good 95% result like Pfizer or Moderna; 
-still, it's a good, craftsmanlike bit of work.  But then&hellip; things got _weird_.  
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the early readout this
+week of the AstraZeneca/Oxford vaccine Phase 3 trial.  Initially they said 70% efficacy.
+It's not a stunningly good 95% result like Pfizer or Moderna; still, it's a good, 
+craftsmanlike bit of work.  But then&hellip; things got _weird_.  
 
 Yet another round of science by press release &ndash; here at Chez Weekend we understand
 the tight schedule constraints &amp; are prepared to be reasonably sympathetic.  But we
