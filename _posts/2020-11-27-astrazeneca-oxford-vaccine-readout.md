@@ -164,7 +164,7 @@ Sounds about right.
 
 ## Notes &amp; References  
 
-<a id="fn1">1</a>: And if you _do_ regularly exchange nasal fluids with monkeys, I don't want to hear about it.  Go make your own Monkey Snot Blog, not here. [↩](#fn1a)  
+<a id="fn1">1</a>: And if you _do_ regularly exchange nasal fluids with monkeys, I don't want to hear about it.  Go make your own _Monkey Snot Blog_, not here. [↩](#fn1a)  
 
 <a id="fn2">2</a>: AstraZeneca, ["AZD1222 vaccine met primary efficacy endpoint in preventing COVID-19"](https://www.astrazeneca.com/media-centre/press-releases/2020/azd1222hlr.html), AstraZeneca press releases, 2020-Nov-23. [↩](#fn2a)  
 
