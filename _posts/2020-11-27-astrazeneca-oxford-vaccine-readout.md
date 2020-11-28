@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AstraZeneca/Oxford vaccine interim readout&colon; chaos!
+title: AstraZeneca/Oxford vaccine interim readout&colon; and its discontents
 tags: COVID MathInTheNews R
 comments: true
 ---
@@ -19,8 +19,7 @@ seems to have worked out mostly ok.
 But not this time.  
 
 ## How the AZ/OX vaccine works (_vastly_ oversimplified)  
-
-<img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-moa.jpg" width="400" height="203" alt="AZ Press Release" title="AZ Press Release" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-moa.jpg" width="400" height="203" alt="AZ/OX Mechanism of Action" title="AZ/OX Mechanism of Action" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Recall that the AZ/OX vaccine is much more complex.  It uses a viral vector: they take an
 existing virus capable of infecting humans, scoop out its genetic material using a
 mind-bendingly complex and careful process, then give it the genetic material of _only_
