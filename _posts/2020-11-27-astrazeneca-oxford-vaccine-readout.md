@@ -58,6 +58,7 @@ controls):
   had a 62% efficacy rate ($N = 8895$).  
 - The other group got a _half dose initially_, and a full dose on the second booster.
   This group had a 90% efficacy rate ($N = 2741).  
+
 Combining these 2 groups &ndash; _somehow_ <sup id="fn4a">[[4]](#fn4)</sup> &ndash; is
 claimed to have an efficacy of 70%.  
 
@@ -65,9 +66,9 @@ One nice thing is that people in the control arm didn't just get an injection of
 they got a meningococcal vaccine MenACWY on the first dose, and saline on the second.
 Assuming they haven't had MenACWY (or a meningococcus infection), they'll have some
 reaction to the first dose and thus won't know they're in the control arm.  Good for
-AstraZeneca!  
+AstraZeneca! (But&hellip; apparently the subjects at the Brazilian sites got saline?!)  
 
-But&hellip; the smell of the rest of the press release immediately raises questions:
+But (again)&hellip; the smell of the rest of the press release immediately raises questions:
 - __Why are they doing multiple doses?__  You're supposed to _know the dose_ by the time you
   start Phase 3.  That's what Phases 1 &amp; 2 are _for_: to test safety and find a dose,
   along with any efficacy you can pick up along the way.  The press release is silent
