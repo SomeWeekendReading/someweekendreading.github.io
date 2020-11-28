@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AstraZeneca/Oxford vaccine interim readout&colon; and its discontents
+title: AstraZeneca/Oxford vaccine interim readout (and its discontents)
 tags: COVID MathInTheNews R
 comments: true
 ---
