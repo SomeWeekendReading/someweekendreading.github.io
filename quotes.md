@@ -185,6 +185,10 @@ against World War I, delivered on June 16, 1918.
 "First they ignore you, then they ridicule you, then they fight you, then you
 win." &mdash; [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)  
 
+"All truth passes through three stages. First it is ridiculed. Second, it is violently
+opposed. Third, it is accepted as being self-evident."
+&mdash; [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+
 "&hellip; we should catch young people before they become CEOs, investment bankers,
 consultants, and money managers, and do our best to poison their minds with humanity."
 &mdash; [Kurt Vonnegut](https://en.wikipedia.org/wiki/Kurt_Vonnegut)  
@@ -516,12 +520,31 @@ good plumbing nor good philosophy. Neither its pipes nor its theories will hold 
 
 "One must learn by doing the thing; for though you think you know it, you have no
 certainty until you try."
-&mdash; [Sophocles](https://en.wikipedia.org/wiki/Sophocles), ca. 450 BCE.
+&mdash; [Sophocles](https://en.wikipedia.org/wiki/Sophocles), ca. 450 BCE.  
+
+"Details are all that matters; God dwells there, and you never get to see Him if you
+don't struggle to get them right."
+&mdash; [Stephen Jay Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould)  
+
+"Truth must be repeated again and again, because error is constantly being preached around it."
+&mdash; [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)
+
+"Always side with the truth. It's much bigger than you are."
+&mdash; [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden)
+
+"I believe that no discovery of fact, however trivial, can be wholly useless to the
+race, and that no trumpeting of falsehood, however virtuous in intent, can be anything
+but vicious.  &hellip; But the whole thing, after all, may be put very simply. I
+believe that it is better to tell the truth than to lie. I believe that it is better
+to be free than to be a slave. And I believe that it is better to know than be
+ignorant." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)
 
 
 ## The Statistical Ones  
 
 "Essentially, all models are wrong, but some are useful." &mdash; [George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box), [_Empirical Model-Building and Response Surfaces_](https://pdfs.semanticscholar.org/5d09/0074d5fa968d852e4468820cb683040d075a.pdf), 1987.  
+
+"&hellip; all generalizations suck." &mdash; [David Brin](https://en.wikipedia.org/wiki/David_Brin), ["Scholarship vs Science"](http://davidbrin.blogspot.com/2005/08/scholarship-vs-science.html), August 2005.  
 
 "The best thing about being a statistician is that you get to play in everyone's
 backyard."  &mdash; [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)  
@@ -824,6 +847,9 @@ good or evil." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Aren
 "You are personally responsible for becoming more ethical than the society you grew up
 in." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)  
 
+
+"True religion invites us to become better people. False religion tells us that this has
+already occurred." &mdash; [Abdal-Hakim Murad](https://en.wikipedia.org/wiki/Timothy_Winter)  
 
 ## The One Who Is Voltaire  
 
