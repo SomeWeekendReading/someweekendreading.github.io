@@ -132,7 +132,7 @@ Now the story takes a slightly darker turn, for 2 reasons:
    it had been designed as a 2-dose vs placebo trial, which is about as much as you can do
    to salvage the situation.  
 
-However, the data are now pretty weird.  Kirka's article <sup id="fn10a">[[10]](#fn10)</sup>
+However, the data are now pretty weird.  Kirka's article <sup>[[10]](#fn10)</sup>
 quotes David Salisbury, an associate fellow of the global health program at the Chatham
 House think tank:  
 >"You've taken two studies for which different doses were used and come up with a
