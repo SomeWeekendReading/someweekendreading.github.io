@@ -94,16 +94,16 @@ weeping.
 
 Ok, we gotta dig deeper!  
 
-## Why does the lower dose get _higher_ efficacy?  
+## Why does the _lower_ dose get _higher_ efficacy?  
 
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-in-the-pipeline.jpg" width="400" height="232" alt="Derek Lowe, In the Pipeline" title="Derek Lowe, In the Pipeline" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-nature.jpg" width="400" height="215" 
 alt="Ewen Callaway, Nature" title="Ewen Callaway, Nature" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Our next 2 stops are Derek Lowe's blog 
 [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) at 
-[_Science Translational Medicine_](https://stm.sciencemag.org/), and a news article at 
-[_Nature_](https://www.nature.com) by Ewen Callaway.
-<sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>  Both posit similar
+[_Science Translational Medicine_](https://stm.sciencemag.org/) <sup id="fn5a">[[5]](#fn5)</sup>, 
+and a news article at [_Nature_](https://www.nature.com) by Ewen
+Callaway.<sup id="fn6a">[[6]](#fn6)</sup>  Both posit similar
 mechanisms to explain why the _lower_ dose had the _higher_ efficacy:  
 - Immune systems are highly complex and nonlinear, so maybe there's a feedback mechanism
   to throttle down T cell reactionsn to the high dose?  
@@ -135,8 +135,8 @@ Now the story takes a slightly darker turn, for 2 reasons:
    to salvage the situation.  
 
 However, the data are now pretty weird.  Kirka's article <sup>[[10]](#fn10)</sup>
-quotes David Salisbury, an associate fellow of the global health program at the Chatham
-House think tank:  
+quotes David Salisbury, an associate fellow of the global health program at 
+[Chatham House](https://www.chathamhouse.org/):  
 >"You've taken two studies for which different doses were used and come up with a
 >composite that doesn't represent either of the doses,″ he said of the figure. "I think
 >many people are having trouble with that.″  
