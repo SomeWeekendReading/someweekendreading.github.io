@@ -403,6 +403,7 @@ need of an angry magistrate for the punishment of foolish and wicked men."
 &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russel),
 ["Ideas That Have Harmed Mankind", Chapter 7 of _Unpopular Essays_](https://en.wikiquote.org/wiki/Unpopular_Essays#Chapter_10:_Ideas_That_Have_Harmed_Mankind), 1950.  
 
+
 ## Those of Rational &amp; Scientific Bent
 
 "Science says the first word on everything, and the last word on nothing." 
