@@ -539,6 +539,31 @@ believe that it is better to tell the truth than to lie. I believe that it is be
 to be free than to be a slave. And I believe that it is better to know than be
 ignorant." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)
 
+"Believe it or not, there is a certain charm to simply telling the truth, and even
+to telling the truth simply."
+&mdash; [Molly Ivins](https://en.wikipedia.org/wiki/Molly_Ivins), in an Alternet article,
+now vanished.  
+
+"If you tell the truth, you don't have to remember anything." 
+&mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
+
+"Seek not greatness, but seek truth and you will find both."
+&mdash; [Horace Mann](https://en.wikipedia.org/wiki/Horace_Mann)  
+
+"There are only two mistakes one can make along the road to truth; not going all the
+way, and not starting. &mdash; [Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)  
+
+"Truth is just truth &ndash; You can't have opinions about the truth."
+&mdash; [Peter Schickele](https://en.wikipedia.org/wiki/Peter_Schickele), from
+[P.D.Q. Bach](https://en.wikipedia.org/wiki/P._D._Q._Bach)'s oratorio "The Seasonings"  
+
+"No testimony is sufficient to establish a miracle, unless the testimony be of such a kind that its falsehood would be more miraculous than the fact which it endeavours to establish." &mdash; [David Hume](https://en.wikipedia.org/wiki/David_Hume), [_An Enquiry Concerning Human Understanding_](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding), 1748.  
+
+"I cannot give any scientist of any age better advice than this: the intensity of a
+conviction that a hypothesis is true has no bearing over whether it is true or not."
+&mdash; [Peter Medawar](https://en.wikipedia.org/wiki/Peter_Medawar)  
+
+
 
 ## The Statistical Ones  
 
@@ -847,9 +872,9 @@ good or evil." &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Aren
 "You are personally responsible for becoming more ethical than the society you grew up
 in." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)  
 
-
 "True religion invites us to become better people. False religion tells us that this has
 already occurred." &mdash; [Abdal-Hakim Murad](https://en.wikipedia.org/wiki/Timothy_Winter)  
+
 
 ## The One Who Is Voltaire  
 
