@@ -112,7 +112,7 @@ Scott Alexander's novel, _Unsong_. <sup id="fn6a">[[6]](#fn6)</sup>  It takes id
 the Talmud and asks, "What if the world was _literally_ like that?"  
 
 As a science fiction novel, it's brilliant: 
-- Uriel the nerd sysadmin angel trying to keep reality running,  
+- Uriel, the nerd sysadmin angel, trying to keep reality running,  
 - Silicon Valley full of "big theonomy" companies trying to copyright the Names of G-d from kaballah used for spells,  
 - Unitarian Universalist underground cells doing _samizdat_ kaballah,  
 - a battle in which the Lubavitcher Rebbe turns the Statue of Liberty into a golem and rides it into battle saving the day,  
