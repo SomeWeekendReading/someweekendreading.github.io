@@ -133,12 +133,12 @@ you'e not, it's still pretty funny.
 ## What does that say about American politics?  
 
 Of course, to have a properly respectful dialog as in the Talmudic tradition, it takes
-both sides with that attitude.  You can't have Talmudic dialog with a fanatic who denies
+both being committed to that attitude.  You can't have Talmudic dialog with a fanatic who denies
 your right to exist, or the fundamental legitimacy of your ideas.  That would be like the
 Israelis attempting Talmudic dialog with Hezbollah, for example: respectful dialog is the
-wrong response to someone who denies the fundamental legitimacy of your position.  I see
+wrong response to someone who denies your right to exist.  I see
 nothing but venom, rage, and contempt coming from the American Republican right at the
-moment; it does not deserve respectful dialog.  
+moment; respectful dialog is not even remotely the correct response to Trump.  
 
 This is why I'm so frustrated with the mindless both-siderism of people like Brooks: his
 article makes an excellent point, but one which is of no applicability when attempting to
