@@ -15,6 +15,7 @@ It's an unusual question, since neither my friend nor I are Jews.  I am, though,
 much affection for Judaism as an outsider can reasonably have&hellip; so maybe not _completely_
 unusual.  
 
+
 ## On having deeper conversations  
 
 <img src="{{ site.baseurl }}/images/2020-11-29-we-need-talmudic-arguments-brooks.jpg" width="400" height="239" alt="Brooks: Deeper Conversations" title="Brooks: Deeper Conversations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
@@ -34,6 +35,7 @@ reaction thusly:
 
 How might it have come to pass that Jews have learned the art of learned argument from a
 viewpoint of mutual respect?  
+
 
 ## Architecture of a Talmud page  
 
@@ -79,6 +81,7 @@ as a woman studying Talmud (usually restricted to men among the more Orthodox):
 >  
 >"You have stories of women who criticise men, of non-Jews who put Jews to shame, of poor simple folk who make a mockery out of rabbis - there's something very liberated and liberating about Aggadah," she says.  
 
+
 ## On arguments to sharpen our (mutual) understanding  
 
 So the Talmud encourges argument because it _is_ an argument in some ways: the very page
@@ -94,11 +97,11 @@ partner is not _wrong_; you're just trying to _add_ another aspect to your mutua
 understanding.  The world is, after all, not simple, so neither is our spiritual
 understanding of it.  
 
-With all the cross-references, one might argue that it is an example of early attempts at
+(With all the cross-references, one might argue that it is an example of early attempts at
 hypertext.  I've also heard this claim made about Thomas à Kempis's 15th century book, _De
 Imitatione Christi_ <sup id="fn5a">[[5]](#fn5)</sup>: each chapter is 1 page on 1 topic,
-with cross-references to many other chapters.  (In fact, my introduction to _De Imitatione
-Christi_ was via Hypercard in the late 80s.)  
+with cross-references to many other chapters.  In fact, my introduction to _De Imitatione
+Christi_ was via [Hypercard](https://en.wikipedia.org/wiki/HyperCard) in the late 80s.)  
 
 
 ## On humor  
@@ -108,14 +111,15 @@ Ok, if we're going to talk about the folklore and jokes in the Torah, we have to
 Scott Alexander's novel, _Unsong_. <sup id="fn6a">[[6]](#fn6)</sup>  It takes ideas from
 the Talmud and asks, "What if the world was _literally_ like that?"  
 
-As a science fiction book, it's brilliant: Uriel the nerd sysadmin angel trying to keep
-reality running, Silicon Valley full of "big theonomy" companies trying to copyright the
-Names of G-d from kaballah used for spells, Unitarian Universalist underground cells doing
-_samizdat_ kaballah, a battle in which the Lubavitcher Rebbe turns the Statue of Liberty
-into a golem and rides it into battle saving the day, loads of puns involving Torah
-stories and whales ("Baleen Shem Tov"), trying to explain knock-knock jokes to an angel,
-why Elisha Ben Abuyah is always referred to as "the other one" in the Talumd&hellip; and a
-_lot_ of even crazier stuff.  (Uriel says: PLEASE DO NOT BLOW UP MOUNTAINS.  IT NEVER
+As a science fiction novel, it's brilliant: 
+- Uriel the nerd sysadmin angel trying to keep reality running,  
+- Silicon Valley full of "big theonomy" companies trying to copyright the Names of G-d from kaballah used for spells,  
+- Unitarian Universalist underground cells doing _samizdat_ kaballah,  
+- a battle in which the Lubavitcher Rebbe turns the Statue of Liberty into a golem and rides it into battle saving the day,  
+- loads of puns involving Torah stories and whales (example: "Baleen Shem Tov"),  
+- trying to explain knock-knock jokes to an angel,  
+- why Elisha Ben Abuyah is always referred to as "the other one" in the Talumd  
+&hellip; and a _lot_ of even crazier stuff.  (Uriel says: PLEASE DO NOT BLOW UP MOUNTAINS.  IT NEVER
 HELPS.)  
 
 Scott's a psychiatrist, and said the free associations used in kaballah are very like the
