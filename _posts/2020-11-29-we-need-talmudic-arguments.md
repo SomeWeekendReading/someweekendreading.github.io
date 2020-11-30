@@ -7,8 +7,8 @@ comments: true
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the style of argument
 used when discussing the Talmud, a centuries-long rabbinical dialog on Jewish Law.  The
-style involves not so much _winning_, though there is that, but mostly about
-_understanding_ mulitple points of view.  Sound like something the world could use about
+style involves not so much _winning_ (though there is that), but mostly about
+_understanding_ multiple points of view.  Sound like something the world could use about
 now?  
 
 It's an unusual question, since neither my friend nor I are Jews.  I am, though, religious with as
@@ -119,12 +119,13 @@ As a science fiction novel, it's brilliant:
 - loads of puns involving Torah stories and whales (example: "Baleen Shem Tov"),  
 - trying to explain knock-knock jokes to an angel,  
 - why Elisha Ben Abuyah is always referred to as "the other one" in the Talumd  
+
 &hellip; and a _lot_ of even crazier stuff.  (Uriel says: PLEASE DO NOT BLOW UP MOUNTAINS.  IT NEVER
 HELPS.)  
 
 Scott's a psychiatrist, and said the free associations used in kaballah are very like the
 free associations some of his stranger patients had.  Their world views not only made
-sense to them, they made _perfect_ sense.  
+sense to them, they made _perfect_ sense.  More sense than reality should make.  
 
 Trust me: if you're interested in Jewish thinking, it's _utterly hilarious_.  Even if
 you'e not, it's still pretty funny.  
