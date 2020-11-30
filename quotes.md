@@ -176,6 +176,8 @@ statesman/orator/writer (106-43 BCE)  NB: Rome ruled for another 5 centuries
 
 "The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true." &mdash; [James Branch Cabell](https://en.wikipedia.org/wiki/James_Branch_Cabell) in [_The Silver Stallion: A Comedy of Redemption_](https://www.google.com/books/edition/The_Silver_Stallion/x0h0M6HHfHwC?hl=en&gbpv=1&printsec=frontcover) (1926), Book Four: Coth at Porutsa, Chapter 26: The Realist in Defeat.  
 
+"Optimists refuse to acknowledge reality. Idealists remind us that it isn't fixed." &mdash; Susan Neiman, ["Change Germans Can't Believe In"](http://www.nytimes.com/2008/07/26/opinion/26neiman.html?_r=1&oref=slogin&pagewanted=print), _New York Times_, 2008-Jul-26.  
+
 "You need &hellip; to know that you are fit for something better than slavery and cannon
 fodder." &mdash; [Eugene V. Debs](https://en.wikipedia.org/wiki/Eugene_Debs), 
 American socialist leader in early 20th century.  __NB:__ Debs was convicted, imprisoned, and 
@@ -257,6 +259,21 @@ neighbors." &mdash; _United States v. George W. Bush et al._, by former federal 
 
 "No, it's not fair. You're in the wrong universe for fair." 
 &mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)  
+
+"I really don’t know what you do about the 'taxation is theft' crowd, except possibly enter a
+gambling pool regarding just how long after their no-tax utopia comes true that their
+generally white, generally entitled, generally soft and pudgy asses are turned into thin
+strips of Objectivist Jerky by the sort of pitiless sociopath who is actually prepped and
+ready to live in the world that logically follows these people's fondest desires."
+&mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)  
+
+"It’s nice when your past catching up with you is a good thing."
+&mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi),
+[_Whatever_ on 2011-May-15](http://whatever.scalzi.com/2011/05/15/la-in-review/).  
+
+"Christianity is a fine religion and I wish more Christians practiced it."
+&mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi),
+[_Whatever_ on 2010-Mar-22](http://whatever.scalzi.com/2010/03/22/reader-request-week-2010-1-christianity-and-me/).  
 
 "&hellip; almost everyone thinks he's the good guy, and if you take your stand on
 the slope of Mount Righteous Cause, it has proven as slippery as greased glass.   But
