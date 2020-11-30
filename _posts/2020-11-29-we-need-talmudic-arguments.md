@@ -20,18 +20,16 @@ unusual.
 <img src="{{ site.baseurl }}/images/2020-11-29-we-need-talmudic-arguments-brooks.jpg" width="400" height="239" alt="Brooks: Deeper Conversations" title="Brooks: Deeper Conversations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 He was reacting to a _New York Times_ piece by
 [David Brooks](https://en.wikipedia.org/wiki/David_Brooks_(commentator)) <sup id="fn1a">[[1]](#fn1)</sup>
-on having "deeper conversations", particularly this bit:  
-
+on having "deeper conversations", particularly this bit:
 > _Find the disagreement under the disagreement._ In the Talmudic tradition when two people disagree about something, it's because there is some deeper philosophical or moral disagreement undergirding it. Conversation then becomes a shared process of trying to dig down to the underlying disagreement and then the underlying disagreement below that. There is no end. Conflict creates cooperative effort. As neuroscientist Lisa Feldman Barrett writes <sup id="fn2a">[[2]](#fn2), "Being curious about your friend's experience is more important than being right."  
 
 Now, normally I don't have time for guys like Brooks.  I am made ill by the delusions of
 conservative pundits.  I am enraged by the ones that call themselves "centrists", with
-their banal evil of false both-siderism neutrality <sup id="fn3a">[[3]](#fn3)</sup> to 
+their banal evil and false  neutrality of both-siderism <sup id="fn3a">[[3]](#fn3)</sup> to 
 avoid naming and shaming the right-wing shenanigans.  
 
 But this time&hellip; I gotta admit, this is a bit of all right.  My friend described his
-reaction thusly:  
-
+reaction thusly:
 > I found this paragraph fascinating in ways I am still carefully unwrapping, as I would delicately unfold tissue paper holding an object of great value that belongs to history and not to me&hellip;  
 
 How might it have come to pass that Jews have learned the art of learned argument from a
@@ -76,7 +74,9 @@ Kremer consults Gila Fine, editor-in-chief of Maggid Books in Jerusalem on her e
 as a woman studying Talmud (usually restricted to men among the more Orthodox):  
 
 > Unlike the lofty, magisterial prose of the Torah, she found the Talmud to have "all the imperfections, the trivialities, the multiplicity of voices, the wild associations - everything that characterises human conversation."  
+>  
 >But Fine eventually fell in love with the book and is now overseeing the publication of a new edition. She relates in particular to the Aggadah, the folkloric stories in the Talmud, which rub shoulders with the dense, legalistic Halakha text, and seem sometimes to subvert it.  
+>  
 >"You have stories of women who criticise men, of non-Jews who put Jews to shame, of poor simple folk who make a mockery out of rabbis - there's something very liberated and liberating about Aggadah," she says.  
 
 ## On arguments to sharpen our (mutual) understanding  
@@ -103,6 +103,7 @@ Christi_ was via Hypercard in the late 80s.)
 
 ## On humor  
 
+<img src="{{ site.baseurl }}/images/2020-11-29-we-need-talmudic-arguments-unsong.jpg" width="400" height="90" alt="UNSONG" title="UNSONG" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Ok, if we're going to talk about the folklore and jokes in the Torah, we have to read
 Scott Alexander's novel, _Unsong_. <sup id="fn6a">[[6]](#fn6)</sup>  It takes ideas from
 the Talmud and asks, "What if the world was _literally_ like that?"  
