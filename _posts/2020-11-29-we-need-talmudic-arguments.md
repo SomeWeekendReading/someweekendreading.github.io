@@ -39,7 +39,7 @@ viewpoint of mutual respect?
 
 ## Architecture of a Talmud page  
 
-<img src="{{ site.baseurl }}/images/2020-11-29-we-need-talmudic-arguments-kremer.jpg" width="400" height="278" alt="Brooks: Deeper Conversations" title="Brooks: Deeper Conversations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-29-we-need-talmudic-arguments-kremer.jpg" width="400" height="278" alt="Kremer: Why is the Talmud popular?" title="Kremer: Why is the Talmud popular?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The Talmud appears, to this non-Jew, to be something of an artifact _engineered_ to do
 exactly this.  Unlike the Torah, with its magisterial pronouncements, the Talmud is a
 series of arguments in conversation with each other over the centuries &ndash; mixed
