@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We need the Talmudic argument style
+title: We need the Talmudic argument style&hellip; someday
 tags: Politics Religion SomebodyAskedMe TheDivineMadness
 comments: true
 ---
