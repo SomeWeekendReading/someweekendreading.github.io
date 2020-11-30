@@ -107,7 +107,7 @@ Christi_ was via [Hypercard](https://en.wikipedia.org/wiki/HyperCard) in the lat
 ## On humor  
 
 <img src="{{ site.baseurl }}/images/2020-11-29-we-need-talmudic-arguments-unsong.jpg" width="400" height="90" alt="UNSONG" title="UNSONG" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Ok, if we're going to talk about the folklore and jokes in the Torah, we have to read
+Ok, if we're going to mention the folklore and jokes in the Torah, we have to talk about
 Scott Alexander's novel, _Unsong_. <sup id="fn6a">[[6]](#fn6)</sup>  It takes ideas from
 the Talmud and asks, "What if the world was _literally_ like that?"  
 
