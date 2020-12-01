@@ -120,8 +120,8 @@ As a science fiction novel, it's brilliant:
 - trying to explain knock-knock jokes to an angel  
 - why [Elisha Ben Abuyah](https://en.wikipedia.org/wiki/Elisha_ben_Abuyah) is always referred to as "the other one" in the Talumd  
 
-&hellip; and a _lot_ of even crazier stuff.  (Uriel says: PLEASE DO NOT BLOW UP MOUNTAINS.  IT NEVER
-HELPS.)  
+&hellip; and a _lot_ of even crazier stuff.  (Uriel says: "PLEASE DO NOT BLOW UP MOUNTAINS.  IT NEVER
+HELPS.")  
 
 Scott's a psychiatrist, and said the free associations used in kaballah are very like the
 free associations some of his stranger patients had.  Their world views not only made
