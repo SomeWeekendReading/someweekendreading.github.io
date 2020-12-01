@@ -27,9 +27,9 @@ in [SETI](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence
 While Arecibo wasn't his main thing, he did spend time there and told us enthusiastic
 stories.  
 
-I feel like some ancient Roman scholar, watching the barbarians destroying my civilization
-as they break what they cannot understand.  Or like some ancient Alexandrine, watching
-fanatics burn the Library.  _O tempora, o mores._  
+I feel like some ancient Roman scholar, tearfully watching the barbarians destroying my
+civilization as they break what they cannot understand.  Or like some ancient Alexandrine,
+watching and weeping as fanatics burn the Library.  _O tempora, o mores._  
 
 ---
 
