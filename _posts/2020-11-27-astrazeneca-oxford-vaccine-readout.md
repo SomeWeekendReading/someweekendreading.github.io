@@ -191,9 +191,9 @@ supplied the doses for all the rest.  COBRA apparently messed up and made the fi
 at half strength.  
 
 That explains the source of the half-dose blunder.  It does _not_ explain other blunders:  
-- __Why did some cohorts have a 55 year old age cap, while others did not?__  Of _course_ the
-  younger cohort responds better!  But now it's all convolved with dose levels, so you
-  can't tell what's going on.
+- __Why didn't they assay a random sample of the doses they got back from the CMOs?__
+  Just a little in-house QC to make sure they had what they think they had could have
+  saved a world of grief!  
 - __Why didn't they randomize the batches between cohorts?__  One of the things that
   regularly made me tear my hair out in frustration was that some of my experimentalist
   colleagues would resist randomization.  "Too much work", they would say&hellip; and then
@@ -203,6 +203,9 @@ That explains the source of the half-dose blunder.  It does _not_ explain other 
   control arms, you randomly assign batches to trial sites, you keep the trial at least
   double-blind (the patient doesn't know what they're getting, the doc doesn't know what
   he's injecting, only the bar codes are recorded and then unblinded at the end).
+- __Why did some cohorts have a 55 year old age cap, while others did not?__  Of _course_ the
+  younger cohort responds better!  But now it's all convolved with dose levels, so you
+  can't tell what's going on.
 - __Why didn't this come out in their press release, but only after persistent digging?__
   Getting the whole truth out early is fundamental to establishing trust.  
 
