@@ -192,7 +192,7 @@ at half strength.
 
 That explains the source of the half-dose blunder.  It does _not_ explain other blunders:  
 - __Why didn't they assay a random sample from each CMO's batch of doses?__
-  Just a little in-house QC to make sure they had what they think they had could have
+  Just a little in-house QC to make sure they had what they thought they had could have
   saved a world of grief!  
 - __Why didn't they randomize the CMO batches between cohorts?__  One of the things that
   regularly made me tear my hair out in frustration was that some of my experimentalist
