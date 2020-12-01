@@ -20,7 +20,9 @@ seems to have worked out mostly ok.
 
 But not this time.  
 
+
 ## How the AZ/OX vaccine works (_vastly_ oversimplified)  
+
 <img src="{{ site.baseurl }}/images/2020-11-27-astrazeneca-oxford-vaccine-readout-moa.jpg" width="400" height="203" alt="AZ/OX Mechanism of Action" title="AZ/OX Mechanism of Action" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Recall that the AZ/OX vaccine is much more complex.  It uses a viral vector: they take an
 existing virus capable of infecting humans, scoop out its genetic material using a
@@ -46,6 +48,7 @@ protein and replacing thei viral leader sequence with human TPA.  These appear t
 engineering concessions to pragmatism, and look pretty reasonable.  
 
 But the simian adenovirus will, sort of, infect human cells. So&hellip; _maybe_ it'll work?  
+
 
 ## The AZ/OX press releases  
 
@@ -93,6 +96,7 @@ That sobbing sound you hear in the background is statisticians all over the worl
 weeping.  
 
 Ok, we gotta dig deeper!  
+
 
 ## Why does the _lower_ dose get _higher_ efficacy?  
 
@@ -143,6 +147,7 @@ quotes David Salisbury, an associate fellow of the global health program at
 
 Indeed!  
 
+
 ## The Bottom Line(s)  
 
 There are 2 bottom lines that I see here:  
@@ -163,6 +168,46 @@ much.  As of yesterday, the AstraZeneca CEO is admitting they might have to do a
 Phase 3 clinical trial to clean up the mess. <sup id="fn11a">[[11]](#fn11)</sup>  
 
 Sounds about right.  
+
+## Added 2020-Dec-01  
+
+[A little birdie whispered in my ear](https://blogs.sciencemag.org/pipeline/archives/2020/11/23/oxford-az-vaccine-efficacy-data#comment-333535)
+that, based on the _Lancet_ publication of the Phase 2/3 COV002 (UK) trial, AZ/OX had the
+doses for their trial sites manufactured by 2 different CMOs.  
+
+A Contract Manufacturing Organization (CMO) will make small to medium-sized batches of
+medications for you, to your specifications, under GMP guidelines.  (GMP means Good
+Manufacturing Practice, i.e., survivable under FDA auditors.)  This makes sense if you
+don't have your large-scale manufacturing line up and going yet.  In exchange for only
+somewhat disturbingly large piles of money, you can get enough to run your trial _now_,
+rather than later.  Thus in the case of a pandemic, being early to market means fewer
+people die.  In more pedestrian cases, it means earlier market entry, with all the revenue
+and first-mover advantage implied.  
+
+It's a defensible thing for AZ/OX to have done.  
+
+But&hellip; COBRA Biologics supplied the drug for the 18-55 year old cohort, and Advent
+supplied the doses for all the rest.  COBRA apparently messed up and made the first batch
+at half strength.  
+
+That explains the source of the half-dose blunder.  It does _not_ explain other blunders:  
+- __Why did some cohorts have a 55 year old age cap, while others did not?__  Of _course_ the
+  younger cohort responds better!  But now it's all convolved with dose levels, so you
+  can't tell what's going on.
+- __Why didn't they randomize the batches between cohorts?__  One of the things that
+  regularly made me tear my hair out in frustration was that some of my experimentalist
+  colleagues would resist randomization.  "Too much work", they would say&hellip; and then
+  it was somehow _my_ fault when their treatment effect was hopelessly tangled up with
+  batch effects.  C'mon, this is _basic_; that's why they call it a _randomized_ clinical
+  trial.  You randomly assign patients (from the same age cohort!) to treatment _vs_
+  control arms, you randomly assign batches to trial sites, you keep the trial at least
+  double-blind (the patient doesn't know what they're getting, the doc doesn't know what
+  he's injecting, only the bar codes are recorded and then unblinded at the end).
+- __Why didn't this come out in their press release, but only after persistent digging?__
+  Getting the whole truth out early is fundamental to establishing trust.  
+
+So it's a bit more understandable&hellip; but no prettier.  The AZ/OX vaccine _probably_
+works&hellip; but we won't _know_ until there's another trial.  
 
 ---
 
