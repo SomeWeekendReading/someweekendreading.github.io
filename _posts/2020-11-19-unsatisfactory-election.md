@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Well, that was somewhat&hellip; <em>unsatisfying</em>
-tags: Politics
+tags: Politics Sadness
 comments: true
 ---
 
