@@ -19,10 +19,10 @@ unusual.
 ## On having deeper conversations  
 
 <img src="{{ site.baseurl }}/images/2020-11-29-we-need-talmudic-arguments-brooks.jpg" width="400" height="239" alt="Brooks: Deeper Conversations" title="Brooks: Deeper Conversations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-He was reacting to a _New York Times_ piece by
+My friend was reacting to a _New York Times_ piece by
 [David Brooks](https://en.wikipedia.org/wiki/David_Brooks_(commentator)) <sup id="fn1a">[[1]](#fn1)</sup>
 on having "deeper conversations", particularly this bit:
-> _Find the disagreement under the disagreement._ In the Talmudic tradition when two people disagree about something, it's because there is some deeper philosophical or moral disagreement undergirding it. Conversation then becomes a shared process of trying to dig down to the underlying disagreement and then the underlying disagreement below that. There is no end. Conflict creates cooperative effort. As neuroscientist Lisa Feldman Barrett writes <sup id="fn2a">[[2]](#fn2), "Being curious about your friend's experience is more important than being right."  
+> __Find the disagreement under the disagreement.__ In the Talmudic tradition when two people disagree about something, it's because there is some deeper philosophical or moral disagreement undergirding it. Conversation then becomes a shared process of trying to dig down to the underlying disagreement and then the underlying disagreement below that. There is no end. Conflict creates cooperative effort. As neuroscientist Lisa Feldman Barrett writes <sup id="fn2a">[[2]](#fn2), "Being curious about your friend's experience is more important than being right."  
 
 Now, normally I don't have time for guys like Brooks.  I am made ill by the delusions of
 conservative pundits.  I am enraged by the ones that call themselves "centrists", with
@@ -34,7 +34,7 @@ reaction thusly:
 > I found this paragraph fascinating in ways I am still carefully unwrapping, as I would delicately unfold tissue paper holding an object of great value that belongs to history and not to me&hellip;  
 
 How might it have come to pass that Jews have learned the art of learned argument from a
-viewpoint of mutual respect?  
+viewpoint of mutual respect, and how might their example teach the rest of us?  
 
 
 ## Architecture of a Talmud page  
@@ -112,13 +112,13 @@ Scott Alexander's novel, _Unsong_. <sup id="fn6a">[[6]](#fn6)</sup>  It takes id
 the Talmud and asks, "What if the world was _literally_ like that?"  
 
 As a science fiction novel, it's brilliant: 
-- Uriel, the nerd sysadmin angel, trying to keep reality running,  
-- Silicon Valley full of "big theonomy" companies trying to copyright the Names of G-d from kaballah used for spells,  
-- Unitarian Universalist underground cells doing _samizdat_ kaballah,  
-- a battle in which the Lubavitcher Rebbe turns the Statue of Liberty into a golem and rides it into battle saving the day,  
-- loads of puns involving Torah stories and whales (example: "Baleen Shem Tov"),  
-- trying to explain knock-knock jokes to an angel,  
-- why Elisha Ben Abuyah is always referred to as "the other one" in the Talumd  
+- Uriel, the nerd sysadmin angel, trying to keep reality running  
+- Silicon Valley full of "big theonomy" companies trying to copyright the Names of G-d from kaballah used for spells  
+- Unitarian Universalist underground cells doing _samizdat_ kaballah  
+- a battle in which the Lubavitcher Rebbe turns the Statue of Liberty into a golem and rides it into battle saving the day  
+- loads of puns involving Torah stories and whales (example: "Baleen Shem Tov")  
+- trying to explain knock-knock jokes to an angel  
+- why [Elisha Ben Abuyah](https://en.wikipedia.org/wiki/Elisha_ben_Abuyah) is always referred to as "the other one" in the Talumd  
 
 &hellip; and a _lot_ of even crazier stuff.  (Uriel says: PLEASE DO NOT BLOW UP MOUNTAINS.  IT NEVER
 HELPS.)  
@@ -134,10 +134,10 @@ you'e not, it's still pretty funny.
 ## What does that say about American politics?  
 
 Of course, to have a properly respectful dialog as in the Talmudic tradition, it takes
-both being committed to that attitude.  You can't have Talmudic dialog with a fanatic who denies
-your right to exist, or the fundamental legitimacy of your ideas.  That would be like the
-Israelis attempting Talmudic dialog with Hezbollah, for example: respectful dialog is the
-wrong response to someone who denies your right to exist.  I see
+both sides being committed to that attitude.  You can't have Talmudic dialog with a
+fanatic who denies your right to exist, or the fundamental legitimacy of your ideas.  That
+would be like the Israelis attempting Talmudic dialog with Hezbollah, for example:
+respectful dialog is the wrong response to someone who denies your right to exist.  I see
 nothing but venom, rage, and contempt coming from the American Republican right at the
 moment; respectful dialog is not even remotely the correct response to Trump.  
 
