@@ -191,7 +191,7 @@ supplied the doses for all the rest.  COBRA apparently messed up and made the fi
 at half strength.  
 
 That explains the source of the half-dose blunder.  It does _not_ explain other blunders:  
-- __Why didn't they assay a random sample of the doses they got back from the CMOs?__
+- __Why didn't they assay a random sample from each CMO's batch of doses?__
   Just a little in-house QC to make sure they had what they think they had could have
   saved a world of grief!  
 - __Why didn't they randomize the CMO batches between cohorts?__  One of the things that
