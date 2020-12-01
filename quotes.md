@@ -114,7 +114,8 @@ imaginary." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)
 it will also make better soup." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
 
 "He had only one idea, and that was wrong." 
-&mdash; [Benjamin Disraeli](https://en.wikipedia.org/wiki/Benjamin_Disraeli), _Sybil_
+&mdash; [Benjamin Disraeli](https://en.wikipedia.org/wiki/Benjamin_Disraeli), 
+[_Sybil_](https://en.wikipedia.org/wiki/Sybil_(novel))  
 
 "To announce that there must be no criticism of the president, or that we are to stand
 by the president, right or wrong, is not only unpatriotic and servile, but is morally
