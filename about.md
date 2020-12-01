@@ -51,9 +51,10 @@ interesting stuff to say, less so other times.  You can totally look at it once 
 and you won't miss anything.  Not that anything important will happen here in the first
 place.  
 
-Or you could try an RSS reader (like, say, [TheOldReader](https://theoldreader.com/)).
-There's an RSS feed link at the bottom of every page.  Is your Weekend Editor the only one
-left who uses that sort of thing?  Must be some old guy who still reads a lot of blogs.  
+Or you could try an [RSS](https://en.wikipedia.org/wiki/RSS) reader (like, say,
+[TheOldReader](https://theoldreader.com/)).  There's an RSS feed link at the bottom of
+every page.  Is your Weekend Editor the only one left who uses that sort of thing?  Must
+be some old guy who still reads a lot of blogs.  
 
 ## Where?
 
