@@ -980,6 +980,7 @@ already occurred." &mdash; [Abdal-Hakim Murad](https://en.wikipedia.org/wiki/Tim
 - "I advise you to go on living solely to enrage those who are paying you annuities."  
 - "It is one of the superstitions of the human mind to have imagined that virginity could be a virtue."  
 - "So far from believing in nothing, I can believe in witchcraft and am confident that with incantations (and arsenic) it is possible to poison a flock of sheep!" (upon accusation of atheism)  
+- "I die adoring God, loving my friends, not hating my enemies, and detesting superstition."  (Whereupon he did _not_ die, at least not for some months more.)  
 
 
 ## The Index Invested Ones  
