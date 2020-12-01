@@ -52,7 +52,7 @@ and you won't miss anything.  Not that anything important will happen here in th
 place.  
 
 Or you could try an [RSS](https://en.wikipedia.org/wiki/RSS) reader (like, say,
-[TheOldReader](https://theoldreader.com/)).  There's an RSS feed link at the bottom of
+[TheOldReader](https://theoldreader.com/)).  There's an RSS feed link at the top of
 every page.  Is your Weekend Editor the only one left who uses that sort of thing?  Must
 be some old guy who still reads a lot of blogs.  
 
