@@ -19,7 +19,7 @@ cable that snapped and left a 100 foot gash.  The second, from the _BBC_, shows 
 Needless to say, it is beyond repair.  
 
 Needless to say, our barbaric rulers will refuse to rebuild, and likely will not even
-comprehend the loss.  
+_comprehend_ the loss.  
 
 It's kind of personal with me: in my younger days, I had a housemate who was doing his PhD
 in [SETI](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence) work.
