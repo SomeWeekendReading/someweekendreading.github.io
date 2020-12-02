@@ -30,7 +30,7 @@ stories.
 I feel like some ancient Roman scholar, tearfully watching the barbarians destroying my
 civilization as they break what they cannot understand.  Or like some ancient Alexandrine,
 watching and weeping as fanatics burn the Library the could not read.  Or an ancient
-Pompeiian, watching from a distance as indifferent nature destroys the city that is home
+Pompeiian, watching from a distance as indifferent nature destroys the beloved city that is home
 and hearth.  
 
 [_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  
