@@ -26,9 +26,12 @@ in [SETI](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence
 While Arecibo wasn't his main thing, he did spend time there and told us enthusiastic
 stories.  
 
+<iframe width="280" height="158" src="https://www.youtube.com/embed/ytie995zY-Q" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 I feel like some ancient Roman scholar, tearfully watching the barbarians destroying my
 civilization as they break what they cannot understand.  Or like some ancient Alexandrine,
-watching and weeping as fanatics burn the Library the could not read.  
+watching and weeping as fanatics burn the Library the could not read.  Or an ancient
+Pompeiian, watching from a distance as indifferent nature destroys the city that is home
+and hearth.  
 
 [_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  
 
