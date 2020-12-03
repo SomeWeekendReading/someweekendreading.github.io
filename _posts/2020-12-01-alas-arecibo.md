@@ -36,7 +36,7 @@ and hearth.
 [_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)
 
 
-## Added 2020-Dec-03: Video of the fall of the instrument platform
+## Added 2020-Dec-03: Video of instrument platform's fall
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/ssHkMWcGat4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 A tweet (of all things!) reveals there were 2 videos of the collapse: one from the side,
