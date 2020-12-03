@@ -42,7 +42,9 @@ and hearth.
 A tweet (of all things!) reveals there were 2 videos of the collapse: one from the side,
 and another _from a drone inspecting the cables at the time of the break!_  The original
 is from [the NSF special report on Arecibo](https://www.nsf.gov/news/special_reports/arecibo/).
-The drone footage starts at 0:52 into the video.  
+The drone footage starts at 0:52 into the video.  I don't know whether to be happy about
+the technology that makes this possible, or sad that we're just documenting our own
+decline.  
 
 ---
 
