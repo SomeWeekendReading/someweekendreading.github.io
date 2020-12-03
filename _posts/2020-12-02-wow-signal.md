@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proposed source of the &quot;Wow!&quot; event?
+title: Proposed source of the &quot;Wow!&quot; signal?
 tags: Physics
 comments: true
 ---
@@ -45,26 +45,28 @@ localized and narrow-band.
 
 The Big Ear telescope observed it for a time window of 72 seconds.  This is to be
 expected: the instrument relied on the rotation of the earth to scan it across the sky,
-and given that rotation, a signal stationary with respect to the stars should be bright
-for exactly 72 seconds, with peak intensity in the middle of that interval.  
+and given that rotation, a sidereal-tracking signal (stationary with respect to the stars) 
+should be bright for about 72 seconds, with peak intensity in the middle of that interval.  
 
 <img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-wow-gaussian.jpg" width="400" height="222" alt="Wow! signal vs time" title="Wow! signal vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-The mysterious "6EQUJ5" is a peculiar way of recording the signal intensity vs time, given
-the instruments of the day.  Each frequency band listened for 10 seconds, processed for 2
-seconds, and then printed out a single character describing the average power (minus
-baseline) for that 10 second interval.  (It was blind during the 2 second compute
-interval.)  The value reported is the dimensionless ratio of intensity to standard
-deviation (noise, basically).  That's printed out as a single alphanumeric
-character 0-9 and A-Z, basically a single digit base 36.  "6EQUJ5" is the series of
-observations at 12-second intervals of that signal-to-noise ratio.  The "U" is about 
-30&sigma; above noise.  
 
-It's basically a Gaussian versus time; as expected given the rotation of the earth taking
+The mysterious "6EQUJ5" is an idiosyncratic way of recording the signal intensity vs time,
+given the instruments of the day.  Each frequency band listened for 10 seconds, processed
+for 2 seconds, and then printed out a single character describing the average power (minus
+baseline) for that 10 second interval, divided by the standard deviation.  (It was blind
+during the 2 second compute interval.)  The value reported is the dimensionless ratio of
+background-subtracted intensity to standard deviation (noise, basically).  That's printed
+out as a single alphanumeric character in [0-9A-Z], basically a single digit base 36.
+"6EQUJ5" is the series of observations at 12-second intervals of that signal-to-noise
+ratio.  The "U" is about 30&sigma; above noise.  
+
+It fits a Gaussian versus time; as expected given the rotation of the earth taking
 the dish away from the source, it peaked right in the middle of the 72 second window of
-observation.  It was at a center frequency of 1420.4556 &plusmn; 0.005 MHz just above the
+observation.  It was at a center frequency of 1420.4556 &plusmn; 0.005 MHz, just above the
 [hydrogen line](https://en.wikipedia.org/wiki/Hydrogen_line).  The bandwidth was below
 10kHz, that being the minimum bandwidth the Big Ear's instruments could handle, back in
-the day.  Terrestrial sources are unlikely, since that frequency is in a protected band.  
+the day.  Terrestrial sources are unlikely, since that frequency is in a protected band.
+(Though apparently the military does occasionally flout that protection?)  
 
 It has never been seen since.  
 
@@ -76,11 +78,11 @@ In 2013, the [European Space Agency](https://en.wikipedia.org/wiki/European_Spac
 launched the [Gaia space observatory](https://en.wikipedia.org/wiki/Gaia_(spacecraft)).
 It's measuring the position, distance, and proper motion of stars, quasars, some of the
 larger exoplanets, and more domestic things like comets.  It does so with astounding
-precision.  For stars, it uses a spectrophotometer to record luminosity, surface
+precision.  For stars, it also uses a spectrophotometer to record luminosity, surface
 temperature, gravity, and composition (such as metallicity).  
 
 By observing each of about 1 billion objects 70 times during the spacecraft
-lifetime, we can build a 3D map of objects along with proper velocities.  
+lifetime, it is building a 3D map of objects along with their proper velocities.  
 
 It's truly extraordinary!  
 
@@ -96,7 +98,7 @@ of stars not really adequately characterized.
 Enter amateur astronomer, Alberto Caballero, who searched the Gaia Archive for stars
 somewhat like our own, in the right area(s) of Saggitarius. <sup id="fn4a">[[4]](#fn4)
 He used these filters:  
-- K to G type  
+- Spectral type K to G  
 - Estimated stellar radius 0.83 - 1.15 solar radius
 - Estimated temperature 4450 - 6000 K
 - Estimated luminosity 0.34 - 1.5 solar luminosity
@@ -104,10 +106,12 @@ He used these filters:
 That found 38 candidate stars in the positive feed horn's patch of sky, and 28 for the
 negative feed horn.  
 
-<img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-2MASS_19281982-2640123.jpg" width="400" height="263" alt="2MASS 19281982-2640123" title="2MASS 19281982-2640123" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-However, more conservative filters demanding temperatures between 5730 - 5830 K to be more
-like the sun, there were no stars in the positive horn beam and exactly 1 in the negative
-horn beam: Gaia source_id 6766185791864654720, known in the 2MASS archive as 
+<img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-2MASS_19281982-2640123.jpg" width="400" height="263" alt="2MASS 19281982-2640123 from Caballero preprint" title="2MASS 19281982-2640123 from Caballero preprint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-2MASS_19281982-2640123-IR.jpg" width="400" height="303" alt="2MASS 19281982-2640123 from NASA/IPAC Infrared Science Archive" title="2MASS 19281982-2640123 from NASA/IPAC Infrared Science Archive" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+However, with more conservative filters (e.g., demanding temperatures between 5730 - 5830&deg;K 
+to be more like the sun), there were no stars in the positive horn beam and exactly 1 in
+the negative horn beam: Gaia source_id 6766185791864654720, known in the 
+[2-Micron All-Sky Survey (2MASS)](https://en.wikipedia.org/wiki/2MASS) archive as
 2MASS 19281982-2640123:  
 - Range: 552 parsec = 1801 ly  
 - Temperature: 5783 K  
