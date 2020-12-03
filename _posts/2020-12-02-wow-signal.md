@@ -15,7 +15,8 @@ Popular physics reporting went a bit nuts last week or two
 describing a search for a sun-like star, potentially with planets, that is positioned to
 have been the source of the "Wow!" signal in SETI.  Let's unpack what that may, or may not, mean.  
 
-## SETI and the &quot;Wow!&quot; signal  
+
+## SETI  
 
 [SETI](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence) is a
 physics research area devoted to searching for evidence of extraterrestrial intelligence.
@@ -27,6 +28,9 @@ frequencies.  So the holy grail of this entire enterprise is to find a signal wh
 highly localized to a specific location in the sky that tracks sidereally, and (b) is very
 narrow-band in the way its power is spread across frequencies.  (There are other
 requirements, like scintillation, but we'll gloss over the details.)  
+
+
+## The &quot;Wow!&quot; signal  
 
 <img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-wow.jpg" width="400" height="222" alt="Wow! signal" title="Wow! signal" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 On 1977-Aug-15, that happened.  
@@ -64,6 +68,7 @@ the day.  Terrestrial sources are unlikely, since that frequency is in a protect
 
 It has never been seen since.  
 
+
 ## Enter Gaia  
 
 <img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-gaia.jpg" width="400" height="244" alt="Artistic impression of Gaia in space" title="Artistic impression of Gaia in space" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
@@ -78,6 +83,7 @@ By observing each of about 1 billion objects 70 times during the spacecraft
 lifetime, we can build a 3D map of objects along with proper velocities.  
 
 It's truly extraordinary!  
+
 
 ## Gaia and Wow!  
 
