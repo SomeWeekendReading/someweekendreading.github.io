@@ -28,7 +28,7 @@ highly localized to a specific location in the sky that tracks sidereally, and (
 narrow-band in the way its power is spread across frequencies.  (There are other
 requirements, like scintillation, but we'll gloss over the details.)  
 
-<img src="{{ site.baseurl }}/images/2020-12-01-wow-signal-wow.jpg" width="400" height="222" alt="Wow! signal" title="Wow! signal" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-wow.jpg" width="400" height="222" alt="Wow! signal" title="Wow! signal" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 On 1977-Aug-15, that happened.  
 
 Observers using the "Big Ear" radio telescope at OSU detected a narrow-band signal coming
@@ -44,7 +44,7 @@ expected: the instrument relied on the rotation of the earth to scan it across t
 and given that rotation, a signal stationary with respect to the stars should be bright
 for exactly 72 seconds, with peak intensity in the middle of that interval.  
 
-<img src="{{ site.baseurl }}/images/2020-12-01-wow-signal-wow-gaussian.jpg" width="400" height="222" alt="Wow! signal vs time" title="Wow! signal vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-wow-gaussian.jpg" width="400" height="222" alt="Wow! signal vs time" title="Wow! signal vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The mysterious "6EQUJ5" is a peculiar way of recording the signal intensity vs time, given
 the instruments of the day.  Each frequency band listened for 10 seconds, processed for 2
 seconds, and then printed out a single character describing the average power (minus
@@ -66,7 +66,7 @@ It has never been seen since.
 
 ## Enter Gaia  
 
-<img src="{{ site.baseurl }}/images/2020-12-01-wow-signal-gaia.jpg" width="400" height="244" alt="Artistic impression of Gaia in space" title="Artistic impression of Gaia in space" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-gaia.jpg" width="400" height="244" alt="Artistic impression of Gaia in space" title="Artistic impression of Gaia in space" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 In 2013, the [European Space Agency](https://en.wikipedia.org/wiki/European_Space_Agency)
 launched the [Gaia space observatory](https://en.wikipedia.org/wiki/Gaia_(spacecraft)).
 It's measuring the position, distance, and proper motion of stars, quasars, some of the
