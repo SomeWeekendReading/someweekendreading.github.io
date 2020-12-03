@@ -132,6 +132,6 @@ phys.org, 2020-Nov-24. [↩](#fn1a)
 
 <a id="fn2">2</a>: Physics arXiv Blog, ["Sun-Like Star Identified As the Potential Source of the Wow! Signal"](https://astronomy.com/news/2020/11/sun-like-star-identified-as-the-potential-source-of-the-wow-signal), _Astronomy_, 2020-Nov-23. [↩](#fn2a)  
 
-<a id="fn1">3</a>: P Anderson, ["Did the Wow! signal come from this star?"](https://earthsky.org/space/source-of-wow-signal-in-1977-sunlike-star-2mass-19281982-2640123), _Earth/Sky_, 2020-Dec-02. [↩](#fn3a)  
+<a id="fn3">3</a>: P Anderson, ["Did the Wow! signal come from this star?"](https://earthsky.org/space/source-of-wow-signal-in-1977-sunlike-star-2mass-19281982-2640123), _Earth/Sky_, 2020-Dec-02. [↩](#fn3a)  
 
 <a id="fn4">4</a>: A Caballero, ["An approximation to determine the source of the WOW! Signal"](https://arxiv.org/abs/2011.06090), arXiv.org, 2020-Nov-08 (revised 2020-Dec-01). __NB:__ This is a _preprint_, not yet having passed peer review. [↩](#fn4a)  
