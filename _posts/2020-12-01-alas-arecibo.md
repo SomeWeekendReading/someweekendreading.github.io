@@ -7,8 +7,8 @@ comments: true
 
 Alas, for the [Arecibo Observatory/National Astronomy and Ionosphere Center](https://en.wikipedia.org/wiki/Arecibo_Observatory) is no more.  
 
-<img src="{{ site.baseurl }}/images/2020-12-01-alas-arecibo-cable-snap.png" width="400" height="271" alt="Arecibo 2020-Nov-17 after auxiliary cable snap" title="Arecibo 2020-Nov-17 after auxiliary cable snap" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2020-12-01-alas-arecibo-instrument-platform-collapse.png" width="400" height="226" alt="Arecibo 2020-Dec-01 after instrument platform collapse" title="Arecibo 2020-Dec-01 after instrument platform collapse" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-01-alas-arecibo-cable-snap.jpg" width="400" height="271" alt="Arecibo 2020-Nov-17 after auxiliary cable snap" title="Arecibo 2020-Nov-17 after auxiliary cable snap" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-01-alas-arecibo-instrument-platform-collapse.jpg" width="400" height="226" alt="Arecibo 2020-Dec-01 after instrument platform collapse" title="Arecibo 2020-Dec-01 after instrument platform collapse" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Sad news: the Arecibo Observatory, already badly damaged from a snapped cable, has
 collapsed.  <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> The first
 photo is a satellite image from the _NYT_ showing damage to the dish from an auxiliary
