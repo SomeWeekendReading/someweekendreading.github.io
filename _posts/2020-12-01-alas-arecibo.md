@@ -33,7 +33,7 @@ watching and weeping as fanatics burn the Library they could not read.  Or an an
 Pompeiian, watching from a distance as indifferent nature destroys the beloved city that is home
 and hearth.  
 
-[_O tempora, o mores._]
+[_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)
 
 
 ## Added 2020-Dec-03
