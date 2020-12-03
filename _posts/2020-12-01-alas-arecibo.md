@@ -38,23 +38,11 @@ and hearth.
 
 ## Added 2020-Dec-03
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/ssHkMWcGat4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 A tweet (of all things!) reveals there were 2 videos of the collapse: one from the side,
 and another _from a drone inspecting the cables at the time of the break!_  The original
-is from [the NSF special report on Arecibo](https://www.nsf.gov/news/special_reports/arecibo/):  
-<iframe width="400" height="225" src="https://www.youtube.com/embed/ssHkMWcGat4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-
-<!--
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">There was a drone inspecting the Tower 4 Cables when the collapse
-    started so we get a close up on the cables breaking, check the second video segment. 
-    <a href="https://t.co/Qw37Z5byWg">pic.twitter.com/Qw37Z5byWg</a>
-  </p>
-  &mdash; Scott Manley (@DJSnM) 
-  <a href="https://twitter.com/DJSnM/status/1334540065201012737?ref_src=twsrc%5Etfw">
-    December 3, 2020</a>
-  </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
+is from [the NSF special report on Arecibo](https://www.nsf.gov/news/special_reports/arecibo/).
+The drone footage starts at 0:52 into the video.  
 
 ---
 
