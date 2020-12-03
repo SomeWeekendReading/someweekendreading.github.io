@@ -33,7 +33,24 @@ watching and weeping as fanatics burn the Library they could not read.  Or an an
 Pompeiian, watching from a distance as indifferent nature destroys the beloved city that is home
 and hearth.  
 
-[_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  
+[_O tempora, o mores._]
+
+
+## Added 2020-Dec-03
+
+A tweet (of all things!) reveals there were 2 videos of the collapse: one from the side,
+and another _from a drone inspecting the cables at the time of the break!_  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">There was a drone inspecting the Tower 4 Cables when the collapse
+    started so we get a close up on the cables breaking, check the second video segment. 
+    <a href="https://t.co/Qw37Z5byWg">pic.twitter.com/Qw37Z5byWg</a>
+  </p>
+  &mdash; Scott Manley (@DJSnM) 
+  <a href="https://twitter.com/DJSnM/status/1334540065201012737?ref_src=twsrc%5Etfw">
+    December 3, 2020</a>
+  </blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
