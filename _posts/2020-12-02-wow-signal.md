@@ -108,7 +108,7 @@ negative feed horn.
 
 <img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-2MASS_19281982-2640123.jpg" width="400" height="263" alt="2MASS 19281982-2640123 from Caballero preprint" title="2MASS 19281982-2640123 from Caballero preprint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-12-02-wow-signal-2MASS_19281982-2640123-IR.jpg" width="400" height="303" alt="2MASS 19281982-2640123 from NASA/IPAC Infrared Science Archive" title="2MASS 19281982-2640123 from NASA/IPAC Infrared Science Archive" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-However, with more conservative filters (e.g., demanding temperatures between 5730 - 5830&deg;K 
+However, with more conservative filters (e.g., demanding temperatures between 5730 - 5830&deg;K
 to be more like the sun), there were no stars in the positive horn beam and exactly 1 in
 the negative horn beam: Gaia source_id 6766185791864654720, known in the 
 [2-Micron All-Sky Survey (2MASS)](https://en.wikipedia.org/wiki/2MASS) archive as
