@@ -39,7 +39,8 @@ and hearth.
 ## Added 2020-Dec-03
 
 A tweet (of all things!) reveals there were 2 videos of the collapse: one from the side,
-and another _from a drone inspecting the cables at the time of the break!_  
+and another _from a drone inspecting the cables at the time of the break!_  The original
+is from [the NSF special report on Arecibo](https://www.nsf.gov/news/special_reports/arecibo/).  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">There was a drone inspecting the Tower 4 Cables when the collapse
