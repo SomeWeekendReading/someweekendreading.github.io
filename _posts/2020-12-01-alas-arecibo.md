@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alas, Arecibo
-tags: Sadness Science
+tags: Sadness Physics
 comments: true
 ---
 
@@ -42,4 +42,3 @@ and hearth.
 <a id="fn1">1</a>: M Cramer and D Overbye, ["The Arecibo Telescope in Puerto Rico Collapses"](https://www.nytimes.com/2020/12/01/science/space/arecibo-telescope-puerto-rico.html), _New York Times_, 2020-Dec-01. [↩](#fn1a)  
 
 <a id="fn2">2</a>: BBC News, ["Puerto Rico: Iconic Arecibo Observatory telescope collapses"](https://www.bbc.com/news/world-us-canada-55147973), _BBC News_, 2020-Dec-01. [↩](#fn2a)  
-
