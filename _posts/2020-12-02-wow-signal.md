@@ -52,8 +52,8 @@ baseline) for that 10 second interval.  (It was blind during the 2 second comput
 interval.)  The value reported is the dimensionless ratio of intensity to standard
 deviation (noise, basically).  That's printed out as a single alphanumeric
 character 0-9 and A-Z, basically a single digit base 36.  "6EQUJ5" is the series of
-observations at 12-second intervals of that signal-to-noise ratio.  The "U" is about 30
-&sigma; above noise.  
+observations at 12-second intervals of that signal-to-noise ratio.  The "U" is about 
+30&sigma; above noise.  
 
 It's basically a Gaussian versus time; as expected given the rotation of the earth taking
 the dish away from the source, it peaked right in the middle of the 72 second window of
@@ -103,7 +103,7 @@ However, more conservative filters demanding temperatures between 5730 - 5830 K 
 like the sun, there were no stars in the positive horn beam and exactly 1 in the negative
 horn beam: Gaia source_id 6766185791864654720, known in the 2MASS archive as 
 2MASS 19281982-2640123:  
-- Range: 552 parsec = 1801 light years  
+- Range: 552 parsec = 1801 ly  
 - Temperature: 5783 K  
 - Radius: 0.9965662 solar radius  
 - Luminosity: 1.0007366 solar luminosity  
@@ -128,4 +128,4 @@ phys.org, 2020-Nov-24. [↩](#fn1a)
 
 <a id="fn1">3</a>: P Anderson, ["Did the Wow! signal come from this star?"](https://earthsky.org/space/source-of-wow-signal-in-1977-sunlike-star-2mass-19281982-2640123), _Earth/Sky_, 2020-Dec-02. [↩](#fn3a)  
 
-<a id="fn4">4</a>: A Caballero, ["An approximation to determine the source of the WOW! Signal"](https://arxiv.org/abs/2011.06090), arXiv.org, 2020-Nov-08 (revised 2020-Dec-01). [↩](#fn4a)  
+<a id="fn4">4</a>: A Caballero, ["An approximation to determine the source of the WOW! Signal"](https://arxiv.org/abs/2011.06090), arXiv.org, 2020-Nov-08 (revised 2020-Dec-01). __NB:__ This is a _preprint_, not yet having passed peer review. [↩](#fn4a)  
