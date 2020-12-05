@@ -47,7 +47,8 @@ matter don't mind." &mdash; [Ted Geisel](https://en.wikipedia.org/wiki/Ted_Geise
 ("Dr. Seuss")  
 
 "Nous naissons tous fous, quelques-uns le demeurent." (We are all born crazy, only some
-of us stay that way.) &mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Samuel_Beckett), _En attendant Godot_  
+of us stay that way.) &mdash; [Samuel Beckett](https://en.wikipedia.org/wiki/Samuel_Beckett),
+[_En attendant Godot_](https://en.wikipedia.org/wiki/Waiting_for_Godot).
 
 "You don't have to run away to join the circus.  The circus is right here, and it's
 swallowed you whole." &mdash; [Jack](https://en.wikipedia.org/wiki/Jack_Hardy_(singer-songwriter)) [Hardy](https://www.jackhardy.com/), "Out of Control", [_The Mirror of My Madness_](http://www.jackhardy.com/jhdisco.html#mirror) (1976)  
