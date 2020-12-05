@@ -125,7 +125,7 @@ with reasonable data, apparently by a reasonable margin.  And even for 2MASS
 and so on.  
 
 Maybe an exoplanet search targeting 2MASS 19281982-2640123 would be potentially
-interesting&hellip; though the Wow! signal _still_ hasn't repeated for the last 43 years.  
+interesting&hellip; even though the Wow! signal _still_ hasn't repeated for the last 43 years.  
 
 ---
 
