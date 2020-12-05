@@ -124,7 +124,7 @@ with reasonable data, apparently by a reasonable margin.  And even for 2MASS
 19281982-2640123, we still don't have good data on metallicity, age, stellar companions,
 and so on.  
 
-But maybe an exoplanet search targeting 2MASS 19281982-2640123 would be potentially
+Maybe an exoplanet search targeting 2MASS 19281982-2640123 would be potentially
 interesting&hellip; though the Wow! signal _still_ hasn't repeated for the last 43 years.  
 
 ---

@@ -956,6 +956,9 @@ already occurred." &mdash; [Abdal-Hakim Murad](https://en.wikipedia.org/wiki/Tim
 
 "No testimony is sufficient to establish a miracle, unless the testimony be of such a kind that its falsehood would be more miraculous than the fact which it endeavours to establish." &mdash; [David Hume](https://en.wikipedia.org/wiki/David_Hume), [_An Enquiry Concerning Human Understanding_](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding), 1748.  
 
+"Kindness can become its own motive.  We are made kind by being kind."
+&mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer)  
+
 
 ## The One Who Is Voltaire  
 
@@ -1004,6 +1007,14 @@ famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](https://
 
 "Simplicity is the ultimate form of sophistication."
 &mdash; [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_vinci)  
+
+"There are three classes of people who do not believe that markets work: the Cubans, the
+North Koreans, and active managers."
+&mdash; [Rex Sinquefield](https://en.wikipedia.org/wiki/Rex_Sinquefield),
+Chairman & CIO @ [DFA](https://en.wikipedia.org/wiki/Dimensional_Fund_Advisors), quoted by
+[Chris Farrell](https://chrisfarrell.net/),
+["Why Index Funds Can't Be Beat"](http://www.businessweek.com/bwdaily/dnflash/nov2003/nf20031114_4313_db013.htm),
+_Business Week_, 14-Nov-2003.  
 
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
