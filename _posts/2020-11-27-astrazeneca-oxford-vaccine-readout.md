@@ -88,7 +88,7 @@ But (again)&hellip; the smell of the rest of the press release immediately raise
   _does not admit this_, which is a serious breach of truth-telling.  It says COV002 and
   COV003 both require ages 18 or older.  But if you dig a little deeper, you find that the
   lower-dose arm had an upper age cutoff of 55 (so no elders) while the other did not (and
-  had elders enrolled).  This means _the dose difference is hopelessly convoluted_ with
+  had elders enrolled).  This means _the dose difference is hopelessly convolved_ with
   the age of the test population!  Also, the way this was designed, one population was in
   Brazil and the other in the UK, so local habits of living are also convolved with dose.  
 
