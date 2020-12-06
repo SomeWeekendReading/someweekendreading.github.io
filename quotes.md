@@ -861,10 +861,14 @@ is a fitting response to &mdash; and then to give it that response."
 &mdash; [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi) (though probably 
 [falsely attributed](http://www.americancatholic.org/Messenger/Oct2001/Wiseman.asp#F1), this 
 reflects the spirit of Chapter XVII of the 
-[Rule of 1221](https://en.wikipedia.org/wiki/Rule_of_Saint_Francis#The_Rule_of_1221)  
+[Rule of 1221](https://en.wikipedia.org/wiki/Rule_of_Saint_Francis#The_Rule_of_1221)).  
 
 "Life can only be understood backwards; but it must be lived forwards."
-&mdash; [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)  
+&mdash; [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard),
+_Journalen_ JJ:167 (1843)  
+- Original Danish: "Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglaends. Men derover glemmer man den anden Saetning, at det maa leves forlaends. Hvilken Saetning, jo meer den gjennemtaenkes, netop ender med, at Livet i Timeligheden aldrig ret bliver forstaaeligt, netop fordi jeg intet Øieblik kan faae fuldelig Ro til at indtage Stillingen: baglaends."  
+- English: "It is really true what philosophy tells us, that life must be understood backwards. But with this, one forgets the second proposition, that it must be lived forwards. A proposition which, the more it is subjected to careful thought, the more it ends up concluding precisely that life at any given moment cannot really ever be fully understood; exactly because there is no single moment where time stops completely in order for me to take position [to do this]: going backwards."  
+- Often shortened to: "Livet skal forstaas baglaens, men leves forlaens." (Life can only be understood backwards; but it must be lived forwards.)  
 
 "Equity bids us to be merciful to the weakness of human nature; to think less about
 what he said than about what he meant; not to consider the actions of the accused so
