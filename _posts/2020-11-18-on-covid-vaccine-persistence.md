@@ -55,6 +55,7 @@ So&hellip; yeah, 90 years.  I'll take that.  Let's hope we can _all_ get that.
 On 2020-Dec-03 the _New England Journal of Medicine_ published a letter from the mRNA-1273
 Study Group (basically the cohort of academic &amp; Moderna scientists studying the
 Moderna vacccine).  <sup id="fn4a">[[reference 4](#fn4)]</sup>  
+
 The figure at right reproduces their results, saying that reactions to the virus remain
 quite stable are 119 days (about 4 months) from the first injection.  Ok, that's not a
 long time, but it's the time that has elapsed so we can look empirically.  
