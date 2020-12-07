@@ -50,8 +50,8 @@ So&hellip; yeah, 90 years.  I'll take that.  Let's hope we can _all_ get that.
 
 ## Added 2020-Dec-07:  
 
-<img src="{{ site.baseurl }}/images/2020-11-18-thought-on-vaccine-persistence-nejm-1.jpg" width="400" height="135" alt="NEJM letter on mRNA-1237 persistence" title="NEJM letter on mRNA-1237 persistence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2020-11-18-thought-on-vaccine-persistence-nejm-2.jpg" width="400" height="498" alt="mRNA-1273 persistence results" title="mRNA-1273 persistence results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-18-on-vaccine-persistence-nejm-1.jpg" width="400" height="135" alt="NEJM letter on mRNA-1237 persistence" title="NEJM letter on mRNA-1237 persistence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-18-on-vaccine-persistence-nejm-2.jpg" width="400" height="498" alt="mRNA-1273 persistence results" title="mRNA-1273 persistence results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 On 2020-Dec-03 the _New England Journal of Medicine_ published a letter from the mRNA-1273
 Study Group (basically the cohort of academic &amp; Moderna scientists studying the
 Moderna vacccine).  <sup id="fn4a">[[reference 4](#fn4)]</sup>  
