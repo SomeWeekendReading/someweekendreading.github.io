@@ -31,7 +31,7 @@ medical literature!  It basically says that at 6 months post-infection:
 
 That's the good news.  
 
-<img src="{{ site.baseurl }}/images/2020-11-18-thought-on-vaccine-persistence-dan-abs.jpg" width="269" height="144" alt="Dan, et al. on SARS-COV-2 spike antibodies over time" title="Dan, et al. on SARS-COV-2 spike antibodies over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-11-18-on-vaccine-persistence-dan-abs.jpg" width="269" height="144" alt="Dan, et al. on SARS-COV-2 spike antibodies over time" title="Dan, et al. on SARS-COV-2 spike antibodies over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The other, more frustrating news that I get from that paper is the _intense variability_
 across patients and across time, as shown in their Figure 1, excerpted here.  There are
 going to be a _lot_ of different kinds of response seen in the population, possibly
