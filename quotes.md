@@ -1048,3 +1048,4 @@ _Business Week_, 14-Nov-2003.
 - "An archetype is what you get when you factor-analyze a real person."  
 - "Look&hellip; if I could _explain_ it, it wouldn't _be_ transcendant in the first place, now would it?"  
 - "Footnotes are your friends."  
+- "Bayesians are enamoured of prior knowledge.  Or is it prior prejudice?  You don't know which, because it's _prior_!"  
