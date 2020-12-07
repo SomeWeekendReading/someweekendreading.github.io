@@ -55,10 +55,10 @@ So&hellip; yeah, 90 years.  I'll take that.  Let's hope we can _all_ get that.
 On 2020-Dec-03 the _New England Journal of Medicine_ published a letter from the mRNA-1273
 Study Group (basically the cohort of academic &amp; Moderna scientists studying the
 Moderna vacccine).  <sup id="fn4a">[[reference 4](#fn4)]</sup>  
-
 The figure at right reproduces their results, saying that reactions to the virus remain
 quite stable are 119 days (about 4 months) from the first injection.  Ok, that's not a
-long time, but it's the time that has elapsed so we can look empirically.
+long time, but it's the time that has elapsed so we can look empirically.  
+
 __Emphatically:__ this is _not_ a prediction, it is a _measurement_ of what actually
 happened. Here we're looking at 34 trial participants from the Phase I trial, who have
 been on the study the longest: 15 subjects age 18-55, 9 subjects
