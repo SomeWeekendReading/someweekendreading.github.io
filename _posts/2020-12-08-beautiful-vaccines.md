@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A beautiful vaccine: a look into the Pfizer/BioNTech FDA EUA submission package
+title: A beautiful vaccine&colon; a look into the Pfizer/BioNTech FDA EUA submission package
 tags: COVID MathInTheNews
 comments: true
 ---
@@ -72,6 +72,10 @@ This is the first news that has made me hopeful in a long while.  If it's approv
 and it damn well better be! &ndash; then we can look forward to being vaccinated soon.
 First health care workers and nursing home residents, then essential workers and the
 elderly, then everybody.  (Pediatric and pregnant trials are still ongoing.)  
+
+## Meanwhile, back in the Republican clown car  
+
+...
 
 ---
 
