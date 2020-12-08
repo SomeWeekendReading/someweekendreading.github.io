@@ -55,7 +55,7 @@ or withdraw the application.
 Obviously, there's a _lot_ of stuff in there, going over the results in excruciating
 detail.  I've only excruciated a tiny bit of it, but I want to call attention to
 this _beautiful_ plot (p. 58 of the Pfizer/BioNTech submission, p. 30 of the FDA reanalysis).  
-- The horizontal axis is time.  The first injection occured on day 1, and the second on
+- The horizontal axis is time.  The first injection occurred on day 1, and the second on
   day 21.  
 - The vertical axis is the frequency of COVID-19 cases seen, as a fraction of the number
   of subjects in each treatment arm.  
