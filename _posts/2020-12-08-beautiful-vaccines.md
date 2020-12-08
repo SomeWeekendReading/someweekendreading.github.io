@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A beautiful vaccine&colon; a look into the Pfizer/BioNTech FDA EUA submission package
-tags: COVID MathInTheNews
+tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
 
