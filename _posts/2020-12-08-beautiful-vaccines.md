@@ -50,7 +50,7 @@ is they reanalyze your data, and the third thing is to compare their conclusions
 yours.  If there's a match, then you get a committe hearing; if not, you get various
 levels of frowns.  
 
-<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.png" width="400" height="265" alt="Pfizer/BioNTech: case rates in treatment &amp; control arms" title="Pfizer/BioNTech: case rates in treatment &amp; control arms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.jpg" width="400" height="265" alt="Pfizer/BioNTech: case rates in treatment &amp; control arms" title="Pfizer/BioNTech: case rates in treatment &amp; control arms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Obviously, there's a _lot_ of stuff in there, going over the results in excruciating
 detail.  I've only excruciated a tiny bit of it, but I want to call attention to
 this_beautiful_ plot (p. 58 of the Pfizer/BioNTech submission, p. 30 of the FDA reanalysis).  
@@ -73,13 +73,46 @@ there are a couple cases; but remember there are about 15,000 people in each arm
 _probability_ of getting infected is driven down to almost nothing.  
 
 This is the first news that has made me hopeful in a long while.  If it's approved &ndash;
-and it damn well better be! &ndash; then we can look forward to being vaccinated soon.
+and it damn well _better_ be! &ndash; then we can look forward to being vaccinated soon.
 First health care workers and nursing home residents, then essential workers and the
 elderly, then everybody.  (Pediatric and pregnant trials are still ongoing.)  
 
 ## Meanwhile, back in the Republican clown car  
 
-...
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-decline-trump-summit.jpg" width="400" height="109" alt="Charlie Pierce on blockhead anti-vax hearings" title="Charlie Pierce on blockhead anti-vax hearings" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+Meanwhile, STAT News reports <sup id="fn5a">[[5]](#fn5)</sup> that Trump
+invited both Pfizer and Moderna to the White House for a "Vaccine Summit".  Since
+everything Trump touches dies, one should be _very dubious_ about this, as it will likely
+be a stunt for Trump to claim personal credit.  ("I came up with vaccines that people
+didn't think we'd have for five years", as Trump said in a Fox News interview.  No, I will
+not link to Fox News.)  Notably, Pfizer refused to take government money for this.  
+
+Both companies wisely declined to be used thusly.  
+
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-charlie-pierce.jpg" width="400" height="231" alt="STAT News: Pfizer/BioNTech decline Trump 'summit'" title="STAT News: Pfizer/BioNTech decline Trump 'summit'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+Meanwhile, Senate Republicans are not to be outdone: they're _actively undermining_ public
+confidence in vaccines by holding hearings starring an prominent anti-vax 
+quack. <sup id="fn6a">[[6]](#fn6)</sup>  
+
+That would be Dr. Jane M. Orient, executive director of the _Association of American
+Physicians and Surgeons_.  As Charlie Pierce describes them:
+> Before you get too impressed by the Association of American Physicians and Surgeons, you should know that it's pretty much a wingnut-welfare hiring hall for people who think the AMA is run by a cabal of Trotskyite neurosurgeons.  
+
+Some of their positions, according to Olga Khazan writing in _The Atlantic_ <sup
+id="fn7a">[[7]](#fn7)</sup>, are utter howlers:  
+- Mandatory vaccination is "equivalent to human experimentation"  
+- Medicare is "evil"  
+- After measles broke out at Disneyland, they questioned the safety of measles vaccines  
+- Abortions cause breast cancer  
+- Obama was covertly hypnotizing people with his speeches  
+- HIV doesn't cause AIDS  
+- There is no health reason to stop smoking  
+
+Now, with positions like that, why do they even hold medical licenses, let alone testify
+before the Senate _against vaccines in the midst of a pandemic_?  And why do we tolerate
+so many Republicans who enable this sort of crap?  
+
+[_O tempora, o mores](https://en.wikipedia.org/wiki/O_tempora,_o_mores!), indeed!  
 
 ---
 
@@ -97,3 +130,8 @@ elderly, then everybody.  (Pediatric and pregnant trials are still ongoing.)
 
 <a id="fn4">4</a>: FDA staff, ["FDA Briefing Document: Pfizer-BioNTech COVID-19 Vaccine"](https://www.fda.gov/media/144245/download), retrieved 2020-Dec-08. [↩](#fn4a)  
 
+<a id="fn5">5</a>: L Facher, ["Leading Covid-19 vaccine makers Pfizer and Moderna decline invitations to White House 'Vaccine Summit'"](https://www.statnews.com/2020/12/07/pfizer-moderna-decline-white-house-vaccine-summit/?utm_content=buffer8cadd&utm_medium=social&utm_source=twitter&utm_campaign=twitter_organic), _STAT News_, 2020-Dec-07.  [↩](#fn5a)  
+
+<a id="fn6">6</a>: C Pierce, ["We Can Thank Senatorial Blockhead Ron Johnson for Tomorrow's Vaccine Hearing"](https://www.esquire.com/news-politics/politics/a34897281/senate-vaccine-hearing-ron-johnson-witness/), _Esquire_, 2020-Dec-07. [↩](#fn6a)  
+
+<a id="fn7">7</a>: O Khazan, ["The Opposite of Socialized Medicine: A small, litigious group has spent decades trying to stop the government from telling doctors what to do. What happens if it succeeds?"](https://www.theatlantic.com/health/archive/2020/02/aaps-make-health-care-great-again/607015/), _The Atlantic_, 2020-Feb-25. [↩](#fn7a)  
