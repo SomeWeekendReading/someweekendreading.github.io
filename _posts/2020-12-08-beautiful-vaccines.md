@@ -13,7 +13,7 @@ submitted an EUA package to the FDA.  What's it look like?
 <img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-uk-first-patient.jpg" width="313" height="400" alt="BBC: first COVID-19 patient vaccinated in UK" title="BBC: first COVID-19 patient vaccinated in UK" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First, we have to note with great satisfaction that Pfizer/BioNTech submitted an EUA to
 the regulatory authorities in the UK, who have granted it.  Vaccinations began _today_,
-starting with an elderly grandmother. <sup id="fn1a">[[1]](#fn1)</sup>  
+starting with a 91-year-old grandmother. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 She was described as "a former jewelry shop assistant" (though, to their credit, not by
 the venerable Beeb, cited below).  This bugs me: surely her career is not relevant data
@@ -68,7 +68,7 @@ Note that the red arm rises more or less linearly in time.  That means there is 
 probability/unit time, or rate, of being infected.  This is the background case rate we
 would like to escape.  
 
-The blue arm, though: it shows more or less nothing up until about day 12, and then goes
+The blue arm, though: it shows more or less no protection up until about day 12, and then goes
 almost absolutely flat.  It completely _squashes_ the case rate to almost nothing.  Yes,
 there are a couple cases; but remember there are about 15,000 people in each arm, so the
 probability per unit time, or rate, of getting infected is driven down to almost nothing.  
