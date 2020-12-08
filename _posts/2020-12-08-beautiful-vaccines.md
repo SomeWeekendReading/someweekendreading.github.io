@@ -79,7 +79,7 @@ elderly, then everybody.  (Pediatric and pregnant trials are still ongoing.)
 
 ## Meanwhile, back in the Republican clown car  
 
-<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-decline-trump-summit.jpg" width="400" height="109" alt="Charlie Pierce on blockhead anti-vax hearings" title="Charlie Pierce on blockhead anti-vax hearings" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-decline-trump-summit.jpg" width="400" height="231" alt="STAT News: Pfizer/BioNTech decline Trump 'summit'" title="STAT News: Pfizer/BioNTech decline Trump 'summit'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Meanwhile, STAT News reports <sup id="fn5a">[[5]](#fn5)</sup> that Trump
 invited both Pfizer and Moderna to the White House for a "Vaccine Summit".  Since
 everything Trump touches dies, one should be _very dubious_ about this, as it will likely
@@ -89,7 +89,7 @@ not link to Fox News.)  Notably, Pfizer refused to take government money for thi
 
 Both companies wisely declined to be used thusly.  
 
-<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-charlie-pierce.jpg" width="400" height="231" alt="STAT News: Pfizer/BioNTech decline Trump 'summit'" title="STAT News: Pfizer/BioNTech decline Trump 'summit'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-charlie-pierce.jpg" width="400" height="109" alt="Charlie Pierce on blockhead anti-vax hearings" title="Charlie Pierce on blockhead anti-vax hearings" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Meanwhile, Senate Republicans are not to be outdone: they're _actively undermining_ public
 confidence in vaccines by holding hearings starring an prominent anti-vax 
 quack. <sup id="fn6a">[[6]](#fn6)</sup>  
