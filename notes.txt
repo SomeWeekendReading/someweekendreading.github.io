@@ -282,6 +282,7 @@ efficacy = 1 – treated infection rate / placebo infection rate
 Then estimate Poisson CI? 
 
 Blog posts:
+* Analemma: Dodds's Day is Dec 07 in Boston? 
 * Vitamin D and COVID-19
 * Click chemotherapy (in the pipeline: https://blogs.sciencemag.org/pipeline/archives/2020/10/28/click-chemotherapy)
 * Impact of election years on stock returns (old weekend reading)
