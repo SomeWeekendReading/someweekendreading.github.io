@@ -110,10 +110,12 @@ id="fn7a">[[7]](#fn7)</sup>, are utter howlers:
 
 Now, with positions like that, why do they even hold medical licenses, let alone testify
 before the Senate _against vaccines in the midst of a pandemic_?  And why do we tolerate
-so many Republicans who enable this sort of crap?  Why does the frail gleam of a ray of
-good news have to be accompanied by right-wing self-destructive idiocy?  
+so many Republicans who enable this sort of crap?  
 
-[_O tempora, o mores](https://en.wikipedia.org/wiki/O_tempora,_o_mores!), indeed!  
+Why does the frail gleam of a ray of good news have to be accompanied by right-wing
+self-destructive idiocy?  
+
+[_O tempora, o mores_](https://en.wikipedia.org/wiki/O_tempora,_o_mores!), indeed!  
 
 ---
 
