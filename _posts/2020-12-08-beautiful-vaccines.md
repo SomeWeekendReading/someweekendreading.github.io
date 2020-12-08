@@ -61,7 +61,7 @@ this _beautiful_ plot (p. 58 of the Pfizer/BioNTech submission, p. 30 of the FDA
   of subjects in each treatment arm.  
 - The open squares and circles are COVID-19 cases; the dark ones (with an "S" inscribed in
   them) are severe cases.  
-- The red curve is the control arm, and teh blue curve is the treatment arm (i.e., the
+- The red curve is the control arm, and the blue curve is the treatment arm (i.e., the
   vaccine).  
   
 Note that the red arm rises more or less linearly in time.  That means there is a constant
