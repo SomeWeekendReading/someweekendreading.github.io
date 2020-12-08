@@ -135,9 +135,9 @@ self-destructive idiocy?
 
 <a id="fn2">2</a>: Eugene V. Debs, ["Canton, Ohio anti-war speech"](https://en.wikiquote.org/wiki/Eugene_V._Debs#The_Canton,_Ohio_Speech,_Anti-War_Speech_(1918)), 1918-Jun-16: "You need at this time especially to know that you are fit for something better than slavery and __cannon fodder__. You need to know that you were not created to work and produce and impoverish yourself to enrich an idle exploiter. You need to know that you have a mind to improve, a soul to develop, and a [humanity] to sustain.". [↩](#fn2a)  
 
-<a id="fn3">3</a>: Pfizer/BioNTech, ["Pfizer-BioNTech COVID-19 VACCINE (BNT162, PF-07302048): VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE BRIEFING DOCUMENT"](https://www.fda.gov/media/144246/download), timestamped 2020-Nov-30 14:23 (GMT). [↩](#fn3a)  
+<a id="fn3">3</a>: Pfizer/BioNTech, ["Pfizer-BioNTech COVID-19 VACCINE (BNT162, PF-07302048): VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE BRIEFING DOCUMENT"](https://www.fda.gov/media/144246/download), FDA.gov, timestamped 2020-Nov-30 14:23 (GMT). [↩](#fn3a)  
 
-<a id="fn4">4</a>: FDA staff, ["FDA Briefing Document: Pfizer-BioNTech COVID-19 Vaccine"](https://www.fda.gov/media/144245/download), retrieved 2020-Dec-08. [↩](#fn4a)  
+<a id="fn4">4</a>: FDA staff, ["FDA Briefing Document: Pfizer-BioNTech COVID-19 Vaccine"](https://www.fda.gov/media/144245/download), FDA.gov, retrieved 2020-Dec-08. [↩](#fn4a)  
 
 <a id="fn5">5</a>: L Facher, ["Leading Covid-19 vaccine makers Pfizer and Moderna decline invitations to White House 'Vaccine Summit'"](https://www.statnews.com/2020/12/07/pfizer-moderna-decline-white-house-vaccine-summit/?utm_content=buffer8cadd&utm_medium=social&utm_source=twitter&utm_campaign=twitter_organic), _STAT News_, 2020-Dec-07.  [↩](#fn5a)  
 
