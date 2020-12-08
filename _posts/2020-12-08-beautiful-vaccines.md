@@ -13,11 +13,15 @@ submitted an EUA package to the FDA.  What's it look like?
 <img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-uk-first-patient.jpg" width="313" height="400" alt="BBC: first COVID-19 patient vaccinated in UK" title="BBC: first COVID-19 patient vaccinated in UK" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First, we have to note with great satisfaction that Pfizer/BioNTech submitted an EUA to
 the regulatory authorities in the UK, who have granted it.  Vaccinations began _today_,
-starting with an elderly grandmother. <sup id="fn1a">[[1]](#fn1)</sup> (She was described
-as "a former jewelry shop assistant" (though, to their credit, not by the venerable Beeb,
-cited below).  This bugs me: surely her career is not relevant data here?  Why must we be
-so reductionist about people's _jobs_, rather than the fact that they are _people_?  We
-are better than economic "cannon fodder"! <sup id="fn2a">[[2]](#fn2)</sup>)  
+starting with an elderly grandmother. <sup id="fn1a">[[1]](#fn1)</sup>  
+
+She was described as "a former jewelry shop assistant" (though, to their credit, not by
+the venerable Beeb, cited below).  This bugs me: surely her career is not relevant data
+here?  Why must we be so reductionist about people's _jobs_, rather than the fact that
+they are _people_?  We are better than economic "cannon fodder"! <sup id="fn2a">[[2]](#fn2)</sup>)  
+
+Still, cannon fodder or not&hellip; she's _vaccinated_ now.  (Or will be, upon her second
+dose 21 days from now and another 7 days to build up final immunity.)  
 
 ## Pfizer/BioNTech FDA submission for EUA in the US  
 
@@ -87,7 +91,7 @@ elderly, then everybody.  (Pediatric and pregnant trials are still ongoing.)
 
 <a id="fn1">1</a>: BBC News, ["Covid-19 vaccine: First person receives Pfizer jab in UK"](https://www.bbc.com/news/uk-55227325), _BBC News_, 2020-Dec-08. [↩](#fn1a)  
 
-<a id="fn2">2</a>: Eugene V. Debs, ["Canton, Ohio anti-war speech"](https://en.wikiquote.org/wiki/Eugene_V._Debs#The_Canton,_Ohio_Speech,_Anti-War_Speech_(1918)), 1918-Jun-16: "You need at this time especially to know that you are fit for something better than slavery and cannon fodder. You need to know that you were not created to work and produce and impoverish yourself to enrich an idle exploiter. You need to know that you have a mind to improve, a soul to develop, and a [humanity] to sustain.". [↩](#fn2a)  
+<a id="fn2">2</a>: Eugene V. Debs, ["Canton, Ohio anti-war speech"](https://en.wikiquote.org/wiki/Eugene_V._Debs#The_Canton,_Ohio_Speech,_Anti-War_Speech_(1918)), 1918-Jun-16: "You need at this time especially to know that you are fit for something better than slavery and __cannon fodder__. You need to know that you were not created to work and produce and impoverish yourself to enrich an idle exploiter. You need to know that you have a mind to improve, a soul to develop, and a [humanity] to sustain.". [↩](#fn2a)  
 
 <a id="fn3">3</a>: Pfizer/BioNTech, ["Pfizer-BioNTech COVID-19 VACCINE (BNT162, PF-07302048): VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE BRIEFING DOCUMENT"](https://www.fda.gov/media/144246/download), timestamped 2020-Nov-30 14:23 (GMT). [↩](#fn3a)  
 
