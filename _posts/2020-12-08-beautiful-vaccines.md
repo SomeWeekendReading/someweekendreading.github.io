@@ -34,11 +34,11 @@ situations that create one surprise after another.
 
 Still, I have every hope the process will work, at least 2 vaccines (Pfizer/BioNTech and
 Moderna) will get US approval before the end of 2020, and vaccinations will likely start
-next week with health care workers.  (A family member who is an active health care worker
-has already received the letter saying when &amp; where to show up to get whichever vaccine
-makes it there first.)  
+next week with health care workers.  (A member of the Weekend family who is an active
+health care worker has already received the letter saying when &amp; where to show up to
+get whichever vaccine makes it there first.)  
 
-A pleasant side-effect of an FDA submission is that a lot of data suddenly becomes
+A pleasant side-effect of an FDA submission is that lots of data suddenly become
 public.  Cases in point today are:  
 - The 92-page package submitted by Pfizer/BioNTech to the FDA. <sup id="fn3a">[[3]](#fn3)</sup>  
 - The 53-page reanalysis of the same data by FDA staff. <sup id="fn4a">[[4]](#fn4)</sup>  
@@ -51,15 +51,16 @@ yours.  If there's a match, then you get a committe hearing; if not, you get a f
 various levels of intensity, depending on how bad the screw-up is and how fast you correct
 or withdraw the application.  
 
-So the reanalysis has happened, and now we're at the stage of a hearing before the
-external advisory committee.  These committees are _smart_: they're usually academics and
-medical practitioners who are at the peaks of their fields, and experts in the disease
-under study and its therapies.  I've seen some of them, and while there is argument back
-and forth (somebody always doesn't quite get it), they almost invariably come to very
-reasonable conclusions that balance efficacy and safety.  
+So the submission happened, then the reanalysis happened, and now we're at the stage of a
+hearing before the external advisory committee.  These committees are _smart_: they're
+usually academics and medical practitioners who are at the peaks of their fields, and
+experts in the disease under study and its therapies.  I've seen some of them, and while
+there is argument back and forth (somebody always doesn't quite get it), they almost
+invariably come to very reasonable conclusions that balance efficacy and safety.  _Almost_
+always.  
 
 <img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.jpg" width="400" height="265" alt="Pfizer/BioNTech: case rates in treatment &amp; control arms" title="Pfizer/BioNTech: case rates in treatment &amp; control arms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Obviously, there's a _lot of stuff_ in there, going over the trial results in excruciating
+Obviously, there's a _lot of stuff_ in there, rehearsing the trial results in excruciating
 detail.  I've personally only excruciated a tiny bit of it, but I want to call attention to
 this _beautiful_ plot (p. 58 of the Pfizer/BioNTech submission, p. 30 of the FDA reanalysis):  
 - The horizontal axis is time.  The first injection occurred on day 1, and the second on
@@ -78,7 +79,7 @@ would like to escape.
 The blue arm, though: it shows more or less no protection up until about day 12, but then goes
 almost absolutely flat.  It completely _squashes_ the case rate to almost nothing.  Yes,
 there are a couple cases; but remember there are about 15,000 people in each arm, so the
-probability per unit time, or rate, of getting infected is driven down to almost nothing
+probability/time, or rate, of getting infected is driven down to almost nothing
 beyond a few rare events.  
 
 This is the first news that has made me hopeful in a long while.  (2020 has been hard on
@@ -109,7 +110,7 @@ Both companies wisely declined to be used thusly.
 <img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-charlie-pierce.jpg" width="400" height="109" alt="Charlie Pierce on blockhead anti-vax hearings" title="Charlie Pierce on blockhead anti-vax hearings" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/> 
 In a hair-tearingly frustrating sideshow, Senate Republicans are not to be outdone:
 they're _actively undermining_ public confidence in vaccines by holding hearings starring
-an prominent anti-vax quack. <sup id="fn6a">[[6]](#fn6)</sup>  
+an prominent anti-vaxxer quack. <sup id="fn6a">[[6]](#fn6)</sup>  
 
 That would be one Dr. Jane M. Orient, executive director of the _Association of American
 Physicians and Surgeons_.  As Charlie Pierce delicately describes them:  
@@ -157,4 +158,4 @@ self-destructive idiocy?
 
 <a id="fn7">7</a>: O Khazan, ["The Opposite of Socialized Medicine: A small, litigious group has spent decades trying to stop the government from telling doctors what to do. What happens if it succeeds?"](https://www.theatlantic.com/health/archive/2020/02/aaps-make-health-care-great-again/607015/), _The Atlantic_, 2020-Feb-25. [↩](#fn7a)  
 
-<a id="fn8">8</a>: Did you notice at the top each page that this is the blog of a _grumpy_ old retired scientist?  Believe it or not, I'm exercising self-restraint here. [↩](#fn8a)  
+<a id="fn8">8</a>: Did you notice at the top each page where it says this is the blog of a _grumpy_ old retired scientist?  Believe it or not, I'm exercising self-restraint here. [↩](#fn8a)  
