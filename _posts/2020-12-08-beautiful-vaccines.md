@@ -138,7 +138,7 @@ self-destructive idiocy?
 
 ## Added 2020-Dec-09:  
 
-Derek Lowe, over at [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) has added his own 
+Derek Lowe, over at [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/), has added his own 
 analysis of these 2 reports (and highlighted the same plot). <sup id="fn9a">[[9]](#fn9)</sup>
 He notes that nearly _all_ the cases observed in the treatment arm happend in the first 12
 days, _before_ the vaccine could raise an immune respones.  Almost nothing after that.
