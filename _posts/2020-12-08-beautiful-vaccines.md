@@ -5,7 +5,7 @@ tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
 
-Ok, nobody asked me this time, because for once I got out ahead of them.  Pfizer/BioNTech 
+Ok, nobody asked me this time, because for once I got out ahead of them.  It seems Pfizer/BioNTech 
 submitted an EUA ("emergency use authorization") package to the FDA.  What's it look like?  
 
 ## First patient vaccinated in UK today  
@@ -20,7 +20,7 @@ the venerable Beeb, cited below).  This bugs me: surely her career is not releva
 here?  Why must we be so reductionist about people's _jobs_, rather than the fact that
 they are _people_?  We are better than economic "cannon fodder"! <sup id="fn2a">[[2]](#fn2)</sup>  
 
-Still, cannon fodder or not&hellip; she's _vaccinated_ now.  (Or will be, upon her second
+Still, cannon fodder or no&hellip; she's _vaccinated_ now.  (Or will be, upon her second
 dose 21 days from now and another 7 days to build up final immunity.)  
 
 ## Pfizer/BioNTech FDA submission for EUA in the US  
@@ -61,7 +61,7 @@ reasonable conclusions that balance efficacy and safety.
 <img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.jpg" width="400" height="265" alt="Pfizer/BioNTech: case rates in treatment &amp; control arms" title="Pfizer/BioNTech: case rates in treatment &amp; control arms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Obviously, there's a _lot of stuff_ in there, going over the trial results in excruciating
 detail.  I've personally only excruciated a tiny bit of it, but I want to call attention to
-this _beautiful_ plot (p. 58 of the Pfizer/BioNTech submission, p. 30 of the FDA reanalysis).  
+this _beautiful_ plot (p. 58 of the Pfizer/BioNTech submission, p. 30 of the FDA reanalysis):  
 - The horizontal axis is time.  The first injection occurred on day 1, and the second on
   day 21.  
 - The vertical axis is the frequency of COVID-19 cases seen, as a fraction of the number
@@ -86,38 +86,33 @@ all of us, world-wide.  If you're in the US, the politics has&ellip; _not helped
 situation, to put it mildly.)  If it's approved &ndash; and it damn well _better_ be!
 &ndash; then we can look forward to being vaccinated soon.  First health care workers and
 nursing home residents, then essential workers and the elderly, then everybody.  And I
-hope it's _everybody_, anti-vaxxers included. (__NB:__ Pediatric and pregnant trials are
-still ongoing.)  
+hope it's _everybody_, anti-vaxxers included. (Hello, 
+[_Jacobson v. Massachusetts_](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts)?)  
+
+__NB:__ Pediatric and pregnant trials are still ongoing, with readouts sometime early in 2021.  
 
 ## Meanwhile, back in the Republican clown car  
 
-<img src="{{ site.baseurl
-}}/images/2020-12-08-beautiful-vaccines-decline-trump-summit.jpg" width="400" height="231"
-alt="STAT News: Pfizer/BioNTech decline Trump 'summit'" title="STAT News: Pfizer/BioNTech
-decline Trump 'summit'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid
-#000000;"/> 
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-decline-trump-summit.jpg" width="400" height="231" alt="STAT News: Pfizer/BioNTech decline Trump 'summit'" title="STAT News: Pfizer/BioNTech decline Trump 'summit'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/> 
 Ironically on the same day, _STAT News_ reports <sup id="fn5a">[[5]](#fn5)</sup> that
 Trump invited both Pfizer and Moderna to the White House for a "Vaccine Summit".  Since
 everything Trump touches dies, one should be _very dubious_ about this invitation, as it
-will likely be a stunt for Trump to claim personal credit.  ("I came up with vaccines that
-people didn't think we'd have for five years", as Trump said in a Fox News interview.  No,
-I will not link to Fox News.  You can watch Republican propaganda on your own time.)
-Notably, Pfizer refused to take government money for this, so the claim of Trump credit
-is&hellip; _peculiar_, emphasis on the "liar" part of it.  
+will likely be a stunt for Trump to claim personal credit.  (As Trump said on Sunday, in a
+Fox News phone interview: "I came up with vaccines that people didn't think we'd have for
+five years."  Like he did it personally?!  No, I will not link to Fox News.  You can watch
+Republican propaganda on your own time.  But&hellip; you _shouldn't_.)  Notably, Pfizer
+refused to take government money for this, so Trump's claim of credit is&hellip;
+_peculiar_, emphasis on the "liar" part of it.  
 
 Both companies wisely declined to be used thusly.  
 
-<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-charlie-pierce.jpg"
-width="400" height="109" alt="Charlie Pierce on blockhead anti-vax hearings"
-title="Charlie Pierce on blockhead anti-vax hearings" style="float: right; margin: 3px 3px
-3px 3px; border: 1px solid #000000;"/> 
-
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-charlie-pierce.jpg" width="400" height="109" alt="Charlie Pierce on blockhead anti-vax hearings" title="Charlie Pierce on blockhead anti-vax hearings" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/> 
 In a hair-tearingly frustrating sideshow, Senate Republicans are not to be outdone:
 they're _actively undermining_ public confidence in vaccines by holding hearings starring
 an prominent anti-vax quack. <sup id="fn6a">[[6]](#fn6)</sup>  
 
-That would be Dr. Jane M. Orient, executive director of the _Association of American
-Physicians and Surgeons_.  As Charlie Pierce delicately describes them:
+That would be one Dr. Jane M. Orient, executive director of the _Association of American
+Physicians and Surgeons_.  As Charlie Pierce delicately describes them:  
 > Before you get too impressed by the Association of American Physicians and Surgeons, you should know that it's pretty much a wingnut-welfare hiring hall for people who think the AMA is run by a cabal of Trotskyite neurosurgeons.  
 
 Some of their positions, according to Olga Khazan writing in _The Atlantic_ 
