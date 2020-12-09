@@ -136,6 +136,18 @@ self-destructive idiocy?
 [_O tempora, o mores_](https://en.wikipedia.org/wiki/O_tempora,_o_mores!), indeed!
 <sup id="fn8a">[[8]](#fn8)</sup>  
 
+## Added 2020-Dec-09:  
+
+Derek Lowe, over at [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) has added his own 
+analysis of these 2 reports (and highlighted the same plot). <sup id="fn9a">[[9]](#fn9)</sup>
+He notes that nearly _all_ the cases observed in the treatment arm happend in the first 12
+days, _before_ the vaccine could raise an immune respones.  Almost nothing after that.
+That means the efficacy after the second dose is even higher.  
+
+His conclusion:  
+>Remember, though, what an EUA is for. That word “emergency” is there for a reason: this authorization is for something extremely serious for which there is no available alternative. That’s exactly the situation we find ourselves in, on both counts, and I think that the risk/benefit ratio is clearly, overwhelmingly in favor. Let’s do it.  
+
+
 ---
 
 ## Notes &amp; References  
@@ -159,3 +171,5 @@ self-destructive idiocy?
 <a id="fn7">7</a>: O Khazan, ["The Opposite of Socialized Medicine: A small, litigious group has spent decades trying to stop the government from telling doctors what to do. What happens if it succeeds?"](https://www.theatlantic.com/health/archive/2020/02/aaps-make-health-care-great-again/607015/), _The Atlantic_, 2020-Feb-25. [↩](#fn7a)  
 
 <a id="fn8">8</a>: Did you notice at the top each page where it says this is the blog of a _grumpy_ old retired scientist?  Believe it or not, I'm exercising self-restraint here. [↩](#fn8a)  
+
+<a id="fn9">9</a>: D Lowe, ["The FDA Weighs Its First Coronavirus Vaccine"](https://blogs.sciencemag.org/pipeline/archives/2020/12/09/the-fda-weighs-its-first-coronavirus-vaccine), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/), 2020-Dec-09. [↩](#fn9a)  
