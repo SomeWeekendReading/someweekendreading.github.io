@@ -102,7 +102,7 @@ Fox News phone interview: "I came up with vaccines that people didn't think we'd
 five years."  Like he did it personally?!  No, I will not link to Fox News.  You can watch
 Republican propaganda on your own time.  But&hellip; you _shouldn't_.)  Notably, Pfizer
 refused to take government money for this, so Trump's claim of credit is&hellip;
-_peculiar_, emphasis on the "liar" part of it.  
+_peculiar_, with emphasis on the "liar" part of it.  
 
 Both companies wisely declined to be used thusly.  
 
@@ -157,4 +157,4 @@ self-destructive idiocy?
 
 <a id="fn7">7</a>: O Khazan, ["The Opposite of Socialized Medicine: A small, litigious group has spent decades trying to stop the government from telling doctors what to do. What happens if it succeeds?"](https://www.theatlantic.com/health/archive/2020/02/aaps-make-health-care-great-again/607015/), _The Atlantic_, 2020-Feb-25. [↩](#fn7a)  
 
-<a id="fn8">8</a>: Did you notice a the top of the page that this is the blog of a _grumpy_ old retired scientist?  Believe it or not, I'm exercising self-restraint here. [↩](#fn8a)  
+<a id="fn8">8</a>: Did you notice at the top each page that this is the blog of a _grumpy_ old retired scientist?  Believe it or not, I'm exercising self-restraint here. [↩](#fn8a)  
