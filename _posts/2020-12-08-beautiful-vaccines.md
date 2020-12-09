@@ -82,7 +82,7 @@ probability per unit time, or rate, of getting infected is driven down to almost
 beyond a few rare events.  
 
 This is the first news that has made me hopeful in a long while.  (2020 has been hard on
-all of us, world-wide.  If you're in the US, the politics has &ellip; _not helped_ the
+all of us, world-wide.  If you're in the US, the politics has &hellip; _not helped_ the
 situation, to put it mildly.)  If it's approved &ndash; and it damn well _better_ be!
 &ndash; then we can look forward to being vaccinated soon.  First health care workers and
 nursing home residents, then essential workers and the elderly, then everybody.  And I
