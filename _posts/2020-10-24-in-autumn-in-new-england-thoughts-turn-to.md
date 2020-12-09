@@ -1,7 +1,7 @@
 ---
 layout: post
 title: At autumn in New England, thoughts turn to...
-tags: Beauty TheDivineMadness
+tags: Beauty TheDivineMadness Physics
 comments: true
 ---
 

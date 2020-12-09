@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is the racial makeup of the Boston Police Department unrepresentative?
-tags: SomebodyAskedMe MathInTheNews Politics R
+tags: SomebodyAskedMe MathInTheNews Politics R Statistics
 comments: true
 ---
 

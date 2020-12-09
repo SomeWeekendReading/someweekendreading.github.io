@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On COVID vaccine protection persistence
-tags: COVID MathInTheNews
+tags: COVID MathInTheNews Statistics
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moderna/Lonza vaccine interim readout&colon; 95% efficacy!
-tags: COVID MathInTheNews R
+tags: COVID MathInTheNews R Statistics
 comments: true
 ---
 
