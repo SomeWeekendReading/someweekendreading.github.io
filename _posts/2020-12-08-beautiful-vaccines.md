@@ -145,8 +145,9 @@ days, _before_ the vaccine could raise an immune respones.  Almost nothing after
 That means the efficacy after the second dose is even higher.  
 
 His conclusion:  
->Remember, though, what an EUA is for. That word “emergency” is there for a reason: this authorization is for something extremely serious for which there is no available alternative. That’s exactly the situation we find ourselves in, on both counts, and I think that the risk/benefit ratio is clearly, overwhelmingly in favor. Let’s do it.  
+>Remember, though, what an EUA is for. That word "emergency" is there for a reason: this authorization is for something extremely serious for which there is no available alternative. That’s exactly the situation we find ourselves in, on both counts, and I think that the risk/benefit ratio is clearly, overwhelmingly in favor. Let’s do it.  
 
+Amen.  
 
 ---
 
