@@ -122,6 +122,28 @@ next.
 
 Though I still don't understand who on the VRBPAC abstained, or why&hellip;
 
+## Added 2020-Dec-11: HHS Secretary Azar says FDA informed Pfizer it _grants EUA_  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    NEW: HHS Azar says FDA will proceed with emergency use authorization for
+	Pfizer-BioNTech COVID-19 coronavirus vaccine and vaccinations could come as soon as
+	Monday or Tuesday of next week. <a href="https://t.co/v1dsjMAvCK">https://t.co/v1dsjMAvCK</a> 
+    <a href="https://t.co/48CGRJRTVs">pic.twitter.com/48CGRJRTVs</a>
+  </p>
+  &mdash; Good Morning America (@GMA) 
+  <a href="https://twitter.com/GMA/status/1337370945779064832?ref_src=twsrc%5Etfw">
+    December 11, 2020
+  </a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Appearing on _Good Morning America_ with George Stephanopoulos, HHS Secretary Azar
+confirms that the FDA has informed Pfizer this morning that it has granted the Emergency
+Use Authorization.  Pending a bit of paperwork, vaccinations will begin Monday or Tuesday
+of next week.  
+
+Told you it would be Monday. :-)  
+
 ---
 
 ## Notes &amp; References  
