@@ -144,6 +144,12 @@ Monday or Tuesday of next week.
 
 Told you it would be Monday. :-)  
 
+Also reported on _CNN_ <sup id="fn5a">[[5]](#fn5)</sup>, 
+_WaPo_ <sup id="fn6a">[[6]](#fn6)</sup>, and most importantly by the 
+FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
+
+> Following yesterday’s positive advisory committee meeting outcome regarding the Pfizer-BioNTech COVID-19 vaccine, the U.S. Food and Drug Administration has informed the sponsor that it will rapidly work toward finalization and issuance of an emergency use authorization. The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
+
 ---
 
 ## Notes &amp; References  
@@ -155,10 +161,14 @@ Told you it would be Monday. :-)
 
 <a id="fn1">1</a>: STAT Staff, ["FDA advisory panel endorses Pfizer/BioNTech Covid-19 vaccine"](https://www.statnews.com/2020/12/10/tracking-the-fda-advisory-panel-meeting-on-the-pfizer-biontech-covid-19-vaccine/), _STAT News_, 2020-Dec-10, 6:30pm. [↩](#fn1a)  
 
-<a id="fn2">2</a>: Does it even have a name yet?  We can't keep calling it "the Pfizer/BioNTech
-COVID-19 vaccine".  The formal name for the studies is the BioNTech id, BNT162b2.  That's
-not exactly an improvement! [↩](#fn2a)  
+<a id="fn2">2</a>: Does it even have a name yet?  We can't keep calling it "the Pfizer/BioNTech COVID-19 vaccine".  The formal name for the studies is the BioNTech id, BNT162b2.  That's not exactly an improvement! [↩](#fn2a)  
 
 <a id="fn3">3</a>: E Rubin, _et al._, ["Audio Interview: SARS-CoV-2 Vaccination and Vulnerable Populations"](https://www.nejm.org/doi/full/10.1056/NEJMe2034906), _NEJM_, 2020-Dec-10.[↩](#fn3a)  
 
 <a id="fn4">4</a>: C4591001 Clinical Trial Group, ["Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine"](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577), _NEJM_, 2020-Dec-10.[↩](#fn4a)  
+
+<a id="fn5">5</a>: C Maxouris, J Hanna, N Thomas, ["FDA intends to 'proceed towards an authorization' of Covid-19 vaccine, official says, as cases soar"](https://www.cnn.com/2020/12/11/health/us-coronavirus-friday/index.html), _CNN_, 2020-Dec-11. [↩](#fn5a)  
+
+<a id="fn6">6</a>: L McGinley, C Johnson, J Achenbach, ["FDA says it ‘will rapidly work toward’ authorization of Pfizer-BioNTech coronavirus vaccine"](https://www.washingtonpost.com/health/2020/12/10/fda-advisory-panel-recommends-covid-vaccine/), _Washington Post_, 2020-Dec-11. [↩](#fn6a)  
+
+<a id="fn7">7</a>: FDA Commissioner Stephen Hahn, Center for Biologics Evaluation and Research (CBER) Peter Marks, ["Biological Products Advisory Committee Meeting"](https://www.fda.gov/news-events/press-announcements/fda-statement-vaccines-and-related-biological-products-advisory-committee-meeting), FDA.gov web site, 2020-Dec-11. [↩](#fn7a)  
