@@ -137,10 +137,10 @@ Though I still don't understand who on the VRBPAC abstained, or why&hellip;
   </a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Appearing on _Good Morning America_ with George Stephanopoulos, HHS Secretary Azar
-confirms that the FDA has informed Pfizer this morning that it has granted the Emergency
-Use Authorization.  Pending a bit of paperwork, vaccinations will begin Monday or Tuesday
-of next week.  
+Appearing on _Good Morning America_ with George Stephanopoulos early this morning, HHS
+Secretary Azar confirms that the FDA has informed Pfizer this morning that it has granted
+the Emergency Use Authorization.  Pending a bit of paperwork, vaccinations will begin
+Monday or Tuesday of next week.  
 
 Told you it would be Monday. :-)  
 
