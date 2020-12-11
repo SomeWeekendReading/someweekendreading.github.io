@@ -55,7 +55,7 @@ any conceivable analysis" (_quite_ a strong endorsement, thinks this grizzled ol
 statistian) and: "This is a triumph."  
 
 Also, the Phase 3 trial report on clinical trial
-[NCT04368728](http://clinicaltrials.gov/show/NCT04368728) made it past peer review and 
+[NCT04368728](https://clinicaltrials.gov/show/NCT04368728) made it past peer review and 
 was published this morning, also in the prestigious _NEJM_. 
 <sup id="fn4a">[[4]](#fn4)</sup>  It's a thing of beauty.  I do not say that lightly.  
 
