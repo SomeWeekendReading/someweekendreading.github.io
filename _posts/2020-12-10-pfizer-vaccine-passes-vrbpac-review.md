@@ -148,7 +148,7 @@ Also reported on _CNN_ <sup id="fn5a">[[5]](#fn5)</sup>,
 _WaPo_ <sup id="fn6a">[[6]](#fn6)</sup>, and most importantly by the 
 FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
 
-> Following yesterday’s positive advisory committee meeting outcome regarding the Pfizer-BioNTech COVID-19 vaccine, the U.S. Food and Drug Administration has informed the sponsor that it will rapidly work toward finalization and issuance of an emergency use authorization. The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
+> Following yesterday’s positive advisory committee meeting outcome regarding the Pfizer-BioNTech COVID-19 vaccine, the __U.S. Food and Drug Administration has informed the sponsor that it will rapidly work toward finalization and issuance of an emergency use authorization.__ The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
 
 ---
 
