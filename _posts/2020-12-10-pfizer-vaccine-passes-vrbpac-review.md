@@ -114,7 +114,13 @@ adequately represented: 26% Latino, 10% Black).
 Why do we have to be so crazy?  Given we have to be so crazy, why do we have to be so
 _stupid_?!  
 
+## Conclusion: today is a good day  
 
+It's highly likely vaccinations can begin in earnest next week.  Moderna is following
+fast, and will likely approximately double our vaccination capability by the week after
+next.  
+
+Though I still don't understand who on the VRBPAC abstained, or why&hellip;
 
 ---
 
