@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pfizer/BioNTech vaccine passes FDA external advisory committee
+title: Pfizer/BioNTech vaccine passes FDA external advisory committee!
 tags: COVID PharmaAndBiotech 
 comments: true
 ---
@@ -103,7 +103,7 @@ Pfizer did happily note, though, that they had only 1 severe COVID-19 case (due 
 drop in blood O2 levels) in the treatment arm.  
 
 
-## Conspiracy theories  
+## Issues that concerned VRBPAC members: conspiracy theories  
 
 There were, of course, public comments.  And some of them were wild and wooly accusations
 that vaccines permanently injure people, or the extreme canard that they contain aborted
