@@ -112,7 +112,7 @@ only whites (it was carefully designed to have multiple ethnic groups and both g
 adequately represented: 26% Latino, 10% Black).  
 
 Why do we have to be so crazy?  Given we have to be so crazy, why do we have to be so
-_damn stupid_?!  
+_damn stupid?!_  
 
 ## Conclusion: today is a good day  
 
@@ -120,7 +120,10 @@ It's highly likely vaccinations can begin in earnest next week.  Moderna is foll
 fast, and will likely approximately double our vaccination capability by the week after
 next.  
 
-Though I still don't understand who on the VRBPAC abstained, or why&hellip;
+Though I still don't understand who on the VRBPAC abstained, or why&hellip; (Later: it
+appears most of the "no" votes as well as the abstention were over the issue of 16-17 year
+olds vs age 18 and over.  The younger ones were added later in the trial, and there's less
+safety data for them.  That will be cleared up next year with pediatric trials.)  
 
 ## Added 2020-Dec-11: HHS Secretary Azar says FDA informed Pfizer it _will grant EUA_  
 
