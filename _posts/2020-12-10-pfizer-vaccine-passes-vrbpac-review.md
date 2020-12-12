@@ -135,7 +135,7 @@ Though I still don't understand who on the VRBPAC abstained, or why&hellip;
   <a href="https://twitter.com/GMA/status/1337370945779064832?ref_src=twsrc%5Etfw">
     December 11, 2020
   </a>
-</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Appearing on _Good Morning America_ with George Stephanopoulos early this morning, HHS
 Secretary Azar confirms that the FDA has informed Pfizer this morning that it has granted
