@@ -150,6 +150,26 @@ FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
 
 > Following yesterday’s positive advisory committee meeting outcome regarding the Pfizer-BioNTech COVID-19 vaccine, the __U.S. Food and Drug Administration has informed the sponsor that it will rapidly work toward finalization and issuance of an emergency use authorization.__ The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
 
+
+## Added 2020-Dec-12: Pointless performative cruelty from Trump  
+
+<img src="{{ site.baseurl }}/images/2020-12-10-pfizer-vaccine-passes-vrbpack-review-trump-performative-cruelty.jpg" width="400" height="267" alt="Trump: performative cruelty" title="Trump: performative cruelty" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+In one of his trademark acts of cruel ignorance, Trump intervened in the FDA approval
+process, even though it's finished for all but a bit of paperwork.  He _publicly threatened_ FDA
+Commissioner Hahn that if he didn't get the approval finished on Friday, he would have to
+resign; this for an EUA that was on track for approval _the next day_.
+<sup id="fn8a">[[8]](#fn8)</sup>  
+
+As a result, instead of being approved Saturday morning, it was approved Friday night.
+This makes _no difference whatsoever_ in the outcome, or in the timing of vaccinations.  
+
+Trump simply had to be seen personally as the cause of the vaccine, even if it involved pointless
+whip-cracking on the backs of people busily pulling off a medical miracle.  Never mind
+that Pfizer has refused any money from Operation Warp Speed, and thus the Trump cabal had
+absolutely _nothing_ to do with the result.  By this act of performative stupidity and
+cruelty, his "basket of deplorables" will believe otherwise.  That's what basket cases do,
+apparently.
+
 ---
 
 ## Notes &amp; References  
@@ -172,3 +192,5 @@ FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
 <a id="fn6">6</a>: L McGinley, C Johnson, J Achenbach, ["FDA says it ‘will rapidly work toward’ authorization of Pfizer-BioNTech coronavirus vaccine"](https://www.washingtonpost.com/health/2020/12/10/fda-advisory-panel-recommends-covid-vaccine/), _Washington Post_, 2020-Dec-11. [↩](#fn6a)  
 
 <a id="fn7">7</a>: FDA Commissioner Stephen Hahn, Center for Biologics Evaluation and Research (CBER) Peter Marks, ["Biological Products Advisory Committee Meeting"](https://www.fda.gov/news-events/press-announcements/fda-statement-vaccines-and-related-biological-products-advisory-committee-meeting), FDA.gov web site, 2020-Dec-11. [↩](#fn7a)  
+
+<a id="fn8">8</a>: K Collins, K Liptak, J Acosta, ["White House chief of staff told FDA chief vaccine must be authorized Friday or he needs to resign"](https://www.cnn.com/2020/12/11/politics/white-house-fda-chief-approve-covid-vaccine-resign/index.html), _CNN_, 2020-Dec-11. [↩](#fn8a)  
