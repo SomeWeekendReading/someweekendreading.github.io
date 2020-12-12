@@ -122,7 +122,7 @@ next.
 
 Though I still don't understand who on the VRBPAC abstained, or why&hellip;
 
-## Added 2020-Dec-11: HHS Secretary Azar says FDA informed Pfizer it _grants EUA_  
+## Added 2020-Dec-11: HHS Secretary Azar says FDA informed Pfizer it _will grant EUA_  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -151,14 +151,14 @@ FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
 > Following yesterday’s positive advisory committee meeting outcome regarding the Pfizer-BioNTech COVID-19 vaccine, the __U.S. Food and Drug Administration has informed the sponsor that it will rapidly work toward finalization and issuance of an emergency use authorization.__ The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
 
 
-## Added 2020-Dec-12: Pointless performative cruelty from Trump  
+## Added 2020-Dec-12: the clown car pulls up &amp; excretes Trump  
 
 <img src="{{ site.baseurl }}/images/2020-12-10-pfizer-vaccine-passes-vrbpack-review-trump-performative-cruelty.jpg" width="400" height="267" alt="Trump: performative cruelty" title="Trump: performative cruelty" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-
-In one of his trademark acts of cruel ignorance, Trump intervened in the FDA approval
-process, even though it's finished for all but a bit of paperwork.  On Friday afternoon,
-he _publicly threatened_ FDA Commissioner Hahn that if he didn't get the approval finished
-by Friday evening, he would have to resign; this for an EUA that was on track for approval _the
+In one of his trademark acts of performative cruelty and ignorance, Trump intervened in
+the FDA approval process, even though it's finished for all but a bit of paperwork.  On
+Friday afternoon, he _publicly threatened_ FDA Commissioner Hahn that if he didn't get the
+approval finished by Friday evening, he would have to resign; this for an EUA that was on
+track for approval _the
 next day_. <sup id="fn8a">[[8]](#fn8)</sup>  
 
 As a result, instead of being approved Saturday morning, it was approved Friday night.
