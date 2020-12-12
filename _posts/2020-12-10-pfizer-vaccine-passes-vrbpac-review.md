@@ -139,7 +139,7 @@ safety data for them.  That will be cleared up next year with pediatric trials.)
     December 11, 2020
   </a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>  
 
 Appearing on _Good Morning America_ with George Stephanopoulos early this morning, HHS
 Secretary Azar confirms that the FDA has informed Pfizer this morning that it has granted
@@ -150,7 +150,7 @@ Told you it would be Monday. :-)
 
 Also reported on _CNN_ <sup id="fn5a">[[5]](#fn5)</sup>, 
 _WaPo_ <sup id="fn6a">[[6]](#fn6)</sup>, and most importantly by the 
-FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
+FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:  
 
 > Following yesterday’s positive advisory committee meeting outcome regarding the Pfizer-BioNTech COVID-19 vaccine, the __U.S. Food and Drug Administration has informed the sponsor that it will rapidly work toward finalization and issuance of an emergency use authorization.__ The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
 
@@ -175,7 +175,7 @@ whip-cracking on the backs of people busily pulling off a medical miracle.  Neve
 that Pfizer has refused any money from Operation Warp Speed, and thus the Trump cabal had
 absolutely _nothing_ to do with the result.  By this act of performative stupidity and
 cruelty, his "basket of deplorables" will believe otherwise.  That's what basket cases do,
-apparently.
+apparently.  
 
 ---
 
