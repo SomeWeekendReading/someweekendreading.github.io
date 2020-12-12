@@ -167,6 +167,9 @@ track for approval _the next day_. <sup id="fn8a">[[8]](#fn8)</sup>
 As a result, instead of being approved Saturday morning, it was approved Friday night.
 This makes _no difference whatsoever_ in the outcome, or in the timing of vaccinations.  
 
+Just to set the scale on your paranoia barometer, Trump is apparentlly asking suspiciously
+if Pfizer is run by Democrats who are out to get him. <sup id="fn9a">[[9]](#fn9)</sup>  
+
 Trump simply had to be seen personally as the cause of the vaccine, even if it involved pointless
 whip-cracking on the backs of people busily pulling off a medical miracle.  Never mind
 that Pfizer has refused any money from Operation Warp Speed, and thus the Trump cabal had
@@ -198,3 +201,5 @@ apparently.
 <a id="fn7">7</a>: FDA Commissioner Stephen Hahn, Center for Biologics Evaluation and Research (CBER) Peter Marks, ["Biological Products Advisory Committee Meeting"](https://www.fda.gov/news-events/press-announcements/fda-statement-vaccines-and-related-biological-products-advisory-committee-meeting), FDA.gov web site, 2020-Dec-11. [↩](#fn7a)  
 
 <a id="fn8">8</a>: K Collins, K Liptak, J Acosta, ["White House chief of staff told FDA chief vaccine must be authorized Friday or he needs to resign"](https://www.cnn.com/2020/12/11/politics/white-house-fda-chief-approve-covid-vaccine-resign/index.html), _CNN_, 2020-Dec-11. [↩](#fn8a)  
+
+<a id="fn9">9</a>: A Suebsaeng, S Stein, ["Trump Grows Increasingly Angry With FDA, Wonders if COVID Vaccine Makers Are 'Democrats'"](https://www.thedailybeast.com/trump-grows-increasingly-angry-with-fda-wonders-if-covid-vaccine-makers-are-democrats?ref=home), _Daily Beast_, 2020-Dec-11. [↩](#fn9a)  
