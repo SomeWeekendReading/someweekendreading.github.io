@@ -154,11 +154,12 @@ FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
 ## Added 2020-Dec-12: Pointless performative cruelty from Trump  
 
 <img src="{{ site.baseurl }}/images/2020-12-10-pfizer-vaccine-passes-vrbpack-review-trump-performative-cruelty.jpg" width="400" height="267" alt="Trump: performative cruelty" title="Trump: performative cruelty" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+
 In one of his trademark acts of cruel ignorance, Trump intervened in the FDA approval
-process, even though it's finished for all but a bit of paperwork.  He _publicly threatened_ FDA
-Commissioner Hahn that if he didn't get the approval finished on Friday, he would have to
-resign; this for an EUA that was on track for approval _the next day_.
-<sup id="fn8a">[[8]](#fn8)</sup>  
+process, even though it's finished for all but a bit of paperwork.  On Friday afternoon,
+he _publicly threatened_ FDA Commissioner Hahn that if he didn't get the approval finished
+on Friday, he would have to resign; this for an EUA that was on track for approval _the
+next day_. <sup id="fn8a">[[8]](#fn8)</sup>  
 
 As a result, instead of being approved Saturday morning, it was approved Friday night.
 This makes _no difference whatsoever_ in the outcome, or in the timing of vaccinations.  
