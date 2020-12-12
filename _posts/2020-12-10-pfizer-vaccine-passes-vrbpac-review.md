@@ -158,7 +158,7 @@ FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
 In one of his trademark acts of cruel ignorance, Trump intervened in the FDA approval
 process, even though it's finished for all but a bit of paperwork.  On Friday afternoon,
 he _publicly threatened_ FDA Commissioner Hahn that if he didn't get the approval finished
-on Friday, he would have to resign; this for an EUA that was on track for approval _the
+by Friday evening, he would have to resign; this for an EUA that was on track for approval _the
 next day_. <sup id="fn8a">[[8]](#fn8)</sup>  
 
 As a result, instead of being approved Saturday morning, it was approved Friday night.
