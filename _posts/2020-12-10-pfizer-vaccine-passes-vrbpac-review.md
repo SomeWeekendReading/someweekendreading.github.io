@@ -57,7 +57,9 @@ statistian) and: "This is a triumph."
 Also, the Phase 3 trial report on clinical trial
 [NCT04368728](https://clinicaltrials.gov/show/NCT04368728) made it past peer review and 
 was published this morning, also in the prestigious _NEJM_. 
-<sup id="fn4a">[[4]](#fn4)</sup>  It's a thing of beauty.  I do not say that lightly.  
+<sup id="fn4a">[[4]](#fn4)</sup>  
+
+It's a thing of beauty.  I do not say that lightly.  
 
 
 ## Issues that concerned VRBPAC members: pediatric patients  
@@ -106,7 +108,7 @@ drop in blood O2 levels) in the treatment arm.
 ## Issues that concerned VRBPAC members: conspiracy theories  
 
 There were, of course, public comments.  And some of them were wild and wooly accusations
-that vaccines permanently injure people, or the extreme canard that they contain aborted
+that vaccines permanently injure people (sigh), or the extreme canard that they contain aborted
 fetal cells (wildly false-to-fact), or bizarre assertions that the clinical trial enrolled
 only whites (it was carefully designed to have multiple ethnic groups and both genders
 adequately represented: 26% Latino, 10% Black).  
@@ -162,15 +164,14 @@ In one of his trademark acts of performative cruelty &amp; ignorance, Trump inte
 the FDA approval process, even though it's finished for all but a bit of paperwork.  On
 Friday afternoon, he _publicly threatened_ FDA Commissioner Hahn that if he didn't get the
 approval finished by Friday evening, he would have to resign; this for an EUA that was on
-track for approval _the next day_. <sup id="fn8a">[[8]](#fn8)</sup>  
+track for approval _the next day_. <sup id="fn8a">[[8]](#fn8)</sup> (Just to set the scale
+on your paranoia barometer, Trump is apparentlly asking suspiciously
+if Pfizer is run by Democrats who are out to get him. <sup id="fn9a">[[9]](#fn9)</sup>)  
 
 As a result, instead of being approved Saturday morning, it was approved Friday night.
 This makes _no difference whatsoever_ in the outcome, or in the timing of vaccinations.  
 
-Just to set the scale on your paranoia barometer, Trump is apparentlly asking suspiciously
-if Pfizer is run by Democrats who are out to get him. <sup id="fn9a">[[9]](#fn9)</sup>  
-
-Trump simply had to be seen personally as the cause of the vaccine, even if it involved pointless
+Trump simply had to be seen _personally_ as the cause of the vaccine, even if it involved pointless
 whip-cracking on the backs of people busily pulling off a medical miracle.  Never mind
 that Pfizer has refused any money from Operation Warp Speed, and thus the Trump cabal had
 absolutely _nothing_ to do with the result.  By this act of performative stupidity and
