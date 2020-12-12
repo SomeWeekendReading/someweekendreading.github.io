@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pfizer/BioNTech vaccine passes FDA external advisory committee!
-tags: COVID PharmaAndBiotech 
+tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
 
