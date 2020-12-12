@@ -112,7 +112,7 @@ only whites (it was carefully designed to have multiple ethnic groups and both g
 adequately represented: 26% Latino, 10% Black).  
 
 Why do we have to be so crazy?  Given we have to be so crazy, why do we have to be so
-_stupid_?!  
+_damn stupid_?!  
 
 ## Conclusion: today is a good day  
 
