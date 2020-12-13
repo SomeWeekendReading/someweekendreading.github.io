@@ -420,7 +420,7 @@ need of an angry magistrate for the punishment of foolish and wicked men."
 
 "In America everybody is of opinion that he has no social superiors, since all men are equal, but he does not admit that he has no social inferiors, for, from the time of Jefferson onward, the doctrine that all men are equal applies only upwards, not downwards."
 &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russel),
-["Ideas That Have Harmed Mankind", Chapter 7 of _Unpopular Essays_](https://en.wikiquote.org/wiki/Unpopular_Essays#Chapter_10:_Ideas_That_Have_Harmed_Mankind), 1950.  
+["Ideas That Have Harmed Mankind", Chapter 10 of _Unpopular Essays_](https://en.wikiquote.org/wiki/Unpopular_Essays#Chapter_10:_Ideas_That_Have_Harmed_Mankind), 1950.  
 
 
 ## Those of Rational &amp; Scientific Bent
@@ -602,7 +602,7 @@ now vanished.
 "There are only two mistakes one can make along the road to truth; not going all the
 way, and not starting. &mdash; [Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)  
 
-"Truth is just truth &ndash; You can't have opinions about the truth."
+"Truth is just truth &ndash; you can't have opinions about the truth."
 &mdash; [Peter Schickele](https://en.wikipedia.org/wiki/Peter_Schickele), from
 [P.D.Q. Bach](https://en.wikipedia.org/wiki/P._D._Q._Bach)'s oratorio "The Seasonings"  
 
@@ -629,7 +629,7 @@ p. 2.
 
 "Essentially, all models are wrong, but some are useful." &mdash; [George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box), [_Empirical Model-Building and Response Surfaces_](https://pdfs.semanticscholar.org/5d09/0074d5fa968d852e4468820cb683040d075a.pdf), 1987.  
 
-"&hellip; all generalizations suck." &mdash; [David Brin](https://en.wikipedia.org/wiki/David_Brin), ["Scholarship vs Science"](http://davidbrin.blogspot.com/2005/08/scholarship-vs-science.html), August 2005.  
+"&hellip; all generalizations suck." &mdash; [David Brin](https://en.wikipedia.org/wiki/David_Brin), ["Scholarship vs Science"](http://davidbrin.blogspot.com/2005/08/scholarship-vs-science.html), August 2005.  (Including this one?)  
 
 "The best thing about being a statistician is that you get to play in everyone's
 backyard."  &mdash; [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)  
@@ -658,7 +658,7 @@ you can't be a modern intellectual and not think probabilistically &mdash; but..
 suckers. The problem is much more complicated than it seems to the casual, mechanistic
 user who picked it up in graduate school. Statistics can fool you." 
 &mdash; [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), 
-[The Fourth Quadrant: a Map of the Limits of Statistics](http://www.edge.org/3rd_culture/taleb08/taleb08_index.html)  
+[_The Fourth Quadrant: a Map of the Limits of Statistics_](http://www.edge.org/3rd_culture/taleb08/taleb08_index.html)  
 
 "But statistical regularities, like facts, are stubborn things. You bet against them at your peril." &mdash; [Alan S. Blinder](https://en.wikipedia.org/wiki/Alan_Blinder), Princeton economics professor &amp; former vice chair of the Federal Reserve, ["Is History Siding with Obama's Economic Plan?"](https://www.nytimes.com/2008/08/31/business/31view.html), NYT 30-Aug-2008.  
 

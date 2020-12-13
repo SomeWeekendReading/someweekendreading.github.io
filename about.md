@@ -9,6 +9,7 @@ description: What's this all about, then?
 
 ## Who?
 
+<img src="{{ site.baseurl }}/images/2020-07-01-about-weekend-publisher.jpg" width="400" height="400" alt="Your humble Weekend Publisher, in all his curmudgeonly glory" title="Your humble Weekend Publisher, in all his curmudgeonly glory" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Your humble Weekend Editor is a now-retired scientist, having (barely) survived a career
 in theoretical physics, then artificial intelligence &amp; machine learning, and finally
 the application of all of those to cancer drug discovery research.  He is now gamely
@@ -68,6 +69,6 @@ Weekend Editor _never_ does anything fashionable.  It's almost a matter of _prin
 
 ## Contact
 
-Um... try the email link at the top of every page, maybe?  The comment feature on posts
+Um... try the email link at the top of every page, maybe?  Also, the comment feature on posts
 seems to be working, albeit clunkily (e.g., if you disable Javascript it will "work" but display
 some useless JSON when it's done, requiring use of the BACK button).  

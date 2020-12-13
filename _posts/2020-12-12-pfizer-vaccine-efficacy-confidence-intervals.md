@@ -127,6 +127,7 @@ divided by the total number of subjects in the arm, for example.  (But we can do
 see below.)  
 
 The the efficacy in percent is:  
+
 $$
 \begin{align}\label{eq:efficacydefn}
 \mbox{efficacy} = 100.0 * (1 - \frac{p_\mathrm{trt}}{p_{\mathrm{cnt}}})
