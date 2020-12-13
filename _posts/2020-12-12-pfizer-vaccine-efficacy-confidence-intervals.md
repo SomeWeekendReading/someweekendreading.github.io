@@ -222,17 +222,16 @@ Going down the plots:
 
 ## But what about efficacies?  
 
-...TBD: efficacy is now the ratio of 2 Beta-distributed random variables
+...TBD: efficacy is now the ratio of 2 Beta-distributed random variables  
 
-...TBD: distribution calculated by Pham-Gia https://www.tandfonline.com/doi/abs/10.1080/03610920008832632
-but is paywalled. 
+...TBD: distribution calculated by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup> but is paywalled.  
 
-... TBD: Ah: it's a combination of Beta and hypergeometric functions 2F1: 
-https://github.com/jsaffer/beta_quotient_distribution
+... TBD: Ah: it's a combination of Beta and hypergeometric functions 2F1; not gonna do that.
+<sup id="fn5a">[[5]](#fn5)</sup>  
 
-... TBD: do it empirically, by sampling
+... TBD: do it empirically, by sampling  
 
-... TBD: explain results
+... TBD: explain results  
 
 
 ## So what does that mean?  
@@ -270,8 +269,8 @@ He's matured well, and that's why I read his blog. [↩](#fn1a)
 
 <a id="fn3">3</a>: FDA staff, ["FDA Briefing Document: Pfizer-BioNTech COVID-19 Vaccine"](https://www.fda.gov/media/144245/download), FDA.gov, retrieved 2020-Dec-12. [↩](#fn3a)  
 
-<a id="fn4">4</a>: ... [↩](#fn4a)  
+<a id="fn4">4</a>: T Pham-Gia, ["Distributions of the ratios of independent beta variables and applications"](https://www.tandfonline.com/doi/abs/10.1080/03610920008832632), _Comm Stat: Theory &amp; Methods_, 29:12, 2693-2715. [DOI: 10.1080/03610920008832632](https://doi.org/10.1080/03610920008832632) [↩](#fn4a)  
 
-<a id="fn5">5</a>: ... [↩](#fn5a)  
+<a id="fn5">5</a>: J Saffer, ["Beta Quotient Distribution"](https://github.com/jsaffer/beta_quotient_distribution), _GitHub Repository_, retrieved 2020-Dec-12. [↩](#fn5a)  
 
 <a id="fn6">6</a>: Weekend Editor, [Pfizer vaccine efficacy confidence interval script in R]({{ site.baseurl }}/assets/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-script.r), _Some Weekend Reading_, 2020-Dec-12. [↩](#fn6a)  
