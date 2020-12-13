@@ -246,7 +246,7 @@ turns out this has all been worked out by Pham-Gia <sup id="fn4a">[[4]](#fn4)</s
 but is paywalled and costs 51 USD to read!  I suppose I could write and ask for a copy of
 this 20-year-old paper, but that's too annoying.  
 
-Then it turned out that Saffer also had this problem, got hold of the paper somehow,
+Then it turned out that Saffer also had this problem, got hold of the Pham-Gia paper somehow,
 and wrote some software in a GitHub repository. <sup id="fn5a">[[5]](#fn5)</sup>
 But&hellip; the quoted result is rather complex, invovling both Beta functions and 
 hypergeometric functions:  
@@ -257,13 +257,13 @@ hypergeometric functions:
 working through some childhood trauma around hypergeometric functions like ${}\_{2}F\_{1}()$.
 So&hellip; not gonna go there either.  
 
-So we'll do it numerically: start with equations $\eqref{eq:efficacydefn}$ and 
+So we'll do it numerically: start with equations $\eqref{eq:efficacydefn}$ and
 $\eqref{eq:posteriorBeta}$ &ndash; $\eqref{eq:posteriorBeta2}$.  Draw many random samples
-from the appropriate Beta distributions, and compute samples of the ratio.  Then determine
-the quantiles numerically.  
+from the appropriate pair of Beta distributions, and thus compute samples of the ratio.
+Then determine the quantiles numerically.  
 
 Here's the result:  
-```R
+```
   Subgroup  Ntrt Ntrtinf  Ncnt Ncntinf    VE   2.5%  50% 97.5%
 1  Overall 18559       9 18708     169  94.6   89.7 94.2  97.2
 2    16-17    58       0    61       1 100.0 -393.7 57.0  98.7
