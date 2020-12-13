@@ -50,8 +50,8 @@ value is somewhere in the interval [89.6, 97.6].  But if you have to have a sing
 for some Philistine reason or other, then the best single estimate is 94.6%.  See how that
 works?  We report a single best estimate (94.6%) and a confidence interval (89.6% &ndash;
 97.6%) and a confidence level (95%).  That way, we get the single number people want, but
-we get a measure of uncertainty: we're 95% certain it's somewhere in that interval, and
-here's your best bet (typically a median or mode of a Bayesian posterior distribution).  
+we get a measure of uncertainty: we're 95% certain it's somewhere in this interval, and
+here's your best single bet (typically a median or mode of a Bayesian posterior distribution).  
 
 There are about a bajillion ways of computing a confidence interval and its point
 estimate.  Those methods are argued about furiously by statisticians.  But as a consumer of
@@ -61,7 +61,8 @@ with a confidence interval of 1% &ndash; 99%, then a look at that huge confidenc
 interval tells you the 83% point estimate is worthless: it could be _almost anything_!  
 
 So the second of Gary's questions can be addressed by looking at the Pfizer vaccine
-efficacy confidence intervals, and seeing if they inspire confidence.  
+efficacy confidence intervals, and seeing if they inspire confidence.  (Answer: both yes
+and no.)  
 
 
 ## The Pfizer vaccine effiacy &amp; its confidence interval, by age cohorts  
