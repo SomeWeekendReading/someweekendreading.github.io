@@ -64,7 +64,7 @@ So the second of Gary's questions can be addressed by looking at the Pfizer vacc
 efficacy confidence intervals, and seeing if they inspire confidence.  
 
 
-## The Pfizer vaccine effiacy and its confidence interval, by age cohorts  
+## The Pfizer vaccine effiacy &amp; its confidence interval, by age cohorts  
 
 <img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-fda.jpg" width="400" height="212" alt="FDA: Pfizer vaccine efficacy &amp; confidence limits by age groups" title="FDA: Pfizer vaccine efficacy &amp; confidence limits by age groups" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 So here's the relevant extract from Table 8 of the FDA's reanalysis.  
@@ -113,10 +113,10 @@ voted _against_ approval for 16-17 year olds: the data just isn't there.
 The efficacy is computed (apparently; I'm reverse engineering here!) as follows.  First,
 define the probability of infection, conditional on the arm of the trial:  
 $$
-\begin{align*}
+\begin{align}
 p_{\mathrm{trt}} & = \Pr(\mbox{infection} | \mbox{treatment}) \\
 p_{\mathrm{cnt}} & = \Pr(\mbox{infection} | \mbox{control})
-\end{align*}
+\end{align}
 $$
 
 You might do a point estimate for those based on the number of infections in the arm
@@ -125,9 +125,9 @@ see below.)
 
 The the efficacy in percent is:  
 $$
-\begin{align*}
+\begin{align}
 \mbox{efficacy} = 100.0 * (1 - \frac{p_\mathrm{trt}}{p_{\mathrm{cnt}}})
-\end{align*}
+\end{align}
 $$
 
 If we try that, we reproduce the Pfizer table above pretty well:  
@@ -190,10 +190,10 @@ $$
 Then, as we've done several times now, we can assume a uniform (Beta distribution $B(1, 1)$) 
 prior on $p_{\mathrm{trtinf}}$ and $p_{\mathrm{cntinf}}$, which leads to Beta posteriors:  
 $$
-\begin{align*}
+\begin{align}
 \Pr(p_{\mathrm{trtinf}} | \mbox{trt}) & \sim \mathrm{Beta}(N_{\mathrm{trtinf}} + 1, N_{\mathrm{trt}} -  N_{\mathrm{trtinf}} + 1) \\
 \Pr(p_{\mathrm{cntinf}} | \mbox{cnt}) & \sim \mathrm{Beta}(N_{\mathrm{cntinf}} + 1, N_{\mathrm{cnt}} -  N_{\mathrm{cntinf}} + 1)
-\end{align*}
+\end{align}
 $$
 
 <a href="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-posterior-betas.png" target="_blank"><img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-posterior-betas.png" height="750" width="300" alt="Bayesian posteriors" title="Bayesian posteriors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -224,7 +224,8 @@ Going down the plots:
 
 ...TBD: efficacy is now the ratio of 2 Beta-distributed random variables  
 
-...TBD: distribution calculated by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup> but is paywalled.  
+...TBD: distribution calculated by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup> but is
+paywalled and costs 51 USD to read!  
 
 ... TBD: Ah: it's a combination of Beta and hypergeometric functions 2F1; not gonna do that.
 <sup id="fn5a">[[5]](#fn5)</sup>  
