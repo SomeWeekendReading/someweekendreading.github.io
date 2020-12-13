@@ -249,7 +249,7 @@ but the paper is paywalled and costs \$51 to read!  I suppose I could write to h
 for a copy of this 20-year-old paper, but that's too annoying.  
 
 Then it turned out that Saffer also had this problem, got hold of the Pham-Gia paper somehow,
-and wrote some software in a GitHub repository. <sup id="fn5a">[[5]](#fn5)</sup>
+and wrote some software in a GitHub repository. <sup id="fn5a">[[5]](#fn5)</sup> 
 But&hellip; the quoted result is rather complex, invovling both Beta functions and 
 hypergeometric functions:  
 
