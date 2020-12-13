@@ -192,9 +192,9 @@ Then, as we've done several times now, we can assume a uniform (Beta distributio
 prior on $p_{\mathrm{trtinf}}$ and $p_{\mathrm{cntinf}}$, which leads to Beta posteriors:  
 
 $$
-\begin{align} \label{eq:posteriorBeta}
-\Pr(p_{\mathrm{trtinf}} | \mbox{trt}) & \sim \mathrm{Beta}(N_{\mathrm{trtinf}} + 1, N_{\mathrm{trt}} -  N_{\mathrm{trtinf}} + 1) \\
-\Pr(p_{\mathrm{cntinf}} | \mbox{cnt}) & \sim \mathrm{Beta}(N_{\mathrm{cntinf}} + 1, N_{\mathrm{cnt}} -  N_{\mathrm{cntinf}} + 1)
+\begin{align}
+\label{eq:posteriorBeta} \Pr(p_{\mathrm{trtinf}} | \mbox{trt}) & \sim \mathrm{Beta}(N_{\mathrm{trtinf}} + 1, N_{\mathrm{trt}} -  N_{\mathrm{trtinf}} + 1) \\
+\label{eq:posteriorBeta2} \Pr(p_{\mathrm{cntinf}} | \mbox{cnt}) & \sim \mathrm{Beta}(N_{\mathrm{cntinf}} + 1, N_{\mathrm{cnt}} -  N_{\mathrm{cntinf}} + 1)
 \end{align}
 $$
 
@@ -258,9 +258,9 @@ working through some childhood trauma around hypergeometric functions like ${}\_
 So&hellip; not gonna go there either.  
 
 So we'll do it numerically: start with equations $\eqref{eq:efficacydefn}$ and 
-$\eqref{eq:posteriorBeta}$.  Draw many random samples from the appropriate Beta
-distributions, and compute samples of the ratio.  Then determine the quantiles
-numerically.  
+$\eqref{eq:posteriorBeta}$ &ndash; $\eqref{eq:posteriorBeta2}$.  Draw many random samples
+from the appropriate Beta distributions, and compute samples of the ratio.  Then determine
+the quantiles numerically.  
 
 Here's the result:  
 ```R
