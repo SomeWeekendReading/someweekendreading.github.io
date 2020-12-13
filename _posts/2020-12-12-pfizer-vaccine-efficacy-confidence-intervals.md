@@ -246,9 +246,11 @@ turns out this has all been worked out by Pham-Gia <sup id="fn4a">[[4]](#fn4)</s
 but is paywalled and costs 51 USD to read!  I suppose I could write and ask for a copy of
 this 20-year-old paper, but that's too annoying.  
 
-Then it turned out that Saffer had this problem, got hold of the paper somehow,
+Then it turned out that Saffer also had this problem, got hold of the paper somehow,
 and wrote some software in a GitHub repository. <sup id="fn5a">[[5]](#fn5)</sup>
-But&hellip; the quoted result is rather complex:  
+But&hellip; the quoted result is rather complex, invovling both Beta functions and 
+hypergeometric functions:  
+
 <img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-beta-ratio-distribution.png" height="48" width="600" alt="Beta ratio distribution" title="Beta ratio distribution" style="display: block; margin-left: auto; margin-right: auto;">
 
 &hellip;and as I believe I've mentioned before, your humble Weekend Editor is still
