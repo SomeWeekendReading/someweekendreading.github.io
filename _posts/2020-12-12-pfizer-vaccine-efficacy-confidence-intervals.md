@@ -252,7 +252,7 @@ But&hellip; the quoted result is rather complex:
 <img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-beta-ratio-distribution.png" height="48" width="600" alt="Beta ratio distribution" title="Beta ratio distribution" style="display: block; margin-left: auto; margin-right: auto;">
 
 &hellip;and as I believe I've mentioned before, your humble Weekend Editor is still
-working through some childhood trauma around hypergeometric functions like ${}_{2}F_{1}()$.
+working through some childhood trauma around hypergeometric functions like $\mbox{}_{2}F_{1}()$.
 So&hellip; not gonna go there either.  
 
 ... TBD: do it empirically, by sampling  
