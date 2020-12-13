@@ -62,11 +62,11 @@ with a confidence interval of 1% &ndash; 99%, then a look at that huge confidenc
 interval tells you the 83% point estimate is worthless: it could be _almost anything_!  
 
 So the second of Gary's questions can be addressed by looking at the Pfizer vaccine
-efficacy confidence intervals, and seeing if they inspire confidence.  (Answer: both yes
+efficacy confidence intervals, and seeing if they inspire confidence.  (_Answer:_ both yes
 and no.)  
 
 
-## The Pfizer vaccine effiacy &amp; its confidence interval, by age cohorts  
+## Pfizer vaccine effiacy &amp; confidence interval, by age cohorts  
 
 <img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-fda.jpg" width="400" height="212" alt="FDA: Pfizer vaccine efficacy &amp; confidence limits by age groups" title="FDA: Pfizer vaccine efficacy &amp; confidence limits by age groups" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 So here's the relevant extract from Table 8 of the FDA's reanalysis.  
@@ -240,12 +240,12 @@ distributed variables is often a
 tails so fat the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) 
 isn't even _defined_, and hence the 
 [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) does not
-apply, and&hellip; all your base are belong to us, or something like that.  
+apply, and&hellip; well, all your base are belong to us, or something like that.  
 
 The integral looked less than completely amusing, so I did a literature search to see of
 some other poor schmuck had to do it first (always a good research technique).  And it
 turns out this has all been worked out by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup>&hellip;
-but is paywalled and costs 51 USD to read!  I suppose I could write and ask for a copy of
+but the paper is paywalled and costs \$51 to read!  I suppose I could write and ask for a copy of
 this 20-year-old paper, but that's too annoying.  
 
 Then it turned out that Saffer also had this problem, got hold of the Pham-Gia paper somehow,
