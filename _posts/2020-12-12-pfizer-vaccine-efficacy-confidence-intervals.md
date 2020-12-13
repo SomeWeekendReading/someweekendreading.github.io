@@ -45,10 +45,10 @@ interval_ will do nicely.
 So what's that?  
 
 Pfizer reported an overall vaccine efficacy (see table, _q.v._) of 94.6%, with a 95%
-confidence interval of 89.6% &endash; 97.6%.  That means, we're 95% sure that the true
+confidence interval of 89.6% &ndash; 97.6%.  That means, we're 95% sure that the true
 value is somewhere in the interval [89.6, 97.6].  But if you have to have a single number
 for some Philistine reason or other, then the best single estimate is 94.6%.  See how that
-works?  We report a single best estimate (94.6%) and a confidence interval (89.6% &endash;
+works?  We report a single best estimate (94.6%) and a confidence interval (89.6% &ndash;
 97.6%) and a confidence level (95%).  That way, we get the single number people want, but
 we get a measure of uncertainty: we're 95% certain it's somewhere in that interval, and
 here's your best bet (typically a median or mode of a Bayesian posterior distribution).  
@@ -57,7 +57,7 @@ There are about a bajillion ways of computing a confidence interval and its poin
 estimate.  Those methods are argued about furiously by statisticians.  But as a consumer of
 statistics, you mostly just want to know that you _have_ you a confidence interval,
 and then check that it's reasonably narrow.  For example, if I say the vaccine efficacy is 83%
-with a confidence interval of 1% &endash; 99%, then a look at that huge confidence
+with a confidence interval of 1% &ndash; 99%, then a look at that huge confidence
 interval tells you the 83% point estimate is worthless: it could be _almost anything_!  
 
 So the second of Gary's questions can be addressed by looking at the Pfizer vaccine
@@ -82,7 +82,7 @@ So here's the relevant extract from Table 8 of the FDA's reanalysis.
   to wrap my brain around.  
 
 So Pfizer is reporting an overall efficacy of 94.6%, with a confidence interval of 89.6%
-&endash; 97.6%.  That's a nicely tight confidence interval, i.e., we're pretty sure the
+&ndash; 97.6%.  That's a nicely tight confidence interval, i.e., we're pretty sure the
 efficacy is quite high.  We're in fact 97.5% sure that it's _above_ 89.6%, so basically
 the lower confidence limit is kind of like a worst likely case.  If that's high (as it is
 here), you can be happy about the result.  
@@ -160,7 +160,7 @@ form to be used in that case, instead of the slightly approximate case used othe
 That would have given a lower limit of 0%, i.e., no efficacy.
 
 Ok, no real problem statistially; it just says that __for the very young and the very old,
-we do not have evidence of efficacy!__  That's not a statistical problem, but it sure is a
+we do not have evidence of efficacy.__  That's not a statistical problem, but it sure is a
 problem!  
 
 
@@ -219,19 +219,41 @@ Going down the plots:
   95% confidence limits don't overlap&hellip; but _barely_.  This is a weak result.  
 - The 75+ cohort shows overlap of the 95% confidence limits.  It's not as terrible as the
   16-17 year olds, but __we also have no evidence to suppose an effect here__ (though
-  almost).  
+  almost!).  
   
 
 ## But what about efficacies?  
 
-...TBD: efficacy is now the ratio of 2 Beta-distributed random variables, 
-equation $\eqref{eq:efficacydefn}$  
+Ok, so we've modeled the probability of infection in the treatment and control arms with
+Bayesian posterior Beta distributions.  What about efficacies?  If you look at equation 
+$\eqref{eq:efficacydefn}$, our definition of efficacy, you see that it takes the ratio of
+those 2 probabilities.  That means our notion of efficacy is now a random varible, which
+has whatever distribution we get from a ratio of 2 Beta-distributed random variables.  
 
-...TBD: distribution calculated by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup> but is
-paywalled and costs 51 USD to read!  
+Gotta admit, I've never encountered that before.  But the problem of 
+[ratio distributions](https://en.wikipedia.org/wiki/Ratio_distribution) in general is
+pretty gnarly, often leading to fat-tailed monsters.  For example, the ratio of 2 normally
+distributed variables is often a 
+[Cauchy-distributed variable](https://en.wikipedia.org/wiki/Cauchy_distribution): 
+tails so fat the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) 
+isn't even _defined_, and hence the 
+[Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) does not
+apply, and&hellip; all your base are belong to us, or something like that.  
 
-... TBD: Ah: it's a combination of Beta and hypergeometric functions 2F1; not gonna do that.
-<sup id="fn5a">[[5]](#fn5)</sup>  
+The integral looked less than completely amusing, so I did a literature search to see of
+some other poor schmuck had to do it first (always a good research technique).  And it
+turns out this has all been worked out by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup>&hellip;
+but is paywalled and costs 51 USD to read!  I suppose I could write and ask for a copy of
+this 20-year-old paper, but that's too annoying.  
+
+Then it turned out that Saffer had this problem, got hold of the paper somehow,
+and wrote some software in a GitHub repository. <sup id="fn5a">[[5]](#fn5)</sup>
+But&hellip; the quoted result is rather complex:  
+<img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-beta-ratio-distribution.png" height="40" width="500" alt="Beta ratio distribution" title="Beta ratio distribution" style="float: center;">
+
+&hellip;and as I believe I've mentioned before, your humble Weekend Editor is still
+working through some childhood trauma around hypergeometric functions like ${}_{2}F_{1}()$.
+So&hellip; not gonna go there either.  
 
 ... TBD: do it empirically, by sampling  
 
