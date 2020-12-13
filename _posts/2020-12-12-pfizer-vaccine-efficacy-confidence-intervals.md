@@ -5,7 +5,7 @@ tags: COVID MathInTheNews PharmaAndBiotech
 comments: true
 ---
 
-**DRAFT** [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the confidence
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the confidence
 intervals Pfizer reported for vaccine efficacy in various age groups.  Some of them are
 negative!  Are they sensible?  
 
@@ -272,7 +272,23 @@ Here's the result:
 5    >= 75   805       0   812       5 100.0    8.3 87.1  99.6
 ```
 
-... TBD: explain results  
+- We've made at least 1 improvement: the lower confidence limit on the 75+ cohort is no
+  longer negative!  Also, given how the posterior Beta distributions overlapped for that
+  cohort, we've been more pessimistic about the efficacy.  So, that's good.  
+- On the other hand, we _still_ get a negtive lower confidence limit for the 16-17 year
+  old cohort.  This is because we resorted to numerical estimation instead of the analytic
+  solution, and it breaks down when the number of cases is 0 and the total number of
+  subjects is very small.  That's the same problem Pfizer had, though ours is slightly
+  less outrageously hugely negative.  
+- As for the rest, we confirm the tight confidence limits on the overall cohort and the
+  18-64 cohort; we also confirm the disturbingly loose confidence limits on the 65-74
+  cohort.  
+  
+So Pfizer did ok.  They didn't use the methods I would have (and even I _should_ use the
+analytic solution of Pham-Gia and Saffer to avoid the stupid negative LCL for the 16-17
+cohort).  But we generally agree: overall good result, good result in 18-64, marginal
+result in 65-74, no evidence of efficacy in 75+, and the 16-17 cohort is a joke that
+should have been removed.
 
 
 ## So what does that mean?  
@@ -283,7 +299,7 @@ Some of our results:
 - Initially, they all look good.  But when we consider the 95% confidence intervals,
   Pfizer's own table tells us there is no reason to claim efficacy in 16-17 year olds, and
   in 75+ year olds.  We confirmed this with a Bayesian posterior Beta distribution
-  analysis.  
+  analysis, and a numerical estimation of the confidence limits on the efficacy.  
 - This explains why some of the VRBPAC committee members balked at endorsing the vaccine
   for 16-17 year olds.  They probably would not balk at 75+ year olds, since they
   desperately need a vaccine and have little other recourse.  
