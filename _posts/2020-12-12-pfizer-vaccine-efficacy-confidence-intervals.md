@@ -114,6 +114,7 @@ voted _against_ approval for 16-17 year olds: the data just isn't there.
 
 The efficacy is computed (apparently; I'm reverse engineering here!) as follows.  First,
 define the probability of infection, conditional on the arm of the trial:  
+
 $$
 \begin{align}
 p_{\mathrm{trt}} & = \Pr(\mbox{infection} | \mbox{treatment}) \\
