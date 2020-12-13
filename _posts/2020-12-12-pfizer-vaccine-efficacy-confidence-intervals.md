@@ -113,10 +113,13 @@ voted _against_ approval for 16-17 year olds: the data just isn't there.
 The efficacy is computed (apparently; I'm reverse engineering here!) as follows.  First,
 define the probability of infection, conditional on the arm of the trial:  
 $$
-\begin{align}
+\begin{multline}
+\shoveleft
+\begin{aligned}
 p_{\mathrm{trt}} & = \Pr(\mbox{infection} | \mbox{treatment}) \\
-p_{\mathrm{cnt}} & = \Pr(\mbox{infection} | \mbox{control})
-\end{align}
+p_{\mathrm{cnt}} & = \Pr(\mbox{infection} | \mbox{control}) \\
+\end{aligned}
+\end{multiline}
 $$
 
 You might do a point estimate for those based on the number of infections in the arm
