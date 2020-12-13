@@ -209,7 +209,7 @@ black curve is the control arm.  The vertical dashed lines are the 95% confidenc
 on the probability of infection in each arm; we'd like to see those wells separated.  
 
 Going down the plots:  
-- The overall group shows good separtion.  Our distribution for the probability of
+- The overall cohort shows good separation.  Our distribution for the probability of
   infection in the treatment arm (blue) is well lower than the control arm (black).  Even
   the 95% confidence limits are separated.  This is a good result.  
 - The 16-17 year old cohort is hopeless.  The upper confidence limits are off-scale to the
@@ -258,7 +258,7 @@ hypergeometric functions:
 working through some childhood trauma around hypergeometric functions like ${}\_{2}F\_{1}()$.
 So&hellip; not gonna go there either.  
 
-So we'll do it numerically: start with equations $\eqref{eq:efficacydefn}$ and
+We'll do it numerically: start with equations $\eqref{eq:efficacydefn}$ and
 $\eqref{eq:posteriorBeta}$ &ndash; $\eqref{eq:posteriorBeta2}$.  Draw many random samples
 from the appropriate pair of Beta distributions, and thus compute samples of the ratio.
 Then determine the quantiles numerically.  
