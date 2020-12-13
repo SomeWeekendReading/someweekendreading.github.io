@@ -245,8 +245,8 @@ apply, and&hellip; well, all your base are belong to us, or something like that.
 The integral looked less than completely amusing, so I did a literature search to see of
 some other poor schmuck had to do it first (always a good research technique).  And it
 turns out this has all been worked out by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup>&hellip;
-but the paper is paywalled and costs \$51 to read!  I suppose I could write and ask for a copy of
-this 20-year-old paper, but that's too annoying.  
+but the paper is paywalled and costs \$51 to read!  I suppose I could write to him and ask
+for a copy of this 20-year-old paper, but that's too annoying.  
 
 Then it turned out that Saffer also had this problem, got hold of the Pham-Gia paper somehow,
 and wrote some software in a GitHub repository. <sup id="fn5a">[[5]](#fn5)</sup>
