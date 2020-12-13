@@ -192,7 +192,7 @@ Then, as we've done several times now, we can assume a uniform (Beta distributio
 prior on $p_{\mathrm{trtinf}}$ and $p_{\mathrm{cntinf}}$, which leads to Beta posteriors:  
 
 $$
-\begin{align}
+\begin{align} \label{eq:posteriorBeta}
 \Pr(p_{\mathrm{trtinf}} | \mbox{trt}) & \sim \mathrm{Beta}(N_{\mathrm{trtinf}} + 1, N_{\mathrm{trt}} -  N_{\mathrm{trtinf}} + 1) \\
 \Pr(p_{\mathrm{cntinf}} | \mbox{cnt}) & \sim \mathrm{Beta}(N_{\mathrm{cntinf}} + 1, N_{\mathrm{cnt}} -  N_{\mathrm{cntinf}} + 1)
 \end{align}
@@ -257,7 +257,20 @@ hypergeometric functions:
 working through some childhood trauma around hypergeometric functions like ${}\_{2}F\_{1}()$.
 So&hellip; not gonna go there either.  
 
-... TBD: do it empirically, by sampling  
+So we'll do it numerically: start with equations $\eqref{eq:efficacydefn}$ and 
+$\eqref{eq:posteriorBeta}$.  Draw many random samples from the appropriate Beta
+distributions, and compute samples of the ratio.  Then determine the quantiles
+numerically.  
+
+Here's the result:  
+```R
+  Subgroup  Ntrt Ntrtinf  Ncnt Ncntinf    VE   2.5%  50% 97.5%
+1  Overall 18559       9 18708     169  94.6   89.7 94.2  97.2
+2    16-17    58       0    61       1 100.0 -393.7 57.0  98.7
+3    18-64 14443       8 14566     149  94.6   89.0 94.3  97.3
+4    65-74  3239       1  3255      14  92.8   58.3 88.6  98.3
+5    >= 75   805       0   812       5 100.0    8.3 87.1  99.6
+```
 
 ... TBD: explain results  
 

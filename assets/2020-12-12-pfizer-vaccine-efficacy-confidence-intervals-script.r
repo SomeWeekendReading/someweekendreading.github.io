@@ -1,6 +1,5 @@
-## -*- Mode: ESS[S] -*-
 ## Created on Saturday, December 12, 2020 at 9:33pm EST by WeekendEditor on WeekendEditorMachine.
-## UnCopyright (c) 2020, nobody-in-particular.  All rights reversed.  As if you care.
+## UnCopyright (c) 2020, Weekend Editor.  All rights reversed.  As if you care.
 
 library("plyr")                                        # For ddply()
 source("~/Documents/laboratory/tools/graphics-tools.r")# Various graphics hacks
@@ -83,14 +82,13 @@ doit <- function(plotDir           = "../images",
   })                                                   # End file capture
   cat(sprintf("\n\nPosterior beta distributions plotted to %s.", f))
 
-  ## *** Estimate efficacies, explain problem with sampling
-  foo <- subset(ddply(tbl, "Subgroup", function(df) {
-    stopifnot(nrow(df) == 1)
-    with(df,
+  foo <- subset(ddply(tbl, "Subgroup", function(df) {  # Numerically compute random ratios of
+    stopifnot(nrow(df) == 1)                           #  the Beta-distributed variables, and
+    with(df,                                           #  then find the 2.5% & 97.5% quantiles
          efficacyQuantiles(Ntrtinf + 1, Ntrt - Ntrtinf + 1, Ncntinf + 1, Ncnt - Ncntinf + 1))
-  }), select = c("Subgroup", "2.5%", "50%", "97.5%"))
-  tbl <- merge(tbl, foo, by = "Subgroup", sort = FALSE)
-  cat("\n"); print(tbl)
+  }), select = c("Subgroup", "2.5%", "50%", "97.5%"))  # Also report the median, because why not
+  tbl <- merge(tbl, foo, by = "Subgroup", sort = FALSE)# Join onto our magic table
+  cat("\n\n"); print(tbl)                              # Show the table
 
   cat("\n")                                            # Final newline
   invisible(tbl)                                       # Return data table, invisibly
