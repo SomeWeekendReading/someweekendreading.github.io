@@ -21,6 +21,13 @@ doit <- function(plotDir           = "../images",
     100.0 * (1 - (Ntrtinf / Ntrt) / (Ncntinf / Ncnt))  # 1 - Pr(inf | trt) / Pr(inf | control)
   }                                                    #
 
+  efficacyQuantiles <- function(alphaNum, betaNum, alphaDenom, betaDenom,
+                                n = 1000, probs = c(0.025, 0.500, 0.975)) {
+    round(quantile(100.0 * (1 - rbeta(n, alphaNum, betaNum) / rbeta(n, alphaDenom, betaDenom)),
+                   probs = probs),                     #
+          digits = 1)                                  #
+  }                                                    #
+
   ## Create table of patient counts by treatment arm & infection status, then add
   ## a point estimate of the efficacy to compare with Pfizer:
   tbl <- transform(data.frame(Subgroup = c("Overall", "16-17", "18-64", "65-74", ">= 75"),
@@ -77,6 +84,13 @@ doit <- function(plotDir           = "../images",
   cat(sprintf("\n\nPosterior beta distributions plotted to %s.", f))
 
   ## *** Estimate efficacies, explain problem with sampling
+  foo <- subset(ddply(tbl, "Subgroup", function(df) {
+    stopifnot(nrow(df) == 1)
+    with(df,
+         efficacyQuantiles(Ntrtinf + 1, Ntrt - Ntrtinf + 1, Ncntinf + 1, Ncnt - Ncntinf + 1))
+  }), select = c("Subgroup", "2.5%", "50%", "97.5%"))
+  tbl <- merge(tbl, foo, by = "Subgroup", sort = FALSE)
+  cat("\n"); print(tbl)
 
   cat("\n")                                            # Final newline
   invisible(tbl)                                       # Return data table, invisibly

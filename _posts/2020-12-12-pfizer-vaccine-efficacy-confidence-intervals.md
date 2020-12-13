@@ -5,7 +5,7 @@ tags: COVID MathInTheNews PharmaAndBiotech
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the confidence
+**DRAFT** [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the confidence
 intervals Pfizer reported for vaccine efficacy in various age groups.  Some of them are
 negative!  Are they sensible?  
 
@@ -118,13 +118,16 @@ p_{\mathrm{trt}} & = \Pr(\mbox{infection} | \mbox{treatment}) \\
 p_{\mathrm{cnt}} & = \Pr(\mbox{infection} | \mbox{control})
 \end{align*}
 $$
+
 You might do a point estimate for those based on the number of infections in the arm
 divided by the total number of subjects in the arm, for example.  (But we can do better;
 see below.)  
 
 The the efficacy in percent is:  
 $$
+\begin{align*}
 \mbox{efficacy} = 100.0 * (1 - \frac{p_\mathrm{trt}}{p_{\mathrm{cnt}}})
+\end{align*}
 $$
 
 If we try that, we reproduce the Pfizer table above pretty well:  
@@ -161,7 +164,7 @@ we do not have evidence of efficacy!__  That's not a statistical problem, but it
 problem!  
 
 
-## A Bayesian approach  
+## A Bayesian approach to estimating the probability of infection in each arm
 
 Can we do any better?  
 
@@ -196,17 +199,58 @@ $$
 <a href="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-posterior-betas.png" target="_blank"><img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-posterior-betas.png" height="750" width="300" alt="Bayesian posteriors" title="Bayesian posteriors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Let's look at those posterior betas, as we did before with more approximate data, and see
 how what we believe about infection probability differs between treament &amp; control
-arms.
+arms.  
 
-...
+There's 1 plot here for each age cohort.  The blue curve is the treatment arm, and the
+black curve is the control arm.  The vertical dashed lines are the 95% confidence limits
+on the probability of infection in each arm; we'd like to see those wells separated.  
+
+Going down the plots:  
+- The overall group shows good separtion.  Our distribution for the probability of
+  infection in the treatment arm (blue) is well lower than the control arm (black).  Even
+  the 95% confidence limits are separated.  This is a good result.  
+- The 16-17 year old cohort is hopeless.  The upper confidence limits are off-scale to the
+  right!  __We have no evidence to conclude an effect here, not even close!__  
+- The 18-64 cohort looks (unsurprisingly) like the overall cohort: good separation between
+  treatment and control.  
+- The 65-74 cohort is a little more worrisome: the distributions are separated, and the
+  95% confidence limits don't overlap&hellip; but _barely_.  This is a weak result.  
+- The 75+ cohort shows overlap of the 95% confidence limits.  It's not as terrible as the
+  16-17 year olds, but __we also have no evidence to suppose an effect here__ (though
+  almost).  
+  
+
+## But what about efficacies?  
+
+...TBD: efficacy is now the ratio of 2 Beta-distributed random variables
+
+...TBD: distribution calculated by Pham-Gia https://www.tandfonline.com/doi/abs/10.1080/03610920008832632
+but is paywalled. 
+
+... TBD: Ah: it's a combination of Beta and hypergeometric functions 2F1: 
+https://github.com/jsaffer/beta_quotient_distribution
+
+... TBD: do it empirically, by sampling
+
+... TBD: explain results
+
 
 ## So what does that mean?  
 
-...
-
+Some of our results:  
+- We've reproduced, at least approximately, Pfizer's point estimates of efficacy in each
+  age cohort.  
+- Initially, they all look good.  But when we consider the 95% confidence intervals,
+  Pfizer's own table tells us there is no reason to claim efficacy in 16-17 year olds, and
+  in 75+ year olds.  We confirmed this with a Bayesian posterior Beta distribution
+  analysis.  
+- This explains why some of the VRBPAC committee members balked at endorsing the vaccine
+  for 16-17 year olds.  They probably would not balk at 75+ year olds, since they
+  desperately need a vaccine and have little other recourse.  
+  
 The [R](https://www.r-project.org) script for this analysis is downloadable
 [here]({{ site.baseurl }}/assets/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-script.r)
-<sup id="fn4a">[[4]](#fn4)</sup>, because here at Chez Weekend we believe in peer review.  
+<sup id="fn6a">[[6]](#fn6)</sup>, because here at Chez Weekend we believe in peer review.  
 
 ---
 
@@ -226,4 +270,8 @@ He's matured well, and that's why I read his blog. [↩](#fn1a)
 
 <a id="fn3">3</a>: FDA staff, ["FDA Briefing Document: Pfizer-BioNTech COVID-19 Vaccine"](https://www.fda.gov/media/144245/download), FDA.gov, retrieved 2020-Dec-12. [↩](#fn3a)  
 
-<a id="fn4">4</a>: Weekend Editor, [Pfizer vaccine efficacy confidence interval script in R]({{ site.baseurl }}/assets/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-script.r), _Some Weekend Reading_, 2020-Dec-12. [↩](#fn4a)  
+<a id="fn4">4</a>: ... [↩](#fn4a)  
+
+<a id="fn5">5</a>: ... [↩](#fn5a)  
+
+<a id="fn6">6</a>: Weekend Editor, [Pfizer vaccine efficacy confidence interval script in R]({{ site.baseurl }}/assets/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-script.r), _Some Weekend Reading_, 2020-Dec-12. [↩](#fn6a)  
