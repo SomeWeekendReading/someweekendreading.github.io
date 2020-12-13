@@ -225,7 +225,7 @@ Going down the plots:
 ## But what about efficacies?  
 
 ...TBD: efficacy is now the ratio of 2 Beta-distributed random variables, 
-\ref{eq:efficacydefn} or \eqref{eq:efficacydefn}  
+$\ref{eq:efficacydefn}$ or $\eqref{eq:efficacydefn}$  
 
 ...TBD: distribution calculated by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup> but is
 paywalled and costs 51 USD to read!  
