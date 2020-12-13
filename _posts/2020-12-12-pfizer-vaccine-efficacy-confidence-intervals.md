@@ -125,7 +125,7 @@ see below.)
 
 The the efficacy in percent is:  
 $$
-\begin{align}
+\begin{align}\label{eq:efficacydefn}
 \mbox{efficacy} = 100.0 * (1 - \frac{p_\mathrm{trt}}{p_{\mathrm{cnt}}})
 \end{align}
 $$
@@ -175,6 +175,7 @@ like.  We don't have the data for that.
 But can we do some rough estimates that might be a bit better?  Maybe!  
 
 Let's use the following notation:  
+
 $$
 \begin{align*}
 N_{\mathrm{trt}}    & = \mbox{# patients in treatment arm}   \\
@@ -189,6 +190,7 @@ $$
 
 Then, as we've done several times now, we can assume a uniform (Beta distribution $B(1, 1)$) 
 prior on $p_{\mathrm{trtinf}}$ and $p_{\mathrm{cntinf}}$, which leads to Beta posteriors:  
+
 $$
 \begin{align}
 \Pr(p_{\mathrm{trtinf}} | \mbox{trt}) & \sim \mathrm{Beta}(N_{\mathrm{trtinf}} + 1, N_{\mathrm{trt}} -  N_{\mathrm{trtinf}} + 1) \\
@@ -222,7 +224,8 @@ Going down the plots:
 
 ## But what about efficacies?  
 
-...TBD: efficacy is now the ratio of 2 Beta-distributed random variables  
+...TBD: efficacy is now the ratio of 2 Beta-distributed random variables, 
+\ref{eq:efficacydefn} or \eqref{eq:efficacydefn}  
 
 ...TBD: distribution calculated by Pham-Gia <sup id="fn4a">[[4]](#fn4)</sup> but is
 paywalled and costs 51 USD to read!  
