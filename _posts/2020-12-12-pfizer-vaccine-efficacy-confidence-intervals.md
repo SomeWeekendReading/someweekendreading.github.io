@@ -26,7 +26,7 @@ among other things.  But unlike your humble Weekend Editor who just picked out t
 [pretty survival plot](https://www.someweekendreading.blog/beautiful-vaccines/#a-beautiful-survival-plot),
 Gary actually _dug through the tables._  Of particular interest is Table 8 on
 page 26, which gives the subject counts and the vaccine efficacy, and the 95% confidence
-interval on the efficacy, across various age groups.  
+interval on the efficacy, across various age groups (_q.v._).  
 
 Apparently Gary wants to know 2 things:  
 - Do we know if it works in various age groups, particularly in the elderly whose
