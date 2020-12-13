@@ -113,13 +113,10 @@ voted _against_ approval for 16-17 year olds: the data just isn't there.
 The efficacy is computed (apparently; I'm reverse engineering here!) as follows.  First,
 define the probability of infection, conditional on the arm of the trial:  
 $$
-\begin{multline}
-\shoveleft
-\begin{aligned}
+\begin{align}
 p_{\mathrm{trt}} & = \Pr(\mbox{infection} | \mbox{treatment}) \\
-p_{\mathrm{cnt}} & = \Pr(\mbox{infection} | \mbox{control}) \\
-\end{aligned}
-\end{multiline}
+p_{\mathrm{cnt}} & = \Pr(\mbox{infection} | \mbox{control})
+\end{align}
 $$
 
 You might do a point estimate for those based on the number of infections in the arm
@@ -252,7 +249,6 @@ this 20-year-old paper, but that's too annoying.
 Then it turned out that Saffer had this problem, got hold of the paper somehow,
 and wrote some software in a GitHub repository. <sup id="fn5a">[[5]](#fn5)</sup>
 But&hellip; the quoted result is rather complex:  
-
 <img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-beta-ratio-distribution.png" height="48" width="600" alt="Beta ratio distribution" title="Beta ratio distribution" style="display: block; margin-left: auto; margin-right: auto;">
 
 &hellip;and as I believe I've mentioned before, your humble Weekend Editor is still
