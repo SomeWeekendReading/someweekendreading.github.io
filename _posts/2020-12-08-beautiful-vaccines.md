@@ -59,6 +59,9 @@ there is argument back and forth (somebody always doesn't quite get it), they al
 invariably come to very reasonable conclusions that balance efficacy and safety.  _Almost_
 always.  
 
+
+## A beautiful survival plot  
+
 <img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.jpg" width="400" height="265" alt="Pfizer/BioNTech: case rates in treatment &amp; control arms" title="Pfizer/BioNTech: case rates in treatment &amp; control arms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Obviously, there's a _lot of stuff_ in there, rehearsing the trial results in excruciating
 detail.  I've personally only excruciated a tiny bit of it, but I want to call attention to

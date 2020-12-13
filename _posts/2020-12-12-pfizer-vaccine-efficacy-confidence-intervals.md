@@ -19,7 +19,7 @@ Miles pointed to an article by Gary Cornell <sup id="fn2a">[[2]](#fn2)</sup>,
 an apparently semi-retired mathematician who blogs about a mathematician's eye view of the
 pandemic.  So&hellip; sort of kindred souls there, I think.  
 
-Now, Gary looks at the FDA re-analysis of the Pfizer data <sup id="fn3a">[[3]](#fn3)</sup>, 
+Now, Gary looked at the FDA re-analysis of the Pfizer data <sup id="fn3a">[[3]](#fn3)</sup>, 
 which is what 
 [we looked at here a couple days ago](https://www.someweekendreading.blog/beautiful-vaccines/), 
 among other things.  But unlike your humble Weekend Editor who just picked out the
