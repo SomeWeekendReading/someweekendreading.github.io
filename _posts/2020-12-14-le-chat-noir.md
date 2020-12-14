@@ -9,13 +9,14 @@ Apparently the Weekend Publisher, also sometimes known as "my cat", is the reinc
 of the spirit animal of a fin-de-si&egrave;cle French cabaret.   
 
 <img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-weekend-publisher.jpg" width="300" height="416" alt="Le Chat Noir: Weekend Publisher, 2020" title="Le Chat Noir: Weekend Publisher, 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-really.jpg" width="300" height="416" alt="Le Chat Noir: Théophile Steinlen's, 1896" title="Le Chat Noir: Théophile Steinlen's, 1896" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-really.jpg" width="300" height="416" alt="Le Chat Noir: Théophile Steinlen, 1896" title="Le Chat Noir: Théophile Steinlen, 1896" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Who knew? <sup id="fn1a">[[1]](#fn1)</sup>  
 
 I mean, I always _knew_ he was the reincarnation of of some ancient Egypitian cat-deity
 like [Bastet](https://en.wikipedia.org/wiki/Bastet).  And of course, Bastet, being a deity
-capable of reincarnation, would definitely be catting around fin-de-si&egrave;cle Paris,
-because _everybody_ wants to do that.  
+capable of some degree of reincarnation, would definitely be catting around
+fin-de-si&egrave;cle Paris, because _everybody_ wants to do that.  My cat's not
+_stupid_&hellip;  
 
 Though, now that I come to think of it, Bastet was a a cat _goddess_, which means my cat
 is the _trans_ reincarnation of an Egyptian cat deity.  Ok, nothing wrong with that,
