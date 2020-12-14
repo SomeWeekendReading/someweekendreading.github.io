@@ -16,10 +16,10 @@ I mean, I always _knew_ he was the reincarnation of of some ancient Egypitian ca
 like [Bastet](https://en.wikipedia.org/wiki/Bastet).  And of course, Bastet, being a deity
 capable of frequent reincarnation, would definitely be catting around
 fin-de-si&egrave;cle Paris, because _everybody_ wants to do that.  My cat's not
-_stupid_&hellip;  
+_stupid_&hellip;  Crazy, sure.  But not stupid.  
 
-Though, now that I come to think of it, Bastet was a a cat _goddess_, which means my cat
-is the _trans_ reincarnation of an ancient Egyptian cat deity.  Ok, nothing wrong with
+Though, now that I come to think of it, Bastet was a a cat _goddess_, which means my tomcat
+is the _trans male_ reincarnation of an ancient Egyptian cat deity.  Ok, nothing wrong with
 that, right?  We need to accept trans people, and my cat thinks he's a person, so we're
 all cool with that.  And, really: once you buy the "reincarnated ancient Egyptian cat
 deity" business, you can't just decide to balk at the trans part, right?  Be cool.  
