@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coronavirus &amp; Elections&colon; The Winter of Our Discontent
-tags: COVID MathInTheNews Politics Statistics
+tags: CatBlogging COVID MathInTheNews Politics Statistics
 comments: true
 ---
 

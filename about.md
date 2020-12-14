@@ -2,7 +2,7 @@
 layout: page
 title: About This Blog
 permalink: /about/
-tags: About
+tags: About CatBlogging
 date: 2020-07-01
 description: What's this all about, then?
 ---

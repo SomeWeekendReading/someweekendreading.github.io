@@ -19,11 +19,12 @@ fin-de-si&egrave;cle Paris, because _everybody_ wants to do that.  My cat's not
 _stupid_&hellip;  
 
 Though, now that I come to think of it, Bastet was a a cat _goddess_, which means my cat
-is the _trans_ reincarnation of an Egyptian cat deity.  Ok, nothing wrong with that,
-right?  We need to be accepting of trans people, and my cat thinks he's a person, so we're
-all cool with that.  And, really: once you buy the "reincarnated Egyptian cat deity"
-business, you just can't decide to balk at the trans part, right?  C'mon, don't embarass
-me here.  The cat is watching.  
+is the _trans_ reincarnation of an ancient Egyptian cat deity.  Ok, nothing wrong with
+that, right?  We need to accept of trans people, and my cat thinks he's a person, so we're
+all cool with that.  And, really: once you buy the "reincarnated ancient Egyptian cat
+deity" business, you can't just decide to balk at the trans part, right?  Be cool.  
+
+C'mon, don't embarass me here.  The cat is watching.  
 
 The cat is _always_ watching.  
 
