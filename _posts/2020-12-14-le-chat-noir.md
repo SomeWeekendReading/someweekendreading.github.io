@@ -8,8 +8,8 @@ comments: true
 Apparently the Weekend Publisher, also sometimes known as "my cat", is the reincarnation
 of the spirit animal of a fin-de-si&egrave;cle French cabaret.   
 
-<img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-really.jpg" width="300" height="416" alt="Le Chat Noir: Théophile Steinlen's, 1896" title="Le Chat Noir: Théophile Steinlen's, 1896" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-weekend-publisher.jpg" width="300" height="416" alt="Le Chat Noir: Weekend Publisher, 2020" title="Le Chat Noir: Weekend Publisher, 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-really.jpg" width="300" height="416" alt="Le Chat Noir: Théophile Steinlen's, 1896" title="Le Chat Noir: Théophile Steinlen's, 1896" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Who knew? <sup id="fn1a">[[1]](#fn1)</sup>  
 
 I mean, I always _knew_ he was the reincarnation of of some ancient Egypitian cat-deity
