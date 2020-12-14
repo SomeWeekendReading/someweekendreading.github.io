@@ -319,9 +319,6 @@ influences, are usually the slaves of some defunct economist."
 &mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) (1883-1946) 
 in _The General Theory of Employment, Interest and Money_.  
 
-"The market can stay irrational longer than you can stay solvent." 
-&mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  
-
 "Justice is what love looks like in public, just like tenderness is what love feels like
 in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)  
 
@@ -421,6 +418,11 @@ need of an angry magistrate for the punishment of foolish and wicked men."
 "In America everybody is of opinion that he has no social superiors, since all men are equal, but he does not admit that he has no social inferiors, for, from the time of Jefferson onward, the doctrine that all men are equal applies only upwards, not downwards."
 &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russel),
 ["Ideas That Have Harmed Mankind", Chapter 10 of _Unpopular Essays_](https://en.wikiquote.org/wiki/Unpopular_Essays#Chapter_10:_Ideas_That_Have_Harmed_Mankind), 1950.  
+
+"The quality of ideas seems to play a minor role in mass movement leadership. What counts
+is the arrogant gesture, the complete disregard of the opinion of others, the singlehanded
+defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), 
+[_The True Believer_](https://en.wikipedia.org/wiki/The_True_Believer)  
 
 
 ## Those of Rational &amp; Scientific Bent
@@ -1020,6 +1022,9 @@ Chairman & CIO @ [DFA](https://en.wikipedia.org/wiki/Dimensional_Fund_Advisors),
 [Chris Farrell](https://chrisfarrell.net/),
 ["Why Index Funds Can't Be Beat"](http://www.businessweek.com/bwdaily/dnflash/nov2003/nf20031114_4313_db013.htm),
 _Business Week_, 14-Nov-2003.  
+
+"The market can stay irrational longer than you can stay solvent." 
+&mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  
 
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
