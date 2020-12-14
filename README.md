@@ -1,4 +1,4 @@
-# This is the data for an obscure blog by an obscure retired scientist
+# This is the data for an obscure blog by an obscure retired scientist  
 
 [Jekyll](https://github.com/mojombo/jekyll) automatically builds it into a static site.  It
 lets me write posts locally in Emacs, push up to GitHub as a content management system,
@@ -8,7 +8,7 @@ Javascript nonsense for nefarious "business purposes" by shadowy corporate oliga
 It was started in the summer of 2020, so obviously I'm still just learning what's going on
 here.  Probably lots of Jekyll/Github blunders!  
 
-## License
+## License  
 
 The following directories and their contents are copyright by me.  You may not reuse
 anything therein without permission:  
