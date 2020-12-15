@@ -14,9 +14,9 @@ Who knew? <sup id="fn1a">[[1]](#fn1)</sup>
 <img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-really.jpg" width="300" height="416" alt="Le Chat Noir: Théophile Steinlen, 1896" title="Le Chat Noir: Théophile Steinlen, 1896" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 I mean, I always _knew_ he was the reincarnation of of some ancient Egypitian cat-deity
 like [Bastet](https://en.wikipedia.org/wiki/Bastet).  And of course, Bastet, being a deity
-no doubt capable of frequent, at-will acts of reincarnation, would definitely be catting around
-fin-de-si&egrave;cle Paris, because _everybody_ wants to do that.  My cat's not
-_stupid_&hellip;  Crazy, sure.  But not stupid.  
+no doubt capable of frequent, recurring, at-will acts of reincarnation, would definitely
+be catting around fin-de-si&egrave;cle Paris, because _everybody_ wants to do that.  My
+cat's not _stupid_&hellip;  Crazy, sure.  But not stupid.  
 
 Though, now that I come to think of it, Bastet was a a cat _goddess_, which means my tomcat
 is the _trans male_ reincarnation of an ancient Egyptian cat deity.  Ok, nothing wrong with
