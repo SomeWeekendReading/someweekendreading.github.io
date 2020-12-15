@@ -5,16 +5,16 @@ tags: CatBlogging
 comments: true
 ---
 
-Apparently the Weekend Publisher, also sometimes known as "my cat", is the reincarnation
+Apparently the Weekend Publisher, occasionally also known as "my cat", is the reincarnation
 of the spirit animal of a fin-de-si&egrave;cle cabaret in Paris.   
 
 Who knew? <sup id="fn1a">[[1]](#fn1)</sup>  
 
 <img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-weekend-publisher.jpg" width="300" height="416" alt="Le Chat Noir: Weekend Publisher, 2020" title="Le Chat Noir: Weekend Publisher, 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-12-14-le-chat-noir-really.jpg" width="300" height="416" alt="Le Chat Noir: Théophile Steinlen, 1896" title="Le Chat Noir: Théophile Steinlen, 1896" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-I mean, I always _knew_ he was the reincarnation of of some ancient Egypitian cat-deity
+I mean, _I always knew_ he was the reincarnation of of some ancient Egypitian cat-deity
 like [Bastet](https://en.wikipedia.org/wiki/Bastet).  And of course, Bastet, being a deity
-no doubt capable of frequent, recurring, at-will acts of reincarnation, would definitely
+no doubt capable of frequently recurring, at-will acts of reincarnation, would definitely
 be catting around fin-de-si&egrave;cle Paris, because _everybody_ wants to do that.  My
 cat's not _stupid_&hellip;  Crazy, sure.  But not stupid.  
 
