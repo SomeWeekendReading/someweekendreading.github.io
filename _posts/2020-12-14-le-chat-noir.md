@@ -18,7 +18,7 @@ no doubt capable of frequent, recurring, at-will acts of reincarnation, would de
 be catting around fin-de-si&egrave;cle Paris, because _everybody_ wants to do that.  My
 cat's not _stupid_&hellip;  Crazy, sure.  But not stupid.  
 
-Though, now that I come to think of it, Bastet was a a cat _goddess_, which means my tomcat
+Though, now that I come to think of it, Bastet was a a cat _goddess_.  That means my tomcat
 is the _trans male_ reincarnation of an ancient Egyptian cat deity.  Ok, nothing wrong with
 that, right?  We need to accept trans people, and my cat thinks he's a person, so we're
 all cool with him.  And, really: once you buy the "reincarnated ancient Egyptian cat
