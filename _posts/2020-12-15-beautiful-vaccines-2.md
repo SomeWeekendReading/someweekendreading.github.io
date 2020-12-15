@@ -57,7 +57,8 @@ There are 3 documents this time, because Moderna filed a supplement:
 3. The FDA reanalysis of the clinical trial data using the analysis methods in the
    protocol (54 pages). <sup id="fn4a">[[4]](#fn4)</sup>  
    
-## Fine, but what's __in__ the briefing documents?!  
+
+## Fine, but what's _in_ those briefing documents?!  
 
 <img src="{{ site.baseurl }}/images/2020-12-15-beautiful-vaccines-2-survival-plot.jpg" width="400" height="212" alt="FDA: Moderna survival plot for treatment vs control arms" title="FDA: Moderna survival plot for treatment vs control arms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Remember in our look at the Pfizer/BioNTech EUA submission, there was 
@@ -117,7 +118,8 @@ summarizes all of this graphically, with breakdowns by age group.
 
 So it's excellent overall, and still pretty good for those over age 65.  The only
 worrisome spot is that we can't really exclude the possibility that the efficacy is as low
-as 61.4% in elders.  Still&hellip; that's pretty good.  
+as 61.4% in elders.  Still&hellip; that's _pretty_ good  
+
 
 ## A note on confidence intervals  
 
@@ -154,6 +156,7 @@ above, there were no zeroes anyway, so the problem did not arise.
 The "problem", if you really want a problem, is that the lower confidence limit for
 subjects age 65+ could be as low as 60%-ish.  That's still pretty good, though since your
 humble Weekend Editor is in that age group, it would be nice if it were higher.  
+
 
 ## So&hellip; what's it all mean?  
 
