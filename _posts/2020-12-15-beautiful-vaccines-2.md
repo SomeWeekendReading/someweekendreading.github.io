@@ -105,11 +105,11 @@ The efficacies and their 95% upper &amp; lower confidence limits (very properly 
 confidence interval from a Cox proportional hazard method, in contrast to Pfizer where
 they used the Clopper-Pearson method) are:  
 
-| Cohort   | | Efficacy | | 95% LCL | | 95% UCL |
-|:--------:|-|:--------:|-|:-------:|-|:-------:|
-|    All   | |   94.1%  | |  89.3%  | |  96.8%  |
-| 18-64 yr | |   95.6%  | |  90.6%  | |  97.9%  |
-|  65+ yr  | |   86.4%  | |  61.4%  | |  95.5%  |
+| __Cohort__   | | __Efficacy__ | | __95% LCL__ | | __95% UCL__ |
+|:------------:|-|:------------:|-|:-----------:|-|:-----------:|
+|     _All_    | |     94.1%    | |    89.3%    | |    96.8%    |
+|  _18-64 yr_  | |     95.6%    | |    90.6%    | |    97.9%    |
+|   _65+ yr_    | |     86.4%    | |    61.4%    | |    95.5%    |
 
 <img src="{{ site.baseurl }}/images/2020-12-15-beautiful-vaccines-2-VE-forest-plot.jpg" width="400" height="215" alt="Moderna: Moderna vaccine efficacy forest plots" title="Moderna: Moderna vaccine efficacy forest plots" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 There's a [forest plot](https://en.wikipedia.org/wiki/Forest_plot) using the hazad ratios
