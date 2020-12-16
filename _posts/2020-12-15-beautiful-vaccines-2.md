@@ -39,13 +39,14 @@ data say.
 That's where we are today:  
 - The FDA agrees with Moderna that the trial is evidence that the vaccine is "highly
   effective" at preventing symptomatic COVID-19 14 days after the 2nd dose.  (Asymptomatic
-  COVID-19 is another matter, still under intense study.)  
+  COVID-19 is another matter, still under intense study.  But see the Moderna supplement below,
+  which has some intriguing early asymptomatic results.)  
 - The FDA also agrees that the side-effects will make you feel like crap for a day or so
   (though they didn't print those exact words, I'm quite certain they were spoken),
   and that the degree might be a bit worse than Pfizer, but not enough to impede EUA
   approval.  
 - The FDA also finds evidence of partial immunity after 1 dose, but this is preliminary
-  and in no way a guideline for people to skip the second dose.  
+  and in no way guidance for people to skip the second dose.  
   
 
 ## The Moderna FDA EUA application briefing documents  
@@ -112,13 +113,13 @@ they used the Clopper-Pearson method) are:
 |   _65+ yr_    | |     86.4%    | |    61.4%    | |    95.5%    |
 
 <img src="{{ site.baseurl }}/images/2020-12-15-beautiful-vaccines-2-VE-forest-plot.jpg" width="400" height="215" alt="Moderna: Moderna vaccine efficacy forest plots" title="Moderna: Moderna vaccine efficacy forest plots" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-There's a [forest plot](https://en.wikipedia.org/wiki/Forest_plot) using the hazad ratios
+There's a [forest plot](https://en.wikipedia.org/wiki/Forest_plot) using the hazard ratios
 and relating those to vaccine efficacy, on page 53 of the Moderna submission which
 summarizes all of this graphically, with breakdowns by age group.  
 
 So it's excellent overall, and still pretty good for those over age 65.  The only
 worrisome spot is that we can't really exclude the possibility that the efficacy is as low
-as 61.4% in elders.  Still&hellip; that's _pretty_ good  
+as 61.4% in elders.  Still&hellip; that's _pretty_ good?  
 
 
 ## A note on confidence intervals  
