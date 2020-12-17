@@ -626,6 +626,12 @@ problem will never be solved by science."
 [frontmatter](http://pages.britishlibrary.net/charles.darwin/texts/descent/descent_front.html),
 p. 2.  
 
+"All dichotomies are false dichotomies.  Including that one, because of course there are a
+few true dichotomies."
+&mdash; [Hank Green](https://en.wikipedia.org/wiki/Hank_Green), 
+["Just Some Election Thoughts&hellip;"](https://www.youtube.com/watch?v=0q5L0MzuVP4), 
+[_vlogbrothers_](https://en.wikipedia.org/wiki/Vlogbrothers), 2020-Nov-06.
+
 
 ## The Statistical Ones  
 
