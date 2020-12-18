@@ -72,6 +72,19 @@ works for the lawyer who presents cases before the supreme court", from
 
 "The second mouse gets the cheese." &mdash; Who?
 
+"A party without cake is just a meeting."
+&mdash; [Julia Child](https://en.wikipedia.org/wiki/Julia_Child),
+quoted by &mdash; [Claire Saffitz](https://en.wikipedia.org/wiki/Claire_Saffitz), 
+["Foolproof Tarte Tatin &amp; Rough Puff Pastry"](https://www.youtube.com/watch?v=eiQR-F5wqvk),
+[_Dessert Person_](https://www.youtube.com/channel/UCvw6Y1kr_8bp6B5m1dqNyiw), 
+YouTube, 2020-Dec-10.  
+
+"Anything is a party when you bring tarte tatin."
+&mdash; [Claire Saffitz](https://en.wikipedia.org/wiki/Claire_Saffitz), 
+["Foolproof Tarte Tatin &amp; Rough Puff Pastry"](https://www.youtube.com/watch?v=eiQR-F5wqvk),
+[_Dessert Person_](https://www.youtube.com/channel/UCvw6Y1kr_8bp6B5m1dqNyiw), 
+YouTube, 2020-Dec-10.  
+
 
 ## The Political Ones &amp; The Economic Dismals  
 
