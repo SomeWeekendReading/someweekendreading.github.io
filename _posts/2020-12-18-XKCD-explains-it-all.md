@@ -5,8 +5,10 @@ tags: COVID MathInTheNews PharmaAndBiotech Politics TheDivineMadness
 comments: true
 ---
 
-[Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe), the cartoonist behind 
-[XKCD](https://xkcd.com/), explains COVID-19 vaccine approvals.  And channels Lord Kelvin.  
+[Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe), the 
+[mad](https://www.someweekendreading.blog/tags/#TheDivineMadness) cartoonist behind 
+[XKCD](https://xkcd.com/), explains COVID-19 vaccine approvals.  And channels Lord Kelvin.
+Simultaneously.  
 
 ## Data and its best summary ever  
 

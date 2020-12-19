@@ -277,10 +277,6 @@ Notes on blogging tech.
 
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
-efficacy = 1 – treated infection rate / placebo infection rate 
-         = 1 – (cases in treatment / treatment arm size)/(cases in placebo / placebo arm size)
-Then estimate Poisson CI? 
-
 Blog posts:
 * Analemma: Dodds's Day is Dec 07 in Boston?
 * RISC-V vs ARM: what's that all about?
@@ -350,4 +346,3 @@ Blog posts:
 --------------------
 
 
-Citi: 418.79
