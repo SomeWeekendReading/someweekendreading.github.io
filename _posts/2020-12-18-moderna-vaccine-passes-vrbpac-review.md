@@ -18,7 +18,7 @@ live-blogging of the hearings before the VRBPAC (Vaccines and Related Biological
 Committee).  <sup id="fn1a">[[1]](#fn1)</sup>
 
 This is the same body as the one that recommended approval for the Pfizer vaccine, though
-I note that here there are 21 members _vs_ 22 for Pfizer.  A Venn diagram of the committee
+I note that here there are 21 members here _vs_ 22 for Pfizer.  A Venn diagram of the committee
 members present might be interesting.  But the bottom line is: the vote was 20-0-1, i.e.,
 20 in favor of the EUA, nobody against, and 1 abstention.  
 
@@ -30,7 +30,7 @@ the NIH.  He felt that EUA was a bit too much, and would have preferred what's c
 toward EUA, to minimize risk in people who don't already have a high risk profile for
 COVID-19, a very cautious position.  I wonder if he was also on the Pfizer committee, and
 if so why he did not advocate this position there?  Still, he's not _against_ the Moderna
-vaccine, just very, _very_ cautious.  So, not an unreasonable position, really.  
+vaccine, just very, _very_ cautious.  So, it's not an unreasonable position, really.  
 
 Interestingly, one of the committee members who voted _against_ the Pfizer vaccine last
 week, voted _for_ the Moderna vaccine this week: A. Oveta Fuller (UMich microbiologist)
@@ -69,7 +69,7 @@ second treatment.  Without the administering clinician's knowing what the second
 was to be:  
 - those in the treatment arm get 2 doses of placebo without being told what it was,
   and  
-- those in the treatment arm get 2 doses of the vaccine without being told what it was.  
+- those in the placebo arm get 2 doses of the vaccine without being told what it was.  
 
 This would permit the trial to keep collecting double-blind data, but at the cost of
 considerable complexity and money.  
