@@ -33,8 +33,5 @@ Sometimes simultaneously.
 
 [As previously noted in this blog](https://www.someweekendreading.blog/Lord-Kelvin-on-quantitative-knowledge/), he is channeling Lord Kelvin:  
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lord_Kelvin_photograph.jpg/220px-Lord_Kelvin_photograph.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lord_Kelvin_photograph.jpg/220px-Lord_Kelvin_photograph.jpg" width="165" height="206" alt="Lord Kelvin" title="Lord Kelvin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernest_Rutherford_LOC.jpg/447px-Ernest_Rutherford_LOC.jpg" width="447" height="600" alt="Lord Rutherford" title="Lord Rutherford" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 >If your result needs a statistician, then you should design a better experiment. &mdash; [Ernest Rutherford, 1st Baron Rutherford of Nelson, and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  
