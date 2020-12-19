@@ -173,7 +173,7 @@ EUA:
 No good deed goes unpunished, and under Republican rule no good news goes
 un-crapped-upon.  
 
-<img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-boston-globe.jpg" width="400" height="430" alt="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" title="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-boston-globe.jpg" width="200" height="215" alt="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" title="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First up, in the venerable _Globe_, and article by Weisman &amp; Andersen reports that the
 Federal government has reduced shipments of the Pfizer vaccine to Massachuesetts by 
 1/3! <sup id="fn5a">[[5]](#fn5)</sup>  Several other states have also been throttled by
@@ -182,14 +182,14 @@ Kansas, Montana, Nebraska, Nevada, Indiana, and Rhode Island.
 
 Inexplicably, but  sadly predictably, an HHS spokesperson denied any such reductions happened.  
 
-<img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-vanity-fair.jpg" width="400" height="383" alt="Vanity Fair: White House incompetence holding up millions of COVID vaccines" title="Vanity Fair: White House incompetence holding up millions of COVID vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-vanity-fair.jpg" width="200" height="192" alt="Vanity Fair: White House incompetence holding up millions of COVID vaccines" title="Vanity Fair: White House incompetence holding up millions of COVID vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Second, a longer investigation by Lutz in _Vanity Fair_ <sup id="fn6a">[[6]](#fn6)</sup>
 poses an interesting conundrum.  The Trump administration claims there are production
 problems from Pfizer.  However, there are 2 inconvenient facts:  
 - The Trump administration _failed to buy_ doses they were offered multiple times by
   Pfizer, and  
-- Pfizer itself says they have no manufacturing problems, and actually have millions of
-  doses in (very cold) warehouses, awaiting instructions and payment:  
+- Pfizer itself says they have no manufacturing problems, and literally have millions of
+  doses in (no doubt very cold) warehouses, awaiting instructions and payment:  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
 
