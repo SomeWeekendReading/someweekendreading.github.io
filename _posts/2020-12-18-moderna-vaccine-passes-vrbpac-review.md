@@ -198,7 +198,7 @@ problems from Pfizer.  However, there are 2 inconvenient facts:
     here: <a href="https://t.co/72sSOWrnil">https://t.co/72sSOWrnil</a> 
 	<a href="https://t.co/1LoPYmSyWb">pic.twitter.com/1LoPYmSyWb</a>
   </p>
-  &mdash; AlbertBourla (@AlbertBourla) <a href="https://twitter.com/AlbertBourla/status/1339620715805495299">December 17, 2020</a>
+  &mdash; AlbertBourla (@AlbertBourla) <a href="https://twitter.com/AlbertBourla/status/1339620715805495299?ref_src=twsrc%5Etfw">December 17, 2020</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
