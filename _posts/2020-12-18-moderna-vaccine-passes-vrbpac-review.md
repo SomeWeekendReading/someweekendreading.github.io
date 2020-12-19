@@ -172,13 +172,14 @@ No good deed goes unpunished, and under Republican rule no good news goes
 un-crapped-upon.  
 
 <img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-boston-globe.jpg" width="200" height="215" alt="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" title="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-First up, in the venerable _Globe_, and article by Weisman &amp; Andersen reports that the
+First up, in the venerable _Globe_, an article by Weisman &amp; Andersen reports that the
 Federal government has reduced shipments of the Pfizer vaccine to Massachuesetts by 
 1/3! <sup id="fn5a">[[5]](#fn5)</sup>  Several other states have also been throttled by
 the Feds: New Hampshire, Connecticut, California, Illinois, Michigan, Washington, Georgia,
 Kansas, Montana, Nebraska, Nevada, Indiana, and Rhode Island.  
 
-Inexplicably, but  sadly predictably, an HHS spokesperson denied any such reductions happened.  
+Inexplicably, but  sadly predictably, an HHS spokesperson denied any such reductions
+happened, in plain contradiction of the facts.  
 
 <img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-vanity-fair.jpg" width="200" height="192" alt="Vanity Fair: White House incompetence holding up millions of COVID vaccines" title="Vanity Fair: White House incompetence holding up millions of COVID vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Second, a longer investigation by Lutz in _Vanity Fair_ <sup id="fn6a">[[6]](#fn6)</sup>
@@ -228,19 +229,20 @@ Moderna have engaged naming companies who charge big bucks to make up nonsensica
 
 As Jack Benny used to say: "Well."  
 
-Here at _Chez Weekend Nomenclature LLC_, we propose the names "MoCoVax" and "PfiBiCoVax" for
+Here at _Weekend Nomenclature LLC_, we propose the names "MoCoVax" and "PfiBiCoVax" for
 Moderna and Pfizer respectively.  
 
-You're welcome.  Email us and we'll work out payment details. [↩](#fn2a)  
+You're welcome.  Moderna, Pfizer: email us and we'll work out payment details. [↩](#fn2a)  
 
 <a id="fn3">3</a>: Once upon a time, in my now-distant younger years, I was acquainted
 with a young woman in my religious community who had the _cutest_ lop-sided smile.  I
 thought it was quite endearing.  But I dithered, too gripped by shyness to say anything to
 her.  That turned out to be fortunate, since it turned out she had Bell's, and was quite
 self-conscious about it for the months it persisted.  Any compliment from me probably would have
-been _awkward!_ (Or maybe the opposite.  We'll never know.) It's definitely a disease that
-is quite annoying to those who have it, even though it usually goes away in weeks to 
-months. [↩](#fn3a)  
+been _awkward!_ (Or maybe the opposite.  We'll never know.)  
+
+It's definitely a disease that is quite annoying to those who have it, even though it
+usually goes away in weeks to months. [↩](#fn3a)  
 
 <a id="fn4">4</a>: S Hahn and P Marks, ["FDA Statement on Vaccines and Related Biological Products Advisory Committee Meeting"](https://www.fda.gov/news-events/press-announcements/fda-statement-vaccines-and-related-biological-products-advisory-committee-meeting-0), FDA Press Release, 2020-Dec-17.  [↩](#fn4a)  
 
