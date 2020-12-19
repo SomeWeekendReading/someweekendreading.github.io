@@ -59,7 +59,9 @@ It may take a day or two, barring political meddling, for the FDA to grant the o
 EUA, but it's pretty likely to happen.  
 
 
-## Issues that concerned VRBPAC members: crossover design  
+## Issues that concerned VRBPAC members  
+
+### Crossover design  
 
 Steven Goodman, associate dean of clinical and translational research at Stanford,
 suggested last week for Pfizer and again this week for Moderna that an EUA would be an
@@ -85,7 +87,7 @@ a common policy on unblinding, rather than haphazardly by company.  Nevertheless
 are.  
 
 
-## Issues that concerned VRBPAC members: side effects  
+### Side effects  
 
 Some of the data presented showed the Moderna vaccine was more reactogenic (showing strong
 immune response, which is desirable, but also showing side effects like fever and soreness
@@ -104,7 +106,7 @@ meaning watching people for 30-45min after injection with an epi-pen at the read
 something vaguely like that.  
 
 
-## Issues that concerned VRBPAC members: unanswerable questions  
+### Unanswerable questions  
 
 Nobody knows the answers to these questions:  
 - Does the vaccine prevent virus transmission, or does it just make people asymptomatic
@@ -122,7 +124,7 @@ especially in those who got COVID anyway will tell us about vaccine response.
 But not yet.  
 
 
-## Issues that concerned VRBPAC members: being asked the wrong question!  
+### Being asked the wrong question!  
 
 Amusingly, when it came time to vote, the FDA put the wrong question on the screen: it was
 about the Pfizer/BioNTech vaccine, instead of the Moderna vaccine.  
