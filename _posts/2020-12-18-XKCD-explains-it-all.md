@@ -11,8 +11,10 @@ comments: true
 The Kaplan-Meier curves for COVID-19 infections in the Pfizer/BioNTech and Moderna trials
 are, of course, beautiful:  
 
-<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.jpg" width="300" height="199" alt="Pfizer vaccine KM curves" title="Pfizer vaccine KM curves" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2020-12-15-beautiful-vaccines-2-survival-plot.jpg" width="300" height="159" alt="Moderna vaccine KM curves" title="Moderna vaccine KM curves" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>  
+<img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.jpg" width="325" height="179" alt="Pfizer vaccine KM curves" title="Pfizer vaccine KM curves" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-15-beautiful-vaccines-2-survival-plot.jpg" width="325" height="179" alt="Moderna vaccine KM curves" title="Moderna vaccine KM curves" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>  
+
+<br>
 
 [XKCD #2400](https://xkcd.com/2400/) has a quick summary of the situation:  
 
