@@ -162,8 +162,8 @@ Amen to that.
 
 <img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-fda-pr.jpg" width="400" height="233" alt="FDA: Will work quickly toward Moderna EUA" title="FDA: Will work quickly toward Moderna EUA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The FDA reaction was quick.  A statement from Hahn (FDA Commissioner) and Marks (director
-of CBER) was issued, saying they agree with the committee and will work quickly toward an
-EUA:  
+of CBER) was issued <sup id="fn4a">[[4]](#fn4)</sup>, saying they agree with the committee
+and will work quickly toward an EUA:  
 
 > Following today’s positive advisory committee meeting outcome regarding the Moderna COVID-19 vaccine, the U.S. Food and Drug Administration has informed the sponsor that it will __rapidly work toward finalization and issuance of an emergency use authorization.__ The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
 
@@ -198,7 +198,7 @@ problems from Pfizer.  However, there are 2 inconvenient facts:
     here: <a href="https://t.co/72sSOWrnil">https://t.co/72sSOWrnil</a> 
 	<a href="https://t.co/1LoPYmSyWb">pic.twitter.com/1LoPYmSyWb</a>
   </p>
-  &mdash; AlbertBourla (@AlbertBourla) <a href="https://twitter.com/AlbertBourla/status/1339620715805495299?ref_src=twsrc%5Etfw">December 17, 2020</a>
+  &mdash; AlbertBourla (@AlbertBourla) <a href="https://twitter.com/AlbertBourla/status/1339620715805495299">December 17, 2020</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
