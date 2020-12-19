@@ -62,7 +62,9 @@ was published this morning, also in the prestigious _NEJM_.
 It's a thing of beauty.  I do not say that lightly.  
 
 
-## Issues that concerned VRBPAC members: pediatric patients  
+## Issues that concerned VRBPAC members  
+
+### Pediatric patients  
 
 Apparently, there was discussion of including 16-17 year olds in the vaccination
 population, instead of the usual 18+ age limit.  This triggered some discussion that the
@@ -83,7 +85,7 @@ Apparently, some of the "no" votes were from members who wanted to exclude anybo
 18 from getting the vaccine in advance of pediatric trials, in an abundance of caution.  
 
 
-## Issues that concerned VRBPAC members: crossover design  
+### Crossover design  
 
 The commitee wanted to get the subjects in the control arm vaccinated as soon as possible
 (see "crossover design of clinical trials").  Pfizer pointed out that this would be
@@ -95,7 +97,7 @@ Basically, it would mess up the trial, and they are going to be vaccinated soon
 with the rest of the popuation anyway.  
 
 
-## Issues that concerned VRBPAC members: severe allergies  
+### Severe allergies  
 
 Some people just have severe reactions to vaccines.  If we know that about a patient, then
 they should be required to site around for 45min or so under observation by a nurse with
@@ -105,7 +107,7 @@ Pfizer did happily note, though, that they had only 1 severe COVID-19 case (due 
 drop in blood O2 levels) in the treatment arm.  
 
 
-## Issues that concerned VRBPAC members: conspiracy theories  
+### Conspiracy theories  
 
 There were, of course, public comments.  And some of them were wild and wooly accusations
 that vaccines permanently injure people (sigh), or the extreme canard that they contain aborted
