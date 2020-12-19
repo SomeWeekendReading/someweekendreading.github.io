@@ -204,6 +204,14 @@ problems from Pfizer.  However, there are 2 inconvenient facts:
 
 Of course, [facts have a well-known liberal bias](https://www.nytimes.com/2017/12/08/opinion/facts-have-a-well-known-liberal-bias.html).  
 
+
+## Added late-night 2020-Dec-18  
+
+The FDA has formally granted the Emergency Use Authorization for the Moderna 
+vaccine <sup id="fn7a">[[7]](#fn7)</sup>:  
+
+> Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for the second vaccine for the prevention of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The emergency use authorization allows the Moderna COVID-19 Vaccine to be distributed in the U.S. for use in individuals 18 years of age and older.  
+
 ---
 
 ## Notes &amp; References  
@@ -241,3 +249,5 @@ months. [↩](#fn3a)
 <a id="fn5">5</a>: R Weisman and T Andersen, ["State’s next shipment of Pfizer vaccine will be reduced by nearly one third, Mass. officials confirm"](https://www.bostonglobe.com/2020/12/18/nation/feds-notify-massachusetts-that-next-shipment-pfizer-vaccine-will-be-reduced-by-nearly-one-third/), _Boston Globe_, 2020-Dec-18.  [↩](#fn5a)  
 
 <a id="fn6">6</a>: E Lutz, ["The White House’s Incompetence Is Apparently Holding Up “Millions” of COVID Vaccines"](https://www.vanityfair.com/news/2020/12/white-house-delays-pfizer-vaccine-shipments), _Vanity Fair_, 2020-Dec-18. [↩](#fn6a)  
+
+<a id="fn7">7</a>: FDA News Release, ["FDA Takes Additional Action in Fight Against COVID-19 By Issuing Emergency Use Authorization for Second COVID-19 Vaccine"](https://www.fda.gov/news-events/press-announcements/fda-takes-additional-action-fight-against-covid-19-issuing-emergency-use-authorization-second-covid), FDA.gov, 2020-Dec-18.  [↩](#fn7a)  
