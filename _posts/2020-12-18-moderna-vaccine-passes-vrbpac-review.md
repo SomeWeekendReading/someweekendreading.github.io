@@ -22,15 +22,15 @@ I note that here there are 21 members _vs_ 22 for Pfizer.  A Venn diagram of the
 members present might be interesting.  But the bottom line is: the vote was 20-0-1, i.e.,
 20 in favor of the EUA, nobody against, and 1 abstention.  
 
-In every crowd, there's always one.  In this case, it was Michael Kurilla, director of
-clinical innovation at National Center for Advancing Translational Sciences in the NIH.
-He felt that EUA was a bit too much, and would have preferred what's called the "expanded
-access protocol": basically open the clinical trial to people at high risk (presumably the
-treatment arm, not the placebo?).  This would be sort of a half-step toward EUA, to
-minimize risk in people who don't already have a high risk profile for COVID-19, a very
-cautious position.  I wonder if he was also on the Pfizer committee, and if so why he did
-not advocate this position there?  Still, he's not _against_ the Moderna vaccine, just
-very, _very_ cautious.  So not an unreasonable position.  
+In every crowd, there's always gotta be one, right?  In this case, it was Michael Kurilla,
+director of clinical innovation at National Center for Advancing Translational Sciences in
+the NIH.  He felt that EUA was a bit too much, and would have preferred what's called the
+"expanded access protocol": basically open the clinical trial to people at high risk
+(presumably the treatment arm, not the placebo?).  This would be sort of a half-step
+toward EUA, to minimize risk in people who don't already have a high risk profile for
+COVID-19, a very cautious position.  I wonder if he was also on the Pfizer committee, and
+if so why he did not advocate this position there?  Still, he's not _against_ the Moderna
+vaccine, just very, _very_ cautious.  So, not an unreasonable position, really.  
 
 Interestingly, one of the committee members who voted _against_ the Pfizer vaccine last
 week, voted _for_ the Moderna vaccine this week: A. Oveta Fuller (UMich microbiologist)
@@ -42,14 +42,14 @@ the age range downward to 16-17 year olds, as with Pfizer.
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/94OMGzrQzvQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 The question from the FDA before the committe was:  
-- Based on the totality of scientific evidence available, do the benefits of the Moderna
-  Covid-19 vaccine outweigh its risks for use in individuals 18 years of age and older?  
+- _Based on the totality of scientific evidence available, do the benefits of the Moderna
+  Covid-19 vaccine outweigh its risks for use in individuals 18 years of age and older?_  
 - __NB:__ The crucial differences with respect to Pfizer are that this is the _only_
   question before the commitee, and that Moderna applied for EUA for 18+ years old instead
   of 16+ as for Pfizer.  So there was considerably less discussion of side issues and no
   wrangling over pediatric application of a vaccine.  
   
-This committee approval is not the final step; the committee's report is a
+_This committee approval is not the final step; the committee's report is a
 **recommendation** to the FDA, not a binding decision._ There are times in the past when
 the FDA has chosen to disregard the opinion of external scientists &amp; medical
 pracitioners, but it's pretty rare.  It's _highly likely_ that the FDA will issue very
@@ -67,9 +67,10 @@ ethical challenge for those still on the trial, especially in the placebo arm.  
 proposed the trials continue in double-blinded fashion, but that the patients be called in for a
 second treatment.  Without the administering clinician's knowing what the second treatment
 was to be:  
-- Those in the treatment arm get 2 doses of placebo without being told what it was,
+- those in the treatment arm get 2 doses of placebo without being told what it was,
   and  
-- Those in the treatment arm get 2 doses of the vaccine without being told what it was.  
+- those in the treatment arm get 2 doses of the vaccine without being told what it was.  
+
 This would permit the trial to keep collecting double-blind data, but at the cost of
 considerable complexity and money.  
 
@@ -105,7 +106,7 @@ Nobody knows the answers to these questions:
   carriers who can still transmit the virus?  
 - Have there been any viral mutations to get around the vaccine?  (Unlikely, given the
   spike protein's architecture to bind to ACE2 is very specific, but it _could_
-  happen&hellp;)  
+  happen&hellip;)  
 - How did 11 participants who got the vaccine get COVID-19?  
 
 Dunno.  But, as we start measuring both viral mRNA levels and antibody levels in
@@ -119,9 +120,10 @@ But not yet.
 ## Issues that concerned VRBPAC members: being asked the wrong question!  
 
 Amusingly, when it came time to vote, the FDA put the wrong question on the screen: it was
-about the Pfizer/BioNTech vaccine, instead of the Moderna vaccine.  One can only _imagine_
-the yelling that went on behind the scenes&hellp; though it was quickly &amp; easily
-corrected.  
+about the Pfizer/BioNTech vaccine, instead of the Moderna vaccine.  
+
+One can only _imagine_ the yelling that went on behind the scenes&hellip; though it was
+quickly &amp; easily corrected.  
 
 
 ## Issues that did _not_ concern VRBPAC members: the cold chain  
@@ -129,7 +131,7 @@ corrected.
 Much better here: Pfizer's requires -70&deg;C freezers, whereas Moderna's can use ordinary
 freezers, and keeps in an ordinary refrigerator up to 30 days.  
 
-__Prediction:__ The Pfizer vaccine will mostly go to urban centers, where larger teaching
+__Weekend Prediction:__ The Pfizer vaccine will mostly go to urban centers, where larger teaching
 hospitals and the many research facilities have -70&deg;C freezer space they can donate or
 lease.  The Moderna vaccine will go to less urban, more rural areas where the facilities
 available are more basic.  
@@ -189,7 +191,7 @@ problems from Pfizer.  However, there are 2 inconvenient facts:
   </p>
   &mdash; AlbertBourla (@AlbertBourla) <a href="https://twitter.com/AlbertBourla/status/1339620715805495299?ref_src=twsrc%5Etfw">December 17, 2020</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 Of course, [facts have a well-known liberal bias](https://www.nytimes.com/2017/12/08/opinion/facts-have-a-well-known-liberal-bias.html).  
 
@@ -212,16 +214,18 @@ Moderna have engaged naming companies who charge big bucks to make up nonsensica
 As Jack Benny used to say: "Well."  
 
 Here at _Chez Weekend Nomenclature LLC_, we propose the names "MoCoVax" and "PfiBiCoVax" for
-Moderna and Pfizer respectively.  You're welcome.  Email us and we'll work out payment 
-details. [↩](#fn2a)  
+Moderna and Pfizer respectively.  
+
+You're welcome.  Email us and we'll work out payment details. [↩](#fn2a)  
 
 <a id="fn3">3</a>: Once upon a time, in my now-distant younger years, I was acquainted
 with a young woman in my religious community who had the _cutest_ lop-sided smile.  I
 thought it was quite endearing.  But I dithered, too gripped by shyness to say anything to
 her.  That turned out to be fortunate, since it turned out she had Bell's, and was quite
-self-conscious about it for the months it persisted; any compliment from me would have
+self-conscious about it for the months it persisted.  Any compliment from me probably would have
 been _awkward!_ (Or maybe the opposite.  We'll never know.) It's definitely a disease that
-is quite annoying to those who have it, even though[↩](#fn3a)  
+is quite annoying to those who have it, even though it usually goes away in weeks to 
+months. [↩](#fn3a)  
 
 <a id="fn4">4</a>: S Hahn and P Marks, ["FDA Statement on Vaccines and Related Biological Products Advisory Committee Meeting"](https://www.fda.gov/news-events/press-announcements/fda-statement-vaccines-and-related-biological-products-advisory-committee-meeting-0), FDA Press Release, 2020-Dec-17.  [↩](#fn4a)  
 
