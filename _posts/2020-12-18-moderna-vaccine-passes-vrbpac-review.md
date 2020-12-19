@@ -77,7 +77,12 @@ considerable complexity and money.
 Both Pfizer and Moderna rejected this, planning to unblind the trial and tell the
 participants which arm they were in, as it would be too expensive to carry out Goodman's
 suggestion, but unethical to keep the placebo arm participants in the dark.  They want to
-vaccinate the subjects in the placebo arm.  
+vaccinate the subjects in the placebo arm.  The details are, alas, somewhat unclear and
+probably differ between Moderna &amp; PFizer.  
+
+It would have been nice if there had been adequate planning on the Federal level, to have
+a common policy on unblinding, rather than haphazardly by company.  Nevertheless, here we
+are.  
 
 
 ## Issues that concerned VRBPAC members: side effects  
@@ -166,6 +171,7 @@ EUA:
 No good deed goes unpunished, and under Republican rule no good news goes
 un-crapped-upon.  
 
+<img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-boston-globe.jpg" width="400" height="430" alt="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" title="Boston Globe: Pfizer vaccine shipments to Mass curtailed by one third" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First up, in the venerable _Globe_, and article by Weisman &amp; Andersen reports that the
 Federal government has reduced shipments of the Pfizer vaccine to Massachuesetts by 
 1/3! <sup id="fn5a">[[5]](#fn5)</sup>  Several other states have also been throttled by
@@ -174,6 +180,7 @@ Kansas, Montana, Nebraska, Nevada, Indiana, and Rhode Island.
 
 Inexplicably, but  sadly predictably, an HHS spokesperson denied any such reductions happened.  
 
+<img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-vanity-fair.jpg" width="400" height="383" alt="Vanity Fair: White House incompetence holding up millions of COVID vaccines" title="Vanity Fair: White House incompetence holding up millions of COVID vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Second, a longer investigation by Lutz in _Vanity Fair_ <sup id="fn6a">[[6]](#fn6)</sup>
 poses an interesting conundrum.  The Trump administration claims there are production
 problems from Pfizer.  However, there are 2 inconvenient facts:  
