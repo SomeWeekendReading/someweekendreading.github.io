@@ -6,7 +6,8 @@ comments: true
 ---
 
 Yesterday was _also_ a good day: the FDA's external advisory committe passed the
-Moderna COVID-19 vaccine at 5:20pm EST on 2020-Dec-17.  
+Moderna COVID-19 vaccine at 5:20pm EST on 2020-Dec-17.  Late today, the FDA agreed and
+granted the Emergency Use Authorization.  
 
 
 ## What's the sitch?  
@@ -86,7 +87,6 @@ It would have been nice if there had been adequate planning on the Federal level
 a common policy on unblinding, rather than haphazardly by company.  Nevertheless, here we
 are.  
 
-
 ### Side effects  
 
 Some of the data presented showed the Moderna vaccine was more reactogenic (showing strong
@@ -105,7 +105,6 @@ had to say about it.  The FDA said both companies had to watch out for this, app
 meaning watching people for 30-45min after injection with an epi-pen at the ready, or
 something vaguely like that.  
 
-
 ### Unanswerable questions  
 
 Nobody knows the answers to these questions:  
@@ -122,7 +121,6 @@ PCR test; sequencing any viral RNA found will tell us about mutations; and antib
 especially in those who got COVID anyway will tell us about vaccine response.  
 
 But not yet.  
-
 
 ### Being asked the wrong question!  
 
