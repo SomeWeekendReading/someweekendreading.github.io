@@ -31,12 +31,12 @@ Sometimes simultaneously.
 
 ## Somebody already said that&hellip;
 
-He seems to be channeling Lord Rutherford.  While frustrating to a statistician, he's
-right: you should _of course_ choose the experiment design that gives such a clear answer
-you don't _need_ statistics.  
+He seems to be channeling Lord Rutherford:  
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernest_Rutherford_LOC.jpg/447px-Ernest_Rutherford_LOC.jpg" width="223" height="300" alt="Lord Rutherford" title="Lord Rutherford" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 >If your result needs a statistician, then you should design a better experiment. &mdash; [Ernest Rutherford, 1st Baron Rutherford of Nelson, and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  
 
-Statisticians are for the situation where that's not even possible.  Which is most of the
-time.  
+While frustrating to a statistician, he's right: you should _of course_ choose the
+experiment design that gives such a clear answer you don't _need_ statistics.
+Statisticians are for the situations where that's not even possible.  Which is most of 
+the time.  
