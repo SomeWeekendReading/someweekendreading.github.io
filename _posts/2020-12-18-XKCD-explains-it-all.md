@@ -40,6 +40,7 @@ He seems to be channeling Lord Rutherford, according to
 >If your result needs a statistician, then you should design a better experiment. &mdash; [Ernest Rutherford, 1st Baron Rutherford of Nelson, and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  
 
 While frustrating to a statistician, he's right: you should _of course_ choose the
-experiment design that gives such a clear answer you don't _need_ statistics.
+experiment design that gives such a clear answer you don't _need_ statistics.  
+
 Statisticians are for the situations where that's not even possible.  Which is most of 
 the time.  
