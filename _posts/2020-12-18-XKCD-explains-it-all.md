@@ -11,14 +11,14 @@ comments: true
 The Kaplan-Meier curves for COVID-19 infections in the Pfizer/BioNTech and Moderna trials
 are, of course, beautiful:  
 
+<div>
 <img src="{{ site.baseurl }}/images/2020-12-08-beautiful-vaccines-case-rates.jpg" width="325" height="179" alt="Pfizer vaccine KM curves" title="Pfizer vaccine KM curves" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-12-15-beautiful-vaccines-2-survival-plot.jpg" width="325" height="179" alt="Moderna vaccine KM curves" title="Moderna vaccine KM curves" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>  
+</div>
 
-<br>
-
-[XKCD #2400](https://xkcd.com/2400/) has a quick summary of the situation:  
-
-<img src="{{ site.baseurl }}/images/2020-12-18-XKCD-explains-it-all.png" width="296" height="384" alt="XKCD Explains It All" title="XKCD Explains It All" style="float: center; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-18-XKCD-explains-it-all.png" width="296" height="384" alt="XKCD Explains It All" title="XKCD Explains It All" style="float: center; right: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+[XKCD #2400](https://xkcd.com/2400/) has a quick summary of the situation, as always in
+the simplest and clearest possible terms.  
 
 [As previously noted in this blog](https://www.someweekendreading.blog/Lord-Kelvin-on-quantitative-knowledge/),
 he is channeling Lord Kelvin:  
