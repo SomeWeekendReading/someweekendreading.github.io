@@ -18,9 +18,9 @@ are, of course, beautiful:
 
 <div>
 <img src="{{ site.baseurl }}/images/2020-12-18-XKCD-explains-it-all.png" width="296" height="384" alt="XKCD Explains It All" title="XKCD Explains It All" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-[XKCD #2400](https://xkcd.com/2400/) has a quick summary of the situation, as always in
+[XKCD 2400](https://xkcd.com/2400/) has a quick summary of the situation, as always in
 the simplest and clearest possible terms.  
-</div>
+</div>  
 
 [As previously noted in this blog](https://www.someweekendreading.blog/Lord-Kelvin-on-quantitative-knowledge/),
 he is channeling Lord Kelvin:  
