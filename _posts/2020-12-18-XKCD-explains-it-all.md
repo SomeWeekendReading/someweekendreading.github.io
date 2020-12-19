@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XKCD explains it all
-tags: COVID MathInTheNews PharmaAndBiotech Politics TheDivineMadness
+tags: COVID MathInTheNews PharmaAndBiotech TheDivineMadness
 comments: true
 ---
 
