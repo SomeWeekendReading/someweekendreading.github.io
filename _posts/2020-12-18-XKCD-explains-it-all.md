@@ -7,7 +7,7 @@ comments: true
 
 [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe), the 
 [mad](https://www.someweekendreading.blog/tags/#TheDivineMadness) cartoonist behind 
-[XKCD](https://xkcd.com/), explains COVID-19 vaccine approvals.  And channels Lord Kelvin.
+[XKCD](https://xkcd.com/), explains COVID-19 vaccine approvals.  And channels Lord Rutherford.
 Simultaneously.  
 
 ## Data and its best summary ever  
@@ -34,5 +34,7 @@ Sometimes simultaneously.
 [As previously noted in this blog](https://www.someweekendreading.blog/Lord-Kelvin-on-quantitative-knowledge/), he is channeling Lord Kelvin:  
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lord_Kelvin_photograph.jpg/220px-Lord_Kelvin_photograph.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lord_Kelvin_photograph.jpg/220px-Lord_Kelvin_photograph.jpg" width="165" height="206" alt="Lord Kelvin" title="Lord Kelvin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
->In physical science a first essential step in the direction of learning any subject is to find principles of numerical reckoning and practicable methods for measuring some quality connected with it. I often say that when you can measure what you are speaking about and express it in numbers you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of __science__, whatever the matter may be.  
-&mdash; Thomson, W. (1891). [Popular Lectures and Addresses](https://www.google.com/books/edition/_/JcMKAAAAIAAJ?hl=en&gbpv=1&bsq=In%20physical%20science%20a%20first%20essential%20step), Vol. I, p. 80.
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernest_Rutherford_LOC.jpg/447px-Ernest_Rutherford_LOC.jpg" width="447" height="600" alt="Lord Rutherford" title="Lord Rutherford" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+>If your result needs a statistician, then you should design a better experiment. &mdash; [Ernest Rutherford, 1st Baron Rutherford of Nelson, and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  
