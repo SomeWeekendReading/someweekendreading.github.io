@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The solstice, Dodds's Day, and the Weekend Editrix's Day
+title: Winter solstice, Dodds's Day, and the Weekend Editrix's Day
 tags: Math R TheDivineMadness
 comments: true
 ---
@@ -15,7 +15,7 @@ In its own peculiar way, this is a form of winter holiday greeting from the Nerd
 ## Many years ago&hellip;
 
 <img src="{{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-Symbolics3640_Modified.jpg" width="203" height="400" alt="Symbolics 3640 Lisp Machine (Wikipedia)" title="Symbolics 3640 Lisp Machine (Wikipedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-doug-dodds.jpg" width="200" height="200" alt="Doug Dodds" title="Doug Dodds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-12-solstice-vs-dodds-day-doug-dodds.jpg" width="200" height="200" alt="Doug Dodds" title="Doug Dodds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Many years ago &ndash; where "many" may here be understood as meaning &ge; 35 years
 &ndash; I was working for a very strange company in Cambridge called
 [Symbolics](https://en.wikipedia.org/wiki/Symbolics), which made very strange (and
@@ -63,7 +63,7 @@ on Dec 21 (a fixed point of the Gregorian calendar, and regardless of latitude),
 earliest sunset is a bit before that and the latest sunrise is a bit after.  It led to a
 series of annual emails from Doug, in which he would, each year, alert us to the day of 
 earliest sunset. <sup id="fn2a">[[2]](#fn2)</sup>  By now-ancient tradition among 
-now-ancient _Cantabrigia Symbolica_, this is known as "Dodds's Day".  
+the now-ancient _Cantabrigiae Symbolicae_, this is known as "Dodds's Day".  
 
 For the Weekend Editrix, on the other hand &ndash; well, let's just say she's a morning person
 who inexplicably-but-actually _cares_ that the sun should rise before she does.  So we call

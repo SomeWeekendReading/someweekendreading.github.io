@@ -94,3 +94,5 @@ earliest-sunset times that I enjoy so much, while the northern winter sets in.
 
 My main reference for the information in this piece is an excellent article on the
 analemma by Bernard Oliver, in Sky and Telescope, July 1972.  
+
+&mdash; Doug Dodds  
