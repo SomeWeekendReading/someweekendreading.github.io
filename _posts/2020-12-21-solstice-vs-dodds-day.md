@@ -109,7 +109,7 @@ lives be filled with both literal and figurative light.
 <a id="fn1">1</a>: D di Cicco, "Exposing the Analemma", _Sky and Telescope_, June 1979,
 pp. 536-540. [↩](#fn1a)  
 
-<a id="fn2">2</a>: Douglas Dodds, ["Analemma, My Analemma"]({{ site.baseurl }}/assets/2020-12-21-solstice-vs-dodds-day-analemma-email/), once an annual email from Doug Dodds. [↩](#fn2a)  
+<a id="fn2">2</a>: D Dodds, ["Analemma, My Analemma"]({{ site.baseurl }}/assets/2020-12-21-solstice-vs-dodds-day-analemma-email/), once an annual email from Doug Dodds. [↩](#fn2a)  
 
 <a id="fn3">3</a>: Time and Date, ["Boston, Massachusetts, USA — Sunrise, Sunset, and Daylength, December 2020"](https://www.timeanddate.com/sun/usa/boston), timeanddate.com, retrieved 2020-12-21.  Also used the corresponding files for November and January.  
 
