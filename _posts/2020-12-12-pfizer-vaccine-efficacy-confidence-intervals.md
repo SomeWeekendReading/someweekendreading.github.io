@@ -21,9 +21,9 @@ pandemic.  So&hellip; sort of kindred souls there, I think.
 
 Now, Gary looked at the FDA re-analysis of the Pfizer data <sup id="fn3a">[[3]](#fn3)</sup>, 
 which is what 
-[we looked at here a couple days ago](https://www.someweekendreading.blog/beautiful-vaccines/), 
+[we looked at here a couple days ago]({{ site.baseurl }}/beautiful-vaccines/), 
 among other things.  But unlike your humble Weekend Editor who just picked out the
-[pretty survival plot](https://www.someweekendreading.blog/beautiful-vaccines/#a-beautiful-survival-plot),
+[pretty survival plot]({{ site.baseurl }}/beautiful-vaccines/#a-beautiful-survival-plot),
 Gary actually _dug through the tables._  Of particular interest is Table 8 on
 page 26, which gives the subject counts and the vaccine efficacy, and the 95% confidence
 interval on the efficacy, across various age groups (_q.v._).  

@@ -6,7 +6,7 @@ comments: true
 ---
 
 [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe), the 
-[mad](https://www.someweekendreading.blog/tags/#TheDivineMadness) cartoonist behind 
+[mad]({{ site.baseurl }}/tags/#TheDivineMadness) cartoonist behind 
 [XKCD](https://xkcd.com/), explains COVID-19 vaccine approvals.  And channels Lord Rutherford.
 Simultaneously.  
 
@@ -34,7 +34,7 @@ Sometimes simultaneously.
 ## Didn't somebody already say that?  
 
 He seems to be channeling Lord Rutherford, according to
-[this blog's quotes page](https://www.someweekendreading.blog/quotes/#the-statistical-ones):  
+[this blog's quotes page]({{ site.baseurl }}/quotes/#the-statistical-ones):  
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernest_Rutherford_LOC.jpg/447px-Ernest_Rutherford_LOC.jpg" width="223" height="300" alt="Lord Rutherford" title="Lord Rutherford" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 >If your result needs a statistician, then you should design a better experiment. &mdash; [Ernest Rutherford, 1st Baron Rutherford of Nelson, and Nobel Laureate](https://en.wikipedia.org/wiki/Ernest_Rutherford)  

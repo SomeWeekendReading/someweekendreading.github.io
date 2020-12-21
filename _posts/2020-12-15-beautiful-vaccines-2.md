@@ -63,7 +63,7 @@ There are 3 documents this time, because Moderna filed a supplement:
 
 <img src="{{ site.baseurl }}/images/2020-12-15-beautiful-vaccines-2-survival-plot.jpg" width="400" height="212" alt="FDA: Moderna survival plot for treatment vs control arms" title="FDA: Moderna survival plot for treatment vs control arms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Remember in our look at the Pfizer/BioNTech EUA submission, there was 
-[a very beautiful survival plot of infection rates in the treatment vs control arms](https://www.someweekendreading.blog/beautiful-vaccines/#a-beautiful-survival-plot)?
+[a very beautiful survival plot of infection rates in the treatment vs control arms]({{ site.baseurl }}/beautiful-vaccines/#a-beautiful-survival-plot)?
 Unsurprisingly, Moderna has one that is equally beautiful on page 28 of the FDA analysis,
 Figure 2.  The comments that come to mind are about the same as for Pfizer/BioNTech:  
 - The horizontal axis is time.  The first injection occurred on day 1, and the second on

@@ -5,7 +5,7 @@ tags: Physics
 comments: true
 ---
 
-The [sad news about Arecibo](https://www.someweekendreading.blog/alas-arecibo/) brings up
+The [sad news about Arecibo]({{ site.baseurl }}/alas-arecibo/) brings up
 the topic of SETI.  In better news, an amateur astronomer has proposed a particular star
 as the source of the famous "Wow!" event, using the Gaia Archive.  Wait, _what?_  
 
