@@ -74,7 +74,7 @@ in <sup id="fn2a">[reference 2](#fn2)</sup>.
 
 Hey, it's good news, and this is 2020, right?  I can't just walk away from this.  As
 astute readers may recall, we solved a similar problem in 
-[the post about the racial balance of the Boston Police Department](https://www.someweekendreading.blog/bpd-racial-makeup/), 
+[the post about the racial balance of the Boston Police Department]({{ site.baseurl }}/bpd-racial-makeup/), 
 so we can just repurpose that machinery.  Let's use the following notation:  
 $$
 \begin{align*}

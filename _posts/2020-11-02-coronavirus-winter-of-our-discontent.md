@@ -17,7 +17,7 @@ _important_ that you vote (and that you not vote Republican for any office whats
 would just be enabling the bad guys).  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-ballot-tracking.png" width="400" height="159" alt="Chez Weekend ballot tracking" title="Chez Weekend ballot tracking" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-[Here at Chez Weekend, our vote is already submitted](https://www.someweekendreading.blog/today-i-voted/) 
+[Here at Chez Weekend, our vote is already submitted]({{ site.baseurl }}/today-i-voted/) 
 to the town clerk's drop box, and verified as "accepted for counting" from the secretary
 of state's web site.  Please do the same: either drop off your ballet with your local
 ballot counting office (_not_ at the now criminally-impaired Post 

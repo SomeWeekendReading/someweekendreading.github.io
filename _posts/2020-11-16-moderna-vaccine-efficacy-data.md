@@ -12,7 +12,7 @@ Pfizer/BioNTech interim readout, this is again unabashedly good news.
 <a href="#fn1"><img src="{{ site.baseurl }}/images/2020-11-16-moderna-vaccine-efficacy-data-globe.jpg" width="341" height="400" alt="Boston Globe on Moderna vaccine efficacy readout" title="Boston Globe on Moderna vaccine efficacy readout" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/></a>
 Today, in what has become a regrettably rare experience of late, I see the venerable
 _Globe_ had some good news <sup id="fn1a">[[1](#fn1)]</sup>!  As with 
-[last week's entirely agreeable results from Pfizer/BioNTech](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/),
+[last week's entirely agreeable results from Pfizer/BioNTech]({{ site.baseurl }}/pfizer-vaccine-efficacy-data/),
 this week the Moderna trial reported its first interim data, i.e., a "sneak peek" at early
 results, not the final word.  Also, it's just a press release instead of a peer-reviewed
 journal article, and you know how we feel about that here at Chez Weekend.  But&hellip;
@@ -139,7 +139,7 @@ But... all the usual cautions still apply:
 
 Ok, can we pull out similar numbers from the teensy-tiny bit of data made public so far?
 Do you think we're not gonna at least _try_ to repeat 
-[the spot-check we did for the Pfizer vaccine readout](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/#added-2020-nov-10-because-i-just-cant-leave-this-alone)?  
+[the spot-check we did for the Pfizer vaccine readout]({{ site.baseurl }}/pfizer-vaccine-efficacy-data/#added-2020-nov-10-because-i-just-cant-leave-this-alone)?  
 
 Notation:  
 $$

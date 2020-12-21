@@ -14,8 +14,8 @@ Yet another round of science by press release &ndash; here at Chez Weekend we un
 the tight schedule constraints &amp; are prepared to be reasonably sympathetic.  But we
 are getting a bit testy at having to comb through the vague, blurred, and ambiguous
 pronouncements of managers, lawyers, and PR people instead of scientific evidence.  In the
-recent cases of [Pfizer](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/) and
-[Moderna](https://www.someweekendreading.blog/moderna-vaccine-efficacy-data/), this
+recent cases of [Pfizer]({{ site.baseurl }}/pfizer-vaccine-efficacy-data/) and
+[Moderna]({{ site.baseurl }}/moderna-vaccine-efficacy-data/), this
 seems to have worked out mostly ok.  
 
 But not this time.  
