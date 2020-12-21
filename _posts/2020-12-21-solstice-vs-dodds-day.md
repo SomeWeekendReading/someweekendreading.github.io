@@ -121,4 +121,4 @@ Removed Nov 01 to avoid complexity of daylight savings time change.  See [the cl
 Use other inputs for other cities at other latitudes. 
 [↩](#fn3a)  
 
-<a id="fn4">4</a>: Weekend Editor, ["R script for sun times, Dodds Day, and Weekend Editrix Day"]({{ site.baseurl }}/assets/2020-12-21-solstice-vs-dodds-day-sun-times.r), [www.someweekendreading.blog]({{ site.baseurl }}), 2020-Dec-21. [↩](#fn4a)  
+<a id="fn4">4</a>: Weekend Editor, ["R script for sun times, Dodds Day, and Weekend Editrix Day"]({{ site.baseurl }}/assets/2020-12-21-solstice-vs-dodds-day-sun-times.r), [www.someweekendreading.blog]({{ site.baseurl }}/), 2020-Dec-21. [↩](#fn4a)  
