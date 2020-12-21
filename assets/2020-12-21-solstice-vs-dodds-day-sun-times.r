@@ -1,9 +1,9 @@
-## Created on Thursday, December  5, 2013 at 3:24pm EST by sgr on kryfthanima.
+## Created on Thursday, December  5, 2013 at 3:24pm EST by WeekendEditor on WeekendEditorMachine.
 ## UnCopyright (u) 2013, nobody in particular.  All rights reversed.  As if you care.
 
 ##
-## When is Dodds's Day?  When is Kishiko's Day?
-## Who are these "Dodds" and "Kishiko" people, anyway?
+## When is Dodds's Day?  When is Weekend Editrix's Day?
+## Who are these "Dodds" and "Weekend Editrix" people, anyway?
 ##
 
 ## > cambSunData    <- doit(location = "Cambridge")
@@ -32,7 +32,7 @@ doit <- function(location    = "Cambridge",
 
   parseAngle <- function(theta) { as.numeric(gsub("^([+-]?[0-9\\.]+).*$", "\\1", theta)) }
 
-  significantDays <- function(sunData) {               # Dodds, Kishiko, and solstice
+  significantDays <- function(sunData) {               # Dodds, Weekend Editrix, and solstice
     sunDataTimes <- transform(sunData,                 # Hours since midnight
                               SunsetTime  = Sunset  - Date,
                               SunriseTime = Sunrise - Date)
@@ -41,9 +41,9 @@ doit <- function(location    = "Cambridge",
     dodds    <- dodds[ceiling(nrow(dodds) / 2),       "Date", drop = TRUE]
     solstice <- subset(sunDataTimes, subset = Day.Sec    == min(Day.Sec))
     solstice <- solstice[ceiling(nrow(solstice) / 2), "Date", drop = TRUE]
-    kishiko  <- subset(sunDataTimes, subset = SunriseTime == max(SunriseTime))
-    kishiko  <- kishiko[ceiling(nrow(kishiko) / 2),   "Date", drop = TRUE]
-    c("Dodds" = dodds, "Solstice" = solstice, "Kishiko" = kishiko)
+    editrix  <- subset(sunDataTimes, subset = SunriseTime == max(SunriseTime))
+    editrix  <- editrix[ceiling(nrow(editrix) / 2),   "Date", drop = TRUE]
+    c("Dodds" = dodds, "Solstice" = solstice, "Weekend Editrix" = editrix)
   }                                                    #
 
   withPars <- function(bodyFn, ...) {                  # Call bodyFn with graphics pars set
@@ -91,7 +91,7 @@ doit <- function(location    = "Cambridge",
   sigDays     <- significantDays(sunData)              # Days of significance:
   doddsDay    <- sigDays[["Dodds"]]                    # - earliest sunset
   solsticeDay <- sigDays[["Solstice"]]                 # - shortest length
-  kishikoDay  <- sigDays[["Kishiko"]]                  # - latest sunrise
+  editrixDay  <- sigDays[["Weekend Editrix"]]                  # - latest sunrise
   cat("Days of earliest sunset, shortest length, and latest sunrise:\n")
   print(subset(sunData, subset = Date %in% sigDays))   # Show these Very Important Days
 
@@ -119,7 +119,7 @@ doit <- function(location    = "Cambridge",
       ## Add vertical lines at Very Important Days
       drawDateLine(doddsDay,    sprintf("Earliest Sunset: %s", doddsDay),    "Dodds's Day")
       drawDateLine(solsticeDay, sprintf("Shortest Day: %s",    solsticeDay), "Winter Solstice")
-      drawDateLine(kishikoDay,  sprintf("Latest Sunrise: %s",  kishikoDay),  "Kishiko's Day")
+      drawDateLine(editrixDay,  sprintf("Latest Sunrise: %s",  editrixDay),  "Weekend Editrix's Day")
 
     }, "pty" = "m",                                    # Maximal plotting area
        "bg"  = "transparent",                          # Transparent background
