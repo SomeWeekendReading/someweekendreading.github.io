@@ -23,8 +23,9 @@ wonderful) computers known as [Lisp machines](https://en.wikipedia.org/wiki/Lisp
 One of my main joys in life at that time was that I got to work with not only smart
 people, but also with people who were at least as strange as me, if not stranger.  (In
 some cases, very much stranger.  I could tell you stories, but would first have to check
-if the statute of limitations is expired.)  One of those smart and interestingly strange
-colleagues was an excellent fellow called 
+if the statute of limitations is expired.)  
+
+One of those smart and interestingly strange colleagues was an excellent fellow called
 [Doug Dodds](https://www.linkedin.com/in/doug-dodds-3ab495/): an expert in user interface,
 operating system build procedures, trivia Cantabrigiae, and an inveterate night person.
 It was from him I learned the axiom: "the only problem with morning is that it comes too
@@ -120,4 +121,4 @@ Removed Nov 01 to avoid complexity of daylight savings time change.  See [the cl
 Use other inputs for other cities at other latitudes. 
 [↩](#fn3a)  
 
-<a id="fn4">4</a>: Weekend Editor, ["R script for sun times, Dodds Day, and Weekend Editrix Day"]({{ site.baseurl }}/assets/2020-12-21-solstice-vs-dodds-day-sun-times.r), www.someweekendreading.blog, 2020-Dec-21. [↩](#fn4a)  
+<a id="fn4">4</a>: Weekend Editor, ["R script for sun times, Dodds Day, and Weekend Editrix Day"]({{ site.baseurl }}/assets/2020-12-21-solstice-vs-dodds-day-sun-times.r), [www.someweekendreading.blog]({{ site.baseurl }}), 2020-Dec-21. [↩](#fn4a)  
