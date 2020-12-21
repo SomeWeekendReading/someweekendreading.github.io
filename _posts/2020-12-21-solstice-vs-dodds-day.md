@@ -81,7 +81,7 @@ you're further north, Dodd's Day and the Weekend Editrix's Day are closer to the
 if you're further south, they're farther apart.  (If you're in the southern hemisphere,
 you'll have to do the calculation for yourself; please let me know if you do.)  
 
-![{{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-boston-results.png](Dodd's Day and the Weekend Editrix's Day, 2020 Boston)
+![Dodd's Day and the Weekend Editrix's Day, 2020 Boston]({{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-boston-results.png)
 
 Using some data scraped from the web <sup id="fn3a">[[3]](#fn3)</sup> and an
 [R](https://www.r-project.org/) script <sup id="fn4a">[[4]](#fn4)</sup>, you can produce
