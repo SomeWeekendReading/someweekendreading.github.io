@@ -35,14 +35,16 @@ early in the day to be useful".
 
 <img src="{{ site.baseurl }}/images/2020-12-21-solistice-vs-dodds-day-analemma-di-cicco.jpg" width="400" height="281" alt="Analemma by Dennis di Cicco" title="Doug Dodds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As with most people, in deep mid-winter Doug yearned for the return of daylight. (Though I
-do not: I like dark winter days.  See above, re "strange".)  Now, since Doug came from
-St. Louis, his freshman year here at MIT was rather hard on him for more than the usual
-ways in which the first year at MIT is hard on people: northern winters!  He spent a fair
-amount of time working out the orbital mechanics of when sunrise &amp; sunset happened,
-and noticed a funny thing called the "analemma" -- if you photograph the sun each day at
-the same time each day for a year, it traces out a figure-8 in the sky, as shown in this
-now-iconic year-long time-lapse photograph by 
-[Dennis di Cicco](https://en.wikipedia.org/wiki/Dennis_di_Cicco) 
+do not: I like dark winter days.  See above, re "strange".)  
+
+Now, since Doug came from St. Louis, his freshman year here at MIT was rather hard on him
+for more than the usual ways in which the first year at MIT is hard on people: northern
+winters!  He spent a fair amount of time working out the orbital mechanics of when sunrise
+&amp; sunset happened, and noticed a funny thing called the
+[analemma](https://en.wikipedia.org/wiki/Analemma) &ndash; if you
+photograph the sun each day at the same time each day for a year, it traces out a figure-8
+in the sky, as shown in this now-iconic year-long time-lapse photograph by 
+[Dennis di Cicco](https://en.wikipedia.org/wiki/Dennis_di_Cicco)
 from 1978-1979 <sup id="fn1a">[[1]](#fn1)</sup>.  
 
 The source of this peculiarity, if you really work your way down into the orbital
