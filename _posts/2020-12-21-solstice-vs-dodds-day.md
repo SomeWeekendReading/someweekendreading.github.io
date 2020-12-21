@@ -33,7 +33,7 @@ early in the day to be useful".
 
 ## The analemma
 
-<img src="{{ site.baseurl }}/images/2020-12-21-solistice-vs-dodds-day-analemma-di-cicco.jpg" width="400" height="281" alt="Analemma by Dennis di Cicco" title="Doug Dodds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-21-solistice-vs-dodds-day-analemma-di-cicco.jpg" width="400" height="281" alt="Analemma by Dennis di Cicco" title="Analemma by Dennis di Cicco" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As with most people, in deep mid-winter Doug yearned for the return of daylight. (Though I
 do not: I like dark winter days.  See above, re "strange".)  
 
