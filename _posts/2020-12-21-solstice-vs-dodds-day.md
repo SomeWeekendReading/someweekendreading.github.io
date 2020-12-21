@@ -1,29 +1,30 @@
 ---
 layout: post
 title: Winter solstice, Dodds's Day, and the Weekend Editrix's Day
-tags: Math R TheDivineMadness
+tags: Beauty Math Obscurantism Physics R TheDivineMadness
 comments: true
 ---
 
-Today is the winter solstice, the shortest day in the northern hemisphere.  It is _not_,
-however, the day of earliest sunset (of interest to night owls).  Nor is it the day of
-latest sunrise (of interest to morning&hellip; people).  Therein lies the tale
-of the analemma, first told to me long ago by a marvelous former colleague, Doug Dodds.
-In its own peculiar way, this is a form of winter holiday greeting from the Nerd Tribe.  
+Today is the winter solstice, the shortest day of the year in the northern hemisphere.  It
+is _not_, however, the day of earliest sunset (of interest to night owls).  Nor is it the
+day of latest sunrise (of interest to morning&hellip; people).  Therein lies the tale of
+the __analemma__, first told to me long ago by a marvelous former colleague, Doug Dodds.
 
 
 ## Many years ago&hellip;
 
 <img src="{{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-Symbolics3640_Modified.jpg" width="203" height="400" alt="Symbolics 3640 Lisp Machine (Wikipedia)" title="Symbolics 3640 Lisp Machine (Wikipedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2020-12-12-solstice-vs-dodds-day-doug-dodds.jpg" width="200" height="200" alt="Doug Dodds" title="Doug Dodds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-12-solstice-vs-dodds-day-doug-dodds.jpg" width="200" height="200" alt="Doug Dodds (LinkedIn)" title="Doug Dodds (LinkedIn)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+
 Many years ago &ndash; where "many" may here be understood as meaning &ge; 35 years
 &ndash; I was working for a very strange company in Cambridge called
 [Symbolics](https://en.wikipedia.org/wiki/Symbolics), which made very strange (and
-wonderful) computers known as Lisp machines.  One of my main joys in life at that time was
-that I got to work with not only smart people, but also with people who were at least as
-strange as me, if not stranger.  (In some cases, very much stranger.  I could tell you
-stories, but would first have to check if the statute of limitations is expired.)  One of
-those smart and interestingly strange colleagues was an excellent fellow called 
+wonderful) computers known as [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine).
+One of my main joys in life at that time was that I got to work with not only smart
+people, but also with people who were at least as strange as me, if not stranger.  (In
+some cases, very much stranger.  I could tell you stories, but would first have to check
+if the statute of limitations is expired.)  One of those smart and interestingly strange
+colleagues was an excellent fellow called 
 [Doug Dodds](https://www.linkedin.com/in/doug-dodds-3ab495/): an expert in user interface,
 operating system build procedures, trivia Cantabrigiae, and an inveterate night person.
 It was from him I learned the axiom: "the only problem with morning is that it comes too
@@ -34,7 +35,7 @@ early in the day to be useful".
 
 <img src="{{ site.baseurl }}/images/2020-12-21-solistice-vs-dodds-day-analemma-di-cicco.jpg" width="400" height="281" alt="Analemma by Dennis di Cicco" title="Doug Dodds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As with most people, in deep mid-winter Doug yearned for the return of daylight. (Though I
-did not: I like dark winter days.  See above, re "strange".)  Now, since Doug came from
+do not: I like dark winter days.  See above, re "strange".)  Now, since Doug came from
 St. Louis, his freshman year here at MIT was rather hard on him for more than the usual
 ways in which the first year at MIT is hard on people: northern winters!  He spent a fair
 amount of time working out the orbital mechanics of when sunrise &amp; sunset happened,
@@ -52,18 +53,18 @@ mechanics, is an interaction between the earth's very slightly elliptical orbit 
 ## Mixing analemmas, nerds and the winter holiday season
 
 So we were talking one day about how the amount of daylight would get better after the
-Winter Solstice, on Dec 21.  But Doug pointed out that for night people who didn't care
+Winter Solstice, on Dec 21.  But Doug pointed out that for night people who didn't _care_
 about sunrise, the sunsets had already begun to get better!  How could that be, that
 sunsets started to get later before the Winter Solstice?!  
 
 The fascinating explanation is part celestial mechanics, part hobby astronomy, and part
 pretty pictures.  (Oh, and some math.  There's always some math!)  These factors producing
 the analemma conspire to create an interesting effect: while the Winter Solstice is always
-on Dec 21 (a fixed point of the Gregorian calendar, and regardless of latitude), the
-earliest sunset is a bit before that and the latest sunrise is a bit after.  It led to a
-series of annual emails from Doug, in which he would, each year, alert us to the day of 
-earliest sunset. <sup id="fn2a">[[2]](#fn2)</sup>  By now-ancient tradition among 
-the now-ancient _Cantabrigiae Symbolicae_, this is known as "Dodds's Day".  
+on Dec 21 (a fixed point of the Gregorian solar calendar, regardless of latitude), the
+earliest sunset is a bit before that and the latest sunrise is a bit after (depending on
+latitude).  It led to a series of annual emails from Doug, in which he would, each year,
+alert us to the day of earliest sunset. <sup id="fn2a">[[2]](#fn2)</sup> By now-ancient
+tradition among the now-ancient _Cantabrigiae Symbolicae_, this is known as "Dodds's Day".  
 
 For the Weekend Editrix, on the other hand &ndash; well, let's just say she's a morning person
 who inexplicably-but-actually _cares_ that the sun should rise before she does.  So we call
@@ -80,7 +81,7 @@ you're further north, Dodd's Day and the Weekend Editrix's Day are closer to the
 if you're further south, they're farther apart.  (If you're in the southern hemisphere,
 you'll have to do the calculation for yourself; please let me know if you do.)  
 
-![{{ site.baseurl }}/images/2020-12-21-solistice-vs-dodds-day-boston-results.png](Dodd's Day and the Weekend Editrix's Day, 2020 Boston)
+![{{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-boston-results.png](Dodd's Day and the Weekend Editrix's Day, 2020 Boston)
 
 Using some data scraped from the web <sup id="fn3a">[[3]](#fn3)</sup> and an
 [R](https://www.r-project.org/) script <sup id="fn4a">[[4]](#fn4)</sup>, you can produce
