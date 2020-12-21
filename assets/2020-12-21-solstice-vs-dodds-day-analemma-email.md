@@ -11,7 +11,7 @@ Doug Dodds:
 
 Analemma, my Analemma  
 by  
-Douglas Dodds ([<dodds@pobox.com>](mailto:dodds@pobox.com) or [<dodds@csail.mit.edu>](mailto:dodds@csail.mit.edu)  
+Douglas Dodds ([<dodds@pobox.com>](mailto:dodds@pobox.com) or [<dodds@csail.mit.edu>](mailto:dodds@csail.mit.edu))  
 Cambridge, Mass., USA  
 
 When I came to Boston from St. Louis, I first had to adjust to the trauma of the local
