@@ -22,7 +22,7 @@ Many years ago &ndash; where "many" may here be understood as meaning &ge; 35 ye
 wonderful) computers known as [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine).
 One of my main joys in life at that time was that I got to work with not only smart
 people, but also with people who were at least as strange as me, if not stranger.  (In
-some cases, very much stranger.  I could tell you stories, but would first have to check
+some cases, very _much_ stranger.  I could tell you stories, but would first have to check
 if the statute of limitations is expired.)  
 
 One of those smart and interestingly strange colleagues was an excellent fellow called
