@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's that stupid avatar?
-tags: SomebodyAskedMe About R Math
+tags: About Math R SomebodyAskedMe
 comments: true
 ---
 

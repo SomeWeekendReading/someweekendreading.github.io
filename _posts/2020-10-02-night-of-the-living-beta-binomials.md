@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Election Night of the Living Beta Binomials
-tags: MathInTheNews Politics Statistics
+tags: MathInTheNews Politics Statistics TheDivineMadness
 comments: true
 ---
 

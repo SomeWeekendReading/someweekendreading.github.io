@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alas, Arecibo
-tags: Sadness Physics
+tags: Physics Sadness
 comments: true
 ---
 

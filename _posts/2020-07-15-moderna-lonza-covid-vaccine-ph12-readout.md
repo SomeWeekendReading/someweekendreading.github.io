@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's in the Phase 1/2 readout of the Moderna/Lonza COVID vaccine?
-tags: SomebodyAskedMe COVID PharmaAndBiotech
+tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
 ---
 

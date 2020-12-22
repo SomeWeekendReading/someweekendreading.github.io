@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's in the Moderna Q2 earnings call?
-tags: SomebodyAskedMe COVID PharmaAndBiotech
+tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
 ---
 

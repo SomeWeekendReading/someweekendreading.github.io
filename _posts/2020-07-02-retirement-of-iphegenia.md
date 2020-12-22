@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Retirement of Iphegenia
-tags: Retirement Obscurantism NotableAndQuotable SomebodyAskedMe
+tags: NotableAndQuotable Obscurantism Retirement SomebodyAskedMe TheDivineMadness
 comments: true
 ---
 

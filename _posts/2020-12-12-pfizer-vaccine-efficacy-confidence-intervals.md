@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are the Pfizer vaccine's efficacy confidence intervals sensible?
-tags: COVID MathInTheNews PharmaAndBiotech Statistics
+tags: COVID MathInTheNews PharmaAndBiotech R Statistics
 comments: true
 ---
 

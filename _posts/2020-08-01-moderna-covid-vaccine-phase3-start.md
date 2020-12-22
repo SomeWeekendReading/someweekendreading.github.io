@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's happening in the Moderna/Lonza COVID vaccine phase 3 start?
-tags: SomebodyAskedMe COVID PharmaAndBiotech
+tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
 ---
 
