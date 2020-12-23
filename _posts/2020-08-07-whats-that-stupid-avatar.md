@@ -112,6 +112,4 @@ Strogatz (reference 1), who in turn provides more extensive references. [↩](#f
 
 1. S Strogatz, ["Finding Your Roots"](http://opinionator.blogs.nytimes.com/2010/03/07/finding-your-roots/), _NYT Opinionator_, 2010-Mar-07.  
 
-1. Weekend Editor, 
-[`root-fractal.r`]({{ site.baseurl }}/assets/2020-08-07-whats-that-stupid-avatar-code/), 
-_Some Weekend Reading_, 2020-Aug-07.  
+2. Weekend Editor, [`root-fractal.r`]({{ site.baseurl }}/assets/2020-08-07-whats-that-stupid-avatar-root-fractal.r), Weekend Reading_, 2020-Aug-07.  

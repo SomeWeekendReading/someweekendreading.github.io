@@ -1,13 +1,3 @@
----
-layout: post
-title: Code for &quot;What&apos;s that stupid avatar?&quot;
-tags: SomebodyAskedMe About R Math
-date: 2020-08-07
-comments: false
----
-
-Here's the script `root-fractal.r` for the post:  
-```R
 ## Created on Thursday, March 10, 2010 at 10:10pm EST by WeekendEditor on WeekendEditorMachine.
 ## UnCopyright (u) 2020, WeekendEditor.  All rights reversed.  As if you care.
 
@@ -37,7 +27,7 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
       ##   z[i+1] = z[i] - f(z[i]) / f'(z[i])
       ## Here, f(z) = z^3 - 1, hence f'(z) = 3 z^2, so:
       ##   z[i+1] = z[i] - (z[i]^3 - 1) / (3 z[i]^2) = 2/3 z[i] + 1/(3 z[i]^2)
-      findRoot(2/3 * z + 1 / (3 * z^2), nIter + 1)     # Take Newton step, bump iteration 
+      findRoot(2/3 * z + 1 / (3 * z^2), nIter + 1)     # Take Newton step, bump iteration
   }                                                    #  count, and try again
 
   plotRootFractal <- function(df, col, wrd) {          # Plot expected/actual fractals
@@ -60,7 +50,7 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
       box(which = "plot")                              # Put it in a box with a ribbon on it
     }, finally = par(oldParList))                      # Restore graphics parameters
   }                                                    #
-  
+
   ## (1) Start with skeleton of (x, y) pairs in the complex plane
   ## (2) Add on which root it converged to, and in how many iterations
   ## (3) Encode color in a funny way by root number and number of iterations
@@ -80,7 +70,7 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
     df <- transform(df, exactColor = exactRootNum - exactRootDist / maxDist)
     plotRootFractal(df, "exactColor", "Expected")      # Plot the expected "fractal"
   }                                                    #
-  
+
   invisible(df)                                        # Return large dataframe, but invisibly
 }                                                      #
 
@@ -89,25 +79,25 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
 ##
 
 ## > system.time(foo <- doit(npix = 10), gcFirst = TRUE)
-##    user  system elapsed 
-##    0.05    0.01    0.07 
+##    user  system elapsed
+##    0.05    0.01    0.07
 ## > system.time(foo <- doit(npix = 20), gcFirst = TRUE)
-##    user  system elapsed 
-##    0.16    0.01    0.16 
+##    user  system elapsed
+##    0.16    0.01    0.16
 ## > system.time(foo <- doit(npix = 50), gcFirst = TRUE)
-##    user  system elapsed 
-##    0.50    0.05    0.58 
+##    user  system elapsed
+##    0.50    0.05    0.58
 ## > system.time(foo <- doit(npix = 100), gcFirst = TRUE)
-##    user  system elapsed 
-##    1.80    0.17    2.12 
+##    user  system elapsed
+##    1.80    0.17    2.12
 ## > system.time(foo <- doit(npix = 200), gcFirst = TRUE)
-##    user  system elapsed 
-##    7.49    0.76    8.69 
+##    user  system elapsed
+##    7.49    0.76    8.69
 ## > system.time(foo <- doit(npix = 500), gcFirst = TRUE)
-##    user  system elapsed 
-##   51.97    4.35   57.99 
+##    user  system elapsed
+##   51.97    4.35   57.99
 ## > system.time(foo <- doit(npix = 1000), gcFirst = TRUE)
-##    user  system elapsed 
+##    user  system elapsed
 ##  225.70   19.19  255.33
 
 ## > png(filename = "root-fractal-2000.png", width = 2200, height = 2200, bg = "transparent"); doit(npix = 2000, ask = FALSE); dev.off()
@@ -119,17 +109,17 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
 ## > model <- lm(t ~ 1 + n + I(n^2), data = data); summary(model); transform(data.frame(data, tPred = predict(model, newdata = subset(data, select = "n"))), pctDiff = 100 * (t - tPred) / t)
 ##
 ## Coefficients:
-##               Estimate Std. Error t value Pr(>|t|)    
-## (Intercept)  9.410e-01  5.374e-01   1.751  0.15483    
-## n           -2.233e-02  4.068e-03  -5.490  0.00536 ** 
+##               Estimate Std. Error t value Pr(>|t|)
+## (Intercept)  9.410e-01  5.374e-01   1.751  0.15483
+## n           -2.233e-02  4.068e-03  -5.490  0.00536 **
 ## I(n^2)       2.765e-04  4.009e-06  68.984 2.65e-07 ***
 ## ---
-## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
-## 
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+##
 ## Residual standard error: 0.9065 on 4 degrees of freedom
-## Multiple R-squared: 0.9999,  Adjusted R-squared: 0.9999 
-## F-statistic: 3.258e+04 on 2 and 4 DF,  p-value: 3.767e-09 
-## 
+## Multiple R-squared: 0.9999,  Adjusted R-squared: 0.9999
+## F-statistic: 3.258e+04 on 2 and 4 DF,  p-value: 3.767e-09
+##
 ##      n      t       tPred       pctDiff
 ## 1   10   0.07   0.7453594 -964.79907826
 ## 2   20   0.16   0.6050261 -278.14134139
@@ -144,16 +134,16 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
 ## > model2 <- lm(t ~ 0 + n + I(n^2), data = data); summary(model2); transform(data.frame(data, tPred = predict(model2, newdata = subset(data, select = "n"))), pctDiff = 100 * (t - tPred) / t)
 ##
 ## Coefficients:
-##          Estimate Std. Error t value Pr(>|t|)    
-## n      -1.743e-02  3.508e-03  -4.968  0.00422 ** 
+##          Estimate Std. Error t value Pr(>|t|)
+## n      -1.743e-02  3.508e-03  -4.968  0.00422 **
 ## I(n^2)  2.725e-04  3.882e-06  70.185 1.11e-08 ***
 ## ---
-## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
-## 
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+##
 ## Residual standard error: 1.078 on 5 degrees of freedom
-## Multiple R-squared: 0.9999,  Adjusted R-squared: 0.9999 
-## F-statistic: 2.955e+04 on 2 and 5 DF,  p-value: 6.582e-11 
-## 
+## Multiple R-squared: 0.9999,  Adjusted R-squared: 0.9999
+## F-statistic: 2.955e+04 on 2 and 5 DF,  p-value: 6.582e-11
+##
 ##      n      t       tPred     pctDiff
 ## 1   10   0.07  -0.1470371 310.0530241
 ## 2   20   0.16  -0.2395803 249.7376874
@@ -163,4 +153,3 @@ doit <- function(xlim = c(-1, +1), ylim = c(-1, +1), npix = 500, doExact = FALSE
 ## 6  500  57.99  59.4032132  -2.4369946
 ## 7 1000 255.33 255.0412611   0.1130846
 ##
-```
