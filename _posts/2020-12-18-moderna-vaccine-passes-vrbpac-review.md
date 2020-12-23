@@ -232,7 +232,8 @@ As Jack Benny used to say: "Well."
 Here at _Weekend Nomenclature LLC_, we propose the names "MoCoVax" and "PfiBiCoVax" for
 Moderna and Pfizer respectively.  
 
-You're welcome.  Moderna, Pfizer: email us and we'll work out payment details. [↩](#fn2a)  
+You're welcome.  Moderna, Pfizer: email us and we'll work out payment details for this
+valuable intellectual property. [↩](#fn2a)  
 
 <a id="fn3">3</a>: Once upon a time, in my now-distant younger years, I was acquainted
 with a young woman in my religious community who had the _cutest_ lop-sided smile.  I
