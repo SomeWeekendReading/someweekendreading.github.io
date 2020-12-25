@@ -257,9 +257,10 @@ hypergeometric functions:
 
 <img src="{{ site.baseurl }}/images/2020-12-12-pfizer-vaccine-efficacy-confidence-intervals-beta-ratio-distribution.png" height="48" width="600" alt="Beta ratio distribution" title="Beta ratio distribution" style="display: block; margin-left: auto; margin-right: auto;">
 
-&hellip;and as I believe I've mentioned before, your humble Weekend Editor is still
-working through some childhood trauma around hypergeometric functions like ${}\_{2}F\_{1}()$.
-So&hellip; not gonna go there either.  
+&hellip;and as I believe I've 
+[mentioned before]({{ site.baseurl }}/night-of-the-living-beta-binomials/#fn4), 
+your humble Weekend Editor is still working through some childhood trauma around
+hypergeometric functions like ${}\_{2}F\_{1}()$.  So&hellip; not gonna go there either.  
 
 We'll do it numerically: start with equations $\eqref{eq:efficacydefn}$ and
 $\eqref{eq:posteriorBeta}$ &ndash; $\eqref{eq:posteriorBeta2}$.  Draw many random samples
