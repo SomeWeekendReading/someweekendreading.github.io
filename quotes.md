@@ -649,6 +649,10 @@ few true dichotomies."
 ["Just Some Election Thoughts&hellip;"](https://www.youtube.com/watch?v=0q5L0MzuVP4), 
 [_vlogbrothers_](https://en.wikipedia.org/wiki/Vlogbrothers), 2020-Nov-06.
 
+"The best way to have a good idea is to have lots of ideas." &mdash; [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling)  
+
+"Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve." &mdash; [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis), epigram &sharp;101 in ["Epigrams in Programming"](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html), _ACM SIGPLAN Notices_ 17:9 (1982-Sep), pp. 7-13.  
+
 
 ## The Statistical Ones  
 
@@ -989,6 +993,8 @@ already occurred." &mdash; [Abdal-Hakim Murad](https://en.wikipedia.org/wiki/Tim
 "Kindness can become its own motive.  We are made kind by being kind."
 &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer)  
 
+"It is wrong always, everywhere, and for everyone to believe anything upon insufficient
+evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdon_Clifford), ["The Ethics of Belief"](https://plato.stanford.edu/entries/ethics-belief/), _Contemporary Review_, 1877.  Clifford also offered a related principle: "It is wrong always, everywhere, and for anyone to ignore evidence that is relevant to his beliefs, or to dismiss relevant evidence in a facile way."  These are, charmingly, called _Clifford's Principle_ and _Clifford's Other Principle_, respectively.  
 
 ## The One Who Is Voltaire  
 
