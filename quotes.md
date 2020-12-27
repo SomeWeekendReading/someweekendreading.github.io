@@ -487,7 +487,7 @@ for they are already enduring it." &mdash; [Eugene Gendlin](https://en.wikipedia
 
 "Any sufficiently advanced JK Rowling is indistinguishable from magic." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky), [Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
 
-"Any sufficiently advanced neglect is indistinguishable from malice." &mdash; [Debbie Chachra](https://twitter.com/debcha/status/829623063666970625), [professor of engineering](http://debcha.org/) at [Olin College](https://www.olin.edu/), speaking of attempts to weaken the Affordable Care Act (the American half-hearted gesture in the direction of universal health care)  
+"Any sufficiently advanced neglect is indistinguishable from malice." &mdash; [Debbie Chachra](https://twitter.com/debcha/status/829623063666970625), [professor of engineering](http://debcha.org/) at [Olin College](https://www.olin.edu/), speaking of attempts to weaken the Affordable Care Act (the American half-hearted gesture in the direction of universal health care); she finds the increasing applicability and usefulness of this quote quite depressing.  
 
 "&hellip; if you were ignorant about a phenomenon, that was a fact about your own state of mind, not
 a fact about the phenomenon itself; that your uncertainty was a fact about you, not a fact
