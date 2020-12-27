@@ -483,7 +483,11 @@ Anything untrue isn’t there to be lived.
 People can stand what is true,  
 for they are already enduring it." &mdash; [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)  
 
+"Any sufficiently advanced technology is indistinguishable from magic." &mdash; [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke), ["Clarke's Third Law"](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
+
 "Any sufficiently advanced JK Rowling is indistinguishable from magic." &mdash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky), [Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
+
+"Any sufficiently advanced neglect is indistinguishable from malice." &mdash; [Debbie Chachra](https://twitter.com/debcha/status/829623063666970625), [professor of engineering](http://debcha.org/) at [Olin College](https://www.olin.edu/)  
 
 "&hellip; if you were ignorant about a phenomenon, that was a fact about your own state of mind, not
 a fact about the phenomenon itself; that your uncertainty was a fact about you, not a fact
