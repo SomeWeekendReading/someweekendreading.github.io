@@ -635,13 +635,7 @@ December 1770.
 conviction that a hypothesis is true has no bearing over whether it is true or not."
 &mdash; [Peter Medawar](https://en.wikipedia.org/wiki/Peter_Medawar)  
 
-"&hellip; ignorance more frequently begets confidence than does knowledge: it is those who
-know little, and not those who know much, who so positively assert that this or that
-problem will never be solved by science."
-&mdash; [Charles Darwin](https://en.wikipedia.org/wiki/Charles_darwin),
-[_The Descent of Man_](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex),
-[frontmatter](http://pages.britishlibrary.net/charles.darwin/texts/descent/descent_front.html),
-p. 2.  
+"&hellip; ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science." &mdash; [Charles Darwin](https://en.wikipedia.org/wiki/Charles_darwin), [_The Descent of Man_](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex), [frontmatter](http://pages.britishlibrary.net/charles.darwin/texts/descent/descent_front.html), p. 2.  (Compare [William Butler Yeats](https://en.wikipedia.org/wiki/W._B._Yeats)'s _terrifying_ poem, ["The Second Coming"](https://en.wikipedia.org/wiki/The_Second_Coming_(poem)), written in WWI aftermath and the 1918 flu pandemic: "The best lack all conviction, while the worst / Are full of passionate intensity.")  
 
 "All dichotomies are false dichotomies.  Including that one, because of course there are a
 few true dichotomies."
