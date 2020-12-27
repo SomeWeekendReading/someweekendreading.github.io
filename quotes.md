@@ -653,6 +653,10 @@ few true dichotomies."
 
 "Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve." &mdash; [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis), epigram &sharp;101 in ["Epigrams in Programming"](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html), _ACM SIGPLAN Notices_ 17:9 (1982-Sep), pp. 7-13.  
 
+"What men of science want is only a fair day's wages for more than a fair day's work; and most of us, I suspect, would be well content if, for our days and nights of unremitting toil, we could secure the pay which a first-class Treasury clerk earns without any obviously trying strain upon his faculties. &mdash; [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Huxley), ["Administrative Nihilism"](https://mathcs.clarku.edu/huxley/CE1/AdNil.html), _Collected Essays_ I, 1871.  
+
+"One should no more rack one's brain about the problem of whether something one cannot know anything about exists all the same, than about the ancient question of how many angels are able to sit on the point of a needle." &mdash; [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli), on the quantum measurement problem but, as usual, applicable elsewhere.  
+
 
 ## The Statistical Ones  
 
