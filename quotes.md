@@ -228,7 +228,7 @@ they may more perfectly respect it." &mdash; [G. K. Chesterton](https://en.wikip
 
 "All that we want for Government is a man not criminal and insane..." 
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), 
-_The Napoleon of Notting Hill_, p. 44.  
+[_The Napoleon of Notting Hill_](https://en.wikipedia.org/wiki/The_Napoleon_of_Notting_Hill), p. 44.  
 
 "The whole modern world has divided itself into Conservatives and Progressives. The
 business of Progressives is to go on making mistakes. The business of the Conservatives is
