@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're scaring me
-tags: COVID Politics
+tags: COVID MathInTheNews Politics
 comments: true
 ---
 
@@ -49,6 +49,19 @@ the beginning of the payment in misery and lives for reckless Thanksgiving gathe
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-NYT-US-cases-per-capita-by-county.jpg" width="400" height="307" alt="NYT: US COVID-19 cases per 100,000 by county" title="NYT: US COVID-19 cases per 100,000 by county" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 When you break it down geographically, this county-by-county map from the _NYT_ shows that
 there are definite hot spots.  
+
+You can slice &amp; dice these data in a number of ways, but right now I'm glad that here
+at Chez Weekend we're comparatively safe in New England.  I say _comparatively_ because of
+course we are not safe: there's plenty of COVID-19 here. Just not the nightmare of the
+South, or southern California.  
+
+So all the numbers in that _JAMA_ editorial are even more damning.  We don't just have a
+high death rate, we have geographically concentrated high death rates.  Why then, are all
+the red states not yelling for help because our government is hanging them out to dry with
+little to no public health support?  I really don't get it.  Were I prone to conspiracy
+theories, I'd tend to theorize that somebody is trying to lower the population in the
+conservative states, and has somehow gotten them to buy into their own deaths.  _It makes
+no sense._  
 
 ## Not _just_ 'your body, your choice': you live with the rest of us  
 
