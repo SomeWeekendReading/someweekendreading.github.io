@@ -12,7 +12,7 @@ But it was ok, because the cops had [Probable Claus](https://en.wikipedia.org/wi
 
 ---
 
-<img src="{{ site.baseurl }}/images/2020-12-29-cops-and-santa-weekend-publisher.jpg" width="300" height="225" alt="Weekend Publisher: that Santa joke is lame, and late as well" title="Weekend Publisher: that Santa joke is lame, and late as well" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-29-cops-and-santa-weekend-publisher.jpg" width="300" height="225" alt="Weekend Publisher: that Santa joke was lame, lacking, and late" title="Weekend Publisher: that Santa joke was lame, lacking, and late" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 What are you looking down here for?  That was it.  That was the whole post.  All of it.
 We're done here.  
 
