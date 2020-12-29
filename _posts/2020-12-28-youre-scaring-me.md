@@ -114,8 +114,8 @@ and caused many needless deaths among their elders.  Why kill grandma?
 
 A similar sentiment from 
 [Tedros Adhanom Ghebreyesus ("Dr Tedros")](https://en.wikipedia.org/wiki/Tedros_Adhanom),
-Director-General of the [World Health Organization](https://www.who.int/) rather mildly
-expressed the truism that, in matters of publichealth, no one is safe until everyone is
+Director-General of the [World Health Organization](https://www.who.int/), rather mildly
+expressed the truism that, in matters of public health, no one is safe until everyone is
 safe.  As the price for this rather obvious bit of wisdom, he was dragged over the coals by
 covidiots in the Twitter responses (not reproduced here, because they're too infuriating).  
 
@@ -155,6 +155,7 @@ don't just ignore public health guidance, they're _hostile_ to it:
 > [Harvard epidemiologist Dr. Caroline Buckee] suspended her Twitter account after her feed, mostly consisting of pandemic advice and research, triggered a cascade of sexist and personal attacks that threatened her and her family.  
 > &hellip;  
 > &hellip; in late November, [Dr. Ashish Jha, deah of Brown University's School of Public Health] testified before Congress about the inefficacy of hydroxychloroquine, a drug used to treat malaria and touted by President Trump as a “game changer” in the fight against the coronavirus. Shortly after the hearing, Jha said the threats lodged at him grew more serious and tangible, prompting him to alert police, who sent cruisers to patrol his neighborhood.  
+>  
 > The experience mirrors that of Dr. Anthony Fauci, perhaps the nation’s most well-known infectious disease expert, who has required a security detail for months following threats to himself and his family.  
 
 
@@ -173,8 +174,8 @@ things you can do to make life a little bit better:
   advertising their recklessness.  
 - __Stay home or work remotely, if you can.__  Not everybody can do this.  But if you can,
   you should.  Think of it as your civic duty.  
-- __No gatherings other than the people with whom you live, especially indoors.__ Indoor
-  dining at restaurants is a _spectacularly terrible_ idea.  (Though takeout is a great
+- __No gatherings other than with the people of your immediate household, especially indoors.__
+  Indoor dining at restaurants is a _spectacularly terrible_ idea.  (Though takeout is a great
   way to support local businesses, if you can afford it.)  
 - __Lay in some extra food &amp; prescription medications if you need them.__  In case of
   another lockdown or &mdash; Heaven forbid &mdash; _more_ civil unrest, you'll be glad you don't
@@ -200,7 +201,7 @@ things you can do to make life a little bit better:
   [Stacey Abrams](https://en.wikipedia.org/wiki/Stacey_Abrams) says so, and she seems to
   know what she's doing.  
 - __Get vaccinated:__ When your turn comes, get whatever COVID-19 vaccine is on offer.
-  It'll be covered by your insurance.  Even if you are uninsured (really?!  still?), it will be
+  It'll be covered by your insurance.  Even if you are uninsured (really?  still?!), it will be
   cheap &ndash; much cheaper than dying.  So take the vaccine, _thank_ the clinician who
   gives it to you, and _smile_.  Be sure to go back for the second dose, because _that's
   important_.  
