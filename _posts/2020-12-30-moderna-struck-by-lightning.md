@@ -105,7 +105,7 @@ that excluded your pre-existing diabetes.
 
 Now you get hit by a truck and your leg is broken.  Are you covered?  
 
-Maybe not: insurers could have argued your diabetes made you hypoglycemic, so you spaced
+Maybe not: insurers could argue your diabetes made you hypoglycemic, so you spaced
 out &amp; walked into traffic, and thus they don't have to pay.  
 
 This is the sort of evil behavior that the ACA tried to stamp out, with mixed results and
