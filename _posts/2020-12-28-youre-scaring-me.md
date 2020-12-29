@@ -5,7 +5,7 @@ tags: COVID Politics
 comments: true
 ---
 
-You all are scaring me, with your science denying, mask refusing, socially close quarters,
+__DRAFT__ You all are scaring me, with your science denying, mask refusing, socially close quarters,
 holiday travelling ways.  C'mon: wear a mask, socially distance, avoid indoor gatherings,
 get a flu shot.  At least _pretend to try_ you want to live until the vaccine is
 available, ok?  Then maybe you won't randomly kill the rest of us, who _do_ want to live.  
