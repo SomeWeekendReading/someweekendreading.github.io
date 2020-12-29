@@ -208,7 +208,7 @@ things you can do to make life a little bit better:
 Listen to [Gandalf](https://en.wikipedia.org/wiki/Gandalf), as
 [Helen Branswell](https://en.wikipedia.org/wiki/Helen_Branswell) helpfully advises.
 (Or [Magneto](https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)), if that's how you roll.)
-Either way, get vaccinated and stay safe until then.  
+Either way: get vaccinated, and stay safe until then.  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     Listen to Gandalf. <a href="https://t.co/cxUpty7Png">https://t.co/cxUpty7Png</a>
