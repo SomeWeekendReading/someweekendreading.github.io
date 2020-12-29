@@ -12,7 +12,7 @@ But it's ok, because they had [Probable Claus](https://en.wikipedia.org/wiki/Pro
 
 ---
 
-<img src="{{ site.baseurl }}/images/2020-12-29-cops-and-santa-weekend-publisher.jpg" width="200" height="225" alt="Weekend Publisher: that Santa joke is lame, and late as well" title="Weekend Publisher: that Santa joke is lame, and late as well" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-29-cops-and-santa-weekend-publisher.jpg" width="400" height="225" alt="Weekend Publisher: that Santa joke is lame, and late as well" title="Weekend Publisher: that Santa joke is lame, and late as well" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 What are you looking down here for?  That was it.  That was the whole post.  All of it.
 We're done here.  
 
