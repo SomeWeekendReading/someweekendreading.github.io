@@ -8,7 +8,7 @@ comments: true
 Here at Chez Weekend, there's a rumor that on Christmas Eve, even Santa got pulled over by
 the cops?!  
 
-But it's ok, because they had Probable Claus.  
+But it's ok, because they had [Probable Claus](https://en.wikipedia.org/wiki/Probable_cause).  
 
 ---
 
