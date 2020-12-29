@@ -73,7 +73,9 @@ statisticians can absolve you of blame.
 But&hellip; _one of the participants was struck by lightning!_  
 
 <img src="{{ site.baseurl }}/images/2020-12-30-moderna-struck-by-lightning-tabloid.jpg" width="400" height="440" alt="British tabloid: Moderna trial paricipant struck by lightning" title="British tabloid: Moderna trial paricipant struck by lightning" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Now, you know what happens next here.  The more mathematically illiterate media will of course
+Now, you know what happens next here.  
+
+The more mathematically illiterate media will of course
 report this endlessly, sometimes with a wink &amp; a nod to indicate they know better, but
 nonetheless baiting the less mathematically literate readers to mistake it for actual news.
 This particular example <sup id="fn3a">[[3]](#fn3)</sup> is from the 
