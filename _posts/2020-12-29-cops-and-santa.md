@@ -31,4 +31,4 @@ reviews.  Tough audience, he is.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn0">0</a>: No, not today, Bunky.  You didn't laugh at the joke, so no footnotes for you. [↩]  
+<a id="fn0">0</a>: No, not today, Bunky.  You didn't laugh at the joke, so no footnotes for you! [↩]  
