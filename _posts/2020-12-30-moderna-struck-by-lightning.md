@@ -64,7 +64,7 @@ the trial, on page 54:
 
 > As of December 6, 2020, there were 3 SAEs reported in the vaccine group: a 65-year-old participant with community acquired pneumonia 25 days after vaccination, __a 72-year-old participant with arrhythmia after being struck by lightning 28 days after vaccination,__ and an 87- year-old participant with worsening of chronic bradycardia 45 days after vaccination. On FDA review of the narratives, none of these SAEs are assessed as related. There were no cases of severe COVID-19 reported in the study.  
 
-We first note approvingly the final sentence, that the FDA statisticians decided none of
+We first note approvingly the final 2 sentences, that the FDA statisticians decided none of
 these were related to the treatment, which is the good news.  Also, all the SAEs were in
 elderly participants, who are at higher risk for SAEs anyway, treatment or no.  This is
 why you report _everything_, so nobody can accuse you of covering anything up, and the
