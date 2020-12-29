@@ -142,7 +142,7 @@ _also_ in a state of despair: as in "why the hell we even bother" trying to save
 when all we get back is ignorant contempt. <sup id="fn3a">[[3]](#fn3)</sup>  
 
 > "At almost every step of this pandemic, we have failed magnificently as a country," the Harvard scientist [Professor of epidemiology Michael Mina] said Monday. "And in ways that we just really didn't need to fail."  
-> &hellip;
+> &hellip;  
 > "I'm just astounded by the dysfunction, the willingness to just stay the course as hundreds of thousands of people die, and the unwillingness to innovate in literally any way," said Mina, an assistant professor of epidemiology at Harvard's T.H. Chan School of Public Health, who has been advocating for widespread at-home rapid antigen testing since March, with little success. "I've realized that when we need to rise up as a country, we have truly no moral capacity to do it. It's just the most mind-bending, complete "Twilight Zone" experience that makes you ask why the hell we even bother."  
 
 We have many scientists and clinicians who have spent their entire careers preparing for
@@ -150,8 +150,8 @@ situations like this.  Instead of listening to them, we prefer dirt-stupid claim
 right-wing politics, general cowardice of our leaders, and downright superstition.  People
 don't just ignore public health guidance, they're _hostile_ to it:  
 > [Harvard epidemiologist Dr. Caroline Buckee] suspended her Twitter account after her feed, mostly consisting of pandemic advice and research, triggered a cascade of sexist and personal attacks that threatened her and her family.  
-> &hellip;
-> But then in late November, [Dr. Ashish Jha, deah of Brown University's School of Public Health] testified before Congress about the inefficacy of hydroxychloroquine, a drug used to treat malaria and touted by President Trump as a “game changer” in the fight against the coronavirus. Shortly after the hearing, Jha said the threats lodged at him grew more serious and tangible, prompting him to alert police, who sent cruisers to patrol his neighborhood. The experience mirrors that of Dr. Anthony Fauci, perhaps the nation’s most well-known infectious disease expert, who has required a security detail for months following threats to himself and his family.  
+> &hellip;  
+> &hellip; in late November, [Dr. Ashish Jha, deah of Brown University's School of Public Health] testified before Congress about the inefficacy of hydroxychloroquine, a drug used to treat malaria and touted by President Trump as a “game changer” in the fight against the coronavirus. Shortly after the hearing, Jha said the threats lodged at him grew more serious and tangible, prompting him to alert police, who sent cruisers to patrol his neighborhood. The experience mirrors that of Dr. Anthony Fauci, perhaps the nation’s most well-known infectious disease expert, who has required a security detail for months following threats to himself and his family.  
 
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-1918-flu-pandemic-poster.jpg" width="400" height="506" alt="1918 flu pandemic poster urging masks" title="1918 flu pandemic poster urging masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 A century ago, our elders knew how to do it right.  Why don't we?  
@@ -191,14 +191,14 @@ things you can do to make life a little bit better:
   promise you: it doesn't hurt.  Vote for Ossof &amp; Warnock.  
 - __Get vaccinated:__ when your turn comes, get whatever COVID-19 vaccine is on offer.
   It'll be covered by your insurance.  Even if you are uninsured (really?!), it will be
-  cheap &ndash; much cheaper than dying.  So take the vaccine, thank the clinician who
+  cheap &ndash; much cheaper than dying.  So take the vaccine, _thank_ the clinician who
   gives it to you, and _smile_.  Be sure to go back for the second dose, _that's
   important_.  
 
 Listen to [Gandalf](https://en.wikipedia.org/wiki/Gandalf), as
-[Helen Branswell](https://en.wikipedia.org/wiki/Helen_Branswell) helpfully advises.  
+[Helen Branswell](https://en.wikipedia.org/wiki/Helen_Branswell) helpfully advises.
 (Or [Magneto](https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)), if that's how you roll.)
-Either way, get vaccinated.  
+Either way, get vaccinated and stay safe until then.  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     Listen to Gandalf. <a href="https://t.co/cxUpty7Png">https://t.co/cxUpty7Png</a>
