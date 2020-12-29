@@ -77,7 +77,9 @@ Now, you know what happens next here.
 
 The more mathematically illiterate media will of course
 report this endlessly, sometimes with a wink &amp; a nod to indicate they know better, but
-nonetheless baiting the less mathematically literate readers to mistake it for actual news.
+nonetheless baiting the less mathematically literate readers to mistake it for actual
+news.  
+
 This particular example <sup id="fn3a">[[3]](#fn3)</sup> is from the 
 [Metro](https://en.wikipedia.org/wiki/Metro_(British_newspaper)), 
 a British tabloid for which I didn't have much respect at the outset.  And now I have even
