@@ -99,9 +99,9 @@ vaccines, right?. <sup id="fn4a">[[4]](#fn4)</sup>
 -->
 
 <a id="fn1">1</a>: Back before the Affordable Care Act/Obamacare, I saw this used to deny
-coverage based on pre-existing conditions.  Suppose you were diabetic, and because you didn't
-work for a large company, you had to accept insurance that excluded your pre-existing
-diabetes.  
+coverage based on pre-existing conditions.  A hypothetical example: suppose you were
+diabetic, and because you didn't work for a large company, you had to accept insurance
+that excluded your pre-existing diabetes.  
 
 Now you get hit by a truck and break your leg.  Are you covered?  
 
