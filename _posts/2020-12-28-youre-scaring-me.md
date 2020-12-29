@@ -38,14 +38,25 @@ the healthcare system.  Their conclusion:
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-NYT-US-cases-vs-time.jpg" width="400" height="225" alt="CDC: US COVID-19 cases vs time" title="CDC: US COVID-19 cases vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-CDC-US-cases-vs-time.jpg" width="400" height="290" alt="NYT: US COVID-19 cases vs time" title="NYT: US COVID-19 cases vs time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Some graphics from the _New York Times_ and the CDC agree: the third wave in the US is
-viscious.  It was frightening in the spring.  It was annoying in the summer (though in New
+viscious.  I've carefully sourced the data from 2 places here, both with extremely good
+reputations, just to avoid criticism that I'm using doubtful data in an inflammatory way.
+I'm using _good_ data, in I hope a _good_ way; the information _itself_ is inflammatory.  
+
+It was frightening in the spring.  It was annoying in the summer (though in New
 England we seem to have skipped that one, thankfully).  It's _infuriating_ now: how can
 people not have been paying attention?!  
 
 Note the structure in that 3rd peak: see the bump up in case rates in December?  That's
-the beginning of the payment in misery and lives for reckless Thanksgiving gatherings.  
+the beginning of the payment in misery and lives for reckless Thanksgiving gatherings.
+All of which was _avoidable_ by minor behavior changes that public health people have been
+shouting at the top of their lungs for months now.  Avoidable misery and death.  
 
-<!-- Cases per 100,000 show localized hotspots at the county level -->
+A joke I found initially amusing, but now just depressing:  
+- American: "We're going to have to retire the phrase 'avoid that like the plague',
+  because it turns out people don't do that."  
+- European: "You mean _American people_ don't do that."  
+- American: "Ok, _conservative American people_ don't do that."  
+
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-NYT-US-cases-per-capita-by-county.jpg" width="400" height="307" alt="NYT: US COVID-19 cases per 100,000 by county" title="NYT: US COVID-19 cases per 100,000 by county" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 When you break it down geographically, this county-by-county map from the _NYT_ shows that
 there are definite hot spots.  
@@ -63,9 +74,25 @@ theories, I'd tend to theorize that somebody is trying to lower the population i
 conservative states, and has somehow gotten them to buy into their own deaths.  _It makes
 no sense._  
 
+
 ## Not _just_ 'your body, your choice': you live with the rest of us  
 
-France: what happens when you let up is your elders die.  
+"My body, my choice" is a phrase I keep hearing from people who resist masks, and even
+resist vaccines.  (I wonder if they know they're re-using a slogan originated in defense of
+abortion rights?)  I have great sympathy for this viewpoint, as in people should be in
+charge of their own bodies and that's a reasonable argument in favor of abortion.  
+
+But in the case of COVID, this is just _incoherent_.  The disease is _infectious_.  You
+may make some idiotic decision that increases your personal COVID risk, but of
+course you are also going to pass on COVID to those around you.  That's what "infectious"
+_means_.  Reckless behavior risks not just your own health, but assaults the health of
+everyone else.  
+
+[Olivier Blanchard](https://en.wikipedia.org/wiki/Olivier_Blanchard) makes this case using
+data in France.  It appears the age 20-29 cohort lost control and got infected.  Too bad
+for them, but it's their own fault and they're young anyway so they won't face severe
+consequences, right?  Wrong: they of course infected everyone else over  period of time,
+and caused many needless deaths among their elders.  Why kill grandma?  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     A fascinating graph, showing the dynamics of the second wave in France. <br><br>
@@ -83,9 +110,15 @@ France: what happens when you let up is your elders die.
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" ></script>
 
-Tedros Adhanom Ghebreyesus ("Dr Tedros") Dir-Gen of WHO: no one is safe until
-everyone is; for this he reaped withering contempt in the comments from the
-covidiots.
+A similar sentiment from 
+[Tedros Adhanom Ghebreyesus ("Dr Tedros")](https://en.wikipedia.org/wiki/Tedros_Adhanom),
+Director-General of the WHO rather mildly expressed the truism that, in matters of public
+health, no one is safe until everyone is safe.  As the price for this rather obvious
+observation, he was dragged over the coals by covidiots in the responses on Twitter (not
+reproduced here, because they're too infuriating).  _How can something this obvious be
+denied by people competent to operate a keyboard?!_  In matters of public health,
+especially infectious diseases, we _are_ in fact all in it together.  Our death rates
+can only be controlled by collective action, not individual action.  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
 	No one is safe until everyone is safe. 
@@ -97,6 +130,9 @@ covidiots.
 <a href="https://twitter.com/DrTedros/status/1333124557071323136?ref_src=twsrc%5Etfw">November 29, 2020</a>
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" ></script>
+
+
+## Oy, vey: what to do?  
 
 The venerable Globe: public health despair. <sup id="fn3a">[[3]](#fn3)</sup>
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-Globe-US-public-health-despair.jpg" width="400" height="409" alt="Boston Globe: US public health experts despair" title="Boston Globe: US public health experts despair" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
