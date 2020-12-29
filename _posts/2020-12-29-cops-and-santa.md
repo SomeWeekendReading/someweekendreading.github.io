@@ -16,10 +16,8 @@ But it's ok, because they had [Probable Claus](https://en.wikipedia.org/wiki/Pro
 What are you looking down here for?  That was it.  That was the whole post.  All of it.
 We're done here.  
 
-Ok, fine: have a cat picture.  
-
-The Weekend Publisher didn't think the joke was that funny either, when I told him.  As
-you can plainly see.  
+Ok, fine: have a cat picture.  The Weekend Publisher didn't think the joke was that funny
+either, when I told him.  As you can plainly see.  
 
 He is a Good Cat, but not an especially Good Critic.  You should see his cat food
 reviews.  
