@@ -19,8 +19,8 @@ We're done here.
 Ok, fine: have a cat picture.  The Weekend Publisher didn't think the joke was that funny
 either, when I told him.  As you can plainly see.  
 
-He is a Good Cat, but not an especially Good Critic.  You should see his dining reviews of
-cat food.  
+He is a Good Cat, but not an especially Good Critic.  You should see his cat food
+reviews.  
 
 ---
 
