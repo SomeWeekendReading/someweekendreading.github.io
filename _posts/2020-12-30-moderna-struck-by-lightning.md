@@ -49,7 +49,7 @@ trial is estimated (very crudely) as being about like getting struck by lightnin
 [the Centers for Disease Control estimate at about 1/500,000 per person per year](https://www.cdc.gov/disasters/lightning/victimdata.html)).
 Most people can sort of wrap their brains around that.  
 
-__Now_ can you predict where this is going?  
+_Now_ can you predict where this is going?  
 
 
 ## 3 SAEs in the treatment arm of the Moderna trial  
