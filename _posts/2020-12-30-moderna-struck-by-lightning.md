@@ -103,7 +103,7 @@ coverage based on pre-existing conditions.  A hypothetical example: suppose you 
 diabetic, and because you didn't work for a large company, you had to accept insurance
 that excluded your pre-existing diabetes.  
 
-Now you get hit by a truck and break your leg.  Are you covered?  
+Now you get hit by a truck and your leg is broken.  Are you covered?  
 
 Maybe not: insurers could have argued your diabetes made you hypoglycemic, so you spaced
 out &amp; walked into traffic, and thus they don't have to pay.  
