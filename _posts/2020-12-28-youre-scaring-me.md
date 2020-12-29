@@ -81,7 +81,7 @@ France: what happens when you let up is your elders die.
 &mdash; Olivier Blanchard (@ojblanchard1) 
 <a href="https://twitter.com/ojblanchard1/status/1331952292883533824?ref_src=twsrc%5Etfw">November 26, 2020</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" ></script>
 
 Tedros Adhanom Ghebreyesus ("Dr Tedros") Dir-Gen of WHO: no one is safe until
 everyone is; for this he reaped withering contempt in the comments from the
@@ -96,7 +96,7 @@ covidiots.
 &mdash; Tedros Adhanom Ghebreyesus (@DrTedros) 
 <a href="https://twitter.com/DrTedros/status/1333124557071323136?ref_src=twsrc%5Etfw">November 29, 2020</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" ></script>
 
 The venerable Globe: public health despair. <sup id="fn3a">[[3]](#fn3)</sup>
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-Globe-US-public-health-despair.jpg" width="400" height="409" alt="Boston Globe: US public health experts despair" title="Boston Globe: US public health experts despair" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
@@ -108,7 +108,7 @@ Listen to Gandalf.  Or Magneto, if that's how you roll.  Either way, get vaccina
   </p>
 &mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1339621989330407425?ref_src=twsrc%5Etfw">December 17, 2020</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" ></script>
 
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-1918-flu-pandemic-poster.jpg" width="400" height="506" alt="1918 flu pandemic poster urging masks" title="1918 flu pandemic poster urging masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 A century ago, our elders knew how to do it right.  Why don't we?  
