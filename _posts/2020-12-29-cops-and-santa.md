@@ -1,0 +1,27 @@
+---
+layout: post
+title: Santa and the cops
+tags: CatBlogging DigammaTauPhi NotableAndQuotable TheDivineMadness
+comments: true
+---
+
+Here at Chez Weekend, there's a rumor that on Christmas Eve, even Santa got pulled over by
+the cops?!  
+
+But it's ok, because they had Probable Claus.  
+
+<img src="{{ site.baseurl }}/images/2020-12-19-cops-and-santa-weekend-publisher.jpg" width="400" height="300" alt="Weekend Publisher: that Santa joke is lame, and late as well" title="Weekend Publisher: that Santa joke is lame, and late as well" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+What are you looking down here for?  That was it.  That was the whole post.  Ok, fine:
+have a cat picture.  The Weekend Publisher didn't think it was that funny either, when I
+told him.  As you can plainly see.  
+
+---
+
+## Notes &amp; References  
+
+<!--
+<sup id="fn1a">[[1]](#fn1)</sup>
+<a id="fn1">1</a>: [↩](#fn1a)  
+-->
+
+<a id="fn0">0</a>: No, not today, Bunky.  You didn't laugh at the joke, so no footnotes for you. [↩]  

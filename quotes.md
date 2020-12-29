@@ -3,7 +3,7 @@ layout: page
 title: Quotes I've used from time to time
 permalink: /quotes/
 description: Quotes that amuse me
-tags: NotableAndQuotable
+tags: DigammaTauPhi NotableAndQuotable TheDivineMadness
 date: 2020-07-01
 ---
 
