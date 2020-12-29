@@ -189,13 +189,16 @@ things you can do to make life a little bit better:
   local drugstore.  You got this.  Just do it.  
 - __Don't be a super-spreader of misinformation.__  Fox and Facebook are _terrible_
   sources of information.  
-- __Vote, dammit!__ (If you are eligible to vote in the Georgia Senate run-off.)  Look, it
-  really matters that you vote.  You already know my opinion, but really: you can't
-  possibly be _undecided_, can you?  Even if you're a lifelong Republican just now
-  awakening to the damage accrued since Reagan&hellip; well, get over it and vote that
-  sort of thing out of office at every level.  As someone who grew up Republican, I
-  promise you: it doesn't hurt.  A Republican vote is a vote for continued dysfunction;
-  Vote for Ossof &amp; Warnock instead.  
+- __Vote, dammit!__ (If you are eligible to vote in the Georgia Senate run-off,
+  2021-Jan-05.) Look, it really matters that you vote.  You already know my opinion, but
+  really: you can't possibly be _undecided_, can you?  Even if you're a lifelong
+  Republican just now awakening to the damage accrued since Reagan&hellip; well, get over
+  it and vote that sort of thing out of office at every level.  As someone who grew up
+  Republican, I promise you: it doesn't hurt.  A Republican vote is a vote for continued
+  dysfunction; vote for Ossof &amp; Warnock instead.  Maybe kick a couple bucks their way,
+  as we've done here at Chez Weekend.  They're good guys.
+  [Stacey Abrams](https://en.wikipedia.org/wiki/Stacey_Abrams) says so, and she seems to
+  know what she's doing.  
 - __Get vaccinated:__ When your turn comes, get whatever COVID-19 vaccine is on offer.
   It'll be covered by your insurance.  Even if you are uninsured (really?!  still?), it will be
   cheap &ndash; much cheaper than dying.  So take the vaccine, _thank_ the clinician who
