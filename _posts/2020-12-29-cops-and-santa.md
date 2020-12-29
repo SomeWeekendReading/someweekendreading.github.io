@@ -17,8 +17,10 @@ What are you looking down here for?  That was it.  That was the whole post.  All
 We're done here.  
 
 Ok, fine: have a cat picture.  The Weekend Publisher didn't think it was that funny
-either, when I told him.  As you can plainly see.  He is a Good Cat, but not especially a
-Good Critic.  You should see his dining reviews of cat food.  
+either, when I told him.  As you can plainly see.  
+
+He is a Good Cat, but not an especially Good Critic.  You should see his dining reviews of
+cat food.  
 
 ---
 
