@@ -187,12 +187,13 @@ things you can do to make life a little bit better:
   local drugstore.  You got this.  Just do it.  
 - __Don't be a super-spreader of misinformation.__  Fox and Facebook are _terrible_
   sources of information.  
-- (If you are eligible to vote in the Georgia Senate run-off:)__Vote, dammit!__ Look, it
+- __Vote, dammit!__ (If you are eligible to vote in the Georgia Senate run-off.)  Look, it
   really matters that you vote.  You already know my opinion, but really: you can't
   possibly be _undecided_, can you?  Even if you're a lifelong Republican just now
   awakening to the damage accrued since Reagan&hellip; well, get over it and vote that
   sort of thing out of office at every level.  As someone who grew up Republican, I
-  promise you: it doesn't hurt.  Vote for Ossof &amp; Warnock.  
+  promise you: it doesn't hurt.  A Republican vote is a vote for continued dysfunction.  
+  Vote for Ossof &amp; Warnock.  
 - __Get vaccinated:__ when your turn comes, get whatever COVID-19 vaccine is on offer.
   It'll be covered by your insurance.  Even if you are uninsured (really?!), it will be
   cheap &ndash; much cheaper than dying.  So take the vaccine, _thank_ the clinician who
