@@ -5,7 +5,7 @@ tags: COVID MathInTheNews Politics
 comments: true
 ---
 
-__DRAFT__ You all are scaring me, with your science denying, mask refusing, socially close quarters,
+You all are scaring me, with your science denying, mask refusing, socially close quarters,
 holiday travelling ways.  C'mon: wear a mask, socially distance, avoid indoor gatherings,
 get a flu shot.  At least _pretend to try_ you want to live until the vaccine is
 available, ok?  Then maybe you won't randomly kill the rest of us, who _do_ want to live.  
@@ -86,7 +86,7 @@ But in the case of COVID, this is just _incoherent_.  The disease is _infectious
 may make some idiotic decision that increases your personal COVID risk, but of
 course you are also going to pass on COVID to those around you.  That's what "infectious"
 _means_.  Reckless behavior risks not just your own health, but assaults the health of
-everyone else.  
+everyone else.  It's also dumb as a box of hair.  
 
 [Olivier Blanchard](https://en.wikipedia.org/wiki/Olivier_Blanchard) makes this case using
 data in France.  It appears the age 20-29 cohort lost control and got infected.  Too bad
@@ -116,10 +116,10 @@ Director-General of the [World Health Organization](https://www.who.int/) rather
 expressed the truism that, in matters of publichealth, no one is safe until everyone is
 safe.  As the price for this rather obvious observation, he was dragged over the coals by
 covidiots in the responses on Twitter (not reproduced here, because they're too
-infuriating).  _How can something this obvious be denied by people competent to operate a
-keyboard?!_ In matters of public health, especially infectious diseases, we _are_ in fact
-all in it together.  Our death rates can only be controlled by collective action, not
-individual action.  
+infuriating).  
+
+_How can something this obvious be denied by people competent to operate a keyboard?!_ In matters of public health, especially infectious diseases, we _are_ in fact all in it together.  Our death rates can only be controlled by collective action, not individual action.  
+
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
 	No one is safe until everyone is safe. 
@@ -133,10 +133,12 @@ individual action.
 <script async src="https://platform.twitter.com/widgets.js" ></script>
 
 
-## Oy, vey: what to do?  
+## Oy, vey: why _do_ we even bother?  
 
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-Globe-US-public-health-despair.jpg" width="400" height="409" alt="Boston Globe: US public health experts despair" title="Boston Globe: US public health experts despair" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-It's enough to make your humble Weekend Editor despair.  Rather more unfortunately, the
+It's enough to make your humble Weekend Editor despair.  
+
+Rather more unfortunately, the
 venerable _Globe_ reports that many public health experts and healthcare providers are
 _also_ in a state of despair: as in "why the hell we even bother" trying to save lives
 when all we get back is ignorant contempt. <sup id="fn3a">[[3]](#fn3)</sup>  
@@ -153,12 +155,14 @@ don't just ignore public health guidance, they're _hostile_ to it:
 > &hellip;  
 > &hellip; in late November, [Dr. Ashish Jha, deah of Brown University's School of Public Health] testified before Congress about the inefficacy of hydroxychloroquine, a drug used to treat malaria and touted by President Trump as a “game changer” in the fight against the coronavirus. Shortly after the hearing, Jha said the threats lodged at him grew more serious and tangible, prompting him to alert police, who sent cruisers to patrol his neighborhood. The experience mirrors that of Dr. Anthony Fauci, perhaps the nation’s most well-known infectious disease expert, who has required a security detail for months following threats to himself and his family.  
 
+
+## What you can do  
+
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-1918-flu-pandemic-poster.jpg" width="400" height="506" alt="1918 flu pandemic poster urging masks" title="1918 flu pandemic poster urging masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-A century ago, our elders knew how to do it right.  Why don't we?  
+A century ago, our elders knew how to do it right during the 1918 flu pandemic.  Why don't we?  
 
 Look, I'm gonna 
-[repeat some stuff here that I listed last month]({{ site.baseurl
-}}/coronavirus-winter-of-our-discontent/),
+[repeat &amp; amplify some stuff I said here last month]({{ site.baseurl }}/coronavirus-winter-of-our-discontent/#what-you-can-do),
 things you can do to make life a little bit better:  
 - __Wear a mask!__  It won't suffocate you.  It might save your life, or the lives of
   people around you.  Don't be dumb, here.  
