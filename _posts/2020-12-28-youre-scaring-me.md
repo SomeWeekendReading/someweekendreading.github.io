@@ -141,11 +141,61 @@ venerable _Globe_ reports that many public health experts and healthcare provide
 _also_ in a state of despair: as in "why the hell we even bother" trying to save lives
 when all we get back is ignorant contempt. <sup id="fn3a">[[3]](#fn3)</sup>  
 
+> "At almost every step of this pandemic, we have failed magnificently as a country," the Harvard scientist [Professor of epidemiology Michael Mina] said Monday. "And in ways that we just really didn't need to fail."  
+> &hellip;
+> "I'm just astounded by the dysfunction, the willingness to just stay the course as hundreds of thousands of people die, and the unwillingness to innovate in literally any way," said Mina, an assistant professor of epidemiology at Harvard's T.H. Chan School of Public Health, who has been advocating for widespread at-home rapid antigen testing since March, with little success. "I've realized that when we need to rise up as a country, we have truly no moral capacity to do it. It's just the most mind-bending, complete "Twilight Zone" experience that makes you ask why the hell we even bother."  
+
+We have many scientists and clinicians who have spent their entire careers preparing for
+situations like this.  Instead of listening to them, we prefer dirt-stupid claims of
+right-wing politics, general cowardice of our leaders, and downright superstition.  People
+don't just ignore public health guidance, they're _hostile_ to it:  
+> [Harvard epidemiologist Dr. Caroline Buckee] suspended her Twitter account after her feed, mostly consisting of pandemic advice and research, triggered a cascade of sexist and personal attacks that threatened her and her family.  
+> &hellip;
+> But then in late November, [Dr. Ashish Jha, deah of Brown University's School of Public Health] testified before Congress about the inefficacy of hydroxychloroquine, a drug used to treat malaria and touted by President Trump as a “game changer” in the fight against the coronavirus. Shortly after the hearing, Jha said the threats lodged at him grew more serious and tangible, prompting him to alert police, who sent cruisers to patrol his neighborhood. The experience mirrors that of Dr. Anthony Fauci, perhaps the nation’s most well-known infectious disease expert, who has required a security detail for months following threats to himself and his family.  
+
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-1918-flu-pandemic-poster.jpg" width="400" height="506" alt="1918 flu pandemic poster urging masks" title="1918 flu pandemic poster urging masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 A century ago, our elders knew how to do it right.  Why don't we?  
 
+Look, I'm gonna 
+[repeat some stuff here that I listed last month]({{ site.baseurl
+}}/coronavirus-winter-of-our-discontent/),
+things you can do to make life a little bit better:  
+- __Wear a mask!__  It won't suffocate you.  It might save your life, or the lives of
+  people around you.  Don't be dumb, here.  
+- __Maintain social distance.__  Stay 2 meters (about 6 feet) from others, even with
+  masks.  Stay _completely_ away from people who don't wear masks, since they're
+  advertising their recklessness.  
+- __Stay home or work remotely, if you can.__  Not everybody can do this.  But if you can,
+  you should.  Think of it as your civic duty.  
+- __No gatherings other than the people with whom you live, especially indoors.__ Indoor
+  dining at restaurants is a _spectacularly terrible_ idea.  (Though takeout is a great
+  way to support local businesses, if you can afford it.)  
+- __Lay in some extra food &amp; prescription medications if you need them.__  In case of
+  another lockdown or &mdash; Heaven forbid &mdash; _more_ civil unrest, you'll be glad you don't
+  have to go out.  A bit of home preparedness now will let you relax a bit in the coming
+  months.  Think of it as your duty to your family &amp; loved ones.  
+- __Get a flu shot!__  At this point, I have exactly _zero_ patience left to listen to anybody
+  whine about their "skepticism" of vaccines.  You don't want to present at your local
+  ER this winter as yet another febrile patient with headache, aches &amp; pains, and a
+  cough.  You really don't: you'll be using up resources that real COVID-19 patients
+  need, _just to stay alive_.  So get a flu shot, and get out of their way.  It's covered
+  by all reasonable insurance and Medicare.  Even if not covered, it's like \$20 at your
+  local drugstore.  You got this.  Just do it.  
+- __Don't be a super-spreader of misinformation.__  Fox and Facebook are _terrible_
+  sources of information.  
+- (If you are eligible to vote in the Georgia Senate run-off:)__Vote, dammit!__ Look, it
+  really matters that you vote.  You already know my opinion, but really: you can't
+  possibly be _undecided_, can you?  Even if you're a lifelong Republican just now
+  awakening to the damage accrued since Reagan&hellip; well, get over it and vote that
+  sort of thing out of office at every level.  As someone who grew up Republican, I
+  promise you: it doesn't hurt.  Vote for Ossof &amp; Warnock.  
+- __Get vaccinated:__ when your turn comes, get whatever COVID-19 vaccine is on offer.
+  It'll be covered by your insurance.  Even if you are uninsured (really?!), it will be
+  cheap &ndash; much cheaper than dying.  So take the vaccine, thank the clinician who
+  gives it to you, and _smile_.  Be sure to go back for the second dose, _that's
+  important_.  
 
-Listen to [Gandalf](https://en.wikipedia.org/wiki/Gandalf), as 
+Listen to [Gandalf](https://en.wikipedia.org/wiki/Gandalf), as
 [Helen Branswell](https://en.wikipedia.org/wiki/Helen_Branswell) helpfully advises.  
 (Or [Magneto](https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)), if that's how you roll.)
 Either way, get vaccinated.  
