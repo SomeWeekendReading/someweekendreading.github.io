@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're scaring me
-tags: COVID MathInTheNews Politics
+tags: COVID MathInTheNews Politics Sadness
 comments: true
 ---
 
