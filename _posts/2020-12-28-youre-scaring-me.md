@@ -114,9 +114,8 @@ A similar sentiment from
 [Tedros Adhanom Ghebreyesus ("Dr Tedros")](https://en.wikipedia.org/wiki/Tedros_Adhanom),
 Director-General of the [World Health Organization](https://www.who.int/) rather mildly
 expressed the truism that, in matters of publichealth, no one is safe until everyone is
-safe.  As the price for this rather obvious observation, he was dragged over the coals by
-covidiots in the responses on Twitter (not reproduced here, because they're too
-infuriating).  
+safe.  As the price for this rather obvious bit of wisdom, he was dragged over the coals by
+covidiots in the Twitter responses (not reproduced here, because they're too infuriating).  
 
 _How can something this obvious be denied by people competent to operate a keyboard?!_ In matters of public health, especially infectious diseases, we _are_ in fact all in it together.  Our death rates can only be controlled by collective action, not individual action.  
 
@@ -165,8 +164,8 @@ Look, I'm gonna
 [repeat &amp; amplify some stuff I said here last month]({{ site.baseurl }}/coronavirus-winter-of-our-discontent/#what-you-can-do),
 things you can do to make life a little bit better:  
 - __Wear a mask!__  It won't suffocate you.  It might save your life, or the lives of
-  people around you.  Don't be dumb, here.  
-- __Maintain social distance.__  Stay 2 meters (about 6 feet) from others, even with
+  people around you.  Wear it _properly_, over both your mouth &amp; nose.  Don't be dumb, here.  
+- __Maintain social distance.__  Stay 2 meters (6 feet) from others, even with
   masks.  Stay _completely_ away from people who don't wear masks, since they're
   advertising their recklessness.  
 - __Stay home or work remotely, if you can.__  Not everybody can do this.  But if you can,
@@ -192,12 +191,12 @@ things you can do to make life a little bit better:
   possibly be _undecided_, can you?  Even if you're a lifelong Republican just now
   awakening to the damage accrued since Reagan&hellip; well, get over it and vote that
   sort of thing out of office at every level.  As someone who grew up Republican, I
-  promise you: it doesn't hurt.  A Republican vote is a vote for continued dysfunction.  
-  Vote for Ossof &amp; Warnock.  
-- __Get vaccinated:__ when your turn comes, get whatever COVID-19 vaccine is on offer.
-  It'll be covered by your insurance.  Even if you are uninsured (really?!), it will be
+  promise you: it doesn't hurt.  A Republican vote is a vote for continued dysfunction;
+  Vote for Ossof &amp; Warnock instead.  
+- __Get vaccinated:__ When your turn comes, get whatever COVID-19 vaccine is on offer.
+  It'll be covered by your insurance.  Even if you are uninsured (really?!  still?), it will be
   cheap &ndash; much cheaper than dying.  So take the vaccine, _thank_ the clinician who
-  gives it to you, and _smile_.  Be sure to go back for the second dose, _that's
+  gives it to you, and _smile_.  Be sure to go back for the second dose, because _that's
   important_.  
 
 Listen to [Gandalf](https://en.wikipedia.org/wiki/Gandalf), as
