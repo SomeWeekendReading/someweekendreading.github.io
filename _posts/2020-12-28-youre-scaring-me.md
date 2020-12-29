@@ -112,13 +112,14 @@ and caused many needless deaths among their elders.  Why kill grandma?
 
 A similar sentiment from 
 [Tedros Adhanom Ghebreyesus ("Dr Tedros")](https://en.wikipedia.org/wiki/Tedros_Adhanom),
-Director-General of the WHO rather mildly expressed the truism that, in matters of public
-health, no one is safe until everyone is safe.  As the price for this rather obvious
-observation, he was dragged over the coals by covidiots in the responses on Twitter (not
-reproduced here, because they're too infuriating).  _How can something this obvious be
-denied by people competent to operate a keyboard?!_  In matters of public health,
-especially infectious diseases, we _are_ in fact all in it together.  Our death rates
-can only be controlled by collective action, not individual action.  
+Director-General of the [World Health Organization](https://www.who.int/) rather mildly
+expressed the truism that, in matters of publichealth, no one is safe until everyone is
+safe.  As the price for this rather obvious observation, he was dragged over the coals by
+covidiots in the responses on Twitter (not reproduced here, because they're too
+infuriating).  _How can something this obvious be denied by people competent to operate a
+keyboard?!_ In matters of public health, especially infectious diseases, we _are_ in fact
+all in it together.  Our death rates can only be controlled by collective action, not
+individual action.  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
 	No one is safe until everyone is safe. 
@@ -134,10 +135,20 @@ can only be controlled by collective action, not individual action.
 
 ## Oy, vey: what to do?  
 
-The venerable Globe: public health despair. <sup id="fn3a">[[3]](#fn3)</sup>
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-Globe-US-public-health-despair.jpg" width="400" height="409" alt="Boston Globe: US public health experts despair" title="Boston Globe: US public health experts despair" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+It's enough to make your humble Weekend Editor despair.  Rather more unfortunately, the
+venerable _Globe_ reports that many public health experts and healthcare providers are
+_also_ in a state of despair: as in "why the hell we even bother" trying to save lives
+when all we get back is ignorant contempt. <sup id="fn3a">[[3]](#fn3)</sup>  
 
-Listen to Gandalf.  Or Magneto, if that's how you roll.  Either way, get vaccinated.  
+<img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-1918-flu-pandemic-poster.jpg" width="400" height="506" alt="1918 flu pandemic poster urging masks" title="1918 flu pandemic poster urging masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+A century ago, our elders knew how to do it right.  Why don't we?  
+
+
+Listen to [Gandalf](https://en.wikipedia.org/wiki/Gandalf), as 
+[Helen Branswell](https://en.wikipedia.org/wiki/Helen_Branswell) helpfully advises.  
+(Or [Magneto](https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)), if that's how you roll.)
+Either way, get vaccinated.  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     Listen to Gandalf. <a href="https://t.co/cxUpty7Png">https://t.co/cxUpty7Png</a>
@@ -145,9 +156,6 @@ Listen to Gandalf.  Or Magneto, if that's how you roll.  Either way, get vaccina
 &mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1339621989330407425?ref_src=twsrc%5Etfw">December 17, 2020</a>
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" ></script>
-
-<img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-1918-flu-pandemic-poster.jpg" width="400" height="506" alt="1918 flu pandemic poster urging masks" title="1918 flu pandemic poster urging masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-A century ago, our elders knew how to do it right.  Why don't we?  
 
 ---
 
