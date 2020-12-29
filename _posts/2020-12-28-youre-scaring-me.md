@@ -57,7 +57,7 @@ A joke I found initially amusing, but now just depressing:
 - American: "We're going to have to retire the phrase 'avoid that like the plague',
   because it turns out people don't do that."  
 - European: "You mean _American people_ don't do that."  
-- American: "Ok, _conservative American people_ don't do that."  
+- American: "Ok, _Republican American people_ don't do that."  
 
 <img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-NYT-US-cases-per-capita-by-county.jpg" width="400" height="307" alt="NYT: US COVID-19 cases per 100,000 by county" title="NYT: US COVID-19 cases per 100,000 by county" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 When you break it down geographically, this county-by-county map from the _NYT_ shows that
