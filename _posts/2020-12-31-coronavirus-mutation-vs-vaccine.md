@@ -85,13 +85,13 @@ to vaccines.  (Though, curiously, they report the spike mutation as N501Y instea
 D614G, so maybe it's yet another variation?)  
 
 The most relevant bit is this:  
-> Will the vaccine still work?  
+> __Will the vaccine still work?__  
 >  
-> The new variant has mutations to the spike protein that the three leading vaccines are targeting. However, vaccines produce antibodies against many regions in the spike protein, so it’s unlikely that a single change would make the vaccine less effective.  
+> The new variant has mutations to the spike protein that the three leading vaccines are targeting. However, vaccines produce antibodies against many regions in the spike protein, so __it’s unlikely that a single change would make the vaccine less effective.__  
 >  
 > Over time, as more mutations occur, the vaccine may need to be altered. This happens with seasonal flu, which mutates every year, and the vaccine is adjusted accordingly. The SARS-CoV-2 virus doesn't mutate as quickly as the flu virus, and the vaccines that have so far proved effective in trials are types that can easily be tweaked if necessary.  
 >  
-> [Sharon Peacock, director of [COG-UK](https://www.cogconsortium.uk/data/)] said, "With this variant there is no evidence that it will evade the vaccination or a human immune response. But if there is an instance of vaccine failure or reinfection then that case should be treated as high priority for genetic sequencing."  
+> [Sharon Peacock, director of [COG-UK](https://www.cogconsortium.uk/data/)] said, "With this variant __there is no evidence that it will evade the vaccination or a human immune response.__ But if there is an instance of vaccine failure or reinfection then that case should be treated as high priority for genetic sequencing."  
 
 So&hellip; yeah, vaccines still look good.  Especially the dose-response curves above,
 showing neutralization of the new virus by antibodies against the old virus.  
