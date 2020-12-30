@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The mutant coronavirus: will the vaccines still work?
+title: The mutant coronavirus&colon; will the vaccines still work?
 tags: COVID MathInTheNews PharmaAndBiotech
 comments: true
 ---
@@ -87,6 +87,10 @@ The most relevant bit is this:
 > [Sharon Peacock, director of [COG-UK](https://www.cogconsortium.uk/data/)] said, "With this variant there is no evidence that it will evade the vaccination or a human immune response. But if there is an instance of vaccine failure or reinfection then that case should be treated as high priority for genetic sequencing."  
 
 So&hellip; yeah, vaccines still look good.  
+
+And really, 
+[the same stuff everybody's been telling you to do, even on this tiny little blog,]({{ site.baseurl}}/youre-scaring-me/#what-you-can-do) 
+still works against the new variant as well, until you can _get_ a vaccine.  
 
 ---
 
