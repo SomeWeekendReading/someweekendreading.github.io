@@ -63,18 +63,19 @@ against the wild-type virus, it also works against the mutant type virus._
 ## Is it in the US yet?  
 
 <img src="{{ site.baseurl }}/images/2020-12-31-coronavirus-mutation-vs-vaccine-zimmer.jpg" width="400" height="512" alt="NYT: new coronavirus variant from UK found in Colorado" title="NYT: new coronavirus variant from UK found in Colorado" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Not to be too American-centric about it, but: yes. <sup id="fn2a">[[2]](#fn2)</sup>  The
-_New York Times_ reports (via rather accomplished popular science writer Carl Zimmer and
-colleagues) that the UK mutation has been found in a patient in Colorado.  Alarmingly,
-this patient has no travel history to the UK or anywhere else recently.  
 
+Not to be too American-centric about it, but: yes.  The _New York Times_ reports 
+<sup id="fn2a">[[2]](#fn2)</sup> (via rather accomplished popular science writer Carl Zimmer
+and colleagues) that the UK mutation has been found in a patient in Colorado.  
+
+Alarmingly, this patient has no travel history to the UK or anywhere else recently.
 He got it somewhere, but we don't know how and thus can't try to prevent it with public
 health measures.  If, that is, Americans could be persuaded to take public health measures
 seriously.  Which is, as you may have noticed, in some doubt.  
 
 And really, we _must not be American-centric about a world public health problem_.  As we 
 [recently noted from Dr Tedros of the WHO]({{ site.baseurl }}/youre-scaring-me/#not-just-your-body-your-choice-you-live-with-the-rest-of-us), nobody is safe until everybody is safe.  So
-the only sane response is to _make everybody safe_.  
+the only sane response is to&hellp; _make everybody safe_.  
 
 
 ## So&hellip; vaccine or no?  
@@ -97,7 +98,7 @@ So&hellip; yeah, the vaccines still look good.  Especially the dose-response cur
 showing neutralization of the new virus by antibodies against the old virus.  
 
 And really, 
-[the same stuff everybody's been telling you to do, even on this tiny little blog,]({{ site.baseurl}}/youre-scaring-me/#what-you-can-do) 
+[the same stuff everybody's been telling you to do, even on this crummy little obscure blog,]({{ site.baseurl}}/youre-scaring-me/#what-you-can-do) 
 still works against the new variant as well, until you can _get_ a vaccine.  
 
 ---
