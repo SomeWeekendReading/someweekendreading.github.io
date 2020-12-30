@@ -93,7 +93,7 @@ The most relevant bit is this:
 >  
 > [Sharon Peacock, director of [COG-UK](https://www.cogconsortium.uk/data/)] said, "With this variant __there is no evidence that it will evade the vaccination or a human immune response.__ But if there is an instance of vaccine failure or reinfection then that case should be treated as high priority for genetic sequencing."  
 
-So&hellip; yeah, vaccines still look good.  Especially the dose-response curves above,
+So&hellip; yeah, the vaccines still look good.  Especially the dose-response curves above,
 showing neutralization of the new virus by antibodies against the old virus.  
 
 And really, 
