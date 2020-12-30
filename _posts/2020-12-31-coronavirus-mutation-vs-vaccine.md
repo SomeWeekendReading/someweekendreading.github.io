@@ -70,6 +70,9 @@ He got it somewhere, but we don't know how and thus can't try to prevent it with
 health measures.  If, that is, Americans could be persuaded to take public health measures
 seriously.  Which is, as you may have noticed, in some doubt.  
 
+And really, we _must not be American-centric about a world public health problem_.  As we 
+[recently noted from Dr Tedros of the WHO]({{ site.baseurl }}/youre-scaring-me#not-just-your-body-your-choice-you-live-with-the-rest-of-us), nobody is safe until everybody is safe.  
+
 ## So&hellip; vaccine or no?  
 
 <img src="{{ site.baseurl }}/images/2020-12-31-coronavirus-mutation-vs-vaccine-wise.jpg" width="400" height="215" alt="BMJ: new coronavirus variant seen in UK" title="BMJ: new coronavirus variant seen in UK" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
