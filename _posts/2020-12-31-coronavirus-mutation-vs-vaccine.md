@@ -12,6 +12,7 @@ _definitely_ work: masking, social distancing, working from home, no gatherings 
 single household, having adequate food &amp; medicine stored, getting a flu vaccination,
 and not being a super-spreader of misinformation.  
 
+
 ## What's the sitch?  
 
 The virus behind COVID-19, euphoniously yclept SARS-CoV-2, has mutated.  Nothing
@@ -58,6 +59,7 @@ pleasant passtime in itself!), basically it shows in each plot that the pair of 
 the wild-type and the mutant virus are more or less comparable.  _If an antibody works
 against the wild-type virus, it also works against the mutant type virus._
 
+
 ## Is it in the US yet?  
 
 <img src="{{ site.baseurl }}/images/2020-12-31-coronavirus-mutation-vs-vaccine-zimmer.jpg" width="400" height="512" alt="NYT: new coronavirus variant from UK found in Colorado" title="NYT: new coronavirus variant from UK found in Colorado" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
@@ -71,7 +73,9 @@ health measures.  If, that is, Americans could be persuaded to take public healt
 seriously.  Which is, as you may have noticed, in some doubt.  
 
 And really, we _must not be American-centric about a world public health problem_.  As we 
-[recently noted from Dr Tedros of the WHO]({{ site.baseurl }}/youre-scaring-me#not-just-your-body-your-choice-you-live-with-the-rest-of-us), nobody is safe until everybody is safe.  
+[recently noted from Dr Tedros of the WHO]({{ site.baseurl }}/youre-scaring-me/#not-just-your-body-your-choice-you-live-with-the-rest-of-us), nobody is safe until everybody is safe.  So
+the only sane response is to _make everybody safe_.  
+
 
 ## So&hellip; vaccine or no?  
 
@@ -89,7 +93,8 @@ The most relevant bit is this:
 >  
 > [Sharon Peacock, director of [COG-UK](https://www.cogconsortium.uk/data/)] said, "With this variant there is no evidence that it will evade the vaccination or a human immune response. But if there is an instance of vaccine failure or reinfection then that case should be treated as high priority for genetic sequencing."  
 
-So&hellip; yeah, vaccines still look good.  
+So&hellip; yeah, vaccines still look good.  Especially the dose-response curves above,
+showing neutralization of the new virus by antibodies against the old virus.  
 
 And really, 
 [the same stuff everybody's been telling you to do, even on this tiny little blog,]({{ site.baseurl}}/youre-scaring-me/#what-you-can-do) 
