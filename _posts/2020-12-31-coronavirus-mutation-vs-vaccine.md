@@ -6,7 +6,7 @@ comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) whether the COVID-19
-vaccines currently being used would work vs the mutant form of SARS-CoV-2 driving COVID-19
+vaccines currently being used would work _vs_ the mutant form of SARS-CoV-2 now driving COVID-19
 in the UK.  Looks like it probably will, though nobody _really_ knows.  What will
 _definitely_ work: masking, social distancing, working from home, no gatherings beyond a
 single household, having adequate food &amp; medicine stored, getting a flu vaccination,
@@ -54,6 +54,7 @@ dose-response curves, each showing the neutralization of the wild-type and mutan
 viruses.  The agents used were either sera from recovered patients, or artificial
 antibodies made to fight the wild-type.  
 
+<img src="{{ site.baseurl }}/images/dope-slap.png" width="329" height="195" alt="The Car Talk 'dope-slap'" title="The Car Talk 'dope-slap'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 (__NB__: In Figure 2 H (top), the sera are being _diluted_ as you move to the right on the
 horizontal axis.  So antibody concentrations increase _to the left_.  In Figure 2 J
 (bottom), the concentration of therapeutic antibodies increase _to the right_ on the
