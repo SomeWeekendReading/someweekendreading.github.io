@@ -51,8 +51,15 @@ by Hou, _et al._ <sup id="fn1a">[[1]](#fn1)</sup> has the goods:
 <img src="{{ site.baseurl }}/images/2020-12-31-coronavirus-mutation-vs-vaccine-hou-neutralization.jpg" width="400" height="328" alt="Hou, et al.: Abs neutralizing wild-type SARS-CoV-2 also work vs mutant" title="Hou, et al.: Abs neutralizing wild-type SARS-CoV-2 also work vs mutant" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Looking at Figures 2 H &amp; J from their paper underscores the good news.  These are
 dose-response curves, each showing the neutralization of the wild-type and mutant
-viruses.  The agenets used were either sera from recovered patients, or artificial
-antibodies made to fight the wild-type.
+viruses.  The agents used were either sera from recovered patients, or artificial
+antibodies made to fight the wild-type.  (__NB__: In Figure H (top), the sera are being
+_diluted_ as you move to the right on the horizontal axis.  So antibody concentrations
+increase _to the left_.  In Figure J (bottom), the concentration of therapeutic antibodies
+increase _to the right_ on the horizontal axis.  So the curves actually are more or less
+similar in Figures H &amp; J.  No, I dunno why they did that; it seems worthy of at least a 
+[Boston _Car Talk_ "dope-slap"](https://www.bostonglobe.com/ideas/2015/04/25/car-talk-lives-dictionary/6Ah5sXEGHIbGmR9FDkj5nK/story.html)
+from the referees.  But then, I'm a grumpy old retired scientist who apparently entertains
+dope-slap fantasies.)  
 
 Without getting out in the weeds of detail on what these curves mean (though that's a
 pleasant passtime in itself!), basically it shows in each plot that the pair of curves for
