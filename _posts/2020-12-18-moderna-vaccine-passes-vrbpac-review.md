@@ -225,7 +225,7 @@ vaccine <sup id="fn7a">[[7]](#fn7)</sup>:
 <img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-jack-benny.jpg" width="200" height="318" alt="Jack Benny: Well!" title="Jack Benny: Well!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <a id="fn2">2</a>: As with Pfizer, we don't have a name yet.  The formal substance id for
 clinical trial purposes is mRNA-1273, which pleases nobody.  Apparently both Pfizer and
-Moderna have engaged naming companies who charge big bucks to make up nonsensical names.  
+Moderna have engaged naming companies who charge big bucks to make up the usual nonsensical names.  
 
 As [Jack Benny](https://en.wikipedia.org/wiki/Jack_Benny) used to say: "Well!"  
 
