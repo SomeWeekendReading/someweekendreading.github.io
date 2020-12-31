@@ -52,19 +52,21 @@ by Hou, _et al._ <sup id="fn1a">[[1]](#fn1)</sup> has the goods:
 Looking at Figures 2 H &amp; J from their paper underscores the good news.  These are
 dose-response curves, each showing the neutralization of the wild-type and mutant
 viruses.  The agents used were either sera from recovered patients, or artificial
-antibodies made to fight the wild-type.  (__NB__: In Figure H (top), the sera are being
-_diluted_ as you move to the right on the horizontal axis.  So antibody concentrations
-increase _to the left_.  In Figure J (bottom), the concentration of therapeutic antibodies
-increase _to the right_ on the horizontal axis.  So the curves actually are more or less
-similar in Figures H &amp; J.  No, I dunno why they did that; it seems worthy of at least a 
+antibodies made to fight the wild-type.  
+
+(__NB__: In Figure 2 H (top), the sera are being _diluted_ as you move to the right on the
+horizontal axis.  So antibody concentrations increase _to the left_.  In Figure 2 J
+(bottom), the concentration of therapeutic antibodies increase _to the right_ on the
+horizontal axis.  So the curves actually are more or less similar in Figures 2 H &amp; J.
+No, I dunno why they did that; it seems at least worthy of a 
 [Boston _Car Talk_ "dope-slap"](https://www.bostonglobe.com/ideas/2015/04/25/car-talk-lives-dictionary/6Ah5sXEGHIbGmR9FDkj5nK/story.html)
-from the referees.  But then, I'm a grumpy old retired scientist who apparently entertains
-dope-slap fantasies.)  
+from the journal's referees.  But then, I'm a grumpy old retired scientist who apparently
+entertains dope-slap fantasies.  So there's that much in their defense.)  
 
 Without getting out in the weeds of detail on what these curves mean (though that's a
 pleasant passtime in itself!), basically it shows in each plot that the pair of curves for
 the wild-type and the mutant virus are more or less comparable.  _If an antibody works
-against the wild-type virus, it also works against the mutant type virus._
+against the wild-type virus, it also works against the mutant type virus about as well._
 
 
 ## Is it in the US yet?  
