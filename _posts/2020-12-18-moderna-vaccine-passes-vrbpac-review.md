@@ -227,7 +227,7 @@ vaccine <sup id="fn7a">[[7]](#fn7)</sup>:
 clinical trial purposes is mRNA-1273, which pleases nobody.  Apparently both Pfizer and
 Moderna have engaged naming companies who charge big bucks to make up nonsensical names.  
 
-As Jack Benny used to say: "Well!"  
+As [Jack Benny](https://en.wikipedia.org/wiki/Jack_Benny) used to say: "Well!"  
 
 Here at _Weekend Nomenclature LLC_, we propose the names "MoCoVax" and "PfiBiCoVax" for
 Moderna and Pfizer respectively.  
