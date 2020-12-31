@@ -230,7 +230,7 @@ Moderna have engaged naming companies who charge big bucks to make up the usual 
 As [Jack Benny](https://en.wikipedia.org/wiki/Jack_Benny) used to say: "Well!"  
 
 Here at _Weekend Nomenclature LLC_, we propose the names "MoCoVax" and "PfiBiCoVax" for
-Moderna and Pfizer respectively.  
+Moderna and Pfizer/BioNTech respectively.  
 
 You're welcome.  Moderna, Pfizer: email us and we'll work out payment details for this
 valuable intellectual property. [↩](#fn2a)  
