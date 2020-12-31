@@ -20,7 +20,7 @@ especially unusual about that; it's what viruses _do_, and how evolution _works_
 viruses mutate especially fast &ndash; this is why you need a new flu vaccine every year.
 
 Most of the mutations seen in SARS-CoV-2 are of no particular import.  Mutations are more
-or less random, after all.  Even unimptant mutations can be used as barcodes, to tell us
+or less random, after all.  Even unimportant mutations can be used as barcodes, to tell us
 exactly which variant from which part of the world has infected a patient.  But 
 we care mostly about mutations in the gene for the spike protein that SARS-CoV-2 uses to
 bind to the ACE2 receptor in human epithelial tissue.  That's the key protein to which the
@@ -28,7 +28,7 @@ Pfizer and Moderna vaccines alert your immune system.  A major change here could
 called an "escape mutation", potentiating vaccine resistance.  
 
 <img src="{{ site.baseurl }}/images/2020-12-31-coronavirus-mutation-vs-vaccine-hou.jpg" width="400" height="200" alt="Science: D614G variant is efficient replicator" title="Science: D614G variant is efficient replicator" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-So how do we characterize this new variant, especially in the spike protein?  The _Science_ paper 
+So how do we characterize this new variant, especially in the spike protein?  A _Science_ paper 
 by Hou, _et al._ <sup id="fn1a">[[1]](#fn1)</sup> has the goods:  
 - This variant has a D614G mutation in the spike protein, in addition to 16 other
   mutations elsewhere.  Here's what that means:
