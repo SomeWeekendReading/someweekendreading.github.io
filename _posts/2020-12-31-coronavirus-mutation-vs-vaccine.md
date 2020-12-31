@@ -84,7 +84,7 @@ seriously.  Which is, as you may have noticed, in some doubt.
 
 And really, we _must not be American-centric about a world public health problem_.  As we 
 [recently noted from Dr Tedros of the WHO]({{ site.baseurl }}/youre-scaring-me/#not-just-your-body-your-choice-you-live-with-the-rest-of-us), nobody is safe until everybody is safe.  So
-the only sane response is to&hellp; _make everybody safe_.  
+the only sane response is to&hellip; _make everybody safe_.  
 
 
 ## So&hellip; vaccine or no?  
