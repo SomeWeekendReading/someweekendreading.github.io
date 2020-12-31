@@ -92,7 +92,7 @@ the only sane response is to&hellip; _make everybody safe_.
 <img src="{{ site.baseurl }}/images/2020-12-31-coronavirus-mutation-vs-vaccine-wise.jpg" width="400" height="215" alt="BMJ: new coronavirus variant seen in UK" title="BMJ: new coronavirus variant seen in UK" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 A news article in the _BMJ_ <sup id="fn3a">[[3]](#fn3)</sup> reports on the relationship
 to vaccines.  (Though, curiously, they report the spike mutation as N501Y instead of
-D614G, so maybe it's yet another variation?)  
+D614G, so maybe it's yet _another_ variation?)  
 
 The most relevant bit is this:  
 > __Will the vaccine still work?__  
