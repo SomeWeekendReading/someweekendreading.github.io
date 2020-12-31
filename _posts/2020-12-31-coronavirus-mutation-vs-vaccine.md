@@ -61,7 +61,8 @@ horizontal axis.  So antibody concentrations increase _to the left_.  In Figure 
 horizontal axis.  So the curves actually are more or less similar in Figures 2 H &amp; J.
 No, I dunno why they did that; it seems at least worthy of a 
 [Boston _Car Talk_ "dope-slap"](https://www.bostonglobe.com/ideas/2015/04/25/car-talk-lives-dictionary/6Ah5sXEGHIbGmR9FDkj5nK/story.html)
-from the journal's referees.  But then, I'm a grumpy old retired scientist who apparently
+from the journal's referees: make the axes mean the same thing in the same direction!
+But then, I'm a grumpy old retired scientist who apparently
 entertains dope-slap fantasies.  So there's that much in their defense.)  
 
 Without getting out in the weeds of detail on what these curves mean (though that's a
