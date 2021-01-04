@@ -22,7 +22,9 @@ account for trial censorship.
 The efficacy in subgroups is [exactly as we found in Figure 7 of the FDA submission]({{ site.baseurl }}/beautiful-vaccines-2/#fine-but-whats-in-those-briefing-documents): 
 pretty good all-around, with some wider error bars in the very elderly.  
 
-This result is, as anticipated, very good indeed.  
+This result is, as anticipated, very good indeed.  There's of course a lot more in the
+paper, including some lovely stuff about intent-to-treat _vs_ as-treated doctrine, and all
+the usual stuff.  But the top-line result of 94% efficacy is what we all want to see.  
 
 ---
 
