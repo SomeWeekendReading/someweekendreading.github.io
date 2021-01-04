@@ -14,9 +14,8 @@ Very, _very_ good.
 The Moderna COVID-19 vaccine is clinical trial 
 [NCT04470427](http://clinicaltrials.gov/show/NCT04470427).  It has now been formally peer
 reviewed and is published in the prestigious _NEJM_. <sup id="fn1a">[[1]](#fn1)</sup>
-The results confirm a vaccine efficacy ($VE = 100.0 * (1 - \frac{\Pr(\mbox{infection} | \mbox{treatment})}{\Pr(\mbox{infection} | \mbox{control})})$)
-result of 94.1% (95% CL: 89.3% &ndash; 96.8%).  The supplement to
-the paper tels us that they calculated the VE using a very proper stratified Cox
+The results confirm a vaccine efficacy result of 94.1% (95% CL: 89.3% &ndash; 96.8%).
+The supplement to the paper tels us that they calculated the VE using a very proper stratified Cox
 proportional hazards model, in which the probability ratio above becomes a Hazard ratio to
 account for trial censorship.  
 
