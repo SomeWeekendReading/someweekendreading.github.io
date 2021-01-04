@@ -85,6 +85,8 @@ YouTube, 2020-Dec-10.
 [_Dessert Person_](https://www.youtube.com/channel/UCvw6Y1kr_8bp6B5m1dqNyiw), 
 YouTube, 2020-Dec-10.  
 
+"Please scream inside your heart."  &mdash; [officials at Fuji-Q Highland Amusement Park in Japan, advising against roller coaster screaming during the COVID-19 pandemic](https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889394605/please-scream-inside-your-heart-japanese-amusement-park-tells-thrill-seekers).  Actually, they invented the absolutely correct slogan for all of the year 2020.  Yeah&hellip; been screaming in my heart for years, really.  
+
 
 ## The Political Ones &amp; The Economic Dismals  
 
