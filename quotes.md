@@ -439,6 +439,20 @@ is the arrogant gesture, the complete disregard of the opinion of others, the si
 defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), 
 [_The True Believer_](https://en.wikipedia.org/wiki/The_True_Believer)  
 
+"When people are free to do as we please, they usually imitate each other."
+&mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 33, 1955.  
+
+"Add a few drops of venom to a half truth and you have an absolute truth." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 216, 1955.  
+
+"Rudeness is the weak man's imitation of strength."  &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 241, 1955.  
+
+"If in order to keep the wheels turning you have to deafen ears with propaganda, crack the whip of Terror, and keep pushing people around, then you haven't got a machine civilization no matter how numerous and ingenious your machines." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Ordeal of Change_](https://www.google.com/books/edition/The_Ordeal_of_Change/7Y-NoJ8yNIkC?hl=en), Ch 5 "The Readiness to Work", 1963.  
+
+"To the excessively fearful the chief characteristic of power is its arbitrariness. Man had to gain enormously in confidence before he could conceive an all-powerful God who obeys his own laws." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Reflections on the Human Condition_](https://www.google.com/books/edition/Reflections_on_the_Human_Condition/C2dnAAAAIAAJ?hl=en), Section 163, 1973.  
+
+"A war is not won if the defeated enemy has not been turned into a friend." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Reflections on the Human Condition_](https://www.google.com/books/edition/Reflections_on_the_Human_Condition/C2dnAAAAIAAJ?hl=en), 1973.  
+
+"I hang onto my prejudices, they are the testicles of my mind." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Before the Sabbath_], p. 79, 1979.  
 
 ## Those of Rational &amp; Scientific Bent
 
@@ -650,6 +664,8 @@ few true dichotomies."
 "What men of science want is only a fair day's wages for more than a fair day's work; and most of us, I suspect, would be well content if, for our days and nights of unremitting toil, we could secure the pay which a first-class Treasury clerk earns without any obviously trying strain upon his faculties. &mdash; [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Huxley), ["Administrative Nihilism"](https://mathcs.clarku.edu/huxley/CE1/AdNil.html), _Collected Essays_ I, 1871.  
 
 "In physical science a first essential step in the direction of learning any subject is to find principles of numerical reckoning and practicable methods for measuring some quality connected with it. I often say that when you can measure what you are speaking about and express it in numbers you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of _science_, whatever the matter may be." &mdash; physicist [William Thomson, 1st Baron Kelvin](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin), [_Popular Lectures and Addresses_](https://www.google.com/books/edition/_/JcMKAAAAIAAJ?hl=en&gbpv=1&bsq=In%20physical%20science%20a%20first%20essential%20step), Vol. I, 1891, p. 80.  
+
+"Nature has no compassion. Nature accepts no excuses and the only punishment it knows is death." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Reflections on the Human Condition_](https://www.google.com/books/edition/Reflections_on_the_Human_Condition/C2dnAAAAIAAJ?hl=en), Section 36, 1973.
 
 
 ## The Statistical Ones  
@@ -983,11 +999,21 @@ already occurred." &mdash; [Abdal-Hakim Murad](https://en.wikipedia.org/wiki/Tim
 
 "No testimony is sufficient to establish a miracle, unless the testimony be of such a kind that its falsehood would be more miraculous than the fact which it endeavours to establish." &mdash; [David Hume](https://en.wikipedia.org/wiki/David_Hume), [_An Enquiry Concerning Human Understanding_](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding), 1748.  
 
-"Kindness can become its own motive.  We are made kind by being kind."
-&mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer)  
-
 "It is wrong always, everywhere, and for everyone to believe anything upon insufficient
 evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdon_Clifford), ["The Ethics of Belief"](https://plato.stanford.edu/entries/ethics-belief/), _Contemporary Review_, 1877.  Clifford also offered a related principle: "It is wrong always, everywhere, and for anyone to ignore evidence that is relevant to his beliefs, or to dismiss relevant evidence in a facile way."  These are, charmingly, called _Clifford's Principle_ and _Clifford's Other Principle_, respectively.  
+
+"God alone is satisfied with what He is and can proclaim: 'I am what I am.' Unlike God, man strives with all his might to be what he is not. He incessantly proclaims: 'I am what I am not.'" &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 54, 1955.  
+
+"The pleasure we derive from doing favors is partly in the feeling it gives us that we are not altogether worthless." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 113, 1955.  
+
+"Kindness can become its own motive. We are made kind by being kind." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 123, 1955.  
+
+"Compassion is probably the only antitoxin of the soul. Where there is compassion even the most poisonous impulses remain relatively harmless. One would rather see the world run by men who set their hearts on toys but are accessible to pity, than by men animated by lofty ideals whose dedication makes them ruthless. In the chemistry of man's soul, almost all noble attributes &ndash; courage, honor, hope, faith, duty, loyalty, etc. &ndash; can be transmuted into ruthlessness. Compassion alone stands apart from the continuous traffic between good and evil proceeding within us." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 139, 1955.  
+
+"It is compassion rather than the principle of justice which can guard us against being unjust to our fellow men." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 140, 1955.  
+
+"To become different from what we are, we must have some awareness of what we are." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 151, 1955.  
+
 
 ## The One Who Is Voltaire  
 
