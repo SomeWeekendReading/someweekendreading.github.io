@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Democrats take Senate &amp; presidency; Republicans start insurrection &amp; terrorism
+title: Democrats take Senate &amp; Presidency; Republicans start insurrection &amp; terrorism
 tags: Politics Sadness
 comments: true
 ---
