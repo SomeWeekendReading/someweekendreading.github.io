@@ -83,7 +83,8 @@ ready with a heavily militarized response &ndash; in the US we shamelessly milit
 police so they resemble an occupying army &ndash; and were ready with batons, rubber
 bullets, and tear gas.  That was for Black people and their supporters.  The response to
 the largely white Trump mob has been described as "relatively chill", or "I am literally
-watching white people do some stuff on television I'd be murdered for trying."  It is
+watching white people do some stuff on television I'd be murdered for trying."  In at
+least one case, a Capitol Police officer was taking selfies with the insurrectionists.  It is
 _shamelessly_ racist and incompetent.  
 
 
@@ -95,12 +96,13 @@ but (b) also told the terrorists that they were "very special people", whom he "
 and that the election was still "stolen".  It was as delusional as it is irresponsible.  
 
 <img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-ivanka-trump.jpg" width="400" height="144" alt="Ivanka Trump: doesn't know the difference between 'patriot' and 'terrorist'" title="Ivanka Trump: doesn't know the difference between 'patriot' and 'terrorist'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+
 Ivanka Trump, not usually known for her intellect or deep thought on matters of state,
 confirmed the stereotype in a tweet (now removed) calling for peace, but calling the
-insurrectionists attempting to kidnap and murder members of Congress by the name
-"patriots".  In her defense, slightly, is the demonstrated fact that she's just not that
-bright: she may not _understand_ what she's saying.  After all, her father _clearly_ does
-not.  
+insurrectionists attempting to kidnap and murder members of Congress by the name "American
+Patriots".  In her defense &ndash; _slightly_ &ndash; is the demonstrated fact that she's
+just not that bright: she may not _understand_ what she's saying.  After all, her father
+_clearly_ does not.  
 
 
 ## Where things stand at 7:30pm on 2020-Jan-06  
