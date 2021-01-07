@@ -80,7 +80,7 @@ ready with a heavily militarized response &ndash; in the US we shamelessly milit
 police so they resemble an occupying army &ndash; and were ready with batons, rubber
 bullets, and tear gas.  That was for Black people and their supporters.  The response to
 the largely white Trump mob has been described as "relatively chill", or "I am literally
-watchingwhite people do some stuf on television I'd be murdered for trying."  It is
+watching white people do some stuff on television I'd be murdered for trying."  It is
 _shamelessly_ racist and incompetent.  
 
 
@@ -89,12 +89,12 @@ _shamelessly_ racist and incompetent.
 Biden made a relatively measured statement, calling upon President Trump to make a
 statement.  Trump did so, though I refuse to link to it because: (a) he did say "go home",
 but (b) also told the terrorists that they were "very special people", whom he "loved",
-and that the election was still "stolen".  It is as delusional as it is irresponsible.  
+and that the election was still "stolen".  It was as delusional as it is irresponsible.  
 
 <img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-ivanka-trump.jpg" width="400" height="144" alt="Ivanka Trump: doesn't know the difference between 'patriot' and 'terrorist'" title="Ivanka Trump: doesn't know the difference between 'patriot' and 'terrorist'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Ivanka Trump, not usually known for her intellect or deep thought on matters of state,
 confirmed the stereotype in a tweet (now removed) calling for peace, but calling the
-insurrctionists attempting to kidnap and murder members of Congress by the name
+insurrectionists attempting to kidnap and murder members of Congress by the name
 "patriots".  In her defense, slightly, is the demonstrated fact that she's just not that
 bright: she may not _understand_ what she's saying.  After all, her father _clearly_ does
 not.  
@@ -103,7 +103,9 @@ not.
 ## Where things stand at 7:30pm on 2020-Jan-06  
 
 <img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-wapo.jpg" width="400" height="179" alt="Washington Post: Live updates of the situation" title="Washington Post: Live updates of the situation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-The DC National Guard has been mobilized (apparently by Pence; Trump still won't do it).
+The DC National Guard has been mobilized. (Apparently by Pence; Trump still won't do it.
+We note with some concern that the Vice President is _outside the chain of command_ of the
+military, and it can be argued the military is thus operating outside civilian control.)
 The mobs are being slowly and gently pressed back by police who show _absolutely_ no such
 restraint with Black Lives Matter.  The DC mayor has imposed a 6pm to 6am curfew, though
 there are still mobs around the Capitol.  One person has been murdered, details unclear.
@@ -111,23 +113,23 @@ there are still mobs around the Capitol.  One person has been murdered, details 
 
 I would say this is a time of deep shame for the United States.  But really, we've been
 behaving shamefully since the Republicans began their descent into madness at the time of
-Reagan.  It's just _obvious_ now.    If you support any Republican, for any office, under
-any circumstance, you are enabling the worst of them.  You are complicit.  Please don't do
-that.  
+Reagan.  It's just _obvious_ now.    
+
+If you support even the best of Republicans, for any office, under any circumstance, you
+are enabling the worst of them.  You are complicit.  Please don't do that.  
 
 
 ## Going forward  
 
 <img src="{{ site.baseurl
 }}/images/2021-01-06-dems-win-repubs-insurrection-ap-dems-win-georgia.jpg" width="400" height="409" alt="AP: Warnock &amp; Ossof win Georgia" title="AP: Warnock &amp; Ossof win Georgia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-
-Still&amp; the AP has officially called the Georgia run-offs for the Senate in favor of
-Warnock and Ossof.  The Democrats will control the Senate as soon as they can be sworn in,
-presumably tomorrow.  With control of the House and the Presidency, this means the adults
-will soon be back in charge.  
+Still&hellip; the AP has officially called the Georgia run-offs for the Senate in favor of
+Warnock and Ossof. <sup id="fn8a">[[8]](#fn8)</sup> The Democrats will control the Senate
+as soon as they can be sworn in, presumably tomorrow.  With control of the House and the
+Presidency, this means the adults will soon be back in charge.  
 
 On the other hand, as the inimitable PZ Myers put it earlier today
-<sup id="fn8a">[[8]](#fn8)</sup>, these were shamefully close races.  Almost 50% of
+<sup id="fn9a">[[9]](#fn9)</sup>, these were shamefully close races.  Almost 50% of
 Georgians looked at the last 4 years, and decided for more of the same.  I 
 [expressed a similar sentiment here about the presidential election]({{ site.baseurl }}/unsatisfactory-election/).  
 
@@ -168,4 +170,6 @@ Today _should_ have been a good day.  It was not.
 
 <a id="fn7">7</a>: T Amenabar, _et al.,_, ["Live updates: D.C. National Guard will be activated as mobs breach U.S. Capitol; one person shot inside; D.C. mayor imposes curfew"](https://www.washingtonpost.com/dc-md-va/2021/01/06/dc-protests-trump-rally-live-updates/), _Washington Post_, 2020-Jan-06. [↩](#fn7a)  
 
-<a id="fn8">8</a>: PZ Myers, ["Good news/bad news"](https://freethoughtblogs.com/pharyngula/2021/01/06/good-news-bad-news-2/), _Pharyngula_, 2021-Jan-06. [↩](#fn8a)  
+<a id="fn8">8</a>: Associated Press (via the _Boston Globe_), ["Warnock, Ossoff win in Georgia, handing Democrats Senate control"](https://www.bostonglobe.com/2021/01/06/nation/jon-ossoff-wins-election-beating-incumbent-perdue-handing-democrats-control-senate/), _Boston Globe_, 2020-Jan-06. [↩](#fn8a)  
+
+<a id="fn9">9</a>: PZ Myers, ["Good news/bad news"](https://freethoughtblogs.com/pharyngula/2021/01/06/good-news-bad-news-2/), _Pharyngula_, 2021-Jan-06. [↩](#fn9a)  
