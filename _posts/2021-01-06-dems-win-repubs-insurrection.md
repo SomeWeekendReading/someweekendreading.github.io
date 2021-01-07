@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dems take Senate &amp; presidency, Republicans start insurrection &amp; terrorism
+title: Democrats take Senate &amp; presidency; Republicans start insurrection &amp; terrorism
 tags: Politics Sadness
 comments: true
 ---
@@ -14,23 +14,24 @@ traitors against the United States.
 
 Today _should_ have been a good day: for Biden &amp; Harris the last ceremonial step of
 counting the Electoral College votes in the House &amp; Senate, and for the Senate the
-Ossof &amp; Warnock victories that give Democrats control of the Senate.  What we got
-instead was Trump inciting riots by his more deluded followers.  They rioted.  Then, in an
-act of armed insurrection against the United States government, they breached the Capitol
-while Congress was in session with the specific purpose of overthrowing an election and
-threatening violence to members of Congress.  
+Ossof &amp; Warnock victories that give Democrats control of the Senate.  
+
+What we got instead was Trump inciting riots by his more deluded followers.  They rioted.
+Then, in an act of armed insurrection against the United States government, they breached
+the Capitol while Congress was in session with the specific purpose of overthrowing an
+election and threatening violence to members of Congress.  
 
 The last time the Capitol was breached was in 1814, when the British burned parts of it.
 The British at least had the excuse of being actually _at war_ with the United States in
 the War of 1812.  Now, apparently, the extremists in the Republican party are similarly at
-war with democracy.  
+war with the United States.  
 
 ## Instead, insurrection  
 
 <img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-globe-1.jpg" width="400" height="150" alt="Globe: Trump supporters assault in-session Congress" title="Globe: Trump supporters assault in-session Congress" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-globe-2.jpg" width="400" height="278" alt="Globe: Capitol police defend House chamber at gunpoint" title="Globe: Capitol police defend House chamber at gunpoint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-globe-3.jpg" width="400" height="276" alt="Globe: apparent right-wing paramilitary assaults Senate chamber from balcony" title="Globe: apparent right-wing paramilitary assaults Senate chamber from balcony" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-globe-4.jpg" width="400" height="276" alt="Globe: Congress evacuated in gas masks" title="Globe: Congress evacuated in gas masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-01-06-dems-win-repubs-insurrection-globe-4.jpg" width="400" height="395" alt="Globe: Congress evacuated in gas masks" title="Globe: Congress evacuated in gas masks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First up, the venerable _Globe_ reports on what amounts to domestic terrorism: Trump
 supporters, riot and threaten both houses of Congress in session enough to disrupt the
 Electoral College ceremonies. <sup id="fn1a">[[1]](#fn1)</sup>
