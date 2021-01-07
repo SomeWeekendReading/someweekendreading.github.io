@@ -17,7 +17,8 @@ Today _should_ have been a good day: for Biden &amp; Harris the last ceremonial 
 counting the Electoral College votes in the House &amp; Senate, and for the Senate the
 Ossof &amp; Warnock victories that give Democrats control of the Senate.  
 
-What we got instead was Trump inciting riots by his more deluded followers.  They rioted.
+What we got instead was Trump inciting riots by his more deluded followers; Rudy Giuliani,
+the Trump _consigliere_, actually urged "trial by combat".  The idiots rioted, to start.
 Then, in an act of armed insurrection against the United States government, they breached
 the Capitol while Congress was in session with the specific purpose of overthrowing an
 election and threatening violence to members of Congress.  
