@@ -7,8 +7,8 @@ comments: true
 
 Today was when the Electoral College was to have been certified in Congress, sealing the
 fate of the presidential election.  It is also the day the Democrats attained a majority
-in the Senate.  Alas, it is also the day Republicans endorsed insurrectionists,
-terrorists, and traitors against the United States.  
+in the Senate.  Alas, it is also the day Republicans endorsed insurrectionists and
+terrorists against the United States government.  
 
 
 ## It should have been a good day  
