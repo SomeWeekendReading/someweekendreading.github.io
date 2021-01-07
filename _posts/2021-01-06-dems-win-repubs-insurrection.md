@@ -118,7 +118,7 @@ there are still mobs around the Capitol.  One person has been murdered, details 
 
 I would say this is a time of deep shame for the United States.  But really, we've been
 behaving shamefully since the Republicans began their descent into madness at the time of
-Reagan.  It's just _obvious_ now.    
+Reagan.  Now, it's just &hellip; _obvious_.  
 
 If you support even the best of Republicans, for any office, under any circumstance, you
 are enabling the worst of them.  You are complicit.  Please don't do that.  
