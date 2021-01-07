@@ -150,7 +150,8 @@ Democrat in the Senate, now has effective veto power over policy.  The Senate De
 will do _anything_ to prevent him from switching parties, even if he is ideologically more
 aligned with Republicans.  Perhaps there will be quite an influx of public spending into
 West Virginia.  The good side of me wants to say they're a poor state and probably need
-it.  The angry side of me wants to say it's just another blue dog in the manger.  
+it.  The angry side of me wants to say it's just another blue dog in the manger (to mix a
+couple of metaphors unpleasantly).  
 
 Today _should_ have been a good day.  It was not.  
 
