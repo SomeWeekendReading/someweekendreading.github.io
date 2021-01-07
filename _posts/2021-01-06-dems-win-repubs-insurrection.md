@@ -10,6 +10,7 @@ fate of the presidential election.  It is also the day the Democrats attained a 
 in the Senate.  Alas, it is also the day Republicans became insurrectionists, terrorists, and
 traitors against the United States.  
 
+
 ## It should have been a good day  
 
 Today _should_ have been a good day: for Biden &amp; Harris the last ceremonial step of
@@ -25,6 +26,7 @@ The last time the Capitol was breached was in 1814, when the British burned part
 The British at least had the excuse of being actually _at war_ with the United States in
 the War of 1812.  Now, apparently, the extremists in the Republican party are similarly at
 war with the United States.  
+
 
 ## Instead, insurrection  
 
@@ -124,9 +126,11 @@ are enabling the worst of them.  You are complicit.  Please don't do that.
 <img src="{{ site.baseurl
 }}/images/2021-01-06-dems-win-repubs-insurrection-ap-dems-win-georgia.jpg" width="400" height="409" alt="AP: Warnock &amp; Ossof win Georgia" title="AP: Warnock &amp; Ossof win Georgia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Still&hellip; the AP has officially called the Georgia run-offs for the Senate in favor of
-Warnock and Ossof. <sup id="fn8a">[[8]](#fn8)</sup> The Democrats will control the Senate
-as soon as they can be sworn in, presumably tomorrow.  With control of the House and the
-Presidency, this means the adults will soon be back in charge.  
+Warnock and Ossof. <sup id="fn8a">[[8]](#fn8)</sup> (Though as of this writing, Loeffler
+has not conceded and is promising the endless legal challenges she apparently learned from
+Trump.)  The Democrats will likely control the Senate as soon as they can be sworn in, presumably
+tomorrow.  With control of the House and the Presidency, this means the adults will soon
+be back in charge.  
 
 On the other hand, as the inimitable PZ Myers put it earlier today
 <sup id="fn9a">[[9]](#fn9)</sup>, these were shamefully close races.  Almost 50% of
