@@ -142,7 +142,7 @@ aligned with Republicans.  Perhaps there will be quite an influx of public spend
 West Virginia.  The good side of me wants to say they're a poor state and probably need
 it.  The angry side of me wants to say it's just another blue dog in the manger.  
 
-It _should_ have been a good day.  It was not.  
+Today _should_ have been a good day.  It was not.  
 
 ---
 
