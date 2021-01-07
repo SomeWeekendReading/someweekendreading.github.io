@@ -75,7 +75,7 @@ Congress.  Apparently the Capitol Police were completely overwhelmed.
 
 Disturbingly, there is evidence that their plan was to take members of Congress hostage,
 hold "show trials", and murder them.  This is not a protest; it is a relatively poorly
-executed coup.  
+executed coup attempt.  
 
 Most infuriating has been the relatively lackluster response from the Capitol Police.
 Several commentators have compared this with the Black Lives Matter protests: police were
