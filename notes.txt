@@ -285,6 +285,7 @@ Blog posts:
   https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/
   "using a model effectively is harder than just doing the math"
   "But people turn out to be really, really complicated. And even seven months later, that’s a lesson we’re still struggling to learn."
+* Conformal mapping, heat tranfer, and wind chill: why is it so damn cold out there?
 * RISC-V vs ARM: what's that all about?
 * Pikuach nefesh ("saving a life") overrides all other law https://en.wikipedia.org/wiki/Pikuach_nefesh
 * Click chemotherapy (in the pipeline: https://blogs.sciencemag.org/pipeline/archives/2020/10/28/click-chemotherapy)
@@ -305,7 +306,6 @@ Blog posts:
 * Are corporate bonds like treasuries + stock?  (Specific stock or total market?  Best diversifier?)
 * Continued fraction expansion of probability distributions
 * Rational polynomial models of the treasury yield curve
-* Conformal mapping, heat tranfer, and wind chill: why is it so damn cold out there?
 * The Numen and the Noumenon (Gnosis and Phronesis?)
 * Sutor, non ultra crepidam!
 * Meyers-Briggs Type Inventory: Valid Personality Test, or HR Woo?
@@ -358,9 +358,12 @@ https://talkingpointsmemo.com/edblog/will-you-take-the-pledge
 >
 >Nothing good can come of the confrontation between good faith and bad faith engagement. In the future we may return to a civic space where a degree of good faith engagement can allow those of differing outlooks and ideologies to collaborate and compromise on consensus solutions. But we are not there now. We are not really there on the substance: we’re that divided. And we’re certainly not there on the good faith. Indeed, pursuing good faith engagement with bad faith actors only enables and fuels this corrosive, anti-civic behavior. The answer is for Democrats to use the political power they gain to make as much positive change as possible, using everything legitimate lever at their disposal. Getting sucked into Republican mind games is time wasting and destructive.
 
-Seditious conspiracy: two or more people conspiring to do one or more of the following:
-Overthrow, put down or to destroy the government by force.
-Levy war against the U.S.
-Oppose governmental authority using force.
-Prevent, hinder or delay the execution of any U.S. laws.
-Seize, take, or possess any property of the United States.
+Seditious conspiracy is when two or more people in a place under US authority conspire to
+do one or more of the following:
+1. Overthrow, put down or to destroy the government by force
+2. Levy war against the US
+3. Oppose governmental authority using force
+4. Prevent, hinder or delay the execution of any US laws
+5. Seize, take, or possess any property of the US
+
+
