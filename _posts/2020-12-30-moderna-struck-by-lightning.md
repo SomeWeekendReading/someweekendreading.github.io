@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serious adverse event frequency&colon; about like getting struck by lightning?
-tags: COVID MathInTheNews PharmaAndBiotech Politics
+tags: COVID MathInTheNews PharmaAndBiotech Politics ϜΤΦ
 comments: true
 ---
 
