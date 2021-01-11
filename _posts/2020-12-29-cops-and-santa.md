@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Santa and the cops
-tags: CatBlogging DigammaTauPhi TheDivineMadness
+tags: CatBlogging TheDivineMadness ϜΤΦ
 comments: true
 ---
 

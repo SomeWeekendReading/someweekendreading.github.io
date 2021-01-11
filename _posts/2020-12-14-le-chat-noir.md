@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My cat is a fin-de-si&egrave;cle French night club cat?!
-tags: CatBlogging DigammaTauPhi TheDivineMadness
+tags: CatBlogging TheDivineMadness ϜΤΦ
 comments: true
 ---
 
