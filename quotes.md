@@ -454,6 +454,9 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "I hang onto my prejudices, they are the testicles of my mind." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Before the Sabbath_], p. 79, 1979.  
 
+"If you want a happy ending, that depends, of course, on where you stop your story." &mdash; [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles)  
+
+
 ## Those of Rational &amp; Scientific Bent
 
 "Science says the first word on everything, and the last word on nothing." 
