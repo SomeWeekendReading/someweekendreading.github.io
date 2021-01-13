@@ -88,7 +88,7 @@ lightning after getting Moderna injection" _invites_ people to draw the most stu
 conclusion possible, that the Moderna vaccine attracts lightning strikes.  
 
 Must be the ground strap for that microchip Bill Gates is putting in all of us via the
-vaccines, right?. <sup id="fn4a">[[4]](#fn4)</sup>
+vaccines, right? <sup id="fn4a">[[4]](#fn4)</sup>
 
 ---
 
