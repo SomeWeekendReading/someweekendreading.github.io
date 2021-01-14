@@ -456,6 +456,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "If you want a happy ending, that depends, of course, on where you stop your story." &mdash; [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles)  
 
+"你永远无法叫醒一个装睡的人，除非那个装睡的人自己决定醒来." (You can never wake up a person who is pretending to be asleep, unless that person decides to wake up.) &mdash; 周濂 (Zhou Lian), Chinese philosopher, in an article called "你永远无法叫醒一个装睡的人" (You can never wake up a person who is pretending to be asleep).  
+
 
 ## Those of Rational &amp; Scientific Bent
 
