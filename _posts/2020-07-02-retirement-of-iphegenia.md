@@ -32,7 +32,7 @@ have a plethora of satisfying, productive activities instead of the mad scramble
 employment -- what [Wikipedia's "Otium" entry](https://en.wikipedia.org/wiki/Otium "Otium")
 describes as "otium negotiosum".  
 
-It may be that this blog will be a mad scramble of its own; it may be that it will be a satisfying, productive activity.  (["It may be that the gulfs shall wash us down... It may be we shall touch the Happy Isles"](https://www.poetryfoundation.org/poems/45392/ulysses%20Tennyson's%20_Ulysses_), as go the words Tennyson put in Ulysses' mouth upon his "retirement".)  
+It may be that this blog will be a mad scramble of its own; it may be that it will be a satisfying, productive activity.  (["It may be that the gulfs shall wash us down: It may be we shall touch the Happy Isles"](https://www.poetryfoundation.org/poems/45392/ulysses%20Tennyson's%20_Ulysses_), as go the words Tennyson put in Ulysses' mouth upon his "retirement".)  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/84vhdgqdubA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 There are, of course, other options, as one of my wonderful French colleagues pointed out

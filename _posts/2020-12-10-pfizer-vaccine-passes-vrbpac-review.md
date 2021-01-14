@@ -115,7 +115,7 @@ fetal cells (wildly false-to-fact), or bizarre assertions that the clinical tria
 only whites (it was carefully designed to have multiple ethnic groups and both genders
 adequately represented: 26% Latino, 10% Black).  
 
-Why do we have to be so crazy?  Given we have to be so crazy, why do we have to be so
+Why do we have to be so crazy?  Given we have to be so crazy, why do we also have to be so
 _damn stupid?!_  
 
 ## Conclusion: today is a good day  

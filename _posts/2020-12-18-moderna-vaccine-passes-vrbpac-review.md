@@ -5,7 +5,7 @@ tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
 
-Yesterday was _also_ a good day: the FDA's external advisory committe passed the
+Yesterday was _also_ a good day: the FDA's external advisory committee passed the
 Moderna COVID-19 vaccine at 5:20pm EST on 2020-Dec-17.  Late today, the FDA agreed and
 granted the Emergency Use Authorization.  
 
@@ -42,7 +42,7 @@ the age range downward to 16-17 year olds, as with Pfizer.
 ## VRBPAC committee meeting  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/94OMGzrQzvQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-The question from the FDA before the committe was:  
+The question from the FDA before the committee was:  
 - _Based on the totality of scientific evidence available, do the benefits of the Moderna
   Covid-19 vaccine outweigh its risks for use in individuals 18 years of age and older?_  
 - __NB:__ The crucial differences with respect to Pfizer are that this is the _only_
@@ -91,7 +91,7 @@ are.
 
 Some of the data presented showed the Moderna vaccine was more reactogenic (showing strong
 immune response, which is desirable, but also showing side effects like fever and soreness
-in the very short term).  Indeed, 16% of pateints in the treatment arm showed Grade 3 side
+in the very short term).  Indeed, 16% of patients in the treatment arm showed Grade 3 side
 effects (really annoying, likely to put you in bed, but not in the hospital).  
 
 In particular, there were a couple cases of Bell's palsy, which is a temporary and partial
@@ -118,7 +118,7 @@ Nobody knows the answers to these questions:
 Dunno.  But, as we start measuring both viral mRNA levels and antibody levels in
 vaccinated participants, that will help.  Asymptomatic carriers will be positive on the
 PCR test; sequencing any viral RNA found will tell us about mutations; and antibody levels
-especially in those who got COVID anyway will tell us about vaccine response.  
+(especially in those who got COVID anyway) will tell us about vaccine response.  
 
 But not yet.  
 

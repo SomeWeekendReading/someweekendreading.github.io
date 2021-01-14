@@ -142,8 +142,8 @@ However, the data are now pretty weird.  Kirka's article <sup>[[10]](#fn10)</sup
 quotes David Salisbury, an associate fellow of the global health program at 
 [Chatham House](https://www.chathamhouse.org/):  
 >"You've taken two studies for which different doses were used and come up with a
->composite that doesn't represent either of the doses,″ he said of the figure. "I think
->many people are having trouble with that.″  
+>composite that doesn't represent either of the doses," he said of the figure. "I think
+>many people are having trouble with that."  
 
 Indeed!  
 
