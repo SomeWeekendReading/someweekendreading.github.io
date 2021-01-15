@@ -55,10 +55,18 @@ given the instruments of the day.  Each frequency band listened for 10 seconds, 
 for 2 seconds, and then printed out a single character describing the average power (minus
 baseline) for that 10 second interval, divided by the standard deviation.  (It was blind
 during the 2 second compute interval.)  The value reported is the dimensionless ratio of
-background-subtracted intensity to standard deviation (noise, basically).  That's printed
-out as a single alphanumeric character in [0-9A-Z], basically a single digit base 36.
-"6EQUJ5" is the series of observations at 12-second intervals of that signal-to-noise
-ratio.  The "U" is about 30&sigma; above noise.  
+background-subtracted intensity to standard deviation (noise, basically).  It frustrtes me
+that no quickly-available source would write the equation, but I'm guessing it was
+combining the signal from horns 1 and 2 in some way like:  
+$$
+\mathrm{Signal} = \frac{|\mu_1 - \mu_2|}{\sqrt{\sigma_1^2 + \sigma_2^2}}
+$$
+
+That's printed out as a single alphanumeric character in [0-9A-Z], basically a single
+digit base 36.  "6EQUJ5" is the series of observations at 12-second intervals of that
+signal-to-noise ratio.  E.g., a "5" means the mean difference in average power between the
+2 horns was about 5 times the combined noise in both horns.  The "U" is about 30&sigma;
+above noise.  
 
 It fits a Gaussian versus time; as expected given the rotation of the earth taking
 the dish away from the source, it peaked right in the middle of the 72 second window of
