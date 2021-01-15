@@ -95,7 +95,8 @@ Little nits like this are how you know the data is _real_, sadly enough.
 
 ## Analysis  
 
-If we combine both houses, we can make a contingency table of party x infection status
+If we combine both houses, we can make a 
+[contingency table](https://en.wikipedia.org/wiki/Contingency_table) of party by infection status
 (using [R](https://www.r-project.org/), as is the custom of my tribe):  
 
 ```R
