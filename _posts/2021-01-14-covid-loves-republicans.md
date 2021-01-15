@@ -193,7 +193,7 @@ $$
   have COVID-19 than either Democratic politicians, or Americans in general.  
 - The legend gives for each group's probability of infection: the median (best single
   point estimate) and the 95% confidence limit.  Note that the 95% confidence limits of
-  the 2 parties don't even overlap; Republicans are _definitely_ more infected.  
+  the 2 parties don't even overlap: Republican legislators are _definitely_ more infected.  
 
 In fact, there is only _a couple chances in a billion_ that the Republican infection rate
 is actually comparable to or lower than the national average of 6.5%:  
