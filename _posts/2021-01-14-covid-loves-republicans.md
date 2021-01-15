@@ -129,7 +129,7 @@ odds ratio
 Another way to test this is using a [test of proportion](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/prop.test). It
 tests just what we want to know: whether getting infections are more likely among
 Republicans than Democrats (i.e., the null hypothesis is that they're the same). 
-Here again, a tiny _p_-value of $p \sim 2 \times 10^{-4}$ tells us the effect is real:  
+Here again, a tiny $p \sim 2 \times 10^{-4}$ tells us the effect is real:  
 
 ```R
 > prop.test(mx)
@@ -146,6 +146,21 @@ sample estimates:
    prop 1    prop 2 
 0.8333333 0.9379562 
 ```
+
+Finally, Keefe's article notes that the background against which this should be compared
+is the national average of the COVID-19 infection rate, estimated at 6.5%.  The infection
+rates in each party can be calculated pretty straightforwardly:  
+```R
+> transform(mx, Prop = round(100.0 * Infected / (Healthy + Infected), digits = 1))
+```
+```
+            Healthy Infected Prop
+Republicans     220       44 16.7
+Democrats       257       17  6.2
+```
+
+So the Democrats are infected at a rate of about 6.2%, well in line with the national
+average of 6.5%.  But the Republicans clock in at 16.7%, which is just disease-ridden!  
 
 ... TBD: Bayesian posterior Beta compared to 6.5% national average
 
