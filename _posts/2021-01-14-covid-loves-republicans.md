@@ -190,7 +190,7 @@ $$
 > withPNG("../images/2021-01-14-covid-loves-republicans-infection-rates.png", 600, 300, FALSE, function() { withPars(function() { matplot(ps, matrix(c(repubs, dems), byrow = FALSE, ncol = 2), type = "l", lty = "solid", col = c("red", "blue"), xlab = "p", ylab = "Density", main = "Beta Posteriors: Infection Probability"); abline(v = 0.065, lty = "dashed", col = "black"); legend("topright", inset = 0.01, bg = "antiquewhite", legend = c("Republicans", "Democrats", "National Avg"), col = c("red", "blue", "black"), lty = c("solid", "solid", "dashed"), lwd = 2) }, pty = "m", bg = "transparent", ps = 16, mar = c(3, 3, 2, 1), mgp = c(1.7, 0.5, 0)) })
 ```
 
-<a href="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" target="_blank"><img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" height="150" width="300" alt="Beta posteriors: infection probabilities of Republicans vs Democrats" title="Beta posteriors: infection probabilities of Republicans vs Democrats" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" target="_blank"><img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" width="400" height="200" alt="Beta posteriors: infection probabilities of Republicans vs Democrats" title="Beta posteriors: infection probabilities of Republicans vs Democrats" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 ... TBD: Bayesian posterior Beta's p-value for 6.5% national average
 
