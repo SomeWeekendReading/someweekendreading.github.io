@@ -215,7 +215,7 @@ them (to put it gently).
 >  
 > &mdash; [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven)
 > &amp; [Jerry Pournelle](https://en.wikipedia.org/wiki/Jerry_Pournelle),
-> [_Oath of Fealty_](https://en.wikipedia.org/wiki/Oath_of_Fealty_(novel))
+> [__Oath of Fealty__](https://en.wikipedia.org/wiki/Oath_of_Fealty_(novel))
 > (though as conservative authors, they'd be horrified at this context
 > in which I'm quoting them)  
 
