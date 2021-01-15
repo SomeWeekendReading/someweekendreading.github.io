@@ -102,10 +102,10 @@ If we combine both houses, we can make a
 ```R
 > nRepub <- 51 + 213; nRepubInfected <- 8 + 36
 > nDemo  <- 48 + 226; nDemoInfected  <- 2 + 15
-> mx <- matrix(c(nRepub - nRepubInfected, nRepubInfected, nDemo - nDemoInfected, nDemoInfected), nrow = 2, byrow = TRUE, dimnames = list(c("Republicans", "Democrats"), c("Healthy", "Infected"))); mx
-            Healthy Infected
-Republicans     220       44
-Democrats       257       17
+> mx <- matrix(c(nRepubInfected, nRepub - nRepubInfected, nDemoInfected, nDemo - nDemoInfected), nrow = 2, byrow = TRUE, dimnames = list(c("Republicans", "Democrats"), c("Infected", "Healthy"))); mx
+            Infected Healthy
+Republicans       44     220
+Democrats         17     257
 ```
 
 [Fisher's exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test) (devised,
@@ -122,10 +122,10 @@ data:  mx
 p-value = 0.0001251
 alternative hypothesis: true odds ratio is not equal to 1
 95 percent confidence interval:
- 0.1723310 0.6117566
+ 1.634637 5.802785
 sample estimates:
 odds ratio 
- 0.3313971 
+  3.017528 
 ```
 
 Another way to test this is using a [test of proportion](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/prop.test). It
@@ -141,10 +141,10 @@ data:  mx
 X-squared = 13.618, df = 1, p-value = 0.0002241
 alternative hypothesis: two.sided
 95 percent confidence interval:
- -0.16160372 -0.04764203
+ 0.04764203 0.16160372
 sample estimates:
    prop 1    prop 2 
-0.8333333 0.9379562 
+0.1666667 0.0620438 
 ```
 
 Finally, Keefe's article notes that the background against which this should be compared
@@ -152,9 +152,9 @@ is the national average of the COVID-19 infection rate, estimated at 6.5%.  The 
 rates in each party's politicians can be calculated pretty straightforwardly:  
 ```R
 > transform(mx, PctInfected = round(100.0 * Infected / (Healthy + Infected), digits = 1))
-            Healthy Infected PctInfected
-Republicans     220       44        16.7
-Democrats       257       17         6.2
+            Infected Healthy PctInfected
+Republicans       44     220        16.7
+Democrats         17     257         6.2
 ```
 
 So the Democrats are infected at a rate of about 6.2%, well in line with the national
