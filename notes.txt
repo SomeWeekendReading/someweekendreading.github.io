@@ -275,6 +275,8 @@ Notes on blogging tech.
 
 --------------------------------------------------------------------------------
 
+*** tags field on about, 404, and quotes: doesn't know to split on spaces?
+
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
