@@ -77,6 +77,7 @@ For each chamber, they report:
 | _Republicans_  |   43        ||   8          |
 | _Democrats_    |   46        ||   2          |
 
+  
 
 |  __House__   | __Healthy__ || __Infected__ |
 |:------------:|:-----------:||-------------:|
