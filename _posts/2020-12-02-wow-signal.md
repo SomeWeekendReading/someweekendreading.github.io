@@ -63,7 +63,7 @@ between horns 1 and 2 and their combined noise in some dimensionless ratio like:
 
 $$
 \begin{align*}
-  \mathrm{Signal} & = \frac{|\mu_1 - \mu_2|}{\sqrt{\sigma_1^2 + \sigma_2^2}} \\
+  \mathrm{Signal to Noise Ratio} & = \frac{|\mu_1 - \mu_2|}{\sqrt{\sigma_1^2 + \sigma_2^2}} \\
 \end{align*}
 $$
 
