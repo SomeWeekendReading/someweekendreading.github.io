@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's that stupid avatar?
-tags: About Math R SomebodyAskedMe ϜΤΦ
+tags: About Math R SomebodyAskedMe &Gammad;&Tau;&Phi;
 comments: true
 ---
 
