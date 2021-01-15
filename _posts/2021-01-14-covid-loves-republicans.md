@@ -9,7 +9,7 @@ Suppose you had 2 groups of politicians, but one of them thought a pandemic was 
 news", refused to wear masks, congregated indoors with no social distancing, blocked
 public health spending, _mocked_ public health guidance, was _proud_ of their ignorance, and
 were just in general jerks about the subject.  Do you think they'd get infected with the disease
-more often?  
+more often than their opponents?  
 
 Well, I would certainly _think_ so!  But is there any _data_ to guide us in that opinion?  
 
