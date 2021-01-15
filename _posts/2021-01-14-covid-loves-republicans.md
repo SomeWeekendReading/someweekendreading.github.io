@@ -40,7 +40,7 @@ anecdotes are terrifying:
 >  
 >"Epidemiologists who know how to steer this plane are pounding on the cockpit door begging him to please listen, please follow the evidence," Feigl-Ding said. "It’s a living nightmare."  
 
-Yup.  Checks out.  
+Living nightmare?  Yup.  Checks out.  
 
 <img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-usa-today-2.jpg" width="400" height="256" alt="USA Today: COVID transmission @ 2020-Sep-26 Rose Garden ceremony for now-Justice Barrett" title="USA Today: COVID transmission @ 2020-Sep-26 Rose Garden ceremony for now-Justice Barrett" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 And it's not hard to see why epidemiologists feel this way.  Consider this photo of the
@@ -201,7 +201,7 @@ is actually comparable to or lower than the national average of 6.5%:
 
 ## What should we make of that?  
 
-So&hellip; yeah, COVID-19 _loves_ Republican politicians.  You, however, should not love
+Yeah&hellip; COVID-19 _loves_ Republican politicians.  You, however, should _not_ love
 them, to put it gently.  
 
 > "Think of it as evolution in action."
