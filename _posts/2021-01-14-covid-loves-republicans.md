@@ -52,7 +52,7 @@ the Republican brand, gradually since Reagan: brutal, stupid, and proud.
 
 ## Got any better data?  
 
-<img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-usa-nyt.jpg" width="400" height="301" alt="NYT: COVID hits congressional Republicans harder" title="NYT: COVID hits congressional Republicans harder" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-nyt.jpg" width="400" height="301" alt="NYT: COVID hits congressional Republicans harder" title="NYT: COVID hits congressional Republicans harder" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As it turns out, the _New York Times_ just published an article by 
 John Keefe <sup id="fn2a">[[2]](#fn2)</sup> which provides us with some better data, at
 least sampling-wise.  They looked at Congress, so that's 535 data points, and they got all
@@ -63,8 +63,7 @@ The nice thing here is that the defined their sample population _before_ analyzi
 data (as opposed to the _USA Today_ which just took partial data and pretended it was
 complete or a random sample).  
 
-<img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-usa-nyt-2.jpg"
-width="400" height="217" alt="NYT: COVID infections in Congress" title="NYT: COVID infections in Congress" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-nyt-2.jpg" width="400" height="217" alt="NYT: COVID infections in Congress" title="NYT: COVID infections in Congress" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 So&hellip; whadda we got here?  
 
 For each chamber, they report:  
