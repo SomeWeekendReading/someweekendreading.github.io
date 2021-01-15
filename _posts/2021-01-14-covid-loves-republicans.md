@@ -174,6 +174,7 @@ _really_ greater than 6.5% of all Americans.
 For that, we do our usual Bayesian analysis: start with the prior that the probabilty
 of being infected is uniformly distributed, and after observing $K$ infections out of $N$
 polititians, we have a posterior Beta distribution:  
+
 $$
 \begin{align*}
  \Pr(p)        & \sim \mathrm{Uniform}(0, 1) \\
@@ -181,7 +182,17 @@ $$
 \end{align*}
 $$
 
-... TBD: Bayesian posterior Beta's plotted compared to 6.5% national average
+```R
+> source("~/Documents/laboratory/tools/graphics-tools.r")
+> ps <- seq(from = 0, to = 1, length.out = 1000)
+> repubs <- dbeta(ps, shape1 = nRepubInfected + 1, shape2 = nRepub - nRepubInfected + 1)
+> dems   <- dbeta(ps, shape1 = nDemoInfected  + 1, shape2 = nDemo  - nDemoInfected  + 1)
+> withPNG("../images/2021-01-14-covid-loves-republicans-infection-rates.png", 600, 300, FALSE, function() { withPars(function() { matplot(ps, matrix(c(repubs, dems), byrow = FALSE, ncol = 2), type = "l", lty = "solid", col = c("red", "blue"), xlab = "p", ylab = "Density", main = "Beta Posteriors: Infection Probability"); abline(v = 0.065, lty = "dashed", col = "black"); legend("topright", inset = 0.01, bg = "antiquewhite", legend = c("Republicans", "Democrats", "National Avg"), col = c("red", "blue", "black"), lty = c("solid", "solid", "dashed"), lwd = 2) }, pty = "m", bg = "transparent", ps = 16, mar = c(3, 3, 2, 1), mgp = c(1.7, 0.5, 0)) })
+```
+
+<a href="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" target="_blank"><img src="{{ site.baseurl }}/2021-01-14-covid-loves-republicans-infection-rates.png" height="150" width="300" alt="Beta posteriors: infection probabilities of Republicans vs Democrats" title="Beta posteriors: infection probabilities of Republicans vs Democrats" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
+... TBD: Bayesian posterior Beta's p-value for 6.5% national average
 
 ## What should we make of that?  
 
@@ -199,3 +210,6 @@ $$
 <a id="fn1">1</a>: D Pulver, C Procell, and J Zaccarina, ["Republicans are hit the hardest as coronavirus spreads among elected leaders"](https://www.usatoday.com/in-depth/news/2020/12/03/coronavirus-hits-republican-elected-officials-hardest/6413673002/), _USA Today_, 2020-Dec-08. [↩](#fn1a)  
 
 <a id="fn2">2</a>: J Keefe, ["Which Members of Congress Have Tested Positive for the Coronavirus"](https://www.nytimes.com/interactive/2021/01/13/us/congressional-members-with-coronavirus.html), _New York Times_, 2021-Jan-14. [↩](#fn2a)  
+
+
+
