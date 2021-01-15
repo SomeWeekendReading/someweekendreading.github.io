@@ -11,7 +11,7 @@ public health spending, _mocking_ public health guidance, _proud_ of their ignor
 were general jerks about the subject.  Do you think they'd get infected with a disease
 more often?  
 
-Well, _I_ would certainly think so!  But is there any data to guide us in that opinion?  
+Well, I would certainly _think_ so!  But is there any _data_ to guide us in that opinion?  
 
 
 ## Some initial hints  
@@ -51,7 +51,7 @@ not wearing masks, and circled those later testing positive for COVID-19.
 I mean, _look_ at these fools!  Almost no masks.  Almost no social distancing.  Madly
 spreading the virus betwixt each other, placing their own lives in danger as well as the
 lives of their families.  It's just _brutally_ stupid, and they're _proud_ of it.  That's
-the Republican brand, gradually since Reagan: brutal, stupid, and proud.  
+the Republican brand, gradually since Reagan: brutal, stupid, and proud of it.  
 
 
 ## Got any better data?  
@@ -86,7 +86,7 @@ For each chamber, they report:
 There are a couple anomalies here:  
 - The total number of Senators tracked here is 99, instead of 100.  
 - The total number of Representatives tracked here is 439, instead of 435.  The _NYT_
-  article mentions that totals "include five delegats and one resident commissioner".
+  article mentions that totals "include five delegates and one resident commissioner".
   That's 6 extras, whereas we have only 4 extras, so the explanation isn't exact.  But it
   acknowledges that we shouldn't hit _exactly_ 435.  
   
@@ -100,10 +100,8 @@ If we combine both houses, we can make a contingency table of party x infection 
 
 ```R
 > nRepub <- 51 + 213; nRepubInfected <- 8 + 36
-> nDemo  <- 48 + 226; nDemoInfected <- 2 + 15
+> nDemo  <- 48 + 226; nDemoInfected  <- 2 + 15
 > mx <- matrix(c(nRepub - nRepubInfected, nRepubInfected, nDemo - nDemoInfected, nDemoInfected), nrow = 2, byrow = TRUE, dimnames = list(c("Republicans", "Democrats"), c("Healthy", "Infected"))); mx
-```
-```
             Healthy Infected
 Republicans     220       44
 Democrats       257       17
@@ -117,8 +115,6 @@ _p_-value means there's very little chance the differences are random, and that 
 is real.  Here $p \sim 10^{-4}$, so it's significant:  
 ```R
 > fisher.test(mx)
-```
-```
 	Fisher's Exact Test for Count Data
 
 data:  mx
@@ -138,8 +134,6 @@ Here again, a tiny $p \sim 2 \times 10^{-4}$ tells us the effect is real:
 
 ```R
 > prop.test(mx)
-```
-```
 	2-sample test for equality of proportions with continuity correction
 
 data:  mx
@@ -157,17 +151,15 @@ is the national average of the COVID-19 infection rate, estimated at 6.5%.  The 
 rates in each party can be calculated pretty straightforwardly:  
 ```R
 > transform(mx, Prop = round(100.0 * Infected / (Healthy + Infected), digits = 1))
-```
-```
             Healthy Infected Prop
 Republicans     220       44 16.7
 Democrats       257       17  6.2
 ```
 
 So the Democrats are infected at a rate of about 6.2%, well in line with the national
-average of 6.5%.  But the Republicans clock in at 16.7%, which is just disease-ridden!  
+average of 6.5%.  But the Republicans clock in at 16.7%, which is just _disease-ridden!_  
 
-But we might argue that the samples aren't large enough to be certain of those
+Now we might argue that the samples aren't large enough to be certain of those
 proportions, and we should get some uncertainty measures to see if 16.7% of Republicans is
 _really_ greater than 6.5% of all Americans.  
 
@@ -191,12 +183,31 @@ $$
 ```
 
 <a href="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" target="_blank"><img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" width="400" height="200" alt="Beta posteriors: infection probabilities of Republicans vs Democrats" title="Beta posteriors: infection probabilities of Republicans vs Democrats" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- The vertical black dashed line is the estimated infection rate on a national average in
+  the US, of 6.5%.  
+- The blue curve shows the Beta posterior distribution of the probability of Democrats
+  being infected; obviously it peaks right around the national average.  
+- The red curve shows the same thing for Republicans: they're clearly _far_ more likely to
+  have COVID-19 than either Democrats, or Americans in general.  
 
-... TBD: Bayesian posterior Beta's p-value for 6.5% national average
+In fact, there is only _a couple chances in a billion_ that the Republican infection rate
+is actually comparable to or lower than the national average of 6.5%:  
+
+```R
+> pbeta(0.065, shape1 = nRepubInfected + 1, shape2 = nRepub - nRepubInfected + 1)
+[1] 3.793686e-09
+```
 
 ## What should we make of that?  
 
-... TBD
+So&hellip; yeah, COVID-19 _loves_ Republican politicians.  You, however, should not love
+them, to put it gently.  
+
+> "Think of it as evolution in action."
+> &mdash; [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven)
+> &amp; [Jerry Pournelle](https://en.wikipedia.org/wiki/Jerry_Pournelle),
+> [_Oath of Fealty_](https://en.wikipedia.org/wiki/Oath_of_Fealty_(novel))
+> (Though as conservative authors, they'd be horrified at this quotation's context)
 
 ---
 
