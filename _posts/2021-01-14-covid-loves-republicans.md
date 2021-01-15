@@ -185,10 +185,10 @@ $$
 <a href="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" target="_blank"><img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" width="400" height="200" alt="Beta posteriors: infection probabilities of Republicans vs Democrats" title="Beta posteriors: infection probabilities of Republicans vs Democrats" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 - The vertical black dashed line is the estimated infection rate on a national average in
   the US, of 6.5%.  
-- The blue curve shows the Beta posterior distribution of the probability of Democrats
+- The blue curve shows the Beta posterior distribution of the probability of Democratic politicians
   being infected; obviously it peaks right around the national average.  
-- The red curve shows the same thing for Republicans: they're clearly _far_ more likely to
-  have COVID-19 than either Democrats, or Americans in general.  
+- The red curve shows the same thing for Republican politicians: they're clearly _far_ more likely to
+  have COVID-19 than either Democratic politicians, or Americans in general.  
 
 In fact, there is only _a couple chances in a billion_ that the Republican infection rate
 is actually comparable to or lower than the national average of 6.5%:  
