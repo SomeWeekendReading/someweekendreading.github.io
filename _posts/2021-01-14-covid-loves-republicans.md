@@ -204,7 +204,8 @@ is actually comparable to or lower than the national average of 6.5%:
 Yeah&hellip; COVID-19 _loves_ Republican politicians.  You, however, should _not_ love
 them (to put it gently).  
 
-> "Think of it as evolution in action."
+> "Think of it as evolution in action."  
+>  
 > &mdash; [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven)
 > &amp; [Jerry Pournelle](https://en.wikipedia.org/wiki/Jerry_Pournelle),
 > [_Oath of Fealty_](https://en.wikipedia.org/wiki/Oath_of_Fealty_(novel))
