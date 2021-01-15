@@ -202,7 +202,7 @@ is actually comparable to or lower than the national average of 6.5%:
 ## What should we make of that?  
 
 Yeah&hellip; COVID-19 _loves_ Republican politicians.  You, however, should _not_ love
-them, to put it gently.  
+them (to put it gently).  
 
 > "Think of it as evolution in action."
 > &mdash; [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven)
