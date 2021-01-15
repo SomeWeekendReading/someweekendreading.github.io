@@ -11,9 +11,13 @@ public health spending, _mocking_ public health guidance, _proud_ of their ignor
 were general jerks about the subject.  Do you think they'd get infected with a disease
 more often?  
 
+Well, _I_ would certainly think so!  But is there any data to guide us in that opinion?  
+
+
 ## Some initial hints  
+
 <img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-usa-today.jpg" width="400" height="369" alt="USA Today: COVID hits Republicans harder" title="USA Today: COVID hits Republicans harder" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Well, _I_ would certainly think so!  _USA Today_ ran an article last 
+_USA Today_ ran an article last 
 December <sup id="fn1a">[[1]](#fn1)</sup> making a partial case, looking at the President,
 Congress, and some haphazard sampling of state-level officials.  
 
@@ -41,7 +45,7 @@ Yup.  Checks out.
 <img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-usa-today-2.jpg" width="400" height="256" alt="USA Today: COVID transmission @ 2020-Sep-26 Rose Garden ceremony for now-Justice Barrett" title="USA Today: COVID transmission @ 2020-Sep-26 Rose Garden ceremony for now-Justice Barrett" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 And it's not hard to see why epidemiologists feel this way.  Consider this photo of the
 2020-Sep-26 Rose Garden ceremony when Trump nominated Barrett to the US Supreme Court
-(another stone in my sandal).  _USA Today_ has colorized the photo to indicate the people
+(_another_ stone in my sandal!).  _USA Today_ has colorized the photo to indicate the people
 not wearing masks, and circled those later testing positive for COVID-19.  
 
 I mean, _look_ at these fools!  Almost no masks.  Almost no social distancing.  Madly
@@ -57,7 +61,7 @@ As it turns out, the _New York Times_ just published an article by
 John Keefe <sup id="fn2a">[[2]](#fn2)</sup> which provides us with some better data, at
 least sampling-wise.  They looked at Congress, so that's 535 data points, and they got all
 of them.  (With a few nits about non-voting delegates/commissioners, because Nothing is
-Ever Simple.)
+Ever Simple.)  
 
 The nice thing here is that the defined their sample population _before_ analyzing the
 data (as opposed to the _USA Today_ which just took partial data and pretended it was
@@ -72,6 +76,7 @@ For each chamber, they report:
 |:------------:|:-----------:||-------------:|
 | _Republicans_  |   43        ||   8          |
 | _Democrats_    |   46        ||   2          |
+
 
 |  __House__   | __Healthy__ || __Infected__ |
 |:------------:|:-----------:||-------------:|
@@ -162,7 +167,21 @@ Democrats       257       17  6.2
 So the Democrats are infected at a rate of about 6.2%, well in line with the national
 average of 6.5%.  But the Republicans clock in at 16.7%, which is just disease-ridden!  
 
-... TBD: Bayesian posterior Beta compared to 6.5% national average
+But we might argue that the samples aren't large enough to be certain of those
+proportions, and we should get some uncertainty measures to see if 16.7% of Republicans is
+_really_ greater than 6.5% of all Americans.  
+
+For that, we do our usual Bayesian analysis: start with the prior that the probabilty
+of being infected is uniformly distributed, and after observing $K$ infections out of $N$
+polititians, we have a posterior Beta distribution:  
+$$
+\begin{align*}
+ \Pr(p)        & \sim \mathrm{Uniform}(0, 1) \\
+ \Pr(p | N, K) & \sim \mathrm{Beta}(K + 1, N - K + 1)
+\end{align*}
+$$
+
+... TBD: Bayesian posterior Beta's plotted compared to 6.5% national average
 
 ## What should we make of that?  
 
