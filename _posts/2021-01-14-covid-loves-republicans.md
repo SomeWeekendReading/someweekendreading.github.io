@@ -68,15 +68,15 @@ So&hellip; whadda we got here?
 
 For each chamber, they report:  
 
-|  __Senate__  | __Healthy__ | __Infected__ |
-|:------------:|:-----------:|-------------:|
-| Republicans  |   43        |   8          |
-| Democrats    |   46        |   2          |
+|  __Senate__  | __Healthy__ || __Infected__ |
+|:------------:|:-----------:||-------------:|
+| _Republicans_  |   43        ||   8          |
+| _Democrats_    |   46        ||   2          |
 
-|  __House__   | __Healthy__ | __Infected__ |
-|:------------:|:-----------:|-------------:|
-| Republicans  |   177       |   36         |
-| Democrats    |   211       |   15         |
+|  __House__   | __Healthy__ || __Infected__ |
+|:------------:|:-----------:||-------------:|
+| _Republicans_  |   177       ||   36         |
+| _Democrats_    |   211       ||   15         |
 
 There are a couple anomalies here:  
 - The total number of Senators tracked here is 99, instead of 100.  
