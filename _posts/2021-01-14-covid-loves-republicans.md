@@ -40,7 +40,7 @@ anecdotes are terrifying:
 >  
 >"Epidemiologists who know how to steer this plane are pounding on the cockpit door begging him to please listen, please follow the evidence," Feigl-Ding said. "It’s a living nightmare."  
 
-Living nightmare?  Yup.  Checks out.  
+Living nightmare?  Yep.  Checks out.  
 
 <img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-usa-today-2.jpg" width="400" height="256" alt="USA Today: COVID transmission @ 2020-Sep-26 Rose Garden ceremony for now-Justice Barrett" title="USA Today: COVID transmission @ 2020-Sep-26 Rose Garden ceremony for now-Justice Barrett" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 And it's not hard to see why epidemiologists feel this way.  Consider this photo of the
@@ -84,13 +84,13 @@ For each chamber, they report:
 | _Democrats_    |   211       ||   15         |
 
 There are a couple anomalies here:  
-- The total number of Senators tracked here is 99, instead of 100.  
+- The total number of Senators tracked here is 99, instead of 100.  Who's missing?  
 - The total number of Representatives tracked here is 439, instead of 435.  The _NYT_
-  article mentions that totals "include five delegates and one resident commissioner".
+  figure caption mentions that totals "include five delegates and one resident commissioner".
   That's 6 extras, whereas we have only 4 extras, so the explanation isn't exact.  But it
   acknowledges that we shouldn't hit _exactly_ 435.  
   
-Little nits like this are how you know the data is real, sadly enough.  
+Little nits like this are how you know the data is _real_, sadly enough.  
 
 
 ## Analysis  
@@ -148,7 +148,7 @@ sample estimates:
 
 Finally, Keefe's article notes that the background against which this should be compared
 is the national average of the COVID-19 infection rate, estimated at 6.5%.  The infection
-rates in each party can be calculated pretty straightforwardly:  
+rates in each party's politicians can be calculated pretty straightforwardly:  
 ```R
 > transform(mx, PctInfected = round(100.0 * Infected / (Healthy + Infected), digits = 1))
             Healthy Infected PctInfected
@@ -176,10 +176,12 @@ $$
 
 ```R
 > source("~/Documents/laboratory/tools/graphics-tools.r")
-> ps <- seq(from = 0, to = 1, length.out = 1000)
-> repubs <- dbeta(ps, shape1 = nRepubInfected + 1, shape2 = nRepub - nRepubInfected + 1)
-> dems   <- dbeta(ps, shape1 = nDemoInfected  + 1, shape2 = nDemo  - nDemoInfected  + 1)
-> withPNG("../images/2021-01-14-covid-loves-republicans-infection-rates.png", 600, 300, FALSE, function() { withPars(function() { matplot(ps, matrix(c(repubs, dems), byrow = FALSE, ncol = 2), type = "l", lty = "solid", col = c("red", "blue"), xlab = "p", ylab = "Density", main = "Beta Posteriors: Infection Probability"); abline(v = 0.065, lty = "dashed", col = "black"); legend("topright", inset = 0.01, bg = "antiquewhite", legend = c("Republicans", "Democrats", "National Avg"), col = c("red", "blue", "black"), lty = c("solid", "solid", "dashed"), lwd = 2) }, pty = "m", bg = "transparent", ps = 16, mar = c(3, 3, 2, 1), mgp = c(1.7, 0.5, 0)) })
+> ps      <- seq(from = 0, to = 1, length.out = 1000)
+> repubs  <- dbeta(ps, shape1 = nRepubInfected + 1, shape2 = nRepub - nRepubInfected + 1)
+> dems    <- dbeta(ps, shape1 = nDemoInfected  + 1, shape2 = nDemo  - nDemoInfected  + 1)
+> repubqs <- 100.0 * qbeta(p = c(0.025, 0.50, 0.975), shape1 = nRepubInfected + 1, shape2 = nRepub - nRepubInfected + 1)
+> demqs   <- 100.0 * qbeta(p = c(0.025, 0.50, 0.975), shape1 = nDemoInfected  + 1, shape2 = nDemo  - nDemoInfected  + 1)
+> withPNG("../images/2021-01-14-covid-loves-republicans-infection-rates.png", 600, 300, FALSE, function() { withPars(function() { matplot(ps, matrix(c(repubs, dems), byrow = FALSE, ncol = 2), type = "l", lty = "solid", col = c("red", "blue"), xlab = "Probability p of being infected", ylab = "Density", main = "Beta Posteriors: Infection Probability"); abline(v = 0.065, lty = "dashed", col = "black"); legend("topright", inset = 0.01, bg = "antiquewhite", legend = c(sprintf("Republicans: %4.1f%%  (%4.1f%% - %4.1f%%)", repubqs[[2]], repubqs[[1]], repubqs[[3]]), sprintf("Democrats:     %4.1f%% ( %4.1f%% -   %4.1f%%)", demqs[[2]], demqs[[1]], demqs[[3]]), "National Avg:   6.5%"), col = c("red", "blue", "black"), lty = c("solid", "solid", "dashed"), lwd = 2) }, pty = "m", bg = "transparent", ps = 16, mar = c(3, 3, 2, 1), mgp = c(1.7, 0.5, 0)) })
 ```
 
 <a href="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" target="_blank"><img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-infection-rates.png" width="400" height="200" alt="Beta posteriors: infection probabilities of Republicans vs Democrats" title="Beta posteriors: infection probabilities of Republicans vs Democrats" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -189,6 +191,9 @@ $$
   being infected; obviously it peaks right around the national average.  
 - The red curve shows the same thing for Republican politicians: they're clearly _far_ more likely to
   have COVID-19 than either Democratic politicians, or Americans in general.  
+- The legend gives for each group's probability of infection: the median (best single
+  point estimate) and the 95% confidence limit.  Note that the 95% confidence limits of
+  the 2 parties don't even overlap; Republicans are _definitely_ more infected.  
 
 In fact, there is only _a couple chances in a billion_ that the Republican infection rate
 is actually comparable to or lower than the national average of 6.5%:  
