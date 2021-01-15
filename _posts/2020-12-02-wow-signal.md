@@ -57,9 +57,9 @@ baseline) for that 10 second interval, divided by the standard deviation.  (It w
 during the 2 second compute interval.)  
 
 The value reported is the dimensionless ratio of background-subtracted intensity to
-standard deviation (noise, basically).  It frustrtes me that no quickly-available source
-would write the equation, but I'm guessing it was combining the signal from horns 1 and 2
-in some way like:  
+standard deviation (noise, basically).  It frustrates me that no quickly-available source
+would write the equation, but I'm guessing it was combining the mean signal from horns 1 and 2
+and their combined noise in some way like:  
 
 $$
 \begin{align*}
