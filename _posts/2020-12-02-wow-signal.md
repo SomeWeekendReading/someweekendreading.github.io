@@ -58,8 +58,11 @@ during the 2 second compute interval.)  The value reported is the dimensionless 
 background-subtracted intensity to standard deviation (noise, basically).  It frustrtes me
 that no quickly-available source would write the equation, but I'm guessing it was
 combining the signal from horns 1 and 2 in some way like:  
+
 $$
-\mathrm{Signal} = \frac{|\mu_1 - \mu_2|}{\sqrt{\sigma_1^2 + \sigma_2^2}}
+\begin{align*}
+  \mathrm{Signal} & = \frac{|\mu_1 - \mu_2|}{\sqrt{\sigma_1^2 + \sigma_2^2}} \\
+\end{align*}
 $$
 
 That's printed out as a single alphanumeric character in [0-9A-Z], basically a single
