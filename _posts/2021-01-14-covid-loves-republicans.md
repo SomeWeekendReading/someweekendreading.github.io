@@ -5,10 +5,10 @@ tags: COVID MathInTheNews Politics R
 comments: true
 ---
 
-__DRAFT__ Suppose you had 2 groups of politicians, but one of them thought a pandemic was "fake
+Suppose you had 2 groups of politicians, but one of them thought a pandemic was "fake
 news", refused to wear masks, congregated indoors with no social distancing, blocked
-public health spending, _mocking_ public health guidance, _proud_ of their ignorance, and
-were general jerks about the subject.  Do you think they'd get infected with a disease
+public health spending, _mocked_ public health guidance, was _proud_ of their ignorance, and
+were just in general jerks about the subject.  Do you think they'd get infected with the disease
 more often?  
 
 Well, I would certainly _think_ so!  But is there any _data_ to guide us in that opinion?  
@@ -150,10 +150,10 @@ Finally, Keefe's article notes that the background against which this should be 
 is the national average of the COVID-19 infection rate, estimated at 6.5%.  The infection
 rates in each party can be calculated pretty straightforwardly:  
 ```R
-> transform(mx, Prop = round(100.0 * Infected / (Healthy + Infected), digits = 1))
-            Healthy Infected Prop
-Republicans     220       44 16.7
-Democrats       257       17  6.2
+> transform(mx, PctInfected = round(100.0 * Infected / (Healthy + Infected), digits = 1))
+            Healthy Infected PctInfected
+Republicans     220       44        16.7
+Democrats       257       17         6.2
 ```
 
 So the Democrats are infected at a rate of about 6.2%, well in line with the national
@@ -198,6 +198,7 @@ is actually comparable to or lower than the national average of 6.5%:
 [1] 3.793686e-09
 ```
 
+
 ## What should we make of that?  
 
 So&hellip; yeah, COVID-19 _loves_ Republican politicians.  You, however, should not love
@@ -207,7 +208,8 @@ them, to put it gently.
 > &mdash; [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven)
 > &amp; [Jerry Pournelle](https://en.wikipedia.org/wiki/Jerry_Pournelle),
 > [_Oath of Fealty_](https://en.wikipedia.org/wiki/Oath_of_Fealty_(novel))
-> (Though as conservative authors, they'd be horrified at this quotation's context)
+> (though as conservative authors, they'd be horrified at this context
+> in which I'm quoting them)  
 
 ---
 
