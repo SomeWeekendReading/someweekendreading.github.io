@@ -91,7 +91,7 @@ There are a couple anomalies here:
   That's 6 extras, whereas we have only 4 extras, so the explanation isn't exact.  But it
   acknowledges that we shouldn't hit _exactly_ 435.  
   
-Little nits like this are how you know the data is _real_, sadly enough.  
+Little nits like this are how you know the data is _real_, sadly enough.  But offhand, it certainly _looks_ like a larger fraction of Republicans are infected.  Is it enough to be statistically significant, so we should believe it, though?  [_Calculemus!_](https://www.americanscientist.org/article/calculemus)  
 
 
 ## Analysis  
