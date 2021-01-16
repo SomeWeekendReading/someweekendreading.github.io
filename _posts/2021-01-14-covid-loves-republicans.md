@@ -63,7 +63,7 @@ least sampling-wise.  They looked at Congress, so that's 535 data points, and th
 of them.  (With a few nits about non-voting delegates/commissioners, because Nothing is
 Ever Simple.)  
 
-The nice thing here is that the defined their sample population _before_ analyzing the
+The nice thing here is that they defined their sample population _before_ analyzing the
 data (as opposed to the _USA Today_ which just took partial data and pretended it was
 complete or a random sample).  
 
@@ -84,7 +84,7 @@ For each chamber, they report:
 | _Republicans_  |   177       ||   36         |
 | _Democrats_    |   211       ||   15         |
 
-There are a couple anomalies here:  
+There are a couple of anomalies here:  
 - The total number of Senators tracked here is 99, instead of 100.  Who's missing?  
 - The total number of Representatives tracked here is 439, instead of 435.  The _NYT_
   figure caption mentions that totals "include five delegates and one resident commissioner".
@@ -203,7 +203,7 @@ $$
   point estimate) and the 95% confidence limit.  Note that the 95% confidence limits of
   the 2 parties don't even overlap: Republican legislators are _definitely_ more infected.  
 
-In fact, there is only _a couple chances in a billion_ that the Republican infection rate
+In fact, there is only _a few chances in a billion_ that the Republican infection rate
 is actually comparable to or lower than the national average of 6.5%:  
 
 ```R
