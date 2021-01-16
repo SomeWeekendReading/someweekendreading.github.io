@@ -132,7 +132,9 @@ odds ratio
 Another way to test this is using a [test of proportion](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/prop.test). It
 tests just what we want to know: whether getting infections are more likely among
 Republicans than Democrats (i.e., the null hypothesis is that they're the same). 
-Here again, a tiny $p \sim 2 \times 10^{-4}$ tells us the effect is real:  
+Here again, a tiny $p \sim 2 \times 10^{-4}$ tells us the effect is real (i.e., it is
+highly unlikely that the infected proportions of 16.7% and 6.2% could
+really be the same with the difference explained by chance alone):  
 
 ```R
 > prop.test(mx)
@@ -150,7 +152,8 @@ sample estimates:
 
 Finally, Keefe's article notes that the background against which this should be compared
 is the national average of the COVID-19 infection rate, estimated at 6.5%.  The infection
-rates in each party's politicians can be calculated pretty straightforwardly:  
+rates in each party's politicians can be calculated pretty straightforwardly (NB:
+identical to "prop 1" and "prop 2" reported in the test of proportion we just did):  
 ```R
 > transform(mx, PctInfected = round(100.0 * Infected / (Healthy + Infected), digits = 1))
             Infected Healthy PctInfected
@@ -159,15 +162,18 @@ Democrats         17     257         6.2
 ```
 
 So the Democrats are infected at a rate of about 6.2%, well in line with the national
-average of 6.5%.  But the Republicans clock in at 16.7%, which is just _disease-ridden!_  
+average of 6.5%.  But the Republicans clock in at 16.7%, which is just _disease-ridden,_
+and statistically significantly so!  
 
 Now we might argue that the samples aren't large enough to be certain of those
 proportions, and we should get some uncertainty measures to see if 16.7% of Republicans is
-_really_ greater than 6.5% of all Americans.  
+_really_ greater than 6.5% of all Americans.  (Though this is exactly what the above tests
+examine, so here we're just making convincing pictures for people who don't want to try to
+understand statistical tests.)  
 
 For that, we do our usual Bayesian analysis: start with the prior that the probabilty
 of being infected is uniformly distributed, and after observing $K$ infections out of $N$
-polititians, we have a posterior Beta distribution:  
+politicians, we have a posterior Beta distribution:  
 
 $$
 \begin{align*}
