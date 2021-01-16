@@ -48,7 +48,9 @@ the Moderna/Lonza or Pfizer/BioNTech vaccine will get you 95% efficacy, with onl
 aches and pains.  For the mathematically disinclined, we would like to point out that
 95% > 83%.  
 
-__Moral:__ When your turn comes up, _get vaccinated!_  
+## The moral of this story  
+
+When your turn comes up, _get vaccinated!_  
 
 ---
 
