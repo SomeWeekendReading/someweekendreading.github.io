@@ -215,7 +215,7 @@ is actually comparable to or lower than the national average of 6.5%:
 ## What should we make of that?  
 
 Yeah&hellip; COVID-19 _loves_ Republican politicians.  You, however, should _not_ love
-them (to put it gently).  They want policies to make you as sick as they are.  
+them (to put it gently): they want policies to make you as sick as they are.  
 
 > "Think of it as evolution in action."  
 >  
