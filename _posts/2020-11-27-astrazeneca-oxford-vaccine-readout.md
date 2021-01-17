@@ -133,7 +133,7 @@ Now the story takes a slightly darker turn, for 2 reasons:
    in manufacturing and delivery: _an accident_. 
    <sup id="fn8a">[[8]](#fn8)</sup> <sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
    Apparently, when this was discovered, AZ &amp; OX went to the regulatory authorities
-   (FDA, EMA, &hellip; and whatever the Brazilian equivalent is) and dsclosed this.  Good
+   (FDA, EMA, &hellip; and whatever the Brazilian equivalent is) and disclosed this.  Good
    for them; that's the right thing to do.  The regulatory bodies said to continue as if
    it had been designed as a 2-dose vs placebo trial, which is about as much as you can do
    to salvage the situation.  
