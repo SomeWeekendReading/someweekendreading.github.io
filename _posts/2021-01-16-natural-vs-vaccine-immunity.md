@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is 'natural' immunity any better than vaccine immunity?
+title: Is 'natural' immunity any better than vaccine immunity to COVID-19?
 tags: COVID MathInTheNews
 comments: true
 ---
