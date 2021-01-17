@@ -47,7 +47,7 @@ So, to summarize:
 - Going through the harrowing, life-threatening, hospital-breaking experience of getting COVID-19
   gets you immunity with __83% efficacy.__  
 - Going through only moderate aches &amp; pains, imposing minimal burden on the 
-  healthcare system by getting a vaccination from the Moderna/Lonza or Pfizer/BioNTech
+  healthcare system by getting a vaccination with the Moderna/Lonza or Pfizer/BioNTech
   vaccine gets you immunity with __95% efficacy.__  
 
 For the mathematically disinclined, we would like to point out that 95% &gt; 83%.  
