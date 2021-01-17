@@ -18,8 +18,9 @@ through that, you usually get immunity.  _Usually!_ Sometimes you get the revers
 _immune amnesia_.  Measles, for example, can reset your immune system so you _lose_
 immumity for a couple years to everything _except_ the measles you just had.
 <sup id="fn1a">[[1]](#fn1)</sup> That, combined with the miserably high infectivity of measles
-($R_0 \sim 12 - 18$ <sup id="fn2a">[[2]](#fn2)</sup>), emphasizes
-_how important it is to get MMR vaccinations for your kids._  
+($R_0 \sim 12 - 18$) <sup id="fn2a">[[2]](#fn2)</sup>, emphasizes
+_how important it is to get MMR vaccinations for your kids._  Or yourself, for that
+matter.  
 
 
 ## What's the efficacy of 'natural' immunity to COVID-19?  
@@ -40,7 +41,7 @@ peer review verification, the crucial result is:
 
 > Between 18 June and 24 November, scientists detected 44 potential reinfections (2
 > 'probable' and 42 'possible' reinfections) out of 6,614 participants who had tested
-> positive for antibodies. This represents an 83% rate of protection from reinfection.  
+> positive for antibodies. __This represents an 83% rate of protection from reinfection.__  
 
 So: going through the harrowing, life-threatening, hospital-breaking experience of
 COVID-19 gets you immunity which has on average 83% efficacy.  Getting a vaccination from
