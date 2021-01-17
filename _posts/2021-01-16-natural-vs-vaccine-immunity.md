@@ -67,7 +67,7 @@ When your turn comes up, _get vaccinated!_
 
 <a id="fn1">1</a>: A Hagen, ["Measles and Immune Amnesia"](https://asm.org/Articles/2019/May/Measles-and-Immune-Amnesia#:~:text=Immune%20Amnesia%3A%20How%20Your%20Immune,a%20process%20called%20immune%20amnesia.), _American Society for Microbiology_, 2019-May-18.  [↩](#fn1a)  
 
-<a id="fn2">2</a>: F Guerra, _et al._, ["The basic reproduction number (R 0) of measles: a systematic review"](https://pubmed.ncbi.nlm.nih.gov/28757186/), _Lancet Infectious Diseases_, 2017 Dec;17(12):e420-e428. DOI: 10.1016/S1473-3099(17)30307-9. Epub 2017 Jul 27.[↩](#fn2a)  
+<a id="fn2">2</a>: F Guerra, _et al._, ["The basic reproduction number (R0) of measles: a systematic review"](https://pubmed.ncbi.nlm.nih.gov/28757186/), _Lancet Infectious Diseases_, 2017 Dec;17(12):e420-e428. DOI: 10.1016/S1473-3099(17)30307-9. Epub 2017 Jul 27.[↩](#fn2a)  
 
 
 <a id="fn3">3</a>: Public Health England, ["Past COVID-19 infection provides some immunity but people may still carry and transmit virus"](https://www.gov.uk/government/news/past-covid-19-infection-provides-some-immunity-but-people-may-still-carry-and-transmit-virus), UK government press release, 2021-Jan-14.  [↩](#fn3a)  
