@@ -43,10 +43,12 @@ peer review verification, the crucial result is:
 > 'probable' and 42 'possible' reinfections) out of 6,614 participants who had tested
 > positive for antibodies. __This represents an 83% rate of protection from reinfection.__  
 
-So: going through the harrowing, life-threatening, hospital-breaking experience of
-COVID-19 gets you immunity which has on average 83% efficacy.  Getting a vaccination from
-the Moderna/Lonza or Pfizer/BioNTech vaccine will get you 95% efficacy, with only minor
-aches and pains.  
+So, to summarize:  
+- Going through the harrowing, life-threatening, hospital-breaking experience of COVID-19
+  gets you immunity which has on average __83% efficacy.__  
+- Getting a vaccination from the Moderna/Lonza or Pfizer/BioNTech vaccine will get you 
+  __95% efficacy__, with only moderate aches &amp; pains and minimal burden on the 
+  healthcare system.  
 
 For the mathematically disinclined, we would like to point out that 95% > 83%.  
 
