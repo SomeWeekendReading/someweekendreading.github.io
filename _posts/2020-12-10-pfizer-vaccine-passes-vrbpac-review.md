@@ -5,7 +5,7 @@ tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
 
-Today is a _good day:_ the FDA's external advisory committe passed the Pfizer/BioNTech COVID-19
+Today is a _good day:_ the FDA's external advisory committee passed the Pfizer/BioNTech COVID-19
 vaccine at 6:30pm EST.  
 
 ## VRBPAC committee meeting  
