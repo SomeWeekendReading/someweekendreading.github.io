@@ -7,7 +7,7 @@ comments: true
 
 Periodically, anti-vaxxers will say they prefer the 'natural' immunity acquired by
 recovering from a disease, because vaccines are 'artificial'.  Is that likely to be true
-for COVID-19?  In a word: no.  
+for COVID-19?  In a word: NO.  
 
 
 ## 'Natural' immunity isn't as great as you think it is  
