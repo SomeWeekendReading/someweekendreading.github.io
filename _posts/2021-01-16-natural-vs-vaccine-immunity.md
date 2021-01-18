@@ -31,6 +31,7 @@ disease itself.  What do we know about how this will shake out for COVID-19?
 
 <img src="{{ site.baseurl }}/images/2021-01-16-natural-vs-vaccine-immunity-UK.jpg" width="400" height="255" alt="Public Health England: 83% efficacy of 'natural' COVID-19 immunity" title="Public Health England: 83% efficacy of 'natural' COVID-19 immunity" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-01-16-natural-vs-vaccine-immunity-BMJ.jpg" width="400" height="239" alt="BMJ: 83% efficacy of 'natural' COVID-19 immunity" title="BMJ: 83% efficacy of 'natural' COVID-19 immunity" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-01-16-natural-vs-vaccine-immunity-SIREN.jpg" width="400" height="316" alt="SIREN: 83% efficacy of 'natural' COVID-19 immunity" title="SIREN: 83% efficacy of 'natural' COVID-19 immunity" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Last week, a press release from _Public Health England_ <sup id="fn3a">[[3]](#fn3)</sup>,
 an agency of the UK government, gave us the answer.  This was confirmed by reporting from
 the _British Medical Journal_, in a news report by Elisabeth Mahase 
