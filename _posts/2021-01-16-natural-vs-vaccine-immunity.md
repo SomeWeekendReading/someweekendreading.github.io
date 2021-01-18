@@ -38,7 +38,7 @@ the _British Medical Journal_, in a news report by Elisabeth Mahase
 
 They're looking at the SIREN study 
 <sup id="fn5a">[[5]](#fn5)</sup>, which looked at infection rates in healthcare workers in
-the UK.  They compared infection rates in antibody-positive subjects (presumably recovered
+the UK.  SIREN compared infection rates in antibody-positive subjects (presumably recovered
 from COVID-19) to antibody-negative subjects (presumed COVID-19 na&iuml;ve).  
 
 The general conclusion of the SIREN study, the scientific source for the reports, is:  
