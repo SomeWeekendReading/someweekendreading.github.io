@@ -42,7 +42,7 @@ They're looking at the SIREN study
 the UK.  SIREN compared infection rates in antibody-positive subjects (presumably recovered
 from COVID-19) to antibody-negative subjects (presumed COVID-19 na&iuml;ve).  
 
-The general conclusion of the SIREN study, the scientific source for the reports, is:  
+The general conclusion of the SIREN study, the scientific source for all this reporting, is:  
 
 > __Interpretation__ A prior history of SARS-CoV-2 infection was associated with an 83%
 > lower risk of infection, with median protective effect observed five months following
