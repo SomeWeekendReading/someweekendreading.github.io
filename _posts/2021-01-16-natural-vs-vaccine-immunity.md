@@ -44,8 +44,8 @@ from COVID-19) to antibody-negative subjects (presumed COVID-19 na&iuml;ve).
 
 The general conclusion of the SIREN study, the scientific source for all this reporting, is:  
 
-> __Interpretation__ A prior history of SARS-CoV-2 infection was associated with an 83%
-> lower risk of infection, with median protective effect observed five months following
+> __Interpretation__ A prior history of SARS-CoV-2 infection was associated with an __83%
+> lower risk of infection__, with median protective effect observed five months following
 > primary infection. This is the minimum likely effect as seroconversions were not
 > included.
 
