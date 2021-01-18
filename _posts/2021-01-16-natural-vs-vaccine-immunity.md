@@ -34,7 +34,9 @@ disease itself.  What do we know about how this will shake out for COVID-19?
 Last week, a press release from _Public Health England_ <sup id="fn3a">[[3]](#fn3)</sup>,
 an agency of the UK government, gave us the answer.  This was confirmed by reporting from
 the _British Medical Journal_, in a news report by Elisabeth Mahase 
-<sup id="fn4a">[[4]](#fn4)</sup>.  They're looking at the SIREN study 
+<sup id="fn4a">[[4]](#fn4)</sup>.  
+
+They're looking at the SIREN study 
 <sup id="fn5a">[[5]](#fn5)</sup>, which looked at infection rates in healthcare workers in
 the UK.  They compared infection rates in antibody-positive subjects (presumably recovered
 from COVID-19) to antibody-negative subjects (presumed COVID-19 na&iuml;ve).  
