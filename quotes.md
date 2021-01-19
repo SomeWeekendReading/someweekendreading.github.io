@@ -1109,3 +1109,7 @@ _Business Week_, 14-Nov-2003.
 - "Bayesians are enamoured of prior knowledge.  Or is it prior prejudice?  You don't know which, because it's _prior_!"  
 - "Should you find you've shot yourself in the foot, it's time to pause and reflect, not
   reload.  That's Bayes Rule!"  
+- "When you begin to see the light at the end of the tunnel&hellip; remember you're still
+  in the tunnel."  
+- "Evolution places no premium on elegance.  Biology is a carefully selected set of race
+  conditions that make no sense except for how they work together to survive."  
