@@ -73,7 +73,7 @@ and as much as 80% _if you just follow the instructions and wear them properly:_
 
 > Overall, evidence from RCTs and observational studies is informative, but not compelling
 > on its own. Both the Australian influenza RCT and the Beijing households observational
-> trial found around 80% efficacy among compliant subjects, and the one SARS household
+> trial found __around 80% efficacy among compliant subjects__, and the one SARS household
 > study of sufficient power found 70% efficacy for protecting the wearer.  
 
 Wearing a mask _properly_ means _over your nose too_.  In the words of Andrew Cuomo, if
