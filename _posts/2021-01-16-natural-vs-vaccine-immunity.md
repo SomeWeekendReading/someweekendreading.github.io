@@ -64,7 +64,7 @@ For the mathematically disinclined, we would like to point out that 95% &gt; 83%
 When your turn comes up, _get vaccinated!_  
 
 
-## Added 2021-Jan-19: Masks alone are 70% - 80% efficacy  
+## Added 2021-Jan-19: Masks _alone_, properly worn, give 70% - 80% efficacy  
 
 A review of the effect of mask-wearing on COVID-19 just published in the _Proceedings of
 the National Academy of Sciences_ <sup id="fn6a">[[6]](#fn6)</sup> rather helpfully points
