@@ -77,7 +77,7 @@ and as much as 80% _if you just follow the instructions and wear them properly:_
 > trial found __around 80% efficacy among compliant subjects__, and the one SARS household
 > study of sufficient power found 70% efficacy for protecting the wearer.  
 
-Wearing a mask _properly_ means _over your nose too_.  In the words of Andrew Cuomo, if
+Wearing a mask _properly_ means _over your nose too_.  In the words of NY Gov Andrew Cuomo, if
 you wear the mask under your nose, "That's not a mask.  That's a chin strap.  Nobody told
 you to wear a chin strap."  Don't be a dope about this.  
 
