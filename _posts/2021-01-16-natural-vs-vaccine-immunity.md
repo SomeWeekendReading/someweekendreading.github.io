@@ -66,6 +66,7 @@ When your turn comes up, _get vaccinated!_
 
 ## Added 2021-Jan-19: Masks _alone_, properly worn, give 70% - 80% efficacy  
 
+<img src="{{ site.baseurl }}/images/2021-01-16-natural-vs-vaccine-immunity-PNAS.jpg" width="400" height="185" alt="PNAS: Proper wearing of masks has prevention efficacy ~ 70% - 80%" title="PNAS: Proper wearing of masks has prevention efficacy ~ 70% - 80%" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 A review of the effect of mask-wearing on COVID-19 just published in the _Proceedings of
 the National Academy of Sciences_ <sup id="fn6a">[[6]](#fn6)</sup> rather helpfully points
 out that using face masks can get you efficacies for preventing COVID-19 of around 70%,
