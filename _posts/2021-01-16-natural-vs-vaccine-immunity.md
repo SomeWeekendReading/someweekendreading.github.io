@@ -58,9 +58,33 @@ So, to summarize:
 
 For the mathematically disinclined, we would like to point out that 95% &gt; 83%.  
 
+
 ## The moral of this story  
 
 When your turn comes up, _get vaccinated!_  
+
+
+## Added 2021-Jan-19: Masks alone are 70% - 80% efficacy  
+
+A review of the effect of mask-wearing on COVID-19 just published in the _Proceedings of
+the National Academy of Sciences_ <sup id="fn6a">[[6]](#fn6)</sup> rather helpfully points
+out that using face masks can get you efficacies for preventing COVID-19 of around 70%,
+and as much as 80% _if you just follow the instructions and wear them properly:_
+
+> Overall, evidence from RCTs and observational studies is informative, but not compelling
+> on its own. Both the Australian influenza RCT and the Beijing households observational
+> trial found around 80% efficacy among compliant subjects, and the one SARS household
+> study of sufficient power found 70% efficacy for protecting the wearer.  
+
+Wearing a mask _properly_ means _over your nose too_.  In the words of Andrew Cuomo, if
+you wear the mask under your nose, "That's not a mask.  That's a chin strap.  Nobody told
+you to wear a chin strap."  Don't be a dope about this.  
+
+You can get 80% immunity if you _wear your mask properly when out of your home_, and
+that's almost as good as the 83% immunity you get from the agonizing process of having
+COVID-19 itself.  
+
+Neither is as good as a vaccine, so _get vaccinated._  
 
 ---
 
@@ -81,3 +105,5 @@ When your turn comes up, _get vaccinated!_
 <a id="fn4">4</a>: E Mahase, ["Covid-19: Past infection provides 83% protection for five months but may not stop transmission, study finds"](https://www.bmj.com/content/372/bmj.n124), 2021-Jan-14, _BMJ_ 2021;372:n124.  DOI: https://doi.org/10.1136/bmj.n124 [↩](#fn4a)  
 
 <a id="fn5">5</a>: V Hall, _et al._, ["Do antibody positive healthcare workers have lower SARS-CoV-2 infection rates than antibody negative healthcare workers? Large multi-centre prospective cohort study (the SIREN study), England: June to November 2020"](https://www.medrxiv.org/content/10.1101/2021.01.13.21249642v1), _MedRxiv_, 2021-Jan-15. [↩](#fn5a)  
+
+<a id="fn6">6</a>: J Howard, _et al._, ["An evidence review of face masks against COVID-19"](https://www.pnas.org/content/118/4/e2014564118), _PNAS_ 2021-Jan-26, 2021 118 (4) e2014564118;  [doi: 10.1073/pnas.2014564118](https://doi.org/10.1073/pnas.2014564118)[↩](#fn6a)  
