@@ -106,4 +106,4 @@ Neither is as good as 95% immunity from the Pfizer or Moderna vaccine, so _get v
 
 <a id="fn5">5</a>: V Hall, _et al._, ["Do antibody positive healthcare workers have lower SARS-CoV-2 infection rates than antibody negative healthcare workers? Large multi-centre prospective cohort study (the SIREN study), England: June to November 2020"](https://www.medrxiv.org/content/10.1101/2021.01.13.21249642v1), _MedRxiv_, 2021-Jan-15. [↩](#fn5a)  
 
-<a id="fn6">6</a>: J Howard, _et al._, ["An evidence review of face masks against COVID-19"](https://www.pnas.org/content/118/4/e2014564118), _PNAS_ 2021-Jan-26, 2021 118 (4) e2014564118;  [doi: 10.1073/pnas.2014564118](https://doi.org/10.1073/pnas.2014564118)[↩](#fn6a)  
+<a id="fn6">6</a>: J Howard, _et al._, ["An evidence review of face masks against COVID-19"](https://www.pnas.org/content/118/4/e2014564118), _PNAS_ 2021-Jan-26, 2021 118 (4) e2014564118;  [doi: 10.1073/pnas.2014564118](https://doi.org/10.1073/pnas.2014564118) (__NB:__ This was electronically available on 2021-Jan-19, despite the publication date of 2021-Jan-26.  Here at Chez Weekend, we generally eschew time travel.) [↩](#fn6a)  
