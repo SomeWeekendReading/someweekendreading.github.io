@@ -64,7 +64,7 @@ of them.  (With a few nits about non-voting delegates/commissioners, because Not
 Ever Simple.)  
 
 The nice thing here is that they defined their sample population _before_ analyzing the
-data (as opposed to the _USA Today_ which just took partial data and pretended it was
+data (as opposed to the _USA Today_ article which just took partial data and pretended it was
 complete or a random sample).  
 
 <img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-nyt-2.jpg" width="400" height="217" alt="NYT: COVID infections in Congress" title="NYT: COVID infections in Congress" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
