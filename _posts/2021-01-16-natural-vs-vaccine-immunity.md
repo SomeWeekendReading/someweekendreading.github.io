@@ -84,7 +84,7 @@ You can get 80% immunity if you _wear your mask properly when out of your home_,
 that's almost as good as the 83% immunity you get from the agonizing process of having
 COVID-19 itself.  
 
-Neither is as good as a vaccine, so _get vaccinated._  
+Neither is as good as 95% immunity from the Pfizer or Moderna vaccine, so _get vaccinated._  
 
 ---
 
