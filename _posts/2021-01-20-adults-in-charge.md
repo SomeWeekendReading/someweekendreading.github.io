@@ -30,6 +30,9 @@ offer, respectively:
 3. how much we personally wish to remember him, and 
 4. some thoughts upon his likely legacy.  
 
+(Apologies to our readers outside the US for the bizarre American cultural references
+here.  Just trust that they're appropriate to the situation.)  
+
 In the meantime, best wishes to the prosecutors of the Southern District of New York.  
 
 ---
