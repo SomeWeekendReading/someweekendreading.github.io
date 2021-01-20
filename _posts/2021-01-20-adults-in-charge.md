@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The adults are back in charge
+title: The adults are _finally_ back in charge!
 tags: Politics
 comments: true
 ---
 
 Today was a good day: with the inauguration (and the constitutional mandate behind it) at
-12:01pm, Biden &amp; Harris and a Democratic (barely) Congress are back in charge.  
+12:01pm, Biden &amp; Harris and a Democratic (barely) Congress are back in charge in the US.  
 
 With respect to the solemnities of the afternoon's inauguration, we pass over in silence.
 May decisions be made in wisdom, kindness, and respect.  
