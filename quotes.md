@@ -898,7 +898,8 @@ understanding of natural phenomena, of love, of being profoundly moved by music 
 tragedy, or doing something new and innovative, experiences very different from the bounce
 and rosiness of happy moments. What we want, in short, is a life and a self that happiness
 is a fitting response to &mdash; and then to give it that response."
-&mdash; [Robert Nozick](https://en.wikipedia.org/wiki/Robert_Nozick), _The Examined Life_.  
+&mdash; [Robert Nozick](https://en.wikipedia.org/wiki/Robert_Nozick),
+[_The Examined Life_](https://en.wikipedia.org/wiki/The_Examined_Life).  
 
 "Always preach the gospel; use words, if necessary."
 &mdash; [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi) (though probably 
