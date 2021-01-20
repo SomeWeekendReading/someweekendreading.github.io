@@ -25,7 +25,8 @@ But with respect to the absurdities of the morning's departure of the previous&h
 person&hellip;, we have somewhat to say.  (The gracious may observe 
 [_de mortuis nil nisi bonum_](https://en.wikipedia.org/wiki/De_mortuis_nil_nisi_bonum),
 but in this particular instance, here at Chez Weekend we are less than completely
-gracious.  He has, after all, worked very hard to earn our disrespect.)  
+gracious.  He has, after all, worked very hard to earn our disrespect, and we must not
+deny him the fruits of that labor.)  
 
 May he remain far from us, with his misdeeds well and truly judged (to paraphrase
 [_The Fiddler on the Roof_](https://www.moviequotedb.com/movies/fiddler-on-the-roof/quote_39604.html)).  
@@ -39,11 +40,12 @@ occasion demanded.  Let us help him out here.  These selections offer, respectiv
 4. some thoughts upon his likely legacy.  
 
 (Apologies to our readers outside the US for the bizarre American cultural references
-here.  Just trust us that they're culturally appropriate to the situation, bizareness
-included.  While here at Chez Weekend we are not musical theatre afficionados, we feel
-that the happy absurdity is just what's required for this occasion.)  
+here.  Just trust us that they are culturally appropriate to the situation, bizareness
+included.  While here at Chez Weekend we are not usually musical theatre afficionados, we feel
+that happy absurdities are just what's required for this occasion.)  
 
-In the meantime, best wishes to the prosecutors of the Southern District of New York.  
+In the meantime, we offer our best wishes to the prosecutors of the Southern District of 
+New York.  
 
 ---
 
