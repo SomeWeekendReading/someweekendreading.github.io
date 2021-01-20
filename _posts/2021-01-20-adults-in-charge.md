@@ -25,7 +25,7 @@ But with respect to the absurdities of the morning's departure of the previous&h
 person&hellip;, we have somewhat to say.  (The gracious may observe 
 [_de mortuis nil nisi bonum_](https://en.wikipedia.org/wiki/De_mortuis_nil_nisi_bonum),
 but in this particular instance, here at Chez Weekend we are less than completely
-gracious.  He's worked hard to earn our disrespect.)  
+gracious.  He has, after all, worked very hard to earn our disrespect.)  
 
 May he remain far from us, with his misdeeds well and truly judged (to paraphrase
 [_The Fiddler on the Roof_](https://www.moviequotedb.com/movies/fiddler-on-the-roof/quote_39604.html)).  
