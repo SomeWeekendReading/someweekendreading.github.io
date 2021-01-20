@@ -33,13 +33,15 @@ May he remain far from us, with his misdeeds well and truly judged (to paraphras
 Furthermore, we have some suggestions for his travelling musical accompaniment.  The
 military send-off he demanded this morning was totally lacking in the surrealism the
 occasion demanded.  Let us help him out here.  These selections offer, respectively:  
-1. our wishes for his speedy travel elsewhere, 
+1. our wishes for his speedy travel to any destination but here, 
 2. an assessment of the community sentiment at his departure, 
 3. how much we personally wish to remember him, and 
 4. some thoughts upon his likely legacy.  
 
 (Apologies to our readers outside the US for the bizarre American cultural references
-here.  Just trust that they're appropriate to the situation, bizareness included.)  
+here.  Just trust us that they're culturally appropriate to the situation, bizareness
+included.  While here at Chez Weekend we are not musical theatre afficionados, we feel
+that the happy absurdity is just what's required for this occasion.)  
 
 In the meantime, best wishes to the prosecutors of the Southern District of New York.  
 
