@@ -12,7 +12,8 @@ Today was a good day: with the inauguration (and the constitutional mandate behi
 ## Respected solemnities  
 
 With respect to the solemnities of the afternoon's inauguration, we pass over them in
-silence, as we can add very little.  May decisions be made in wisdom, kindness, and respect.  
+silence.  We can add very little thereunto.  May decisions be made in wisdom, kindness,
+and respect.  
 
 
 ## Detested absurdities  
@@ -25,7 +26,7 @@ But with respect to the absurdities of the morning's departure of the previous&h
 person&hellip;, we have somewhat to say.  (The gracious may observe 
 [_de mortuis nil nisi bonum_](https://en.wikipedia.org/wiki/De_mortuis_nil_nisi_bonum),
 but in this particular instance, here at Chez Weekend we are less than completely
-gracious.  He has, after all, worked very hard to earn our disrespect, and we must not
+gracious.  He has, after all, worked very hard to earn our disrespect.  We must not
 deny him the fruits of that labor.)  
 
 May he remain far from us, with his misdeeds well and truly judged (to paraphrase
@@ -35,14 +36,14 @@ Furthermore, we have some suggestions for his travelling musical accompaniment. 
 military send-off he demanded this morning was totally lacking in the surrealism the
 occasion demanded.  Let us help him out here.  These selections offer, respectively:  
 1. our wishes for his speedy travel to any destination but here, 
-2. an assessment of the community sentiment at his departure, 
+2. an assessment of the community sentiment upon his departure, 
 3. how much we personally wish to remember him, and 
 4. some thoughts upon his likely legacy.  
 
-(Apologies to our readers outside the US for the bizarre American cultural references
+(_Multae apologiae_ to our readers outside the US for the bizarre American cultural references
 here.  Just trust us that they are culturally appropriate to the situation, bizareness
 included.  While here at Chez Weekend we are not usually musical theatre afficionados, we feel
-that happy absurdities are just what's required for this occasion.)  
+that happy absurdities are just what's required for this occasion of this morning's departure.)  
 
 In the meantime, we offer our best wishes to the prosecutors of the Southern District of 
 New York.  
@@ -56,4 +57,4 @@ New York.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: What are you looking down here for? [↩](#fn1a)  
+<a id="fn1">1</a>: What are you looking down here for?  
