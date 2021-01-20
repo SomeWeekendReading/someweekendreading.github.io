@@ -1082,9 +1082,8 @@ _Business Week_, 14-Nov-2003.
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
 
-- "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist and we _have_ a mutual understanding of the world to begin with&hellip;)"  
+- "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist, so we _have_ a mutual understanding of the world to begin with&hellip;)"  
 - "Freedom is the mastery of form."  
-- "There is no evolutionary premium on elegance.  Life is a kludge."  
 - "&lsquo;This sentence is true&rsquo; &ndash; why wasn't [Epimenides](https://en.wikipedia.org/wiki/Epimenides_paradox) as outraged by this as the other one?"  
 - "Serendipity is wherever you find it."  
 - "You can't plan serendipity -- give _chance_ a chance!"  
@@ -1107,9 +1106,7 @@ _Business Week_, 14-Nov-2003.
 - "Look&hellip; if I could _explain_ it, it wouldn't _be_ transcendant in the first place, now would it?"  
 - "Footnotes are your friends."  
 - "Bayesians are enamoured of prior knowledge.  Or is it prior prejudice?  You don't know which, because it's _prior_!"  
-- "Should you find you've shot yourself in the foot, it's time to pause and reflect, not
-  reload.  That's Bayes Rule!"  
-- "When you begin to see the light at the end of the tunnel&hellip; remember you're still
-  in the tunnel."  
-- "Evolution places no premium on elegance.  Biology is a carefully selected set of race
-  conditions that make no sense except for how they work together to survive."  
+- "If you find you've shot yourself in the foot, it's time to pause and reflect, not reload.  That's Bayes Rule!"  
+- "When you begin to see the light at the end of the tunnel&hellip; remember you're still in the tunnel."  
+- "There is no evolutionary premium on elegance.  Life is a kludge.  Biology is a carefully selected set of race conditions that make no sense, except how they work together for survival."  
+- "Trust is never something you can demand.  You have to earn it.  If you want to be trusted, then act trustworthily."  
