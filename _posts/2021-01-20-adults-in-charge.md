@@ -11,8 +11,8 @@ Today was a good day: with the inauguration (and the constitutional mandate behi
 
 ## Respected solemnities  
 
-With respect to the solemnities of the afternoon's inauguration, we pass over in silence.
-May decisions be made in wisdom, kindness, and respect.  
+With respect to the solemnities of the afternoon's inauguration, we pass over them in
+silence, as we can add very little.  May decisions be made in wisdom, kindness, and respect.  
 
 
 ## Detested absurdities  
