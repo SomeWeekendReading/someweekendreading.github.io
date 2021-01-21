@@ -7,7 +7,7 @@ comments: true
 
 Today was when the Electoral College was to have been certified in Congress, sealing the
 fate of the presidential election.  It is also the day the Democrats attained a majority
-in the Senate.  Alas, it is also the day Republicans endorsed insurrectionists and
+in the Senate.  Alas, it is also the day Republicans incited insurrectionists and
 terrorists against the United States government.  
 
 
