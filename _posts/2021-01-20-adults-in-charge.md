@@ -39,7 +39,7 @@ occasion demanded.
 So let us help him out a little bit here.  These video selections offer, respectively:  
 1. our wishes for his speedy travel to any destination but here, 
 2. an assessment of the community sentiment upon his departure, 
-3. how much we personally wish to remember him, and 
+3. _exactly_ how much we personally wish to remember him, and 
 4. some thoughts upon his likely legacy.  
 
 (_Multae apologiae_ to our readers outside the US for the bizarre American cultural references
