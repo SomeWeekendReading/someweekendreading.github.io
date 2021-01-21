@@ -36,7 +36,7 @@ Furthermore, we have some suggestions for his travelling musical accompaniment. 
 military send-off he demanded this morning was totally lacking in the surrealism the
 occasion demanded.  
 
-So let us help him out here.  These video selections offer, respectively:  
+So let us help him out a little bit here.  These video selections offer, respectively:  
 1. our wishes for his speedy travel to any destination but here, 
 2. an assessment of the community sentiment upon his departure, 
 3. how much we personally wish to remember him, and 
