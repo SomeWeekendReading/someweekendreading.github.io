@@ -45,7 +45,7 @@ So let us help him out a little bit here.  These video selections offer, respect
 (_Multae apologiae_ to our readers outside the US for the bizarre American cultural references
 here.  Just trust us that they are culturally appropriate to the situation, bizarreness
 included.  While here at Chez Weekend we are not usually musical theatre afficionados, we feel
-that happy absurdities are just what's required for this occasion of this morning's departure.)  
+that happy absurdities are just what's required for the occasion of this morning's departure.)  
 
 In the meantime, we offer our best wishes to the prosecutors of the Southern District of 
 New York.  
