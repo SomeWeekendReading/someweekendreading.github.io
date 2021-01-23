@@ -96,7 +96,7 @@ Probably a net win overall, but climate change may change our opinion here, as w
 
 <a id="fn3">3</a>: An eccentric but fascinating community of people attempting to become
 more rational, more deliberate, more responsive to evidence, and able to live better
-lives less in thrall to [ἀκρασία](https://en.wikipedia.org/wiki/Akrasia).  Like all such
+lives less in thrall to [_ἀκρασία_](https://en.wikipedia.org/wiki/Akrasia).  Like all such
 attempts, they have their good days and bad days.  See, e.g., the 
 [_Less Wrong_ blog community](https://www.lesswrong.com/). [↩](#fn3a)  
 

@@ -59,5 +59,5 @@ This was an example of a good design.
 
 An earlier trial of ketamine -- [NCT00088699](https://www.clinicaltrials.gov/ct2/show/NCT00088699) -- was a mediocre design: the placebo was "an inactive substance", probably saline.  So subjects could _probably_ tell the difference, if they knew what ketamine was (and anybody in a trial would probably look it up).  They tried to compensate with a crossover design, where at the second dose they swapped treatment and control arms -- so every subject got 1 treatment and 1 control dose.  But by the second dose, I bet the subjects could _definitely_ tell which was which!  
 
-This sort of thing makes research statisticians sad.  But it very defiitely _doesn't_ seem
+This sort of thing makes research statisticians sad.  But it very definitely _doesn't_ seem
 to be a pitfall with the Moderna/Lonza COVID trial.  So good on them.  

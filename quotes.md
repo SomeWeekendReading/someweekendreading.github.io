@@ -1111,3 +1111,6 @@ _Business Week_, 14-Nov-2003.
 - "When you begin to see the light at the end of the tunnel&hellip; remember you're still in the tunnel."  
 - "There is no evolutionary premium on elegance.  Life is a kludge.  Biology is a carefully selected set of race conditions that make no sense, except how they work together for survival."  
 - "Trust is never something you can demand.  You have to earn it.  If you want to be trusted, then act trustworthily."  
+- "I believe in [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).  If
+  I keep seeing examples of confirmation bias everywhere, is _that_ an example of
+  confirmation bias?"  
