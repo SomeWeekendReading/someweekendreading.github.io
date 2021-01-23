@@ -6,7 +6,7 @@ comments: true
 ---
 
 Today was a good day: with the inauguration (and the constitutional mandate behind it) at
-12:01pm, Biden &amp; Harris and a Democratic (barely) Congress are back in charge in the US.  
+12:01pm, Biden &amp; Harris and a (barely) Democratic Congress are back in charge in the US.  
 
 
 ## Respected solemnities  
@@ -23,7 +23,7 @@ and respect.
 <iframe width="373" height="210" src="https://www.youtube.com/embed/Zzu8ZxBHMWk" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <iframe width="373" height="210" src="https://www.youtube.com/embed/_TfcJ82FAhw" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 But with respect to the absurdities of the morning's departure of the previous&hellip;
-person&hellip;, we have somewhat to say.  (The gracious may observe 
+_person_&hellip;, we have somewhat to say.  (The gracious may observe 
 [_de mortuis nil nisi bonum_](https://en.wikipedia.org/wiki/De_mortuis_nil_nisi_bonum),
 but in this particular instance, here at Chez Weekend we are less than completely
 gracious.  He has, after all, worked very hard to earn our disrespect.  We must not
@@ -46,6 +46,9 @@ So let us help him out a little bit here.  These video selections offer, respect
 here.  Just trust us that they are culturally appropriate to the situation, bizarreness
 included.  While here at Chez Weekend we are not usually musical theatre afficionados, we feel
 that happy absurdities are just what's required for the occasion of this morning's departure.)  
+
+
+## Best wishes!  
 
 In the meantime, we offer our best wishes to the prosecutors of the Southern District of 
 New York.  

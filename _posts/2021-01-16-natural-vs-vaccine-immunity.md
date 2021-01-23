@@ -19,7 +19,7 @@ _immune amnesia_.  Measles, for example, can reset your immune system so you _lo
 immumity for a couple years to everything _except_ the measles you just had.
 <sup id="fn1a">[[1]](#fn1)</sup> That, combined with the miserably high infectivity of measles
 ($R_0 \sim 12 - 18$) <sup id="fn2a">[[2]](#fn2)</sup>, emphasizes
-_how important it is to get MMR vaccinations for your kids._  Or yourself, for that
+_how important it is to get MMR vaccinations for your kids._  And yourselves, for that
 matter.  
 
 
@@ -51,7 +51,7 @@ The general conclusion of the SIREN study, the scientific source for all this re
 
 So, to summarize:  
 - Going through the harrowing, life-threatening, hospital-breaking experience of getting COVID-19
-  gets you immunity with __83% efficacy.__  
+  gets you immunity with __83% efficacy.__(Probably higher, because of unmeasured seroconversion.)  
 - Going through only moderate aches &amp; pains, imposing minimal burden on the 
   healthcare system by getting a vaccination with the Moderna/Lonza or Pfizer/BioNTech
   vaccine gets you immunity with __95% efficacy.__  

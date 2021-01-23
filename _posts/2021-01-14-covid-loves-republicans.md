@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 loves Republican politicians
-tags: COVID MathInTheNews Politics R
+tags: COVID MathInTheNews Politics R Statistics
 comments: true
 ---
 
@@ -18,7 +18,7 @@ Well, I would certainly _think_ so!  But is there any _data_ to guide us in that
 
 <img src="{{ site.baseurl }}/images/2021-01-14-covid-loves-republicans-usa-today.jpg" width="400" height="369" alt="USA Today: COVID hits Republicans harder" title="USA Today: COVID hits Republicans harder" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 _USA Today_ ran an article last 
-December <sup id="fn1a">[[1]](#fn1)</sup> making a partial case, looking at the President,
+December <sup id="fn1a">[[1]](#fn1)</sup> making a partial case for this, looking at the President,
 Congress, and some haphazard sampling of state-level officials.  
 
 I didn't want to write about it, because it was clear that their statistical sampling was

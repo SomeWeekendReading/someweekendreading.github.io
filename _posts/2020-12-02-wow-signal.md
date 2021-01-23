@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proposed source of the &quot;Wow!&quot; signal?
-tags: Physics
+tags: Physics Statistics
 comments: true
 ---
 
