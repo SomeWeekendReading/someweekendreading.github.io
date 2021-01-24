@@ -14,7 +14,7 @@ the __analemma__, first told to me long ago by a marvelous former colleague, Dou
 ## Many years ago&hellip;
 
 <img src="{{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-Symbolics3640_Modified.jpg" width="203" height="400" alt="Symbolics 3640 Lisp Machine (Wikipedia)" title="Symbolics 3640 Lisp Machine (Wikipedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2020-12-12-solstice-vs-dodds-day-doug-dodds.jpg" width="200" height="200" alt="Doug Dodds (LinkedIn)" title="Doug Dodds (LinkedIn)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2020-12-21-solstice-vs-dodds-day-doug-dodds.jpg" width="200" height="200" alt="Doug Dodds (LinkedIn)" title="Doug Dodds (LinkedIn)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 
 Many years ago &ndash; where "many" may here be understood as meaning &ge; 35 years
 &ndash; I was working for a very strange company in Cambridge called
