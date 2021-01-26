@@ -327,6 +327,7 @@ Blog posts:
 * Nontransitive dice
 * Blogging infrastructure: Github, Jekyll, Staticman, Heroku, Github Pages, ... Oh, my!
 * A rebalancing chi-square test: when is my portfolio REALLY in need of rebalancing?
+* Comparison: chi-square rebalancing criterion vs 5/25 vs absolute drift vs ...
 * Eulenspieglia: the Merry Prankster Muse, or Through the Owl Mirror
 * Michel de Montaigne: The Ur-Blogger, Or: How to Freak Out French Teennagers with Your Beach Reading at Club Med
 * The smartest people in the room
@@ -341,7 +342,6 @@ Blog posts:
   in guiding field, need 3rd eqn: quantum equil hypothesis, more or less Born's rule.
   Exact same results as QM, but particle is in 1 place always.  But more non-local than
   QM: guiding field dep on ALL particles to be measured, can't make QFT.
-* chi-square rebalancing criterion vs 5/25 vs absolute drift vs ...
 * There is no speed limit: https://sivers.org/kimo
   Becoming a magician: https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/
 * ...?
