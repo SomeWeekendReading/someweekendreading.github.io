@@ -11,7 +11,7 @@ _especially_ if you actually know the answers.)
 
 <img src="{{ site.baseurl }}/images/2021-01-25-spam-weekend-publisher-uninterested.jpg" width="400" height="533" alt="Weekend Publisher: declining to be excited" title="Weekend Publisher: declining to be excited" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Today this blog received its very first spam comment: a link to someplace alleged to
-sell "non-prescription Viagra", i.e., with "illegal" in big flashing red neon
+sell "non-prescription Viagra".  I.e., with "illegal" in big flashing red neon
 letters.  On a blog run by a former drug research nerd.  I declined to explore the link
 and deleted it in moderation, thereby employing for my first time what 
 [Scalzi](https://whatever.scalzi.com) terms 
@@ -35,7 +35,7 @@ I was, however, slightly touched on two accounts:
   it's being noticed by unsavory persons whom I have firmly ejected overboard&hellip; but
   at least it's being noticed.  
 
-So now we've got probably about 6 readers (only 3 of whom are me, my spouse, and my cat).  
+So now we've probably got about 6 readers (only 3 of whom are me, my spouse, and my cat).  
 
 ---
 
