@@ -47,7 +47,7 @@ An FDA reanalysis of data submitted with a drug application is quite normal.  In
 your humble Weekend Editor was first starting out in pharma research, a more senior scientist
 explained to me that the first thing the FDA does is throw out your conclusion, the second
 is they reanalyze your data, and the third thing is they compare their conclusions with
-yours.  If there's a match, then you get a committe hearing; if not, you get a frown at
+yours.  If there's a match, then you get a committee hearing; if not, you get a frown at
 various levels of intensity, depending on how bad the screw-up is and how fast you correct
 or withdraw the application.  
 

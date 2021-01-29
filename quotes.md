@@ -235,8 +235,8 @@ they may more perfectly respect it." &mdash; [G. K. Chesterton](https://en.wikip
 "The whole modern world has divided itself into Conservatives and Progressives. The
 business of Progressives is to go on making mistakes. The business of the Conservatives is
 to prevent the mistakes from being corrected."
-&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), _Illustrated
-London News_, 1924-Apr-04.  
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), 
+[_Illustrated London News_](https://en.wikipedia.org/wiki/The_Illustrated_London_News), 1924-Apr-04.  
 
 "Tradition means giving votes to the most obscure of all classes, our ancestors. It is the
 democracy of the dead. Tradition refuses to submit to that arrogant oligarchy who merely
