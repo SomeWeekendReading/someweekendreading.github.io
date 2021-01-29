@@ -178,8 +178,8 @@ tenative pass from me.
 ## Conclusion  
 
 Overall, it's disappoinging that this vaccine is not at the 95% level we've seen before.
-But, it's better than flu vaccines that we _know_ are a good &amp; useful thing and it's
-above the 50% efficacy threshold the FDA set to stop community contagion.  
+But, it's better than flu vaccines that we _already know_ are a good &amp; useful thing and it's
+above the 50% efficacy threshold the FDA set to stop community spread.  
 
 So&hellp; not a "knockout punch" in the words of Herper at STAT News, but still pretty
 good and useful.  
