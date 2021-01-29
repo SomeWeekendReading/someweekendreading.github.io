@@ -162,10 +162,10 @@ JnJ is also doing 2-dose trial, just like Pfizer and Moderna, to see if giving a
 dose boosts the efficacy, as it does for mRNA vaccines and many others.  This trial is 30k
 pts, given 2 doses 57 days apart. The readout is expected summer or fall, depending on case rates.  
 
-(The Weekend Editrix just got her first dose of the shingles vaccine 
-[Shingrix](https://en.wikipedia.org/wiki/Zoster_vaccine#Shingrix_2) yesterday, and
-consequently feels achy today, but looks forward to the second dose.  Two-dose vaccines
-are a fine thing, and work admirably when administered properly.)  
+(The Weekend Editrix just got her first dose of 
+[the shingles vaccine Shingrix](https://en.wikipedia.org/wiki/Zoster_vaccine#Shingrix_2) 
+yesterday, and consequently feels achy today, but looks forward to the second dose.
+Two-dose vaccines are a fine thing, and work admirably when administered properly.)  
 
 As Tony Fauci said to the NYT:  
 > "If they get a prime boost, it’s entirely conceivable that they can get up to 90-plus
