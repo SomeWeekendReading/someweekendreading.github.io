@@ -30,8 +30,8 @@ scientific data (let alone peer review), but also reporting on hearsay!
 ## But when that's all you can get&hellip; you just have to grit your teeth  
 
 <img src="{{ site.baseurl }}/images/2021-01-29-jnj-vaccine-relatively-pretty-stat.jpg" width="400" height="358" alt="STAT News: JnJ vaccine not a knockout punch" title="STAT News: JnJ vaccine not a knockout punch" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-01-29-jnj-vaccine-relatively-pretty-cnbc.jpg" width="400" height="198" alt="CNBC: reasonable efficacy, but not vs viral variants" title="CNBC: reasonable efficacy, but not vs viral variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-01-29-jnj-vaccine-relatively-pretty-nyt.jpg" width="400" height="520" alt="NYT: Strong protection, concern re viral variants" title="NYT: Strong protection, concern re viral variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-01-29-jnj-vaccine-relatively-pretty-cnbc.jpg" width="400" height="198" alt="CNBC: reasonable efficacy, but not vs viral variants" title="CNBC: reasonable efficacy, but not vs viral variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Stunningly, JnJ are apparently willing to release important information like this _orally,
 without having already written up the report._ Let's just say our confidence is not
 high: normally, this sort of crap would earn a snub from us.  But&hellip; gritted teeth.
