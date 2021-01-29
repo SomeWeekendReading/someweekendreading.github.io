@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JnJ COVID-19 vaccine interim readout&colon; 57% - 72% efficacy, depending
+title: JnJ COVID-19 vaccine interim readout&colon; 57% - 72% efficacy, depending on&hellip;
 tags: COVID PharmaAndBiotech
 comments: true
 ---
