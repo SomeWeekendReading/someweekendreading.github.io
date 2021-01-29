@@ -152,7 +152,7 @@ as rural areas in the US, to help stamp out mutations.
 
 ### 2-dose follow-up trial  
 
-JnJ is also doing 2-dose trial, just like Pfizer and Moderna, to see if efficacy boosts,
+JnJ is also doing 2-dose trial, just like Pfizer and Moderna, to see if that boosts the efficacy,
 as it does for mRNA vaccines and many others.  This trial is 30k pts, given 2 doses 57
 days apart. The readout is expected summer or fall, depending on case rates.  
 
