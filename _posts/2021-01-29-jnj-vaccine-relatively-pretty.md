@@ -17,7 +17,7 @@ the world, though.
 ## We __hate__ press releases!  
 
 Here at Chez Weekend, we _absolutely hate_ corporate attempts to do science by press
-release.  So there's some grinding of teeth going on here, grudgingly reporting on the
+release.  So there's some gritting of teeth going on here, grudgingly reporting on the
 preliminary readout of JnJ's COVID-19 vaccine, by press release.  In fact, as of this
 morning, scouring some of the news venues with better science reporting yielded a number
 of articles reporting on the press release, but _never citing the press release itself!_
@@ -117,8 +117,8 @@ JnJ vaccine, though not as good as the others, nonetheless is effective at takin
 back-breaking load off hospitals.  
 
 Also, 2 important metrics for comparison are well worth keeping in mind:
-- The US FDA set a threshold of 50% efficacy for an approvable COVID-19 vaccine, and this
-  passes.  
+- The US FDA set a threshold of 50% efficacy for an approvable COVID-19 vaccine to stop
+  community contagion, and this passes that threshold.  
 - Flu vaccines, which we _know_ are a good thing in reducing both mortality and medical
   facility loading, are typically 40% - 60% effective (depending on the year and how many
   variants are circulating).  
@@ -131,12 +131,19 @@ FDA submissions!)
 
 ### Cold chain requirements  
 
-The really good news for the JnJ vaccine is its cold chain requirements:  
+<!-- Maybe make a table of this? -->
+The really good news for the JnJ vaccine is the relaxed cold chain requirements:  
 - Stable for 2yr at -20&deg;C, for 3 months at 2&deg;C - 8&deg;C.  These are ordinary
   refrigerator freezer and fridge temperatures.  
 - Moderna is stable for 6 months at -20&deg;C, for 1 month at 2&deg;C - 8&deg;C, for 12
   hours at room temperature.  
 - Pfizer is stable for 1-6 months at -70&deg;C, for 5 days at 2&deg;C - 8&deg;C.  
+
+| :Vaccine: | :-70&deg;C:  | :-20&deg;C: | :2&deg;C &ndash; 8&deg;C: | :room temp: |
+|-----------|--------------|-------------|---------------------------|-------------|
+| :Pfizer:  | :1-6 months: |             |    :5 days:               |             |
+| :Moderna: |              | :6 months:  |    :1 month:              | :12 hr:     |
+| :JnJ:     |              | :2 years:   |    :3 months:             |             |
 
 So JnJ is stable for longer times at temperatures more accessible to smaller
 institutions.  (Pfizer's stringent requirements limit it to big cities with large teaching
