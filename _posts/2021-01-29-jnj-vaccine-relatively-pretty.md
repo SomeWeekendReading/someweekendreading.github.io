@@ -96,8 +96,8 @@ So that part looks pretty good!
 
 ### JnJ vaccine interim results (not yet final)  
 
-This is a single-dose vaccine (but see below!), so efficacy was measured 28 days after the
-first dose:  
+This is a single-dose vaccine (but [see below](#2-dose-follow-up-trial)!), so efficacy 
+was measured 28 days after the first dose:  
 - The US cohort had 72% efficacy.  Not as good as the 95% for Pfizer and Moderna, but
   still very good as these things go.  
 - But&hellip; the Latin American cohort had an efficacy of 66%.  
