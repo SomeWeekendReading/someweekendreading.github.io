@@ -20,7 +20,8 @@ Here at Chez Weekend, we _absolutely hate_ corporate attempts to do science by p
 release.  So there's some gritting of teeth going on here, grudgingly reporting on the
 preliminary readout of JnJ's COVID-19 vaccine, by press release.  In fact, as of this
 morning, scouring some of the news venues with better science reporting yielded a number
-of articles reporting on the press release, but _never citing the press release itself!_
+of articles reporting on the press release, but _never citing the press release itself!_  
+
 Indeed, a cursory search of the JnJ web site didn't turn it up either, when you'd think
 that would be the _only thing on the front page_.  (Perhaps it will turn up later?)  So
 we're pretty frustrated here, reporting not only on a press release instead of actual
@@ -34,8 +35,9 @@ scientific data (let alone peer review), but also reporting on hearsay!
 <img src="{{ site.baseurl }}/images/2021-01-29-jnj-vaccine-relatively-pretty-cnbc.jpg" width="400" height="198" alt="CNBC: reasonable efficacy, but not vs viral variants" title="CNBC: reasonable efficacy, but not vs viral variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Stunningly, JnJ are apparently willing to release important information like this _orally,
 without having already written up the report._ Let's just say our confidence is not
-high: normally, this sort of crap would earn a snub from us.  But&hellip; gritted teeth.
-At least it's not 
+high: normally, this sort of crap would earn a snub from us.  
+
+But&hellip; gritted teeth.  At least it's not 
 [as bad as AstraZeneca/Oxford]({{ site.baseurl }}/astrazeneca-oxford-vaccine-readout/) was.
 When they file for an EUA with the FDA (probably in February), we'll have to take a
 close look at their filing docs.  It does smack of upper management who are clueless about
@@ -68,9 +70,9 @@ complicates the case for giving a second "booster" dose, about which more later.
 No viral vector vaccine has ever been approved in the US up to now.  But one has been
 [approved in Europe last July](https://en.wikipedia.org/wiki/Ebola_vaccine#Ad26.ZEBOV/MVA-BN-Filo):
 JnJ's vaccine against [Ebola](https://en.wikipedia.org/wiki/Ebola).  Given how utterly
-_nasty_ a hemorrhagic fever Ebola is, that's a good thing.  That vaccine also uses Ad26,
-so we have considerable safety data on the use of Ad26 as a vaccine vector.  That should
-inspire some confidence!  
+_nasty_ a hemorrhagic fever Ebola is, that's a _good thing._  The Ebola vaccine also uses Ad26
+as its vector virus, so we have considerable safety data on the use of Ad26 as a vaccine vector.
+That should inspire some confidence!  
 
 Also, [the Russian Sputnik V vaccine](https://en.wikipedia.org/wiki/Sputnik_V_COVID-19_vaccine)
 (also [known as Гам-КОВИД-Вак]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2)) 
@@ -83,19 +85,20 @@ though, this does _not_ especially inspire confidence.
 ### JnJ clinical trial population
 
 This was not a small-time trial; JnJ really put some muscle behind it:  
-- 44325 volunteers total.   Half got the placebo and half got the treatment.  
+- 44,325 volunteers total.   Half got the placebo and half got the treatment.  
 - The trial was blinded until some number of COVID-19 cases were observed without knowing
-  who was in which arm.  In this interim readout, unblinding observed 468 symptomatic
+  who was in which arm.  In this interim readout, unblinding revealed 468 symptomatic
   cases total in both arms.   
-- They claimed efficacy in elderly, but as of yet reported no hard data showing that.  
-- Site breakdown was 44% in the US, 41% in Central/South America, and 15% South Africa.  
+- They claimed efficacy in elderly, but as of yet have reported no hard data showing that.
+  Press releases!  Feh.  
+- Sites: 44% US, 41% Central/South America, and 15% South Africa.  
 - Gender: 45% women, 55% men.  
 - Race: 59% White, 45% Hispanic/LatinX, 13% Black, 6% Asian, 1% Native American.  
 
-So that part looks pretty good!  
+So that part looks pretty good!  Ok, not perfect.  But pretty good, for real-life trials.  
 
 
-### JnJ vaccine interim results (not yet final)  
+### JnJ vaccine interim efficacy results (not yet final)  
 
 This is a single-dose vaccine (but [see below](#2-dose-follow-up-trial)!), so efficacy 
 was measured 28 days after the first dose:  
@@ -110,7 +113,8 @@ statistically significant.  However, they did report that in South Africa they b
 (but didn't specify if they had done the sequencing to tell) that the cases were 95%
 driven by the B.1.351 variant.  That's the super-contagious variant in South Africa, worse
 than the UK variant B.1.1.7.  So the South African efficacy decrease may be explained by
-that; we just _can't tell from the reports of the oral press release_.  
+that; we just _can't tell from the reports of the oral press release_.  But&hellip; it
+looks like it's not so good against the B.1.351 variant.  
 
 Somewhat more hearteningly: overall the virus had 85% efficacy against severe COVID-19,
 and 100% efficacy against COVID-related hospitalizations.  This is _crucial:_ it shows the
