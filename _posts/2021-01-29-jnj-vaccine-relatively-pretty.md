@@ -131,16 +131,15 @@ FDA submissions!)
 
 ### Cold chain requirements  
 
-<!-- Maybe make a table of this? -->
 The really good news for the JnJ vaccine is the relaxed cold chain requirements.  Here are
 the stability times at various temperatures for the 3 vaccines, as near as I can make out:  
 
-{:class="table table-bordered"}
 |  __Vaccine__  |  -70&deg;C   |  -20&deg;C  |  2&deg;C &ndash; 8&deg;C  |  Room temp  |
 |:-------------:|:------------:|:-----------:|:-------------------------:|:-----------:|
 |  _Pfizer_     |  1-6 months  |             |     5 days                |             |
 |  _Moderna_    |              |  6 months   |     1 month               |  12 hr      |
 |  _JnJ_        |              |  2 years    |     3 months              |             |
+{:.table-striped}
 
 
 So JnJ is stable for longer times at temperatures more accessible to smaller
