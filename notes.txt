@@ -360,11 +360,11 @@ https://talkingpointsmemo.com/edblog/will-you-take-the-pledge
 >
 >Nothing good can come of the confrontation between good faith and bad faith engagement. In the future we may return to a civic space where a degree of good faith engagement can allow those of differing outlooks and ideologies to collaborate and compromise on consensus solutions. But we are not there now. We are not really there on the substance: we’re that divided. And we’re certainly not there on the good faith. Indeed, pursuing good faith engagement with bad faith actors only enables and fuels this corrosive, anti-civic behavior. The answer is for Democrats to use the political power they gain to make as much positive change as possible, using everything legitimate lever at their disposal. Getting sucked into Republican mind games is time wasting and destructive.
 
+--------------------------------------------------------------------------------
 
 <a id="fn3">3</a>: C Zimmer, N Weiland, S LaFraniere, ["Johnson & Johnson’s Vaccine Offers Strong Protection but Fuels Concern About Variants"](https://www.nytimes.com/2021/01/29/health/covid-vaccine-johnson-and-johnson-variants.html), NYT, 2021-Jan-29. [↩](#fn3a)  
 
 Fauci to NYT: "If ever there was reason to vaccinate as many people as expeditiously as we possibly can with the vaccine that we have right now, now is the time," Dr. Anthony S. Fauci, the government's top infectious disease expert, said in an interview. "Because the less people that get infected, the less chance you’re going to give this particular mutant a chance to become dominant."
-
 
 JnJ: Better cold chain requirements than Moderna (which is in turn better than Pfizer): stable
 2yr @ -4F, for 3 mo @ 36-46F.  Better for shipping to remote areas to stamp out mutations.

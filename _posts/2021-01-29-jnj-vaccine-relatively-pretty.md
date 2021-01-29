@@ -44,7 +44,7 @@ close look at their filing docs.  It does smack of upper management who are clue
 how science works, though.  
 
 Still&hellip; here at Chez Weekend we read &amp; summarize the silly, not-yet-scientific
-reports so you don't have to.  Our sources for today are an article by Matthew Herper in
+reports _so you don't have to._  Our sources for today are an article by Matthew Herper in
 the quite reliable _STAT News_ <sup id="fn1a">[[1]](#fn1)</sup>, a _New York Times_
 article by the formidable Carl Zimmer and colleagues <sup id="fn2a">[[2]](#fn2)</sup>, and
 just to show we don't _completely_ ignore the mainstream media, a CNBC article by Berkeley
@@ -105,7 +105,7 @@ was measured 28 days after the first dose:
 - The US cohort had 72% efficacy.  Not as good as the 95% for Pfizer and Moderna, but
   still very good as these things go.  
 - But&hellip; the Latin American cohort had an efficacy of 66%.  
-- &hellp; and the South African cohort had an efficacy of only 57%.  
+- &hellip; and the South African cohort had an efficacy of only 57%.  
 
 The differences in efficacy are worrying.  Even more worrying, though in bungling typical
 of press releases, not enough information was disclosed to tell if the differences were
