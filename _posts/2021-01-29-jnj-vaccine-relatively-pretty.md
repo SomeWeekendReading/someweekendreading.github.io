@@ -139,11 +139,13 @@ The really good news for the JnJ vaccine is the relaxed cold chain requirements:
   hours at room temperature.  
 - Pfizer is stable for 1-6 months at -70&deg;C, for 5 days at 2&deg;C - 8&deg;C.  
 
-| :Vaccine: | :-70&deg;C:  | :-20&deg;C: | :2&deg;C &ndash; 8&deg;C: | :room temp: |
-|-----------|--------------|-------------|---------------------------|-------------|
-| :Pfizer:  | :1-6 months: |             |    :5 days:               |             |
-| :Moderna: |              | :6 months:  |    :1 month:              | :12 hr:     |
-| :JnJ:     |              | :2 years:   |    :3 months:             |             |
+
+|  Vaccine  |  -70&deg;C   |  -20&deg;C  |  2&deg;C &ndash; 8&deg;C  |  room temp  |
+|:---------:|:------------:|:-----------:|:-------------------------:|:-----------:|
+|  Pfizer   |  1-6 months  |             |     5 days                |             |
+|  Moderna  |              |  6 months   |     1 month               |  12 hr      |
+|  JnJ      |              |  2 years    |     3 months              |             |
+
 
 So JnJ is stable for longer times at temperatures more accessible to smaller
 institutions.  (Pfizer's stringent requirements limit it to big cities with large teaching
