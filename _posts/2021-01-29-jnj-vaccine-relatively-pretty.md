@@ -107,8 +107,8 @@ was measured 28 days after the first dose:
 - But&hellip; the Latin American cohort had an efficacy of 66%.  
 - &hellip; and the South African cohort had an efficacy of only 57%.  
 
-The differences in efficacy are worrying.  Even more worrying, though in bungling typical
-of press releases, not enough information was disclosed to tell if the differences were
+The differences in efficacy are worrisome.  Even more worrying, though typical of the scientific 
+bungling in press releases, not enough information was disclosed to tell if the differences were
 statistically significant.  However, they did report that in South Africa they believe
 (but didn't specify if they had done the sequencing to tell) that the cases were 95%
 driven by the B.1.351 variant.  That's the super-contagious variant in South Africa, worse
@@ -116,21 +116,21 @@ than the UK variant B.1.1.7.  So the South African efficacy decrease may be expl
 that; we just _can't tell from the reports of the oral press release_.  But&hellip; it
 looks like it's not so good against the B.1.351 variant.  
 
-Somewhat more hearteningly: overall the virus had 85% efficacy against severe COVID-19,
-and 100% efficacy against COVID-related hospitalizations.  This is _crucial:_ it shows the
-JnJ vaccine, though not as good as the others, nonetheless is effective at taking the
+Somewhat more hearteningly: overall the vaccine had 85% efficacy against _severe_ COVID-19,
+and _100% efficacy against COVID-related hospitalizations._  This is _crucial:_ it shows the
+JnJ vaccine, though not as good as the others, nonetheless is also effective at taking the
 back-breaking load off hospitals.  
 
 Also, 2 important metrics for comparison are well worth keeping in mind:
 - The US FDA set a threshold of 50% efficacy for an approvable COVID-19 vaccine to stop
   community contagion, and this passes that threshold.  
 - Flu vaccines, which we _know_ are a good thing in reducing both mortality and medical
-  facility loading, are typically 40% - 60% effective (depending on the year and how many
+  facility loading, are typically 40% &ndash; 60% effective (depending on the year and how many
   variants are circulating).  
 
 So while we're all a bit dazzled by the 95% efficacy of Pfizer and Moderna, by these
 objective standards the JnJ vaccine might be pretty good.  ("Might": once they stop
-yakking at press releases and show actual hard data in the scientific literature and in
+yakking at press releases and show actual hard data in the scientific literature or in
 FDA submissions!)  
 
 
@@ -148,20 +148,22 @@ the stability times at various temperatures for the 3 vaccines, as near as I can
 |  _JnJ_        | |      ?       | |  2 years    | |     3 months              | |  ?          |
 
 
-So JnJ is stable for longer times at temperatures more accessible to smaller
+So JnJ is stable for longer times and at higher temperatures more accessible to smaller
 institutions.  (Pfizer's stringent requirements limit it to big cities with large teaching
-hospitals, research facilities, pharma laboratories, and universities.)  A relaxed cold
+hospitals, research facilities, pharma laboratories, and universities.  Moderna, while
+somewhat less demanding, is still pretty demanding of cold chain requirements.)  A relaxed cold
 chain is especially important for shipping to more remote areas around the world, as well
 as rural areas in the US, to help stamp out mutations.  
 
 
 ### 2-dose follow-up trial  
 
-JnJ is also doing 2-dose trial, just like Pfizer and Moderna, to see if that boosts the efficacy,
-as it does for mRNA vaccines and many others.  This trial is 30k pts, given 2 doses 57
-days apart. The readout is expected summer or fall, depending on case rates.  
+JnJ is also doing 2-dose trial, just like Pfizer and Moderna, to see if giving a second
+dose boosts the efficacy, as it does for mRNA vaccines and many others.  This trial is 30k
+pts, given 2 doses 57 days apart. The readout is expected summer or fall, depending on case rates.  
 
-(The Weekend Editrix got her first dose of the shingles vaccine Shingrix yesterday, and
+(The Weekend Editrix just got her first dose of the shingles vaccine 
+[Shingrix](https://en.wikipedia.org/wiki/Zoster_vaccine#Shingrix_2) yesterday, and
 consequently feels achy today, but looks forward to the second dose.  Two-dose vaccines
 are a fine thing, and work admirably when administered properly.)  
 
