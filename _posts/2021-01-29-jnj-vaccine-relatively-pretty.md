@@ -73,8 +73,9 @@ so we have considerable safety data on the use of Ad26 as a vaccine vector.  Tha
 inspire some confidence!  
 
 Also, [the Russian Sputnik V vaccine](https://en.wikipedia.org/wiki/Sputnik_V_COVID-19_vaccine)
-(also known as Гам-КОВИД-Вак) against COVID is an adenovirus vaccine (using both Ad5 and
-Ad26, for reasons I haven't dug into).  Due to 
+(also [known as Гам-КОВИД-Вак]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2)) 
+against COVID is an adenovirus vaccine (using both Ad5 and Ad26, for reasons I haven't dug into).
+Due to 
 [the relatively non-transparent Russian approval process](https://en.wikipedia.org/wiki/Sputnik_V_COVID-19_vaccine#Scientific_assessment),
 though, this does _not_ especially inspire confidence.  
 
