@@ -182,6 +182,14 @@ practical sense.   Manufacturing has to gear up in Baltimore, later in 2021 (or 
 happen, but then they know their capacity better than anybody else, so this gets a
 tenative pass from me.  
 
+
+### Politics  
+
+Gratifyingly, the Republican clown car has not rolled up on this news and
+disgorged&hellip; well, anything.  Perhaps 
+[the adults really _are_ in charge]({{ site.baseurl }}/adults-in-charge/)
+again.  Or so one may hope.  
+
 ## Conclusion  
 
 Overall, it's disappoinging that this vaccine is not at the 95% level we've seen before.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AstraZeneca/Oxford vaccine interim readout (and its discontents)
-tags: COVID MathInTheNews R SomebodyAskedMe Statistics
+tags: COVID MathInTheNews PharmaAndBiotech R SomebodyAskedMe Statistics
 comments: true
 ---
 
