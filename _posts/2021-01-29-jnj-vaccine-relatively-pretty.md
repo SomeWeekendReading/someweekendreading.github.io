@@ -198,7 +198,7 @@ Overall, it's disappoinging that this vaccine is not at the 95% level we've seen
 But, it's better than flu vaccines that we _already know_ are a good &amp; useful thing and it's
 above the 50% efficacy threshold the FDA set to stop community spread.  
 
-So&hellip; not a "knockout punch" in the words of Herper at STAT News, but still pretty
+So&hellip; not a "knockout punch" in the words of Herper at _STAT News_, but still pretty
 good and useful.  
 
 ## Added 2021-Jan-30: Derek Lowe weighs in  
