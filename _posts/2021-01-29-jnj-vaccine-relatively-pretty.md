@@ -134,7 +134,7 @@ yakking at press releases and show actual hard data in the scientific literature
 FDA submissions!)  
 
 
-### Cold chain requirements  
+### JnJ cold chain requirements  
 
 The really good news for the JnJ vaccine is the relaxed cold chain requirements.  Here are
 the stability times at various temperatures for the 3 vaccines, as near as I can make out:  
@@ -156,7 +156,7 @@ chain is especially important for shipping to more remote areas around the world
 as rural areas in the US, to help stamp out mutations.  
 
 
-### 2-dose follow-up trial  
+### JnJ 2-dose follow-up trial  
 
 JnJ is also doing 2-dose trial, just like Pfizer and Moderna, to see if giving a second
 dose boosts the efficacy, as it does for mRNA vaccines and many others.  This trial is 30k
@@ -174,7 +174,8 @@ percent."
 That would be an _excellent_ outcome, to have a 3rd vaccine with &gt; 90% efficacy, even
 if that required a second dose.  
 
-### Availability  
+
+### JnJ vaccine availability  
 
 Only about 7mln doses are available quickly, and about 30mln by April, so it may not matter in a
 practical sense.   Manufacturing has to gear up in Baltimore, later in 2021 (or very early
@@ -183,12 +184,13 @@ happen, but then they know their capacity better than anybody else, so this gets
 tenative pass from me.  
 
 
-### Politics  
+## Politics  
 
 Gratifyingly, the Republican clown car has not rolled up on this news and
-disgorged&hellip; well, anything.  Perhaps 
-[the adults really _are_ in charge]({{ site.baseurl }}/adults-in-charge/)
-again.  Or so one may hope.  
+disgorged&hellip; well&hellip; anything, really.  Perhaps 
+[the adults really _are_ back in charge]({{ site.baseurl }}/adults-in-charge/)
+again!  Or so one may hope.  
+
 
 ## Conclusion  
 
