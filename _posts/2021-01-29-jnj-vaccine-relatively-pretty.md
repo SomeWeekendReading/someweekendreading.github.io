@@ -178,7 +178,7 @@ if that required a second dose.
 ### JnJ vaccine availability  
 
 Only about 7mln doses are available quickly, and about 30mln by April, so it may not matter in a
-practical sense.   Manufacturing has to gear up in Baltimore, later in 2021 (or very early
+practical sense world-wide.   Manufacturing has to gear up in Baltimore, later in 2021 (or very early
 2022, at a guess?).  They've promised 100mln by end of June; I don't see how that can
 happen, but then they know their capacity better than anybody else, so this gets a
 tenative pass from me.  
