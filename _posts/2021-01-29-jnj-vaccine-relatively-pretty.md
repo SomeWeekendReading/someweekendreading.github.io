@@ -231,7 +231,7 @@ usually pretty good too, if you like science nerd-talk (and since you reading _t
 know you _do_ like it even if it's a secret guilty pleasure).  The commenters pointed out,
 for example, that the high HIV+ rate in South Africa meant they could check efficacy of
 the vaccine in immune-compromised people (and it was as ineffective as you might
-imagine).  
+imagine: 49% for HIV+, 60% for HIV-).  
 
 So go have a look at Derek's post.  
 
