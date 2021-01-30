@@ -201,6 +201,36 @@ above the 50% efficacy threshold the FDA set to stop community spread.
 So&hellip; not a "knockout punch" in the words of Herper at STAT News, but still pretty
 good and useful.  
 
+## Added 2021-Jan-30: Derek Lowe weighs in  
+
+The formidable Derek Lowe weighed in <sup id="fn4a">[[4]](#fn4)</sup> at his blog, 
+[_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) hosted by 
+[_Science Translational Medicine_](https://stm.sciencemag.org/).  He reached much the same
+conclusion as we did here:  
+- This isn't quite as good as Pfizer or Moderna, especially againts the South African
+  B.1.351 variant.  (Though, to be fair, Pfizer and Moderna were tested before B.1.351 and
+  B.1.1.7 got loose, so we should regard them as "unproven" against the variants, even
+  though the _in vitro_ data look encouraging.)  
+- On the other hand, it's _good enough to save lives_, which is what we all want.  In
+  Derek's words, it's good enough to "keep [people] out of the hospital" and "out of the
+  morgue".  
+- And the efficacy is 85% against severe COVID, and 100% against COVID death.  If it
+  tranforms COVID from a life-threatening, hospital breaking disease into a nuisance, we
+  should take that and say "thank you".  
+- Affinity maturation of antibodies via clonal selection of memory B cells is going to
+  matter.  It gradually makes your immune response sharper and more focused as time goes
+  by.  This _might_ increase efficacy against the new variants.  Or it might not.  Either
+  way, it's a thing we gotta know about.  
+  
+He also has a few things to say about the upcoming Novavax vaccine.  I didn't say anything
+about it because the public data is rather thin on the ground, even less than the J&amp;J
+press release.  But that will be remedied soon.  
+
+Derek's stuff is worth reading.  And, in a break from Internet tradition, the comments are
+usually pretty good too, if you like science nerd-talk (and since you reading _this_ blog, you
+know you _do_ like it even if it's a secret guilty pleasure).  So go have a look at
+Derek's post.  
+
 ---
 
 ## Notes &amp; References  
@@ -215,3 +245,4 @@ good and useful.
 
 <a id="fn3">3</a>: B Lovelace, ["J&J says its Covid vaccine is 66% effective, but the single shot may fall short against variants"](https://www.cnbc.com/2021/01/29/covid-vaccine-jjs-one-shot-drug-is-72percent-in-the-us-but-less-effective-elsewhere.html), _CNBC_, 2021-Jan-29. [↩](#fn3a)  
 
+<a id="fn4">4</a>: D Lowe, ["J&amp;J and Novavax Data"](https://blogs.sciencemag.org/pipeline/archives/2021/01/29/jj-and-novavax-data), _In the Pipeline_ at _Science Translational Medicine_, 2021-Jan-29. [↩](#fn4a)  
