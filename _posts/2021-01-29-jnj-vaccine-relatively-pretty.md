@@ -119,7 +119,8 @@ looks like it's not so good against the B.1.351 variant.
 Somewhat more hearteningly: overall the vaccine had 85% efficacy against _severe_ COVID-19,
 and _100% efficacy against COVID-related hospitalizations._  This is _crucial:_ it shows the
 JnJ vaccine, though not as good as the others, nonetheless is also effective at taking the
-back-breaking load off hospitals.  
+back-breaking load off hospitals.  (Though, working from vague reports of a press release,
+we don't have enough information to compute confidence intervals yet on these efficacies.)
 
 Also, 2 important metrics for comparison are well worth keeping in mind:
 - The US FDA set a threshold of 50% efficacy for an approvable COVID-19 vaccine to stop
