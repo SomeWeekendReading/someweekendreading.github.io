@@ -1,11 +1,11 @@
 ---
 layout: post
-title: JnJ COVID-19 vaccine interim readout&colon; 57% - 72% efficacy, depending on&hellip;
+title: JnJ COVID-19 vaccine interim readout&colon; 57% - 72% efficacy, depending on&hellip; _something_
 tags: COVID PharmaAndBiotech
 comments: true
 ---
 
-Today Johnson &amp; Johnson announced the interim readout (not final numbers!)
+Today Johnson &amp; Johnson/Janssen announced the interim readout (not final numbers!)
 of their adenovirus-vector based COVID-19 vaccine: 72% efficacy in the US,
 down to 57% efficacy in South Africa.  We previously described the 
 [Pfizer/BioNTech]({{ site.baseurl }}/beautiful-vaccines/)
