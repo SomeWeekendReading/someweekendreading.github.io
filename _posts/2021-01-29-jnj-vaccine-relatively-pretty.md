@@ -52,7 +52,7 @@ Lovelace Jr. <sup id="fn3a">[[3]](#fn3)</sup>
 
 ## Synthesizing the reports  
 
-### JnJ vaccine mechanism  
+### Vaccine mechanism  
 
 This is a _viral vector_ vaccine: they take an existing virus and engineer it so that it
 can't reproduce, and give it the gene for the SARS-CoV-2 spike protein.  That means the
@@ -82,7 +82,7 @@ Due to
 though, this does _not_ especially inspire confidence.  
 
 
-### JnJ clinical trial population
+### Clinical trial population
 
 This was not a small-time trial; JnJ really put some muscle behind it:  
 - 44,325 volunteers total.   Half got the placebo and half got the treatment.  
@@ -99,9 +99,9 @@ This was not a small-time trial; JnJ really put some muscle behind it:
 So that part looks pretty good!  Ok, not perfect.  But pretty good, for real-life trials.  
 
 
-### JnJ vaccine interim efficacy results (not yet final)  
+### Vaccine interim efficacy results (not yet final)  
 
-This is a single-dose vaccine (but [see below](#jnj-2-dose-follow-up-trial)!), so efficacy 
+This is a single-dose vaccine (but [see below](#2-dose-follow-up-trial)!), so efficacy 
 was measured 28 days after the first dose:  
 - The US cohort had 72% efficacy.  Not as good as the 95% for Pfizer and Moderna, but
   still very good as these things go.  
@@ -121,9 +121,9 @@ Somewhat more hearteningly: overall the vaccine had 85% efficacy against _severe
 and _100% efficacy against COVID-related hospitalizations._  This is _crucial:_ it shows the
 JnJ vaccine, though not as good as the others, nonetheless is also effective at taking the
 back-breaking load off hospitals.  (Though, working from vague reports of a press release,
-we don't have enough information to compute confidence intervals yet on these efficacies.)
+we don't have enough information to compute confidence intervals yet on these efficacies.)  
 
-Also, 2 important metrics for comparison are well worth keeping in mind:
+Also, 2 important metrics for comparison are well worth keeping in mind:  
 - The US FDA set a threshold of 50% efficacy for an approvable COVID-19 vaccine to stop
   community contagion, and this passes that threshold.  
 - Flu vaccines, which we _know_ are a good thing in reducing both mortality and medical
@@ -136,7 +136,7 @@ yakking at press releases and show actual hard data in the scientific literature
 FDA submissions!)  
 
 
-### JnJ cold chain requirements  
+### Cold chain requirements  
 
 The really good news for the JnJ vaccine is the relaxed cold chain requirements.  Here are
 the stability times at various temperatures for the 3 vaccines, as near as I can make out:  
@@ -158,7 +158,7 @@ chain is especially important for shipping to more remote areas around the world
 as rural areas in the US, to help stamp out mutations.  
 
 
-### JnJ 2-dose follow-up trial  
+### 2-dose follow-up trial  
 
 JnJ is also doing 2-dose trial, just like Pfizer and Moderna, to see if giving a second
 dose boosts the efficacy, as it does for mRNA vaccines and many others.  This trial is 30k
@@ -177,7 +177,7 @@ That would be an _excellent_ outcome, to have a 3rd vaccine with &gt; 90% effica
 if that required a second dose.  
 
 
-### JnJ vaccine availability  
+### Vaccine availability  
 
 Only about 7mln doses are available quickly, and about 30mln by April, so it may not matter in a
 practical sense world-wide.   Manufacturing has to gear up in Baltimore, later in 2021 (or very early
