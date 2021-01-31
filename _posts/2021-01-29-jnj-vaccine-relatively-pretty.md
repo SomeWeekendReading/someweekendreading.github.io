@@ -94,6 +94,7 @@ This was not a small-time trial; JnJ really put some muscle behind it:
 - Sites: 44% US, 41% Central/South America, and 15% South Africa.  
 - Gender: 45% women, 55% men.  
 - Race: 59% White, 45% Hispanic/LatinX, 13% Black, 6% Asian, 1% Native American.  
+- Age: 34% were over 60.  
 
 So that part looks pretty good!  Ok, not perfect.  But pretty good, for real-life trials.  
 
@@ -236,6 +237,12 @@ imagine: 49% for HIV+, 60% for HIV-).
 
 So go have a look at Derek's post.  
 
+## Added 2021-Jan-30: the actual press release  
+
+I finally found the actual press release, so that's worth looking 
+over. <sup id="fn5a">[[5]](#fn5)</sup>  Still itching to see the actual scientific report,
+though.  Or the FDA submission documents.  
+
 ---
 
 ## Notes &amp; References  
@@ -251,3 +258,5 @@ So go have a look at Derek's post.
 <a id="fn3">3</a>: B Lovelace, ["J&J says its Covid vaccine is 66% effective, but the single shot may fall short against variants"](https://www.cnbc.com/2021/01/29/covid-vaccine-jjs-one-shot-drug-is-72percent-in-the-us-but-less-effective-elsewhere.html), _CNBC_, 2021-Jan-29. [↩](#fn3a)  
 
 <a id="fn4">4</a>: D Lowe, ["J&amp;J and Novavax Data"](https://blogs.sciencemag.org/pipeline/archives/2021/01/29/jj-and-novavax-data), _In the Pipeline_ at _Science Translational Medicine_, 2021-Jan-29. [↩](#fn4a)  
+
+<a id="fn5">5</a>: J Sargent, _et al.,_ ["Johnson & Johnson Announces Single-Shot Janssen COVID-19 Vaccine Candidate Met Primary Endpoints in Interim Analysis of its Phase 3 ENSEMBLE Trial"](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial), Johnson &amp; Johnson press releases, 2021-Jan-29. [↩](#fn5a)  
