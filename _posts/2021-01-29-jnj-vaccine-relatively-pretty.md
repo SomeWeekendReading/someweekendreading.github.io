@@ -148,7 +148,7 @@ the stability times at various temperatures for the 3 vaccines, as near as I can
 |  _Pfizer_     | |  1-6 months  | |      ?      | |     5 days                | |   ?         |
 |  _Moderna_    | |       ?      | |  6 months   | |     1 month               | |  12 hr      |
 |  _JnJ_        | |      ?       | |  2 years    | |     3 months              | |  ?          |
-
+{:.inner-borders}
 
 So JnJ is stable for longer times and at higher temperatures more accessible to smaller
 institutions.  (Pfizer's stringent requirements limit it to big cities with large teaching
@@ -169,9 +169,8 @@ pts, given 2 doses 57 days apart. The readout is expected summer or fall, depend
 yesterday, and consequently feels achy today, but looks forward to the second dose.
 Two-dose vaccines are a fine thing, and work admirably when administered properly.)  
 
-As Tony Fauci said to the NYT:  
-> "If they get a prime boost, it’s entirely conceivable that they can get up to 90-plus
-percent."  
+As Tony Fauci said to the _NYT:_  
+> "If they get a prime boost, it’s entirely conceivable that they can get up to 90-plus percent."  
 
 That would be an _excellent_ outcome, to have a 3rd vaccine with &gt; 90% efficacy, even
 if that required a second dose.  
@@ -253,7 +252,7 @@ though.  Or the FDA submission documents.
 
 <a id="fn1">1</a>: M Herper, ["J&J one-dose Covid vaccine is 66% effective, a weapon but not a knockout punch"](https://www.statnews.com/2021/01/29/jj-one-dose-covid-vaccine-is-66-effective-a-weapon-but-not-a-knockout-punch/), _STAT News_, 2021-Jan-29. [↩](#fn1a)  
 
-<a id="fn2">2</a>: C Zimmer, N Weiland, S LaFraniere, ["Johnson & Johnson’s Vaccine Offers Strong Protection but Fuels Concern About Variants"](https://www.nytimes.com/2021/01/29/health/covid-vaccine-johnson-and-johnson-variants.html), NYT, 2021-Jan-29. [↩](#fn2a)  
+<a id="fn2">2</a>: C Zimmer, N Weiland, S LaFraniere, ["Johnson & Johnson’s Vaccine Offers Strong Protection but Fuels Concern About Variants"](https://www.nytimes.com/2021/01/29/health/covid-vaccine-johnson-and-johnson-variants.html), _New York Times_, 2021-Jan-29. [↩](#fn2a)  
 
 <a id="fn3">3</a>: B Lovelace, ["J&J says its Covid vaccine is 66% effective, but the single shot may fall short against variants"](https://www.cnbc.com/2021/01/29/covid-vaccine-jjs-one-shot-drug-is-72percent-in-the-us-but-less-effective-elsewhere.html), _CNBC_, 2021-Jan-29. [↩](#fn3a)  
 
