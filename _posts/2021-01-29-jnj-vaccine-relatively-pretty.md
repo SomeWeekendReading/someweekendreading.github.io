@@ -141,7 +141,7 @@ FDA submissions!)
 The really good news for the JnJ vaccine is the relaxed cold chain requirements.  Here are
 the stability times at various temperatures for the 3 vaccines, as near as I can make out:  
 
-<!-- How to get table borders in Kramdown? -->
+<!-- How to get table borders in Kramdown? Looks like my style sheet needs inner-borders. -->
 
 |  __Vaccine__  | |  __-70&deg;C__   | |  __-20&deg;C__  | |  __2&deg;C &ndash; 8&deg;C__  | |  __Room temp__  |
 |:-------------:|:-:|:------------:|:-:|:-----------:|:-:|:-------------------------:|:-:|:-----------:|
