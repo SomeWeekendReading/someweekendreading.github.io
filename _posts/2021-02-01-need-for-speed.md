@@ -135,7 +135,7 @@ though for now at least the mRNA vaccines _seem_ to be working. <sup id="fn4a">[
 As we saw just a couple days ago, the J&amp;J vaccine dips down to an alarmingly low
 efficacy of 57% against the South African variant.  Our data on the mRNA vaccines from
 Pfizer &amp; Moderna is largely _in vitro_ 
-([as we blogged about last month]({{ site.baseurl}}/coronavirus-mutation-vs-vaccine/)).
+([as we blogged about last month]({{ site.baseurl }}/coronavirus-mutation-vs-vaccine/)).
 But since those trials happened before the new
 variants got out much, we don't really know their efficacy _in vivo_.  
 
@@ -211,7 +211,7 @@ upcoming possibility of vaccination eligibility for myself, so I understand pers
 But just fight through the BS and get it done.  Ask for help if you need it.  
 
 In the meantime, 
-[you know what to do to keep safe]({{ site.baseurl}}/youre-scaring-me/#what-you-can-do).
+[you know what to do to keep safe]({{ site.baseurl }}/youre-scaring-me/#what-you-can-do).
 So keep doing that.  If you haven't been doing that, _start now_.  (Ok, the voting part of
 that advice is now settled.  But do the rest.)  
 
