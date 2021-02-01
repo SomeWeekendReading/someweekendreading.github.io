@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 vaccines&colon; the need for speed
-tags: COVID MathInTheNews Politics Statistics
+tags: COVID MathInTheNews Politics
 comments: true
 ---
 
@@ -90,20 +90,19 @@ the rich to keep themselves safe.
 Israel is proof that this can be done.  They're vaccinating everybody, there's an orderly
 system that tells you when &amp; where to show up, and there's a plan for unused doses at
 the end of the day.  (Basically: nurses go out into the street and yell for anybody who
-wants a vaccine to _come here now_.  I've even heard nurses yelling, "Hey, pizza guy: want
+wants a vaccine to _come here now_.  I've even heard of nurses yelling, "Hey, pizza guy: want
 a vaccine?" to delivery persons.)  Now Israel has lots and lots of other problems, with
-many sorts of structural discriminations against the Palestinians.  But at least in this
+many sorts of structural discrimination against the Palestinians.  But at least in this
 instance, they know rapd vaccination leads to declines in infection, hospitalization, and
-death rates.  _This is how it's done._
-<!--
+death rates.  _This is how it's done._  
+
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     Data from Israel&#39;s 2nd largest health provider Maccabi: significant (60%) decrease in infections up to 23 days after 1st pfizer vaccine dose. Also marked drop in hospitalizations. Their initial analysis is attached. <a href="https://twitter.com/KalksteinNir">@KalksteinNir</a> <a href="https://t.co/mPGy9pvOXc">pic.twitter.com/mPGy9pvOXc</a>
   </p>
 &mdash; נדב איל Nadav Eyal (@Nadav_Eyal) <a href="https://twitter.com/Nadav_Eyal/status/1353050986533670914">January 23, 2021</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
--->
+<script async src="https://platform.twitter.com/widgets.js"></script>  
 
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt.jpg" width="400" height=622" alt="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" title="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-seattle.jpg" width="400" height=465" alt="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" title="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
