@@ -228,6 +228,9 @@ Someday soon I'll be able to yell
 you can give the _de rigeur_ bored riposte ["OK, boomer"](https://en.wikipedia.org/wiki/OK_boomer).
 We'll both grin like maniacs because we _lived through COVID_.  That'll be _fun_.  
 
+As Fauci said to the _NYT_ <sup id="fn8a">[[8]](#fn8)</sup>:  
+>"If ever there was reason to vaccinate as many people as expeditiously as we possibly can with the vaccine that we have right now, now is the time," Dr. Anthony S. Fauci, the government's top infectious disease expert, said in an interview. "Because the less people that get infected, the less chance you’re going to give this particular mutant a chance to become dominant."  
+
 ---
 
 ## Notes &amp; References  
@@ -249,3 +252,6 @@ We'll both grin like maniacs because we _lived through COVID_.  That'll be _fun_
 <a id="fn6">6</a>: N St Fleur, ["'Just utter chaos': A Twitter thread offers a window into the frustrating search for Covid-19 shots"](https://www.statnews.com/2021/01/28/just-utter-chaos-twitter-thread-offers-window-into-frustrating-search-for-covid19-shots/), _STAT News_, 2020-Jan-28. [↩](#fn6a)  
 
 <a id="fn7">7</a>: M Gerber, I Khan, ["Dodger Stadium’s COVID-19 vaccination site temporarily shut down after protesters gather at entrance"](https://www.latimes.com/california/story/2021-01-30/dodger-stadiums-covid-19-vaccination-site-shutdown-after-dozens-of-protesters-gather-at-entrance), _Los Angeles Times_, 2021-Jan-30. [↩](#fn7a)  
+
+<a id="fn8">8</a>: C Zimmer, N Weiland, S LaFraniere, ["Johnson & Johnson’s Vaccine Offers Strong Protection but Fuels Concern About Variants"](https://www.nytimes.com/2021/01/29/health/covid-vaccine-johnson-and-johnson-variants.html), NYT, 2021-Jan-29. [↩](#fn8a)  
+
