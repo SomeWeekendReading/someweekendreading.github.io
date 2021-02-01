@@ -5,8 +5,8 @@ tags: COVID MathInTheNews Politics
 comments: true
 ---
 
-Vaccine rollouts worldwide, with very few exceptions, have been slow &amp; bungled.  Delay =
-death.  Why do we tolerate this?  
+Vaccine rollouts worldwide, with very few exceptions, have been slow &amp; bungled.  But
+we face a cruel equation: delay = death.  Why do we tolerate this?  
 
 The longer we take to vaccinate _the entire world_, the more people who die from COVID
 classic, and the more potential vaccine resistance mutations show up in the SARS-COV-2
@@ -90,10 +90,10 @@ the rich to keep themselves safe.
 Israel is proof that this can be done.  They're vaccinating everybody, there's an orderly
 system that tells you when &amp; where to show up, and there's a plan for unused doses at
 the end of the day.  (Basically: nurses go out into the street and yell for anybody who
-wants a vaccine to _come here now_.  I've even heard of nurses yelling, "Hey, pizza guy: want
+wants a vaccine to _come here right now_.  I've even heard of nurses yelling, "Hey, pizza guy: want
 a vaccine?" to delivery persons.)  Now Israel has lots and lots of other problems, with
 many sorts of structural discrimination against the Palestinians.  But at least in this
-instance, they know rapd vaccination leads to declines in infection, hospitalization, and
+instance, they know rapid vaccination leads to declines in infection, hospitalization, and
 death rates.  _This is how it's done._  
 
 <blockquote class="twitter-tweet">
