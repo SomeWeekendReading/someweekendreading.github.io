@@ -34,7 +34,7 @@ massive infections and deaths in the elderly?
 &mdash; Olivier Blanchard (@ojblanchard1) 
 <a href="https://twitter.com/ojblanchard1/status/1331952292883533824?ref_src=twsrc%5Etfw">November 26, 2020</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" ></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 [<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-france-age-group-infections.jpg" width="400" height="246" alt="Guillaume Pressiat: age group cross-infections in France" title="Guillaume Pressiat: age group cross-infections in France" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>](https://guillaumepressiat.github.io/blog/2021/01/covidview-si-dep-echarts4r)
 Now [Guillaume Pressiat, writing on his blog alt-R native](https://guillaumepressiat.github.io/blog/2021/01/covidview-si-dep-echarts4r)
@@ -80,7 +80,7 @@ disheartening:
 &mdash; Amy Maxmen, PhD (@amymaxmen) 
 <a href="https://twitter.com/amymaxmen/status/1351201063366496259">January 18, 2021</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 We're replicating the structural discrimination of colonialism, and creating reservoirs of
 unvaccinated people where the virus can continue to mutate.  This is both wrong
@@ -101,7 +101,7 @@ death rates.  _This is how it's done._
   </p>
 &mdash; נדב איל Nadav Eyal (@Nadav_Eyal) <a href="https://twitter.com/Nadav_Eyal/status/1353050986533670914?ref_src=twsrc%5Etfw">January 23, 2021</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt.jpg" width="400" height=622" alt="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" title="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-seattle.jpg" width="400" height=465" alt="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" title="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
