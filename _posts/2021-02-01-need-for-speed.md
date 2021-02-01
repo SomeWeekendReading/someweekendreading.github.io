@@ -203,7 +203,7 @@ an organized national government about 10 days ago.
 ## Bizarre resistance to vaccinations  
 
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes.jpg" width="400" height="239" alt="LA Times: anti-vaccine and hard-right protestors shut down vaccination site" title="LA Times: anti-vaccine and hard-right protestors shut down vaccination site" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes-2.jpg" width="400" height="274" alt="LA Times: dumb stuff the vaccine protestors said" title="LA Times: dumb stuff the vaccine protestors said" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes-2.jpg" width="400" height="274" alt="LA Times: dumb crap the vaccine protestors said" title="LA Times: dumb crap the vaccine protestors said" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As if that's not enough: a bizarre farrago of anti-vaxers and far-right groups actually
 shut down the mass vaccination site at Dodgers Statdium in Los Angeles.
 <sup id="fn7a">[[7]](#fn7)</sup>  I&hellip; Just. Can't. Even.  
