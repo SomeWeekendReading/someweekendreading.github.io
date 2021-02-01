@@ -52,7 +52,7 @@ your friends, and sometimes get a little rowdy.  It's a time-of-life thing.  We 
 too, long ago.  So honest, we understand your need and are prepared to be reasonably
 sympathetic.  But: please hold off on the wild parties until we all get vaccinated, ok?
 Because these are Granny Murder Parties, and your grammas don't wanna die.
-("Morituri&hellip; nolumus mori.", in the immortal words of 
+("Morituri&hellip; nolumus mori", in the immortal words of 
 [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett).)  
 
 Once we're all vaccinated, then you can cut loose with our blessing.  I mean, sure, I'm still
