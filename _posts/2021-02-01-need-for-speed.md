@@ -32,7 +32,7 @@ massive infections and deaths in the elderly?
     <a href="https://t.co/KkgilUuVh0">pic.twitter.com/KkgilUuVh0</a>
   </p>
 &mdash; Olivier Blanchard (@ojblanchard1) 
-<a href="https://twitter.com/ojblanchard1/status/1331952292883533824?ref_src=twsrc%5Etfw">November 26, 2020</a>
+<a href="https://twitter.com/ojblanchard1/status/1331952292883533824">November 26, 2020</a>
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
@@ -97,9 +97,9 @@ instance, they know rapd vaccination leads to declines in infection, hospitaliza
 death rates.  _This is how it's done._
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
-    Data from Israel&#39;s 2nd largest health provider Maccabi: significant (60%) decrease in infections up to 23 days after 1st pfizer vaccine dose. Also marked drop in hospitalizations. Their initial analysis is attached. <a href="https://twitter.com/KalksteinNir?ref_src=twsrc%5Etfw">@KalksteinNir</a> <a href="https://t.co/mPGy9pvOXc">pic.twitter.com/mPGy9pvOXc</a>
+    Data from Israel&#39;s 2nd largest health provider Maccabi: significant (60%) decrease in infections up to 23 days after 1st pfizer vaccine dose. Also marked drop in hospitalizations. Their initial analysis is attached. <a href="https://twitter.com/KalksteinNir">@KalksteinNir</a> <a href="https://t.co/mPGy9pvOXc">pic.twitter.com/mPGy9pvOXc</a>
   </p>
-&mdash; נדב איל Nadav Eyal (@Nadav_Eyal) <a href="https://twitter.com/Nadav_Eyal/status/1353050986533670914?ref_src=twsrc%5Etfw">January 23, 2021</a>
+&mdash; נדב איל Nadav Eyal (@Nadav_Eyal) <a href="https://twitter.com/Nadav_Eyal/status/1353050986533670914">January 23, 2021</a>
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
