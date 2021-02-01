@@ -8,16 +8,18 @@ comments: true
 Vaccine rollouts worldwide, with very few exceptions, have been slow &amp; bungled.  But
 we face a cruel equation: delay = death.  Why do we tolerate this?  
 
-The longer we take to vaccinate _the entire world_, the more people who die from COVID
-classic, and the more potential vaccine resistance mutations show up in the SARS-COV-2
+The longer we take to vaccinate _the entire world_, the more people die from COVID
+classic, and the more potential vaccine resistance mutations show up in the SARS-CoV-2
 virus.  Indeed, slow vaccination is the _ideal situation_ for creating resistance
-mutations: maximal selective pressure on the virus to mutate, and new people to infect are
-always available.  So why are we bungling it world-wide?  
+mutations: maximal selective pressure on the virus to mutate, and lots of new people to infect 
+always available.  
+
+So why are we bungling it world-wide?  
 
 
 ## COVID fatigue and needless death rates  
 
-Remember [about a month ago, we reported on this blog]({{ site.baseurl }}/youre-scaring-me/) 
+Remember [about a month ago, we reported on this blog]({{ site.baseurl }}/youre-scaring-me/#not-just-your-body-your-choice-you-live-with-the-rest-of-us) 
 that there was evidence of COVID fatigue in France among the 20-somethings leading to
 massive infections and deaths in the elderly?  
 <blockquote class="twitter-tweet">
@@ -52,7 +54,7 @@ your friends, and sometimes get a little rowdy.  It's a time-of-life thing.  We 
 too, long ago.  So honest, we understand your need and are prepared to be reasonably
 sympathetic.  But: please hold off on the wild parties until we all get vaccinated, ok?
 Because these are Granny Murder Parties, and your grammas don't wanna die.
-("Morituri&hellip; nolumus mori", in the immortal words of 
+("Morituri&hellip; nolumus mori", in the immortal words of the regrettably mortal
 [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett).)  
 
 Once we're all vaccinated, then you can cut loose with our blessing.  I mean, sure, I'm still
@@ -158,6 +160,7 @@ they can spin up a new variant vaccine in about 6 weeks (see the _NYT_ article).
 is already starting that (see the MedicalXPress article).  But, there are 2 problems:  
 1. That means everybody needs to get vaccinated _again_, and  
 2. Our regulatory framework would require a new clinical trial, taking maybe 6-9 months.  
+
 So we have to clean up our act in both of those regards for the scientific fact of nimble
 mRNA vaccines to be of benefit to us.  
 
@@ -185,7 +188,7 @@ like Florida, have gone further and pushed the whole thing down to the county le
 much of a budget for mass vaccination do you think county health boards have?  Do you
 think there will be a difference between rich and poor counties?  
 
-STAT News has a story of a physician in Phoenix who dived into the chaos, trying to find
+_STAT News_ has a story of a physician in Phoenix who dived into the chaos, trying to find
 vaccination appointments for her mother in California.  <sup id="fn6a">[[6]](#fn6)</sup>
 It took her 4 days, and she's a physician who knows how to work the system.  'Just utter
 chaos', indeed.  This is not an isolated case; it's _typical_ of the state of the US.  We
@@ -199,7 +202,7 @@ an organized national government about 10 days ago.
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes-2.jpg" width="400" height="274" alt="LA Times: dumb stuff the vaccine protestors said" title="LA Times: dumb stuff the vaccine protestors said" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As if that's not enough: a bizarre farrago of anti-vaxers and far-right groups actually
 shut down the mass vaccination site at Dodgers Statdium in Los Angeles.
-<sup id="fn7a">[[7]](#fn7)</sup>  I just&hellip; Can't. Even.  
+<sup id="fn7a">[[7]](#fn7)</sup>  I&hellip; Just. Can't. Even.  
 
 Fortunately, all the doses were given out and no appointments were cancelled.  Lots of
 tempers were frayed by the floridly performative stupidity and pointlessness.  
