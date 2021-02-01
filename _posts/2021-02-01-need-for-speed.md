@@ -45,15 +45,17 @@ an [R/Shiny](https://shiny.rstudio.com/) app that's kept up to date with data fr
 [Sant&eacute; Publique France](https://www.data.gouv.fr/fr/datasets/taux-dincidence-de-lepidemie-de-covid-19/).
 Things really haven't gotten much better for the French elderly, as you can see.  The US
 is probably similar, but we don't have organized ways to make the data available with each
-state and sometimes county being a separate fiefdom.  
+state (and sometimes county!) being a separate fiefdom.  
 
 If you find yourself in the 20-something demographic and are for some reason reading this
 blog (Why?!  Please tell me in the comments, because I'm really curious about you!), I
-have a message for you from your elders.  We elders understand that you need to hang with
+have a message for you from your elders.  
+
+We elders understand that you need to hang with
 your friends, and sometimes get a little rowdy.  It's a time-of-life thing.  We did it
 too, long ago.  So honest, we understand your need and are prepared to be reasonably
-sympathetic.  But: please hold off on the wild parties until we all get vaccinated, ok?
-Because these are Granny Murder Parties, and your grammas don't wanna die.
+sympathetic.  But please: hold off on the wild parties until we all get vaccinated, ok?
+Because those are Granny Murder Parties, and your grammas don't wanna die.
 ("Morituri&hellip; nolumus mori", in the immortal words of the regrettably mortal
 [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett).)  
 
@@ -121,7 +123,7 @@ get anything done right.  Some examples:
   did: sometimes in bathrobes. <sup id="fn2a">[[2]](#fn2)</sup>  All doses were used.
   _This is how it's done._
   
-_Vaccinate everybody._  (Yeah, I know: I'm being hopelessly na&iumlaut;ve about the
+_Vaccinate everybody._  (Yeah, I know: I'm being hopelessly na&iuml;ve about the
 anti-vaxers and those with a (sometimes justified) suspicion of Western medicine.   But
 the anti-vaxers, at least, are already hopeless.
 [Think of it as evolution in action.](https://en.wikipedia.org/wiki/Oath_of_Fealty_(novel)))  
@@ -170,7 +172,7 @@ mRNA vaccines to be of benefit to us.
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-bbc.jpg" width="400" height="410" alt="BBC: Why is EU vaccine rollout so slow?" title="BBC: Why is EU vaccine rollout so slow?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-stat.jpg" width="400" height="403" alt="STAT News: utter chaos searching for COVID vaccine appointment" title="STAT News: utter chaos searching for COVID vaccine appointment" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 If it's that crucial, why does the rollout seem to be slow and bungled, worldwide?  (Ok,
-except Israel which is rapidly vaccinating, and New Zealand which isolated itself quickly
+except Israel which is rapidly vaccinating, and New Zealand which isolated quickly
 enough.)  
 
 There seem to be multiple delays in delivery from multiple vaccine vendors in
@@ -183,15 +185,17 @@ the EU, and even across borders within the EU.  Hungary has gotten so desparate 
 begun purchasing the Russian Sputnik V vaccine.  
 
 In the US, it's just as chaotic: there's no national plan for vaccine sites, mostly
-because Trump didn't think it was his job and pushed it onto the states.  Some states,
+because Trump didn't think it was his job and pushed it down to the states.  Some states,
 like Florida, have gone further and pushed the whole thing down to the county level.  How
 much of a budget for mass vaccination do you think county health boards have?  Do you
 think there will be a difference between rich and poor counties?  
 
 _STAT News_ has a story of a physician in Phoenix who dived into the chaos, trying to find
 vaccination appointments for her mother in California.  <sup id="fn6a">[[6]](#fn6)</sup>
-It took her 4 days, and she's a physician who knows how to work the system.  'Just utter
-chaos', indeed.  This is not an isolated case; it's _typical_ of the state of the US.  We
+It _took her 4 days_, and she's a physician who knows how to work the system.  'Just utter
+chaos', indeed.  
+
+This is not an isolated case; it's _typical_ of the state of the US.  We
 can't figure out how to get organized enough to get the vaccine into arms.  I hope we'll
 get better with time; after all, we've only recently resurrected the very idea of having
 an organized national government about 10 days ago.  
@@ -221,8 +225,8 @@ that advice is now settled.  But do the rest.)
 
 Someday soon I'll be able to yell
 ["You kids get off my lawn"](https://en.wikipedia.org/wiki/You_kids_get_off_my_lawn!), 
-you can give the _de rigeur_ bored riposte ["OK, boomer"](https://en.wikipedia.org/wiki/OK_boomer), 
-and we'll both grin like maniacs because we _lived through COVID_.  That'll be _fun_.  
+you can give the _de rigeur_ bored riposte ["OK, boomer"](https://en.wikipedia.org/wiki/OK_boomer).
+We'll both grin like maniacs because we _lived through COVID_.  That'll be _fun_.  
 
 ---
 
