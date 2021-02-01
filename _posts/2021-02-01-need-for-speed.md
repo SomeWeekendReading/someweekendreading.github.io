@@ -96,9 +96,16 @@ many sorts of structural discrimination against the Palestinians.  But at least 
 instance, they know rapd vaccination leads to declines in infection, hospitalization, and
 death rates.  _This is how it's done._  
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Data from Israel&#39;s 2nd largest health provider Maccabi: significant (60%) decrease in infections up to 23 days after 1st pfizer vaccine dose. Also marked drop in hospitalizations. Their initial analysis is attached. <a href="https://twitter.com/KalksteinNir">@KalksteinNir</a> <a href="https://t.co/mPGy9pvOXc">pic.twitter.com/mPGy9pvOXc</a>
+  </p>
+&mdash; נדב איל Nadav Eyal (@Nadav_Eyal) <a href="https://twitter.com/Nadav_Eyal/status/1353050986533670914">January 23, 2021</a>
+</blockquote> 
+<script async src="https://platform.twitter.com/widgets.js"></script>  
 
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt.jpg" width="400" height=622" alt="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" title="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-seattle.jpg" width="400" height=465" alt="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" title="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt.jpg" width="400" height="622" alt="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" title="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-seattle.jpg" width="400" height="465" alt="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" title="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 It can even be done here in the US, where sometimes I feel like it's almost impossible to
 get anything done right.  Some examples:  
 - Some health care workers in Oregon, transporting vaccines, were stuck in snow on a
@@ -120,8 +127,8 @@ the anti-vaxers, at least, are already hopeless.
 
 ## Resistance ahoy!  
 
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt-2.jpg" width="400" height=508" alt="NYT: virus mutations will need changed vaccines" title="NYT: virus mutations will need changed vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-medxpress.jpg" width="400" height=342" alt="MedXPress: Moderna says it works for now" title="MedXPress: Moderna says it works for now" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt-2.jpg" width="400" height="508" alt="NYT: virus mutations will need changed vaccines" title="NYT: virus mutations will need changed vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-medxpress.jpg" width="400" height="342" alt="MedXPress: Moderna says it works for now" title="MedXPress: Moderna says it works for now" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The resistance mutations are already here, both in the B.1.1.7 (UK) and B.1.351 (South
 Africa) variants.  <sup id="fn3a">[[3]](#fn3)</sup>  We know they affect vaccine efficacy, 
 though for now at least the mRNA vaccines _seem_ to be working. <sup id="fn4a">[[4]](#fn4)</sup>  
@@ -157,8 +164,8 @@ mRNA vaccines to be of benefit to us.
 
 ## Weirdly bungled vaccine rollouts
 
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-bbc.jpg" width="400" height=410" alt="BBC: Why is EU vaccine rollout so slow?" title="BBC: Why is EU vaccine rollout so slow?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-stat.jpg" width="400" height=403" alt="STAT News: utter chaos searching for COVID vaccine appointment" title="STAT News: utter chaos searching for COVID vaccine appointment" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-bbc.jpg" width="400" height="410" alt="BBC: Why is EU vaccine rollout so slow?" title="BBC: Why is EU vaccine rollout so slow?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-stat.jpg" width="400" height="403" alt="STAT News: utter chaos searching for COVID vaccine appointment" title="STAT News: utter chaos searching for COVID vaccine appointment" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 If it's that crucial, why does the rollout seem to be slow and bungled, worldwide?  (Ok,
 except Israel which is rapidly vaccinating, and New Zealand which isolated itself quickly
 enough.)  
@@ -188,8 +195,8 @@ an organized national government about 10 days ago.
 
 ## Bizarre resistance to vaccinations  
 
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes.jpg" width="400" height=239" alt="LA Times: anti-vaccine and hard-right protestors shut down vaccination site" title="LA Times: anti-vaccine and hard-right protestors shut down vaccination site" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes-2.jpg" width="400" height=274" alt="LA Times: dumb stuff the vaccine protestors said" title="LA Times: dumb stuff the vaccine protestors said" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes.jpg" width="400" height="239" alt="LA Times: anti-vaccine and hard-right protestors shut down vaccination site" title="LA Times: anti-vaccine and hard-right protestors shut down vaccination site" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-latimes-2.jpg" width="400" height="274" alt="LA Times: dumb stuff the vaccine protestors said" title="LA Times: dumb stuff the vaccine protestors said" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 As if that's not enough: a bizarre farrago of anti-vaxers and far-right groups actually
 shut down the mass vaccination site at Dodgers Statdium in Los Angeles.
 <sup id="fn7a">[[7]](#fn7)</sup>  I just&hellip; Can't. Even.  
