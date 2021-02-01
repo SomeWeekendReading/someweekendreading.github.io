@@ -366,5 +366,3 @@ https://talkingpointsmemo.com/edblog/will-you-take-the-pledge
 
 Fauci to NYT: "If ever there was reason to vaccinate as many people as expeditiously as we possibly can with the vaccine that we have right now, now is the time," Dr. Anthony S. Fauci, the government's top infectious disease expert, said in an interview. "Because the less people that get infected, the less chance you’re going to give this particular mutant a chance to become dominant."
 
-JnJ: Better cold chain requirements than Moderna (which is in turn better than Pfizer): stable
-2yr @ -4F, for 3 mo @ 36-46F.  Better for shipping to remote areas to stamp out mutations.
