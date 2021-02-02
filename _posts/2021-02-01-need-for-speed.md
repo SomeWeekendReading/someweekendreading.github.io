@@ -173,7 +173,12 @@ don't delay vaccines!
 Yes, it's true: the mRNA vaccines are made largely by RNA synthesizers, which are
 basically machines into which you program the sequence of RNA you want.  BioNTech says
 they can spin up a new variant vaccine in about 6 weeks (see the _NYT_ article).  Moderna
-is already starting that (see the MedicalXPress article).  But, there are 2 problems:  
+is already starting that (see the MedicalXPress article).  That's for the _design_ of a
+new vaccine; the actual manufacturing is quite complex and requires facilities that are
+already busy, as Derek Lowe explains in a nice little tutorial on mRNA vaccine
+manufacturing steps at _In the Pipeline_. <sup id="fn9a">[[9]](#fn9)</sup>
+
+But, there are at least 2 other problems:  
 1. That means everybody needs to get vaccinated _again_, and  
 2. Our regulatory framework would require a new clinical trial, taking maybe 6-9 months.  
 
@@ -271,3 +276,4 @@ As Fauci said to the _NYT_ <sup id="fn8a">[[8]](#fn8)</sup>:
 
 <a id="fn8">8</a>: C Zimmer, N Weiland, S LaFraniere, ["Johnson & Johnson’s Vaccine Offers Strong Protection but Fuels Concern About Variants"](https://www.nytimes.com/2021/01/29/health/covid-vaccine-johnson-and-johnson-variants.html), NYT, 2021-Jan-29. [↩](#fn8a)  
 
+<a id="fn9">9</a>: D Lowe, ["Myths of Vaccine Manufacturing"](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing), _In the Pipeline_ at _Science Translational Medicine_, 2021-Feb-02. [↩](#fn9a)  
