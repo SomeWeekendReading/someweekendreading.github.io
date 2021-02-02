@@ -108,6 +108,20 @@ death rates.  _This is how it's done._
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>  
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Israel: We say with caution, the magic has started<br><br>
+    Note blue lines, of 60+ years old (first to vaccinate), in the past 2 weeks:<br><br>
+    ~35% drop in cases<br>
+    ~30% drop in hospitalizations<br>
+    ~20% drop in critically ill<br><br>
+    Stronger than in younger people &amp; not seen in previous lockdown<br><br>
+    &gt;&gt;&gt; <a href="https://t.co/vzYFbVZ98K">pic.twitter.com/vzYFbVZ98K</a>
+  </p>
+&mdash; Eran Segal (@segal_eran) <a href="https://twitter.com/segal_eran/status/1356313705684869121?ref_src=twsrc%5Etfw">February 1, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>  
+
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt.jpg" width="400" height="622" alt="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" title="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-seattle.jpg" width="400" height="465" alt="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" title="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 It can even be done here in the US, where sometimes I feel like it's almost impossible to
@@ -207,6 +221,8 @@ an organized national government about 10 days ago.
 As if that's not enough: a bizarre farrago of anti-vaxers and far-right groups actually
 shut down the mass vaccination site at Dodgers Statdium in Los Angeles.
 <sup id="fn7a">[[7]](#fn7)</sup>  I&hellip; Just. Can't. Even.  
+
+[PZ Myers had a thought or two on this over at Pharyngula](https://freethoughtblogs.com/pharyngula/2021/02/02/facebook-is-irresponsible-zuckerberg-deserves-to-rot-in-hell/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+freethoughtblogs%2Fpharyngula+%28FTB%3A+Pharyngula%29).  Spoiler: he didn't like it either.  
 
 Fortunately, all the doses were given out and no appointments were cancelled.  Lots of
 tempers were frayed by the floridly performative stupidity and pointlessness.  
