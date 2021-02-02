@@ -23,7 +23,8 @@ morning, scouring some of the news venues with better science reporting yielded 
 of articles reporting on the press release, but _never citing the press release itself!_  
 
 Indeed, a cursory search of the JnJ web site didn't turn it up either, when you'd think
-that would be the _only thing on the front page_.  (Perhaps it will turn up later?)  So
+that would be the _only thing on the front page_.  (Perhaps it will turn up later?
+Yes: [see below](#added-2021-jan-30-the-actual-press-release).)  So
 we're pretty frustrated here, reporting not only on a press release instead of actual
 scientific data (let alone peer review), but also reporting on hearsay!  
 
