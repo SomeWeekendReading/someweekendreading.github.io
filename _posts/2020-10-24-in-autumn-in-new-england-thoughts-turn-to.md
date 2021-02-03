@@ -50,7 +50,7 @@ So... yeah, that was pretty good.
 
 ## The _other_ thing about autumn: pumpkins!
 
-The other thing about autumn is what people get up to with pumpkins.  I mean, it' just
+The other thing about autumn is what people get up to with pumpkins.  I mean, it's just
 some innocent gourd, right?  But they decorate with them, even to the extent of
 [using glass labs at a major research university to craft blown-glass replicas](https://news.mit.edu/2020/its-virtual-great-glass-pumpkin-patch-mit-1021), 
 a favorite of the Weekend Editrix.  And they carve them &mdash; good heavens, they carve them in
@@ -81,7 +81,7 @@ make that kind of pointless?  So many questions!)
 
 <img src="{{ site.baseurl }}/images/2020-10-24-in-autumn-in-new-england-thoughts-turn-to-pumpkin-air-cannon.jpg" width="200" height="200" alt="Pumpkin air cannon" title="Pumpkin air cannon" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The record is a 2013 throw of a full-sized pumpkin for 4694.68ft.  (I love that they
-hallucinate the ability to get a preicsion of 6 significant figures.)  Throwing a pumpkin
+hallucinate a precision of 6 significant figures.)  Throwing a pumpkin
 for just a bit short of a mile is... well, artillery.  It should come as no surprise that
 it's being held at a small airport.  They may need redirection of air traffic: if
 you're going a mile downrange, you're probably going _up_ about half that &mdash; a flying
