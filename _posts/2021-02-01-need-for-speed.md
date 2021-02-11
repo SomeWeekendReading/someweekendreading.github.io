@@ -178,12 +178,12 @@ new vaccine; the actual manufacturing is quite complex and requires facilities t
 already busy, as Derek Lowe explains in a nice little tutorial on mRNA vaccine
 manufacturing steps at _In the Pipeline_. <sup id="fn9a">[[9]](#fn9)</sup>
 
-But, there are at least 2 other problems:  
-1. That means everybody needs to get vaccinated _again_, and  
-2. Our regulatory framework would require a new clinical trial, taking maybe 6-9 months.  
+But, there are at least 2 other problems even if we _could_ make lots more vaccines fast:  
+1. Everybody would need to get vaccinated _again_, and  
+2. Regulatory frameworks would require a new Phase 3 clinical trial, taking maybe 6-9 months.  
 
 So we have to clean up our act in both of those regards for the scientific fact of nimble
-mRNA vaccines to be of benefit to us.  
+mRNA vaccine design to be of benefit to us.  
 
 
 ## Weirdly bungled vaccine rollouts
@@ -191,8 +191,7 @@ mRNA vaccines to be of benefit to us.
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-bbc.jpg" width="400" height="410" alt="BBC: Why is EU vaccine rollout so slow?" title="BBC: Why is EU vaccine rollout so slow?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-stat.jpg" width="400" height="403" alt="STAT News: utter chaos searching for COVID vaccine appointment" title="STAT News: utter chaos searching for COVID vaccine appointment" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 If it's that crucial, why does the rollout seem to be slow and bungled, worldwide?  (Ok,
-except Israel which is rapidly vaccinating, and New Zealand which isolated quickly
-enough.)  
+except for Israel (which is vaccinating fast), and New Zealand (which isolated fast).)  
 
 There seem to be multiple delays in delivery from multiple vaccine vendors in
 the European Union. <sup id="fn5a">[[5]](#fn5)</sup>  Frustratingly, when you drill down
