@@ -72,9 +72,11 @@ So the question is: how to contact them, and how to speak effectively so the sta
 start counting up pro-impeachment-conviction constituents?  
 
 <img src="{{ site.baseurl }}/images/2021-02-11-impeachment-action-coleman.jpg" width="400" height="408" alt="Coleman: contacting legislators and not getting ignored" title="Coleman: contacting legislators and not getting ignored" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Emily Coleman, a former Congressional staffer, offers some advice on this from Twitter.  
-- Don't bother with Twitter or Facebook; that's uniformly ignored.  
-- Writing a letter is pretty good, especially to the district office.  
+Emily Coleman, a former Congressional staffer, offered some advice on Twitter a couple
+years ago:  
+- Don't bother with Twitter or Facebook or texting or even email; that's uniformly ignored.  
+- Writing a letter is pretty good, especially to the district office.  A _paper_ letter,
+  not an email.  
 - But really the only thing that matters is a phone call where you talk to a staffer.  Coleman
   recommends the district office instead of DC, but see below.  
 
