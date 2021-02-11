@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Impeachment sine qua non actions
+title: Impeachment actions&colon; the sine qua non
 tags: Politics
 comments: true
 ---
