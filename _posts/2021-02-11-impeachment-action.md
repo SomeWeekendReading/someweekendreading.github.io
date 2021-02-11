@@ -36,7 +36,7 @@ Still&hellip; I can't ignore it.  It _matters_.  3 reasons:
    important that one or both of those paths be taken.  
 
 
-## What drives Republican senators  
+## How many Republican senators have to vote for conviction  
 
 In order to get conviction, you need a 2/3 vote of the senators _present_.  There are 2
 ways this can happen:  
@@ -45,17 +45,17 @@ ways this can happen:
   that the impeachment trial was constitutional.  The next 11 are a problem,
   since the rest are basically cowards afraid of being primaried on the right by Trump
   revanchists, and clinging to office is for them more important than democracy.  
-- __At least 25 Republicans absent themselves from the chamber so that 50 Democratic votes 
-  are 2/3 of the 75 senators present.__  This could possibly work, giving 25 Republicans up for
-  election a chance to pose for their Trumpy constituents and another 25 to have
-  semi-plausible deniability.  
+- __At least 25 Republicans absent themselves from the chamber so the 50 Democratic votes 
+  are 2/3 of the 75 senators then present.__  This could possibly work, giving 25 Republicans up for
+  election a chance to strut for their Trumpy constituents and another 25 to have
+  semi-plausible deniability or at least ambiguity.  
 
 I'm too angry and disgusted with the GOP to see much hope that either of those ways will
 happen.  They both require getting into the heads of Republican senators, knowing what
 moves them, what drives them, and what persuades them.  
 
 
-## What we can do to push in the right direction  
+## What drives them and how you can push a little  
 
 What persuades them is constituents.  They want to know what the voters in their state
 think, how likely they are to be primaried or how likely to be re-elected.  
