@@ -72,11 +72,11 @@ So the question is: how to contact them, and how to speak effectively so the sta
 start counting up pro-impeachment-conviction constituents?  
 
 <img src="{{ site.baseurl }}/images/2021-02-11-impeachment-action-coleman.jpg" width="400" height="408" alt="Coleman: contacting legislators and not getting ignored" title="Coleman: contacting legislators and not getting ignored" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Emily Coleman, a former Congressional staffer, offers some advice on this from Twitter.
-Don't bother with Twitter or Facebook; that's uniformly ignored.  Writing a letter is
-pretty good, especially to the district office.  But really the only thing that matters is
-a phone call where you talk to a staffer.  She recommends the district office instead of
-DC, but see below.  
+Emily Coleman, a former Congressional staffer, offers some advice on this from Twitter.  
+- Don't bother with Twitter or Facebook; that's uniformly ignored.  
+- Writing a letter is pretty good, especially to the district office.  
+- But really the only thing that matters is a phone call where you talk to a staffer.  Coleman
+  recommends the district office instead of DC, but see below.  
 
 <img src="{{ site.baseurl }}/images/2021-02-11-impeachment-action-ucs.jpg" width="400" height="215" alt="UCS: productive conversations with legislator's staff" title="UCS: productive conversations with legislator's staff" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Similar material from 2008 by the Union of Concerned Scientists <sup id="fn1a">[[1]](#fn1)</sup>
@@ -86,8 +86,10 @@ informing your senator about constituent opinions on impeachment.  Let them know
 constituent, and are registered to vote.  Know your facts, and be brief.  
 
 So, there it is: if you are a constituent of a Republican senator (especially one soon up
-for re-election), call their DC office and tell the aide you want a vote to convict Trump
-in the impeachment trial.  _They will ignore literally everything else._
+for re-election), call their DC office and tell the aide you are a constituent and a
+registered voter, and that you want a vote to convict Trump in the impeachment trial.  
+
+_They will ignore literally everything else._
 
 ---
 
