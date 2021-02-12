@@ -140,7 +140,7 @@ _They will ignore everything else._
 
 <a id="fn1">1</a>: US Constitution, [Article 1, section 3](https://www.senate.gov/civics/constitution_item/constitution.htm#a1_sec3). [↩](#fn1a)  
 
-<a id="fn2">2</a>: Union of Concerned Scientists, ["How to Have a Productive Phone Call With Your Legislator's Office"](https://www.ucsusa.org/resources/how-have-productive-phone-call-your-legislators-office), 2008-Jul-17. [↩](#fn2a)  
+<a id="fn2">2</a>: Union of Concerned Scientists, ["How to Have a Productive Phone Call With Your Legislator's Office"](https://www.ucsusa.org/resources/how-have-productive-phone-call-your-legislators-office), _UCUSA_ blog, 2008-Jul-17. [↩](#fn2a)  
 
 <a id="fn3">3</a>: A brief email consultation with a current congressional staffer
 confirms this, at least in broad outline.  The required cautionary note:  
