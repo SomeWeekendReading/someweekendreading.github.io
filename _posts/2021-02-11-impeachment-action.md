@@ -77,9 +77,10 @@ That gives us:
 
 
 Those 3 groups add up to 100 senators, and the conviction votes are 2/3 of those present.
-The currently relevant numbers would lead us to speculate that 10 Republicans vote for
-conviction, 30 Republicans are present and vote for acquittal, and 10 Republicans are
-absent and ambiguously not voting.)  
+The currently relevant numbers would lead us to speculate that perhaps 10 Republicans
+would vote for conviction, 30 Republicans could be present and vote for acquittal to pose
+for their Trumpy constituents, and 10 Republicans would have to be absent and ambiguously
+not voting.)  
 
 I'm too angry and disgusted with the GOP to see much hope that either of those ways will
 happen.  They both require getting into the heads of Republican senators, knowing what
@@ -89,10 +90,11 @@ moves them, what drives them, and what persuades them.
 ## What drives them and how you can push a little  
 
 What persuades them is constituents.  They want to know what the voters in their state
-think, how likely they are to be primaried or how likely to be re-elected.  
+think, how likely they are to be primaried or how likely to be re-elected.  (There are
+other influences, like party whip instructions, campaign funding, and so on.)  
 
 So: should you find yourself so unfortunate as to be the constituent of a Republican
-senator, particularly one that is up for re-election in 2022, you should _call them and
+senator, particularly one that is retiring or up for re-election in 2022, you should _call them and
 __politely__ tell the staffer who answers that you want your senator to vote for
 conviction in the impeachment trial._ It doesn't matter if you think your senator is a nimrod who
 won't listen; the point is that if enough _of their own constituents_ call saying this, it
@@ -119,7 +121,7 @@ informing your senator about constituent opinions on impeachment.  Let them know
 constituent, and are registered to vote.  Know your facts, and be brief.  
 
 So, there it is: if you are a constituent of a Republican senator (especially one soon up
-for re-election), call their DC office and tell the aide you are a constituent and a
+for re-election or retiring), call their DC office and tell the aide you are a constituent and a
 registered voter who wants a vote to convict Trump in the impeachment trial.  
 
 _They will ignore everything else._
