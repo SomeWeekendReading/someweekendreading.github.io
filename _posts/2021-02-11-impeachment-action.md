@@ -56,14 +56,14 @@ urgent business out of the chamber, while the rest can be present and vote to ac
 
 In general, if you can get 50 Democratic votes and $R$ Republican votes for conviction,
 that has to be 2/3 of the number $S$ of senators present: $50 + R = 2/3 S$.  Solve for the
-max value of $S$: $S = \floor*{3/2 (50 + R)} = 75 + \floor*{3R/2}$.  That gives us 
-$50 + R$ votes for conviction, $S - 50 - R = 25 + \floor*{R/2}$ Republican votes for
-acquittal, and $100 - S = 25 - \floor*{3R/2}$ Republicans who are absent and do not vote.)  
+max value of $S$: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.  That gives us 
+$50 + R$ votes for conviction, $S - 50 - R = 25 + \lfloor R/2 \rfloor$ Republican votes for
+acquittal, and $100 - S = 25 - \lfloor 3R/2 \rfloor$ Republicans who are absent and do not vote.)  
 
 <!--
 Convict:  50 + R
-R acquit: S - 50 - R = 75 + \floor*{3R/2} - 50 - R = 25 + \floor*{R/2}
-R absent: 100 - S    = 100 - 75 - \floor*{3/2 R}   = 25 - \floor*{3R/2}
+R acquit: S - 50 - R = 75 + floor(3R/2) - 50 - R = 25 + floor(R/2)
+R absent: 100 - S    = 100 - 75 - floor(3/2 R)   = 25 - floor(3R/2)
 
 convict / (convict + R acquit) 
 = (50 + R) / (50 + R + 25 + \floor*(1/2 R))
