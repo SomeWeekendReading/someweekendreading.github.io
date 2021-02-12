@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Impeachment actions&colon; the sine qua non
+title: Impeachment actions&colon; sine qua non
 tags: Politics
 comments: true
 ---
@@ -120,9 +120,9 @@ constituent, and are registered to vote.  Know your facts, and be brief.
 
 So, there it is: if you are a constituent of a Republican senator (especially one soon up
 for re-election), call their DC office and tell the aide you are a constituent and a
-registered voter, and that you want a vote to convict Trump in the impeachment trial.  
+registered voter who wants a vote to convict Trump in the impeachment trial.  
 
-_They will ignore literally everything else._
+_They will ignore everything else._
 
 ---
 
