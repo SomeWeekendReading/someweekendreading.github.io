@@ -5,7 +5,7 @@ tags: Politics
 comments: true
 ---
 
-So.  US politics: it seems That Person is being impeached.  Again.  What can we do
+So.  US politics: it seems The Creature is being impeached.  Again.  What can we do
 to make sure the impeachment makes a difference this time?  
 
 
