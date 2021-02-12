@@ -68,7 +68,7 @@ convict / (convict + R acquit)
 
 In general, if you can get 50 Democratic votes and $R$ Republican votes for conviction,
 that has to be 2/3 of the number $S$ of senators present: $50 + R = 2/3 S$.  Solve for the
-maximum senators on the floor voting: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.
+maximum senators present: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.
 That gives us:  
 
 | _Bipartisan votes for conviction:_            | $50 + R$                                |
