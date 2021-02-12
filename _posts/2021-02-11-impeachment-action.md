@@ -50,7 +50,7 @@ ways this can happen:
   election a chance to strut for their Trumpy constituents and another 25 to have
   semi-plausible deniability or at least ambiguity.  
 
-(Of course, a mixture of these paths could occur.  Say, 50 Democrats + 10 Republicans = 60
+(NB: Of course, a mixture of these paths could occur.  Say, 50 Democrats + 10 Republicans = 60
 senators vote for conviction.  Then that's 2/3 of 90.  So only 10 Republicans need to find
 urgent business out of the chamber, while the rest can be present and vote to acquit.  
 
@@ -68,15 +68,18 @@ convict / (convict + R acquit)
 
 In general, if you can get 50 Democratic votes and $R$ Republican votes for conviction,
 that has to be 2/3 of the number $S$ of senators present: $50 + R = 2/3 S$.  Solve for the
-max value of $S$: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.
+maximum senators on the floor voting: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.
 That gives us:  
 
-| _Bipartisan votes for conviction:_                | $50 + R$                                |
-| _Republicans present &amp; voting for acquittal:_  | $S - 50 - R = 25 + \lfloor R/2 \rfloor$ |
-| _Republicans absent &amp; not voting:_            | $100 - S = 25 - \lfloor 3R/2 \rfloor$   |
+| _Bipartisan votes for conviction:_            | $50 + R$                                |
+| _Republicans present, voting for acquittal:_   | $S - 50 - R = 25 + \lfloor R/2 \rfloor$ |
+| _Republicans absent,  not voting:_            | $100 - S = 25 - \lfloor 3R/2 \rfloor$   |
 
 
-Those all add up to 100 senators, and the conviction votes are 2/3 of those present.)  
+Those 3 groups add up to 100 senators, and the conviction votes are 2/3 of those present.
+The currently relevant numbers would lead us to speculate that 10 Republicans vote for
+conviction, 30 Republicans are present and vote for acquittal, and 10 Republicans are
+absent and ambiguously not voting.)  
 
 I'm too angry and disgusted with the GOP to see much hope that either of those ways will
 happen.  They both require getting into the heads of Republican senators, knowing what
