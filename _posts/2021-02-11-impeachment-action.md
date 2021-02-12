@@ -54,12 +54,6 @@ ways this can happen:
 senators vote for conviction.  Then that's 2/3 of 90.  So only 10 Republicans need to find
 urgent business out of the chamber, while the rest can be present and vote to acquit.  
 
-In general, if you can get 50 Democratic votes and $R$ Republican votes for conviction,
-that has to be 2/3 of the number $S$ of senators present: $50 + R = 2/3 S$.  Solve for the
-max value of $S$: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.  That gives us 
-$50 + R$ votes for conviction, $S - 50 - R = 25 + \lfloor R/2 \rfloor$ Republican votes for
-acquittal, and $100 - S = 25 - \lfloor 3R/2 \rfloor$ Republicans who are absent and do not vote.)  
-
 <!--
 Convict:  50 + R
 R acquit: S - 50 - R = 75 + floor(3R/2) - 50 - R = 25 + floor(R/2)
@@ -71,6 +65,15 @@ convict / (convict + R acquit)
 = (50 + R) / [3/2 * (50 + R)]
 = 2/3
 -->
+
+In general, if you can get 50 Democratic votes and $R$ Republican votes for conviction,
+that has to be 2/3 of the number $S$ of senators present: $50 + R = 2/3 S$.  Solve for the
+max value of $S$: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.
+That gives us:  
+- _Combined votes for conviction:_ $50 + R$ 
+- _Republicans present &amp; voting for acquittal:_ $S - 50 - R = 25 + \lfloor R/2 \rfloor$
+- _Republicans absent &amp; not voting:_ $100 - S = 25 - \lfloor 3R/2 \rfloor$ 
+Those all add up to 100 senators, and the conviction votes are 2/3 of those present.)  
 
 I'm too angry and disgusted with the GOP to see much hope that either of those ways will
 happen.  They both require getting into the heads of Republican senators, knowing what
