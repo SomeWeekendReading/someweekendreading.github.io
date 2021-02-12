@@ -38,8 +38,9 @@ Still&hellip; I can't ignore it.  It _matters_.  3 reasons:
 
 ## How many Republican senators have to vote for conviction  
 
-In order to get conviction, you need a 2/3 vote of the senators _present_.  There are 2
-ways this can happen:  
+In order to get conviction, the US constitution requires a 2/3 supermajority of the
+senators _then present_. <sup id="fn1a">[[1]](#fn1)</sup>  There are 2 ways this can happen:  
+
 - __50 Democratic votes + 17 Republican votes = 2/3 of all 100 senators.__  The 50 Democratic
   votes seem assured.  Maybe 6 Republican votes are likely, as that many voted yesterday
   that the impeachment trial was constitutional.  The next 11 are a problem,
@@ -48,7 +49,7 @@ ways this can happen:
 - __At least 25 Republicans absent themselves from the chamber so the 50 Democratic votes 
   are 2/3 of the 75 senators then present.__  This could possibly work, giving 25 Republicans up for
   election a chance to strut for their Trumpy constituents and another 25 to have
-  semi-plausible deniability or at least ambiguity.  
+  semi-plausible deniability, or at least ambiguity, due to absence.  
 
 (NB: Of course, a mixture of these paths could occur.  Say, 50 Democrats + 10 Republicans = 60
 senators vote for conviction.  Then that's 2/3 of 90.  So only 10 Republicans need to find
@@ -76,7 +77,8 @@ That gives us:
 | _Republicans absent,  not voting:_            | $100 - S = 25 - \lfloor 3R/2 \rfloor$   |
 
 
-Those 3 groups add up to 100 senators, and the conviction votes are 2/3 of those present.
+Those 3 groups add up to 100 senators, and the conviction votes are 2/3 of those present.  
+
 The currently relevant numbers would lead us to speculate that perhaps 10 Republicans
 would vote for conviction, 30 Republicans could be present and vote for acquittal to pose
 for their Trumpy constituents, and 10 Republicans would have to be absent and ambiguously
@@ -114,11 +116,12 @@ years ago:
   recommends the district office instead of DC, but see below.  
 
 <img src="{{ site.baseurl }}/images/2021-02-11-impeachment-action-ucs.jpg" width="400" height="215" alt="UCS: productive conversations with legislator's staff" title="UCS: productive conversations with legislator's staff" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Similar material from 2008 by the Union of Concerned Scientists <sup id="fn1a">[[1]](#fn1)</sup>
+Similar material from 2008 by the Union of Concerned Scientists <sup id="fn2a">[[2]](#fn2)</sup>
 (hey, remember _my_ tribe) also suggests calling.  But in cases like this where it's about
 an imminent vote, definitely call the DC office.  Ask to speak to the aide who handles
 informing your senator about constituent opinions on impeachment.  Let them know you are a
-constituent, and are registered to vote.  Know your facts, and be brief.  
+constituent, and are registered to vote.  Know your facts, and be 
+brief. <sup id="fn3a">[[3]](#fn3)</sup>  
 
 So, there it is: if you are a constituent of a Republican senator (especially one soon up
 for re-election or retiring), call their DC office and tell the aide you are a constituent and a
@@ -134,4 +137,13 @@ _They will ignore everything else._
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Union of Concerned Scientists, ["How to Have a Productive Phone Call With Your Legislator's Office"](https://www.ucsusa.org/resources/how-have-productive-phone-call-your-legislators-office), 2008-Jul-17. [↩](#fn1a)  
+<a id="fn1">1</a>: US Constitution, [Article 1, section 3](https://www.senate.gov/civics/constitution_item/constitution.htm#a1_sec3). [↩](#fn1a)  
+
+<a id="fn2">2</a>: Union of Concerned Scientists, ["How to Have a Productive Phone Call With Your Legislator's Office"](https://www.ucsusa.org/resources/how-have-productive-phone-call-your-legislators-office), 2008-Jul-17. [↩](#fn2a)  
+
+<a id="fn3">3</a>: A brief email consultation with a current congressional staffer
+confirms this, at least in broad outline.  The required cautionary note:  
+>"To change a senator’s mind, though, you need a lot of phone calls. And we know that
+>sometimes the most active constituents do not represent the broader view. But it’s still
+>worth a call, because all calls get logged. And, you know, democracy."  
+[↩](#fn3a)  
