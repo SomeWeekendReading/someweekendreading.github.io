@@ -50,6 +50,28 @@ ways this can happen:
   election a chance to strut for their Trumpy constituents and another 25 to have
   semi-plausible deniability or at least ambiguity.  
 
+(Of course, a mixture of these paths could occur.  Say, 50 Democrats + 10 Republicans = 60
+senators vote for conviction.  Then that's 2/3 of 90.  So only 10 Republicans need to find
+urgent business out of the chamber, while the rest can be present and vote to acquit.  
+
+In general, if you can get 50 Democratic votes and $R$ Republican votes for conviction,
+that has to be 2/3 of the number $S$ of senators present: $50 + R = 2/3 S$.  Solve for the
+max value of $S$: $S = \floor*{3/2 (50 + R)} = 75 + \floor*{3R/2}$.  That gives us 
+$50 + R$ votes for conviction, $S - 50 - R = 25 + \floor*{R/2}$ Republican votes for
+acquittal, and $100 - S = 25 - \floor*{3R/2}$ Republicans who are absent and do not vote.)  
+
+<!--
+Convict:  50 + R
+R acquit: S - 50 - R = 75 + \floor*{3R/2} - 50 - R = 25 + \floor*{R/2}
+R absent: 100 - S    = 100 - 75 - \floor*{3/2 R}   = 25 - \floor*{3R/2}
+
+convict / (convict + R acquit) 
+= (50 + R) / (50 + R + 25 + \floor*(1/2 R))
+= (50 + R) / (75 + \floor*{3R/2})
+= (50 + R) / [3/2 * (50 + R)]
+= 2/3
+-->
+
 I'm too angry and disgusted with the GOP to see much hope that either of those ways will
 happen.  They both require getting into the heads of Republican senators, knowing what
 moves them, what drives them, and what persuades them.  
