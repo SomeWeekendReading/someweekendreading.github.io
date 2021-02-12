@@ -70,7 +70,7 @@ In general, if you can get 50 Democratic votes and $R$ Republican votes for conv
 that has to be 2/3 of the number $S$ of senators present: $50 + R = 2/3 S$.  Solve for the
 max value of $S$: $S = \lfloor 3/2 (50 + R) \rfloor = 75 + \lfloor 3R/2 \rfloor$.
 That gives us:  
-- __Bipartisan votes for conviction:__                $50 + R$  
+- __Bipartisan votes for conviction:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $50 + R$  
 - __Republicans present &amp; voting for acquittal:__ $S - 50 - R = 25 + \lfloor R/2 \rfloor$  
 - __Republicans absent &amp; not voting:__            $100 - S = 25 - \lfloor 3R/2 \rfloor$   
 
