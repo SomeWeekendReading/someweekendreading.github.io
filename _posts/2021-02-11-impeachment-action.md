@@ -149,11 +149,13 @@ years ago:
 
 <img src="{{ site.baseurl }}/images/2021-02-11-impeachment-action-ucs.jpg" width="400" height="215" alt="UCS: productive conversations with legislator's staff" title="UCS: productive conversations with legislator's staff" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Similar material from 2008 by the Union of Concerned Scientists <sup id="fn2a">[[2]](#fn2)</sup>
-(hey, remember _my_ tribe) also suggests calling.  But in cases like this where it's about
-an imminent vote, definitely call the DC office.  Ask to speak to the aide who handles
-informing your senator about constituent opinions on impeachment.  Let them know you are a
-constituent, and are registered to vote.  Know your facts, and be 
-brief. <sup id="fn3a">[[3]](#fn3)</sup>  
+(hey, remember _my_ tribe) also suggests calling.  But in
+cases like this where it's about an imminent vote, definitely call the DC office.  Ask to
+speak to the aide who handles informing your senator about constituent opinions on
+impeachment (if that's complicated, just speak with whomever answers the phone, as the
+call will be logged in the constituent database system either way).  Let them know you are a
+constituent, and are registered to vote.  They may ask your name, address, and zip code.
+Know your facts, and be brief. <sup id="fn3a">[[3]](#fn3)</sup>  
 
 So, there it is: if you are a constituent of a Republican senator (especially one soon up
 for re-election or retiring), call their DC office and tell the aide you are a constituent and a
