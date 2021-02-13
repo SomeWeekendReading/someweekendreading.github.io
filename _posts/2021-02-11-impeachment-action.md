@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impeachment actions&colon; sine qua non
-tags: Politics
+tags: MathInTheNews Politics R
 comments: true
 ---
 
