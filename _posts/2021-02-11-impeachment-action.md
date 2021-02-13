@@ -162,7 +162,8 @@ Know your facts, and be brief. <sup id="fn3a">[[3]](#fn3)</sup>
 So, there it is: if you are a constituent of a Republican senator (especially one retiring
 or not immediately up for re-election in 2022), call their DC office and tell the
 aide you are a constituent and a registered voter who wants a vote to convict Trump in the
-impeachment trial.  
+impeachment trial.  Or that they absent themselves from the chamber during the vote, to
+lower the conviction threshold.  
 
 _They will ignore everything else._
 
