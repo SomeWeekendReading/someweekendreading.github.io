@@ -128,8 +128,8 @@ think, how likely they are to be primaried or how likely to be re-elected.  (The
 other influences, like party whip instructions, campaign funding, and so on.)  
 
 So: should you find yourself so unfortunate as to be the constituent of a Republican
-senator, particularly one that is retiring or up for re-election in 2022, you should _call them and
-__politely__ tell the staffer who answers that you want your senator to vote for
+senator, particularly one that is retiring or not immediately up for re-election in 2022,
+you should _call them and __politely__ tell the staffer who answers that you want your senator to vote for
 conviction in the impeachment trial._ It doesn't matter if you think your senator is a nimrod who
 won't listen; the point is that if enough _of their own constituents_ call saying this, it
 will create a moment of doubt in which the right choice might be made.  (But please don't
@@ -157,9 +157,10 @@ call will be logged in the constituent database system either way.  Let them kno
 constituent, and are registered to vote.  They may ask your name, address, and zip code.
 Know your facts, and be brief. <sup id="fn3a">[[3]](#fn3)</sup>  
 
-So, there it is: if you are a constituent of a Republican senator (especially one soon up
-for re-election or retiring), call their DC office and tell the aide you are a constituent and a
-registered voter who wants a vote to convict Trump in the impeachment trial.  
+So, there it is: if you are a constituent of a Republican senator (especially one not
+immediately up for re-election in 2022 or retiring), call their DC office and tell the
+aide you are a constituent and a registered voter who wants a vote to convict Trump in the
+impeachment trial.  
 
 _They will ignore everything else._
 
