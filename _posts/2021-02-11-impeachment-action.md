@@ -77,9 +77,9 @@ That gives us:
 | _Republicans present, voting for acquittal:_   | $S - 50 - R = 25 + \lfloor R/2 \rfloor$ |
 | _Republicans absent,  not voting:_            | $100 - S = 25 - \lfloor 3R/2 \rfloor$   |
 
-
 Those 3 groups add up to 100 senators, and the conviction votes are 2/3 of those present.
-We can easily generate a table with a tiny bit of [R](https://www.r-project.org/):  
+We can easily generate a table with a tiny bit of [R](https://www.r-project.org/) to
+verify this numerically and see all the examples:  
 ```R
 > D <- 50; R <- seq(from = 0, to = 17, by = 1)
 > ans <- data.frame("D.Convict" = D,
