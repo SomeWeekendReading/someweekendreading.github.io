@@ -39,7 +39,7 @@ Still&hellip; I can't ignore it.  It _matters_.  3 reasons:
 ## How many Republican senators have to vote for conviction  
 
 In order to get conviction, the US constitution requires a 2/3 supermajority of the
-senators _then present_ (Article 1, section 3 <sup id="fn1a">[[1]](#fn1)</sup>).
+senators _then present_ (Article 1, section 3, paragraph 6 <sup id="fn1a">[[1]](#fn1)</sup>).
 There are 2 ways this can happen:  
 
 - __50 Democratic votes + 17 Republican votes = 2/3 of all 100 senators.__  The 50 Democratic
