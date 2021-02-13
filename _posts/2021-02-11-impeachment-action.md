@@ -152,8 +152,8 @@ Similar material from 2008 by the Union of Concerned Scientists <sup id="fn2a">[
 (hey, remember _my_ tribe) also suggests calling.  But in
 cases like this where it's about an imminent vote, definitely call the DC office.  Ask to
 speak to the aide who handles informing your senator about constituent opinions on
-impeachment (if that's complicated, just speak with whomever answers the phone, as the
-call will be logged in the constituent database system either way).  Let them know you are a
+impeachment.  If that's complicated, just speak with whomever answers the phone, as the
+call will be logged in the constituent database system either way.  Let them know you are a
 constituent, and are registered to vote.  They may ask your name, address, and zip code.
 Know your facts, and be brief. <sup id="fn3a">[[3]](#fn3)</sup>  
 
