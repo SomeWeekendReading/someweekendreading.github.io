@@ -78,7 +78,35 @@ That gives us:
 | _Republicans absent,  not voting:_            | $100 - S = 25 - \lfloor 3R/2 \rfloor$   |
 
 
-Those 3 groups add up to 100 senators, and the conviction votes are 2/3 of those present.  
+Those 3 groups add up to 100 senators, and the conviction votes are 2/3 of those present.
+We can easily generate a table with a tiny bit of [R](https://www.r-project.org/):  
+```R
+> D <- 50; R <- seq(from = 0, to = 17, by = 1)
+> ans <- data.frame("D.Convict" = D,
+                    "R.Convict" = R,
+                    "R.Acquit"  = 25 + floor(R/2),
+                    "R.Absent"  = 25 - floor(3*R/2))
+> transform(ans, "Senators.Total" = rowSums(ans))
+   D.Convict R.Convict R.Acquit R.Absent Senators.Total
+1         50         0       25       25            100
+2         50         1       25       24            100
+3         50         2       26       22            100
+4         50         3       26       21            100
+5         50         4       27       19            100
+6         50         5       27       18            100
+7         50         6       28       16            100
+8         50         7       28       15            100
+9         50         8       29       13            100
+10        50         9       29       12            100
+11        50        10       30       10            100
+12        50        11       30        9            100
+13        50        12       31        7            100
+14        50        13       31        6            100
+15        50        14       32        4            100
+16        50        15       32        3            100
+17        50        16       33        1            100
+18        50        17       33        0            100
+```
 
 The currently relevant numbers would lead us to speculate that perhaps 10 Republicans
 would vote for conviction, 30 Republicans could be present and vote for acquittal to pose
