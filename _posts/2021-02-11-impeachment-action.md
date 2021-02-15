@@ -178,13 +178,14 @@ are Trump.)
 
 Sigh.  
 
-Again, best wishes to the prosecutors of the Southern District of New York (for The
-Creature's likely tax crimes), the prosecutors in Georgia (for the election overturn
-attempt), and the prosecutors in DC (for the incitement to insurrection).  The last one is
-the most interesting, as a guilty verdict would, by both statute and the 14th Amendment,
-trigger a bar from federal or state office.  And, of course, prison.  
+Again, [best wishes]({{ site.baseurl }}/adults-in-charge#best-wishes) to the prosecutors
+of the Southern District of New York (for The Creature's likely tax crimes), the
+prosecutors in Georgia (for the election overturn attempt), and the prosecutors in DC (for
+the incitement to insurrection).  The last one is the most interesting, as a guilty
+verdict would, by both statute and the 14th Amendment, trigger a bar from federal or state
+office.  And, of course, prison.  
 
-Now there's a cheerful thought.  
+Now _there's_ a cheerful thought.  
 
 ---
 
