@@ -167,6 +167,25 @@ lower the conviction threshold.
 
 _They will ignore everything else._
 
+
+## 2021-Feb-13 Addendum  
+
+Well&hellip; that was _again_ [unsatisfying]({{ site.baseurl }}/unsatisfactory-election),
+and for about the same reasons.  The senate voted 57 guilty, 43 not guilty.  The guilty
+votes included all 50 Democrats and 7 Republicans, for the most bipartisan vote in
+American history to impeach a president.  (Though there are only 4 examples, _half of them_ 
+are Trump.)  
+
+Sigh.  
+
+Again, best wishes to the prosecutors of the Southern District of New York (for The
+Creature's likely tax crimes), the prosecutors in Georgia (for the election overturn
+attempt), and the prosecutors in DC (for the incitement to insurrection).  The last one is
+the most interesting, as a guilty verdict would, by both statute and the 14th Amendment,
+trigger a bar from federal or state office.  And, of course, prison.  
+
+Now there's a cheerful thought.  
+
 ---
 
 ## Notes &amp; References  
