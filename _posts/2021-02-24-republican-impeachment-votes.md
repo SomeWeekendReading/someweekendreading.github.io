@@ -250,7 +250,9 @@ Here's how that works in broad, schematic outline:
   folds (the training data), and estimate its performance by running it on the witheld
   fold (the test data).  We do that for all combinations of training/test data subsets.  
 - __Multivariate logistic regression:__ Ostensibly, we're training a 6-parameter predictive
-  model for the log odds ratio of a guilty vote (1 inhomogeneous offset $\beta_0$ + 5 predictor variables $\beta_i$).
+  model for the log odds ratio of a guilty vote (1 inhomogeneous offset $\beta_0$ + 5
+  predictor variables $\beta_i$).  
+
 $$
 \begin{align*}
   \log\left(\frac{\Pr(\mathrm{Guilty})}{1 - \Pr(\mathrm{Guilty})}\right) = \beta_0 &+ \beta_1 * \mathrm{PartyRepublican}\\
@@ -260,6 +262,7 @@ $$
 &+ \beta_5 * \mathrm{NotRetiring}
 \end{align*}
 $$
+
 - __LASSO regularization:__ However, using all 5 predictors might overspecify the model,
   when a simpler subset of the predictors would do better out-of-sample.  So glmnet uses
   the LASSO penalty, which imposes an L1 norm penalty on the number of variables used.
