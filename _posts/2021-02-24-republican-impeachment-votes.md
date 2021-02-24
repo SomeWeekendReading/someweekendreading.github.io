@@ -307,7 +307,7 @@ NotRetiring      1.96220073
 
 ```
 
-The simpler model chosen by the Hastie heuristic uses the constitutionality vote alone.  
+The simpler model chosen by the Hastie heuristic uses the constitutionality vote _alone_.  
 
 The performance of the best model is pretty good.  Here is a crosstabulation of the
 predicted votes (along the rows) and the actual votes (along the columns):  
@@ -344,14 +344,14 @@ I was hoping for some kind of deep understanding of the pressures on senators: T
 constituents, reelection schedules, retirements, party identity, and so on.  But it turns
 out those are all pretty correlated, and we have just a story about party identity:
 - Trumpy voters elect Trump.  
-- Trumpy voters also elect senators likely to defend Trump.  
+- Trumpy voters also elect senators who defend Trump.  
 
 There's probably not much more here than that.  We took a long time to find such a simple
 thing, no?  As James Branch Cabell described the work of a bizarre bard in _Music from
 Behind the Moon_, one of the best short stories I've ever read, our song "ran confusedly,
 shuddering to an uncertain end". <sup id="fn13a">[[13]](#fn13)</sup>  
 
-But at least we know that the root of all evil here is the [right-wing authoritarianism](https://en.wikipedia.org/wiki/Right-wing_authoritarianism) of the Trump crowd.  Altemeyer's exceptional book <sup id="fn14a">[[14]](#fn14)</sup> summarizing his research career on political authoritarianism is looking better each year in terms of its explanatory power, and more chilling each year as well.  
+But at least we know that the root of all evil here is the [right-wing authoritarianism](https://en.wikipedia.org/wiki/Right-wing_authoritarianism) of the Trump crowd.  Altemeyer's exceptional book <sup id="fn14a">[[14]](#fn14)</sup> summarizing his research career on political authoritarianism is looking better each year in terms of its explanatory power, and more chilling each year.  
 
 ---
 
