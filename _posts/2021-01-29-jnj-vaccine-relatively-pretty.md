@@ -209,7 +209,7 @@ The formidable Derek Lowe weighed in <sup id="fn4a">[[4]](#fn4)</sup> at his blo
 [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) hosted by 
 [_Science Translational Medicine_](https://stm.sciencemag.org/).  He reached much the same
 conclusion as we did here:  
-- This isn't quite as good as Pfizer or Moderna, especially againts the South African
+- This isn't quite as good as Pfizer or Moderna, especially against the South African
   B.1.351 variant.  (Though, to be fair, Pfizer and Moderna were tested before B.1.351 and
   B.1.1.7 got loose, so we should regard them as "unproven" against the variants, even
   though the _in vitro_ data look encouraging.)  

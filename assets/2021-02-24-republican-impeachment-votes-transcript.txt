@@ -1,0 +1,157 @@
+
+* Republican impeachment vote analysis on Wed Feb 24 15:38:28 2021
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2021-02-24-republican-impeachment-votes-transcript.txt
+
+Data loading and marshalling into omnibus form:
+-----------------------------------------------
+
+* Loading datasets:
+  - Backbone dataframe of verdict votes from ./2021-02-24-republican-impeachment-votes-verdict.tsv
+  - Constitutionality votes from ./2021-02-24-republican-impeachment-votes-const.tsv
+  - State popular vote percentages from ./2021-02-24-republican-impeachment-votes-states.tsv
+  - Reelection/retirement data from ./2021-02-24-republican-impeachment-votes-reelection.tsv
+
+* Using outer joins to make omnibus dataset
+  - Saved to ./2021-02-24-republican-impeachment-votes-omnibus.tsv
+
+Exploratory statistics:
+-----------------------
+
+
+* Crosstabulations to generate hypotheses:
+         Party
+VoteConst  D  I  R
+      Yea 48  2  6
+      Nay  0  0 44
+           Party
+VoteVerdict  D  I  R
+  Guilty    48  2  7
+  NotGuilty  0  0 43
+           VoteConst
+VoteVerdict Yea Nay
+  Guilty     56   1
+  NotGuilty   0  43
+   Senator          State Party VoteVerdict VoteConst TrumpMargin NextElection
+11    Burr North Carolina     R      Guilty       Nay        1.34         2022
+   Retiring
+11      Yes
+           NextElection
+VoteVerdict 2022 2024 2026
+  Guilty      17   24   16
+  NotGuilty   17    9   17
+           Retiring
+VoteVerdict Yes Maybe No
+  Guilty      2     0 55
+  NotGuilty   1     4 38
+            Party
+NextElection  D  I  R
+        2022 14  0 20
+        2024 21  2 10
+        2026 13  0 20
+* Making boolean/numeric dataframe for regression
+* Correlation bicluster of predictors to ./2021-02-24-republican-impeachment-votes-correlations.png
+* Measuring feature predictivity by univariate logistic regresssions
+        Predictor            p pRepublican          FDR FDRRepublican
+1 PartyRepublican 9.928782e-01          NA 9.948269e-01            NA
+2    VotedUnconst 9.948269e-01  0.99576058 9.948269e-01     0.9957606
+3     TrumpMargin 2.218940e-07  0.02840869 1.109470e-06     0.1136348
+4     Running2022 3.114172e-01  0.86791672 5.190287e-01     0.9957606
+5     NotRetiring 1.361015e-01  0.24799329 3.402538e-01     0.4959866
+
+Supervised classifier to predict VoteVerdict:
+---------------------------------------------
+
+6 x 1 sparse Matrix of class "dgCMatrix"
+                          1
+(Intercept)     -6.65610938
+PartyRepublican  .         
+VotedUnconst     8.21255164
+TrumpMargin      0.03186794
+Running2022      .         
+NotRetiring      1.96220073
+6 x 1 sparse Matrix of class "dgCMatrix"
+                        1
+(Intercept)     -2.833573
+PartyRepublican  .       
+VotedUnconst     5.106261
+TrumpMargin      .       
+Running2022      .       
+NotRetiring      .       
+         True
+Predicted FALSE TRUE Total
+    FALSE    56    0    56
+    TRUE      1   43    44
+    Total    57   43   100
+
+ Percent Correct:  0.99 
+$deviance
+       s0        s1        s2        s3        s4        s5        s6        s7 
+1.3534121 1.2030059 1.0663617 0.9503458 0.8508542 0.7648556 0.6900453 0.6246287 
+       s8        s9       s10       s11       s12       s13       s14       s15 
+0.5671816 0.5165546 0.4718077 0.4321622 0.3969672 0.3656731 0.3378123 0.3129844 
+      s16       s17       s18       s19       s20       s21       s22       s23 
+0.2908441 0.2710924 0.2534686 0.2377449 0.2237211 0.2112210 0.2003135 0.1908488 
+      s24       s25       s26       s27       s28       s29       s30       s31 
+0.1824821 0.1750778 0.1685420 0.1626793 0.1571864 0.1522571 0.1478789 0.1437159 
+      s32       s33       s34       s35       s36       s37       s38       s39 
+0.1396032 0.1359505 0.1327708 0.1300286 0.1276874 0.1257147 0.1240831 0.1227621 
+      s40       s41       s42       s43       s44       s45       s46       s47 
+0.1217281 0.1209520 0.1204138 0.1200941 0.1199747 0.1200422 0.1202764 0.1206657 
+      s48       s49       s50       s51       s52       s53       s54       s55 
+0.1212009 0.1218660 0.1226527 0.1235610 0.1245652 0.1256772 0.1268722 0.1281489 
+      s56       s57       s58       s59       s60       s61       s62       s63 
+0.1295064 0.1309355 0.1324342 0.1340017 0.1356260 0.1373094 0.1390468 0.1408418 
+      s64       s65       s66       s67       s68       s69       s70       s71 
+0.1426794 0.1445614 0.1464844 0.1484438 0.1504340 0.1524505 0.1544678 0.1560939 
+      s72       s73       s74       s75       s76       s77       s78       s79 
+0.1563241 0.1565505 0.1567981 0.1569681 0.1571404 0.1572820 0.1574306 0.1574729 
+      s80       s81       s82       s83       s84       s85       s86       s87 
+0.1575153 0.1575101 0.1574736 0.1574370 0.1573357 0.1571417 0.1570030 0.1568115 
+      s88       s89       s90       s91       s92       s93       s94       s95 
+0.1565857 0.1563335 0.1560592 0.1557843 0.1554913 0.1551823 0.1548786 0.1545646 
+      s96       s97       s98       s99 
+0.1542583 0.1539613 0.1536579 0.1533649 
+attr(,"measure")
+[1] "Binomial Deviance"
+
+$class
+  s0   s1   s2   s3   s4   s5   s6   s7   s8   s9  s10  s11  s12  s13  s14  s15 
+0.43 0.43 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 
+ s16  s17  s18  s19  s20  s21  s22  s23  s24  s25  s26  s27  s28  s29  s30  s31 
+0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 
+ s32  s33  s34  s35  s36  s37  s38  s39  s40  s41  s42  s43  s44  s45  s46  s47 
+0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 
+ s48  s49  s50  s51  s52  s53  s54  s55  s56  s57  s58  s59  s60  s61  s62  s63 
+0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 
+ s64  s65  s66  s67  s68  s69  s70  s71  s72  s73  s74  s75  s76  s77  s78  s79 
+0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 
+ s80  s81  s82  s83  s84  s85  s86  s87  s88  s89  s90  s91  s92  s93  s94  s95 
+0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 
+ s96  s97  s98  s99 
+0.01 0.01 0.01 0.01 
+attr(,"measure")
+[1] "Misclassification Error"
+
+$auc
+  [1] 0.7915137 0.9849041 0.9881681 0.9828641 0.9836801 0.9832721 0.9828641
+  [8] 0.9824561 0.9840881 0.9840881 0.9840881 0.9824561 0.9840881 0.9873521
+ [15] 0.9857201 0.9844961 0.9853121 0.9832721 0.9861281 0.9885761 0.9881681
+ [22] 0.9881681 0.9840881 0.9869441 0.9857201 0.9836801 0.9832721 0.9873521
+ [29] 0.9828641 0.9857201 0.9865361 0.9840881 0.9857201 0.9849041 0.9877601
+ [36] 0.9836801 0.9853121 0.9828641 0.9840881 0.9869441 0.9885761 0.9832721
+ [43] 0.9853121 0.9877601 0.9873521 0.9865361 0.9877601 0.9889841 0.9865361
+ [50] 0.9881681 0.9918401 0.9877601 0.9902081 0.9922481 0.9902081 0.9881681
+ [57] 0.9881681 0.9914321 0.9877601 0.9889841 0.9877601 0.9902081 0.9926561
+ [64] 0.9881681 0.9902081 0.9922481 0.9902081 0.9930641 0.9926561 0.9910241
+ [71] 0.9934721 0.9946960 0.9963280 0.9926561 0.9926561 0.9967360 0.9963280
+ [78] 0.9979600 0.9926561 0.9951040 0.9942880 0.9967360 0.9942880 0.9930641
+ [85] 0.9951040 0.9975520 0.9942880 0.9967360 0.9959200 0.9942880 0.9951040
+ [92] 0.9946960 0.9930641 0.9934721 0.9991840 0.9946960 0.9971440 0.9955120
+ [99] 0.9975520 0.9955120
+attr(,"measure")
+[1] "AUC"
+
+
+* Republican impeachment vote analysis completed Wed Feb 24 15:38:29 2021 (1.0 sec elapsed).
