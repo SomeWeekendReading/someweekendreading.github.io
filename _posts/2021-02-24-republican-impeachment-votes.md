@@ -207,7 +207,7 @@ The crosstabulations were not especially encouraging in the quest for explanatio
 brute-force party identity.  Still, let's press forward.  We'll qualify each of the
 columns that might predict <code>VoteVerdict</code> in a univariate regression model.  For
 example, for the predictor <code>TrumpMargin</code>, we do:  
-$$ \log\(\frac{\Pr(\mathrm{Guilty})}{1 - \Pr(\mathrm{Guilty})}\) = \beta_0 + \beta_1 * \mathrm{TrumpMargin} $$
+$$ \log\left(\frac{\Pr(\mathrm{Guilty})}{1 - \Pr(\mathrm{Guilty})}\right) = \beta_0 + \beta_1 * \mathrm{TrumpMargin} $$
 
 We'll report the $p$-value for statistial significance of the $\beta_1$ coefficient, for
 all senators and for just the Republican senators.  Then we'll do a Benjamini-H&ouml;chberg
@@ -250,7 +250,7 @@ Here's how that works in broad, schematic outline:
 - __Multivariate logistic regression:__ Ostensibly, we're training a 6-parameter predictive
   model for the log odds ratio of a guilty vote (1 inhomogeneous offset $\beta_0$ + 5 predictor variables $\beta_i$).
 $$
-\log\(\frac{\Pr(\mathrm{Guilty})}{1 - \Pr(\mathrm{Guilty})}\) = \beta_0 + \beta_1 * \mathrm{PartyRepublican} + \beta_2 * \mathrm{VotedUnconst} + \beta_3 * \mathrm{TrumpMargin} + \beta_4 * \mathrm{Running2022} + \beta_5 * \mathrm{NotRetiring}
+\log\left(\frac{\Pr(\mathrm{Guilty})}{1 - \Pr(\mathrm{Guilty})}\right) = \beta_0 + \beta_1 * \mathrm{PartyRepublican} + \beta_2 * \mathrm{VotedUnconst} + \beta_3 * \mathrm{TrumpMargin} + \beta_4 * \mathrm{Running2022} + \beta_5 * \mathrm{NotRetiring}
 $$
 - __LASSO regularization:__ However, using all 5 predictors might overspecify the model,
   when a simpler subset of the predictors would do better out-of-sample.  So glmnet uses
