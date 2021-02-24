@@ -234,7 +234,7 @@ be something wrong there&hellip;)
 
 It might be that the other features taken together will predict a bit more, so let's move
 on to multivariate model.  Here we'll be using the redoubtable 
-[glmnet package](https://cran.r-project.org/web/packages/glmnet/index.html), which will
+[glmnet package](https://cran.r-project.org/web/packages/glmnet/index.html) <sup id="fn12a">[[12]](#fn12)</sup>, which will
 handle the multivarite logistic regression, LASSO regulation to impose an L1 penalty on
 model complexity ("choose the simplest model that's adequately predictive") and 3-fold
 crossvalidation to estimate out-of-sample predictivity.  
@@ -370,7 +370,7 @@ But at least we know that the root of all evil here is the [right-wing authorita
 
 <a id="fn11">11</a>: Weekend Editor, ["Omnibus dataset for 2021 senate impeachment votes"]({{ site.baseurl }}/assets/2021-02-24-republican-impeachment-votes-omnibus.tsv), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Feb-24.[↩](#fn11a)  
 
-<a id="fn12">12</a>: J Friedman, T Hastie, R Tibshirani, ["Regularization Paths for Generalized Linear Models via Coordinate Descent"](https://www.jstatsoft.org/v33/i01/), _Journal of Statistical Software_, 2010 33(1), 1–22.[↩](#fn12a)  
+<a id="fn12">12</a>: J Friedman, T Hastie, R Tibshirani, ["Regularization Paths for Generalized Linear Models via Coordinate Descent"](https://www.jstatsoft.org/article/view/v033i01), _Journal of Statistical Software_, 2010 33(1), 1–22.[↩](#fn12a)  
 
 <a id="fn13">13</a>: J B Cabell, [_Music from Behind the Moon: An Epitome_](https://www.google.com/books/edition/The_Music_from_Behind_the_Moon/MwA-AAAAMAAJ?hl=en), 1926.[↩](#fn13a)  
 
