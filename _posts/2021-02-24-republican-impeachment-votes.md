@@ -198,7 +198,9 @@ and anti-correlated with each other.  If I converted to <code>NotRetiring</code>
 <code>Retiring</code>, then they'd be correlated: everybody retiring was going to have to
 run in 2022.  So that makes sense, too.  
 
-Basically, it looks like there are maybe 2 independent predictors here?  
+Basically, it looks like there are maybe 2 independent predictors here?  Or maybe just 1,
+if we flip the sign of <code>NotRetiring</code> and note that <code>Running2022</code> is
+mildly positively correlated with the "Trumpy block" of variables.  
 
 
 ## Machine learning: feature selection  
