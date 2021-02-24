@@ -11,9 +11,9 @@ It's been a couple weeks, so we've all calmed down a little.  But still&hellip; 
 ## What we're after  
 
 <img src="{{ site.baseurl }}/images/2021-02-24-republican-impeachment-votes-npr.jpg" width="400" height="263" alt="NPR: Trump Impeachment Verdict Votes" title="NPR: Trump Impeachment Verdict Votes" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-The Senate voted: 57 guilty, 43 not guilty. <sup id="fn1a">[[1]](#fn1)</sup>  While that's
+The Senate has voted: 57 guilty, 43 not guilty. <sup id="fn1a">[[1]](#fn1)</sup>  While that's
 a bipartisan supermajority for the guilty vote, it's not sufficient: 67 guilty votes were
-needed.  The facts in evidence were brutally clear.  All 50 Democrats and 7 Republicans
+needed ([or 15 guilty-voting Republican senators would have had to go stand in the lobby for a few minutes](https://www.someweekendreading.blog/impeachment-action/#how-many-republican-senators-have-to-vote-for-conviction)).  The facts in evidence were brutally clear.  All 50 Democrats and 7 Republicans
 acknowledged this.  So that raises the question: _what were the other 43 Republican senators thinking?!_  
 
 At some level, I'd like to get inside their heads to understand their thinking.  They had
@@ -86,6 +86,7 @@ Here's the data we used:
    from _CNN_ <sup id="fn9a">[[9]](#fn9)</sup>, confirmed those and added several "maybe"
    twists to the data.  Significantly, all those flirting with retirement are up for
    election in 2022, i.e., nobody said "one more time and _then_ I'll retire":  
+
 |Senator  | State          | NextElection | Retiring |
 | ------- | -------------- | ------------ | -------- |
 |Burr     | North Carolina | 2022         | Yes      |
