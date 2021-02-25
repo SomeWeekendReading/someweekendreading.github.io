@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why did Republicans block a Trump impeachment guilt decision?
+title: Why did Republicans block a Trump impeachment guilty verdict?
 tags: MathInTheNews Politics R Statistics
 comments: true
 ---
@@ -32,22 +32,22 @@ and to [his modern admirers, like Niven & Pournelle](https://en.wikipedia.org/wi
 
 Basically, we just elaborate the fears enumerated above, in technical ways that we can
 actually test statistically:  
-- To what degree does simple membership in the Republican party force their vote?  Given
+- _To what degree does simple membership in the Republican party force their vote?_  Given
   the ideological extremism of the Republicans, this bare fact may foreclose on any other
   option, all by itself.  
-- Did a senator vote earlier that the impeachment trial was unconstitutional?  While the
+- _Did a senator vote earlier that the impeachment trial was unconstitutional?_  While the
   position is ridiculous &ndash; law professors, for example are near-unanimous that it
   _was_ constitutional &ndash; a senator might have wanted to vote "not guilty" out of
   consistency.  
-- If Trump won the popular vote in a senator's state by a large margin, might the senator
-  feel compelled to defend Trump?  This could be a misplaced desire to represent
+- _If Trump won the popular vote in a senator's state by a large margin, might the senator
+  feel compelled to defend Trump?_  This could be a misplaced desire to represent
   constituents even to defending criminality and incompetence.  Or it could be they have
   no stomach to face hordes of Trumpy voters.  
-- Is the senator running for reelection in 2022?  A reelection campaign hot on the heels
+- _Is the senator running for reelection in 2022?_  A reelection campaign hot on the heels
   of impeachment means voters will still remember this vote, and perhaps punish the
   senator if he voted guilty.  If the next campaign is in 2024 or 2026, this may be less
   the case, as American voters have notoriously and regrettably short memories.  
-- Is the senator retiring?  If so, a senator who doesn't have to face voters ever again
+- _Is the senator retiring?_  If so, a senator who doesn't have to face voters ever again
   might be able to muster up the courage for a guilty vote.  
   
 
