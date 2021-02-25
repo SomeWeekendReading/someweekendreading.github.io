@@ -76,7 +76,7 @@ Here's the data we used:
    Class III is up for reelection in 2022. <sup id="fn7a">[[7]](#fn7)</sup>  It's this
    last class which is most likely to feel the heat of angry Trumpy voters in their
    upcoming reelection campaigns.  (There were some amusing issues here.  These datasets
-   included spelling some senator's names with accent marks that were not used in the roll
+   included spelling some senator's names with accent marks that dwere not used in the roll
    call vote reports.  Also, there are 2 senators surnamed "Scott", from Florida and South
    Carolina.  It's the presence of headaches like this that you know you're dealing with
    real data!)  
@@ -351,7 +351,7 @@ thing, no?  As James Branch Cabell described the work of a bizarre bard in _Musi
 Behind the Moon_, one of the best short stories I've ever read, our song "ran confusedly,
 shuddering to an uncertain end". <sup id="fn13a">[[13]](#fn13)</sup>  
 
-But at least we know that the root of all evil here is the [right-wing authoritarianism](https://en.wikipedia.org/wiki/Right-wing_authoritarianism) of the Trump crowd.  Altemeyer's exceptional book <sup id="fn14a">[[14]](#fn14)</sup> summarizing his research career on political authoritarianism is looking better each year in terms of its explanatory power, and more chilling each year.  
+But at least we know that the root of all evil here is the [right-wing authoritarianism](https://en.wikipedia.org/wiki/Right-wing_authoritarianism) of the Trump crowd.  Altemeyer's exceptional book <sup id="fn14a">[[14]](#fn14)</sup> summarizing his research career on right-wing authoritarianism is looking better each year in terms of its explanatory power, and more chilling each year.  
 
 ---
 
