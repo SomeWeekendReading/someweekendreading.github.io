@@ -24,7 +24,7 @@ be.  So we'll respect the people who _have_ dug into it by examining their concl
 first, and then diving into the FDA submission docs for our own take.  
 
 <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-statnews.jpg" width="400" height="467" alt="STAT News: FDA scientists endorse J&amp;J COVID-19 vaccine" title="STAT News: FDA scientists endorse J&amp;J COVID-19 vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-First up, as usual from [_STAT News_]([_STAT News_](https://www.statnews.com/)), is an
+First up, as usual from [_STAT News_](https://www.statnews.com/), is an
 article by Matthew Herper &amp; Helen Branswell <sup id="fn1a">[[1]](#fn1)</sup>.  Their
 title ("FDA scientists endorse J&amp;J's Covid vaccine&hellip;") reminds us of how this
 process works.  When you submit something to the FDA for approval, something like this happens:  
@@ -125,7 +125,7 @@ Internet venues where the comments are actually worth reading.)
   virus evolution!)  
 - EUA approval is almost certain (and today we'll find out).  Production of an adenovirus
   vector vaccine is really complicated, as Lowe pointed out in an excellent tutorial on
-  the process. <sup id="fn3">[[3]](#fn3)</sup> (Of course, making the mRNA vaccines is a
+  the process. <sup id="fn3a">[[3]](#fn3)</sup> (Of course, making the mRNA vaccines is a
   bizarre art form of its own, as Lowe also explained.  <sup id="fn4a">[[4]](#fn4)</sup>
   Anybody who tells you we could "just make more" if only the evil pharma companies would
   share their designs is deeply ignorant and spreading disinformation.)  
@@ -372,7 +372,7 @@ worth reading, just for confirmation:
 </p>
 &mdash; Hilda Bastian, PhD (@hildabast) <a href="https://twitter.com/hildabast/status/1364561482185199625?ref_src=twsrc%5Etfw">February 24, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 
 ## VRBPAC Verdict  
@@ -390,7 +390,7 @@ VRBPAC members _actually voted against the Pfizer EUA on this basis alone._  So 
 to know that Moderna didn't repeat that mistake, and neither has Johnson &amp; Johnson.  
 
 <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-statnews-liveblog-vrbpac.jpg" width="400" height="438" alt="STAT news: live-blogging the FDA VRBPAC meeting on the J&amp;J vaccine" title="STAT news: live-blogging the FDA VRBPAC meeting on the J&amp;J vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Over at [_STAT News_]([_STAT News_](https://www.statnews.com/)), Helen Branswell and
+Over at [_STAT News_](https://www.statnews.com/), Helen Branswell and
 Matthew Herper ("the old reliables") have been publishing notes in real time about the
 VRBPAC meeting as they've watched it today. <sup id="fn11a">[[11]](#fn11)</sup>  It's
 pretty revealing about the topics that concern the VRBPAC members (one dose vs two,
@@ -426,7 +426,7 @@ in a simple table:
   &mdash; Ashish K. Jha, MD, MPH (@ashishkjha)
   <a href="https://twitter.com/ashishkjha/status/1356079020878786561?ref_src=twsrc%5Etfw">February 1, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 __Summary:__ There are 2 conclusions that he makes blunt-trauma-obvious here:
 - _Column 2:_ The vaccines have all been tested on _large_ populations: $\geq O(10^4)$ trial
