@@ -99,7 +99,7 @@ $$
   evidence that if you're willing to give up some convenience of single dose
   administration, you can get back some higher efficacy.  Maybe.  
 
-<img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-lowe.jpg" width="236" height="467" alt="In the Pipeline: J&amp;J vaccine goes before FDA" title="In the Pipeline: J&amp;J vaccine goes before FDA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-lowe.jpg" width="400" height="236" alt="In the Pipeline: J&amp;J vaccine goes before FDA" title="In the Pipeline: J&amp;J vaccine goes before FDA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Next up, as now seems to be the custom of this blog for some reason, is the formidable
 med-chem blogger Derek Lowe at his blog
 [_In the Pipeline_](https://blogs.sciencemag.org/pipeline) <sup id="fn2a">[[2]](#fn2)</sup>, 
