@@ -61,7 +61,7 @@ $$
   VE & = 1 - \frac{\Pr(\mathrm{infected}|\mathrm{vaccinated})}{\Pr(\mathrm{infected}|\mathrm{control})} \\
      & = 1 - \frac{66 / N_{vac}}{193 / N_{ctl}} \\
      & = 1 - \frac{66}{193} \\
-     & = 65.8%
+     & = 65.8\%
 \end{align*}
 $$
 
@@ -241,7 +241,7 @@ $$
 \begin{align*}
   VE & = 1 - \frac{\Pr(\mathrm{infected}|\mathrm{vaccinated})}{\Pr(\mathrm{infected}|\mathrm{control})} \\
      & = 1 - \frac{(66 / 19306}{193 / 19178} \\
-     & = 66.03%
+     & = 66.03\%
 \end{align*}
 $$
 
