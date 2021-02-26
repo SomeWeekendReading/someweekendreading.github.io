@@ -102,7 +102,7 @@ $$
 <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-lowe.jpg" width="400" height="236" alt="In the Pipeline: J&amp;J vaccine goes before FDA" title="In the Pipeline: J&amp;J vaccine goes before FDA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Next up, as now seems to be the custom of this blog for some reason, is the formidable
 med-chem blogger Derek Lowe at his blog
-[_In the Pipeline_](https://blogs.sciencemag.org/pipeline) <sup id="fn2a">[[2]](#fn2)</sup>, 
+[_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) <sup id="fn2a">[[2]](#fn2)</sup>, 
 hosted by _Science Translational Medicine_.  (His blog, by the way, is one of the few
 Internet venues where the comments are actually worth reading.)  
 
@@ -397,7 +397,29 @@ pretty revealing about the topics that concern the VRBPAC members (one dose vs t
 severity of sickness, advese event analysis, why communicating with the public about
 vaccines is difficult and about to get worse, anaphylaxis, &hellip;).  
 
-__I'll add the verdict here when it happens. Probably within an hour or so.__  
+Here's their report on the verdict:  
+>__The vote__  
+>__5:05 p.m.:__ It all comes down to this. The panel voted on only a single question:  
+>
+> Based on the totality of scientific evidence available, do the benefits of the Janssen Covid-19 vaccine outweigh its risks for individuals 18 years of age and older?  
+>
+>The results:  
+>
+>22 Yes, 0 No  
+>
+>Unanimous! Now there will be a discussion on why the panelists think about their votes, which could be as important as the vote in determining how the vaccine is authorized.  
+
+The FDA scientists didn't have to agree with Janssen; but they did.  The VRBPAC didn't
+have to agree with the FDA scientists; but they did.  The FDA itself doesn't have to agree
+with the VRBPAC; but they usually do.  
+
+For Pfizer and Moderna, the FDA formal EUA issued the same evening of the decision.  (But
+some of that was Trump being an idiot making pointless blustery threats.  At least
+_that's_ fixed now.)  So&hellip; the way to bet is an EUA either tonight or at the worst
+early next week.  
+
+Today was a _good_ day.  
+
 
 ## How do the vaccines compare?  
 
@@ -475,11 +497,11 @@ get a second dose anyway.)
 
 <a id="fn1">1</a>: M Herper &amp; H Branswell, ["FDA scientists endorse J&J's Covid vaccine, as new data shed light on efficacy"](https://www.statnews.com/2021/02/24/new-data-shed-light-on-efficacy-of-jjs-single-dose-vaccine-against-covid-19/), [_STAT News_](https://www.statnews.com/), 2021-Feb-24. [↩](#fn1a)  
 
-<a id="fn2">2</a>: D Lowe, ["The J&amp;J Vaccine at the FDA"](https://blogs.sciencemag.org/pipeline/archives/2021/02/24/the-jj-vaccine-at-the-fda), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline) blog at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Feb-24.[↩](#fn2a)  
+<a id="fn2">2</a>: D Lowe, ["The J&amp;J Vaccine at the FDA"](https://blogs.sciencemag.org/pipeline/archives/2021/02/24/the-jj-vaccine-at-the-fda), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) blog at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Feb-24.[↩](#fn2a)  
 
-<a id="fn3">3</a>: D Lowe, ["How You Make an Adenovirus Vaccine"](https://blogs.sciencemag.org/pipeline/archives/2021/02/08/how-you-make-an-adenovirus-vaccine), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline) blog at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Feb-08.[↩](#fn3a)  
+<a id="fn3">3</a>: D Lowe, ["How You Make an Adenovirus Vaccine"](https://blogs.sciencemag.org/pipeline/archives/2021/02/08/how-you-make-an-adenovirus-vaccine), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) blog at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Feb-08.[↩](#fn3a)  
 
-<a id="fn4">4</a>: D Lowe, ["Myths of Vaccine Manufacturing"](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline) blog at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Feb-02.[↩](#fn4a)  
+<a id="fn4">4</a>: D Lowe, ["Myths of Vaccine Manufacturing"](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) blog at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Feb-02.[↩](#fn4a)  
 
 <a id="fn5">5</a>: R Zhang &amp; Y Hefter, ["FDA Review of Efficacy and Safety of the Janssen COVID-19 Vaccine Emergency Use Authorization Request"](https://www.fda.gov/media/146267/download), FDA/CBER Office of Vaccines Research and Review, 2021-Feb-26. [↩](#fn5a)  
 
@@ -489,7 +511,7 @@ get a second dose anyway.)
 
 <a id="fn8">8</a>: Janssen Biotech, ["Janssen Ad26.COV2.S Vaccine for the Prevention of COVID-19"](https://www.fda.gov/media/146217/download), Janssen Biotech/Johnson &amp; Johnson, 2021-Feb-26. [↩](#fn8a)  
 
-<a id="fn9">9</a>: Janssen Biotech, ["COVID-19 Vaccine Ad26.COV2.S VAC31518 (JNJ-78436735): SPONSOR BRIEFING DOCUMENT ADDENDUM"](https://www.fda.gov/media/146218/download), Janssen Biotech/Johnson &amp; Johnson, 2021-Feb-26. [↩](#fn19a)  
+<a id="fn9">9</a>: Janssen Biotech, ["COVID-19 Vaccine Ad26.COV2.S VAC31518 (JNJ-78436735): SPONSOR BRIEFING DOCUMENT ADDENDUM"](https://www.fda.gov/media/146218/download), Janssen Biotech/Johnson &amp; Johnson, 2021-Feb-26. [↩](#fn9a)  
 
 <a id="fn10">10</a>: J van Hoof, H Schuitemaker, M Douoguih, &amp; G Poland, ["Emergency Use Authorization (EUA) Application for Ad26.COV2.S"](https://www.fda.gov/media/146265/download), Janssen Biotech/Johnson &amp; Johnson, 2021-Feb-26. [↩](#fn10a)  
 
