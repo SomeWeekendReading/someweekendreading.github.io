@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Johnson &amp; Johnson COVID-19 review by FDA external advisory committee
-tags: COVID PharmaAndBiotech Politics SomebodyAskedMe
+tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
 ---
 
