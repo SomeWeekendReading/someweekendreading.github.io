@@ -232,7 +232,7 @@ old.  So we have pretty reasonable sampling of response in the elderly.
 ### Vaccine efficacy  
 
 <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-janssen-4.jpg" width="400" height="226" alt="Janssen: Global Effiacy" title="Janssen: Global Effiacy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-janssen-5.jpg" width="400" height="449" alt="Janssen: Kaplan-Meier curves show onset @ day 14" title="Janssen: Kaplan-Meier curves show onset @ day 14" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-janssen-5.jpg" width="400" height="225" alt="Janssen: Kaplan-Meier curves show onset @ day 14" title="Janssen: Kaplan-Meier curves show onset @ day 14" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Using the first table, showing results on moderate/severe COVID globally, we can amend our
 quick-and-dirty calculation of vaccine efficacy above.  Now we know the exact sizes of the
 treatment and control arms ($N_{vac}$ and $N_{ctl}$) at day 28, so:
@@ -240,7 +240,7 @@ treatment and control arms ($N_{vac}$ and $N_{ctl}$) at day 28, so:
 $$
 \begin{align*}
   VE & = 1 - \frac{\Pr(\mathrm{infected}|\mathrm{vaccinated})}{\Pr(\mathrm{infected}|\mathrm{control})} \\
-     & = 1 - \frac{(66 / 19306}{193 / 19178} \\
+     & = 1 - \frac{66 / 19306}{193 / 19178} \\
      & = 66.03\%
 \end{align*}
 $$
@@ -367,10 +367,10 @@ documents, reaching the same conclusions we did from the VRBPAC slide presentati
 worth reading, just for confirmation:  
 
 <blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">
-  Away we go. J&amp;J ENSEMBLE trial evaluation has landed - 8am again - thanks, FDA! ....1/n<a href="https://t.co/Poy7N72Rnt">https://t.co/Poy7N72Rnt</a>
-</p>
-&mdash; Hilda Bastian, PhD (@hildabast) <a href="https://twitter.com/hildabast/status/1364561482185199625?ref_src=twsrc%5Etfw">February 24, 2021</a>
+ <p lang="en" dir="ltr">
+   Away we go. J&amp;J ENSEMBLE trial evaluation has landed - 8am again - thanks, FDA! ....1/n<a href="https://t.co/Poy7N72Rnt">https://t.co/Poy7N72Rnt</a>
+ </p>
+ &mdash; Hilda Bastian, PhD (@hildabast) <a href="https://twitter.com/hildabast/status/1364561482185199625?ref_src=twsrc%5Etfw">February 24, 2021</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
@@ -416,7 +416,8 @@ with the VRBPAC; but they usually do.
 For Pfizer and Moderna, the FDA formal EUA issued the same evening of the decision.  (But
 some of that was Trump being an idiot making pointless blustery threats.  At least
 _that's_ fixed now.)  So&hellip; the way to bet is an EUA either tonight or at the worst
-early next week.  
+early next week.  If the formal issuance of the EUA happens tonight or over the weekend,
+then 4 million doses currently warehoused by J&amp;J could start shipping by Monday.  
 
 Today was a _good_ day.  
 
