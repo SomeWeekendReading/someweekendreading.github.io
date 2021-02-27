@@ -126,9 +126,9 @@ Internet venues where the comments are actually worth reading.)
 - EUA approval is almost certain (and today we'll find out).  Production of an adenovirus
   vector vaccine is really complicated, as Lowe pointed out in an excellent tutorial on
   the process. <sup id="fn3a">[[3]](#fn3)</sup> (Of course, making the mRNA vaccines is a
-  bizarre art form of its own, as Lowe also explained.  <sup id="fn4a">[[4]](#fn4)</sup>
+  bizarre art form of its own, as Lowe also explained.  <sup id="fn4a">[[4]](#fn4)</sup>)
   Anybody who tells you we could "just make more" if only the evil pharma companies would
-  share their designs is deeply ignorant and spreading disinformation.)  
+  share their designs is deeply ignorant and spreading disinformation.  
 
 I really like his bottom line:  
 > But the big message is the same: right now, variants and all, we're winning. The
@@ -140,7 +140,7 @@ I really like his bottom line:
 > this pressure up and keep ramping up vaccine supplies and their rollout around the
 > world, we are going to beat this virus. Good riddance to it.  
 
-That's important to understand, in the midst of our fear, anxiety, and depression.  
+That's important to understand in the midst of our fear, anxiety, and depression.  
 
   
 ## The JnJ FDA EUA application briefing documents  
@@ -220,8 +220,8 @@ population (since day 0, day 14, and day 28).  The last population is the most i
 as it gave the subjects' immune systems time to react; it was the focus in their overall
 claims.  In that case, we're talking 19,306 treatment and 19,178 controls.  
 
-Side note: when vaccine skeptics think these vaccines haven't been tested enough, remind
-them of these numbers!  The test populations are _huge_.  
+Side note: when vaccine 'skeptics' say they think these vaccines haven't been tested
+enough, remind them of these numbers!  The test populations are _huge_.  
 
 When you break down the trial population by sex, age, race, and so on the result is that
 the treatment and control groups look pretty similar.  This is as it should be.  I note
@@ -348,14 +348,14 @@ sample estimates:
 0.0006394154 0.0004568713 
 ```
 Still, the FDA scientists, in an abundance of caution, recommend monitoring for thrombotic
-events if an EUA is approved.  Ok, cautious is good, so long as people _get vaccinated._
+events if an EUA is approved.  Ok, cautious is good, I guess&hellip; so long as people
+_get vaccinated._  
 
-So&hellip; looks pretty good.  Ok, not _quite_ as good as Pfizer and Moderna, but those
-were exceptional.  This is very good, and has extremely strong logistical advantages over
-Pfizer and Moderna in rural areas or in the developing world.  And remember: we _must_
-vaccinate all people in all countries, or the virus will continue to mutate until it
-evades our vaccines and comes back to bite us.  In public health: "None of us is safe
-until everybody is safe."  
+Ok, it's not _quite_ as good as Pfizer and Moderna, but those were exceptional.  This is
+very good, and has extremely strong logistical advantages over Pfizer and Moderna in rural
+areas or in the developing world.  And remember: we _must_ vaccinate all people in all
+countries, or the virus will continue to mutate until it evades our vaccines and comes
+back to bite us.  In public health: "None of us is safe until everybody is safe."  
 
 So let's get everybody safely vaccinated.  
 
@@ -421,6 +421,22 @@ then 4 million doses currently warehoused by J&amp;J could start shipping by Mon
 
 Today was a _good_ day.  
 
+### Addendum at 8pm  
+
+<img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-fda-statement.jpg" width="400" height="157" alt="FDA: Statement of intent to rapidly work toward EUA" title="FDA: Statement of intent to rapidly work toward EUA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+Later in the evening, the FDA itself issued a statement about the VRBPAC recommendation
+for approval. <sup id="fn12a">[[12]](#fn12)</sup>  It wasn't _exactly_ a full EUA, but a
+statement that they'd work rapidly toward that and that J&amp;J can start in on executing
+vaccine distribution plans:  
+
+> Following today’s positive advisory committee meeting outcome regarding the Janssen
+> Biotech Inc. COVID-19 Vaccine, the U.S. Food and Drug Administration has informed the
+> sponsor that it will rapidly work toward finalization and issuance of an emergency use
+> authorization. The agency has also notified our federal partners involved in vaccine
+> allocation and distribution so they can execute their plans for timely vaccine
+> distribution.  
+
+So even though the official EUA might come next week, vaccines can start moving _tonight._  
 
 ## How do the vaccines compare?  
 
@@ -518,3 +534,5 @@ parts of the US or in the developing world.
 <a id="fn10">10</a>: J van Hoof, H Schuitemaker, M Douoguih, &amp; G Poland, ["Emergency Use Authorization (EUA) Application for Ad26.COV2.S"](https://www.fda.gov/media/146265/download), Janssen Biotech/Johnson &amp; Johnson, 2021-Feb-26. [↩](#fn10a)  
 
 <a id="fn11">11</a>: H Branswell &amp; M Herper, ["Tracking an FDA advisory panel's meeting on J&J's Covid-19 vaccine"](https://www.statnews.com/2021/02/26/tracking-an-fda-advisory-panels-meeting-on-jjs-covid-19-vaccine/), [_STAT News_](https://www.statnews.com/), 2021-Feb-26. [↩](#fn11a)  
+
+<a id="fn12">12</a>: J Woodcock &amp; P Marks, ["FDA Statement on Vaccines and Related Biological Products Advisory Committee Meeting"](https://www.fda.gov/news-events/press-announcements/fda-statement-vaccines-and-related-biological-products-advisory-committee-meeting-1), US Food &amp; Drug Administration, 2021-Feb-26. [↩](#fn12a)  
