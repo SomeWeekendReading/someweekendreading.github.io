@@ -198,7 +198,7 @@ the European Union. <sup id="fn5a">[[5]](#fn5)</sup>  Frustratingly, when you dr
 to look at Pfizer, Moderna, and AstraZeneca, there seem to be different causes for delay
 and shortages in each case.  Nonetheless, it's understandably infuriating when _all_ of
 them _simultaneously_ slow down deliveries, and that's going to cause considerable
-politial anger in the EU.  They're already testing tempers about vaccine exports out of
+political anger in the EU.  They're already testing tempers about vaccine exports out of
 the EU, and even across borders within the EU.  Hungary has gotten so desparate they've
 begun purchasing the Russian Sputnik V vaccine.  
 

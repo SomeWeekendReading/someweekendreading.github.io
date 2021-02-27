@@ -100,16 +100,16 @@ $$
   administration, you can get back some higher efficacy.  Maybe.  
 
 <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-lowe.jpg" width="400" height="236" alt="In the Pipeline: J&amp;J vaccine goes before FDA" title="In the Pipeline: J&amp;J vaccine goes before FDA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Next up, as now seems to be the custom of this blog for some reason, is the formidable
-med-chem blogger Derek Lowe at his blog
-[_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) <sup id="fn2a">[[2]](#fn2)</sup>, 
-hosted by _Science Translational Medicine_.  (His blog, by the way, is one of the few
-Internet venues where the comments are actually worth reading.)  
 
+Next up, as now seems to be the custom of this blog for some reason, is the formidable
+med-chem blogger Derek Lowe at his blog [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/)
+<sup id="fn2a">[[2]](#fn2)</sup>, hosted by 
+[_Science Translational Medicine_](https://stm.sciencemag.org/).  (His blog, by
+the way, is one of the few Internet venues where the comments are actually worth reading.)  
 - Lowe confirms a crucial summary fact: this vaccine, like all the others, is observed in
   randomized clinical trials to _prevent completely deaths from COVID-19._  So I don't want
   to hear any whining in the comments about efficacy differences, ok?  Get vaccinated so
-  you'll live and not die.  Remember that if you remember nothing else about this!  
+  you'll live, and not die.  Remember that if you remember nothing else here!  
 - Interestingly, this trial also checked for asymptomatic infection.  Unlike the others,
   which waited until you reported feeling sick, this one took about 2900 people out of the
   about 10,000 in each arm and tested them regardless of symptoms.  The FDA analysis says
@@ -127,8 +127,8 @@ Internet venues where the comments are actually worth reading.)
   vector vaccine is really complicated, as Lowe pointed out in an excellent tutorial on
   the process. <sup id="fn3a">[[3]](#fn3)</sup> (Of course, making the mRNA vaccines is a
   bizarre art form of its own, as Lowe also explained.  <sup id="fn4a">[[4]](#fn4)</sup>)
-  Anybody who tells you we could "just make more" if only the evil pharma companies would
-  share their designs is deeply ignorant and spreading disinformation.  
+  Anybody who tells you we could "just make more, if only the evil pharma companies would
+  share their designs"&hellip; is deeply ignorant and spreading disinformation.  
 
 I really like his bottom line:  
 > But the big message is the same: right now, variants and all, we're winning. The
@@ -143,7 +143,7 @@ I really like his bottom line:
 That's important to understand in the midst of our fear, anxiety, and depression.  
 
   
-## The JnJ FDA EUA application briefing documents  
+## The J&amp;J FDA EUA application briefing documents  
 
 The briefing documents submitted by Johnson &amp; Johnson (really by _Janssen_) are up on
 the FDA web site, along with the FDA internal analysis.
@@ -151,7 +151,7 @@ the FDA web site, along with the FDA internal analysis.
 <sup id="fn8a">[[8]](#fn8)</sup> <sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
 As with any such endeavor as important and complex as a drug application, there's a lot
 here to troll through!  (And we're not even counting all the clinical trial documents,
-data reports, safety review board reports, &hellip this is just the _summary_ for the
+data reports, safety review board reports, &hellip; this is just the _summary_ for the
 VRBPAC.)  
 
 So what's in there?  
@@ -204,9 +204,10 @@ cold"), and mess with it in a couple of ways:
    belongs here is answered along the lines of "oh, hell no!"  
 5. Antibody production against the spike protein begins.  Memory B cells remember this so
    they can manufacture more antibodies in the future if needed.  Inflammatory cytokines
-   get sprayed around, all over everything thereby making you feel like crap for a day.
+   get sprayed all over everything, thereby making you feel like crap for a day.
    But _you are not sick:_ your immune system thinks you are, and gears up to fight it.
-   But really it's just being trained in case of a real infection.  
+   But really it's just being trained in case of a real infection.  Think of it as your
+   immune system being sore after a workout at the gym.  
    
 
 ### The Phase 3 Study Populations  
@@ -225,7 +226,7 @@ enough, remind them of these numbers!  The test populations are _huge_.
 
 When you break down the trial population by sex, age, race, and so on the result is that
 the treatment and control groups look pretty similar.  This is as it should be.  I note
-with some satisfaction that 23% of the treatment arm subjects were &ge; 65 or &ge 75 years
+with some satisfaction that 23% of the treatment arm subjects were &ge; 65 or &ge; 75 years
 old.  So we have pretty reasonable sampling of response in the elderly.  
 
 
@@ -252,10 +253,11 @@ do that, but we can get mightily close with just the overall totals.
 
 So they report a vaccine efficacy against moderate/severe COVID-19 of 66.1% with a
 95% confidence interval of 55.0% &ndash; 74.8%.  I haven't checked the math on the
-confidence interval, but it looks like they're using the Clopper-Pearson method (not quite
-my favorite, but certainly good enough).  That means we are 97.5% confident that the true
-vaccine efficacy is above 55%, which means we beat the 50% efficacy threshold for
-approval.  
+confidence interval, but it looks like they're using the 
+[Clopper-Pearson method](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Clopper%E2%80%93Pearson_interval)
+(not quite my favorite, but certainly good enough).  That means we are 97.5% confident
+that the true vaccine efficacy is above 55%, which means we beat the 50% efficacy
+threshold for approval.  
 
 The Kaplan-Meier curve (here: percent infections in each arm vs time) is also
 interesting.  It's not as shockingly beautiful as 
@@ -317,9 +319,10 @@ variants.  The results look pretty good:
 - The efficacy across 6 different mutations shows some difference, but not a lot.  The
   worrisome cases appear to be CAL.20C and D614G where the 95% confidence interval drops
   down to around 0%.  (NB: the negative lower bound in the CAL.20C case is evidence that,
-  like Pfizer, they're using the Clopper-Pearson method for proportion uncertainty, but
-  for some reason don't know about the special case for near-zero counts.  Just substitute
-  0% in your mind and move on.)  
+  like Pfizer, they're using the 
+  [Clopper-Pearson method](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Clopper%E2%80%93Pearson_interval)
+  for proportion uncertainty, but for some reason don't know about the special case for
+  near-zero counts.  Just substitute 0% in your mind and move on.)  
 
 ### Safety  
 
