@@ -376,7 +376,7 @@ worth reading, just for confirmation:
 
 
 ## VRBPAC Verdict  
-
+<iframe width="373" height="210" src="https://www.youtube.com/embed/Qd7mlCD-rEA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-vrbpac-question.jpg" width="400" height="223" alt="FDA: formal statement of the question on J&amp;J vaccine before the VRBPAC" title="FDA: formal statement of the question on J&amp;J vaccine before the VRBPAC" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here's the formal statement of the question before the VRBPAC, formulated by the FDA
 scientists who did the reanalysis of the J&amp;J data.  Basically, "does it help or hurt
