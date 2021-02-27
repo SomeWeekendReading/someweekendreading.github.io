@@ -240,7 +240,7 @@ treatment and control arms ($N_{vac}$ and $N_{ctl}$) at day 28, so:
 
 $$
 \begin{align*}
-  VE & = 1 - \frac{\Pr(\mathrm{infected}|\mathrm{vaccinated})}{\Pr(\mathrm{infected}|\mathrm{control})} \\
+  VE & = 1 - \frac{\Pr(\mathrm{infect}|\mathrm{vac})}{\Pr(\mathrm{infect}|\mathrm{ctl})} \\
      & = 1 - \frac{66 / 19306}{193 / 19178} \\
      & = 66.03\%
 \end{align*}
@@ -264,7 +264,7 @@ interesting.  It's not as shockingly beautiful as
 [the one from Pfizer]({{ site.baseurl }}/beautiful-vaccines/#a-beautiful-survival-plot) or 
 [the one from Moderna]({{ site.baseurl }}/beautiful-vaccines-2/#fine-but-whats-in-those-briefing-documents), 
 but those were really, wonderfully exceptional.  This one is still very good:  
-- The gray curve, representing the control arm, has rising approximately linearly from day
+- The gray curve, representing the control arm, is rising approximately linearly from day
   0 to day 91.  (Ok, there's a little curvature.  Doesn't matter: still rising at a
   frightening rate.)  
 - The blue curve, representing the treatment arm, still rises a bit.  You aren't
