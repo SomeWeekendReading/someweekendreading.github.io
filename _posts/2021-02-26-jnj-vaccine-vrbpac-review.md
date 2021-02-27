@@ -332,7 +332,7 @@ There's some _slight_ possibility of increased blood clotting problems ("thrombo
 thromboembolic events").  But with only 14 out of 21,895 in the treatment arm and 10 out
 of 21,888 in the control arm, it's both rare and unlikely to prove statistically
 significant.  I couldn't resist doing the test of proportion myself; as you can see the
-result below is $p \sim 54\%$ (not at all statistically significant):  
+result below has $p \sim 54\%$ (not at all statistically significant):  
 ```R
 > prop.test(x = c(14, 10), n = c(21895, 21888))
 
