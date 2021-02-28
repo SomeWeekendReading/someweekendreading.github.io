@@ -442,6 +442,37 @@ vaccine distribution plans:
 
 So even though the official EUA might come next week, vaccines can start moving _tonight._  
 
+### Addendum 2021-Feb-27  
+
+<img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-fda-eua.jpg" width="400" height="223" alt="FDA: Emergency Use Authorization" title="FDA: Emergency Use Authorization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+Well, that was pretty fast, as these things go: the FDA just issued the EUA for the
+J&amp;J vaccine. <sup id="fn13a">[[13]](#fn13)</sup>
+
+>Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA)
+>for the third vaccine for the prevention of coronavirus disease 2019 (COVID-19) caused by
+>severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The EUA allows the Janssen
+>COVID-19 Vaccine to be distributed in the U.S for use in individuals 18 years of age and
+>older.  
+
+If you dig in and actually get the EUA letter to Janssen from the FDA Chief Scientist
+Denise Hinton, the crucial paragraph is:  
+
+> Based on these data, and review of manufacturing information
+> regarding product quality and consistency, it is reasonable to believe that the Janssen COVID‑19
+> Vaccine may be effective. Additionally, it is reasonable to conclude, based on the totality of the
+> scientific evidence available, that the known and potential benefits of the Janssen COVID‑19
+> Vaccine outweigh its known and potential risks, for the prevention of COVID-19 in individuals
+> 18 years of age and older. Finally, on February 26, 2021, the Vaccines and Related Biological
+> Products Advisory Committee voted in agreement with this conclusion.  
+>  
+> Having concluded that the criteria for issuance of this authorization under Section 564(c) of the
+> Act are met, I am authorizing the emergency use of the Janssen COVID‑19 Vaccine for the
+> prevention of COVID-19, as described in the Scope of Authorization section of this letter
+> (Section II) and subject to the terms of this authorization.
+
+So _now_ it's official!  
+
+
 ## How do the vaccines compare?  
 
 There are now multiple vaccines, with different delivery mechanisms (mRNA and viral
@@ -540,3 +571,5 @@ parts of the US or in the developing world.
 <a id="fn11">11</a>: H Branswell &amp; M Herper, ["Tracking an FDA advisory panel's meeting on J&J's Covid-19 vaccine"](https://www.statnews.com/2021/02/26/tracking-an-fda-advisory-panels-meeting-on-jjs-covid-19-vaccine/), [_STAT News_](https://www.statnews.com/), 2021-Feb-26. [↩](#fn11a)  
 
 <a id="fn12">12</a>: J Woodcock &amp; P Marks, ["FDA Statement on Vaccines and Related Biological Products Advisory Committee Meeting"](https://www.fda.gov/news-events/press-announcements/fda-statement-vaccines-and-related-biological-products-advisory-committee-meeting-1), US Food &amp; Drug Administration, 2021-Feb-26. [↩](#fn12a)  
+
+<a id="fn13">13</a>: US Food &amp; Drug Administration, ["FDA Issues Emergency Use Authorization for Third COVID-19 Vaccine"](https://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-third-covid-19-vaccine), FDA Press Releases, 2021-Feb-27. [↩](#fn13a)  
