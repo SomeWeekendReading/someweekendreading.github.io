@@ -539,6 +539,22 @@ patient once, and so on.  (Though your humble Weekend Editor remains optimistic 
 get a second dose anyway.)  That alone makes the J&amp;J vaccine a clear winner in rural
 parts of the US or in the developing world.  
 
+## Addendum 2021-Mar-02  
+
+Shipping is in progress today; deliveries begin tomorrow:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+	BREAKING: The first <a href="https://twitter.com/UPS?ref_src=twsrc%5Etfw">@UPS</a>
+    truck carrying the Johnson &amp; Johnson vaccine just arrived at the Worldport hub in
+    Louisville. More trucks carrying the vaccine will arrive throughout the day. Deliveries
+    start TOMORROW.  
+    <a href="https://t.co/Aud092wQ24">pic.twitter.com/Aud092wQ24</a>
+  </p>
+  &mdash; Pete Muntean (@petemuntean) <a href="https://twitter.com/petemuntean/status/1366442688296456192?ref_src=twsrc%5Etfw">March 1, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 ---
 
 ## Notes &amp; References  
