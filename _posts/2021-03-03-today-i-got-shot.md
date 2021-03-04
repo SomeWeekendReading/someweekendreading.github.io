@@ -114,7 +114,7 @@ I almost lost it when it asked _again_ for my insurance info including id number
 vaccine that does not incur a charge.  
 
 When we got to my transfer stop, I stumbled out of the train, holding phone, insurance
-cards, shoulder bag, coat, and stumbled onto a bench.  I had to fill the forms out fast
+cards, shoulder bag, coat, and collapsed onto a bench.  I had to fill the forms out _fast_,
 before the slot could disappear.  
 
 And&hellip; much to my surprise, it worked.  I had apparently been fast enough to snipe at
@@ -124,7 +124,7 @@ breathing hard.
 
 Finally I was able to gather up coat, shoulder bag, insurance cards, wallet, and phone to
 get everything in place for the rest of the ride home.  The Weekend Editrix picked me up
-at the final station for the ride home and innocently asked, "So how did it go?"  
+at the final station and innocently asked, "So how did it go?"  
 
 That's about like people who ask Arlo Guthrie about the story of _Alice's Restaurant_
 without understanding it's a 20 minute song.  
@@ -135,7 +135,7 @@ But&hellip; success so far.
 ## The vaccine aftermath  
 
 Tune in tomorrow to find out what the aftermath is like, and whether the vaccine provokes
-enough immune response so that it hurts.  I hope it hurts.  This is a "good hurt."  
+enough immune response so that it hurts a bit.  I hope it hurts.  This is a "good hurt."  
 
 ---
 
