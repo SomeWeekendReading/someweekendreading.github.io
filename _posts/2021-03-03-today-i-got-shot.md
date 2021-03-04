@@ -13,7 +13,7 @@ ok.
 
 ## Getting an appointment  
 
-<img src="{{ site.baseurl }}/images/2021-03-03-today-i-got-shot-kafka.jpg" width="400" height="488" alt="Franz Kafka (pre-cockroach)" title="Franz Kafka (pre-cockroach)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-03-03-today-i-got-shot-kafka.jpg" width="200" height="244" alt="Franz Kafka (pre-cockroach)" title="Franz Kafka (pre-cockroach)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Ok, this part was a [Kafkaesque](https://en.wikipedia.org/wiki/Franz_Kafka) nightmare.  
 
 Earlier, when we were vaccinating people aged &ge; 75yr, there were so many applications
@@ -35,13 +35,11 @@ to secure one.  Then, weirdly, a bunch of appointments were added in the evening
 completely unannounced.  _That's_ the only reason I was able to get one, the first week
 they were available for my age group.  
 
-<img src="{{ site.baseurl }}/images/2021-03-03-today-i-got-shot-brecht.jpg" width="400"
-height="583" alt="Bertolt Brecht: Lehrst&uuml;cke" title="Bertolt Brecht: Lehrst&uuml;cke"
-style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/> Just as
-maddening was the insistence by the political overlords that all was well, the web site
-registration worked great, it was so simple anybody could operate it, and it was smooth as
-silk.  Reports from people attempting to use it were that it was absolutely maddening.
-Obviously, the politicians had never tried it for themselves.  
+<img src="{{ site.baseurl }}/images/2021-03-03-today-i-got-shot-brecht.jpg" width="200" height="292" alt="Bertolt Brecht: Lehrst&uuml;cke" title="Bertolt Brecht: Lehrst&uuml;cke" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/> 
+Just as maddening was the insistence by the political overlords that all was well, the web
+site registration worked great, it was so simple anybody could operate it, and it was
+smooth as silk.  Reports from people attempting to use it were that it was absolutely
+maddening.  Obviously, the politicians had never tried it for themselves.  
 
 I've seen better web design by undergrads.  
 
