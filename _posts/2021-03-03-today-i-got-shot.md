@@ -63,14 +63,14 @@ A couple subway rides, then into a large building.  They checked my appointment 
 clearance from a short health screen, gave me a fresh face mask, and the waved me into
 line.  The socially distanced waiting line took about 10 minutes, and then suddenly I was
 sitting next to a quite pleasant nurse.  (I'm having fun imagining her as a fan of
-Wagnerian opera, given the number of rings.  Only a few are visible in the picture.)  
+Wagnerian opera, given the number of rings in evidence.  Only a few are visible in the picture.)  
 
 
 <img src="{{ site.baseurl }}/images/2021-03-03-today-i-got-shot-pain.jpg" width="400" height="122" alt="Mitchell &amp; Casella: vaccine injection site pain and immune response" title="Mitchell &amp; Casella: vaccine injection site pain and immune response" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 She told me about the side effects: "Tomorrow, you're gonna feel like I punched you
 there."  That's fine, it's just a reaction at the injection site.  Unfortunately, it appears
 that pain at the injection site (at least with classical vaccines using adjuvants) doesn't
-correlate well with the desired immune response. <sup id="fn1a">[[1]](#fn1)</sup>  Ah,
+correlate well with the desired immune response. <sup id="fn2a">[[2]](#fn2)</sup>  Ah,
 well.  
 
 It's the headache, muscle aches, and mild fever that I'm looking forward to tomorrow!
