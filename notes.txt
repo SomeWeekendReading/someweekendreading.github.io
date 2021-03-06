@@ -263,7 +263,7 @@ Notes on blogging tech.
 * DONE: Figure out how to add svg icons for home, about, tags, and sitemap to
     _sass/_svg-icons.scss, and then use them in the nav bar.  Remove from footer.
     https://base64.guru/converter/encode/image/svg is good for base64-converting svg
-    files; be sure to select Output Format = CSS Background Image -- backgrond-image:url()
+    files; be sure to select Output Format = CSS Background Image -- background-image:url()
   But... Home and Sitemap icons not showing!
 
 * DONE: using google material icons
@@ -282,6 +282,7 @@ Post topics: "though borrowing trouble is often my wont" as an anxiety-prone dep
 Blog posts:
 * How bad is the Corona unemployment?
   https://www.calculatedriskblog.com/2021/01/question-3-for-2021-what-will.html
+  https://www.calculatedriskblog.com/2021/03/february-employment-report-379-thousand.html
 * SIR modeling of COVID-19
   scientists weren't ready to be so wrong in their assumptions... about politicians
   https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/
@@ -370,3 +371,4 @@ https://talkingpointsmemo.com/edblog/will-you-take-the-pledge
 >Nothing good can come of the confrontation between good faith and bad faith engagement. In the future we may return to a civic space where a degree of good faith engagement can allow those of differing outlooks and ideologies to collaborate and compromise on consensus solutions. But we are not there now. We are not really there on the substance: we’re that divided. And we’re certainly not there on the good faith. Indeed, pursuing good faith engagement with bad faith actors only enables and fuels this corrosive, anti-civic behavior. The answer is for Democrats to use the political power they gain to make as much positive change as possible, using everything legitimate lever at their disposal. Getting sucked into Republican mind games is time wasting and destructive.
 
 --------------------------------------------------------------------------------
+2 black forest cake, 1 mama's little masshole, 3 johnny appleseed

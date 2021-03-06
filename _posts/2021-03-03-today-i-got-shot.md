@@ -137,6 +137,15 @@ But&hellip; success so far.
 Tune in tomorrow to find out what the aftermath is like, and whether the vaccine provokes
 enough immune response so that it hurts a bit.  I hope it hurts.  This is a "good hurt."  
 
+### Addendum 2021-Mar-05  
+
+Still here: very fatigued, slightly achy and minor fever/chills.  And&hellip; one _weird_
+episode of sleepwalking, which I don't really remember but which worried the Weekend
+Editrix.  Probably not vaccine related, though we'll see what the doc says in a Monday
+telemedicine interview.  
+
+Otherwise, I'm pretty happy with the result.  
+
 ---
 
 ## Notes &amp; References  
