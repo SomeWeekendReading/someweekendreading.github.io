@@ -17,20 +17,20 @@ Hmm&hellip; I had _no idea._
 Frankly, American country music and me&hellip; we don't really mix.  I always associated
 with low-brow, loud, and crude entertainment for people who are (usually) annoyingly
 right-wing rural types.  Not my demographic, really.  I of course have no objection to
-_other_ people liking it (though I am puzzled).   But I don't want to suffer through it personally.  
+_other_ people liking it (though I am puzzled).   I just don't want to suffer through it
+personally.  
 
 So when [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) to see about 
-[Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton), I was skeptical.  I thought
-maybe I was being trolled.  I mean: the big hair&hellip; the provocative figure&hellip; the loudly
-performative stage persona&hellip; this did _not_ look hopeful!  
+[Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton), I was skeptical.  I thought 
+maybe I was being trolled.  I mean: the big hair&hellip; the provocative figure&hellip; 
+the loudly performative stage persona&hellip; this did _not_ look hopeful!  
 
 
 ## OK, let's find out about Dolly Parton  
 
-I'm happy to report that I was thoroughly wrong.  
-
-I have a heuristic about some things in life: you should be _happy_ when you find out you're
-wrong, because you're about to learn something.  So it is here.  
+I'm happy to report that I was thoroughly wrong.  I have a heuristic about some things in
+life: you should be _happy_ when you find out you're wrong, because you're about to learn
+something.  Such is the case here.  
 
 She's an accomplished artist, albeit in a particular art form that isn't my cup of tea.
 Still, she practices her art at a high skill level, and that deserves some respect.  
