@@ -13,7 +13,7 @@ Hmm&hellip; I had _no idea._
 
 ## Country music and me  
 
-<img src="{{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-dolly.jpg" height="400" width="560" alt="Dolly Parton (Wikipedia)" title="Dolly Parton (Wikipedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-dolly.jpg" width="400" height="560" alt="Dolly Parton (Wikipedia)" title="Dolly Parton (Wikipedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Frankly American country music and me&hellip; we don't really mix.  I always associated
 with low-brow, loud, crude, and rather uncultured entertainment for people who are
 (usually) annoyingly right-wing rural types.  Not my demographic, really.  I of course
