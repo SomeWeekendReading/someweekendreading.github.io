@@ -63,13 +63,12 @@ well:
 Not sure what a "chicken squat" is, but it doesn't sound like a compliment to those
 reluctant to get vaccinated.  And the thing is, her audience demographic skews heavily
 rural, white, and Republican.  We talk a lot about vaccine hesitancy among Blacks, but
-statistically the most reluctant group is
-White Republicans <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>:  
+statistically _the most reluctant group is White Republicans_: <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>  
 
 !["Axios: White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "Axios: White Republican vaccine hesitancy")
 
 So she's applying pressure to do good, be good, and act good in _exactly_ the right
-place.  And that, dear readers, is _how it is done._  
+place, where vaccine resistance is strongest.  And that, dear readers, is _how it is done._  
 
 Still not a fan of country music.  But&hellip; I _may_ be a fan of this woman: smart,
 kind, funny, and generous.  That's something we can all hope to imitate.  
