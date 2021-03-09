@@ -21,8 +21,8 @@ have no objection to other people liking it (though I am puzzled), but I don't w
 suffer through it personally.  
 
 So when [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) to see about 
-[Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton), I was&hellip; skeptical I was
-being trolled.  I mean: the big hair&hellip; the provocative figure&hellip; the loudly
+[Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton), I was skeptical and thought
+maybe I was being trolled.  I mean: the big hair&hellip; the provocative figure&hellip; the loudly
 performative stage persona&hellip; this did _not_ look hopeful!  
 
 
