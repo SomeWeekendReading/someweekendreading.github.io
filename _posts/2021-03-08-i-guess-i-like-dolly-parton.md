@@ -44,7 +44,7 @@ more the case,
 <iframe width="373" height="210" src="https://www.youtube.com/embed/jf0fN8EK6W4" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Apparently she had some relationship with doctors at Vanderbilt University Medical Center
 who helped her recover from some injuries.  At some point, they hit her up for a donation
-to vaccine development and clinical trials.  She obliged, to the point of &dollar;1 
+to vaccine development and clinical trials.  She obliged, to the point of $1 
 million! <sup id="fn1a">[[1]](#fn1)</sup>  While I'm hesitant to say rich people can earn
 respect through donations, this is clearly an important thing to have done.  
 
