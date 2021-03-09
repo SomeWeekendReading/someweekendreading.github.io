@@ -65,18 +65,7 @@ reluctant to get vaccinated.  And the thing is, her audience demographic skews h
 white, rural, and Republican.  We talk a lot about vaccine hesitancy among Blacks, but
 statistically the most reluctant group is White Republicans <sup id="fn2a">[[2]](#fn2)</sup>:  
 
-!["White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "White Republican vaccine hesitancy")
-
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	Black vax hesitancy makes headlines, but the most reluctant group
-	by far is white Republicans--a much larger group.  
-	<a href="https://t.co/WPqjSlHNpt">https://t.co/WPqjSlHNpt</a> 
-	<a href="https://t.co/ytKlpOSQv4">pic.twitter.com/ytKlpOSQv4</a>
-  </p>
-  &mdash; Deen Freelon (@dfreelon) <a href="https://twitter.com/dfreelon/status/1366393501563441153?ref_src=twsrc%5Etfw">March 1, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+!["Axios: White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "Axios: White Republican vaccine hesitancy")
 
 So she's applying pressure to do good, be good, and act good in _exactly_ the right
 place.  And that, dear readers, is _how it is done._  
