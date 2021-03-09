@@ -672,6 +672,8 @@ few true dichotomies."
 
 "Nature has no compassion. Nature accepts no excuses and the only punishment it knows is death." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Reflections on the Human Condition_](https://www.google.com/books/edition/Reflections_on_the_Human_Condition/C2dnAAAAIAAJ?hl=en), Section 36, 1973.
 
+"Seize opportunity.  Do it right.  Show appreciation." &mdash; [Rich Baker](https://www.keefefuneralhome.com/memorials/richard-l-baker/4550192/)  
+
 
 ## The Statistical Ones  
 
