@@ -60,7 +60,7 @@ well:
 > about the vaccine&hellip; So I just want to say to all of you cowards out there, don't
 > be such a chicken squat.  Get out there and get your shot.  
 
-Not sure what a "chicken squat" is, but it doesn't sound like a compliment to those
+Not quite sure what a "chicken squat" is, but it doesn't sound like a compliment to those
 reluctant to get vaccinated.  And the thing is, her audience demographic skews heavily
 rural, white, and Republican.  We talk a lot about vaccine hesitancy among Blacks, but
 statistically _the most reluctant group is White Republicans_: <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>  
