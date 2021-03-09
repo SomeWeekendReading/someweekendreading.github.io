@@ -14,19 +14,18 @@ Hmm&hellip; I had _no idea._
 ## Country music and me  
 
 <img src="{{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-dolly.jpg" width="200" height="280" alt="Dolly Parton (Wikipedia)" title="Dolly Parton (Wikipedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Frankly American country music and me&hellip; we don't really mix.  I always associated
-with low-brow, loud, crude, and rather uncultured entertainment for people who are
-(usually) annoyingly right-wing rural types.  Not my demographic, really.  I of course
-have no objection to other people liking it (though I am puzzled), but I don't want to
-suffer through it personally.  
+Frankly, American country music and me&hellip; we don't really mix.  I always associated
+with low-brow, loud, and crude entertainment for people who are (usually) annoyingly
+right-wing rural types.  Not my demographic, really.  I of course have no objection to
+_other_ people liking it (though I am puzzled).   But I don't want to suffer through it personally.  
 
 So when [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) to see about 
-[Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton), I was skeptical and thought
+[Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton), I was skeptical.  I thought
 maybe I was being trolled.  I mean: the big hair&hellip; the provocative figure&hellip; the loudly
 performative stage persona&hellip; this did _not_ look hopeful!  
 
 
-## OK, let's find out something about Dolly Parton  
+## OK, let's find out about Dolly Parton  
 
 I'm happy to report that I was thoroughly wrong.  
 
@@ -34,9 +33,11 @@ I have a heuristic about some things in life: you should be _happy_ when you fin
 wrong, because you're about to learn something.  So it is here.  
 
 She's an accomplished artist, albeit in a particular art form that isn't my cup of tea.
-Still, she practices her art at a high skill level, and that deserves some respect.  Even
-more the case, 
-[she's employed her wealth in quite a bit of philanthropy](https://en.wikipedia.org/wiki/Dolly_Parton#Philanthropy).  
+Still, she practices her art at a high skill level, and that deserves some respect.  
+
+Even more the case, 
+[she's employed her wealth in quite a bit of philanthropy](https://en.wikipedia.org/wiki/Dolly_Parton#Philanthropy),
+without seeking huge publicity.  That deserves _considerable_ respect.  
 
 
 ## What's that got to do with COVID-19 vaccines?  
@@ -62,7 +63,9 @@ well:
 Not sure what a "chicken squat" is, but it doesn't sound like a compliment to those
 reluctant to get vaccinated.  And the thing is, her audience demographic skews heavily
 white, rural, and Republican.  We talk a lot about vaccine hesitancy among Blacks, but
-statistically the most reluctant group is White Republicans:  
+statistically the most reluctant group is White Republicans <sup id="fn2a">[[2]](#fn2)</sup>:  
+
+!["White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "White Republican vaccine hesitancy")
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -91,3 +94,5 @@ kind, funny, and generous.  That's something we can all hope to imitate.
 -->
 
 <a id="fn1">1</a>: M Lee, ["Dolly Parton announces $1 million donation to Vanderbilt for COVID-19 research"](https://www.wjhl.com/local-coronavirus-coverage/dolly-parton-announces-she-will-donate-1-million-to-vanderbilt-for-covid-19-research/), WJHL / Tri-Cities News &amp; Weather, 2020-Apr-01.[↩](#fn1a)  
+
+<a id="fn2">2</a>: C Owens, ["Republicans are least likely to want the coronavirus vaccine"](https://www.axios.com/republicans-coronavirus-vaccine-hesitancy-023bf32f-3d68-4206-b906-4f701b87c39f.html), _Axios_, 2021-Feb-25. [↩](#fn2a)  
