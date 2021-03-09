@@ -62,7 +62,7 @@ well:
 
 Not sure what a "chicken squat" is, but it doesn't sound like a compliment to those
 reluctant to get vaccinated.  And the thing is, her audience demographic skews heavily
-white, rural, and Republican.  We talk a lot about vaccine hesitancy among Blacks, but
+rural, white, and Republican.  We talk a lot about vaccine hesitancy among Blacks, but
 statistically the most reluctant group is White Republicans <sup id="fn2a">[[2]](#fn2)</sup>:  
 
 !["Axios: White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "Axios: White Republican vaccine hesitancy")
