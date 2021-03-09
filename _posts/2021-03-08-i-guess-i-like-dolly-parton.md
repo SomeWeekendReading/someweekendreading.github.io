@@ -63,7 +63,8 @@ well:
 Not sure what a "chicken squat" is, but it doesn't sound like a compliment to those
 reluctant to get vaccinated.  And the thing is, her audience demographic skews heavily
 rural, white, and Republican.  We talk a lot about vaccine hesitancy among Blacks, but
-statistically the most reluctant group is White Republicans <sup id="fn2a">[[2]](#fn2)</sup>:  
+statistically the most reluctant group is
+White Republicans <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>:  
 
 !["Axios: White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "Axios: White Republican vaccine hesitancy")
 
@@ -85,3 +86,5 @@ kind, funny, and generous.  That's something we can all hope to imitate.
 <a id="fn1">1</a>: M Lee, ["Dolly Parton announces $1 million donation to Vanderbilt for COVID-19 research"](https://www.wjhl.com/local-coronavirus-coverage/dolly-parton-announces-she-will-donate-1-million-to-vanderbilt-for-covid-19-research/), WJHL / Tri-Cities News &amp; Weather, 2020-Apr-01.[↩](#fn1a)  
 
 <a id="fn2">2</a>: C Owens, ["Republicans are least likely to want the coronavirus vaccine"](https://www.axios.com/republicans-coronavirus-vaccine-hesitancy-023bf32f-3d68-4206-b906-4f701b87c39f.html), _Axios_, 2021-Feb-25. [↩](#fn2a)  
+
+<a id="fn3">3</a>: A Samuels, ["Why Fewer Black Americans Are Getting The COVID-19 Vaccine (*No, It’s Not Hesitancy)"](https://fivethirtyeight.com/features/why-fewer-black-americans-are-getting-the-covid-19-vaccine-no-its-not-hesitancy/), _Five Thirty Eight_, 2021-Mar-09.[↩](#fn3a)  
