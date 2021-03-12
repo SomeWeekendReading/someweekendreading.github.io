@@ -29,9 +29,10 @@ a _step up_ in vaccine resistance when vaccines came out, and no noticeable down
 (red curve).  So if you really want to combat resistance and get to general immunity,
 White Republicans are where you have to start.  
 
-That's why I was so impressed with Dolly Parton's vaccination video (aside from the
-intimidating new phrase "chicken squat"): her fan demographic skews white, rural, and
-Republican, so her message was _exactly_ on target.  
+That's why I was so impressed with
+[Dolly Parton's vaccination video]({{ site.baseurl }}/i-guess-i-like-dolly-parton/#whats-that-got-to-do-with-covid-19-vaccines)
+(aside from the intimidating new sobriquet "chicken squat"): her fan demographic skews rural,
+White, and Republican, so her message was _exactly_ on target.  
 
 
 ## Is that your only evidence?  
@@ -95,7 +96,7 @@ Now, for COVID-19, the best estimates for $R_0$ range around
 The B.1.1.7 and B.1.351 variants might be quite a bit higher, so the upper end of that
 range is the thing we have to shoot for.  That means we need 100% * (1 - 1/4) = 75% of the
 population vaccinated to get to herd immunity.  (_At least._  New variants may be more
-virulent, i.e., have a higher value of $R_0$.)  
+virulent, i.e., have a higher value of $R_0$, thus needing a higher vaccination fraction.)  
 
 So&hellip; we have 25% or less slack in the population who can resist the vaccine and not
 mess it up for the rest of us.  Having 17% of the population being vaccine resisting
