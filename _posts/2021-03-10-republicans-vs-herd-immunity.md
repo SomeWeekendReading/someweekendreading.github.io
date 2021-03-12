@@ -60,9 +60,10 @@ while contemptibly endangering everyone.
 
 So&hellip; the Well of Stupid is deep indeed.  
 
-Also, Kaiser Foundation Reports polling from last December <sup id="fn3a">[[3]](#fn3)</sup>
+Also, the Kaiser Family Foundation reports polling from last 
+December <sup id="fn3a">[[3]](#fn3)</sup>
 (the whole report is worth a deep read, for related things like factually wrong beliefs
-about masks) confirms that the most resistant clade tends to be Republican and less educated:  
+about masks) which confirms that the most resistant clade tends to be Republican and less educated:  
 
 !["Kaiser Family Foundation: resistance skews low education and Republican"]({{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-kff.jpg "Kaiser Family Foundation: resistance skews low education and Republican")
 
