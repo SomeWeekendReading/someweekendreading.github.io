@@ -53,9 +53,11 @@ vaccines.
 
 My first reaction was "How can anybody be that _stupid?_ "  But then, I looked at the photo
 at the top of the article.  It shows a knucklehead at CPAC showing off his "fishnet mask",
-i.e., it allows him to claim to be masked but makes the mask utterly useless.  This is
+i.e., allowing him to claim to be masked but making the mask utterly useless.  This is
 what's called _malicious compliance_, i.e., technically obeying the mask-wearing rule
-while contemptibly endangering everyone.  So&hellip; the Well of Stupid is deep indeed.  
+while contemptibly endangering everyone.  
+
+So&hellip; the Well of Stupid is deep indeed.  
 
 
 ## The critical question  
@@ -74,7 +76,8 @@ Second, let's look at
 Everything depends on the parameter $R_0$, the basic reproduction number of the disease:
 the number of new infections caused by each infected person in conditions of perfect
 mixing.  Let $S$ be the fraction of the population who are susceptible.  At the critical
-point where herd immunity sets in,  
+point where herd immunity sets in, each case generates less than enough new cases to
+replace it:  
 
 $$
 R_0 \cdot S \leq 1
@@ -91,11 +94,12 @@ Now, for COVID-19, the best estimates for $R_0$ range around
 2.5 &ndash; 4. <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</sup>
 The B.1.1.7 and B.1.351 variants might be quite a bit higher, so the upper end of that
 range is the thing we have to shoot for.  That means we need 100% * (1 - 1/4) = 75% of the
-population vaccinated to get to herd immunity.  
+population vaccinated to get to herd immunity.  (_At least._  New variants may be more
+virulent, i.e., have a higher value of $R_0$.)  
 
 So&hellip; we have 25% or less slack in the population who can resist the vaccine and not
 mess it up for the rest of us.  Having 17% of the population being vaccine resisting
-Republicans isn't _immediately_ fatal.  But _only if we get near-perfect vaccination
+Republicans isn't immediately fatal&hellip; _only if we get near-perfect vaccine
 acceptance everywhere else, and the new variants aren't even more virulent._  They're
 burning up the margin of safety in the name of&hellip; knuckleheadery?!  
 
@@ -135,17 +139,17 @@ occasion for shame:
 ##  Eagerly awaiting vaccination  
 
 Here at Chez Weekend, your humble Weekend Editor has gotten the first shot, and is eagerly
-anticipating the second.  The Weekend Editrix, young girl that she is, is also eagerly
-awaiting when our state guidelines lower the age limit to her age.  
+awaiting the second.  The Weekend Editrix, being a young slip of a girl, is eagerly
+awaiting our state guidelines lowering the age limit to her age.  
 
 So everybody wants (or should want) the vaccine.  
 
-Now, I'm not really a fan of Randy Rainbow&hellip; but once in a while his brand of
+Now, I'm not really a fan of Randy Rainbow&hellip; but once in a loooong while, his brand of
 silliness helps us appreciate the surreal nature of the situation.  I do actually remember
 the song
 ["Mr. Sandman" by the Chordettes from 1958](https://www.youtube.com/watch?v=CX45pYvxDiA).
-(Mostly because my older brother &amp; sister were listening to popular music
-at the time when I was a wee sprout.)  So&hellip; "Mr. Biden, bring my vaccine":  
+(Mostly because my elder siblings were listening to popular music
+at the time when I were nought but a wee sprout.)  So&hellip; "Mr. Biden, bring my vaccine":  
 
 
 <blockquote class="twitter-tweet">
