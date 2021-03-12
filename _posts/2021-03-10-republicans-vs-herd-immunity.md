@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Republicans vs Herd Immunity
-tags: COVID Politics SomebodyAskedMe
+tags: COVID MathInTheNews Politics SomebodyAskedMe
 comments: true
 ---
 
@@ -97,7 +97,7 @@ So&hellip; we have 25% or less slack in the population who can resist the vaccin
 mess it up for the rest of us.  Having 17% of the population being vaccine resisting
 Republicans isn't _immediately_ fatal.  But _only if we get near-perfect vaccination
 acceptance everywhere else, and the new variants aren't even more virulent._  They're
-burning up the margin of safety in the name of&hellip; being knuckleheads?  
+burning up the margin of safety in the name of&hellip; knuckleheadery?!  
 
 
 ## Consequences  
