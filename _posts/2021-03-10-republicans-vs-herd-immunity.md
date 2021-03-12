@@ -83,8 +83,8 @@ $$
 R_0 \cdot S \leq 1
 $$
 
-Now let $p$ be the probability a person accepts the vaccine.  Then $S = 1 - p$.  Plugging
-that into the previous equation and solving for $p$, we get:  
+Now let $p$ be the probability a person accepts the vaccine.  Then $S = 1 - p$.  Plug
+that into the previous equation and solve for $p$ to get:  
 
 $$
 p \geq 1 - \frac{1}{R_0}
