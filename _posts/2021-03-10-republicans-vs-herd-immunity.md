@@ -60,6 +60,12 @@ while contemptibly endangering everyone.
 
 So&hellip; the Well of Stupid is deep indeed.  
 
+Also, Kaiser Foundation Reports polling from last December <sup id="fn3a">[[3]](#fn3)</sup>
+(the whole report is worth a deep read) confirms that the most resistant clade tends to be
+Republican and less educated:  
+
+!["Kaiser Family Foundation: resistance skews low education and Republican"]({{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-kff.jpg "Kaiser Family Foundation: resistance skews low education and Republican")
+
 
 ## The critical question  
 
@@ -92,7 +98,7 @@ p \geq 1 - \frac{1}{R_0}
 $$
 
 Now, for COVID-19, the best estimates for $R_0$ range around 
-2.5 &ndash; 4. <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</sup>
+2.5 &ndash; 4. <sup id="fn4a">[[4]](#fn4)</sup> <sup id="fn5a">[[5]](#fn5)</sup>
 The B.1.1.7 and B.1.351 variants might be quite a bit higher, so the upper end of that
 range is the thing we have to shoot for.  That means we need 100% * (1 - 1/4) = 75% of the
 population vaccinated to get to herd immunity.  (_At least._  New variants may be more
@@ -177,6 +183,8 @@ at the time when I were nought but a wee sprout.)  So&hellip; "Mr. Biden, bring 
 
 <a id="fn2">2</a>: D Diamond, ["Meet the GOP voters who could decide whether the U.S. reaches herd immunity"](https://www.washingtonpost.com/health/2021/03/07/republicans-covid-vaccine/), _Washington Post_, 2021-Mar-08. [↩](#fn2a)  
 
-<a id="fn3">3</a>: A Fontanet &amp; S Cauchemez, ["COVID-19 herd immunity: where are we?"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480627), _Nature Reviews Immunology_ 20:10 (2020-Oct), 583–584. doi:[10.1038/s41577-020-00451-5](https://doi.org/10.1038%2Fs41577-020-00451-5). PMC [7480627](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480627). PMID [32908300](https://pubmed.ncbi.nlm.nih.gov/32908300/).  [↩](#fn3a)  
+<a id="fn3">3</a>: L Hamel, _et al._, ["KFF COVID-19 Vaccine Monitor: December 2020"](https://www.kff.org/coronavirus-covid-19/report/kff-covid-19-vaccine-monitor-december-2020/), _Kaiser Family Foundation_, 2020-Dec-15.[↩](#fn3a)  
 
-<a id="fn4">4</a>: HE Randolph &amp; LB Barreiro, ["Herd Immunity: Understanding COVID-19"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7236739), _Immunity_ 52:5 (2020-May), 737–741. doi:[10.1016/j.immuni.2020.04.012](https://doi.org/10.1016%2Fj.immuni.2020.04.012). PMC [7236739](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7236739). PMID [32433946](https://pubmed.ncbi.nlm.nih.gov/32433946/). [↩](#fn4a)  
+<a id="fn4">4</a>: A Fontanet &amp; S Cauchemez, ["COVID-19 herd immunity: where are we?"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480627), _Nature Reviews Immunology_ 20:10 (2020-Oct), 583–584. doi:[10.1038/s41577-020-00451-5](https://doi.org/10.1038%2Fs41577-020-00451-5). PMC [7480627](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480627). PMID [32908300](https://pubmed.ncbi.nlm.nih.gov/32908300/).  [↩](#fn4a)  
+
+<a id="fn5">5</a>: HE Randolph &amp; LB Barreiro, ["Herd Immunity: Understanding COVID-19"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7236739), _Immunity_ 52:5 (2020-May), 737–741. doi:[10.1016/j.immuni.2020.04.012](https://doi.org/10.1016%2Fj.immuni.2020.04.012). PMC [7236739](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7236739). PMID [32433946](https://pubmed.ncbi.nlm.nih.gov/32433946/). [↩](#fn5a)  
