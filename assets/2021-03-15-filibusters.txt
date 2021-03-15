@@ -1,0 +1,37 @@
+
+* Filibuster Analysis on Mon Mar 15 00:41:52 2021
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ././2021-03-15-filibusters.txt
+
+Data loading and inner joins:
+-----------------------------
+
+
+Exploratory analysis:
+---------------------
+
+
+* Filibusters broken down by majority party:
+  Majority Motions.Filed.Mean Motions.Filed.Sd Years
+1        D               74.4             66.3    28
+2        R              102.0             89.0    22
+
+
+Statistial significance tests:
+------------------------------
+
+
+	Welch Two Sample t-test
+
+data:  Motions.Filed by Majority
+t = -0.8573, df = 17.987, p-value = 0.4026
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -95.14208  39.99923
+sample estimates:
+mean in group D mean in group R 
+       74.42857       102.00000 
+
+
+* Filibuster Analysis completed Mon Mar 15 00:41:52 2021 (0.2 sec elapsed).

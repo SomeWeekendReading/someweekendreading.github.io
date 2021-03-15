@@ -1,0 +1,32 @@
+## https://www.senate.gov/history/partydiv.htm
+## Hand assembled from text data on page;  adding indeps caucusing w/D's to D total.
+## Sometimes need presidency to decide tie splits (VP as pres of senate casts tie-breaking vote).
+Congress	Years	Republicans	Democrats	Presidency	Majority
+117	2021-2022	50	50	D	D
+116	2019-2020	53	47		R
+115	2017-2018	51	49		R
+114	2015-2016	54	46		R
+113	2013-2014	45	55		D
+112	2011-2012	47	53		D
+111	2009-2010	41	59		D
+110	2007-2008	49	51		D
+109	2005-2006	55	45		R
+108	2003-2004	51	49		R
+## Control shifted back & forth several times
+#107	2001-2002	50	50	R	D
+106	1999-2000	55	45		R
+105	1997-1998	55	45		R
+104	1995-1996	52	48		R
+103	1993-1994	43	57		D
+102	1991-1992	44	56		D
+101	1989-1990	45	55		D
+100	1987-1988	45	55		D
+99	1985-1986	53	47		R
+98	1983-1984	55	45		R
+97	1981-1982	53	47		R
+96	1979-1980	41	59		D
+95	1977-1978	38	62		D
+94	1975-1976	38	62		D
+93	1973-1974	43	57		D
+92	1971-1972	45	55		D
+91	1969-1970	43	57		D
