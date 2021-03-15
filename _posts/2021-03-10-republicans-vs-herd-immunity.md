@@ -77,7 +77,8 @@ First, let's get a handle on the size of the problem.  We've seen _Axios_ claim 
 White Republicans, and now the _WaPo_ claim 33% of all Republicans.  Let's go with the
 lower figure, just to make sure I'm not stacking the deck here.  Let's say about half the
 US is Republican (alas), so that means we have a hard-core vaccine resistance population
-of about 0.33 * 0.50 * 100% = 16.5%.  
+of about 0.33 * 0.50 * 100% = 16.5%.  That squares roughly with the 15% from the Kaiser
+Foundation report, above.  
 
 Second, let's look at 
 [the mathematical basis for herd immunity](https://en.wikipedia.org/wiki/Herd_immunity#Theoretical_basis).
@@ -171,6 +172,45 @@ at the time when I were nought but a wee sprout.)  So&hellip; "Mr. Biden, bring 
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
+## Addendum 2021-Mar-14 (Pi Day)
+
+<img src="{{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-fauci.jpg" width="400" height="420" alt="Boston Globe: Fauci doesn't get Republican vaccine resistance either" title="Boston Globe: Fauci doesn't get Republican vaccine resistance either" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+An article in the venerable _Globe_ by Krasny &amp; Condon <sup id="fn6a">[[6]](#fn6)</sup> 
+interviews Tony Fauci, the now-famous head of the 
+[National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov/) and
+general wizard on the subject of COVID-19 in particular.  A disturbing fact:  
+- 41% of Republicans would refuse any COVID-19 vaccine, and  
+- 49% of Republican men would refuse, but  
+- just 6% of Democratic men would refuse.  
+
+That's&hellip; _maddening!_  When asked about this, Fauci's response was in line with what
+we found above:  
+
+> "I just don’t get it," Anthony Fauci, director of the National Institute of Allergies
+> and Infectious Diseases, said on NBC's "Meet the Press" when asked about polling showing
+> many Republicans, especially men, don't want a vaccine.  
+>  
+> &hellip;  
+>  
+>"We've got to dissociate political persuasion from common sense, no-brainer public health
+>things," Fauci said.  
+>  
+> &hellip;  
+>  
+> Fauci also said he wished former President Donald Trump would come out and publicly urge
+> his supporters to get the vaccine. "I wish he would," Fauci said on "Fox News Sunday."
+> "It would really be a game changer if he did."  
+>  
+> &hellip;  
+>  
+> __But a decision by a large swathe of the population to not receive a vaccine may slow or
+> imperil the march toward herd immunity in the U.S.__  
+
+Yep.  Right there with you, Fauci.  We don't get it either.  Endangering herd immunity
+isn't just self-destructive, it's dangerous for all of us.
+[Jacobson v Massachusetts](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) is
+starting to look better and better.  
+
 ---
 
 ## Notes &amp; References  
@@ -189,3 +229,5 @@ at the time when I were nought but a wee sprout.)  So&hellip; "Mr. Biden, bring 
 <a id="fn4">4</a>: A Fontanet &amp; S Cauchemez, ["COVID-19 herd immunity: where are we?"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480627), _Nature Reviews Immunology_ 20:10 (2020-Oct), 583–584. doi:[10.1038/s41577-020-00451-5](https://doi.org/10.1038%2Fs41577-020-00451-5). PMC [7480627](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480627). PMID [32908300](https://pubmed.ncbi.nlm.nih.gov/32908300/).  [↩](#fn4a)  
 
 <a id="fn5">5</a>: HE Randolph &amp; LB Barreiro, ["Herd Immunity: Understanding COVID-19"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7236739), _Immunity_ 52:5 (2020-May), 737–741. doi:[10.1016/j.immuni.2020.04.012](https://doi.org/10.1016%2Fj.immuni.2020.04.012). PMC [7236739](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7236739). PMID [32433946](https://pubmed.ncbi.nlm.nih.gov/32433946/). [↩](#fn5a)  
+
+<a id="fn6">6</a>: R Krasny &amp; C Condon, ["Fauci says vaccine hesitancy among Republicans poses a risk: ‘I just don’t get it’"](https://www.bostonglobe.com/2021/03/14/nation/fauci-says-vaccine-hesitancy-among-republicans-poses-risk-i-just-dont-get-it/), _Boston Globe_, 2021-Mar-14. [↩](#fn6a)  
