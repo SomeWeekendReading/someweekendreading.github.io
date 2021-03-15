@@ -172,7 +172,7 @@ at the time when I were nought but a wee sprout.)  So&hellip; "Mr. Biden, bring 
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-## Addendum 2021-Mar-14 (Pi Day)
+## Addendum 2021-Mar-14 (Pi Day!)
 
 <img src="{{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-fauci.jpg" width="400" height="420" alt="Boston Globe: Fauci doesn't get Republican vaccine resistance either" title="Boston Globe: Fauci doesn't get Republican vaccine resistance either" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 An article in the venerable _Globe_ by Krasny &amp; Condon <sup id="fn6a">[[6]](#fn6)</sup> 
@@ -206,7 +206,7 @@ we found above:
 > __But a decision by a large swathe of the population to not receive a vaccine may slow or
 > imperil the march toward herd immunity in the U.S.__  
 
-Yep.  Right there with you, Fauci.  We don't get it either.  Endangering herd immunity
+Yep.  Right there with you, Tony.  We don't get it either.  Endangering herd immunity
 isn't just self-destructive, it's dangerous for all of us.
 [Jacobson v Massachusetts](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) is
 starting to look better and better.  
