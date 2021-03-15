@@ -15,15 +15,16 @@ library("plyr")                                        # For ddply()
 ##
 
 doit <- function(## Inputs
-                 clotureFile = "./2021-03-15-filibusters-cloture.tsv",
-                 partiesFile = "./2021-03-15-filibusters-parties.tsv",
+                 clotureFile  = "./2021-03-15-filibusters-cloture.tsv",
+                 partiesFile  = "./2021-03-15-filibusters-parties.tsv",
+                 dropSessions = c(107, 117),
 
                  ## Outputs
                  txFile         = "./2021-03-15-filibusters.txt",
                  plotFile       = "../images/2021-03-15-filibusters.png",
                  filibusterFile = "./2021-03-15-filibusters.tsv") {
 
-  loadFilibusterData <- function(partiesFile, clotureFile, filibusterFile) {
+  loadFilibusterData <- function(partiesFile, clotureFile, dropSessions, filibusterFile) {
 
     isPositiveInteger <- function(x) { !is.na(x) && is.integer(x) && x >= 0 }
 
@@ -65,12 +66,12 @@ doit <- function(## Inputs
         stopifnot(all(as.character(Majority) == findMajority(Democrats, Republicans, Presidency)))
       })                                               #
 
-      partiesData                                      #
+      subset(partiesData, select = -Presidency)        #
     }                                                  #
 
-    filibusterData <- merge(subset(loadPartiesData(partiesFile), select = -Presidency),
-                            loadClotureData(clotureFile),
-                            by = "Congress", all = FALSE)
+    filibusterData <- subset(merge(loadPartiesData(partiesFile), loadClotureData(clotureFile),
+                                   by = "Congress", all = FALSE),
+                             subset = !(Congress %in% dropSessions))
     saveDataframe(filibusterData, filibusterFile)      #
     filibusterData                                     #
   }                                                    #
@@ -112,10 +113,8 @@ doit <- function(## Inputs
 
     heraldPhase("Data loading and inner joins")        # Load data for majorities and cloture
     maybeAssign("filibusterData", function() {         #  motions for last 50 years (since 1970)
-      loadFilibusterData(partiesFile, clotureFile, filibusterFile)
+      loadFilibusterData(partiesFile, clotureFile, dropSessions, filibusterFile)
     })                                                 #
-    ## Also drop current session of Congress, which is only 3 months old.
-    filibusterData <- subset(filibusterData, subset = Congress != max(Congress))
 
     heraldPhase("Exploratory analysis")                # Get general shape of data
     plotFilibusters(filibusterData, plotFile)          #

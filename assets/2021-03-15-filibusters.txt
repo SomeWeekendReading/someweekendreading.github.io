@@ -1,5 +1,5 @@
 
-* Filibuster Analysis on Mon Mar 15 00:41:52 2021
+* Filibuster Analysis on Mon Mar 15 13:23:46 2021
   - input data directory: .
   - results directory:    .
   - transcript to:        ././2021-03-15-filibusters.txt
@@ -34,4 +34,4 @@ mean in group D mean in group R
        74.42857       102.00000 
 
 
-* Filibuster Analysis completed Mon Mar 15 00:41:52 2021 (0.2 sec elapsed).
+* Filibuster Analysis completed Mon Mar 15 13:23:46 2021 (0.1 sec elapsed).

@@ -289,6 +289,7 @@ Blog posts:
   "using a model effectively is harder than just doing the math"
   "But people turn out to be really, really complicated. And even seven months later, that’s a lesson we’re still struggling to learn."
 * Conformal mapping, heat tranfer, and wind chill: why is it so damn cold out there?
+* Nietzsche, Machiavelli, and Dr Seuss walk into a bar.  (That's it.  That's the whole joke.)
 * RISC-V vs ARM: what's that all about?
 * Pikuach nefesh ("saving a life") overrides all other law https://en.wikipedia.org/wiki/Pikuach_nefesh
 * Click chemotherapy (in the pipeline: https://blogs.sciencemag.org/pipeline/archives/2020/10/28/click-chemotherapy)

@@ -158,7 +158,7 @@ occurs just by chance.  However:
   measuring filibusters, but rather clotures, this whole issue is kind of murky.  
   
 But even without statistical significance:  
-- The table above shows there have been, in teh mean, about 1.37x more instances of
+- The table above shows there have been, in the mean, about 1.37x more instances of
   filibuster related action (cloture attempts) under Republicans than under Democrats.
   The time trend and the standard deviation keep this from being statistically
   significant.  
