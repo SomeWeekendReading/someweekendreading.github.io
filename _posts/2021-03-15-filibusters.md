@@ -182,7 +182,7 @@ _rejected by the data_.
 <a id="fn2">2</a>: United States Senate, ["Cloture Motions"](https://www.senate.gov/legislative/cloture/clotureCounts.htm), _senate.gov_, 2021-Mar-14. Captured as [2021-03-15-filibusters-cloture.tsv]({{ site.baseurl }}/assets/2021-03-15-filibusters-cloture.tsv). [↩](#fn2a)  
 
 <a id="fn3">3</a>: United States Senate, ["Party Division"](https://www.senate.gov/history/partydiv.htm), _senate.gov_, 2021-Mar-14. __NB:__ Data is not presented here as a table, but as text.  A certain amount of hand extraction into a tab-separated data file was necessary. 
-Results captured as [2021-03-15-filibusters-parties.tsv][{{ site.baseurl }}/assets/2021-03-15-filibusters-parties.tsv][↩](#fn3a)  
+Results captured as [2021-03-15-filibusters-parties.tsv]({{ site.baseurl }}/assets/2021-03-15-filibusters-parties.tsv)[↩](#fn3a)  
 
 <a id="fn4">4</a>: Weekend Editor, ["R script for analyzing senate filibusters"]({{ site.baseurl }}/assets/2021-03-15-filibusters.r), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Mar-15.  There is also [a transcript of the execution of this script]({{ site.baseurl }}/assets/2021-03-15-filibusters.txt), to peer-review the results reported here.[↩](#fn4a)  
 
