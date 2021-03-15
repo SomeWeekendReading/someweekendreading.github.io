@@ -21,7 +21,7 @@
 ## the orignal data, where hospitalizedIncrease on 2020-09-02 is -91, for some reason.
 ##
 
-toolsDir <- "../tools"                                 # Various tools available from author
+toolsDir <- "../../tools"                              # Various tools available from author
 source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline construction tools
 source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics hacks
 

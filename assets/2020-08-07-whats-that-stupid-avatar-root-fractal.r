@@ -1,5 +1,5 @@
 ## Created on Thursday, March 10, 2010 at 10:10pm EST by WeekendEditor on WeekendEditorMachine.
-## UnCopyright (u) 2020, WeekendEditor.  All rights reversed.  As if you care.
+## Copyright (c) 2020, SomeWeekendReading.  All rights reserved.  As if you care.
 
 ##
 ## Pretty pictures of fractal "boundary" of convergence in Newton's method for solving a cubic

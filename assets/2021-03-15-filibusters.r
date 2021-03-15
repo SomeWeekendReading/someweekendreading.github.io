@@ -1,5 +1,5 @@
-## Created on Sunday, March 14, 2021 at 5:49pm EDT by sgr on Kryfthanima.Home.
-## Copyright (c) 2021, nobody-in-particular.  All rights reserved.  As if you care.
+## Created on Sunday, March 14, 2021 at 5:49pm EST by WeekendEditor on WeekendEditorMachine.
+## Copyright (c) 2020, SomeWeekendReading.  All rights reserved.  As if you care.
 
 toolsDir <- "../../tools"                              # Various tools available from author
 source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline construction tools

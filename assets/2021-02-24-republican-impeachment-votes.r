@@ -1,8 +1,9 @@
-## Created on Monday, February 15, 2021 at 7:45pm CDT by WeekendEditor on WeekendEditorMachine.
-## Copyright (c) 2021, SomeWeekendReading.  All rights reserved.  As if you care.
+## Created on Monday, February 15, 2021 at 7:45pm EST by WeekendEditor on WeekendEditorMachine.
+## Copyright (c) 2022, SomeWeekendReading.  All rights reserved.  As if you care.
 
-source("~/Documents/laboratory/tools/graphics-tools.r")# Various graphics tools
-source("~/Documents/laboratory/tools/pipeline-tools.r")# Pipeline building tools
+toolsDir <- "../../tools"                              # Various tools available from author
+source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics tools
+source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline building tools
 
 library("glmnet")                                      #
 library("plyr")                                        # For ldply()

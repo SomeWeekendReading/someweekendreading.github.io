@@ -1,5 +1,5 @@
 ## Created on Thursday, December  5, 2013 at 3:24pm EST by WeekendEditor on WeekendEditorMachine.
-## UnCopyright (u) 2013, nobody in particular.  All rights reversed.  As if you care.
+## Copyright (c) 2020, SomeWeekendReading.  All rights reserved.  As if you care.
 
 ##
 ## When is Dodds's Day?  When is Weekend Editrix's Day?

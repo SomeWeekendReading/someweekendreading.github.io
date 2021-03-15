@@ -1,8 +1,9 @@
 ## Created on Saturday, December 12, 2020 at 9:33pm EST by WeekendEditor on WeekendEditorMachine.
-## UnCopyright (c) 2020, Weekend Editor.  All rights reversed.  As if you care.
+## Copyright (c) 2020, SomeWeekendReading.  All rights reserved.  As if you care.
 
 library("plyr")                                        # For ddply()
-source("~/Documents/laboratory/tools/graphics-tools.r")# Various graphics hacks
+toolsDir <- "../../tools"                              # Various tools available from author
+source(file.path(toolsDir, "graphics-tools.r")         # Various graphics hacks
 
 ##
 ## Re-estimate efficacy and confidence intervals on Pfizer vaccine data.
