@@ -5,8 +5,8 @@ tags: MathInTheNews Politics
 comments: true
 ---
 
-Sen McConnell claims the _Democrats_ abuse the filibuster!  Because of course he does.
-But what does the data say?  
+Sen McConnell claims the _Democrats_ abuse the filibuster!  (Because of course he does.)
+But what do the data say?  
 
 
 ## The claim  
