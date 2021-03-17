@@ -51,8 +51,8 @@ required event count and will read out in the next few days:
 So when I heard that some European countries were stopping the use of AZ/OX pending an
 assessment of serious adverse events (occasionally fatal blood clots) I thought, "What
 have they done wrong _now?_"  ('They' meaning either AstraZeneca or the governmental
-authorities.)  Either the vaccine is dangerous and lives are saved by not
-using it, or the vaccine is ok and lives are saved by using it.  But which is it?  
+authorities.)  Either the vaccine is dangerous and lives are saved by _not using_ it, 
+or the vaccine is ok and lives are saved by _using_ it.  Which is it?  
 
 
 ### Some terminology  
@@ -67,8 +67,9 @@ something else (an _embolism_):
 - __PE:__ pulmonary thrombolism, when a DVT embolism is "thrown" and blocks finer vessels in
   the lung (very serious, as in sudden death).  
 - __CSVT:__ cerebral sinus vein thrombosis, a subtype of VTE, like PE, but when a clot is
-  thrown into the brain (somewhat rare).  
-- __ATE:__ somewhat rarer case where a thrombus forms in an artery.  
+  thrown into the brain (somewhat rare, very bad news when it happens).  
+- __ATE:__ somewhat rarer case where a thrombus forms in an artery (doesn't seem to be the
+  case here).  
 
 So we're worrying about some observations of VTE (either DVT or PE) in some recent
 recipients of the AZ/OX vaccine.  
@@ -121,8 +122,8 @@ AstraZeneca itself <sup id="fn6a">[[6]](#fn6)</sup>:
 - In the clinical trial, VTE events were _lower_ in treatment arm, because COVID causes
   blood clots & control arm caught more COVID.  So in that sense you can regard the
   vaccine as _protective_ against VTE events.  
-- No batch effect observed, after extensive QC of the batches shipped to the sites in
-  question.  
+- No batch effect observed, after extensive QC by AstraZeneca of the batches shipped to the sites
+  where VTEs were observed.  
   
 __Summary:__ So far, nobody has actual evidence to connect the vaccine to the VTE events.
 The stoppages are out of (possibly misplaced?) caution.  The numbers seem to be 30-37 VTE
@@ -164,7 +165,7 @@ alleged clot risk.  (Even if there _were_ some evidence of vaccine-induced throm
 which we _still_ haven't established!  )
 
 
-### How often does this happen in the general population?  
+### How often does thromboembolism happen in the general population?  
 
 <img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-ajmc.jpg" width="400" height="145" alt="Amer Jnl Manag Care: Overview of VTE" title="Amer Jnl Manag Care: Overview of VTE" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-nat-rev-cardiol.jpg" width="400" height="128" alt="Nature Reviews Cardiology: Epidemiology of VTE" title="Nature Reviews Cardiology: Epidemiology of VTE" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -188,7 +189,7 @@ _underestimate_ of the VTE frequency in the current vaccine population.  But sin
 imposes an _even more stringent_ threshold to beat, let's go with it.  
 
 
-## Some statistical comparisons  
+## Some statistical hypothesis tests  
 
 We now have enough data to compute the probability per unit time (the _rate_) at which VTE
 events occur in both the general population and in the recently vaccinated population.  
@@ -205,22 +206,22 @@ Let's assume the observation time after a vaccination is 2 weeks.  Then our rate
 VTE/fortnight are:
 $$
 \begin{align*}
-  d \Pr(\mathrm{VTE} | \mathrm{bkgnd}) / dt & = (1 \mathrm{VTE} / 1000 \mathrm{person-years}) \times (1 \mathrm{year} / 26 \mathrm{fortnights}) \\
-                               & = 1 \mathrm{VTE} / 26,000  \mathrm{person-fortnights} \\
-							   & = 3.8 \times 10^{-5} \mathrm{VTE/person-fortnight} \\
-  d \Pr(\mathrm{VTE} | \mathrm{vax}) / dt        & = 37 \mathrm{VTE} / 5,000,000 \mathrm{person-fortnights} \\
-                               & = 7.4 \times 10^{-6} \mathrm{VTE/person-fortnight}
+  d/dt \Pr(\mathrm{VTE} | \mathrm{bkgnd}) & = (1 \mathrm{VTE} / 1000 \mathrm{person-years}) \times (1 \mathrm{year} / 26 \mathrm{fortnights}) \\
+                                          & = 1 \mathrm{VTE} / 26,000  \mathrm{person-fortnights} \\
+							              & = 3.8 \times 10^{-5} \mathrm{VTE/person-fortnight} \\
+  d/dt \Pr(\mathrm{VTE} | \mathrm{vax})   & = 37 \mathrm{VTE} / 5,000,000 \mathrm{person-fortnights} \\
+                                          & = 7.4 \times 10^{-6} \mathrm{VTE/person-fortnight}
 \end{align*}
 $$
 
 __NB__: the rate of VTEs is _lower_ in the vaccinated population, by a factor of 5.  In
 other words, the top-line number says the vaccine is _protective against VTE_.  
 
-We know there were about 5,000,000 AZ/OX vaccination subjects; what should we use as the
-population size of the background population?  Since we're looking at a vaccination
+We know there were about 5,000,000 AZ/OX vaccination subjects.  What should we use as the
+corresponding size of the background population?  Since we're looking at a vaccination
 campaign in Europe, the population of the European Union 
 ([446 million](https://europa.eu/european-union/about-eu/figures/living_en#size-and-population)) 
-looks about like the right thing.  
+looks like about the right thing.  
 
 Now we can build a crosstabulation showing the VTE rates in the vaccinated population and
 the unvaccinated population.  We use $\Pr(\mathrm{VTE} | \mathrm{background})$ and the EU population above to
@@ -234,13 +235,13 @@ Vax      37 5.00e+06
 Bkgnd 17154 4.46e+08
 ```
 
-Now we can apply [Fisher's exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test) (devised,
+We next apply [Fisher's exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test) (devised,
 according to legend, for the problem of 
 [The Lady Tasting Tea](https://en.wikipedia.org/wiki/Lady_tasting_tea))
 and the somewhat more traditional
 [test of proportion](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/prop.test)
-to test the statistical difference of the rates of VTE between the vaccinees and the
-general EU population:  
+to test the statistical significance of the difference in rates of VTE between the vaccinees and the
+general EU population.  For both tests, the null hypothesis is that there's no difference:  
 
 ```R
 > fisher.test(mx)
@@ -268,7 +269,7 @@ sample estimates:
 7.399945e-06 3.846006e-05 
 ```
 
-Both results report ridiculously strong significance, at $p \le 2.2 \times 10^{-16}$, the
+Both tests report ridiculously strong significance, at $p \le 2.2 \times 10^{-16}$, the
 lowest $p$-value that [R](https://www.r-project.org) will report without embarrassment.
 That says yes, we really should believe the VTE risk is _lower_ among the vaccinees.  
 
@@ -354,12 +355,13 @@ particular reason you should care.  What do _real_ experts think?
 > benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of
 > hospitalisation and death, outweigh the risks of side effects.__  
 
-So it looks like "no link of VTE events to AZ/OX vaccine" is the consensus opinion.  Maybe
-you should believe _that_.  
+So it looks like "no link of VTE events to AZ/OX vaccine" is the consensus opinion of
+experts, not just loudmouth retired scientist bloggers.  Maybe you should believe _that_.  
 
 ## The Weekend Conclusion  
 
-More and more people die from COVID every day; _that's_ the risk you need to beat.
+More and more people die from COVID every day; _that's_ the risk you need to beat.  
+
 Thinking specifically about thromboembolisms, we've seen here that the AZ/OX vaccine
 appears to _lower_ the risk compared to the general population.  And since it prevents
 most COVID-19 which would skyrocket the rate of VTE, it seems slam-dunk-obvious that the
@@ -400,24 +402,28 @@ _In the Pipeline_ <sup id="fn15a">[[15]](#fn15)</sup>:
 
 Indeed.  
 
-So why is that not what's happening?  There could be several reasons:  
+So why is that not what's happening?  There could be several reasons; I can think of at
+least 3:  
+
 - _Maybe they know something we don't._  For all the length of this post, we really only
   know 4 numbers: the number of observed VTEs in vaccinees (37), the number of vaccinees
-  (5 million), the rate of VTE per forthnight in Europeans (3.8e-5), and the populatio of
+  (5 million), the rate of VTE per fortnight in Europeans generally (3.8e-5), and the population of
   Europe (446 million).  The PRAC knows complete medical histories, and thus may be on the
-  trail of something more subtle that is not visible in the top-line numbers.  
+  trail of something more subtle that is not visible in the top-line numbers.  True, they
+  could be more transparent, but they're not necessarily doing the wrong thing here.  
 - _Maybe they're extremely cautious, beyond any ability to compare risks._  That is, they
   see the VTEs in vaccinees and are paralyzed by fear.  This is, of course, worthy of our
   sympathy even though it is not rational.  
 - _Maybe they're in severe political blame-avoidance mode._  One can realize there is no
-  VTE danger posed by the vaccine, but expecting voters to realize this might be going out
-  on a limb.  While true, that position deserves our contempt: politicians who would
+  VTE danger posed by the vaccine, but doubt the ability of voters to realize the same thing.
+  While likely true, this position deserves our contempt: politicians who would
   prefer citizens die of COVID-19 rather than save them with a medically useful but
-  politically perilous vaccine are drowning in their sociopathic self-regard.  
+  politically perilous vaccine are paralyzed by the basilisk-like gaze of their
+  sociopathic self-regard.  
   
-The AZ/OX vaccine, whatever stupidities it may have perpetrated in its first
+The AZ/OX vaccine, whatever stupidities may have been perpetrated in its name in its first
 clinical trial, _does not look like it's at fault for clotting adverse events_.  It should
-be restored to service as fast as possible in Europe, to prevent further COVID-19 deaths.  
+be restored to service as fast as possible, to prevent further COVID-19 deaths.  
 
 ---
 
