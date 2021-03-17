@@ -85,7 +85,8 @@ _BuzzFeed_ <sup id="fn3a">[[3]](#fn3)</sup>.  The content is pretty similar, in 
 differences in tone:  
 - __There does not appear to be any relationship to the vaccine at all.__  
 - According to Prof Stephan Moll, of UNC medical: in the US each year there are 300,000 -
-  600,000 cases of VTE (DVT or PE).  The US is vaccinating about 1% of the population
+  600,000 cases of VTE (DVT or PE), so that's very roughly 100-200 cases/day.  The US is
+  vaccinating about 1% of the population
   every day, so we should expect to see about 10 - 20 VTE cases/day in newly vaccinated
   people, just because that's one of the things that happens to people, vaccine or no.
   It's not _that_ rare!   
@@ -127,10 +128,8 @@ AstraZeneca itself <sup id="fn6a">[[6]](#fn6)</sup>:
   
 __Summary:__ So far, nobody has actual evidence to connect the vaccine to the VTE events.
 The stoppages are out of (possibly misplaced?) caution.  The numbers seem to be 30-37 VTE
-events out of ~ 5 mln vaccinated.  That means the probability of VTE is:  
-$$
-\Pr(\mathrm{VTE} | \mathrm{AZ/OX vaccinated}) = \frac{37}{5,000,000} = 7.4 \times 10^{-6}
-$$
+events out of ~ 5 mln vaccinated.  That means the probability of VTE is<br>
+$\Pr(\mathrm{VTE} | \mathrm{vax}) = \frac{37}{5,000,000} = 7.4 \times 10^{-6}$
 ... or about 7 times in a million patients.  Reasonably rare, and seems like a risk worth
 taking compared to COVID-19, even if we were guaranteed that many VTEs!  
 
