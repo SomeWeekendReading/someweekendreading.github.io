@@ -446,7 +446,7 @@ be restored to service as fast as possible in Europe, to prevent further COVID-1
 
 <a id="fn9">9</a>: S Mondal, _et al._, ["Thromboembolic disease in COVID-19 patients: A brief narrative review"](https://jintensivecare.biomedcentral.com/articles/10.1186/s40560-020-00483-y), _Jnl Intens Care_ 8:7 (2020).  [DOI](https://doi.org/10.1186/s40560-020-00483-y) [↩](#fn9a)  
 
-<a id="fn10">10</a>: H Phillipe, ["Overview of venous thromboembolism"](https://www.ajmc.com/view/overview-of-venous-thromboembolism), _Am J Manag Care_ 23(20 Suppl) 2017-Dec, S376-S382. PMID: [29297660](https://pubmed.ncbi.nlm.nih.gov/29297660/)[↩](#fn10a)  
+<a id="fn10">10</a>: H Phillipe, ["Overview of venous thromboembolism"](https://www.ajmc.com/view/overview-of-venous-thromboembolism), _Am J Manag Care_ 23(20 Suppl) 2017-Dec, S376-S382. PMID: [29297660]( https://pubmed.ncbi.nlm.nih.gov/26076949/)[↩](#fn10a)  
 
 <a id="fn11">11</a>: J Heit, ["Epidemiology of venous thromboembolism"](https://www.nature.com/articles/nrcardio.2015.83), _Nat Rev Cardiol_ 12:8 (2015-Aug), 464-474. [PMC4624298](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624298/). [PMID:26076949](https://www.ncbi.nlm.nih.gov/pubmed/26076949). [DOI](https://dx.doi.org/10.1038%2Fnrcardio.2015.83)[↩](#fn11a)  
 
