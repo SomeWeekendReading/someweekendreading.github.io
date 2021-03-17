@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The AstraZeneca/Oxoford Vaccine vs Blood Clots
+title: The AstraZeneca/Oxford Vaccine vs Blood Clots
 tags: COVID MathInTheNews PharmaAndBiotech R SomebodyAskedMe Statistics
 comments: true
 ---
@@ -128,7 +128,7 @@ __Summary:__ So far, nobody has actual evidence to connect the vaccine to the VT
 The stoppages are out of (possibly misplaced?) caution.  The numbers seem to be 30-37 VTE
 events out of ~ 5 mln vaccinated.  That means the probability of VTE is:  
 $$
-\Pr(VTE | AZ/OX vaccinated) = \frac{37}{5,000,000} = 7.4 \times 10^{-6}
+\Pr(\mathrm{VTE} | \mathrm{AZ/OX vaccinated}) = \frac{37}{5,000,000} = 7.4 \times 10^{-6}
 $$
 ... or about 7 times in a million patients.  Reasonably rare, and seems like a risk worth
 taking compared to COVID-19, even if we were guaranteed this many VTEs!  
@@ -204,11 +204,11 @@ Let's assume the observation time after a vaccination is 2 weeks.  Then our rate
 VTE/fortnight are:
 $$
 \begin{align*}
-  d \Pr(VTE | background) / dt & = (1 VTE / 1000 person-years) \times (1 year / 26 fortnights) \\
-                               & = 1 VTE / 26,000  person-fortnights \\
-							   & = 3.8 \times 10^{-5} VTE/person-fortnight \\
-  d \Pr(VTE | vax) / dt        & = 37 VTE / 5,000,000 person-fortnights \\
-                               & = 7.4 \times 10^{-6} VTE/person-fortnight
+  d \Pr(\mathrm{VTE} | \mathrm{background}) / dt & = (1 \mathrm{VTE} / 1000 \mathrm{person-years}) \times (1 \mathrm{year} / 26 \mathrm{fortnights}) \\
+                               & = 1 \mathrm{VTE} / 26,000  \mathrm{person-fortnights} \\
+							   & = 3.8 \times 10^{-5} \mathrm{VTE/person-fortnight} \\
+  d \Pr(\mathrm{VTE} | \mathrm{vax}) / dt        & = 37 \mathrm{VTE} / 5,000,000 \mathrm{person-fortnights} \\
+                               & = 7.4 \times 10^{-6} \mathrm{VTE/person-fortnight}
 \end{align*}
 $$
 
@@ -222,7 +222,7 @@ campaign in Europe, the population of the European Union
 looks about like the right thing.  
 
 Now we can build a crosstabulation showing the VTE rates in the vaccinated population and
-the unvaccinated population.  We use $\Pr(VTE | background)$ and the EU population above to
+the unvaccinated population.  We use $\Pr(\mathrm{VTE} | \mathrm{background})$ and the EU population above to
 compute the background counts to show a rate of about 1/26,000 every 2 weeks in the
 background population:  
 ```R
@@ -270,9 +270,9 @@ sample estimates:
 Both results report ridiculously strong significance, at $p \le 2.2 \times 10^{-16}$, the
 lowest $p$-value that [R](https://www.r-project.org) will report without embarrassment.  
 
-Finally, we can add our usual Bayesian analysis.  We've experimentally measured $\Pr(VTE |
-Vax)$ and $\Pr(VTE | bkgnd)$.  Each of those should be binomially distributed, with some
-underlying success parameters $p_{Vax}$ and $p_{bkgnd}$.  The usual Bayesian analysis says
+Finally, we can add our usual Bayesian analysis.  We've experimentally measured 
+$\Pr(\mathrm{VTE} | \mathrm{Vax})$ and $\Pr(\mathrm{VTE} | \mathrm{bkgnd})$.  Each of those should be binomially distributed, with some
+underlying success parameters $p_{\mathrm{Vax}}$ and $p_{\mathrm{bkgnd}}$.  The usual Bayesian analysis says
 that if we start with a uniform prior on each $p$, then 
 [the posterior is a Beta distribution](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading14a.pdf).
 We can calculate &amp; plot those distributions, to see if they look different:  
