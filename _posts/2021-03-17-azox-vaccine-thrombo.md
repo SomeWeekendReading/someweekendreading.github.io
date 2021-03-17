@@ -128,7 +128,7 @@ AstraZeneca itself <sup id="fn6a">[[6]](#fn6)</sup>:
   
 __Summary:__ So far, nobody has actual evidence to connect the vaccine to the VTE events.
 The stoppages are out of (possibly misplaced?) caution.  The numbers seem to be 30-37 VTE
-events out of ~ 5 mln vaccinated.  That means the probability of VTE is<br>
+events out of ~ 5 mln vaccinated.  That means the probability of VTE is
 $\Pr(\mathrm{VTE} | \mathrm{vax}) = \frac{37}{5,000,000} = 7.4 \times 10^{-6}$
 ... or about 7 times in a million patients.  Reasonably rare, and seems like a risk worth
 taking compared to COVID-19, even if we were guaranteed that many VTEs!  
