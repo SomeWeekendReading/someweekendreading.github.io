@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Senate&colon; does one party filibuster more?
-tags: MathInTheNews Politics
+tags: MathInTheNews Politics Statistics
 comments: true
 ---
 
