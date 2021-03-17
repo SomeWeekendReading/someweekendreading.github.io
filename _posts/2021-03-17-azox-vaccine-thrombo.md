@@ -7,7 +7,7 @@ comments: true
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) whether worries the
 AstraZeneca/Oxford vaccine and dangerous blood clotting seen in some patients were a real
-problem.  You know what the anti-vaxxers are gonna say; what does the _data_ say?  
+problem.  You know what the anti-vaxxers are gonna say; what do the _data_ say?  
 
 
 ## What's the sitch?  
@@ -27,7 +27,7 @@ December had numerous problems:
   superclass of all the things being averaged, you can't do it: it's like averaging
   apples, oranges, &hellip; and sledgehammers.  
 - They failed to disclose any of this;
-  [the CEO even attempted to spin it as "not a mistake"]({{ site.baseurl }}/astrazeneca-oxford-vaccine-readout/#fn12)
+  [the CEO even attempted to spin it as "not a mistake"]({{ site.baseurl }}/astrazeneca-oxford-vaccine-readout/#fn11)
   because they amended the trial protocol.  That's like taking a pratfall and saying "I
   meant to do that!"  
 
@@ -42,11 +42,11 @@ required event count and will read out in the next few days:
     Sounds like the big US/international trial for the Oxford-AstraZeneca vaccine has its
 	events (likely final): <a href="https://t.co/79tArvAIGr">https://t.co/79tArvAIGr</a>
 	If so, there could be a press release soon (perhaps just days away).<br><br>
-    My 🧵 on what I&#39;ll be keeping in mind: <a href="https://t.co/5JFmnZ7Emi">https://t.co/5JFmnZ7Emi</a> 
-  </p>
-  &mdash; Hilda Bastian, PhD (@hildabast) <a href="https://twitter.com/hildabast/status/1371566142221807617?ref_src=twsrc%5Etfw">March 15, 2021</a>
+    My 🧵 on what I&#39;ll be keeping in mind: <a
+	href="https://t.co/5JFmnZ7Emi">https://t.co/5JFmnZ7Emi</a> 
+  </p>&mdash; Hilda Bastian, PhD (@hildabast) <a href="https://twitter.com/hildabast/status/1371566142221807617?ref_src=twsrc%5Etfw">March 15, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js""></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 So when I heard that some European countries were stopping the use of AZ/OX pending an
 assessment of serious adverse events (occasionally fatal blood clots) I thought, "What
