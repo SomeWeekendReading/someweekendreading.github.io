@@ -13,7 +13,7 @@ problem.  You know what the anti-vaxxers are gonna say; what do the _data_ say?
 ## What's the sitch?  
 
 
-### The Bayesian prior at Chez Weekend   
+### The Bayesian prior on AZ/OX here at Chez Weekend   
 
 Here at Chez Weekend,
 [we haven't been fans]({{ site.baseurl }}/astrazeneca-oxford-vaccine-readout/)
@@ -61,14 +61,14 @@ They're complaining about _thromboembolic events_, so we'd best start by getting
 reminded and on the same page about the meaning of thromboembolism.  Basically, some blood
 partially or fully clots inside the circulatory system (a _thrombus_), which blocks
 something else (an _embolism_):  
-- VTE: veinous thromboembolism, if it forms in a vein.  
-- DVT: deep vein thrombosis, a subtype of VTE when it forms in a limb, usually a leg.  A
+- __VTE:__ veinous thromboembolism, if it forms in a vein.  
+- __DVT:__ deep vein thrombosis, a subtype of VTE when it forms in a limb, usually a leg.  A
   common worry for older people who take long flights in coach class.  
-- PE: pulmonary thrombolism, when a DVT embolism is "thrown" and blocks finer vessels in
+- __PE:__ pulmonary thrombolism, when a DVT embolism is "thrown" and blocks finer vessels in
   the lung (very serious, as in sudden death).  
-- CSVT: cerebral sinus vein thrombosis, a subtype of VTE, like PE, but when a clot is
+- __CSVT:__ cerebral sinus vein thrombosis, a subtype of VTE, like PE, but when a clot is
   thrown into the brain (somewhat rare).  
-- ATE: somewhat rarer case where a thrombus forms in an artery.  
+- __ATE:__ somewhat rarer case where a thrombus forms in an artery.  
 
 So we're worrying about some observations of VTE (either DVT or PE) in some recent
 recipients of the AZ/OX vaccine.  
@@ -131,7 +131,7 @@ $$
 \Pr(\mathrm{VTE} | \mathrm{AZ/OX vaccinated}) = \frac{37}{5,000,000} = 7.4 \times 10^{-6}
 $$
 ... or about 7 times in a million patients.  Reasonably rare, and seems like a risk worth
-taking compared to COVID-19, even if we were guaranteed this many VTEs!  
+taking compared to COVID-19, even if we were guaranteed that many VTEs!  
 
 
 ### Does COVID itself cause thromboembolic events?  
@@ -159,8 +159,9 @@ So does COVID-19 cause VTEs?  Apparently yes!
   can also cause thrombocytopenia (low platelet count), which leads to clots.   
 
 So&hellip; yeah, COVID-19 causes lots of inconvenient and potentially lethal clots.
-Avoiding _that_ risk, you should look at a vaccine very charitably.  Even _if_ there were
-some evidence of vaccine-induced thromboembolism, which we _still_ haven't established!  
+Avoiding _that_ risk, you should look very charitably and forgivingly at a vaccine's
+alleged clot risk.  (Even if there _were_ some evidence of vaccine-induced thromboembolism,
+which we _still_ haven't established!  )
 
 
 ### How often does this happen in the general population?  
@@ -204,7 +205,7 @@ Let's assume the observation time after a vaccination is 2 weeks.  Then our rate
 VTE/fortnight are:
 $$
 \begin{align*}
-  d \Pr(\mathrm{VTE} | \mathrm{background}) / dt & = (1 \mathrm{VTE} / 1000 \mathrm{person-years}) \times (1 \mathrm{year} / 26 \mathrm{fortnights}) \\
+  d \Pr(\mathrm{VTE} | \mathrm{bkgnd}) / dt & = (1 \mathrm{VTE} / 1000 \mathrm{person-years}) \times (1 \mathrm{year} / 26 \mathrm{fortnights}) \\
                                & = 1 \mathrm{VTE} / 26,000  \mathrm{person-fortnights} \\
 							   & = 3.8 \times 10^{-5} \mathrm{VTE/person-fortnight} \\
   d \Pr(\mathrm{VTE} | \mathrm{vax}) / dt        & = 37 \mathrm{VTE} / 5,000,000 \mathrm{person-fortnights} \\
@@ -268,7 +269,8 @@ sample estimates:
 ```
 
 Both results report ridiculously strong significance, at $p \le 2.2 \times 10^{-16}$, the
-lowest $p$-value that [R](https://www.r-project.org) will report without embarrassment.  
+lowest $p$-value that [R](https://www.r-project.org) will report without embarrassment.
+That says yes, we really should believe the VTE risk is _lower_ among the vaccinees.  
 
 Finally, we can add our usual Bayesian analysis.  We've experimentally measured 
 $\Pr(\mathrm{VTE} | \mathrm{Vax})$ and $\Pr(\mathrm{VTE} | \mathrm{bkgnd})$.  Each of those should be binomially distributed, with some
@@ -304,17 +306,18 @@ against VTE.
 
 ## Some safety judgements from experts  
 
-<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-reuters.jpg" width="400" height="212" alt="Reuters: WHO begs us not to stop using AZ/OX vaccine" title="Reuters: WHO begs us not to stop using AZ/OX vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-new-scientist.jpg" width="400" height="173" alt="New Scientist: No relation between AZ/OX vaccine and clots" title="New Scientist: No relation between AZ/OX vaccine and clots" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-ema-3.jpg" width="400" height="166" alt="EMA: Investingation continues, still no evidence of link" title="EMA: Investingation continues, still no evidence of link" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Ok, so that's what one retired scientific loudmouth with a blog thinks.  There's no
 particular reason you should care.  What do _real_ experts think?  
+
+<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-reuters.jpg" width="400" height="212" alt="Reuters: WHO begs us not to stop using AZ/OX vaccine" title="Reuters: WHO begs us not to stop using AZ/OX vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - _Reuters_ reports <sup id="fn12a">[[12]](#fn12)</sup> that the World Health
   Organization generally appealed to country authorities _not_ to stop using
   the AZ/OX vaccine.  Given that it's been dosed in 5 million people and the side-effects
   are in line with the general population, it's provably safe and the observed adverse
   effects show no relation to the vaccine.  Given the extreme risks of
   COVID-19, it's much better to take the vaccine than not.  
+
+<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-new-scientist.jpg" width="400" height="173" alt="New Scientist: No relation between AZ/OX vaccine and clots" title="New Scientist: No relation between AZ/OX vaccine and clots" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - _New Scientist_ reports <sup id="fn13a">[[13]](#fn13)</sup> something similar, saying
   the decisions of governments to suspend use are not rational.  In particular, they note
   that the rate of VTE is not higher than the general population, and COVID-19 itself
@@ -343,6 +346,7 @@ particular reason you should care.  What do _real_ experts think?
 > we have are incredibly good at preventing the illness caused by this virus. They will
 > therefore prevent people from having thrombosis associated with the infection itself."  
 
+<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-ema-3.jpg" width="400" height="166" alt="EMA: Investingation continues, still no evidence of link" title="EMA: Investingation continues, still no evidence of link" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - The EMA safety committee investigates <sup id="fn14a">[[14]](#fn14)</sup>, finds no effect so
   far (emphasis in original):  
 
@@ -381,6 +385,8 @@ Grady &amp; Robbins in the _NYT_ piece, _op. cit._, tell the story:
 > sales spurred the vaccine’s maker, GlaxoSmithKline, to pull the vaccine from the market
 > in 2002.
 
+That's the _last_ outcome we need with a COVID-19 vaccine.  
+
 <img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-in-the-pipeline.jpg" width="400" height="256" alt="SciTranslMed/In the Pipeline: Goings on for AZ/OX vaccine" title="SciTranslMed/In the Pipeline: Goings on for AZ/OX vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The formidable med-chem blogger Derek Lowe has also weighed in at 
 _In the Pipeline_ <sup id="fn15a">[[15]](#fn15)</sup>:  
@@ -400,7 +406,7 @@ So why is that not what's happening?  There could be several reasons:
   (5 million), the rate of VTE per forthnight in Europeans (3.8e-5), and the populatio of
   Europe (446 million).  The PRAC knows complete medical histories, and thus may be on the
   trail of something more subtle that is not visible in the top-line numbers.  
-- _Maybe they're extremely cautious beyond the ability to compre risks._  That is, they
+- _Maybe they're extremely cautious, beyond any ability to compare risks._  That is, they
   see the VTEs in vaccinees and are paralyzed by fear.  This is, of course, worthy of our
   sympathy even though it is not rational.  
 - _Maybe they're in severe political blame-avoidance mode._  One can realize there is no
