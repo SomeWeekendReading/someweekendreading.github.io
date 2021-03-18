@@ -431,7 +431,7 @@ be restored to service as fast as possible, to prevent further COVID-19 deaths.
 _Science_ on the particular thromboses observed <sup id="fn16a">[[16]](#fn16)</sup>, and
 why that made the authorities want to suspend use of the AZ/OX vaccine.  
 
-Well, no we hadn't.  But that's one of the things friends &amp; colleagues are for.  
+Well, no&hellip; we hadn't.  But that's one of the things friends &amp; colleagues are for.  
 
 Remember above where we said one of the possibilities might be that the regulatory
 authorities know something we don't?  We didn't have a particularly high Bayesian prior on
@@ -447,7 +447,7 @@ that, but we're updating now to raise the posterior probability on that a bit:
   clotting.  But then it led to cerebral sinus vein thrombosis (CSVT, above), which is a
   bit unusual &mdash; usually it would throw a clot to the lungs (PE), not the brain.
   This clot blocks the vein that drains the brain, the heart keeps pumping blood in while
-  none drains, and what you think happens next is what happens next.  This is sort of rare
+  none drains out, and what you think happens next is what happens next.  This is sort of rare
   as clotting problems go, and to see 7 at one time in a vaccine-related setting is
   disturbing.  That's what caused the Paul Ehrlich Institute to raise the alarm.  
 - Also, the CSVT's developed in younger people: they face acute danger from CSVT, but
