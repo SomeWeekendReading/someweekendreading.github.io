@@ -427,28 +427,29 @@ be restored to service as fast as possible, to prevent further COVID-19 deaths.
 ## Addendum 2021-Mar-18: Some details on the thromboses found  
 
 <img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-science.jpg" width="400" height="405" alt="Science: some unnerving details about the thromboses found" title="Science: some unnerving details about the thromboses found" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-[Gary Cornell](https://garycornell.com/) wrote to ask if we'd seen the news report in 
+[Gary Cornell](https://garycornell.com/) emailed to ask if we'd seen the news report in 
 _Science_ on the particular thromboses observed <sup id="fn16a">[[16]](#fn16)</sup>, and
-why that made the authorities want tosuspend use of the AZ/OX vaccine.  Well, no we
-hadn't, but that's one of the things friends &amp; colleagues are for.  
+why that made the authorities want to suspend use of the AZ/OX vaccine.  
 
-Remember above where I said one of the possibilities might be that the regulatory
-authorities know something we don't?  I didn't have a particularly high Bayesian prior on
-that, but I'm updating now to raise the probability on that a bit:  
+Well, no we hadn't.  But that's one of the things friends &amp; colleagues are for.  
 
-- It seems that although the _rate_ of thromboembolisms are not particularly scary as we
-  showed here, the _types_ of thromboembolisms are pretty scary.  Ok, fair enough: that's
-  only something you can know with access to detailed medical records, not the top-line
+Remember above where we said one of the possibilities might be that the regulatory
+authorities know something we don't?  We didn't have a particularly high Bayesian prior on
+that, but we're updating now to raise the posterior probability on that a bit:  
+
+- It seems that although the _rate_ of thromboembolisms are not particularly scary (as we
+  showed here), the _types_ of thromboembolisms _are_ pretty scary.  Ok, fair enough: that's
+  only something one could know with access to detailed medical records, not the top-line
   numbers that we analyzed here.  
-- They're analyzing 13 patients in particular (out of the 37 total VTEs), in 5 separate
-  countries.  That's a low level of incidence, so the type had better be prettty scary.  
+- They're analyzing 13 patients in particular (out of the 37 total VTEs?), in 5 separate
+  countries.  That's a very low level of incidence, so the type had better be really scary.  
 - They start with immune thrombocytopenia (ITP), which lowers platelet levels and increases
   clotting.  But then it led to cerebral sinus vein thrombosis (CSVT, above), which is a
-  bit unusual &mdash; usually it would go to the lungs, not the brain.  This clot blocks
-  the vein that drains the brain, the heart keeps pumping blood in while none drains, and
-  what you think happens next is what happens next.  This is quite rare as clotting
-  problems go, and to see 7 at one time is disturbing.  That's what caused the Paul
-  Ehrlich Institute to raise the alarm.  
+  bit unusual &mdash; usually it would throw a clot to the lungs (PE), not the brain.
+  This clot blocks the vein that drains the brain, the heart keeps pumping blood in while
+  none drains, and what you think happens next is what happens next.  This is sort of rare
+  as clotting problems go, and to see 7 at one time in a vaccine-related setting is
+  disturbing.  That's what caused the Paul Ehrlich Institute to raise the alarm.  
 - Also, the CSVT's developed in younger people: they face acute danger from CSVT, but
   would have faced less danger with COVID-19 due to their youth.  So that's an imbalance
   of risk that would be unacceptable if a link were to be proven.  
