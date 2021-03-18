@@ -428,7 +428,7 @@ be restored to service as fast as possible, to prevent further COVID-19 deaths.
 
 <img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-science.jpg" width="400" height="405" alt="Science: some unnerving details about the thromboses found" title="Science: some unnerving details about the thromboses found" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 [Gary Cornell](https://garycornell.com/) wrote to ask if we'd seen the news report in 
-_Science_ on the particular thromboses observed <sup id="fn15a">[[15]](#fn15)</sup>, and
+_Science_ on the particular thromboses observed <sup id="fn16a">[[16]](#fn16)</sup>, and
 why that made the authorities want tosuspend use of the AZ/OX vaccine.  Well, no we
 hadn't, but that's one of the things friends &amp; colleagues are for.  
 
