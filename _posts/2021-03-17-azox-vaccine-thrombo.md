@@ -424,6 +424,64 @@ The AZ/OX vaccine, whatever stupidities may have been perpetrated in its name in
 clinical trial, _does not look like it's at fault for clotting adverse events_.  It should
 be restored to service as fast as possible, to prevent further COVID-19 deaths.  
 
+## Addendum 2021-Mar-18: Some details on the thromboses found  
+
+<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-science.jpg" width="400" height="405" alt="Science: some unnerving details about the thromboses found" title="Science: some unnerving details about the thromboses found" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+[Gary Cornell](https://garycornell.com/) wrote to ask if we'd seen the news report in 
+_Science_ on the particular thromboses observed <sup id="fn15a">[[15]](#fn15)</sup>, and
+why that made the authorities want tosuspend use of the AZ/OX vaccine.  Well, no we
+hadn't, but that's one of the things friends &amp; colleagues are for.  
+
+Remember above where I said one of the possibilities might be that the regulatory
+authorities know something we don't?  I didn't have a particularly high Bayesian prior on
+that, but I'm updating now to raise the probability on that a bit:  
+
+- It seems that although the _rate_ of thromboembolisms are not particularly scary as we
+  showed here, the _types_ of thromboembolisms are pretty scary.  Ok, fair enough: that's
+  only something you can know with access to detailed medical records, not the top-line
+  numbers that we analyzed here.  
+- They're analyzing 13 patients in particular (out of the 37 total VTEs), in 5 separate
+  countries.  That's a low level of incidence, so the type had better be prettty scary.  
+- They start with immune thrombocytopenia (ITP), which lowers platelet levels and increases
+  clotting.  But then it led to cerebral sinus vein thrombosis (CSVT, above), which is a
+  bit unusual &mdash; usually it would go to the lungs, not the brain.  This clot blocks
+  the vein that drains the brain, the heart keeps pumping blood in while none drains, and
+  what you think happens next is what happens next.  This is quite rare as clotting
+  problems go, and to see 7 at one time is disturbing.  That's what caused the Paul
+  Ehrlich Institute to raise the alarm.  
+- Also, the CSVT's developed in younger people: they face acute danger from CSVT, but
+  would have faced less danger with COVID-19 due to their youth.  So that's an imbalance
+  of risk that would be unacceptable if a link were to be proven.  
+- It's possible the cases _already had COVID-19_ when getting vaccinated, as "many" were
+  healthcare workers and teachers.  The combined immune reaction could have caused ITP.
+  That, of course, could be fixed with a COVID-19 PCR or antigen test before vaccination.  
+
+On the one hand, witholding the vaccine is a problem, as expressed both here and by actual
+experts:  
+
+> "The harm caused by depriving people of access to a vaccine will likely vastly outweigh
+> even the worst case scenario if any link to the clotting disorders is eventually found,"
+> University of Leeds virologist Stephen Griffin told the United Kingdom's Science Media
+> Centre. The European Medicines Agency (EMA) and the World Health Organization have
+> recommended that countries continue immunizations while they investigate the reports.  
+>  
+> &hellip;  
+>  
+> EMA will convene a panel on Thursday to help figure out whether there was a causal
+> relationship between the vaccinations and the highly unusual syndrome. For the moment,
+> the agency is "firmly convinced" that the vaccine’s benefits outweigh any risks, [EMA
+> head Elmer] Cooke said.  
+
+On the other hand, the hematologists have now pointed to a very weird increase in CSVT and
+a link to ITP that may be linked to vaccinating aleady COVID-positive patients.  That's
+both a specific disease claim and a proposed method of action, so it's something to take
+seriously.  
+
+__Revised conclusion:__ It still looks to me like over-caution, given the absolute certain
+risks of COVID-19.  But the relevant experts have pointed to something somewhat
+worrisome.  It is _probably_ a fluke, but nobody knows at this point.  Maybe stopping the
+vaccine _for a very short time_ while they investigate looks sensible?  
+
 ---
 
 ## Notes &amp; References  
@@ -464,3 +522,5 @@ _Reuters_, 2021-Mar-15. [↩](#fn12a)
 
 <a id="fn15">15</a>: D Lowe, ["What is Going on With the AstraZeneca/Oxford Vaccine?"](https://blogs.sciencemag.org/pipeline/archives/2021/03/16/what-is-going-on-with-the-astrazeneca-oxford-vaccine), 
 [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/), 2021-Mar-16.[↩](#fn15a)  
+
+<a id="fn16">16</a>: G Vogel &amp; K Kupferschmidt, ["'It's a very special picture.' Why vaccine safety experts put the brakes on AstraZeneca’s COVID-19 vaccine"](https://www.sciencemag.org/news/2021/03/it-s-very-special-picture-why-vaccine-safety-experts-put-brakes-astrazeneca-s-covid-19), _Science_, 2021-Mar-17.  doi:10.1126/science.abi5259[↩](#fn16a)  
