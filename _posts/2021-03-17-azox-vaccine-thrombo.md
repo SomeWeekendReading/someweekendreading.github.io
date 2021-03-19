@@ -548,7 +548,7 @@ hard as they can to do good in the world, _statistical methods matter._
 
 <a id="fn10">10</a>: H Phillipe, ["Overview of venous thromboembolism"](https://www.ajmc.com/view/overview-of-venous-thromboembolism), _Am J Manag Care_ 23(20 Suppl) 2017-Dec, S376-S382. PMID: [29297660]( https://pubmed.ncbi.nlm.nih.gov/26076949/)[↩](#fn10a)  
 
-<a id="fn11">11</a>: J Heit, ["Epidemiology of venous thromboembolism"](https://www.nature.com/articles/nrcardio.2015.83), _Nat Rev Cardiol_ 12:8 (2015-Aug), 464-474. [PMC4624298](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624298/). [PMID:26076949](https://www.ncbi.nlm.nih.gov/pubmed/26076949). [DOI](https://dx.doi.org/10.1038%2Fnrcardio.2015.83)[↩](#fn11a)  
+<a id="fn11">11</a>: J Heit, ["Epidemiology of venous thromboembolism"](https://www.nature.com/articles/nrcardio.2015.83), _Nat Rev Cardiol_ 12:8 (2015-Aug), 464-474. [PMC4624298](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624298/). [PMID:26076949](https://pubmed.ncbi.nlm.nih.gov/pubmed/26076949). [DOI](https://dx.doi.org/10.1038%2Fnrcardio.2015.83)[↩](#fn11a)  
 
 <a id="fn12">12</a>: S Nebehay, J Gronholt-Pederson, ["WHO urges world not to halt vaccinations as AstraZeneca shot divides Europe"](https://www.reuters.com/article/us-health-coronavirus-idUSKBN2B71PU),
 _Reuters_, 2021-Mar-15. [↩](#fn12a)  
