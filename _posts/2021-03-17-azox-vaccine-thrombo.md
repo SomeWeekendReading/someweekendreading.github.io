@@ -487,20 +487,21 @@ vaccine _for a very short time_ while they investigate looks sensible?
 
 <img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-pei.jpg" width="400" height="320" alt="Paul-Ehrlich-Institut: AZ/OX vaccine resumed with favorable risk/benefit" title="Paul-Ehrlich-Institut: AZ/OX vaccine resumed with favorable risk/benefit" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Various news sources are today reporting that the European authorities have begun using
-the AZ/OX vaccine again.  To get the most skeptical report, we went to the
-Paul-Ehrlich-Institut, the German institue for vaccines and biomedicines that first blew
-the whistle on the unusual number of CSVTs.  In today's press 
-release <sup id="fn17a">[[17]](#fn17)</sup>, they quoted the PRAC (Pharmacovigilance Risk
-Assessment Committee) assessment of the EMA (European Medicines Agency) as
-seeing a positive risk/benefit trade-off and the addition of a warning of "very rare
-cases" of CSVT on the label:  
+the AZ/OX vaccine again.  
+
+To get the most skeptical report, we went to the Paul-Ehrlich-Institut, the German
+institue for vaccines and biomedicines that first blew the whistle on the unusual number
+of CSVTs.  In today's press release <sup id="fn17a">[[17]](#fn17)</sup>, they quoted the
+PRAC (Pharmacovigilance Risk Assessment Committee) assessment of the EMA (European
+Medicines Agency) as seeing a positive risk/benefit trade-off and the addition of a
+warning of "very rare cases" of CSVT on the label (emphasis added):  
 
 > The safety assessment by the Pharmacovigilance Risk Assessment Committee (PRAC) at the
 > European Medicines Agency (EMA) confirms the positive benefit-risk ratio of COVID-19
 > Vaccine AstraZeneca. As a risk-mitigation warning, the SmPC includes the fact that in
 > very rare cases, specific thromboses are found in the period up to 16 days after
-> vaccination. Based on the positive safety assessment by the EMA, Germany will resume
-> vaccination with the COVID-19 Vaccine AstraZeneca starting 19 March 2021. Those willing
+> vaccination. __Based on the positive safety assessment by the EMA, Germany will resume
+> vaccination with the COVID-19 Vaccine AstraZeneca starting 19 March 2021.__ Those willing
 > to be vaccinated will be informed about the above cases during vaccination
 > education. Medical doctors can find information on the website of the
 > Paul-Ehrlich-Institut.  
@@ -513,7 +514,7 @@ significant.  Perhaps the trouble could have been avoided by a proper
 [multiple hypothesis test correction](https://en.wikipedia.org/wiki/Multiple_comparisons_problem)
 ([more simply, visually, and brilliantly explained by XKCD](https://xkcd.com/882/)) like
 my favorite, the 
-[Benjamini-H&oumlaut;chberg method](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure)?  
+[Benjamini-Hochberg method](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure)?  
 
 As we saw here, where a delay in vaccination costs lives even when everybody is trying as
 hard as they can to do good in the world, _statistical methods matter._  
