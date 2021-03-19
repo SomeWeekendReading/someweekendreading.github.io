@@ -562,5 +562,5 @@ _Reuters_, 2021-Mar-15. [↩](#fn12a)
 
 <a id="fn16">16</a>: G Vogel &amp; K Kupferschmidt, ["'It's a very special picture.' Why vaccine safety experts put the brakes on AstraZeneca’s COVID-19 vaccine"](https://www.sciencemag.org/news/2021/03/it-s-very-special-picture-why-vaccine-safety-experts-put-brakes-astrazeneca-s-covid-19), _Science_, 2021-Mar-17.  doi:10.1126/science.abi5259[↩](#fn16a)  
 
-<a id="fn17">17</a>: Paul-Ehrlich-Institut, ["COVID-19 Vac­cine As­traZeneca – Safe­ty As­sess­ment Re­sult: The Vac­cine is Safe and Ef­fec­tive in the Fight against COVID-19"](https://www.pei.de/EN/newsroom/hp-news/2021/210319-covid-19-vaccine-astrazeneca-safety-assessment-result-vaccine-safe-and-effective.html;jsessionid=CACC96A97C7AD605FB3B69AB329373DB.intranet221?nn=164440),
+<a id="fn17">17</a>: Paul-Ehrlich-Institut, ["COVID-19 Vac­cine As­traZeneca – Safe­ty As­sess­ment Re­sult: The Vac­cine is Safe and Ef­fec­tive in the Fight against COVID-19"](https://www.pei.de/EN/newsroom/hp-news/2021/210319-covid-19-vaccine-astrazeneca-safety-assessment-result-vaccine-safe-and-effective.html),
 Paul-Ehrlich-Institut press releases, 2021-Mar-19. [↩](#fn17a)  
