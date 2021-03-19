@@ -483,6 +483,41 @@ risks of COVID-19.  But the relevant experts have pointed to something somewhat
 worrisome.  It is _probably_ a fluke, but nobody knows at this point.  Maybe stopping the
 vaccine _for a very short time_ while they investigate looks sensible?  
 
+## Addendum 2021-Mar-19: AZ/OX vaccinations in Europe resumed  
+
+<img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-pei.jpg" width="400" height="320" alt="Paul-Ehrlich-Institut: AZ/OX vaccine resumed with favorable risk/benefit" title="Paul-Ehrlich-Institut: AZ/OX vaccine resumed with favorable risk/benefit" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Various news sources are today reporting that the European authorities have begun using
+the AZ/OX vaccine again.  To get the most skeptical report, we went to the
+Paul-Ehrlich-Institut, the German institue for vaccines and biomedicines that first blew
+the whistle on the unusual number of CSVTs.  In today's press 
+release <sup id="fn17a">[[17]](#fn17)</sup>, they quoted the PRAC (Pharmacovigilance Risk
+Assessment Committee) assessment of the EMA (European Medicines Agency) as
+seeing a positive risk/benefit trade-off and the addition of a warning of "very rare
+cases" of CSVT on the label:  
+
+> The safety assessment by the Pharmacovigilance Risk Assessment Committee (PRAC) at the
+> European Medicines Agency (EMA) confirms the positive benefit-risk ratio of COVID-19
+> Vaccine AstraZeneca. As a risk-mitigation warning, the SmPC includes the fact that in
+> very rare cases, specific thromboses are found in the period up to 16 days after
+> vaccination. Based on the positive safety assessment by the EMA, Germany will resume
+> vaccination with the COVID-19 Vaccine AstraZeneca starting 19 March 2021. Those willing
+> to be vaccinated will be informed about the above cases during vaccination
+> education. Medical doctors can find information on the website of the
+> Paul-Ehrlich-Institut.  
+
+In any large dataset, you're going to sample the outliers as well as the typical cases:
+there will always be _something_ outrageous in the low-probability tails.  That's what
+seems to have been the case here: if you you look carefully by slicing and dicing into all
+possible subsets of all possible types, eventually _something_ will look statistically
+significant.  Perhaps the trouble could have been avoided by a proper
+[multiple hypothesis test correction](https://en.wikipedia.org/wiki/Multiple_comparisons_problem)
+([more simply, visually, and brilliantly explained by XKCD](https://xkcd.com/882/)) like
+my favorite, the 
+[Benjamini-H&oumlaut;chberg method](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure)?  
+
+As we saw here, where a delay in vaccination costs lives even when everybody is trying as
+hard as they can to do good in the world, _statistical methods matter._  
+
 ---
 
 ## Notes &amp; References  
@@ -525,3 +560,6 @@ _Reuters_, 2021-Mar-15. [↩](#fn12a)
 [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/), 2021-Mar-16.[↩](#fn15a)  
 
 <a id="fn16">16</a>: G Vogel &amp; K Kupferschmidt, ["'It's a very special picture.' Why vaccine safety experts put the brakes on AstraZeneca’s COVID-19 vaccine"](https://www.sciencemag.org/news/2021/03/it-s-very-special-picture-why-vaccine-safety-experts-put-brakes-astrazeneca-s-covid-19), _Science_, 2021-Mar-17.  doi:10.1126/science.abi5259[↩](#fn16a)  
+
+<a id="fn17">17</a>: Paul-Ehrlich-Institut, ["COVID-19 Vac­cine As­traZeneca – Safe­ty As­sess­ment Re­sult: The Vac­cine is Safe and Ef­fec­tive in the Fight against COVID-19"](https://www.pei.de/EN/newsroom/hp-news/2021/210319-covid-19-vaccine-astrazeneca-safety-assessment-result-vaccine-safe-and-effective.html;jsessionid=CACC96A97C7AD605FB3B69AB329373DB.intranet221?nn=164440),
+Paul-Ehrlich-Institut press releases, 2021-Mar-19. [↩](#fn17a)  
