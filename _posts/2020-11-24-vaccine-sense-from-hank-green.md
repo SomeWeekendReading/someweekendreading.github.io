@@ -13,6 +13,6 @@ a COVID vaccine.  Roughly: "oh hell yeah!" (though far more entertainingly).
 If you like this sort of smart &amp; gentle snark, then you would enjoy 
 [vlogbrothers](https://www.youtube.com/channel/UCGaVdbSav8xWuFWTadK6loA), 
 a series of 2 videos/week that he and his brother have been exchanging for more
-than a decade now.  While it's full of sillly pop culuture trivia, it's also 2 quite
+than a decade now.  While it's full of sillly pop culture trivia, it's also 2 quite
 observant public intellectuals exploring the deep weirdness of the world in a 
 quite informed and funny way.  
