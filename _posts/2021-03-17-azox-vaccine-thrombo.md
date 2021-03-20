@@ -514,7 +514,7 @@ significant.  Perhaps the trouble could have been avoided by a proper
 [multiple hypothesis test correction](https://en.wikipedia.org/wiki/Multiple_comparisons_problem)
 ([more simply, visually, and brilliantly explained by XKCD](https://xkcd.com/882/)) like
 my favorite, the 
-[Benjamini-Hochberg method](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure)?  
+[Benjamini-H&ouml;chberg method](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure)?  
 
 As we saw here, where a delay in vaccination costs lives even when everybody is trying as
 hard as they can to do good in the world, _statistical methods matter._  
