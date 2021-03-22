@@ -44,7 +44,7 @@ __Scary thought:__ Coulda been worse.  Think about _that_ for a second.
 
 Oy.  
 
-## The case for optimisim  
+## The case for optimism  
 
 Ok, that's dark.  But then, that's where my thoughts naturally go.  Is there any _data_
 which can drag us back to a more optimistic outlook?  
