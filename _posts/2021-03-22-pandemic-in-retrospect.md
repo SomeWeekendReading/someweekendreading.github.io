@@ -54,7 +54,7 @@ As it happens, yes.
 Consider first what Derek Lowe said at _In the Pipeline_ on 
 2021-Feb-24 <sup id="fn2a">[[2]](#fn2)</sup>, which we quoted in our writeup of the
 [J&amp;J VRBPAC review at the FDA]({{ site.baseurl }}/jnj-vaccine-vrbpac-review/):  
-> But the big message is the same: right now, variants and all, we're winning. The
+> But the big message is the same: right now, variants and all, _we're winning._ The
 > vaccines work, there is a whole list of them, and their production is increasing while
 > we watch. The countries that have gotten off to faster starts vaccinating their
 > populations are already seeing the effects, and no bad safety signals are yet
@@ -136,7 +136,11 @@ Nobody is safe until everybody is safe:
   </p>
   &mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1373610236221734912?ref_src=twsrc%5Etfw">March 21, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+Yeah, I want vaccines to win too, as does anybody else who's not a knuckelhead.  So quit
+opening up, weark masks, distance yourself from others, and _get vaccinated_.
+Yes, that's a light at the end of the tunnel; no, we're not out of the tunnel yet.  
 
 ---
 
