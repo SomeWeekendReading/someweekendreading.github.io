@@ -112,12 +112,7 @@ entirely on the power of the man who can fabricate it."
 &mdash; [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt), 
 _The Origins of Totalitarianism_, 1973, p. 350.  
 
-"In war you will generally find that the enemy has at any time three courses of action
-open to him. Of those three, he will invariably choose the fourth."
-&mdash; [Helmuth von Moltke the Elder](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder)
-(quoted in 
-["Hunting for Foxes: Capturing the Potential of Outlier Ideas in the Intelligence Community" by C Watts &amp; J Brennan, in the CIA journal _Studies in Intelligence_ 55:4 (2012)](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol.-55-no.-4/capturing-the-potential-of-outlier-ideas-in-the-intelligence-community.html), 
-via [Bruce Schneier](https://www.schneier.com/blog/archives/2012/04/outliers_in_int.html))  
+"In war you will generally find that the enemy has at any time three courses of action open to him. Of those three, he will invariably choose the fourth." &mdash; [Helmuth von Moltke the Elder](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder) (quoted in ["Hunting for Foxes: Capturing the Potential of Outlier Ideas in the Intelligence Community" by C Watts &amp; J Brennan, in the CIA journal _Studies in Intelligence_ 55:4 (2012)](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol.-55-no.-4/capturing-the-potential-of-outlier-ideas-in-the-intelligence-community.html), via [Bruce Schneier](https://www.schneier.com/blog/archives/2012/04/outliers_in_int.html))  
 
 "No battle plan survives contact with the enemy."
 &mdash; [Helmuth von Moltke the elder](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder)  
