@@ -131,7 +131,7 @@ the way, is one of the few Internet venues where the comments are actually worth
   share their designs"&hellip; is deeply ignorant and spreading disinformation.  
 
 I really like his bottom line:  
-> But the big message is the same: right now, variants and all, _we're winning._ The
+> But the big message is the same: right now, variants and all, __we're winning.__ The
 > vaccines work, there is a whole list of them, and their production is increasing while
 > we watch. The countries that have gotten off to faster starts vaccinating their
 > populations are already seeing the effects, and no bad safety signals are yet

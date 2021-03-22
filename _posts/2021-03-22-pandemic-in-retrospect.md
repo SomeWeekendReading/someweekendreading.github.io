@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The pandemic year in retrospect
-tags: COVID Politics
+tags: COVID MathInTheNews Politics
 comments: true
 ---
 
@@ -54,7 +54,7 @@ As it happens, yes.
 Consider first what Derek Lowe said at _In the Pipeline_ on 
 2021-Feb-24 <sup id="fn2a">[[2]](#fn2)</sup>, which we quoted in our writeup of the
 [J&amp;J VRBPAC review at the FDA]({{ site.baseurl }}/jnj-vaccine-vrbpac-review/):  
-> But the big message is the same: right now, variants and all, _we're winning._ The
+> But the big message is the same: right now, variants and all, __we're winning.__ The
 > vaccines work, there is a whole list of them, and their production is increasing while
 > we watch. The countries that have gotten off to faster starts vaccinating their
 > populations are already seeing the effects, and no bad safety signals are yet
@@ -63,7 +63,7 @@ Consider first what Derek Lowe said at _In the Pipeline_ on
 > this pressure up and keep ramping up vaccine supplies and their rollout around the
 > world, we are going to beat this virus. Good riddance to it.  
 
-Ok, winning.  I like winning.  
+Ok, winning.  I like winning.  Let's do some more of that, for a change.  
 
 What else is there?  Well, consider [Ashish Jha](https://en.wikipedia.org/wiki/Ashish_Jha) 
 (Dean of the [School of Public Health at Brown](https://www.brown.edu/academics/public-health/)), 
@@ -75,9 +75,11 @@ and worth a listen:
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
-    Absolutely what Nate said<br><br>None of us expected vaccines this good<br><br>In an
-	August conversation with Tony Fauci -- we both said we&#39;d be thrilled with a 60-70%
-	effective vaccine<br><br>Their arrival by December, our ability to make so many so
+    Absolutely what Nate said<br><br>
+	None of us expected vaccines this good<br><br>
+	In an August conversation with Tony Fauci -- we both said we&#39;d be thrilled with a 60-70%
+	effective vaccine<br><br>
+    Their arrival by December, our ability to make so many so
 	quickly is the unexpected pandemic life saver <a href="https://t.co/Zi5l2HHeRu">https://t.co/Zi5l2HHeRu</a> 
   </p>
   &mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1373457628215525377?ref_src=twsrc%5Etfw">March 21, 2021</a>
@@ -94,7 +96,7 @@ Of course, we still have to (a) distribute the vaccines and get them into arms w
 substantially less corporate bungling, (b) stomp on the pusillanimous politicians who want
 to re-open economies immediately _before_ their citizens get vaccinated, and (c) educate
 the knuckleheads who think the vaccines are somehow going to hurt them with tracking
-microchips, or the Mark of the Beast, or&hellip; a long, sad list of various nincompooperies.  
+microchips, or the Mark of the Beast, or&hellip; a long, sad list of nincompoopery.  
 
 Not doing so well there: our vaccines are so slow and bungled, we're giving plenty of time
 for new mutations to generate vaccine-resistant variants, not to mention depriving the
@@ -102,19 +104,21 @@ developing world of vaccines so they become a breeding ground for viral variants
 
 <img src="{{ site.baseurl }}/images/2021-03-22-pandemic-in-retrospect-ap.jpg" width="400" height="305" alt="AP: impact of vaccine rollout structure" title="AP: impact of vaccine rollout structure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-03-22-pandemic-in-retrospect-ap-regression.jpg" width="400" height="315" alt="AP: impact of vaccine rollout structure" title="AP: impact of vaccine rollout structure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
 For example, a recent _AP News_ article <sup id="fn3a">[[3]](#fn3)</sup> showed that
 states in the US doing more structured vaccine rollouts (medical &amp; first responders,
-people in congregate living settings, elderly, those with co-morbidities, then by age down
-the rest of the list) did reasonably well.  They did a lot better than states that just
-opened up to everybody inviting the equivalent of gladiatorial combat for slots.  
+then people in congregate living settings, then the elderly &amp; those with
+co-morbidities, then by age down the rest of the list) did reasonably well.  They did a
+lot better than states that just opened up to everybody, inviting the equivalent of
+gladiatorial combat for vaccination appointments.  
 
 Now, I admit: the regression they showed as proof of their claim looks like nonsense on
 stilts.  Yes, the regression line of doses/100k vs % eligible adults does technically have
 a negative slope.  But there's so much noise that I can't bring myself to believe they got
 a statistically significant $t$-statistic on the slope coefficient to prove it's a real
 effect.  And, of course, being more or less scientifically hopeless mainstream media, they
-don't say.  (And, to be fair, I'm not motivated enough to screen-scrape their data and
-check.  Yet.)  
+don't say one way or the other.  (And, to be fair, I'm not motivated enough to
+screen-scrape their data and check.  Yet.)  
 
 Even just a small amount of forethought counts.  (Here in my state, I'm glad there was
 forethought to the order of vaccination, but rather _less_ pleased with the bungled
