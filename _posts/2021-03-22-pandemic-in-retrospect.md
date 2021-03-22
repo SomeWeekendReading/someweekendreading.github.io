@@ -10,13 +10,13 @@ summary of your experience?
 
 ## Light at the end of the tunnel?  
 
-My pessimistic depressive side _continually_ reminds me that when you can see the light at
+My anxious, pessimistic, depressive side continually reminds me that when you can see the light at
 the end of the tunnel&hellip; you're _still in the tunnel._  That's what life has seemed
 like to me, for most of the last year.  What's it been like for you?
 
 The _Washington Post_ asked readers for their summaries. <sup id="fn1a">[[1]](#fn1)</sup>
-In my typically anxious and pessimistic view, the best came from 9-year-old Clarke Smith,
-which was also the favorite of the authors:  
+In my typically pessimistic view, the best description came from 9-year-old Clarke Smith,
+who was also the favorite of the authors:  
 
 > Like looking both ways before crossing the street and then getting hit by a submarine.  
 
@@ -35,7 +35,7 @@ Of course, for visual thinkers, this police dashcam video is perhaps the best su
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 ["Fire bad.  Tree pretty."](https://www.youtube.com/watch?v=769qie9npes)  We should note
-that, unlike COVID-19,  apparently nobody was hurt.  
+that, unlike COVID-19,  apparently nobody was hurt in that incident.  
 
 Now, _that's_ a summary of my plague year: minding my own business, doing work in
 cancer drug research, crawling toward retirment&hellip; and then _that_ happens.  
