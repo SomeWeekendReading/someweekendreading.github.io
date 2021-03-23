@@ -163,7 +163,7 @@ free donuts to vaccinated people:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Alas, the Krispy Kreme nearest Chez Weekend is 2 states away.  So optimism is in
-order&hellip; just not in my immediate vicinity.  
+order&hellip; just not in our immediate vicinity.  
 
 ---
 
