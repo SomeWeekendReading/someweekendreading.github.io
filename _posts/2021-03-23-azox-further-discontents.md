@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AstraZeneca/Oxford vaccine trial (and its _further_ discontents)
+title: AstraZeneca/Oxford vaccine trial (and its further discontents!)
 tags: COVID PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
 ---
