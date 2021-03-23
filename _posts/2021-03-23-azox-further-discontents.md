@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AstraZeneca/Oxford vaccine phase 3 (and its further discontents)
+title: AstraZeneca/Oxford vaccine trial (and its _further_ discontents)
 tags: COVID PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
 ---
@@ -185,7 +185,7 @@ AZ's response:
 > results of the primary analysis within 48 hours.  
 
 
-## What does that mean?  
+## What does all that mean?  
 
 Basically, it looks like a fine vaccine.  But the AZ management has been a bit of a clown
 show with mismanaged communication, lack of transparency, attempts to spin everything to
