@@ -146,6 +146,25 @@ Yeah, I want vaccines to win too, as does anybody else who's not a knucklehead. 
 opening up, weark masks, distance yourself from others, and _get vaccinated_.
 Yes, that's a light at the end of the tunnel; no, we're not out of the tunnel yet.  
 
+
+## Addendum 2021-Mar-23  
+
+Your humble Weekend Editor has a weakeness for good donuts.  (Well, good pastry
+generally.)  So we were frustrated here at Chez Weekend to note the following offer of
+free donuts to vaccinated people:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Krispy Kreme will you give you a free doughnut every day this year — if you&#39;ve
+	been vaccinated <a href="https://t.co/ZLkGUa8QGH">https://t.co/ZLkGUa8QGH</a> 
+  </p>
+  &mdash; CBS News (@CBSNews) <a href="https://twitter.com/CBSNews/status/1374005427596312580?ref_src=twsrc%5Etfw">March 22, 2021</a>
+</blockquote> 
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+Alas, the Krispy Kreme nearest Chez Weekend is 2 states away.  So&hellip; optimism is in
+order, just not in my immediate vicinity.  
+
 ---
 
 ## Notes &amp; References  
