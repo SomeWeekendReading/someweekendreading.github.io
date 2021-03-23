@@ -142,7 +142,7 @@ Nobody is safe until everybody is safe:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-Yeah, I want vaccines to win too, as does anybody else who's not a knuckelhead.  So quit
+Yeah, I want vaccines to win too, as does anybody else who's not a knucklehead.  So quit
 opening up, weark masks, distance yourself from others, and _get vaccinated_.
 Yes, that's a light at the end of the tunnel; no, we're not out of the tunnel yet.  
 
