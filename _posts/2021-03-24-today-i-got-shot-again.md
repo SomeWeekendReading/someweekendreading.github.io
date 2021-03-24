@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today I got shot (again)
-tags: COVID PharmaAndBiotech SomebodyAskedMe
+tags: COVID PharmaAndBiotech
 comments: true
 ---
 
