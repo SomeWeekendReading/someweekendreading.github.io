@@ -50,7 +50,7 @@ protocol <sup id="fn2a">[[2]](#fn2)</sup>:
 Yeah.  Taking a pratfall and then saying "I meant to do that" always increases your
 credibility.  
 
-You know what _actually_ increases your credibility?  Saying something like: "We screwed
+You know what _actually_ increases your credibility?  Saying something like: "Hey, we screwed
 up in a few places here.  We've taken these steps to make sure it doesn't happen again.
 In the meantime, here's the most honest case we can make with the slighlty compromised
 data.  We think it looks pretty good, and would appreciate peer review."  That has the
@@ -148,7 +148,7 @@ a few blistering sentences from it.
 - The relevant clinical trial is [NCT045167](https://clinicaltrials.gov/ct2/show/NCT04516746?term=NCT04516746&draw=2&rank=1).  
 - AZ's claims: 79% efficacy overall, 80% efficacy in age 65+, no particular differences
   across ethnicities, and 100% efficacy vs severe disease and hospitalization.  
-- They do mention, in fairness to them, that this based on an interim readout, not the
+- They do mention, in fairness to AZ, that this based on an interim readout, not the
   full and final dataset provided to the regulatory authorities.  
 - There were no serious adverse events, including the worrisome thromboembolisms.  
 - They're about to submit to the FDA and to a peer-reviewed journal.  
@@ -193,6 +193,9 @@ make themselves look better, and so on.
 
 The sad part: _they don't need to do this!_  The vaccine is good enough to speak for
 itself.  
+
+> Believe it or not, there is a certain charm to simply telling the truth, and even to
+> telling the truth simply. &mdash; [Molly Ivins](https://en.wikipedia.org/wiki/Molly_Ivins)  
 
 ---
 

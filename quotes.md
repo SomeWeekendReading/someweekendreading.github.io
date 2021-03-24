@@ -261,7 +261,7 @@ unwilling to see past their own sociopathic self-regard." &mdash; Iain Banks, _T
 "In the fall of 1972 President Nixon announced that the rate of increase
 of inflation was decreasing. This was the first time a sitting president
 used the third derivative to advance his case for reelection." &mdash; Hugo Rossi, Editor of
-_Notices of the American Mathematical Society_, [Not. AMS 43:10, 1108](http://www.ams.org/notices/199610/page2.pdf).  
+_Notices of the American Mathematical Society_, [_Not. AMS_ 43:10, 1108](http://www.ams.org/notices/199610/page2.pdf).  
 
 "We are all [Kitty Genovese](https://en.wikipedia.org/wiki/Kitty_Genovese)'s 
 neighbors." &mdash; _United States v. George W. Bush et al._, by former federal prosecutor 
@@ -364,7 +364,7 @@ is patriotic and which isn't.  You cannot shirk this and be a man."
 "Every man is a moon &mdash; he has a side no one sees."
 &mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
 
-Patriotism is supporting your country all the time, and your government when it deserves it."
+"Patriotism is supporting your country all the time, and your government when it deserves it."
 &mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_twain)  
 
 "I envy university professors. They are paid to question people who know nothing but
@@ -451,7 +451,7 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "If you want a happy ending, that depends, of course, on where you stop your story." &mdash; [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles)  
 
-"你永远无法叫醒一个装睡的人，除非那个装睡的人自己决定醒来." (You can never wake up a person who is pretending to be asleep, unless that person decides to wake up.) &mdash; 周濂 (Zhou Lian), Chinese philosopher, in an article called "你永远无法叫醒一个装睡的人" (You can never wake up a person who is pretending to be asleep).  
+"你永远无法叫醒一个装睡的人，除非那个装睡的人自己决定醒来." (You can never wake up a person who is pretending to be asleep, unless that person decides to wake up.) &mdash; 周濂 (Zhou Lian), Chinese philosopher, in an article called "你永远无法叫醒一个装睡的人" (You can never wake up a person who is pretending to be asleep).  Courtesy of my former colleague, Hui Cao.  
 
 
 ## Those of Rational &amp; Scientific Bent
@@ -532,7 +532,7 @@ crazy enough to have a chance of being correct."
 
 "The fox knows many things, but the hedgehog knows one great thing." &mdash; [Archilochus](https://en.wikipedia.org/wiki/Archilochus), [The Hedgehog and the fox](https://en.wikipedia.org/wiki/The_hedgehog_and_the_fox)  
 
-"There are two novels that can change a bookish fourteen-year old’s life: The _Lord of the Rings_ and _Atlas Shrugged_. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs." &mdash; [John Rogers](https://en.wikipedia.org/wiki/John_Rogers_(writer)), [Kung Fu Monkey, 2009-Mar-19](http://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html).  Also quoted in [GoodReads](https://www.goodreads.com/quotes/366635-there-are-two-novels-that-can-change-a-bookish-fourteen-year).  Example of a [bait & switch comparison](https://tvtropes.org/pmwiki/pmwiki.php/Main/BaitAndSwitchComparison), or [This is Not That Trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/WellThisIsNotThatTrope).  
+"There are two novels that can change a bookish fourteen-year old’s life: The _Lord of the Rings_ and _Atlas Shrugged_. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs." &mdash; [John Rogers](https://en.wikipedia.org/wiki/John_Rogers_(writer)), [_Kung Fu Monkey_, 2009-Mar-19](http://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html).  Also quoted in [GoodReads](https://www.goodreads.com/quotes/366635-there-are-two-novels-that-can-change-a-bookish-fourteen-year).  Example of a [bait & switch comparison](https://tvtropes.org/pmwiki/pmwiki.php/Main/BaitAndSwitchComparison), or [This is Not That Trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/WellThisIsNotThatTrope).  
 
 "In adolescence, I hated life and was continually on the verge of suicide, from which,
 however, I was restrained by the desire to know more mathematics." 
