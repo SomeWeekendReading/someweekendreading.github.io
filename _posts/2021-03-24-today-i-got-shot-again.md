@@ -36,9 +36,9 @@ building, presented my id/appointment/health quiz/vax card and was waved into li
 later, the injection happened.  This time it was an older guy, a sort of gruff no-nonsense
 fellow like a drill sergeant.  Friendly enough, though.  And he got the job done.  
 
-The most oddbal thing was that somebody next to me fainted, apparently due to a fear of
+The most oddball thing was that somebody next to me fainted, apparently due to a fear of
 needles.  Still, that person seemed to get very attentive care from the EMTs who were
-standing by.  
+standing by, so that was actually kind of good to see.  
 
 Then a boring 15 minutes in the waiting area, to demonstrate that I was not in
 anaphylactic shock, and I was done.  The best part: I didn't have to go back to the
@@ -51,7 +51,9 @@ B-cells to form a grudge against the coronavirus spike protein.
 
 And _most importantly:_ back to the miserable sign-up web site, to find a slot for the
 Weekend Editrix.  In spite of her youth, she has now just become eligible, so&hellip; "once
-more into the breach", as I read in an old book somewhere or other.  
+more into the breach", as I read in an old book somewhere or other.  So tomorrow when the
+new appointments drop, I'll be back to madly refreshing 10 browser tabs all morning long,
+fishing for an appointment for her.  
 
 
 ## The aftermath  
