@@ -32,7 +32,7 @@ couple of subway rides.  I was early, so I sat in the station happily reading
 [Pro Git](https://git-scm.com/book/en/v2) on my phone.  
 
 At the appointed time, I took the short health quiz on my phone, went into the large
-building, presented my id/appointment/health quiz and was waved into line.  A few seconds
+building, presented my id/appointment/health quiz/vax card and was waved into line.  A few seconds
 later, the injection happened.  This time it was an older guy, a sort of gruff no-nonsense
 fellow like a drill sergeant.  Friendly enough, though.  And he got the job done.  
 
@@ -42,7 +42,8 @@ standing by.
 
 Then a boring 15 minutes in the waiting area, to demonstrate that I was not in
 anaphylactic shock, and I was done.  The best part: I didn't have to go back to the
-absolutely miserable sign-up web site to book any more appointments!  
+absolutely miserable sign-up web site to book any more appointments!  A couple subway
+rides later, and I was back in the custody of the Weekend Editrix.  
 
 Maybe in the fall we'll all have to get a booster tuned to the VoCs (variants of
 concern).  But until then, it's just waiting for antibody levels to build, and for memory
@@ -68,4 +69,3 @@ I would gladly trade for a bit of aches &amp; fever instead.
 -->
 
 <a id="fn1">1</a>: Apparently now sporting the [international non-proprietary name of _tozinameran_ and brand name of _Comirnaty_](https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine), both of which names are known or used by approximately nobody. I liked [my names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2) better. [↩](#fn1a)  
-
