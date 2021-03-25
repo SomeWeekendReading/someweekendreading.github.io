@@ -70,4 +70,4 @@ I would gladly trade for a bit of aches &amp; fever instead.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Apparently now sporting the [international non-proprietary name of _tozinameran_ and brand name of _Comirnaty_](https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine), both of which names are known or used by approximately nobody. I liked [my names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2) better. [↩](#fn1a)  
+<a id="fn1">1</a>: Apparently now sporting the [international non-proprietary name of _tozinameran_ and brand name of _Comirnaty_](https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine#Name), both of which names are known or used by approximately nobody. I liked [my names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2) better. [↩](#fn1a)  
