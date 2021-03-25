@@ -193,7 +193,7 @@ also got the same answer, with an explanation of innate vs adaptive immunity:
 >said. "I wouldn't focus on those early side effects related to the vaccine to judge
 >whether you had an [effective] response or not."  
 
-So the bottom line appears to be: don't worry if you didn't get a strong reaction; your
+__So the bottom line appears to be:__ don't worry if you didn't get a strong reaction; your
 immune system probably has 'Goldilocks-just-right' response and your adaptive immunity is
 building over the coming weeks.  If you're _still_ worried about it (why?), then maybe you
 can get an antibody test in a couple weeks (antibody, not PCR, not antigen).  That will
