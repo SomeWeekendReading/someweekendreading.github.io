@@ -201,11 +201,13 @@ itself.
 ## Addendum 2021-Mar-25  
 
 <img src="{{ site.baseurl }}/images/2021-03-23-azox-further-discontents-wapo.jpg" width="400" height="145" alt="WaPo: AstraZeneca revises efficacy down to 76%" title="WaPo: AstraZeneca revises efficacy down to 76%" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Well, that didn't take long.  Yesterday the _WaPo_ reported <sup id="fn8a">[[8]](#fn8)</sup>
-that AstraZeneca revised their public estimate of efficacy _downward_, from their initial
-claim of 79% to 76%.  This is still a bit of a problem, since as we saw above, the FDA is
-still claiming an efficacy range of 69% &mdash; 74%.  But it's _less_ of a problem, which
-I suppose is about as much as we can expect from AZ these days.  
+Well, that didn't take long.  
+
+Yesterday the _WaPo_ reported <sup id="fn8a">[[8]](#fn8)</sup> that AstraZeneca revised
+their public estimate of efficacy _downward_, from their initial claim of 79% to 76%.
+This is still a bit of a problem, since as we saw above, the FDA is still claiming an
+efficacy range of 69% &mdash; 74%.  But it's _less_ of a problem, which I suppose is about
+as much as we can expect from AZ these days.  
 
 Let's see what happens in front of the VRBPAC committee at the FDA, if they apply for
 authorization in the US.  But, as the _WaPo_ says:  
