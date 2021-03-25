@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The pandemic year in retrospect
-tags: COVID MathInTheNews Politics
+tags: COVID MathInTheNews Politics &Gammad;&Tau;&Phi;
 comments: true
 ---
 
