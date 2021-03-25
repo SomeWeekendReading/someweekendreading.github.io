@@ -197,6 +197,23 @@ itself.
 > Believe it or not, there is a certain charm to simply telling the truth, and even to
 > telling the truth simply. &mdash; [Molly Ivins](https://en.wikipedia.org/wiki/Molly_Ivins)  
 
+
+## Addendum 2021-Mar-25  
+
+<img src="{{ site.baseurl }}/images/2021-03-23-azox-further-discontents-wapo.jpg" width="400" height="145" alt="WaPo: AstraZeneca revises efficacy down to 76%" title="WaPo: AstraZeneca revises efficacy down to 76%" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Well, that didn't take long.  Yesterday the _WaPo_ reported <sup id="fn8a">[[8]](#fn8)</sup>
+that AstraZeneca revised their public estimate of efficacy _downward_, from their initial
+claim of 79% to 76%.  This is still a bit of a problem, since as we saw above, the FDA is
+still claiming an efficacy range of 69% &mdash; 74%.  But it's _less_ of a problem, which
+I suppose is about as much as we can expect from AZ these days.  
+
+Let's see what happens in front of the VRBPAC committee at the FDA, if they apply for
+authorization in the US.  But, as the _WaPo_ says:  
+
+> The new data may not resolve challenges that the vaccine and the company face in the
+> United States, because repeated missteps have sown confusion and distrust that may
+> result in slower and closer scrutiny of the data.  
+
 ---
 
 ## Notes &amp; References  
@@ -219,3 +236,5 @@ itself.
 <a id="fn6">6</a>: National Institutes of Health, ["NIAID Statement on AstraZeneca Vaccine"](https://www.nih.gov/news-events/news-releases/niaid-statement-astrazeneca-vaccine), _NIH News Releases_, 2021-Mar-23. [↩](#fn6a)  
 
 <a id="fn7">7</a>: AstraZeneca, ["Update following statement by NIAID on AZD1222 US Phase III trial data"](https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2021/update-following-statement-by-niaid-on-azd1222-us-phase-iii-trial-data.html), _AstraZeneca Press Releases_, 2021-Mar-23.[↩](#fn7a)  
+
+<a id="fn8">8</a>: C Johnson, ["AstraZeneca says its vaccine is 76 percent effective in an updated company analysis released after earlier challenges of its data"](https://www.washingtonpost.com/health/2021/03/24/astrazeneca-vaccine-new-analysis/), _Washington Post_, 2021-Mar-24. [↩](#fn8a)  
