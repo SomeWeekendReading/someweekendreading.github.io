@@ -209,7 +209,7 @@ arms.
 
 There's 1 plot here for each age cohort.  The blue curve is the treatment arm, and the
 black curve is the control arm.  The vertical dashed lines are the 95% confidence limits
-on the probability of infection in each arm; we'd like to see those wells separated.  
+on the probability of infection in each arm; we'd like to see those well separated.  
 
 Going down the plots:  
 - The overall cohort shows good separation.  Our distribution for the probability of

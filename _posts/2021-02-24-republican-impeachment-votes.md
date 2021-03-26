@@ -338,6 +338,7 @@ heart.)
 
 ## Thinking about the results  
 
+<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 So what does it all mean?!  
 
 I was hoping for some kind of deep understanding of the pressures on senators: Trumpy
