@@ -53,7 +53,7 @@ Sunlight reflected off clouds had convinced a Soviet satellite watching a US mis
 that 5 missiles had launched.  Petrov, on his own authority, defied the launch on warning
 standing orders and declared it a false alarm.  Probably Petrov thought something like, "One
 missile, I can understand &mdash; that's an accident.  One thousand missiles, I can understand
-&mdash; that's an attack.  But FIVE missiles?  This I cannot understand."  Petrov stepped
+&mdash; that's an attack.  But _five_ missiles?  That I cannot understand."  Petrov stepped
 outside the box of obedience, applied critical thinking, and decided _not_ to cooperate
 with the system that would have ended the world.  Or as Eliezer put it:  
 > Petrov decided that, all else being equal, he would prefer not to destroy the world.
