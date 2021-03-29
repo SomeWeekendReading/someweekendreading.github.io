@@ -28,7 +28,7 @@ evolved from their ancestral viruses (2019 - 2021):
   this means that at position 614 in the protein, replace the normally found amino acid D
   (aspartic acid) with G (glycine).  The 
   [amino acids all have single-letter codes](https://molbiol-tools.ca/Amino_acid_abbreviations.htm).)
-- Also tracked are 2 specific mutations: E484 in red (increases resistance to antibodies)
+- Also tracked are 2 specific mutations: E484K in red (increases resistance to antibodies)
   and N501Y in blue (increases transmission).  Both are bad news.  
 - Note the variants that have _both_ the bad news mutations: B.1.351 (South Africa), P.1
   (Brazil), and sometimes B.1.1.7 (Britain).  _That's_ why you hear so much about these
@@ -112,17 +112,19 @@ October.  Just in time for winter, like flu vaccines.
 
 Yeah, what about the vaccine resisters?  They'll be the demented knuckleheads they've
 always been.  Maybe more: yet another vaccine will almost certainly make them scream "I
-told you so"&hellip; the exactly _what_ they allegedly told us will remain vague.  
+told you so"&hellip; though exactly _what_ they allegedly told us will remain vague.  
 
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-reuters-chip.jpg" width="400" height="196" alt="Reuters: vaccine does not microchip you, if you're dumb enough to ask" title="Reuters: vaccine does not microchip you, if you're dumb enough to ask" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And the conspiracy theories will become more florid, almost psychotic.  For example,
 consider the arrant nonsense that the COVID-19 vaccines will inject you with a 
 microchip <sup id="fn8a">[[8]](#fn8)</sup>, so that Bill Gates or George Soros or
-_somebody_ will be able to&hellip; _something_.  One enterprising vet has shown pictures
-of the hypodermic needle used to inject tracking chips into pets (such as happened to the Weekend
-Publisher; I rather imagine he did not approve of the experience) vs the needles used for
-vaccinations.  The latter is a 22-25 gauge needle that you can barely feel; the former is
-by comparison giant:  
+_somebody_ will be able to&hellip; _something_.  
+
+One enterprising vet has helpfully provided pictures of the hypodermic needles used to
+[inject tracking chips into pets](https://www.avma.org/microchipping-animals-faq)
+(such as happened to the Weekend Publisher; I rather imagine he did not approve of the
+experience) vs the needles used for vaccinations.  The latter is a 22-25 gauge needle that
+you can barely feel; the former is by comparison giant:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -135,12 +137,12 @@ by comparison giant:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 The social engineering question is: how do we stop people from filling their heads with
-crap?  Clearly, whatever we've been doing so far isn't really working well enough!  
+crap like this?  Clearly, whatever we've been doing so far isn't really working well enough!  
 
 ## The Weekend Prediction  
 
 By fall 2021, there will almost certainly be problems with new variants, possibly even
-beyond the B.1.1.7, B.1.351, and P.1/2 variants that bother us now.  Some of them may have
+beyond the B.1.1.7, B.1.351, and P.1 variants that bother us now.  Some of them may have
 escape mutations, rendering previous vaccinations less useful (though not completely).
 Consequently, there will almost certainly be booster vaccines as the final path to
 eliminating COVID-19 as a pandemic.  We will be weary of it all, and some will be
@@ -150,11 +152,11 @@ will never go away._
 
 Get the booster if &amp; when it comes.  
 
-That's the answer to the question posed above, as to whether we can get rid of COVID-19.
-Yes, if we vaccinate _much faster_ and then get near-universal uptake of a booster to
-account for the variants that will accumulate in the meantime.  Take a look again at the
-phylogenetic tree above.  See that variant A.1 in the upper left corner?  It's labelled
-"extinct" in human.  That's what we want.  
+That's the answer to the question posed above, as to whether we can eliminate COVID-19
+once and for all.  Yes, if we vaccinate _much faster_ and then get near-universal uptake
+of a booster to account for the variants that will accumulate in the meantime.  Take a
+look again at the phylogenetic tree above.  See that variant A.1 in the upper left corner?
+It's labelled "extinct" in human.  That's what we want.  
 
 If we do not do that&hellip; get ready for 'endemic COVID-19' that hangs around forever,
 requiring a new vaccine every fall just like influenza.  
