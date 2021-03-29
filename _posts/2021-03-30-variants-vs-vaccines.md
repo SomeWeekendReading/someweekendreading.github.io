@@ -50,13 +50,13 @@ couple new, more-effective, mutations to flare up each month until we vaccinate
 substantially everybody.  _We need to vaccinate faster than our current glacial pace, and
 we need to do it world-wide, including the developing world!_  
 
-<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-variant-bmj.jpg" width="400" height="236" alt="BMJ: E484K mutation is beginning of an escape mutation" title="BMJ: E484K mutation is beginning of an escape mutation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-bmj.jpg" width="400" height="236" alt="BMJ: E484K mutation is beginning of an escape mutation" title="BMJ: E484K mutation is beginning of an escape mutation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The current evidence, from the _BMJ_ news analysis <sup id="fn2a">[[2]](#fn2)</sup> shown
 here, is that the E484K variant requires much, much higher concentrations of antibodies to
 stop it.  Vaccine efficacies are lowered (the currently still-experimental Novavax goes
 down to 60%, but that's still comparable to your annual flu vaccine).   
   
-<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-variant-bbc.jpg" width="400" height="263" alt="BBC: 'Double mutant' variant in India" title="BBC: 'Double mutant' variant in India" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-bbc.jpg" width="400" height="263" alt="BBC: 'Double mutant' variant in India" title="BBC: 'Double mutant' variant in India" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Just to convince you further, a BBC article <sup id="fn3a">[[3]](#fn3)</sup> points out
 that in India there is a new 'double mutant': E484Q and L452R.  The E484Q is similar to
 the E484K, and is another way of enhancing immune evasion.  The L452R mutation is like the
@@ -144,6 +144,14 @@ the booster and get it out to substantially all of humanity, or COVID-19 variant
 will never go away._  
 
 Get the booster if &amp; when it comes.  
+
+That's the answer to the question posed above, as to whether we can get rid of COVID-19.
+Yes, if we vaccinate _much faster_ and then get near-universal uptake of a booster to
+account for the variants that will accumulate in the meantime.  If we do not do
+that&hellip; get ready for 'endemic COVID-19' that hangs around forever, requiring a new
+vaccine every fall just like influenza.  
+
+I know which one I prefer.  
 
 ---
 
