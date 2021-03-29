@@ -12,7 +12,8 @@ vaccines for the variants, or even eliminate it once and for all?
 
 You hear all sorts of things about SARS-CoV-2 variants, with funny names like "B.1.1.7",
 and "B.1.351".  People just _refuse_ to learn what those names mean, and mostly don't even
-pronounce them correctly as though the periods weren't there.  But they're real: they're
+pronounce them correctly (e.g., as though the periods weren't there and didn't mean
+anything worthy of their attention).  But they're real: they're
 cropping up all over the place.  From Public Health England, via an article in _The Economist_ of all 
 places <sup id="fn1a">[[1]](#fn1)</sup>, comes a nice graphic showing the 
 [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree) of how the viruses
@@ -28,7 +29,7 @@ evolved from their ancestral viruses (2019 - 2021):
   (aspartic acid) with G (glycine).  The 
   [amino acids all have single-letter codes](https://molbiol-tools.ca/Amino_acid_abbreviations.htm).)
 - Also tracked are 2 specific mutations: E484 in red (increases resistance to antibodies)
-  and N501Y (increases transmission).  Both are bad news.  
+  and N501Y in blue (increases transmission).  Both are bad news.  
 - Note the variants that have _both_ the bad news mutations: B.1.351 (South Africa), P.1
   (Brazil), and sometimes B.1.1.7 (Britain).  _That's_ why you hear so much about these
   variants and not all the others, bad as the others may be: these guys are arming up to
@@ -54,15 +55,17 @@ we need to do it world-wide, including the developing world!_
 The current evidence, from the _BMJ_ news analysis <sup id="fn2a">[[2]](#fn2)</sup> shown
 here, is that the E484K variant requires much, much higher concentrations of antibodies to
 stop it.  Vaccine efficacies are lowered (the currently still-experimental Novavax goes
-down to 60%, but that's still comparable to your annual flu vaccine).   
+down to 60%, but that's still comparable to your annual flu vaccine, i.e., good enough to
+be very worthwhile).  
   
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-bbc.jpg" width="400" height="263" alt="BBC: 'Double mutant' variant in India" title="BBC: 'Double mutant' variant in India" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Just to convince you further, a BBC article <sup id="fn3a">[[3]](#fn3)</sup> points out
 that in India there is a new 'double mutant': E484Q and L452R.  The E484Q is similar to
 the E484K, and is another way of enhancing immune evasion.  The L452R mutation is like the
-"California variant" seen in the US, which is more transmissible.  _Expect this to
-continue, until vaccination is near-universal.  This includes the developing world, as the
-India example shows here._
+"California variant" seen in the US, which is more transmissible.  
+
+_Expect this to continue, until vaccination is near-universal.  This includes the
+developing world, as the India example shows here._
 
 
 ## mRNA vaccines and boosters for variants  
@@ -101,7 +104,9 @@ the monsters required the first time around, but rather more like the annual flu
 This is _completely appropriate_ for a vaccine whose general behavior is well understood,
 and is being tweaked to accomodate viral variants (exactly the case for influenza).  
 
-So that, at least, seems to be trending in the right direction.  
+So that, at least, seems to be trending in the right direction.  If the variant
+mini-trials read out in September, we might see variant booster vaccines available in
+October.  Just in time for winter, like flu vaccines.  
 
 ## What about vaccine resistance?  
 
@@ -147,11 +152,14 @@ Get the booster if &amp; when it comes.
 
 That's the answer to the question posed above, as to whether we can get rid of COVID-19.
 Yes, if we vaccinate _much faster_ and then get near-universal uptake of a booster to
-account for the variants that will accumulate in the meantime.  If we do not do
-that&hellip; get ready for 'endemic COVID-19' that hangs around forever, requiring a new
-vaccine every fall just like influenza.  
+account for the variants that will accumulate in the meantime.  Take a look again at the
+phylogenetic tree above.  See that variant A.1 in the upper left corner?  It's labelled
+"extinct" in human.  That's what we want.  
 
-I know which one I prefer.  
+If we do not do that&hellip; get ready for 'endemic COVID-19' that hangs around forever,
+requiring a new vaccine every fall just like influenza.  
+
+I prefer the future with SARS-CoV-2 extinct in human.  You should, too.  
 
 ---
 
