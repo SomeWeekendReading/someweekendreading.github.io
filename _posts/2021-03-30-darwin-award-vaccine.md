@@ -40,7 +40,7 @@ otherwise unremarkable Labour politician.  Maybe even a decent fellow, who has
 [remained married to the same woman for 40+ years](https://en.wikipedia.org/wiki/Mark_Drakeford#First_Minister).
 Ok, he apparently rather impractically studied Latin at university, which makes him
 interesting only because your humble Weekend Editor is also a bit of a Latin nerd.
-(Though I was smart enough to confine it to high school.)  
+(Though I was smart enough to confine it to secondary school.)  
 
 He was in charge of COVID-19 strategy, including vaccination, in Wales, which brings his
 policy reasoning to our attention.
