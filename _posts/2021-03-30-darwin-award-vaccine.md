@@ -109,4 +109,4 @@ was corrected, he's certainly had an effect on others.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: A Sparrow, ["Politics live with Andrew Sparrow: Coronavirus"](https://www.theguardian.com/politics/live/2021/jan/15/uk-covid-coronavirus-live-news-updates-boris-johnson-vaccines-schools?page=with:block-60019e668f08c2ca166f5f95#block-60019e668f08c2ca166f5f95), _The Guardian_ live blog, 2021-Jan-15. [↩](#fn1a)  
+<a id="fn1">1</a>: A Sparrow, ["Politics live with Andrew Sparrow: Coronavirus"](https://www.theguardian.com/politics/live/2021/jan/15/uk-covid-coronavirus-live-news-updates-boris-johnson-vaccines-schools?page=with:block-60019e668f08c2ca166f5f95#block-60019e668f08c2ca166f5f95), _The Guardian_ politics live blog, 2021-Jan-15. [↩](#fn1a)  
