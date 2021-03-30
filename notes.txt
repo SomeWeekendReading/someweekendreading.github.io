@@ -277,6 +277,7 @@ Notes on blogging tech.
 
 *** Test &Gammad; bug in links -- it escapes the & because it doesn't know the digamma entity?
     (Kramdown developer acknowledges bug; will fix in next release)
+    Test workaround to emit entities as entities, not single chars?
 
 *** tags field on about, 404, and quotes: doesn't know to split on spaces?
 

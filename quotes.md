@@ -559,7 +559,7 @@ the Math-Fun mailing list
 "Creatures inveterately wrong in their inductions have a pathetic but praiseworthy
 tendency to die before reproducing their kind."
 &mdash; [W.V.O. Quine](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine), 
-_Natural Kinds_  
+"Natural Kinds", in _Ontological Relativity and Other Essays_, 1969.  
 
 "The best way to have a good idea is to have lots of ideas." &mdash; [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling)  
 
