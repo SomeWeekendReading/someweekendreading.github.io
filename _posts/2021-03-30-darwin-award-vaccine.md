@@ -72,6 +72,8 @@ last" until the next delivery:
 > That’s why you haven’t seen it all used in week one, because we’ve got to space it out
 > over the weeks that it’s got to cover.  
 
+(Hat tip: Alex Tabarrok at [Marginal Revolution](https://marginalrevolution.com/).)
+
 So there are 2 strategies under consideration here:  
 1. Vaccinate as many people _now_, as fast as possible.  Then wait for the next delivery
    and do it again.  
