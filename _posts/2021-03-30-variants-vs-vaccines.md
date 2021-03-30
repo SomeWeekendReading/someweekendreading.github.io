@@ -13,9 +13,10 @@ vaccines for the variants, or even eliminate it once and for all?
 You hear all sorts of things about SARS-CoV-2 variants, with funny names like "B.1.1.7",
 and "B.1.351".  People just _refuse_ to learn what those names mean, and mostly don't even
 pronounce them correctly (e.g., as though the periods weren't there and didn't mean
-anything worthy of their attention).  But they're real: they're
-cropping up all over the place.  From Public Health England, via an article in _The Economist_ of all 
-places <sup id="fn1a">[[1]](#fn1)</sup>, comes a nice graphic showing the 
+anything worthy of their attention &ndash; a quick look through the phylogenetic tree
+below will explain _that_).  But dangerous variants are real: they're cropping up all over
+the place.  From Public Health England, via an article in _The Economist_ of all places
+<sup id="fn1a">[[1]](#fn1)</sup>, comes a nice graphic showing the
 [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree) of how the viruses
 evolved from their ancestral viruses (2019 - 2021):  
 
@@ -71,6 +72,7 @@ developing world, as the India example shows here._
 ## mRNA vaccines and boosters for variants  
 
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-reuters-moderna.jpg" width="400" height="178" alt="Reuters: Moderna begins variant COVID-19 booster trials" title="Reuters: Moderna begins variant COVID-19 booster trials" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-pfizer.jpg" width="400" height="157" alt="Pfizer: Also working on booster &amp; variant booster" title="Pfizer: Also working on booster &amp; variant booster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Fortunately, once you have an mRNA vaccine (and its lipid nanocapsule, and the
 preservatives, and the infrastructure, and&hellip; "stuff"), it's relatively easy (i.e.,
 difficult, but not skull-breakingly difficult) to replace the mRNA with a variant, or
