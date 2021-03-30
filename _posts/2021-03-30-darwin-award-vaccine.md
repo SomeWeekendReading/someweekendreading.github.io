@@ -30,6 +30,8 @@ skull-breaking stupidity of their alleged deeds.
 
 ## And the nomination goes to&hellip;  
 
+<img src="{{ site.baseurl }}/images/2021-03-30-darwin-award-vaccine-drakeford.jpg"
+width="400" height="390" alt="Mark Drakeford, First Minister of Wales (gov.wales photo)" title="Mark Drakeford, First Minister of Wales (gov.wales photo)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 &hellip;the First Minister of Wales,
 [Mark Drakeford](https://en.wikipedia.org/wiki/Mark_Drakeford).  
 
@@ -45,6 +47,8 @@ policy reasoning to our attention.
 [Wikipedia says](https://en.wikipedia.org/wiki/Mark_Drakeford#First_Minister) his
 leadership meant the rules were better undersood in Wales than Boris Johnson could do in
 England.  Bit of a low bar, perhaps, but at least he was on the right side of it.  
+
+_I want to like this guy._  
 
 
 ## So why a Darwin for him?  
