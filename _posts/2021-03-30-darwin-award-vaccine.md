@@ -66,14 +66,14 @@ last" until the next delivery:
 > We will be using all the Oxford vaccine that we get as we get it, __the Pfizer vaccine has
 > to last us__ until into the first week of February.  
 >  
-> So we have to provide it on a week-by-week basis. What you can’t do is to try and stand
+> So __we have to provide it on a week-by-week basis.__ What you can’t do is to try and stand
 > up a system which uses all the vaccine you’ve got in week one and then have nothing to
 > offer for the next four weeks.  
 >  
 > We won’t get another delivery of the Pfizer vaccine until the very end of January or
-> maybe the beginning of February, so that 250,000 doses has got to last us six weeks.  
+> maybe the beginning of February, so that 250,000 doses __has got to last us six weeks.__  
 >  
-> That’s why you haven’t seen it all used in week one, because we’ve got to space it out
+> That’s why you haven’t seen it all used in week one, because __we’ve got to space it out__
 > over the weeks that it’s got to cover.  
 
 (Hat tip: Alex Tabarrok at [Marginal Revolution](https://marginalrevolution.com/).)
@@ -85,9 +85,9 @@ So there are 2 strategies under consideration here:
    of vaccine just in time for the next delivery.  This was Drakeford's policy.  
 
 Strategy (1) vaccinates a bunch of people as fast as possible, making them at least
-partially immune.  Strategy (2) makes those same people wait, while you vaccinate slowly
-for no particular reason other than that you want to be seen _doing_ something every day.
-It sacrifices lives for political theatre.  
+partially immune as soon as possible.  Strategy (2) makes those same people wait, while
+you vaccinate slowly for no particular reason other than that you want to be seen _doing_
+something every day.  It sacrifices lives for political theatre.  
 
 Vaccines are not like food, to be rationed out in an emergency over a period of time, to
 prevent starvation.  The correct strategy is to _use them up_ by getting them into
@@ -96,7 +96,7 @@ time some of them will die.
 
 Technically, a Darwin Awardee must be killed by their own deed, or at least accidentally
 sterilized so they do not reproduce further.  Drakeford does not therefore qualify.
-But&hellip; given that some probably substantial number of people died before this policy
+But&hellip; given that some nonzero number of people died before this policy
 was corrected, he's certainly had an effect on others.  
 
 
