@@ -79,7 +79,7 @@ last" until the next delivery:
 (Hat tip: Alex Tabarrok at [Marginal Revolution](https://marginalrevolution.com/).)
 
 So there are 2 strategies under consideration here:  
-1. Vaccinate as many people _now_, as fast as possible.  Then wait for the next delivery
+1. Vaccinate as many people a possible _now_, as fast as possible.  Then wait for the next delivery
    and do it again.  
 2. Slow down vaccinations so you're vaccinating every day at a constant rate, and run out
    of vaccine just in time for the next delivery.  This was Drakeford's policy.  
