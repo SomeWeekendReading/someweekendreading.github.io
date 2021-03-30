@@ -99,6 +99,7 @@ sterilized so they do not reproduce further.  Drakeford does not therefore quali
 But&hellip; given that some nonzero number of people died before this policy
 was corrected, he's certainly had an effect on others.  
 
+Now, 'scuse me, 'cause I gotta go fire up my CPAP machine because that's so breathtaking.  
 
 ---
 
