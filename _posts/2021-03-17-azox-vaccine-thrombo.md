@@ -519,6 +519,26 @@ my favorite, the
 As we saw here, where a delay in vaccination costs lives even when everybody is trying as
 hard as they can to do good in the world, _statistical methods matter._  
 
+
+## Addendum 2021-Mar-30: More on a possible clot mechanism  
+
+Derek Lowe, at _In the Pipeline_, has another article on the 
+issue. <sup id="fn18a">[[18]](#fn18)</sup>  
+
+People are proposing something called 
+[vaccine-induced prothrombotic immune thrombocytopenia (VIPIT)](https://www.researchsquare.com/article/rs-362354/v1).
+But the latest figures are 31 CSVTs among 2.7 million vaccinees, or a very low probability
+of 1.15e-5/person.  So we're still talking about rare events, at least, though the normal
+background according to the Paul Ehrlich Institut would have been 1 or 2 CSVTs.  Also, it
+appears to be happening in younger women (> 50) for whom COVID-19 is less risk.  So those 2
+facts combined make it of some possible concern, though given the low frequency not enough to stop
+using the vaccine.  
+
+It _might_ be a rare event worth diverting younger women to another vaccine, or it _might_
+all be a case of lack of multiple hypothesis test correction.  It's passed beyond my
+complexity limit and beyond my competence to have an opinion, in accordance 
+with [Scott's Razor](https://astralcodexten.substack.com/p/open-thread-164).  
+
 ---
 
 ## Notes &amp; References  
@@ -563,3 +583,5 @@ _Reuters_, 2021-Mar-15. [↩](#fn12a)
 <a id="fn16">16</a>: G Vogel &amp; K Kupferschmidt, ["'It's a very special picture.' Why vaccine safety experts put the brakes on AstraZeneca’s COVID-19 vaccine"](https://www.sciencemag.org/news/2021/03/it-s-very-special-picture-why-vaccine-safety-experts-put-brakes-astrazeneca-s-covid-19), _Science_, 2021-Mar-17.  doi:10.1126/science.abi5259[↩](#fn16a)  
 
 <a id="fn17">17</a>: Paul-Ehrlich-Institut, ["COVID-19 Vac­cine As­traZeneca – Safe­ty As­sess­ment Re­sult: The Vac­cine is Safe and Ef­fec­tive in the Fight against COVID-19"](https://www.pei.de/EN/newsroom/hp-news/2021/210319-covid-19-vaccine-astrazeneca-safety-assessment-result-vaccine-safe-and-effective.html), Paul-Ehrlich-Institut press releases, 2021-Mar-19. [↩](#fn17a)  
+
+<a id="fn18">18</a>: D Lowe, ["Blood Clots and the AZ Vaccine, Revisited"](https://blogs.sciencemag.org/pipeline/archives/2021/03/30/blood-clots-and-the-az-vaccine-revisited), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/), 2021-Mar-30. [↩](#fn18a)  
