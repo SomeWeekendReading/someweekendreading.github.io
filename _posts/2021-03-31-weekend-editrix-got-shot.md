@@ -85,16 +85,18 @@ understand, and harder to deal with.  But&hellip; simple stubborn persistence pa
 
 ## Is anything getting better?  
 
-The vaccine process itself was, for both of us, quite smooth.  The scheduling business was
-a nightmare: a couple days for me madly refreshing multiple browser tabss, and staying up
-late at night to exploit a back door for her.  Nobody seems to care that the web sites for
-scheduling appointments are activley hostile.  It's not clear to me who exactly isn't
-listening, or why, or how to change that.  
+The vaccine process itself was, for both of us, quite smooth.  Bravo to the medical
+personnel who actually did the work.  Well done.  
+
+The scheduling business was a nightmare: a couple days for me madly refreshing multiple
+browser tabss, and staying up late at night to exploit a back door for her.  Nobody seems
+to care that the web sites for scheduling appointments are activley hostile.  It's not
+clear to me who exactly isn't listening, or why, or how to change that.  
 
 
 ## The Weekend Sequelae  
 
-She's only 1hr 29min into it now, with no side effects, as expected.  Stay tuned tomorrow
+She's only 1hr 29min into it right now, with no side effects, as expected.  Stay tuned tomorrow
 for side-effect-blogging.  
 
 ---
