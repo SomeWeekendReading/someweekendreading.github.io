@@ -89,9 +89,9 @@ The vaccine process itself was, for both of us, quite smooth.  Bravo to the medi
 personnel who actually did the work.  Well done.  
 
 The scheduling business, on the other hand, was a nightmare: a couple days for me madly
-refreshing multiple browser tabss, and staying up late at night to exploit a back door for
+refreshing multiple browser tabs, and staying up late at night to exploit a back door for
 her.  Nobody seems to care that the web sites for scheduling appointments are actively
-hostile, or the people facilitating them are delusional.  It's not clear to me who exactly
+hostile, or the people "facilitating" them are delusional.  It's not clear to me who exactly
 isn't listening, or why, or how to change that.  
 
 
