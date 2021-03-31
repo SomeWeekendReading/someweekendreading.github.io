@@ -11,17 +11,17 @@ just don't know what to say.  Understandable, because "breathtaking".
 
 ## The Darwin Prize  
 
-Back in the 1980s, a group of wags proposed something they called the 
+Back in the 1980s, a group of internet wags proposed something they called the 
 ["Darwin Awards"](https://en.wikipedia.org/wiki/Darwin_Awards) to be given to those who
 perform some action so breathtakingly stupid that they either get themselves accidentally
-killed or sterilized, thereby marginally improving the human gene pool.  
+killed or sterilized, thereby failing to reproduce and marginally improving the human gene pool.  
 
 As it says [on this blog's quotes page]({{ site.baseurl }}/quotes/):  
 > "Creatures inveterately wrong in their inductions have a pathetic but praiseworthy
 > tendency to die before reproducing their kind." &mdash; W V O Quine, "Natural Kinds", 
-> in _Ontological Relativity and Other Essays_, 1969.  
+> in __Ontological Relativity and Other Essays__, 1969.  
 
-That dubious, though funny, [tradition continues to this day](https://darwinawards.com/).  
+This dubious, though funny, [tradition continues to this day](https://darwinawards.com/).  
 
 __Let it be noted clearly:__ by calling out someone's behavior as worthy of a Darwin Award, we are not
 in any way wishing them harm, let alone death.  But we _are_ calling out the
@@ -38,11 +38,12 @@ width="400" height="390" alt="Mark Drakeford, First Minister of Wales (gov.wales
 At first glance, beyond his succeeding to the position of First Minister, he seems an
 otherwise unremarkable Labour politician.  Maybe even a decent fellow, who has 
 [remained married to the same woman for 40+ years](https://en.wikipedia.org/wiki/Mark_Drakeford#First_Minister).
-Ok, he apparently rather impractically studied Latin at university, which makes him
-interesting only because your humble Weekend Editor is also a bit of a Latin nerd.
-(Though I was smart enough to confine it to secondary school.)  
+Ok, he apparently rather impractically 
+[studied Latin at university](https://en.wikipedia.org/wiki/Mark_Drakeford#Early_life_and_education),
+which makes him interesting only because your humble Weekend Editor is also a bit of a
+Latin nerd.  (Though smart enough to confine it to secondary school.)  
 
-He was in charge of COVID-19 strategy, including vaccination, in Wales, which brings his
+He is in charge of the Wales COVID-19 strategy, including vaccination, which brings his
 policy reasoning to our attention.
 [Wikipedia says](https://en.wikipedia.org/wiki/Mark_Drakeford#First_Minister) his
 leadership meant the rules were better undersood in Wales than Boris Johnson could do in
@@ -59,7 +60,8 @@ doses vs using them as 1st doses for more people, but the case for getting 1st d
 as fast as possible is beyond dispute.  Anything else spreads the disease, costs lives,
 and encourages more lethal variants to crop up.  
 
-Drakeford's brilliant strategy, according to _The Guardian_ <sup id="fn1a">[[1]](#fn1)</sup>, was
+Drakeford's brilliant strategy, according to _The Guardian_
+<sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup>, was
 to _slow down_ the use of initially limited supplies of the Pfizer vaccine, to "make it
 last" until the next delivery:  
 
@@ -113,3 +115,5 @@ Now, 'scuse me, I gotta go fire up my
 -->
 
 <a id="fn1">1</a>: A Sparrow, ["Politics live with Andrew Sparrow: Coronavirus"](https://www.theguardian.com/politics/live/2021/jan/15/uk-covid-coronavirus-live-news-updates-boris-johnson-vaccines-schools?page=with:block-60019e668f08c2ca166f5f95#block-60019e668f08c2ca166f5f95), _The Guardian_ politics live blog, 2021-Jan-15. [↩](#fn1a)  
+
+<a id="fn2">2</a>: S Morris, ["Wales' Covid vaccine rollout criticised as first minister defends delay"](https://www.theguardian.com/uk-news/2021/jan/18/welsh-leader-mark-drakeford-defends-staggered-rollout-of-pfizer-covid-vaccine), _The Guardian_, 2021-Jan-18. [↩](#fn2a)  
