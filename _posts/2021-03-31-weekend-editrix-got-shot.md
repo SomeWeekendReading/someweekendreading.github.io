@@ -88,10 +88,11 @@ understand, and harder to deal with.  But&hellip; simple stubborn persistence pa
 The vaccine process itself was, for both of us, quite smooth.  Bravo to the medical
 personnel who actually did the work.  Well done.  
 
-The scheduling business was a nightmare: a couple days for me madly refreshing multiple
-browser tabss, and staying up late at night to exploit a back door for her.  Nobody seems
-to care that the web sites for scheduling appointments are activley hostile.  It's not
-clear to me who exactly isn't listening, or why, or how to change that.  
+The scheduling business, on the other hand, was a nightmare: a couple days for me madly
+refreshing multiple browser tabss, and staying up late at night to exploit a back door for
+her.  Nobody seems to care that the web sites for scheduling appointments are actively
+hostile, or the people facilitating them are delusional.  It's not clear to me who exactly
+isn't listening, or why, or how to change that.  
 
 
 ## The Weekend Sequelae  
