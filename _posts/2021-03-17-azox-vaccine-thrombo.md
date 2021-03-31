@@ -534,6 +534,11 @@ appears to be happening in younger women (> 50) for whom COVID-19 is less risk. 
 facts combined make it of some possible concern, though given the low frequency not enough to stop
 using the vaccine.  
 
+There is no similar signal with Pfizer/BioNTech, Moderna, or J&amp;J vaccines currently
+widely used in the US.  Nor is a similar signal with the AZ/OX vaccine seen in the UK.  It
+seems nobody really knows for sure that something real is happening, but anecdotally it's
+concerning.  
+
 It _might_ be a rare event worth diverting younger women to another vaccine, or it _might_
 all be a case of lack of multiple hypothesis test correction.  It's passed beyond my
 complexity limit and beyond my competence to have an opinion, in accordance 
