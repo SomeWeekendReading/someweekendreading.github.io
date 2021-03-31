@@ -292,6 +292,8 @@ Blog posts:
   https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/
   "using a model effectively is harder than just doing the math"
   "But people turn out to be really, really complicated. And even seven months later, that’s a lesson we’re still struggling to learn."
+* Parrondo's paradox in investing: combine 2 losers to get a winner
+  http://leeds-faculty.colorado.edu/stutzer/Papers/ParadoxOfDiversification.PDF
 * Conformal mapping, heat tranfer, and wind chill: why is it so damn cold out there?
 * Nietzsche, Machiavelli, and Dr Seuss walk into a bar.  (That's it.  That's the whole joke.)
 * RISC-V vs ARM: what's that all about?

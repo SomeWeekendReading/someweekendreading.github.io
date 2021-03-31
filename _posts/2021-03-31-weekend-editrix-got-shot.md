@@ -58,6 +58,17 @@ So&hellip; progress.  Of a sort.
 We drove all of 10min to get to what is very nearly our neighborhood drugstore at the
 appointed time.  
 
+There was a kerfuffle when the person running check-in _insisted_ the Weekend Editrix had
+received a text on her phone for checkin.  It took showing her the phone 3 times to
+convince her that was not the case, but she was still insistent that it should be there.
+In the end, we got sent to the pharmacy department for manual check-in, where they were
+used to it.  
+
+Frankly, the whole vaccine scheduling process has struck me as being full of people who
+_insist_ the system is right and good and working, when the evidence in front of there
+eyes is that it is _not_.  As an aspiring Bayesian rationalist, I find this hard to
+understand, and harder to deal with.  But&hellip; simple stubborn persistence paid off.  
+
 <img src="{{ site.baseurl }}/images/2021-03-31-weekend-editrix-got-shot-hypo.jpg" width="400" height="403" alt="Weekend Editrix's portside dorsal manipulator tentacle being injected" title="Weekend Editrix's portside dorsal manipulator tentacle being injected" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Herein illustrated is the Weekend Editrix's portside dorsal&hellip; _arm_.  (She has arms;
 I have tentacles.  Just so we're clear.)  She's getting a syringe of lovely
@@ -70,17 +81,6 @@ the nurse here is properly gloved.  (Thanks to the medical members of my family 
 pointing that out.  Perhaps this level of sanitation is a courtesy extended only to
 Japanese clients, like the Weekend Editrix, who are culturally more attuned to how clean
 _everything_ is&hellip; or is not.)
-
-There was a kerfuffle when the person running check-in _insisted_ the Weekend Editrix had
-received a text on her phone for checkin.  It took showing her the phone 3 times to
-convince her that was not the case, but she was still insistent that it should be there.
-In the end, we got sent to the pharmacy department for manual check-in, where they were
-used to it.  
-
-Frankly, the whole vaccine scheduling process has struck me as being full of people who
-_insist_ the system is right and good and working, when the evidence in front of there
-eyes is that it is _not_.  As an aspiring Bayesian rationalist, I find this hard to
-understand, and harder to deal with.  But&hellip; simple stubborn persistence paid off.  
 
 
 ## Is anything getting better?  
