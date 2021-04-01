@@ -45,7 +45,7 @@ are also pirate fans, I dedicate to them this little [koan](https://en.wikipedia
 > __Q:__ Why do pirate obstetricians have the shortest lifespans of all medical personnel?  
 > __A:__ One simply cannot expect to survive for long after saying to a woman in labor, "Stand and deliver."  
 
-Sorry.  Best I've got.  It's been a tough year.  For all of us.  
+Sorry.  That's it.  Best I've got for now.  It's been a tough year.  For all of us.  
 
 ---
 
