@@ -36,7 +36,7 @@ community.  It somehow manages to combine Pesach with pirate songs and a sea sha
 two.  (Hey, don't judge; it's Six13: surrealism is what they _do_.)  
 
 I _thought_ I was being surrealistic and a wee tad bit transgressive.  Turns out, though,
-I'm apparently in cahoots with a gang of religious closet pirate afficionados.  They
+I'm apparently in cahoots with a kabal of religious closet pirate afficionados.  They
 liked the video so much, my email was clogged with pirate jokes.  (Did _not_ see that coming.)  
 
 So to honor my colleagues colleagues, many of whom seem to be medical people who
