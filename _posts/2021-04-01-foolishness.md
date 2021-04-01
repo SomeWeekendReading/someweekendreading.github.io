@@ -37,7 +37,8 @@ two.  (Hey, don't judge; it's Six13: surrealism is what they _do_.)
 
 I _thought_ I was being surrealistic and a wee tad bit transgressive.  Turns out, though,
 I'm apparently in cahoots with a kabal of religious closet pirate afficionados.  They
-liked the video so much, my email was clogged with pirate jokes.  (Did _not_ see that coming.)  
+liked the video so much, my email was clogged with pirate jokes.  (I mean, fair enough.
+But I did _not_ see that coming.)  
 
 So to honor my colleagues colleagues, many of whom seem to be medical people who
 are also pirate fans, I dedicate to them this little [koan](https://en.wikipedia.org/wiki/Koan):  
