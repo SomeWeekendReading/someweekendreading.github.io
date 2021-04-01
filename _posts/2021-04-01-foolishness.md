@@ -15,7 +15,8 @@ After the _annus horribilis_ of Trump, fascist insurrection, police murders of
 multiple citizens, _and_ a pandemic&hellip; it's little hard to get into the silly spirit.  As
 noted SF author Charlie Stross opined (sort-of-seriously) <sup id="fn1a">[[1]](#fn1)</sup>,
 maybe we should consign April Fool's Day to
-[_damnatio memoriae_](https://en.wikipedia.org/wiki/Damnatio_memoriae) <sup id="fn2a">[[2]](#fn2)</sup>,
+[_damnatio memoriae_](https://en.wikipedia.org/wiki/Damnatio_memoriae) 
+(though with the usual doubts <sup id="fn2a">[[2]](#fn2)</sup>),
 whenceforth the 1st of April shall be named the 32nd of March.  
 
 Still&hellip; we can at least be
@@ -40,7 +41,7 @@ I'm apparently in cahoots with a bunch of religious closet pirate afficionados. 
 liked the video so much, my email was clogged with pirate jokes.  (Did _not_ see that coming.)  
 
 So to honor my colleagues colleagues, many of whom seem to be medical people who
-are also pirate fans, I dedicate this little [koan](https://en.wikipedia.org/wiki/Koan) to them:  
+are also pirate fans, I dedicate to them this little [koan](https://en.wikipedia.org/wiki/Koan):  
 > __Q:__ Why do pirate obstetricians have the shortest lifespans of all medical personnel?  
 > __A:__ One simply cannot expect to survive for long after saying to a woman in labor, "Stand and deliver."  
 
