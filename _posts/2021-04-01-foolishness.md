@@ -23,8 +23,7 @@ Still&hellip; we can at least be
 [trying to try](https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try)
 to approach a normal frame of mind, no?  
 
-Let's go [trap some April
-fish](https://frenchmoments.eu/april-fools-day-traditions-in-france-le-1er-avril/).  
+Let's go [April fishing](https://frenchmoments.eu/april-fools-day-traditions-in-france-le-1er-avril/).  Even if we have to [fish with dynamite](https://en.wikipedia.org/wiki/Blast_fishing).  
 
 
 ## Hey, it's also Passover  
@@ -37,7 +36,7 @@ community.  It somehow manages to combine Pesach with pirate songs and a sea sha
 two.  (Hey, don't judge; it's Six13: surrealism is what they _do_.)  
 
 I _thought_ I was being surrealistic and a wee tad bit transgressive.  Turns out, though,
-I'm apparently in cahoots with a bunch of religious closet pirate afficionados.  They
+I'm apparently in cahoots with a gang of religious closet pirate afficionados.  They
 liked the video so much, my email was clogged with pirate jokes.  (Did _not_ see that coming.)  
 
 So to honor my colleagues colleagues, many of whom seem to be medical people who
