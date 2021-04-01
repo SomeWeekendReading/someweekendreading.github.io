@@ -100,6 +100,14 @@ isn't listening, or why, or how to change that.
 She's only 1hr 29min into it right now, with no side effects, as expected.  Stay tuned tomorrow
 for side-effect-blogging.  
 
+## Addendum 2021-Apr-01  
+
+The Weekend Editrix, as I'm sure you're eager to know, is fine.  Some mild sensation of
+fever last night (actual temp: normal + 0.6&deg;C), and today a slightly sore arm, a
+little fatigued&hellip; and that's it.  
+
+Pretty good result!  
+
 ---
 
 ## Notes &amp; References  
