@@ -286,6 +286,8 @@ Notes on blogging tech.
     <script type="text/javascript" 
             src= "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
     </script> 
+  Asked colleagues for reviews of translations in Telugu, Spanish, German, Chinese, Greek,
+  Russian, Korean, Romanian, and French.
 
 --------------------------------------------------------------------------------
 
