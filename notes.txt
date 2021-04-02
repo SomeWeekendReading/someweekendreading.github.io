@@ -283,7 +283,14 @@ Notes on blogging tech.
 
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
+https://translate.google.com/translate?sl=en&tl=ja&u=https://www.someweekendreading.blog/weekend-editrix-got-shot/
+
+https://www.geeksforgeeks.org/add-google-translate-button-webpage/
+
 Blog posts:
+* Millionaire next door vs Bayes
+* Zombies & 99% vs 99.9%
+  https://www.quora.com/Measurements/When-is-the-difference-between-99-accuracy-and-99-9-accuracy-very-important#
 * How bad is the Corona unemployment?
   https://www.calculatedriskblog.com/2021/01/question-3-for-2021-what-will.html
   https://www.calculatedriskblog.com/2021/04/march-employment-preview.html
