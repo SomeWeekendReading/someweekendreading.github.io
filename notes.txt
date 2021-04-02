@@ -285,7 +285,20 @@ Post topics: "though borrowing trouble is often my wont" as an anxiety-prone dep
 
 https://translate.google.com/translate?sl=en&tl=ja&u=https://www.someweekendreading.blog/weekend-editrix-got-shot/
 
-https://www.geeksforgeeks.org/add-google-translate-button-webpage/
+*** Translation: https://www.geeksforgeeks.org/add-google-translate-button-webpage/
+    <div id="google_translate_element"></div>
+    <script type="text/javascript"> 
+        function googleTranslateElementInit() { 
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'}, 
+                'google_translate_element'
+            ); 
+        } 
+    </script> 
+    <script type="text/javascript" 
+            src= "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script> 
+    Now get the widget positioned.
 
 Blog posts:
 * Millionaire next door vs Bayes
