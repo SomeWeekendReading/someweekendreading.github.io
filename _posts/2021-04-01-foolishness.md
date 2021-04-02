@@ -40,8 +40,8 @@ I'm apparently in cahoots with a kabal of religious closet pirate afficionados. 
 liked the video so much, my email was clogged with pirate jokes.  (I mean, fair enough.
 But I did _not_ see that coming.)  
 
-So to honor my colleagues colleagues, many of whom seem to be medical people who
-are also pirate fans, I dedicate to them this little [koan](https://en.wikipedia.org/wiki/Koan):  
+So to honor my colleagues, many of whom seem to be medical people who are also pirate
+fans, I dedicate to them this little [koan](https://en.wikipedia.org/wiki/Koan):  
 > __Q:__ Why do pirate obstetricians have the shortest lifespans of all medical personnel?  
 > __A:__ One simply cannot expect to survive for long after saying to a woman in labor, "Stand and deliver."  
 
@@ -59,4 +59,3 @@ Sorry.  That's it.  Best I've got for now.  It's been a tough year.  For all of 
 <a id="fn1">1</a>: C Stross, ["Official Announcement: April Fools Day is Cancelled"](https://www.antipope.org/charlie/blog-static/2021/04/official-announcement-april-fo.html), [_Charlie's Diary_](http://www.antipope.org/charlie/blog-static/), 2021-04-01.[↩](#fn1a)  
 
 <a id="fn2">2</a>: Didn't work for [Herostratus](https://en.wikipedia.org/wiki/Herostratus), though. [↩](#fn2a)  
-
