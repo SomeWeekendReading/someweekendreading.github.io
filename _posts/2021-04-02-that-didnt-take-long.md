@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Well, _that_ didn't take long
+title: Well, that didn't take long
 tags: COVID Politics
 comments: true
 ---
