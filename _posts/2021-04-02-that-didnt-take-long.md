@@ -17,15 +17,15 @@ want it _right now!_
 
 !["Axios: White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "Axios: White Republican vaccine hesitancy")
 
-In the US, vaccines are allocated (approximately!) by population denisty.  While
+In the US, vaccines are allocated (approximately!) by population density.  While
 Republicans do tend to be rural, their weak uptake of vaccines means there apparently tend
 to be vaccines left over in their areas.  This leads to shortages of vaccines in the
-Democratic areas, where everybody wants to be vaccinated and are fighting to get to the
-head of the line, while the Republican areas have spare capacity compared to their weak
+Democratic areas, where everybody wants to be vaccinated and is fighting to get to the
+head of the line, while the Republican areas have spare capacity due to their weak
 uptake.  
 
 It didn't take long for it to dawn on people in Democratic areas searching for vaccine
-appointments that there was the seed of a strategy here:  
+appointments that there was the seed of a _strategy_ here:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
