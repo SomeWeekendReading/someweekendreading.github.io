@@ -173,22 +173,23 @@ I prefer the future with SARS-CoV-2 extinct in human.  You should, too.
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-ofid-tcells-variants.jpg" width="400" height="292" alt="OFID: CD8+ T cells from COVID infection target conserved epitopes" title="OFID: CD8+ T cells from COVID infection target conserved epitopes" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It appears there is some good news on the viral variants front: _Reuters_ is 
 reporting <sup id="fn9a">[[9]](#fn9)</sup> that in patients convalescent from "classic"
-COVID, T cell responses to the new variants are still strong.  Recall that immunology is,
-to say the least, complex.  We know that neutralizing antibody responses from "classic"
-COVID are a bit weaker on some of the variants, particularly on the South African variant
-B.1.351.  However, that's only part of the story.  We also want to know how long memory B
-cells remember the infection, and how aggressively T cells will hunt down and kill
-infected cells.  This latest result implies that a vigorous T cell response against the
-new variants is present.  
+COVID, T cell responses to the new variants are still strong.  
 
-In a somewhat example of useless journalism, that's all they say, with no citation of the
+Recall that immunology is, to say the least, complex.  We know that neutralizing antibody
+responses from "classic" COVID are a bit weaker on some of the variants, particularly on
+the South African variant B.1.351.  However, that's only part of the story.  We also want
+to know how long memory B cells remember the infection, and how aggressively T cells will
+hunt down and kill infected cells.  This latest result implies that a vigorous T cell
+response against the new variants is present.  
+
+In an example of somewhat useless journalism, that's all they say: no citation of the
 research beyond mentioning the first author's name &amp; affiliation, Andrew Redd of
 NIAID.  So I had to dig a bit, and found the NIH news 
 release <sup id="fn10a">[[10]](#fn10)</sup>, which fortunately had a bit more detail.
 
 Among those details was the all-important pointer to the original 
 paper <sup id="fn11a">[[11]](#fn11)</sup>, whose conclusions we can now analyze a bit.  
-- They took blood samples from $n=30$ patients, each PCR-confirmed to have had COVID-19
+- They took blood samples from _n_ = 30 patients, each PCR-confirmed to have had COVID-19
   and now convalescent.  This captures not just antibodies, but circulating immune cells.  
 - They isolated PBMCs (peripheral blood mononuclear cells) to get hold of some CD8+ T
   cells, one of the hunters who seek out and kill infected cells.  

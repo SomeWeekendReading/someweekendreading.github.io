@@ -7,22 +7,22 @@ comments: true
 
 As we've seen before,
 [the biggest group of American vaccine refuseniks are White Republicans (especially men)]({{ site.baseurl }}/republicans-vs-herd-immunity/).
-nGuess who's swooping in to take up their vaccine supply?  
+Guess who's swooping in to take up their vaccine supply?  
 
 
 ## Supply vs Demand  
 
-In the US, basically everybody except White Republicans want to be vaccinated, and they
+In the US, basically everybody except White Republicans wants to be vaccinated, and they
 want it _right now!_  
 
 !["Axios: White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "Axios: White Republican vaccine hesitancy")
 
 In the US, vaccines are allocated (approximately!) by population density.  While
-Republicans do tend to be rural, their weak uptake of vaccines means there apparently tend
-to be vaccines left over in their areas.  This leads to shortages of vaccines in the
-Democratic areas, where everybody wants to be vaccinated and is fighting to get to the
-head of the line, while the Republican areas have spare capacity due to their weak
-uptake.  
+Republicans do tend to be rural and hence lower population density, their weak uptake of
+vaccines means there apparently tend to be vaccines left over in their areas.  This leads
+to shortages of vaccines in the Democratic areas, where everybody wants to be vaccinated
+and is fighting to get to the head of the line.  Meanwhile, the Republican areas have spare
+capacity due to their weak uptake.  
 
 It didn't take long for it to dawn on people in Democratic areas searching for vaccine
 appointments that there was the seed of a _strategy_ here:  
