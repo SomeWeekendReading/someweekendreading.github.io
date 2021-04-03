@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pfizer/Moderna vaccine mRNA sequences on GitHub
+title: Pfizer/Moderna vaccine mRNA sequences posted on GitHub
 tags: COVID PharmaAndBiotech 
 comments: true
 ---
@@ -25,7 +25,7 @@ Fire &amp; Shoura are careful to point out that is not the case:
 > many different investigational and diagnostic studies. Knowing these sequences and
 > having the ability to differentiate them from other RNAs in analyzing future biomedical
 > data sets is of great utility."  
->&hellp;  
+>&hellip;  
 >"For this work, RNAs were obtained as discards from the small portions of vaccine doses
 >that remained in vials after immunization; such portions would have been required to be
 >otherwise discarded and were analyzed under FDA authorization for research use," they
