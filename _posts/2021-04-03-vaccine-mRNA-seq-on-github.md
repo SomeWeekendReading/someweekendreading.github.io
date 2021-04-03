@@ -44,7 +44,7 @@ stabilize it when it's not attached to the rest of a virus particle.
 
 These specific changes are probably regarded as proprietary by Moderna (and similar ones
 for Pfizer), so I'm not quite sure how to feel about this.  In general I _detest_ the idea
-of RNA/DNA/gene/protein patents (and don't even get me started on software patents of
+of RNA/DNA/gene/protein patents (and don't even get me started on software patents or
 business process patents!).  But on the other hand, I acknowledge there was signficant
 work involved in modifying the wild-type viral RNA for the vaccine and that is probably
 reasonable intellectual property.
