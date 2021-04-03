@@ -165,6 +165,51 @@ requiring a new vaccine every fall just like influenza.
 
 I prefer the future with SARS-CoV-2 extinct in human.  You should, too.  
 
+
+## Addendum 2021-Apr-03  
+
+<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-reuters-tcells-variants.jpg" width="400" height="179" alt="Reuters: T cells from COVID infection respond to variants" title="Reuters: T cells from COVID infection respond to variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-nih-tcells-variants.jpg" width="400" height="241" alt="NIH: T cells recognize recenter SARS-CoV-2 variants of concern" title="NIH: T cells recognize recenter SARS-CoV-2 variants of concern" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-ofid-tcells-variants.jpg" width="400" height="292" alt="OFID: CD8+ T cells from COVID infection target conserved epitopes" title="OFID: CD8+ T cells from COVID infection target conserved epitopes" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
+It appears there is some good news on the viral variants front: _Reuters_ is 
+reporting <sup id="fn9a">[[9]](#fn9)</sup> that in patients convalescent from "classic"
+COVID, T cell responses to the new variants are still strong.  Recall that immunology is,
+to say the least, complex.  We know that neutralizing antibody responses from "classic"
+COVID are a bit weaker on some of the variants, particularly on the South African variant
+B.1.351.  However, that's only part of the story.  We also want to know how long memory B
+cells remember the infection, and how aggressively T cells will hunt down and kill
+infected cells.  This latest result implies that a vigorous T cell response against the
+new variants is present.  
+
+In a somewhat example of useless journalism, that's all they say, with no citation of the
+research beyond mentioning the first author's name &amp; affiliation, Andrew Redd of
+NIAID.  So I had to dig a bit, and found the NIH news 
+release <sup id="fn10a">[[1]](#fn10)</sup>, which fortunately had a bit more detail.
+
+Among those details was the all-important pointer to the original 
+paper <sup id="fn11a">[[11]](#fn11)</sup>, whose conclusions we can now analyze a bit.  
+- They took blood samples from $n=30$ patients, each PCR-confirmed to have had COVID-19
+  and now convalescent.  This captures not just antibodies, but circulating immune cells.  
+- They isolated PBMCs (peripheral blood mononuclear cells) to get hold of some CD8+ T
+  cells, one of the hunters who seek out and kill infected cells.  
+- They tested T cell activity in a variety of complicated ways against the British variant
+  (B.1.1.7), the South African variant (B.1.351) and the Brazilian variant (B.1.1.248).
+  The latter is [related to the P.1 variant of concern](https://en.wikipedia.org/wiki/Lineage_P.1)
+  in some way I haven't entirely understood, but apparently it covers the case of P.1.  
+- In each case, a strong T cell reaction against each viral variant was observed.  
+- Note that these T cells were trained on "classic" COVID-19, so the cross-reactivity with
+  the variants is good news: it means immunity from classic COVID-19 (and presumably the
+  vaccines designed against it) is likely to persist against the variants.  
+- Even though some of the mutations make neutralizing antibodies less likely to recognize
+  the mutated spike protein, the T cells are apparently not fooled.  
+- However, they sound a cautionary note: the exact levels of antibody and T cell response
+  needed to confer immunity is not known, they just note that it's been observed.
+
+So&hellip; that's good news.  I'm still an anxious, depressed, cranky old scientist
+though: I'm still betting (probability ~ 60%) that a booster will be necessary in the
+fall of 2021.  
+
 ---
 
 ## Notes &amp; References  
@@ -189,3 +234,9 @@ I prefer the future with SARS-CoV-2 extinct in human.  You should, too.
 <a id="fn7">7</a>: Reuters Staff, ["U.S. FDA gearing up for rapid review of potential COVID-19 booster shots"](https://www.reuters.com/article/us-health-coronavirus-usa-fda-idUSKBN2A5086), _Reuters_, 2021-Feb-04. [↩](#fn7a)  
 
 <a id="fn8">8</a>: Reuters Staff, ["Fact check: COVID-19 vaccine labels would not microchip or track individuals, but serve logistical purpose"](https://www.reuters.com/article/uk-factcheck-microchip-not-injected-covi/fact-check-covid-19-vaccine-labels-would-not-microchip-or-track-individuals-but-serve-logistical-purpose-idUSKBN28O1TM), _Reuters_, 2020-Dec-14. [↩](#fn8a)  
+
+<a id="fn9">9</a>: J Steenhuysen, ["T cells induced by COVID-19 infection respond to new virus variants -U.S. study"](https://www.reuters.com/article/us-health-coronavirus-variants-idUSKBN2BM3BZ), _Reuters_, 2021-Mar-30. [↩](#fn9a)  
+
+<a id="fn10">10</a>: A Oplinger (contact), ["T cells recognize recent SARS-CoV-2 variants"](https://www.nih.gov/news-events/news-releases/t-cells-recognize-recent-sars-cov-2-variants), _NIH news releases_, 2021-Mar-30. [↩](#fn10a)  
+
+<a id="fn11">11</a>: A Redd, _et al._, ["CD8+ T cell responses in COVID-19 convalescent individuals target conserved epitopes from multiple prominent SARS-CoV-2 circulating variants"](https://academic.oup.com/ofid/advance-article/doi/10.1093/ofid/ofab143/6189113), _Open Forum Infectious Diseases_ ofab143, 2021-Mar-30.  [DOI: 10.1093/ofid/ofab143](https://doi.org/10.1093/ofid/ofab143).[↩](#fn11a)  

@@ -65,7 +65,7 @@ In the end, we got sent to the pharmacy department for manual check-in, where th
 used to it.  
 
 Frankly, the whole vaccine scheduling process has struck me as being full of people who
-_insist_ the system is right and good and working, when the evidence in front of there
+_insist_ the system is right and good and working, when the evidence in front of their
 eyes is that it is _not_.  As an aspiring Bayesian rationalist, I find this hard to
 understand, and harder to deal with.  But&hellip; simple stubborn persistence paid off.  
 
@@ -78,9 +78,9 @@ Note that unlike your humble Weekend Editor's
 [first](https://www.someweekendreading.blog/today-i-got-shot/#the-vaccine-experience-itself) or 
 [second](https://www.someweekendreading.blog/today-i-got-shot-again/#the-vaccine-experience) dose, 
 the nurse here is properly gloved.  (Thanks to the medical members of my family for
-pointing that out.  Perhaps this level of sanitation is a courtesy extended only to
+pointing that out.)  Perhaps this level of sanitation is a courtesy extended only to
 Japanese clients, like the Weekend Editrix, who are culturally more attuned to how clean
-_everything_ is&hellip; or is not.)
+_everything_ is&hellip; or is not.
 
 
 ## Is anything getting better?  
