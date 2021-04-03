@@ -207,7 +207,7 @@ paper <sup id="fn11a">[[11]](#fn11)</sup>, whose conclusions we can now analyze 
   needed to confer immunity is not known, they just note that it's been observed.
 
 So&hellip; that's good news.  I'm still an anxious, depressed, cranky old scientist
-though: I'm still betting (probability ~ 60%) that a booster will be necessary in the
+though: still betting (probability ~ 60%) that a booster will be necessary in the
 fall of 2021.  
 
 ---
