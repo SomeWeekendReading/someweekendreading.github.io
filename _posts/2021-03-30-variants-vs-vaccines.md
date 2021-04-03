@@ -171,7 +171,6 @@ I prefer the future with SARS-CoV-2 extinct in human.  You should, too.
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-reuters-tcells-variants.jpg" width="400" height="179" alt="Reuters: T cells from COVID infection respond to variants" title="Reuters: T cells from COVID infection respond to variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-nih-tcells-variants.jpg" width="400" height="241" alt="NIH: T cells recognize recenter SARS-CoV-2 variants of concern" title="NIH: T cells recognize recenter SARS-CoV-2 variants of concern" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-ofid-tcells-variants.jpg" width="400" height="292" alt="OFID: CD8+ T cells from COVID infection target conserved epitopes" title="OFID: CD8+ T cells from COVID infection target conserved epitopes" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 It appears there is some good news on the viral variants front: _Reuters_ is 
 reporting <sup id="fn9a">[[9]](#fn9)</sup> that in patients convalescent from "classic"
 COVID, T cell responses to the new variants are still strong.  Recall that immunology is,
@@ -185,7 +184,7 @@ new variants is present.
 In a somewhat example of useless journalism, that's all they say, with no citation of the
 research beyond mentioning the first author's name &amp; affiliation, Andrew Redd of
 NIAID.  So I had to dig a bit, and found the NIH news 
-release <sup id="fn10a">[[1]](#fn10)</sup>, which fortunately had a bit more detail.
+release <sup id="fn10a">[[10]](#fn10)</sup>, which fortunately had a bit more detail.
 
 Among those details was the all-important pointer to the original 
 paper <sup id="fn11a">[[11]](#fn11)</sup>, whose conclusions we can now analyze a bit.  
