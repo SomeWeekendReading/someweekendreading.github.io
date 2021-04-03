@@ -274,6 +274,7 @@ Notes on blogging tech.
   have comments turned off.  Also, escape quotes in title with &quot; and &apos;.
 
 * DONE: Translation: https://www.geeksforgeeks.org/add-google-translate-button-webpage/
+  Added to _includes/translate.html, and included in _layouts/default.html at top of body:
     <div id="google_translate_element" style="float: right;"></div>
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
@@ -298,10 +299,6 @@ Notes on blogging tech.
 *** tags field on about, 404, and quotes: doesn't know to split on spaces?
 
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
-
-https://translate.google.com/translate?sl=en&tl=ja&u=https://www.someweekendreading.blog/weekend-editrix-got-shot/
-
-vaccine-induced prothrombotic immune thrombocytopenia (VIPIT).
 
 Blog posts:
 * Millionaire next door vs Bayes
