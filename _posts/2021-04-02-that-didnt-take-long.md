@@ -7,7 +7,7 @@ comments: true
 
 As we've seen before,
 [the biggest group of American vaccine refuseniks are White Republicans (especially men)]({{ site.baseurl }}/republicans-vs-herd-immunity/).
-Guess who's swooping in to take up their vaccine supply?  
+nGuess who's swooping in to take up their vaccine supply?  
 
 
 ## Supply vs Demand  
@@ -51,5 +51,5 @@ appointments that there was the seed of a _strategy_ here:
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-Well, if you're not gonna use it, somebody will.  
+Well, if you're not gonna use it, somebody else will.  
 
