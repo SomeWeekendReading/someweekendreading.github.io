@@ -36,7 +36,7 @@ a well-known site for project management of open-source software (and the host o
 crappy little blog, just so we have full disclosure here).  
 
 
-## What should I think about that?  
+## What should we think about that?  
 
 This isn't the same as posting the well-known sequence for the mRNA of SARS-CoV-2, since
 the vaccine mRNA has several mutations, a poly-A tail, and other features designed to
