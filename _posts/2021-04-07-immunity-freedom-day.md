@@ -55,4 +55,4 @@ January?
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Nope, no time for notes today.  Out makin' antibodies &amp; teachin' memory B cells stuff.  [↩](#fn1a)  
+<a id="fn1">1</a>: Nope, no time for notes today.  Out makin' antibodies &amp; teachin' stuff to memory B cells.  [↩](#fn1a)  
