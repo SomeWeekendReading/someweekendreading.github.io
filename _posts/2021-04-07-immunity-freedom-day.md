@@ -30,7 +30,7 @@ unvaccinated.  Vaccines are about protecting yourself, and about not being a jer
 everyone who comes near you, too.  
 
 That will change once herd immunity is attained (assuming it _can_ be attained, 
-[in spite of stubborn-stupid vaccine resistance]({{ site.baseurl }}/2021-03-10-republicans-vs-herd-immunity/).  
+[in spite of stubborn-stupid vaccine resistance]({{ site.baseurl }}/republicans-vs-herd-immunity/).  
 
 
 ## The real reason  
