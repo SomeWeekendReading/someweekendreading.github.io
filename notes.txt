@@ -301,6 +301,11 @@ Notes on blogging tech.
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* How mRNA is different in a vaccine:
+  https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+* Politics & econ:
+  https://www.ajpmonline.org/article/S0749-3797(21)00135-5/fulltext
+  https://www.nytimes.com/2021/02/02/opinion/sunday/democrats-economy.html
 * Millionaire next door vs Bayes
 * Zombies & 99% vs 99.9%
   https://www.quora.com/Measurements/When-is-the-difference-between-99-accuracy-and-99-9-accuracy-very-important#
@@ -308,7 +313,8 @@ Blog posts:
   https://www.calculatedriskblog.com/2021/01/question-3-for-2021-what-will.html
   https://www.calculatedriskblog.com/2021/04/march-employment-report-916-thousand.html
   https://www.calculatedriskblog.com/2021/04/comments-on-march-employment-report.html
-* SIR modeling of COVID-19
+* SIRD modeling of COVID-19
+  https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIRD_model
   scientists weren't ready to be so wrong in their assumptions... about politicians
   https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/
   "using a model effectively is harder than just doing the math"
@@ -338,7 +344,8 @@ Blog posts:
 * Continued fraction expansion of probability distributions
 * Rational polynomial models of the treasury yield curve
 * The Numen and the Noumenon (Gnosis and Phronesis?)
-* Sutor, non ultra crepidam!
+* ne sutor ultra crepidam! (original: ne supra crepidam sutor iudicaret, Piny the Elder,
+  Historia Naturalis, about Apelles).  "Contra ultracrepidarianism"
 * Meyers-Briggs Type Inventory: Valid Personality Test, or HR Woo?
 * My retirement portfolio
 * Railgun vs reality: the hopeless thermodynamics
