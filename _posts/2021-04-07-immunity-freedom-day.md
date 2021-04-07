@@ -15,9 +15,7 @@ Recall that a vaccine efficacy of 95% means that I now have 5% of the probabilit
 time of getting COVID-19 as an unvaccinated person in similar exposure circumstances:
 
 $$
-\begin{align}
 \mbox{efficacy} = 100.0 * \left( 1 - \frac{\Pr(\mbox{infection} | \mbox{vax})}{\Pr(\mbox{infection} | \mbox{non-vax})} \right)
-\end{align}
 $$
 
 It means my risk is dramatically reduced (by 95%) compared to no vaccine at all, given
