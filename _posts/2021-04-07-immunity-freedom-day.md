@@ -16,7 +16,7 @@ time of getting COVID-19 as an unvaccinated person in similar exposure circumsta
 
 $$
 \begin{align}\label{eq:efficacydefn}
-\mbox{efficacy} = 100.0 * \(1 - \frac{\Pr(\mbox{infection} | \mbox{vax})}{\Pr(\mbox{infection} | \mbox{non-vax})}\)
+\mbox{efficacy} = 100.0 * \left\(1 - \frac{\Pr(\mbox{infection} | \mbox{vax})}{\Pr(\mbox{infection} | \mbox{non-vax})}\right\)
 \end{align}
 $$
 
