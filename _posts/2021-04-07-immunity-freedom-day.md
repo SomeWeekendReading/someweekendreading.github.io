@@ -45,3 +45,14 @@ vaccinees), and decide about the safety of a summer holiday.  Though, truth be t
 really, _really_ miss [the Club Med in the Bahamas](https://www.clubmed.us/r/columbus-isle/y),
 but that's not open until December 2021.  Anybody want to join us there in December or
 January?  
+
+---
+
+## Notes &amp; References  
+
+<!--
+<sup id="fn1a">[[1]](#fn1)</sup>
+<a id="fn1">1</a>: [↩](#fn1a)  
+-->
+
+<a id="fn1">1</a>: Nope, no time for notes today.  Out makin' antibodies &amp; teachin' memory B cells stuff.  [↩](#fn1a)  
