@@ -113,11 +113,11 @@ October.  Just in time for winter, like flu vaccines.
 ## What about vaccine resistance?  
 
 Yeah, what about the vaccine resisters?  They'll be the demented knuckleheads they've
-always been.  Maybe more: yet another vaccine will almost certainly make them scream "I
+always been.  Maybe more: yet another variant will almost certainly make them scream "I
 told you so"&hellip; though exactly _what_ they allegedly told us will remain vague.  
 
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-reuters-chip.jpg" width="400" height="196" alt="Reuters: vaccine does not microchip you, if you're dumb enough to ask" title="Reuters: vaccine does not microchip you, if you're dumb enough to ask" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-And the conspiracy theories will become more florid, almost psychotic.  For example,
+And the conspiracy theories will become more floridly psychotic.  For example,
 consider the arrant nonsense that the COVID-19 vaccines will inject you with a 
 microchip <sup id="fn8a">[[8]](#fn8)</sup>, so that Bill Gates or George Soros or
 _somebody_ will be able to&hellip; _something_.  
@@ -206,9 +206,10 @@ paper <sup id="fn11a">[[11]](#fn11)</sup>, whose conclusions we can now analyze 
 - However, they sound a cautionary note: the exact levels of antibody and T cell response
   needed to confer immunity is not known, they just note that it's been observed.
 
-So&hellip; that's good news.  I'm still an anxious, depressed, cranky old scientist
-though: still betting (probability ~ 60%) that a booster will be necessary in the
-fall of 2021.  
+So&hellip; that's good news.  
+
+I'm still an anxious, depressed, cranky old scientist though: still betting (probability ~
+60%) that a booster will be necessary in the fall of 2021.  
 
 ---
 

@@ -29,7 +29,7 @@ check all the local hospitals that show any availability, in fact check every si
 Nothing.  
 
 <img src="{{ site.baseurl }}/images/2021-03-31-weekend-editrix-got-shot-boston-magazine.jpg" width="400" height="288" alt="Boston Magazine: tips for finding a vaccine slot" title="Boston Magazine: tips for finding a vaccine slot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-So I tried a hack I'd heard about from several sources, and which finally appeared in
+So I tried a hack I'd heard about from several sources, and which most recently appeared in
 _Boston Magazine_. <sup id="fn1a">[[1]](#fn1)</sup>  (Of course, since it's now public,
 the 'hole' will almost certainly be patched, because everything is optimized to keep all
 of us maximally frustrated.)  Here's the trick, in broad outline, to coax a vaccine 
