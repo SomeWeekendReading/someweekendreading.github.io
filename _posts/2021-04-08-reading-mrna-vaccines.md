@@ -20,7 +20,7 @@ the vaccine, since there's _very_ elaborate chemistry in the lipid nanocapsule, 
 set of buffers and preservatives to make it go into solution in a useful way, and about a
 squillion other things.  It's a bit like knowing the instruction set of a computer: if you
 think that makes you able to _build_ a computer, you're 
-[a couple conses short of a cold load](https://ml.cddddr.org/bug-lispm/msg00265.html).  
+[a couple conses shy of a cold load](https://ml.cddddr.org/bug-lispm/msg00265.html).  
 
 While an argument can be made that this is proprietary intellectual property, the
 counterargument runs that it is (a) an insignificant slice of the total IP necessary to do
