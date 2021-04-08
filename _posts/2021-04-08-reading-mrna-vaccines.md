@@ -122,7 +122,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
   - There's one other change (A &rarr; U) that prevents the formation of a hairpin RNA,
     that would bind to itself too tightly to be of  use.  __Biohack #5.__  
 - Next are 3777 bases that code for the spike protein amino acids.  
-  - They've also got a lot  of synthesis.  __Biohack #6.__  
+  - They've also got a lot  of synthesis-ehancing GC increases.  __Biohack #6.__  
   - But then there's __biohack #7:__ in exactly 2 places, the amino acid in the
     resulting protein is actually _changed_ to proline instead.  Why?  
     - In the actual virus, the shape of the spike protein is stabilized by being attached
