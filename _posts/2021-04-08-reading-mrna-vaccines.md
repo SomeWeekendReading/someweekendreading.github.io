@@ -146,7 +146,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
   - This is so the mRNA can be _re-used many times_: it loses a few A's at the end each time
     through the ribosome so to make it get used a lot they provided a lot of A's.
     __Biohack #10.__  
-  - Finally, there's a funny linker (GCAUAUGACU)) that breaks up the poly-A tail into segments.
+  - Finally, there's a funny linker (GCAUAUGACU) that breaks up the poly-A tail into segments.
     This is _well beyond_ anything I know much about, but apparently there's a paper 
 	<sup id="fn4a">[[4]](#fn4)</sup> saying that segmented tails make everything better in
     some complex ways.  So that's __biohack #11.__  
