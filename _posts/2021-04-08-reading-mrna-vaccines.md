@@ -116,7 +116,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
 ```
   - But wait, there's more!  There are a number of changes here between the vaccine
     version and the viral version.  Each time it changes a U/&Psi; to a C, in ways that
-    _do not affect_ the protein being made (e.g., UUU -> UUC is a synonymous
+    _do not affect_ the protein being made (e.g., UUU &rarr; UUC is a synonymous
     substitution).  This is because RNA with higher GC content gets converted more
     efficiently to protein.  __Biohack #4.__  
   - There's one other change (A &rarr; U) that prevents the formation of a hairpin RNA,
@@ -139,9 +139,9 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
     the end of the protein.  The actual virus has only 1 stop codon, so this is 
      __biohack #8.__  
 - Then there's the 3' UTR.  These are somehat mysterious beasts today, but they have
-  something to do with protien stability, rate of translation, and a few other things.
+  something to do with protein stability, rate of translation, and a few other things.
   Pfizer scientists here picked a particularly efficient one of the the human genome (the
-  12S riobosomal protien).  So that's __biohack #9.__  
+  12S riobosomal protein).  So that's __biohack #9.__  
 - Then there's the poly-A tail: polyadenylation means a lot of AAAAAAA's at the end.  
   - This is so the mRNA can be _re-used many times_: it loses a few A's at the end each time
     through the ribosome so to make it get used a lot they provided a lot of A's.
