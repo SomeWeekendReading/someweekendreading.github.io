@@ -127,17 +127,17 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
     resulting protein is actually _changed_ to proline instead.  Why?  
     - In the actual virus, the shape of the spike protein is stabilized by being attached
       to the rest of the virus particle.  
-	- But in the vaccine, we have _just_ the spike, and in its original form it's not
+    - But in the vaccine, we have _just_ the spike, and in its original form it's not
       stable.  It would fold up the wrong way, and your body would produce antibodies that
       don't correspond to what's on the actual virus. This was a discoery of the 
-	  [Mclellan group at UT Austin](https://www.mclellanlab.org/), in their 2017 work on 
-	  the MERS virus <sup id="fn3a">[[3]](#fn3)</sup>: if you substitute proline, it gets
+      [Mclellan group at UT Austin](https://www.mclellanlab.org/), in their 2017 work on 
+      the MERS virus <sup id="fn3a">[[3]](#fn3)</sup>: if you substitute proline, it gets
       more rigid and stays in the right shape.  (Once again, we're very lucky: RNA
       vaccines came along at just the right time, and our previous knowledge of MERS and
       SARS prepared us for being able to make the COVID-19 vaccine.)  
-	- The protein ends with 2 stop codons, i.e., instructions to the ribosome that this is
-      the end of the protein.  The actual virus has only 1 stop codon, so this is 
-	  __biohack #8.__  
+  - The protein ends with 2 stop codons, i.e., instructions to the ribosome that this is
+    the end of the protein.  The actual virus has only 1 stop codon, so this is 
+     __biohack #8.__  
 - Then there's the 3' UTR.  These are somehat mysterious beasts today, but they have
   something to do with protien stability, rate of translation, and a few other things.
   Pfizer scientists here picked a particularly efficient one of the the human genome (the
@@ -148,7 +148,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
     __Biohack #10.__  
   - Finally, there's a funny linker (GCAUAUGACU) that breaks up the poly-A tail into segments.
     This is _well beyond_ anything I know much about, but apparently there's a paper 
-	<sup id="fn4a">[[4]](#fn4)</sup> saying that segmented tails make everything better in
+    <sup id="fn4a">[[4]](#fn4)</sup> saying that segmented tails make everything better in
     some complex ways.  So that's __biohack #11.__  
 
 
