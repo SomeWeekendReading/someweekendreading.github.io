@@ -10,7 +10,7 @@ vaccines, if you could just read it?  With some help, you can now do exactly tha
 
 ## Availability of the mRNA sequences and what that doesn't mean  
 
-As we [reported earlier this month]({{ site.baseurl }}vaccine-mRNA-seq-on-github/), the
+As we [reported earlier this month]({{ site.baseurl }}/vaccine-mRNA-seq-on-github/), the
 mRNA sequences for both the Pfizer and Moderna vaccines have been posted on 
 [GitHub](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273).  
 
@@ -80,7 +80,7 @@ modularity, i.e., we can point to bits of it and explain what they, and only the
   - Your body realio-trulio despises the idea of foreign DNA or RNA running around loose.
     Might be a virus, or something.  So it will utterly destroy the natural RNA as it came
     from SARS-CoV-2, faster than it could be of any use in vaccination.  
-  - To prevent that, we need __biohack &num;1__: change every uracil (U) to
+  - To prevent that, we need __biohack #1__: change every uracil (U) to
     1-methyl-3'-pseudouridylyl (&Psi;).  It doesn't matter exactly what that &Psi; is, so
     long as you understand its kinda like U in terms of what a ribosome will do, but
     different enough not to trigger alarms in the immune system that get it destroyed.  
@@ -103,7 +103,7 @@ modularity, i.e., we can point to bits of it and explain what they, and only the
     it.  Pfizer has supplied here a 5' UTR that says _make a boatload of this protein, and
     do it right this very minute_, cribbed from the alpha globin 
     gene <sup id="fn2a">[[2]](#fn2)</sup>, but tweaked even harder to force more protein.
-    This is __biohack &num;2__.
+    This is __biohack #2__.
 - Next up is a short bit called the S glycoprotein signal peptide.  
   - This says what to do with the protein once the ribosome has made it.  The version in
     the vaccine says to export it via the endoplasmic reticulum, which ends up displaying
@@ -118,12 +118,12 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
     version and the viral version.  Each time it changes a U/&Psi; to a C, in ways that
     _do not affect_ the protein being made (e.g., UUU -> UUC is a synonymous
     substitution).  This is because RNA with higher GC content gets converted more
-    efficiently to protein.  __Biohack &num;4.__  
+    efficiently to protein.  __Biohack #4.__  
   - There's one other change (A &rarr; U) that prevents the formation of a hairpin RNA,
-    that would bind to itself too tightly to be of  use.  __Biohack &num;5.__  
+    that would bind to itself too tightly to be of  use.  __Biohack #5.__  
 - Next are 3777 bases that code for the spike protein amino acids.  
-  - They've also got a lot  of synthesis.  __Biohack &num;6.__  
-  - But then there's __biohack &num;7:__ in exactly 2 places, the amino acid in the
+  - They've also got a lot  of synthesis.  __Biohack #6.__  
+  - But then there's __biohack #7:__ in exactly 2 places, the amino acid in the
     resulting protein is actually _changed_ to proline instead.  Why?  
     - In the actual virus, the shape of the spike protein is stabilized by being attached
       to the rest of the virus particle.  
@@ -137,19 +137,19 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
       SARS prepared us for being able to make the COVID-19 vaccine.)  
 	- The protein ends with 2 stop codons, i.e., instructions to the ribosome that this is
       the end of the protein.  The actual virus has only 1 stop codon, so this is 
-	  __biohack &num;8.__  
+	  __biohack #8.__  
 - Then there's the 3' UTR.  These are somehat mysterious beasts today, but they have
   something to do with protien stability, rate of translation, and a few other things.
   Pfizer scientists here picked a particularly efficient one of the the human genome (the
-  12S riobosomal protien).  So that's __biohack &num;9.__  
+  12S riobosomal protien).  So that's __biohack #9.__  
 - Then there's the poly-A tail: polyadenylation means a lot of AAAAAAA's at the end.  
   - This is so the mRNA can be _re-used many times_: it loses a few A's at the end each time
     through the ribosome so to make it get used a lot they provided a lot of A's.
-    __Biohack &num;10.__  
+    __Biohack #10.__  
   - Finally, there's a funny linker (GCAUAUGACU)) that breaks up the poly-A tail into segments.
     This is _well beyond_ anything I know much about, but apparently there's a paper 
 	<sup id="fn4a">[[4]](#fn4)</sup> saying that segmented tails make everything better in
-    some complex ways.  So that's __biohack &num;11.__  
+    some complex ways.  So that's __biohack #11.__  
 
 
 ## What's it all mean?  
