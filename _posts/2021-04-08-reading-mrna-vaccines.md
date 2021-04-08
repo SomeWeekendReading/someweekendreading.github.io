@@ -184,4 +184,4 @@ Be thankful.
 <a id="fn3">3</a>: J Pallesen, _et al.,_ ["mmunogenicity and structures of a rationally designed prefusion MERS-CoV spike antigen"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584442/),
 _Proc Natl Acad Sci USA_ 114:35 (2017-Aug-29), E7348-E7357. PMC5584442. [↩](#fn3a)  
 
-<a id="fn4">4</a>: Z Trepotec, _et al.,_, ["Segmented poly(A) tails significantly reduce recombination of plasmid DNA without affecting mRNA translation efficiency or half-life"](https://rnajournal.cshlp.org/content/25/4/507.long), _RNA Journal_, 2019-Jan-15. DOI: 10.1261/rna.069286.118. [↩](#fn4a)  
+<a id="fn4">4</a>: Z Trepotec, _et al.,_ ["Segmented poly(A) tails significantly reduce recombination of plasmid DNA without affecting mRNA translation efficiency or half-life"](https://rnajournal.cshlp.org/content/25/4/507.long), _RNA Journal_, 2019-Jan-15. DOI: 10.1261/rna.069286.118. [↩](#fn4a)  
