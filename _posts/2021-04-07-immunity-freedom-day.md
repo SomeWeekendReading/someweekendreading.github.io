@@ -34,7 +34,7 @@ That will change once herd immunity is attained (assuming it _can_ be attained,
 ## The real reason  
 
 Of course, I have an ulterior motive.  No, nothing about being a scientist doing drug
-research in the past; take your Big Pharma conspiracy theories elsewhere.  Trust me,
+research in the past; take your Big Pharma conspiracy theories elsewhere.  Trust me:
 they were smart, but not _that_ smart.  
 
 No, my real ulterior motive: the Weekend Editrix doesn't reach her Immunity Freedom Day

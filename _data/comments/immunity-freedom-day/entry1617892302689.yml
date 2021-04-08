@@ -1,7 +1,7 @@
 _id: 2341b110-9877-11eb-9da3-6fc8ec86851c
 _parent: 'https://www.someweekendreading.blog/immunity-freedom-day/'
 replying_to_uid: 7c2e00b0-9874-11eb-9da3-6fc8ec86851c
-message: "Yes, that's right: the vaccine efficacy as measured in the clinical trials is a _population_ measure, not an individual one.  We can't distinguish between average risk (your alternative 1) vs subpopulation risk (your alternative 2).  \r\n\r\nMore about efficacy and confidence intervals [here](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-confidence-intervals/), complete with worked numerical examples, R scripts, plots, and lions &amp; tigers &amp; bears, oh my!"
+message: "Yes, that's right: the vaccine efficacy as measured in the clinical trials is a _population_ measure, not an individual one.  We can't distinguish between average risk (your alternative 1) vs subpopulation risk (your alternative 2).  \r\n\r\nMore about efficacy and confidence intervals [here](https://www.someweekendreading.blog/pfizer-vaccine-efficacy-confidence-intervals/), complete with worked numerical examples, R scripts, plots, and lions &amp; tigers &amp; bears, oh my!  \r\n\r\nAnd BTW, the J&amp;J South African trials found [vastly different efficacy between the HIV+ and HIV- populations]({{ site.baseurl }}/jnj-vaccine-relatively-pretty/#added-2021-jan-30-derek-lowe-weighs-in), so we know that alternative 2 can in fact occur for people whose immune system has been messed up.  "
 name: Weekend Editor
 email: 010f4d7f15648514f32028d9aaf2f115
 hp: ''
