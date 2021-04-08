@@ -12,7 +12,7 @@ vaccines, if you could just read it?  With some help, you can now do exactly tha
 
 As we [reported earlier this month]({{ site.baseurl }}/vaccine-mRNA-seq-on-github/), the
 mRNA sequences for both the Pfizer and Moderna vaccines have been posted on 
-[GitHub](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273).  
+[GitHub](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-SmRNA-1273).  
 
 People have said all sorts of damn fool things about mRNA vaccines in general, and about
 this new reopsitory in particular.  It is _not_ a recipe for making your own version of
@@ -155,7 +155,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
 ## What's it all mean?  
 
 This bit of mRNA has been _considerably_ engineered by Pfizer to optimize for getting past
-the immune system, optimizing for protein translation speed and amount in several ways,
+the immune system, optimizing for protein translation speed &amp; amount in several ways,
 improving the stability of the spike protein away from the rest of the virus, and so on.  
 
 Bert has guided us through the weeds to see at least 11 biohacks to do this.  Really, go
