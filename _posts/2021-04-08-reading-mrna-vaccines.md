@@ -75,8 +75,8 @@ modularity, i.e., we can point to bits of it and explain what they, and only the
   comparisons to computer code, since those are inevitably misleading, but this really
   does look like a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)).  
 - Now, I just got done telling you an mRNA sequence was a string of letters from the
-  alphabet of ACGU.  But&hellip; what's that thing that looks like a capital &Psi; in
-  Greek doing in there?!  Well!  
+  alphabet of ACGU.  But&hellip; what's that thing that looks like a capital Greek &Psi;
+  doing in there?  [Well!]({{ site.baseurl}}/moderna-vaccine-passes-vrbpac-review/#fn2)  
   - Your body realio-trulio despises the idea of foreign DNA or RNA running around loose.
     Might be a virus, or something.  So it will utterly destroy the natural RNA as it came
     from SARS-CoV-2, faster than it could be of any use in vaccination.  
