@@ -107,7 +107,8 @@ modularity, i.e., we can point to bits of it and explain what they, and only the
 - Next up is a short bit called the S glycoprotein signal peptide.  
   - This says what to do with the protein once the ribosome has made it.  The version in
     the vaccine says to export it via the endoplasmic reticulum, which ends up displaying
-    the protein on the cell surface for the immune system to see, and freak out about.  
+    the protein on the cell surface for the immune system to see, and freak out about.
+    Here's part of Bert's comparison, calling out the changes with "!":  
 ```
           3   3   3   3   3   3   3   3   3   3   3   3   3   3   3   3
 Virus:   AUG UUU GUU UUU CUU GUU UUA UUG CCA CUA GUC UCU AGU CAG UGU GUU
