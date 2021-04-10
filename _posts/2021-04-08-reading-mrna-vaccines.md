@@ -61,15 +61,15 @@ So let's break down how that sequence works.  It turns out it has some degree of
 modularity, i.e., we can point to bits of it and explain what they, and only they, do.  
 - Both graphics above came from 
   [the WHO report]({{ site.baseurl }}/assets/2021-04-08-reading-mrna-vaccines-11889.doc)
-  from the International Nonproprietary Names Programme in September 2020, though the
-  original now seems to have been moved somewhere else.  
+  from the International Nonproprietary Names Programme in September 2020 (though the
+  original now seems to have been moved somewhere else).  
 - mRNA consists of a chain of 4 nucleoties/bases: adenosine (A), cytosine (C), guanine
   (G), and uracil (U).  So the sequence above (almost) tells you how to put those 4
   nucleotides together to make something.  That "something" gets fed through a ribosome,
-  which through outrageous Rube Golberg machinery, assembles a corresponding protein out
+  which through outrageous Rube Goldberg machinery, assembles a corresponding protein out
   of amino acids.  The proteins go off and do all sorts of things, like mostly
   everything.  
-- In order for a ribosome to recognize mRNA a meaningful, there has to be a handshake:
+- In order for a ribosome to recognize mRNA a meaningful, there has to be a recognition handshake:
   this is the GA cap at the front.  To a ribosome, this means: "you can process this".
   So that's the "cap" thing on the left end, where a ribosome starts looking.  I dislike
   comparisons to computer code, since those are inevitably misleading, but this really

@@ -301,6 +301,7 @@ Notes on blogging tech.
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
+* Google translate reviews
 * Politics & econ:
   https://www.ajpmonline.org/article/S0749-3797(21)00135-5/fulltext
   https://www.nytimes.com/2021/02/02/opinion/sunday/democrats-economy.html
@@ -405,3 +406,5 @@ https://talkingpointsmemo.com/edblog/will-you-take-the-pledge
 
 --------------------------------------------------------------------------------
 
+Zvi: https://thezvi.wordpress.com/2021/04/09/covid-4-9-another-vaccine-passport-objection/
+As people take more risks and the new strains dominate, we’ve settled into about a 10% week over week growth in positive rates, but due to vaccinations death rates continue to decline. That means that one’s risk as an unvaccinated person continues to rise, even as risk on a population level goes down. With everyone eligible now or at least soon, I’d urge once again for everyone who isn’t yet vaccinated to schedule an appointment as soon as possible.
