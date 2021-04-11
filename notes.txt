@@ -296,6 +296,8 @@ Notes on blogging tech.
     (Kramdown developer acknowledges bug; will fix in next release)
     Test workaround to emit entities as entities, not single chars?
 
+cacoethes is an irresistible urge to do something unadvisable.
+
 *** tags field on about, 404, and quotes: doesn't know to split on spaces?
 
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
@@ -408,3 +410,43 @@ https://talkingpointsmemo.com/edblog/will-you-take-the-pledge
 
 Zvi: https://thezvi.wordpress.com/2021/04/09/covid-4-9-another-vaccine-passport-objection/
 As people take more risks and the new strains dominate, we’ve settled into about a 10% week over week growth in positive rates, but due to vaccinations death rates continue to decline. That means that one’s risk as an unvaccinated person continues to rise, even as risk on a population level goes down. With everyone eligible now or at least soon, I’d urge once again for everyone who isn’t yet vaccinated to schedule an appointment as soon as possible.
+
+Posts for Zvi:
+COVID stuff:
+https://www.someweekendreading.blog/reading-mrna-vaccines/
+https://www.someweekendreading.blog/variants-vs-vaccines/
+https://www.someweekendreading.blog/azox-vaccine-thrombo/
+https://www.someweekendreading.blog/republicans-vs-herd-immunity/
+https://www.someweekendreading.blog/jnj-vaccine-vrbpac-review/
+https://www.someweekendreading.blog/coronavirus-mutation-vs-vaccine/
+https://www.someweekendreading.blog/beautiful-vaccines-2/
+https://www.someweekendreading.blog/pfizer-vaccine-efficacy-confidence-intervals/
+https://www.someweekendreading.blog/beautiful-vaccines/
+https://www.someweekendreading.blog/astrazeneca-oxford-vaccine-readout/
+https://www.someweekendreading.blog/moderna-vaccine-efficacy-data/
+https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/
+https://www.someweekendreading.blog/wastewater-corona-virus-rna-vs-medical-loads/
+https://www.someweekendreading.blog/covid-vs-statins-ace-inhibitors/
+
+Random science:
+https://www.someweekendreading.blog/wow-signal/
+
+Math in politics:
+https://www.someweekendreading.blog/filibusters/
+https://www.someweekendreading.blog/republican-impeachment-votes/
+https://www.someweekendreading.blog/covid-loves-republicans/
+https://www.someweekendreading.blog/who-voted/
+https://www.someweekendreading.blog/night-of-the-living-beta-binomials/
+https://www.someweekendreading.blog/whats-that-stupid-avatar/
+https://www.someweekendreading.blog/bpd-racial-makeup/
+
+Randomly weird/funny/beautiful stuff:
+https://www.someweekendreading.blog/free-bird/
+https://www.someweekendreading.blog/pandemic-in-retrospect/
+https://www.someweekendreading.blog/pi-day/
+https://www.someweekendreading.blog/i-guess-i-like-dolly-parton/
+https://www.someweekendreading.blog/moderna-struck-by-lightning/
+https://www.someweekendreading.blog/solstice-vs-dodds-day/
+https://www.someweekendreading.blog/le-chat-noir/
+https://www.someweekendreading.blog/in-autumn-in-new-england-thoughts-turn-to/
+https://www.someweekendreading.blog/retirement-of-iphegenia/

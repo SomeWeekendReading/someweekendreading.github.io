@@ -22,7 +22,7 @@ It means my risk is dramatically reduced (by 95%) compared to no vaccine at all,
 similar exposures.  It does not mean I'm bullet-proof.  In particular, it _does not mean_
 that I can engage in COVID-risky behavior with wild abandon!  
 
-Also, since the vaccine suppresses serious COVID (hospitaliztion/death), I could
+Also, since the vaccine suppresses serious COVID (hospitalization/death), I could
 nonetheless be an asymptomatic carrier and thus a danger to those around me who are as yet
 unvaccinated.  Vaccines are about protecting yourself, and about not being a jerk to
 everyone who comes near you, too.  
