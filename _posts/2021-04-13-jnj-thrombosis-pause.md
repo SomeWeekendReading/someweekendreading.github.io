@@ -88,9 +88,11 @@ $$
 ## Some risk comparisons  
 
 Ok, so how serious is that risk of a probability rate of thromboses of
-$8.82 \times 10^{-7}/\mathrm{fortnight}$?  Let's compare with other risks.  Is this
+$8.82 \times 10^{-7}$ per fortnight?  Let's compare with other risks to see if this is
 something to worry about, or do you have a greater chance of being run over by a car on
-your way to your vaccine appointment?  Some less silly comparisons:  
+your way to your vaccine appointment?  
+
+Some less silly comparisons:  
 
 - _Compare with COVID-19 death risk in US:_ In the first year of the pandemic, there were
   roughly 500k deaths in the US, in a population of about 328 million.  Since we're
@@ -99,7 +101,7 @@ your way to your vaccine appointment?  Some less silly comparisons:
   from not being vaccinated.  
 $$
 \begin{align*}
-  \Pr(\mathrm{covid death} | \mathrm{no vax}) & = (500000/\mathrm{yr}) / (328e+06 * 26 \mathrm{fortnight}/\mathrm{yr}) \\
+  \Pr(\mathrm{covid death} | \mathrm{no vax}) & = (500000/\mathrm{yr}) / (328 \times 10^{+6} * 26 \mathrm{fortnight}/\mathrm{yr}) \\
                                               & = 5.86 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
@@ -110,8 +112,8 @@ $$
   There's about _100x higher risk_ of thrombosis in the general population.  
 $$
 \begin{align*}
-  \Pr(\mathrm{thrombosis}) & = (300000/\mathrm{yr to }600000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
-                           & = 3.52 \times 10^{-5}/\mathrm{fortnight to }7.04 \times 10^{-5}/\mathrm{fortnight}
+  \Pr(\mathrm{thrombosis}) & = (300000/\mathrm{yr} - 600000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
+                           & = 3.52 \times 10^{-5}/\mathrm{fortnight} - 7.04 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -126,7 +128,7 @@ $$
 $$
 \begin{align*}
   \Pr(\mathrm{CSVT}) & = 15.7 \times 10^{-6}/\mathrm{yr} * 1\mathrm{yr}/26 \mathrm{fortnights} \\
-                     & = 6.04 \times 10^{-7}/fortnight
+                     & = 6.04 \times 10^{-7}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -139,8 +141,8 @@ $$
   present _100x higher risk_ of blood clots than this vaccine.  
 $$
 \begin{align*}
-  \Pr(\mathrm{clot} | \mathrm{birth control pills}) & = 0.003\mathrm{ to }0.01/10 \mathrm{year} * 1 \mathrm{year}/26 \mathrm{fortnights} \\
-                                                    & = 1.15 \times 10^{-5}/\mathrm{fortnight} - 3.85 \times 10^{-5}/\mathrm{fortnight}
+  \Pr(\mathrm{clot} | \mathrm{birthcontrol}) & = 0.003\mathrm{ to }0.01/10 \mathrm{year} * 1 \mathrm{year}/26 \mathrm{fortnights} \\
+                                             & = 1.15 \times 10^{-5}/\mathrm{fortnight} - 3.85 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -155,8 +157,8 @@ $$
   CSVT from JnJ.  
 $$
 \begin{align*}
-  \Pr(\mathrm{anaphylaxis} | \mathrm{mRNA first dose}) & = 21 / 1,893,360 \\
-                                                       &  = 1.1 \times 10^{-5}
+  \Pr(\mathrm{anaphylaxis} | \mathrm{mRNA}) & = 21 / 1,893,360 \\
+                                            &  = 1.1 \times 10^{-5}
 \end{align*}
 $$
 
