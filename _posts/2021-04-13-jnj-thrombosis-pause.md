@@ -155,7 +155,7 @@ $$
   CSVT from JnJ.  
 $$
 \begin{align*}
-  \Pr(\mathrm{anaphylaxis} | \mathrm{mRNA first dose}) & = 21 / 1893360 \\
+  \Pr(\mathrm{anaphylaxis} | \mathrm{mRNA first dose}) & = 21 / 1,893,360 \\
                                                        &  = 1.1 \times 10^{-5}
 \end{align*}
 $$
@@ -167,7 +167,7 @@ $$
   __Conclusion:__ This is about 10x the risk with JnJ.  
 $$
 \begin{align*}
-  \Pr(\mathrm{thromb} | \mathrm{vax}) & = (222/\mathrm{fortnight}) / 34e+06 \\
+  \Pr(\mathrm{thromb} | \mathrm{vax}) & = (222/\mathrm{fortnight}) / 34 \times 10^{+6} \\
                                       & = 6.53 \times 10^{-6}/\mathrm{fortnight}
 \end{align*}
 $$
@@ -176,26 +176,34 @@ $$
 
 It looks like the risks are in favor of using the JnJ vaccines.  Comparing the rate of
 events in the 2 weeks post vaccination:
-- You're 100x more likely to die of COVID than of a JnJ associated CSVT  
-- You're 100x more likely to get a general thrombosis than anything associated with JnJ  
-- You're at about the same risk of CSVT whether you take the JnJ vaccine or not  
-- You're 100x more likely to get blood clots from birth control pills than JnJ  
-- You're 100x more likely to get anaphylactic shock from mRNA vaccines than CSVT from JnJ  
-- You're about 10x more likely to get CSVT from AZ/OX than from JnJ.
+- You're 100x more likely to die of COVID than of a JnJ associated CSVT.  
+- You're 100x more likely to get a general thrombosis than anything associated with JnJ.  
+- You're at about the same risk of CSVT whether you take the JnJ vaccine or not.  
+- You're 100x more likely to get blood clots from birth control pills than JnJ.  
+- You're 100x more likely to get anaphylactic shock from mRNA vaccines than CSVT from JnJ.  
+- You're about 10x more likely to get CSVT from AZ/OX than from JnJ.  
 
 So overall, the risk of CSVT from the JnJ vaccine looks _less than_ the risks of other
-reasonable behaviors, and _no worse than_ the general risk of CSVT anyway.  __However:__
-if the identification of younger women as a higher risk group for CSVT holds up (see ACIP
-meeting tomorrow!) then it makes sense to pause and put in place 2 things:  
-1. Directions for patients experiencing severe headaches, difficulty breathing, or pain in
-   legs or abdomen within 2 weeks of vaccination to go immediately to an ER and say what
-   happened.  
+reasonable behaviors, and _no worse than_ the general risk of CSVT anyway.  
+
+__However:__ if the identification of younger women as a higher risk group for CSVT holds
+up (see ACIP meeting tomorrow!) then it makes sense to pause _briefly_ and put in place 2 things:  
+
+1. Direct patients experiencing severe headaches, difficulty breathing, or pain in
+   legs or abdomen within 2 weeks of vaccination to go immediately to an ER; say what
+   happened and mention the usual heparin therapy is _not_ a good idea.  
 2. Direct younger women away from JnJ and toward either Pfizer or Moderna.  
 
-We can't tell if that's what's happening now, but it does appear to be.  
+The pause needs to be brief, because every day we force people to go unvaccinated, they're
+exposed to risk of death or disability from COVID-19, and that risk is 100x the risk of
+CSVT from the JnJ vaccine.  
 
-__TBD:__ I really should add confidence limits on the above probabilities, given how often
-I've whined at other people for _not_ doing so!  
+We can't tell if that's _exactly_ what's happening now, but it does appear to be.  Or so
+one may hope.  
+
+__TBD:__ I really should add 95% confidence limits on the above probabilities, given how often
+I've whined at other people for _not_ doing so!  The 100x differences in probability are
+likely to be significant, but it's always good to be explicit about that.  
 
 ---
 
@@ -206,7 +214,8 @@ I've whined at other people for _not_ doing so!
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Z Miller, ["US recommends pausing Johnson & Johnson COVID-19 vaccine to investigate clotting reports"](https://www.bostonglobe.com/2021/04/13/nation/us-recommends-pause-single-dose-jophnson-johnson-covid-19-vaccine-investigate-clotting-reports/), _Boston Globe_, 2021-Apr-13. [↩](#fn1a)  
+
+<a id="fn1">1</a>: Z Miller, ["US recommends pausing Johnson & Johnson COVID-19 vaccine to investigate clotting reports"](https://www.bostonglobe.com/2021/04/13/nation/us-recommends-pause-single-dose-johnson-johnson-covid-19-vaccine-investigate-clotting-reports/), _Boston Globe_, 2021-Apr-13. [↩](#fn1a)  
 
 <a id="fn2">2</a>: N Weiland, S LaFraniere, C Zimmer, ["U.S. Calls for Pause on Johnson & Johnson Vaccine After Clotting Cases"](https://www.nytimes.com/2021/04/13/us/politics/johnson-johnson-vaccine-blood-clots-fda-cdc.html), _New York Times_, 2021-Apr-13. [↩](#fn2a)  
 
