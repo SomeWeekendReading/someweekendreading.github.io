@@ -174,6 +174,7 @@ $$
 \end{align*}
 $$
 
+
 ## Conclusion&hellip; for now  
 
 It looks like the risks are in favor of using the JnJ vaccines.  Comparing the rate of
@@ -224,10 +225,10 @@ likely to be significant, but it's always good to be explicit about that.
 
 <a id="fn3">3</a>: H Branswell, ["U.S. urges pause on use of Johnson & Johnson Covid-19 vaccine after rare blood clotting cases"](https://www.statnews.com/2021/04/13/u-s-urges-pause-on-use-of-johnson-johnson-covid-19-vaccine-after-rare-blood-clotting-cases/), _STAT News_, 2021-Apr-13. [↩](#fn3a)  
 
-<a id="fn4">4</a>: P Marks (Director, CBER), ["Joint CDC and FDA Statement on Johnson & Johnson COVID-19 Vaccine"](https://www.fda.gov/news-events/press-announcements/joint-cdc-and-fda-statement-johnson-johnson-covid-19-vaccine), US FDA Press Announcements, 2021-Apr-13. [↩](#fn4a)  
+<a id="fn4">4</a>: P Marks (Director, CBER), ["Joint CDC and FDA Statement on Johnson & Johnson COVID-19 Vaccine"](https://www.fda.gov/news-events/press-announcements/joint-cdc-and-fda-statement-johnson-johnson-covid-19-vaccine), _US FDA Press Announcements_, 2021-Apr-13. [↩](#fn4a)  
 
 <a id="fn5">5</a>: S Devasagayam, _et al.,_ ["Cerebral Venous Sinus Thrombosis Incidence Is Higher Than Previously Thought: A Retrospective Population-Based Study"](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.013617), _Stroke_, 47 (2016-Jul-19), 2180-2182.  DOI: [10.1161/STROKEAHA.116.013617](https://doi.org/10.1161/STROKEAHA.116.013617).[↩](#fn5a)  
 
 <a id="fn6">6</a>: N Todd, ["Birth Control Methods and the Risk of Blood Clots"](https://www.webmd.com/sex/birth-control/birth-control-methods-blood-clot-risk), _WebMD_, 2020-Mar-03. [↩](#fn6a)  
 
-<a id="fn7">7</a>: CDC COVID-19 Response Team, ["Allergic Reactions Including Anaphylaxis After Receipt of the First Dose of Pfizer-BioNTech COVID-19 Vaccine — United States, December 14–23, 2020"](https://www.cdc.gov/mmwr/volumes/70/wr/mm7002e1.htm), CDC Morbidity and Mortality Weekly Report, 2021-Jan-15. [↩](#fn7a)  
+<a id="fn7">7</a>: CDC COVID-19 Response Team, ["Allergic Reactions Including Anaphylaxis After Receipt of the First Dose of Pfizer-BioNTech COVID-19 Vaccine — United States, December 14–23, 2020"](https://www.cdc.gov/mmwr/volumes/70/wr/mm7002e1.htm), _CDC Morbidity and Mortality Weekly Report_, 2021-Jan-15. [↩](#fn7a)  
