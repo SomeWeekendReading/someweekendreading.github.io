@@ -101,7 +101,7 @@ Some less silly comparisons:
   from not being vaccinated.  
 $$
 \begin{align*}
-  \Pr(\mathrm{covid death} | \mathrm{no vax}) & = (500000/\mathrm{yr}) / (328 \times 10^{+6} * 26 \mathrm{fortnight}/\mathrm{yr}) \\
+  \Pr(\mathrm{covid death} | \mathrm{no vax}) & = (500,000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
                                               & = 5.86 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
@@ -112,7 +112,7 @@ $$
   There's about _100x higher risk_ of thrombosis in the general population.  
 $$
 \begin{align*}
-  \Pr(\mathrm{thrombosis}) & = (300000/\mathrm{yr} - 600000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
+  \Pr(\mathrm{thrombosis}) & = (300,000/\mathrm{yr} - 600,000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
                            & = 3.52 \times 10^{-5}/\mathrm{fortnight} - 7.04 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
@@ -141,7 +141,7 @@ $$
   present _100x higher risk_ of blood clots than this vaccine.  
 $$
 \begin{align*}
-  \Pr(\mathrm{clot} | \mathrm{birthcontrol}) & = 0.003\mathrm{ to }0.01/10 \mathrm{year} * 1 \mathrm{year}/26 \mathrm{fortnights} \\
+  \Pr(\mathrm{clot} | \mathrm{birthcontrol}) & = (0.003 - 0.01)/10 \mathrm{year} * 1 \mathrm{year}/26 \mathrm{fortnights} \\
                                              & = 1.15 \times 10^{-5}/\mathrm{fortnight} - 3.85 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
@@ -188,8 +188,9 @@ events in the 2 weeks post vaccination:
 So overall, the risk of CSVT from the JnJ vaccine looks _less than_ the risks of other
 reasonable behaviors, and _no worse than_ the general risk of CSVT anyway.  
 
-__However:__ if the identification of younger women as a higher risk group for CSVT holds
-up (see ACIP meeting tomorrow!) then it makes sense to pause _briefly_ and put in place 2 things:  
+__However:__ Those are the risks to the _general population_; if the identification of
+younger women as a higher risk group for CSVT holds up (see ACIP meeting tomorrow!) then
+it makes sense to pause _briefly_ and put in place 2 things:   
 
 1. Direct patients experiencing severe headaches, difficulty breathing, or pain in
    legs or abdomen within 2 weeks of vaccination to go immediately to an ER; say what
