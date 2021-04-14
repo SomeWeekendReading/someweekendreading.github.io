@@ -226,7 +226,7 @@ pretty much on the same page.
 The ACIP committee is meeting right now.  I'm too burned out on COVID to liveblog it.  
 
 
-## Addendum 2021-Apr-14 evening  
+## Addendum 2021-Apr-14 (evening)  
 
 The ACIP has voted to continue the "pause" for another 7-10 days, while more data is
 gathered.  Their options are:  
@@ -237,13 +237,13 @@ gathered.  Their options are:
 I'm betting that the second option is what they'll choose, once there are some better data
 on subpopulations at risk for thromboses.
 
-And as [science writer Kai Kupferschmidt](https://www.sciencemag.org/author/kai-kupferschmidt)
+And as [science journalist Kai Kupferschmidt](https://www.sciencemag.org/author/kai-kupferschmidt)
 points out, a lot of the risk assessments we did above depend on the denominator.  Are we
 talking about population risk for all JnJ vaccinees, or just women age 18-50?  That
 changes the population by a factor of 10, and thus bumps up the probability by 10x.  The
 conclusion that the risk of CSVT is still less than the risk of COVID death is still
 approximately true, I think &mdash; but it makes the halt to examine subpopulations more
-understanable.  
+understandable.  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
