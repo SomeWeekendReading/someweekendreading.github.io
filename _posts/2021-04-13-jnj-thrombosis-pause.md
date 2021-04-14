@@ -42,7 +42,8 @@ threshold depending on the country.
 <img src="{{ site.baseurl }}/images/2021-04-13-jnj-thrombosis-pause-fda.jpg" width="400" height="159" alt="FDA: Pause JnJ vaccine for clots" title="FDA: Pause JnJ vaccine for clots" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Today, though, the US authorities announced similar, but _very_ rare, effects from the JnJ
 vaccine.  Both JnJ and AZ/OX are viral vector vaccines (JnJ uses a human adenovirus,
-whereas AZ/OX uses a simian adenovirus).  Perhaps the problem is related to viral vector
+whereas AZ/OX uses a simian adenovirus; the Russian Sputnik V vaccine uses two different 
+human adenoviruses).  Perhaps the problem is related to viral vector
 vaccines (called a "class effect"), since no such effect is seen for the mRNA vaccines
 from Pfizer &amp; Moderna? After all, there's only 1 other viral vector vaccine approved
 (JnJ's Ebola vaccine, approved in Europe), so the data are thin on the ground.  
@@ -57,32 +58,34 @@ Peter Marks <sup id="fn4a">[[4]](#fn4)</sup>.
 Synthesizing the reports from these 4 articles, with of course more emphasis on the last 2,
 the situation is pretty clear:  
 - First, a weirdness: the FDA and CDC can say "hey, stop using this emergency medication
-  while we figure out a safety problem", but _states don't have to listen!_  At the state
+  while we figure out a safety problem", but _the states don't have to listen!_  At the state
   level, boards of health can continue to do whatever they want with the vaccine they
-  already have on hand.  That's&hellip; nuts.  To my foreign readers who may be thinking
-  that health care in the US is crazy: why yes, you are correct in that conclusion.  
+  already have on hand.  That's&hellip; nuts.  To my readers outside the US who may be thinking
+  that health care in the US is crazy: why yes; yes, are correct in that conclusion.  
 - The precipitating event was noticing CSVT (like the AZ/OX thromboses in Europe) in 6
   women, aged 18-48.  There had been 6.8 million JnJ doses given at that point, so we're
   talking about a rare event:  
 $$
 \begin{align*}
-  \Pr(\mathrm{thromb death} | \mathrm{vax}) & = (6/\mathrm{fortnight}) / 6.8 \times 10^{+6} \\ 
-                                            & = 8.82 \times 10^{-7}/\mathrm{fortnight}
+  d/dt \Pr(\mathrm{thrombosis.death} | \mathrm{vax}) & = (6/\mathrm{fortnight}) / 6.8 \times 10^{+6} \\ 
+                                                     & = 8.82 \times 10^{-7}/\mathrm{fortnight}
 \end{align*}
 $$
 - The CDC Advisory Committee on Immunization Practice (ACIP) meets tomorrow.  The FDA is
-  investigating causes of the thromboses, oddly combined with low platelet counts.  The
-  theory is that the vaccine might induce antibodies that activate platelets, leading to
-  clots and low platelet counts.  
+  investigating causes of the thromboses, oddly combined with low platelet counts 
+  (thrombocytopenia).  The theory is that the vaccine might induce antibodies that
+  activate platelets, leading to clots and low platelet counts.  
 - Signs to watch for in vaccinees: severe headache, shortness of breath, pain in
   legs/abdomen.  All indicate a trip to the local ER.  
 - Heparin (an anti-coagulant)therapy is standard for thromboses, but inadvisable or even
   deadly here. Platelets are depleted and there may be PF4-heparin antibodies formed as
-  the mechanism. If so, that may be a tox biomarker to use for diagnosis?  
-- JnJ is about 5% of doses given in US so far.  Pfizer &amp; Moderna deliver 23mln doses/week 
+  the mechanism; non-heparin anti-coagulants are the order of the day. If so, might 
+  PF4-heparin antibodies be a tox biomarker to use for diagnosis?  
+- JnJ is about 5% of doses given in US so far.  Pfizer &amp; Moderna deliver 23 million doses/week 
   without notable safety concerns (though with difficult cold chain requirements).  The
-  Biden administration is confident there will be enough vaccine, even if we restrict it
-  to Pfizer &amp; Moderna.  
+  Biden administration is confident there will be enough vaccine _in the US_, even if we restrict it
+  to Pfizer &amp; Moderna.  Outside the US, particularly in the developing world where
+  AZ/OX and JNJ are preferred because of handling issues, it's an uglier story.  
 
 
 ## Some risk comparisons  
@@ -101,8 +104,8 @@ Some less silly comparisons:
   from not being vaccinated.  
 $$
 \begin{align*}
-  \Pr(\mathrm{covid death} | \mathrm{no vax}) & = (500,000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
-                                              & = 5.86 \times 10^{-5}/\mathrm{fortnight}
+  d/dt \Pr(\mathrm{covid.death} | \mathrm{no.vax}) & = (500,000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
+                                                   & = 5.86 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -112,8 +115,8 @@ $$
   There's about _100x higher risk_ of thrombosis in the general population.  
 $$
 \begin{align*}
-  \Pr(\mathrm{thrombosis}) & = (300,000/\mathrm{yr} - 600,000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
-                           & = 3.52 \times 10^{-5}/\mathrm{fortnight} - 7.04 \times 10^{-5}/\mathrm{fortnight}
+  d/dt \Pr(\mathrm{thrombosis}) & = (300,000/\mathrm{yr} - 600,000/\mathrm{yr}) / (328 \times 10^{+6} \cdot 26 \mathrm{fortnight}/\mathrm{yr}) \\
+                                & = 3.52 \times 10^{-5} - 7.04 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -127,8 +130,8 @@ $$
   so it's _not_ obvious that we're seeing abnormally many CSVT's.  
 $$
 \begin{align*}
-  \Pr(\mathrm{CSVT}) & = 15.7 \times 10^{-6}/\mathrm{yr} * 1\mathrm{yr}/26 \mathrm{fortnights} \\
-                     & = 6.04 \times 10^{-7}/\mathrm{fortnight}
+  d/dt \Pr(\mathrm{CSVT}) & = 15.7 \times 10^{-6}/\mathrm{yr} \cdot 1\mathrm{yr}/26 \mathrm{fortnights} \\
+                          & = 6.04 \times 10^{-7}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -141,8 +144,8 @@ $$
   present _100x higher risk_ of blood clots than this vaccine.  
 $$
 \begin{align*}
-  \Pr(\mathrm{clot} | \mathrm{birthcontrol}) & = (0.003 - 0.01)/10 \mathrm{year} * 1 \mathrm{year}/26 \mathrm{fortnights} \\
-                                             & = 1.15 \times 10^{-5}/\mathrm{fortnight} - 3.85 \times 10^{-5}/\mathrm{fortnight}
+  d/dt \Pr(\mathrm{clot} | \mathrm{birthcontrol}) & = (0.003 - 0.01)/10 \mathrm{year} \cdot 1 \mathrm{year}/26 \mathrm{fortnights} \\
+                                                  & = 1.15 \times 10^{-5} - 3.85 \times 10^{-5}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -151,7 +154,7 @@ $$
   appear to be quite safe, especially with no apparent thrombosis risk.  There is,
   however, a slight risk of potentially lethal anaphylactic shock (basically an allergic
   reaction from Hell) within the first 15 minutes.  Is that any worse than the CSVT risk
-  of JnJ?  The CDC's Mortality and Morbidity Weekly Report (how's that for a periodical
+  of JnJ?  The CDC's _Mortality and Morbidity Weekly Report_ (how's _that_ for a periodical
   title!) puts that risk at 21 cases in a sample of 1,893,360 first doses of 
   Pfizer. <sup id="fn7a">[[7]](#fn7)</sup>  __Conclusion:__ This is about 100x the risk of
   CSVT from JnJ.  
@@ -169,8 +172,8 @@ $$
   __Conclusion:__ This is about 10x the risk with JnJ.  
 $$
 \begin{align*}
-  \Pr(\mathrm{thromb} | \mathrm{vax}) & = (222/\mathrm{fortnight}) / 34 \times 10^{+6} \\
-                                      & = 6.53 \times 10^{-6}/\mathrm{fortnight}
+  d/dt \Pr(\mathrm{thromb} | \mathrm{vax}) & = (222/\mathrm{fortnight}) / 34 \times 10^{+6} \\
+                                           & = 6.53 \times 10^{-6}/\mathrm{fortnight}
 \end{align*}
 $$
 
@@ -202,7 +205,7 @@ The pause needs to be brief, because every day we force people to go unvaccinate
 exposed to risk of death or disability from COVID-19, and that risk is 100x the risk of
 CSVT from the JnJ vaccine.  
 
-We can't tell if that's _exactly_ what's happening now, but it does appear to be.  Or so
+We can't tell if that's _exactly_ what's happening now, but it does appear to be.  Or so
 one may hope.  
 
 __TBD:__ I really should add 95% confidence limits on the above probabilities, given how often
