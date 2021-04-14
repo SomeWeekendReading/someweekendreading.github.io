@@ -90,6 +90,8 @@ YouTube, 2020-Dec-10.
 
 ## The Political Ones &amp; The Economic Dismals  
 
+"Those who seek power are not worthy to hold it." &mdash; [Plato](https://en.wikipedia.org/wiki/Plato), though more of a 'folk quotation' than a real one.  The general sentiment is expressed with different wording in [_Republic_](https://en.wikipedia.org/wiki/Republic_(Plato)) I 347B-E.  
+
 "A little patience, and we shall see the reign of witches pass over, their spells
 dissolve, and the people, recovering their true sight, restore their government to its
 true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_jefferson) 

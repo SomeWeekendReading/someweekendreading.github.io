@@ -84,8 +84,9 @@ $$
 - JnJ is about 5% of doses given in US so far.  Pfizer &amp; Moderna deliver 23 million doses/week 
   without notable safety concerns (though with difficult cold chain requirements).  The
   Biden administration is confident there will be enough vaccine _in the US_, even if we restrict it
-  to Pfizer &amp; Moderna.  Outside the US, particularly in the developing world where
-  AZ/OX and JNJ are preferred because of handling issues, it's an uglier story.  
+  to Pfizer &amp; Moderna (at 3 million doses/day, 23 million doses/week is just barely
+  enough).  Outside the US, particularly in the developing world where AZ/OX and JNJ are
+  preferred because of handling issues, it's an uglier story.   
 
 
 ## Some risk comparisons  
