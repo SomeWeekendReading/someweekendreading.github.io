@@ -225,6 +225,41 @@ pretty much on the same page.
 
 The ACIP committee is meeting right now.  I'm too burned out on COVID to liveblog it.  
 
+
+## Addendum 2021-Apr-14 evening  
+
+The ACIP has voted to continue the "pause" for another 7-10 days, while more data is
+gathered.  Their options are:  
+- withdraw EUA for JnJ entirely  
+- impose population restrictions for JnJ (male, or female age > 50 yr)  
+- go back to full use of JnJ  
+
+I'm betting that the second option is what they'll choose, once there are some better data
+on subpopulations at risk for thromboses.
+
+And as [science writer Kai Kupferschmidt](https://www.sciencemag.org/author/kai-kupferschmidt)
+points out, a lot of the risk assessments we did above depend on the denominator.  Are we
+talking about population risk for all JnJ vaccinees, or just women age 18-50?  That
+changes the population by a factor of 10, and thus bumps up the probability by 10x.  The
+conclusion that the risk of CSVT is still less than the risk of COVID death is still
+approximately true, I think &mdash; but it makes the halt to examine subpopulations more
+understanable.  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    About risk:<br><br>
+
+    For now a lot depends on the denominator you choose.<br>
+
+    ⁰You can say 6 out of more than 6 million vaccines, so 1 in a million⁰.<br>
+
+    Or if you use female vaccinees aged 18-50 and vaccinated more than 2 weeks ago, it’s
+    more like 6 out of 700,000, so closer to 1 in 100,000
+  </p>
+  &mdash; Kai Kupferschmidt (@kakape) <a href="https://twitter.com/kakape/status/1382446239573229568?ref_src=twsrc%5Etfw">April 14, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 ---
 
 ## Notes &amp; References  
