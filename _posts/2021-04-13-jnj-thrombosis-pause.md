@@ -64,7 +64,7 @@ the situation is pretty clear:
   that health care in the US is crazy: why yes; yes, are correct in that conclusion.  
 - The precipitating event was noticing CSVT (like the AZ/OX thromboses in Europe) in 6
   women, aged 18-48.  There had been 6.8 million JnJ doses given at that point, so we're
-  talking about a rare event:  
+  talking about a rare event (as in rarer than 1 in a million):  
 $$
 \begin{align*}
   d/dt \Pr(\mathrm{thrombosis.death} | \mathrm{vax}) & = (6/\mathrm{fortnight}) / 6.8 \times 10^{+6} \\ 
@@ -213,6 +213,18 @@ __TBD:__ I really should add 95% confidence limits on the above probabilities, g
 I've whined at other people for _not_ doing so!  The 100x differences in probability are
 likely to be significant, but it's always good to be explicit about that.  
 
+
+## Addendum 2021-Apr-14  
+
+The 
+[formidable med-chem blogger, Derek Lowe](https://blogs.sciencemag.org/pipeline/about-derek-lowe),
+whose blog [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) is hosted at
+[_Science Translational Medicine_](https://stm.sciencemag.org/), weighed in today with 
+a short Q&A on the JnJ clot situation.  <sup id="fn8a">[[8]](#fn8)</sup>  We seem to be
+pretty much on the same page.  
+
+The ACIP committee is meeting right now.  I'm too burned out on COVID to liveblog it.  
+
 ---
 
 ## Notes &amp; References  
@@ -236,3 +248,5 @@ likely to be significant, but it's always good to be explicit about that.
 <a id="fn6">6</a>: N Todd, ["Birth Control Methods and the Risk of Blood Clots"](https://www.webmd.com/sex/birth-control/birth-control-methods-blood-clot-risk), _WebMD_, 2020-Mar-03. [↩](#fn6a)  
 
 <a id="fn7">7</a>: CDC COVID-19 Response Team, ["Allergic Reactions Including Anaphylaxis After Receipt of the First Dose of Pfizer-BioNTech COVID-19 Vaccine — United States, December 14–23, 2020"](https://www.cdc.gov/mmwr/volumes/70/wr/mm7002e1.htm), _CDC Morbidity and Mortality Weekly Report_, 2021-Jan-15. [↩](#fn7a)  
+
+<a id="fn8">8</a>: D Lowe, ["Vaccine Side Effects Q and A"](https://blogs.sciencemag.org/pipeline/archives/2021/04/14/vaccine-side-effects-q-and-a), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Apr-14. [↩](#fn8a)  
