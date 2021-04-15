@@ -228,14 +228,16 @@ The ACIP committee is meeting right now.  I'm too burned out on COVID to liveblo
 
 ## Addendum 2021-Apr-14 (evening)  
 
-The ACIP has voted to continue the "pause" for another 7-10 days, while more data is
-gathered.  Their options are:  
+The options the ACIP could choose amongst are:  
 - withdraw EUA for JnJ entirely  
 - impose population restrictions for JnJ (male, or female age > 50 yr)  
 - go back to full use of JnJ  
 
-I'm betting that the second option is what they'll choose, once there are some better data
-on subpopulations at risk for thromboses.
+The ACIP has voted to continue the "pause" for another 7-10 days, while more data is
+gathered.  That's&hellip; less than ideal, but it's what's there.  I _hope_ they'll be
+able to look through more data, conclude option 2 is the way to go, and resume
+vaccinations.  It won't make a lot of difference in the US, but it _will_ make a lot of
+difference elsewhere, where JnJ or AZ/OX or "nothing" are the available options.  
 
 And as [science journalist Kai Kupferschmidt](https://www.sciencemag.org/author/kai-kupferschmidt)
 points out, a lot of the risk assessments we did above depend on the denominator.  Are we
