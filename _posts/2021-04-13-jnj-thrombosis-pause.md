@@ -241,11 +241,11 @@ difference elsewhere, where JnJ or AZ/OX or "nothing" are the available options.
 
 And as [science journalist Kai Kupferschmidt](https://www.sciencemag.org/author/kai-kupferschmidt)
 points out, a lot of the risk assessments we did above depend on the denominator.  Are we
-talking about population risk for all JnJ vaccinees, or just women age 18-50?  That
-changes the population by a factor of 10, and thus bumps up the probability by 10x.  The
-conclusion that the risk of CSVT is still less than the risk of COVID death is still
-approximately true, I think &mdash; but it makes the halt to examine subpopulations more
-understandable.  
+talking about population risk for all ~7 million JnJ vaccinees, or just the ~700k women
+age 18-50 vaccinated in the last 2 weeks?  That changes the population by a factor of 10,
+and thus bumps up the thrombosis probability by 10x.  The conclusion that the risk of CSVT is still
+less than the risk of COVID death is still approximately true, I think &mdash; but it
+makes the halt to examine subpopulations _slightly_ more understandable.  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
