@@ -229,9 +229,9 @@ The ACIP committee is meeting right now.  I'm too burned out on COVID to liveblo
 ## Addendum 2021-Apr-14 (evening)  
 
 The options the ACIP could choose amongst are:  
-- withdraw EUA for JnJ entirely  
-- impose population restrictions for JnJ (male, or female age > 50 yr)  
-- go back to full use of JnJ  
+1. withdraw EUA for JnJ entirely  
+2. impose population restrictions for JnJ (male, or female age > 50 yr)  
+3. go back to full use of JnJ  
 
 The ACIP has voted to continue the "pause" for another 7-10 days, while more data is
 gathered.  That's&hellip; less than ideal, but it's what's there.  I _hope_ they'll be
