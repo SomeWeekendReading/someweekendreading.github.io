@@ -57,7 +57,7 @@ I'm starting to like these guys.
 <img src="{{ site.baseurl }}/images/2021-04-16-covid-vaccines-and-clots-oxford-preprint-figs2p22.jpg" width="400" height="131" alt="Taquet, et al., Figure S2, p. 22: Incidence of CVT in 2 weeks after health events" title="Taquet, et al.: Incidence of CVT in 2 weeks after health events" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 They curiously don't present their main result in a table, forcing me to dig it out of the
 text.  (If I were a referee here, _that_ would be a rather pointed bit of advice: never
-make your reader hunt for your conclusion; make it _painfully_ obvious!)  But, ok&hellp;
+make your reader hunt for your conclusion; make it _painfully_ obvious!)  But, ok&hellip;
 after a bit of excavation of word salad, we find they report on CVT event rates within 2 weeks after
 diagnosis with COVID (or flu, as a control) or vaccination.  
 
@@ -175,7 +175,6 @@ datasets.
 
 But the story on CVT risk for COVID-19 patients vs vaccinees is clear: get yourself
 vaccinated!  
-
 
 ---
 
