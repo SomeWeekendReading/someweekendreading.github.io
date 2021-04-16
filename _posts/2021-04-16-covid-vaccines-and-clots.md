@@ -20,7 +20,7 @@ Both of those are [viral vector vaccines](https://en.wikipedia.org/wiki/Viral_ve
 and one dark suspicion is that this is a "class effect", i.e., all viral vector vaccines
 might have thrombosis problems.  As 
 [the only other viral vector vaccines currently in existence are for Ebola](https://en.wikipedia.org/wiki/Ebola_vaccine),
- _we do not yet have sufficient evidence to conclude this._  
+_we do not yet have sufficient evidence to conclude this._  
  
 Even more strangely, people worry about the risk of blood clots from the Pfizer and
 Moderna vaccines, which are mRNA vaccines and thus a _totally different mechanism_.  It
@@ -50,14 +50,18 @@ million AZ/OX vaccinees.  (They did not evaluate the JnJ vaccinees.) As a statis
 always concerned whether a study is has adequate statistical power, this gives me a happy.  
 
 Just to be very thorough, they looked at CSVT as well as portal vein thrombosis (PVT, in
-the liver).  I like the thorough approach.  
+the liver).  I like the thorough approach.  Whichever way the conclusion comes out here,
+I'm starting to like these guys.
 
 <img src="{{ site.baseurl }}/images/2021-04-16-covid-vaccines-and-clots-oxford-preprint-fig1p13.jpg" width="400" height="188" alt="Taquet, et al., Figure 1, p. 13: Incidence of CVT in 2 weeks after health events" title="Taquet, et al., Figure 1, p. 13: Incidence of CVT in 2 weeks after health events" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-04-16-covid-vaccines-and-clots-oxford-preprint-figs2p22.jpg" width="400" height="131" alt="Taquet, et al., Figure S2, p. 22: Incidence of CVT in 2 weeks after health events" title="Taquet, et al.: Incidence of CVT in 2 weeks after health events" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 They curiously don't present their main result in a table, forcing me to dig it out of the
-text.  (If I were a referee here, _that_ would be a rather pointed bit of advice!)  But
-after a bit of excavation of word salad, we find they report that within 2 weeks after
-diagnosis or vaccination, CVT event rates and their 95% confidence limits were (pp 2-3):  
+text.  (If I were a referee here, _that_ would be a rather pointed bit of advice: never
+make your reader hunt for your conclusion; make it _painfully_ obvious!)  But, ok&hellp;
+after a bit of excavation of word salad, we find they report on CVT event rates within 2 weeks after
+diagnosis with COVID (or flu, as a control) or vaccination.  
+
+The resulting CVT event rates and their 95% confidence limits were (pp 2-3):  
 
 | Medical event          | CVT / million | 95% LCL | 95% UCL |
 |:-----------------------|--------------:|--------:|--------:|
@@ -71,7 +75,8 @@ population sizes studied.  Figure S2, p 22 in the supplement, shows the highly s
 result with [Fisher's Exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test)
 between the COVID-19 cohort and the vaccinee cohort, i.e.,
 _getting vaccinated however you make that happen lowers your risk compared to getting
-COVID-19_.  
+COVID-19_.  (Notably, they _do not_ test statistical significance of CVT rates between
+mRNA vaccines vs the AZ/OX vaccine, for reasons we explore below.)  
 
 Their conclusion is one with which it's quite easy to agree, namely that getting
 vaccinated is hella better than getting COVID-19:
@@ -79,7 +84,7 @@ vaccinated is hella better than getting COVID-19:
 > COVID-19,andgreater than that observed with BNT162b2 and mRNA-1273 COVID-19 vaccines.
 
 
-## Some confirmation and some pushback  
+## Some cautions and some pushback  
 
 Now, the thing that's getting some side-eye here is that rows 3 &amp; 4 of the table above
 show the _CVT clotting risk of the mRNA vaccines and the AZ/OX vaccines to be comparable!_
