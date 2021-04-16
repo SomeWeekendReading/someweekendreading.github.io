@@ -186,7 +186,7 @@ vaccinated!
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Univ Oxofrt News &amp; Events, ["https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines"](https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines), Oxford Press Releases, 2021-Apr-15.[↩](#fn1a)  
+<a id="fn1">1</a>: Oxford University News &amp; Events, ["https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines"](https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines), Oxford Press Releases, 2021-Apr-15.[↩](#fn1a)  
 
 <a id="fn2">2</a>: M Taquet, _et al._, ["Cerebral venous thrombosis: a retrospective cohort study of 513,284 confirmed COVID-19 cases and a comparison with 489,871 people receiving a COVID-19 mRNA vaccine"](https://osf.io/a9jdq/), Oxford preprit shared on OSF.io, retrieved 2021-Apr-16.[↩](#fn2a)  
 
