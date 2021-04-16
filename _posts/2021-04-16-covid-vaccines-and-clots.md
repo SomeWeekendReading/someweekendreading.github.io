@@ -86,8 +86,8 @@ vaccinated is hella better than getting COVID-19:
 
 ## Some cautions and some pushback  
 
-Now, the thing that's getting some side-eye here is that rows 3 &amp; 4 of the table above
-show the _CVT clotting risk of the mRNA vaccines and the AZ/OX vaccines to be comparable!_
+Now, the thing that's getting some nervous side-eye here is that rows 3 &amp; 4 of the table above
+show the _CVT clotting risk of the mRNA vaccines and the AZ/OX viral vector vaccine to be comparable!_
 That's&hellip; peculiar!  
 
 Surely, since the clotting events were noticed and so loudly reported for the AZ/OX and
@@ -95,7 +95,7 @@ JnJ vaccines, they would have been similarly reported for the Pfizer or Moderna 
 if they had been observed?  Already the dark corners of the internet are forming
 conspiracy theories about the government lying about adverse events&hellip;  
 
-First, let's note that the authors of the paper themselves want to disabuse you of
+First, let's note that the paper's authors themselves want to disabuse you of
 thinking this comparison is valid.  From their conclusions section, the tell us that the
 various populations data-mined from EMR systems are not especially well matched.  That
 makes a difference when some places are preferntially vaccinating the elderly, while
@@ -166,6 +166,7 @@ Tony Fauci, peripatetic head of NIAID, said it had "many many&hellip; procedural
 > with the mRNA comparing to anything else."  
 
 But everybody agreed with the main conclusion: vaccination is better than getting COVID!
+
 
 ## The Weekend Conclusion  
 
