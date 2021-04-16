@@ -63,12 +63,12 @@ diagnosis with COVID (or flu, as a control) or vaccination.
 
 The resulting CVT event rates and their 95% confidence limits were (pp 2-3):  
 
-| __Medical event__      | __CVT / million__ | __95% LCL__ | __95% UCL__ |
-|:-----------------------|------------------:|------------:|------------:|
-| COVID-19 diagnosis     | 39.0              | 25.2        | 60.2        |
-| Influenza diagnosis    |  0.0              |  0.0        | 22.2        |
-| COVID-19 mRNA vaccine  |  4.1              |  1.1        | 14.9        |
-| AZ/OX vaccine          |  5.0              |  4.3        |  5.8        |
+| __Medical event__      | __CVT / million__ | | __95% LCL__ | | __95% UCL__ |
+|:-----------------------|------------------:|-|------------:|-|------------:|
+| COVID-19 diagnosis     | 39.0              | | 25.2        | | 60.2        |
+| Influenza diagnosis    |  0.0              | |  0.0        | | 22.2        |
+| COVID-19 mRNA vaccine  |  4.1              | |  1.1        | | 14.9        |
+| AZ/OX vaccine          |  5.0              | |  4.3        | |  5.8        |
 
 Figure 1 from p 13, shown here, presents this data graphically, along with the exact
 population sizes studied.  Figure S2, p 22 in the supplement, shows the highly significant
