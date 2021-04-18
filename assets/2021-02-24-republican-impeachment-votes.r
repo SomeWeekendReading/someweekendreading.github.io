@@ -1,5 +1,5 @@
 ## Created on Monday, February 15, 2021 at 7:45pm EST by WeekendEditor on WeekendEditorMachine.
-## Copyright (c) 2022, SomeWeekendReading.  All rights reserved.  As if you care.
+## Copyright (c) 2021, SomeWeekendReading.  All rights reserved.  As if you care.
 
 toolsDir <- "../../tools"                              # Various tools available from author
 source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics tools

@@ -286,4 +286,4 @@ makes the halt to examine subpopulations _slightly_ more understandable.
 <a id="fn7">7</a>: CDC COVID-19 Response Team, ["Allergic Reactions Including Anaphylaxis After Receipt of the First Dose of Pfizer-BioNTech COVID-19 Vaccine — United States, December 14–23, 2020"](https://www.cdc.gov/mmwr/volumes/70/wr/mm7002e1.htm), _CDC Morbidity and Mortality Weekly Report_, 2021-Jan-15. [↩](#fn7a)  
 
 <a id="fn8">8</a>: D Lowe, ["Vaccine Side Effects Q and A"](https://blogs.sciencemag.org/pipeline/archives/2021/04/14/vaccine-side-effects-q-and-a), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/) at [_Science Translational Medicine_](https://stm.sciencemag.org/), 2021-Apr-14. [↩](#fn8a)  
-p
+

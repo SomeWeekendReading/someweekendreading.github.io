@@ -134,17 +134,17 @@ different_, so we're skating on ice so thin it might as well be surface tension:
 > network  isalmost entirely US-based). 
 
 On the one hand: gee, that's too bad.  On the other: this is an example of scrupulous
-scientific honesty, and you should be applauding now.  (Though sadly, regretting the study
-isn't what we all want it to be.)  
+scientific honesty, and you should be applauding now.  (Though doing so sadly, regretting
+the study isn't what we all want it to be.)  
 
 <img src="{{ site.baseurl }}/images/2021-04-16-covid-vaccines-and-clots-cbs.jpg" width="400" height="168" alt="CBS: COVID thrombosis risk and pushback on vaccine risk" title="CBS: COVID thrombosis risk and pushback on vaccine risk" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 There was of course pushback from other sectors, as well.  I'm not a fan of the general
-media for this short of thing.  But since [STAT News](https://www.statnews.com/) doesn't
+media for this short of thing.  But since [_STAT News_](https://www.statnews.com/) doesn't
 have an article up yet on this, I turned to a CBS news article <sup id="fn3a">[[3]](#fn3)</sup>.
 Slightly to my (pleasant) surprise, it turned out to be pretty good.  
 
 Pfizer commented on the confusing study design (presumably for the issues the authors
-themselves raised above):
+themselves raised above):  
 
 > Pfizer said that its own "comprehensive assessment of ongoing aggregate safety
 > data... provided no evidence to conclude that arterial or venous thromboembolic events,
@@ -155,7 +155,7 @@ themselves raised above):
 >given the Johnson & Johnson vaccine in the U.S., but "no similar findings have been
 >observed with the authorized Pfizer-BioNTech vaccine."  
 
-Tony Fauci, peripatetic head of NIAID, said it had "many many&hellip; procedural gaps"
+Tony Fauci, peripatetic head of NIAID, said it had "many many&hellip; procedural gaps":  
 
 > "Suggesting that the complication [CVT] following one vaccine is similar to that of the
 > other... it is impossible, the way this study was designed and conducted, to make that
@@ -165,7 +165,7 @@ Tony Fauci, peripatetic head of NIAID, said it had "many many&hellip; procedural
 > statement, the way this is designed, about the adverse events following the vaccination
 > with the mRNA comparing to anything else."  
 
-But everybody agreed with the main conclusion: vaccination is better than getting COVID!
+But everybody agreed with the main conclusion: getting vaccinated is better than getting COVID!
 
 
 ## The Weekend Conclusion  
