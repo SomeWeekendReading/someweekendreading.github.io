@@ -131,7 +131,7 @@ We did both discrete and continuous analyses:
 Here is a summary of the statistical significance of the relationship between Trump margin
 and the 3 vaccine usage measures:  
 - The column tTest.FDR tells us that the $t$-test is significant for all 3 measures of
-  vaccine usage, with FDRs from $10^{-3}$ to $10^{-6}$.  There _is_ a real vaccine
+  vaccine usage, with $\mathrm{FDR} \sim 10^{-6} - 10^{-3}$.  There _is_ a real vaccine
   hesitancy in the red states.   
 - The continuous analysis confirms this.  The regression $R^2 \sim 13\% - 37\%$ values are not
   huge, indicating significant variance in the data, but a degree of real trend nonetheless.
