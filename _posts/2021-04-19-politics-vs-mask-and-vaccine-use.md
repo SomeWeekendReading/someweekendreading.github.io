@@ -168,10 +168,11 @@ Worst of all, we're all stuck with the consequences of this knuckleheadery.
 
 ## What to do?  
 
-Beats me.  I wish I could figure out how to persuade people not to be self-destructive.  
+Beats me.  I wish I could figure out how to persuade people not to be self-destructive.
+(In this, as in _so many_ other matters!)  
 
-The consequences of slow/low vaccination rates are that viral variants will inevitably
-take over, one of which will eventually have an escape mutation to evade current
+The consequences of slow/low vaccination rates are that viral variants are inevitably
+taking over, one of which will eventually have an escape mutation to evade current
 vaccines.  Then we'll need _booster_ vaccines again.  Fortunatley, we know that those
 are [already under development]({{ site.baseurl }}/variants-vs-vaccines/#mrna-vaccines-and-boosters-for-variants),
 and that
@@ -201,7 +202,7 @@ mainstream media:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 One could wish for the times to be less fraught with self-inflicted wounds from stupidity.
-But, again&hellip; here we are.  
+But again&hellip; here we are.  
 
 
 ## Addendum late 2021-Apr-19  
@@ -211,9 +212,11 @@ I just discovered, after writing the above, that the _New York Times_ is also on
 case. <sup id="fn7a">[[7]](#fn7)</sup>  Here we did a state-level analysis; the _NYT_
 reporters show a somewhat more fine-grained county-level analysis that reaches the same
 conclusion.  (Though oddly, except for a county-level map, their graphics are all
-state-level.  Hmpf.  _NYT_, I guess.)  
+state-level.  Hmpf.  _NYT_, I guess.)  Also, it does not appear they did any statistical
+hypothesis testing to assess the significance of the relationship, as we did here; they're
+busy with compelling _story_ aspects of individuals.  
 
-Their graph on the left is approximately the same as the green regression line in our plot
+Their graph on the right is approximately the same as the green regression line in our plot
 above:  
 !["NYT: Trumpy voters more vaccine hesitant and less vaccinated"]({{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-nyt-2.jpg "NYT: Trumpy voters more vaccine hesitant and less vaccinated")
 
@@ -223,7 +226,7 @@ across age (though the youngs who _do_ accept vaccination (dark blue bar) appear
 higher numbers):  
 !["NYT: Vaccination rates by age and partisanship"]({{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-nyt-3.jpg "NYT: Vaccination rates by age and partisanship")
 
-[_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  It appears that [_Jacobson v Massachusetts_](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) may become a regrettable inevitability, just for survival.  
+[_O tempora, o mores!_](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  It appears that [_Jacobson v Massachusetts_](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) may become a regrettable inevitability, just for survival.  
 
 ---
 
