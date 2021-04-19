@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Politics vs mask use &amp; vaccine uptake in the US
-tags: COVID MathInTheNews Politics
+tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
 
