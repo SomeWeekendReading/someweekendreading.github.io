@@ -31,7 +31,8 @@ Can we quantify that relationship statistically?
 <img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-plos-one-fig1.jpg" width="400" height="560" alt="Fischer: early mask adherence helps avoid COVID-19" title="Fischer: early mask adherence helps avoid COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-plos-one-fig2.jpg" width="400" height="304" alt="Fischer: early mask adherence and strength of policy helps avoid COVID-19" title="Fischer: early mask adherence and strength of policy helps avoid COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 For no particularly obvious reason, the efficacy of masks is constantly under challenge.
-So, first up is a paper by Fischer, _et al._ <sup id="fn1a">[[1]](#fn1)</sup> in _PLoS ONE_ 
+So, first up is a paper by Fischer, _et al._ <sup id="fn1a">[[1]](#fn1)</sup> in 
+[_PLoS ONE_](https://journals.plos.org/plosone/)
 documenting the effect of masking over the last year.  Their work is nicely summarized by
 2 figures from their paper, reproduced here:  
 
@@ -230,7 +231,7 @@ higher numbers):
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: C Fischer, _et al.,_ ["Mask adherence and rate of COVID-19 across the United States"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249891), _PLoS One_ 16:4, e0249891, 2021-Apr-14.  DOI: [10.1371/journal.pone.0249891](https://doi.org/10.1371/journal.pone.0249891).[↩](#fn1a)  
+<a id="fn1">1</a>: C Fischer, _et al.,_ ["Mask adherence and rate of COVID-19 across the United States"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249891), [_PLoS One_](https://journals.plos.org/plosone/) 16:4, e0249891, 2021-Apr-14.  DOI: [10.1371/journal.pone.0249891](https://doi.org/10.1371/journal.pone.0249891).[↩](#fn1a)  
 
 <a id="fn2">2</a>: R Bynum, ["Red states on U.S. electoral map lagging on vaccinations"](https://apnews.com/article/joe-biden-donald-trump-alabama-georgia-savannah-941ef2bf9b60ee39d6b9fd5e2ce861f7), _AP News_, 2021-Apr-14. [↩](#fn2a)  
 
