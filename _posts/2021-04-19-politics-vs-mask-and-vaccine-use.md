@@ -136,7 +136,7 @@ and the 3 vaccine usage measures:
   coefficient in the regression model has highly significant FDRs of $10^{-3}$ to
   $10^{-6}, indicating that there's not a chance in hell this is accidental.  
   
-<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-plot.png" width="400" height="400" alt="% doses used, % population vaccinated vs Trump Margin" title="% doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-plot.png" width="400" height="400" alt="% doses used, % population vaccinated vs Trump Margin" title="% doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here's what the plot of vaccine measures vs Trump margin looks like:  
 - Each state is a circle on the plot.  The Trump popular vote margin in the state is on
   the horizontal axis.  
@@ -201,7 +201,7 @@ But, again, here we are.
 
 ## Addendum late 2021-Apr-19  
 
-<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-nyt-1.png" width="400" height="161" alt="NYT: Least vaccinated US counties have most Trump voters" title="NYT: Least vaccinated US counties have most Trump voters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-nyt-1.jpg" width="400" height="161" alt="NYT: Least vaccinated US counties have most Trump voters" title="NYT: Least vaccinated US counties have most Trump voters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 I just discovered, after writing the above, that the _New York Times_ is also on the
 case. <sup id="fn7a">[[7]](#fn7)</sup>  Here we did a state-level analysis; the _NYT_
 reporters show a somewhat more fine-grained county-level analysis that reaches the same
