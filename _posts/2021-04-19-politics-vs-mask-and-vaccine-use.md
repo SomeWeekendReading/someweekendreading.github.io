@@ -239,6 +239,6 @@ higher numbers):
 
 <a id="fn5">5</a>: Weekend Editor, [Summary table of 2020 popular votes by state]({{ site.baseurl }}/assets/2021-02-24-republican-impeachment-votes-states.tsv), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Feb-24.  Combined with CDC vaccine utilization data in ref 3 in [a simple TSV file here]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-omnibus.tsv). [↩](#fn5a)  
 
-<a id="fn6">6</a>: Weekend Editor, [R script for analysis of vaccine uptake vs Trump margin]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.r)[↩], [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-19.  There is also [a text file transcript of running the script]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.txt), for peer review.(#fn6a)  
+<a id="fn6">6</a>: Weekend Editor, [R script for analysis of vaccine uptake vs Trump margin]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.r), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-19.  There is also [a text file transcript of running the script]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.txt), for peer review. [↩](#fn6a)  
 
 <a id="fn7">7</a>: D Ivory, L Leatherby, &amp; R Gebeloff, ["Least Vaccinated U.S. Counties Have Something in Common: Trump Voters"](https://www.nytimes.com/interactive/2021/04/17/us/vaccine-hesitancy-politics.html), _New York Times_, 2021-Apr-17. [↩](#fn7a)  
