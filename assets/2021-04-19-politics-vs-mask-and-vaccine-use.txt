@@ -1,0 +1,148 @@
+
+* US politics vs vax uptake on Mon Apr 19 11:58:46 2021
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2021-04-19-politics-vs-mask-and-vaccine-use.txt
+
+Data loading and left outer joins:
+----------------------------------
+
+* Loading votes data from ./2021-02-24-republican-impeachment-votes-states.tsv.
+* Loading vaccination uptake data from ./2021-04-19-politics-vs-mask-and-vaccine-use-covid19_vaccinations_in_the_united_states.csv.
+
+* Left outer join:
+'data.frame':	50 obs. of  8 variables:
+ $ State           : Factor w/ 50 levels "Alabama","Alaska",..: 1 2 3 4 5 6 7 8 9 10 ...
+ $ BidenPct        : num  36.6 42.8 49.4 34.8 63.5 ...
+ $ TrumpPct        : num  62 52.8 49.1 62.4 34.3 ...
+ $ TrumpMargin     : num  25.5 10.1 -0.3 27.6 -29.2 ...
+ $ TrumpState      : logi  TRUE TRUE FALSE TRUE FALSE FALSE ...
+ $ PctPopln1Dose   : num  29.8 39.1 36.6 32.8 41.7 40.8 47.4 40.6 36.7 31.8 ...
+ $ PctPoplnFullDose: num  18.7 31.2 23.4 20.6 23.9 24.4 30.4 24.3 22.9 17.9 ...
+ $ PctDosesUsed    : num  63.6 68.6 77.6 68 78.4 81.7 80.3 78.1 73.9 66.6 ...
+
+* Saved to ./2021-04-19-politics-vs-mask-and-vaccine-use-omnibus.tsv.
+
+
+Statistical significance tests:
+-------------------------------
+
+
+* Testing relation of PctDosesUsed to TrumpMargin:
+  - Regression:
+
+Call:
+lm(formula = as.formula(sprintf("%s ~ TrumpMargin", var)), data = votesVaxData)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-12.3120  -3.6345  -0.7985   3.7707  19.4162 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 78.87733    0.91267  86.424  < 2e-16 ***
+TrumpMargin -0.15054    0.04417  -3.408  0.00133 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6.413 on 48 degrees of freedom
+Multiple R-squared:  0.1948,	Adjusted R-squared:  0.1781 
+F-statistic: 11.62 on 1 and 48 DF,  p-value: 0.001333
+
+
+  - t Test:
+
+	Welch Two Sample t-test
+
+data:  subset(votesVaxData, subset = !TrumpState, select = var, drop = TRUE) and subset(votesVaxData, subset = TrumpState, select = var, drop = TRUE)
+t = 4.0719, df = 47.984, p-value = 8.68e-05
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 4.173096      Inf
+sample estimates:
+mean of x mean of y 
+   82.076    74.980 
+
+
+* Testing relation of PctPopln1Dose to TrumpMargin:
+  - Regression:
+
+Call:
+lm(formula = as.formula(sprintf("%s ~ TrumpMargin", var)), data = votesVaxData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.3104 -3.1648 -0.7873  2.4847 17.3487 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 38.93880    0.62332  62.470  < 2e-16 ***
+TrumpMargin -0.16496    0.03017  -5.468 1.61e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.38 on 48 degrees of freedom
+Multiple R-squared:  0.3839,	Adjusted R-squared:  0.371 
+F-statistic:  29.9 on 1 and 48 DF,  p-value: 1.608e-06
+
+
+  - t Test:
+
+	Welch Two Sample t-test
+
+data:  subset(votesVaxData, subset = !TrumpState, select = var, drop = TRUE) and subset(votesVaxData, subset = TrumpState, select = var, drop = TRUE)
+t = 5.4815, df = 43.161, p-value = 1.022e-06
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 4.703647      Inf
+sample estimates:
+mean of x mean of y 
+   41.948    35.164 
+
+
+* Testing relation of PctPoplnFullDose to TrumpMargin:
+  - Regression:
+
+Call:
+lm(formula = as.formula(sprintf("%s ~ TrumpMargin", var)), data = votesVaxData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.4273 -2.3164 -0.4737  2.2316  6.5316 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 25.31259    0.45935   55.11  < 2e-16 ***
+TrumpMargin -0.06403    0.02223   -2.88  0.00592 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.228 on 48 degrees of freedom
+Multiple R-squared:  0.1474,	Adjusted R-squared:  0.1296 
+F-statistic: 8.296 on 1 and 48 DF,  p-value: 0.005921
+
+
+  - t Test:
+
+	Welch Two Sample t-test
+
+data:  subset(votesVaxData, subset = !TrumpState, select = var, drop = TRUE) and subset(votesVaxData, subset = TrumpState, select = var, drop = TRUE)
+t = 2.6911, df = 47.764, p-value = 0.004893
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.9341999       Inf
+sample estimates:
+mean of x mean of y 
+   26.404    23.924 
+
+
+* Model significances saved to ./2021-04-19-politics-vs-mask-and-vaccine-use-significance.tsv.
+           Measure  tTest.p tTest.FDR Adj.R2  Slope  Slope.p Slope.FDR
+1     PctDosesUsed 8.68e-05 1.302e-04  0.178 -0.151 1.33e-03 1.995e-03
+2    PctPopln1Dose 1.02e-06 3.060e-06  0.371 -0.165 1.61e-06 4.830e-06
+3 PctPoplnFullDose 4.89e-03 4.890e-03  0.130 -0.064 5.92e-03 5.920e-03
+
+* Plot saved to ./2021-04-19-politics-vs-mask-and-vaccine-use-plot.png.
+
+
+* US politics vs vax uptake completed Mon Apr 19 11:58:46 2021 (0.3 sec elapsed).

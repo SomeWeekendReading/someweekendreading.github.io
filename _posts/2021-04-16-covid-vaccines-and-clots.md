@@ -131,7 +131,7 @@ different_, so we're skating on ice so thin it might as well be surface tension:
 > with any of the other vaccines, or with COVID-19, since we are using data collected by
 > the EMA monitoring system, not from the electronic health records network. (No  patients
 > in  the  network had  received ChAdOx1  nCoV-19, reflecting  the  fact  that  the
-> network  isalmost entirely US-based). 
+> network  is almost entirely US-based). 
 
 On the one hand: gee, that's too bad.  On the other: this is an example of scrupulous
 scientific honesty, and you should be applauding now.  (Though doing so sadly, regretting

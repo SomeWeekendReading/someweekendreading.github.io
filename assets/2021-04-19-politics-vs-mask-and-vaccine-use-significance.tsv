@@ -1,0 +1,4 @@
+Measure	tTest.p	tTest.FDR	Adj.R2	Slope	Slope.p	Slope.FDR
+PctDosesUsed	8.68e-05	0.0001302	0.178	-0.151	0.00133	0.001995
+PctPopln1Dose	1.02e-06	3.06e-06	0.371	-0.165	1.61e-06	4.83e-06
+PctPoplnFullDose	0.00489	0.00489	0.13	-0.064	0.00592	0.00592

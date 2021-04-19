@@ -74,7 +74,7 @@ correlate well with the desired immune response. <sup id="fn2a">[[2]](#fn2)</sup
 well.  
 
 It's the headache, muscle aches, and mild fever that I'm looking forward to tomorrow!
-No, really: _looking forward_, because those are the immune system gearing as it
+No, really: _looking forward_, because those are the immune system gearing up as it
 recognizes that SARS-CoV2 spike protein and decides Nothing Good Will Come of This.  It's
 supposed to be even stronger at the second dose.  My main worry is that my aging immune
 system won't mount a strong response, and hence any immunity granted by the vaccine will
