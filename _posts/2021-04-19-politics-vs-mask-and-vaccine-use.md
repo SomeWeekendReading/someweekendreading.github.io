@@ -219,7 +219,7 @@ across age (though the youngs who _do_ accept vaccination (dark blue bar) appear
 higher numbers):  
 !["NYT: Vaccination rates by age and partisanship"]({{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-nyt-3.jpg "NYT: Vaccination rates by age and partisanship")
 
-[_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  It appears that [Jacobson v Massachusetts](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) may become a regrettable inevitability, just for survival.  
+[_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  It appears that [_Jacobson v Massachusetts_](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) may become a regrettable inevitability, just for survival.  
 
 ---
 
