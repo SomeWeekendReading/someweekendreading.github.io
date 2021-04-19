@@ -135,8 +135,9 @@ and the 3 vaccine usage measures:
   hesitancy in the red states.   
 - The continuous analysis confirms this.  The regression $R^2 \sim 13\% - 37\%$ values are not
   huge, indicating significant variance in the data, but a degree of real trend nonetheless.
-  The slope coefficient in the regression model has highly significant FDRs of $10^{-3}$ to
-  $10^{-6}$, indicating that there's not a chance in hell this is accidental.  
+  The slope coefficient in the regression model has highly significant 
+  $\mathrm{FDR} \sim 10^{-6} - 10^{-3}$, indicating that there's not a chance in hell this
+  is accidental.  
   
 <img src="{{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-plot.png" width="400" height="400" alt="% doses used, % population vaccinated vs Trump Margin" title="% doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here's what the plot of vaccine measures vs Trump margin looks like:  
