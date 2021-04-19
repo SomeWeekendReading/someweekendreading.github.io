@@ -25,9 +25,9 @@ health problems for all of us.
 Can we quantify that relationship statistically?  
 
 
-## Mask useage  
+## Mask usage  
 
-<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-plos-one.jpg" width="400" height="146" alt="Fischer: mask useage, COVID-19 rates, and US states" title="Fischer: mask useage, COVID-19 rates, and US states" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-plos-one.jpg" width="400" height="146" alt="Fischer: mask usage, COVID-19 rates, and US states" title="Fischer: mask usage, COVID-19 rates, and US states" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-plos-one-fig1.jpg" width="400" height="560" alt="Fischer: early mask adherence helps avoid COVID-19" title="Fischer: early mask adherence helps avoid COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-plos-one-fig2.jpg" width="400" height="304" alt="Fischer: early mask adherence and strength of policy helps avoid COVID-19" title="Fischer: early mask adherence and strength of policy helps avoid COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 For no particularly obvious reason, the efficacy of masks is constantly under challenge.
@@ -55,7 +55,7 @@ But&hellip; here we are.
 
 ## Low vaccine uptake in red states  
 
-<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-ap.jpg" width="400" height="113" alt="Bynum: Red states lag in vaccine uptake/useage" title="Bynum: Red states lag in vaccine uptake/useage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-ap.jpg" width="400" height="113" alt="Bynum: Red states lag in vaccine uptake/usage" title="Bynum: Red states lag in vaccine uptake/usage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 We
 [previously remarked that vaccine uptake in red areas seemed lower](https://www.someweekendreading.blog/that-didnt-take-long/), 
 to the point that people were capitalizing on it to escape shortages in their blue areas.
@@ -84,7 +84,7 @@ Why, yes.  Yes, we can.
 
 ### The available data  
 
-<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-cdc.jpg" width="400" height="190" alt="CDC: Vaccination useage &amp; uptake by US states" title="CDC: Vaccination useage &amp; uptake by US states" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-cdc.jpg" width="400" height="190" alt="CDC: Vaccination usage &amp; uptake by US states" title="CDC: Vaccination usage &amp; uptake by US states" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - We can get state vaccination rates directly from the CDC. <sup id="fn3a">[[3]](#fn3)</sup>
   They offer the usual complex spreadsheet, which we simplify down to the state, the % of
   vaccine supply used, the % of population with at least 1 dose, and the % of population
