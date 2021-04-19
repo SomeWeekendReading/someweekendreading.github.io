@@ -12,12 +12,14 @@ uptake?  Alas, yes: but not in a good way.
 ## The basic question  
 
 !["Axios: White Republican vaccine hesitancy"]({{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-axios.jpg "Axios: White Republican vaccine hesitancy")
-<img src="{{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-wapo-fishnet-mask.jpg" width="400" height="309" alt="WaPo: malicious compliance fishnet mask at CPAC" title="WaPo: malicious compliance fishnet mask at CPAC" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-wapo-fishnet-mask.jpg" width="400" height="309" alt="WaPo: malicious compliance fishnet mask at CPAC" title="WaPo: malicious compliance fishnet mask at CPAC" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">  
+
 We know that some things help people avoid COVID-19, and hence avoid a pretty awful level
 of danger of disability or death: mask usage and vaccination.  Unfortunately, we know
 that both of those are
 [deeply, desperately, angrily resisted in the US in the red states]({{ site.baseurl }}/republicans-vs-herd-immunity/).
-The reasons almost don't matter: the behaviors lead to death and disability, so they are public
+Their reasons almost don't matter: their behaviors lead to death and disability, as well
+as the spread of increasingly vaccine-resistant variants to the rest of us, so they are public
 health problems for all of us.  
 
 Can we quantify that relationship statistically?  
@@ -31,7 +33,7 @@ Can we quantify that relationship statistically?
 For no particularly obvious reason, the efficacy of masks is constantly under challenge.
 So, first up is a paper by Fischer, _et al._ <sup id="fn1a">[[1]](#fn1)</sup> in _PLoS ONE_ 
 documenting the effect of masking over the last year.  Their work is nicely summarized by
-2 figures from their paper, reproduced here.  
+2 figures from their paper, reproduced here:  
 
 - Figure 1 shows the effect of mask adherence and the date of adopting a mask policy.  The
   vertical axis is proportion of states with high COVID-19 rates.  On the left are the
@@ -43,8 +45,8 @@ documenting the effect of masking over the last year.  Their work is nicely summ
   saved lives.  In each group, they show the date of adoption of the policy.  Clearly
   early required masking saved lives.  
   
-__Conclusion:__ The empirical data on high COVID-19 rates indicate that early mask policy
-saved lives, required mask policy saved lives, and early mask policy saved lives.  Anybody
+__Conclusion:__ The empirical data on high COVID-19 rates indicate that compliance with mask policy
+saved lives, early mask policy saved lives, and required mask policy saved lives.  Anybody
 who argues otherwise has other priorities than saving lives, and that is _bad._  
 
 I'm kind of surprised we need the scientific literature to tell us things this obvious.
@@ -76,8 +78,9 @@ Yale School of Medicine:
 
 Here at Chez Weekend, we wondered if that anecdotal report would really withstand
 statistical scrutiny: can we quantitatively related usage of vaccine supply &amp; fraction
-of population vaccinated with partisanship at the state level?
+of population vaccinated with partisanship at the state level?  
 
+Why, yes.  Yes, we can.  
 
 ### The available data  
 
@@ -230,12 +233,12 @@ higher numbers):
 
 <a id="fn2">2</a>: R Bynum, ["Red states on U.S. electoral map lagging on vaccinations"](https://apnews.com/article/joe-biden-donald-trump-alabama-georgia-savannah-941ef2bf9b60ee39d6b9fd5e2ce861f7), _AP News_, 2021-Apr-14. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Centers for Disease Control, ["COVID Data Tracker (Vaccinations): Data table for COVID Vaccinations in the United States"](https://covid.cdc.gov/covid-data-tracker/#vaccinations), _CDC COVID Data Tracker_, data as of 2021-Apr-16 6:00am ET.  Archived in [a simple CSV file here]({{ site.baseurl }}//assets/2021-04-19-politics-vs-mask-and-vaccine-use-covid19_vaccinations_in_the_united_states.csv).[↩](#fn3a)  
+<a id="fn3">3</a>: Centers for Disease Control, ["COVID Data Tracker (Vaccinations): Data table for COVID Vaccinations in the United States"](https://covid.cdc.gov/covid-data-tracker/#vaccinations), _CDC COVID Data Tracker_, data as of 2021-Apr-16 6:00am ET.  Archived in [a simple CSV file here]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-covid19_vaccinations_in_the_united_states.csv).[↩](#fn3a)  
 
 <a id="fn4">4</a>: Wikipedia, ["2020 United States presidential election (results by state)"](https://en.wikipedia.org/wiki/2020_United_States_presidential_election#Results_by_state), retrieved 2021-Feb-15. [↩](#fn4a)  
 
-<a id="fn5">5</a>: Weekend Editor, [Summary table of 2020 popular votes by state]({{ site.baseurl }}//assets/2021-02-24-republican-impeachment-votes-states.tsv), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Feb-24.  Combined with CDC vaccine utilization data in ref 3 in [a simple TSV file here]({{ site.baseurl }}//assets/2021-04-19-politics-vs-mask-and-vaccine-use-omnibus.tsv). [↩](#fn5a)  
+<a id="fn5">5</a>: Weekend Editor, [Summary table of 2020 popular votes by state]({{ site.baseurl }}/assets/2021-02-24-republican-impeachment-votes-states.tsv), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Feb-24.  Combined with CDC vaccine utilization data in ref 3 in [a simple TSV file here]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-omnibus.tsv). [↩](#fn5a)  
 
-<a id="fn6">6</a>: Weekend Editor, [R script for analysis of vaccine uptake vs Trump margin]({{ site.baseurl }}//assets/2021-04-19-politics-vs-mask-and-vaccine-use.r)[↩], [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-19.  There is also [a text file transcript of running the script]({{ site.baseurl }}//assets/2021-04-19-politics-vs-mask-and-vaccine-use.txt), for peer review.(#fn6a)  
+<a id="fn6">6</a>: Weekend Editor, [R script for analysis of vaccine uptake vs Trump margin]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.r)[↩], [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-19.  There is also [a text file transcript of running the script]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.txt), for peer review.(#fn6a)  
 
 <a id="fn7">7</a>: D Ivory, L Leatherby, &amp; R Gebeloff, ["Least Vaccinated U.S. Counties Have Something in Common: Trump Voters"](https://www.nytimes.com/interactive/2021/04/17/us/vaccine-hesitancy-politics.html), _New York Times_, 2021-Apr-17. [↩](#fn7a)  
