@@ -133,7 +133,7 @@ and the 3 vaccine usage measures:
 - The column tTest.FDR tells us that the $t$-test is significant for all 3 measures of
   vaccine usage, with FDRs from $10^{-3}$ to $10^{-6}$.  There _is_ a real vaccine
   hesitancy in the red states.   
-- The continuous analysis confirms this.  The regression $R^2$ values of 13% - 37% are not
+- The continuous analysis confirms this.  The regression $R^2 \sim 13\% - 37\%$ values are not
   huge, indicating significant variance in the data, but a degree of real trend nonetheless.
   The slope coefficient in the regression model has highly significant FDRs of $10^{-3}$ to
   $10^{-6}$, indicating that there's not a chance in hell this is accidental.  
@@ -145,6 +145,8 @@ Here's what the plot of vaccine measures vs Trump margin looks like:
 - The colors indicate the vaccine measure: % of doses actually used vs sitting in a
   freezer in blue, % population with at least 1 dose in green, and % population with full
   doses in red.  
+- The considerable scatter around each regression line explains why the $R^2$  values were
+  significant, though not spectacular.  
 - In each case, we see a downward trend with Trump margin: states with more Trump voters
   use less vaccine, and have less of their population protected.  
 - The effect is weakest with % population fully vaccinated, as expected from having the
