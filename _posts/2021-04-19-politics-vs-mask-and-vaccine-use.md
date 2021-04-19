@@ -130,11 +130,12 @@ We did both discrete and continuous analyses:
 Here is a summary of the statistical significance of the relationship between Trump margin
 and the 3 vaccine usage measures:  
 - The column tTest.FDR tells us that the $t$-test is significant for all 3 measures of
-  vaccine usage.  There _is_ a real vaccine hesitancy in the red states.  
+  vaccine usage, with FDRs from $10^{-3}$ to $10^{-6}$.  There _is_ a real vaccine
+  hesitancy in the red states.   
 - The continuous analysis confirms this.  The regression $R^2$ values of 13% - 37% are not
-  huge, indicating significant variance in the data but some degree of trend.  The slope
-  coefficient in the regression model has highly significant FDRs of $10^{-3}$ to
-  $10^{-6}, indicating that there's not a chance in hell this is accidental.  
+  huge, indicating significant variance in the data, but a degree of real trend nonetheless.
+  The slope coefficient in the regression model has highly significant FDRs of $10^{-3}$ to
+  $10^{-6}$, indicating that there's not a chance in hell this is accidental.  
   
 <img src="{{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-plot.png" width="400" height="400" alt="% doses used, % population vaccinated vs Trump Margin" title="% doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here's what the plot of vaccine measures vs Trump margin looks like:  
@@ -183,7 +184,7 @@ mainstream media:
     <a href="https://t.co/e0CM8TgF2j">pic.twitter.com/e0CM8TgF2j</a> 
   </p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1382978318534868992?ref_src=twsrc%5Etfw">April 16, 2021</a>
 </blockquote> 
-<script async src="https://platform.twitter.com/widgets.js""></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -196,7 +197,7 @@ mainstream media:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 One could wish for the times to be less fraught with self-inflicted wounds from stupidity.
-But, again, here we are.  
+But, again&hellip; here we are.  
 
 
 ## Addendum late 2021-Apr-19  
@@ -218,7 +219,7 @@ across age (though the youngs who _do_ accept vaccination (dark blue bar) appear
 higher numbers):  
 !["NYT: Vaccination rates by age and partisanship"]({{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-nyt-3.jpg "NYT: Vaccination rates by age and partisanship")
 
-[_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  [Jacobson v Massachusetts](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) may become a regrettable inevitability, just for survival.  
+[_O tempora, o mores._](https://en.wikipedia.org/wiki/O_tempora,_o_mores!)  It appears that [Jacobson v Massachusetts](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) may become a regrettable inevitability, just for survival.  
 
 ---
 
