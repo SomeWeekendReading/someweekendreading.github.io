@@ -237,7 +237,7 @@ higher numbers):
 
 <a id="fn4">4</a>: Wikipedia, ["2020 United States presidential election (results by state)"](https://en.wikipedia.org/wiki/2020_United_States_presidential_election#Results_by_state), retrieved 2021-Feb-15. [↩](#fn4a)  
 
-<a id="fn5">5</a>: Weekend Editor, [Summary table of 2020 popular votes by state]({{ site.baseurl }}/assets/2021-02-24-republican-impeachment-votes-states.tsv), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Feb-24.  Combined with CDC vaccine utilization data in ref 3 in [a simple TSV file here]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-omnibus.tsv). [↩](#fn5a)  
+<a id="fn5">5</a>: Weekend Editor, [Omnibus dataset of state popular vote and vaccine usage]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-omnibus.tsv), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Feb-24. [↩](#fn5a)  
 
 <a id="fn6">6</a>: Weekend Editor, [R script for analysis of vaccine uptake vs Trump margin]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.r), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-19.  There is also [a text file transcript of running the script]({{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use.txt), for peer review. [↩](#fn6a)  
 
