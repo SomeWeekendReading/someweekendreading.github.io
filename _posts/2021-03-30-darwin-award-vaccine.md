@@ -6,7 +6,7 @@ comments: true
 ---
 
 Sometimes politicians pursue policies so _breathtakingly_ out of touch with reality, you
-just don't know what to say.  Understandable, because "breathtaking".  
+just don't know what to say.  (Understandably, because "breathtaking".)  
 
 
 ## The Darwin Prize  
@@ -88,16 +88,16 @@ So there are 2 strategies under consideration here:
 
 Strategy (1) vaccinates a bunch of people as fast as possible, making them at least
 partially immune as soon as possible.  Strategy (2) makes those same people wait, while
-you vaccinate slowly for no particular reason other than that you want to be seen _doing_
-something every day.  It sacrifices lives for political theatre.  
+you vaccinate slowly for no particular reason other than _to be seen doing
+something_ every day.  It sacrifices lives for political theatre.  
 
-Vaccines are not like food, to be rationed out in an emergency over a period of time, to
-prevent starvation.  The correct strategy is to _use them up_ by getting them into
+Vaccines are not like food and water, to be rationed out in an emergency over a period of time, to
+prevent starvation or thirst.  The correct strategy is to _use them up_ by getting them into
 people's arms as fast as possible.  The alternative is to make people wait, during which
 time some of them will die.  
 
 Technically, a Darwin Awardee must be killed by their own deed, or at least accidentally
-sterilized so they do not reproduce further.  Drakeford does not therefore qualify.
+sterilized so they do not reproduce further.  Drakeford does not therefore qualify, technically.
 But&hellip; given that some nonzero number of people died before this policy
 was corrected, he's certainly had an effect on others.  
 
