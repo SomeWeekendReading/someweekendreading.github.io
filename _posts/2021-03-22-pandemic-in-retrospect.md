@@ -68,8 +68,8 @@ Ok, winning.  I like winning.  Let's do some more of that, for a change.
 What else is there?  Well, consider [Ashish Jha](https://en.wikipedia.org/wiki/Ashish_Jha) 
 (Dean of the [School of Public Health at Brown](https://www.brown.edu/academics/public-health/)), 
 responding to 
-[Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver (statistical prediction wizard behind 
-[FiveThirtyEight](https://fivethirtyeight.com/), both experienced, fiercely intelligent,
+[Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) (statistical prediction wizard behind 
+[FiveThirtyEight](https://fivethirtyeight.com/)), both experienced, fiercely intelligent,
 and worth a listen:  
 
 
