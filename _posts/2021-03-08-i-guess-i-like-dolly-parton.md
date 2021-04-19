@@ -14,11 +14,11 @@ Hmm&hellip; I had _no idea._
 ## Country music and me  
 
 <img src="{{ site.baseurl }}/images/2021-03-08-i-guess-i-like-dolly-parton-dolly.jpg" width="200" height="280" alt="Dolly Parton (Wikipedia)" title="Dolly Parton (Wikipedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Frankly, American country music and me&hellip; we don't really mix.  I always associated
+Frankly, American country music and me&hellip; we don't really mix.  I always associated it
 with low-brow, loud, and crude entertainment for people who are (usually) annoyingly
 right-wing rural types.  Not my demographic, really.  I of course have no objection to
-_other_ people liking it (though I am puzzled).   I just don't want to suffer through it
-personally.  
+_other_ people liking it. (Though I am politely puzzled.  I mean, some people like 
+_professional wrestling._)   I just don't want to suffer through it personally.  
 
 So when [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) to see about 
 [Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton), I was skeptical.  I thought 
