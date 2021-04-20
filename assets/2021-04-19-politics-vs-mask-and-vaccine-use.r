@@ -70,10 +70,11 @@ doit <- function(## Inputs
     votesVaxData                                       # Return the omnibus dataset
   }                                                    #
 
-  testHypothesis <- function(votesVaxData, resultsDir, signifFile, plotFile) {
-    ## Names of vars being tested and associated colors for plot
-    cols <- c("PctDosesUsed" = "blue", "PctPopln1Dose" = "green", "PctPoplnFullDose" = "red")
-
+  testHypothesis <- function(votesVaxData, resultsDir, signifFile, plotFile,
+                             ## Names of vars being tested and associated colors for plot
+                             cols = c("PctDosesUsed"     = "blue",
+                                      "PctPopln1Dose"    = "green",
+                                      "PctPoplnFullDose" = "red")) {
     models <- NULL                                     # Keep regression models to plot lines later
     modelSignifs <- transform(ldply(names(cols), function(var) {
       cat(sprintf("\n* Testing relation of %s to TrumpMargin:", var))
@@ -121,12 +122,32 @@ doit <- function(## Inputs
                pch = 21, pt.cex = 1.5, pt.bg = cols, legend = names(cols))
       }, pty = "m",                                    # Maximal plotting area
          bg  = "white",                                # White background (sigh)
-         las = 1,                                      # Tick labels always vertical
          ps  = 14,                                     # Larger type size for file capture
+         las = 1,                                      # Tick labels always vertical
          mgp = c(1.7, 0.5, 0),                         # Axis title, label, tick
          mar = c(3, 3, 2, 1))                          # Pull in on margins
     })                                                 #
     cat(sprintf("\n* Plot saved to %s.\n\n", f))       #
+
+    f <- sub("^(.*)\\.png$", "\\1-boxplot.png", f)     # Modify filename for boxplot
+    withPNG(f, 400, 600, FALSE, function() {           #
+      withPars(function() {                            #
+        sapply(names(cols), function(varname) {        #
+          boxplot(as.formula(sprintf("%s ~ TrumpState > 0", varname)),
+                  data = votesVaxData, col = cols[[varname]], range = 0,
+                  xlab = "TrumpState", ylab = varname) #
+          title(main = "Vaccine Usage/Uptake vs Trump State", outer = TRUE)
+        })                                             #
+      }, pty   = "m",                                  #
+         bg    = "white",                              #
+         mfrow = c(3, 1),                              #
+         ps    = 14,                                   #
+         las   = 1,                                    #
+         mgp   = c(1.7, 0.5, 0),                       #
+         mar   = c(3, 3, 1, 1),                        #
+         oma = c(0, 0, 1, 0))                          #
+    })                                                 #
+    cat(sprintf("\n* Boxplot saved to %s.\n\n", f))    #
 
     modelSignifs                                       # Return significance table
   }                                                    #
