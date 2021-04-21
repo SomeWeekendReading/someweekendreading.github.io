@@ -69,7 +69,7 @@ _insist_ the system is right and good and working, when the evidence in front of
 eyes is that it is _not_.  As an aspiring Bayesian rationalist, I find this hard to
 understand, and harder to deal with.  But&hellip; simple stubborn persistence paid off.  
 
-<img src="{{ site.baseurl }}/images/2021-03-31-weekend-editrix-got-shot-hypo.jpg" width="400" height="403" alt="Weekend Editrix's portside dorsal manipulator tentacle being injected" title="Weekend Editrix's portside dorsal manipulator tentacle being injected" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-03-31-weekend-editrix-got-shot-hypo.jpg" width="400" height="403" alt="Weekend Editrix's portside dorsal manipulator ... ARM being injected" title="Weekend Editrix's portside dorsal manipulator ... ARM being injected" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Herein illustrated is the Weekend Editrix's portside dorsal&hellip; _arm_.  (She has arms;
 I have tentacles.  Just so we're clear.)  She's getting a syringe of lovely
 BNT162/PF-07302048, a.k.a. tozinameran/Comirnaty.  

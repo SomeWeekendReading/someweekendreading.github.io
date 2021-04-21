@@ -5,7 +5,7 @@ tags: COVID PharmaAndBiotech
 comments: true
 ---
 
-Today the Weekend Editrix got shot.  Again.  The good way.  
+Today the Weekend Editrix got shot.  Again.  (The good way.)  
 
 
 ## Getting the second dose  
@@ -23,7 +23,7 @@ of reason, checked the list and let us in.
 Why do people insist their sytems work when _clearly_ the do not?  And why are the
 reasonable people the third layer of backup?  
 
-<img src="{{ site.baseurl }}/images/2021-04-21-weekend-editrix-got-shot-again-hypo.jpg" width="400" height="400" alt="Weekend Editrix's portside dorsal manipulator tentacle being injected (again)" title="Weekend Editrix's portside dorsal manipulator tentacle being injected (again)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-04-21-weekend-editrix-got-shot-again-hypo.jpg" width="400" height="400" alt="Weekend Editrix's portside dorsal manipulator ... ARM being injected (again)" title="Weekend Editrix's portside dorsal manipulator ... ARM being injected (again)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Herein illustrated is the Weekend Editrix, now in receipt of her second dose of
 BNT162b2/PF-07302048, a.k.a. tozinameran/Comirnaty.  I note with some approval that the
 nurse was appropriately gloved and sanitized the gloves beforehand with alcohol, unlike my
