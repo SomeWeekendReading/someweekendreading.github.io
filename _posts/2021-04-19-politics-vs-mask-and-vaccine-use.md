@@ -191,7 +191,7 @@ mainstream media:
   <p lang="en" dir="ltr">
     The U.S. is preparing for the possibility that a booster shot will be needed between
 	nine to 12 months after people are initially vaccinated against COVID-19, a White
-	House official said <a href="https://t.co/kOHpRdm672">https://t.co/kOHpRdm672</a> 
+	House official said <a href="https://www.cbsnews.com/news/moderna-covid-vaccine-booster-shots/">https://www.cbsnews.com/news/moderna-covid-vaccine-booster-shots/</a> 
     <a href="https://t.co/e0CM8TgF2j">pic.twitter.com/e0CM8TgF2j</a> 
   </p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1382978318534868992?ref_src=twsrc%5Etfw">April 16, 2021</a>
 </blockquote> 
