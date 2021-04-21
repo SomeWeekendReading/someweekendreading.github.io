@@ -23,7 +23,7 @@ of reason checked the list and let us in.
 Why do people insist their sytems work when _clearly_ the do not?  
 
 <img src="{{ site.baseurl }}/images/2021-04-21-weekend-editrix-got-shot-again-hypo.jpg"
-width="400" height="533" alt="Weekend Editrix's portside dorsal manipulator tentacle being
+width="400" height="400" alt="Weekend Editrix's portside dorsal manipulator tentacle being
 injected (again)" title="Weekend Editrix's portside dorsal manipulator tentacle being
 injected (again)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid
 #000000;"/>
