@@ -139,7 +139,7 @@ and the 3 vaccine usage measures:
   $\mathrm{FDR} \sim 10^{-6} - 10^{-3}$, indicating that there's not a chance in hell this
   is accidental.  
 
-<img src="{{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-boxplot.png" width="400" height="600" alt="Discrete: % doses used, % population vaccinated vs Trump Margin" title="Discrete: % doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-plot-boxplot.png" width="400" height="600" alt="Discrete: % doses used, % population vaccinated vs Trump Margin" title="Discrete: % doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here's what the boxplot of regression measures vs Trump margin looks like.  The bar shows
 the median, the box shows the upper &amp; lower quartile, and the whisker shows the range
 of the data.  In all cases, the outcome is _worse_ in Trump states.  The difference is 
