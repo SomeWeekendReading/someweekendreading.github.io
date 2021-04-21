@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today the Weekend Editrix got shot
+title: Today the Weekend Editrix got shot (again)
 tags: COVID PharmaAndBiotech 
 comments: true
 ---
