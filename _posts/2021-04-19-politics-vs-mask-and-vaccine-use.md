@@ -179,7 +179,7 @@ Beats me.  I wish I could figure out how to persuade people not to be self-destr
 
 The consequences of slow/low vaccination rates are that viral variants are inevitably
 taking over, one of which will eventually have an escape mutation to evade current
-vaccines.  Then we'll need _booster_ vaccines again.  Fortunatley, we know that those
+vaccines.  Then we'll need _booster_ vaccines again.  Fortunately, we know that those
 are [already under development]({{ site.baseurl }}/variants-vs-vaccines/#mrna-vaccines-and-boosters-for-variants),
 and that
 [the FDA is prepared for accelerated approvals like the yearly flu virus variant vaccines]({{ site.baseurl }}/variants-vs-vaccines/#what-about-the-fda).  

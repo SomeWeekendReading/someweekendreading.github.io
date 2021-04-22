@@ -35,6 +35,16 @@ weeks: her Immunity Freedom Day will be May 5.
 
 Tune in tomorrow to see what side effects may follow.  
 
+
+## Addendum 2021-Apr-22: the Weekend Edtrix's sequelae  
+
+It's worse than last time, but still not too bad.  Her arm is a bit sore, but easily endured.
+She had a fever that peaked last night (actual temp: normal + 2.0&deg;C).  Some 8hr
+long-lasting acetaminophen got that down to a more reasonable place.  Tired, but ensconced
+on the couch busy building antibodies &amp; training memory B cells.  
+
+So far, so good.  
+
 ---
 
 ## Notes &amp; References  
