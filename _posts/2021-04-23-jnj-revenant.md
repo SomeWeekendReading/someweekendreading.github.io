@@ -6,9 +6,8 @@ comments: true
 ---
 
 Today the Advisory Committee on Immunization Practices (ACIP) today recommended restoring
-use of the JnJ COVID-19 vaccine, with warnings/advice for women under 50, and instructions
-for avoiding heparin in treating thrombosis with thrombocytopenia syndrom (TTS).  The CDC
-&amp; FDA agreed, and lifted the restrictions.  This seems to be very much the correct
+use of the JnJ COVID-19 vaccine with warnings, and thrombosis treatment guidelines for clinicians.
+The CDC &amp; FDA agreed, and lifted the restrictions.  This seems to be very much the correct
 conclusion, albeit one arrived at far too slowly.  
 
 
@@ -53,6 +52,7 @@ $$
   d/dt \Pr(\mathrm{thrombosis.death} | \mathrm{vax}) & = (25/\mathrm{fortnight}) / 6.8 \times 10^{+6} \\ 
                                                      & = 3.68 \times 10^{-6}/\mathrm{fortnight}
 \end{align*}
+$$
 
 This is our updated baseline rate of CVSTs within 2 weeks of getting JnJ, assuming all of them are
 associated with the vaccine.  As we discussed 
