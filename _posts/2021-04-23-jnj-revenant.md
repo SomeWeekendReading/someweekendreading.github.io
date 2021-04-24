@@ -105,6 +105,9 @@ attributed to the JnJ vaccine, _you're still saving lives compared to the other 
 patients face, especially COVID-19 itself_.  So resuming its use seems eminently
 sensible.  
 
+
+## A look through the slides presented to the ACIP  
+
 <img src="{{ site.baseurl }}/images/2021-04-23-jnj-revenant-acip-slides.jpg" width="400" height="191" alt="ACIP: slides for talks about JnJ risk model and recommendations" title="ACIP: slides for talks about JnJ risk model and recommendations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The ACIP put all the slides used in the discussion up for public view, along with a video
 feed of the meeting. <sup id="fn2a">[[2]](#fn2)</sup>
@@ -143,7 +146,7 @@ this crummy little blog, but it would be funny if they did.)
 
 <img src="{{ site.baseurl }}/images/2021-04-23-jnj-revenant-acip-variants.jpg" width="400" height="219" alt="ACIP: variants in the US" title="ACIP: variants in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-04-23-jnj-revenant-acip-benefits.jpg" width="400" height="449" alt="ACIP: COVID-19 benefits and TTS risks" title="ACIP: COVID-19 benefits and TTS risks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-The last speaker, Oliver, had [the best presentation (well worth your time)](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-04-23/06-COVID-Oliver-508.pdf).
+The last speaker, Sara Oliver, had [the best presentation (well worth your time)](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-04-23/06-COVID-Oliver-508.pdf).
 They went on for a bit about their "Evidence to Recommendations framework",
 which apparently is a semi-formal method for making policy recommendations based on the
 evidence of adverse events.  Seems like a good thing to have, given that we want to
@@ -188,7 +191,7 @@ The FDA and the CDC are jointly responsible for the
 pause.  They don't _have_ to listen to the ACIP recommendations, but they usually do.  Not
 to do so here would be egregiously bad.  
 
-So we were gratified to read, in the venerable _Globe_ <sup id="fn3a">[[3]](#fn3)</sup>,
+So we were gratified to read in the venerable _Globe_ <sup id="fn3a">[[3]](#fn3)</sup>
 that later in the evening the regulatory agencies did just that, ending the 11 day pause.
 Women 18-49 are now to be advised of the thrombosis risk, and told to go to an ER if they
 have them.  Emergency medicine folk have been told not to use heparin for thromboses if
@@ -198,7 +201,12 @@ strategy.)
 
 <img src="{{ site.baseurl }}/images/2021-04-23-jnj-revenant-wapo.jpg" width="400" height="146" alt="Washington Post: JnJ manufacturing woes at Emergent plant" title="Washington Post: JnJ manufacturing woes at Emergent plant" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 So that all looks pretty good.  Now if only JnJ can get their manufacturing act
-straightened out&hellip;  <sup id="fn4a">[[4]](#fn4)</sup>
+straightened out&hellip;  <sup id="fn4a">[[4]](#fn4)</sup> because 
+[as Abba Eban remarked on another subject](https://en.wikiquote.org/wiki/Abba_Eban), 
+we "never miss an opportunity to miss an opportunity" to do things right with COVID-19
+vaccines.  (Though that's good snark, it's too pessimistic here.  We did _amazingly well_
+at making vaccines with unheard-of-efficacy at record speed, in spite of the US lacking a
+functional federal government at the time.  The distribution has been more problematic.)  
 
 
 ## The weekend assessment  
