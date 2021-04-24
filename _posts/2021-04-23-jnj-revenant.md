@@ -106,7 +106,7 @@ patients face, especially COVID-19 itself_.  So resuming its use seems eminently
 sensible.  
 
 
-## A look through the slides presented to the ACIP  
+## A quick trawl through the slides presented to the ACIP  
 
 <img src="{{ site.baseurl }}/images/2021-04-23-jnj-revenant-acip-slides.jpg" width="400" height="191" alt="ACIP: slides for talks about JnJ risk model and recommendations" title="ACIP: slides for talks about JnJ risk model and recommendations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The ACIP put all the slides used in the discussion up for public view, along with a video
@@ -236,7 +236,7 @@ Self inflicted wounds are the slowest to heal.
 
 <a id="fn1">1</a>: H Branswell, ["CDC advisory panel backs J&J’s Covid-19 vaccine, clearing way for pause to be lifted"](https://www.statnews.com/2021/04/23/cdc-advisory-panel-backs-jjs-covid-19-vaccine-clearing-way-for-pause-to-be-lifted/), [_STAT News_](https://www.statnews.com), 2021-Apr-23. [↩](#fn1a)  
 
-<a id="fn2">2</a>: J Romero, A Cohn, B Bell, M Streiff, T Shimabukuro, G Lee, &amp; S Oliver, ["ACIP Presentation Slides: April 23, 2021 Meeting"](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-04-23.html), Advisory Committee on Immunization Practices, 2021-Apr-23.  There was also a video livestream [here](https://www.ustream.tv/channel/VWBXKBR8af4), but it seems to be gone as of the evening of the 23rd.[↩](#fn2a)  
+<a id="fn2">2</a>: J Romero, A Cohn, B Bell, M Streiff, T Shimabukuro, G Lee, &amp; S Oliver, ["ACIP Presentation Slides: April 23, 2021 Meeting"](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-04-23.html), Advisory Committee on Immunization Practices, 2021-Apr-23.  The meeting agenda is [here](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2021-04-23-508.pdf).  There was also a video livestream [here](https://www.ustream.tv/channel/VWBXKBR8af4), but it seems to be gone as of the evening of the 23rd.  They tend to show up eventually on [the CDC's YouTube channel](https://www.youtube.com/c/CDC/videos), though.[↩](#fn2a)  
 
 <a id="fn3">3</a>: L Neergaard &amp; M Stobbe, ["Health officials lift pause on Johnson & Johnson vaccine following panel recommendation"](https://www.bostonglobe.com/2021/04/23/nation/federal-health-panel-reviews-johnson-johnson-vaccine-pause-over-rare-clots/?event=event12), _Boston Globe_, 2021-Apr-23. [↩](#fn3a)  
 
