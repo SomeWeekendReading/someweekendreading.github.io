@@ -204,9 +204,10 @@ So that all looks pretty good.  Now if only JnJ can get their manufacturing act
 straightened out&hellip;  <sup id="fn4a">[[4]](#fn4)</sup> because 
 [as Abba Eban remarked on another subject](https://en.wikiquote.org/wiki/Abba_Eban), 
 we "never miss an opportunity to miss an opportunity" to do things right with COVID-19
-vaccines.  (Though that's good snark, it's too pessimistic here.  We did _amazingly well_
+vaccines.  (Though that's good snark, it's slightly too pessimistic here.  We did _amazingly well_
 at making vaccines with unheard-of-efficacy at record speed, in spite of the US lacking a
-functional federal government at the time.  The distribution has been more problematic.)  
+functional federal government at the time, so it was an international effort.  The
+distribution, though, has been more problematic.)  
 
 
 ## The weekend assessment  
