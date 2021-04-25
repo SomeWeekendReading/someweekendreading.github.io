@@ -82,6 +82,18 @@ As Philip Schellekens, a senior economic advisor at the World Bank, points out:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Many countries have started vaccination. But let’s keep in mind that the distribution
+    of this 1 billion doses remains highly unequal relative to global needs. <br><br>
+    Details: <a href="https://t.co/wvtoUmMveK">https://t.co/wvtoUmMveK</a> 
+    <a href="https://t.co/tSY9hHSCtq">pic.twitter.com/tSY9hHSCtq</a>
+  </p>
+  &mdash; Philip Schellekens (@fibke) 
+  <a href="https://twitter.com/fibke/status/1385963041863442436?ref_src=twsrc%5Etfw">April 24, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 
 ## Yeah, we're not anywhere near done yet  
 
