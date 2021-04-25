@@ -11,13 +11,13 @@ has been administered.
 
 ## A billion doses  
 
-The original data comes from the Bloomberg COVID-19 tracker.<sup id="fn1a">[[1]](#fn1)</sup>
-I don't have an account with them, and have completely lost patience with companies that
+The original data comes from the Bloomberg COVID-19 tracker. <sup id="fn1a">[[1]](#fn1)</sup>
+Now, I don't have an account with them, and have completely lost patience with companies that
 try to seduce me into giving them more of my personal info to create a "free" account.  
 
 So we're going to rely on an extraordinarily reliable secondary source: Eric Topol,
 director of the Scripps Research Translational Institute, professor of molecular medicine,
-and former leader of the Cleveland Clinic.  I always feel like Twitter is a slighty skeevy
+and former leader of the Cleveland Clinic.  I always feel like Twitter is a sorta skeevy
 data source, but I'm willing to listen to Topol (who, to his credit, usually points to primary
 sources so you can check things out for a bit of mini-peer-review).  
 
@@ -37,6 +37,8 @@ He points out that yesterday we passed an interesting milestone (base 10, anyway
   <a href="https://twitter.com/EricTopol/status/1386002974422433795?ref_src=twsrc%5Etfw">April 24, 2021</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
+
+## Yeah, ok&hellip; but not so fast!  
 
 On the more dour hand, I remind you that while 1 billion doses is a lot, there are
 approximatley 8 billion humans currently living.  All else being equal, they would mostly
