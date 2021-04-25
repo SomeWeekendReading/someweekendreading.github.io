@@ -38,11 +38,11 @@ He points out that yesterday we passed an interesting milestone (base 10, anyway
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-## Yeah, ok&hellip; but not so fast!  
+## Yeah, ok&hellip; but not so fast!  How much does that mean?  
 
 On the more dour hand, I remind you that while 1 billion doses is a lot, there are
 approximatley 8 billion humans currently living.  All else being equal, they would mostly
-like to stay living, and need vaccines.  
+like to continue living, and thus need vaccines.  
 
 So are we 1/8th of the way through, at least?  
 
