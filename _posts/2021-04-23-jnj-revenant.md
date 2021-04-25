@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JnJ Revenant
-tags: COVID MathInTheNews PharmaAndBiotech 
+tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
 
