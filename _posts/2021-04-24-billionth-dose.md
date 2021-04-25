@@ -86,7 +86,8 @@ As Philip Schellekens, a senior economic advisor at the World Bank, points out:
 ## Yeah, we're not anywhere near done yet  
 
 We still have a lot of work to do: vaccinating _all_ people, and making sure we don't fall into
-the racist traditions of the past so we get _everybody_ a shot at a shot.  
+the racist traditions of the past so we get _everybody_ a shot at a shot.  For now,
+especially India.  
 
 The first billion have been the easy ones.  
 

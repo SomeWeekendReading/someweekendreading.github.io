@@ -20,7 +20,7 @@ _insisting_ that a text was sent, and we just needed to look for it.  Again, sim
 stubborn persistence paid off: within about 10min a 3rd person, possessed with a modicum
 of reason, checked the list and let us in.  
 
-Why do people insist their sytems work when _clearly_ they do not?  And why are the
+Why do people insist their systems work when _clearly_ they do not?  And why are the
 reasonable people always the third layer of backup?  
 
 <img src="{{ site.baseurl }}/images/2021-04-21-weekend-editrix-got-shot-again-hypo.jpg" width="400" height="400" alt="Weekend Editrix's portside dorsal manipulator ... ARM being injected (again)" title="Weekend Editrix's portside dorsal manipulator ... ARM being injected (again)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
