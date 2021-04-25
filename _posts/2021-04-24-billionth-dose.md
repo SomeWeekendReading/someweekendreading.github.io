@@ -5,7 +5,11 @@ tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
 
-As of yesterday, the billionth COVID-19 vaccination dose has been administered.  
+As of yesterday, we passed a remarkable milestone: the billionth COVID-19 vaccination dose
+has been administered.  
+
+
+## A billion doses  
 
 The original data comes from the Bloomberg COVID-19 tracker.<sup id="fn1a">[[1]](#fn1)</sup>
 I don't have an account with them, and have completely lost patience with companies that
@@ -58,6 +62,9 @@ So&hellip; 8 billion people $\times$ 2 doses per person = 16 billion doses neede
 it 14 billion, if you're going to be optimistic about the reach of a single-shot JnJ
 protocol.  
 
+
+## But for whom?  
+
 And we haven't exactly been vaccinating "people in general", mostly the rich countries.
 As Philip Schellekens, a senior economic advisor at the World Bank, points out:  
 
@@ -73,9 +80,13 @@ As Philip Schellekens, a senior economic advisor at the World Bank, points out:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-The first billion have been the easy ones.  We still have a lot of work to do: vaccinating
-people, and making sure we don't fall into racist traditions of the past so we get
-_everybody_ a shot at a shot.  
+
+## Yeah, we're not anywhere near done yet  
+
+We still have a lot of work to do: vaccinating people, and making sure we don't fall into
+racist traditions of the past so we get _everybody_ a shot at a shot.  
+
+The first billion have been the easy ones.  
 
 ---
 
@@ -86,6 +97,5 @@ _everybody_ a shot at a shot.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Yeah, I'd love to cite Bloomberg properly, but their defenses and
+<a id="fn1">1</a>: Yeah, I'd love to cite Bloomberg properly.  But their paywall defenses or
 requirement for a "free" account have successfully deterred me from reading.  [↩](#fn1a)  
-
