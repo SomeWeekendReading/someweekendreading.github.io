@@ -38,7 +38,7 @@ He points out that yesterday we passed an interesting milestone (base 10, anyway
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-## Yeah, ok&hellip; but not so fast!  How much does that mean?  
+## Not so fast!  How meaningful is that?  
 
 On the more dour hand, I remind you that while 1 billion doses is a lot, there are
 approximatley 8 billion humans currently living.  All else being equal, they would mostly
@@ -83,7 +83,7 @@ As Philip Schellekens, a senior economic advisor at the World Bank, points out:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 
-## Yeah, we're not anywhere near done yet  
+## We're not anywhere near done yet  
 
 We still have a lot of work to do: vaccinating _all_ people, and making sure we don't fall into
 the racist traditions of the past so we get _everybody_ a shot at a shot.  Especially in
