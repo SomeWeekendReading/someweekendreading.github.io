@@ -98,6 +98,17 @@ true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thoma
 in 1798, after the passage of the 
 [Alien and Sedition Acts](https://en.wikipedia.org/wiki/Alien_and_sedition_acts)  
 
+"Never believe that anti-Semites are completely unaware of the absurdity of their
+replies. They know that their remarks are frivolous, open to challenge. But they are
+amusing themselves, for it is their adversary who is obliged to use words responsibly,
+since he believes in words. The anti-Semites have the right to play. They even like to
+play with discourse for, by giving ridiculous reasons, they discredit the seriousness of
+their interlocutors. They delight in acting in bad faith, since they seek not to persuade
+by sound argument but to intimidate and disconcert. If you press them too closely, they
+will abruptly fall silent, loftily indicating by some phrase that the time for argument is
+past." &mdash; [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre); true of
+the fact-free nihilistic of the right-wing in general, not _just_ anti-Semites.  
+
 "We live in capitalism; its power seems inescapable. So did the divine right of kings."
 &mdash; [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin), accepting 
 the National Book Foundation’s Medal for Distinguished Contribution to American Letters 

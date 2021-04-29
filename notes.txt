@@ -296,15 +296,11 @@ Notes on blogging tech.
     (Kramdown developer acknowledges bug; will fix in next release)
     Test workaround to emit entities as entities, not single chars?
 
-cacoethes is an irresistible urge to do something unadvisable.
+cacoethes is an irresistible urge to do something inadvisable.
 
 *** tags field on about, 404, and quotes: doesn't know to split on spaces?
 
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
-
-
-5800 infections vs 78mln vaccinees
-
 
 Blog posts:
 * Google Translate assessment
@@ -472,4 +468,3 @@ experience—that we cannot change, we cannot move away from what we are, until 
 thoroughly accept what we are. Then change seems to come about almost unnoticed.
 
 --------------------------------------------------------------------------------
-
