@@ -130,7 +130,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
       to the rest of the virus particle.  
     - But in the vaccine, we have _just_ the spike, and in its original form it's not
       stable.  It would fold up the wrong way, and your body would produce antibodies that
-      don't correspond to what's on the actual virus. This was a discoery of the 
+      don't correspond to what's on the actual virus. This was a discovery of the 
       [Mclellan group at UT Austin](https://www.mclellanlab.org/), in their 2017 work on 
       the MERS virus <sup id="fn3a">[[3]](#fn3)</sup>: if you substitute proline, it gets
       more rigid and stays in the right shape.  (Once again, we're very lucky: RNA
@@ -178,7 +178,7 @@ Be thankful.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: B Hubert, ["Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine"](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/), 2020-Dec-25. [↩](#fn1a)  
+<a id="fn1">1</a>: B Hubert, ["Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine"](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/), [_BertHub.eu_ blog](https://berthub.eu/), 2020-Dec-25. [↩](#fn1a)  
 
 <a id="fn2">2</a>: K Asrani, _et al.,_ ["Optimization of mRNA untranslated regions for improved expression of therapeutic mRNA"](https://www.tandfonline.com/doi/full/10.1080/15476286.2018.1450054), _RNA Biology_ 15:6 (2018), 756-762. [↩](#fn2a)  
 
