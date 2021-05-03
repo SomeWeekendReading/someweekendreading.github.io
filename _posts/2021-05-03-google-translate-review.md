@@ -153,7 +153,7 @@ _aspires_ to be "kind of amusing", so I think I'll keep it.
 
 ## The Real Conclusion
 
-Honestly, the most important lesson for me was renewed respect for my friends and
+Honestly, the most important lesson for me was: renewed respect for my friends and
 colleagues from all over the world.  I'm proud to know you and to have worked with all of
 you.  Thanks for taking the time to offer some thoughts on an obscure little blog!  
 
