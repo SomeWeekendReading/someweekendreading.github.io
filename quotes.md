@@ -1124,4 +1124,7 @@ _Business Week_, 14-Nov-2003.
 - "I believe in [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).  If I keep seeing examples of confirmation bias everywhere, is _that_ an example of confirmation bias?"  
 - "'It was obvious in retrospect': of course it was &ndash; _everything_ should be obvious in retrospect, because any damn fool can predict the past."  
 - "It may not be a wonderful thing, but it is a thing that makes you wonder."  
-- "Self-inflicted wounds are the slowest to heal."
+- "Self-inflicted wounds are the slowest to heal."  
+- "You should be _happy_ to find out you're wrong, because you're about to learn
+  something."  
+- "Hey, Bayes Rule is _a priori_ plausible, isn't it?"  

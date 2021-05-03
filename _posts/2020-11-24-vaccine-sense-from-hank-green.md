@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some sense about vaccines from Hank Green
-tags: COVID Politics TheDivineMadness
+tags: COVID NotableAndQuotable Politics TheDivineMadness
 comments: true
 ---
 
