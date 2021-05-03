@@ -12,11 +12,12 @@ for this blog.  It's time to review how well it's been working&hellip; or not.
 ## The Big Button  
 
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-button.jpg" width="157" height="45" alt="Google Translate Button" title="Google Translate Button" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-A few weeks ago, some of you noticed the big ol' button in the upper right.  It's supposed to
-translate the current page (and other pages in the blog when you click links) into the
-language of your choice.  Really an absurd variety of languages, including some of which
-are more or less unused, like [Latin](https://en.wikipedia.org/wiki/Latin) and 
-[Esperanto](https://en.wikipedia.org/wiki/Esperanto) (though, sadly, not 
+
+A few weeks ago, some of you noticed the big ol' button in the upper right of each page.
+It's supposed to translate the current page (and other pages in the blog when you click
+links) into the language of your choice.  Really an absurd variety of languages, including
+some of which are more or less unused, like [Latin](https://en.wikipedia.org/wiki/Latin)
+and [Esperanto](https://en.wikipedia.org/wiki/Esperanto) (though, sadly, not 
 [Lojban](https://en.wikipedia.org/wiki/Lojban)).  
 
 ## How (Not?) to Do It  
@@ -43,7 +44,10 @@ thought!
 
 Here's some of what native speakers of several other languages said:  
 
-<!-- NB: Kramdown doesn't know the GFM flag emoticons, like :jp:, :fr:, :cn:, :india:, etc. -->
+<!-- NB: Kramdown doesn't know the GFM flag emoticons, for example:
+     :jp:, :fr:, :india:, :it:, :cn:, :ru:, :greece:, :romania:
+-->
+
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-japanese.jpg" width="400" height="106" alt="Japanese" title="Japanese" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - :jp: __Japanese__: The Weekend Editrix is, of course, my first resort here (as with so many
   other things).  Her judgement was that the Japanese translation quality ranged from
