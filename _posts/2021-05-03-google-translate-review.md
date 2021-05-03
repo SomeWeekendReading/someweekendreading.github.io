@@ -148,7 +148,7 @@ understanding of the details, the technology of GNMT hasn't quite gotten there y
 Italian got the worst reviews, for some reason.  
 
 Kind of amusing.  Not for use in serious applications like the UN.  But this blog
-_aspires_ to be "kind of amusing", so I think I'll keep it.  
+_aspires_ to be just "kind of amusing", so I think I'll keep it.  
 
 
 ## The Real Conclusion
