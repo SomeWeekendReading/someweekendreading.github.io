@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviewing Google Translate for Blog Posts
+title: Reviewing Google Translate for These Blog Posts
 tags: About Obscurantism
 comments: true
 ---
@@ -135,6 +135,9 @@ Italian got the worst reviews, for some reason.
 
 Kind of amusing.  Not for use in serious applications like the UN.  But this blog
 _aspires_ to be "kind of amusing", so I think I'll keep it.  
+
+
+## The Real Conclusion
 
 Honestly, the most important lesson for me was renewed respect for my friends and
 colleagues from all over the world.  I'm proud to have worked with all of you.  Thanks for
