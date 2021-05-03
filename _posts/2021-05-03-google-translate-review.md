@@ -11,7 +11,7 @@ for this blog.  It's time to review how well it's been working&hellip; or not.
 
 ## The Big Button  
 
-<img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-button.jpg" width="200" height="63" alt="Google Translate Button" title="Google Translate Button" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-button.jpg" width="157" height="45" alt="Google Translate Button" title="Google Translate Button" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 A few weeks ago, some of you noticed the big ol' button in the upper right.  It's supposed to
 translate the current page (and other pages in the blog when you click links) into the
 language of your choice.  Really an absurd variety of languages, including some of which
