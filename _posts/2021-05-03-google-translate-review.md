@@ -45,7 +45,7 @@ Here's some of what native speakers of several other languages said:
 
 <!-- NB: Kramdown doesn't know the GFM flag emoticons, like :jp:, :fr:, :cn:, :india:, etc. -->
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-japanese.jpg" width="400" height="106" alt="Japanese" title="Japanese" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- __Japanese__: The Weekend Editrix is, of course, my first resort here (as with so many
+- :jp: __Japanese__: The Weekend Editrix is, of course, my first resort here (as with so many
   other things).  Her judgement was that the Japanese translation quality ranged from
   "sort of ok" to "absolutely ridiculous nonsense".  It often chooses the wrong kanji, or
   translates something way too literally.  So I'm reluctant to turn this loose on my
@@ -53,7 +53,7 @@ Here's some of what native speakers of several other languages said:
   do.  
 
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-french.jpg" width="400" height="121" alt="French" title="French" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- __French__: After reading the April Fool's post (dubious, since of all things, humor is often a danger
+- :fr: __French__: After reading the April Fool's post (dubious, since of all things, humor is often a danger
   to machine translation), a colleague reported more success than I thought achievable:  
 > Sur la base de quelques minutes de lecture de ton texte sur le _Poisson d'Avril_ traduit
 > en Français par le robot Google, je peux dire que cette traduction me semble assez
@@ -62,7 +62,7 @@ Here's some of what native speakers of several other languages said:
 > this translation looks to me reasonable enough, certainly not ridiculous!)  
 
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-telugu.jpg" width="400" height="122" alt="Telugu" title="Telugu" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- __Telugu__: Yes, I'm happy to report that I have a friend who is a native speaker of
+- :india: __Telugu__: Yes, I'm happy to report that I have a friend who is a native speaker of
   Telugu!  His judgement (though he tends to the optimistic and less critical side) is:  
 > Looks like the translation pretty good.  
 
@@ -72,7 +72,7 @@ Here's some of what native speakers of several other languages said:
 > mistakes and sometimes it makes no sense.  
 
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-chinese.jpg" width="400" height="78" alt="Chinese" title="Chinese" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- __Chinese__: Here, the result was somewhat similar to Japanese, i.e., mixed and sort of
+- :cn: __Chinese__: Here, the result was somewhat similar to Japanese, i.e., mixed and sort of
   the linguistic equivalent of slapstick humor:  
 > I found the Google robot sometimes works fine, sometimes pretty mechanical and sometimes
 > just nonsense.  It added more laugh reading your blog!  And I was wondering if you put
@@ -80,7 +80,7 @@ Here's some of what native speakers of several other languages said:
 > language for a number of cycles, you might be able to get a completely new blog! :-)  
 
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-russian.jpg" width="400" height="146" alt="Russian" title="Russian" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- __Russian__: A very nice Russian colleague read several posts and confirmed: sometimes the
+- :ru: __Russian__: A very nice Russian colleague read several posts and confirmed: sometimes the
   translation is exactly right, sometimes unintelligible, and sometimes it just gives up
   (much like we as humans do!):  
 > The quality of Google translator is very dispersal. The "Well, that didn't take long"
@@ -93,7 +93,7 @@ Here's some of what native speakers of several other languages said:
 > more often.  
 
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-greek.jpg" width="400" height="142" alt="Greek" title="Greek" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- __Greek__: A Greek colleague who works in both English and French reports that the Greek
+- :greece: __Greek__: A Greek colleague who works in both English and French reports that the Greek
   translation is pretty ok, outside of idiom.  Creatively, he uses Google Translate on his
   own text, to see if his French or English writing correctly translates back into Greek:  
 > The Greek translation is very decent. Of course there are the odd phrases that do not
@@ -111,7 +111,7 @@ Here's some of what native speakers of several other languages said:
 > in every language. There are, of course, exceptions like the above. But who cares?!  
 
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-romanian.jpg" width="400" height="140" alt="Romanian" title="Romanian" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- __Romanian__: A native speaker of Romanian confirmed that the Italian translation was
+- :romania: __Romanian__: A native speaker of Romanian confirmed that the Italian translation was
   not so good, but that the Romanian translation appeared to be ok most of the time, or at
   least vaguely intelligible:  
 >I took a look at the Romanian version - it is  surprisingly good (ok, my expectations
