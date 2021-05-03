@@ -38,7 +38,7 @@ So I wasn't too confident that it would work right, and if it did work right tha
 work usefully.  
 
 
-## Assessments by native speakers  
+## Assessments by Native Speakers  
 
 So I did what any good scientist does in this situation: I asked my friends what _they_
 thought!  
@@ -151,7 +151,7 @@ Kind of amusing.  Not for use in serious applications like the UN.  But this blo
 _aspires_ to be just "kind of amusing", so I think I'll keep it.  
 
 
-## The Real Conclusion
+## The Real Conclusion  
 
 Honestly, the most important lesson for me was: renewed respect for my friends and
 colleagues from all over the world.  I'm proud to know and to have worked with all of
