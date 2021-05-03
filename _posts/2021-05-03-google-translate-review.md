@@ -59,7 +59,7 @@ Here's some of what native speakers of several other languages said:
   to machine translation), a colleague reported more success than I thought achievable:  
 > Sur la base de quelques minutes de lecture de ton texte sur le _Poisson d'Avril_ traduit
 > en Français par le robot Google, je peux dire que cette traduction me semble assez
-> raisonnable, certainement pas ridicule!" (On the basis of a couple minutes of reading
+> raisonnable, certainement pas ridicule! (On the basis of a couple minutes of reading
 > your post on April Fool's Day translated into French by the Google robot, I can say that
 > this translation looks to me reasonable enough, certainly not ridiculous!)  
 
@@ -101,9 +101,9 @@ Here's some of what native speakers of several other languages said:
 > The Greek translation is very decent. Of course there are the odd phrases that do not
 > translate literally in every language (e.g. 'Hey, it is also...' goes 'health, it is
 > also...' or 'salut, it is also...') or otherwise expected to fail (32nd of March),
->particularly when case or gender correspondence is needed. Most sentences, however, are
->perfectly translated and the articles make perfect sense. I think it is a good idea to
->keep the translator option in. Things improve in informatics with time anyway.  
+> particularly when case or gender correspondence is needed. Most sentences, however, are
+> perfectly translated and the articles make perfect sense. I think it is a good idea to
+> keep the translator option in. Things improve in informatics with time anyway.  
 >  
 > If you are especially concerned about how your texts translate, I have noticed, this
 > depends primarily on the quality of English input and on correct punctuation in
@@ -116,7 +116,7 @@ Here's some of what native speakers of several other languages said:
 - :romania: __Romanian__: A native speaker of Romanian confirmed that the Italian translation was
   not so good, but that the Romanian translation appeared to be ok most of the time, or at
   least vaguely intelligible:  
->I took a look at the Romanian version - it is  surprisingly good (ok, my expectations
+> I took a look at the Romanian version - it is  surprisingly good (ok, my expectations
 > were vrey very low...).Most  things make sense. However is a word by word translation -
 > so any expression ends up being quite funny. Also, the translator doesn't know April's
 > fool - and translated vaccine shot into gun shot .Some grammar glitches come out too  -
