@@ -41,7 +41,7 @@ work usefully.
 ## Assessments by Native Speakers  
 
 So I did what any good scientist does in this situation: I asked my friends what _they_
-thought!  Friends who, of course, are native speakers of the languages in question.  
+thought!  (Friends who, of course, are native speakers of the languages in question.)  
 
 Here's some of what native speakers of several other languages said:  
 
