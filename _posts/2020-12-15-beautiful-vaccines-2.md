@@ -186,6 +186,6 @@ Be happy about this.  It's a good thing, in a year where good things have been l
 
 <a id="fn2">2</a>: Moderna Therapeutics, ["mRNA-1273 Sponsor Briefing Document"](https://www.fda.gov/media/144452/download), FDA.gov, downloaded 2020-Dec-15. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Moderna Therapeutics, ["mRNA-1273 Sponsor Briefing Document Addendum"](https://www.fda.gov/media/144453/download), FDA.gov, downloaded 2020-Dec-15. Discusses duration of follow-up of subjects, adverse reaction definitions for lymphadenopaty (swollen lymph glands, usually in the armpit), some interim data on using Kaplan-Meier estimators for recurrence under [intent-to-treat](https://en.wikipedia.org/wiki/Intention-to-treat_analysis) rules, and, most interestingly to me, some evidence supporting efficacy _vs_ asymptomatic infection! [↩](#fn3a)  
+<a id="fn3">3</a>: Moderna Therapeutics, ["mRNA-1273 Sponsor Briefing Document Addendum"](https://www.fda.gov/media/144453/download), FDA.gov, downloaded 2020-Dec-15. Discusses duration of follow-up of subjects, adverse reaction definitions for lymphadenopathy (swollen lymph glands, usually in the armpit), some interim data on using Kaplan-Meier estimators for recurrence under [intent-to-treat](https://en.wikipedia.org/wiki/Intention-to-treat_analysis) rules, and, most interestingly to me, some evidence supporting efficacy _vs_ asymptomatic infection! [↩](#fn3a)  
 
 <a id="fn4">4</a>: FDA staff, ["FDA Briefing Document: Moderna COVID-19 Vaccine"](https://www.fda.gov/media/144434/download), FDA.gov, downloaded 2020-Dec-15. [↩](#fn4a)  
