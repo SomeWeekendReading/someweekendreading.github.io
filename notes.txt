@@ -321,7 +321,10 @@ Blog posts:
   scientists weren't ready to be so wrong in their assumptions... about politicians
   https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/
   "using a model effectively is harder than just doing the math"
-  "But people turn out to be really, really complicated. And even seven months later, that’s a lesson we’re still struggling to learn."
+  "But people turn out to be really, really complicated. And even seven months later,
+  that’s a lesson we’re still struggling to learn."
+  SIDARTHE-V model, a more serious version (with also more parameters):
+  https://www.nature.com/articles/s41591-021-01334-5 
 * Parrondo's paradox in investing: combine 2 losers to get a winner
   http://leeds-faculty.colorado.edu/stutzer/Papers/ParadoxOfDiversification.PDF
 * Conformal mapping, heat tranfer, and wind chill: why is it so damn cold out there?

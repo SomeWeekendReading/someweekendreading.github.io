@@ -6,13 +6,13 @@ comments: true
 ---
 
 As of today, your humble Weekend Editor is 2 weeks past the 2nd dose of the Pfizer
-vaccine.  At 5pm, I am officially out of COVID jail!  Right?  Not quite&hellip;
+vaccine.  At 5pm, I am officially out of COVID jail!  Right?  Not quite&hellip;  
 
 
 ## What it means once you're fully vaccinated  
 
 Recall that a vaccine efficacy of 95% means that I now have 5% of the probability/unit
-time of getting COVID-19 as an unvaccinated person in similar exposure circumstances:
+time of getting COVID-19 as an unvaccinated person in similar exposure circumstances:  
 
 $$
 \mbox{efficacy} = 100.0 * \left( 1 - \frac{\Pr(\mbox{infection} | \mbox{vax})}{\Pr(\mbox{infection} | \mbox{non-vax})} \right)
