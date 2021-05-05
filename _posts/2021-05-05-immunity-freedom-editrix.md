@@ -60,4 +60,4 @@ given exhorbitant air travel prices right now!).
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-g<a id="fn1">1</a>: Nope, no time for notes today.  Out makin' antibodies &amp; teachin' stuff to memory B cells.  
+<a id="fn1">1</a>: Nope, no time for notes today.  Out makin' antibodies &amp; teachin' stuff to memory B cells.  
