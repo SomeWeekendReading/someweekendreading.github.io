@@ -303,7 +303,6 @@ cacoethes is an irresistible urge to do something inadvisable.
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
 
 Blog posts:
-* Google Translate assessment
 * DigammaTauPhi: https://www.onbeyondzarathustra.com/table-of-contents
 * Parallel of bread of life story to Gen 3: antidote to being cast out/
 * Politics & econ:
@@ -316,6 +315,7 @@ Blog posts:
   https://www.calculatedriskblog.com/2021/01/question-3-for-2021-what-will.html
   https://www.calculatedriskblog.com/2021/04/march-employment-report-916-thousand.html
   https://www.calculatedriskblog.com/2021/04/comments-on-march-employment-report.html
+  https://www.calculatedriskblog.com/2021/05/april-employment-preview.html
 * SIRD modeling of COVID-19
   https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIRD_model
   scientists weren't ready to be so wrong in their assumptions... about politicians

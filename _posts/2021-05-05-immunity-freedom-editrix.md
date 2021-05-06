@@ -48,7 +48,7 @@ fall or early next year (2021-Q3 to 2022-Q1, if you want to hold me to it and ch
 So we still haven't booked tickets to my favorite [Club Med in the Bahamas](https://www.clubmed.us/r/columbus-isle/y).  It's closed until December 2020 anyway.  Maybe then?  
 
 In the meantime, the Weekend Editrix's mother in Japan has gotten her first dose of
-Pfizer.  So I foresee at trip to Japan in the summer (at least for the Weekend Editrix,
+Pfizer.  So I foresee a trip to Japan in the summer (at least for the Weekend Editrix,
 given exhorbitant air travel prices right now!).  
 
 ---
