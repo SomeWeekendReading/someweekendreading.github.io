@@ -18,9 +18,9 @@ only gotten worse, with more variants:
 ![Economist: Public Health England's estimate of SARS-CoV-2 phylogenetic tree]({{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-variant-tree.jpg "Economist: Public Health England's estimate of SARS-CoV-2 phylogenetic tree")
 
 There are 3 things to worry about with a new variant:  
-1. Does it spread faster?  Increased affinity of the spike protein's receptor binding domain (RBD) for human ACE2 protein will cause this.  More cases, more deaths.  
-2. Is it more deadly?  A higher replication efficiency will do this.  Same number of cases, but more deaths.  
-3. Is it an escape mutation, i.e., evading vaccine protection?  The vaccines are trained on the spike protein of "corona classic" (with [some very clever modifications we wrote about previously]({{ site.baseurl }}/reading-mrna-vaccines/)).  A modified spike protein could get around that.  
+1. __Does it spread faster?__  Increased affinity of the spike protein's receptor binding domain (RBD) for human ACE2 protein will cause this.  More cases, more deaths.  
+2. __Is it more deadly?__  A higher replication efficiency will do this.  Same number of cases, but more deaths.  
+3. __Is it an escape mutation, i.e., evading vaccine protection?__  The vaccines are trained on the spike protein of "corona classic" (with [some very clever modifications we wrote about previously]({{ site.baseurl }}/reading-mrna-vaccines/)).  A modified spike protein could get around that.  
    
 So far, we've seen pretty good evidence of worry #1, higher spread, in both the B.1.1.7
 (British, or as a British friend puts it "the Kent strain" for the county where it was
