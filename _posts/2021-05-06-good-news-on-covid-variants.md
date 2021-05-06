@@ -33,7 +33,7 @@ equivocal, and largely _in vitro_:
 <img src="{{ site.baseurl }}/images/2020-12-31-coronavirus-mutation-vs-vaccine-hou-neutralization.jpg" width="400" height="328" alt="Hou, et al.: Abs neutralizing wild-type SARS-CoV-2 also work vs mutant" title="Hou, et al.: Abs neutralizing wild-type SARS-CoV-2 also work vs mutant" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-ofid-tcells-variants.jpg" width="400" height="292" alt="OFID: CD8+ T cells from COVID infection target conserved epitopes" title="OFID: CD8+ T cells from COVID infection target conserved epitopes" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - Last December, [we looked at a paper in _Science_ by Hou, _et al._]({{ site.baseurl }}/coronavirus-mutation-vs-vaccine/)<sup id="fn2a">[[2]](#fn2)</sup> showing that antibodies still had good neutralization curves against a D614G variant.  That's nice; a beautiful bit of work, even.  But it's not in people, or even in an animal, and it's not one of the exact variant's that are so scary.  So it's a glimmer of hope, but just a glimmer.  
-- Then in March, [we looked at some news analysis by Wise in the _BMJ_]({{ site.baseurl }}variants-vs-vaccines/) <sup id="fn3a">[[3]](#fn3)</sup> which was far less hopeful.  Apparently the required antibody concentration for neutralization of the E484K variant was much higher.  Ruh roh&hellip;  
+- Then in March, [we looked at some news analysis by Wise in the _BMJ_]({{ site.baseurl }}/variants-vs-vaccines/) <sup id="fn3a">[[3]](#fn3)</sup> which was far less hopeful.  Apparently the required antibody concentration for neutralization of the E484K variant was much higher.  Ruh roh&hellip;  
 - Fortunately, in that same post we also saw some evidence from Redd of NIAID <sup id="fn4a">[[4]](#fn4)</sup> that CD8+ T cells were still active against the British, South African, and Brazilian variants.  So even if it takes more antibodies, your immune system remembers and knows it can kill cells infected with variants.  
 
 
@@ -104,7 +104,7 @@ Here's the similar result table from the Israeli study:
   maybe we have to emigrate to Israel to make this apply to us?  Hmmm.)  
 
 Absolutely fabulous result!  Both scientifically (big, clean datasets analyzed clearly)
-and in in terms of the good news they bring.  
+and in in terms of the good news they bring.  This, dear readers, is _how it is done._  
 
 
 ## The Weekend Conclusion  
