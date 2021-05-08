@@ -5,8 +5,9 @@ tags: COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
 
-Some good news, for once: the Pfizer/BioNTech vaccine is now know to work quite well
-against the British &amp; South African variants in the real world.  
+Some good news, for once: the Pfizer/BioNTech vaccine is now known to work quite well
+against the British &amp; South African variants in the real world.  Especially in preventing
+hospitalization and death.  
 
 
 ## What's the Sitch?  
@@ -99,7 +100,7 @@ Here's the similar result table from the Israeli study:
   keep repeating that, but here we are.)  
 - I like this table: it makes it easy to answer questions that are of great concern to
   me.  For example, as mid-60s sort of people who are 2 weeks past our 2nd dose of Pfizer,
-  what's the efficacy of our vaccine againsg COVID-19 death due to B.1.1.7?  See the last
+  what's the efficacy of our vaccine against COVID-19 death due to B.1.1.7?  See the last
   row of the table: 96.7% (confidence limit: 96.0% - 97.3%).  Very reassuring.  (Though,
   maybe we have to emigrate to Israel to make this apply to us?  Hmmm.)  
 

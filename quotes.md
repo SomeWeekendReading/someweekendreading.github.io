@@ -356,8 +356,8 @@ in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)
 "We can be knowledgeable with other men’s knowledge but we cannot be wise with other men’s
 wisdom." &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)  
 
-"Μὴ κίνη χέραδασ." (If you are squeamish, don't prod the beach rubble.)
-&mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)  
+"Μὴ κίνη χέραδασ." (If you are squeamish, don't prod the beach rubble.  Though literally: stir
+not the pebbles.) &mdash; [Sappho](https://en.wikipedia.org/wiki/Sappho) (7th century BCE)  
 
 "Americans can always be counted on to do the right thing - after they have exhausted
 all other possibilities." 
@@ -1128,3 +1128,4 @@ _Business Week_, 14-Nov-2003.
 - "You should be _happy_ to find out you're wrong, because you're about to learn
   something."  
 - "Hey, Bayes Rule is _a priori_ plausible, isn't it?"  
+- "The whole _point_ of civilization is so we can try to be less brutal than nature.  Just because something is 'natural' doesn't absolve us of the responsibility to do better when we can."  
