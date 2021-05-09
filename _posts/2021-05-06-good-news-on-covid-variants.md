@@ -128,6 +128,30 @@ venture forth out of our front yard sometime?
 We don't know yet about the Indian or Brazilian variants, and we don't know about the JnJ
 or AZ/OX vaccines.  _But at least one thing is working well._
 
+## Addendum 2021-May-09: Moderna, too  
+
+<img src="{{ site.baseurl }}/images/2021-05-06-good-news-on-covid-variants-moderna-pr.jpg" width="400" height="165" alt="Moderna PR: Initial look at boosters and variants" title="Moderna PR: Initial look at boosters and variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-05-06-good-news-on-covid-variants-moderna-preprint.jpg" width="400" height="341" alt="Moderna preprint: Initial look at boosters and variants" title="Moderna preprint: Initial look at boosters and variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
+Moderna issued a press release <sup id="fn8a">[[8]](#fn8)</sup> and an (not yet peer
+reviewed) paper <sup id="fn9a">[[9]](#fn9)</sup> on the medR$\chi$iv preprint server.  
+- This is a preliminary readout from a Phase 2 trial of 3 different strategies:  
+  - Just a 3rd booster shot of mRNA-1273 (the Moderna vaccine now in use)  
+  - A booster called mRNA-1273.351, which is tailored to the South African strain's spike protien  
+  - A combined booster mixing both of those 1:1, to be called mRNA-1273.211  
+- They measured neutralizing antibody titers with a pseudovirus neutralization assay,
+  using classic SARS-CoV-2, the South African variant (B.1.351) and the Brazilian variant
+  (P.1).  Response was good in all cases: 12x - 35x higher, if I'm reading their figure right.  
+- The statistics were nice and straightforward: geometric mean titer on log-tansformed
+  titers, with a 95% CI calcluated from a $t$-distribution.  Significance was from a
+  Wilcoxon matched-pairs signed rank test.  
+- The side effects were comparable to the previous doses.  
+
+![Moderna: neutralizing ab titers response to boost in 3 coronavirus variants]({{ site.baseurl }}/images/2021-05-06-good-news-on-covid-variants-moderna-preprint-figure.jpg "Moderna: neutralizing ab titers response to boost in 3 coronavirus variants")
+
+This, combined with similar news from Pfizer and a promise from the FDA of rapid review
+(comparable to the review done on an annual flu vaccine), makes for very good news.  
+
 ---
 
 ## Notes &amp; References  
@@ -150,3 +174,7 @@ or AZ/OX vaccines.  _But at least one thing is working well._
 <a id="fn6">6</a>: L Abu-Raddad &amp; A Butt, ["Effectiveness of the BNT162b2 Covid-19 Vaccine against the B.1.1.7 and B.1.351 Variants"](https://www.nejm.org/doi/10.1056/NEJMc2104974), Letters to _The New England Journal of Medicine_, 2021-May-05.  DOI: 10.1056/NEJMc2104974.[↩](#fn6a)  
 
 <a id="fn7">7</a>: EJ Haas, _et al.,_ ["Impact and effectiveness of mRNA BNT162b2 vaccine against SARS-CoV-2 infections and COVID-19 cases, hospitalisations, and deaths following a nationwide vaccination campaign in Israel: an observational study using national surveillance data"](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00947-8/fulltext), _The Lancet_ (in press, corrected proof) 397:10285, 2021-May-1-7.  DOI:[10.1016/S0140-6736(21)00947-8](https://doi.org/10.1016/S0140-6736(21)00947-8). [↩](#fn7a)  
+
+<a id="fn8">8</a>: C Hussey (media contact), ["Moderna Announces Positive Initial Booster Data Against SARS-CoV-2 Variants of Concern"](https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-initial-booster-data-against-sars-cov), Moderna Press Releases, 2021-May-05.[↩](#fn8a)  
+
+<a id="fn9">9</a>: K Wu, _et al.,_ ["Preliminary Analysis of Safety and Immunogenicity of a SARS-CoV-2 Variant Vaccine Booster"](https://www.medrxiv.org/content/10.1101/2021.05.05.21256716v1.full-text), medR$\chi$iv, 2021-May-06. [↩](#fn9a)  
