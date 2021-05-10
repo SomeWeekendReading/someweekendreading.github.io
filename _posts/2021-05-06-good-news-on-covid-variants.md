@@ -143,7 +143,7 @@ reviewed) paper <sup id="fn9a">[[9]](#fn9)</sup> on the medR$\chi$iv preprint se
   using classic SARS-CoV-2, the South African variant (B.1.351) and the Brazilian variant
   (P.1).  Response was good in all cases: 12x - 35x higher, if I'm reading their figure right.  
 - The statistics were nice and straightforward: geometric mean titer on log-tansformed
-  titers, with a 95% CI calcluated from a $t$-distribution.  Significance was from a
+  titers, with a 95% CI calcluated from a $t$-distribution and significance from a
   Wilcoxon matched-pairs signed rank test.  
 - The side effects were comparable to the previous doses.  
 
