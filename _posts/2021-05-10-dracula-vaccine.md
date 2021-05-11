@@ -23,7 +23,7 @@ offered the Pfizer vaccine as well.
 
 The plan is an interesting move, from the point of view of marketing psychology: show up
 on a weekend in May, get a vaccination, and then get free admission to the _exhibit of
-medieval torture instruments._ I've heard of people offering free food or beer, but never
+medieval torture instruments._ I've heard of people offering free food or beer or even money, but never
 torture instruments.  I guess the fans of Dracula are a select bunch.  I wonder what the
 Pfizer marketing department thinks of this?  
 
