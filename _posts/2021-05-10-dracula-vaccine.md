@@ -11,6 +11,7 @@ starting to get&hellip; _creative._
 ## Leverage what you got  
 
 <img src="{{ site.baseurl }}/images/2021-05-10-dracula-vaccine-bbc.jpg" width="400" height="237" alt="BBC: Dracula castle tour offers Pfizer vaccine" title="BBC: Dracula castle tour offers Pfizer vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/bela-lugosi-as-dracula.gif" width="500" height="369" alt="Bela Lugosi as Dracula" title="Bela Lugosi as Dracula" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Now most non-Romanians, when asked about Romania will struggle a bit to name something
 famous about the country.  Many will, however, eventually come up with the Dracula legends.
 So&hellip; if that's what you've got, then leverage it to solve your vaccine hesitancy
