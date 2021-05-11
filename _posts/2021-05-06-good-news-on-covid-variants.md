@@ -129,7 +129,7 @@ We don't know yet about the Indian or Brazilian variants, and we don't know abou
 or AZ/OX vaccines.  _But at least one thing is working well._
 
 
-## Addendum 2021-May-09: Moderna, too.  Also, P.1 (Brazil)  
+## Addendum 2021-May-09: Moderna, too.  Also, P.1 from Brazil.  
 
 <img src="{{ site.baseurl }}/images/2021-05-06-good-news-on-covid-variants-moderna-pr.jpg" width="400" height="165" alt="Moderna PR: Initial look at boosters and variants" title="Moderna PR: Initial look at boosters and variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-05-06-good-news-on-covid-variants-moderna-preprint.jpg" width="400" height="341" alt="Moderna preprint: Initial look at boosters and variants" title="Moderna preprint: Initial look at boosters and variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
