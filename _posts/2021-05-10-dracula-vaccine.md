@@ -32,7 +32,7 @@ What I want to know is: do they do it with 2 needles in the side of your neck?  
 for realism.  
 
 
-## Addendum 2021-May-05, afternoon:  
+## Addendum 2021-May-10, afternoon:  
 
 A Romanian friend found the original advertisement on the official government Facebook
 page.  And, of course, immediately thought all of us Weekend Readers should know about it:  

@@ -1128,4 +1128,4 @@ _Business Week_, 14-Nov-2003.
 - "You should be _happy_ to find out you're wrong, because you're about to learn
   something."  
 - "Hey, Bayes Rule is _a priori_ plausible, isn't it?"  
-- "The whole _point_ of civilization is so we can try to be less brutal than nature.  Just because something is 'natural' doesn't absolve us of the responsibility to do better when we can."  
+- "The whole _point_ of civilization is to be less brutal than nature.  Just because something is 'natural' doesn't absolve us of the responsibility to do better when we can."  
