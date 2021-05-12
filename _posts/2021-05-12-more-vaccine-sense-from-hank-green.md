@@ -28,7 +28,7 @@ it from a grumpy old scientist: he _still_ knows what he's talking about.
 <img src="{{ site.baseurl }}/images/2021-05-12-more-vaccine-sense-from-hank-green-nyt.jpg" width="400" height="270" alt="NYT: US vaccinations/day Jan - mid-May" title="NYT: US vaccinations/day Jan - mid-May" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The graph of vaccinations _vs_ time is flattening out, when it should go up to 100% as fast as possible.  (Actually, it's worse than that: _declining_.  See the graph from [the _New York Times_ COVID tracking page](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html).)  This is a problem: a public health problem, i.e., for all of us, not just individual choices.  
 
-Excuses and responses to vaccination delay:  
+Some excuses for vaccine delay/denial he's heard, and appropriate responses:  
 - __Excuse:__ "It's slightly unpleasant, and I'll feel crappy."  
   - __Response:__ COVID-19 is way crappier, especially if you give it to somebody else
 	inadvertently, who may die from it. Vaccination lowers the risk of that by 95%.  _Get vaccinated._  
