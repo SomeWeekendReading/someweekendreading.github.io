@@ -22,6 +22,9 @@ Now vaccines are available fairly widely for free (at least in the US), and even
 as young as 12.  So Hank has a thing to two to say to young people specifically.  And take
 it from a grumpy old scientist: he _still_ knows what he's talking about.  
 
+
+## Summary of the high points  
+
 Some of his points:  
 <img src="{{ site.baseurl }}/images/2021-05-12-more-vaccine-sense-from-hank-green-nyt.jpg" width="400" height="270" alt="NYT: US vaccinations/day Jan - mid-May" title="NYT: US vaccinations/day Jan - mid-May" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - The graph of vaccinations _vs_ time is flattening out, when it should go up to 100% as fast as possible.  (Actually, it's worse than that: _declining_.  See the graph from [the _New York Times_ COVID tracking page](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html).)  This is a problem: a public health problem, i.e., for all of us, not just individual choices.  
@@ -40,7 +43,7 @@ Some of his points:
   - __Excuse:__ "Maybe I already had COVID-19."  __Response:__ 
     ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to
     the very high immunity from the vaccines.  _Get vaccinated._  
-  - __Excuse:__ "I feel like getting vaccinate is giving up control."  __Response:__ getting
+  - __Excuse:__ "I feel like getting vaccinate is giving up control."  __Response:__ Getting
     vaccinated is you _taking back_ control!  _Get vaccinated._  
 - It's a big deal, sure; but it's an easy decision to make.  _So make it._  
 - A heartfelt plea:  

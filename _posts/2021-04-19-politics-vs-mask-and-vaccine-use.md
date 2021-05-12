@@ -140,10 +140,10 @@ and the 3 vaccine usage measures:
   is accidental.  
 
 <img src="{{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-plot-boxplot.png" width="400" height="600" alt="Discrete: % doses used, % population vaccinated vs Trump Margin" title="Discrete: % doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Here's what the boxplot of regression measures vs Trump margin looks like.  The bar shows
-the median, the box shows the upper &amp; lower quartile, and the whisker shows the range
+Here's what the boxplot of vaccination measures _vs_ Trump margin looks like.  The black bar shows
+the median, the colored box shows the upper &amp; lower quartile, and the whisker shows the range
 of the data.  In all cases, the outcome is _worse_ in Trump states.  The difference is 
-statistially significant by $t$-test.  
+statistially significant by $t$-test FDR.  
 
 <img src="{{ site.baseurl }}/assets/2021-04-19-politics-vs-mask-and-vaccine-use-plot.png" width="400" height="400" alt="Continuous: % doses used, % population vaccinated vs Trump Margin" title="Continuous: % doses used, % population vaccinated vs Trump Margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Next, here's what the regression of vaccine measures vs Trump margin looks like:  
