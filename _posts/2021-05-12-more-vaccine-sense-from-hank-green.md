@@ -12,7 +12,7 @@ vaccination.
 ## Dude knows what he's talking about  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/H0Y7sUfLFEA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-[Previously, we featured]({{ site.baseurl }}/vaccine-sense-from-hank-green) a sensible
+[Previously, we featured]({{ site.baseurl }}/vaccine-sense-from-hank-green/) a sensible
 word or two from [Hank Green](https://en.wikipedia.org/wiki/Hank_Green) (notable web
 producer, author, and master of miscellany) in his weekly vlog to his brother.  Bizarrely,
 Google says that's the most frequent search hit of all the pages on this blog.  People are&hellip;
@@ -29,12 +29,12 @@ Some of his points:
 - Excuses and responses to vaccination delay:  
   - "It's slightly unpleasant, and I'll feel crappy."  __Response:__ COVID-19 is way crappier,
     especially if you give it to somebody else inadvertently, who may die from it.
-    Vaccination lowers the risk of that by 95%.  
+    Vaccination lowers the risk of that by 95%.  Get vaccinated.  
   - "What about variants?"  __Response:__ Every COVID-19 variant evolved in an infected
     person.  Don't be that person.  Get vaccinated.  
-  - "Maybe I already had COVID-19."  __Response:__ ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to the very high immunity from the vaccines.  
+  - "Maybe I already had COVID-19."  __Response:__ ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to the very high immunity from the vaccines.  Get vaccinated.  
   - "I feel like I'm giving up control."  __Response:__ getting vaccinated is you _taking back_
-    control!  
+    control!  Get vaccinated.  
 
 A heartfelt plea:  
 > "Hi, I'm Hank Green.  I make science videos.  I've been making educational videos for
