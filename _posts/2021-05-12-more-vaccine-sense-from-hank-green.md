@@ -41,7 +41,7 @@ Some of his points:
       they're asymptomatic carriers who spread it.  Don't be that person.  _Get vaccinated._  
   - __Excuse:__ "What about variants?"  
     - __Response:__ Every COVID-19 variant evolved in an infected person.  Don't be that
-      person.  _Get vaccinated._  
+      person, either.  _Get vaccinated._  
   - __Excuse:__ "Maybe I already had COVID-19."  
     - __Response:__
       ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to
