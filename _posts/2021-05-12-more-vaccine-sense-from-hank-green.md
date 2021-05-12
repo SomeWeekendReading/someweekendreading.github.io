@@ -25,29 +25,29 @@ it from a grumpy old scientist: he _still_ knows what he's talking about.
 
 ## Summary of the high points  
 
-Some of his points:  
 <img src="{{ site.baseurl }}/images/2021-05-12-more-vaccine-sense-from-hank-green-nyt.jpg" width="400" height="270" alt="NYT: US vaccinations/day Jan - mid-May" title="NYT: US vaccinations/day Jan - mid-May" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- The graph of vaccinations _vs_ time is flattening out, when it should go up to 100% as fast as possible.  (Actually, it's worse than that: _declining_.  See the graph from [the _New York Times_ COVID tracking page](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html).)  This is a problem: a public health problem, i.e., for all of us, not just individual choices.  
-- Excuses and responses to vaccination delay:  
-  - __Excuse:__ "It's slightly unpleasant, and I'll feel crappy."  
-    - __Response:__ COVID-19 is way crappier, especially if you give it to somebody else
-      inadvertently, who may die from it. Vaccination lowers the risk of that by 95%.  _Get vaccinated._  
-  - __Excuse:__ "I'm young, it won't be so bad."  
-    - __Response:__ Yes, it might be.  Hospitalization is a terrible thing to experience,
-      and raises your risk of "long COVID" side effects for years, or possibly the rest of
-      your life.  _Get vaccinated._  
-  - __Excuse:__ "It's just my decision for my welfare."  
-    - __Response:__ No, everybody who got COVID-19 got it from somebody else.  Sometimes
-      they're asymptomatic carriers who spread it.  Don't be that person.  _Get vaccinated._  
-  - __Excuse:__ "What about variants?"  
-    - __Response:__ Every COVID-19 variant evolved in an infected person.  Don't be that
-      person, either.  _Get vaccinated._  
-  - __Excuse:__ "Maybe I already had COVID-19."  
-    - __Response:__
-      ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to
-      the very high immunity from the vaccines.  _Get vaccinated._  
-  - __Excuse:__ "I feel like getting vaccinate is giving up control."  
-    - __Response:__ Getting vaccinated is you _taking back_ control!  _Get vaccinated._  
+The graph of vaccinations _vs_ time is flattening out, when it should go up to 100% as fast as possible.  (Actually, it's worse than that: _declining_.  See the graph from [the _New York Times_ COVID tracking page](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html).)  This is a problem: a public health problem, i.e., for all of us, not just individual choices.  
+
+Excuses and responses to vaccination delay:  
+- __Excuse:__ "It's slightly unpleasant, and I'll feel crappy."  
+  - __Response:__ COVID-19 is way crappier, especially if you give it to somebody else
+	inadvertently, who may die from it. Vaccination lowers the risk of that by 95%.  _Get vaccinated._  
+- __Excuse:__ "I'm young, it won't be so bad."  
+  - __Response:__ Yes, it might be.  Hospitalization is a terrible thing to experience,
+	and raises your risk of "long COVID" side effects for years, or possibly the rest of
+	your life.  _Get vaccinated._  
+- __Excuse:__ "It's just my decision for my welfare."  
+  - __Response:__ No, everybody who got COVID-19 got it from somebody else.  Sometimes
+	they're asymptomatic carriers who spread it.  Don't be that person.  _Get vaccinated._  
+- __Excuse:__ "What about variants?"  
+  - __Response:__ Every COVID-19 variant evolved in an infected person.  Don't be that
+	person, either.  _Get vaccinated._  
+- __Excuse:__ "Maybe I already had COVID-19."  
+  - __Response:__
+	['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to
+	the very high immunity from the vaccines.  _Get vaccinated._  
+- __Excuse:__ "I feel like getting vaccinate is giving up control."  
+  - __Response:__ Getting vaccinated is you _taking back_ control!  _Get vaccinated._  
 
 It's a big deal, sure; but it's an easy decision to make.  _So make it._  
 
