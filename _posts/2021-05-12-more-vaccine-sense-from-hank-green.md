@@ -29,12 +29,12 @@ Some of his points:
 - Excuses and responses to vaccination delay:  
   - "It's slightly unpleasant, and I'll feel crappy."  __Response:__ COVID-19 is way crappier,
     especially if you give it to somebody else inadvertently, who may die from it.
-    Vaccination lowers the risk of that by 95%.  Get vaccinated.  
+    Vaccination lowers the risk of that by 95%.  _Get vaccinated._  
   - "What about variants?"  __Response:__ Every COVID-19 variant evolved in an infected
-    person.  Don't be that person.  Get vaccinated.  
-  - "Maybe I already had COVID-19."  __Response:__ ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to the very high immunity from the vaccines.  Get vaccinated.  
+    person.  Don't be that person.  _Get vaccinated._  
+  - "Maybe I already had COVID-19."  __Response:__ ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to the very high immunity from the vaccines.  _Get vaccinated._  
   - "I feel like I'm giving up control."  __Response:__ getting vaccinated is you _taking back_
-    control!  Get vaccinated.  
+    control!  _Get vaccinated._  
 
 A heartfelt plea:  
 > "Hi, I'm Hank Green.  I make science videos.  I've been making educational videos for
