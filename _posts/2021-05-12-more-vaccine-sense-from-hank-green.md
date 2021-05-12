@@ -12,10 +12,10 @@ vaccination.
 ## Dude knows what he's talking about  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/H0Y7sUfLFEA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-[Previously, we featured]({{ site.baseurl }}/vaccine-sense-from-hank-green/) a sensible
+[Last November, we featured]({{ site.baseurl }}/vaccine-sense-from-hank-green/) a sensible
 word or two from [Hank Green](https://en.wikipedia.org/wiki/Hank_Green) (notable web
 producer, author, and master of miscellany) in his weekly vlog to his brother.  Bizarrely,
-Google says that's the most frequent search hit of all the pages on this blog.  People are&hellip;
+Google says that's the most frequent search hit of all the pages on _this_ blog.  People are&hellip;
 a bit weird.  
 
 Now vaccines are available fairly widely for free (at least in the US), and even to people

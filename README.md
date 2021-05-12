@@ -10,8 +10,8 @@ here.  Probably lots of Jekyll/Github blunders!
 
 ## License  
 
-The following directories and their contents are copyright by me.  You may not reuse
-anything therein without permission:  
+The following files, directories, and their contents are copyright by me.  You may not reuse
+anything therein without explicit permission:  
 
 * \_posts/  
 * images/  
@@ -22,7 +22,7 @@ anything therein without permission:
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you
 please. If you do use them, a link back to https://www.someweekendreading.blog/ would be
-polite, but isn't required.  
+polite, but not required.  
 
 ---
 
