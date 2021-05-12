@@ -65,4 +65,4 @@ Respect.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Hey, where's my free donut?!  I didn't get a free donut!  (I did, however, get high-quality immunity, so I'll just have to live with the fact that the nearest [Krispy Kreme](https://www.cnbc.com/2021/03/31/free-with-covid-vaccine-krispy-kreme-marijuana-beer-and-more.html) is like 2 states away.) [↩](#fn1a)  
+<a id="fn1">1</a>: Hey, where's my free donut?!  I didn't get a free donut!  I did, however, get high-quality immunity, so I'll just have to live with the fact that the nearest [Krispy Kreme](https://www.cnbc.com/2021/03/31/free-with-covid-vaccine-krispy-kreme-marijuana-beer-and-more.html) is like 2 states away. [↩](#fn1a)  
