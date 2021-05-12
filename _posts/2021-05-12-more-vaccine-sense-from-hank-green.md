@@ -19,7 +19,7 @@ Google says that's the most frequent search hit of all the pages on _this_ blog.
 a bit weird.  
 
 Now vaccines are available fairly widely for free (at least in the US), and even to people
-as young as 12.  So Hank has a thing to two to say to young people specifically.  And take
+as young as 12.  So Green has a thing to two to say to young people specifically.  And take
 it from a grumpy old scientist: he _still_ knows what he's talking about.  
 
 
@@ -48,8 +48,8 @@ Some of his points:
       the very high immunity from the vaccines.  _Get vaccinated._  
   - __Excuse:__ "I feel like getting vaccinate is giving up control."  
     - __Response:__ Getting vaccinated is you _taking back_ control!  _Get vaccinated._  
-- It's a big deal, sure; but it's an easy decision to make.  _So make it._  
-- A heartfelt plea:  
+
+It's a big deal, sure; but it's an easy decision to make.  _So make it._  Green's heartfelt plea:  
 > "Hi, I'm Hank Green.  I make science videos.  I've been making educational videos for
 > people for free on the internet for over 10 years, and maybe you want to do me a favor!  
 >   
