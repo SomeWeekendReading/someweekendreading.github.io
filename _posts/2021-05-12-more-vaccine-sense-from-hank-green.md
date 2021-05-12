@@ -23,7 +23,7 @@ as young as 12.  So Hank has a thing to two to say to young people specifically.
 it from a grumpy old scientist: he _still_ knows what he's talking about.  
 
 Some of his points:  
-<img src="{{ site.baseurl }}/images/2021-05-12-more-vaccine-sense-from-hank-green.jpg" width="400" height="270" alt="NYT: US vaccinations/day Jan - mid-May" title="NYT: US vaccinations/day Jan - mid-May" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-05-12-more-vaccine-sense-from-hank-green-nyt.jpg" width="400" height="270" alt="NYT: US vaccinations/day Jan - mid-May" title="NYT: US vaccinations/day Jan - mid-May" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - The graph of vaccinations _vs_ time is flattening out, when it should go up to 100% as
   fast as possible.  This is a problem: a public health problem, i.e., for all of us, not
   just individual choices.  
