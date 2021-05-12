@@ -57,7 +57,7 @@ Green's obviously heartfelt plea, in personal language:
 >   
 > It's super easy.  There's a link in the description.  You can click on it, put in your
 > zip code, and make your appointment for getting your COVID vaccine.  Put it in your
-> phone, then go do it.
+> phone, then go do it.  
 >  
 > And get a free donut." <sup id="fn1a">[[1]](#fn1)</sup>  
 
