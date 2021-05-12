@@ -5,7 +5,7 @@ tags: COVID NotableAndQuotable Politics TheDivineMadness
 comments: true
 ---
 
-Hank Green once again has one or two true and useful words for young people about COVID-19
+Hank Green once again has one or two true and useful words to say to young people about COVID-19
 vaccination.  
 
 
