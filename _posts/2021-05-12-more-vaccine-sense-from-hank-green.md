@@ -23,20 +23,28 @@ as young as 12.  So Hank has a thing to two to say to young people specifically.
 it from a grumpy old scientist: he _still_ knows what he's talking about.  
 
 Some of his points:  
-- The graph of vaccinations vs time is flattening out, when it should go up to 100% as
+- The graph of vaccinations _vs_ time is flattening out, when it should go up to 100% as
   fast as possible.  This is a problem: a public health problem, i.e., for all of us, not
   just individual choices.  
 - Excuses and responses to vaccination delay:  
   - "It's slightly unpleasant, and I'll feel crappy."  __Response:__ COVID-19 is way crappier,
     especially if you give it to somebody else inadvertently, who may die from it.
     Vaccination lowers the risk of that by 95%.  _Get vaccinated._  
+  - "I'm young, it won't be so bad."  __Response:__ Yes, it might be.  Hospitalization is
+    a terrible thing to experience, and raises your risk of "long COVID" side effects for
+    years, or possibly the rest of your life.  _Get vaccinated._  
+  - "It's just me."  __Response:__ No, everybody who got COVID-19 got it from somebody
+    else.  Sometimes they're asymptomatic carriers who spread it.  Don't be that person.
+    _Get vaccinated._  
   - "What about variants?"  __Response:__ Every COVID-19 variant evolved in an infected
     person.  Don't be that person.  _Get vaccinated._  
-  - "Maybe I already had COVID-19."  __Response:__ ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to the very high immunity from the vaccines.  _Get vaccinated._  
-  - "I feel like I'm giving up control."  __Response:__ getting vaccinated is you _taking back_
-    control!  _Get vaccinated._  
-
-A heartfelt plea:  
+  - "Maybe I already had COVID-19."  __Response:__ 
+    ['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to the very high
+     immunity from the vaccines.  _Get vaccinated._  
+  - "I feel like getting vaccinate is giving up control."  __Response:__ getting
+    vaccinated is you _taking back_ control!  _Get vaccinated._  
+- It's a big deal, sure; but it's an easy decision to make.  Make it.  
+- A heartfelt plea:  
 > "Hi, I'm Hank Green.  I make science videos.  I've been making educational videos for
 > people for free on the internet for over 10 years, and maybe you want to do me a favor!  
 >   
