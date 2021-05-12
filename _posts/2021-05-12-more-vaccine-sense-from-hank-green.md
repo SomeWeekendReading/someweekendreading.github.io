@@ -51,7 +51,7 @@ Some excuses for vaccine delay/denial he's heard, and appropriate responses:
 
 It's a big deal, sure; but it's an easy decision to make.  _So make it._  
 
-Green's obviously heartfelt plea, on a personal basis:  
+Green's obviously heartfelt plea, in personal language:  
 > "Hi, I'm Hank Green.  I make science videos.  I've been making educational videos for
 > people for free on the internet for over 10 years, and maybe you want to do me a favor!  
 >   
