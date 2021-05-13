@@ -296,11 +296,12 @@ Notes on blogging tech.
     (Kramdown developer acknowledges bug; will fix in next release)
     Test workaround to emit entities as entities, not single chars?
 
-cacoethes is an irresistible urge to do something inadvisable.
+*** Self-host Google material icon fonts
 
 *** tags field on about, 404, and quotes: doesn't know to split on spaces?
 
 Post topics: "though borrowing trouble is often my wont" as an anxiety-prone depressive!
+cacoethes is an irresistible urge to do something inadvisable.
 
 Blog posts:
 * DigammaTauPhi: https://www.onbeyondzarathustra.com/table-of-contents

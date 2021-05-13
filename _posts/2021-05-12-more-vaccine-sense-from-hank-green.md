@@ -14,9 +14,9 @@ vaccination.
 <iframe width="373" height="210" src="https://www.youtube.com/embed/H0Y7sUfLFEA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 [Last November, we featured]({{ site.baseurl }}/vaccine-sense-from-hank-green/) a sensible
 word or two from [Hank Green](https://en.wikipedia.org/wiki/Hank_Green) (notable web
-producer, author, and master of miscellany) in his weekly vlog to his brother.  Bizarrely,
+producer, author, and master of miscellany) in his weekly vlog to his brother.  (Bizarrely,
 Google says that's the most frequent search hit of all the pages on _this_ blog.  People are&hellip;
-a bit weird.  
+a bit _weird_.)  
 
 Now vaccines are available fairly widely for free (at least in the US), and even to people
 as young as 12.  So Green has a thing to two to say to young people specifically.  And take
@@ -36,7 +36,7 @@ Some excuses for vaccine delay/denial he's heard, and appropriate responses:
   - __Response:__ Yes, it might be.  Hospitalization is a terrible thing to experience,
 	and raises your risk of "long COVID" side effects for years, or possibly the rest of
 	your life.  _Get vaccinated._  
-- __Excuse:__ "It's just my decision for my welfare."  
+- __Excuse:__ "It's just my decision for my own welfare."  
   - __Response:__ No, everybody who got COVID-19 got it from somebody else.  Sometimes
 	they're asymptomatic carriers who spread it.  Don't be that person.  _Get vaccinated._  
 - __Excuse:__ "What about variants?"  
@@ -46,7 +46,7 @@ Some excuses for vaccine delay/denial he's heard, and appropriate responses:
   - __Response:__
 	['Natural' immunity is inferior]({{ site.baseurl }}/natural-vs-vaccine-immunity/) to
 	the very high immunity from the vaccines.  _Get vaccinated._  
-- __Excuse:__ "I feel like getting vaccinate is giving up control."  
+- __Excuse:__ "I feel like getting vaccinated is giving up control."  
   - __Response:__ Getting vaccinated is you _taking back_ control!  _Get vaccinated._  
 
 It's a big deal, sure; but it's an easy decision to make.  _So make it._  
