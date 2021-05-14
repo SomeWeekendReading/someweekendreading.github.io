@@ -68,6 +68,12 @@ Here's some of what native speakers of several other languages said:
   Telugu!  His judgement (though he tends to the optimistic and less critical side) is:  
 > Looks like the translation pretty good.  
 
+<img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-korean.jpg" width="400" height="71" alt="Korean" title="Korean" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+- :kr: __Korean__: Somewhat like Telugu, a Korean friend reports that it is somewhat
+understandable, though often awkward:  
+> Google translation seems to do a decent job. Some words and phrases sound awkward a bit
+> but I can see what you meant.  
+
 <img src="{{ site.baseurl }}/images/2021-05-03-google-translate-review-italian.jpg" width="400" height="138" alt="Italian" title="Italian" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - :it: __Italian__: Now, with Italian I think we got an honest assessment:  
 > Sadly the Italian is not so great. Maybe one can get the gist of it but there are many
