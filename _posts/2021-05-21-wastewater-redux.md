@@ -5,7 +5,7 @@ tags: COVID MathInTheNews R Statistics
 comments: true
 ---
 
-[Last November,]({{ site.baseurl }}/wastewater-corona-virus-rna-vs-medical-loads/), we
+[Last November]({{ site.baseurl }}/wastewater-corona-virus-rna-vs-medical-loads/), we
 looked at metagenomics of sewage SARS-CoV-2 RNA vs medical loads in Boston.  The results
 then were inconclusive.  There's a lot more data now.  Does the mRNA in sewage actually
 predict anything useful about COVID hospital admission, ICU admission, ventilator use, and
