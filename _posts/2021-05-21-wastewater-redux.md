@@ -200,7 +200,9 @@ e.g., log transform or power law; we don't plan to explore that here.
 Ok, enough exploratory analysis: there's signal here to be found!  Let's explore some
 (na&iuml;ve) linear regressions, where we try to predict a medical variable
 (hospitalization, ICU, ventilator, or death) from the RNA level observed some days
-earlier.  If the lag parameter, in days, is $l$, then we're fitting models like:  
+earlier.  If the lag parameter, in days, is $l$, then we're fitting models with
+regression coefficients $\beta_0$, $\beta_1$ like:  
+
 $$
 \mathrm{MedVar}_t = \beta_0 + \beta_1 \times \mathrm{RNA}_{t - l}
 $$
@@ -230,16 +232,10 @@ puzzling, as we'd expect from the lower correlation with RNA noted above.  It's 
 better predicted after about 10 days, but there's no clear, obvious lag to pick.  The best
 one turns out to be 11 days, so we'll just use that.
 
-The table shows that the regression $p$-values are ridiculously statistially significant
-in all cases.  For strength of effect, ventilation is the best predicted at 75% of the
-variance, followed by hospitalization, ICU admission, and finally death.
-
-| Medical Variable       | Lag |    $p$  | Adj $R^2$ |
-| :--------------------: | --: | ------: | --------: |
-| hospitalizedCurrently  |  9  | 1.3e-28 | 0.38      |
-|        inIcuCurrently  | 11  | 2.2e-20 | 0.29      |
-| onVentilatorCurrently  | 19  | 2.6e-73 | 0.76      |
-|         deathIncrease  | 11  | 7.6e-18 | 0.24      |
+The regression summary table below shows that the regression $p$-values are ridiculously
+statistially significant in all cases.  For strength of effect, ventilation is the best
+predicted at 75% of the variance, followed by hospitalization, ICU admission, and finally
+death.  
 
 Except for the death variable, these make sense: hospitalization precedes ICU admission,
 and ICU admission precedes ventilation.  
@@ -348,7 +344,9 @@ na&iuml;ve) regression models.  We _somewhat_ failed, in that the adjusted $R^2$
 very large and the practice of medicine and the population being treated changed between
 the 2 waves.  
 
-So the science wins.  The use as a prognostic biomarker is somewhat marginal.  
+So the science on metagenomics of viral RNA in wastewater wins.  The pragmatic use as a
+prognostic biomarker is, alas, somewhat marginal with extremely simple models like these;
+perhaps more sophisticated models will work?  
 
 ---
 
