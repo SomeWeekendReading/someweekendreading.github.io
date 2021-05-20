@@ -102,7 +102,7 @@ as of that date.  We're blind to events in March - May of 2021.
 
 Next, we investigated whether the RNA signal from the north & south districts was
 sufficiently similar that they could be combined, or if they were giving different signals.
-![Correlation of north and south district wastewater RNA]({{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-north-south.png "Correlation of north and south district wastewater RNA")
+![Correlation of north and south district wastewater RNA]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-north-south.png "Correlation of north and south district wastewater RNA")
 
 On the left is the time course of the RNA levels for the north (blue) and south (gray)
 districts.  
@@ -127,7 +127,7 @@ marked that day NA.)
 Next, we investigated whether there was any serious relationship between the SARS-CoV2 RNA
 levels observed by the MWRA and the medical useage reported by the COVID Tracking Project.
 
-![Time course of RNA levels and medical loads]({{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-med-loads-vs-RNA-1.png "Time course of RNA levels and medical loads")  
+![Time course of RNA levels and medical loads]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-med-loads-vs-RNA-1.png "Time course of RNA levels and medical loads")  
 This is what the time course of RNA levels and 4 interesting medical load measures looks
 like:  
 - Each point is a single day.  
@@ -162,7 +162,7 @@ For our final exploratory analysis, we look at the
 our 5 variables: wastewater viral RNA levels, hospital admission, ICU admission,
 ventilator use, and death.
 
-![Pearson correlation of RNA, hospitalization, ICU, ventilators, and death]({{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-med-loads-vs-RNA-2.png "Pearson correlation of RNA, hospitalization, ICU, ventilators, and death")  
+![Pearson correlation of RNA, hospitalization, ICU, ventilators, and death]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-med-loads-vs-RNA-2.png "Pearson correlation of RNA, hospitalization, ICU, ventilators, and death")  
 What's in the plot:  
 - In the upper right triangle of the matrix are the Pearson correlations, each with 3 red
   stars indicating that they are statistically significant (i.e., there's very little
@@ -209,10 +209,10 @@ We'll figure out the value of $l$ for each medical variable by brute force: try 
 for 0 - 21 days, and pick the value which maximizes the regression's overall $F$-statistic
 $p$-value and the adjusted $R^2$.  (It turns out in this case either of those will pick
 the same lag $l$.)  
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-hospitalizedCurrently-lags.png" width="400" height="400" alt="Regression quality vs lag for hospitalization" title="Regression quality vs lag for hospitalization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-inIcuCurrently-lags.png" width="400" height="400" alt="Regression quality vs lag for ICU admission" title="Regression quality vs lag for ICU admission" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-onVentilatorCurrently-lags.png" width="400" height="400" alt="Regression quality vs lag for ventilator useage" title="Regression quality vs lag for ventilator useage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-deathIncrease-lags.png" width="400" height="400" alt="Regression quality vs lag for death" title="Regression quality vs lag for death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-hospitalizedCurrently-lags.png" width="400" height="400" alt="Regression quality vs lag for hospitalization" title="Regression quality vs lag for hospitalization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-inIcuCurrently-lags.png" width="400" height="400" alt="Regression quality vs lag for ICU admission" title="Regression quality vs lag for ICU admission" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-onVentilatorCurrently-lags.png" width="400" height="400" alt="Regression quality vs lag for ventilator useage" title="Regression quality vs lag for ventilator useage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-deathIncrease-lags.png" width="400" height="400" alt="Regression quality vs lag for death" title="Regression quality vs lag for death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here are the plots showing the result of those calculations:
 - The left vertical axis, in black for the black points, shows $-\log_{10} p$.  That is,
   the better (smaller) $p$-values increase vertically and the regressions become more
@@ -257,10 +257,10 @@ smallest and the adjusted $R^2$ was least inspiring.
 
 ![Regression result summary]({{ site.baseurl }}/images/2021-05-21-wastewater-redux-regression-summary.jpg "Regression result summary")
 
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-hospitalizedCurrently-regression.png" width="400" height="400" alt="Regression of RNA and hospitalization" title="Regression of RNA and hospitalization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-inIcuCurrently-regression.png" width="400" height="400" alt="Regression of RNA and ICU admission" title="Regression of RNA and ICU admission" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-onVentilatorCurrently-regression.png" width="400" height="400" alt="Regression of RNA and ventilator useage" title="Regression of RNA and ventilator useage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-05-21-wastewater-redux-plot-RNA-deathIncrease-regression.png" width="400" height="400" alt="Regression of RNA and death" title="Regression of RNA and death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-hospitalizedCurrently-regression.png" width="400" height="400" alt="Regression of RNA and hospitalization" title="Regression of RNA and hospitalization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-inIcuCurrently-regression.png" width="400" height="400" alt="Regression of RNA and ICU admission" title="Regression of RNA and ICU admission" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-onVentilatorCurrently-regression.png" width="400" height="400" alt="Regression of RNA and ventilator useage" title="Regression of RNA and ventilator useage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-05-21-wastewater-redux-plot-RNA-deathIncrease-regression.png" width="400" height="400" alt="Regression of RNA and death" title="Regression of RNA and death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here's what the regessions looked like graphically.  
 - The RNA (at the appropriate lag) is on the horizontal axis, and the medical varaible is
   on the vertical axis.  
