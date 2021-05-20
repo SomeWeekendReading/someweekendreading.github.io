@@ -38,7 +38,8 @@ Some excuses for vaccine delay/denial he's heard, and appropriate responses:
 	your life.  _Get vaccinated._  
 - __Excuse:__ "It's just my decision for my own welfare."  
   - __Response:__ No, everybody who got COVID-19 got it from somebody else.  Sometimes
-	they're asymptomatic carriers who spread it.  Don't be that person.  _Get vaccinated._  
+	they're asymptomatic carriers who spread it.  Also, don't be a burden on the
+	already-overburdened health care system.  Don't be that person.  _Get vaccinated._  
 - __Excuse:__ "What about variants?"  
   - __Response:__ Every COVID-19 variant evolved in an infected person.  Don't be that
 	person, either.  _Get vaccinated._  

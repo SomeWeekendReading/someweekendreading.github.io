@@ -1,0 +1,178 @@
+
+* MWRA COVID Analysis on Wed May 19 17:23:51 2021
+  - input data directory: ./data
+  - results directory:    ./results
+  - transcript to:        ./results/mwra-covid-transcript.txt
+
+Archival:
+---------
+
+* Archived analysis script(s) to ./results:
+  - ./mwra-covid-2.r
+
+Loading datasets and constructing joint dataset:
+------------------------------------------------
+
+* Reading MWRA wastewater RNA data from ./data/MWRAData20210514-data.tsv
+  - Structure:
+    o 429 rows
+    o 11 columns: Date, South, South.LCL, South.UCL, North, North.LCL, North.UCL, South.7, North.7, North.Variant, South.Variant
+
+* Reading Mass COVID data from ./data/massachusetts-history.csv
+  - Dropping 12 empty columns (and state): state, inIcuCumulative, negativeTestsAntibody, negativeTestsPeopleAntibody, negativeTestsViral, onVentilatorCumulative, positiveTestsAntibody, positiveTestsAntigen, positiveTestsPeopleAntigen, totalTestEncountersViral, totalTestsAntibody, totalTestsAntigen
+  - Structure:
+    o 411 rows
+    o 29 columns: Date, death, deathConfirmed, deathIncrease, deathProbable, hospitalized, hospitalizedCumulative, hospitalizedCurrently, hospitalizedIncrease, inIcuCurrently, negative, negativeIncrease, onVentilatorCurrently, positive, positiveCasesViral, positiveIncrease, positiveScore, positiveTestsPeopleAntibody, positiveTestsViral, recovered, totalTestEncountersViralIncrease, totalTestResults, totalTestResultsIncrease, totalTestsPeopleAntibody, totalTestsPeopleAntigen, totalTestsPeopleViral, totalTestsPeopleViralIncrease, totalTestsViral, totalTestsViralIncrease
+
+* Constructing joint dataset by inner join on dates
+  - Saved to ./results/mwra-covid-joint-data.tsv
+  - Structure:
+    o 362 rows
+    o 39 columns: Date, South, South.LCL, South.UCL, North, North.LCL, North.UCL, South.7, North.7, North.Variant, South.Variant, death, deathConfirmed, deathIncrease, deathProbable, hospitalized, hospitalizedCumulative, hospitalizedCurrently, hospitalizedIncrease, inIcuCurrently, negative, negativeIncrease, onVentilatorCurrently, positive, positiveCasesViral, positiveIncrease, positiveScore, positiveTestsPeopleAntibody, positiveTestsViral, recovered, totalTestEncountersViralIncrease, totalTestResults, totalTestResultsIncrease, totalTestsPeopleAntibody, totalTestsPeopleAntigen, totalTestsPeopleViral, totalTestsPeopleViralIncrease, totalTestsViral, totalTestsViralIncrease
+
+Exploratory plots:
+------------------
+
+* Plot of north vs south RNA to ./results/plot-north-south.png
+
+Prediction set:
+---------------
+
+* Making prediction set:
+  - Using 4 medical vars from COVID Tracking Project: deathIncrease, hospitalizedCurrently, inIcuCurrently, onVentilatorCurrently
+  - Averaging North & South RNA daily measurements
+  - Result: 362 rows x 6 columns
+
+Correlation plots:
+------------------
+
+* Correlation time courses plotted to ./results/plot-med-loads-vs-RNA-1.png
+* Correlation chart plotted to ./results/plot-med-loads-vs-RNA-2.png
+
+Lagged regressions:
+-------------------
+
+* Regressing medical vars on RNA at various lags to test predictive power
+* Scatterplotting significance & strength vs RNA lag
+  - ./results/plot-RNA-hospitalizedCurrently-lags.png
+  - ./results/plot-RNA-inIcuCurrently-lags.png
+  - ./results/plot-RNA-onVentilatorCurrently-lags.png
+  - ./results/plot-RNA-deathIncrease-lags.png
+
+* Optimal lags for each medical variable:
+                 MedVar Lag            p    Adj.R2
+1 hospitalizedCurrently   9 1.342097e-28 0.3763869
+2        inIcuCurrently  11 2.224528e-20 0.2855915
+3 onVentilatorCurrently  19 2.627499e-73 0.7578718
+4         deathIncrease  11 7.615366e-18 0.2397525
+
+Final regressions:
+------------------
+
+* Trying some regressions at the optimal lag for each variable:
+  - Regressing hospitalizedCurrently on RNA at lag 9 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2122.3  -373.4  -193.1   124.1  2740.9 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 731.3388    54.3004   13.47   <2e-16 ***
+RNA           1.3628     0.1084   12.57   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 652.7 on 259 degrees of freedom
+  (101 observations deleted due to missingness)
+Multiple R-squared:  0.3788,	Adjusted R-squared:  0.3764 
+F-statistic: 157.9 on 1 and 259 DF,  p-value: < 2.2e-16
+
+                 2.5 %     97.5 %
+(Intercept) 624.412289 838.265328
+RNA           1.149224   1.576302
+
+    o Plot to ./results/plot-RNA-hospitalizedCurrently-regression.png
+  - Regressing inIcuCurrently on RNA at lag 11 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-460.27  -84.63  -41.73   18.65  850.49 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 151.6012    14.2327   10.65   <2e-16 ***
+RNA           0.2840     0.0281   10.11   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 168.7 on 252 degrees of freedom
+  (108 observations deleted due to missingness)
+Multiple R-squared:  0.2884,	Adjusted R-squared:  0.2856 
+F-statistic: 102.1 on 1 and 252 DF,  p-value: < 2.2e-16
+
+                  2.5 %      97.5 %
+(Intercept) 123.5710620 179.6314436
+RNA           0.2286727   0.3393658
+
+    o Plot to ./results/plot-RNA-inIcuCurrently-regression.png
+  - Regressing onVentilatorCurrently on RNA at lag 19 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-290.442  -27.243   -9.693   28.312  126.246 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 50.807314   3.775317   13.46   <2e-16 ***
+RNA          0.196188   0.007275   26.97   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 43.42 on 231 degrees of freedom
+  (129 observations deleted due to missingness)
+Multiple R-squared:  0.7589,	Adjusted R-squared:  0.7579 
+F-statistic: 727.2 on 1 and 231 DF,  p-value: < 2.2e-16
+
+                 2.5 %     97.5 %
+(Intercept) 43.3688571 58.2457716
+RNA          0.1818531  0.2105221
+
+    o Plot to ./results/plot-RNA-onVentilatorCurrently-regression.png
+  - Regressing deathIncrease on RNA at lag 11 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-75.027 -15.556  -8.420   8.256 132.561 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 26.229521   2.340979  11.205   <2e-16 ***
+RNA          0.043903   0.004748   9.248   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 28.86 on 267 degrees of freedom
+  (93 observations deleted due to missingness)
+Multiple R-squared:  0.2426,	Adjusted R-squared:  0.2398 
+F-statistic: 85.52 on 1 and 267 DF,  p-value: < 2.2e-16
+
+                  2.5 %      97.5 %
+(Intercept) 21.62039353 30.83864786
+RNA          0.03455541  0.05325004
+
+    o Plot to ./results/plot-RNA-deathIncrease-regression.png
+
+* MWRA COVID Analysis completed Wed May 19 17:23:52 2021 (1.8 sec elapsed).
