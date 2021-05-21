@@ -419,47 +419,6 @@ https://talkingpointsmemo.com/edblog/will-you-take-the-pledge
 Zvi: https://thezvi.wordpress.com/2021/04/09/covid-4-9-another-vaccine-passport-objection/
 As people take more risks and the new strains dominate, we’ve settled into about a 10% week over week growth in positive rates, but due to vaccinations death rates continue to decline. That means that one’s risk as an unvaccinated person continues to rise, even as risk on a population level goes down. With everyone eligible now or at least soon, I’d urge once again for everyone who isn’t yet vaccinated to schedule an appointment as soon as possible.
 
-Posts for Zvi:
-COVID stuff:
-https://www.someweekendreading.blog/covid-vaccines-and-clots/
-https://www.someweekendreading.blog/reading-mrna-vaccines/
-https://www.someweekendreading.blog/variants-vs-vaccines/
-https://www.someweekendreading.blog/azox-vaccine-thrombo/
-https://www.someweekendreading.blog/republicans-vs-herd-immunity/
-https://www.someweekendreading.blog/jnj-vaccine-vrbpac-review/
-https://www.someweekendreading.blog/coronavirus-mutation-vs-vaccine/
-https://www.someweekendreading.blog/beautiful-vaccines-2/
-https://www.someweekendreading.blog/pfizer-vaccine-efficacy-confidence-intervals/
-https://www.someweekendreading.blog/beautiful-vaccines/
-https://www.someweekendreading.blog/astrazeneca-oxford-vaccine-readout/
-https://www.someweekendreading.blog/moderna-vaccine-efficacy-data/
-https://www.someweekendreading.blog/pfizer-vaccine-efficacy-data/
-https://www.someweekendreading.blog/wastewater-corona-virus-rna-vs-medical-loads/
-https://www.someweekendreading.blog/covid-vs-statins-ace-inhibitors/
-
-Random science, which I still hope will be this blog's asymptotic concern post-COVID:
-https://www.someweekendreading.blog/wow-signal/
-
-Math in politics:
-https://www.someweekendreading.blog/filibusters/
-https://www.someweekendreading.blog/republican-impeachment-votes/
-https://www.someweekendreading.blog/covid-loves-republicans/
-https://www.someweekendreading.blog/who-voted/
-https://www.someweekendreading.blog/night-of-the-living-beta-binomials/
-https://www.someweekendreading.blog/whats-that-stupid-avatar/
-https://www.someweekendreading.blog/bpd-racial-makeup/
-
-Randomly weird/funny/beautiful stuff:
-https://www.someweekendreading.blog/free-bird/
-https://www.someweekendreading.blog/pandemic-in-retrospect/
-https://www.someweekendreading.blog/pi-day/
-https://www.someweekendreading.blog/i-guess-i-like-dolly-parton/
-https://www.someweekendreading.blog/moderna-struck-by-lightning/
-https://www.someweekendreading.blog/solstice-vs-dodds-day/
-https://www.someweekendreading.blog/le-chat-noir/
-https://www.someweekendreading.blog/in-autumn-in-new-england-thoughts-turn-to/
-https://www.someweekendreading.blog/retirement-of-iphegenia/
-
 metanoia:
 Paul Dredge, quoting Carl Rogers _On Becoming a Person_: I feel that I have become more
 adequate in letting myself be what I am. It becomes easier for me to accept myself as a
@@ -473,3 +432,72 @@ experience—that we cannot change, we cannot move away from what we are, until 
 thoroughly accept what we are. Then change seems to come about almost unnoticed.
 
 --------------------------------------------------------------------------------
+
+<p>I blog at <a href="https://www.someweekendreading.blog"><em>Some Weekend
+Reading</em></a>.  I'm a (recently) retired scientist, trained in theoretical physics,
+worked in machine learning and statistics.  For the last 20 or so years, I've worked in
+cancer research (which gene to target, in which disease, which patients, and how to
+construct a biomarker that predicts response to therapy).</p>
+
+<p>I blog <a href="https://www.someweekendreading.blog/about">about</a> pharmaceutical
+research, what to believe about statistics in the news, random bits of
+physics, <a href="https://www.someweekendreading.blog/quotes/">random quotes</a> I've
+found useful over the years, and some politics.
+The <a href="https://www.someweekendreading.blog/tags/">tags page</a> is sort of a subject
+index to posts.</p>
+
+<p>Like your blog, mine has been consumed with COVID news, and I look forward to the day
+when I can write about ANYTHING else.</p>
+
+<p>Some suggested entry points on
+COVID: <a href="https://www.someweekendreading.blog/wastewater-redux/">using wastewater
+RNA as a predictive biomarker for medical
+loads</a>, <a href="https://www.someweekendreading.blog/variants-vs-vaccines/">vaccines
+and
+variants</a>, <a href="https://www.someweekendreading.blog/reading-mrna-vaccines/">reading
+the mRNA sequence in the vaccines</a>,
+the <a href="https://www.someweekendreading.blog/covid-vaccines-and-clots/">thrombosis
+fiasco</a> (and <a href="https://www.someweekendreading.blog/jnj-thrombosis-pause/">other
+related risk rates</a>), live-blogging the vaccine approvals
+(<a href="https://www.someweekendreading.blog/beautiful-vaccines/">Pfizer</a> (and
+its <a href="https://www.someweekendreading.blog/pfizer-vaccine-efficacy-confidence-intervals/">confidence
+intervals on
+efficacy</a>), <a href="https://www.someweekendreading.blog/beautiful-vaccines-2/">Moderna</a>, <a href="https://www.someweekendreading.blog/jnj-vaccine-vrbpac-review/">J&amp;J</a>),
+and <a href="https://www.someweekendreading.blog/covid-vs-statins-ace-inhibitors/">why
+statins seem to help treating COVID-19</a>.</p>
+
+<p>Random bits of science: <a href="https://www.someweekendreading.blog/wow-signal/">the
+"Wow!" signal</a>.</p>
+
+<p>Using math to think about
+politics: <a href="https://www.someweekendreading.blog/bpd-racial-makeup/">whether the
+Boston Police Department is racially different from
+Boston</a>, <a href="https://www.someweekendreading.blog/night-of-the-living-beta-binomials/">calming
+my election jitters with the Beta-Binomial distribution</a>,
+whether <a href="https://www.someweekendreading.blog/covid-loves-republicans/">COVID
+infects one clade of politicians more than
+another</a>, <a href="https://www.someweekendreading.blog/republican-impeachment-votes/">factors
+influencing impeachment
+votes</a>, <a href="https://www.someweekendreading.blog/who-voted/">who voted &amp; who
+didn't and how sure we are about that</a>, and so on.</p>
+
+<p>Random weird/beautiful
+stuff: <a href="https://www.someweekendreading.blog/dracula-vaccine/">Dracula tourism and
+vaccines</a>, <a href="https://www.someweekendreading.blog/free-bird/">parasailing with
+raptors</a>, <a href="https://www.someweekendreading.blog/pi-day/">Pi Day</a>,
+how <a href="https://www.someweekendreading.blog/i-guess-i-like-dolly-parton/">Dolly
+Parton earned my
+respect</a>, <a href="https://www.someweekendreading.blog/moderna-struck-by-lightning/">getting
+struck by lightning while in a clinical
+trial</a>, <a href="https://www.someweekendreading.blog/solstice-vs-dodds-day/">some
+thoughts on the
+solstice</a>, <a href="https://www.someweekendreading.blog/le-chat-noir/">why my cat is
+the trans male reincarnation of an Egyptian cat goddess</a>, and
+the <a href="https://www.someweekendreading.blog/pandemic-in-retrospect/">best video
+summary of the pandemic year.</a></p>
+
+<p>That's probably more than you want to know. :-)</p>
+
+<p>It's one of those weird blogs actually hosted at GitHub, with pages generated from a
+repository.  That part was actually kind of fun, though I'm still figuring it out.  So the
+layout is... "rudimentary".</p>

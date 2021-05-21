@@ -26,18 +26,18 @@ _en vogue_ in the last year:
   apartment buildings.  (Not quite sure I approve of that, but&hellip; China.)  
 - People are not just measuring the RNA levels of SARS-CoV-2 in general, but actually
   sequencing deep enough to detect which variants are present.  
-- At UCSD, they're testing sewage in 343 buildings detect infections so immediate and
+- At UCSD, they're testing sewage in 343 buildings to detect infections so immediate and
   focused testing can happen.  
 - Given the hysterical resistance to masks/tests/vaccines, it was inevitable somebody
   would say what Gertjan Medema, a microbiologist in the Netherlands, said: "Not everyone
   is getting tested, but everyone is going to the bathroom.  It’s nice to have
-  an objective tool that isn’t dependent on willingness to get tested."  Le sigh.  
+  an objective tool that isn’t dependent on willingness to get tested."  _Le sigh._  
   
 
 ## Giving it a second try  
 
 <img src="{{ site.baseurl }}/images/2020-11-02-coronavirus-winter-of-our-discontent-mwra-zones.png" width="400" height="365" alt="MWRA sewage processing zones" title="MWRA sewage processing zones" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-[Last November's analysis]({{ site.baseurl }}/wastewater-corona-virus-rna-vs-medical-loads/)
+[Last November, our analysis]({{ site.baseurl }}/wastewater-corona-virus-rna-vs-medical-loads/)
 of COVID-19 surveillance in sewage in Boston was a bit disappointing: it worked nicely
 during the first wave in the spring, but fell apart on what looked like a second wave
 shaping up in the fall.  Now there's more data available, so let's take another look!  
@@ -79,10 +79,10 @@ health care useage a bit later, no?
 - __Wastewater SARS-CoV-2 RNA data:__ The wastewater RNA data comes from the MWRA web 
   site. <sup id="fn3a">[[3]](#fn3)</sup>
   - This could have been provided in better form: it was a PDF, which mangled things up if
-    you copied & pasted into a text file.  Honestly, it felt like "malicious compliance":
+    you copied & pasted into a text file.  (Honestly, it felt _slightly_ like "malicious compliance":
     they _have_ to disclose the data, but do so in the least useful way possible and put
     roadblocks in the way of anybody who wants to do an independent analysis.  Probably
-    not, though: just silly PDF formatting.  In the end, I was able to use Google Sheets
+    not, though: just silly PDF formatting.)  In the end, I was able to use Google Sheets
     to decipher the mangled text, and spot checks showed I eventually got the data.
   - There are a couple of very peculiar outliers, e.g., a value on 2021-01-25 that is
     easily 10x the other points.  In the end, I left it in, though it'll stick out in the
