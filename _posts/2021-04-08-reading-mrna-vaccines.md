@@ -91,9 +91,9 @@ modularity, i.e., we can point to bits of it and explain what they, and only the
   - What's with the "five-prime" business?  Molecules with carbon rings get the carbons
     numbered, so we can talk to each other about which atom we mean.  As shown in the
     picture, nucleotides have such a ring, so the carbons are numbered 1-5.  The way
-    things shake out, it's carbons 3 and 5 that make the bonds to the next amino acid.
+    things shake out, it's carbons 3 and 5 that make the bonds to the next nucleic acid.
     (The "prime" business is another story, irrelevant here.)  So the 5' end just tells
-    you you're starting at the start end of the string of amino acids, and the 3' end is
+    you you're starting at the start end of the string of nucleic acids, and the 3' end is
     at the back end of the string.  
   - Ok, fine: "5-prime" means "in the beginning".  So what do the next 51 bases do, and if
     they're untranslated (not made into protein), why bother?  It's the thing that
