@@ -88,12 +88,13 @@ health care useage a bit later, no?
     easily 10x the other points.  In the end, I left it in, though it'll stick out in the
     plots below.  
 
+
 ## Exploratory analysis, or: What's in all that data, anyway?  
 
 The first order of business was to write an [R script](https://www.r-project.org) to load
 those datasets, clean them up a bit, do an inner join on the date to get them into a
-single joint dataset, and analyze it.  <sup id="fn3a">[[3]](#fn3)</sup>  The joint dataset
-is also available <sup id="fn4a">[[4]](#fn4)</sup> for anybody who wants to peer review
+single joint dataset, and analyze it.  <sup id="fn4a">[[4]](#fn4)</sup>  The joint dataset
+is also available <sup id="fn5a">[[5]](#fn5)</sup> for anybody who wants to peer review
 the results, or springboard off in a new direction without having to redo the data
 marshalling.  
 
@@ -150,7 +151,7 @@ like:
   _smaller_ use of hospital services.  We take this to mean that (a) it's mostly a younger
   population in the 2nd wave who have less extreme disease, or (b) the knowledge of how to
   care for COVID-19 patients _got better_.  Indeed, last November we observed reports of
-  both of those.
+  both of those. <sup id="fn6a">[[6]](#fn6)</sup>
   
 __Conclusion:__ There is pretty good evidence that a peak in wastewater RNA levels seems
 to be related to a peak in hospitalization, ICU admission, ventliator useage, and death
@@ -362,10 +363,10 @@ perhaps more sophisticated models will work?
 
 <a id="fn2">2</a>: COVID Tracking Project, [Massachusetts medical use data](https://covidtracking.com/data/state/massachusetts/), retrieved 2021-May-14.  __NB:__ The COVID Tracking Project stopped recording data on 2021-March-07, when the Federal government became functional again under the Biden administration.[↩](#fn2a)  
 
-<a id="fn2">2</a>: Massachusetts Water Resources Authority, [Biobot wastewater RNA data](http://www.mwra.com/biobot/biobotdata.htm), retrieved 2021-May-12. [↩](#fn2a)  
+<a id="fn3">3</a>: Massachusetts Water Resources Authority, [Biobot wastewater RNA data](http://www.mwra.com/biobot/biobotdata.htm), retrieved 2021-May-12. [↩](#fn3a)  
 
-<a id="fn3">3</a>: Weekend Editor, [Second wastewater/COVID analysis script in R]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-2.r), [_Some Weekend Reading_]({{ site.baseurl }}), 2021-May-21.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-transcript.txt).  [↩](#fn3a)  
+<a id="fn4">4</a>: Weekend Editor, [Second wastewater/COVID analysis script in R]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-2.r), [_Some Weekend Reading_]({{ site.baseurl }}), 2021-May-21.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-transcript.txt).  [↩](#fn4a)  
 
-<a id="fn4">4</a>: Weekend Editor, [joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-joint-data.tsv), [_Some Weekend Reading_]({{ site.baseurl }}), 2021-May-21.  [↩](#fn4a)  
+<a id="fn5">5</a>: Weekend Editor, [joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-joint-data.tsv), [_Some Weekend Reading_]({{ site.baseurl }}), 2021-May-21.  [↩](#fn5a)  
 
-<a id="fn5">5</a>: F Freyer, ["People sick with COVID-19 face better odds of survival"](https://www.bostonglobe.com/2020/11/08/metro/people-sick-with-covid-19-face-better-odds-survival/?s_campaign=coronavirusnow:newsletter), _Boston Globe_, 2020-Nov-08. [↩](#fn5a)  
+<a id="fn6">6</a>: F Freyer, ["People sick with COVID-19 face better odds of survival"](https://www.bostonglobe.com/2020/11/08/metro/people-sick-with-covid-19-face-better-odds-survival/?s_campaign=coronavirusnow:newsletter), _Boston Globe_, 2020-Nov-08. [↩](#fn6a)  
