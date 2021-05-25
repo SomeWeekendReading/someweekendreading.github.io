@@ -38,17 +38,17 @@ for realism.
 A Romanian friend found the original advertisement on the official government Facebook
 page.  And, of course, immediately thought all of us Weekend Readers should know about it:  
 
-> I just saw your post about Dracula and as a proud Trnasylvanian I thought you might
-> enjoy the actual original commercial :)  I have stolen from the Facebook page of the
+> I just saw your post about Dracula and as a proud Transylvanian I thought you might
+> enjoy the actual original commercial. :)  I have stolen it from the Facebook page of the
 > official Government vaccination campaign.  It says something like:  
 >  
 > "Who's afraid of the vaccine? Get your courage and come to Bran. one little sting and
 > then you're done (and no appointment needed)"  
 >  
 > They are also having vaccination at the beach, at the open air music concerts (at least
-> I hope they are open air ) and in drive throughs.  I really liked the Dracula one ,
+> I hope they are open air) and in drive throughs.  I really liked the Dracula one ,
 > although I am seriously worried about the Romanian vaccination campaign (and the
-> education level and effects of crazy propaganda ).  
+> education level and effects of crazy propaganda).  
 
 ![Official Romanian government invitation to get vaccinated at Castle Bran]({{ site.baseurl }}/images/2021-05-10-dracula-vaccine-romanian-govt.jpg "Official Romanian government invitation to get vaccinated at Castle Bran")  
 
