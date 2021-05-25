@@ -27,7 +27,7 @@ __Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp;
 - "Prediction is hard, especially when it's about the future."  
 - "What?  You mean right now?" &mdash; in response to "What time is it?"  
 
-"Numquam 'morde me' lamiae dices." (Never say 'bite me' to a vampire.) &mdash; Nobody who will admit it, but quite likely a [Buffy](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) fan  
+"Numquam 'morde me' lamiae dice." (Never say 'bite me' to a vampire.) &mdash; Nobody who will admit it, but quite likely a [Buffy](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) fan  
 
 "Fait au Qu&eacute;bec par les Qu&eacute;b&eacute;cois/Made in Canada by Canadians."
 &mdash; ad campaign by Quebec-based Abris Penguin Shelters  
