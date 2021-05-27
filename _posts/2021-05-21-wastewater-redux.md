@@ -288,7 +288,7 @@ Here's what the regessions looked like graphically.
 
 So it looks like there's predictive information, but it's difficult to use because of (a)
 data artifacts like RNA outliers or negative death rates, (b) only 2 waves to work with,
-and (c) the pragmatics medical treatment for COVID-19 were chaning rapidly, as was the
+and (c) the pragmatics medical treatment for COVID-19 were changing rapidly, as was the
 population getting infected (old vs young) in the 2 waves.  
 
 
