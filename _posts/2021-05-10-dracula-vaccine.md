@@ -18,7 +18,8 @@ So&hellip; if that's what you've got, then leverage it to solve your vaccine hes
 problem!
 
 From the venerable _BBC_ comes a story of just that.  <sup id="fn1a">[[1]](#fn1)</sup>
-Apparently, visitors to the 14th century castle alleged to have belonged to Vlad Tepes are being
+Apparently, visitors to the 14th century castle alleged to have belonged to 
+[Vlad Tepes](https://en.wikipedia.org/wiki/Vlad_the_Impaler) are being
 offered the Pfizer vaccine as well.  
 
 The plan is an interesting move, from the point of view of marketing psychology: show up
