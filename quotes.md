@@ -1129,3 +1129,4 @@ _Business Week_, 14-Nov-2003.
   something."  
 - "Hey, Bayes Rule is _a priori_ plausible, isn't it?"  
 - "The whole _point_ of civilization is to be less brutal than nature.  Just because something is 'natural' doesn't absolve us of the responsibility to do better when we can."  
+- "Everyone _interesting_ is mad; of this there is no question.  The better question is whether or not their madness is [the divine madness]({{ site.baseurl }}/tags/#TheDivineMadness)."  
