@@ -367,6 +367,6 @@ perhaps more sophisticated models will work?
 
 <a id="fn4">4</a>: Weekend Editor, [Second wastewater/COVID analysis script in R]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-2.r), [_Some Weekend Reading_]({{ site.baseurl }}), 2021-May-21.  There is also [a transcript of running the analysis]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-transcript.txt).  [↩](#fn4a)  
 
-<a id="fn5">5</a>: Weekend Editor, [joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-joint-data.tsv), [_Some Weekend Reading_]({{ site.baseurl }}), 2021-May-21.  [↩](#fn5a)  
+<a id="fn5">5</a>: Weekend Editor, [Joint RNA &amp; COVID medical load dataset]({{ site.baseurl }}/assets/2021-05-21-wastewater-redux-mwra-covid-joint-data.tsv), [_Some Weekend Reading_]({{ site.baseurl }}), 2021-May-21.  [↩](#fn5a)  
 
 <a id="fn6">6</a>: F Freyer, ["People sick with COVID-19 face better odds of survival"](https://www.bostonglobe.com/2020/11/08/metro/people-sick-with-covid-19-face-better-odds-survival/?s_campaign=coronavirusnow:newsletter), _Boston Globe_, 2020-Nov-08. [↩](#fn6a)  
