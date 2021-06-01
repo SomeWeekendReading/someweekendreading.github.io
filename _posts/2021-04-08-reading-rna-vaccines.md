@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading the mRNA in the Pfizer &amp; Moderna vaccines
+title: Reading the RNA in the Pfizer &amp; Moderna vaccines
 tags: COVID MathInTheNews PharmaAndBiotech 
 comments: true
 ---
