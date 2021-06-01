@@ -5,16 +5,16 @@ tags: COVID MathInTheNews PharmaAndBiotech
 comments: true
 ---
 
-Have you ever wondered if you could make sense of the mRNA code in the Pfizer or Moderna
+Have you ever wondered if you could make sense of the RNA code in the Pfizer or Moderna
 vaccines, if you could just read it?  With some help, you can now do exactly that.  
 
-## Availability of the mRNA sequences and what that doesn't mean  
+## Availability of the RNA sequences and what that doesn't mean  
 
 As we [reported earlier this month]({{ site.baseurl }}/vaccine-mRNA-seq-on-github/), the
-mRNA sequences for both the Pfizer and Moderna vaccines have been posted on 
+RNA sequences for both the Pfizer and Moderna vaccines have been posted on 
 [GitHub](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-SmRNA-1273).  
 
-People have said all sorts of damn fool things about mRNA vaccines in general, and about
+People have said all sorts of damn fool things about RNA vaccines in general, and about
 this new reopsitory in particular.  It is _not_ a recipe for making your own version of
 the vaccine, since there's _very_ elaborate chemistry in the lipid nanocapsule, a complex
 set of buffers and preservatives to make it go into solution in a useful way, and about a
@@ -29,7 +29,7 @@ anything, and (b) all the tricks in it are well-known (by people who know such t
 The goal of this post is for us to become one of the people who know such things.  
 
 
-## An explainer piece on the vaccine mRNA  
+## An explainer piece on the vaccine RNA  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/RntuQ_BULho" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> </iframe>
 <iframe width="373" height="210" src="https://www.youtube.com/embed/JfwlKMZrY0U" allow="accelerometer; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> </iframe>
@@ -48,8 +48,8 @@ You really should read Bert's piece (about a 20min read).  But&hellip; since we 
 you probably won't do that, here's a quick summary.  (But really, his explanation is
 probably better than mine.)  
 
-<img src="{{ site.baseurl }}/images/2021-04-08-reading-mrna-vaccines-pfizer-seq.jpg" width="400" height="206" alt="Bert Hubert: Beginning of Pfizer/BioNTech vaccine mRNA sequence" title="Bert Hubert: Beginning of Pfizer/BioNTech vaccine mRNA sequence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-The Pfizer sequence was [apparently published by the WHO last September]({{ site.baseurl }}/assets/2021-04-08-reading-mrna-vaccines-11889.doc).  It looks more or less like this, showing the first 500 nucleotides of the mRNA.  There are a total of 4284 nucleotides in the whole thing.  
+<img src="{{ site.baseurl }}/images/2021-04-08-reading-mrna-vaccines-pfizer-seq.jpg" width="400" height="206" alt="Bert Hubert: Beginning of Pfizer/BioNTech vaccine RNA sequence" title="Bert Hubert: Beginning of Pfizer/BioNTech vaccine RNA sequence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+The Pfizer sequence was [apparently published by the WHO last September]({{ site.baseurl }}/assets/2021-04-08-reading-mrna-vaccines-11889.doc).  It looks more or less like this, showing the first 500 nucleotides of the RNA.  There are a total of 4284 nucleotides in the whole thing.  
 
 All clear, right?  No, of course not, unless you are a ribosome used to reading this sort
 of thing to make proteins.  (If  you are an intelligent ribosome who reads my blog, please
@@ -63,18 +63,18 @@ modularity, i.e., we can point to bits of it and explain what they, and only the
   [the WHO report]({{ site.baseurl }}/assets/2021-04-08-reading-mrna-vaccines-11889.doc)
   from the International Nonproprietary Names Programme in September 2020 (though the
   original now seems to have been moved somewhere else).  
-- mRNA consists of a chain of 4 nucleoties/bases: adenosine (A), cytosine (C), guanine
+- RNA consists of a chain of 4 nucleoties/bases: adenosine (A), cytosine (C), guanine
   (G), and uracil (U).  So the sequence above (almost) tells you how to put those 4
   nucleotides together to make something.  That "something" gets fed through a ribosome,
   which through outrageous Rube Goldberg machinery, assembles a corresponding protein out
   of amino acids.  The proteins go off and do all sorts of things, like mostly
   everything.  
-- In order for a ribosome to recognize mRNA a meaningful, there has to be a recognition handshake:
+- In order for a ribosome to recognize RNA a meaningful, there has to be a recognition handshake:
   this is the GA cap at the front.  To a ribosome, this means: "you can process this".
   So that's the "cap" thing on the left end, where a ribosome starts looking.  I dislike
   comparisons to computer code, since those are inevitably misleading, but this really
   does look like a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)).  
-- Now, I just got done telling you an mRNA sequence was a string of letters from the
+- Now, I just got done telling you an RNA sequence was a string of letters from the
   alphabet of ACGU.  But&hellip; what's that thing that looks like a capital Greek &Psi;
   doing in there?  [Well!]({{ site.baseurl}}/moderna-vaccine-passes-vrbpac-review/#fn2)  
   - Your body realio-trulio despises the idea of foreign DNA or RNA running around loose.
@@ -144,7 +144,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
   Pfizer scientists here picked a particularly efficient one of the the human genome (the
   12S riobosomal protein).  So that's __biohack #9.__  
 - Then there's the poly-A tail: polyadenylation means a lot of AAAAAAA's at the end.  
-  - This is so the mRNA can be _re-used many times_: it loses a few A's at the end each time
+  - This is so the RNA can be _re-used many times_: it loses a few A's at the end each time
     through the ribosome so to make it get used a lot they provided a lot of A's.
     __Biohack #10.__  
   - Finally, there's a funny linker (GCAUAUGACU) that breaks up the poly-A tail into segments.
@@ -155,7 +155,7 @@ Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUG
 
 ## What's it all mean?  
 
-This bit of mRNA has been _considerably_ engineered by Pfizer to optimize for getting past
+This bit of RNA has been _considerably_ engineered by Pfizer to optimize for getting past
 the immune system, optimizing for protein translation speed &amp; amount in several ways,
 improving the stability of the spike protein away from the rest of the virus, and so on.  
 
@@ -163,7 +163,7 @@ Bert has guided us through the weeds to see at least 11 biohacks to do this.  Re
 read his piece, since he probably explains things better than me.  
 
 What struck me was how much of all this engineering has come to light in just the last
-couple of years.  Enormous preparation on mRNA vaccines and knowledge of the previous
+couple of years.  Enormous preparation on RNA vaccines and knowledge of the previous
 coronavirus outbreaks (MERS and SARS) meant that we had just exactly the right tools, at
 the right time, in the right hands.  
 
