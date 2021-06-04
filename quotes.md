@@ -1112,7 +1112,7 @@ _Business Week_, 14-Nov-2003.
 - "Scientists talk about nature; cranks talk about themselves."  
 - "It never pays to humiliate an opponent.  Defeat, disarm, divert, coopt, compromise, befriend, &hellip; never humiliate."  
 - "If you're gonna lose your grip on reality, let go with _both_ hands.  No half measures!"  
-- "If you don't have a solution, you can always admire the problem."  
+- "If you can't find a solution, at least you can admire the problem."  
 - "An archetype is what you get when you factor-analyze a real person."  
 - "Look&hellip; if I could _explain_ it, it wouldn't _be_ transcendant in the first place, now would it?"  
 - "Footnotes are your friends."  
