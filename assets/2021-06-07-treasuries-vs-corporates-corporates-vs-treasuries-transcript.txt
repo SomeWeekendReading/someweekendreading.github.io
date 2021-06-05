@@ -1,0 +1,173 @@
+
+* Corporates vs Treasuries Analysis on Sat Jun 05 14:18:22 2021
+  - input data directory: ./data
+  - results directory:    ./results
+  - transcript to:        ./results/corporates-vs-treasuries-transcript.txt
+
+Script Archival:
+----------------
+
+* Archived analysis script(s) to ./results:
+  - ./corporates-vs-treasuries.r
+
+Loading datasets:
+-----------------
+
+* Loading stock market, treasury, and corporate returns data
+  - Input file ./data/tsm-itt-itc-data.tsv
+  - Structure of data found:
+'data.frame':	150 obs. of  7 variables:
+ $ Year       : int  1871 1872 1873 1874 1875 1876 1877 1878 1879 1880 ...
+ $ TSM.Nominal: num  15.6 11.19 -2.51 4.67 5.31 ...
+ $ ITT.Nominal: num  2.75 1.79 4.24 13.7 6.47 7.18 3.63 6.42 2.93 5.26 ...
+ $ ITC.Nominal: num  3 1.4 3.39 12.72 6.99 ...
+ $ TSM.Real   : num  13.86 8.74 1.99 12.46 11.78 ...
+ $ ITT.Real   : num  1.2 -0.46 9.05 22.15 13.01 ...
+ $ ITC.Real   : num  1.45 -0.84 8.16 21.11 13.56 ...
+  - Column names and types check out
+  - No missing data
+  - Year range check passed: 1871 - 2020
+
+Exploratory correlations:
+-------------------------
+
+* Real correlations:
+  - Correlation chart of TSM.Real, ITT.Real, ITC.Real to ./results/correlation-chart-Real.png
+  - Significance of difference of correlations 0.16 and 0.28 (150 points):
+    Z = 1.09, p = 0.28
+  - Also, 3d scatterplot to ./results/scatterplot-3d-Real.gif
+
+* Nominal correlations:
+  - Correlation chart of TSM.Nominal, ITT.Nominal, ITC.Nominal to ./results/correlation-chart-Nominal.png
+  - Significance of difference of correlations 0.03 and 0.22 (150 points):
+    Z = 1.64, p = 0.1
+  - Also, 3d scatterplot to ./results/scatterplot-3d-Nominal.gif
+
+Call:  cv.glmnet(x = as.matrix(df[, c(2, 3)]), y = df[, 4, drop = TRUE],      type.measure = "mse", foldid = df$Fold, alpha = 1, family = "gaussian") 
+
+Measure: Mean-Squared Error 
+
+    Lambda Measure    SE Nonzero
+min 0.0402   9.984 2.969       2
+1se 1.1461  12.510 2.670       2
+3 x 1 sparse Matrix of class "dgCMatrix"
+                      1
+(Intercept) -0.14359923
+TSM.Real     0.06392401
+ITT.Real     0.94145839
+
+Call:
+lm(formula = as.formula(sprintf("%s ~ %s + %s", colnames(df)[[4]], 
+    colnames(df)[[2]], colnames(df)[[3]])), data = df)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-18.2266  -1.1336  -0.2595   0.8417  21.8937 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -0.17198    0.29205  -0.589    0.557    
+TSM.Real     0.06585    0.01437   4.584 9.68e-06 ***
+ITT.Real     0.94562    0.03109  30.419  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.14 on 147 degrees of freedom
+Multiple R-squared:  0.8736,	Adjusted R-squared:  0.8719 
+F-statistic: 507.9 on 2 and 147 DF,  p-value: < 2.2e-16
+
+
+Just modernity, thanks...:
+--------------------------
+
+* Real correlations:
+  - Correlation chart of TSM.Real, ITT.Real, ITC.Real to ./results/correlation-chart-Real 1980-2020.png
+  - Significance of difference of correlations -0.01 and 0.39 (41 points):
+    Z = 1.83, p = 0.068
+  - Also, 3d scatterplot to ./results/scatterplot-3d-Real 1980-2020.gif
+
+Call:  cv.glmnet(x = as.matrix(df[, c(2, 3)]), y = df[, 4, drop = TRUE],      type.measure = "mse", foldid = df$Fold, alpha = 1, family = "gaussian") 
+
+Measure: Mean-Squared Error 
+
+    Lambda Measure    SE Nonzero
+min 0.0419   24.85 6.028       2
+1se 1.1942   30.49 8.750       2
+3 x 1 sparse Matrix of class "dgCMatrix"
+                     1
+(Intercept) -0.0708163
+TSM.Real     0.2091127
+ITT.Real     0.7962118
+
+Call:
+lm(formula = as.formula(sprintf("%s ~ %s + %s", colnames(df)[[4]], 
+    colnames(df)[[2]], colnames(df)[[3]])), data = df)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.7725  -2.4481   0.1203   1.5592  17.3253 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -0.12055    0.94350  -0.128    0.899    
+TSM.Real     0.21179    0.04582   4.622 4.29e-05 ***
+ITT.Real     0.80151    0.09057   8.850 9.09e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.636 on 38 degrees of freedom
+Multiple R-squared:  0.7223,	Adjusted R-squared:  0.7077 
+F-statistic: 49.41 on 2 and 38 DF,  p-value: 2.682e-11
+
+
+Start year sensitivity:
+-----------------------
+
+* Examining sensitivity of Treas/Corp real corr diff with start year:
+  - Start year: 1970 - 1990
+  - End year: 2020
+  - Significance of difference of correlations 0.12 and 0.48 (51 points):
+    Z = 1.97, p = 0.049
+  - Significance of difference of correlations 0.14 and 0.50 (50 points):
+    Z = 1.97, p = 0.048
+  - Significance of difference of correlations 0.13 and 0.50 (49 points):
+    Z = 1.96, p = 0.05
+  - Significance of difference of correlations 0.14 and 0.50 (48 points):
+    Z = 1.95, p = 0.051
+  - Significance of difference of correlations 0.10 and 0.48 (47 points):
+    Z = 1.95, p = 0.051
+  - Significance of difference of correlations 0.03 and 0.40 (46 points):
+    Z = 1.82, p = 0.069
+  - Significance of difference of correlations 0.05 and 0.40 (45 points):
+    Z = 1.70, p = 0.089
+  - Significance of difference of correlations 0.04 and 0.39 (44 points):
+    Z = 1.68, p = 0.093
+  - Significance of difference of correlations 0.01 and 0.37 (43 points):
+    Z = 1.71, p = 0.087
+  - Significance of difference of correlations -0.01 and 0.36 (42 points):
+    Z = 1.73, p = 0.083
+  - Significance of difference of correlations -0.01 and 0.39 (41 points):
+    Z = 1.83, p = 0.068
+  - Significance of difference of correlations 0.02 and 0.44 (40 points):
+    Z = 1.96, p = 0.05
+  - Significance of difference of correlations -0.01 and 0.41 (39 points):
+    Z = 1.92, p = 0.055
+  - Significance of difference of correlations -0.04 and 0.47 (38 points):
+    Z = 2.30, p = 0.021
+  - Significance of difference of correlations -0.03 and 0.47 (37 points):
+    Z = 2.25, p = 0.024
+  - Significance of difference of correlations -0.02 and 0.50 (36 points):
+    Z = 2.30, p = 0.022
+  - Significance of difference of correlations -0.10 and 0.47 (35 points):
+    Z = 2.45, p = 0.014
+  - Significance of difference of correlations -0.13 and 0.47 (34 points):
+    Z = 2.53, p = 0.011
+  - Significance of difference of correlations -0.16 and 0.46 (33 points):
+    Z = 2.55, p = 0.011
+  - Significance of difference of correlations -0.15 and 0.46 (32 points):
+    Z = 2.51, p = 0.012
+  - Significance of difference of correlations -0.19 and 0.46 (31 points):
+    Z = 2.54, p = 0.011
+  - Results plotted to ./results/start-year-dependency.png
+
+* Corporates vs Treasuries Analysis completed Sat Jun 05 14:18:42 2021 (20.0 sec elapsed).
