@@ -226,7 +226,7 @@ So maybe data that far back is from a different financial universe.  Let's just 
 the data from, say, 1980 - 2020 as representative of the modern financial universe.  (And
 yes, Nisiprius, we will consider alternatives even to _that_, below.)
 
-<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-correlation-chart-Real 1980-2020.png" width="500" height="500" alt="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" title="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-correlation-chart-Real-1980-2020.png" width="500" height="500" alt="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" title="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - We see that ITT and ITC are still correlated with each other.  Unsurprising, they're
   still both bonds.  
 - But we see a surprising difference: the correlation of Treasuries with stocks is -0.01, while
@@ -237,12 +237,12 @@ yes, Nisiprius, we will consider alternatives even to _that_, below.)
 Clearly, something is different in the modern era that makes corporate bonds more
 correlated with stocks than Treasuries, or at least more so than formerly.  
 
-<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-scatterplot-3d-Real 1980-2020.gif" width="400" height="400" alt="3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020" title="3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-scatterplot-3d-Real-1980-2020.gif" width="400" height="400" alt="3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020" title="3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The scatterplot is, as above, more difficult to interpret.  Clearly ITT and ITC are
 correlated (nearly in a plane together), but the degree of relationship to TSM is hard to
 assess.  This is why we prefer quantitative statistics to visual judgements.  
 
-<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-cv-lasso-regression-Real 1980 - 2020.png" width="400" height="400" alt="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" title="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-cv-lasso-regression-Real-1980-2020.png" width="400" height="400" alt="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" title="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The `glmnet()` LASSO regulated regressions show the same kind of result as above: both ITT
 and TSM are essential for predicting ITC.  Corporate bonds still have some stock-like
 aspects.  
