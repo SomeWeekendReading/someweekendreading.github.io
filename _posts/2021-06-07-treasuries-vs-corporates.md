@@ -271,7 +271,7 @@ Multiple R-squared:  0.7223,	Adjusted R-squared:  0.7077
 F-statistic: 49.41 on 2 and 38 DF,  p-value: 2.682e-11
 ```
 
-Note that the regression overall is significant, as is the coefficient for TSM.  But check
+Note that the regression overall is still significant, as is the coefficient for TSM.  But check
 out the effect size: the regression coefficient is a bit over _3 times larger_ for this
 time period than over the whole time series.  
 
