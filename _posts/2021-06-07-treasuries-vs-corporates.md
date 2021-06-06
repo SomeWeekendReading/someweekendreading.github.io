@@ -247,9 +247,15 @@ assess.  This is why we prefer quantitative statistics to visual judgements.
 <img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-cv-lasso-regression-Real-1980-2020.png" width="400" height="400" alt="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" title="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The `glmnet()` LASSO regulated regressions show the same kind of result as above: both ITT
 and TSM are essential for predicting ITC.  Corporate bonds still have some stock-like
-aspects.  
+aspects.  The very best predictor model (the dashed vertical line at the left) uses both
+ITT and TSM as predictors.  The simplest model that is within 1 standard error of the MSE
+of the best model (the dashed vertical line at the right) also uses the same 2 variables.
+Note that the $\lambda$ parameter, which imposes the $L^1$ penalty, is _3 orders of
+magnitude higher_, i.e., we're putting 1000x times more pressure on the model to give up a
+parameter, but it refuses.  It really, really believes that corporate bonds have
+stock-like risk characteristics!  
 
-But consider what happens to the regression coefficients in modernity vs the whole time
+But consider also what happens to the regression coefficients in modernity vs the whole time
 series:  
 ```
 Coefficients:
