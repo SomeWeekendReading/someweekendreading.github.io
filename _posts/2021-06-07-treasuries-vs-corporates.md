@@ -243,10 +243,11 @@ The scatterplot is, as above, more difficult to interpret.  Clearly ITT and ITC 
 correlated (nearly in a plane together), but the degree of relationship to TSM is hard to
 assess.  This is why we prefer quantitative statistics to visual judgements.  
 
-<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-cv-lasso-regression-Real-1980-2020.png" width="400" height="400" alt="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" title="LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The `glmnet()` LASSO regulated regressions show the same kind of result as above: both ITT
 and TSM are essential for predicting ITC.  Corporate bonds still have some stock-like
 aspects.  
+![LASSO regularization: how many parameters to use to predict real return of corporates
+1980 - 2020?]({{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-cv-lasso-regression-Real-1980-2020.png "LASSO regularization: how many parameters to use to predict real return of corporates 1980 - 2020?")
 
 But consider what happens to the regression coefficients in modernity vs the whole time
 series:  
