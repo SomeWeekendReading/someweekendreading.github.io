@@ -238,10 +238,11 @@ yes, Nisiprius, we will consider alternatives even to _that_, below.)
 Clearly, something is different in the modern era that makes corporate bonds more
 correlated with stocks than Treasuries, or at least more so than formerly.  
 
-<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-scatterplot-3d-Real-1980-2020.gif" width="400" height="400" alt="3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020" title="3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The scatterplot is, as above, more difficult to interpret.  Clearly ITT and ITC are
 correlated (nearly in a plane together), but the degree of relationship to TSM is hard to
 assess.  This is why we prefer quantitative statistics to visual judgements.  
+
+![3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020]({{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-scatterplot-3d-Real-1980-2020.gif "3d animated scatterplot: real return of stocks, treasuries, corporates 1980 - 2020")
 
 The `glmnet()` LASSO regulated regressions show the same kind of result as above: both ITT
 and TSM are essential for predicting ITC.  Corporate bonds still have some stock-like
