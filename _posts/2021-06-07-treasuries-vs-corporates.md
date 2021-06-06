@@ -328,9 +328,10 @@ So our 60/40 portfolio is 40% bonds, divided equally among:
   short-term TIPS fund, and
 - [VTABX](https://investor.vanguard.com/mutual-funds/profile/VTABX), the Vanguard
   international bond index fund.  (This is mostly government bonds of developed nations.
-  It hedges currency back to the dollar, so it looks a lot like Treasuries.  The best
-  evidence for it Vanguard could present said it might not help much, but it at least
-  wouldn't hurt.  I decided to take their advice.)  
+  It hedges currency back to the dollar.  So it looks a lot like US Treasuries.  The best
+  evidence Vanguard could present said it might not help much, but it at least
+  wouldn't hurt, and it's one of the world's largest asset classes.  I decided to take
+  their advice.)  
 
 ---
 
@@ -344,6 +345,6 @@ So our 60/40 portfolio is 40% bonds, divided equally among:
 <a id="fn1">1</a>: Bogleheads community, ["Simba backtesting spreadsheet"](https://www.bogleheads.org/wiki/Simba%27s_backtesting_spreadsheet), [_Bogleheads.org_](https://www.bogleheads.org), data snapshot 2021-Jun-01.[↩](#fn1a)  
 
 
-<a id="fn2">2</a>: Weekend Editor, ["Corporate vs Treasury analysis script in R"]({{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-corporates-vs-treasuries.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}), 2021-Jun-07.  There is also available, for peer review, [a transcript of running the analysis]( {{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-corporates-vs-treasuries-transcript.txt).[↩](#fn2a)  
+<a id="fn2">2</a>: Weekend Editor, ["Corporate vs Treasury analysis script in R"]({{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-corporates-vs-treasuries.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Jun-07.  There is also available, for peer review, [a transcript of running the analysis]( {{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-corporates-vs-treasuries-transcript.txt).[↩](#fn2a)  
 
-<a id="fn3">3</a>: Weekend Editor, ["US Stock, Treasury, and Corporate Bond Returns 1871 - 2020"]({{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-tsm-itt-itc-data.tsv), [_Some Weekend Reading_ blog]({{ site.baseurl }}), 2021-Jun-07.  Note that this contains both nominal and real returns.  Since real returns are what really matters, we haven't made much use of the nominal returns here. [↩](#fn3a)  
+<a id="fn3">3</a>: Weekend Editor, ["US Stock, Treasury, and Corporate Bond Returns 1871 - 2020"]({{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-tsm-itt-itc-data.tsv), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Jun-07.  Note that this contains both nominal and real returns.  Since real returns are what really matters, we haven't made much use of the nominal returns here. [↩](#fn3a)  
