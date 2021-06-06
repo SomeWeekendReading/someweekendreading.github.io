@@ -228,8 +228,9 @@ the data from, say, 1980 - 2020 as representative of the modern financial univer
 yes, Nisiprius, we will consider alternatives even to _that_, below.)
 
 <img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-correlation-chart-Real-1980-2020.png" width="500" height="500" alt="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" title="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- We see that ITT and ITC are still correlated with each other.  Unsurprising, they're
-  still both bonds.  
+- We see that ITT and ITC are still correlated with each other (unsurprising, they're
+  still both bonds), though not quite as highly.  Some of the loss of correlation might
+  make one a better stock diversifier than the other.
 - But we see a surprising difference: the correlation of Treasuries with stocks is -0.01, while
   corporate bonds have a correlation of +0.39!  Repeating the Fisher $Z$-transform
   analysis of above, this gives $Z = 1.83$ with a $p = 0.068$.  Now&hellip; that's not
