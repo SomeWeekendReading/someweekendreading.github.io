@@ -32,7 +32,7 @@ medical problem (under the cruel US healthcare system), and you suddenly find yo
 
 If you have some bonds, then you can (a) preserve some capital from the cruel market
 standard deviation (risk control), (b) have some bonds to sell into a decline to maintain
-a constant stock/bond ratio (rebalancing), and (c) maybe get some interest paied for your
+a constant stock/bond ratio (rebalancing), and (c) maybe get some interest paid for your
 trouble.  
 
 So that's my model: those 3 factors, _in that order,_ motivate me to hold a 60/40 portfolio
