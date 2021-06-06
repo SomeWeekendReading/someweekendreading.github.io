@@ -150,11 +150,12 @@ in [R](https://www.r-project.org).)
 This gives us $Z = 1.09$ and $p = 0.28$.  So this difference is _not_ statistically
 significant.  (Came as a surprise to me!  But&hellip; that's how you learn things.)  
 
-<img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-scatterplot-3d-Real.gif" width="400" height="400" alt="3d animated scatterplot: real return of stocks, treasuries, corporates 1871 - 2020" title="3d animated scatterplot: real return of stocks, treasuries, corporates 1871 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Next is the 3d scatterplot.  (My animated graphic software is a bit wounded right now, so
 this is a kludge for which I apologize.)  You can pretty well see that ITT and ITC real
 returns are highly correlated (lying in a plane), but that neither is much correlated with
 TSM.  This confirms the result above.  
+
+![3d animated scatterplot: real return of stocks, treasuries, corporates 1871 - 2020]({{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-scatterplot-3d-Real.gif "3d animated scatterplot: real return of stocks, treasuries, corporates 1871 - 2020")
 
 The last analysis here is to do a regression model:  
 
