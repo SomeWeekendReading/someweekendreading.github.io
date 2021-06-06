@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stock Diversifiers: Treasury vs Corporate Bonds?
+title: Stock Diversifiers&colon; Treasury vs Corporate Bonds?
 tags: Investing MathInTheNews Retirement R Statistics
 comments: true
 ---
