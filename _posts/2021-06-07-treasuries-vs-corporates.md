@@ -324,7 +324,7 @@ So our 60/40 portfolio is 40% bonds, divided equally among:
 - [VSBSX](https://investor.vanguard.com/mutual-funds/profile/VSBSX), the Vanguard
   short-term Treasury index fund,
 - [VSIGX](https://investor.vanguard.com/mutual-funds/profile/VSIGX), the Vanguard
-  intermeidate-term Treasury index fund,
+  intermediate-term Treasury index fund,
 - [VTAPX](https://investor.vanguard.com/mutual-funds/profile/VTAPX), the Vanguard
   short-term TIPS fund, and
 - [VTABX](https://investor.vanguard.com/mutual-funds/profile/VTABX), the Vanguard
