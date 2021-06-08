@@ -313,7 +313,7 @@ Well&hellip; what a long strange trip it's been!
   Treasury bond index fund, and an intermediate-term corporate bond index fund.  
 - Using the (largely synthetic) data going back to 1871, we found that the evidence was
   _mostly_ statistically significant pointing to Treasuries as a better stock
-  diversifier.  The exception was the difference in correlations wit corporates.  
+  diversifier.  The exception was the difference in correlations with corporates.  
 - Looking at more modern eras, we saw that things had changed: _everythign_ was
   statistically significant in saying Treasuries were the better stock diversifier.  
 - The regressions support a model saying intermediate corporates are a bit like a Treasury
