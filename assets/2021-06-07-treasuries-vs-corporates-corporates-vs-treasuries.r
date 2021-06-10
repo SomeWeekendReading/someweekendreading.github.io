@@ -103,7 +103,6 @@ doit <- function(## Inputs
     cor1 <- cor(df[, 1], df[, 2])                    #
     cor2 <- cor(df[, 1], df[, 3])                    #
     tst  <- paired.r(cor1, cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-    print(tst); print(summary(tst))
     cat(sprintf("\n  - Significance of difference of correlations %.2f and %.2f (%d points):",
                 cor1, cor2, nrow(df)))               #
     cat(sprintf("\n    Z = %.2f, p = %.2g", tst$"z", tst$"p"))

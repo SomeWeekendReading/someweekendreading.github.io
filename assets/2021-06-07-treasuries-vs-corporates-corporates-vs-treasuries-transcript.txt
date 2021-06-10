@@ -1,5 +1,5 @@
 
-* Corporates vs Treasuries Analysis on Thu Jun 10 13:58:01 2021
+* Corporates vs Treasuries Analysis on Thu Jun 10 14:12:23 2021
   - input data directory: ./data
   - results directory:    ./results
   - transcript to:        ./results/corporates-vs-treasuries-transcript.txt
@@ -32,19 +32,13 @@ Exploratory correlations:
 -------------------------
 
 * Real correlations:
-  - Correlation chart of TSM.Real, ITT.Real, ITC.Real to ./results/correlation-chart-Real.pngCall: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.09  With probability =  0.14[1] "I am sorry, I do not have a summary function for this object"
-
+  - Correlation chart of TSM.Real, ITT.Real, ITC.Real to ./results/correlation-chart-Real.png
   - Significance of difference of correlations 0.16 and 0.28 (150 points):
     Z = 1.09, p = 0.14
   - Also, 3d scatterplot to ./results/scatterplot-3d-Real.gif
 
 * Nominal correlations:
-  - Correlation chart of TSM.Nominal, ITT.Nominal, ITC.Nominal to ./results/correlation-chart-Nominal.pngCall: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.64  With probability =  0.05[1] "I am sorry, I do not have a summary function for this object"
-
+  - Correlation chart of TSM.Nominal, ITT.Nominal, ITC.Nominal to ./results/correlation-chart-Nominal.png
   - Significance of difference of correlations 0.03 and 0.22 (150 points):
     Z = 1.64, p = 0.051
   - Also, 3d scatterplot to ./results/scatterplot-3d-Nominal.gif
@@ -87,10 +81,7 @@ Just modernity, thanks...:
 --------------------------
 
 * Real correlations:
-  - Correlation chart of TSM.Real, ITT.Real, ITC.Real to ./results/correlation-chart-Real 1980-2020.pngCall: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.83  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+  - Correlation chart of TSM.Real, ITT.Real, ITC.Real to ./results/correlation-chart-Real 1980-2020.png
   - Significance of difference of correlations -0.01 and 0.39 (41 points):
     Z = 1.83, p = 0.034
   - Also, 3d scatterplot to ./results/scatterplot-3d-Real 1980-2020.gif
@@ -134,112 +125,49 @@ Start year sensitivity:
 
 * Examining sensitivity of Treas/Corp real corr diff with start year:
   - Start year: 1970 - 1990
-  - End year: 2020Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.97  With probability =  0.02[1] "I am sorry, I do not have a summary function for this object"
-
+  - End year: 2020
   - Significance of difference of correlations 0.12 and 0.48 (51 points):
-    Z = 1.97, p = 0.025Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.97  With probability =  0.02[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.97, p = 0.025
   - Significance of difference of correlations 0.14 and 0.50 (50 points):
-    Z = 1.97, p = 0.024Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.96  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.97, p = 0.024
   - Significance of difference of correlations 0.13 and 0.50 (49 points):
-    Z = 1.96, p = 0.025Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.95  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.96, p = 0.025
   - Significance of difference of correlations 0.14 and 0.50 (48 points):
-    Z = 1.95, p = 0.026Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.95  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.95, p = 0.026
   - Significance of difference of correlations 0.10 and 0.48 (47 points):
-    Z = 1.95, p = 0.026Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.82  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.95, p = 0.026
   - Significance of difference of correlations 0.03 and 0.40 (46 points):
-    Z = 1.82, p = 0.034Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.7  With probability =  0.04[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.82, p = 0.034
   - Significance of difference of correlations 0.05 and 0.40 (45 points):
-    Z = 1.70, p = 0.044Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.68  With probability =  0.05[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.70, p = 0.044
   - Significance of difference of correlations 0.04 and 0.39 (44 points):
-    Z = 1.68, p = 0.046Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.71  With probability =  0.04[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.68, p = 0.046
   - Significance of difference of correlations 0.01 and 0.37 (43 points):
-    Z = 1.71, p = 0.043Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.73  With probability =  0.04[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.71, p = 0.043
   - Significance of difference of correlations -0.01 and 0.36 (42 points):
-    Z = 1.73, p = 0.042Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.83  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.73, p = 0.042
   - Significance of difference of correlations -0.01 and 0.39 (41 points):
-    Z = 1.83, p = 0.034Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.96  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.83, p = 0.034
   - Significance of difference of correlations 0.02 and 0.44 (40 points):
-    Z = 1.96, p = 0.025Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 1.92  With probability =  0.03[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.96, p = 0.025
   - Significance of difference of correlations -0.01 and 0.41 (39 points):
-    Z = 1.92, p = 0.028Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.3  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 1.92, p = 0.028
   - Significance of difference of correlations -0.04 and 0.47 (38 points):
-    Z = 2.30, p = 0.011Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.25  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 2.30, p = 0.011
   - Significance of difference of correlations -0.03 and 0.47 (37 points):
-    Z = 2.25, p = 0.012Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.3  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 2.25, p = 0.012
   - Significance of difference of correlations -0.02 and 0.50 (36 points):
-    Z = 2.30, p = 0.011Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.45  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 2.30, p = 0.011
   - Significance of difference of correlations -0.10 and 0.47 (35 points):
-    Z = 2.45, p = 0.0072Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.53  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 2.45, p = 0.0072
   - Significance of difference of correlations -0.13 and 0.47 (34 points):
-    Z = 2.53, p = 0.0057Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.55  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 2.53, p = 0.0057
   - Significance of difference of correlations -0.16 and 0.46 (33 points):
-    Z = 2.55, p = 0.0053Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.51  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 2.55, p = 0.0053
   - Significance of difference of correlations -0.15 and 0.46 (32 points):
-    Z = 2.51, p = 0.0061Call: paired.r(xy = cor1, xz = cor2, n = nrow(df), n2 = nrow(df), twotailed = FALSE)
-[1] "test of difference between two independent correlations"
-z = 2.54  With probability =  0.01[1] "I am sorry, I do not have a summary function for this object"
-
+    Z = 2.51, p = 0.0061
   - Significance of difference of correlations -0.19 and 0.46 (31 points):
     Z = 2.54, p = 0.0055
   - Results plotted to ./results/start-year-dependency.png
 
-* Corporates vs Treasuries Analysis completed Thu Jun 10 13:58:20 2021 (19.4 sec elapsed).
+* Corporates vs Treasuries Analysis completed Thu Jun 10 14:12:42 2021 (19.2 sec elapsed).
