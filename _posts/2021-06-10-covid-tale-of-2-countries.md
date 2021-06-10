@@ -28,7 +28,7 @@ That's the sitch.  And I don't like it.
 
 ## The Dark Side  
 
-<img src="{{ site.baseurl }}/images/2021-07-10-covid-tale-of-2-countries-umair.jpg" width="400" height="251" alt="Umair Haque/Eudaimonia: The New Dark Age and the Death of Freedom" title="Umair Haque/Eudaimonia: The New Dark Age and the Death of Freedom" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-10-covid-tale-of-2-countries-umair.jpg" width="400" height="251" alt="Umair Haque/Eudaimonia: The New Dark Age and the Death of Freedom" title="Umair Haque/Eudaimonia: The New Dark Age and the Death of Freedom" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 [Umair Haque, internet-famous vampire](https://umairhaque.com/my-story-db079024396b)
 (probably
 [porphyria](https://www.bbc.com/future/article/20161031-the-real-life-disease-that-spread-the-vampire-myth)?)
@@ -43,7 +43,7 @@ It shows Texans &ndash; one of the states more floridly expressing anti-science 
 [the Mark of the Beast in the Bible's Book of Revelations 13](https://en.wikipedia.org/wiki/Number_of_the_beast).  
 
 Now, it almost doesn't matter the number of ways in which this is wrong: that original was coded
-("_ἀποκάλυψις_" (apokálypsis) = "out from under cover" in Greek) language for the
+language ("_ἀποκάλυψις_" (apokálypsis) = "out from under cover" in Greek) for the
 persecution under Roman Emperor Nero, that such literature of the times was seldom
 intended as future prophecy (but rather as coded critique of the then-powerful), or that
 it's just plain wildly irrational.  Look at the people in the picture: only 2 are masked,
@@ -56,7 +56,7 @@ This is one reason effective public health measures are hard.  People stupidly, 
 _resist_.  Now they're claiming vaccines turn you into a magnet so you can be reprogrammed
 by 5G signals.  Or that the nasal swab in a COVID-19 test "bruises your amygdala"
 (breaking into your skull?) to make you more submissive to authority.  Or&hellip; look, I
-just can't go on.  It literally makes me feel sick.  
+just can't go on.  It literally makes sickens me.  
 
 This, alas, leads to declining vaccination rates.  In the US, we've vaccinated most of the
 people who are willing.  There's still some work to do, getting the vaccine out to the
@@ -184,11 +184,11 @@ Some parts of the country have taking masking, social distancing, and vaccinatio
 seriously.  They're nearing normalcy and probably have a bright future.  
 
 Other parts are denying science and public health advice, calling masks "muzzles", saying
-the vaccine is the Mark of the Beast or turns you into a magnet.  Their COVID-19 rates
-account for most of the deaths in the US.  They have a future which to some
-degree resembles the Dark Ages: fascist and superstitious.  
+the vaccine is the Mark of the Beast or that it turns you into a magnet for 5G
+reprogramming.  Their COVID-19 rates account for most of the deaths in the US.  They have
+a future which to some degree resembles the Dark Ages: fascist and superstitious.  
 
-It is, to quote [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) in 
+These times are, to quote [Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) in 
 [_A Tale of Two Cities_](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities):  
 
 > It was the best of times, it was the worst of times, it was the age of wisdom, it was
