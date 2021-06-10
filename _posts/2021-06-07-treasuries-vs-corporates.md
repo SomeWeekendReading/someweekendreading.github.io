@@ -147,7 +147,7 @@ That gets us a $p$-value via the normal CDF.  (This is the method used by the fu
 in the [`psych` library](https://cran.r-project.org/web/packages/psych/index.html)
 in [R](https://www.r-project.org).)  
 
-This gives us $Z = 1.09$ and $p = 0.28$.  So this difference is _not_ statistically
+This gives us $Z = 1.09$ and $p = 0.14$.  So this difference is _not_ statistically
 significant.  (Came as a surprise to me!  But&hellip; that's how you learn things.)  
 
 Next is the 3d scatterplot.  (My animated graphic software is a bit wounded right now, so
@@ -233,8 +233,8 @@ yes, Nisiprius, we will consider alternatives even to _that_, below.)
   make one a better stock diversifier than the other.
 - But we see a surprising difference: the correlation of Treasuries with stocks is -0.01, while
   corporate bonds have a correlation of +0.39!  Repeating the Fisher $Z$-transform
-  analysis of above, this gives $Z = 1.83$ with a $p = 0.068$.  Now&hellip; that's not
-  _quite_ $p \le 0.05$&hellip; but it's getting right close!  
+  analysis of above, this gives $Z = 1.83$ with a $p = 0.034$.  Now&hellip; _that's_
+  statistically significant!  
   
 Clearly, something is different in the modern era that makes corporate bonds more
 correlated with stocks than Treasuries, or at least more so than formerly.  
@@ -291,18 +291,19 @@ stocks.
 Here's what it looks like:  
 
 <img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-start-year-dependency.png" width="400" height="400" alt="Treasury/Corporate real return correlation difference: dependency on start year" title="Treasury/Corporate real return correlation difference: dependency on start year" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-- In the early 1970's, it's about 5%.  If we had accidentally chosen those years as a
+- First, it's statistically significant (below 5%) for this whole era!  
+- In the early 1970's, it's about 2.5%.  If we had accidentally chosen those years as a
   starting point, we'd be tempted to claim statistical significance: Treasuries were less
   correlted with stocks than corporates.  (And then Nisiprius would have come by to let
   the air out of our tires, which would have been a valuable service.)  
 - In 1976 - 1980, something reversed that: corporates and Treasuries were still
-  differently correlated to stocks, but the statistical significance waned a bit.  No idea
-  why, but the high inflation of those years seems a suspect.  
+  differently correlated to stocks, but the statistical significance waned a bit (not completely!).
+  No idea why, but the high inflation of those years seems a suspect.  
 - In 1980 - 1990, the effect reversed.  (This is about the time Volker raised interest
   rates to the moon and broke the back fo systematic inflation in the US.  Recall, though,
   that these are _real_, post-inflation returns.)  Choosing any time after about 1983 is a
   slam-dunk: the data through 2020 clearly indicate that Treasuries are a better
-  diversifier than corporates.  
+  diversifier than corporates, and the statistical significance is excellent, at $p \le 0.01$!.  
   
 
 ## The Weekend Conclusion  
