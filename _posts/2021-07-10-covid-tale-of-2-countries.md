@@ -206,4 +206,4 @@ I wish I knew how to make it better.  Maybe we don't _want_ better.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: U Haque, ["The New Dark Age and the Death of Freedom"](https://eand.co/the-new-dark-age-and-the-death-of-freedom-a5521953a8f5), [_Eudaemonia_&amp; Co.](https://eand.co), 2021-Jun-09.  Dark essays, but appropriate for dark times.  Let's try to avoid the new Dark Ages, shall we? [↩](#fn1a)  
+<a id="fn1">1</a>: U Haque, ["The New Dark Age and the Death of Freedom"](https://eand.co/the-new-dark-age-and-the-death-of-freedom-a5521953a8f5), [_Eudaemonia_ &amp; Co.](https://eand.co), 2021-Jun-09.  Dark essays, but appropriate for dark times.  Let's try to avoid the new Dark Ages, shall we? [↩](#fn1a)  
