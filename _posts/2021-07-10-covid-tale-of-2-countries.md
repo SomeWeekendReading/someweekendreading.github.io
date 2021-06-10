@@ -40,10 +40,10 @@ fascinating as always, but what caught my eye here was his cover photo reproduce
 
 It shows Texans &ndash; one of the states more floridly expressing anti-science lunacy
 &ndash; carrying a sign comparing the COVID-19 vaccines to 
-[the Number of the Beast in the Bible's Book of Revelations 13:18](https://en.wikipedia.org/wiki/Number_of_the_beast).  
+[the Mark of the Beast in the Bible's Book of Revelations 13](https://en.wikipedia.org/wiki/Number_of_the_beast).  
 
-Now, it almost doesn't matter the number of ways in which this is wrong: that it's coded
-("ἀποκάλυψις" (apokálypsis) = "out from under cover" in Greek) langauge for the
+Now, it almost doesn't matter the number of ways in which this is wrong: that original was coded
+("_ἀποκάλυψις_" (apokálypsis) = "out from under cover" in Greek) language for the
 persecution under Roman Emperor Nero, that such literature of the times was seldom
 intended as future prophecy (but rather as coded critique of the then-powerful), or that
 it's just plain wildly irrational.  Look at the people in the picture: only 2 are masked,
@@ -196,7 +196,7 @@ It is, to quote [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens)
 > was the season of light, it was the season of darkness, it was the spring of hope, it
 > was the winter of despair.
 
-I wish I knew how to make it better.  Maybe we don't _want_ better.  
+I wish I knew how to make it better.  But maybe we don't _want_ better.  
 
 ---
 
