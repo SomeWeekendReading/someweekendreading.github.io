@@ -188,7 +188,8 @@ the vaccine is the Mark of the Beast or turns you into a magnet.  Their COVID-19
 account for most of the deaths in the US.  They have a future which to some
 degree resembles the Dark Ages: fascist and superstitious.  
 
-It is, to quote Charles Dickens in _A Tale of Two Cities_:  
+It is, to quote [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens) in 
+[_A Tale of Two Cities_](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities):  
 
 > It was the best of times, it was the worst of times, it was the age of wisdom, it was
 > the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it
