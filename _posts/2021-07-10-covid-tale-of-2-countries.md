@@ -43,14 +43,14 @@ It shows Texans &ndash; one of the states more floridly expressing anti-science 
 [the Number of the Beast in the Bible's Book of Revelations 13:18](https://en.wikipedia.org/wiki/Number_of_the_beast).  
 
 Now, it almost doesn't matter the number of ways in which this is wrong: that it's coded
-("apocalypse" = "out from under cover" in Greek) langauge for the persecution under Roman
-Emperor Nero, that such literature of the times was seldom intended as future prophecy
-(but rather as coded critique of the then-powerful), or that it's just plain wildly
-irrational.  Look at the people in the picture: only 2 are masked, no social
-distancing (and indeed one loon holding a sign saying "Social Distancing STOPS Herd
-Immunity"!), and so on.  In particular, look at the woman in the hat at the left end of
-the banner: leaning forward, face grimacing, mouth wide open &ndash; actually _bellowing_
-out her angry ignorance.  
+("ἀποκάλυψις" (apokálypsis) = "out from under cover" in Greek) langauge for the
+persecution under Roman Emperor Nero, that such literature of the times was seldom
+intended as future prophecy (but rather as coded critique of the then-powerful), or that
+it's just plain wildly irrational.  Look at the people in the picture: only 2 are masked,
+no social distancing (and indeed one loon holding a sign saying "Social Distancing STOPS
+Herd Immunity"!), and so on.  In particular, look at the woman in the hat at the left end
+of the banner: leaning forward, face grimacing, mouth wide open &ndash; actually
+_bellowing_ out her angry ignorance.  
 
 This is one reason effective public health measures are hard.  People stupidly, stubbornly
 _resist_.  Now they're claiming vaccines turn you into a magnet so you can be reprogrammed
@@ -94,7 +94,7 @@ It's gotten very, very bad.  The usual go-to example of psychotic delusion in Co
 Q-Anon nut.  But even more disheartening is the example of 
 [Louis Gohmert](https://en.wikipedia.org/wiki/Louie_Gohmert), who has represented Texas
 for over 15 years.  He has such reputation for stupidity that people wanting to criticize
-someone _else's_ dumbness describe them as "the dumbest Congressional Representative not
+someone _else's_ knuckleheadery describe them as "the dumbest Congressional Representative not
 named Louie Gohmert", so as to exclude the outlier.  Case in point: here is a _Reuters_
 video in which he asks the US Forest Service if they could _change the orbit of the moon_
 in order to stabilize the earth against climate change!  
