@@ -234,7 +234,7 @@ yes, Nisiprius, we will consider alternatives even to _that_, below.)
 - But we see a surprising difference: the correlation of Treasuries with stocks is -0.01, while
   corporate bonds have a correlation of +0.39!  Repeating the Fisher $Z$-transform
   analysis of above, this gives $Z = 1.83$ with a $p = 0.068$.  Now&hellip; that's not
-  _quite_ $p \le 0.05$&hellip; but its' getting right close!  
+  _quite_ $p \le 0.05$&hellip; but it's getting right close!  
   
 Clearly, something is different in the modern era that makes corporate bonds more
 correlated with stocks than Treasuries, or at least more so than formerly.  
