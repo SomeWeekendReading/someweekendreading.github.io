@@ -56,7 +56,7 @@ This is one reason effective public health measures are hard.  People stupidly, 
 _resist_.  Now they're claiming vaccines turn you into a magnet so you can be reprogrammed
 by 5G signals.  Or that the nasal swab in a COVID-19 test "bruises your amygdala"
 (breaking into your skull?) to make you more submissive to authority.  Or&hellip; look, I
-just can't go on.  It literally makes sickens me.  
+just can't go on.  It literally sickens me.  
 
 This, alas, leads to declining vaccination rates.  In the US, we've vaccinated most of the
 people who are willing.  There's still some work to do, getting the vaccine out to the
