@@ -94,7 +94,7 @@ It's gotten very, very bad.  The usual go-to example of psychotic delusion in Co
 Q-Anon nut.  But even more disheartening is the example of 
 [Louis Gohmert](https://en.wikipedia.org/wiki/Louie_Gohmert), who has represented Texas
 for over 15 years.  He has such a reputation for stupidity that people wanting to criticize
-someone _else's_ knuckleheadery describe them as "the dumbest Congressional Representative not
+someone _else's_ knuckleheadery describe them as "the dumbest person in Congress not
 named Louie Gohmert", so as to exclude the outlier.  Case in point: here is a _Reuters_
 video in which he asks the US Forest Service if they could _change the orbit of the moon_
 in order to stabilize the earth against climate change!  
