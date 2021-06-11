@@ -88,6 +88,18 @@ their local superstitions and _want_ COVID-19 not to stop:
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    The partisan divide in States&#39; success in mass vaccination across the US is truly
+    startling. <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>
+    is an equal-opportunity infector, but unused 
+    <a href="https://twitter.com/hashtag/vaccines?src=hash&amp;ref_src=twsrc%5Etfw">#vaccines</a>
+   can&#39;t be equal-opportunity protectors.<a href="https://t.co/dzjxbQpBMY">https://t.co/dzjxbQpBMY</a> 
+  </p>
+  &mdash; Laurie Garrett (@Laurie_Garrett) <a href="https://twitter.com/Laurie_Garrett/status/1402839113699676160?ref_src=twsrc%5Etfw">June 10, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 <iframe width="373" height="210" src="https://www.youtube.com/embed/JsA72dLablY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 It's gotten very, very bad.  The usual go-to example of psychotic delusion in Congress is
 [Marjorie Taylor Greene](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene), who is a
