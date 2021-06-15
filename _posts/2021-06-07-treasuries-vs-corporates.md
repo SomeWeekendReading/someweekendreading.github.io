@@ -303,7 +303,7 @@ Here's what it looks like:
   rates to the moon and broke the back fo systematic inflation in the US.  Recall, though,
   that these are _real_, post-inflation returns.)  Choosing any time after about 1983 is a
   slam-dunk: the data through 2020 clearly indicate that Treasuries are a better
-  diversifier than corporates, and the statistical significance is excellent, at $p \le 0.01$!.  
+  diversifier than corporates, and the statistical significance is excellent, at $p \le 0.01$!  
   
 
 ## The Weekend Conclusion  
