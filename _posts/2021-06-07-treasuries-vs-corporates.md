@@ -315,7 +315,7 @@ Well&hellip; what a long strange trip it's been!
 - Using the (largely synthetic) data going back to 1871, we found that the evidence was
   _mostly_ statistically significant pointing to Treasuries as a better stock
   diversifier.  The exception was the difference in correlations with corporates.  
-- Looking at more modern eras, we saw that things had changed: _everythign_ was
+- Looking at more modern eras, we saw that things had changed: _everything_ was
   statistically significant in saying Treasuries were the better stock diversifier.  
 - The regressions support a model saying intermediate corporates are a bit like a Treasury
   bond with a small slice of the stock market.  _You cannot diversify stock market risk
