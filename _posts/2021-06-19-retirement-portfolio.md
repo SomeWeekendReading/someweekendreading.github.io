@@ -150,7 +150,7 @@ available for peer review.
     Nobel-winning 
     [Fama-French 3-factor model](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model).  
 
-The summary rules for how to automate this are:  
+The summary rules for how to automate this are from 4 parameters $b$, $r$, $f$, and $t$:  
 - If $b = 0.4$ is the fraction to put in bonds, then $1 - b = 0.6$ is the amount in
   stocks.  
 - If $r = 0.1$ is the fraction of stocks to put in REITs, then $r (1-b) = 0.06$ goes in
