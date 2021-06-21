@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Stock Diversifiers&colon; Treasury vs Corporate Bonds?
-tags: Investing MathInTheNews Retirement R Statistics
+title: The Weekend Retirement Portfolio
+tags: Investing Retirement R Statistics
 comments: true
 ---
 
