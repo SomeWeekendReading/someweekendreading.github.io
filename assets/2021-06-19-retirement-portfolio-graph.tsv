@@ -1,0 +1,14 @@
+Asset	Description	AssetType	Alloc	pathString
+Cash	Money Market	Cash	0.0	Portfolio/FixedIncome/Cash/Cash
+VSBSX	Short Treas Idx	Bonds	10.0	Portfolio/FixedIncome/Bonds/VSBSX
+VSIGX	Interm Treas Idx	Bonds	10.0	Portfolio/FixedIncome/Bonds/VSIGX
+VTAPX	Short TIPS Idx	Bonds	10.0	Portfolio/FixedIncome/Bonds/VTAPX
+VTABX	Intl Bond Idx	Bonds	10.0	Portfolio/FixedIncome/Bonds/VTABX
+VGSLX	US REIT Idx	REITs	3.6	Portfolio/Stocks/REITs/VGSLX
+VGRLX	Intl REIT Idx	REITs	2.4	Portfolio/Stocks/REITs/VGRLX
+VTWAX	World Stock Idx	World Stock	3.65	Portfolio/Stocks/Total Markets/VTWAX
+VTCLX	Tax-Mgd Cap Appr	US Stock	9.1	Portfolio/Stocks/Total Markets/VTCLX
+VTMSX	Tax-Mgd Small Cap	US Stock	8.99	Portfolio/Stocks/Total Markets/VTMSX
+VTIAX	Total Intl Idx	Foreign Stock	10.66	Portfolio/Stocks/Total Markets/VTIAX
+VSIAX	US Small Val Idx	US Stock	12.96	Portfolio/Stocks/Tilts/VSIAX
+VFSAX	Intl Small Idx	Foreign Stock	8.64	Portfolio/Stocks/Tilts/VFSAX

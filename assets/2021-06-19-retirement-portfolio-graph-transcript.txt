@@ -1,0 +1,48 @@
+
+* Portfolio Graph on Sat Jun 19 17:58:50 2021
+  - input data directory: .
+  - results directory:    ./graph-results
+  - transcript to:        ./graph-results/graph-transcript.txt
+
+Script archival:
+----------------
+
+* Archived analysis script(s) to ./graph-results:
+  - graph.r
+
+Graph construction:
+-------------------
+
+* Building portfolio tree from description in ./graph.tsv
+  - Propagating values
+  - Enforcing constraints
+  - Here's what we built:
+               levelName     AssetType       Description  Alloc
+1  Portfolio                                   Portfolio 100.00
+2   ¦--FixedIncome                           FixedIncome  40.00
+3   ¦   ¦--Cash                                     Cash   0.00
+4   ¦   ¦   °--Cash               Cash      Money Market   0.00
+5   ¦   °--Bonds                                   Bonds  40.00
+6   ¦       ¦--VSBSX             Bonds   Short Treas Idx  10.00
+7   ¦       ¦--VSIGX             Bonds  Interm Treas Idx  10.00
+8   ¦       ¦--VTAPX             Bonds    Short TIPS Idx  10.00
+9   ¦       °--VTABX             Bonds     Intl Bond Idx  10.00
+10  °--Stocks                                     Stocks  60.00
+11      ¦--REITs                                   REITs   6.00
+12      ¦   ¦--VGSLX             REITs       US REIT Idx   3.60
+13      ¦   °--VGRLX             REITs     Intl REIT Idx   2.40
+14      ¦--Total Markets                   Total Markets  32.40
+15      ¦   ¦--VTWAX       World Stock   World Stock Idx   3.65
+16      ¦   ¦--VTCLX          US Stock  Tax-Mgd Cap Appr   9.10
+17      ¦   ¦--VTMSX          US Stock Tax-Mgd Small Cap   8.99
+18      ¦   °--VTIAX     Foreign Stock    Total Intl Idx  10.66
+19      °--Tilts                                   Tilts  21.60
+20          ¦--VSIAX          US Stock  US Small Val Idx  12.96
+21          °--VFSAX     Foreign Stock    Intl Small Idx   8.64
+
+Graph drawing:
+--------------
+
+* Done.
+
+* Portfolio Graph completed Sat Jun 19 17:58:52 2021 (1.9 sec elapsed).
