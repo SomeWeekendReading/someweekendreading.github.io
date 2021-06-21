@@ -36,7 +36,8 @@ $$
   P &= \mbox{pension or annuity income} \\
   S &= \mbox{anticipated Social Security income} \\
   y &= \mbox{years until Social Security starts} \\
-  w &= \mbox{portfolio withdrawal rate}
+  w &= \mbox{portfolio withdrawal rate} \\
+  C &= \mbox{investment capital available at start of retirement}
 \end{align*}
 $$
 
@@ -45,7 +46,8 @@ that's just a pile of cash that you'll spend over the next $y$ years.
 
 Then after that, Social Security kicks in and you have to supply $R - P - S$ income, i.e.,
 the amount above pension and Social Security.  That will come as a withdrawal at rate $w$
-from a portfolio, so at that point the value of the portfolio must be above $(R - P - S) / w$.  
+from a portfolio, so at that point the value of the portfolio must be above $(R - P - S) / w$.
+(__NB:__ This does not address whether $w$ is a _sustainable_ withdrawal rate!)  
 
 So the total capital required is the lump sum to spend before Social Security plus the
 portfolio from which to withrdraw after that:  
@@ -182,7 +184,7 @@ later, so we'd prefer to have assets in the Roth where they're protected from th
 
 That's&hellip; a little complicated.  Even that's not _totally_ what we do; the Weekend
 Editrix has a small Roth IRA in a
-[Vanguard Target Retirement index fund](https://investor.vanguard.com/mutual-funds/target-retirement/#/),
+[Vanguard Target Retirement index fund](https://investor.vanguard.com/mutual-funds/target-retirement),
 and I still have a (now very small) amount of my employer's stock that I'm waiting to sell.  
 
 But this is pretty close.  
