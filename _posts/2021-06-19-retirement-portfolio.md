@@ -6,7 +6,7 @@ comments: true
 ---
 
 After reading my rant on the superiority of Treasury bonds vs corporate bonds as a stock
-diversifier, [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe), what the
+diversifier, [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) what the
 retirement portfolio of the denizens of Chez Weekend looked like.  Basically: index funds,
 heavily diversified across bond types, stock sizes, valuations, and nations.  
 
@@ -51,7 +51,7 @@ So the total capital required is the lump sum to spend before Social Security pl
 portfolio from which to withrdraw after that:  
 
 $$
-C = (R - P) * y + (R - P - S) / w
+C = (R - P)  y + (R - P - S) / w
 $$
 
 $P$, $S$, and $y$ are pretty much fixed by external circumstances.  Thus we have a
@@ -60,17 +60,17 @@ safe withdrawal rate studies show $3\% \le w \le 4%$ is a relatively safe and re
 place to be; that will tell you a range of achieveable incomes:  
 
 $$
-R = \frac{w * C + S}{y * w + 1} + P
+R = \frac{w C + S}{y w + 1} + P
 $$
 
 It's always worthwhile to check limiting cases!  This equation behaves sensibly in a
 number of limiting cases:   
 - In the limit as $w \to 0$, income becomes just $R \to P + S$.  
-- In the limit as $y \to 0$, Social Security starts now and $R \to w * C + P + S$.  
+- In the limit as $y \to 0$, Social Security starts now and $R \to w C + P + S$.  
 - In the limit as $y \to +\infty$, Social Security never happens and the money has to last
   forever.  So $R \to P$.  That's because the capital $C$ doesn't matter much spread
   across infinite years.  
-- In the limit as $S \to 0$, then $R \to w * C + P$, because we can then set $y = 0$
+- In the limit as $S \to 0$, then $R \to w C + P$, because we can then set $y = 0$
   because there's no point in waiting for a Social Security income of 0.  
 - In the limit as $C \to 0$, then $R \to P + S$ because if there's no capital we might as
   well set the withdrawal rate $w = 0$ and start Social Security immeidately.  
@@ -153,14 +153,13 @@ available for peer review.
 The summary rules for how to automate this are:  
 - If $b = 0.4$ is the fraction to put in bonds, then $1 - b = 0.6$ is the amount in
   stocks.  
-- If $r = 0.1$ is the fraction of stocks to put in REITs, then $r * (1-b) = 0.06$ goes in
-  REITs.  A fraction $(1-r)*(1-b) = 0.54$ goes in the more broad stock indexes.  
+- If $r = 0.1$ is the fraction of stocks to put in REITs, then $r (1-b) = 0.06$ goes in
+  REITs.  A fraction $(1-r)(1-b) = 0.54$ goes in the more broad stock indexes.  
 - If $f = 0.4$ is the fraction of equity to put in foreign stocks, use that to divide up
   both REITs and the other stocks between US and non-US.  
-- If $t = 0.6$ is the amount to devote to total market indexing, so that's
-  $(1-r)*(1-b)*t = 0.324$.  
+- If $t = 0.6$ is the amount to devote to total market indexing, so that's $(1-r)(1-b)t = 0.324$.  
 - Then $1-t = 0.4$ is the amount to devote to small-value and small tilts, so that's 
-  $(1-r)*(1-b)*(1-t) = 0.216$.  
+  $(1-r)(1-b)(1-t) = 0.216$.  
 - Avoid any transactions in the taxable assets, moving things in the IRAs instead.
 
 <img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-table.jpg" width="400" height="227" alt="Asset allocation table for the Weekend Retirment Portfolio" title="Asset allocation table for the Weekend Retirment Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
