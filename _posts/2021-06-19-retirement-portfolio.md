@@ -56,7 +56,7 @@ $$
 
 $P$, $S$, and $y$ are pretty much fixed by external circumstances.  Thus we have a
 relationship between the retirement income $R$ and the withdrawal rate $w$.  In practice,
-safe withdrawal rate studies show $3\% \le w \le 4%$ is a relatively safe and reasonable
+safe withdrawal rate studies show $3\% \le w \le 4\%$ is a relatively safe and reasonable
 place to be; that will tell you a range of achieveable incomes:  
 
 $$
