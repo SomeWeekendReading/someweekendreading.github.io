@@ -81,8 +81,10 @@ doit <- function(## Inputs
 
     SetEdgeStyle(portfolio, penwidth = 2)              # Inherited
 
+    ## Looks like you give SetEdgeStyle() a node, and it works on the (unique) incoming edge.
     ## *** This really should be automated somehow in a column of graph.tsv
     SetEdgeStyle(portfolio$"FixedIncome",             inherit = FALSE, label = "b")
+    SetEdgeStyle(portfolio$"Stocks",                  inherit = FALSE, label = "1-b")
 
     SetEdgeStyle(portfolio$FixedIncome$"Cash",        inherit = FALSE, label = "0")
     SetEdgeStyle(portfolio$FixedIncome$Cash$"Cash",   inherit = FALSE, label = "0")
@@ -91,8 +93,6 @@ doit <- function(## Inputs
     SetEdgeStyle(portfolio$FixedIncome$Bonds$"VSIGX", inherit = FALSE, label = "b/4")
     SetEdgeStyle(portfolio$FixedIncome$Bonds$"VTAPX", inherit = FALSE, label = "b/4")
     SetEdgeStyle(portfolio$FixedIncome$Bonds$"VTABX", inherit = FALSE, label = "b/4")
-
-    SetEdgeStyle(portfolio$"Stocks",                  inherit = FALSE, label = "1-b")
 
     SetEdgeStyle(portfolio$Stocks$"REITs",            inherit = FALSE, label = "(1-b)r")
     SetEdgeStyle(portfolio$Stocks$REITs$"VGSLX",      inherit = FALSE, label = "(1-b)r(1-f)")
