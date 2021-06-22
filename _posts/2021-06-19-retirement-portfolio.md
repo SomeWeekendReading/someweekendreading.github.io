@@ -70,8 +70,8 @@ number of limiting cases:
 - In the limit as $w \to 0$, income becomes just $R \to P + S$.  
 - In the limit as $y \to 0$, Social Security starts now and $R \to w C + P + S$.  
 - In the limit as $y \to +\infty$, Social Security never happens and the money has to last
-  forever.  So $R \to P$.  That's because the capital $C$ doesn't matter much spread
-  across infinite years.  
+  forever.  So $R \to P$.  (That's because the capital $C$ doesn't matter much spread
+  across infinite years.)  
 - In the limit as $S \to 0$, then $R \to w C + P$, because we can then set $y = 0$
   because there's no point in waiting for a Social Security income of 0.  
 - In the limit as $C \to 0$, then $R \to P + S$ because if there's no capital we might as
@@ -152,16 +152,20 @@ available for peer review.
     Nobel-winning 
     [Fama-French 3-factor model](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model).  
 
-The summary rules for how to automate this are from 4 parameters $b$, $r$, $f$, and $t$:  
+The summary rules for how to automate this are from 4 parameters $b$, $r$, $f$, and $t$, 
+as labelled on the arcs in the tree:  
 - If $b = 0.4$ is the fraction to put in bonds, then $1 - b = 0.6$ is the amount in
   stocks.  
-- If $r = 0.1$ is the fraction of stocks to put in REITs, then $r (1-b) = 0.06$ goes in
-  REITs.  A fraction $(1-r)(1-b) = 0.54$ goes in the more broad stock indexes.  
-- If $f = 0.4$ is the fraction of equity to put in foreign stocks, use that to divide up
-  both REITs and the other stocks between US and non-US.  
-- If $t = 0.6$ is the amount to devote to total market indexing, so that's $(1-r)(1-b)t = 0.324$.  
-- Then $1-t = 0.4$ is the amount to devote to small-value and small tilts, so that's 
-  $(1-r)(1-b)(1-t) = 0.216$.  
+- If $r = 0.1$ is the fraction of stocks to put in REITs, then $(1-b)r = 0.06$ goes in
+  REITs.  A fraction $(1-b)(1-r) = 0.54$ goes in the more broad stock indexes.  
+  - If $f = 0.4$ is the fraction of equity to put in foreign stocks, then US REITs get
+    a fraction $(1-b)r(1-f)$. 
+  - Foreign REITs get $(1-b)rf$.  
+- If $t = 0.6$ is the amount to devote to total market indexing, so that's $(1-b)(1-r)t = 0.324$.  
+- Then $1-t = 0.4$ then the amount to devote to small-value and small tilts is
+  $(1-b)(1-r)(1-t) = 0.216$.  
+  - US small value gets $(1-b)(1-r)(1-t)(1-f)$.  
+  - Foreign small value gets $(1-b)(1-r)(1-t)f$.  
 - Avoid any transactions in the taxable assets, moving things in the IRAs instead.
 
 <img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-table.jpg" width="400" height="227" alt="Asset allocation table for the Weekend Retirment Portfolio" title="Asset allocation table for the Weekend Retirment Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>

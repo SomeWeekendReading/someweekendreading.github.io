@@ -4,6 +4,7 @@
 toolsDir <- "../tools"                                 # Random tools available from the author
 source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline construction tools
 library("data.tree")                                   # Tree data structure stuff
+library("DiagrammeR")
 
 ##
 ## Retirement asset allocation as a tree
@@ -14,16 +15,18 @@ doit <- function(## Inputs
                  dataFile  = "graph.tsv",              #
                  colorBox  = c("Cash" = "red", "Bonds" = "orange", "REITs" = "yellow",
                                ## *** Cyan gets ignored?  Hex gets ignored too?
-                               "WorldStock" = "#00ffff", "US Stock" = "green", "Foreign Stock" = "blue"),
+                               "WorldStock" = "#00ffff", "US Stock" = "green",
+                               "Foreign Stock" = "blue"),
                  ## *** fillcolor gets ignored, and no text appears in nodes if used?
                  colorFill = c("Cash" = "#ffcccc", "Bonds" = "#ffdb99", "REITs" = "#ffff99",
-                               "WorldStock" = "#b2ffff", "US Stock" = "#99cc99", "Foreign Stock" = "#b2b2ff"),
+                               "WorldStock" = "#b2ffff", "US Stock" = "#99cc99",
+                               "Foreign Stock" = "#b2b2ff"),
 
 
                  ## Outputs
                  resultsDir = "./graph-results",       #
                  txFile     = "graph-transcript.txt",  #
-                 graphPlot  = "graph.png",             #
+                 graphFile  = "graph.png",             #
                  graphLgnd  = "graph-legend.png") {    #
 
   makePortfolioTree <- function(dataDir, dataFile) {   # Make the portfolio as a data.tree
@@ -77,6 +80,28 @@ doit <- function(## Inputs
                  label    = getNodeLabel)              #
 
     SetEdgeStyle(portfolio, penwidth = 2)              # Inherited
+
+    ## *** This really should be automated somehow in a column of graph.tsv
+    SetEdgeStyle(portfolio$"FixedIncome",             inherit = FALSE, label = "b")
+
+    SetEdgeStyle(portfolio$FixedIncome$"Cash",        inherit = FALSE, label = "0")
+    SetEdgeStyle(portfolio$FixedIncome$Cash$"Cash",   inherit = FALSE, label = "0")
+    SetEdgeStyle(portfolio$FixedIncome$"Bonds",       inherit = FALSE, label = "b")
+    SetEdgeStyle(portfolio$FixedIncome$Bonds$"VSBSX", inherit = FALSE, label = "b/4")
+    SetEdgeStyle(portfolio$FixedIncome$Bonds$"VSIGX", inherit = FALSE, label = "b/4")
+    SetEdgeStyle(portfolio$FixedIncome$Bonds$"VTAPX", inherit = FALSE, label = "b/4")
+    SetEdgeStyle(portfolio$FixedIncome$Bonds$"VTABX", inherit = FALSE, label = "b/4")
+
+    SetEdgeStyle(portfolio$"Stocks",                  inherit = FALSE, label = "1-b")
+
+    SetEdgeStyle(portfolio$Stocks$"REITs",            inherit = FALSE, label = "(1-b)r")
+    SetEdgeStyle(portfolio$Stocks$REITs$"VGSLX",      inherit = FALSE, label = "(1-b)r(1-f)")
+    SetEdgeStyle(portfolio$Stocks$REITs$"VGRLX",      inherit = FALSE, label = "(1-b)rf")
+
+    SetEdgeStyle(portfolio$Stocks$"Total Markets",    inherit = FALSE, label = "(1-b)(1-r)t")
+    SetEdgeStyle(portfolio$Stocks$"Tilts",            inherit = FALSE, label = "(1-b)(1-r)(1-t)")
+    SetEdgeStyle(portfolio$Stocks$Tilts$"VSIAX",      inherit = FALSE, label = "(1-b)(1-r)(1-t)(1-f)")
+    SetEdgeStyle(portfolio$Stocks$Tilts$"VFSAX",      inherit = FALSE, label = "(1-b)(1-r)(1-t)f")
 
     ## *** Plot a color legend, too: explain the colors.  Add to this plot if possible? Use colorBox.
 
