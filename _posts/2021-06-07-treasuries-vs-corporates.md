@@ -93,7 +93,7 @@ slightly better diversifier, because corporate bonds contain some corporate stoc
 risk.  We'll assess the statistical significance of any such difference by taking the
 [Fisher $Z$ transform](https://en.wikipedia.org/wiki/Fisher_transformation) of the
 difference in correlations, and getting a 1-tailed $p$-value from the normal CDF.  If $p \le 0.05$,
-we'll buy the alternative hypothesis that Treasuries are better.  Otherwise, we will accep
+we'll buy the alternative hypothesis that Treasuries are better.  Otherwise, we will accept
 the null hypothesis of no such evidence.  
 2. __Scatterplots:__ We'll also scatterplot the ITC return vs ITT and TSM in 3 dimensions,
 and see if the visible structure reflects what we conclude from the correlations.  This is
@@ -209,23 +209,23 @@ that next.
 ## Analyses using just recent data  
 
 In the [Bogleheads Discussion Group](https://www.bogleheads.org), there is a gentleman
-using the cognomen of 'Nisiprius'.  Whenever anyone makes a claim about investing data
+using the cognomen of 'nisiprius'.  Whenever anyone makes a claim about investing data
 from a particular time series, he wanders by to challenge the endpoints.  "Does your
 conclusion hold if you wiggle the endpoints a couple years either way?  How about if you
 take rolling 20-year periods, does it hold all the time then?"  He's _always right to do
-this._  So let's get out ahead of him.  
+this._  So let's get out ahead of him, and proactively do the right thing here.  
 
 The thing about looking back to 1871 is that you are not only constructing artificial data
 based on questionable indices, but you're also looking at a very different world in the
 US.  There was no Federal Reserve.  Thre was no Securities &amp; Exchange Commission, and
 indeed no meaningful regulation or enforcement of law in securities trading.  There was a
-gold standard for the dollar.  There was no anti-monopoly law (though, to be sure, there's
-very little left of that now).  It was, to use a phrase popular with Americans, "the Wild
-West".  
+gold standard for the dollar, with all the crazy bouts of depression and deflation that
+brings.  There was no anti-monopoly law (though, to be sure, there's very little left of
+that nowadays, either).  It was, to use a phrase popular with Americans, "the Wild West".  
 
 So maybe data that far back is from a different financial universe.  Let's just consider
 the data from, say, 1980 - 2020 as representative of the modern financial universe.  (And
-yes, Nisiprius, we will consider alternatives even to _that_, below.)
+yes, nisiprius, we will consider alternatives even to _that_, below.)
 
 <img src="{{ site.baseurl }}/images/2021-06-07-treasuries-vs-corporates-correlation-chart-Real-1980-2020.png" width="500" height="500" alt="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" title="Pearson correlation of real returns: stocks, treasuries, and corporates 1980 - 2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 - We see that ITT and ITC are still correlated with each other (unsurprising, they're
@@ -281,7 +281,7 @@ Treasuries, not corporates!_
 
 ## Sensitivity to start date  
 
-In one final salute to Nisiprius, let's keep the end year fixed at 2020, but let the start
+In one final salute to nisiprius, let's keep the end year fixed at 2020, but let the start
 year range from 1970 - 1990.  For each of those intervals, we'll compute the $p$-value of
 the Fisher $Z$-transformed _difference_ in correlation between (TSM, ITT) and (TSM, ITC).
 Our hypothesis is that _something_ is causing those 2 correlations to be driven further
@@ -294,7 +294,7 @@ Here's what it looks like:
 - First, it's statistically significant (below 5%) for this whole era!  
 - In the early 1970's, it's about 2.5%.  If we had accidentally chosen those years as a
   starting point, we'd be tempted to claim statistical significance: Treasuries were less
-  correlted with stocks than corporates.  (And then Nisiprius would have come by to let
+  correlted with stocks than corporates.  (And then nisiprius would have come by to let
   the air out of our tires, which would have been a valuable service.)  
 - In 1976 - 1982, something reversed that: corporates and Treasuries were still
   differently correlated to stocks, but the statistical significance waned a bit (not completely!).
