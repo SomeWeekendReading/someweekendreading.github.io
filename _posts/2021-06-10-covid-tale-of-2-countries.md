@@ -21,7 +21,7 @@ time in 15 months!
 But&hellip; that's by no means uniform.  Some parts of the US &ndash; mostly the red
 states, if you can't guess &ndash; actively, angrily _resist_ vaccination and public
 health measures in favor of hoodoo or proto-fascist pronouncements from their
-politicians.  
+regrettably authoritarian politicians.  
 
 That's the sitch.  And I don't like it.  
 
@@ -40,7 +40,7 @@ fascinating as always, but what caught my eye here was his cover photo reproduce
 
 It shows Texans &ndash; one of the states more floridly expressing anti-science lunacy
 &ndash; carrying a sign comparing the COVID-19 vaccines to 
-[the Mark of the Beast in the Bible's Book of Revelations 13](https://en.wikipedia.org/wiki/Number_of_the_beast).  
+[the Mark of the Beast in the Bible's Book of Revelations 13](https://en.wikipedia.org/wiki/Number_of_the_beast#Mark_of_the_beast).  
 
 Now, it almost doesn't matter the number of ways in which this is wrong: that original was coded
 language ("_ἀποκάλυψις_" (apokálypsis) = "out from under cover" in Greek) for the

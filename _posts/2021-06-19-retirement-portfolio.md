@@ -41,10 +41,12 @@ $$
 \end{align*}
 $$
 
-For the first $y$ years, you have to supply $R - P$ income.  Let's conservatively assume
-that's just a pile of cash that you'll spend over the next $y$ years.  
+For the first $y$ years, you have pension income $P$ and have to supply $R - P$ income.
+Let's conservatively assume that's just a pile of cash in the amount $(R - P)y$ that you'll
+spend over the next $y$ years.  
 
-Then after that, Social Security kicks in and you have to supply $R - P - S$ income, i.e.,
+Then after that, Social Security kicks in and you have income in the amount of $P + S$, so you
+have to supply $R - P - S$ income, i.e.,
 the amount above pension and Social Security.  That will come as a withdrawal at rate $w$
 from a portfolio, so at that point the value of the portfolio must be above $(R - P - S) / w$.
 (__NB:__ This does not address whether $w$ is a _sustainable_ withdrawal rate!)  
@@ -53,7 +55,7 @@ So the total capital required is the lump sum to spend before Social Security pl
 portfolio from which to withrdraw after that:  
 
 $$
-C = (R - P)  y + (R - P - S) / w
+C = (R - P) y + (R - P - S) / w
 $$
 
 $P$, $S$, and $y$ are pretty much fixed by external circumstances.  Thus we have a
@@ -96,9 +98,10 @@ A few ground rules:
   index, REIT index, Treasury/TIPS index of short-intermediate term, tilts to small and
   value stocks, and foreign bond index. <sup id="fn1a">[[1]](#fn1)</sup>  
 
-Peter Bernstein wrote a famous article in 2002 about the virtues of a 60% stock / 40% bond
-portfolio.  <sup id="fn2a">[[2]](#fn2)</sup>  While I won't go so far as he did to
-recommend it to everybody, it's probably what I want in early retirement.  
+[Peter Bernstein](https://en.wikipedia.org/wiki/Peter_L._Bernstein) wrote a famous article
+in 2002 about the virtues of a 60% stock / 40% bond portfolio.  <sup id="fn2a">[[2]](#fn2)</sup>
+While I won't go so far as he did to recommend it to _everybody all the time_, it's
+probably what I want in early retirement.  
 
 We want to maintain international diversification too.  The US is about 55% of the world
 stock market, so an unbiased portfolio would have a US/foreign ratio of 55/45.  We achieve
@@ -137,7 +140,7 @@ available for peer review.
 - Second, in bonds, we allocate 0% to cash and the 40% of bonds gets split equally between
   short term Treasuries, intermediate term Treasuries, short term inflation-protected
   TIPS, and foreign bonds.  
-- Third, in stocks, we split off 6% (or 10% of the equity sleeve) into REITs, i.e., real
+- Third, in stocks, we split off 6% (or 10% of the 60% equity sleeve) into REITs, i.e., real
   estate.  US tax law treats REITs in a funny way that makes them act a bit differently
   from regular stocks, so we want to capitalize on that.  They are 60% US REITs and 40%
   foreign REITs.  
@@ -188,7 +191,7 @@ later, so we'd prefer to have assets in the Roth where they're protected from th
 
 That's&hellip; a little complicated.  Even that's not _totally_ what we do; the Weekend
 Editrix has a small Roth IRA in a
-[Vanguard Target Retirement index fund](https://investor.vanguard.com/mutual-funds/target-retirement),
+[Vanguard Target Retirement fund of index funds](https://investor.vanguard.com/mutual-funds/target-retirement),
 and I still have a (now very small) amount of my employer's stock that I'm waiting to sell.  
 
 But this is pretty close.  
@@ -197,8 +200,8 @@ But this is pretty close.
 ## The Weekend Conclusion  
 
 Basically, we have a portfolio of index funds designed to capture risk premiums where
-they're available to a retail investor, not take dumb risks, and be as neutral about
-capitalization, valuation, and national location as we can.  We try to be reasonably
+they're available to a retail investor, not take dumb risks, and be as neutral as we can
+be about capitalization, valuation, and national location.  We try to be reasonably
 tax-efficient.  
 
 It's worked pretty well.  As we age, we might simplify it down to a single fund like
