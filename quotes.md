@@ -90,6 +90,15 @@ YouTube, 2020-Dec-10.
 
 ## The Political Ones &amp; The Economic Dismals  
 
+"I must study politics and war, that our sons may have liberty to study mathematics and
+philosophy. Our sons ought to study mathematics and philosophy, geography, natural history
+and naval architecture, navigation, commerce and agriculture in order to give their
+children a right to study painting, poetry, music, architecture, statuary, tapestry and
+porcelain." &mdash; [John Adams](https://en.wikipedia.org/wiki/John_Adams), 2nd president
+of the US, [_Letters of John Adams_](https://www.masshist.org/digitaladams/archive/letter/), 
+addressed to his wife [Abigail Adams](https://en.wikipedia.org/wiki/Abigail_Adams),
+from [Paris 1780-May-12](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond).
+
 "Those who seek power are not worthy to hold it." &mdash; [Plato](https://en.wikipedia.org/wiki/Plato), though more of a 'folk quotation' than a real one.  The general sentiment is expressed with different wording in [_Republic_](https://en.wikipedia.org/wiki/Republic_(Plato)) I 347B-E.  
 
 "A little patience, and we shall see the reign of witches pass over, their spells

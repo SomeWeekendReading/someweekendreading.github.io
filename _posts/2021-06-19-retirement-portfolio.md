@@ -61,7 +61,7 @@ $$
 $P$, $S$, and $y$ are pretty much fixed by external circumstances.  Thus we have a
 relationship between the retirement income $R$ and the withdrawal rate $w$.  In practice,
 safe withdrawal rate studies show $3\% \le w \le 4\%$ is a relatively safe and reasonable
-place to be; that will tell you a range of achieveable incomes:  
+place to be; that will tell you a range of achieveable incomes when you solve for $R$:  
 
 $$
 R = \frac{w C + S}{y w + 1} + P
@@ -100,8 +100,8 @@ A few ground rules:
 
 [Peter Bernstein](https://en.wikipedia.org/wiki/Peter_L._Bernstein) wrote a famous article
 in 2002 about the virtues of a 60% stock / 40% bond portfolio.  <sup id="fn2a">[[2]](#fn2)</sup>
-While I won't go so far as he did to recommend it to _everybody all the time_, it's
-probably what I want in early retirement.  
+While I won't go so far as he did and recommend it to _everybody all the time_, it's
+nonetheless what I probably want in early retirement.  
 
 We want to maintain international diversification too.  The US is about 55% of the world
 stock market, so an unbiased portfolio would have a US/foreign ratio of 55/45.  We achieve
