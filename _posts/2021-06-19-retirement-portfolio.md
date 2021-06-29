@@ -30,7 +30,8 @@ simple high-school algebra.
 
 [Rick Ferri](https://www.bogleheads.org/wiki/Rick_Ferri) at 
 [the Boglheads discussion board](https://www.bogleheads.org) once suggested the following
-model.  Let:  
+model (which I've cast into slightly more formal mathematical terms).  Let:  
+
 $$
 \begin{align*}
   R &= \mbox{desired retirement income} \\
