@@ -330,10 +330,12 @@ So our 60/40 portfolio is 40% bonds, divided equally among:
   short-term TIPS fund, and
 - [VTABX](https://investor.vanguard.com/mutual-funds/profile/VTABX), the Vanguard
   international bond index fund.  (This is mostly government bonds of developed nations.
-  It hedges currency back to the dollar.  So it looks a lot like US Treasuries.  The best
-  evidence Vanguard could present said it might not help much, but it at least
-  wouldn't hurt, and it's one of the world's largest asset classes.  I decided to take
-  their advice.)  
+  It hedges currency back to the dollar.  So it looks a lot like US Treasuries.  The 
+  [best evidence Vanguard could present]({{ site.baseurl }}/assets/icrifi_032012_high.pdf)
+  (see Fig 7 on p. 10: note the broad, shallow optimum where the portfolio variance
+  changes by only 0.2% as foreign bonds go from 0% to 100%!) said it might not help much,
+  but it at least wouldn't hurt, and it's one of the world's largest asset classes.  I
+  decided to take their advice.)  
 
 ---
 
