@@ -142,7 +142,7 @@ $$
 Z = \left|Z_1 - Z_2\right| \sqrt{\frac{N - 3}{2}}
 $$
 
-That gets us a $p$-value via the normal CDF.  (This is the method used by the function
+That gets us a $p$-value via the standardized normal CDF.  (This is the method used by the function
 [`paired.r()`](https://www.rdocumentation.org/packages/psych/versions/2.1.3/topics/paired.r)
 in the [`psych` library](https://cran.r-project.org/web/packages/psych/index.html)
 in [R](https://www.r-project.org).)  
