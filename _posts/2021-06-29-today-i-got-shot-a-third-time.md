@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Today I got shot (a third time)
-tags: PharmaAndBiotech
+tags: PharmaAndBiotech Statistics
 comments: true
 ---
 
 Today I got shot a third time!  No, not a COVID-19 booster (though that's getting pretty
-interesting, but its time is not yet).  Today I got the formerly-scarce Shingrix vaccine
-against shingles.  
+interesting, but its time is not yet).  Today I got the first of 2 doses of the
+formerly-scarce Shingrix vaccine against shingles.  
 
 
 ## What's shingles?  
@@ -119,4 +119,4 @@ hers earlier this year.  I may do that.  _Happily._
 
 <a id="fn2">2</a>: Centers for Disease Control, ["What Everyone Should Know about Zostavax"](https://www.cdc.gov/vaccines/vpd/shingles/public/zostavax/index.html), [_Vaccines and Preventable Diseases_](https://www.cdc.gov/vaccines/vpd/index.html), 2020-Nov-19.  __NB:__ Zostavax was discontinued in the US in favor of the superior Shingrix vaccine, so this information is purely for historical archival interest only. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Centers for Disease Control, ["What Everyone Should Know about the Shingles Vaccine (Shingrix)"](https://www.cdc.gov/vaccines/vpd/shingles/public/shingrix/index.html), [_Vaccines and Preventable Diseases_](https://www.cdc.gov/vaccines/vpd/index.html), retrieved 2021-Jun-29. By the way, this reference claims 99% of Americans have some of the chickenpox/shingles virus in them, more than the 95% claimed in the first reference.  Basically, we're _all_ at risk for shingles. [↩](#fn3a)  
+<a id="fn3">3</a>: Centers for Disease Control, ["What Everyone Should Know about the Shingles Vaccine (Shingrix)"](https://www.cdc.gov/vaccines/vpd/shingles/public/shingrix/index.html), [_Vaccines and Preventable Diseases_](https://www.cdc.gov/vaccines/vpd/index.html), retrieved 2021-Jun-29. __NB:__ This reference claims 99% of Americans have some of the chickenpox/shingles virus in them, more than the 95% claimed in the first reference.  Basically, we're _all_ at risk for shingles. [↩](#fn3a)  
