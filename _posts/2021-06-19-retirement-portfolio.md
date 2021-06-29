@@ -6,7 +6,7 @@ comments: true
 ---
 
 After reading
-[my rant on the superiority of Treasury bonds vs corporate bonds as a stock diversifier]({{ site.baseurl }}/treasuries-vs-corporates),
+[my rant on the superiority of Treasury bonds vs corporate bonds as a stock diversifier]({{ site.baseurl }}/treasuries-vs-corporates/),
 of course [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) what the
 retirement portfolio of the denizens of Chez Weekend looked like.  Basically: index funds,
 heavily diversified across bond types, stock sizes, valuations, and nations.  
