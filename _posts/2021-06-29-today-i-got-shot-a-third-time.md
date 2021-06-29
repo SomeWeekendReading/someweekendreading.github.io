@@ -101,7 +101,8 @@ while we were all waiting for COVID-19 vaccine availability.)
 ## Expected side effects  
 
 The usual: sore arm, fatigue, headache, body ache, and so on.  It goes away in 1-3 days,
-so nothing to worry about.  It's a little more severe than a reaction to a flu shot.  
+so nothing to worry about.  It's a little more severe than a reaction to a flu shot, but
+way, _way_ less severe than shingles.  
 
 The Weekend Editrix took a couple days off to lie on the couch with her iPad when she got
 hers earlier this year.  I may do that.  _Happily._  
