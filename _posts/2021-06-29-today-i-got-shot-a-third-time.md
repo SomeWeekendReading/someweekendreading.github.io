@@ -20,12 +20,12 @@ that every kid should get the vaccine, which has been around since 1995.
 
 The evil little virus then goes dormant in your body, lying in wait for _decades_.  When
 you get old enough, it can flare up again.  Not as chickenpox, but as a direct
-inflammation of nerves, severly painful, called
+inflammation of nerves, severely painful, called
 [postherpetic neuralgia (PHN)](https://en.wikipedia.org/wiki/Postherpetic_neuralgia).
 It's so painful as to be disabling.  The word neuralgia should be scary: "neuro"
 means involving the nerves or nervous system and "algia" means pain &mdash; it's directly
-inflicting pain through stimulating nerves.  Sometimes it occurs in the eyes and causes
-blindness.  
+inflicting pain through stimulating nerves.  For _years._  Sometimes it occurs in the eyes
+and causes blindness.  
 
 That is the nasty thing called [shingles](https://en.wikipedia.org/wiki/Shingles).  
 
@@ -60,7 +60,7 @@ So an efficacy of 50% &ndash; 60% means that, by getting vaccinated, you have 50
 60% less risk than the unvaccinated population.  (This is about the efficacy range of a
 flu vaccine, and those are certainly worthwhile.)  It's not dramatic, but it's worth it
 given how safe the vaccine is and how painful and sometimes disabling shingles is.  At the
-time, the FDA recommended it to people over 50.  
+time, the FDA recommended it to people over 60.  
 
 <img src="{{ site.baseurl }}/images/2021-06-29-today-i-got-shot-a-third-time-shingrix.jpg" width="222" height="166" alt="Shingrix pack shot" title="Shingrix pack shot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 But then along came, from GSK, a bright shiny new recombinant vaccine called 

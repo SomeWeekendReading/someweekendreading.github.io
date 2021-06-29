@@ -133,7 +133,7 @@ Finally, let's assess the significance of 0.28 vs 0.16 with a Fisher $Z$ transfo
 Transform each correlation $R_i$ by:  
 
 $$
-Z_i = \frac{1}{2} \left(\frac{1 + R_i}{1 - R_i}\right)
+Z_i = \frac{1}{2} \ln\left(\frac{1 + R_i}{1 - R_i}\right)
 $$
 
 Then we compute an overall $Z$ score by:  
