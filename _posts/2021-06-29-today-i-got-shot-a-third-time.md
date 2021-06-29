@@ -44,7 +44,7 @@ good, right?  C'mon, don't make me glare at you.  Right?
 
 Right.  
 
-<img src="{{ site.baseurl }}/images/2021-06-29-today-i-got-shot-a-third-time-zostavax.jpg" width="222" height="197" alt="Zostavax pack shot" title="Zostavax pack shot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-29-today-i-got-shot-a-third-time-zostavax.jpg" width="250" height="140" alt="Zostavax pack shot" title="Zostavax pack shot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 So some years ago, I had Zostavax, a shingles vaccine from Merck.  It was all that was
 available then, when I turned 60.  It's got a vaccine efficacy of 50%
 &ndash; 60% <sup id="fn2a">[[2]](#fn2)</sup>, which back in those days was considered
