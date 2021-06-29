@@ -218,7 +218,7 @@ or even hire Vanguard Personal Advisory Services to do it for us.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Vanguard's foreign bond index fund [VTABX](https://investor.vanguard.com/mutual-funds/profile/VTABX) is currency-hedged back to the dollar, so it has no currency risk.  It's largely sovereign bonds of developed nations, so it looks like Treasuries.  Vanguard always recommends it.  The last time I looked, the evidence said it wouldn't help diversification much&hellip; but wouldn't hurt either.  So I decided to take Vanguard's advice. [↩](#fn1a)  
+<a id="fn1">1</a>: Vanguard's foreign bond index fund [VTABX](https://investor.vanguard.com/mutual-funds/profile/VTABX) is currency-hedged back to the dollar, so it has no currency risk.  It's largely sovereign bonds of developed nations, so it looks like Treasuries.  Vanguard always recommends it.  The last time I looked, Vanguard's evidence said it wouldn't help diversification much&hellip; but wouldn't hurt either.  (See [here]({{ site.baseurl }}/assets/icrifi_032012_high.pdf), Figure 7 on p.10: note the broad, shallow "optimum" where the portfolio variance changes by only 0.2% as the foreign bond allocation goes from 0% to 100%!)  So I decided to take Vanguard's advice. [↩](#fn1a)  
 
 <a id="fn2">2</a>: PL Bernstein, ["The 60/40 Solution"](http://web.archive.org/web/20061214061904/http://dfmadvisors.com/pdf/Bernstein6040.pdf), _Bloomberg Personal Finance_, 2002-Jan-Feb.  Retrieved via the [Wayback Machine](http://web.archive.org/) 2021-Jun-19.[↩](#fn2a)  
 
