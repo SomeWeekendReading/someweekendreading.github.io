@@ -91,7 +91,8 @@ Let's see what he's got to say about his decision to get his family vaccinated. 
 &amp; sweet, to the point, and&hellip; a bit profane in spots.  But I'm an old guy, so
 ignore me on that.  Pay attention to the rest.  
 
-Again, yeah: thumbs up from me.  
+Again, yeah: thumbs up from me.  Enough to make me subscribe to his channel, anyway.
+We'll see how the rest of his stuff goes down.  
 
 ---
 
