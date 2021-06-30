@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ZDoggMD on the Delta Variant
-tags: COVID Statistics
+tags: COVID SomebodyAskedMe Statistics
 comments: true
 ---
 
