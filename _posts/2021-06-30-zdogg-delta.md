@@ -14,8 +14,8 @@ and kind.
 ## Getting past the name "ZDogg"  
 
 ZDogg?  Really?  Isn't that some rapper?  Why should I listen to a rapper's opinions about
-COVID-19?  Nothing against rap itself: it's not to my taste, but then it's not _trying_ to
-be to my taste.  If it's to your taste, then by all means enjoy.  But my first thought
+COVID-19?  (Nothing against rap itself: it's not to my taste, but then it's not _trying_ to
+be to my taste.  If it's to your taste, then by all means enjoy.)  My first thought
 here was: there is little point into listening to this, unless it's just for the surrealism
 of it all.  
 
@@ -40,9 +40,10 @@ forever.  For example:
 
 > "Times are bad. Children no longer obey their parents, and everyone is writing a book."  
 >  
-> &mdash; attributed to [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), but
+> &mdash; attributed to [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero) in 43BCE, but
 > almost certainly apocryphally so, as nobody cites a particular source, and some give
 > other authors dating improbably back to 4000BCE. <sup id="fn2a">[[2]](#fn2)</sup>  
+>  
 > Still&hellip; style points for the snark?  
 
 While it's doubtful Cicero ever said that, being the curmudgeon that he was, he probably
@@ -80,7 +81,7 @@ Some thoughts about the video:
   theories  gets them vaccinated, then that _saves a life._  And since 
   [_pikuach nefesh_](https://en.wikipedia.org/wiki/Pikuach_nefesh), literally "watching
   over a soul", is the highest principle in my personal version of my religion, shaming is
-  an appropriate tool here.  
+  an appropriate tool here if it _saves a life._  
 - __The summary:__ "Variants, shmariants, get your vaccine, and relax, or don’t, and
   decide whether you wanna relax or not, but I don’t wanna hear about it anymore, okay?"
   I literally could not have said it better myself.  
