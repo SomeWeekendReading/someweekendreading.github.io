@@ -55,7 +55,7 @@ about ZDoggMD and listen to what he has to say.
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/l2mgKP8SDFI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Some thoughts about the video:  
-- From the summary: "Delta variant&hellip; explained by a doctor iwth precisely 97.5% less
+- From the summary: "Delta variant&hellip; explained by a doctor with precisely 97.5% less
   drama".  Oh, yeah.  I'm in already!  
 - "Man, every time I think I get to stop talking about COVID, they keep pulling me back
   in."  I haven't seen _The Godfather_ part anything, but&hellip; yeah.  I'm tired of
