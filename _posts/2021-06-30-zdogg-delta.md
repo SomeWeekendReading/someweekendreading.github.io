@@ -58,9 +58,10 @@ Some thoughts about the video:
 - From the summary: "Delta variant&hellip; explained by a doctor with precisely 97.5% less
   drama".  Oh, yeah.  I'm in already!  
 - "Man, every time I think I get to stop talking about COVID, they keep pulling me back
-  in."  I haven't seen _The Godfather_ part anything, but&hellip; yeah.  I'm tired of
-  COVID, tired of writing about COVID, tired of the knuckleheadery around COVID, and want
-  to write about _almost anything but COVID_.  Starting to like this guy ZDogg.  
+  in."  I haven't seen [_The Godfather_ part anything](https://www.youtube.com/watch?v=xNQHhD-cdEY), 
+  but&hellip; yeah.  I'm tired of COVID, tired of writing about COVID, tired of the
+  knuckleheadery around COVID, and want to write about _almost anything but COVID_.
+  Starting to like this guy ZDogg.  
 - Then he does a nice 2 paragraph explanation of what Delta (aka B.1.617.2) is, how
   evolution works, and why you should care.  Masterful public science communication.  
 - The most important bit: "First of all, you shouldn’t panic about Delta, period. &hellip;
