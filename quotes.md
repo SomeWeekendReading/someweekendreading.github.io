@@ -478,6 +478,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 ## Those of Rational &amp; Scientific Bent
 
+"There is no virtue in clutching Kryptonite.  I advise you to drop it and see how far you can fly." &mdash; Bjartur T&oacute;mas, ["Irrational Modesty"](https://www.lesswrong.com/posts/mwGAyWmsSqzMz4WMd/irrational-modesty), _Less Wrong_, 2021-Jun-20.  
+
 "Science says the first word on everything, and the last word on nothing." 
 &mdash; [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  
 

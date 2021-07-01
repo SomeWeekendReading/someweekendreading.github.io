@@ -6,7 +6,7 @@ comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) what I thought of ZDogg's
-explanation of the SARS-CoV-2 Delta variant.  My first thought was "ZDogg who?  Is that a
+explanation of the SARS-CoV-2 Delta variant.  My first thought was "ZDogg _who?_  Is that a
 rapper or something?"  My final thought was that the guy's eminently reasonable, eloquent,
 and kind.  
 
@@ -21,7 +21,7 @@ of it all.
 
 But I'm a sucker for surrealism.  
 
-So I listened to the esteemed ZDoggMD's treatment of the Delta variant of 
+So I watched the esteemed ZDoggMD's treatment of the Delta variant of 
 SARS-CoV-2. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 And I am _delighted_ to report that I was utterly wrong!  (That's when you learn things,
@@ -51,7 +51,7 @@ would have said it if he'd thought about it.  So I promise to stop being a curmu
 about ZDoggMD and listen to what he has to say.  
 
 
-## So, ZDogg, what ya got for me?  
+## So, ZDogg, whatta ya got for me?  
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/l2mgKP8SDFI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Some thoughts about the video:  
