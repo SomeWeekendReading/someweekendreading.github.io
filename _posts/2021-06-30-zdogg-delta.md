@@ -19,7 +19,7 @@ be to my taste.  If it's to your taste, then by all means enjoy.)  My first thou
 here was: there is little point into listening to this, unless it's just for the surrealism
 of it all.  
 
-But I'm a sucker for surrealism.  
+And I'm a sucker for surrealism.  
 
 So I watched the esteemed ZDoggMD's treatment of the Delta variant of 
 SARS-CoV-2. <sup id="fn1a">[[1]](#fn1)</sup>  

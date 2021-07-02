@@ -354,7 +354,7 @@ in _The General Theory of Employment, Interest and Money_.
 "Justice is what love looks like in public, just like tenderness is what love feels like
 in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)  
 
-"Nemo enim fere saltat sobrius, nisi forte insanit." (No one dances sober, unless he is insane.) &mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), [_Pro Murena vi.13_](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext:1999.02.0010%3atext=Mur.%3achapter=6%3asection=13), 64BCE.  He was discussing the ramifications of a political insult from Cato, who called a consul a "dancer".  
+"Nemo enim fere saltat sobrius, nisi forte insanit." (No one dances sober, unless insane.) &mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), [_Pro Murena vi.13_](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext:1999.02.0010%3atext=Mur.%3achapter=6%3asection=13), 64BCE.  He was discussing the ramifications of a political insult from Cato, who called a consul a "dancer".  
 
 "Dignity does not consist of possessing honors, but in deserving them." 
 &mdash; [Aristotle](https://en.wikipedia.org/wiki/Aristotle)  
@@ -362,7 +362,7 @@ in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)
 "I will follow the right side even to the fire, but excluding the fire if I can." 
 &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)  
 
-"We can be knowledgeable with other men’s knowledge but we cannot be wise with other men’s
+"We can be knowledgeable with other men’s knowledge but we cannot be wise with other men's
 wisdom." &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)  
 
 "Μὴ κίνη χέραδασ." (If you are squeamish, don't prod the beach rubble.  Though literally: stir
@@ -430,7 +430,7 @@ their ingenuity." &mdash; [George S. Patton](https://en.wikipedia.org/wiki/Georg
 [_Hercules Oetaeus_](https://en.wikipedia.org/wiki/Hercules_Oetaeus) (authorship disputed)  
 
 "It is not for the dignity of a judge, when he comes to pronounce the fatal sentence, to
-express any emotions of anger&hellip; for he condemns the vice, not the man… nor is there any
+express any emotions of anger&hellip; for he condemns the vice, not the man&hellip; nor is there any
 need of an angry magistrate for the punishment of foolish and wicked men."
 &mdash; [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger),
 [_De Ira_ (On Anger)](https://en.wikipedia.org/wiki/De_Ira)  
@@ -477,6 +477,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 
 ## Those of Rational &amp; Scientific Bent
+
+"He lacked the courage to doubt himself.  He lacked the wisdom to change his mind." &mdash; [George Packer](https://en.wikipedia.org/wiki/George_Packer), ["How Rumsfeld Deserves to Be Remembered"](https://www.theatlantic.com/ideas/archive/2021/06/how-donald-rumsfeld-deserves-be-remembered/619334/), [_The Atlantic_](https://www.theatlantic.com), 2021-Jun-30.  On the death of [Donald Rumsfeld](https://en.wikipedia.org/wiki/Donald_Rumsfeld).  
 
 "There is no virtue in clutching Kryptonite.  I advise you to drop it and see how far you can fly." &mdash; [Bjartur T&oacute;mas](https://www.lesswrong.com/users/bjartur-tomas), ["Irrational Modesty"](https://www.lesswrong.com/posts/mwGAyWmsSqzMz4WMd/irrational-modesty), [_Less Wrong_](https://www.lesswrong.com/), 2021-Jun-20.  
 
