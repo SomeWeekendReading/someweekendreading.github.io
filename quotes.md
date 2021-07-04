@@ -1043,6 +1043,8 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 
 "To become different from what we are, we must have some awareness of what we are." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_The Passionate State of Mind, and Other Aphorisms_](https://www.google.com/books/edition/The_Passionate_State_of_Mind_and_Other_A/msOwAAAAIAAJ?hl=en), section 151, 1955.  
 
+"It's a little embarrassing that after 45 years of research &amp; study, the best advice I can give people is to be a little kinder to each other." &mdash; [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)  
+
 
 ## The One Who Is Voltaire  
 
