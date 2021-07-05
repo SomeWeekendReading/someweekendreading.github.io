@@ -177,7 +177,7 @@ eventually 1).  The moral here is that the very best predictor (vertical dotted 
 the left) uses both ITT.Real and TSM.Real.  In fact, the simplest model that is within 1
 standard error of this MSE (vertical dotted line at the right) _still_ does that.
 Basically, `glmnet()` is telling us that it would be a gross mistake not to use both ITT.Real
-and TSM.real to predict ITC.real.  
+and TSM.Real to predict ITC.Real.  
 
 The coefficients used in both of those `glmnet()` models are similar to the simple linear
 regresson model we get with `lm()`:  

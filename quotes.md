@@ -90,6 +90,8 @@ YouTube, 2020-Dec-10.
 
 ## The Political Ones &amp; The Economic Dismals  
 
+"The law of our world is pain, the scar that teaches the hardness of days and leaves its mark in every heart." &mdash; [Chorus](https://zgreatbatch.wordpress.com/agamemnon-2/) in [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)'s [_Agamemnon_](https://en.wikipedia.org/wiki/Aeschylus#Agamemnon), first play of the [Oresteia](https://en.wikipedia.org/wiki/Aeschylus#The_Oresteia_(458_BC)) (458BCE). __NB:__ See [below](#your-humble-weekend-editor), where your humble Weekend Editor opines that the point of civilization is to be _less brutal_ than nature.  While Aeschylus may have a point, _we can do better._  And should.  
+
 "I must study politics and war, that our sons may have liberty to study mathematics and
 philosophy. Our sons ought to study mathematics and philosophy, geography, natural history
 and naval architecture, navigation, commerce and agriculture in order to give their
@@ -475,12 +477,18 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "你永远无法叫醒一个装睡的人，除非那个装睡的人自己决定醒来." (You can never wake up a person who is pretending to be asleep, unless that person decides to wake up.) &mdash; 周濂 (Zhou Lian), Chinese philosopher, in an article called "你永远无法叫醒一个装睡的人" (You can never wake up a person who is pretending to be asleep).  Courtesy of my former colleague, Hui Cao.  
 
+"I have only done a little bit of social science research, but it was enough to make me hate people." &mdash; Scott Alexander Siskind, ["Lizardman's Constant is 4%"](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/), [_Slate Star Codex_](https://slatestarcodex.com/), now at [_Astral Codex Ten_](https://astralcodexten.substack.com/)  
+
 
 ## Those of Rational &amp; Scientific Bent
 
 "He lacked the courage to doubt himself.  He lacked the wisdom to change his mind." &mdash; [George Packer](https://en.wikipedia.org/wiki/George_Packer), ["How Rumsfeld Deserves to Be Remembered"](https://www.theatlantic.com/ideas/archive/2021/06/how-donald-rumsfeld-deserves-be-remembered/619334/), [_The Atlantic_](https://www.theatlantic.com), 2021-Jun-30.  On the death of [Donald Rumsfeld](https://en.wikipedia.org/wiki/Donald_Rumsfeld).  
 
+"You can't use reason to argue someone out of a position that they did not arrive at by reason." &mdash; [Derek Lowe](https://en.wikipedia.org/wiki/Derek_Lowe_(chemist)), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/archives/2021/05/04/spike-protein-behavior#comment-344613)  
+
 "There is no virtue in clutching Kryptonite.  I advise you to drop it and see how far you can fly." &mdash; [Bjartur T&oacute;mas](https://www.lesswrong.com/users/bjartur-tomas), ["Irrational Modesty"](https://www.lesswrong.com/posts/mwGAyWmsSqzMz4WMd/irrational-modesty), [_Less Wrong_](https://www.lesswrong.com/), 2021-Jun-20.  
+
+"'What is this persons ideal end state?' Just keep asking that and there's a limit to how wrong you can ever be about this. You can still make factual mistakes, but it's then almost impossible to make a moral mistake." &mdash; Scott Aaronson, ["What I told my kids"](https://www.scottaaronson.com/blog/?p=5490), [_Shtetl-Optimized_](https://www.scottaaronson.com/blog/), on the subject of the latest mutual atrocities between Palestinians and Israelis.  
 
 "Science says the first word on everything, and the last word on nothing." 
 &mdash; [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  
@@ -695,6 +703,10 @@ few true dichotomies."
 
 "Seize opportunity.  Do it right.  Show appreciation." &mdash; [Rich Baker](https://www.keefefuneralhome.com/memorials/richard-l-baker/4550192/)  
 
+"[debate on some subject] seems to have reached a level of complexity where I no longer feel comfortable having an opinion about it." &mdash; Scott Alexander Siskind, [_Astral Codex Ten_](https://astralcodexten.substack.com/p/open-thread-164), now occasionally referred to as "Scott's Razor".  
+
+"However beautiful the strategy, you should occasionally look at the results." &mdash; attributed to [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)  
+
 
 ## The Statistical Ones  
 
@@ -883,8 +895,8 @@ this: that, while the old man may stand by some stupid custom, the young man alw
 attacks it with some theory that turns out to be equally stupid."
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
 
-"Above all, the prophets remind us of the moral state of a people: __Few are guilty, but all
-are responsible.__ If we admit that the individual is in some measure conditioned or
+"Above all, the prophets remind us of the moral state of a people: _Few are guilty, but all
+are responsible._ If we admit that the individual is in some measure conditioned or
 affected by the spirit of society, an individual’s crime discloses society’s
 corruption. In a community not indifferent to suffering, uncompromisingly impatient with
 cruelty and falsehood, continually concerned for God and every \[person\], crime would be
@@ -1104,6 +1116,8 @@ _Business Week_, 14-Nov-2003.
 
 "The market can stay irrational longer than you can stay solvent." 
 &mdash; [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  
+
+"We are the ape that tells stories. We always prefer narratives versus facts." &mdash; [William Bernstein](https://en.wikipedia.org/wiki/William_J._Bernstein), [_Barron's_](https://www.barrons.com/articles/hes-bearish-he-sees-lots-of-small-bubbles-and-he-still-favors-u-s-stocks-51620420500), 2021-May-08.  
 
 
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
