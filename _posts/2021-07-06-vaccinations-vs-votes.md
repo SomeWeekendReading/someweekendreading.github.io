@@ -5,7 +5,7 @@ tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 ---
 
-Back in April, we did some [statistical analysis showing Trumpy states tended to have dramatically lower vaccination rates]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/).  Is that still the case?  Regrettably, yes.  More than ever.  
+Back in April, we did some [statistical analysis showing Trumpy states tended to have dramatically lower vaccination rates]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/).  Is that still the case?  Regrettably, yes: more than ever.  
 
 
 ## Where We Last Left Off in April  
@@ -81,7 +81,7 @@ R0 = 1/(1-p)
 Note the negative sloping trend: Trump counties did _terribly worse_ on vaccination
 levels!  The regression line confirms this:  
 - The negative slope of the line is -0.4224.  That is, for every 1% increase in Trump
-  voters, there's a little under half a percent decrease in vaccination rates.  
+  voters, a bit under half of them will refuse vaccination.  
 - The model explains $R^2 \sim 42\%$ of the variance in the data, which is about as good as models
   like this ever get.  _Trumpiness is a good explainer of vaccine resistance._  
 - Note the horizontal line labelled "TARGET: 53.9%".  This was Biden's goal: 70% of
@@ -92,11 +92,11 @@ levels!  The regression line confirms this:
   that he thinks COVID-19 has $R_0 \sim 6.7$ or so.  This is apparently based on some data
   from the Yale School of Medicine. <sup id="fn9a">[[9]](#fn9)</sup>  I'd have thought
   that a bit high, but the Delta (and Delta+) variants are a bit more virulent.  For once
-  I'm _insufficiently_ pessimistic!    (However: if there is sufficient "natural" immunity
-  from people who've already had COVID, that would be added to the vaccination fraction.
+  I'm _insufficiently_ pessimistic!    (However: if there were sufficient "natural" immunity
+  from people who'd already had COVID, that would be added to the immune fraction.
   But in order for us to be at herd immunity now, with about 50% vaccination, we'd need an
   additional 35% of natural immune people.  We don't have that.  Get vaccinated.  It's
-  better than getting COVID, anyway.)  
+  better than getting COVID!)  
 - __Important point:__ _Nobody is yet at herd immunity!_  This means the unvaccinated _cannot_
   walk around hoping to be protected by the vaccinated around them.  
 
@@ -107,8 +107,8 @@ especially the mRNA vaccines work against all current variants.)
 
 So basically: there are a lot of knuckleheads refusing to get vaccinated for incredibly
 stupid reasons.  They risk their own lives, sure.  But more importantly, they are
-volunteering their bodies as collaborators in the war against COVID by being factories for
-new variants.  
+volunteering their bodies as collaborators against humanity in the war against COVID by
+being factories for new variants.  
 
 Sooner or later, one of those variants will escape our current vaccines.  And do you know
 what happens then?  We start _all over again_, having to re-vaccinate _everybody_.  And I
@@ -130,12 +130,13 @@ Ever since Reagan, the Republicans in the US have become increasingly irrational
 they're more or less fact-proof.  
 
 How do you persuade a fact-proof knucklehead to do the right thing for the safety of
-_everybody_, when they'd rather believe the vaccine is a plot by Bill Gates to implant a
-chip so the government can reprogram them by 5G?  (Not an exaggeration!)  
+_everybody_, when they'd rather believe &mdash; and I am _not_ exaggerating here &mdash;
+the vaccine is a plot by Bill Gates to implant a chip so the government can reprogram them
+by 5G?  
 
 Thanks, Republicans.  If not for you, we could have been more or less over COVID-19 in the
-US by now.  But you're acting as though you _want_ a variant that'll make us do this all over
-again.  Why would you possibly want that?!  
+US by now.  But you're acting as though you _want_ a variant that'll preferentially kill
+you, and then make us do this all over again.  Why would you possibly want that?!  
 
 
 ## Addendum 2021-Jul-07  
