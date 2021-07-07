@@ -131,12 +131,12 @@ they're more or less fact-proof.
 
 How do you persuade a fact-proof knucklehead to do the right thing for the safety of
 _everybody_, when they'd rather believe &mdash; and I am _not_ exaggerating here &mdash;
-the vaccine is a plot by Bill Gates to implant a chip so the government can reprogram them
+that the vaccine is a plot by Bill Gates to implant a chip so the government can reprogram us
 by 5G?  
 
 Thanks, Republicans.  If not for you, we could have been more or less over COVID-19 in the
 US by now.  But you're acting as though you _want_ a variant that'll preferentially kill
-you, and then make us do this all over again.  Why would you possibly want that?!  
+you, and then make us do this all over again.  Why would you _possibly_ want that?!  
 
 
 ## Addendum 2021-Jul-07  
@@ -205,7 +205,7 @@ At least _some_ of the big-time journalists seem to grasp the problem correctly.
 <a id="fn7">7</a>: Weekend Editor, ["The Billionth Dose"]({{ site.baseurl }}/billionth-dose/), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-24.[↩](#fn7a)  
 
 <a id="fn8">8</a>: C Gaba, [Happy Independence Day. Here's U.S. &#x23;COVID19 Vaccination Levels BY COUNTY](https://acasignups.net/21/07/04/happy-independence-day-heres-us-covid19-vaccination-levels-county), [_ACA Signups_](https://acasignups.net/), 2021-Jul-04.[↩](#fn8a)  
-
+p
 <a id="fn9">9</a>: C MacMillan, ["Herd Immunity: Will We Ever Get There?"](https://www.yalemedicine.org/news/herd-immunity), [_Yale School of Medicine News_](https://www.yalemedicine.org/news/herd-immunity), 2021-May-21.[↩](#fn9a)  
 
 <a id="fn10">10</a>: M Boot, ["Opinion: Republicans are preventing America from reaching Biden’s vaccination goal"](https://www.washingtonpost.com/opinions/2021/07/06/republican-antivaxxers-biden-vaccination-goal/), [_Washington Post_](https://www.washingtonpost.com/), 2021-Jul-06. [↩](#fn10a)  
