@@ -142,8 +142,9 @@ again.  Why would you possibly want that?!
 
 Last April, when we did the analysis of vaccination vs Trump margin, [we found the next day that the _New York Times_ published a similar analysis (with an almost identical plot)]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/#addendum-late-2021-apr-19).  
 
-Not to be outdone, today the _Washington Post_ published an article by Max Boot, very similar to this
-post <sup id="fn10a">[[10]](#fn10)</sup>:  
+<img src="{{ site.baseurl }}/images/2021-07-06-vaccinations-vs-votes-wapo.jpg" width="400" height="149" alt="WaPo: Republicans prevent America from reaching vaccination goal" title="WaPo: Republicans prevent America from reaching vaccination goal" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+Not to be outdone, yesterday the _Washington Post_ published an article by Max Boot, very
+similar to this post <sup id="fn10a">[[10]](#fn10)</sup>:  
 
 > In December, I argued that the coronavirus vaccination campaign would be a test of who
 > had the upper hand in the United States: the geniuses (not all of them American) who
