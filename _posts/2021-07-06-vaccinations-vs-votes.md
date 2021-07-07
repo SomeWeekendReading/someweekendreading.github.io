@@ -115,12 +115,12 @@ Ever since Reagan, the Republicans in the US have become increasingly irrational
 they're more or less fact-proof.  
 
 How do you persuade a fact-proof knucklehead to do the right thing for the safety of
-_everybody_, when they'd rather belive the vaccine is a plot by Bill Gates to implant a
+_everybody_, when they'd rather believe the vaccine is a plot by Bill Gates to implant a
 chip so the government can reprogram them by 5G?  (Not an exaggeration!)  
 
 Thanks, Republicans.  If not for you, we could have been more or less over COVID-19 in the
-US.  But now you're acting as though you _want_ a variant that'll make us do this all over
-again.  Why?!  
+US by now.  But you're acting as though you _want_ a variant that'll make us do this all over
+again.  Why would you possibly want that?!  
 
 ---
 
@@ -147,4 +147,4 @@ again.  Why?!
 
 <a id="fn8">8</a>: C Gaba, [Happy Independence Day. Here's U.S. &#x23;COVID19 Vaccination Levels BY COUNTY](https://acasignups.net/21/07/04/happy-independence-day-heres-us-covid19-vaccination-levels-county), [_ACA Signups_](https://acasignups.net/), 2021-Jul-04.[↩](#fn8a)  
 
-<a id="fn9">9</a>: C MacMillan, ["Herd Immunity: Will We Ever Get There?"](https://www.yalemedicine.org/news/herd-immunity), [Yale School of Medicine News](https://www.yalemedicine.org/news/herd-immunity), 2021-May-21.[↩](#fn9a)  
+<a id="fn9">9</a>: C MacMillan, ["Herd Immunity: Will We Ever Get There?"](https://www.yalemedicine.org/news/herd-immunity), [_Yale School of Medicine News_](https://www.yalemedicine.org/news/herd-immunity), 2021-May-21.[↩](#fn9a)  
