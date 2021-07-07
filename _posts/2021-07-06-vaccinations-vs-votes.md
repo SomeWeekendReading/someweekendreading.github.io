@@ -150,15 +150,15 @@ similar to this post <sup id="fn10a">[[10]](#fn10)</sup>:
 > had the upper hand in the United States: the geniuses (not all of them American) who
 > invented and produced these safe and effective vaccines in record time or the
 > conspiratorial crackpots who believe Internet rumors that vaccines are unsafe and
-> unnecessary. More than six months later, it’s evident that the forces of ignorance and
+> unnecessary. More than six months later, it's evident that __the forces of ignorance and
 > irrationality are so strongly entrenched that no amount of scientific evidence and
-> public exhortation will sway them.  
+> public exhortation will sway them.__  
 
 > While young people and African Americans exhibit vaccine hesitancy, the most problematic
 > group by far is Republicans. According to a new Post-ABC News poll, 86 percent of
 > Democrats have gotten at least one vaccine shot, compared with only 45 percent of
-> Republicans. Forty-seven percent of Republicans say they likely won’t get vaccinated,
-> compared with only 6 percent of Democrats.  
+> Republicans. __Forty-seven percent of Republicans say they likely won’t get vaccinated,
+> compared with only 6 percent of Democrats.__  
 
 > The states that have the lowest vaccination rates — Mississippi, Alabama, Arkansas,
 > Louisiana, Wyoming — are all Republican redoubts. It’s no coincidence that many red
@@ -171,10 +171,10 @@ similar to this post <sup id="fn10a">[[10]](#fn10)</sup>:
 Note that crucial fact: _almost all_ the deaths in the last 6 months were among
 unvaccinated people.  So&hellip; _get vaccinated!_  
 
-> Sadly, roughly one-third of the country is impervious to science and even
-> self-interest. That’s a big problem for the rational rest. Widespread vaccine resistance
+> __Sadly, roughly one-third of the country is impervious to science and even
+> self-interest.__ That’s a big problem for the rational rest. Widespread vaccine resistance
 > ensures that covid-19 will continue circulating as more virulent strains emerge. The
-> only way we are likely to achieve “herd immunity” now is the hard way — by having a lot
+> only way we are likely to achieve "herd immunity" now is the hard way — by having a lot
 > more people fall ill and die from the delta variant. The anti-vaxxers have a lot to
 > answer for.  
 
