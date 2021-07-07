@@ -137,6 +137,48 @@ Thanks, Republicans.  If not for you, we could have been more or less over COVID
 US by now.  But you're acting as though you _want_ a variant that'll make us do this all over
 again.  Why would you possibly want that?!  
 
+
+## Addendum 2021-Jul-07  
+
+Last April, when we did the analysis of vaccination vs Trump margin, [we found the next day that the _New York Times_ published a similar analysis (with an almost identical plot)]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/#addendum-late-2021-apr-19).  
+
+Not to be outdone, today the _Washington Post_ published an article by Max Boot, very similar to this
+post <sup id="fn10a">[[10]](#fn10)</sup>:  
+
+> In December, I argued that the coronavirus vaccination campaign would be a test of who
+> had the upper hand in the United States: the geniuses (not all of them American) who
+> invented and produced these safe and effective vaccines in record time or the
+> conspiratorial crackpots who believe Internet rumors that vaccines are unsafe and
+> unnecessary. More than six months later, it’s evident that the forces of ignorance and
+> irrationality are so strongly entrenched that no amount of scientific evidence and
+> public exhortation will sway them.  
+
+> While young people and African Americans exhibit vaccine hesitancy, the most problematic
+> group by far is Republicans. According to a new Post-ABC News poll, 86 percent of
+> Democrats have gotten at least one vaccine shot, compared with only 45 percent of
+> Republicans. Forty-seven percent of Republicans say they likely won’t get vaccinated,
+> compared with only 6 percent of Democrats.  
+
+> The states that have the lowest vaccination rates — Mississippi, Alabama, Arkansas,
+> Louisiana, Wyoming — are all Republican redoubts. It’s no coincidence that many red
+> states are also seeing the worst outbreaks of the disease in recent weeks: The average
+> number of daily cases in the past 14 days has surged 145 percent in South Carolina, 137
+> percent in Nebraska and 121 percent in Arkansas. __The Centers for Disease Control and
+> Prevention calculates that 99.5 percent of U.S. covid-19 deaths in the past six months
+> were among unvaccinated people.__  
+
+Note that crucial fact: _almost all_ the deaths in the last 6 months were among
+unvaccinated people.  So&hellip; _get vaccinated!_  
+
+> Sadly, roughly one-third of the country is impervious to science and even
+> self-interest. That’s a big problem for the rational rest. Widespread vaccine resistance
+> ensures that covid-19 will continue circulating as more virulent strains emerge. The
+> only way we are likely to achieve “herd immunity” now is the hard way — by having a lot
+> more people fall ill and die from the delta variant. The anti-vaxxers have a lot to
+> answer for.  
+
+At least _some_ of the big-time journalists seem to grasp the problem correctly.  
+
 ---
 
 ## Notes &amp; References  
@@ -163,3 +205,5 @@ again.  Why would you possibly want that?!
 <a id="fn8">8</a>: C Gaba, [Happy Independence Day. Here's U.S. &#x23;COVID19 Vaccination Levels BY COUNTY](https://acasignups.net/21/07/04/happy-independence-day-heres-us-covid19-vaccination-levels-county), [_ACA Signups_](https://acasignups.net/), 2021-Jul-04.[↩](#fn8a)  
 
 <a id="fn9">9</a>: C MacMillan, ["Herd Immunity: Will We Ever Get There?"](https://www.yalemedicine.org/news/herd-immunity), [_Yale School of Medicine News_](https://www.yalemedicine.org/news/herd-immunity), 2021-May-21.[↩](#fn9a)  
+
+<a id="fn10">10</a>: M Boot, ["Opinion: Republicans are preventing America from reaching Biden’s vaccination goal"](https://www.washingtonpost.com/opinions/2021/07/06/republican-antivaxxers-biden-vaccination-goal/), [_Washington Post_](https://www.washingtonpost.com/), 2021-Jul-06. [↩](#fn10a)  
