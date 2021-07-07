@@ -75,8 +75,7 @@ If herd immunity is at p = 0.85 resistance, then R0 is about:
 p = 1 - 1/R0
 1/R0 = 1 - p
 R0 = 1/(1-p)
-   = 1/0.15
-   = 6.67
+   = 1/0.15 = 6.67
 -->
 
 Note the negative sloping trend: Trump counties did _terribly worse_ on vaccination
