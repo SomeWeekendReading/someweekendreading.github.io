@@ -57,7 +57,8 @@ was easy to vaccinate has been vaccinated.  We have a couple of problems:
 So of all those potential things, is the last one really a driver?  Our state-level
 regression analysis in April said yes.  We could do that again, but I was very gratified
 to find that Charles Gaba at _ACA Signups_ (odd name for a blog!) had done 
-this <sup id="fn8a">[[8]](#fn8)</sup>, and at the county level to boot!  
+this <sup id="fn8a">[[8]](#fn8)</sup>, and at the county level to boot!  (All 3100+
+counties in the US, which is&hellip; _special_.)  
 
 Here's what his regression of % of total population vaccinated vs Trump/Biden popular vote
 margin looks like:  
@@ -77,8 +78,10 @@ levels!  The regression line confirms this:
   like this ever get.  _Trumpiness is a good explainer of vaccine resistance._  
 - Note the horizontal line at 85% vaccination: he's estimating this as the level of
   vaccination (or previous infection) required for herd immunity.  From that, we infer
-  that he thinks COVID-19 has $R_0 \sim 6$ or so.  I'd have thought that a bit high, but the
-  Delta (and Delta+) variants are a bit more virulent.  So maybe.  
+  that he thinks COVID-19 has $R_0 \sim 6$ or so.  This is apparently based on some data
+  from the Yale School of Medicine. <sup id="fn9a">[[9]](#fn9)</sup>  I'd have thought
+  that a bit high, but the Delta (and Delta+) variants are a bit more virulent.  For once
+  I'm _insufficiently_ pessimistic!  
 - __Important point:__ _Nobody is yet at herd immunity!_  This means the unvaccinated _cannot_
   walk around hoping to be protected by the vaccinated around them.  
 
@@ -115,6 +118,10 @@ How do you persuade a fact-proof knucklehead to do the right thing for the safet
 _everybody_, when they'd rather belive the vaccine is a plot by Bill Gates to implant a
 chip so the government can reprogram them by 5G?  (Not an exaggeration!)  
 
+Thanks, Republicans.  If not for you, we could have been more or less over COVID-19 in the
+US.  But now you're acting as though you _want_ a variant that'll make us do this all over
+again.  Why?!  
+
 ---
 
 ## Notes &amp; References  
@@ -139,3 +146,5 @@ chip so the government can reprogram them by 5G?  (Not an exaggeration!)
 <a id="fn7">7</a>: Weekend Editor, ["The Billionth Dose"]({{ site.baseurl }}/billionth-dose/), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-24.[↩](#fn7a)  
 
 <a id="fn8">8</a>: C Gaba, [Happy Independence Day. Here's U.S. &#x23;COVID19 Vaccination Levels BY COUNTY](https://acasignups.net/21/07/04/happy-independence-day-heres-us-covid19-vaccination-levels-county), [_ACA Signups_](https://acasignups.net/), 2021-Jul-04.[↩](#fn8a)  
+
+<a id="fn9">9</a>: C MacMillan, ["Herd Immunity: Will We Ever Get There?"](https://www.yalemedicine.org/news/herd-immunity), [Yale School of Medicine News](https://www.yalemedicine.org/news/herd-immunity), 2021-May-21.[↩](#fn9a)  
