@@ -33,9 +33,9 @@ to be bothersome, as confirmed by public health officials.
 So why revisit this now?  
 
 Basically, Biden promised (actually more like "hoped" and promised to "work real hard")
-that 70% of the US population would be vaccinated by the 4th of July so we could all have
-barbecues.  That was ambitious, but with the vaccination rates seen in March or April, it
-could have been achieved.  
+that 70% of the US _adult_ population would be vaccinated by the 4th of July, so we could all have
+barbecues or something.  That was ambitious, but with the vaccination rates seen in March
+or April, it could have been achieved.  
 
 _Could_ have.  
 
@@ -60,7 +60,7 @@ to find that Charles Gaba at _ACA Signups_ (odd name for a blog!) had done
 this <sup id="fn8a">[[8]](#fn8)</sup>, and at the county level to boot!  (All 3100+
 counties in the US, which is&hellip; _special_.)  
 
-Here's what his regression of % of total population vaccinated vs Trump/Biden popular vote
+Here's what his regression of % of total population vaccinated vs Trump/Biden % popular vote
 margin looks like:  
 
 ![Gaba: Vaccination level vs Trump margin, county-level data]({{ site.baseurl }}/images/2021-07-06-vaccinations-vs-votes-county-regression.jpg "Gaba: Vaccination level vs Trump margin, county-level data")  
@@ -70,18 +70,34 @@ further to the left voted for Biden.  The higher points had more vaccination, wh
 lower ones had less.  Note that each axis goes from 0% &ndash; 100%, so there's no
 suspicious zooming in to make small effects look larger; this is the whole picture.  
 
+<!-- 
+If herd immunity is at p = 0.85 resistance, then R0 is about:
+p = 1 - 1/R0
+1/R0 = 1 - p
+R0 = 1/(1-p)
+   = 1/0.15
+   = 6.67
+-->
+
 Note the negative sloping trend: Trump counties did _terribly worse_ on vaccination
 levels!  The regression line confirms this:  
 - The negative slope of the line is -0.4224.  That is, for every 1% increase in Trump
   voters, there's a little under half a percent decrease in vaccination rates.  
 - The model explains $R^2 \sim 42\%$ of the variance in the data, which is about as good as models
   like this ever get.  _Trumpiness is a good explainer of vaccine resistance._  
-- Note the horizontal line at 85% vaccination: he's estimating this as the level of
+- Note the horizontal line labelled "TARGET: 53.9%".  This was Biden's goal: 70% of
+  American _adults_ works out to 53.9% of all Americans, once you fold in children.  The
+  current vaccination level is 50.8%&hellip; missing by 3.1%, which is oh-so-very-close!  
+- Note the horizontal line at 85% vaccination: Gaba's estimating this as the level of
   vaccination (or previous infection) required for herd immunity.  From that, we infer
-  that he thinks COVID-19 has $R_0 \sim 6$ or so.  This is apparently based on some data
+  that he thinks COVID-19 has $R_0 \sim 6.7$ or so.  This is apparently based on some data
   from the Yale School of Medicine. <sup id="fn9a">[[9]](#fn9)</sup>  I'd have thought
   that a bit high, but the Delta (and Delta+) variants are a bit more virulent.  For once
-  I'm _insufficiently_ pessimistic!  
+  I'm _insufficiently_ pessimistic!    (However: if there is sufficient "natural" immunity
+  from people who've already had COVID, that would be added to the vaccination fraction.
+  But in order for us to be at herd immunity now, with about 50% vaccination, we'd need an
+  additional 35% of natural immune people.  We don't have that.  Get vaccinated.  It's
+  better than getting COVID, anyway.)  
 - __Important point:__ _Nobody is yet at herd immunity!_  This means the unvaccinated _cannot_
   walk around hoping to be protected by the vaccinated around them.  
 
