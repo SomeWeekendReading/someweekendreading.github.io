@@ -5,7 +5,7 @@ tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 ---
 
-Back in April, we did some [statistical analysis showing Trumpy states tended to have dramatically lower vaccination rates]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use).  Is that still the case?  Regrettably, yes.  Even more so.  
+Back in April, we did some [statistical analysis showing Trumpy states tended to have dramatically lower vaccination rates]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/).  Is that still the case?  Regrettably, yes.  More than ever.  
 
 
 ## Where We Last Left Off in April  
@@ -84,7 +84,8 @@ levels!  The regression line confirms this:
 
 Since the population of unvaccinated is slowly shrinking, but the case rate is leveling
 off, that means the rate of infection of unvaccinated people is going up.  If you're
-unvaccinated, this should _terrify_ you.  
+unvaccinated, this should _terrify_ you.  (But if you're vaccinated, relax for now:
+especially the mRNA vaccines work against all current variants.)  
 
 So basically: there are a lot of knuckleheads refusing to get vaccinated for incredibly
 stupid reasons.  They risk their own lives, sure.  But more importantly, they are
