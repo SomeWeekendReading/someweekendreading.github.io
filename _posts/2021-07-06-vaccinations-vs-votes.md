@@ -51,7 +51,7 @@ was easy to vaccinate has been vaccinated.  We have a couple of problems:
   using local trusted physicians, &hellip; basically using all sorts of outreach to
   communities that are sometimes justifiably suspicious of the US medical establishment.
   We're doing all that, but&hellip;
-- Now we're down to hard-core right-wing vaccine resistance: on outright irrational
+- Now we're down to hard-core right-wing vaccine resistance, which verges on outright irrational,
   rage-filled _refusal._  
   
 So of all those potential things, is the last one really a driver?  Our state-level
