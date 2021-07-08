@@ -81,7 +81,9 @@ R0 = 1/(1-p)
 Note the negative sloping trend: Trump counties did _terribly worse_ on vaccination
 levels!  The regression line confirms this:  
 - The negative slope of the line is -0.4224.  That is, for every 1% increase in Trump
-  voters, a bit under half of them will refuse vaccination.  
+  voters, a bit under half of them will refuse vaccination.  Also, this is a stronger
+  effect than we found at the state level, where the regression coefficient was at most
+  -0.165.  So the county data, updated from April to July, is _even more_ convincing.  
 - The model explains $R^2 \sim 42\%$ of the variance in the data, which is about as good as models
   like this ever get.  _Trumpiness is a good explainer of vaccine resistance._  
 - Note the horizontal line labelled "TARGET: 53.9%".  This was Biden's goal: 70% of
