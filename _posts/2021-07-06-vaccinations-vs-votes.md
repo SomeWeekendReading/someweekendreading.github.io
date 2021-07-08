@@ -205,7 +205,7 @@ At least _some_ of the big-time journalists seem to grasp the problem correctly.
 <a id="fn7">7</a>: Weekend Editor, ["The Billionth Dose"]({{ site.baseurl }}/billionth-dose/), [_SomeWeekendReading_ blog]({{ site.baseurl }}/), 2021-Apr-24.[↩](#fn7a)  
 
 <a id="fn8">8</a>: C Gaba, [Happy Independence Day. Here's U.S. &#x23;COVID19 Vaccination Levels BY COUNTY](https://acasignups.net/21/07/04/happy-independence-day-heres-us-covid19-vaccination-levels-county), [_ACA Signups_](https://acasignups.net/), 2021-Jul-04.[↩](#fn8a)  
-p
+
 <a id="fn9">9</a>: C MacMillan, ["Herd Immunity: Will We Ever Get There?"](https://www.yalemedicine.org/news/herd-immunity), [_Yale School of Medicine News_](https://www.yalemedicine.org/news/herd-immunity), 2021-May-21.[↩](#fn9a)  
 
 <a id="fn10">10</a>: M Boot, ["Opinion: Republicans are preventing America from reaching Biden’s vaccination goal"](https://www.washingtonpost.com/opinions/2021/07/06/republican-antivaxxers-biden-vaccination-goal/), [_Washington Post_](https://www.washingtonpost.com/), 2021-Jul-06. [↩](#fn10a)  

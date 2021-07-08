@@ -482,6 +482,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 ## Those of Rational &amp; Scientific Bent
 
+"Remember to always be praising people when they finally do the right thing, regardless of whether they first exhausted all alternatives." &mdash; Zvi Mowshowitz, [_The Zvi_](https://thezvi.wordpress.com/2021/07/08/covid-7-8-delta-takes-over/), 2021-Jul-08.  
+
 "He lacked the courage to doubt himself.  He lacked the wisdom to change his mind." &mdash; [George Packer](https://en.wikipedia.org/wiki/George_Packer), ["How Rumsfeld Deserves to Be Remembered"](https://www.theatlantic.com/ideas/archive/2021/06/how-donald-rumsfeld-deserves-be-remembered/619334/), [_The Atlantic_](https://www.theatlantic.com), 2021-Jun-30.  On the death of [Donald Rumsfeld](https://en.wikipedia.org/wiki/Donald_Rumsfeld).  
 
 "You can't use reason to argue someone out of a position that they did not arrive at by reason." &mdash; [Derek Lowe](https://en.wikipedia.org/wiki/Derek_Lowe_(chemist)), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/archives/2021/05/04/spike-protein-behavior#comment-344613)  
