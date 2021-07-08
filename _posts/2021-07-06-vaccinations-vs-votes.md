@@ -51,12 +51,12 @@ was easy to vaccinate has been vaccinated.  We have a couple of problems:
   using local trusted physicians, &hellip; basically using all sorts of outreach to
   communities that are sometimes justifiably suspicious of the US medical establishment.
   We're doing all that, but&hellip;
-- Now we're down to hard-core right-wing vaccine resistance, verging on outright refusal
-  and deeply irrational rage.  
+- Now we're down to hard-core right-wing vaccine resistance: on outright irrational
+  rage-filled _refusal._  
   
 So of all those potential things, is the last one really a driver?  Our state-level
 regression analysis in April said yes.  We could do that again, but I was very gratified
-to find that Charles Gaba at _ACA Signups_ (odd name for a blog!) had done 
+to find that [Charles Gaba at _ACA Signups_](https://acasignups.net) (odd name for a blog!) had done 
 this <sup id="fn8a">[[8]](#fn8)</sup>, and at the county level to boot!  (All 3100+
 counties in the US, which is&hellip; _special_.)  
 
