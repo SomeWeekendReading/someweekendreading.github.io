@@ -198,7 +198,7 @@ things:
 - On the left, we see slowdowns in vaccination more or less throughout the developed
   world, hitting a hard plateau somewhere around 70% &ndash; 80%.  That's evidence of a
   minority of hard-core vaccine resisters.  Apparently the
-  Lizardman Constant <sup id="fn12a">[[12]](#fn12)</sup> is 20% - 30% nowadys.  
+  Lizardman Constant <sup id="fn12a">[[12]](#fn12)</sup> is 20% - 30% nowadays.  
 - On the right is a plot similar to the one above, except using the % of people having
   gotten at least the 1st dose of the vaccine on the vertical axis. It's county-level
   data, and shows just as damning evidence of Trumpiness as the explanatory variable.
