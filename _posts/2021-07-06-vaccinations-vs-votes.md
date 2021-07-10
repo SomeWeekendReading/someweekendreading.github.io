@@ -183,6 +183,31 @@ unvaccinated people.  So&hellip; _get vaccinated!_
 
 At least _some_ of the big-time journalists seem to grasp the problem correctly.  
 
+
+## Addendum 2021-Jul-09  
+
+<img src="{{ site.baseurl }}/images/2021-07-06-vaccinations-vs-votes-economist.jpg" width="400" height="242" alt="Economist: worldwide vaccine slowdown and Trumpiness relationship" title="Economist: worldwide vaccine slowdown and Trumpiness relationship" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+In another instance of mainstream journalists catching on, there was an apparently
+anonymous article yesterday in _The Economist_ on this subject. <sup id="fn11a">[[11]](#fn11)</sup>
+Now, since it's behind another evil paywall, I can't tell you about the whole thing.  But
+from the portion I can see, it says political views and suspicion of vaccines appear to be
+the causes of vaccination rates slowing down.  
+
+Their graphic (after all, it's called the Daily Chart for a reason) shows 2 interesting
+things:  
+- On the left, we see slowdowns in vaccination more or less throughout the developed
+  world, hitting a hard plateau somewhere around 70% &ndash; 80%.  That's evidence of a
+  minority of hard-core vaccine resisters.  Apparently the
+  Lizardman Constant <sup id="fn12a">[[12]](#fn12)</sup> is 20% - 30% nowadys.  
+- On the right is a plot similar to the one above, except using the % of people having
+  gotten at least the 1st dose of the vaccine on the vertical axis. It's county-level
+  data, and shows just as damning evidence of Trumpiness as the explanatory variable.
+  (Though, as a grizzled old statistician, I can't resist pointing out that _The Economist_
+  won't tell you the regression coefficients, but I _did_.  Hmpf.)  
+
+Again, people are catching on.  Whether we can _do_ anything about it is the main
+question!  
+
 ---
 
 ## Notes &amp; References  
@@ -211,3 +236,11 @@ At least _some_ of the big-time journalists seem to grasp the problem correctly.
 <a id="fn9">9</a>: C MacMillan, ["Herd Immunity: Will We Ever Get There?"](https://www.yalemedicine.org/news/herd-immunity), [_Yale School of Medicine News_](https://www.yalemedicine.org/news/herd-immunity), 2021-May-21.[↩](#fn9a)  
 
 <a id="fn10">10</a>: M Boot, ["Opinion: Republicans are preventing America from reaching Biden’s vaccination goal"](https://www.washingtonpost.com/opinions/2021/07/06/republican-antivaxxers-biden-vaccination-goal/), [_Washington Post_](https://www.washingtonpost.com/), 2021-Jul-06. [↩](#fn10a)  
+
+<a id="fn11">11</a>: Daily Chart, ["Why has America’s vaccination programme slowed so much?"](https://www.economist.com/graphic-detail/2021/07/08/why-has-americas-vaccination-programme-slowed-so-much?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=twitter), [_The Economist_](https://www.economist.com), 2021-Jul-08. [↩](#fn11a)  
+
+<a id="fn12">12</a>: Scott Alexander Siskind, ["LIZARDMAN’S CONSTANT IS 4%"](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/), _Slate Star Codex_, 2013-Apr-12.  Of this effect, Scott says: "I have only done a little bit of social science research, but it was enough to make me hate people."  This from the analysis of [Public Policy Polling's work on conspiracy theories](https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_National_ConspiracyTheories_040213.pdf) finding that 4% of Americans believe 'lizardmen' are running all nations on the Earth, while another 7% are for some reason 'not sure' about the answer to that question.  
+
+Scott, a psychiatrist, is possibly the best rationalist blogger ever.  For complicated reasons involving a hit piece in the _New York Times_, he's moved his blog to [_Astral Codex Ten_](https://astralcodexten.substack.com/).  The new blog's motto: "P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary."  I cannot but think both [Rabbi Hillel and Rabbi Shammai](https://forward.com/culture/14250/the-rest-of-the-rest-is-commentary-02564/) would agree in spirit.  
+
+It's worth your time.  It's certainly been worth mine. [↩](#fn12a)  
