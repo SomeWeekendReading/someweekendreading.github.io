@@ -44,7 +44,7 @@ forever.  For example:
 > almost certainly apocryphally so, as nobody cites a particular source, and some give
 > other authors dating improbably back to 4000BCE. <sup id="fn2a">[[2]](#fn2)</sup>  
 >  
-> Still&hellip; style points for the snark?  
+> Still&hellip; style points for quality snark?  
 
 While it's doubtful Cicero ever said that, being the curmudgeon that he was, he probably
 would have said it if he'd thought about it.  So I promise to stop being a curmudgeon
@@ -83,8 +83,8 @@ Some thoughts about the video:
   [_pikuach nefesh_](https://en.wikipedia.org/wiki/Pikuach_nefesh), literally "watching
   over a soul", is the highest principle in my personal version of my religion, shaming is
   an appropriate tool here if it _saves a life._  
-- __The summary:__ "Variants, shmariants, get your vaccine, and relax, or don’t, and
-  decide whether you wanna relax or not, but I don’t wanna hear about it anymore, okay?"
+- __The summary:__ "Variants, shmariants, get your vaccine, and relax.  Or don’t, and
+  decide whether you wanna relax or not.  But I don’t wanna hear about it anymore, okay?"
   I literally could not have said it better myself.  
   
 So: ok, a couple points of disagreement, but that's normal.  He's a very sensible fellow!  
