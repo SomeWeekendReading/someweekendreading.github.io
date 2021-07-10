@@ -88,7 +88,7 @@ levels!  The regression line confirms this:
   like this ever get.  _Trumpiness is a good explainer of vaccine resistance._  
 - The circles around each point appear to be the county population size.  See the large
   circles around the blue points in the upper left?  See the tiny, almost invisible
-  circles around the red points in the lower right?  That's the urban/rural divide.  
+  circles around the red points in the lower right?  That's the US urban/rural divide.  
 - Note the horizontal line labelled "TARGET: 53.9%".  This was Biden's goal: 70% of
   American _adults_ works out to 53.9% of all Americans, once you fold in children.  The
   current vaccination level is 50.8%&hellip; missing by 3.1%, which is oh-so-very-close!  
