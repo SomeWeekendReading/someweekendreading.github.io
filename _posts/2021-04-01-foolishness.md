@@ -36,13 +36,13 @@ community.  It somehow manages to combine Pesach with pirate songs and a sea sha
 two.  (Hey, don't judge!  It's Six13&hellip; surrealism is what they _do_.)  
 
 I _thought_ I was being surrealistic and a wee tad bit transgressive.  Turns out, though,
-I'm apparently in cahoots with a kabal of religious closet pirate afficionados.  They
-liked the video so much, my email was clogged with pirate jokes.  (I mean, fair enough.
-But I did _not_ see that coming.)  
+I'm apparently in cahoots with a kabal of religious closet pirate afficionados.  Who knew?
+They liked the video so much, my email was clogged with pirate jokes.  (I mean&hellip;
+sure, fair enough.  But I did _not_ see that coming.)  
 
 So to honor my colleagues, an improbable portion of whom seem to be medical people who are
-also inexplicably pirate fans, I dedicate to them this little
-[koan](https://en.wikipedia.org/wiki/Koan):  
+also inexplicably fans of pirates, I dedicate to them this little
+[koan](https://en.wikipedia.org/wiki/Koan) I created in their honor:  
 > __Q:__ Why do pirate obstetricians have the shortest lifespans of all medical personnel?  
 > __A:__ One simply cannot expect to survive for long after saying to a woman in labor, "Stand and deliver."  
 
