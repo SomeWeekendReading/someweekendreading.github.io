@@ -245,8 +245,8 @@ Of this effect, Scott says: "I have only done a little bit of social science res
 
 Scott, a psychiatrist, is possibly the best rationalist blogger ever.  For complicated reasons involving a hit piece in the _New York Times_, he's moved his blog to [_Astral Codex Ten_](https://astralcodexten.substack.com/).  The new blog's motto:  
 
-> P(A\|B) = [P(A)*P(B\|A)]/P(B), all the rest is commentary.  
+> "P(A\|B) = [ P(A) * P(B\|A) ] / P(B)", all the rest is commentary.  
 
-I cannot but think both [Rabbi Hillel and Rabbi Shammai](https://forward.com/culture/14250/the-rest-of-the-rest-is-commentary-02564/) would agree in spirit.  
+I cannot but think that both [Rabbi Hillel and Rabbi Shammai](https://forward.com/culture/14250/the-rest-of-the-rest-is-commentary-02564/) would agree in spirit.  
 
 It's worth your time.  It's certainly been worth mine. [↩](#fn12a)  
