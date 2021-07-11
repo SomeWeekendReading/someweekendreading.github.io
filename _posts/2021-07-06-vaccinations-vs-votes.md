@@ -246,7 +246,7 @@ question!
 
 Of this effect, Scott says: "I have only done a little bit of social science research, but it was enough to make me hate people."  This from the analysis of [Public Policy Polling's work on conspiracy theories](https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_National_ConspiracyTheories_040213.pdf) finding that 4% of Americans believe 'lizardmen' are running all nations on the Earth, while another 7% are for some reason 'not sure' about the answer to that question.  
 
-Scott, a psychiatrist, is possibly the best rationalist blogger ever.  For complicated reasons involving a hit piece in the _New York Times_, he's moved his blog to [_Astral Codex Ten_](https://astralcodexten.substack.com/).  The new blog's motto:  
+Scott, a psychiatrist, is possibly the best rationalist blogger ever.  For complicated reasons [involving a hit piece in the _New York Times_ which threatened to doxx him](https://astralcodexten.substack.com/p/statement-on-new-york-times-article) (community reaction summarized [here](https://mindsarentmagic.org/2021/02/15/responses-to-cade-metzs-hit-piece-on-scott-alexander/)), he's moved his blog to [_Astral Codex Ten_](https://astralcodexten.substack.com/).  _Astral Codex Ten_'s motto:  
 
 > "P(A\|B) = P(A) * P(B\|A) / P(B)", all the rest is commentary.  
 
