@@ -3,13 +3,7 @@
   <!-- Page view counter:  
        https://javascript.plainenglish.io/how-to-count-page-views-with-the-count-api-afc9369c1f8f
        https://countapi.xyz/
-       
-       https://api.countapi.xyz/hit/www.someweekendreading.blog/{{ page.url | escape_once }}
-       or
-       https://api.countapi.xyz/hit/www.someweekendreading.blog/:PATHNAME:
-       or
-       https://api.countapi.xyz/hit/:HOST:/:PATHNAME:
   -->
-
+            <em>Visits:</em><span id="{{page.url | escape_once }}"></span>
             <em>Site last built:</em> <span class="date">{{ site.time | date: "%a %Y-%b-%d %H:%M %Z" }}</span>
 	  </div>
