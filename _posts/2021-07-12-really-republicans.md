@@ -158,7 +158,7 @@ hurt.  Democrats actually _try to make sense_, and that will come as an enormous
 you just try it out.  
 
 Besides, the view from the laser space station is _stupendous._  Pretty good pastrami at the
-canteen, too &mdash; you might like it.  
+canteen, too.  You might like it?  
 
 ---
 
