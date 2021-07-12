@@ -37,17 +37,19 @@ ridiculous starting with Reagan, but this is kind of over the top.
 <img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-mtg-jewish-space-lasers-patch.jpg" width="400" height="402" alt="Jewish space laser shoulder patch: Goyim squad" title="Jewish space laser shoulder patch: Goyim squad" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 First up is Stooge #1: apparent lunatic
 [Representative Marjorie Taylor Greene](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene).
-She's&hellip; special: <sup id="fn1a">[[1]](#fn1)</sup>
+She's&hellip; special <sup id="fn1a">[[1]](#fn1)</sup>:  
+
 - She buys into the far-right conspiracy theory [QAnon](https://en.wikipedia.org/wiki/QAnon), 
   i.e., that Democrats are Satanists and cannibals running a child sex slavery ring.  
 - She thinks Muslims should not be allowed in political office.  
-- The mass shootings of recent years were staged.   
-- "Zionist supremacists" are engineering Muslim migrations to drive whites to extinction.  
-- Democratic officials should be executed.  
+- She's convinced the mass shootings of recent years were staged.   
+- She talks about "Zionist supremacists" engineering Muslim migrations to drive whites to
+  extinction.  
+- She's said Democratic officials should be _executed._  
 
 One of her more recently uncovered sins against rationality is: the California wildfires
-were deliberatey started by PG&amp;E in conjuction with the Rothschild family using 
-_secret Jewish space lasers_ to clear a path for high-speed rail.  Amusingly, 
+were, in her peculiar opinion, deliberatey started by PG&amp;E in conjuction with the
+Rothschild family using _secret Jewish space lasers_ to clear a path for high-speed rail.  Amusingly,
 [DissentPins will sell you a shoulder patch for the Secret Jewish Space Laser Corps](https://dissentpins.com/products/secret-jewish-space-laser-corps-goyim-squad-patch), 
 because since it's no longer secret you might as well flaunt it.  I thought it was a nice
 touch that they have a Goyim Squad so guys like me (_goys_ like me?) can help out on on Shabbat.  
@@ -73,8 +75,8 @@ to tell the world you're on board with the Forest Service's space program,
 An article in the _Washington Post_ suggests it's not stupid for the obvious reasons, but
 really an attempt at stupidity in another way.  <sup id="fn2a">[[2]](#fn2)</sup>  That is,
 he knows we can't move the moon, but he thinks we can't stave off climate change either
-unless we do something as drastic as moving the moon.  That's sort of 2nd-order
-stupidity.  
+unless we do something as drastic as moving the moon.  That's sort of&hellip; 2nd-order
+stupidity?  
 
 Just to make it perfect, when he was quoted he wasn't mad about being portrayed as asking
 dimwit questions.  No, he was concerned that people would confuse his use of BLM for the
@@ -101,7 +103,7 @@ as others who vote like that?
 The third Stooge (and I'm stopping at 3 only out of disgust, not because there aren't
 more) is: [Representative Madison Cawthorn](https://en.wikipedia.org/wiki/Madison_Cawthorn).
 You might think we should cut him some slack, since he's a Congressional newbie elected in 2020.
-But&hellip; there are _limits_ to what we can overlook.  
+And hey, he's only 25 years old, right?  But&hellip; there are _limits_ to what we can overlook.  
 
 As you may have noticed &mdash; and as we have been harping incessantly here at Chez
 Weekend &mdash; the vaccination rate in the US is falling off, and we're not anywhere near
@@ -115,8 +117,8 @@ out to their neighbors in low-vaccination areas.
 
 Seems benign enough, right?  
 
-Ah, but not to our Boy Genius!  Cawthorn was at CPAC (Conservative Political Action
-Committee, which is not a hopeful starting point) and said in an interview that this was a
+Ah, but not to this Boy Genius!  Cawthorn was at CPAC (Conservative Political Action
+Committee &mdash; not a hopeful starting point) and said in an interview that this was a
 plot to confiscate your guns and your Bibles <sup id="fn3a">[[3]](#fn3)</sup>:  
 
 > "The thing about the mechanisms they would have to build to be able to actually execute
@@ -135,7 +137,8 @@ plot to confiscate your guns and your Bibles <sup id="fn3a">[[3]](#fn3)</sup>:
 
 Yeah.  Anything _but_ saving people's lives with vaccinations!  
 
-(So far no shoulder patch from DissentPatches.  But it's early days yet, on this one.)  
+(So far no guns 'n' Bible grabbin' shoulder patch from DissentPatches.  But it's early
+  days yet, on this one.  Give it a few days.)  
 
 For the third (and last, for now) time: Really, Republicans: why do you vote for people
 like that?  Why even be in the same party as others who vote like that?  
