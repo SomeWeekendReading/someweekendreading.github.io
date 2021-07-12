@@ -55,7 +55,7 @@ touch that they have a Goyim Squad so guys like me (_goys_ like me?) can help ou
 I mean, come on: forest fires are so hard to believe that you'd prefer that pile of
 anti-Semitic, scientifically illiterate crap?  Apparently she hasn't gotten the right-wing
 memo that antisemitic conspiracy theories are supposed to be updated, replacing the
-Rothschilds with George Soros.  **sigh**  
+Rothschilds with George Soros.  **Sigh!**  
 
 Really, Republicans: why do you vote for people like that?  Why even be in the same party
 as others who vote like that?  
@@ -100,8 +100,8 @@ as others who vote like that?
 <img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-cawthorn.jpg" width="400" height="283" alt="Madison Cawthorn: Biden door-to-door vaccine program to confiscate Bibles and guns" title="Madison Cawthorn: Biden door-to-door vaccine program to confiscate Bibles and guns" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The third Stooge (and I'm stopping at 3 only out of disgust, not because there aren't
 more) is: [Representative Madison Cawthorn](https://en.wikipedia.org/wiki/Madison_Cawthorn).
-You might think we should cut him some slack, since he's a Congressional newbie elected in
-2020.  But&hellip; there are _limits_ to what we can overlook.  
+You might think we should cut him some slack, since he's a Congressional newbie elected in 2020.
+But&hellip; there are _limits_ to what we can overlook.  
 
 As you may have noticed &mdash; and as we have been harping incessantly here at Chez
 Weekend &mdash; the vaccination rate in the US is falling off, and we're not anywhere near
@@ -143,16 +143,19 @@ like that?  Why even be in the same party as others who vote like that?
 
 ## The Weekend Conclusion  
 
-Honest, I haven't done cherry picking here.  Those are just the stories that happen to
-have presented themselves to me.  And if I'm being honest, pretty much _all_ Congressional
-Republicans either look to me like the 3 Stooges above, or like Ted Cruz who is smart but
-just looks straight-up evil.  The defense of Trump lunacy and failure to impeach is a
-stain on all of them.  
+Honest, I haven't done any cherry picking here of which I'm aware.  Those are just the
+stories that happen to have presented themselves to me.  And if I'm being honest, pretty
+much _all_ Congressional Republicans either look to me like the 3 Stooges above, or like
+Ted Cruz (who is smart, but just looks straight-up evil).  The defense of Trump lunacy and
+failure to impeach is a stain on all of them.  
 
 Look, I grew up Republican.  My family was Republican since there _was_ a Republican
-Party.  But I got better.  If you're a Republican, you can too.  I promise it doesn't
+Party.  But I got better.  If you're a Republican, you can too.  I promise it won't
 hurt.  Democrats actually _try to make sense_, and that will come as an enormous relief if
 you just try it out.  
+
+Besides, the view from the laser space station is _stupendous._  Pretty good pastrami at the
+canteen, too.  
 
 ---
 
