@@ -14,6 +14,8 @@ to that?
 
 Things are getting worse: cracks in the dam are appearing, but the dam has not yet burst.  
 
+<img src="{{ site.baseurl }}/images/2021-07-12-thoughts-on-variants-forbes.jpg" width="400" height="198" alt="Forbes: 99.5% of COVID deaths in last 6 months were unvacinated" title="Forbes: 99.5% of COVID deaths in last 6 months were unvacinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-07-12-thoughts-on-variants-ap.jpg" width="400" height="104" alt="AP: Nearly all COVID deaths in US are now among unvaccinated" title="AP: Nearly all COVID deaths in US are now among unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 For example, a summary report from _Forbes_ <sup id="fn1a">[[1]](#fn1)</sup> (and yes,
 this is not exactly a qualified medical new source, but we have what we have) quotes
 [Rochelle Walensky](https://en.wikipedia.org/wiki/Rochelle_Walensky) of the Centers for
