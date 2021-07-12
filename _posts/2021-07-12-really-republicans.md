@@ -7,8 +7,8 @@ comments: true
 
 [_Warning:_ US-centric, lefty political rant.  If you're from outside the US and want to
 laugh at us&hellip; well, that's fair enough.  We've earned it.] I mean&hellip; _really?_
-Do you seriously put up with politicians like this?  For what _possible_ reason?  Why
-would you even want to be in the same party as people who want this?  
+Do Republicans seriously want to put up with politicians like this?  For what _possible_
+reason?  Why would you even want to be in the same party as people like this?  
 
 
 ## The 3 Stooges  
