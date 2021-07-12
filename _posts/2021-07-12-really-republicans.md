@@ -27,9 +27,9 @@ they were pretty good at it!
 
 I mention this not because anybody cares about the bizarre American entertainments of my
 childhood.  (Look, even _I_ don't care about it.  No need for you to look overly closely.)
-I mention it instead, because in recent weeks I've seen three _enormously, egregiously
-stupid_ statements from prominent Republicans.  I mean, Republicans have been looking
-ridiculous starting with Reagan, but this is kind of over the top.  
+I mention it instead, because in recent weeks I've seen three _egregiously stupid_
+statements from prominent Republicans.  I mean, Republicans have been looking ridiculous
+to me starting with Reagan, but this is kind of over the top.  
 
 
 ## The 3 _Republican_ Stooges  
@@ -44,7 +44,7 @@ She's&hellip; special <sup id="fn1a">[[1]](#fn1)</sup>:
   i.e., that Democrats are satanist cannibals running a child sex slavery ring.  
 - She thinks Muslims should not be allowed in political office.  
 - She's convinced the mass shootings of recent years were staged.   
-- She talks about "Zionist supremacists" engineering Muslim migrations to drive whites to
+- She talks about "Zionist supremacists" engineering Muslim migrations to Europe to drive whites to
   extinction.  
 - She's said Democratic officials should be _executed._  
 
@@ -57,10 +57,10 @@ Amusingly,
 because since it's no longer secret you might as well flaunt it.  I thought it was a nice
 touch that they have a Goyim Squad so guys like me (_goys_ like me?) can help out on on Shabbat.  
 
-I mean, come on: forest fires are so hard to believe that you'd prefer that pile of
-anti-Semitic, scientifically illiterate crap?  (Apparently she hasn't gotten the right-wing
-memo that antisemitic conspiracy theories are supposed to be updated, replacing the
-Rothschilds with George Soros.  **Sigh:** it's not even _up to date_ crap!)  
+I mean, come on: are forest fires really so hard to believe that you'd prefer that
+anti-Semitic, scientifically illiterate pile of crap?  (Apparently she hasn't gotten the
+right-wing memo that antisemitic conspiracy theories are supposed to be updated, replacing
+the Rothschilds with George Soros.  **Sigh:** it's not even _up to date_ crap!)  
 
 Really, Republicans: why do you vote for people like that?  Why even be in the same party
 as others who vote like that?  
@@ -99,18 +99,20 @@ Bureau of Land Management and think he was talking to Black Lives Matter:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Yeah, that's the main worry when people quote you about trying to use the Forest Service
-to move the moon.  
+to move the moon: being confused with anti-racists.  (Me, I _want_ people to think I'm
+anti-racist, because I want to _be_ anti-raciest.)  
 
-Again: Really, Republicans: why do you vote for people like that?  Why even be in the same party
-as others who vote like that?  
+Again, for the second Stooge: Really, Republicans: why do you vote for people like that?  Why even
+be in the same party as others who vote like that?  
 
 <hr>
 
 <img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-cawthorn.jpg" width="400" height="283" alt="Madison Cawthorn: Biden door-to-door vaccine program to confiscate Bibles and guns" title="Madison Cawthorn: Biden door-to-door vaccine program to confiscate Bibles and guns" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The third Stooge (and I'm stopping at 3 only out of disgust, not because there aren't
 more) is: [Representative Madison Cawthorn](https://en.wikipedia.org/wiki/Madison_Cawthorn).
-You might think we should cut him some slack, since he's a Congressional newbie elected in 2020.
-And hey, he's only 25 years old, right?  But&hellip; there are _limits_ to what we can overlook.  
+You might think we should cut him some slack, since he's a Congressional newbie just
+elected last year in 2020.  And hey, he's only 25 years old, right?  But&hellip; there are
+_limits_ to what we can overlook.  
 
 As you may have noticed &mdash; and as we have been harping incessantly here at Chez
 Weekend &mdash; the vaccination rate in the US is falling off, and we're not anywhere near
@@ -118,8 +120,8 @@ herd immunity country-wide, let alone total vaccination.  Some of that is hardco
 resistance from knuckleheads.  But a good deal is from communities that need some
 outreach: maybe they don't speak English, maybe they can't get a day off from work, maybe
 they can't travel to a vaccination center, maybe they need to hear from their local
-community faith leaders, maybe they want to hear from their doctors, maybe&hellip; well,
-lots of things.  So we're _doing those things:_ getting local community people to reach
+faith community leaders, maybe they want to hear from their doctors, maybe&hellip; well,
+lots of things.  So we're _doing those things:_ getting local community leaders to reach
 out to their neighbors in low-vaccination areas.  
 
 Seems benign enough, right?  
@@ -153,12 +155,13 @@ like that?  Why even be in the same party as others who vote like that?
 
 ## The Weekend Conclusion  
 
-Honest, I haven't done any cherry picking here of which I'm aware.  Those are just the
-stories that happen to have presented themselves to me.  And if I'm being honest, pretty
-much _all_ Congressional Republicans either look to me like the 3 Stooges above, or like
-Ted Cruz (who is smart, but just looks straight-up evil).  The defense of Trump lunacy and
-failure to impeach is a stain on all of them.  
+Honest, I haven't done any cherry picking here, or at least none of which I'm aware.
+Those are just the stories that happen to have presented themselves to me.  And if I'm
+being honest, pretty much _all_ Congressional Republicans either look to me like the 3
+Stooges above, or like Ted Cruz (who is smart, but just looks straight-up _evil_).  The
+defense of Trump lunacy and double failure to impeach him is a stain upon all of them.  
 
+<img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-pastrami.jpg" width="400" height="282" alt="Laser Space Station: Pastrami in the Canteen" title="Laser Space Station: Pastrami in the Canteen" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Look, I grew up Republican.  My family was Republican since there _was_ a Republican
 Party.  But I got better.  If you're a Republican, you can too.  I promise it won't
 hurt.  Democrats actually _try to make sense_, and that will come as an enormous relief if
