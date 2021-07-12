@@ -22,7 +22,8 @@ and slapstick.  It was actually a bit violent and sufficiently stupid that it wa
 discouraged by my parents.  
 
 In their defense, I will point out that the Stooges seemed to be decent people in real
-life, just actors who _pretended_ to be stupid and somewhat violent for a living.  
+life, just actors who _pretended_ to be stupid and somewhat violent for a living.  And
+they were pretty good at it!  
 
 I mention this not because anybody cares about the bizarre American entertainments of my
 childhood.  (Look, even _I_ don't care about it.  No need for you to look overly closely.)
@@ -55,12 +56,14 @@ because since it's no longer secret you might as well flaunt it.  I thought it w
 touch that they have a Goyim Squad so guys like me (_goys_ like me?) can help out on on Shabbat.  
 
 I mean, come on: forest fires are so hard to believe that you'd prefer that pile of
-anti-Semitic, scientifically illiterate crap?  Apparently she hasn't gotten the right-wing
+anti-Semitic, scientifically illiterate crap?  (Apparently she hasn't gotten the right-wing
 memo that antisemitic conspiracy theories are supposed to be updated, replacing the
-Rothschilds with George Soros.  **Sigh!**  
+Rothschilds with George Soros.  **Sigh:** it's not even _up to date_ crap!)  
 
 Really, Republicans: why do you vote for people like that?  Why even be in the same party
 as others who vote like that?  
+
+<hr>
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/JsA72dLablY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-lg-move-moon-patch.jpg" width="400" height="424" alt="Louis Gohmert: US Forest Service can move the moon" title="Louis Gohmert: US Forest Service can move the moon" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
@@ -98,6 +101,8 @@ to move the moon.
 
 Again: Really, Republicans: why do you vote for people like that?  Why even be in the same party
 as others who vote like that?  
+
+<hr>
 
 <img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-cawthorn.jpg" width="400" height="283" alt="Madison Cawthorn: Biden door-to-door vaccine program to confiscate Bibles and guns" title="Madison Cawthorn: Biden door-to-door vaccine program to confiscate Bibles and guns" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 The third Stooge (and I'm stopping at 3 only out of disgust, not because there aren't
