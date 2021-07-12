@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Really, Republicans?
-tags: MathInTheNews Politics
+tags: Politics &Gammad;&Tau;&Phi;
 comments: true
 ---
 
@@ -41,7 +41,7 @@ First up is Stooge #1: apparent lunatic
 She's&hellip; special <sup id="fn1a">[[1]](#fn1)</sup>:  
 
 - She buys into the far-right conspiracy theory [QAnon](https://en.wikipedia.org/wiki/QAnon), 
-  i.e., that Democrats are Satanists and cannibals running a child sex slavery ring.  
+  i.e., that Democrats are satanist cannibals running a child sex slavery ring.  
 - She thinks Muslims should not be allowed in political office.  
 - She's convinced the mass shootings of recent years were staged.   
 - She talks about "Zionist supremacists" engineering Muslim migrations to drive whites to
@@ -145,7 +145,7 @@ plot to confiscate your guns and your Bibles <sup id="fn3a">[[3]](#fn3)</sup>:
 Yeah.  Anything _but_ saving people's lives with vaccinations!  
 
 (So far no guns 'n' Bible grabbin' shoulder patch from DissentPatches.  But it's early
-  days yet, on this one.  Give it a few days.)  
+  days yet, on this one.  Give it a few more days.)  
 
 For the third (and last, for now) time: Really, Republicans: why do you vote for people
 like that?  Why even be in the same party as others who vote like that?  
