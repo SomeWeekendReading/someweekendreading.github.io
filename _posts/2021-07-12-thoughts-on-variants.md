@@ -143,8 +143,8 @@ puts not only themselves and their loved ones at risk, but also becomes an incub
 deadlier and deadlier varints.  Get vaccinated and be on the side of humanity; don't be a
 collaborator with the virus!  
 
-The slower we go, the more chance of a vaccine escape mutation.  And then we start all
-over again, with deaths and misery and lockdowns and re-vaccinations.  
+The slower we go, the more chance of a vaccine escape mutation.  And then we start 
+_all over again_, with deaths and misery and lockdowns and re-vaccinations.  
 
 Please don't make us all go there, ok?  
 
