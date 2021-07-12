@@ -50,7 +50,9 @@ She's&hellip; special <sup id="fn1a">[[1]](#fn1)</sup>:
 
 One of her more recently uncovered sins against rationality is: the California wildfires
 were, in her peculiar opinion, deliberatey started by PG&amp;E in conjuction with the
-Rothschild family using _secret Jewish space lasers_ to clear a path for high-speed rail.  Amusingly,
+Rothschild family using _secret Jewish space lasers_ to clear a path for high-speed rail.
+
+Amusingly,
 [DissentPins will sell you a shoulder patch for the Secret Jewish Space Laser Corps](https://dissentpins.com/products/secret-jewish-space-laser-corps-goyim-squad-patch), 
 because since it's no longer secret you might as well flaunt it.  I thought it was a nice
 touch that they have a Goyim Squad so guys like me (_goys_ like me?) can help out on on Shabbat.  
