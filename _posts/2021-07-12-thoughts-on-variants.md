@@ -51,21 +51,22 @@ Brown University School of Public Health.
 Now here at Chez Weekend, we're safely ensconced in highly vaccinated New England.  But
 what about South Dakota?  What did they do?  
 
-<blockquote class="twitter-tweet">
+<blockquote class="twitter-tweet" data-conversation="none">
   <p lang="en" dir="ltr">
-    Vermont and South Dakota are actually very similar<br><br>Both have slightly older, white, rural populations<br><br>
+    Vermont and South Dakota are actually very similar<br><br>
+    Both have slightly older, white, rural populations<br><br>
     Have comparable median incomes<br><br>
     Both have Republican governors<br><br>
     And these days, they look super similar on infections<br><br>
     Here they are over past 2 months<br><br>2/5 <a href="https://t.co/cMGunE4I3a">pic.twitter.com/cMGunE4I3a</a>
   </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1413181043700555784?ref_src=twsrc%5Etfw">July 8, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ok, so South Dakota looks pretty similar to Vermont and Massachusetts.  What's different?
 How they _got_ there:  
 
-<blockquote class="twitter-tweet">
+<blockquote class="twitter-tweet" data-conversation="none">
   <p lang="en" dir="ltr">
     But here&#39;s where they diverge<br><br>
     Vermont has vaccinated (1+ shot) nearly 75% of its population <br><br>
