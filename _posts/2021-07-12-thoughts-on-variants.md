@@ -62,7 +62,7 @@ what about South Dakota?  What did they do?
     Here they are over past 2 months<br><br>2/5 <a href="https://t.co/cMGunE4I3a">pic.twitter.com/cMGunE4I3a</a>
   </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1413181043700555784?ref_src=twsrc%5Etfw">July 8, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 Ok, so South Dakota looks pretty similar to Vermont and Massachusetts.  What's different?
 How they _got_ there:  
@@ -78,7 +78,7 @@ How they _got_ there:
     Here&#39;s how pandemic has played out in both states <a href="https://t.co/wYQpEeJ0kk">pic.twitter.com/wYQpEeJ0kk</a>
   </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1413181047366426627?ref_src=twsrc%5Etfw">July 8, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 South Dakota just gave up, and let people get sick and die.  The survivors are more
 immune.  And you can see it in the death rates of South Dakota vs Vermont, showing the
@@ -105,7 +105,7 @@ for us in a nice little table:
     will update as more data becomes available <a href="https://t.co/A56ekP1Rsi">pic.twitter.com/A56ekP1Rsi</a>
   </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1413968623815647235?ref_src=twsrc%5Etfw">July 10, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 Basically all of them seem to work using _in vitro_ studies in the lab.  For the J&amp;J and
 Indian vaccines we don't yet have clinical data on Delta.  But for Pfizer/BioNTech,
