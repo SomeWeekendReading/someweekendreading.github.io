@@ -33,7 +33,8 @@ Disease Control and Prevention as saying in a White House briefing that:
 ## 2 paths that both lead to herd immunity&hellip; but are _very_ different  
 
 Just so you can see how unequal it all is, look at the map.  Ashish Jha is the head of the
-Brown University School of Public Health.
+Brown University School of Public Health.  Note well his comparison of the different paths
+to "success" taken by the very few states that are in good shape:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -88,7 +89,7 @@ we have political parasites preying on the ill-informed to persuade them to avoi
 vaccines, people will die.  It's almost difficult to understand why that's not a crime.  
 
 
-## The current vaccines work against the current variants&hellip; so far  
+## Current vaccines work against current variants&hellip; so far  
 
 So far, the 5 major vaccines that are widely available work pretty well against the known
 variants, including the scary Delta variant (B.1.617.2).  [Eric Topol, the head of Scrips
@@ -139,10 +140,11 @@ thin "luck"!
 
 Look, you know what's right: just get vaccinated.  Every person who delays vaccination
 puts not only themselves and their loved ones at risk, but also becomes an incubator for
-deadlier and deadlier varints.  The slower we go, the more chance of a vaccine escape
-mutation.  
+deadlier and deadlier varints.  Get vaccinated and be on the side of humanity; don't be a
+collaborator with the virus!  
 
-And then we start all over again, with lockdowns and re-vaccinations.  
+The slower we go, the more chance of a vaccine escape mutation.  And then we start all
+over again, with deaths and misery and lockdowns and re-vaccinations.  
 
 Please don't make us all go there, ok?  
 
@@ -157,8 +159,6 @@ Please don't make us all go there, ok?
 
 <a id="fn1">1</a>: J McEvoy, ["99.5% Of People Killed By Covid In Last 6 Months Were Unvaccinated, Data Suggests"](https://www.forbes.com/sites/jemimamcevoy/2021/07/01/995-of-people-killed-by-covid-in-last-6-months-were-unvaccinated-data-suggests/?sh=13e7d7ed493d), _Forbes_, 20201-Jul-01.[↩](#fn1a)  
 
-<a id="fn2">2</a>: CK Johnson &amp; M Stobbe, ["Nearly all COVID deaths in US are now among unvaccinated"](https://apnews.com/article/coronavirus-pandemic-health-941fcf43d9731c76c16e7354f5d5e187),
-_AP News_, 2021-Jun-29. [↩](#fn2a)  
+<a id="fn2">2</a>: CK Johnson &amp; M Stobbe, ["Nearly all COVID deaths in US are now among unvaccinated"](https://apnews.com/article/coronavirus-pandemic-health-941fcf43d9731c76c16e7354f5d5e187), _AP News_, 2021-Jun-29. [↩](#fn2a)  
 
-<a id="fn3">3</a>: M McCallum, _et al.,_ ["SARS-CoV-2 immune evasion by the B.1.427/B.1.429 variant of concern"](https://science.sciencemag.org/content/early/2021/06/30/science.abi7994),
-_Science_, 2021-Jul-01.  DOI: 10.1126/science.abi7994.[↩](#fn3a)  
+<a id="fn3">3</a>: M McCallum, _et al.,_ ["SARS-CoV-2 immune evasion by the B.1.427/B.1.429 variant of concern"](https://science.sciencemag.org/content/early/2021/06/30/science.abi7994), _Science_, 2021-Jul-01.  DOI: 10.1126/science.abi7994.[↩](#fn3a)  
