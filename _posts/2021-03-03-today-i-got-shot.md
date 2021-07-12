@@ -62,8 +62,13 @@ now that I think about it, the same could be said of the miserable booking web s
 A couple subway rides, then into a large building.  They checked my appointment email, the
 clearance from a short health screen, gave me a fresh face mask, and the waved me into
 line.  The socially distanced waiting line took about 10 minutes, and then suddenly I was
-sitting next to a quite pleasant nurse.  (I'm having fun imagining her as a fan of
-Wagnerian opera, given the number of rings in evidence.  Only a few are visible in the picture.)  
+sitting next to a quite pleasant nurse.  (Given the number of rings in evidence, only a
+few of which are visible in the picture, I'm having fun imagining her as a fan of
+Wagnerian opera.  Though whether on the side
+of [Alberich](https://en.wikipedia.org/wiki/Alberich) or
+[Wotan](https://en.wikipedia.org/wiki/Odin),
+is unclear.  Perhaps she was on the side of the
+[Rhine maidens](https://en.wikipedia.org/wiki/Rhinemaidens)?)  
 
 
 <img src="{{ site.baseurl }}/images/2021-03-03-today-i-got-shot-pain.jpg" width="400" height="122" alt="Mitchell &amp; Casella: vaccine injection site pain and immune response" title="Mitchell &amp; Casella: vaccine injection site pain and immune response" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>

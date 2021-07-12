@@ -127,8 +127,8 @@ to escape vaccines <sup id="fn3a">[[3]](#fn3)</sup>.
 Figure 2 in that paper does indeed show lower neutralization of the Epsilon variant by
 antibodies from Pfizer or Moderna vaccines as well as from blood serum from convalescent
 patients.  It doesn't look super-dramatic to me, and there's no clinical evidence _yet_
-that this is a problem.  But clearly the virus is rattling the doorknobs, looking for a
-way in.  
+that this is enough to be a problem.  But clearly the virus is rattling the doorknobs,
+looking for a way in.  
 
 Maybe we should consider ourselves fortunate that maybe the Delta variant might be more
 virulent and outcompete the Epsilon variant, suppressing the vaccine evasion mutations?

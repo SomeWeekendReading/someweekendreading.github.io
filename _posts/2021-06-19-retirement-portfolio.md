@@ -125,7 +125,7 @@ True, BNDW contains corporate bonds and not just Treasuries.  True, this portfol
 have small/value tilts.  But&hellip; it's just about as simple as possible!  The only way
 to get simpler is with a single-fund investment in one of Vanguard's funds of index funds,
 like [VSMGX](https://investor.vanguard.com/mutual-funds/profile/VSMGX) (Life Strategy
-Moderate Growth).  
+Moderate Growth; not perfect about tax placement, but still pretty good!).  
 
 
 ## A Slightly More Complex Portfolio  
@@ -133,7 +133,7 @@ Moderate Growth).
 We're willing to tolerate a _bit_ more complexity, though as I age the 1- or 2-fund
 versions above will no doubt get more attractive.  
 
-<img src="{{ site.baseurl }}/assets/2021-06-19-retirement-portfolio-graph.png" width="500" height="800" alt="Asset allocation tree for the Weekend Retirment Portfolio" title="Asset allocation tree for the Weekend Retirment Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/assets/2021-06-19-retirement-portfolio-graph.png" width="500" height="800" alt="Asset allocation tree for the Weekend Retirement Portfolio" title="Asset allocation tree for the Weekend Retirement Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Here's a tree, showing how the asset allocation breaks down from left to right; the low
 risk investments are at the top, and the higher risk investments are at the bottom.  The tree
 was drawn with an [R](https://www.r-project.org) script <sup id="fn3a">[[3]](#fn3)</sup>,
@@ -173,14 +173,14 @@ as labelled on the arcs in the tree:
   - Foreign small value gets $(1-b)(1-r)(1-t)f$.  
 - Avoid any transactions in the taxable assets, moving things in the IRAs instead.
 
-<img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-table.jpg" width="400" height="227" alt="Asset allocation table for the Weekend Retirment Portfolio" title="Asset allocation table for the Weekend Retirment Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-<img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-allocation-pie.jpg" width="400" height="150" alt="Asset allocation pie chart for the Weekend Retirment Portfolio" title="Asset allocation pie chart for the Weekend Retirment Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-table.jpg" width="400" height="227" alt="Asset allocation table for the Weekend Retirement Portfolio" title="Asset allocation table for the Weekend Retirement Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-allocation-pie.jpg" width="400" height="150" alt="Asset allocation pie chart for the Weekend Retirement Portfolio" title="Asset allocation pie chart for the Weekend Retirement Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 
 Here's what it looks like in tabular form and in pie chart form.  The colors code the same
 rising risk level with rising spectrum as in the tree.  You can also see the tax placement
 here, i.e. whether it's taxable, tax-deferred (Trad IRA), or tax-free (Roth IRA).  
 
-<img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-tax-status.jpg" width="400" height="157" alt="Tax status for the Weekend Retirment Portfolio" title="Tax status for the Weekend Retirment Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-tax-status.jpg" width="400" height="157" alt="Tax status for the Weekend Retirement Portfolio" title="Tax status for the Weekend Retirement Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Finally, here's what we did for tax placement.  We tried to have in taxable only stock
 funds that generate very little distributions (tax-managed, and foreign for the foreign
 tax credit).  The Trad IRA is all bonds.  The Roth IRA is everything else, i.e., stuff we
