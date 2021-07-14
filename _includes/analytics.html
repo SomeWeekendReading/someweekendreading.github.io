@@ -17,7 +17,7 @@
 
 <!-- https://javascript.plainenglish.io/how-to-count-page-views-with-the-count-api-afc9369c1f8f -->
 <!-- https://countapi.xyz/ -->
-<script async src="https://api.countapi.xyz/hit/www.someweekendreading.blog/{{page.url | escape_once }}?callback=visitCount"></script>
+<script async src="https://api.countapi.xyz/hit/www.someweekendreading.blog/:PATHNAME:?callback=visitCount"></script>
 <script>
 function visitCount(response) { document.getElementById('visits').innerText = response.value; }
 </script>
