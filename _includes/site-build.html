@@ -1,9 +1,19 @@
           <div style="float: left; font-size: 75%; vertical-align: top;">
 
-  <!-- Page view counter:  
-       https://javascript.plainenglish.io/how-to-count-page-views-with-the-count-api-afc9369c1f8f
-       https://countapi.xyz/
-  -->
-            <em>Visits: </em><span id="visits"></span><br>
-            <em>Site last built:</em> <span class="date">{{ site.time | date: "%a %Y-%b-%d %H:%M %Z" }}</span>
+	    <table>
+	      <tbody>
+                <tr>
+<!-- Page view counter:  
+     https://javascript.plainenglish.io/how-to-count-page-views-with-the-count-api-afc9369c1f8f
+     https://countapi.xyz/
+-->
+		  <td><em>Visits since {{ visitstart }}: </em></td>
+		  <td><span id="visits"></span></td>
+		</tr>
+                <tr>
+		  <td><em>Site last built:</em></td>
+		  <td><span class="date">{{ site.time | date: "%a %Y-%b-%d %H:%M %Z" }}</span></td>
+		</tr>
+	      </tbody>
+	    </table>
 	  </div>

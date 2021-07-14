@@ -17,6 +17,8 @@ icon:   images/root-fractal-1000-icon.png
 ### Flags below are optional
 ###
 
+visitstart: 2021-Jul-14
+
 ## Includes an icon in the footer for each username entered (or something nonblank)
 footer-links:
   dribbble:
@@ -44,7 +46,7 @@ google_analytics:
 url: https://www.someweekendreading.blog
 
 feed:
-  posts_limit: 1000
+  posts_limit: 10000
 
 ## If hosting site at a Project repository on GitHub pages
 ##   (https://yourusername.github.io/repository-name)
