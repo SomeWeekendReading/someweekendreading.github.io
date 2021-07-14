@@ -471,13 +471,13 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "A war is not won if the defeated enemy has not been turned into a friend." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Reflections on the Human Condition_](https://www.google.com/books/edition/Reflections_on_the_Human_Condition/C2dnAAAAIAAJ?hl=en), 1973.  
 
-"I hang onto my prejudices, they are the testicles of my mind." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), [_Before the Sabbath_], p. 79, 1979.  
+"I hang onto my prejudices, they are the testicles of my mind." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer), _Before the Sabbath_, p. 79, 1979.  
 
 "If you want a happy ending, that depends, of course, on where you stop your story." &mdash; [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles)  
 
 "你永远无法叫醒一个装睡的人，除非那个装睡的人自己决定醒来." (You can never wake up a person who is pretending to be asleep, unless that person decides to wake up.) &mdash; 周濂 (Zhou Lian), Chinese philosopher, in an article called "你永远无法叫醒一个装睡的人" (You can never wake up a person who is pretending to be asleep).  Courtesy of my former colleague, Hui Cao.  
 
-"I have only done a little bit of social science research, but it was enough to make me hate people." &mdash; Scott Alexander Siskind, ["Lizardman's Constant is 4%"](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/), [_Slate Star Codex_](https://slatestarcodex.com/), now at [_Astral Codex Ten_](https://astralcodexten.substack.com/)  
+"I have only done a little bit of social science research, but it was enough to make me hate people." &mdash; Scott Alexander Siskind, ["Lizardman's Constant is 4%"](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/), [_Slate Star Codex_](https://slatestarcodex.com/), now at [_Astral Codex Ten_](https://astralcodexten.substack.com/).  
 
 
 ## Those of Rational &amp; Scientific Bent
@@ -502,13 +502,13 @@ delights in it, and he delights in it because it is beautiful."
 "Physics is very muddled again at the moment; it is much too hard for me anyway, and I wish
 I were a movie comedian or something like that and had never heard anything about physics!"
 &mdash; [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli),
-1925 in the process of being one of the founders of quantum mechanics  
+1925 in the process of being one of the founders of quantum mechanics.  
 
 "One should no more rack one's brain about the problem of whether something one cannot know anything about exists all the same, than about the ancient question of how many angels are able to sit on the point of a needle." &mdash; [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli), on the quantum measurement problem but, as usual, applicable elsewhere.  
 
 "I do not like it, and I am sorry I ever had anything to do with it." 
 &mdash; [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), 
-on quantum mechanics (talk about _misplaced_ regrets!)  
+on quantum mechanics (talk about _misplaced_ regrets!).  
 
 "A method is more important than a discovery, since the right method will lead to new and
 even more important discoveries." &mdash; [Lev Landau](https://en.wikipedia.org/wiki/Lev_Landau)  
