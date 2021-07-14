@@ -17,6 +17,7 @@ icon:   images/root-fractal-1000-icon.png
 ### Flags below are optional
 ###
 
+## Date we started counting visits (or reset the counters, in the future)
 visitstart: 2021-Jul-14
 
 ## Includes an icon in the footer for each username entered (or something nonblank)

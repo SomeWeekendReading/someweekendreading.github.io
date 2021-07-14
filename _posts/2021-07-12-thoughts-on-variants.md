@@ -92,7 +92,7 @@ vaccines, people will die.  It's almost difficult to understand why that's not a
 ## Current vaccines work against current variants&hellip; so far  
 
 So far, the 5 major vaccines that are widely available work pretty well against the known
-variants, including the scary Delta variant (B.1.617.2).  [Eric Topol, the head of Scrips
+variants, including the scary Delta variant (B.1.617.2).  [Eric Topol, the head of Scripps
 Research Translational Institute](https://drerictopol.com/meet-eric-topol/), summarized it
 for us in a nice little table:  
 
