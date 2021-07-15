@@ -22,6 +22,9 @@
 <script>
   function visitCount(response) {
     // document.getElementById('visits').innerText = response.value;
-    document.getElementById('visits').innerText = {{ page.url | url_encode }};
+    // {{ page.url | escape }}
+    // {{ page.url | escape | replace: "/", "." }}
+    // {{ page.url | url_encode }}
+    document.getElementById('visits').innerText = {{ page.url | escape | replace: "//", "." }};
   }
 </script>
