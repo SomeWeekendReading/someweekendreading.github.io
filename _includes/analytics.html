@@ -28,6 +28,6 @@
     // {{ page.url | url_encode }}
     // {{ page.url | escape | Replace: '/', '.' }}
     // {{ page.url | md5 }}
-    document.getElementById('visits').innerText = "{{ page.url | md5 }}";
+    document.getElementById('visits').innerText = "{{ page.url | base64_encode }}";
   }
 </script>
