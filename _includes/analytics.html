@@ -18,18 +18,7 @@
 <!-- https://javascript.plainenglish.io/how-to-count-page-views-with-the-count-api-afc9369c1f8f -->
 <!-- https://countapi.xyz/ -->
 <!-- *** Seems to be using a single, global counter?  What does :PATHNAME: expand to? -->
-<script async src="https://api.countapi.xyz/hit/www.someweekendreading.blog/:PATHNAME:?callback=visitCount"></script>
+<script async src="https://api.countapi.xyz/hit/www.someweekendreading.blog/{{ page.url | url_encode }}?callback=visitCount"></script>
 <script>
-  function visitCount(response) {
-    // document.getElementById('visits').innerText = response.value;
-    // *** {{ page.url | url_encode }}
-    // *** {{ page.url | escape | replace: "/", "." }}
-    // {{ page.url | escape }}
-    // {{ page.url | escape | replace: "\/", "." }}
-    // {{ page.url | escape | Replace: '/', '.' }}
-    // {{ page.url | md5 }}
-     // {{ page.url | base64_encode }}
-     // {{ page.url | escape | Replace: '\/', '.' }}
-    document.getElementById('visits').innerText = "{{ page.url | url_encode }}";
-  }
+  function visitCount(response) { document.getElementById('visits').innerText = response.value; }
 </script>
