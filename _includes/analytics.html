@@ -26,6 +26,8 @@
     // {{ page.url | escape | replace: "/", "." }}
     // {{ page.url | escape | replace: "\/", "." }}
     // {{ page.url | url_encode }}
-      document.getElementById('visits').innerText = {{ page.url | escape | Replace: '/', '.' }};
+    // {{ page.url | escape | Replace: '/', '.' }}
+    // {{ page.url | md5 }}
+    document.getElementById('visits').innerText = {{ page.url | md5 }};
   }
 </script>
