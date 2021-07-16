@@ -34,19 +34,17 @@ Note that the Native American vaccination rate is higher than the average rate i
 states, _including_ the states with high Native American populations.  Basically, they're
 just ahead of the pack, and that's a good thing for them.  
 
-There were, of course, problems.  
-
-For example, the CDC guidelines for vaccine distribution went more or less by age or
-complicating medical condition.  The Native Americans preferred to prioritize their
-culture keepers, i.e., those fluent in their languages, knowledgeable about their
-traditions, prominent officiators in their ceremonies, etc.  Those are _predominantly_,
-but not exclusively, elders.  So they wanted to distribute vaccines in a slightly
-different order according to their cultural needs.  This was entirely sensible.  
-
-Another issue was Native Americans living in cities, away from their home tribes.  They
-could go home and get vaccinated early, but run the risk of carrying COVID-19 to their
-families.  So that had to be worked out, with careful quarantine.  Again, eminently
-sensible.  
+There were, of course, problems:  
+- For example, the CDC guidelines for vaccine distribution went more or less by age or
+  complicating medical condition.  The Native Americans preferred to prioritize their
+  culture keepers, i.e., those fluent in their languages, knowledgeable about their
+  traditions, prominent officiators in their ceremonies, etc.  Those are _predominantly_,
+  but not exclusively, elders.  So they wanted to distribute vaccines in a slightly
+  different order according to their cultural needs.  This was entirely sensible.  
+- Another issue was Native Americans living in cities, away from their home tribes.  They
+  could go home and get vaccinated early, but run the risk of carrying COVID-19 to their
+  families.  So that had to be worked out, with careful quarantine.  Again, eminently
+  sensible.  
 
 
 ## A Sense of Generosity and Plenty   
