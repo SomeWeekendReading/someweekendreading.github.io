@@ -22,7 +22,7 @@ The CDC has begun reporting vaccination rates broken down by ethnic group.  As o
 the breakdown of vaccination rates by ethnic group in the US is, according to the CDC:  
 
 |  __Ethnic Group__ | __% Single Dose__ | __% Fully Vaccinated__ |
-|:-----------------:|:------------------|:-----------------------|
+|:-----------------:|:-----------------:|:----------------------:|
 |  Native American  |  45.5%            |  39.1%                 |
 |  Asians           |  36.6%            |  35.0%                 |
 |  Whites           |  33.7%            |  32.2%                 |
