@@ -5,7 +5,7 @@ tags: MathInTheNews Politics Statistics TheDivineMadness
 comments: true
 ---
 
-As you may have heard, the US is about to face an election more conentious than any since
+As you may have heard, the US is about to face an election more contentious than any since
 the Civil War.  With vote counting likely drawn out due to right-wing mischief at, for
 example, the Post Office, what are we to make of partial returns as far as predicting the
 outcome?  And will there be [zombies](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)?  
