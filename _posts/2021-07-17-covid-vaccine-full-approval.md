@@ -16,7 +16,7 @@ partisanship, one of whose symptoms seems to be to act willfully against one's o
 Even prominent Republicans are finally, reluctantly coming to this conclusion.  For
 example, David Frum.  Now normally, I have no patience whatsoever with his sort of
 intellectual anti-intellectual pose.  But Republicans, generally, adore him.  So it's
-important that even he now is saying vaccine resistance seems to be deliberate,
+important that even he is now saying vaccine resistance seems to be deliberate,
 self-inflicted sabotage:  
 
 <blockquote class="twitter-tweet">
@@ -25,7 +25,7 @@ self-inflicted sabotage:
     What it is becoming now, at least in the United States, is a *preventable* pandemic of the *willfully* unvaccinated. <a href="https://t.co/sSzS3MurkD">https://t.co/sSzS3MurkD</a>
   </p>&mdash; David Frum (@davidfrum) <a href="https://twitter.com/davidfrum/status/1416057187282079744?ref_src=twsrc%5Etfw">July 16, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 _Preventable.  Willful._  Remember that, and do better.  
 
@@ -37,12 +37,12 @@ Others are just plain crazy.  They myth of the tracking/birth control chip just 
     Did somebody put LSD in the U.S. water supply? <a href="https://t.co/KhMa53KJnz">https://t.co/KhMa53KJnz</a>
   </p>&mdash; Laurie Garrett (@Laurie_Garrett) <a href="https://twitter.com/Laurie_Garrett/status/1416111930272583680?ref_src=twsrc%5Etfw">July 16, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 Really?  A tracking chip for _birth control?_ I know Republicans seem to hate birth
-control and avoid learning anything about it, but we already know how to do birth control.
-And this isn't how it works.  Also, as we've 
-[previously written on this crummy little blog]({{ site.baseurl }}/variants-vs-vaccines), 
+control and seemingly avoid learning anything about it, but we already know how to do birth control.
+And _this isn't how it works._  Also, as we've 
+[previously written on this crummy little blog]({{ site.baseurl }}/variants-vs-vaccines#what-about-vaccine-resistance), 
 [actual tracking chips](https://www.someweekendreading.blog/variants-vs-vaccines/) don't
 work that way either:  
 
