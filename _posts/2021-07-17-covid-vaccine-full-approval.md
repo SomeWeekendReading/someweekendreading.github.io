@@ -5,7 +5,8 @@ tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) a couple days ago why the
-Pfizer, Moderna, and J&amp;J vaccines don't have full FDA approval.  
+Pfizer, Moderna, and J&amp;J vaccines don't have full FDA approval.  Umm&hellip; hmm.
+Good question.  
 
 
 ## Vaccine Hesitancy: Willful Resistance, Deliberate Ignorance  
@@ -43,7 +44,7 @@ Really?  A tracking chip for _birth control?_ I know Republicans seem to hate bi
 control and seemingly avoid learning anything about it, but we already know how to do birth control.
 And _this isn't how it works._  Also, as we've 
 [previously written on this crummy little blog]({{ site.baseurl }}/variants-vs-vaccines#what-about-vaccine-resistance), 
-[actual tracking chips](https://www.someweekendreading.blog/variants-vs-vaccines/) don't
+[actual tracking chips for pets](https://www.someweekendreading.blog/variants-vs-vaccines/) don't
 work that way either:  
 
 <blockquote class="twitter-tweet">
@@ -64,7 +65,7 @@ experiment on them.  Deep sigh.
 
 First, the "E" in "EUA" stands for "EMERGENCY Use Authorization", not experimental.  The
 experimental part has been done: that was the research work in early 2020, followed by the
-clinical trials in late 2020, and then the FDA Emergency Use Authorization in early 2021.
+clinical trials in late 2020, and then the FDA Emergency Use Authorization in December 2021.
 That part's done, with full and eager consent of the participants.  COVID-19 is an
 _emergency_, and the fast approval of vaccines is a response to that.  
 
@@ -87,7 +88,7 @@ The meeting for full approval will happen at least by 2022-Jan, though the artic
 that it is likely to happen sooner than that, according to Janet Woodcock, the acting FDA
 Commissioner.  They do note specifically that full approval might help ease vaccine
 hesitancy; what I don't quite get is why they're being _so slow_ about it.  After all,
-[about 85 million Americans have now been fuly vaccinated](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+[about 85 million Americans have now been fuly vaccinated with Pfizer](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 as of this writing, so what exactly do we need in the way of more data?!  
 
 The Pfizer/BioNTech and Moderna applications for full approval have been at the FDA for
