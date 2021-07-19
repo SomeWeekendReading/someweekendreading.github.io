@@ -60,7 +60,7 @@ better!_
 
 Figure 3 is also interesting: it shows the antibody levels as a function of age, for the
 "natural" groups and the vaccinated group.  
-- Especially for the young, the vaccinatedimmunity is dramatically better.  
+- Especially for the young, getting vaccinated immunity is dramatically better.  
 - But since for the old, COVID-19 is a life-threatening event and vaccination is not, it's
   important to note that we oldsters can still get immunity _better than from "natural"
   recovery_ with just a shot and no life threatening illness.  It's more like 1.5x better
