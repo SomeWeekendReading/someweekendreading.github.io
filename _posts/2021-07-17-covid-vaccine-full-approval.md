@@ -98,7 +98,7 @@ months now:
   the scientific details in this application that might take until next January.  Surely,
   given the resources of the FDA, they could have checked out every little detail by June
   or July, i.e., _now_?  
-- Similarly, Moderna reports that they filed for full approval in early June.  It's now
+- Similarly, Moderna reports that they filed for full approval in early 2021-June.  It's now
   mid-July, so why are there not hearings being held after FDA internal scientific review
   on that too?  
   
