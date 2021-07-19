@@ -39,7 +39,7 @@ received the Pfizer/BioNTech mRNA vaccine.
 And it's not just a _little_ study: because nations like Israel have absolutely
 _universal_ health care systems with uniform databases, unlike the rather backward
 American system, they can do all sorts of good stuff.  Here, for example, the study
-authors compared blood samples from $N = 26\,170$ patients.  Of those:  
+authors compared blood samples from $N = 26{\small,}170$ patients.  Of those:  
 - 13.4% had gotten the Pfizer vaccine,  
 -  6.3% were recovering from symptomatic, PCR-verified COVID-19, and  
 - 80.5% were asymptomatic but found in routine checkups.  
