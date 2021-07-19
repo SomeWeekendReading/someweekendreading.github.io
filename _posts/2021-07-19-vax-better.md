@@ -17,12 +17,12 @@ People just get _hypnotized_ by the word "natural", as though it were synonymous
 [explored before on this crummy little blog that nobody reads]({{ site.baseurl }}/natural-vs-vaccine-immunity),
 natural immunity is generally inferior to vaccination:  
 - First you have to go through the harrowing experience of having COVID-19, avoid
-  long-term damage to organs including the brain, and not be long-term disabled.  You also
+  long-term damage to organs (including brain damage!), and not be long-term disabled.  You also
   might use up hospital beds, ICU beds, and ventilators in the meantime, meaning someone
   _else_ will die from the lack thereof.  
 - Then, you get immunity of approximately 83% efficacy, whereas an mRNA vaccine will get
-  you something around 95%.  (Both with the "clasic" SARS-CoV2 virus; a bit lower for the
-  new Delta variant).  
+  you something around 95% with way less trouble.  (Both figures are for the "classic" SARS-CoV2
+  virus; a bit lower for the new Delta variant).  
   
 So the vaccine gets you _better_ immunity, _faster_ immunity, and _safer_ immunity than
 the "natural" immunity.  You really have to be hypnotized to choose "natural" here.  
@@ -54,27 +54,29 @@ seen a violin plot: the antibody level is on the vertical axis, the horizontal b
 is the median, and the width gives you an idea of the probability distribution of the
 antibody level.  
 
-__The brute-force conclusion:__ Vaccinated patients have about _4 times the antibodies_
+__The brute-force conclusion:__ Vaccinated patients have about _4 times the antibody levels_
 compared to those poor souls trying to make do with "natural" immunity.  _Vaccination is
 better!_  
 
 Figure 3 is also interesting: it shows the antibody levels as a function of age, for the
-"natural" groups and the vaccinated group.  Especially for the young, the vaccinated
-immunity is dramatically better.  But since for the old, COVID-19 is a life-threatening
-event and vaccination is not, it's important to note that we oldsters can still get
-immunity _better than from "natural" recovery_ with just a shot and no life threatening
-illness.  It's more like 1.5x better instead of the 4x better that the youngs get, but
-still it comes wihtout risk to ones life.  
+"natural" groups and the vaccinated group.  
+- Especially for the young, the vaccinatedimmunity is dramatically better.  
+- But since for the old, COVID-19 is a life-threatening event and vaccination is not, it's
+  important to note that we oldsters can still get immunity _better than from "natural"
+  recovery_ with just a shot and no life threatening illness.  It's more like 1.5x better
+  instead of the 4x better that the youngs get, but still it comes wihtout risk to ones life.  
 
-__The other brute-force-conclusion:__ Vaccinated patients, across all age groups, are
+__The other brute-force conclusion:__ Vaccinated patients, across all age groups, are
 better off than the "natrual" immunity of convalescent patients.  
 
 
 ## The Weekend Conclusion  
 
-Look, just get vaccinated, ok?  You know it's the right thing to do.  Do it for yourself,
-for your family, for your neighbors, for your country, for humanity, and for not breeding
-more variants.  It really couldn't be more clear.  
+Look, just get vaccinated, ok?  
+
+You know it's the right thing to do.  Do it for yourself, for your family, for your
+neighbors, for your country, for humanity, and for not breeding more variants.  It really
+couldn't be more clear.  
 
 ---
 
