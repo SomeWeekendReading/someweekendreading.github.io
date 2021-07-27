@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Highest-Vaccination Ethnic Group inthe US
+title: The Highest-Vaccination Ethnic Group in the US
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 ---
