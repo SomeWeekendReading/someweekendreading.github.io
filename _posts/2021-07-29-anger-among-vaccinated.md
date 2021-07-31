@@ -107,8 +107,9 @@ vaccinations in late 2020, so this is basically looking back at a 6 month period
   
 The first result: out of $N = 1497$ fully vaccinated healthcare workers, they observed 39
 SARS-CoV2 breakthrough infections.  Crudely, that's a rate (or probability/unit time) of:  
+
 $$
-\frac{dp}{dt} = \frac{39}{1497} = 2.6% / 6 \mathrm{months}
+\frac{dp}{dt} = \frac{39}{1497} = 2.6\% / 6 \mathrm{months}
 $$
 
 Using our usual method of posterior Beta distributions to estimate a 95% confidence
