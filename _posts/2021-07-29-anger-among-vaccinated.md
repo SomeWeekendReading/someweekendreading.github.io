@@ -109,7 +109,7 @@ The first result: out of $N = 1497$ fully vaccinated healthcare workers, they ob
 SARS-CoV2 breakthrough infections.  Crudely, that's a rate (or probability/unit time) of:  
 
 $$
-\frac{dp_{\mathrm{COVID}}}{dt} = \frac{39}{1497} = 2.6\% / 6 \mathrm{months}
+\frac{dp_{\mathrm{COVID}}}{dt} = \frac{39}{1497} = 2.6\% / 6\mathrm{ months}
 $$
 
 Using our usual method of posterior Beta distributions to estimate a 95% confidence
@@ -129,7 +129,7 @@ into the supplementary material, page 5, to find this out!)  So their rate of lo
 is an eye-popping:  
 
 $$
-\frac{dp_{\mathrm{longCOVID}}}{dt} = \frac{7}{36} = 19.4\% / 6 \mathrm{months}
+\frac{dp_{\mathrm{longCOVID}}}{dt} = \frac{7}{36} = 19.4\% / 6\mathrm{ months}
 $$
 
 That's a scary large number!  But it's only 36 patients, so we really should estimate the
