@@ -124,7 +124,7 @@ That's pretty good, really: 2.6%/6 months (95% CL: 1.9% &ndash; 3.5%).
 
 What's got people squirming somewhat uncomfortably, though, is the rate of "long COVID".
 They defined this as &gt; 6 weeks of symptoms.  Here they lost 3 patients to follow-up,
-known in the biz and "censoring".  (Though they don't make this obvious: you have to dig
+known in the biz as "censoring".  (Though they don't make this obvious: you have to dig
 into the supplementary material, page 5, to find this out!)  So their rate of long COVID
 is an eye-popping:  
 
