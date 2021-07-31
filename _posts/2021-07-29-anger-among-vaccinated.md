@@ -152,7 +152,10 @@ and this can guide them about the number of patients to follow.
 
 ## The Weekend Conclusion  
 
-***  
+Yeah, we vaccinated folk are mad at the willfully unvaccinated folk.  (Those unvaccinated
+for valid medical reasons like immunosuppression or cancer treatment of course get a pass,
+and our sympathy.)  The unvaccinated are prolonging the pandemic, breeding variants, and
+just generally damaging the lives of everybody else&hellip; for no good reason.  
 
 ---
 
