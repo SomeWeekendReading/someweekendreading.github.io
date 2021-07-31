@@ -53,7 +53,7 @@ Paul Krugman, the 2008 Nobelist in economics with a part-time columnist gig at t
 Times_, put it succinctly <sup id="fn3a">[[3]](#fn3)</sup>:  COVID has become a red-state
 crisis, and they're trying to drag down the rest of us with them:  
 - 47% of Republicans say they'll refuse vaccination, versus 6% of Democrats  
-- As [we've shown here before]({{ site.baseurl }}/vaccinations-vs-votes) (a 
+- As [we've shown here before]({{ site.baseurl }}/vaccinations-vs-votes/) (a 
   [couple of times]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/)), Krugman
   confirms the strong negative correlation between Trump voting and vaccination.  
 - There is strong geographic concentration, as the map shows.  Krugman points out that New
