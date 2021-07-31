@@ -73,7 +73,7 @@ So, yeah&hellip; mad.
 <img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-covariants.jpg" width="400" height="250" alt="CoVariants.org: Dominance of the Delta strain of SARS-CoV-2" title="CoVariants.org: Dominance of the Delta strain of SARS-CoV-2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 In the meantime, the virus is honing its skills at infecting people.  Because _of course_
-it is.  The Delta variant is _extremely_ virulent, to the point where once it gets a
+it is.  The Delta variant is _extremely_ contagious, to the point where once it gets a
 foothold, it outcompetes all the other strains and becomes virtually the _only_ strain
 infecting a population.  
 
