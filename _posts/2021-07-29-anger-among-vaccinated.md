@@ -94,8 +94,26 @@ Your best alternative is to get vaccinated.
 ## Beginnings of Breakthrough Infections  
 
 <img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nejm.jpg" width="400" height="204" alt="NEJM: Israeli data on breakthrough infections in the vaccinated" title="NEJM: Israeli data on breakthrough infections in the vaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+From the _New England Journal of Medicine_ comes yet another Israeli study of breakthrough COVID-19
+infections in healtcare workers. <sup id="fn5a">[[5]](#fn5)</sup>  They began receiving
+vaccinations in late 2020, so this is basically looking back at a 6 month period.  
+- Now, healthcare workers are _not_ typical COVID risk compared to the rest of us civilians: they
+  are exposed, over and over, every day, to patients with severe COVID.  So any risk we see
+  here will be _higher_ than you or I might experience.  
+- On the other hand, over the period of the study, the Alpha variant (B.1.1.7) was
+  dominant (about 85% of the samples).  So that's _less_ risk than you or I might
+  experience.  
+  
+The first result: out of $N = 1497$ fully vaccinated healthcare workers, they observed 39
+SARS-CoV2 breakthrough infections.  Crudely, that's a rate (or probability/unit time) of:  
+$$
+\frac{dp}{dt} = \frac{39}{1497} = 2.6% / 6 \mathrm{months}
+$$
 
-*** <sup id="fn5a">[[5]](#fn5)</sup>
+So maybe around 5%/year, if you work the whole year caring for COVID-19 patients?  That's
+pretty good, really.  
+
+
 
 
 ## The Weekend Conclusion  
