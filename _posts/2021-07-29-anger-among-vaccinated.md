@@ -109,11 +109,12 @@ The first result: out of $N = 1497$ fully vaccinated healthcare workers, they ob
 SARS-CoV2 breakthrough infections.  Crudely, that's a rate (or probability/unit time) of:  
 
 $$
-\frac{dp}{dt} = \frac{39}{1497} = 2.6\% / 6 \mathrm{months}
+\frac{dp\mathrm{COVID}}{dt} = \frac{39}{1497} = 2.6\% / 6 \mathrm{months}
 $$
 
 Using our usual method of posterior Beta distributions to estimate a 95% confidence
 interval on this, we get:  
+
 ```R
 > qbeta(p = c(0.025, 0.975), shape1 = 39 + 1, shape2 = 1497 - 39 + 1)
 [1] 0.01914348 0.03541974
@@ -121,7 +122,32 @@ interval on this, we get:
 
 That's pretty good, really: 2.6%/6 months (95% CL: 1.9% &ndash; 3.5%).  
 
+What's got people squirming somewhat uncomfortably, though, is the rate of "long COVID".
+They defined this as &gt; 6 weeks of symptoms.  Here they lost 3 patients to follow-up,
+known in the biz and "censoring".  (Though they don't make this obvious: you have to dig
+into the supplementary material, page 5, to find this out!)  So their rate of long COVID
+is an eye-popping:  
 
+$$
+\frac{dp\mathrm{longCOVID}}{dt} = \frac{7}{36} = 19.4\% / 6 \mathrm{months}
+$$
+
+That's a scary large number!  But it's only 36 patients, so we really should estimate the
+95% confidence interval to see how seriously to take it:  
+
+```R
+> qbeta(p = c(0.025, 0.975), shape1 = 7 + 1, shape2 = 36 - 7 + 1)
+[1] 0.09826564 0.35155238
+```
+
+So that's a nice wide confidence interval, from 9.8% &ndash; 35.1% per 6 months.  In fact,
+it's wide enough to make this not terribly meaningful: they've shown long COVID in
+breakthrough cases _can_ happen, but we don't have much information on how often beyond a
+vague sense that it might be more than we'd like.  
+
+That's what exploratory studies are like, with very small samples.  But now somebody else
+can use this to design an adequately powered study of long COVID breakthrough infections,
+and this can guide them about the number of patients to follow.  
 
 
 ## The Weekend Conclusion  
