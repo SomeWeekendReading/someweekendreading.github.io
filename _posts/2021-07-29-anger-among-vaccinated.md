@@ -140,10 +140,10 @@ That's a scary large number!  But it's only 36 patients, so we really should est
 [1] 0.09826564 0.35155238
 ```
 
-So that's a nice wide confidence interval, from 9.8% &ndash; 35.1% per 6 months.  In fact,
-it's wide enough to make this not terribly meaningful: they've shown long COVID in
-breakthrough cases _can_ happen, but we don't have much information on how often beyond a
-vague sense that it might be more than we'd like.  
+So that's a nice wide 95% confidence interval, from 9.8% &ndash; 35.1% over 6 months of
+observations.  In fact, it's wide enough to make this not terribly meaningful: they've
+shown long COVID in breakthrough cases _can_ happen, but we don't have much information on
+how often beyond a vague sense that it might be more than we'd like.  
 
 That's what exploratory studies are like, with very small samples.  But now somebody else
 can use this to design an adequately powered study of long COVID breakthrough infections,
@@ -152,6 +152,7 @@ and this can guide them about the number of patients to follow.
 
 ## The Weekend Conclusion  
 
+<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Yeah, we vaccinated folk are mad at the willfully unvaccinated folk.  (Those unvaccinated
 for valid medical reasons like immunosuppression or cancer treatment of course get a pass,
 and our sympathy.)  The unvaccinated are prolonging the pandemic, breeding variants, and
