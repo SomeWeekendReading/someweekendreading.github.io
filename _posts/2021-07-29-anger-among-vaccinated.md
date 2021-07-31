@@ -111,8 +111,14 @@ $$
 \frac{dp}{dt} = \frac{39}{1497} = 2.6% / 6 \mathrm{months}
 $$
 
-So maybe around 5%/year, if you work the whole year caring for COVID-19 patients?  That's
-pretty good, really.  
+Using our usual method of posterior Beta distributions to estimate a 95% confidence
+interval on this, we get:  
+```R
+> qbeta(p = c(0.025, 0.975), shape1 = 39 + 1, shape2 = 1497 - 39 + 1)
+[1] 0.01914348 0.03541974
+```
+
+That's pretty good, really: 2.6%/6 months (95% CL: 1.9% &ndash; 3.5%).  
 
 
 
