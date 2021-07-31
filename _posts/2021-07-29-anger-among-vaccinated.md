@@ -12,8 +12,6 @@ US seemed to be always so angry at the unvaccinated.   Hmpf.
 ## So&hellip; _are_ the vaccinated angry?  
 
 <img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nyt1.jpg" width="400" height="139" alt="NYT: Vaccinated anger against the unvaccinated" title="NYT: Vaccinated anger against the unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-cdc.jpg" width="400" height="259" alt="CDC: COVID-19 level of community transmission by US counties" title="CDC: COVID-19 level of community transmission by US counties" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nyt2.jpg" width="400" height="219" alt="Krugman @ NYT: How COVID became a red-state crisis" title="Krugman @ NYT: How COVID became a red-state crisis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Damn right, we are!  
 
 Here we've been doing the right things: masking, social distancing, getting vaccinated,
@@ -41,6 +39,7 @@ endless anecdotes, as is the wont of most reporters):
 > case rates are upending plans for school and workplace reopenings, and threatening
 > another wave of infections that may overwhelm hospitals in many communities.  
 
+<img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-cdc.jpg" width="400" height="259" alt="CDC: COVID-19 level of community transmission by US counties" title="CDC: COVID-19 level of community transmission by US counties" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And it's not just a few people here, a few people there.  It's very specifically the
 American South and the Mountain West.  Take a look at the map on the right from the CDC
 COVID tracker project <sup id="fn2a">[[2]](#fn2)</sup>, showing degree of community spread
@@ -48,6 +47,7 @@ at the county level in the US.  Remember where the Confederacy was in the US Civ
 They never really went away, you know.  They're just the Repubican base now.  Very
 Republican, and very base.  
 
+<img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nyt2.jpg" width="400" height="219" alt="Krugman @ NYT: How COVID became a red-state crisis" title="Krugman @ NYT: How COVID became a red-state crisis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="244" src="https://www.youtube.com/embed/6ZpaWOLjWx0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Paul Krugman, the 2008 Nobelist in economics with a part-time columnist gig at the _New York
 Times_, put it succinctly <sup id="fn3a">[[3]](#fn3)</sup>:  COVID has become a red-state
