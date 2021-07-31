@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Anger Among the Vaccinated
-tags: COVID PharmaAndBiotech Politics Statistics
+tags: COVID PharmaAndBiotech Politics Statistics SomebodyAskedMe
 comments: true
 ---
 
-**DRAFT** [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why vaccinated people in the
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why vaccinated people in the
 US seemed to be always so angry at the unvaccinated.   Hmpf.  
 
 
