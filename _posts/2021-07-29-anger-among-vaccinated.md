@@ -11,7 +11,6 @@ US seemed to be always so angry at the unvaccinated.   Hmpf.
 
 ## So&hellip; _are_ the vaccinated angry?  
 
-<img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nyt1.jpg" width="400" height="139" alt="NYT: Vaccinated anger against the unvaccinated" title="NYT: Vaccinated anger against the unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Damn right, we are!  
 
 Here we've been doing the right things: masking, social distancing, getting vaccinated,
@@ -25,6 +24,7 @@ of the Beast or&hellip; it just makes me feel ill to go on.  They're the ones ho
 the economy; they're the ones _on the side of the virus_ helping it breed new variants;
 they're the ones poisoning each other's minds with nonsense.  
 
+<img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nyt1.jpg" width="400" height="139" alt="NYT: Vaccinated anger against the unvaccinated" title="NYT: Vaccinated anger against the unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 A recent _NYT_ article <sup id="fn1a">[[1]](#fn1)</sup> sums it up (before diving into
 endless anecdotes, as is the wont of most reporters):  
 
