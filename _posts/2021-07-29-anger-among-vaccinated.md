@@ -83,10 +83,11 @@ function of time, in the US.  The Delta variant is in green.  Note that, since i
 introduction in April 2021, it has _driven out all other COVID variants_.  
 
 So there's your evidence that the Delta variant is way _worse_ than the others in terms of
-infection rate: it's driven the others to near-extinction.  You don't want to mess with
-it.  If you're unvaccinated and haven't already had COVID-19, then you _will_ get the
-Delta variant of COVID-19.  You don't want that; there's evidence that mortality is also
-worse with Delta.  
+infection rate: it's driven the others to near-extinction.  
+
+You don't want to mess with it.  If you're unvaccinated and haven't already had COVID-19,
+then you _will_ get the Delta variant of COVID-19.  You don't want that; there's evidence
+that mortality is also worse with Delta.  
 
 Your best alternative is to get vaccinated.  
 
