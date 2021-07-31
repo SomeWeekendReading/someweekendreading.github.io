@@ -5,7 +5,7 @@ tags: COVID PharmaAndBiotech Politics Statistics
 comments: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why vaccinated people in the
+**DRAFT** [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why vaccinated people in the
 US seemed to be always so angry at the unvaccinated.   Hmpf.  
 
 
