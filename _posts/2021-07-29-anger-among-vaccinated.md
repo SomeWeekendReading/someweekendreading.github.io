@@ -86,7 +86,7 @@ crisis, and they're trying to drag down the rest of us with them:
   proof of vaccination, which is just 
   [feeding people into the red-hot jaws of Moloch.](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)  
 
-The places needing NPI (__N__on-__P__harmaceutical __I__nterventions like masking) on top of
+The places needing NPI (Non-Pharmaceutical Interventions like masking) on top of
 vaccination are almost surely the ones that will shout "Freedumb!" and refuse.  
 
 So, yeah&hellip; mad.  
