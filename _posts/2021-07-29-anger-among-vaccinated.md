@@ -39,10 +39,34 @@ endless anecdotes, as is the wont of most reporters):
 > case rates are upending plans for school and workplace reopenings, and threatening
 > another wave of infections that may overwhelm hospitals in many communities.  
 
+<img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-huffpo.jpg" width="400" height="159" alt="HuffPo: An ICU doctor, mad at the willfully unvaccinated" title="HuffPo: An ICU doctor, mad at the willfully unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+And if that's not enough for you, consider the thoughts of Thanh Neville, an ICU physician
+at UCLA, writing in _HuffPo_ <sup id="fn2a">[[2]](#fn2)</sup>:  
+
+> My experiences in the ICU these past weeks have left me surprised, disheartened, but
+> most of all, angry.  
+>
+> I am angry that the tragic scenes of prior surges are being played out yet again, but
+> now with ICUs primarily filled with patients who have chosen not to be vaccinated. I am
+> angry that it takes me over an hour to explain to an anti-vaxxer full of misinformation
+> that intubation isn’t what "kills patients" and that their wish for chest compressions
+> without intubation in the event of a respiratory arrest makes no sense. I am angry at
+> those who refuse to wear "muzzles" when grocery shopping for half an hour a week, as I
+> have been so-called "muzzled" for much of the past 18 months.  
+>
+> I cannot understand the simultaneous decision to not get vaccinated and the demand to
+> end the restrictions imposed by a pandemic. I cannot help but recoil as if I’ve been
+> slapped in the face when my ICU patient tells me they didn’t get vaccinated because they
+> "just didn't get around to it." Although such individuals do not consider themselves
+> anti-vaxxers, their inaction itself is a decision &ndash; a decision to not protect
+> themselves or their families, to fill a precious ICU bed, to let new variants flourish,
+> and to endanger the health care workers and immunosuppressed people around them. Their
+> inaction is a decision to let this pandemic continue to rage.  
+
 <img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-cdc.jpg" width="400" height="259" alt="CDC: COVID-19 level of community transmission by US counties" title="CDC: COVID-19 level of community transmission by US counties" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And it's not just a few people here, a few people there.  It's very specifically the
 American South and the Mountain West.  Take a look at the map on the right from the CDC
-COVID tracker project <sup id="fn2a">[[2]](#fn2)</sup>, showing degree of community spread
+COVID tracker project <sup id="fn3a">[[3]](#fn3)</sup>, showing degree of community spread
 at the county level in the US.  Remember where the Confederacy was in the US Civil War?
 They never really went away, you know.  They're just the Repubican base now.  Very
 Republican, and very base.  
@@ -50,7 +74,7 @@ Republican, and very base.
 <img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nyt2.jpg" width="400" height="219" alt="Krugman @ NYT: How COVID became a red-state crisis" title="Krugman @ NYT: How COVID became a red-state crisis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="244" src="https://www.youtube.com/embed/6ZpaWOLjWx0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Paul Krugman, the 2008 Nobelist in economics with a part-time columnist gig at the _New York
-Times_, put it succinctly <sup id="fn3a">[[3]](#fn3)</sup>:  COVID has become a red-state
+Times_, put it succinctly <sup id="fn4a">[[4]](#fn4)</sup>:  COVID has become a red-state
 crisis, and they're trying to drag down the rest of us with them:  
 - 47% of Republicans say they'll refuse vaccination, versus 6% of Democrats  
 - As [we've shown here before]({{ site.baseurl }}/vaccinations-vs-votes/) (a 
@@ -78,7 +102,7 @@ foothold, it outcompetes all the other strains and becomes virtually the _only_ 
 infecting a population.  
 
 Consider this graph at right, from [CoVariants.org](https://covariants.org).
-<sup id="fn4a">[[4]](#fn4)</sup>  It shows the prevalence of the different variants as a
+<sup id="fn5a">[[5]](#fn5)</sup>  It shows the prevalence of the different variants as a
 function of time, in the US.  The Delta variant is in green.  Note that, since its
 introduction in April 2021, it has _driven out all other COVID variants_.  
 
@@ -96,7 +120,7 @@ Your best alternative is to get vaccinated.
 
 <img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-nejm.jpg" width="400" height="204" alt="NEJM: Israeli data on breakthrough infections in the vaccinated" title="NEJM: Israeli data on breakthrough infections in the vaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 From the _New England Journal of Medicine_ comes yet another Israeli study of breakthrough COVID-19
-infections in healtcare workers. <sup id="fn5a">[[5]](#fn5)</sup>  They began receiving
+infections in healtcare workers. <sup id="fn6a">[[6]](#fn6)</sup>  They began receiving
 vaccinations in late 2020, so this is basically looking back at a 6 month period.  
 - Now, healthcare workers are _not_ typical COVID risk compared to the rest of us civilians: they
   are exposed, over and over, every day, to patients with severe COVID.  So any risk we see
@@ -169,10 +193,12 @@ just generally damaging the lives of everybody else&hellip; for no good reason.
 
 <a id="fn1">1</a>: RC Rabin, ["As Virus Cases Rise, Another Contagion Spreads Among the Vaccinated: Anger"](https://www.nytimes.com/2021/07/27/health/coronavirus-vaccination-hesitancy-delta.html), _New York Times_, 2021-Jul-27. [↩](#fn1a)  
 
-<a id="fn2">2</a>: Centers for Disease Control, ["COVID-19 Integrated County View"](https://covid.cdc.gov/covid-data-tracker/#county-view), _CDC COVID-19 Data Tracker_, retrieved 2021-Jul-29. [↩](#fn2a)  
+<a id="fn2">2</a>: T Neville, ["I’m An ICU Doctor And I Cannot Believe The Things Unvaccinated Patients Are Telling Me"](https://www.huffpost.com/entry/icu-doctor-health-care-workers-unvaccinated-patients_n_6102ad2ae4b000b997df1f17), _Huffington Post_, retrieved 2021-Aug-01.[↩](#fn2a)  
 
-<a id="fn3">3</a>: P Krugman, ["How Covid Became a Red-State Crisis"](https://www.nytimes.com/2021/07/29/opinion/covid-vaccinations-republicans.html), _New York Times_, 2021-Jul-29. [↩](#fn3a)  
+<a id="fn3">3</a>: Centers for Disease Control, ["COVID-19 Integrated County View"](https://covid.cdc.gov/covid-data-tracker/#county-view), _CDC COVID-19 Data Tracker_, retrieved 2021-Jul-29. [↩](#fn3a)  
 
-<a id="fn4">4</a>: EB Hodcroft, ["CoVariants: SARS-CoV-2 Mutations and Variants of Interest"](https://covariants.org/), _CoVariants.org_, retrieved 2021-Jul-29. [↩](#fn4a)  
+<a id="fn4">4</a>: P Krugman, ["How Covid Became a Red-State Crisis"](https://www.nytimes.com/2021/07/29/opinion/covid-vaccinations-republicans.html), _New York Times_, 2021-Jul-29. [↩](#fn4a)  
 
-<a id="fn5">5</a>: M Bergwerk, _et al.,_ ["Covid-19 Breakthrough Infections in Vaccinated Health Care Workers"](https://www.nejm.org/doi/full/10.1056/NEJMoa2109072), _New England Journal of Medicine_, 2021-Jul-28. [↩](#fn5a)  
+<a id="fn5">5</a>: EB Hodcroft, ["CoVariants: SARS-CoV-2 Mutations and Variants of Interest"](https://covariants.org/), _CoVariants.org_, retrieved 2021-Jul-29. [↩](#fn5a)  
+
+<a id="fn6">6</a>: M Bergwerk, _et al.,_ ["Covid-19 Breakthrough Infections in Vaccinated Health Care Workers"](https://www.nejm.org/doi/full/10.1056/NEJMoa2109072), _New England Journal of Medicine_, 2021-Jul-28. [↩](#fn6a)  
