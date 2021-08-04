@@ -86,7 +86,7 @@ crisis, and they're trying to drag down the rest of us with them:
   proof of vaccination, which is just 
   [feeding people into the red-hot jaws of Moloch.](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)  
 
-The places needing NPI (Non-Pharmaceutical Interventions like masking) on top of
+The places needing NPI (Non-Pharmaceutical Interventions, like masking) on top of
 vaccination are almost surely the ones that will shout "Freedumb!" and refuse.  
 
 So, yeah&hellip; mad.  
@@ -95,7 +95,6 @@ So, yeah&hellip; mad.
 ## Variants  
 
 <img src="{{ site.baseurl }}/images/2021-07-29-anger-among-vaccinated-covariants.jpg" width="400" height="250" alt="CoVariants.org: Dominance of the Delta strain of SARS-CoV-2" title="CoVariants.org: Dominance of the Delta strain of SARS-CoV-2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 In the meantime, the virus is honing its skills at infecting people.  Because _of course_
 it is.  The Delta variant is _extremely_ contagious, to the point where once it gets a
 foothold, it outcompetes all the other strains and becomes virtually the _only_ strain
