@@ -36,7 +36,7 @@ preprint, so it's undergoing peer review right now.  But take it with a small gr
 salt.)  
 - They had 44,165 subjects studied in a placebo-controlled, observer-blinded,
   multinational trial.  This isn't some tiny little study!  
-- Overall effiacy was 91% (95% CI: 89.0% - 93.2%).  That's a nice, narrow confidence
+- Overall efficacy was 91% (95% CI: 89.0% - 93.2%).  That's a nice, narrow confidence
   interval, so this looks statistically solid.  
 - Efficacy vs severe disease was 97% (95% CI: 80.3% - 99.9%).  
 
@@ -47,7 +47,7 @@ become _de rigueur_.
 __Conclusion:__  Don't panic.  At least not about this.  
 
 
-## CDC on Delta and 'the war has changed'  
+## The CDC on Delta&colon; 'the war has changed'  
 
 ### The _WaPo_, the internal CDC slide deck, and media reaction  
 
