@@ -12,7 +12,7 @@ panicky media coverage at all useful?
 
 ## Vaccine efficacy vs Delta in the real world  
 
-<img src="{{ site.baseurl }}/images/2021-08-04-vaccine-delta-cdc-stat.jpg" width="400" height="225" alt="STAT News: Pfizer/BioNTech vaccine efficacy at 6 months" title="STAT News: Pfizer/BioNTech vaccine efficacy at 6 months" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-04-vaccine-delta-cdc-stat.jpg" width="400" height="225" alt="STAT News: Pfizer/BioNTech vaccine efficacy at 6 months" title="STAT News: Pfizer/BioNTech vaccine efficacy at 6 months" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> 
 First, let's consider the news about "waning efficacy" of the mRNA vaccines.  _STAT News_,
 as usual, had a very even-handed account. <sup id="fn1a">[[1]](#fn1)</sup>  They noted
 that a Pfizer preprint showed after 6 months:  
