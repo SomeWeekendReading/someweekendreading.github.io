@@ -123,7 +123,7 @@ its origin in the conservative web, it is predictably nonsense.
 ## The Weekend Conclusion  
 
 - There's no particular evidence that the COVID-19 vaccine prevents Alzheimers.  Some
-  other vaccines (TDaP, polio, flu) have been shown to do that, but the only link to the
+  other vaccines (TDaP, polio, flu) have been shown to do that _somewhat_, but the only link to the
   COVID-19 vaccine is that they're all vaccines.  
 - While there is a conspiracy theory by some right-wing anti-vax crank that the COVID-19
   vaccine causes Alzheimer's, it is nonsense and you should ignore it.  
@@ -132,7 +132,7 @@ its origin in the conservative web, it is predictably nonsense.
   vaccines prevent Alzheimers _by preventing COVID-19 itself._  
   
 The point seems to be: don't worry about Alzheimers; get vaccinated; if there's a
-preventive effect that's fine but it's more important to prevent getting COVID-19.  
+preventive effect that's fine, but it's more important to prevent getting COVID-19.  
 
 ---
 
