@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 Vaccines and Infertility&colon; Analyzing the Myth
-tags: COVID MathInTheNews PharmaAndBiotech Politics SomebodyAskedMe Statistics
+tags: COVID MathInTheNews PharmaAndBiotech Politics SomebodyAskedMe
 comments: true
 ---
 
@@ -115,7 +115,7 @@ high points:
 - There's no known mechanism for protein shedding.  It has never been seen in any other
   vaccine, nor in protein-based drugs.  It's only present in a small area of your arm
   muscle, not the whole body.  It's only there 24-48 hours and has no way to get out of
-  your body and into someone else's.  There's no mechanism to cause sterility.  __Magical thinking_
+  your body and into someone else's.  There's no mechanism to cause sterility.  __Magical thinking__
   like this is another symptom of craziness.  
 - __Conspiracy thinking:__ Point to some dark forces that secretly want to harm you:
   sterililze because of Bill Gates, or Big Pharma doesn't want you to know 

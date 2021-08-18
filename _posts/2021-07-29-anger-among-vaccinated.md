@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anger Among the Vaccinated
-tags: COVID PharmaAndBiotech Politics Statistics SomebodyAskedMe
+tags: COVID PharmaAndBiotech Politics SomebodyAskedMe Statistics
 comments: true
 ---
 

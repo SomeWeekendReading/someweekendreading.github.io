@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 Vaccines and Alzheimers&colon; Analyzing the Myth
-tags: COVID MathInTheNews PharmaAndBiotech Politics SomebodyAskedMe Statistics
+tags: COVID MathInTheNews PharmaAndBiotech Politics SomebodyAskedMe
 comments: true
 ---
 
