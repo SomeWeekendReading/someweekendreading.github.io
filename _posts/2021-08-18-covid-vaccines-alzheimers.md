@@ -30,8 +30,8 @@ something diffferent.
 So it was with something of a sinking heart I learned from my source that he read it
 "somewhere in the _Wall Street Journal_".  Now, I'm a lefty, socialisty, intellectual type
 who thinks you should probably _never_ take medical advice from the _WSJ_.  And certainly
-not from the OpEd page, which is where our source is.  (Needless to say: don't take any
-advice from teh Editorial page, in fact don't even read it.  Too many cognitive hazards
+not from the OpEd page, which is where our source is.  (Needless to say: don't take _any_
+advice from the dreaded Editorial page, in fact don't even read it.  Too many cognitive hazards
 from the right-wing propaganda.)  
 
 Still, with a sigh, we found the article in question. <sup id="fn1a">[[1]](#fn1)</sup>
