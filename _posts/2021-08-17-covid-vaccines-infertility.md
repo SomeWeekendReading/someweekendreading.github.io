@@ -197,6 +197,8 @@ their deaths in a sea of smallpox.
 Yeah&hellip; don't be these guys.  I'd like to keep my fantasy that in the intervening
 century we may have learned something.  Please don't disabuse me of that.  
 
+Ok?  
+
 ---
 
 ## Notes &amp; References  
