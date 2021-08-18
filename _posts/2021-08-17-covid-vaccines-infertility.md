@@ -208,7 +208,7 @@ Ok?
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Z Damania, ["Is Vaccine "Shedding" A Threat To Unvaccinated Women? A Doctor Explains"](https://www.youtube.com/watch?v=xlwABLyOwPs), _ZDoggMD_ on Youtube, 2021-Apr-27. [↩](#fn1a)  
+<a id="fn1">1</a>: Z Damania, ["Is Vaccine 'Shedding' A Threat To Unvaccinated Women? A Doctor Explains"](https://www.youtube.com/watch?v=xlwABLyOwPs), _ZDoggMD_ on Youtube, 2021-Apr-27. [↩](#fn1a)  
 
 <a id="fn2">2</a>: Reuters Staff, ["Fact check: Available mRNA vaccines do not target syncytin-1, a protein vital to successful pregnancies"](https://www.reuters.com/article/uk-factcheck-syncytin/fact-check-available-mrna-vaccines-do-not-target-syncytin-1-a-protein-vital-to-successful-pregnancies-idUSKBN2A42S7), _Reuters_, 2021-Feb-04. [↩](#fn2a)  
 
