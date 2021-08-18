@@ -112,7 +112,7 @@ Pfizer vaccine does not cause prion diseases like Creutzfeldt Jakob disese, it d
 cause Alzheimers, and it does not cause Lou Gehrig's disease (ALS).  The rumor is traced
 to the conservative "news" site Gateway Pundit (to which I refuse to link).  It apparently
 got published in a low-quality journal, because accidents like that happen.  The author, J
-Bard Classen, has a history of attempting to publish inflammatory articles skeptical of
+Bart Classen, has a history of attempting to publish inflammatory articles skeptical of
 all vaccines.  Experts consulted by _Reuters_ pronounced his proposed mechanism
 nonsensical.  
 
