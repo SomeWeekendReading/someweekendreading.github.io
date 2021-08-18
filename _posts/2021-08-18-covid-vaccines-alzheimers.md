@@ -45,6 +45,7 @@ idea:
   a fact-check:  
 > But could they also help protect seniors against dementia and Alzheimer’s disease?
 > There’s reason to hope so.  
+
 <img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-cmaj.jpg" width="400" height="188" alt="CMAJ: DTaP, polio, and flu vaccines associated with lower Alzheimers" title="CMAJ: DTaP, polio, and flu vaccines associated with lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - They explore some studies on the incidence of Alzheimers among people who took or
   did not take _other_ vaccines, notably DTaP, polio, and flu. <sup id="fn2a">[[2]](#fn2)</sup>
@@ -59,7 +60,7 @@ idea:
 - Our intrepid _WSJ_ OpEd writer found another, from earlier this 
   year. <sup id="fn3a">[[3]](#fn3)</sup>  This study involved only the TDaP vaccine, but
   found a [hazard ratio](https://en.wikipedia.org/wiki/Hazard_ratio) 
-  between the vaccinated and unvaccinated of 0.52 (95% CL: 0.54 &ndash; 0.63).  That's
+  between the vaccinated and unvaccinated of 0.58 (95% CL: 0.54 &ndash; 0.63).  That's
   quite significant!  They go on to assert, but show no data, that other vacccines do
   something similar.  (The _WSJ_ OpEd article misquotes the hazard ratio as though it is a
   percent, which does not really inspire confidence in me.)  
