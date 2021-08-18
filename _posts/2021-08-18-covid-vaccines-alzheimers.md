@@ -13,7 +13,7 @@ vaccines _prevented_ Alzheimers.  Wait, what?
 
 Usually, the conspiratorial thinking around vaccines hints darkly, without real evidence,
 that some nefarious thing will happen to you if you get vaccinated.  Like, for example,
-give you [infertility]({{ site.baseurl }}/2021-08-17-covid-vaccines-infertility/) or 
+give you [infertility]({{ site.baseurl }}/covid-vaccines-infertility/) or 
 give you Alzheimers.  
 
 So it's a bit&hellip; _unusual_ to hear a rumor that a COVID-19 vaccine will _prevent_
