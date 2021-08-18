@@ -133,14 +133,14 @@ just one guy.  Can we find evidence in the scientific (and other) literature tha
 
 Why, yes.  Yes, we can.  
 
-<img src="{{ site.baseurl }}/images/2021-07-29-covid-vaccines-infertility-reuters.jpg" width="400" height="251" alt="Reuters Fact Check: vaccines do not target syncytin-1" title="Reuters Fact Check: vaccines do not target syncytin-1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-17-covid-vaccines-infertility-reuters.jpg" width="400" height="251" alt="Reuters Fact Check: vaccines do not target syncytin-1" title="Reuters Fact Check: vaccines do not target syncytin-1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 A "Fact Check" article on _Reuters_ <sup id="fn2a">[[2]](#fn2)</sup> confirms that the
 root of this conspiracy theory is the alleged link between SARS-CoV2 spike protein and
 syncytin-1, which in fact does not exist.  It describes the two proteins as "not very
 similar", matching in only 4 amino acids out of the 538 in syncytin-1.  (I wonder what's
 the probability of getting a 4AA match between any 2 random proteins?)  Verdict: FALSE.  
 
-<img src="{{ site.baseurl }}/images/2021-07-29-covid-vaccines-infertility-biolreprod.jpg" width="400" height="120" alt="Functional characterization of syncytin-1" title="Functional characterization of syncytin-1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-17-covid-vaccines-infertility-biolreprod.jpg" width="400" height="120" alt="Functional characterization of syncytin-1" title="Functional characterization of syncytin-1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 A 2004 review will tell you all you want to know about syncytin-1 and its functional
 characteristics.  <sup id="fn3a">[[3]](#fn3)</sup>  Oddly, syncytin-1 is a human
 endogenous retrovirus protein itself!  Sometime in the distant past, a primate caught an
@@ -185,7 +185,7 @@ and the Maternal-Fetal Medicine Society.
 
 ## The Weekend Conclusion  
 
-<img src="{{ site.baseurl }}/images/2021-08-17-covid-vaccines-infertility-ajog.jpg" width="400" height="475" alt="Health in Pictures: Satirical Vaccine Cartoon from 1930s" title="Health in Pictures: Satirical Vaccine Cartoon from 1930s" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-17-covid-vaccines-infertility-health-in-pictures-cartoon.jpg" width="400" height="475" alt="Health in Pictures: Satirical Vaccine Cartoon from 1930s" title="Health in Pictures: Satirical Vaccine Cartoon from 1930s" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Get vaccinated.  Don't be like these guys, from a political cartoon in the 1930s.
 ([Snopes says it's real.](https://www.snopes.com/fact-check/1930s-cartoon-vaccine-warning/))
 
