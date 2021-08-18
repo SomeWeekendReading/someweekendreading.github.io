@@ -18,7 +18,7 @@ give you Alzheimers.
 
 So it's a bit&hellip; _unusual_ to hear a rumor that a COVID-19 vaccine will _prevent_
 Alzheimer's, i.e., do something good for you.  (Beyond, y'know, _not dying of COVID-19_,
-which somehow always gets left out.)  
+which is definitely a good thing but somehow always gets left out.)  
 
 So while I'm very, _very_ tired of knucklehead conspiracy thinking, this looks like
 something diffferent.  
@@ -49,7 +49,8 @@ idea:
 <img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-cmaj.jpg" width="400" height="188" alt="CMAJ: DTaP, polio, and flu vaccines associated with lower Alzheimers" title="CMAJ: DTaP, polio, and flu vaccines associated with lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - They explore some studies on the incidence of Alzheimers among people who took or
   did not take _other_ vaccines, notably DTaP, polio, and flu. <sup id="fn2a">[[2]](#fn2)</sup>
-  Now, I'm not familiar with that paper, and nobody's made much noise about vaccinations
+  Now, I'm not familiar with that paper from way back in 2001, and nobody's made much
+  noise about vaccinations
   as prophylactic against Alzheimers.  Still, it sort of makes sense: people who get
   regularly vaccinated probably watch their health, listen to their doctors, and don't
   come down with horrible diseases that probably have brain effects.  It's easy to believe
@@ -57,7 +58,7 @@ idea:
 - If you find _one_ study that says something unusual, nobody much cares.  Can you find
   multiple studies that form a pattern?  
 <img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-jnlgeront.jpg" width="400" height="129" alt="Jnl Gerontology: DTAP vaccines and lower Alzheimers" title="Jnl Gerontology: DTAP vaccines and lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-- Our intrepid _WSJ_ OpEd writer found another, from earlier this 
+- Our intrepid _WSJ_ OpEd writer found _one_ other, from earlier this 
   year. <sup id="fn3a">[[3]](#fn3)</sup>  This study involved only the TDaP vaccine, but
   found a [hazard ratio](https://en.wikipedia.org/wiki/Hazard_ratio) 
   between the vaccinated and unvaccinated of 0.58 (95% CL: 0.54 &ndash; 0.63).  That's
@@ -100,9 +101,9 @@ images post-COVID-19 apparently resemble Alzheimers patients (though the _NPR_ r
 doesn't say why) and "some of the genes" that predispose sensitivity to COVID-19 are also
 sensitivity markers for Alzheimers (though the _NPR_ report doesn't say which genes).  
 
-So&hellip; that's a bit vague.  But given the havoc COVID-19 induces, even in the brain,
+So&hellip; that's maddeningly vague.  But given the havoc COVID-19 induces, even in the brain,
 it's totally believable that some pre-Alzheimers phenotype might happen.  So in that
-case, COVID-19 vaccines _would_ prevent Alzheimers&hellip; _by preventing COVID-19!_  
+case, COVID-19 vaccines _would_ prevent Alzheimers&hellip; _by preventing COVID-19 itself!_  
 
 <img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-reuters.jpg" width="400" height="205" alt="Reuters Fact Check: no evidence vaccines cause Alzheimers" title="Reuters Fact Check: no evidence vaccines cause Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Finally, why isn't there a conspiracy theory saying the vaccines _cause_ Alzheimers?
@@ -117,7 +118,7 @@ all vaccines.  Experts consulted by _Reuters_ pronounced his proposed mechanism
 nonsensical.  
 
 So&hellip; there _is_ a conspiracy theory that COVID-19 vaccines cause Alzheimers.  Given
-its origin in the conservative web, it is predictably nonsense.
+its origin in the conservative web, it is predictably nonsensical.  
 
 
 ## The Weekend Conclusion  
