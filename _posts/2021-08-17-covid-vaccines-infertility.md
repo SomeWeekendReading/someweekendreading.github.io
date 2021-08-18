@@ -187,7 +187,15 @@ and the Maternal-Fetal Medicine Society.
 
 <img src="{{ site.baseurl }}/images/2021-08-17-covid-vaccines-infertility-health-in-pictures-cartoon.jpg" width="400" height="475" alt="Health in Pictures: Satirical Vaccine Cartoon from 1930s" title="Health in Pictures: Satirical Vaccine Cartoon from 1930s" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Get vaccinated.  Don't be like these guys, from a political cartoon in the 1930s.
-([Snopes says it's real.](https://www.snopes.com/fact-check/1930s-cartoon-vaccine-warning/))
+([Snopes says it's real.](https://www.snopes.com/fact-check/1930s-cartoon-vaccine-warning/))  
+
+It's a satire from a 1930s pamphlet called "Health in Pictures", though the name of the
+artist has been lost.  It was in the context of efforts to eradicate smallpox, earlier in
+the 20th century.  They have climbed a cliff of misinformation, and are about to plunge to
+their deaths in a sea of smallpox.  
+
+Yeah&hellip; don't be these guys.  I'd like to keep my fantasy that in the intervening
+century we may have learned something.  Please don't disabuse me of that.  
 
 ---
 
@@ -206,7 +214,7 @@ Get vaccinated.  Don't be like these guys, from a political cartoon in the 1930s
 
 <a id="fn4">4</a>: B Skwarecki, ["New Data Shows Not Getting Vaccinated in Pregnancy Is the Riskier Choice"](https://lifehacker.com/new-data-shows-not-getting-vaccinated-in-pregnancy-is-t-1847475082), _Lifehacker_, 2021-Aug-12. [↩](#fn4a)  
 
-<a id="fn5">5</a>: CDC [Media Relations](https://www.cdc.gov/media), ["New CDC Data: COVID-19 Vaccination Safe for Pregnant People"](https://www.cdc.gov/media/releases/2021/s0811-vaccine-safe-pregnant.html), _Centers for Disease Control and Prevention_ media statement, 2021-Aug-11. [↩](#fn5a)  
+<a id="fn5">5</a>: CDC [Media Relations](https://www.cdc.gov/media/), ["New CDC Data: COVID-19 Vaccination Safe for Pregnant People"](https://www.cdc.gov/media/releases/2021/s0811-vaccine-safe-pregnant.html), _Centers for Disease Control and Prevention_ media statement, 2021-Aug-11. [↩](#fn5a)  
 
 <a id="fn6">6</a>: CDC Staff, ["COVID-19 Vaccines While Pregnant or Breastfeeding"](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/pregnancy.html), _Centers for Disease Control and Prevention_, updated 2021-Aug-11. [↩](#fn6a)  
 
