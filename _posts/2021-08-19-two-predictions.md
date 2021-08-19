@@ -94,7 +94,7 @@ revolutionize our future, for both cancer vaccines and disease vaccines.  For ex
 > moving to more mRNA vaccines in the future. That’s even more good news.  
 
 <img src="{{ site.baseurl }}/images/2021-08-19-two-predictions-scialert.jpg" width="400" height="300" alt="Science Alert: Moderna HIV vaccine begins human trials" title="Science Alert: Moderna HIV vaccine begins human trials" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-08-19-two-predictions-clintrial.jpg" width="400" height="421" alt="ClinicalTrials.gov: Trial NCT05001373 of Moderna's HIV Vaccines" title="ClinicalTrials.gov: Trial NCT05001373 of Moderna's HIV Vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-19-two-predictions-clintrial.jpg" width="400" height="294" alt="ClinicalTrials.gov: Trial NCT05001373 of Moderna's HIV Vaccines" title="ClinicalTrials.gov: Trial NCT05001373 of Moderna's HIV Vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 So this week it was unsurprising, though extremely gratifying, to hear that Moderna's mRNA
 vaccines (there are 2: mRNA-1644 and mRNA-1644v2-Core; a third called mRNA-1574 is not far
