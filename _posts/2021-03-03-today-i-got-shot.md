@@ -131,7 +131,8 @@ Finally I was able to gather up coat, shoulder bag, insurance cards, wallet, and
 get everything in place for the rest of the ride home.  The Weekend Editrix picked me up
 at the final station and innocently asked, "So how did it go?"  
 
-That's about like people who ask Arlo Guthrie about the story of _Alice's Restaurant_
+That's about like people who ask Arlo Guthrie about the story of
+[_Alice's Restaurant_](https://en.wikipedia.org/wiki/Alice%27s_Restaurant)
 without understanding it's a 20 minute song.  
 
 But&hellip; success so far.  
