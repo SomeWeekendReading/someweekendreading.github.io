@@ -102,6 +102,8 @@ behind) are entering Phase 1 clinical trials this week! <sup id="fn2a">[[2]](#fn
 HIV has been a nightmare, as far as vaccines &mdash; nothing much has worked.  Let's hope
 this works out better.  
 
+The clinical trial id is [NCT05001373, which you can browse at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT05001373).  
+
 It's a Phase 1 trial, so it's small: 56 healthy adults.  They go into 4 groups: one for
 each of the 2 vaccines being tested, and two groups that get both at various doses.  There
 is no control group, because (a) we already know the background rate of catching HIV in
