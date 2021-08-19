@@ -58,7 +58,7 @@ idea:
 - If you find _one_ study that says something unusual, nobody much cares.  Can you find
   multiple studies that form a pattern?  
 <img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-jnlgeront.jpg" width="400" height="129" alt="Jnl Gerontology: DTAP vaccines and lower Alzheimers" title="Jnl Gerontology: DTAP vaccines and lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-- Our intrepid _WSJ_ OpEd writer found _one_ other, from earlier this 
+- Our intrepid _WSJ_ OpEd writer found _one_ other study, from earlier this 
   year. <sup id="fn3a">[[3]](#fn3)</sup>  This study involved only the TDaP vaccine, but
   found a [hazard ratio](https://en.wikipedia.org/wiki/Hazard_ratio) 
   between the vaccinated and unvaccinated of 0.58 (95% CL: 0.54 &ndash; 0.63).  That's
@@ -68,7 +68,7 @@ idea:
   
 Notice something in all that evidence?  There's no relation to COVID-19 or COVID-19
 vaccines at all!  It's just making a claim of guilt by association: those other vaccines
-help (slightly) to prevent Alzheimers, and COVID-19 vaccines are vaccines, so maybe they
+help (slightly) to prevent Alzheimers, and COVID-19 vaccines are also vaccines, so maybe they
 help too?  
 
 This is skating on ice so thin it might as well be surface tension.  I mean: yeah, maybe.
@@ -110,7 +110,7 @@ case, COVID-19 vaccines _would_ prevent Alzheimers&hellip; _by preventing COVID-
 Finally, why isn't there a conspiracy theory saying the vaccines _cause_ Alzheimers?
 That's the way it's usually supposed to go.  Fortunately, _Reuters_ has a "Fact Check"
 article ready to go. <sup id="fn6a">[[6]](#fn6)</sup> They reassure the timid that: the
-Pfizer vaccine does not cause prion diseases like Creutzfeldt Jakob disese, it does not
+Pfizer vaccine does not cause prion diseases like Creutzfeldt Jakob disease, it does not
 cause Alzheimers, and it does not cause Lou Gehrig's disease (ALS).  The rumor is traced
 to the conservative "news" site Gateway Pundit (to which I refuse to link).  It apparently
 got published in a low-quality journal, because accidents like that happen.  The author, J
