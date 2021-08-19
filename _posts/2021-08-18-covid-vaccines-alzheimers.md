@@ -93,10 +93,11 @@ Which is, after all, _the point of the vaccine!_
 
 <img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-npr.jpg" width="400" height="311" alt="UT Health San Antonio: PET scan & gene evidence of COVID-19 and Alzheimer's similarity" title="UT Health San Antonio: PET scan & gene evidence of COVID-19 and Alzheimer's similarity" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 There is, however, intriguing evidence in the other direction: getting COVID-19 may set
-the stage for Alzheimers! <sup id="fn5a">[[5]](#fn5)</sup>  _NPR_ reports on some
-(apparently as-yet-unpublished?) evidence from UT Health San Antonio.  Their dataset was
+the stage for Alzheimers!  _NPR_ reports on some
+(apparently as-yet-unpublished?) evidence from UT Health San
+Antonio. <sup id="fn5a">[[5]](#fn5)</sup>  Their dataset was
 PET scans of people before and after COVID-19.  (I wonder how that happened?  How do you
-get permission to PET scan people on the chance they might later get COVID-19?)  The
+get IRB permission to PET scan people on the chance they might later get COVID-19?)  The
 images post-COVID-19 apparently resemble Alzheimers patients (though the _NPR_ report
 doesn't say why) and "some of the genes" that predispose sensitivity to COVID-19 are also
 sensitivity markers for Alzheimers (though the _NPR_ report doesn't say which genes).  
