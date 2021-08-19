@@ -99,16 +99,19 @@ revolutionize our future, for both cancer vaccines and disease vaccines.  For ex
 So this week it was unsurprising, though extremely gratifying, to hear that Moderna's mRNA
 vaccines (there are 2: mRNA-1644 and mRNA-1644v2-Core; a third called mRNA-1574 is not far
 behind) are entering Phase 1 clinical trials this week! <sup id="fn2a">[[2]](#fn2)</sup>
-HIV has been a nightmare, as far as vaccines &mdash; nothing much has worked.  Let's hope
-this works out better.  
 
-The clinical trial id is [NCT05001373, which you can browse at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT05001373).  
+HIV has been a nightmare, as far as vaccines &mdash; nothing much has worked.  Let's hope
+this one works out better this time.  
+
+The clinical trial id is
+[NCT05001373, which you can browse at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT05001373).  
 
 It's a Phase 1 trial, so it's small: 56 healthy adults.  They go into 4 groups: one for
 each of the 2 vaccines being tested, and two groups that get both at various doses.  There
 is no control group, because (a) we already know the background rate of catching HIV in
-the population, and this is almost all about safety of the dose arms.  It should take
-about 10 months to get an initial safety readout.  
+the population, and this is almost all about safety of the dose arms.  
+
+It should take about 10 months to get an initial safety readout.  
 
 That sounds like a sea change to me!  
 
