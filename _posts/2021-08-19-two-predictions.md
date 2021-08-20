@@ -124,6 +124,6 @@ That sounds like a sea change to me!
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: CDC [Media Relations](https://www.cdc.gov/media), ["Joint Statement from HHS Public Health and Medical Experts on COVID-19 Booster Shots"](https://www.cdc.gov/media/releases/2021/s0818-covid-19-booster-shots.html), _CDC Newsroom_, 2021-Aug-18. [↩](#fn1a)  
+<a id="fn1">1</a>: CDC [Media Relations](https://www.cdc.gov/media/), ["Joint Statement from HHS Public Health and Medical Experts on COVID-19 Booster Shots"](https://www.cdc.gov/media/releases/2021/s0818-covid-19-booster-shots.html), _CDC Newsroom_, 2021-Aug-18. [↩](#fn1a)  
 
 <a id="fn2">2</a>: F MacDonald, ["Moderna's Experimental HIV Vaccine Could Begin Human Trials as Soon as This Week"](https://www.sciencealert.com/moderna-s-experimental-hiv-vaccine-could-begin-human-trials-as-soon-as-this-week), _Science Alert_, 2021-Aug-18. [↩](#fn2a)  
