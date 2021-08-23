@@ -20,7 +20,7 @@ tozinameran, and the commercial copyrighted name owned by Pfizer is Comirnaty.
 that.)  
 
 We had 
-[previously wondered](https://www.someweekendreading.blog/covid-vaccine-full-approval/#the-weekend-conclusio)
+[previously wondered](https://www.someweekendreading.blog/covid-vaccine-full-approval/#the-weekend-conclusion)
 what the long delay in approval was, since Pfizer had filed the application in May, and
 Moderna had done so in June.  Apparently the answer is the required 6 months of follow-up
 safety data.  Still, the trial started last summer, so it's been a year.  There's
