@@ -178,8 +178,8 @@ _and_ by age.  What can we see from it?
   30-39 year olds.  
   - The younger ones are are _more_ risk, because fewer of them have been vaccinated!  
   - The older ones are at _less_ risk, because more of them have been vaccinated!  
-- The vaccine efficacy, comparing like for like by age & vax stratification, ranges from a
-  worst case 81% for 80-89 year olds, to best case 100%.  
+- The last column shows the vaccine efficacy, comparing like for like by age & vax
+  stratification, ranges from a worst case 81% for 80-89 year olds, to best case 100%.  
   
 __Conclusion:__ So we see that the hospitalization risk is mostly explained by age, once
 you properly normalize by the population sizes of vaccinated and unvaccinated.  
