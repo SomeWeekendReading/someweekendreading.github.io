@@ -49,7 +49,7 @@ in the sky, as shown in this now-iconic year-long time-lapse photograph by
 from 1978-1979 <sup id="fn1a">[[1]](#fn1)</sup>.  
 
 The source of this peculiarity, if you really work your way down into the orbital
-mechanics, is an interaction between the earth's very slightly elliptical orbit and it's
+mechanics, is an interaction between the earth's very slightly elliptical orbit and its
 23.5&deg; axial tilt.  
 
 
@@ -64,7 +64,7 @@ The fascinating explanation is part celestial mechanics, part hobby astronomy, a
 pretty pictures.  (Oh, and some math.  There's always some math!)  These factors producing
 the analemma conspire to create an interesting effect: while the Winter Solstice is always
 on Dec 21 (a fixed point of the Gregorian solar calendar, regardless of latitude), the
-earliest sunset is a bit before that and the latest sunrise is a bit after (depending on
+earliest sunset is a bit before that and the latest sunrise is a bit after (both depending on
 latitude).  It led to a series of annual emails from Doug, in which he would, each year,
 alert us to the day of earliest sunset. <sup id="fn2a">[[2]](#fn2)</sup> By now-ancient
 tradition among the now-ancient _Cantabrigiae Symbolicae_, this is known as "Dodds's Day".  
