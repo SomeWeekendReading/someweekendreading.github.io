@@ -53,7 +53,7 @@ seems to be:
   discriminating.  But a closer look said men and women were subjecting themselves to
   different levels of scrutiny, and the effect went away.  
   
-People feel strongly about sex discrimination, and for good reason.  But if you don't look
+People feel strongly about sex discrimination, and for excellent reasons.  But if you don't look
 at the details, you'll see discrimination where there is none&hellip; and miss it where it
 really is.  Neither mistake serves the interest of fairness.  
 
@@ -91,11 +91,10 @@ He's aggregated data from the Israeli government dashboard, snapshotted below in
 references.  The part getting the nervous side-eye is the fraction of hospitalized
 patients who are vaccinated:  
 
-| __Age__ | __Severe Cases__ |
-|           | _Unvax_ | _Vax_   |
-|--------:|------:|---------:|
-| All     | 214   | 301      |
-|---------|-------|----------|
+| __Age__ | __Severe Unvax__ | __Severe Vax__ |
+|--------:|-----------------:|---------------:|
+| All     |            214   |       301      |
+|---------|------------------|----------------|
 
 People jump, without justification, to 2 frightening but erroneous or irrelevant conclusions:  
 - _Vaccine Efficacy:_ It looks like _more_ vaccinated people are sick, so the vaccine
@@ -104,8 +103,8 @@ People jump, without justification, to 2 frightening but erroneous or irrelevant
   vaccinated!  
 
 In some ways, this is just a basic blunder with Bayes Rule.  They've computed 
-$\Pr(vax | hospitalized)$, when the relevant thing to know is instead 
-$\Pr(hospitalized | vax)$.  
+$\Pr(\mathrm{vax} | \mathrm{hospitalized})$, when the relevant thing to know is instead 
+$\Pr(\mathrm{hospitalized} | \mathrm{vax})$.  
 
 But there are 2 more serious errors that are at the root of Simpson's paradox:  
 - The first is a blunder from not understanding vaccine efficacy: both the vaccinated rate
@@ -121,16 +120,15 @@ But there are 2 more serious errors that are at the root of Simpson's paradox:
 So first, let's adjust for the population sizes of vaccinated and unvaccinated, and
 compute the probabilities, not the frequencies:
 
-| __Age__ |            __Population_              |       __Severe Cases__         |
-|           | _Unvax_           | _Vax_              | _Unvax_        | _Vax_         |
-|--------:|------------------:|------------------:|--------------:|--------------:|
-| All     | 1,302,912 (18.2%) | 5,634,634 (78.7%) | 214 (0.0164%) | 301 (0.0053%) |
-|---------|-------------------|-------------------|---------------|---------------|
+| __Age__ | __Population Unvax__ | __Population Vax__ | __Severe Unvax__ | __Severe Vax__ |
+|--------:|---------------------:|-------------------:|-----------------:|---------------:|
+| All     | 1,302,912 (18.2%)    | 5,634,634 (78.7%)  | 214 (0.0164%)    | 301 (0.0053%)  |
+|---------|----------------------|--------------------|------------------|----------------|
 
 So we see that the fraction of population vaccinated is estimated as:  
 
 $$
-\Pr(vax) = 5{\small,}634{\small,}634 / (1{\small,}302{\small},912 + 5{\small,}634{\small,}634) = 81.2\%
+\Pr(\mathrm{vax}) = 5{\small,}634{\small,}634 / (1{\small,}302{\small},912 + 5{\small,}634{\small,}634) = 81.2\%
 $$
 
 (The table above reports a slightly different number, because sometimes youths age 0-12
@@ -142,8 +140,8 @@ The probabilities we want are now calculable too:
 
 $$
 \begin{align}
-  \Pr(hospitalized | unvax) &= 214 / 1{\small,}302{\small,}912 &= 0.0164\% \\
-  \Pr(hospitalized | vax)   &= 301 / 5{\small,}634{\small,}634 &= 0.0053\% 
+  \Pr(\mathrm{hospitalized} | \mathrm{unvax}) &= 214 / 1{\small,}302{\small,}912 &= 0.0164\% \\
+  \Pr(\mathrm{hospitalized} | \mathrm{vax})   &= 301 / 5{\small,}634{\small,}634 &= 0.0053\% 
 \end{align}
 $$
 
@@ -152,7 +150,7 @@ hospitalization, since the unvaccinated are about 3.1x more likely to be hospita
 Also, the vaccine efficacy is still pretty good:  
 
 $$ 
-VE = 1 - \frac{\Pr(hospitalized | vax)}{\Pr(hospitalized | unvax)} = 1 - 0.0053 / 0.0164 = 67.6\% 
+VE = 1 - \frac{\Pr(\mathrm{hospitalized} | \mathrm{vax})}{\Pr(\mathrm{hospitalized} | \mathrm{unvax})} = 1 - 0.0053 / 0.0164 = 67.6\% 
 $$
 
 
