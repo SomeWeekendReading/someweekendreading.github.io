@@ -1,0 +1,8 @@
+_id: ee3c1b30-0799-11ec-8f4c-339022d4d609
+_parent: 'https://www.someweekendreading.blog/vaccine-delta-cdc/'
+replying_to_uid: ''
+message: "Hey, Kto --  \r\n\r\nI think I now understand the reason for our confusion: Simpson's paradox.  \r\n\r\nSee [this new post](https://www.someweekendreading.blog/covid-simpson/).  Basically, age is a correlate of both being vaccinated, _and_ being hospitalized if there's an infection.  So you have to stratify by age.  \r\n\r\nThere's more, including calculating the right Bayesian posterior, but that's the main thing.  \r\n\r\nAll of this was uncovered by Morris, writing at [COVID-19 Data Science](https://www.covid-datascience.com/).  I just did a little \"explainer\" about it.  \r\n\r\nThanks for planting a seed of criticism that made me go read some cool stuff."
+name: Weekend Editor
+email: 9188857aff0b1cfd146b06ed259e1afe
+hp: ''
+date: 1630111825
