@@ -153,6 +153,8 @@ $$
 VE = 1 - \frac{\Pr(\mathrm{hospitalized} | \mathrm{vax})}{\Pr(\mathrm{hospitalized} | \mathrm{unvax})} = 1 - 0.0053 / 0.0164 = 67.6\% 
 $$
 
+That's certainly better&hellip; but not good enough yet!  
+
 
 ## Still not good enough: stratify by age  
 
@@ -225,7 +227,7 @@ find we have evaded Simpson's paradox.  The vaccine efficacies are still quite h
 
 <a id="fn5">5</a>: EH Simpson, ["The Interpretation of Interaction in Contingency Tables"](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2517-6161.1951.tb00088.x), _Jnl Roy Stat Soc_ Series B (Methodological), 13:2(1951), 238–241. DOI:10.1111/j.2517-6161.1951.tb00088.x. [↩](#fn5a)  
 
-<a id="fn6">6</a>:  PJ Bickel, EA. Hammel, JW O'Connell, ["Sex Bias in Graduate Admissions: Data From Berkeley"](http://homepage.stat.uiowa.edu/~mbognar/1030/Bickel-Berkeley.pdf), _Science_ 187:4175 (1975), 398–404. DOI:10.1126/science.187.4175.398, PMID:17835295.[↩](#fn6a)  
+<a id="fn6">6</a>:  PJ Bickel, EA. Hammel, JW O'Connell, ["Sex Bias in Graduate Admissions: Data From Berkeley"](https://homepage.stat.uiowa.edu/~mbognar/1030/Bickel-Berkeley.pdf), _Science_ 187:4175 (1975), 398–404. DOI:10.1126/science.187.4175.398, PMID:17835295.[↩](#fn6a)  
 
 <a id="fn7">7</a>: J Morris, ["Israeli data: How can efficacy vs. severe disease be strong when 60% of hospitalized are vaccinated?"](https://www.covid-datascience.com/post/israeli-data-how-can-efficacy-vs-severe-disease-be-strong-when-60-of-hospitalized-are-vaccinated), _Covid-19 Data Science_, 2021-Aug-17.  I've snapshotted [his aggregated, translated, and normalized data from the Israeli government data dashboard on 2021-Aug-15 here]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-Israeli_data_August_15_2021.xlsx). [↩](#fn7a)  
 
