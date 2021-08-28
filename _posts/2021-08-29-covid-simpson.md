@@ -195,9 +195,9 @@ Rather than work through each row of a table of age strata with our own R script
 just jump to Morris's very clear table.  This is stratified by _both_ vaccination status
 _and_ by age.  What can we see from it?  
 - The next to last column compares the severe disease risk of an age cohort versus the
-  30-39 year olds.  
-  - The younger ones are are _more_ risk, because fewer of them have been vaccinated!  
-  - The older ones are at _less_ risk, because more of them have been vaccinated!  
+  30-39 year olds.  While the elders are at more risk than the youngers, it's clear that
+  is almost exclusively due to sickness in the unvaccinated subset (from inspection of the
+  2 columns to the left).  
 - The last column shows the vaccine efficacy, comparing like for like by age & vax
   stratification, ranges from a worst case 81% for 80-89 year olds, to best case 100%.  
   
