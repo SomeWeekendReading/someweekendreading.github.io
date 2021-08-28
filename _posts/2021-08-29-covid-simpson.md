@@ -126,7 +126,7 @@ $\Pr(\mathrm{hospitalized} | \mathrm{vax})$.
 But there are 2 more serious errors that are at the root of Simpson's paradox:  
 - The first is a blunder from not understanding vaccine efficacy: both the vaccinated rate
   and the unvaccinated rate have to be normalized by the _sizes of their populations_, not
-  just the hospitalized.  Israel right now has about 78% vaccinated (below), so you'd
+  just the hospitalized populations.  Israel right now has about 78% vaccinated (below), so you'd
   _expect_ to see more cases from among the vaccinated!  
 - The second error is to ignore age groups.  The elderly are both more likely to
   be vaccinated, and more likely to be hospitalized if they _do_ get infected anyway.  
@@ -156,10 +156,10 @@ people.
 The probabilities we want are now calculable too:  
 
 $$
-\begin{align}
+\begin{align*}
   \Pr(\mathrm{hospitalized} | \mathrm{unvax}) &= 214 / 1{\small,}302{\small,}912 &= 0.0164\% \\
   \Pr(\mathrm{hospitalized} | \mathrm{vax})   &= 301 / 5{\small,}634{\small,}634 &= 0.0053\% 
-\end{align}
+\end{align*}
 $$
 
 Clearly, the vaccinated are in a better position as far as lower chance of
