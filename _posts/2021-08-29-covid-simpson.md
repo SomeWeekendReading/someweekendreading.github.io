@@ -226,6 +226,8 @@ data with an underlying correlate (age correlates with vax status and hospitaliz
 and after declining to commit the blunder of computing the wrong Bayesian posterior, we
 find we have evaded Simpson's paradox.  The vaccine efficacies are still quite high.  
 
+So get vaccinated.  
+
 ---
 
 ## Notes &amp; References  
