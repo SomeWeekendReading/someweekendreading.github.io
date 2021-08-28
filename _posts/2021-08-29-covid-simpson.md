@@ -13,6 +13,23 @@ article about [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson's_parado
 context of COVID.  Ding, ding, ding, ding!  
 
 
+## Who asked what now?  
+
+Commenter Kto [asked in a comment](https://www.someweekendreading.blog/vaccine-delta-cdc/#comment-bf28ee60-fd6f-11eb-b304-af21ae997490)
+on 
+[Vaccine Efficacy, Delta Variant, and CDC changes](https://www.someweekendreading.blog/vaccine-delta-cdc/)
+about why we're seeing reports of so many vaccinated people being hospitalized with
+COVID-19, if breakthrough infections are supposed to be so rare.  I thought the Israeli
+and Qatari data said otherwise, but Kto produced a reference to some UK data that
+disagreed.  Very puzzling&hellip;
+
+Then [Gary Cornell](https://garycornell.com/) asked if I'd seen an article at 
+[COVID-19 Data Science](https://www.covid-datascience.com/) on applying the Simpson
+paradox to explaining exactly that thing!  
+
+This is why you always listen to people.  
+
+
 ## Ok, what's this Simpson's paradox thing?  
 
 Simpson's paradox is one of those delightful and maddening things about statistics where
