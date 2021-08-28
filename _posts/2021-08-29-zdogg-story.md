@@ -27,10 +27,11 @@ can be done in the service of good.
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/Xx30E9Bi-C8" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 That brings us to today's video by ZDoggMD <sup id="fn1a">[[1]](#fn1)</sup>, whom we've
-mentioned before on this crummy little blog that nobody reads.  Today he tells the story
-of one of his viewers who was a bit vaccine hesitant, ended up getting COVID with
-post-infection mental debilitation, infecting his wife, infecting some of
-his kids, and most heartbreakingly, his parents.  His father will likely die.  
+mentioned before on this crummy little blog that nobody reads.  
+
+Today he tells the story of one of his viewers who was a bit vaccine hesitant, ended up
+getting COVID with post-infection mental debilitation, infecting his wife, infecting some
+of his kids, and most heartbreakingly, his parents.  His father will likely die.  
 
 The viewer, of course, feels an incredible burden of guilt.  In expiation, he has
 personally persuaded 3 people to get vaccinated, which is a good first step of repentance
@@ -43,7 +44,7 @@ I sort of liked Zubin's conclusion:
 > yourself up.  Seriously, forgive yourself.  We do the best we can, in the face of
 > conflicting information, misinformation, disinformation, poor communication from
 > authorities that are supposed to be looking out for us, who somehow can't understand
-> that shaming people into submission on vaccines is not gonna work. &hellip;  
+> that shaming people into submission on vaccines is not gonna work.  
 > &hellip;  
 > Now, the truth is, &lt;_name_&gt; should forgive himself because it could have been that
 > they were all vaccinated weeks or months in advance and still got infected.  It could
@@ -57,7 +58,7 @@ I sort of liked Zubin's conclusion:
 > around us: getting vaccinated is still the lowest risk for the highest reward because
 > natural COVID infection for many people is just not safe.  
 >  
-> And so we're doing the best we can. &hellip;
+> And so we're doing the best we can.  
 > &hellip;  
 > And &lt;_name_&gt;, this is me, I'm looking right at you.  Really, you did the best you
 > could.  
@@ -80,4 +81,4 @@ Good for him.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Z Damania, ["He Was On The Fence About The Vaccine, Then THIS Happened"](https://www.youtube.com/watch?v=Xx30E9Bi-C8), _YouTube_, 2021-Aug-27.  Look, there's such a thing as being _too_ obsessed with footnotes and documentation.  Just watch the video.  I embedded it up there for you, ok? [↩](#fn1a)  
+<a id="fn1">1</a>: Z Damania, ["He Was On The Fence About The Vaccine, Then THIS Happened"](https://www.youtube.com/watch?v=Xx30E9Bi-C8), _YouTube_, 2021-Aug-27.  Look, there's such a thing as being _too_ obsessed with footnotes and documentation.  (And keep in mind who's telling you that!)  Just watch the video.  I embedded it up there for you, ok? [↩](#fn1a)  
