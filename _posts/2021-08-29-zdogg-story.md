@@ -81,4 +81,6 @@ Good for him.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: Z Damania, ["He Was On The Fence About The Vaccine, Then THIS Happened"](https://www.youtube.com/watch?v=Xx30E9Bi-C8), _YouTube_, 2021-Aug-27.  Look, there's such a thing as being _too_ obsessed with footnotes and documentation.  (And keep in mind who's telling you that!)  Just watch the video.  I embedded it up there for you, ok? [↩](#fn1a)  
+<a id="fn1">1</a>: Z Damania, ["He Was On The Fence About The Vaccine, Then THIS Happened"](https://www.youtube.com/watch?v=Xx30E9Bi-C8), _YouTube_, 2021-Aug-27.  
+
+Look, there's such a thing as being _too_ obsessed with footnotes and documentation.  (And keep in mind who's telling you that!)  Just watch the video.  I embedded it up there for you, ok? [↩](#fn1a)  
