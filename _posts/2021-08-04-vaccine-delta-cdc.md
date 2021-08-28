@@ -47,7 +47,7 @@ become _de rigueur_.
 __Conclusion:__  Don't panic.  At least not about this.  
 
 
-## The CDC on Delta&colon; 'the war has changed'  
+## The CDC on Delta: 'the war has changed'  
 
 ### The _WaPo_, the internal CDC slide deck, and media reaction  
 

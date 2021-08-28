@@ -204,6 +204,7 @@ _and_ by age.  What can we see from it?
 __Conclusion:__ So we see that the hospitalization risk is mostly explained by age, once
 you properly normalize by the population sizes of vaccinated and unvaccinated.  
 
+<!-- *** IWBNI we could add 95% confidence limit bars to the vaccine efficacies. -->
 <img src="{{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-by-age.png" width="400" height="400" alt="Israeli vaccine efficacy, properly normalized by population and stratified by age" title="Israeli vaccine efficacy, properly normalized by population and stratified by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 In fact, the vaccine efficacies are still quite high.  Let's plot the vaccine efficacy by
