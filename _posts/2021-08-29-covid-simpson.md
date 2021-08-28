@@ -240,9 +240,9 @@ find we have evaded Simpson's paradox.  The vaccine efficacies are still quite h
 
 <a id="fn3">3</a>: K Pearson, "On the Theory of Genetic (Reproductive) Selection", _Phil Trans Roy Soc_ Series A, 192 (1899), 260–278. [↩](#fn3a)  
 
-<a id="fn4">4</a>: GU Yule, ["Notes on the Theory of Association of Attributes in Statistics"](https://academic.oup.com/biomet/article-abstract/2/2/121/207363), _Biometrika_ 2:2(1903), 121–134. DOI:10.1093/biomet/2.2.121. [↩](#fn4a)  
+<a id="fn4">4</a>: GU Yule, ["Notes on the Theory of Association of Attributes in Statistics"](https://academic.oup.com/biomet/article-abstract/2/2/121/207363), _Biometrika_ 2:2 (1903), 121–134. DOI:10.1093/biomet/2.2.121. [↩](#fn4a)  
 
-<a id="fn5">5</a>: EH Simpson, ["The Interpretation of Interaction in Contingency Tables"](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2517-6161.1951.tb00088.x), _Jnl Roy Stat Soc_ Series B (Methodological), 13:2(1951), 238–241. DOI:10.1111/j.2517-6161.1951.tb00088.x. [↩](#fn5a)  
+<a id="fn5">5</a>: EH Simpson, ["The Interpretation of Interaction in Contingency Tables"](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2517-6161.1951.tb00088.x), _Jnl Roy Stat Soc_ Series B (Methodological), 13:2 (1951), 238–241. DOI:10.1111/j.2517-6161.1951.tb00088.x. [↩](#fn5a)  
 
 <a id="fn6">6</a>:  PJ Bickel, EA. Hammel, JW O'Connell, ["Sex Bias in Graduate Admissions: Data From Berkeley"](https://homepage.stat.uiowa.edu/~mbognar/1030/Bickel-Berkeley.pdf), _Science_ 187:4175 (1975), 398–404. DOI:10.1126/science.187.4175.398, PMID:17835295.[↩](#fn6a)  
 
