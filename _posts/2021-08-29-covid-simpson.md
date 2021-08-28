@@ -38,6 +38,7 @@ apart or goes the other way.  There's an elementary introduction in _Wikipedia_ 
 pretty good <sup id="fn1a">[[1]](#fn1)</sup>, and a more detailed technical summary in the 
 _Stanford Encyclopedia of Philosophy_ <sup id="fn2a">[[2]](#fn2)</sup>.
 
+<img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-pearson.jpg" width="400" height="180" alt="Pearson et al. on the paradox in 1899" title="Pearson et al. on the paradox in 1899" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-yule.jpg" width="400" height="156" alt="Yule on the paradox in 1903" title="Yule on the paradox in 1903" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-simpson.jpg" width="400" height="288" alt="Simpson on the paradox in 1951" title="Simpson on the paradox in 1951" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I'd always heard of this as the Yule-Simpson paradox, and wondered who the various people
@@ -238,7 +239,7 @@ find we have evaded Simpson's paradox.  The vaccine efficacies are still quite h
 
 <a id="fn2">2</a>: J Sprenger &amp; N Weinberger, ["Simpson's Paradox"](https://plato.stanford.edu/archives/sum2021/entries/paradox-simpson/), _Stanford Encyclopedia of Philosophy_ (Summer 2021 Edition), Edward N. Zalta (ed).[↩](#fn2a)  
 
-<a id="fn3">3</a>: K Pearson, "On the Theory of Genetic (Reproductive) Selection", _Phil Trans Roy Soc_ Series A, 192 (1899), 260–278. [↩](#fn3a)  
+<a id="fn3">3</a>: K Pearson, ["On the Theory of Genetic (Reproductive) Selection"](https://www.jstor.org/stable/90782), _Phil Trans Roy Soc_ Series A, 192 (1899), 260–278. [↩](#fn3a)  
 
 <a id="fn4">4</a>: GU Yule, ["Notes on the Theory of Association of Attributes in Statistics"](https://academic.oup.com/biomet/article-abstract/2/2/121/207363), _Biometrika_ 2:2 (1903), 121–134. DOI:10.1093/biomet/2.2.121. [↩](#fn4a)  
 
