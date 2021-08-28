@@ -91,10 +91,10 @@ He's aggregated data from the Israeli government dashboard, snapshotted below in
 references.  The part getting the nervous side-eye is the fraction of hospitalized
 patients who are vaccinated:  
 
-| __Age__ | __Severe Unvax__ | __Severe Vax__ |
-|--------:|-----------------:|---------------:|
-| All     |            214   |       301      |
-|---------|------------------|----------------|
+| __Age__ | | __Severe Unvax__ | | __Severe Vax__ |
+|--------:|-|-----------------:|-|---------------:|
+| All     | |            214   | |       301      |
+|---------|-|------------------|-|----------------|
 
 People jump, without justification, to 2 frightening but erroneous or irrelevant conclusions:  
 - _Vaccine Efficacy:_ It looks like _more_ vaccinated people are sick, so the vaccine
@@ -120,10 +120,10 @@ But there are 2 more serious errors that are at the root of Simpson's paradox:
 So first, let's adjust for the population sizes of vaccinated and unvaccinated, and
 compute the probabilities, not the frequencies:
 
-| __Age__ | __Population Unvax__ | __Population Vax__ | __Severe Unvax__ | __Severe Vax__ |
-|--------:|---------------------:|-------------------:|-----------------:|---------------:|
-| All     | 1,302,912 (18.2%)    | 5,634,634 (78.7%)  | 214 (0.0164%)    | 301 (0.0053%)  |
-|---------|----------------------|--------------------|------------------|----------------|
+| __Age__ | | __Population Unvax__ | | __Population Vax__ | | __Severe Unvax__ | | __Severe Vax__ |
+|--------:|-|---------------------:|-|-------------------:|-|-----------------:|-|---------------:|
+| All     | | 1,302,912 (18.2%)    | | 5,634,634 (78.7%)  | | 214 (0.0164%)    | | 301 (0.0053%)  |
+|---------|-|----------------------|-|--------------------|-|------------------|-|----------------|
 
 So we see that the fraction of population vaccinated is estimated as:  
 
