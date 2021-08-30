@@ -159,7 +159,7 @@ Let's deal with the second question first.  The footnote says they're using the
 which is more-or-less frequentist method that is reasonably well known (by people who know
 this sort of thing, at least).  However, note that the places where their lower confidence
 limit goes negative are exactly where the count of infections goes to 0.  People who
-_really_ know Clopper-Perason (see previous link) know that there's a special-case exact
+_really_ know Clopper-Pearson (see previous link) know that there's a special-case exact
 form to be used in that case, instead of the slightly approximate case used otherwise.
 That would have given a lower limit of 0%, i.e., no efficacy.
 

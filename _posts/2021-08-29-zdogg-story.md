@@ -31,7 +31,8 @@ mentioned before on this crummy little blog that nobody reads.
 
 Today he tells the story of one of his viewers who was a bit vaccine hesitant, ended up
 getting COVID with post-infection mental debilitation, infecting his wife, infecting some
-of his kids, and most heartbreakingly, his parents.  His father will likely die.  
+of his kids, and most heartbreakingly, his elderly and fragile parents.  His father will
+likely die.  
 
 The viewer, of course, feels an incredible burden of guilt.  In expiation, he has
 personally persuaded 3 people to get vaccinated, which is a good first step of repentance
