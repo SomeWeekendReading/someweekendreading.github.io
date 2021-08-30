@@ -229,6 +229,39 @@ find we have evaded Simpson's paradox.  The vaccine efficacies are still quite h
 
 So get vaccinated.  
 
+## Addendum 2021-Aug-30: The mainstream media starts to catch on  
+
+<img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-nyt.jpg" width="400" height="183" alt="NYT: Vaccine immunity not waning, it's Simpson's paradox" title="NYT: Vaccine immunity not waning, it's Simpson's paradox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+This morning I woke to a _New York Times_ newsletter touting an 
+article <sup id="fn9a">[[9]](#fn9)</sup> noting that vaccine efficacy isn't really waning,
+it's just Simpson's paradox.  This is very satisfying; the mainstream media are catching
+up, a bit.  
+
+> At first glance, the Israeli data seems straightforward: People who had been vaccinated
+> in the winter were more likely to contract the virus this summer than people who had
+> been vaccinated in the spring.  
+>  
+> Yet it would truly be proof of waning immunity only if the two groups — the winter and
+>spring vaccine recipients — were otherwise similar to each other. If not, the other
+>differences between them might be the real reason for the gap in the Covid rates.  
+>  
+> As it turns out, the two groups were different. The first Israelis to have received the
+> vaccine tended to be more affluent and educated. By coincidence, these same groups later
+> were among the first exposed to the Delta variant, perhaps because they were more likely
+> to travel. Their higher infection rate may have stemmed from the new risks they were
+> taking, not any change in their vaccine protection.  
+>  
+> Statisticians have a name for this possibility — when topline statistics point to a
+> false conclusion that disappears when you examine subgroups. It’s called
+> [Simpson's Paradox](https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765).  
+>  
+> This paradox may also explain some of the U.S. data that the C.D.C. has cited to justify
+> booster shots. Many Americans began to resume more indoor activities this spring. That
+> more were getting Covid may reflect their newfound Covid exposure (as well as the
+> arrival of Delta), rather than any waning of immunity over time.  
+
+Indeed.  
+
 ---
 
 ## Notes &amp; References  
@@ -253,3 +286,5 @@ So get vaccinated.
 <a id="fn7">7</a>: J Morris, ["Israeli data: How can efficacy vs. severe disease be strong when 60% of hospitalized are vaccinated?"](https://www.covid-datascience.com/post/israeli-data-how-can-efficacy-vs-severe-disease-be-strong-when-60-of-hospitalized-are-vaccinated), _Covid-19 Data Science_, 2021-Aug-17.  I've snapshotted [his aggregated, translated, and normalized data from the Israeli government data dashboard on 2021-Aug-15 here]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-Israeli_data_August_15_2021.xlsx). [↩](#fn7a)  
 
 <a id="fn8">8</a>: Weekend Editor, [R script to plot normalized, age stratified Israeli vaccine efficacies]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-by-age.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Aug-29.  [↩](#fn8a)  
+
+<a id="fn9">9</a>: D Leonhardt, ["Is Vaccine Immunity Waning?"](https://www.nytimes.com/2021/08/30/briefing/vaccine-immunity-booster-shots.html), _New York Times_, 2021-Aug-30. [↩](#fn9a)  
