@@ -229,7 +229,7 @@ find we have evaded Simpson's paradox.  The vaccine efficacies are still quite h
 
 So get vaccinated.  
 
-## Addendum 2021-Aug-30: The mainstream media starts to catch on  
+## Addendum 2021-Aug-30: Mainstream media catch on  
 
 <img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-nyt.jpg" width="400" height="183" alt="NYT: Vaccine immunity not waning, it's Simpson's paradox" title="NYT: Vaccine immunity not waning, it's Simpson's paradox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This morning I woke to a _New York Times_ newsletter touting an 
