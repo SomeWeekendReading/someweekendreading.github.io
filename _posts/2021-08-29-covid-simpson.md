@@ -269,7 +269,8 @@ Indeed.
 I was gratified to see another piece in the _WaPo_ on the subject, this time by prominent
 mathematician Jordan Ellenberg. <sup id="fn10a">[[10]](#fn10)</sup>  I don't know him
 personally, but know people who know him and by reputation.  His reputation is that he is
-very smart, very careful, and a remarkably good person.  
+very smart, very careful, and a remarkably good person.  I particularly liked the
+shout-out to his mom, who pointed him at Morris's blog post.  
 
 > Simpson’s paradox is a warning that the whole of the data often looks weirdly different
 > than the sum of its parts. In the case of Israel — as a number of epidemiologists and
