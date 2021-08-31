@@ -262,6 +262,25 @@ up, a bit.
 
 Indeed.  
 
+
+## Addendum 2021-Aug-31: More mainstream media: Jordan Ellenberg in _WaPo_  
+
+<img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-ellenberg.jpg" width="400" height="161" alt="Jordan Ellenberg in WaPo: Vaccines work, see past Simpson's paradox" title="Jordan Ellenberg in WaPo: Vaccines work, see past Simpson's paradox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I was gratified to see another piece in the _WaPo_ on the subject, this time by prominent
+mathematician Jordan Ellenberg. <sup id="fn10a">[[10]](#fn10)</sup>  I don't know him
+personally, but know people who know him and by reputation.  His reputation is that he is
+very smart, very careful, and a remarkably good person.  
+
+> Simpson’s paradox is a warning that the whole of the data often looks weirdly different
+> than the sum of its parts. In the case of Israel — as a number of epidemiologists and
+> other scholars have pointed out — what explains the surprising hospitalization figures is
+> largely the relative ages of vaccinated and unvaccinated people.  
+> &hellip;  
+> If _everyone_ were vaccinated, then all hospitalized people would be vaccinated — and that
+> obviously wouldn’t mean vaccination was useless.  
+
+Nailed it.  
+
 ---
 
 ## Notes &amp; References  
@@ -288,3 +307,5 @@ Indeed.
 <a id="fn8">8</a>: Weekend Editor, [R script to plot normalized, age stratified Israeli vaccine efficacies]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-by-age.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Aug-29.  [↩](#fn8a)  
 
 <a id="fn9">9</a>: D Leonhardt, ["Is Vaccine Immunity Waning?"](https://www.nytimes.com/2021/08/30/briefing/vaccine-immunity-booster-shots.html), _New York Times_, 2021-Aug-30. [↩](#fn9a)  
+
+<a id="fn10">10</a>: J Ellenberg, ["Coronavirus vaccines work. But this statistical illusion makes people think they don't."](https://www.washingtonpost.com/outlook/2021/08/31/covid-israel-hospitalization-rates-simpsons-paradox/), _Washington Post_, 2021-Aug-31.[↩](#fn10a)  
