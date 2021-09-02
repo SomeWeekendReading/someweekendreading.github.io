@@ -283,7 +283,7 @@ shout-out to his mom, who pointed him at Morris's blog post.
 Nailed it.  
 
 
-## Addendum 2021-Sep-02: More mainstream media: Jordan Ellenberg in _WaPo_  
+## Addendum 2021-Sep-02: Vaccine confidence intervals  
 
 <img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-israeli-popln.jpg" width="400" height="125" alt="Morris data: Israeli population stratified by age and dose status" title="Morris data: Israeli population stratified by age and dose status" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-confidence-intervals-by-age.png" width="400" height="400" alt="Israeli vaccine efficacies with confidence intervals, normalized and age-stratified" title="Israeli vaccine efficacies with confidence intervals, normalized and age-stratified" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
