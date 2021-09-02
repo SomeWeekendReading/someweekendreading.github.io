@@ -29,8 +29,8 @@ epidemiology says that 95% of adults in the US have had chicken pox.
 
 ## Shingles vaccines  
 
-<img src="{{ site.baseurl }}/images/2021-06-29-today-i-got-shot-a-third-time-zostavax.jpg" width="250" height="140" alt="Zostavax pack shot" title="Zostavax pack shot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-06-29-today-i-got-shot-a-third-time-shingrix.jpg" width="222" height="166" alt="Shingrix pack shot" title="Shingrix pack shot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
+<img src="{{ site.baseurl }}/images/2021-06-29-today-i-got-shot-a-third-time-zostavax.jpg" width="250" height="140" alt="Zostavax pack shot" title="Zostavax pack shot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Yeah, we got 'em.  
 
 Some time ago, I got the then-current shingles vaccine, Zostavax.  It had an efficacy of
@@ -59,6 +59,10 @@ Leonard Nimoy called [_For the Love of Spock_](https://www.netflix.com/title/801
 and maybe even binge-watch the [_Twilight_](https://en.wikipedia.org/wiki/Twilight_(novel_series))
 movies (hey, don't judge me;  the Weekend Editrix hates them, and though I have some
 reservations, I like the adventure love story parts).  
+
+This is my 4th vaccine this year for both your humble Weekend Editor &amp; Editrix (2
+COVID-19 + 2 Shingrix).  I'm forecasting a total of 6 jabs (COVID-19 booster + flu shot),
+which means 2021 will be a banner year for vaccinations, here at Chez Weekend.  
 
 Looking forward to feeling a bit better tomorrow.  Looking even more forward to 
 _not getting shingles_ for the rest of my life.  
