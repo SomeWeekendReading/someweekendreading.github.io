@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are we wasting too much COVID-19 vaccines?
+title: Are we wasting too much COVID-19 vaccine?
 tags: COVID MathInTheNews PharmaAndBiotech R
 comments: true
 ---
@@ -33,7 +33,9 @@ considerable taste!
 
 More importantly, he's a man of considerable _common sense_: when somebody gives you a
 percentage, you ask "Percent of _what?_"; when somebody gives you a large number, you ask
-"Compared to _what?_"  Every time.  
+"Compared to _what?_"  
+
+Every time.  
 
 
 ## Ok, let's dig into the crazy  
@@ -80,7 +82,7 @@ intellectual incoherence:
 
 Anecdote after anecdote, they tell numerous tedious stories to avoid doing anything
 useful.  Irrelevant monthly breakdowns, appeals to guilt, appeals to emotion in general,
-accusations of lack of planning&hellip; feh.  
+accusations of lack of planning&hellip; _feh._  
 
 
 ## Let's run the numbers  
@@ -124,7 +126,7 @@ an ideal of 0% wasted.
 
 <img src="{{ site.baseurl }}/images/2021-09-02-vaccine-waste-who.jpg" width="400" height="170" alt="WHO: Vaccine wasteage rates in routine vs ordinary use, stratified by doses/vial" title = "WHO: Vaccine wasteage rates in routine vs ordinary use, stratified by doses/vial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The _World Health Organization_ studied this problem before COVID-19, and published a
-concept note <sup id="fn1a">[[1]](#fn1)</sup> with a bit of amusing mathematics to make
+concept note <sup id="fn2a">[[2]](#fn2)</sup> with a bit of amusing mathematics to make
 probabilistic estimates of the amount of vaccine wasteage, due to various causes.  While
 that document is more of a proposal to do better with statistical models, their general
 estimates are shown in Table 1, reproduced here.  
@@ -158,7 +160,7 @@ It's the usual proabilistic model:
   of coming up heads &ndash; a
   [Benoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)).  
 - If you then count the number $k$ that are wasted out of $N$ total, that's a 
-  [binomial distribution](Binomial distribution).  
+  [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution).  
 - If you observe $k$ out of $N$ are wasted, you infer approximately $p = k/N$.  However,
   in a Bayesian framework, if you assume a uniform prior on $p$ (we make no committments
   of any sort about the potential values of $p$, beyond that it's in $[0, 1]$), then the
