@@ -159,7 +159,7 @@ It's the usual proabilistic model:
   or not).  
 - Then for each vial, it's like a coin flip with a loaded coin that has probability $p$
   of coming up heads &ndash; a
-  [Benoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)).  
+  [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)).  
 - If you then count the number $k$ that are wasted out of $N$ total, that's a 
   [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution).  
 - If you observe $k$ out of $N$ are wasted, you infer approximately $p = k/N$.  However,
