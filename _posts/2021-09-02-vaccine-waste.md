@@ -11,7 +11,7 @@ a lot, or a little compared with history?
 
 ## Scare headlines from the mathematically illiterate  
 
-Today I saw a rather nice tweet pointing to a scary-sounding head line about vaccine
+Today I saw a rather nice tweet pointing to a scary-sounding headline about vaccine
 wastage, and then quite sagely pointing out that this seems to be _less_ than historical
 vaccination campaigns:  
 
