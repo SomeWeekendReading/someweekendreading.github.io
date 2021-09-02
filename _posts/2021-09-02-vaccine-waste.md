@@ -12,7 +12,7 @@ a lot, or a little compared with history?
 ## Scare headlines from the mathematically illiterate  
 
 Today I saw a rather nice tweet pointing to a scary-sounding head line about vaccine
-wasteage, and then quite sagely pointing out that this seems to be _less_ than historical
+wastage, and then quite sagely pointing out that this seems to be _less_ than historical
 vaccination campaigns:  
 
 <blockquote class="twitter-tweet">
@@ -56,12 +56,12 @@ Sheesh.  Where do we even _start_ with how wrong this is?
 - Then, under the obligatory-but-irrelevant picture, in tiny type: "The number of
   discarded doses is still a small fraction of the total doses administered in the U.S."
   So which is it: are we wasting huge quantities, or being efficient with only a small
-  fraction of wast?  You can't have it both ways, but here it is _in consecutive sentences!_ 
+  fraction of waste?  You can't have it both ways, but here it is _in consecutive sentences!_ 
 
 Having read only the headline, subtitle, and irrelevant picture caption with exasperation,
 I did not have much hope for the rest.  It sort of dances around, citing all sorts of
 irrelevancies, without really telling you the 3 things that are actually relevant:  
-1. What are doses that are "wasted", i.e., disposed of, as a _fraction of the total_?
+1. What are doses that are "wasted", i.e., disposed of, as a _fraction of the total?_
    Without looking at this, you can't really judge whether the number is large or small.  
 1. How does that fraction _compare_ with previous vaccine campaigns?  Without looking at
    this, you can't tell whether you're doing any better or worse than could be expected.  
@@ -104,6 +104,7 @@ though we're hogging all the output, we're buying some of it _to give away._  In
 the US is giving away a _lot_ of the purchased doses, leaving less than what's needed to fully
 vaccinate the US, let alone give boosters, which is the _opposite_ of what was implied by
 the article above:  
+
 $$
 \Pr(\mathrm{given away dose}) = 100\% \times \frac{111,700,000}{438,000,000} = 25.5\%
 $$
@@ -112,6 +113,7 @@ Third, look at the 15.1 million doses that somehow were not put in arms.  Could 
 failiure, cracked vials, multi-dose vials where you don't have enough patients to use them
 up in time, and so on.  Nobody's "wasting" anything.  Also, the percent not put in arms
 is:  
+
 $$
 \Pr(\mathrm{unused, disposed dose}) = 100\% \times \frac{15,100,000}{438,000,000} = 3.4\%
 $$
@@ -124,11 +126,11 @@ So&hellip; there was about 3.4% "waste".  That doesn't sound too bad, right?
 How have other vaccination campaigns fared in the past?  That's the right comparison, not
 an ideal of 0% wasted.  
 
-<img src="{{ site.baseurl }}/images/2021-09-02-vaccine-waste-who.jpg" width="400" height="170" alt="WHO: Vaccine wasteage rates in routine vs ordinary use, stratified by doses/vial" title = "WHO: Vaccine wasteage rates in routine vs ordinary use, stratified by doses/vial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-09-02-vaccine-waste-who.jpg" width="400" height="170" alt="WHO: Vaccine wastage rates in routine vs ordinary use, stratified by doses/vial" title = "WHO: Vaccine wastage rates in routine vs ordinary use, stratified by doses/vial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Starting from a popular article <sup id="fn2a">[[2]](#fn2)</sup>, we dug in a little bit
 for primary sources.  The _World Health Organization_ studied this problem before
 COVID-19, and published a concept note <sup id="fn3a">[[3]](#fn3)</sup> with a bit of
-amusing mathematics to make probabilistic estimates of the amount of vaccine wasteage, due
+amusing mathematics to make probabilistic estimates of the amount of vaccine wastage, due
 to various causes.  While that document is more of a proposal to do better with
 statistical models, their general estimates are shown in Table 1, reproduced here:  
 - In mass vaccination campaigns, the range is from 5% &ndash; 20%.  
@@ -138,9 +140,9 @@ statistical models, their general estimates are shown in Table 1, reproduced her
 The COVID-19 mRNA vaccines have the most rigorous cold chain I've ever seen, and are in
 multi-dose vials (as far as I can tell, 6/vial for Pfizer and 15/vial for Moderna).  That
 means the appropriate scale of comparison is either row 2 or 3 of the table, i.e., about 
-10% &ndash; 15% wasteage during a vaccine campaign.  
+10% &ndash; 15% wastage during a vaccine campaign.  
 
-What we actually observe here is 3.5% wasteage of COVID-19 vaccines.  In other words,
+What we actually observe here is 3.5% wastage of COVID-19 vaccines.  In other words,
 _we are doing about 3-5x better than historical campaigns have done_, wasting
 significantly less vaccine!  In fact, we're below the 5% historical waste level even for
 single-dose vials.  
@@ -150,9 +152,8 @@ This is the _opposite_ of the conclusion the flashy article above would have inv
 
 ## Is that just chance, or is it really better?  
 
-Ok, fine.  But is that just due to chance, or are we _really_ doing better?  
-
-This is what statistics is _for_: given some evidence, what should we believe about it?  
+Ok, fine.  But is that just due to chance, or are we _really_ doing better?  This is what
+statistics is _for:_ given some evidence, what should we believe about it?  
 
 It's the usual proabilistic model:  
 - Let $p$ be the probability a given dose gets "wasted" (for whatever reason, legitimate
@@ -181,10 +182,10 @@ corresponding Beta distribution look, as calculated by a little
 - The 95% confidence interval on the probability a vaccine dose is wasted is
   3.446% &ndash; 3.449%.  
   
-So we're _very_ sure that the probability of wasting a dose is around 3.447%.  
+So we're _very_ sure that the probability of wasting a dose is around 3.4475%.  
 
 But let's do the formal hypothesis test anyway: how far out in the tail are the values
-shown as wasteage rates in the past of 5%, 10%, and 15% that we should compare against?
+shown as wastage rates in the past of 5%, 10%, and 15% that we should compare against?
 Let's see:  
 
 ```R
@@ -243,6 +244,6 @@ the age rather than reality.
 
 <a id="fn2">2</a>: S Schiffling &amp; Liz Breen, ["COVID vaccine: some waste is normal – but here’s how it is being kept to a minimum"](https://theconversation.com/covid-vaccine-some-waste-is-normal-but-heres-how-it-is-being-kept-to-a-minimum-152772), _The Conversation_, 2021-Jan-11. [↩](#fn2a)  
 
-<a id="fn3">3</a>: World Health Organization Immunization Programmes Staff (Contact: [Souleymane Kone](mailto:kones@who.int) of WHO Supply Chain Group), ["Revising global indicative wastage rates: a WHO initiative for better planning and forecasting of vaccine supply needs"](https://www.who.int/immunization/programmes_systems/supply_chain/resources/Revising_Wastage_Concept_Note.pdf?ua=1), _World Health Organization_ (Concept Note), 2019-Apr-08. [↩](#fn3a)  
+<a id="fn3">3</a>: World Health Organization Immunization Programmes Staff (Contact: [Souleymane Kone](mailto:kones@who.int), of WHO Supply Chain Group), ["Revising global indicative wastage rates: a WHO initiative for better planning and forecasting of vaccine supply needs"](https://www.who.int/immunization/programmes_systems/supply_chain/resources/Revising_Wastage_Concept_Note.pdf?ua=1), _World Health Organization_ (Concept Note), 2019-Apr-08. [↩](#fn3a)  
 
 <a id="fn4">4</a>: Weekend Editor, [R script to plot posterior Beta distribution of probability of a wasted dose]({{ site.baseurl }}/assets/2021-09-02-vaccine-waste.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Sep-02. [↩](#fn4a)  
