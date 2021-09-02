@@ -31,9 +31,9 @@ I dunno much about this guy, b-boy bouiebaisse.  However, I do love
 [cioppino](https://en.wikipedia.org/wiki/Cioppino).  So he's obviously a man of
 considerable taste!  
 
-More importantly, he's a man of considerable _common sense_: when somebody gives you a
-percentage, you ask "Percent of _what?_"; when somebody gives you a large number, you ask
-"Compared to _what?_"  
+More importantly, he's a man of considerable _common sense:_ when somebody gives you a
+percentage, you ask "Percent of _what?"_; when somebody gives you a large number, you ask
+"Compared to _what?"_  
 
 Every time.  
 
