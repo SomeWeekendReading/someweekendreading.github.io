@@ -125,11 +125,12 @@ How have other vaccination campaigns fared in the past?  That's the right compar
 an ideal of 0% wasted.  
 
 <img src="{{ site.baseurl }}/images/2021-09-02-vaccine-waste-who.jpg" width="400" height="170" alt="WHO: Vaccine wasteage rates in routine vs ordinary use, stratified by doses/vial" title = "WHO: Vaccine wasteage rates in routine vs ordinary use, stratified by doses/vial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-The _World Health Organization_ studied this problem before COVID-19, and published a
-concept note <sup id="fn2a">[[2]](#fn2)</sup> with a bit of amusing mathematics to make
-probabilistic estimates of the amount of vaccine wasteage, due to various causes.  While
-that document is more of a proposal to do better with statistical models, their general
-estimates are shown in Table 1, reproduced here.  
+Starting from a popular article <sup id="fn2a">[[2]](#fn2)</sup>, we dug in a little bit
+for primary sources.  The _World Health Organization_ studied this problem before
+COVID-19, and published a concept note <sup id="fn3a">[[3]](#fn3)</sup> with a bit of
+amusing mathematics to make probabilistic estimates of the amount of vaccine wasteage, due
+to various causes.  While that document is more of a proposal to do better with
+statistical models, their general estimates are shown in Table 1, reproduced here:  
 - In mass vaccination campaigns, the range is from 5% &ndash; 20%.  
 - The bigger the vial and the more stringent the cold chain requirements, the more the
   waste.  
@@ -240,8 +241,8 @@ the age rather than reality.
 
 <a id="fn1">1</a>: J Eaton &amp; J Murphy, ["15 million Covid vaccine doses thrown away in the U.S. since March, new data shows"](https://www.nbcnews.com/news/us-news/america-has-wasted-least-15-million-covid-vaccine-doses-march-n1278211), _NBC News_, 2021-Sep-01. [↩](#fn1a)  
 
-<a id="fn2">2</a>: World Health Organization Immunization Programmes Staff (Contact: [Souleymane Kone](mailto:kones@who.int) of WHO Supply Chain Group), ["Revising global indicative wastage rates: a WHO initiative for better planning and forecasting of vaccine supply needs"](https://www.who.int/immunization/programmes_systems/supply_chain/resources/Revising_Wastage_Concept_Note.pdf?ua=1), _World Health Organization_ (Concept Note), 2019-Apr-08. [↩](#fn2a)  
+<a id="fn2">2</a>: S Schiffling &amp; Liz Breen, ["COVID vaccine: some waste is normal – but here’s how it is being kept to a minimum"](https://theconversation.com/covid-vaccine-some-waste-is-normal-but-heres-how-it-is-being-kept-to-a-minimum-152772), _The Conversation_, 2021-Jan-11. [↩](#fn2a)  
 
-<a id="fn3">3</a>: S Schiffling &amp; Liz Breen, ["COVID vaccine: some waste is normal – but here’s how it is being kept to a minimum"](https://theconversation.com/covid-vaccine-some-waste-is-normal-but-heres-how-it-is-being-kept-to-a-minimum-152772), _The Conversation_, 2021-Jan-11. [↩](#fn3a)  
+<a id="fn3">3</a>: World Health Organization Immunization Programmes Staff (Contact: [Souleymane Kone](mailto:kones@who.int) of WHO Supply Chain Group), ["Revising global indicative wastage rates: a WHO initiative for better planning and forecasting of vaccine supply needs"](https://www.who.int/immunization/programmes_systems/supply_chain/resources/Revising_Wastage_Concept_Note.pdf?ua=1), _World Health Organization_ (Concept Note), 2019-Apr-08. [↩](#fn3a)  
 
 <a id="fn4">4</a>: Weekend Editor, [R script to plot posterior Beta distribution of probability of a wasted dose]({{ site.baseurl }}/assets/2021-09-02-vaccine-waste.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Sep-02. [↩](#fn4a)  
