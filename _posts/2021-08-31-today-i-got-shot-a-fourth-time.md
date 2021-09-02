@@ -59,8 +59,8 @@ Looking forward to spending a day on the couch, watching the
 [JJ Abrams _Star Trek_](https://en.wikipedia.org/wiki/Star_Trek_(film)), a documentary on
 Leonard Nimoy called [_For the Love of Spock_](https://www.netflix.com/title/80115102),
 and maybe even binge-watch the [_Twilight_](https://en.wikipedia.org/wiki/Twilight_(novel_series))
-movies (hey, don't judge me; the Weekend Editrix hates them, but although I have some
-reservations, I like the adventure &amp; love story parts).  
+movies. (The Weekend Editrix hates them. Although I have some reservations, I like the
+adventure &amp; love story parts.  Don't judge me.)  
 
 This is the 4th vaccine this year for both your humble Weekend Editor &amp; Editrix (2
 COVID-19 + 2 Shingrix).  I'm forecasting a total of 6 jabs this year for us (additionally:
