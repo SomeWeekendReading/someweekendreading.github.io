@@ -106,16 +106,15 @@ vaccinate the US, let alone give boosters, which is the _opposite_ of what was i
 the article above:  
 
 $$
-\Pr(\mathrm{given away dose}) = 100\% \times \frac{111,700,000}{438,000,000} = 25.5\%
+\Pr(\mathrm{donated.dose}) = 100\% \times \frac{111,700,000}{438,000,000} = 25.5\%
 $$
 
 Third, look at the 15.1 million doses that somehow were not put in arms.  Could be freezer
 failiure, cracked vials, multi-dose vials where you don't have enough patients to use them
-up in time, and so on.  Nobody's "wasting" anything.  Also, the percent not put in arms
-is:  
+up in time, and so on.  Nobody's "wasting" anything.  The percent not put in arms is:  
 
 $$
-\Pr(\mathrm{unused, disposed dose}) = 100\% \times \frac{15,100,000}{438,000,000} = 3.4\%
+\Pr(\mathrm{disposed.dose}) = 100\% \times \frac{15,100,000}{438,000,000} = 3.4\%
 $$
 
 So&hellip; there was about 3.4% "waste".  That doesn't sound too bad, right?  
