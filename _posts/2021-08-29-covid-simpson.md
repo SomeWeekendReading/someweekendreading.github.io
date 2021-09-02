@@ -290,11 +290,12 @@ Nailed it.
 I just realized that we can take Morris's spreadsheet and extract the Israeli population
 counts, stratified by age and vaccination status.  That's important because we can
 calculate the vaccine efficacies _ab initio_, along with their confidence intervals.  So I
-did that, with a little R script. <sup id="fn11a">[[11]](#fn11)</sup>  (Note that the
-calculation of the confidence intervals has a few problems when one of the arms has 0
-infections.  Also, in those cases &ndash; check the table &ndash; the infection counts in
-both arms are so low we can't achieve statistical significance.  So don't take seriously
-the confidence intervals when the efficacy is 100%.)  
+did that, with a little R script. <sup id="fn11a">[[11]](#fn11)</sup>  
+
+Note that the calculation of the confidence intervals has a few problems when one of the
+arms has 0 infections.  Also, in those cases &ndash; check the table &ndash; the infection
+counts in both arms are so low we can't achieve statistical significance.  So don't take
+seriously the confidence intervals when the efficacy is 100%.  
 
 Here's the resulting plot.  Other than the artifacts around the CI's at 100% efficacy, you
 can see that the vaccines remain strong across all ages, and that we are quite certain

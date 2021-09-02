@@ -63,9 +63,9 @@ movies (hey, don't judge me; the Weekend Editrix hates them, but although I have
 reservations, I like the adventure &amp; love story parts).  
 
 This is the 4th vaccine this year for both your humble Weekend Editor &amp; Editrix (2
-COVID-19 + 2 Shingrix).  I'm forecasting a total of 6 jabs (additionally: COVID-19
-booster + flu shot), which means 2021 will be a banner year for vaccinations, here at Chez
-Weekend.  
+COVID-19 + 2 Shingrix).  I'm forecasting a total of 6 jabs this year for us (additionally:
+COVID-19 booster + flu shot), which means 2021 will be a banner year for vaccinations,
+here at Chez Weekend.  
 
 Looking forward to feeling a bit better tomorrow.  Looking even more forward to 
 _not getting shingles_ for the rest of my life.  
