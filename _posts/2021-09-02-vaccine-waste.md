@@ -7,7 +7,7 @@ comments: true
 
 Today comes news that we've wasted about 15.1 million doses of COVID-19 doses here in the
 US.  Is that a lot, or a little?  How does it compare with history?  Is the difference, if
-any, just random or is it real (statistically significant)?  
+any, just random or is it real, i.e., statistically significant?  
 
 
 ## Scare headlines from the mathematically illiterate  
