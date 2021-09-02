@@ -298,6 +298,9 @@ Here's the resulting plot.  Other than the artifacts around the CI's at 100% eff
 can see that the vaccines remain strong across all ages, and that we are quite certain
 that is the case.  
 
+Simpson's paradox is really, _really_ misleading people here.  There may be arguments for
+a booster shot, but apparently these data are not one of those arguments.  
+
 ---
 
 ## Notes &amp; References  
