@@ -116,7 +116,7 @@ $$
 \Pr(\mathrm{unused, disposed dose}) = 100\% \times \frac{15,100,000}{438,000,000} = 3.4\%
 $$
 
-So&hellip; there was about 3.4% "waste".  That doesn't sound too bad.  
+So&hellip; there was about 3.4% "waste".  That doesn't sound too bad, right?  
 
 
 ## Comparison with other vaccination campaigns  
@@ -226,7 +226,7 @@ see above, however, are:
   that we're really as profligate as historical campaigns, but happened to get 3.4% just
   by luck.  We _really are doing better._  
   
-And that, boys and girls, is why you never trust the news when they dance around something
+And that, boys and girls, is why you never trust the news media when they dance around something
 to avoid quantitative reasoning.  They're frequently wrong, reflecting the anxieties of
 the age rather than reality.  
 
