@@ -304,6 +304,27 @@ that is the case.
 Simpson's paradox is really, _really_ misleading people here.  There may be arguments for
 a booster shot, but apparently these data are not one of those arguments.  
 
+
+## Addendum 2021-Sep-03: Gary Cornell's explainer in _Slate_  
+
+<img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-slate.jpg" width="400" height="228" alt="Cornell @ Slate: on the meaninglessness of the percent of hospitalized who were vaccinated" title="Cornell @ Slate: on the meaninglessness of the percent of hospitalized who were vaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Mathematician Gary Cornell had 
+[a piece related to this on his
+blog](https://garycornell.com/2021/07/28/the-base-rate-fallacy-x-of-new-covid-cases-are-among-the-vaccinated-is-a-bs-statement/),
+about how [the base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy) is
+tripping people up here.  Basically, don't ignore the background rate at which something
+happens in favor of compelling anecdotes!  
+
+A revised &amp; extended version of that has been published in 
+_Slate_. <sup id="fn12a">[[12]](#fn12)</sup>  It's worth your time to read.  In a way,
+points out how meaning-free it is to say "75% of those hospitalized for COVID were
+vaccinated".  It's the Bayesian error we pointed out above: knowing 
+$\Pr(\mathrm{vax} | \mathrm{hospitalized})$ is useless, but knowing
+$\Pr(\mathrm{hospitalized} | \mathrm{vax})$ is useful.  Transforming from one to the other
+with Bayes' Rule requires knowing the base rate.  
+
+Are we getting through, here?  
+
 ---
 
 ## Notes &amp; References  
@@ -334,3 +355,5 @@ a booster shot, but apparently these data are not one of those arguments.
 <a id="fn10">10</a>: J Ellenberg, ["Coronavirus vaccines work. But this statistical illusion makes people think they don't."](https://www.washingtonpost.com/outlook/2021/08/31/covid-israel-hospitalization-rates-simpsons-paradox/), _Washington Post_, 2021-Aug-31.[↩](#fn10a)  
 
 <a id="fn11">11</a>: Weekend Editor, ["R script to plot normalized, stratified Israeli vaccine efficacies and confidence intervals"]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-confidence-intervals-by-age.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Aug-29.  The [tab-separated value file used as an input]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-Israeli_data_August_15_2021-vax-summary.tsv) was derived from [Morris's data]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-Israeli_data_August_15_2021-vax-summary.xlsx).  There is also a [transcript]({{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-confidence-intervals-by-age.txt) of running the script. [↩](#fn11a)  
+
+<a id="fn12">12</a>: G Cornell, ["What Does It Really Mean When a Headline Says '75 Percent of Cases Occurred in Vaccinated People'?"](https://slate.com/technology/2021/08/what-it-means-when-75-percent-of-covid-19-cases-occur-in-vaccinated-people.html), _Slate_, 2021-Aug-04. [↩](#fn12a)  
