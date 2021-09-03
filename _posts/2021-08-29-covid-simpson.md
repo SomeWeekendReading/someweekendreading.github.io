@@ -121,8 +121,12 @@ People jump, without justification, to 2 frightening but erroneous or irrelevant
   vaccinated!  
 
 In some ways, this is just a basic blunder with Bayes Rule.  They've computed 
-$\Pr(\mathrm{vax} | \mathrm{hospitalized})$, when the relevant thing to know is instead 
-$\Pr(\mathrm{hospitalized} | \mathrm{vax})$.  
+the probability you were vaccinated, given that you're already hospitalized:
+$\Pr(\mathrm{vax} | \mathrm{hospitalized})$. That is, very approximately, nonsense.
+The relevant thing to know is instead is the probabilty of getting hospitalized, given
+that you're already vaccinated: $\Pr(\mathrm{hospitalized} | \mathrm{vax})$.  The two are
+of course related by Bayes Rule, if you know the base rates of vaccination and
+hospitalization.  
 
 But there are 2 more serious errors that are at the root of Simpson's paradox:  
 - The first is a blunder from not understanding vaccine efficacy: both the vaccinated rate
@@ -130,7 +134,8 @@ But there are 2 more serious errors that are at the root of Simpson's paradox:
   just the hospitalized populations.  Israel right now has about 78% vaccinated (below), so you'd
   _expect_ to see more cases from among the vaccinated!  
 - The second error is to ignore age groups.  The elderly are both more likely to
-  be vaccinated, and more likely to be hospitalized if they _do_ get infected anyway.  
+  be vaccinated, and more likely to be hospitalized if they _do_ get infected anyway.
+  That is to say, age is confounded both with vaccination rate _and_ hospitalization!  
 
 
 ## Adjusting for population sizes of vaccinated and unvaccinated  
@@ -150,9 +155,9 @@ $$
 $$
 
 (The table above reports a slightly different number, because sometimes youths age 0-12
-were not included, and the partially immunized with only 1 shot are not included.  But
-ballpark&hellip; 78% - 81%.)  So there were a _lot_ more vaccinated than unvaccinated
-people.  
+were not included, and the partially immunized with only 1 shot are not included.  Details
+can be harmonized from Morris's spreadsheet.  But ballpark&hellip; 78% - 81%.)  So there
+were a _lot_ more vaccinated than unvaccinated people.  
 
 The probabilities we want are now calculable too:  
 
@@ -171,7 +176,8 @@ $$
 VE = 1 - \frac{\Pr(\mathrm{hospitalized} | \mathrm{vax})}{\Pr(\mathrm{hospitalized} | \mathrm{unvax})} = 1 - 0.0053 / 0.0164 = 67.6\% 
 $$
 
-That's certainly better&hellip; but not good enough yet!  
+That's certainly better, now that we've properly normalized and computed the _relevant_ 
+probabilities&hellip; but not good enough yet!  
 
 
 ## Still not good enough: stratify by age  
@@ -277,7 +283,7 @@ shout-out to his mom, who pointed him at Morris's blog post.
 > other scholars have pointed out — what explains the surprising hospitalization figures is
 > largely the relative ages of vaccinated and unvaccinated people.  
 > &hellip;  
-> If _everyone_ were vaccinated, then all hospitalized people would be vaccinated — and that
+> __If everyone were vaccinated, then all hospitalized people would be vaccinated__ &ndash; and that
 > obviously wouldn’t mean vaccination was useless.  
 
 Nailed it.  
@@ -293,11 +299,11 @@ calculate the vaccine efficacies _ab initio_, along with their confidence interv
 did that, with a little R script. <sup id="fn11a">[[11]](#fn11)</sup>  
 
 Note that the calculation of the confidence intervals has a few problems when one of the
-arms has 0 infections.  Also, in those cases &ndash; check the table &ndash; the infection
-counts in both arms are so low we can't achieve statistical significance.  So don't take
-seriously the confidence intervals when the efficacy is 100%.  
+arms has 0 infections.  Also, in those cases &ndash; check the first 3 rows of the table
+&ndash; the infection counts in both arms are so low we can't achieve statistical
+significance.  So don't take seriously the wide confidence intervals when the efficacy is 100%.  
 
-Here's the resulting plot.  Other than the artifacts around the CI's at 100% efficacy, you
+Here's the resulting plot.  Other than the silly-wide CI's at 100% efficacy, you
 can see that the vaccines remain strong across all ages, and that we are quite certain
 that is the case.  
 
@@ -313,7 +319,8 @@ Mathematician &amp; publisher Gary Cornell had
 blog](https://garycornell.com/2021/07/28/the-base-rate-fallacy-x-of-new-covid-cases-are-among-the-vaccinated-is-a-bs-statement/),
 about how [the base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy) is
 tripping people up here.  Basically, don't ignore the background rate at which something
-happens in favor of compelling foreground anecdotes!  
+happens in favor of compelling foreground anecdotes!  It's from before we'd figured out that
+Simpson's paradox was active here, but it does point out the normalization problem.  
 
 A revised &amp; extended version of that has been published in 
 _Slate_. <sup id="fn12a">[[12]](#fn12)</sup>  It's worth your time to read.  In a way,
@@ -323,8 +330,8 @@ $\Pr(\mathrm{vax} | \mathrm{hospitalized})$ is useless, but knowing
 $\Pr(\mathrm{hospitalized} | \mathrm{vax})$ is usefully predictive.  
 
 Transforming from one to the other with Bayes' Rule requires knowing the base rates, 
-$\Pr(\mathrm{vax})$ and $\Pr(\mathrm{hospitalized})$.  Simpson's paradox comes in because
-both of _those_ are related to age.  
+$\Pr(\mathrm{vax})$ and $\Pr(\mathrm{hospitalized})$.  Simpson's paradox comes in after
+that,  because both of _those_ are related to age.  
 
 Are we getting through, here?  
 
