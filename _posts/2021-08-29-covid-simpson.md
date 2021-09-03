@@ -320,8 +320,9 @@ _Slate_. <sup id="fn12a">[[12]](#fn12)</sup>  It's worth your time to read.  In 
 points out how meaning-free it is to say "75% of those hospitalized for COVID were
 vaccinated".  It's the Bayesian error we pointed out above: knowing 
 $\Pr(\mathrm{vax} | \mathrm{hospitalized})$ is useless, but knowing
-$\Pr(\mathrm{hospitalized} | \mathrm{vax})$ is useful.  Transforming from one to the other
-with Bayes' Rule requires knowing the base rate.  
+$\Pr(\mathrm{hospitalized} | \mathrm{vax})$ is usefully predictive.  
+
+Transforming from one to the other with Bayes' Rule requires knowing the base rate.  
 
 Are we getting through, here?  
 
