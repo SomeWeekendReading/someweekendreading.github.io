@@ -44,7 +44,7 @@ Every. Single.  Time.
 <img src="{{ site.baseurl }}/images/2021-09-02-vaccine-waste-nbc.jpg" width="400" height="144" alt="NBC: 15 million Covid vaccine doses wasted in US since March" title = "NBC: 15 million Covid vaccine doses wasted in US since March" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 First up is the source of the scare headline, from NBC News <sup id="fn1a">[[1]](#fn1)</sup>: 
 15 million doses "thrown away", with the first-world guilt-inducing subtitle "As countries
-across the world clamore for vaccine doses, U.S. pharmacy chains and state health
+across the world clamor for vaccine doses, U.S. pharmacy chains and state health
 departments have thrown millions away."  
 
 Sheesh.  Where do we even _start_ with how wrong this is?  
@@ -142,7 +142,7 @@ multi-dose vials (as far as I can tell, currently 6/vial for Pfizer and 15/vial 
 Moderna).  That means the appropriate scale of comparison is either row 2 or 3 of the
 table, i.e., about 10% &ndash; 15% wastage during a vaccine campaign.  
 
-What we actually observe here is 3.5% wastage of COVID-19 vaccines.  In other words,
+What we actually observe here is 3.4% wastage of COVID-19 vaccines.  In other words,
 _we are doing about 3-5x better than historical campaigns have done_, wasting
 significantly less vaccine!  In fact, we're below the 5% historical waste level even for
 single-dose vials.  
@@ -204,7 +204,7 @@ Let's see:
 Effectively, here we're looking at the graph above and asking what's the probability of
 getting a waste rate as high as 5% &ndash; 15% as seen in the past?  In all cases, the
 probability is basically 0!  The uncertainty around the probability of wasting a dose
-($p$) is so strongly centered around 3.449% that there's no chance in the world that we're
+($p$) is so strongly centered around 3.4475% that there's no chance in the world that we're
 actually as wasting as the past studies, and saw this value by chance.  
 
 In other words, the idea that the waste of COVID-19 is less than past studies is 

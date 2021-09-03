@@ -63,9 +63,9 @@ just think for a moment:
   miscarriages by now?  
 - The [CDC _specifically advises_ that pregnant people should get the vaccine](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html):  
 
-> If I am pregnant, can I get a COVID-19 vaccine?  
+> __If I am pregnant, can I get a COVID-19 vaccine?__  
 >  
-> Yes, COVID-19 vaccination is recommended for all people 12 years and older, including
+> __Yes__, COVID-19 vaccination is recommended for all people 12 years and older, including
 > people who are pregnant, breastfeeding, trying to get pregnant now, or might become
 > pregnant in the future. You might want to have a conversation with your healthcare
 > provider about COVID-19 vaccination. While such a conversation might be helpful, it is
@@ -125,6 +125,11 @@ high points:
   anything, e.g., here about syncytin-1.  But the consensus of all the rest of the
   literature is "no".  It's all just
   [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).  
+
+They almost make it too easy, by ticking off all the checkboxes of conspiracy thinking (in
+bold above): factually false statements, logical fallacies, moving the goalposts, fake
+experts, magical thinking, conspiracy tropes, and cherry-picking data.  Le sigh.  
+
 
 ## What else ya got?  
 

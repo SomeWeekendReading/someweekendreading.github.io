@@ -31,8 +31,8 @@ So it was with something of a sinking heart I learned from my source that he rea
 "somewhere in the _Wall Street Journal_".  Now, I'm a lefty, socialisty, intellectual type
 who thinks you should probably _never_ take medical advice from the _WSJ_.  And certainly
 not from the OpEd page, which is where our source is.  (Needless to say: don't take _any_
-advice from the dreaded Editorial page, in fact don't even read it.  Too many cognitive hazards
-from the right-wing propaganda.)  
+advice on _any_ subject from the dreaded Editorial page, in fact don't even read it.  Too
+many cognitive hazards from the right-wing propaganda.)  
 
 Still, with a sigh, we found the article in question. <sup id="fn1a">[[1]](#fn1)</sup>
 It's of course paywalled, because _WSJ_.  But the first 5 paragraphs give us a general
@@ -46,9 +46,9 @@ idea:
 > But could they also help protect seniors against dementia and Alzheimer’s disease?
 > There’s reason to hope so.  
 
-<img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-cmaj.jpg" width="400" height="188" alt="CMAJ: DTaP, polio, and flu vaccines associated with lower Alzheimers" title="CMAJ: DTaP, polio, and flu vaccines associated with lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-cmaj.jpg" width="400" height="188" alt="CMAJ: TDaP, polio, and flu vaccines associated with lower Alzheimers" title="CMAJ: TDaP, polio, and flu vaccines associated with lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - They explore some studies on the incidence of Alzheimers among people who took or
-  did not take _other_ vaccines, notably DTaP, polio, and flu. <sup id="fn2a">[[2]](#fn2)</sup>
+  did not take _other_ vaccines, notably TDaP, polio, and flu. <sup id="fn2a">[[2]](#fn2)</sup>
   Now, I'm not familiar with that paper from way back in 2001, and nobody's made much
   noise about vaccinations
   as prophylactic against Alzheimers.  Still, it sort of makes sense: people who get
@@ -57,7 +57,7 @@ idea:
   a link to general health behavior, but hard to believe a specific link to vaccines.  
 - If you find _one_ study that says something unusual, nobody much cares.  Can you find
   multiple studies that form a pattern?  
-<img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-jnlgeront.jpg" width="400" height="129" alt="Jnl Gerontology: DTAP vaccines and lower Alzheimers" title="Jnl Gerontology: DTAP vaccines and lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-18-covid-vaccines-alzheimers-jnlgeront.jpg" width="400" height="129" alt="Jnl Gerontology: TDaP vaccines and lower Alzheimers" title="Jnl Gerontology: TDaP vaccines and lower Alzheimers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - Our intrepid _WSJ_ OpEd writer found _one_ other study, from earlier this 
   year. <sup id="fn3a">[[3]](#fn3)</sup>  This study involved only the TDaP vaccine, but
   found a [hazard ratio](https://en.wikipedia.org/wiki/Hazard_ratio) 

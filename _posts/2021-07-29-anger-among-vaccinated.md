@@ -176,7 +176,7 @@ and this can guide them about the number of patients to follow.
 ## The Weekend Conclusion  
 
 <img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Yeah, we vaccinated folk are mad at the willfully unvaccinated folk.  (Those unvaccinated
+Yeah, we vaccinated folk are mad at the willfully unvaccinated folk.  (Those who are unvaccinated
 for valid medical reasons like immunosuppression or cancer treatment of course get a pass,
 and our sympathy.)  The unvaccinated are prolonging the pandemic, breeding variants, and
 just generally damaging the lives of everybody else&hellip; for no good reason.  
