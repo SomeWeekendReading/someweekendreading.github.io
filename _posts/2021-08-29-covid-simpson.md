@@ -313,7 +313,7 @@ Mathematician Gary Cornell had
 blog](https://garycornell.com/2021/07/28/the-base-rate-fallacy-x-of-new-covid-cases-are-among-the-vaccinated-is-a-bs-statement/),
 about how [the base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy) is
 tripping people up here.  Basically, don't ignore the background rate at which something
-happens in favor of compelling anecdotes!  
+happens in favor of compelling foreground anecdotes!  
 
 A revised &amp; extended version of that has been published in 
 _Slate_. <sup id="fn12a">[[12]](#fn12)</sup>  It's worth your time to read.  In a way,
