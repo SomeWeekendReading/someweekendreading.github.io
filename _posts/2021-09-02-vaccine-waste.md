@@ -137,10 +137,10 @@ statistical models, their general estimates are shown in Table 1, reproduced her
 - The bigger the vial and the more stringent the cold chain requirements, the more the
   waste.  
   
-The COVID-19 mRNA vaccines have the most rigorous cold chain I've ever seen, and are in
-multi-dose vials (as far as I can tell, 6/vial for Pfizer and 15/vial for Moderna).  That
-means the appropriate scale of comparison is either row 2 or 3 of the table, i.e., about 
-10% &ndash; 15% wastage during a vaccine campaign.  
+The COVID-19 mRNA vaccines have the most onerous cold chain I've ever seen, and are in
+multi-dose vials (as far as I can tell, currently 6/vial for Pfizer and 15/vial for
+Moderna).  That means the appropriate scale of comparison is either row 2 or 3 of the
+table, i.e., about 10% &ndash; 15% wastage during a vaccine campaign.  
 
 What we actually observe here is 3.5% wastage of COVID-19 vaccines.  In other words,
 _we are doing about 3-5x better than historical campaigns have done_, wasting
