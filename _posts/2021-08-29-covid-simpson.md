@@ -322,7 +322,9 @@ vaccinated".  It's the Bayesian error we pointed out above: knowing
 $\Pr(\mathrm{vax} | \mathrm{hospitalized})$ is useless, but knowing
 $\Pr(\mathrm{hospitalized} | \mathrm{vax})$ is usefully predictive.  
 
-Transforming from one to the other with Bayes' Rule requires knowing the base rate.  
+Transforming from one to the other with Bayes' Rule requires knowing the base rates, 
+$\Pr(\mathrm{vax})$ and $\Pr(\mathrm{hospitalized})$.  Simpson's paradox comes in because
+both of _those_ are related to age.  
 
 Are we getting through, here?  
 
