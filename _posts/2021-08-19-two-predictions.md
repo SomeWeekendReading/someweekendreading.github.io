@@ -97,7 +97,7 @@ revolutionize our future, for both cancer vaccines and disease vaccines.  For ex
 <img src="{{ site.baseurl }}/images/2021-08-19-two-predictions-clintrial.jpg" width="400" height="294" alt="ClinicalTrials.gov: Trial NCT05001373 of Moderna's HIV Vaccines" title="ClinicalTrials.gov: Trial NCT05001373 of Moderna's HIV Vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 So this week it was unsurprising, though extremely gratifying, to hear that Moderna's mRNA
-vaccines (there are 2: mRNA-1644 and mRNA-1644v2-Core; a third called mRNA-1574 is not far
+vaccines for HIV (there are 2: mRNA-1644 and mRNA-1644v2-Core; a third called mRNA-1574 is not far
 behind) are entering Phase 1 clinical trials this week! <sup id="fn2a">[[2]](#fn2)</sup>
 
 HIV has been a nightmare, as far as vaccines &mdash; nothing much has worked.  Let's hope
