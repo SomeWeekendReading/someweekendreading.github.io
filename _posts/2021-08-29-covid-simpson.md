@@ -308,7 +308,7 @@ a booster shot, but apparently these data are not one of those arguments.
 ## Addendum 2021-Sep-03: Gary Cornell's explainer in _Slate_  
 
 <img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-slate.jpg" width="400" height="228" alt="Cornell @ Slate: on the meaninglessness of the percent of hospitalized who were vaccinated" title="Cornell @ Slate: on the meaninglessness of the percent of hospitalized who were vaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Mathematician Gary Cornell had 
+Mathematician &amp; publisher Gary Cornell had 
 [a piece related to this on his
 blog](https://garycornell.com/2021/07/28/the-base-rate-fallacy-x-of-new-covid-cases-are-among-the-vaccinated-is-a-bs-statement/),
 about how [the base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy) is
