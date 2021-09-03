@@ -1,4 +1,4 @@
-# This is the data for an obscure blog by an obscure retired scientist  
+# This is the data for an obscure blog of an even more obscure retired scientist  
 
 [Jekyll](https://github.com/mojombo/jekyll) automatically builds it into a static site.  It
 lets me write posts locally in Emacs, push up to GitHub as a content management system,
@@ -13,10 +13,10 @@ here.  Probably lots of Jekyll/Github blunders!
 The following files, directories, and their contents are copyright by me.  You may not reuse
 anything therein without explicit permission:  
 
+* \_data/  
 * \_posts/  
-* images/  
 * assets/  
-* \_data/comments/  
+* images/  
 * quotes.md  
 * about.md  
 
