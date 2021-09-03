@@ -36,7 +36,7 @@ More importantly, he's a man of considerable _common sense:_ when somebody gives
 percentage, you ask "Percent of _what?"_; when somebody gives you a large number, you ask
 "Compared to _what?"_  
 
-Every single time.  
+Every. Single.  Time.  
 
 
 ## Ok, let's dig into the crazy  
