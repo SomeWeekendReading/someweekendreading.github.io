@@ -86,7 +86,7 @@ useful.  Irrelevant monthly breakdowns, appeals to guilt, appeals to emotion in 
 accusations of lack of planning&hellip; _feh._  
 
 
-## Let's run the numbers  
+## No, never mind the crazy.  Let's run the numbers!  
 
 Ok, enough of that trash.  Let's dig into the only 3 relevant facts in the article.  Even
 though the don't give us the full picture, we can integrate other sources to do so:
