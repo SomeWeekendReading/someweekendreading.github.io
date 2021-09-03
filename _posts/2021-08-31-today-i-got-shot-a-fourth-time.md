@@ -67,7 +67,7 @@ COVID-19 + 2 Shingrix).  I'm forecasting a total of 6 jabs this year for us (add
 COVID-19 booster + flu shot), which means 2021 will be a banner year for vaccinations,
 here at Chez Weekend.  
 
-Looking forward to feeling a bit better tomorrow.  Looking even more forward to 
+Looking forward to feeling a bit better tomorrow.  Looking forward even more to 
 _not getting shingles_ for the rest of my life.  
 
 ---

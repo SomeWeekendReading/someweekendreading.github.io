@@ -27,7 +27,7 @@ vaccination campaigns:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 <img src="{{ site.baseurl }}/images/Cioppino.jpg" width="200" height="150" alt="Cioppino, a delicoius San Francisco variant on bouillabaisse" title = "Cioppino, a delicoius San Francisco variant on bouillabaisse" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-I dunno much about this guy, b-boy bouiebaisse.  However, I do love
+I dunno much about this guy, "b-boy bouiebaisse".  However, I _do_ love
 [bouillabaisse](https://en.wikipedia.org/wiki/Bouillabaisse) and her American cousin
 [cioppino](https://en.wikipedia.org/wiki/Cioppino).  So he's obviously a man of
 considerable taste!  
@@ -36,7 +36,7 @@ More importantly, he's a man of considerable _common sense:_ when somebody gives
 percentage, you ask "Percent of _what?"_; when somebody gives you a large number, you ask
 "Compared to _what?"_  
 
-Every time.  
+Every single time.  
 
 
 ## Ok, let's dig into the crazy  
@@ -220,7 +220,7 @@ needlessly and flagrantly in the US when the rest of the world is in need.  The 
 see above, however, are:  
 - The US has donated about 25% of its own vaccine supply, and will have to buy more just
   to get its own population vaccinated, much less give boosters.  
-- The "waste" rate is 3.449% (95% confidence limits: 3.446% &ndash; 3.449%).  
+- The "waste" rate is 3.4475% (95% confidence limits: 3.446% &ndash; 3.449%).  
 - This compares favorably with the WHO-documented historical waste rates for demanding
   cold chains and multi-dose vials of 10% &ndash; 15%.  
 - This result is robustly statistically significant: there is not a chance in the universe
