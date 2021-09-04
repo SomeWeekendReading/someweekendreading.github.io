@@ -76,7 +76,7 @@ at the details, you'll see discrimination where there is none&hellip; and miss i
 really is.  Neither mistake serves the interest of fairness.  
 
 
-## Yeah, yeah&hellip; c'mon, what really is it?  
+## Yeah, yeah&hellip; c'mon, what is it _really_?  
 
 <img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-wikipedia-simpson.jpg" width="400" height="267" alt="Wikipedia: Example of Simpson's paradox" title="Wikipedia: Example of Simpson's paradox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Consider this plot from the Wikipedia article.  

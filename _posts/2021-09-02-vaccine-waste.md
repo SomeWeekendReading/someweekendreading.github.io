@@ -155,14 +155,14 @@ This is the _opposite_ of the conclusion the flashy article above would have inv
 Ok, fine.  But is that just due to chance, or are we _really_ doing better?  This is what
 statistics is _for:_ given some evidence, what should we believe about it?  
 
-It's the usual proabilistic model:  
-- Let $p$ be the probability a given dose gets "wasted" (for whatever reason, legitimate
-  or not).  
-- Then for each vial, it's like a coin flip with a loaded coin that has probability $p$
+It's the usual proabilistic model. Let $p$ be the probability a given dose gets "wasted"
+(for whatever reason, legitimate or not).  Then:  
+
+- For each vial, it's like a coin flip with a loaded coin that has probability $p$
   of coming up heads &ndash; a
-  [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)).  
-- If you then count the number $k$ that are wasted out of $N$ total, that's a 
-  [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution).  
+  [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution).  
+- Then count the number $k$ that are wasted out of $N$ total &ndash;
+  a [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution).  
 - If you observe $k$ out of $N$ are wasted, you infer approximately $p = k/N$.  However,
   in a Bayesian framework, if you assume a uniform prior on $p$ (we make no committments
   of any sort about the potential values of $p$, beyond that it's in $[0, 1]$), then the
