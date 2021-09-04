@@ -163,7 +163,12 @@ free donuts to vaccinated people:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Alas, the Krispy Kreme nearest Chez Weekend is 2 states away.  So optimism is in
-order&hellip; just not in our immediate vicinity.  
+order&hellip; just not in our immediate vicinity.  But should you find yourself in
+possession of a valid vax card while standing outside a Krispy Kreme&hellip; now you know
+what to do.
+
+You're welcome.  Just another of the valuable services provided by this crummy
+little blog that nobody reads.  
 
 ---
 

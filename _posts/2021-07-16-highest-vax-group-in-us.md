@@ -11,12 +11,13 @@ What ethnic group in the US do you think has the highest vaccination rate?
 ## COVID-19 and Native Americans  
 
 <img src="{{ site.baseurl }}/images/2021-07-16-highest-vax-group-in-us-native-americans.jpg" width="400" height="353" alt="PBS/NOVA (WGBH): Native Americans have highest COVID vax rate in US" title="PBS/NOVA (WGBH): Native Americans have highest COVID vax rate in US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-According to an article from PBS/NOVA <sup id="fn1a">[[1]](#fn1)</sup> had 3.5x the
-infection rate and 4x the hospitalization rate of white Americans, they nonetheless
-responded heroically with an enormous vaccination effort for their members, and frankly
-for anybody who happened to be standing nearby.  This is both responsible to tribal
-citizens and generous to those tribal non-citizens who are affiliated with them or work
-with them.  
+
+According to an article from PBS/NOVA <sup id="fn1a">[[1]](#fn1)</sup>, Native Americans
+had 3.5x the infection rate and 4x the hospitalization rate of white Americans, they
+nonetheless responded heroically with an enormous vaccination effort for their members,
+and frankly for anybody who happened to be standing nearby.  This is both responsible to
+tribal citizens and generous to those tribal non-citizens who are affiliated with them or
+work with them.  
 
 The CDC has begun reporting vaccination rates broken down by ethnic group.  As of July 6,
 the breakdown of vaccination rates by ethnic group in the US is, according to the CDC:  

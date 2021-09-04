@@ -71,7 +71,7 @@ other than that, nothing worse than "slightly annoying".  Gratifyingly, no retur
 sleepwalking from the first time.  
 
 
-### Can we pre-cose with NSAIDs to prevent the after-vaccination blahs?  
+### Can we pre-dose with NSAIDs to prevent the after-vaccination blahs?  
 
 This post attracted one of the rare comments this blog occasionally gets (aside
 from the daily viagra and college essay 'vendors').  Pablo, one of about 6 people
