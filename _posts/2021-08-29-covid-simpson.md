@@ -324,7 +324,7 @@ Simpson's paradox was active here, but it does point out the normalization probl
 
 A revised &amp; extended version of that has been published in 
 _Slate_. <sup id="fn12a">[[12]](#fn12)</sup>  It's worth your time to read.  In a way,
-points out how meaning-free it is to say "75% of those hospitalized for COVID were
+it points out how meaning-free it is to say "75% of those hospitalized for COVID were
 vaccinated".  It's the Bayesian error we pointed out above: knowing 
 $\Pr(\mathrm{vax} | \mathrm{hospitalized})$ is useless, but knowing
 $\Pr(\mathrm{hospitalized} | \mathrm{vax})$ is usefully predictive.  
