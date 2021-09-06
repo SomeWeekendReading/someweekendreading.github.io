@@ -59,9 +59,12 @@ since our founding.
 The best way to get a flavor of that is to read Howard Zinn's wonderful book, _A People's
 History of the United States_. <sup id="fn4a">[[4]](#fn4)</sup>  I read it several years
 ago (ironically on a trip to Japan), looking for a view of history outside 
-[Carlyle's Great Man Theory](https://en.wikipedia.org/wiki/Great_man_theory).  What were
-ordinary people doing all that time?  Suffering, mostly.  We have an unfortunate history
-of oppression by the wealty, for which repentance will one day be required.  
+[Carlyle's Great Man Theory](https://en.wikipedia.org/wiki/Great_man_theory).  
+
+
+What _were_ ordinary people doing all that time?  Suffering, mostly.  We have an
+unfortunate history of oppression by the wealty, for which repentance will one day be
+required.  
 
 So why not let today be that day?  Rosh Hashanah is supposed to be a time of reflection,
 evaulation, and repentance.  
@@ -75,7 +78,7 @@ As it says on [the quotes page]({{ site.baseurl }}/quotes/#your-humble-weekend-e
 >  
 > &mdash; Your humble Weekend Editor  
 
-Today should be a day for a big Bayesian update.  Why not?  
+Today is a good day for a big Bayesian update.  Why not?  
 
 ---
 
