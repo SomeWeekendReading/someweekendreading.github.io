@@ -75,6 +75,8 @@ As it says on [the quotes page]({{ site.baseurl }}/quotes/#your-humble-weekend-e
 >  
 > &mdash; Your humble Weekend Editor  
 
+Today should be a day for a big Bayesian update.  Why not?  
+
 ---
 
 ## Notes &amp; References  
