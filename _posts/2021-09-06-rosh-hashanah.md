@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rosh Hashanah&colon; A Chance to Start Over
+title: Rosh Hashanah&colon; A Chance to Start Over on Labor Day
 tags: Politics Religion TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
 ---
