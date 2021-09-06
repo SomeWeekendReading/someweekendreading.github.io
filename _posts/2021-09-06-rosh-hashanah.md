@@ -7,7 +7,7 @@ comments: true
 
 Today is [Labor Day in the US](https://en.wikipedia.org/wiki/Labor_Day). It's also 
 [Rosh Hashanah](https://en.wikipedia.org/wiki/Rosh_Hashanah), the Jewish "new
-year".  What can we make of that coincidence?  
+year".  What can we make of that coincidence, even without being Jewish?  
 
 
 ## Starting over  
@@ -23,9 +23,9 @@ Don't let that stop you from watching the video; it's hilarious.
 
 (Ok, I admit it's also a bit over the top.  Like the rhyme: 
 "&hellip; things that I'm not proud of / in this year we're coming out of".  Yeah, they
-did that.  They really did.)  
+did that.  They really did that.)  
 
-And&hellip; in some ways, _holy_.  
+And&hellip; in some ways, the song is about something _holy_.  
 
 
 ## Labor Day  
@@ -50,11 +50,11 @@ and we are indeed in a New Gilded Age. <sup id="fn3a">[[3]](#fn3)</sup>  The rec
 of union-busting, deeply exploitative labor policies, and generally rigged economy should
 come as no surprise.  
 
-<img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-zinn.jpg" width="225" height="326" alt="Zinn: A People's History of the United States" title = "Zinn: A People's History of the United States" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 What _did_ come as a surprise, at least to me a couple years ago, is how _deeply_ that
 current runs in US culture.  We've been exploiting laborers (and, for that matter, slaves)
 since our founding.  
 
+<img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-zinn.jpg" width="225" height="326" alt="Zinn: A People's History of the United States" title = "Zinn: A People's History of the United States" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The best way to get a flavor of that is to read Howard Zinn's wonderful book, _A People's
 History of the United States_. <sup id="fn4a">[[4]](#fn4)</sup>  I read it several years
 ago (ironically on a trip to Japan), looking for a view of history outside 
