@@ -11,12 +11,13 @@ Have half of us gone mad?  It would seem so&hellip;
 ## The madness of the American right  
 
 I always suspected they were crazy, starting in the 1980s when Reagan utterly ceased
-making sense.  After that it was just a steady decline after that, as all the competent
-advisors abandoned ship.  Then the full, florid delusions of Trump.  All of a piece.  
+making sense.  After that it was just a steady decline, as all the competent
+advisors abandoned ship and Congress lurched to the right with Gingrich, _et al._  Then
+came the full, florid delusions of Trump.  All of a piece.  
 
 But it seems that the vaccine resistance &ndash; _overwhelmingly_ Republican &ndash; is a
 bizarre self-parody.  It's not just suicidal, placing themselves at risk; it's also
-anti-social, placing _everybody else_ at risk as well.  
+psychopathically anti-social, placing _everybody else_ at risk as well.  
 
 Charles Blow wrote a piece in the _New York Times_ that pretty much reflects my 
 view. <sup id="fn1a">[[1]](#fn1)</sup>  Never let it be said he "buried the lede", with
@@ -27,7 +28,7 @@ opening paragraphs like this one:
 > strategy has fooled millions of Americans into flirting with death. And now thousands
 > are once again dying for it.  
 
-Sums it up: people are _dying_ because of delusional right-wing ideology.  
+That sums it up: people are _dying_ because of delusional right-wing ideology.  
 
 > Why were Americans turning away a vaccine that many people in other parts of the world
 > were literally dying for? Many did so because of their fidelity to the lie and their
@@ -52,13 +53,15 @@ order?
 >  
 > This is like watching millions of people playing in traffic.  
 
-I have my problems with the media.  But this opinion piece really summed it up for me.  
+I have my problems with the media.  But this opinion piece really hit the nail on the
+head.  (And I like the turn of phrase: "puts them on the wrong side of a eulogy".  I _don't_
+like the fact that it was necessary.)  
 
 
 ## Look, is it really that bad?  
 
 Consider this from [Adam Sternbergh](http://www.adamsternbergh.com/about), a novelist and
-_NYT_ editor, who apparently runs special projects at the _Times_:  
+_NYT_ editor, who apparently runs special projects at the _Times_, among many other things:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -74,7 +77,7 @@ Yes, it's really that bad: we're wealthy, vaccines are abundant and freely avail
 anybody with the wit to ask for one&hellip; and we're 2nd worst in per-capita COVID-19
 cases, after Mongolia.  Mongolia may be excused because they are poor and don't have an
 abundance of vaccine doses.  We, on the other hand&hellip; are apparently just stupid,
-suicidal, or psychotically anti-social?  
+suicidal, or psychopathically anti-social?  
 
 And it's not uniformly distributed, as a property of Americans in general:  
 
