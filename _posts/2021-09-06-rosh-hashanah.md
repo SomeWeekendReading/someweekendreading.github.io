@@ -48,7 +48,7 @@ Honestly, it surprises me that there's not a current of white-hot rage and shame
 this in the US, for the last 40 years it's been building.  
 
 <img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-wheeler.jpg" width="400" height="281" alt="Zucman: Dramatic rise of US wealth inequality since Reagan" title = "Zucman: Dramatic rise of US wealth inequality since Reagan" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Combine that with our blatantly corrupt and gerrymandered minority right-wing rule system,
+Combine that with our blatantly corrupt and gerrymandered right-wing minority-rule system,
 and we are indeed in a New Gilded Age. <sup id="fn3a">[[3]](#fn3)</sup>  The recent rise
 of union-busting, deeply exploitative labor policies, and generally rigged economy should
 come as no surprise.  
