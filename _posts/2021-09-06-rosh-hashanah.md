@@ -91,10 +91,10 @@ Today is a good day for a big Bayesian update.  Why not?
 
 -->
 
-<a id="fn1">1</a>: Six13, ["Six13 - Starting Over (a song for Rosh Hashanah)"](https://www.youtube.com/watch?v=VlF8SZFs44I), _YouTube_, 2015. [↩](#fn1a)  
+<a id="fn1">1</a>: Six13, ["Six13 - Starting Over (a song for Rosh Hashanah)"](https://www.youtube.com/watch?v=VlF8SZFs44I), _Six13_ on YouTube, 2015. [↩](#fn1a)  
 
 <a id="fn2">2</a>: G Zucman, ["Wealth Inequality"](https://inequality.stanford.edu/sites/default/files/Pathways-SOTU-2016-Wealth-Inequality-3.pdf), Stanford Center on Poverty and Inequality, 2016.[↩](#fn2a)  
 
-<a id="fn3">3</a>: T Wheeler, ["Who makes the rules in the new Gilded Age?"](https://www.brookings.edu/research/who-makes-the-rules-in-the-new-gilded-age/), _Brookings Institution_, 2018-Dec-12. [↩](#fn3a)  
+<a id="fn3">3</a>: T Wheeler, ["Who makes the rules in the new Gilded Age?"](https://www.brookings.edu/research/who-makes-the-rules-in-the-new-gilded-age/), Brookings Institution, 2018-Dec-12. [↩](#fn3a)  
 
 <a id="fn4">4</a>: H Zinn, [_A People's History of the United States_](https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States), HarperCollins, 2009 edition. [↩](#fn4a)  
