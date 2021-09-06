@@ -10,10 +10,10 @@ Have a quarter of us gone mad?  It would seem so&hellip;
 
 ## The madness of the American right  
 
-I always suspected they were crazy, starting in the 1980s when Reagan utterly ceased
-making sense.  After that it was just a steady decline, as all the competent
-advisors abandoned ship and Congress lurched to the right with Gingrich, _et al._  Then
-came the full, florid delusions of Trump.  All of a piece.  
+I always suspected they were crazy, starting in the 1980s when it finally dawned on me
+that Reagan had utterly ceased making sense.  After that it was just a steady decline, as
+all the competent advisors abandoned ship and Congress lurched to the right with Gingrich,
+_et al._ Then came the full, florid delusions of Trump.  All of a piece.  
 
 But it seems that the vaccine resistance &ndash; _overwhelmingly_ Republican &ndash; is a
 bizarre self-parody.  It's not just suicidal, placing themselves at risk; it's also
@@ -36,8 +36,10 @@ That sums it up: people are _dying_ because of delusional right-wing ideology.
 > to Trump, and because many politicians and conservative commentators helped Trump
 > propagate his lies.  
 
-If slavish devotion to conservative madness is the cause, perhaps a slave rebellion is in
-order?  
+If slavish devotion to conservative madness is the cause, perhaps a slave rebellion
+against the conservative oligarchs is in order?  Or at least against the structures they
+use to enforce minority rule: gerrymandering, electoral college, unequal Senate
+apportionment, &hellip;  
 
 > It was all lunacy. It is all lunacy. This should never have happened. There are people
 > dead today — a lot of them! — who should still be alive and who would be if people in
@@ -53,9 +55,10 @@ order?
 >  
 > This is like watching millions of people playing in traffic.  
 
-I have my problems with the media.  But this opinion piece really hit the nail on the
-head.  (And I like the turn of phrase: "puts them on the wrong side of a eulogy".  I _don't_
-like the fact that it was necessary.)  
+I have my problems with the media, and in some ways especially with the _NYT_'s
+both-siderism.  But this opinion piece really hit the nail on the head.  (And I like the
+turn of phrase: "puts them on the wrong side of a eulogy".  Though I _don't_ like the fact that
+it was necessary.)  
 
 
 ## Look, is it really that bad?  
