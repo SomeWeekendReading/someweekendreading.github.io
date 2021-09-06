@@ -30,7 +30,7 @@ And&hellip; in some ways, the song is about something _holy_.
 
 ## Labor Day  
 
-<img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-zucman-1.jpg" width="400" height="281" alt="Zucman: Wealth inequality in the US" title = "Zucman: Wealth inequality in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-zucman-1.jpg" width="400" height="118" alt="Zucman: Wealth inequality in the US" title = "Zucman: Wealth inequality in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-zucman-2.jpg" width="400" height="281" alt="Zucman: Dramatic rise of US wealth inequality since Reagan" title = "Zucman: Dramatic rise of US wealth inequality since Reagan" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The US is a vastly unequal society.  Median wages, adjusted for inflation, keep
 _dropping_; the difference is sucked up mostly by billionaires.  The 
