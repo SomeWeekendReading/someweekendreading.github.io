@@ -32,7 +32,9 @@ And&hellip; in some ways, this is a funny song about something _holy_.
 
 <img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-zucman-1.jpg" width="400" height="118" alt="Zucman: Wealth inequality in the US" title = "Zucman: Wealth inequality in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-06-rosh-hashanah-zucman-2.jpg" width="400" height="281" alt="Zucman: Dramatic rise of US wealth inequality since Reagan" title = "Zucman: Dramatic rise of US wealth inequality since Reagan" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-The US is a vastly unequal society.  Median wages, adjusted for inflation, keep
+The US is a vastly unequal society.  
+
+Median wages, adjusted for inflation, keep
 _dropping_; the difference is sucked up mostly by billionaires.  The 
 [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient) (a measure of income
 inequality) and the percent of household wealth held by the top 0.1% are at levels
@@ -59,17 +61,16 @@ since our founding.
 The best way to get a flavor of that is to read Howard Zinn's wonderful book, _A People's
 History of the United States_. <sup id="fn4a">[[4]](#fn4)</sup>  I read it several years
 ago (ironically on a trip to Japan), looking for a view of history outside 
-[Carlyle's Great Man Theory](https://en.wikipedia.org/wiki/Great_man_theory).  
+[Carlyle's Great Man Theory](https://en.wikipedia.org/wiki/Great_man_theory).
+What _were_ ordinary people doing all that time?  Suffering, mostly.  
 
-
-What _were_ ordinary people doing all that time?  Suffering, mostly.  We have an
-unfortunate history of oppression by the wealty, for which repentance will one day be
-required.  
+We have an unfortunate history of oppression by the wealty, for which repentance will one
+day be required.  
 
 So why not let today be that day?  Rosh Hashanah is supposed to be a time of reflection,
 evaulation, and repentance.  
 
-Starting today would be good.  It's always a good day to change your mind for the good.  
+Starting today would be good.  It's always a good day to change your mind for the better.  
 
 As it says on [the quotes page]({{ site.baseurl }}/quotes/#your-humble-weekend-editor) of this crummy little blog that nobody reads:  
 
