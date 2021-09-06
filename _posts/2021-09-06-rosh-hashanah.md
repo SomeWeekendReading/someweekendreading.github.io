@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Rosh Hashanah&colon; A Chance to Start Over
-tags: Religion TheDivineMadness &Gammad;&Tau;&Phi;
+tags: Politics Religion TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
 ---
 
 Today is [Labor Day in the US](https://en.wikipedia.org/wiki/Labor_Day). It's also 
-[Rosh Hashanah](https://en.wikipedia.org/wiki/Rosh_Hashanah), the Jewish "new
-year".  What can we make of that coincidence, even without being Jewish?  
+[Rosh Hashanah](https://en.wikipedia.org/wiki/Rosh_Hashanah), the Jewish New
+Year.  What can we make of that coincidence, even without being Jewish?  
 
 
 ## Starting over  
@@ -25,7 +25,7 @@ Don't let that stop you from watching the video; it's hilarious.
 "&hellip; things that I'm not proud of / in this year we're coming out of".  Yeah, they
 did that.  They really did that.)  
 
-And&hellip; in some ways, the song is about something _holy_.  
+And&hellip; in some ways, this is a funny song about something _holy_.  
 
 
 ## Labor Day  
@@ -39,7 +39,8 @@ inequality) and the percent of household wealth held by the top 0.1% are at leve
 unsurpassed since the gross materialism and gross corruption of the 
 [Gilded Age](https://en.wikipedia.org/wiki/Gilded_Age), as can be seen in the graph from 
 Zucman's paper at the Stanford Center on Poverty and 
-Inequality. <sup id="fn2a">[[2]](#fn2)</sup>  
+Inequality. <sup id="fn2a">[[2]](#fn2)</sup>  It's pretty obvious from the graph that the
+problem started immediately with the rise of the extreme right and Reagan, around 1980.  
 
 Honestly, it surprises me that there's not a current of white-hot rage and shame about
 this in the US, for the last 40 years it's been building.  
@@ -63,7 +64,16 @@ ordinary people doing all that time?  Suffering, mostly.  We have an unfortunate
 of oppression by the wealty, for which repentance will one day be required.  
 
 So why not let today be that day?  Rosh Hashanah is supposed to be a time of reflection,
-evaulation, and repentance.  Starting today would be good.  
+evaulation, and repentance.  
+
+Starting today would be good.  It's always a good day to change your mind for the good.  
+
+As it says on [the quotes page]({{ site.baseurl }}/quotes/#your-humble-weekend-editor) of this crummy little blog that nobody reads:  
+
+> If you find you've shot yourself in the foot, it's time to pause and reflect, not
+> reload. That's Bayes Rule!  
+>  
+> &mdash; Your humble Weekend Editor  
 
 ---
 
