@@ -93,7 +93,7 @@ inter-mountain West.  In other words, the reddest, Trumpiest states.
 Trump wanted to build a wall.  I may be coming around to his point of view, provided it
 can be built further north, say around 
 [the Mason-Dixon line](https://en.wikipedia.org/wiki/Mason%E2%80%93Dixon_line).  That
-seems to be the border of the America that's still recognizable to me as such.  
+seems to be the border of the America that's still recognizable to me as America.  
 
 ---
 
