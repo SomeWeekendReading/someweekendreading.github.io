@@ -87,7 +87,7 @@ And it's not uniformly distributed, as a property of Americans in general:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-It's concentrated in South the former Confederacy states, with some echoes from the
+It's concentrated in South in the former Confederacy states, with some echoes from the
 inter-mountain West.  In other words, the reddest, Trumpiest states.  
 
 Trump wanted to build a wall.  I may be coming around to his point of view, provided it
