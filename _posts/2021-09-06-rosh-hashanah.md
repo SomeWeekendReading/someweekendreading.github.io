@@ -97,4 +97,4 @@ Today is a good day for a big Bayesian update.  Why not?
 
 <a id="fn3">3</a>: T Wheeler, ["Who makes the rules in the new Gilded Age?"](https://www.brookings.edu/research/who-makes-the-rules-in-the-new-gilded-age/), _Brookings Institution_, 2018-Dec-12. [↩](#fn3a)  
 
-<a id="fn4">4</a>: H Zinn, [_A People's History of the United States_](https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States), _HarperCollins_, 2009 edition. [↩](#fn4a)  
+<a id="fn4">4</a>: H Zinn, [_A People's History of the United States_](https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States), HarperCollins, 2009 edition. [↩](#fn4a)  
