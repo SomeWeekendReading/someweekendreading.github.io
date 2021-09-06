@@ -5,7 +5,7 @@ tags: COVID Politics
 comments: true
 ---
 
-Have half of us gone mad?  It would seem so&hellip;  
+Have a quarter of us gone mad?  It would seem so&hellip;  
 
 
 ## The madness of the American right  
