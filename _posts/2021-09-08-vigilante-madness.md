@@ -25,7 +25,7 @@ weeks (before most women know they're pregnant), or anyone who helps (nurses,
 receptionists, ride-share drivers, &hellip;).  There are even bounties offered for tips
 leading to successful prosecutions.  This apparently monkey-wrenches federal review, since
 there is no visible state official to sue.  The Supreme Court refused to review it on
-those grounds, saying it had to be enforeced and the victim had to appeal/sue before they could
+those grounds, saying it had to be enforced and the victim had to appeal/sue before they could
 do anything.  (And given the extreme conservative bias of the current Court, the result
 there would be doubtful anyway.)  
 
