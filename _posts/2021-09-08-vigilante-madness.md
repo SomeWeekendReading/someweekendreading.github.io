@@ -38,7 +38,7 @@ professor at Harvard, Princeton, and University of Cambridge; contributing edito
 _Politico_ and the _New York Times_.  Not exactly the "firm opinions + blog" type; more
 like somebody to whom it's worth listening.  He had this to say:  
 
-!["Joshua Zeitz: Texas law and the Fugitive Slave Act of 1850"]({{ site.baseurl }}/2021-09-08-vigilante-madness.jpg "Joshua Zeitz: Texas law and the Fugitive Slave Act of 1850")
+!["Joshua Zeitz: Texas law and the Fugitive Slave Act of 1850"]({{ site.baseurl }}/images/2021-09-08-vigilante-madness.jpg "Joshua Zeitz: Texas law and the Fugitive Slave Act of 1850")
 
 Required legal action on the say-so of a single random person, perverse financial
 incentives like bounties, turning people into objects of manipulation, compulsory state
