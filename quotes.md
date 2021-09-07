@@ -87,6 +87,10 @@ YouTube, 2020-Dec-10.
 
 "Please scream inside your heart."  &mdash; [officials at Fuji-Q Highland Amusement Park in Japan, advising against roller coaster screaming during the COVID-19 pandemic](https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889394605/please-scream-inside-your-heart-japanese-amusement-park-tells-thrill-seekers).  Actually, they invented the absolutely correct slogan for all of the year 2020.  Yeah&hellip; been screaming in my heart for years, really.  
 
+"&hellip; San Francisco is the place where two of the most iconic institutions related to human
+coordination were founded: the United Nations and Starfleet." &mdash; Ozy Brennan
+[Petrov Day Ritual, Coronavirus Edition](https://thingofthings.wordpress.com/2020/09/18/petrov-day-ritual-coronavirus-edition/)  
+
 
 ## The Political Ones &amp; The Economic Dismals  
 
@@ -1163,3 +1167,4 @@ _Business Week_, 14-Nov-2003.
 - "Everyone _interesting_ is mad; of this there is no question.  The better question is whether or not their madness is [the divine madness]({{ site.baseurl }}/tags/#TheDivineMadness)."  
 - "Let sleeping dogs bury their own dead."  (Combining "let sleeping dogs lie" and "let
   the dead past bury its own dead".)  
+- "This isn't rocket surgery."  
