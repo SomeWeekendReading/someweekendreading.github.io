@@ -65,4 +65,4 @@ And so it seems to be here.
 <a id="fn1">1</a>: [↩](#fn1a)  
 -->
 
-<a id="fn1">1</a>: S Aaronson, ["Exciting opportunities at Kabul University!"](https://www.scottaaronson.com/blog/?p=5807), _Shtetl Optimized_, 2021-Sep-05. [↩]  
+<a id="fn1">1</a>: S Aaronson, ["Exciting opportunities at Kabul University!"](https://www.scottaaronson.com/blog/?p=5807), _Shtetl Optimized_, 2021-Sep-05. [↩](#fn1a)  
