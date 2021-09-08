@@ -214,9 +214,10 @@ sheep.  There is a human version for intestinal worms, and a topical version for
 on the scalp if you have head lice.  Fair enough, so far.  
 
 For essentially superstitious reasons, the right-wing conspiracy nuts think it's a
-"secret" cure for COVID-19 that big bad pharma doesn't want you to know about.  As a
+"secret" cure for COVID-19 that Big Bad Pharma doesn't want you to know about.  As a
 result they've been filling up poison control units by eating doses fit for horses.
-They're afraid of the vaccines because they think they'll be infertile, but&hellip;
+They're afraid of real prevention by vaccines because they think they'll become infertile,
+but&hellip;  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
