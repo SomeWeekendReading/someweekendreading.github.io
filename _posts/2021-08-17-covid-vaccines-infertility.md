@@ -204,6 +204,27 @@ century we may have learned something.  Please don't disabuse me of that.
 
 Ok?  
 
+
+## Addendum 2021-Sep-08: Ivermectin and infertility  
+
+Late addendum, I know.  But this is just too good to pass up.
+
+Ivermectin is an antihelminthic medication ("de-wormer") used mostly on horses, cattle and
+sheep.  There is a human version for intestinal worms, and a topical version for smearing
+on the scalp if you have head lice.  Fair enough, so far.  
+
+For essentially superstitious reasons, the right-wing conspiracy nuts think it's a
+"secret" cure for COVID-19 that big bad pharma doesn't want you to know about.  As a
+result they've been filling up poison control units by eating doses fit for horses.
+They're afraid of the vaccines because they think they'll be infertile, but&hellip;
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    I want this to be true. <a href="https://t.co/iQkCXay0Pp">https://t.co/iQkCXay0Pp</a>
+  </p>&mdash; Jeff Fecke (@jkfecke) <a href="https://twitter.com/jkfecke/status/1435064881779298306?ref_src=twsrc%5Etfw">September 7, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 ---
 
 ## Notes &amp; References  
