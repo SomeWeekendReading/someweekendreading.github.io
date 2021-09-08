@@ -47,7 +47,8 @@ brutality, a violent history&hellip; it sure ticks all the boxes doesn't it?
 One consequence: [Scott Aaronson](https://www.scottaaronson.com/), a prominent quantum
 complexity theorist formerly of MIT and now of UT Austin, said that it's difficult now to
 recruit _anybody_ to come join the faculty at UT Austin, especially women.  He 
-[compared it to trying to recruit for Kabul University in Afghanistan](https://www.scottaaronson.com/blog/?p=5807). <sup id="fn1a">[[1]](#fn1)</sup>  
+compared it to trying to recruit for Kabul University in 
+Afghanistan. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 The [Fugitive Slave Act of 1850](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850)
 is described in _Wikipedia_ as "arguably the most hated and openly violated piece of
