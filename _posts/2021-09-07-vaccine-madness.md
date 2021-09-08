@@ -19,6 +19,7 @@ But it seems that the vaccine resistance &ndash; _overwhelmingly_ Republican &nd
 bizarre self-parody.  It's not just suicidal, placing themselves at risk; it's also
 psychopathically anti-social, placing _everybody else_ at risk as well.  
 
+<img src="{{ site.baseurl }}/images/2021-09-07-vaccine-madness-nyt.jpg" width="400" height="249" alt="Charles Blow in NYT: Vaccine Madness" title = "Charles Blow in NYT: Vaccine Madness" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Charles Blow wrote a piece in the _New York Times_ that pretty much reflects my 
 view. <sup id="fn1a">[[1]](#fn1)</sup>  Never let it be said he "buried the lede", with
 opening paragraphs like this one:  
