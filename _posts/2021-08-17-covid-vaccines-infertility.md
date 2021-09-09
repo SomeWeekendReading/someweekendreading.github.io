@@ -217,7 +217,8 @@ For essentially superstitious reasons, the right-wing conspiracy nuts think it's
 "secret" cure for COVID-19 that Big Bad Pharma doesn't want you to know about.  As a
 result they've been filling up poison control units by eating doses fit for horses.
 They're afraid of real prevention by vaccines because they think they'll become infertile,
-but&hellip;  
+but&hellip; it turns out there's an old study that shows ivermectin caused infertility due
+to poor sperm quality in 85% of the men who took it:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
