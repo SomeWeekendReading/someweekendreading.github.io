@@ -41,8 +41,9 @@ like somebody to whom it's worth listening.  He had this to say:
 !["Joshua Zeitz: Texas law and the Fugitive Slave Act of 1850"]({{ site.baseurl }}/images/2021-09-08-vigilante-madness.jpg "Joshua Zeitz: Texas law and the Fugitive Slave Act of 1850")
 
 Required legal action on the say-so of a single random person, perverse financial
-incentives like bounties, turning people into objects of manipulation, compulsory state
-brutality, a violent history&hellip; it sure ticks all the boxes doesn't it?  
+incentives like bounties, turning people into objects to manipulate, compulsory
+participation in state brutality, a violent history&hellip; it sure ticks all the boxes
+doesn't it?  
 
 One consequence: [Scott Aaronson](https://www.scottaaronson.com/), a prominent quantum
 complexity theorist formerly of MIT and now of UT Austin, said that it's difficult now to
