@@ -218,7 +218,8 @@ For essentially superstitious reasons, the right-wing conspiracy nuts think it's
 result they've been filling up poison control units by eating doses fit for horses.
 They're afraid of real prevention by vaccines because they think they'll become infertile,
 but&hellip; it turns out there's an old study that shows ivermectin caused infertility due
-to poor sperm quality in 85% of the men who took it:  
+to poor sperm quality in 85% of the men who took it (__NB:__ the original tweet seems to
+have been deleted as of 2021-09-08 9:00pm):  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
