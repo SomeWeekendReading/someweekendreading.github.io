@@ -228,6 +228,13 @@ have been deleted as of 2021-09-08 9:00pm):
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Ah, crap. Snopes has determined this was a bust. <a href="https://t.co/2zy2TskUMj">https://t.co/2zy2TskUMj</a>
+  </p>&mdash; T.J. Eckman (@jeek) <a href="https://twitter.com/jeek/status/1435714323024855046?ref_src=twsrc%5Etfw">September 8, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 ---
 
 ## Notes &amp; References  
