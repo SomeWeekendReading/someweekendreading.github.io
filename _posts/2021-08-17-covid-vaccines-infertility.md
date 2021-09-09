@@ -237,6 +237,9 @@ credible):
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
+Ah, well.  It's _so_ hard to resist a slice of
+[schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).  
+
 ---
 
 ## Notes &amp; References  
