@@ -33,9 +33,10 @@ Un-National Monument along the Canadian Border" <sup id="fn1a">[[1]](#fn1)</sup>
 I also cannot recommend highly enough the version [John Gorka](https://www.johngorka.com) set to
 music <sup id="fn2a">[[2]](#fn2)</sup> (and, for that matter, the rest of John Gorka's
 pandemic mini-concerts on _YouTube_, which have been fabulous).  He really captures the
-longing for safe spaces, peaceful places not disfigured by war.  (I hear
+longing for safe spaces, peaceful places not disfigured by war.  (Might have to go a long
+way, to some rather remote place to achieve that.  I hear
 [Lake Vostok](https://en.wikipedia.org/wiki/Lake_Vostok) is lovely this time of
-year&hellip; but that's a different fantasy.)  
+year&hellip; but that's a _different_ fantasy.)  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/lqtGAMoRbC8" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Cut from similar cloth also is this Gorka song, "Let them in".  <sup id="fn3a">[[3]](#fn3)</sup>
