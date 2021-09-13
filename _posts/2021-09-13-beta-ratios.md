@@ -21,7 +21,7 @@ Now suppose you do that $N$ times, and observe that heads comes up $k$ times.  T
 [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution):  
 
 $$
-\Pr(k | N, p) = {{N}\choose{k}} p^k (1-p)^{(N-k)}
+\Pr(k | N, p) = \binom{N}{k} p^k (1-p)^{(N-k)}
 $$
 
 Finally, suppose you don't know how much the coin is loaded.  Somebody lets you take $N$
