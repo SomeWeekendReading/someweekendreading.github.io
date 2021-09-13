@@ -215,7 +215,7 @@ From the last line, we can read off an expression for the distribution for $R$ i
 r&eacute;gime of $0 \le R \le 1$:  
 
 $$\label{eqn:ratio-distribution-small}
-\Pr(R | 0 \le R \le 1) = \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
+\Pr(R | 0 \le R \le 1) = \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
 $$
 
 It still contains an integral to marginalize out $p_2$, but below we'll recognize that as
@@ -233,9 +233,9 @@ $$
 \begin{multline}
 \shoveleft
 \begin{aligned}
-1 &= \int_0^1 dp_1 \int_0^1 dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 dp_1 \int_0^{+\infty} dR \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+\infty} dR \frac{1}{R^{\alpha_2 + 1}} \int_0^1 dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+1 &= \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_1 \int_0^{+\infty}\!\!\!\!dR \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+\infty}\!\!\!\!dR \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 \end{aligned}
 \end{multline}
 $$
@@ -244,7 +244,7 @@ From the last line, we can read off an expression for the distribution of $R$ in
 r&eacute;gime of $1 \lt R$:  
 
 $$\label{eqn:ratio-distribution-large}
-\Pr(R | 1 \lt R) = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1 dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+\Pr(R | 1 \lt R) = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 $$
 
 Here we also have a remaining integral to do; it will also be recognized as another
@@ -309,7 +309,7 @@ the integrals we have to do above?  Well, it turns out that $${}\_{2}F\_{1}()$$ 
 representation, as well, apparently due to Euler:  
 
 $$\label{eqn:hypergeometric-integral}
-{}_2F_1(a,b;c;x) = \frac{1}{B(a, c-a)} \int_0^1 du u^{a-1} (1-u)^{c-a-1} (1-xu)^{-b}
+{}_2F_1(a,b;c;x) = \frac{1}{B(a, c-a)} \int_0^1\!\!\!\!du u^{a-1} (1-u)^{c-a-1} (1-xu)^{-b}
 $$
 
 This is the trick that Pham-Gia used to get the density distribution in closed form.  At
