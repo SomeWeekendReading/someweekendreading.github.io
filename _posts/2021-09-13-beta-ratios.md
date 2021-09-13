@@ -305,7 +305,7 @@ with counts in a clinical trial), in which case the Pochammer symbols eventually
 of very high order (say 15,000 participants in a trial arm), but a polynomial nonetheless!
 
 That's all&hellip; fine, if you like that sort of thing.  But what does it have to do with
-the integrals we have to do above?  Well, it turns out that $${}\_{2}F\_{1}()$$ has an integral
+the integrals we have to do above?  Well, it turns out that ${}\_{2}F\_{1}()$ has an integral
 representation, as well, apparently due to Euler:  
 
 $$\label{eqn:hypergeometric-integral}
@@ -322,7 +322,7 @@ $\ref{eqn:ratio-distribution-large}$, and recognize that the annoying integral i
 can, with a suitable change of variables, be made identical to the integral representation
 of ${}\_{2}F\_{1}()$ in equation $\ref{eqn:hypergeometric-integral}$.  
 
-#### Case $0 \le R \le 1$  
+#### Case $0 \le R \le 1$:  
 
 The dictionary of variables to recognize the hypergeometric integral is:  
 
@@ -346,7 +346,7 @@ $$
 
 And that's Pham-Gia's first result on p. 2698.  
 
-#### Case $1 \le R$  
+#### Case $1 \le R$:  
 
 Here the dictionary is slightly different:  
 
@@ -377,7 +377,7 @@ That gives us the PDF (probability distribution function); if we want the CDF (c
 distribution function) to calculate quantiles, we'll have to go beyond Pham-Gia's paper.
 Now, it turns out that Julian Saffer has already worked this out, and what's more put a
 library in Python on Github. <sup id="fn3a">[[3]](#fn3)</sup>  Now, I'm not so much with
-the Python, more of an [R](https://www.r-project.org) guy.  But let's have a look.  
+the Python; I'm more of an [R](https://www.r-project.org) guy.  But let's have a look.  
 
 Saffer relies on 2 integrals of hypergeometric functions times algebraic functions, with
 results using _generalized_ hypergeometric functions ${}\_{3}F\_{2}()$&hellip; even more
@@ -417,7 +417,7 @@ exponentiates.  This does, though, run the risk of exponentiating the roundoff i
 catastrophic fashion.  Some rigorous test cases with known answers are required before
 I'll trust it.  
 
-Work for another day.  
+That's work for another day.  
 
 
 ## The Weekend Conclusion  
@@ -466,7 +466,7 @@ same eventual result in terms of ${}\_{2}F\_{1}()$.  Specifically:
 - p. 2703, in the variables for a Dirichlet distribution, $K$ should again be $\ldots$  
 
 While there may or may not be similar typos in the rest of the paper, we haven't checked
-carefully as it does not bear directly on our interests.  But with the corrections above,
+carefully as it does not bear directly on our interests.  But with the corrigenda above,
 we were able to reproduce Pham-Gia's main result. [↩](#fn1a)  
 
 <a id="fn2">2</a>: OK, I was actually 23 and in my first year of physics grad school at MIT.  I got wrapped around the axle pretty tight because the notation between a couple texts was confusingly and subtly different.  I thought I'd suddenly become stupid!  It took years to get past that, and now even 40+ years later it's a sensitive spot.  Still&hellip; time to face my fears. [↩](#fn2a)  
