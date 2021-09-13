@@ -5,9 +5,9 @@ tags: Math TheDivineMadness
 comments: true
 ---
 
-[Warning: post contains full frontal nerdity.  Bug reports appreciated!] I finally got a
-copy of Pham-Gia's paper on the distribution of a ratio of 2 independent Beta-distributed
-random variables.  I also still have some trauma around hypergeometric functions like
+[Warning: Post contains full frontal nerdity.  Bug reports appreciated!] I finally got a
+copy of Pham-Gia's paper on the distribution of the ratio of 2 independent Beta-distributed
+random variables.  But I still have some trauma around hypergeometric functions like
 ${}\_{2}F\_{1}()$ and its scarier brother ${}\_{3}F\_{2}()$.  Time to face my fears.  
 
 
@@ -24,7 +24,7 @@ $$
 \Pr(k | N, p) = \binom{N}{k} p^k (1-p)^{(N-k)}
 $$
 
-Finally, suppose you don't know how much the coin is loaded.  Somebody lets you take $N$
+Next, suppose you don't know how _much_ the coin is loaded.  Somebody lets you take $N$
 flips, and you observe $k$ heads.  What should you believe about $p$, the probability the
 coin comes up heads?  A na&iuml;ve estimate would just give the single point value 
 $p = k/N$.  
@@ -87,9 +87,9 @@ Now if we believe that $p_v$ and $p_c$ are Beta-distributed, given the clinical 
 bunch of disease-catching coin flips, then vaccine efficacy is distributed as the ratio of
 a couple of independent Beta variables.  
 
-Ok, what's the distribution of a ratio of Beta variables?  There are a variety of ways to
-approach this, which we'll compare in another post.  For now, we're going to fight our way
-through a paper which gives the exact Bayesian result.  
+Ok, so what's the distribution of a ratio of independent Beta variables?  There are a
+variety of ways to approach this, which we'll compare in another post.  For now, we're
+going to fight our way through a paper which gives the exact Bayesian result.  
 
 
 ## Exact solution: the distribution of a ratio of 2 Beta-distributed random variables  
@@ -183,9 +183,11 @@ dp_2 &= -\frac{p_1}{R^2} dR
 $$
 
 This is correspondingly appropriate for $1 \lt R$, as it guarantees $p_2 \le 1$, as the
-range requires.  
+range requires.  (We'll eventually lose the minus sign, taking absolute value of
+Jacobians.)  
 
-So we'll need to do both.  (Double the workload.  Le sigh.  Who coulda seen _that_ coming?)  
+So we'll need to do both transformations.  (Double the workload.  Le sigh.  Who coulda
+seen _that_ coming?)  
 
 #### Case $0 \le R \le 1$  
 
@@ -203,8 +205,8 @@ $$
 \shoveleft
 \begin{aligned}
 1 &= \int_0^1 \,dp_1 \int_0^1 \,dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 \,dp_2 \int_0^{+infty}\,dR p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
-  &= \int_0^{+infty}\,dR \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\,dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 \,dp_2 \int_0^{+\infty}\,dR p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
+  &= \int_0^{+\infty}\,dR \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\,dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
 \end{aligned}
 \end{multline}
 $$
@@ -232,8 +234,8 @@ $$
 \shoveleft
 \begin{aligned}
 1 &= \int_0^1 \,dp_1 \int_0^1 \,dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 \,dp_1 \int_0^{+infty}\,dR \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+infty}\,dR \frac{1}{R^{\alpha_2 + 1}} \int_0^1\,dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 \,dp_1 \int_0^{+\infty}\,dR \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+\infty}\,dR \frac{1}{R^{\alpha_2 + 1}} \int_0^1\,dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 \end{aligned}
 \end{multline}
 $$
@@ -450,9 +452,9 @@ So we've got a bit more work to do to make this useable in a practical sense.
 
 <a id="fn1">1</a>: T Pham-Gia, ["Distributions of the ratios of independent beta variables and applications"](https://www.tandfonline.com/doi/abs/10.1080/03610920008832632), _Comm Stat: Theory &amp; Methods_, 29:12, 2693-2715. [DOI: 10.1080/03610920008832632](https://doi.org/10.1080/03610920008832632).  Since it was so hard to get, it's archived [here]({{ site.baseurl }}/assets/2021-09-13-beta-ratios-pham-gia2000.pdf).  
 
-__NB:__ We believe there are several errata in this paper which make it harder to read.
-We've worked through the details, and with these corrections, obtain the same eventual
-result in terms of ${}\_{2}F\_{1}()$.  Specifically:  
+__NB:__ We believe there are several errata in this paper which make it much harder to read
+than need be.  We've worked through the details, and with these corrections, obtain the
+same eventual result in terms of ${}\_{2}F\_{1}()$.  Specifically:  
 - p. 2696, in the definition of the Pochammer coefficients: $K$ should be $\ldots$  
 - p. 2698, in the equation for the marginal density $f(w)$:  
   - The upper limit of integration should be $+1$, not $+\infty$  
