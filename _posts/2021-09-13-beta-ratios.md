@@ -197,16 +197,16 @@ you to pick up the Jacobian properly.
 
 The joint distribution of $p_1$ and $p_2$ is, since they're assumed independent, just the
 product of their individual distributions.  So the normalization integral is pretty
-straightforward to write down.  Then we'll use the first transformation above to get it in
-terms of just $p_2$ and $R$:  
+straightforward to write down.  Then we'll use the first transformation above, as a way to
+get it in terms of just $p_2$ and $R$:  
 
 $$ 
 \begin{multline}
 \shoveleft
 \begin{aligned}
-1 &= \int_0^1\!\!dp_1 \int_0^1\!\!dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!dp_2 \int_0^{+\infty}\!\!dR p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
-  &= \int_0^{+\infty}\!\!dR \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
+1 &= \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 \int_0^{+\infty}\!\!\!\!dR p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
+  &= \int_0^{+\infty}\!\!\!\!dR \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
 \end{aligned}
 \end{multline}
 $$
