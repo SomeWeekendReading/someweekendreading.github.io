@@ -320,7 +320,7 @@ least, if you regard ${}\_{2}F\_{1}()$ as "closed"&hellip;
 Basically we take equations $\ref{eqn:ratio-distribution-small}$ and 
 $\ref{eqn:ratio-distribution-large}$, and recognize that the annoying integral in them
 can, with a suitable change of variables, be made identical to the integral representation
-of $${}\_{2}F\_{1}()$$ in equation $\ref{eqn:hypergeometric-integral}$.  
+of ${}\_{2}F\_{1}()$ in equation $\ref{eqn:hypergeometric-integral}$.  
 
 #### Case $0 \le R \le 1$  
 
