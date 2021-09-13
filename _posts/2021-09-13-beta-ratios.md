@@ -88,7 +88,7 @@ bunch of disease-catching coin flips, then vaccine efficacy is distributed as th
 a couple of independent Beta variables.  
 
 Ok, so what's the distribution of a ratio of independent Beta variables?  There are a
-variety of ways to approach this, which we'll compare in another post.  For now, we're
+variety of ways to approach this, and we'll compare in another post.  For now, we're
 going to fight our way through a paper which gives the exact Bayesian result.  
 
 
@@ -104,8 +104,7 @@ chain found it for me or had institutional access.  Whoever you are, my thanks.
 
 ### The problem  
 
-Consider 2 Beta-distributed variables $p_1 \sim B(\alpha_1, \beta_1)$ and 
-$p_2 \sim B(\alpha_2, \beta_2)$:  
+Consider 2 Beta-distributed variables $p_1$ and $p_2$:  
 
 $$
 \begin{multline}
@@ -117,16 +116,16 @@ $$
 \end{multline}
 $$
 
-We then ask: how is the ratio $R = p_1 / p_2$ distributed?  If we knew the answer,
+We then ask: how is their ratio $R = p_1 / p_2$ distributed?  If we knew the answer,
 particularly the CDF (or even better the quantile function, which is the functional
 inverse of the CDF!), we could calculate 95% confidence intervals on the ratio.  
 
 ### Ranges  
 
-It's important to understand the range of the variables $p_1$, $p_2$, and $R$ so that as
-we transform variables we don't accidentaly step outside reality.  This will help us keep
-the integration limits straight.  Because $p_1$ and $p_2$ are from the standard Beta
-distribution, we have:  
+It's important to understand the ranges of each of the variables $p_1$, $p_2$, and $R$ so
+that as we transform variables we don't accidentaly step outside reality.  This will help
+us keep the integration limits straight.  Because $p_1$ and $p_2$ are from the standard
+Beta distribution, we have:  
 
 $$
 0 \le p_1, p_2 \le 1
@@ -186,10 +185,11 @@ This is correspondingly appropriate for $1 \lt R$, as it guarantees $p_2 \le 1$,
 range requires.  (We'll eventually lose the minus sign, taking absolute value of
 Jacobians.)  
 
-So we'll need to do both transformations.  (Double the workload.  Le sigh.  Who coulda
-seen _that_ coming?)  
+So we'll need to do _both_ transformations.  
 
-#### Case $0 \le R \le 1$  
+Double the workload.  Le sigh.  Who coulda seen _that_ coming?  
+
+#### Case $0 \le R \le 1$:  
 
 I like to do these changes of variable by looking at the normalization integral for the
 joint distribution.  That way, as you change variables, the integration measure will force
@@ -204,9 +204,9 @@ $$
 \begin{multline}
 \shoveleft
 \begin{aligned}
-1 &= \int_0^1 \,dp_1 \int_0^1 \,dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 \,dp_2 \int_0^{+\infty}\,dR p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
-  &= \int_0^{+\infty}\,dR \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\,dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
+1 &= \int_0^1 dp_1\, \int_0^1 dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 dp_2\, \int_0^{+\infty} dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
+  &= \int_0^{+\infty} dR\, \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
 \end{aligned}
 \end{multline}
 $$
@@ -215,13 +215,13 @@ From the last line, we can read off an expression for the distribution for $R$ i
 r&eacute;gime of $0 \le R \le 1$:  
 
 $$\label{eqn:ratio-distribution-small}
-\Pr(R | 0 \le R \le 1) = \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\,dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
+\Pr(R | 0 \le R \le 1) = \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 dp_2 p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
 $$
 
 It still contains an integral to marginalize out $p_2$, but below we'll recognize that as
 a form of the integral representation for the hypergeometric function ${}\_{2}F\_{1}()$.  
 
-#### Case $1 \le R$  
+#### Case $1 \le R$:  
 
 Pretty much the same thing: start from the joint distribution's normalization integral,
 use the other variable change to write in terms of $p_1$ and $R$, then read off the
@@ -233,9 +233,9 @@ $$
 \begin{multline}
 \shoveleft
 \begin{aligned}
-1 &= \int_0^1 \,dp_1 \int_0^1 \,dp_2 \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 \,dp_1 \int_0^{+\infty}\,dR \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+\infty}\,dR \frac{1}{R^{\alpha_2 + 1}} \int_0^1\,dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+1 &= \int_0^1 dp_1\, \int_0^1 dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1 dp_1\, \int_0^{+\infty} dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+\infty} dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1 dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 \end{aligned}
 \end{multline}
 $$
@@ -244,7 +244,7 @@ From the last line, we can read off an expression for the distribution of $R$ in
 r&eacute;gime of $1 \lt R$:  
 
 $$\label{eqn:ratio-distribution-large}
-\Pr(R | 1 \lt R) = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\,dp_1 p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+\Pr(R | 1 \lt R) = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1 dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 $$
 
 Here we also have a remaining integral to do; it will also be recognized as another
@@ -309,7 +309,7 @@ the integrals we have to do above?  Well, it turns out that $${}\_{2}F\_{1}()$$ 
 representation, as well, apparently due to Euler:  
 
 $$\label{eqn:hypergeometric-integral}
-{}_2F_1(a,b;c;x) = \frac{1}{B(a, c-a)} \int_0^1\,du u^{a-1} (1-u)^{c-a-1} (1-xu)^{-b}
+{}_2F_1(a,b;c;x) = \frac{1}{B(a, c-a)} \int_0^1 du\, u^{a-1} (1-u)^{c-a-1} (1-xu)^{-b}
 $$
 
 This is the trick that Pham-Gia used to get the density distribution in closed form.  At
