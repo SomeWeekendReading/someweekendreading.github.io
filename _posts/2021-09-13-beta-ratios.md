@@ -37,7 +37,7 @@ conveniently be done with the
 [Beta distribution of the first kind](https://en.wikipedia.org/wiki/Beta_distribution):  
 
 $$
-\Pr(p | \alpha, \beta) = \frac{p^{\alpha - 1 (1 - p)^{\beta - 1}}}{B(\alpha, \beta)}
+\Pr(p | \alpha, \beta) = \frac{p^{\alpha - 1} (1 - p)^{\beta - 1}}{B(\alpha, \beta)}
 $$
 
 where the normalization is
@@ -105,7 +105,7 @@ chain found it for me or had institutional access.  Whoever you are, my thanks.
 ### The problem  
 
 Consider 2 Beta-distributed variables $p_1 \sim B(\alpha_1, \beta_1)$ and 
-$p_2 \sim B(\alpha_2, \beta_2$:  
+$p_2 \sim B(\alpha_2, \beta_2)$:  
 
 $$
 \begin{multline}
@@ -117,7 +117,7 @@ $$
 \end{multline}
 $$
 
-We then ask: how is the ratio $R = \frac{p_1}{p_2}$ distributed?  If we knew the answer,
+We then ask: how is the ratio $R = p_1 / p_2$ distributed?  If we knew the answer,
 particularly the CDF (or even better the quantile function, which is the functional
 inverse of the CDF!), we could calculate 95% confidence intervals on the ratio.  
 
@@ -151,7 +151,7 @@ vaccinees _more_ susceptible to disease&hellip; which is surely negative efficac
 
 Our strategy is to start with the joint density $\Pr(p_1, p_2)$ and then do various
 tortured changes of variables to eliminate one of $p_1$ or $p_2$ in favor of $R$, and
-express the residual integral in terms of a hypergeometric function ${}_2F_1()$.  
+express the residual integral in terms of a hypergeometric function ${}\_{2}F\_{1}()$.  
 
 How complicated can it be?  Well, there's lots of detail coming up, but really it comes
 down to the fact that with 3 variables $p_1, p_2, R$ there are only 2 ways to eliminate
@@ -217,7 +217,7 @@ $$\label{eqn:ratio-distribution-small}
 $$
 
 It still contains an integral to marginalize out $p_2$, but below we'll recognize that as
-a form of the integral representation for the hypergeometric function ${}_2F_{1}()$.  
+a form of the integral representation for the hypergeometric function ${}\_{2}F\_{1}()$.  
 
 #### Case $1 \le R$  
 
@@ -246,7 +246,7 @@ $$\label{eqn:ratio-distribution-large}
 $$
 
 Here we also have a remaining integral to do; it will also be recognized as another
-integral representation of ${}_2F_{1}()$.  
+integral representation of ${}\_{2}F\_{1}()$.  
 
 ### Hypergeometric functions  
 
@@ -303,7 +303,7 @@ with counts in a clinical trial), in which case the Pochammer symbols eventually
 of very high order (say 15,000 participants in a trial arm), but a polynomial nonetheless!
 
 That's all&hellip; fine, if you like that sort of thing.  But what does it have to do with
-the integrals we have to do above?  Well, it turns out that ${}_2F_1()$ has an integral
+the integrals we have to do above?  Well, it turns out that $${}\_{2}F\_{1}()$$ has an integral
 representation, as well, apparently due to Euler:  
 
 $$\label{eqn:hypergeometric-integral}
@@ -311,14 +311,14 @@ $$\label{eqn:hypergeometric-integral}
 $$
 
 This is the trick that Pham-Gia used to get the density distribution in closed form.  At
-least, if you regard ${}_2F_1()$ as "closed"&hellip;  
+least, if you regard $${}\_{2}F\_{1}()$$ as "closed"&hellip;  
 
 ### Expressing the residual integral in hypergeometric terms  
 
 Basically we take equations $\ref{eqn:ratio-distribution-small}$ and 
 $\ref{eqn:ratio-distribution-large}$, and recognize that the annoying integral in them
 can, with a suitable change of variables, be made identical to the integral representation
-of ${}_2F_1()$ in equation $\ref{eqn:hypergeometric-integral}$.  
+of $${}\_{2}F\_{1}()$$ in equation $\ref{eqn:hypergeometric-integral}$.  
 
 #### Case $0 \le R \le 1$  
 
@@ -378,8 +378,8 @@ library in Python on Github. <sup id="fn3a">[[3]](#fn3)</sup>  Now, I'm not so m
 the Python, more of an [R](https://www.r-project.org) guy.  But let's have a look.  
 
 Saffer relies on 2 integrals of hypergeometric functions times algebraic functions, with
-results using _generalized_ hypergeometric functions ${}_3F_2()$&hellip; even more
-fearsome than ${}_2F1()$!  I don't know quite how to derive these, though I did manage to
+results using _generalized_ hypergeometric functions ${}\_{3}F\_{2}()$&hellip; even more
+fearsome than ${}\_{2}F\_{1}()$!  I don't know quite how to derive these, though I did manage to
 confirm the first at Wolfram:  
 
 !["Saffer: integral of 2F1() times power"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-3F2-1.jpg "Saffer: integral of 2F1() times power")
@@ -423,7 +423,7 @@ Work for another day.
 We've worked our way through the relevant parts of Pham-Gia's paper (though there's a lot
 more there!), and confirmed the primary result that the PDF of the ratio of 2
 independent Beta-distributed random variables is a variety of hypergeometric function 
-${}_2F_1()$.  
+${}\_{2}F\_{1}()$.  
 
 We haven't confirmed all the details of how to get the CDF; there's probably some bit of
 hypergeometric lore that will tell us the integral identities above from which the CDFs
