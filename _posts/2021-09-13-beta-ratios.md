@@ -5,10 +5,10 @@ tags: Math TheDivineMadness
 comments: true
 ---
 
-[Warning: post contains full frontal nerdity.] I finally got a copy of Pham-Gia's paper on
-the distribution of a ratio of 2 independent Beta-distributed random variables.  I also
-still have some trauma around hypergeometric functions like ${}\_{2}F\_{1}()$ and its
-scarier brother ${}\_{3}F\_{2}()$.  Time to face my fears.  
+[Warning: post contains full frontal nerdity.  Bug reports appreciated!] I finally got a
+copy of Pham-Gia's paper on the distribution of a ratio of 2 independent Beta-distributed
+random variables.  I also still have some trauma around hypergeometric functions like
+${}\_{2}F\_{1}()$ and its scarier brother ${}\_{3}F\_{2}()$.  Time to face my fears.  
 
 
 ## The three B's: Bernoulli, Binomial, and Beta  
@@ -311,7 +311,7 @@ $$\label{eqn:hypergeometric-integral}
 $$
 
 This is the trick that Pham-Gia used to get the density distribution in closed form.  At
-least, if you regard $${}\_{2}F\_{1}()$$ as "closed"&hellip;  
+least, if you regard ${}\_{2}F\_{1}()$ as "closed"&hellip;  
 
 ### Expressing the residual integral in hypergeometric terms  
 
@@ -425,17 +425,16 @@ more there!), and confirmed the primary result that the PDF of the ratio of 2
 independent Beta-distributed random variables is a variety of hypergeometric function 
 ${}\_{2}F\_{1}()$.  
 
-We haven't confirmed all the details of how to get the CDF; there's probably some bit of
-hypergeometric lore that will tell us the integral identities above from which the CDFs
-follow straightforwardly (or as straightforwardly as things go here).  
-
-We also haven't wrestled with all the numeric issues of implementing this, say in 
-[R](https://www.r-project.org), though Saffer's Python code is probably a good guide.  
-
-Furthermore, we haven't investigated the quantile function (functional inverse of the CDF)
-which would let us read off quantiles directly.  Looking at Saffer's code, he hasn't
-either: he's using Newton's method to solve the relevant equation directly from the CDF,
-which is totally fair.  
+However, there are several things we _haven't_ done:  
+- We haven't confirmed all the details of how to get the CDF; there's probably some bit of
+  hypergeometric lore that will tell us the integral identities above from which the CDFs
+  follow straightforwardly (or as straightforwardly as things go here).  
+- We also haven't wrestled with all the numeric issues of implementing this, say in 
+  [R](https://www.r-project.org), though Saffer's Python code is probably a good guide.  
+- Furthermore, we haven't investigated the quantile function (functional inverse of the CDF)
+  which would let us read off quantiles directly.  Looking at Saffer's code, he hasn't
+  either: he's using Newton's method to solve the relevant equation directly from the CDF,
+  which is totally fair.  
 
 So we've got a bit more work to do to make this useable in a practical sense.  
 
@@ -453,7 +452,7 @@ So we've got a bit more work to do to make this useable in a practical sense.
 
 __NB:__ We believe there are several errata in this paper which make it harder to read.
 We've worked through the details, and with these corrections, obtain the same eventual
-result in terms of ${}_{2}F_{1}()$.  Specifically:  
+result in terms of ${}\_{2}F\_{1}()$.  Specifically:  
 - p. 2696, in the definition of the Pochammer coefficients: $K$ should be $\ldots$  
 - p. 2698, in the equation for the marginal density $f(w)$:  
   - The upper limit of integration should be $+1$, not $+\infty$  
