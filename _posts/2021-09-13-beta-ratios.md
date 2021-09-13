@@ -5,10 +5,10 @@ tags: Math TheDivineMadness
 comments: true
 ---
 
-I finally got a copy of Pham-Gia's paper on the distribution of a ratio of 2 independent
-Beta-distributed random variables.  I also still have some trauma around hypergeometric
-functions like ${}\_{2}F\_{1}()$ and its scarier brother ${}\_{3}F\_{2}()$.  Time to face
-my fears.  
+[Warning: post contains full frontal nerdity.] I finally got a copy of Pham-Gia's paper on
+the distribution of a ratio of 2 independent Beta-distributed random variables.  I also
+still have some trauma around hypergeometric functions like ${}\_{2}F\_{1}()$ and its
+scarier brother ${}\_{3}F\_{2}()$.  Time to face my fears.  
 
 
 ## The three B's: Bernoulli, Binomial, and Beta  
