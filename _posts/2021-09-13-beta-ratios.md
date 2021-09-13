@@ -80,7 +80,7 @@ Then the vaccine efficacy is how much the risk is lowered, compared to the unvac
 control arm:  
 
 $$
-VE = \frac{p_c - p_v}{p_c} = 1 - frac{p_v}{p_c}
+VE = \frac{p_c - p_v}{p_c} = 1 - \frac{p_v}{p_c}
 $$
 
 Now if we believe that $p_v$ and $p_c$ are Beta-distributed, given the clinical trial as a
@@ -448,7 +448,7 @@ So we've got a bit more work to do to make this useable in a practical sense.
 <img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title = "***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 -->
 
-<a id="fn1">1</a>: T Pham-Gia, ["Distributions of the ratios of independent beta variables and applications"](https://www.tandfonline.com/doi/abs/10.1080/03610920008832632), _Comm Stat: Theory &amp; Methods_, 29:12, 2693-2715. [DOI: 10.1080/03610920008832632](https://doi.org/10.1080/03610920008832632)  
+<a id="fn1">1</a>: T Pham-Gia, ["Distributions of the ratios of independent beta variables and applications"](https://www.tandfonline.com/doi/abs/10.1080/03610920008832632), _Comm Stat: Theory &amp; Methods_, 29:12, 2693-2715. [DOI: 10.1080/03610920008832632](https://doi.org/10.1080/03610920008832632).  Since it was so hard to get, it's archived [here]({{ site.baseurl }}/assets/2021-09-13-beta-ratios-pham-gia2000.pdf).  
 
 __NB:__ We believe there are several errata in this paper which make it harder to read.
 We've worked through the details, and with these corrections, obtain the same eventual
