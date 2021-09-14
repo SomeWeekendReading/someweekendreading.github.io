@@ -12,7 +12,7 @@ as they both are.  Influenza vaccination this time.
 ## Flu vaccines: they're for everybody  
 
 As usual, [XKCD #2515 properly summarizes everything](https://xkcd.com/2515/) in just a
-few words and even fewer lines:  
+few words, and even fewer lines:  
 !["XKCD: vaccines actually work"](https://imgs.xkcd.com/comics/vaccine_research.png "XKCD: vaccines actually work")
 
 Influenza, a.k.a. "the flu", is not trivial.  It's a respiratory virus that in a typical
@@ -22,11 +22,11 @@ something around 650,000 deaths world-wide
 it as "just the flu", but numbers like that are nothing to sneeze at.  (Ahem.)  
 
 Also, there's almost certain to be a 4th wave of COVID-19 in the US this winter, as people
-in the north go back inside into rooms with limited ventilation populated by unvaccinated
-knuckleheads.  Look, at this point you have ony 3 alternatives: either you've already had
-COVID and are somewhat immune, or you're vaccinated and are pretty well immune, or 
-_you're going to catch the Delta variant_.  There is no 4th alternative in which you're
-not already somehow immune and you evade Delta.  None.  
+in the north go back inside into rooms with limited ventilation, which are also partially
+populated by unvaccinated knuckleheads.  Look, at this point you have ony 3 alternatives:
+either you've already had COVID and are somewhat immune, or you're vaccinated and are
+pretty well immune, or _you're going to catch the Delta variant_.  There is no 4th
+alternative in which you're not already somehow immune and you evade Delta.  None.  
 
 That being the case, you really don't want to show up at a hospital as another febrile
 patient with a cough and a fever.  In fact, you don't want to show up at a hospital at
@@ -38,14 +38,14 @@ the healthcare system.
 
 ## Everybody includes me  
 
-<img src="{{ site.baseurl }}/images/2021-09-14-today-i-got-shot-a-fifth-time-flu-vaccine.jpg" width="400" height="318" alt="The box from which your humble Weekend Editor's vaccine came" title = "The box from which your humble Weekend Editor's vaccine came" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-So, trying to be a reasonably smart boy with a good sense of self-preservation, I got a
+So, trying to be a reasonably smart boy with a good survival instinct, I got a
 flu shot today.  
 
 "Isn't it a bit early in the season?" the Weekend Editrix asked.  Sure, but that's all the
 better: give my immune system a chance to build itself up _before_ flu becomes an issue.  
 
-I asked the pharmacist if I could take a picture of the box from which mine came, for this blog.
+<img src="{{ site.baseurl }}/images/2021-09-14-today-i-got-shot-a-fifth-time-flu-vaccine.jpg" width="400" height="318" alt="The box from which your humble Weekend Editor's vaccine came" title = "The box from which your humble Weekend Editor's vaccine came" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I asked the pharmacist if I could take a picture of the box from which my dose came, for this blog.
 She said sure, but wanted to get a fresh box so the pharmacy would look better.  So this
 isn't _exactly_ the box from which my personal syringe full of not-the-flu came, but it was
 probably the one next to it in the freezer.  
