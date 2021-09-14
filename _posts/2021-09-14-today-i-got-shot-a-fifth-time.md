@@ -11,6 +11,10 @@ as they both are.  Influenza vaccination this time.
 
 ## Flu vaccines: they're for everybody  
 
+As usual, [XKCD #2515 properly summarizes everything](https://xkcd.com/2515/) in just a
+few words and even fewer lines:  
+!["XKCD: vaccines actually work"](https://imgs.xkcd.com/comics/vaccine_research.png "XKCD: vaccines actually work")
+
 Influenza, a.k.a. "the flu", is not trivial.  It's a respiratory virus that in a typical
 year infects 5-15% of humanity, with about 3-5 million severe cases annually, and
 something around 650,000 deaths world-wide
