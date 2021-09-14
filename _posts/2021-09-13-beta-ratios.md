@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the ratio of Beta-distributed random variables
-tags: Math TheDivineMadness
+tags: CatBlogging Math Statistics TheDivineMadness
 comments: true
 ---
 
@@ -339,6 +339,16 @@ $$
 
 And that's Pham-Gia's second result on p. 2699.  
 
+<!--
+#### Continuity at $R = 1$  
+
+https://en.wikipedia.org/wiki/Hypergeometric_function#Special_cases
+2F1(a,b;c;1) = Gamma(c) Gamma(c-a-b) / (Gamma(c-a) * Gamma(c-b)) if Re(c) > Re(a+b)
+(true in our case if all alpha's, beta's > 0)
+
+Also use B(a, b) = Gamma(a) Gamma(b) / Gamma(a+b)
+-->
+
 
 ## Ok, what about the cumulative distribution function?  
 
@@ -388,8 +398,17 @@ I'll trust it.
 
 That's work for another day.  
 
+<!--
+Quantile function: estimate numerically with Newton's method and the CDF, as Saffer does?
+-->
+
 
 ## The Weekend Conclusion  
+
+<img src="{{ site.baseurl }}/images/2021-09-13-beta-ratios-weekend-publisher.jpg" width="400" height="533" alt="Weekend Publisher, mid-critique, providing peer review" title = "Weekend Publisher, mid-critique, providing peer review" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+In a spirit of proper collegiality, I wish to acknowledge warmly the assistance of the
+Weekend Publisher at several points in this analysis.  He provided encouragement when I
+wanted to give up.  He is shown here in mid-critique, providing valuable peer review.  
 
 We've worked our way through the relevant parts of Pham-Gia's paper (though there's a lot
 more there!), and confirmed the primary result that the PDF of the ratio of 2
