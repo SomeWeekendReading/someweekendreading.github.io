@@ -64,13 +64,13 @@ to know how much the vaccine lowers your risk of disease.
 So point estimates of the probability of infection in each arm are:  
 
 $$
-\begin{multline}
+\begin{multline*}
 \shoveleft
 \begin{aligned}
 p_v &= I_v / N_v \\
 p_c &= I_c / N_c
 \end{aligned}
-\end{multline}
+\end{multline*}
 $$
 
 (We'd of course like to use a posterior Beta distribution instead of a point estimate
