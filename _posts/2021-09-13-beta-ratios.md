@@ -241,7 +241,7 @@ functions. <sup id="fn2a">[[2]](#fn2)</sup>
 [Hypergeometric functions](https://en.wikipedia.org/wiki/Hypergeometric_function) got
 their start in the 1600s, but hit it big in the 1800s with major players like Euler,
 Gauss, Riemann, and Kummer coming up for bat.  They're at once mind-numbingly complex (at
-least to me, though they're kind of my kryptonite) with a bajillion special cases, and
+least to me, since they're kind of my kryptonite) with a bajillion special cases, and
 amazingly versatile.  You can express almost all the special functions of theortical
 physics (Bessel functions and the like) in terms of hypergeometric functions.  
 
@@ -251,7 +251,7 @@ can master all of the lore of hypergeometric functions.  Least of all me!
 
 Like most magical artifacts, they are best approached by wizards and avoided by mundanes.
 I am not a wizard in these matters, and thus approach with some fear and considerable
-respect for the value of keeping my fingers out of the gears.  
+respect for the virtue of keeping one's fingers out of the gears.  
 
 As a matter of definition, in the unit disk $|z| \lt 1$ in the complex plane, the
 hypergeometric function of interest at the moment is defined by a power series (and by
@@ -410,10 +410,10 @@ In a spirit of proper collegiality, I wish to acknowledge warmly the assistance 
 Weekend Publisher at several points in this analysis.  He provided encouragement when I
 wanted to give up.  He is shown here in mid-critique, providing valuable peer review.  
 
-We've worked our way through the relevant parts of Pham-Gia's paper (though there's a lot
-more there!), and confirmed the primary result that the PDF of the ratio of 2
-independent Beta-distributed random variables is a variety of hypergeometric function 
-${}\_{2}F\_{1}()$.  
+That acknowledgement having been made, we've worked our way through the relevant parts of
+Pham-Gia's paper (though there's a lot more there!), and confirmed the primary result that
+the PDF of the ratio of 2 independent Beta-distributed random variables is a variety of
+hypergeometric function ${}\_{2}F\_{1}()$.  
 
 However, there are several things we _haven't_ done:  
 - We haven't proven any sort of continuity at $R = 1$, i.e., whether the two forms of the 
