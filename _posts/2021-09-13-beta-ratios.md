@@ -341,8 +341,10 @@ And that's Pham-Gia's second result on p. 2699.
 
 ### Continuity at $R = 1$  
 
-We can show that the above expressions for $\Pr(R \| 0 \le R \le 1)$ and 
-$\Pr(R \| 1 \lt R)$ are equal at $R = 1$, establishing continuity at that point.  
+Pham-Gia did not address in his paper whether the 2 different expressions for $\Pr(R)$
+matched up at $R = 1$, i.e., that the probability distribution is continuous.  We can show
+that the above expressions for $\Pr(R \| 0 \le R \le 1)$ and $\Pr(R \| 1 \lt R)$ are equal
+at $R = 1$, establishing continuity at that point.  
 
 We need 2 identities:  
 - From [Wikipedia's entry on ${}\{2}F\_{1}()$ and its special cases](https://en.wikipedia.org/wiki/Hypergeometric_function#Special_cases) comes an
@@ -382,6 +384,7 @@ $$
 \end{align*}
 $$
 
+These 2 expressions being identical, we have established continuity at $R = 1$.  
 
 ## Ok, what about the cumulative distribution function?  
 
@@ -438,19 +441,25 @@ Quantile function: estimate numerically with Newton's method and the CDF, as Saf
 
 ## The Weekend Conclusion  
 
-<img src="{{ site.baseurl }}/images/2021-09-13-beta-ratios-weekend-publisher.jpg" width="400" height="533" alt="Weekend Publisher, mid-critique, providing peer review" title = "Weekend Publisher, mid-critique, providing peer review" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-09-13-beta-ratios-weekend-publisher.jpg" width="400" height="533" alt="Weekend Publisher, mid-critique, providing purr review" title = "Weekend Publisher, mid-critique, providing purr review" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 In a spirit of proper collegiality, I wish to acknowledge warmly the assistance of the
 Weekend Publisher at several points in this analysis.  He provided encouragement when I
-wanted to give up.  He is shown here in mid-critique, providing valuable peer review.  
+wanted to give up.  He is shown here in mid-critique, providing valuable purr review.  
 
 That acknowledgement having been made, we've worked our way through the relevant parts of
 Pham-Gia's paper (though there's a lot more there!), and confirmed the primary result that
 the PDF of the ratio of 2 independent Beta-distributed random variables is a variety of
 hypergeometric function ${}\_{2}F\_{1}()$.  
 
+Somewhat beyond Pham-Gia's paper, we've also proven the continuity of the distribution at
+$R = 1$, i.e., that the expression for $0 \le R \le 1$ and the one for $R \gt 1$ match up
+at $R = 1$.  
+
 However, there are several things we _haven't_ done:  
-- We haven't proven any sort of continuity at $R = 1$, i.e., whether the two forms of the 
-  PDF we cooked up above hook up continuously.  Should probably do that.  
+- While we have _continuity_ at $R = 1$, we haven't proven _smoothness_.  We don't
+  strictly need that, but as there's no particular reason for a kink at $R = 1$, it would
+  be nice to show the derivative from the left equals the derivative from the right.
+  So&hellip; we have to understand the derivative identities of ${}\_{2}F\_{1}()$.  
 - We haven't confirmed all the details of how to get the CDF; there's probably some bit of
   hypergeometric lore that will tell us the integral identities above from which the CDFs
   follow straightforwardly (or as straightforwardly as things go here).  
