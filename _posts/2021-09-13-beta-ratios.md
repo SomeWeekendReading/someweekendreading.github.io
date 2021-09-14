@@ -152,7 +152,7 @@ one of them in favor of $R$.  Either we substitute out $p_1$ in favor of $p_2, R
 
 $$
 \begin{align*}
-p_1  &= p_2 R \\
+p_1  &= p_2\, R \\
 dp_1 &= p_2\, dR
 \end{align*}
 $$
@@ -267,15 +267,12 @@ dingus is the
 [rising Pochammer symbol](https://en.wikipedia.org/wiki/Falling_and_rising_factorials):  
 
 $$
-\begin{align*}
-(q)_n &= \left\{ 
-           \begin{array}{ll}
-             1 & n = 0 \\
-			 q(q+1)\cdots(q+n-1) & n > 0
-		   \end{array}
-         \right. \\
-      &= \frac{\Gamma(q+n)}{\Gamma(q)}
-\end{align*}
+(q)_n = \left\{ 
+          \begin{array}{ll}
+            1 & n = 0 \\
+            q(q+1)\cdots(q+n-1) & n > 0
+          \end{array}
+        \right. = \frac{\Gamma(q+n)}{\Gamma(q)}
 $$
 
 An interesting special case for us will be when $a$ or $b$ are nonpositive integers (as
