@@ -341,8 +341,8 @@ And that's Pham-Gia's second result on p. 2699.
 
 ### Continuity at $R = 1$  
 
-We can show that the above expressions for $\Pr(R | 0 \le R \le 1)$ and 
-$\Pr(R | 1 \lt R)$ are equal at $R = 1$, establishing continuity at that point.  
+We can show that the above expressions for $\Pr(R \| 0 \le R \le 1)$ and 
+$\Pr(R \| 1 \lt R)$ are equal at $R = 1$, establishing continuity at that point.  
 
 We need 2 identities:  
 - From [Wikipedia's entry on ${}\{2}F\_{1}()$ and its special cases](https://en.wikipedia.org/wiki/Hypergeometric_function#Special_cases) comes an
@@ -366,9 +366,8 @@ $$
 \begin{align*}
 \Pr(R | 0 \le R \le 1) &\xrightarrow[R \to 1]{} \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2) \Gamma(\beta_1 + \beta_2 + 1)}{\Gamma(\beta_2) \Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
   &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2) \Gamma(\beta_2)}{\Gamma(\alpha_1 + \alpha_2 + \beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2) \Gamma(\beta_1 + \beta_2 + 1)}{\Gamma(\beta_2) \Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)} 
-\frac{\Gamma(\alpha_1 + \alpha_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)}{\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
-  &= *** \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)}{\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
+  &= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)}
 \end{align*}
 $$
 
