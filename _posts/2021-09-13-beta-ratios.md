@@ -65,7 +65,6 @@ So point estimates of the probability of infection in each arm are:
 
 $$
 \begin{multline*}
-\shoveleft
 \begin{aligned}
 p_v &= I_v / N_v \\
 p_c &= I_c / N_c
