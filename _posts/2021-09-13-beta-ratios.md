@@ -317,10 +317,10 @@ least, if you regard ${}\_{2}F\_{1}()$ as "closed"&hellip;
 
 ### Expressing the residual integral in hypergeometric terms  
 
-Basically we take equations $\ref{eqn:ratio-distribution-small}$ and 
-$\ref{eqn:ratio-distribution-large}$, and recognize that the annoying integral in them
+Basically we take equations $\eqref{eqn:ratio-distribution-small}$ and 
+$\eqref{eqn:ratio-distribution-large}$, and recognize that the annoying integral in them
 can, with a suitable change of variables, be made identical to the integral representation
-of ${}\_{2}F\_{1}()$ in equation $\ref{eqn:hypergeometric-integral}$.  
+of ${}\_{2}F\_{1}()$ in equation $\eqref{eqn:hypergeometric-integral}$.  
 
 #### Case $0 \le R \le 1$:  
 
@@ -428,6 +428,8 @@ independent Beta-distributed random variables is a variety of hypergeometric fun
 ${}\_{2}F\_{1}()$.  
 
 However, there are several things we _haven't_ done:  
+- We haven't proven any sort of continuity at $R = 1$, i.e., whether the two forms of the 
+  PDF we cooked up above hook up continuously.  Should probably do that.  
 - We haven't confirmed all the details of how to get the CDF; there's probably some bit of
   hypergeometric lore that will tell us the integral identities above from which the CDFs
   follow straightforwardly (or as straightforwardly as things go here).  
