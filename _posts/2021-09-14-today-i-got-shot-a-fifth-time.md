@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today I got shot (a _fifth_ time)
+title: Today I got shot (a fifth time)
 tags: PharmaAndBiotech Statistics
 comments: true
 ---
