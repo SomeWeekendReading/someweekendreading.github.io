@@ -214,7 +214,7 @@ $$
 From the last line, we can read off an expression for the distribution for $R$ in the
 r&eacute;gime of $0 \le R \le 1$:  
 
-$$\label{eqn:ratio-distribution-small}
+$$
 \Pr(R | 0 \le R \le 1) = \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
 $$
 
@@ -243,7 +243,7 @@ $$
 From the last line, we can read off an expression for the distribution of $R$ in teh
 r&eacute;gime of $1 \lt R$:  
 
-$$\label{eqn:ratio-distribution-large}
+$$
 \Pr(R | 1 \lt R) = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 $$
 
@@ -308,7 +308,7 @@ That's all&hellip; fine, if you like that sort of thing.  But what does it have 
 the integrals we have to do above?  Well, it turns out that ${}\_{2}F\_{1}()$ has an integral
 representation, as well, apparently due to Euler:  
 
-$$\label{eqn:hypergeometric-integral}
+$$
 {}_2F_1(a,b;c;x) = \frac{1}{B(a, c-a)} \int_0^1\!\!\!\!du\, u^{a-1} (1-u)^{c-a-1} (1-xu)^{-b}
 $$
 
@@ -317,10 +317,9 @@ least, if you regard ${}\_{2}F\_{1}()$ as "closed"&hellip;
 
 ### Expressing the residual integral in hypergeometric terms  
 
-Basically we take equations \ref{eqn:ratio-distribution-small} and 
-\ref{eqn:ratio-distribution-large}, and recognize that the annoying integral in them
-can, with a suitable change of variables, be made identical to the integral representation
-of ${}\_{2}F\_{1}()$ in equation \ref{eqn:hypergeometric-integral}.  
+Basically we take the above equations for $\Pr(R)$ with residual integrals , and recognize
+that the annoying integral in them can, with a suitable change of variables, be made
+identical to the integral representation of ${}\_{2}F\_{1}()$.  
 
 #### Case $0 \le R \le 1$:  
 
