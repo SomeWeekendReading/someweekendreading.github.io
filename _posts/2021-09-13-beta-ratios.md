@@ -104,13 +104,10 @@ chain found it for me or had institutional access.  Whoever you are, my thanks.
 Consider 2 Beta-distributed variables $p_1$ and $p_2$:  
 
 $$
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
 \Pr(p_1) &= \frac{p_{1}^{\alpha_{1}-1}(1-p_{1})^{\beta_{1}-1}}{B(\alpha_1, \beta_1)} \\
 \Pr(p_2) &= \frac{p_{2}^{\alpha_{2}-1}(1-p_{2})^{\beta_{2}-1}}{B(\alpha_2, \beta_2)}
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 We then ask: how is their ratio $R = p_1 / p_2$ distributed?  If we knew the answer,
@@ -154,13 +151,10 @@ down to the fact that with 3 variables $p_1, p_2, R$ there are only 2 ways to el
 one of them in favor of $R$.  Either we substitute out $p_1$ in favor of $p_2, R$ via:  
 
 $$
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
 p_1  &= p_2 R \\
-dp_1 &= p_2 dR
-\end{aligned}
-\end{multline*}
+dp_1 &= p_2\, dR
+\end{align*}
 $$
 
 This is appropriate for $0 \le R \le 1$, since if $R \gg 1$ it could force a value of 
@@ -169,13 +163,10 @@ $p_1 > 1$, which takes us out of its allowed range.
 Or we substitute out $p_2$ in favor of $p_1, R$ via:  
 
 $$
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
 p_2  & = \frac{p_1}{R} \\
 dp_2 &= -\frac{p_1}{R^2} dR
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 This is correspondingly appropriate for $1 \lt R$, as it guarantees $p_2 \le 1$, as the
@@ -198,14 +189,11 @@ straightforward to write down.  Then we'll use the first transformation above, a
 get it in terms of just $p_2$ and $R$:  
 
 $$ 
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
 1 &= \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
   &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
   &= \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 From the last line, we can read off an expression for the distribution for $R$ in the
@@ -227,14 +215,11 @@ trick: the minus sign in the differential above disappears, because we take abso
 of Jacobians in a transform.)  
 
 $$ 
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
 1 &= \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
   &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_1 \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
   &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 From the last line, we can read off an expression for the distribution of $R$ in the
@@ -282,9 +267,7 @@ dingus is the
 [rising Pochammer symbol](https://en.wikipedia.org/wiki/Falling_and_rising_factorials):  
 
 $$
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
 (q)_n &= \left\{ 
            \begin{array}{ll}
              1 & n = 0 \\
@@ -292,8 +275,7 @@ $$
 		   \end{array}
          \right. \\
       &= \frac{\Gamma(q+n)}{\Gamma(q)}
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 An interesting special case for us will be when $a$ or $b$ are nonpositive integers (as
@@ -323,15 +305,12 @@ identical to the integral representation of ${}\_{2}F\_{1}()$.
 The dictionary of variables to recognize the hypergeometric integral is:  
 
 $$
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
   u &= p_2 \\
   a &= \alpha_1 + \alpha_2 \\
   b &= 1 - \beta_1 \\
   c &= \alpha_1 + \alpha_2 + \beta_2
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 That gives the final result for small $R$ of:  
@@ -347,15 +326,12 @@ And that's Pham-Gia's first result on p. 2698.
 Here the dictionary is slightly different:  
 
 $$
-\begin{multline*}
-\shoveleft
-\begin{aligned}
+\begin{align*}
   u &= p_1 \\
   a &= \alpha_1 + \alpha_2 \\
   b &= 1 - \beta_2 \\
   c &= \alpha_1 + \alpha_2 + \beta_1
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 That gives the final result for large $R$ of:  
