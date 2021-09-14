@@ -339,15 +339,41 @@ $$
 
 And that's Pham-Gia's second result on p. 2699.  
 
-<!--
-#### Continuity at $R = 1$  
+### Continuity at $R = 1$  
 
-https://en.wikipedia.org/wiki/Hypergeometric_function#Special_cases
-2F1(a,b;c;1) = Gamma(c) Gamma(c-a-b) / (Gamma(c-a) * Gamma(c-b)) if Re(c) > Re(a+b)
-(true in our case if all alpha's, beta's > 0)
+We can show that the above expressions for $\Pr(R | 0 \le R \le 1)$ and 
+$\Pr(R | 1 \lt R)$ are equal at $R = 1$, establishing continuity at that point.  
 
-Also use B(a, b) = Gamma(a) Gamma(b) / Gamma(a+b)
--->
+We need 2 identities:  
+- From [Wikipedia's entry on ${}\{2}F\_{1}()$ and its special cases](https://en.wikipedia.org/wiki/Hypergeometric_function#Special_cases) comes an
+identity for evaluating ${}\{2}F\_{1}()$ at 1, provided $\Re(c) \gt \Re(a+b)$.  For the
+positive values of $\alpha_i, \beta_i$ we're considering, this is true:
+
+$$
+2F1(a,b;c;1) = \frac{\Gamma(c) \Gamma(c-a-b)}{(Gamma(c-a) Gamma(c-b)) }
+$$
+
+- Also, we need to decompose complete Beta functions into Gamma functions, via the
+  standard identity we all learned at our mother's knees:  
+
+$$
+B(a, b) = \frac{\Gamma(a) \Gamma(b)}{\Gamma(a+b)}
+$$
+
+#### Case $0 \le R \le 1$:  
+
+$$
+\begin{align*}
+\Pr(R | 0 \le R \le 1) &\xrightarrow[R \to 1]{} \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2) \Gamma(\beta_1 + \beta_2 + 1)}{\Gamma(\beta_2) \Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2) \Gamma(\beta_2)}{\Gamma(\alpha_1 + \alpha_2 + \beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2) \Gamma(\beta_1 + \beta_2 + 1)}{\Gamma(\beta_2) \Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, beta_2)} *** \\
+  &= *** \\
+\end{align*}
+$$
+
+#### Case $1 \le R$:  
+
+\*\*\* 
 
 
 ## Ok, what about the cumulative distribution function?  

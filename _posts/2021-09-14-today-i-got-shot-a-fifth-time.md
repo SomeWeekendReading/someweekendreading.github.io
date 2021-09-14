@@ -23,10 +23,12 @@ it as "just the flu", but numbers like that are nothing to sneeze at.  (Ahem.)
 
 Also, there's almost certain to be a 4th wave of COVID-19 in the US this winter, as people
 in the north go back inside into rooms with limited ventilation, which are also partially
-populated by unvaccinated knuckleheads.  Look, at this point you have ony 3 alternatives:
-either you've already had COVID and are somewhat immune, or you're vaccinated and are
-pretty well immune, or _you're going to catch the Delta variant_.  There is no 4th
-alternative in which you're not already somehow immune and you evade Delta.  None.  
+populated by unvaccinated knuckleheads.  Look, at this point you have ony 3 alternatives:  
+- either you've already had COVID and are somewhat immune,  
+- or you're vaccinated and are pretty well immune,  
+- or _you're going to catch the Delta variant_.  
+There is no 4th alternative in which you're not already somehow immune and you evade
+Delta.  None.  
 
 That being the case, you really don't want to show up at a hospital as another febrile
 patient with a cough and a fever.  In fact, you don't want to show up at a hospital at
