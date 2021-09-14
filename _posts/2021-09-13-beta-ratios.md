@@ -64,12 +64,10 @@ to know how much the vaccine lowers your risk of disease.
 So point estimates of the probability of infection in each arm are:  
 
 $$
-\begin{multline*}
-\begin{aligned}
+\begin{align*}
 p_v &= I_v / N_v \\
 p_c &= I_c / N_c
-\end{aligned}
-\end{multline*}
+\end{align*}
 $$
 
 (We'd of course like to use a posterior Beta distribution instead of a point estimate
@@ -239,8 +237,8 @@ $$
 \end{multline*}
 $$
 
-From the last line, we can read off an expression for the distribution of $R$ in teh
-r&eacute;gime of $1 \lt R$:  
+From the last line, we can read off an expression for the distribution of $R$ in the
+large-$R$ r&eacute;gime of $1 \lt R$:  
 
 $$
 \Pr(R | 1 \lt R) = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
@@ -264,7 +262,7 @@ physics (Bessel functions and the like) in terms of hypergeometric functions.
 
 So there's a temptation: if you can just learn everything about hypergeometric functions,
 you can master nearly all of 19th century physics.  The bug, of course, is that _nobody_
-can master all of the lore of hypergeometric functions.  
+can master all of the lore of hypergeometric functions.  Least of all me!  
 
 Like most magical artifacts, they are best approached by wizards and avoided by mundanes.
 I am not a wizard in these matters, and thus approach with some fear and considerable
