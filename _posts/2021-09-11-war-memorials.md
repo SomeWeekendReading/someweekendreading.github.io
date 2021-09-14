@@ -49,26 +49,26 @@ tears, having seen my country spend literally a _generation_ at war, mostly poin
 
 > "Letter to St. Peter", by Elma G Dean  
 >  
-> Let them in, Peter, they are very tired  
-> Give them couches where the angels sleep, and light those fires  
-> Let them wake whole again, to brand new dawns  
-> Fired by the sun not wartime's bloody guns  
-> May their peace be deep, remember where the broken bodies lie  
-> God knows how young they were to have to die  
-> God knows how young they were to have to die  
+> Let them in, Peter, they are very tired;  
+> Give them the couches where the angels sleep.  
+> Let them wake whole again to new dawns fired  
+> With sun not war. And may their peace be deep.  
+> Remember where the broken bodies lie &hellip;  
+> And give them things they like. Let them make noise.  
+> God knows how young they were to have to die!  
 >  
-> So give them things they like, let them make some noise  
-> Give dance hall bands not golden harps, to these our boys  
-> And let them love, Peter. For they've had no time,  
-> They should have trees and bird songs and hills to climb  
-> The taste of summer, in a ripened pear,  
-> And girls sweet as meadow wind, with flowing hair  
-> And tell them how they are missed, but say not to fear  
-> It's gonna be alright, with us down here.  
+> Give swing bands, not gold harps, to these our boys.  
+> Let them love, Peter, &ndash; they have had no time &ndash;  
+> Girls sweet as meadow wind, with flowering hair&hellip;  
+> They should have trees and bird song, hills to climb &ndash;  
+> The taste of summer in a ripened pear.  
+> Tell them how they are missed. Say not to fear;  
+> It's going to be all right with us down here.  
 
-Gorka's setting combines grief and regret for all the pain and death and loss, while desperately
-imploring divine kindness.  The best summary I found of it was: "If Memorial Day needed a
-song, then this should be it."  Yeah, maybe Veteran's Day, too.  
+Gorka's setting &ndash; with slightly revised lyrics &ndash; combines grief and regret for
+all the pain and death and loss, while desperately imploring divine kindness.  The best
+summary I found of it was: "If Memorial Day needed a song, then this should be it."  Yeah,
+maybe Veteran's Day, too.  
 
 Both of these anti-war songs are a bit of the
 [divine madness](https://en.wikipedia.org/wiki/Divine_madness) to which I wish we would all aspire.  
@@ -88,4 +88,4 @@ Both of these anti-war songs are a bit of the
 
 <a id="fn3">3</a>: J Gorka, ["Let them in"](https://www.youtube.com/watch?v=lqtGAMoRbC8), _YouTube_, home video made 2020-Jun-28, retrieved 2021-Sep-05. [↩](#fn3a)  
 
-<a id="fn4">4</a>: EG Dean, ["Letter to St. Peter"](https://patch.com/new-hampshire/hampton-northhampton/bp--a-prayer-for-our-fallen-soldiers), originally published in _The American Mercury_, 1942. [↩](#fn4a)  
+<a id="fn4">4</a>: EG Dean, ["Letter to St. Peter"](https://www.unz.com/PDF/PERIODICAL/AmMercury-1942nov/82-83/), _The American Mercury_ 55:227 (1942-Nov), p. 592. [↩](#fn4a)  
