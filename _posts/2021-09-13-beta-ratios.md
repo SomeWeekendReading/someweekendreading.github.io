@@ -376,7 +376,7 @@ $$
 $$
 \begin{align*}
 \Pr(R | 0 \le R \le 1) &\xrightarrow[R \to 1^{+}]{} \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_1)\Gamma(\beta_1 + \beta_2 - 1)}{\Gamma(\beta_1)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
-  &= *** \\
+  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2)\Gamma(\beta_1)}{\Gamma(\alpha_1 + \alpha_2 + \beta_1)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_1)\Gamma(\beta_1 + \beta_2 - 1)}{\Gamma(\beta_1)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
   &= *** \\
   &= ***
 \end{align*}
