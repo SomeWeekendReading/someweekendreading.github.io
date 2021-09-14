@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today I got shot (a fourth time)
+title: Today I got shot (a _fifth_ time)
 tags: PharmaAndBiotech Statistics
 comments: true
 ---
@@ -28,7 +28,8 @@ That being the case, you really don't want to show up at a hospital as another f
 patient with a cough and a fever.  In fact, you don't want to show up at a hospital at
 all, especially in the American South and the mountain West: those hospitals are full of
 unvaccinated knuckleheads with COVID.  People are being turned away from hospitals, even
-with severe injuries, from which they sometimes die.  
+with severe injuries, from which they sometimes die because the knuckleheads have clogged
+the healthcare system.  
 
 
 ## Everybody includes me  
@@ -37,12 +38,12 @@ with severe injuries, from which they sometimes die.
 So, trying to be a reasonably smart boy with a good sense of self-preservation, I got a
 flu shot today.  
 
-Isn't it a bit early in the season?  Sure, but all the better: give my immune system a
-chance to build itself up _before_ flu becomes an issue.  
+"Isn't it a bit early in the season?" the Weekend Editrix asked.  Sure, but that's all the
+better: give my immune system a chance to build itself up _before_ flu becomes an issue.  
 
-I asked the pharmacist if I could take a picture of the box mine came from for this blog.
+I asked the pharmacist if I could take a picture of the box from which mine came, for this blog.
 She said sure, but wanted to get a fresh box so the pharmacy would look better.  So this
-isn't _exactly_ the box from which my personal syringe full of not-flu came, but it was
+isn't _exactly_ the box from which my personal syringe full of not-the-flu came, but it was
 probably the one next to it in the freezer.  
 
 The funny word "quadrivalent" means it immunizes against 4 strains of influenza.  Each
@@ -53,14 +54,14 @@ since the flu viruses mutate so fast, jumping from chickens & ducks to pigs to
 humans. (Especially in Asia, where integrated agriculture is still common.)  
 
 And do you see that blue box in the upper right?  The one that says this is the "geezer
-version"?  Elders have typically somewhat weaker immune systems.  So they up the dose to
-smack it around a little.  I am the happy recipient of _4 times the dose_ given to the
-youngs!  
+version"?  Elders have typically somewhat weaker immune systems.  So they up the dose
+given to our immune system, to smack it around a little and make sure the not-the-flu
+message gets through.  I am the happy recipient of _4 times the dose_ given to the youngs!  
 
 It's only been a couple hours and my arm is a little bit sore already; tomorrow
 promises to be interesting.  And I mean "interesting" in the sense of "feel a bit crappy
 and spend the day on the couch with Netflix" as opposed to remaining unvaccinated and
-having an "interesting" near-death experience this winter.  
+having an even _more_ "interesting" near-death experience this winter.  
 
 
 ## The Weekend Conclusion  
