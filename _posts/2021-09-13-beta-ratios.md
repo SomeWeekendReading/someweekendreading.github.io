@@ -412,6 +412,13 @@ results using _generalized_ hypergeometric functions ${}\_{3}F\_{2}()$&hellip; e
 fearsome than ${}\_{2}F\_{1}()$!  I don't know quite how to derive these, though I did manage to
 confirm the first at Wolfram:  
 
+<!-- 
+The first one is reported at https://functions.wolfram.com/HypergeometricFunctions/Hypergeometric2F1/21/01/02/01/0001/
+
+The second one maybe requires a change of variables z = 1/w get the argument to 2F1() in
+canonical form.
+-->
+
 !["Saffer: integral of 2F1() times power"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-3F2-1.jpg "Saffer: integral of 2F1() times power")
 !["Saffer: integral of 2F1() times inverse power"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-3F2-2.jpg "Saffer: integral of 2F1() times inverse power")
 
@@ -433,6 +440,14 @@ And for $w > 1$:
 
 
 ## Computational realization  
+
+<!--
+https://pdfs.semanticscholar.org/3866/cbf3952622134674bbca215ee1269e33ba39.pdf
+Introduces the hypergeo package in R (2015).
+
+Also see, re numeric 3F2():
+https://www.tandfonline.com/doi/abs/10.1080/10652469.2016.1231674?journalCode=gitr20
+-->
 
 At some point soon, I'd like to implement this in [R](https://www.r-project.org), perhaps
 mirroring Saffer's Python implementation.  There are some gnarly issues with numerical
