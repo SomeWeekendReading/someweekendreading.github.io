@@ -448,7 +448,8 @@ I'll trust it.
 That's work for another day.  
 
 <!--
-Quantile function: estimate numerically with Newton's method and the CDF, as Saffer does?
+Quantile function: *** 
+- estimate numerically with Newton's method and the CDF, as Saffer does?
 -->
 
 
@@ -464,7 +465,7 @@ Pham-Gia's paper (though there's a lot more there!), and confirmed the primary r
 the PDF of the ratio of 2 independent Beta-distributed random variables is a variety of
 hypergeometric function ${}\_{2}F\_{1}()$.  
 
-Somewhat beyond Pham-Gia's paper, we've also proven the continuity of the distribution at
+Somewhat beyond Pham-Gia's paper, we've also proven the continuity of the PDF at
 $R = 1$, i.e., that the expression for $0 \le R \le 1$ and the one for $R \gt 1$ match up
 at $R = 1$.  
 
