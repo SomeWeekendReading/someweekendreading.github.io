@@ -389,15 +389,15 @@ this is pretty straight forward with some nice-looking derivative relations:
 
 $$
 \begin{alignat*}{6}
-  \frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &&= \frac{ab}{c}                &&{}_{2}F_{1}(a+1, b+1; c+1; z) \\
-  \frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &&= \frac{a(a+1)b(b+1)}{c(c+1)} &&{}_{2}F_{1}(a+2, b+2; c+2; z) \\
+  \frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &&= \frac{ab}{c}                &\times&{}_{2}F_{1}(a+1, b+1; c+1; z) \\
+  \frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &&= \frac{a(a+1)b(b+1)}{c(c+1)} &\times&{}_{2}F_{1}(a+2, b+2; c+2; z) \\
                    &                     && \vdots                       &&                              \\
-  \frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &&= \frac{(a)_n (b)_n}{(c)_n}   &&{}_{2}F_{1}(a+n, b+n; c+n; z)
+  \frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &&= \frac{(a)_n (b)_n}{(c)_n}   &\times&{}_{2}F_{1}(a+n, b+n; c+n; z)
 \end{alignat*}
 $$
 
 &hellip; where the last expression for the derivative in the general case again uses the 
-[rising Pochammer symbol](https://en.wikipedia.org/wiki/Falling_and_rising_factorials),
+[rising Pochammer symbols](https://en.wikipedia.org/wiki/Falling_and_rising_factorials),
 just as above in the series definition of ${}\_{2}F\_{1}(a, b; c; z)$.  
 
 We have not performed this analysis yet.  
