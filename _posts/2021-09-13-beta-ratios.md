@@ -395,6 +395,9 @@ $$
 \end{align*}
 $$
 
+where the last expression for the general case of derivatives again uses the 
+rising Pochammer symbols.  
+
 We have not performed this analysis yet.  
 
 <!-- ***
