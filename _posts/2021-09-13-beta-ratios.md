@@ -395,8 +395,8 @@ $$
 \end{align*}
 $$
 
-where the last expression for the general case of derivatives again uses the 
-rising Pochammer symbols.  
+&hellip; where the last expression for the derivative in the general case again uses the 
+rising Pochammer symbols, just as above in the series definition of ${}\_{2}F\_{1}(a, b; c; z)$.  
 
 We have not performed this analysis yet.  
 
