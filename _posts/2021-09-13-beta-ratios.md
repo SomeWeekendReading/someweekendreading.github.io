@@ -389,10 +389,10 @@ This requires differentiating ${}\_{2}F\_{1}(a, b; c; z)$ with respect to $z$.
 this is pretty straight forward with some nice-looking derivative relations:  
 
 $$
-\begin{alignat*}
-  \frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &&= \frac{ab}{c}                &&&{}_{2}F_{1}(a+1, b+1; c+1; z) \\
-  \frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &&= \frac{a(a+1)b(b+1)}{c(c+1)} &&&{}_{2}F_{1}(a+2, b+2; c+2; z) \\
-  \frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &&= \frac{(a)_n (b)_n}{(c)_n}   &&&{}_{2}F_{1}(a+n, b+n; c+n; z)
+\begin{alignat*}{6}
+  \frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &&= \frac{ab}{c}                &&{}_{2}F_{1}(a+1, b+1; c+1; z) \\
+  \frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &&= \frac{a(a+1)b(b+1)}{c(c+1)} &&{}_{2}F_{1}(a+2, b+2; c+2; z) \\
+  \frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &&= \frac{(a)_n (b)_n}{(c)_n}   &&{}_{2}F_{1}(a+n, b+n; c+n; z)
 \end{alignat*}
 $$
 
