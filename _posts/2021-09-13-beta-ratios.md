@@ -173,20 +173,10 @@ This is correspondingly appropriate for $1 \lt R$, as it guarantees $p_2 \le 1$,
 range requires.  (We'll eventually lose the minus sign, taking absolute value of
 Jacobians.)  
 
-<!-- ***
-Ok, this is a bit wrong (though the distribution of R read off is correct).
+So we'll need to do _both_ transformations, piecewise over the range of $R$.  
 
-Instead of doing 2 cases and in each integrating R from 0 to +oo (which is wrong in both
-cases), it should be done as 2 terms added together in a single equation:
-- 1 term integrates R from 0 to 1 and has a residual integral in p2
-- the other integrates R from 1 to +oo and has a residual integral in p1
+Double the workload.  Le sigh&hellip; who coulda seen _that_ coming?  
 
-Then the whole distribution, in 2 parts, can be read off from 1 equation.
--->
-
-So we'll need to do _both_ transformations.  
-
-Double the workload.  Le sigh.  Who coulda seen _that_ coming?  
 
 ### Reading off the distribution of $R$  
 
@@ -218,7 +208,7 @@ $$
 $$
 
 From this we can directly read off the PDF for $R$, piecewise for $0 \le R \le 1$ and
-similarly for $R \gt 1$:  
+similarly for $R \gt 1$, respectively from each of the 2 terms:  
 
 $$
 \begin{align*}
