@@ -47,7 +47,7 @@ flu shot today.
 "Isn't it a bit early in the season?" the Weekend Editrix asked.  Sure, but that's all the
 better: give my immune system a chance to build itself up _before_ flu becomes an issue.  
 
-<img src="{{ site.baseurl }}/images/2021-09-14-today-i-got-shot-a-fifth-time-flu-vaccine.jpg" width="400" height="318" alt="The box from which your humble Weekend Editor's vaccine came" title = "The box from which your humble Weekend Editor's vaccine came" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-09-14-today-i-got-shot-a-fifth-time-flu-vaccine.jpg" width="400" height="318" alt="The box from which your humble Weekend Editor's vaccine came (sorta)" title = "The box from which your humble Weekend Editor's vaccine came (sorta)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I asked the pharmacist if I could take a picture of the box from which my dose came, for this blog.
 She said sure, but wanted to get a fresh box so the pharmacy would look better.  So this
 isn't _exactly_ the box from which my personal syringe full of not-the-flu came, but it was
