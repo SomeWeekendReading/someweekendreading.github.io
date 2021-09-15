@@ -212,8 +212,8 @@ similarly for $R \gt 1$, respectively from each of the 2 terms:
 $$
 \left\{
   \begin{align*}
-	\Pr(R | 0 \le R \le 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
-	\Pr(R | R \gt 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+    \Pr(R | 0 \le R \le 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
+    \Pr(R | R \gt 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
   \end{align*}
 \right.
 $$
@@ -389,9 +389,9 @@ this is pretty straight forward with some nice-looking derivative relations:
 
 $$
 \begin{align*}
-\frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &= \frac{ab}{c}                &{}_{2}F_{1}(a+1, b+1; c+1; z) \\
+\frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &= \frac{ab}{c} &{}_{2}F_{1}(a+1, b+1; c+1; z) \\
 \frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &= \frac{a(a+1)b(b+1)}{c(c+1)} &{}_{2}F_{1}(a+2, b+2; c+2; z) \\
-\frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &= \frac{(a)_n (b)_n}{(c)_n}   &{}_{2}F_{1}(a+n, b+n; c+n; z)
+\frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &= \frac{(a)_n (b)_n}{(c)_n} &{}_{2}F_{1}(a+n, b+n; c+n; z)
 \end{align*}
 $$
 
