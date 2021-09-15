@@ -27,8 +27,9 @@ populated by unvaccinated knuckleheads.  Look, at this point you have ony 3 alte
 - either you've already had COVID and are somewhat immune,  
 - or you're vaccinated and are pretty well immune,  
 - or _you're going to catch the Delta variant_.  
-There is no 4th alternative in which you're not already somehow immune and you evade
-Delta.  None.  
+
+There is no 4th alternative in which you're not already somehow immune and yet you somehow
+evade Delta.  None.  
 
 That being the case, you really don't want to show up at a hospital as another febrile
 patient with a cough and a fever.  In fact, you don't want to show up at a hospital at
@@ -59,20 +60,20 @@ different strains that look like the mooks we want to avoid.  Every year it's di
 since the flu viruses mutate so fast, jumping from chickens & ducks to pigs to
 humans. (Especially in Asia, where integrated agriculture is still common.)  
 
-And do you see that blue box in the upper right?  The one that says this is the "geezer
-version"?  Elders have typically somewhat weaker immune systems.  So they up the dose
-given to our immune system, to smack it around a little and make sure the not-the-flu
-message gets through.  I am the happy recipient of _4 times the dose_ given to the youngs!  
+And do you see that blue box in the upper right, the one that says this is the "geezer
+version"?  Elders have typically somewhat weaker immune systems.  So they crank up the
+dose given to our immune system, to smack it around a little and make sure the not-the-flu
+message gets through.  I am now the happy recipient of _4 times the dose_ given to the youngs!  
 
-It's only been a couple hours and my arm is a little bit sore already; tomorrow
-promises to be interesting.  And I mean "interesting" in the sense of "feel a bit crappy
-and spend the day on the couch with Netflix" as opposed to remaining unvaccinated and
+It's only been a couple hours and my arm is a little bit sore already; tomorrow promises
+to be interesting.  And I mean "interesting" in the sense of "feel a bit crappy and spend
+the day on the couch with Netflix" as opposed to remaining unvaccinated and
 having an even _more_ "interesting" near-death experience this winter.  
 
 
 ## The Weekend Conclusion  
 
-All good.  It took the pharmacists a while to figure out my insurance, since they kept
+All good.  It took the pharmacists a while to figure out my insurance: they kept
 trying to use Medicare Part B instead of Part C, despite my mild-mannered suggestions to
 the contrary.  As with most American medicine, insurance is the biggest problem; the
 actual care is ok.  
@@ -89,5 +90,4 @@ Now the trick will be to convince the Weekend Editrix to get hers.  Wish me luck
 <img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title = "***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 -->
 
-<a id="fn1">1</a>: Nope.  Not today.  Too busy making antibodies.  And, truth be told,
-[fiddling about with hypergeometric functions from the previous post]({{ site.baseurl }}/beta-ratios/). [↩]  
+<a id="fn1">1</a>: Nope.  Not today.  Too busy making antibodies.  And, truth be told, [fiddling about with hypergeometric functions from the previous post]({{ site.baseurl }}/beta-ratios/). [↩]  

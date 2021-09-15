@@ -344,12 +344,12 @@ And that's Pham-Gia's second result on p. 2699.
 Pham-Gia did not address in his paper whether the 2 different expressions for $\Pr(R)$
 matched up at $R = 1$, i.e., that the probability distribution is continuous.  We can show
 that the above expressions for $\Pr(R \| 0 \le R \le 1)$ and $\Pr(R \| 1 \lt R)$ are equal
-at $R = 1$, establishing continuity at that point.  
+in the left and right limits approaching $R = 1$, establishing continuity at that point.  
 
 We need 2 identities:  
-- From [Wikipedia's entry on ${}\{2}F\_{1}()$ and its special cases](https://en.wikipedia.org/wiki/Hypergeometric_function#Special_cases) comes an
+- From [Wikipedia's entry on ${}\{2}F\_{1}()$ and values at special points](https://en.wikipedia.org/wiki/Hypergeometric_function#Values_at_special_points_z) comes an
 identity for evaluating ${}\{2}F\_{1}()$ at 1, provided $\Re(c) \gt \Re(a+b)$.  For the
-positive values of $\alpha_i, \beta_i$ we're considering, this is true:
+positive values of $\alpha_i, \beta_i$ we're considering, this is the case so:
 
 $$
 {}_{2}F_{1}(a,b;c;1) = \frac{\Gamma(c) \Gamma(c-a-b)}{\Gamma(c-a) \Gamma(c-b) }
@@ -386,6 +386,19 @@ $$
 
 These 2 expressions being identical, we have established continuity at $R = 1$.  
 
+<!-- ***
+Smoothness: 
+https://en.wikipedia.org/wiki/Hypergeometric_function#Differentiation_formulas
+
+d/dz 2F1(a,b;c;z) = ab/c 2F1(a+1, b+1; c+1; z)
+d2/dz2 2F1(a,b;c;z) = a(a+1)b(b+1)/c(c+1) 2F1(a+2, b+2; c+2; z)
+dn/dzn 2F1(a,b;c;z) = (a)_n (b)_n / (c)_n 2F1(a+n, b+n; c+n; z)
+
+- Use that to establish left and right derivatives match.
+- Maybe even try for 2nd derivative match.
+- Maybe all derivatives?
+-->
+
 ## Ok, what about the cumulative distribution function?  
 
 That gives us the PDF (probability distribution function); if we want the CDF (cumulative
@@ -410,7 +423,7 @@ But I _can_ see that, given these identities, the cumulative distribution functi
 running integral from 0 to some value of the PDF) will give us the given CDFs.  (In
 Saffer's notation, what we've called $R$ he calls $w$.)  
 
-For $w \le 1$:  
+For $0 \le w \le 1$:  
 
 !["Saffer: CDF for 0 < w < 1"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-CDF-1.jpg "Saffer: CDF for 0 < w < 1")
 
@@ -504,4 +517,3 @@ we were able to reproduce Pham-Gia's main result. [↩](#fn1a)
 <a id="fn2">2</a>: OK, I was actually 23 and in my first year of physics grad school at MIT.  I got wrapped around the axle pretty tight because the notation between a couple texts was confusingly and subtly different.  I thought I'd suddenly become stupid!  It took years to get past that, and now even 40+ years later it's a sensitive spot.  Still&hellip; time to face my fears. [↩](#fn2a)  
 
 <a id="fn3">3</a>: J Saffer, ["Beta Quotient Distribution"](https://github.com/jsaffer/beta_quotient_distribution), _GitHub Repository_, last committed 2020-Jun-06, retrieved 2021-Sep-13. [↩](#fn3a)  
-
