@@ -104,9 +104,11 @@ are, my thanks.
 
 Consider 2 Beta-distributed variables $p_1$ and $p_2$:  
 
-$$ \begin{align*} \Pr(p_1) &=
-\frac{p_{1}^{\alpha_{1}-1}(1-p_{1})^{\beta_{1}-1}}{B(\alpha_1, \beta_1)} \\ \Pr(p_2) &=
-\frac{p_{2}^{\alpha_{2}-1}(1-p_{2})^{\beta_{2}-1}}{B(\alpha_2, \beta_2)} \end{align*} $$
+$$ 
+\begin{align*}
+  \Pr(p_1) &= \frac{p_{1}^{\alpha_{1}-1}(1-p_{1})^{\beta_{1}-1}}{B(\alpha_1, \beta_1)} \\
+  \Pr(p_2) &= \frac{p_{2}^{\alpha_{2}-1}(1-p_{2})^{\beta_{2}-1}}{B(\alpha_2, \beta_2)} 
+\end{align*} $$
 
 We then ask: if we compute their ratio $R = p_1 / p_2$, then what is the PDF $\Pr(R)$?  If
 we knew the answer, particularly the CDF (or even better the quantile function, which is
@@ -151,8 +153,8 @@ one of them in favor of $R$.  Either we substitute out $p_1$ in favor of $p_2, R
 
 $$
 \begin{align*}
-p_1  &= p_2\, R \\
-dp_1 &= p_2\, dR
+  p_1  &= p_2\, R \\
+  dp_1 &= p_2\, dR
 \end{align*}
 $$
 
@@ -163,8 +165,8 @@ Or we substitute out $p_2$ in favor of $p_1, R$ via:
 
 $$
 \begin{align*}
-p_2  & = \frac{p_1}{R} \\
-dp_2 &= -\frac{p_1}{R^2} dR
+  p_2  & = \frac{p_1}{R} \\
+  dp_2 &= -\frac{p_1}{R^2} dR
 \end{align*}
 $$
 
@@ -197,11 +199,10 @@ piece for $0 \le R \le 1$ and another for $R \gt 1$:
 
 $$
 \begin{align*}
-1 & = \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  & =  \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 \int_0^1\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
-  &\;\; + \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_1 \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
-  & = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dR\, R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
-  &\;\; + \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+1 & =  \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \left[ &\int_0^1\!\!\!\!dp_2 \int_0^1\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
+  & & + \int_0^1\!\!\!\!dp_1 \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}\right] \\
+  & = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \left[ &\int_0^1\!\!\!\!dR\, R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
+  & & + \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}\right]
 \end{align*}
 $$
 
