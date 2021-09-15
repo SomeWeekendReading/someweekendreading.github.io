@@ -85,7 +85,7 @@ bunch of disease-catching coin flips, then vaccine efficacy is distributed as th
 a couple of independent Beta variables.  
 
 Ok, so what's the distribution of a ratio of independent Beta variables?  There are a
-variety of ways to approach this, and we'll compare several of them in another post.  For
+variety of ways to approach this, and we'll compare several of them in an upcoming post.  For
 now, we're going to fight our way through a paper which gives the exact Bayesian result.  
 
 
@@ -97,22 +97,21 @@ distribution is for the ratio of two Beta-distributed variables.  The exact solu
 published in 2000 by Pham-Gia. <sup id="fn1a">[[1]](#fn1)</sup> It lives behind an
 execrable paywall, and was thus devilishly difficult to acquire without paying ransom.
 Fortunately, I know people who know people who know people; somebody or other in that
-chain found it for me or had institutional access.  Whoever you are, my thanks.  
+chain found it or had institutional access, and passed it back up the chain.  Whoever you
+are, my thanks.  
 
 ### The problem  
 
 Consider 2 Beta-distributed variables $p_1$ and $p_2$:  
 
-$$
-\begin{align*}
-\Pr(p_1) &= \frac{p_{1}^{\alpha_{1}-1}(1-p_{1})^{\beta_{1}-1}}{B(\alpha_1, \beta_1)} \\
-\Pr(p_2) &= \frac{p_{2}^{\alpha_{2}-1}(1-p_{2})^{\beta_{2}-1}}{B(\alpha_2, \beta_2)}
-\end{align*}
-$$
+$$ \begin{align*} \Pr(p_1) &=
+\frac{p_{1}^{\alpha_{1}-1}(1-p_{1})^{\beta_{1}-1}}{B(\alpha_1, \beta_1)} \\ \Pr(p_2) &=
+\frac{p_{2}^{\alpha_{2}-1}(1-p_{2})^{\beta_{2}-1}}{B(\alpha_2, \beta_2)} \end{align*} $$
 
-We then ask: how is their ratio $R = p_1 / p_2$ distributed?  If we knew the answer,
-particularly the CDF (or even better the quantile function, which is the functional
-inverse of the CDF!), we could calculate 95% confidence intervals on the ratio.  
+We then ask: if we compute their ratio $R = p_1 / p_2$, then what is the PDF $\Pr(R)$?  If
+we knew the answer, particularly the CDF (or even better the quantile function, which is
+the functional inverse of the CDF!), we could calculate 95% confidence intervals of the
+ratio $R$.  
 
 ### Ranges  
 
@@ -199,8 +198,8 @@ piece for $0 \le R \le 1$ and another for $R \gt 1$:
 $$
 \begin{align*}
 1 & = \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  & =  \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 \int_0^1\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
-  &\;\; + \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_1 \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
+  & =  \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \left[ &\int_0^1\!\!\!\!dp_2 \int_0^1\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
+  &\;\; &+ \int_0^1\!\!\!\!dp_1 \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}\right] \\
   & = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dR\, R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
   &\;\; + \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 \end{align*}
