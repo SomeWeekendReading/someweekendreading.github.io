@@ -173,10 +173,6 @@ This is correspondingly appropriate for $1 \lt R$, as it guarantees $p_2 \le 1$,
 range requires.  (We'll eventually lose the minus sign, taking absolute value of
 Jacobians.)  
 
-So we'll need to do _both_ transformations.  
-
-Double the workload.  Le sigh.  Who coulda seen _that_ coming?  
-
 <!-- ***
 Ok, this is a bit wrong (though the distribution of R read off is correct).
 
@@ -188,16 +184,39 @@ cases), it should be done as 2 terms added together in a single equation:
 Then the whole distribution, in 2 parts, can be read off from 1 equation.
 -->
 
+So we'll need to do _both_ transformations.  
+
+Double the workload.  Le sigh.  Who coulda seen _that_ coming?  
+
 #### Case $0 \le R \le 1$:  
 
 I like to do these changes of variable by looking at the normalization integral for the
 joint distribution.  That way, as you change variables, the integration measure will force
-you to pick up the Jacobian properly.  
+you to pick up the Jacobian properly.  The joint distribution of $p_1$ and $p_2$ is, since
+they're assumed independent, just the product of their individual distributions.  So the
+normalization integral is pretty straightforward to write down:  
 
-The joint distribution of $p_1$ and $p_2$ is, since they're assumed independent, just the
-product of their individual distributions.  So the normalization integral is pretty
-straightforward to write down.  Then we'll use the first transformation above, as a way to
-get it in terms of just $p_2$ and $R$:  
+$$ 
+1 = \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} 
+$$
+
+Next, we'll use _both_ the transformations above to get the integral in 2 pieces, one
+using $(p_2, R)$ and another using $(p_1, R)$.  The first will involve an integral over
+$R$ from 0 to 1, while the second will integrate from 1 to $+\infty$.  Then we'll do a
+little razzle-dazzle high school algebra to pull the $R$ integrations to the left, and
+thus be able to read off the distribution of $R$.  It'll be a piecewise function, with one
+piece for $0 \le R \le 1$ and another for $R \gt 1$:  
+
+$$
+\begin{align*}
+1 & = \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
+  & =  \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 \int_0^1\!\!\!\!\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
+  &\;\; + \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_1 \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
+  & = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!\!\!\!\!dR\, \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
+  &\;\; + \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+\end{align*}
+$$
+
 
 $$ 
 \begin{align*}

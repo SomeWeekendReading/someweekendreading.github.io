@@ -1168,3 +1168,6 @@ _Business Week_, 14-Nov-2003.
 - "Let sleeping dogs bury their own dead."  (Combining "let sleeping dogs lie" and "let
   the dead past bury its own dead".)  
 - "This isn't rocket surgery."  
+- On corporate managers and politicians: "Pay less attention to what they _say_, and more
+  to what they _do_."  
+
