@@ -85,8 +85,8 @@ bunch of disease-catching coin flips, then vaccine efficacy is distributed as th
 a couple of independent Beta variables.  
 
 Ok, so what's the distribution of a ratio of independent Beta variables?  There are a
-variety of ways to approach this, and we'll compare in another post.  For now, we're
-going to fight our way through a paper which gives the exact Bayesian result.  
+variety of ways to approach this, and we'll compare several of them in another post.  For
+now, we're going to fight our way through a paper which gives the exact Bayesian result.  
 
 
 ## Exact solution: the distribution of a ratio of 2 Beta-distributed random variables  
@@ -412,7 +412,7 @@ results using _generalized_ hypergeometric functions ${}\_{3}F\_{2}()$&hellip; e
 fearsome than ${}\_{2}F\_{1}()$!  I don't know quite how to derive these, though I did manage to
 confirm the first at Wolfram:  
 
-<!-- 
+<!-- ***
 The first one is reported at https://functions.wolfram.com/HypergeometricFunctions/Hypergeometric2F1/21/01/02/01/0001/
 
 The second one maybe requires a change of variables z = 1/w get the argument to 2F1() in
@@ -441,7 +441,7 @@ And for $w > 1$:
 
 ## Computational realization  
 
-<!--
+<!-- ***
 https://pdfs.semanticscholar.org/3866/cbf3952622134674bbca215ee1269e33ba39.pdf
 Introduces the hypergeo package in R (2015).
 
@@ -462,8 +462,8 @@ I'll trust it.
 
 That's work for another day.  
 
-<!--
-Quantile function: *** 
+<!-- ***
+Quantile function:
 - estimate numerically with Newton's method and the CDF, as Saffer does?
 -->
 
