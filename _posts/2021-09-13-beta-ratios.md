@@ -199,10 +199,10 @@ piece for $0 \le R \le 1$ and another for $R \gt 1$:
 
 $$
 \begin{alignat*}
-1 & =  \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \left[ \int_0^1\!\!\!\!dp_2 \int_0^1\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \right. \\
-  & && \left. + \int_0^1\!\!\!\!dp_1 \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}\right] \\
-  & = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \left[ \int_0^1\!\!\!\!dR\, R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \right. \\
-  & && \left. + \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}\right]
+1 & =  \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} & \left[ \int_0^1\!\!\!\!dp_2 \int_0^1\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \right. \\
+  & & \left. + \int_0^1\!\!\!\!dp_1 \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}\right] \\
+  & = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} & \left[ \int_0^1\!\!\!\!dR\, R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \right. \\
+  & & \left. + \int_1^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}\right]
 \end{alignat*}
 $$
 
@@ -389,9 +389,9 @@ this is pretty straight forward with some nice-looking derivative relations:
 
 $$
 \begin{alignat*}
-  \frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &= \frac{ab}{c}                &&{}_{2}F_{1}(a+1, b+1; c+1; z) \\
-  \frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &= \frac{a(a+1)b(b+1)}{c(c+1)} &&{}_{2}F_{1}(a+2, b+2; c+2; z) \\
-  \frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &= \frac{(a)_n (b)_n}{(c)_n}   &&{}_{2}F_{1}(a+n, b+n; c+n; z)
+  \frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &= \frac{ab}{c}                &{}_{2}F_{1}(a+1, b+1; c+1; z) \\
+  \frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &= \frac{a(a+1)b(b+1)}{c(c+1)} &{}_{2}F_{1}(a+2, b+2; c+2; z) \\
+  \frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &= \frac{(a)_n (b)_n}{(c)_n}   &{}_{2}F_{1}(a+n, b+n; c+n; z)
 \end{alignat*}
 $$
 
