@@ -177,7 +177,6 @@ So we'll need to do _both_ transformations, piecewise over the range of $R$.
 
 Double the workload.  Le sigh&hellip; who coulda seen _that_ coming?  
 
-
 ### Reading off the distribution of $R$  
 
 I like to do these changes of variable by looking at the normalization integral for the
@@ -219,7 +218,6 @@ $$
 
 These still contain a residual $p$-integral each, but we'll see next how to interpret those in
 terms of the hypergeometric function ${}\_{2}F\_{1}()$ with various tortured arguments.  
-
 
 ### Hypergeometric functions  
 
@@ -277,10 +275,11 @@ $$
 {}_2F_1(a,b;c;x) = \frac{1}{B(a, c-a)} \int_0^1\!\!\!\!du\, u^{a-1} (1-u)^{c-a-1} (1-xu)^{-b}
 $$
 
-This is the trick that Pham-Gia used to get the density distribution in closed form.  At
-least, if you regard ${}\_{2}F\_{1}()$ as "closed"&hellip;  
+This is the trick that Pham-Gia used to get the density distribution in closed form (at
+least, if you regard ${}\_{2}F\_{1}()$ as "closed"&hellip;), by recognizing the integrals
+above as special cases of this.  
 
-### Expressing the residual integral in hypergeometric terms  
+### Expressing the residual $p$-integrals in hypergeometric terms  
 
 Basically we take the above equations for $\Pr(R)$ with residual integrals , and recognize
 that the annoying integral in them can, with a suitable change of variables, be made
@@ -395,6 +394,7 @@ dn/dzn 2F1(a,b;c;z) = (a)_n (b)_n / (c)_n 2F1(a+n, b+n; c+n; z)
 - Maybe all derivatives?
 -->
 
+
 ## Ok, what about the cumulative distribution function?  
 
 That gives us the PDF (probability distribution function); if we want the CDF (cumulative
@@ -435,7 +435,7 @@ And for $w > 1$:
 !["Saffer: CDF for w > 1"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-CDF-2.jpg "Saffer: CDF for w > 1")
 
 
-## Computational realization  
+## Computational realization for practical use  
 
 <!-- ***
 https://pdfs.semanticscholar.org/3866/cbf3952622134674bbca215ee1269e33ba39.pdf
