@@ -177,6 +177,17 @@ So we'll need to do _both_ transformations.
 
 Double the workload.  Le sigh.  Who coulda seen _that_ coming?  
 
+<!-- ***
+Ok, this is a bit wrong (though the distribution of R read off is correct).
+
+Instead of doing 2 cases and in each integrating R from 0 to +oo (which is wrong in both
+cases), it should be done as 2 terms added together in a single equation:
+- 1 term integrates R from 0 to 1 and has a residual integral in p2
+- the other integrates R from 1 to +oo and has a residual integral in p1
+
+Then the whole distribution, in 2 parts, can be read off from 1 equation.
+-->
+
 #### Case $0 \le R \le 1$:  
 
 I like to do these changes of variable by looking at the normalization integral for the
@@ -387,6 +398,13 @@ $$
 These 2 expressions being identical, we have established continuity at $R = 1$.  
 
 <!-- ***
+
+### Smoothness at $R = 1$  
+
+#### Case $0 \le R \le 1$:  
+
+#### Case $1 \le R$:  
+
 Smoothness: 
 https://en.wikipedia.org/wiki/Hypergeometric_function#Differentiation_formulas
 
