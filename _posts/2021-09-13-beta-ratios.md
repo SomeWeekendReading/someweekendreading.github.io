@@ -222,59 +222,14 @@ similarly for $R \gt 1$:
 
 $$
 \begin{align*}
-\Pr(R | 0 \le R \le 1) &= \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
+\Pr(R | 0 \le R \le 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
 \Pr(R | R \gt 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
 \end{align*}
 $$
 
-These still contain a residual integral each, but we'll see next how to interpret those in
+These still contain a residual $p$-integral each, but we'll see next how to interpret those in
 terms of the hypergeometric function ${}\_{2}F\_{1}()$ with various tortured arguments.  
 
-xxxxxxxxxxxxxxxxxx  
-
-$$ 
-\begin{align*}
-1 &= \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2 \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, p_2 (Rp_2)^{\alpha_1 - 1} (1 - Rp_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1} \\
-  &= \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
-\end{align*}
-$$
-
-From the last line, we can read off an expression for the distribution for $R$ in the
-r&eacute;gime of $0 \le R \le 1$:  
-
-$$
-\Pr(R | 0 \le R \le 1) = \frac{R^{\alpha_1 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1}
-$$
-
-It still contains an integral to marginalize out $p_2$, but below we'll recognize that as
-a form of the integral representation for the hypergeometric function ${}\_{2}F\_{1}()$.  
-
-#### Case $1 \le R$:  
-
-Pretty much the same thing: start from the joint distribution's normalization integral,
-use the other variable change to write in terms of $p_1$ and $R$, then read off the
-distribution of $R$ as an expression with an integral remaining in $p_1$.  (One minor
-trick: the minus sign in the differential above disappears, because we take absolute value
-of Jacobians in a transform.)  
-
-$$ 
-\begin{align*}
-1 &= \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_1 \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{p_1}{R^2} p_1^{\alpha_1 - 1} (1-p_1)^{\beta_1 - 1} \left(\frac{p_1}{R}\right)^{\alpha_2 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1} \\
-  &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{+\infty}\!\!\!\!\!\!\!\!dR\, \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
-\end{align*}
-$$
-
-From the last line, we can read off an expression for the distribution of $R$ in the
-large-$R$ r&eacute;gime of $1 \lt R$:  
-
-$$
-\Pr(R | 1 \lt R) = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
-$$
-
-Here we also have a remaining integral to do; it will also be recognized as another
-integral representation of ${}\_{2}F\_{1}()$.  
 
 ### Hypergeometric functions  
 
