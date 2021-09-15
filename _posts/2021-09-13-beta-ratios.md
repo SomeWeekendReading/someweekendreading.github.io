@@ -389,9 +389,9 @@ this is pretty straight forward with some nice-looking derivative relations:
 
 $$
 \begin{align*}
-\frac{d}{dz} {}_{2}F_{1}(a,b;c;z)     &= \frac{ab}{c} {}_{2}F_{1}(a+1, b+1; c+1; z) \\
-\frac{d^2}{dz^2} {}_{2}F_{1}(a,b;c;z) &= \frac{a(a+1)b(b+1)}{c(c+1)} {}_{2}F_{1}(a+2, b+2; c+2; z) \\
-\frac{d^n}{dz^n} {}_{2}F_{1}(a,b;c;z) &= \frac{(a)_n (b)_n}{(c)_n} {}_{2}F_{1}(a+n, b+n; c+n; z)
+\frac{d}{dz}     &{}_{2}F_{1}(a,b;c;z) &= \frac{ab}{c}                &{}_{2}F_{1}(a+1, b+1; c+1; z) \\
+\frac{d^2}{dz^2} &{}_{2}F_{1}(a,b;c;z) &= \frac{a(a+1)b(b+1)}{c(c+1)} &{}_{2}F_{1}(a+2, b+2; c+2; z) \\
+\frac{d^n}{dz^n} &{}_{2}F_{1}(a,b;c;z) &= \frac{(a)_n (b)_n}{(c)_n}   &{}_{2}F_{1}(a+n, b+n; c+n; z)
 \end{align*}
 $$
 
@@ -404,6 +404,8 @@ We have not performed this analysis yet.
 - Use that to establish left and right derivatives match.
 - Maybe even try for 2nd derivative match.
 - Maybe all derivatives?
+- Maybe look at reflection mapping with respect to unit circle, to reduce one case to the
+  other and hence moot any points about continuity or smoothness?
 
 #### Case $0 \le R \le 1$:  
 
