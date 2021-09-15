@@ -397,7 +397,8 @@ $$
 $$
 
 &hellip; where the last expression for the derivative in the general case again uses the 
-rising Pochammer symbols, just as above in the series definition of ${}\_{2}F\_{1}(a, b; c; z)$.  
+[rising Pochammer symbol](https://en.wikipedia.org/wiki/Falling_and_rising_factorials),
+just as above in the series definition of ${}\_{2}F\_{1}(a, b; c; z)$.  
 
 We have not performed this analysis yet.  
 
