@@ -329,7 +329,7 @@ $$
 
 And that's Pham-Gia's second result on p. 2699.  
 
-To summarize:  
+To summarize the PDf result:  
 
 $$
 \left\{

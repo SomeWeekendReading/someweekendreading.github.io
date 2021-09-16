@@ -80,6 +80,20 @@ actual care is ok.
 
 Now the trick will be to convince the Weekend Editrix to get hers.  Wish me luck.  
 
+
+## Addendum 2021-Sep-15: Side Effects  
+
+Minimal, really.  
+
+Last night I had a sore arm, and was a little bit tired &amp; achy.  Nothing terrible,
+just enough to plant my behind on the couch with some tomes of hypergeometric functions.  
+
+Today I felt pretty normal.  That turned out not to be the case, since the exercise &amp;
+yoga class in the early evening really exhausted me more than usual.  Still, a couple
+hours later&hellip; I'm fine.  
+
+Flu vaccinations: highly recommended.  Get yours, too.  
+
 ---
 
 ## Notes &amp; References  
