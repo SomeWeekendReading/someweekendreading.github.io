@@ -19,7 +19,7 @@ Life seems to be a series of problems to be solved.
   maybe figure something out if I work outrageously hard.  
   
 One example that struck me in childhood is that dogs and cats are intensely interested in
-how their cans of food (and more importantly, how and when the food gets out of the can
+how their cans of food get opened (and more importantly, how and when the food gets out of the can
 and into their bowls).  But they are hopelessly intellectually ill-equipped to understand
 how the food got _into_ the can.  There's a whole industrial infrastructure around pet
 food of which they cannot conceive.  
