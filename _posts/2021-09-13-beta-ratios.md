@@ -334,8 +334,8 @@ To summarize:
 $$
 \left\{
   \begin{align*}
-    \Pr(R | 0 \le R \le 1) &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && R^{\alpha_1 - 1} && {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
-    \Pr(R | 1 \lt R) &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \frac{1}{R^{\alpha_2 + 1}} && {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R)
+    \Pr(R | 0 \le R \le 1) &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} &\times& R^{\alpha_1 - 1} &\times& {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
+    \Pr(R | 1 \lt R) &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} &\times& \frac{1}{R^{\alpha_2 + 1}} &\times& {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R)
   \end{align*}
 \right.
 $$
