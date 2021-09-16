@@ -211,10 +211,10 @@ similarly for $R \gt 1$, respectively from each of the 2 terms:
 
 $$
 \left\{
-  \begin{align*}
-    \Pr(R | 0 \le R \le 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} R^{\alpha_1 - 1} \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
-    \Pr(R | R \gt 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{R^{\alpha_2 + 1}} \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
-  \end{align*}
+  \begin{alignat*}{6}
+    \Pr(R | 0 \le R \le 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} & \cdot & R^{\alpha_1 - 1} & \cdot & \int_0^1\!\!\!\!dp_2\, p_2^{\alpha_1 + \alpha2 - 1} (1-p_2)^{\beta_2 - 1} (1-Rp_2)^{\beta_1 - 1} \\
+    \Pr(R | R \gt 1) &= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} & \cdot & \frac{1}{R^{\alpha_2 + 1}} & \cdot & \int_0^1\!\!\!\!dp_1\, p_1^{\alpha_1 + \alpha_2 -1} (1-p_1)^{\beta_1 - 1} \left(1 - \frac{p_1}{R}\right)^{\beta_2 - 1}
+  \end{alignat*}
 \right.
 $$
 
