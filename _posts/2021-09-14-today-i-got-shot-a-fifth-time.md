@@ -61,7 +61,7 @@ since the flu viruses mutate so fast, jumping from chickens & ducks to pigs to
 humans. (Especially in Asia, where integrated agriculture is still common.)  
 
 And do you see that blue box in the upper right, the one that says this is the "geezer
-version"?  Elders have typically somewhat weaker immune systems.  So they crank up the
+version"?  We elders have typically somewhat weaker immune systems.  So they crank up the
 dose given to our immune system, to smack it around a little and make sure the not-the-flu
 message gets through.  I am now the happy recipient of _4 times the dose_ given to the youngs!  
 
