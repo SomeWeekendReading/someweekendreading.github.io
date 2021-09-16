@@ -89,7 +89,7 @@ variety of ways to approach this, and we'll compare several of them in an upcomi
 now, we're going to fight our way through a paper which gives the exact Bayesian result.  
 
 
-## Exact solution: the distribution of a ratio of 2 Beta-distributed random variables  
+## Exact solution: the probability distribution function (PDF) of a ratio of 2 Beta-distributed random variables  
 
 We'll look specifically at the application of all this to the case of vaccine efficacies
 in a later post.  For now, let's just examine the mathematical question of what the
@@ -426,7 +426,7 @@ We have not performed this analysis yet.
 -->
 
 
-## Ok, what about the cumulative distribution function?  
+## Ok, what about the cumulative distribution function (CDF)?  
 
 That gives us the PDF (probability distribution function); if we want the CDF (cumulative
 distribution function) to calculate quantiles, we'll have to go beyond Pham-Gia's paper.
