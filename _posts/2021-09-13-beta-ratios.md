@@ -187,7 +187,7 @@ they're assumed independent, just the product of their individual distributions.
 normalization integral is pretty straightforward to write down:  
 
 $$ 
-1 = \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, \frac{p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} 
+1 = \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2\, p_1^{\alpha_1 - 1} (1-p_2)^{\beta_1 - 1} p_2^{\alpha_2 - 1} (1-p_2)^{\beta_2 - 1}
 $$
 
 Next, we'll use _both_ the transformations above to get the integral in 2 pieces, one
@@ -459,6 +459,8 @@ And for $w > 1$:
 
 <!-- ***
 https://pdfs.semanticscholar.org/3866/cbf3952622134674bbca215ee1269e33ba39.pdf
+https://journal.r-project.org/archive/2015/RJ-2015-022/RJ-2015-022.pdf
+https://cran.r-project.org/web/packages/hypergeo/vignettes/hypergeometric.pdf
 Introduces the hypergeo package in R (2015).
 
 Also see, re numeric 3F2():
