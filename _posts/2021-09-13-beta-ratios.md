@@ -7,8 +7,8 @@ comments: true
 
 [Warning: Post contains full frontal nerdity.  Bug reports appreciated!] I finally got a
 copy of Pham-Gia's paper on the distribution of the ratio of 2 independent Beta-distributed
-random variables.  But I still have some trauma around hypergeometric functions like
-${}\_{2}F\_{1}()$ and its scarier brother ${}\_{3}F\_{2}()$.  Time to face my fears.  
+random variables.  While I still have some childhood trauma around hypergeometric functions like
+${}\_{2}F\_{1}()$ and its scarier brother ${}\_{3}F\_{2}()$&hellip; time to face my fears.  
 
 
 ## The three B's: Bernoulli, Binomial, and Beta  
@@ -517,7 +517,9 @@ However, there are several things we _haven't_ done:
 - While we have _continuity_ at $R = 1$, we haven't proven _smoothness_.  We don't
   strictly need that, but as there's no particular reason for a kink at $R = 1$, it would
   be nice to show the derivative from the left equals the derivative from the right.
-  So&hellip; we have to understand the derivative identities of ${}\_{2}F\_{1}()$.  
+  We suspect it's more than first derivative smooth at $R = 1$, and there may be a way to
+  parlay the derivative relation on ${}\_{2}F\_{1}()$ into a derivative recurrence
+  relation on $\Pr(R)$ to show that to all orders, if we're ambitious.  
 - We haven't confirmed all the details of how to get the CDF; there's probably some bit of
   hypergeometric lore that will tell us the integral identities above from which the CDFs
   follow straightforwardly (or as straightforwardly as things go here).  
@@ -556,8 +558,8 @@ same eventual result in terms of ${}\_{2}F\_{1}()$.  Specifically:
 - p. 2703, in the variables for a Dirichlet distribution, $K$ should again be $\ldots$  
 
 While there may or may not be similar typos in the rest of the paper, we haven't checked
-carefully as it does not bear directly on our interests.  But with the corrigenda above,
-we were able to reproduce Pham-Gia's main result. [↩](#fn1a)  
+carefully since it does not bear directly on our interests.  But with the corrigenda above,
+we were able to reproduce Pham-Gia's main result, the piecewise PDF on pp. 2698-2699. [↩](#fn1a)  
 
 <a id="fn2">2</a>: OK, the truth is that I was actually 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle pretty tight because the notation between a couple texts was confusingly and subtly different.  I thought I'd suddenly become stupid!  It took years to get past that, and now even 40+ years later it's a sensitive spot.  Still&hellip; time to face my fears. [↩](#fn2a)  
 
