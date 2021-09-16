@@ -22,11 +22,11 @@ One example that struck me in childhood is that dogs and cats are intensely inte
 how their cans of food get opened (and more importantly, how and when the food gets out of the can
 and into their bowls).  But they are hopelessly intellectually ill-equipped to understand
 how the food got _into_ the can.  There's a whole industrial infrastructure around pet
-food of which they cannot conceive.  
+food of which they cannot even conceive.  
 
 Some days I feel like that.  
 
-So does this dog, confronted with a problem just at the edge of his capabilities.  
+So does this dog, confronted with a problem _just_ at the edge of his capabilities.  
 
 He's a good dog.  
 
