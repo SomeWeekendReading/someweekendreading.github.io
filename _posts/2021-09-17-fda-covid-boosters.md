@@ -16,7 +16,7 @@ So&hellip; boosters, huh?
 
 Last night [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about my position
 on boosters.  Briefly: the evidence is somewhat ambiguous (as 
-[Simpson's Paradox]({{ site.baseurl }}/covid-simpson) showed in the Israeli data).  
+[Simpson's Paradox]({{ site.baseurl }}/covid-simpson/) showed in the Israeli data).  
 1. It seems clear that the immunocompromised (immune disease sufferers, those taking
    immunosuppressants for transplants, etc.) should get a booster, since they probably
    never got much of an immune reaction in the first place.  
@@ -136,7 +136,7 @@ conclusions:
    1, p. 12, makes this point, but slide CC-13 of their 
    presentation <sup id="fn6a">[[6]](#fn6)</sup> makes the point
    better and is reproduced here: the right plot shows sustained efficacy versus
-   hospitaliztion), though they did honestly say that efficacy against _hospitalization
+   hospitalization). I'm glad they honestly say that efficacy against _hospitalization
    and death_ remained high (mostly > 90%).  So that's sort of wanting to have things both
    ways: yes, efficacy against any infection might decline (though they don't seem to be
    aware of Simpson's paradox!), but the efficacy we care about is still robust.  Hmpf.  
@@ -181,18 +181,19 @@ sobering.
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-israel-3.jpg" width="400" height="224" alt="Israeli data: waning efficacy stratified by age/time of vaccination" title = "Israeli data: waning efficacy stratified by age/time of vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-israel-4.jpg" width="400" height="224" alt="Israeli data: Dramatic fold reduction in confirmed infection in most triple-vaccinated cohort" title = "Israeli data: Dramatic fold reduction in confirmed infection in most triple-vaccinated cohort" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 After showing how _bad_ the previous waves were in Israel (hint: very, very bad), and how
-fast they got vaccinated (hint: very, ver fast), they looked at epidemiology and
+fast they got vaccinated (hint: very, very fast), they looked at epidemiology and
 breakthrough infections.  
 - Slide 8 of their presentation shows that the only strain that matters is Delta, and it's
   just plain _nasty_.  
 - Slide 9 shows they're in the midst of a nasty 3rd wave, worse than the others, of all
   Delta infections even with &gt; 60% of the population having received 2 doses.  
   - A couple thoughts from your humble Weekend Editor: Given
-    that [Delta seems to have $R_0 \sim 6.7$]({{ site.baseurl }}/vaccinations-vs-votes/), that would imply herd immunity at about 85% of
-    the population having immunity (vaccination or previous infection).  
-  - So if less than 25%
-    of unvaccinated Israelis have had COVID-19, this is not out of line and may not reflect
-    vaccine efficacy waning, unless it's concentrated among the vaccinated.  
+    that [Delta seems to have $R_0 \sim 6.7$]({{ site.baseurl }}/vaccinations-vs-votes/), 
+    that would imply herd immunity at about 85% of the population having immunity
+    (vaccination or previous infection).  So 60% just won't do it.  
+  - So if less than 25% of unvaccinated Israelis have had COVID-19, this is not out of
+    line and may not reflect vaccine efficacy waning, unless it's concentrated among the
+    vaccinated (as opposed to the unvaccinated, where we more or less expect it to be).  
 - They've addressed some of my concerns about Simpson's paradox by stratifying by age
   (correlated with both time of vaccination and likelihood of hospitalization).  Slide 12
   shows confirmed infections per 1000 people, across 3 broad age groups.  The bars are
@@ -223,7 +224,7 @@ We can argue about the _need_ for boosters, but it's inarguably true that it _wo
 The counterpoint was presented by Jonathan Sterne, of the University of Bristol, on the
 various confounders <sup id="fn9a">[[9]](#fn9)</sup>, much like age was the confounder of
 vaccination and hospitalization in
-[the Simpson's paradox example]({{ site.baseurl }}/covid-simpson).  
+[the Simpson's paradox example]({{ site.baseurl }}/covid-simpson/).  
 - On slide 13, he points to 13 studies, examining in-the-wild vaccine efficacy in multiple
   countries where Delta is the dominant strain.  Even the 95% lower confidence limit on
   vaccine efficacy is still usually > 80% (with a few exceptions).  
@@ -247,7 +248,7 @@ vaccination and hospitalization in
 > But how should we use observational data to guide policy?  
 
 __Summary:__ The Israeli data was quite troubling, and the fact that boosters worked where
-they were needed (in the elderly) is incontestable.  Sterne's analysis, like our Simpson's
+they were needed (mostly in the elderly) is incontestable.  Sterne's analysis, like our Simpson's
 paradox analysis, does contest whether there's a universal _need_ for boosters.  
 
 ## COVID-19 Epidemiology Update on Delta  
@@ -257,7 +258,7 @@ paradox analysis, does contest whether there's a universal _need_ for boosters.
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-oliver-3.jpg" width="400" height="227" alt="Oliver @ CDC: Vaccination rates by age cohort have leveled out too low in the US" title = "Oliver @ CDC: Vaccination rates by age cohort have leveled out too low in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-oliver-4.jpg" width="400" height="225" alt="Oliver @ CDC: Vaccine efficacy vs hospitalization has NOT waned over time" title = "Oliver @ CDC: Vaccine efficacy vs hospitalization has NOT waned over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-oliver-5.jpg" width="400" height="225" alt="Oliver @ CDC: apparent waning vs infection likely due to Delta" title = "Oliver @ CDC: apparent waning vs infection likely due to Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Sara Oliver presented an epidemiology update, particularly about Delta in the 
+Sara Oliver of the CDC presented an epidemiology update, particularly about Delta in the 
 US. <sup id="fn10a">[[10]](#fn10)</sup>  The times are very difficult, but vaccines
 continue to work:  
 - On slide 6, she shows us the hospitalization rates in the US over time, stratified by age.  It
@@ -299,7 +300,7 @@ The VRBPAC will vote on the following question <sup id="fn11a">[[11]](#fn11)</su
 > Please vote Yes or No.  
 
 __NB:__ That question implies no stratification by age, which 
-[we already know makes huge differences]({{ site.baseurl }}/covid-simpson).
+[we already know makes huge differences]({{ site.baseurl }}/covid-simpson/).
 even on this crummy little blog that nobody reads.  Also, going down to age 16
 [tripped them up a bit in the EUA hearings, getting 4 "No" votes](https://www.someweekendreading.blog/pfizer-vaccine-passes-vrbpac-review/#pediatric-patients),
 and in any case
@@ -309,7 +310,7 @@ Also also, the clinical trial for boosters apparently _did not include any subje
 asking for approval _for an age group you didn't test_ is skating on thin ice.  
 
 You'd think Pfizer/BioNTech would have learned from their EUA experience not to propose
-for low-statistics age cohorts, but here we are.  
+for low-statistics age cohorts&hellip; but here we are.  
 
 
 ## The Old Reliable(s)  
@@ -331,7 +332,7 @@ Some important introductory points they make are:
   say, vaccinating _everybody else_.  
 - There are other vaccines that require 3 doses (Hep B, DTaP, Hib, PVC13, IPV&hellip; and
   that's just the examples I could find in 30sec!)  If the mRNA vaccines for COVID-19 are
-  in that class, "the whorld needs to know that."  
+  in that class, "the world needs to know that."  
 - __Important detail:__ The VRBPAC's job is to determine _only_ if treatments meet safety
   and efficacy needs.  It is _not_ about how ot roll out that treatment to the
   population.  So the practical logistics of boosters are off the table for today's
@@ -371,10 +372,10 @@ imagine the attention paid to their remarks.
 Interestingly, Jonathan Sterne of the University of Bristol presented some data from the UK
 noting that there are many confounders with vaccine efficacy.  We explored some of that in
 the Israeli data, showing that
-[age caused a strong Simpson paradox effect]({{ site.baseurl }}/covid-simpson).  Sterne
+[age caused a strong Simpson paradox effect]({{ site.baseurl }}/covid-simpson/).  Sterne
 showed a number of similar things happened in the UK, and miht mislead one to think the
 vaccines are fading when they are not.  Herper comments that this was done in such a
-_sotto voce_ manner, that people might not have paid attention.  Oh, for Heaven's sake: do
+_sotto voce_ manner, that people might not have paid attention.  Honestly, do
 we really have to scream _all the time?_  
 
 At least in Herper's opinion, the morning failed to resolve definitively 2 important
@@ -387,9 +388,10 @@ questions that one would have hoped to have answered:
 ### First Vote  
 
 At 3:30pm, the vote on [the question above](#the-question) came out _negative_: 3 Yes, 16
-No, 0 Abstain.  There was one accidental vote apparentlly by a speaker; their choice was
-unclear, but it could not have changed the outcome.  (This will be a subject of gossip in
-the months to come: who barged in and voted without that right?)  
+No, 0 Abstain.  Interestingly, that's 19 votes out of the 18 committee members!  There was
+one accidental vote, apparentlly by a speaker; their choice was unclear, but it could not
+have changed the outcome.  (This will be a subject of gossip in the months to come: who
+barged in and voted without the right?)  
 
 Now they're discussing changing the question, to see if they can endorse boosters for some
 subgroups of people, if not the entire population.  Remember 
@@ -398,13 +400,14 @@ just _maybe_&hellip;
 
 ### Second Vote  
 
-Right, so they rephrased the question, to be whether there should be boosters for those
-over 65 and those at high risk of COVID-19 (presumably the immunocompromised and
-healthcare workers).  It passed unanimously: 18 Yes, 0 No, 0 Abstain.  
+Right, so now they've rephrased the question, to be whether there should be boosters for
+those over 65 and those at high risk of COVID-19 (presumably the immunocompromised and
+healthcare workers).  It passed unanimously: 18 Yes, 0 No, 0 Abstain.  And no "extra"
+votes.  
 
 This will be a recommendation for an Emergency Use Authorization for boosters in those
 groups.  Your humble Weekend Editor will be eligible in late November; the Weekend
-Editrix, alas, is not eligible as she is under 65 (and thus strong in her own right, so
+Editrix alas, is not eligible as she is under 65 (and thus strong in her own right, so
 that's not a bad thing).  
 
 That seems eminently sensible to me!  (After all, I predicted it this morning at the top
