@@ -28,7 +28,7 @@ Some days I feel like that.
 
 So does this dog, confronted with a problem _just_ at the edge of his capabilities.  
 
-He's a good dog.  
+He's a good dog. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 ---
 
@@ -41,3 +41,4 @@ He's a good dog.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
+<a id="fn1">1</a>: Nominally.  He's a good dog, but still just a dog.  It's not as if he's a _cat_, or something important like that. [↩]  
