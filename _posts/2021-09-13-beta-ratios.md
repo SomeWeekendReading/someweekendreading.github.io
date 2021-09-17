@@ -340,6 +340,9 @@ $$
 \right.
 $$
 
+To map between the 2 solutions, swap $\alpha_1 \leftrightarrow \alpha_2$, swap 
+$\beta_1 \leftrightarrow \beta_2$, and swap $R \leftrightarrow 1/R$.  
+
 ### Continuity at $R = 1$  
 
 Pham-Gia did not address in his paper whether the 2 different expressions for $\Pr(R)$
