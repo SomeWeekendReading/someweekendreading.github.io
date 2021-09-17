@@ -94,6 +94,11 @@ hours later&hellip; I'm fine.
 
 Flu vaccinations: highly recommended.  Get yours, too.  
 
+
+## Addendum 2021-Sep-16: The Weekend Editrix's Jab  
+
+Done.  We're set for winter now, at least immunologically.  
+
 ---
 
 ## Notes &amp; References  
