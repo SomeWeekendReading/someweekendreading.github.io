@@ -41,4 +41,4 @@ He's a good dog. <sup id="fn1a">[[1]](#fn1)</sup>
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Nominally.  He's a good dog, but still just a dog.  It's not as if he's a _cat_, or something important like that. [↩]  
+<a id="fn1">1</a>: Well, nominally.  He's a good dog, but still just a dog.  It's not as if he's a _cat_, or something important like that. [↩]  
