@@ -420,7 +420,7 @@ with this recommendation.  People who got Moderna or J&amp;J have yet to get a d
 ## The Weekend Conclusion  
 
 <img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Hunh.  Lookathat.  They went and did The Sensible Thing.  
+Hunh.  Lookitthat.  They went and did The Sensible Thing?!  
 
 (Apparently I am a cynical old grouch.  Like you didn't know that already.)  
 
