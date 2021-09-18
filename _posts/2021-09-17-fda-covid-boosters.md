@@ -63,11 +63,11 @@ Research (CBER), said more or less the expected:
 - A data package submission is a prerequisite for _that_, and
 - Pfizer/BioNTech have submitted such a package so they'll be moving it forward.  
 
-Basically: "We're all doin' that thang we're s'pposta do, nothin' t'see here kid, move along."  
+Basically: "We're all doin' that thang we're s'pposta do!  Nothin' t'see here kid.  Move along."  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/WFph7-6t34M" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 It is of course being livestreamed direct from the FDA to various news media and
-the FDA's own YouTube account which I've embedded here.  
+the FDA's own YouTube account (which I've embedded here).  
 
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-fda-2.jpg" width="400" height="119" alt="FDA VRBPAC agenda on Pfizer/BioNTech booster application" title = "FDA VRBPAC agenda on Pfizer/BioNTech booster application" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The meeting agenda <sup id="fn2a">[[2]](#fn2)</sup> looks pretty straightforward, too.  
@@ -82,7 +82,7 @@ The meeting agenda <sup id="fn2a">[[2]](#fn2)</sup> looks pretty straightforward
   discussion and voting.  
   
 It all looks pretty reasonable, though given the high level of disagreement and tempers
-involved, it could get a little headted.  I hope not.  
+involved, it could get a little heated.  I hope not.  
 
 
 ## The Data Packages  
@@ -96,7 +96,7 @@ newsies almost _never_ know what they're talking about, but insist on talking an
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-fda-3.jpg" width="400" height="401" alt="Pfizer/BioNTech submission to FDA for booster authorization" title = "Pfizer/BioNTech submission to FDA for booster authorization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-pfizer-submission.jpg" width="400" height="191" alt="Pfizer &amp; BioNTech: Submission of application for approval of boosters" title = "Pfizer &amp; BioNTech: Submission of application for approval of boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-fda-4.jpg" width="400" height="178" alt="FDA: independent reanalysis of booster submission data" title = "FDA: independent reanalysis of booster submission data" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-So we can instead look at the documents themselves that were submitted to the FDA.
+So instead we'll look at the documents themselves that were submitted to the FDA.
 Nothing like seeing the _primary_ literature:  
 - Pfizer/BioNTech submitted a 53 page packet <sup id="fn3a">[[3]](#fn3)</sup>, which is
   surprisingly short as these things go.  Interestingly, if you pick apart the PDF file
