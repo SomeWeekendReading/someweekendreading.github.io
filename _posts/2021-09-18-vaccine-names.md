@@ -81,7 +81,7 @@ That's just&hellip; brilliant!  It absolutely defies the conventional wisdom of 
 naming.  No deep roots in ficto-Latin or pseudo-Greek.  Not even a vague attempt at
 sophistication.  Just&hellip; "hey, we use the spike to vaccinate you".  I love it.  
 
-Hence, our celebratory pictures of [Spike](https://en.wikipedia.org/wiki/Spike_(Buffy_the_Vampire_Slayer)) and a [VAX](https://en.wikipedia.org/wiki/VAX).  Surely this was their intended meaning, no? <sup id="fn2a">[[2]](#fn2)</sup>  I mean, it's the _obvious_ place to get that name, right?  
+Hence, our celebratory pictures of [Spike](https://en.wikipedia.org/wiki/Spike_(Buffy_the_Vampire_Slayer)) and a [VAX](https://en.wikipedia.org/wiki/VAX).  Surely this was their intended meaning, no? <sup id="fn2a">[[2]](#fn2)</sup>  I mean, it's the _obvious_ place to have gotten that name, right?  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
