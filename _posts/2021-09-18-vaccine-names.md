@@ -77,6 +77,15 @@ spike protein to vaccinate you, they've called it...
 
 > __SPIKEVAX!__  
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Canada has given Moderna full approval for Spikevax, its first anywhere. Full approval
+    still pending from <a href="https://twitter.com/US_FDA?ref_src=twsrc%5Etfw">@US_FDA</a>.
+    <a href="https://t.co/qfKBQth2Q4">https://t.co/qfKBQth2Q4</a>
+  </p>&mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1438546837116436485?ref_src=twsrc%5Etfw">September 16, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 That's just&hellip; brilliant!  It absolutely defies the conventional wisdom of drug
 naming.  No deep roots in ficto-Latin or pseudo-Greek.  Not even a vague attempt at
 sophistication.  Just&hellip; "hey, we use the spike to vaccinate you".  I love it.  
