@@ -357,14 +357,17 @@ knows.
 Another slightly cute detail: Pfizer's presentation ran long, and when they attempted to
 review the Israeli data that had already been discussed, the chair cut them off.  I admit
 that as a former pharma scientist, it's a gleeful fantasy of mine to be able to tell a
-senior VP of a pharma company to sit down and shut up.  (Perhaps I am a bad person.)  
+senior VP of a pharma company to sit down and shut up.  (Perhaps I am a bad person.  But
+it's hard to resist the cravings for a teensy slice of 
+[schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).)  
 
 The public comment period was as crazy a mixed bag as one might expect, including fairly
 crazy skeptics who think _all_ COVID-19 vaccines are unsafe.  Le sigh.  Also present in
-the public comment period: Paul Alexander, a former Trump administrtion official who is
-skeptical of all the COVID-19 vaccines.  He used to yell at FDA &amp; CDC officials,
+the public comment period: Paul Alexander, a former Trump administration official who is
+skeptical of _all_ the COVID-19 vaccines.  He used to yell at FDA &amp; CDC officials,
 [interfere with their reports where they did not meet Trump's fantasies](https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809),
-and generally ranted about the story of rapper Nicki Minaj's cousin's friend in Trinidad&hellip;
+and today generally ranted about the story of rapper Nicki Minaj's cousin's friend in
+Trinidad with the swollen testicles&hellip; 
 anything _except_ the subject of the meeting, which is booster safety and efficacy.
 Alexander's Trumpian boss Michael Caputo apparently accused scientists of "sedition".  So
 imagine the attention paid to their remarks.  
@@ -402,8 +405,8 @@ just _maybe_&hellip;
 
 Right, so now they've rephrased the question, to be whether there should be boosters for
 those over 65 and those at high risk of COVID-19 (presumably the immunocompromised and
-healthcare workers).  It passed unanimously: 18 Yes, 0 No, 0 Abstain.  And no "extra"
-votes.  
+healthcare workers).  It passed unanimously: 18 Yes, 0 No, 0 Abstain.  (And no "extra"
+votes, this time.)  
 
 This will be a recommendation for an Emergency Use Authorization for boosters in those
 groups.  Your humble Weekend Editor will be eligible in late November; the Weekend
