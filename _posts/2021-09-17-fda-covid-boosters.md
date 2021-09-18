@@ -247,7 +247,7 @@ vaccination and hospitalization in
 >  
 > But how should we use observational data to guide policy?  
 
-__Summary:__ The Israeli data was quite troubling, and the fact that boosters worked where
+__Summary:__ The Israeli data was quite troubling, but the fact that boosters worked where
 they were needed (mostly in the elderly) is incontestable.  Sterne's analysis, like our Simpson's
 paradox analysis, does contest whether there's a universal _need_ for boosters.  
 
