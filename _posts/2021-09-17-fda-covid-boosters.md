@@ -251,6 +251,7 @@ __Summary:__ The Israeli data was quite troubling, but the fact that boosters wo
 they were needed (mostly in the elderly) is incontestable.  Sterne's analysis, like our Simpson's
 paradox analysis, does contest whether there's a universal _need_ for boosters.  
 
+
 ## COVID-19 Epidemiology Update on Delta  
 
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-oliver-1.jpg" width="400" height="224" alt="Oliver @ CDC: US hospitalization rates by time and age" title = "Oliver @ CDC: US hospitalization rates by time and age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
