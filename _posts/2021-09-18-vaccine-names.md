@@ -20,11 +20,11 @@ would have a secret name which only the drug itself would know.
 
 Instead, it's about the absurd US system of naming drugs.  Each drug has several names:  
 
-- __Chemical Name:__A name derived from chemical nomenclature, sometimes a real jawbreaker
+- __Chemical Name:__ A name derived from chemical nomenclature, sometimes a real jawbreaker
   that takes many lines to write down and is essentially unpronounceable. <sup id="fn1a">[[1]](#fn1)</sup> 
   I won't even _begin_ to think what the name of a complex mRNA drug with a lipid
   nanocapsule would be.  Just&hellip; "complicated".  
-- __Compound ID:__A name given by the companies developing them, often called a "compound
+- __Compound ID:__ A name given by the companies developing them, often called a "compound
   id".  Sometimes they even _change_ the compound id, just to obfuscate and confuse the
   business intelligence gatering efforts of competitors.  
   - The Pfizer/BioNTech COVID-19 vaccine is called BNT162b2 or PF-07302048, or sometimes
@@ -42,7 +42,7 @@ Instead, it's about the absurd US system of naming drugs.  Each drug has several
   designed so that it's hard to mis-hear them and mistake them for another medication.
   One drug I worked on, a proteasome inhibitor for use in certain blood cancers, got
   called ["bortezomib"](https://pubchem.ncbi.nlm.nih.gov/compound/Bortezomib) because it
-  was a boronic acid in structure that inhibited the proteasome.  Nice.  (Before that, it
+  was a boronate compound inhibiting the proteasome.  Nice.  (Before that, it
   had compound ids PS-341, LDP-341, and MLN-341 as it changed owners.)  
   - The Pfizer vaccine is designated "tozinameran", for no particularly obvious reason.  I
     guess it doesn't sound like anything else, at least.  
@@ -60,6 +60,8 @@ Instead, it's about the absurd US system of naming drugs.  Each drug has several
 
 ## Trade Names for COVID-19 Vaccines  
 
+<img src="{{ site.baseurl }}/images/spike.jpg" width="400" height="612" alt="Spike, the vampire anti-hero from Buffy the Vampire Slayer" title = "Spike, the vampire anti-hero from Buffy the Vampire Slayer" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/vax.jpg" width="400" height="267" alt="DEC VAX superminicomputer, hero of the late 1970s" title = "DEC VAX superminicomputer, hero of the late 1970s" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 We've [speculated in the past about names for COVID-19 vaccines](https://www.someweekendreading.blog/moderna-vaccine-passes-vrbpac-review/#fn2), 
 here on this crummy little blog that nobody reads.  But nobody listens to me about naming
 things, usually for good reason.  
@@ -70,12 +72,10 @@ given birth to&hellip; what?
 Pfizer has embraced "Comernaty", which sounds like someone with a _really_ bad accent
 trying to say "community".  I'm gonna go out on a limb here and give it a thumbs down.  
 
-<img src="{{ site.baseurl }}/images/spike.jpg" width="400" height="612" alt="Spike, the vampire anti-hero from Buffy the Vampire Slayer" title = "Spike, the vampire anti-hero from Buffy the Vampire Slayer" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/vax.jpg" width="400" height="267" alt="DEC VAX superminicomputer, hero of the late 1970s" title = "DEC VAX superminicomputer, hero of the late 1970s" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Moderna, on the other hand&hellip; these guys are _good._  Given that it uses the viral
 spike protein to vaccinate you, they've called it...
 
-                       <p align="center">__SPIKEVAX!__</p>
+> __SPIKEVAX!__  
 
 That's just&hellip; brilliant!  
 
