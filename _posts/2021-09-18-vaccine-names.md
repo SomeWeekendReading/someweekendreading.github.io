@@ -77,11 +77,13 @@ spike protein to vaccinate you, they've called it...
 
 > __SPIKEVAX!__  
 
-That's just&hellip; brilliant!  
+That's just&hellip; brilliant!  It absolutely defies the conventional wisdom of drug
+naming.  No deep roots in ficto-Latin or pseudo-Greek.  Not even a vague attempt at
+sophistication.  Just&hellip; "hey, we use the spike to vaccinate you".  I love it.  
 
-Hence our celebratory pictures of [Spike](https://en.wikipedia.org/wiki/Spike_(Buffy_the_Vampire_Slayer)) and a [VAX](https://en.wikipedia.org/wiki/VAX).  
+Hence, our celebratory pictures of [Spike](https://en.wikipedia.org/wiki/Spike_(Buffy_the_Vampire_Slayer)) and a [VAX](https://en.wikipedia.org/wiki/VAX).  Surely this was their intended meaning, no? <sup id="fn2a">[[2]](#fn2)</sup>  
 
-Now I want a Moderna booster, even though I got Pfizer originally.  
+Now I want a Moderna booster, even though I got Pfizer originally.  Just for the name.  
 
 ---
 
@@ -99,3 +101,4 @@ Now I want a Moderna booster, even though I got Pfizer originally.
 
 <a id="fn1">1</a>: I once had the rare good fortune back in the late 1990's to do some consulting for [CAS](https://www.cas.org) (Chemical Abstracts Services).  They were using an AI technique called an expert system to derive starndardized names from chemical structures.  I had to move that program to a then-more-modern expert system tool.  Very interesting and nice people. [↩](#fn1a)  
 
+<a id="fn2">2</a>: __Fair Warning:__ Do _not_ attempt to disabuse me on this point. [↩](#fn2a)  
