@@ -99,6 +99,6 @@ Now I want a Moderna booster, even though I got Pfizer originally.  Just for the
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: I once had the rare good fortune back in the late 1990's to do some consulting for [CAS](https://www.cas.org) (Chemical Abstracts Services).  They were using an AI technique called an expert system to derive starndardized names from chemical structures.  I had to move that program to a then-more-modern expert system tool.  Very interesting and nice people. [↩](#fn1a)  
+<a id="fn1">1</a>: I once had the rare good fortune back in the late 1990's to do some consulting for [CAS](https://www.cas.org) (Chemical Abstracts Services).  They were using an AI technique called an expert system to derive standardized names from chemical structures.  I had to move that program to a then-more-modern expert system tool.  Very interesting and nice people. [↩](#fn1a)  
 
 <a id="fn2">2</a>: __Fair Warning:__ Do _not_ attempt to disabuse me on this point. [↩](#fn2a)  
