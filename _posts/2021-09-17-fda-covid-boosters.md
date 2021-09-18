@@ -7,7 +7,7 @@ comments: true
 
 Today the FDA's Vaccines and Related Biological Products Advisory Committee meets to
 review the Pfizer/BioNTech application for 3rd dose boosters of their COVID-19 vaccine.
-Opinion is divided, so there will be some arguing.  
+Opinion is divided, so there will be some arguing.  I'm makin' popcorn.  
 
 
 ## What's the Sitch?  
@@ -22,23 +22,23 @@ on boosters.  Briefly: the evidence is somewhat ambiguous (as
    never got much of an immune reaction in the first place.  
 2. Second, it seems similarly clear that the elderly should also get a booster, since their
    immune systems take a bit longer to respond, and respond more weakly.  (The flu shot I
-   just got had the "geezer dose" of 4x the dose for the youngs.  Take _that_, kiddos!)
+   just got had the "geezer dose": 4x the dose for the youngs.  Take _that_, kiddos!)
    Where to draw the age line for boosters is of course up for grabs; I'd be surprised if
    it were lower than 65 or higher than 75.  
 
-Basically, a booster won't hurt and will help any given individual.  Whether that's the
+Basically, a booster won't _hurt_, and will _help_ any given individual.  Whether that's the
 best course or not for humanity as a whole is up for debate.  We are probably better off
 using those doses to vaccinate the hesitant/resistant/defiant holdouts in the US, and
 _everybody else in the world_ to stop the evolution of new variants.  
 
 That being said, if I'm offered a booster, I'll take it.  My refusal would (a) be modeling
-incorrect behavior for the vaccine hesitant/resistant/defiant, and (b) not guarantee that
+incorrect behavior for the vaccine hesitant/resistant/defiant, and (b) not guarantee my
 dose would go to an unvaccinated person, but instead just that somebody else would get a
 booster.  
 
 So that's my prediction, if we're being sensible: boost the immunocompromised, the
-elderly, and those at high risk (like healthcare workers); then concentrate the rest on
-vaccine hesitant/resistant/defiant and the rest of the world.  But as you know, the
+elderly, and those at high risk (maybe like healthcare workers?); then concentrate the rest on
+the vaccine hesitant/resistant/defiant and the rest of the world.  But as you know, the
 right-wing half of the US population cannot be described as anything even vaguely adjacent
 to "sensible".  (We used to tell people to "avoid something like the plague", but it turns
 out Republicans don't do that.  Who knew?)  
@@ -139,7 +139,7 @@ conclusions:
    hospitalization). I'm glad they honestly say that efficacy against _hospitalization
    and death_ remained high (mostly > 90%).  So that's sort of wanting to have things both
    ways: yes, efficacy against any infection might decline (though they don't seem to be
-   aware of Simpson's paradox!), but the efficacy we care about is still robust.  Hmpf.  
+   aware of Simpson's paradox!), but the efficacy we _care_ about is still robust.  Hmpf.  
 2. A 3rd dose does indeed boost the geometric mean titer of antibodies, against both the
    wild-type and B.1.351 (Beta) variants (Figure 2, p. 19, makes this point, but slides
    CC-22 and CC-23 of their presentation make it more graphically, and include Delta).  The rise
@@ -404,6 +404,16 @@ just _maybe_&hellip;
 
 ### Second Vote  
 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    <a href="https://twitter.com/hashtag/VRBPAC?src=hash&amp;ref_src=twsrc%5Etfw">#VRBPAC</a> 
+    votes unanimously to support recommending authorizing Pfizer boosters for people 65 and 
+    older, and people at high risk because of exposures (HCWs) or comorbid conditions. 
+    <a href="https://t.co/t3VtRt4BIz">pic.twitter.com/t3VtRt4BIz</a>
+  </p>&mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1438961816969916423?ref_src=twsrc%5Etfw">September 17, 2021</a>
+</blockquote> 
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 Right, so now they've rephrased the question, to be whether there should be boosters for
 those over 65 and those at high risk of COVID-19 (presumably the immunocompromised and
 healthcare workers).  It passed unanimously: 18 Yes, 0 No, 0 Abstain.  (And no "extra"
@@ -449,21 +459,21 @@ exactly 1 week from today!
 
 <a id="fn2">2</a>: FDA &amp; CBER, ["167th Meeting of the Vaccines and Related Biological Products Advisory Committee September 17, 2021 Agenda"](https://www.fda.gov/media/152197/download), US FDA Media releases, 2021-Sep-17. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Pfizer/BioNTech, ["BNT162b2 [COMIRNATY (COVID-19 Vaccine, mRNA)] Evaluation of a Booster Dose (Third Dose) VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE BRIEFING DOCUMENT"](https://www.fda.gov/media/152161/download), FDA.gov, timestamped 2021-Sep-14. 53pp. [↩](#fn3a)  
+<a id="fn3">3</a>: Pfizer/BioNTech, ["BNT162b2 [COMIRNATY (COVID-19 Vaccine, mRNA)] Evaluation of a Booster Dose (Third Dose) VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE BRIEFING DOCUMENT"](https://www.fda.gov/media/152161/download), www.FDA.gov, timestamped 2021-Sep-14. 53pp. [↩](#fn3a)  
 
 <a id="fn4">4</a>: [Pfizer Media Relations](mailto:Amy.Rose@pfizer.com) &amp; [BioNTech Media Relations](mailto:Media@biontech.de), ["Pfizer and BioNTech Initiate Rolling Submission of Supplemental Biologics License Application to U.S. FDA for Booster Dose of Comirnaty® in Individuals 16 and Older"](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-initiate-rolling-submission), Pfizer Press Releases, 2021-Aug-25.[↩](#fn4a)  
 
-<a id="fn5">5</a>: FDA Staff, ["FDA Briefing Document Application for licensure of a booster dose for COMIRNATY (COVID-19 Vaccine, mRNA)"](https://www.fda.gov/media/152176/download), FDA.gov, timestamped 2021-Sep-15. 23pp. [↩](#fn5a)  
+<a id="fn5">5</a>: FDA Staff, ["FDA Briefing Document Application for licensure of a booster dose for COMIRNATY (COVID-19 Vaccine, mRNA)"](https://www.fda.gov/media/152176/download), www.FDA.gov, timestamped 2021-Sep-15. 23pp. [↩](#fn5a)  
 
 <a id="fn6">6</a>: D Boyce &amp; WC Gruber, ["BNT162b2 [COMIRNATY® (COVID-19 Vaccine, mRNA)] Booster (Third) Dose"](https://www.fda.gov/media/152240/download), Pfizer slides for VRBPAC 2021-Sep-17 meeting, 2021-Sep-17. [↩](#fn6a)  
 
 <a id="fn7">7</a>: J Lee, ["FDA Review of Effectiveness and Safety of COMIRNATY (COVID-19 Vaccine, mRNA) _Booster Dose Biologics License Application Supplement_"](https://www.fda.gov/media/152239/download), FDA slides for VRBPAC 2021-Sep-17 meeting, 2021-Sep-17. [↩](#fn7a)  
 
-<a id="fn8">8</a>: S Alroy-Preis &amp; R Milo, ["Booster protection against confirmed infections and severe disease - data from Israel"](https://www.fda.gov/media/152205/download), Israeli Ministry of Health, Weizmann Institute, Technion, Gertner Institute, and Hebrew University, 2021-Sep-17. [↩](#fn8a)  
+<a id="fn8">8</a>: S Alroy-Preis &amp; R Milo, ["Booster protection against confirmed infections and severe disease - data from Israel"](https://www.fda.gov/media/152205/download), Israeli Ministry of Health, Weizmann Institute, Technion, Gertner Institute, and Hebrew University slides for VRBPAC 2021-Sep-17 meeting, 2021-Sep-17. [↩](#fn8a)  
 
-<a id="fn9">9</a>: J Sterne, ["Real-world effectiveness of COVID-19 vaccines"](https://www.fda.gov/media/152241/download), University of Bristol, 2021-Sep-17. [↩](#fn9a)  
+<a id="fn9">9</a>: J Sterne, ["Real-world effectiveness of COVID-19 vaccines"](https://www.fda.gov/media/152241/download), University of Bristol slides for VRBPAC 2021-Sep-17 meeting, 2021-Sep-17. [↩](#fn9a)  
 
-<a id="fn10">10</a>: S Oliver, ["Updates to COVID-19 Epidemiology and COVID-19 Vaccines"](https://www.fda.gov/media/152243/download), Centers for Disease Control and Prevention, 2021-Sep-17. [↩](#fn10a)  
+<a id="fn10">10</a>: S Oliver, ["Updates to COVID-19 Epidemiology and COVID-19 Vaccines"](https://www.fda.gov/media/152243/download), Centers for Disease Control and Prevention slides for VRBPAC 2021-Sep-17 meeting, 2021-Sep-17. [↩](#fn10a)  
 
 <a id="fn11">11</a>: FDA Staff, ["Question for the Committee"](https://www.fda.gov/media/152235/download), FDA VRBPAC 2021-Sep-17 meeting materials, 2021-Sep-17. [↩](#fn11a)  
 
