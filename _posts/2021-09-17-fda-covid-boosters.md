@@ -210,7 +210,7 @@ breakthrough infections.
     relevant?)  
 - Whatever reservations I may have, they do not share them.  Israel went about giving booster
   vaccinations with admirable enthusiasm.  They did it for their elders first, which makes
-  sense, and the 60+ cohort is now mostly triple-vaccinated.  Slide 24 shows the result: a
+  sense, and the 60+ cohort is now mostly triple-vaccinated.  Slide 22 shows the result: a
   dramatic fold reduction in confirmed infection in that most triple-vaccinated cohort.  
 - Similarly, a booster gave 10-fold reduction in risk of _severe_ disease, not just
   infection in the 60+ cohort.  That's good, because severe disease, hospitalization, and
