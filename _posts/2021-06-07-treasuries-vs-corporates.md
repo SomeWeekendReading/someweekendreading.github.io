@@ -337,6 +337,15 @@ So our 60/40 portfolio is 40% bonds, divided equally among:
   but it at least wouldn't hurt, and it's one of the world's largest asset classes.  I
   decided to take their advice.)  
 
+[Larry Swedroe](https://buckinghamstrategicwealth.com/people/larry-swedroe), a principal
+at Buckingham Strategic Wealth and occasional contributor to Bogleheads, came to this
+conclusion some years before me (and indeed motivated me to think this through).  He
+looked at portfolio-level effects of mixing corporates or Treasuries with stocks, and
+showed that Treasuries give better Sharpe 
+ratios. <sup id="fn4a">[[4]](#fn4)</sup> <sup id="fn5a">[[5]](#fn5)</sup>
+
+I took a slightly different route, but reached the same conclusion: Treasuries, not corporates.  
+
 ---
 
 ## Notes &amp; References  
@@ -352,3 +361,8 @@ So our 60/40 portfolio is 40% bonds, divided equally among:
 <a id="fn2">2</a>: Weekend Editor, ["Corporate vs Treasury analysis script in R"]({{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-corporates-vs-treasuries.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Jun-07.  There is also available, for peer review, [a transcript of running the analysis]( {{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-corporates-vs-treasuries-transcript.txt).[↩](#fn2a)  
 
 <a id="fn3">3</a>: Weekend Editor, ["US Stock, Treasury, and Corporate Bond Returns 1871 - 2020"]({{ site.baseurl }}/assets/2021-06-07-treasuries-vs-corporates-tsm-itt-itc-data.tsv), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Jun-07.  Note that this contains both nominal and real returns.  Since real returns are what really matters, we haven't made much use of the nominal returns here. [↩](#fn3a)  
+
+<a id="fn4">4</a>: L Swedroe, ["Swedroe: No Need For Corp. Bonds?"](https://www.etf.com/sections/index-investor-corner/swedroe-no-need-corp-bonds?nopaging=1), _ETF.com_, 2018-May-18. [↩](#fn4a)  
+
+<a id="fn5">5</a>: L Swedroe, ["Swedroe: Are Corp Bonds Worth Risk?"](https://www.etf.com/sections/index-investor-corner/swedroe-are-corp-bonds-worth-risk?nopaging=1), _ETF.com_, 2018-Nov-28. [↩](#fn5a)  
+
