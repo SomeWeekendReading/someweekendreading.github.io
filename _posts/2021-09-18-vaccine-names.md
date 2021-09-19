@@ -18,7 +18,8 @@ would have a secret name which only the drug itself would know.
 
 ## Drug names  
 
-Instead, it's about the absurd US system of naming drugs.  Each drug has several names:  
+Just as Eliot said a cat must have 3 different names, in the absurd US system of drug
+nomenclature there are at least 4:  
 
 - __Chemical Name:__ A name derived from chemical nomenclature, sometimes a real jawbreaker
   that takes many lines to write down and is essentially unpronounceable. <sup id="fn1a">[[1]](#fn1)</sup> 
