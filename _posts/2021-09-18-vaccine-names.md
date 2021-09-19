@@ -70,7 +70,7 @@ things, usually for good reason.
 So Pfizer and Moderna have hired the relevant naming consultants, labored mightily, and
 given birth to&hellip; what?  
 
-Pfizer has embraced "Comernaty", which sounds like someone with a _really_ bad accent
+Pfizer has embraced "Comirnaty", which sounds like someone with a _really_ bad accent
 trying to say "community".  I'm gonna go out on a limb here and give it a thumbs down.  
 
 Moderna, on the other hand&hellip; these guys are _good._  Given that it uses the viral
@@ -111,4 +111,4 @@ Now I want a Moderna booster, even though I got Pfizer originally.  Just for the
 
 <a id="fn1">1</a>: I once had the rare good fortune back in the late 1990's to do some consulting for [CAS](https://www.cas.org) (Chemical Abstracts Services).  They were using an AI technique called an expert system to derive standardized names from chemical structures.  I had to move that program to a then-more-modern expert system tool.  Very interesting and nice people. [↩](#fn1a)  
 
-<a id="fn2">2</a>: __Fair Warning:__ Do _not_ attempt to disabuse me on this point.  I treasure the memory of Buffy in my heart.  (Well, actually more Willow.  And Giles, for that matter.)  [↩](#fn2a)  
+<a id="fn2">2</a>: __Fair Warning:__ Do _not_ attempt to disabuse me on this point.  I treasure the memory of Buffy in my heart.  (Well, actually more Willow.  And Giles, for that matter.  I _dream_ of being one day as cool as Giles.)  [↩](#fn2a)  
