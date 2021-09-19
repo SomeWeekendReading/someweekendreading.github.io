@@ -90,8 +90,10 @@ involved, it could get a little heated.  I hope not.
 We _could_ listen to the newsies and their horse-race commentary, who's up &amp; who's down,
 how important this or that person is, what the polls will say about politics and Biden's 
 policies&hellip; but I just don't have the stomach for that.  I mean, I'll watch a bit of
-the expert testimony because those folk actually know what they're talking about.  But the
-newsies almost _never_ know what they're talking about, but insist on talking anyway.  
+the expert testimony because those folks actually know what they're talking about.  But the
+newsies almost _never_ know what they're talking about, and insist on talking anyway.
+(__Notable exception:__ _STAT News_, especially reporters like Helen Branswell &amp;
+Matthew Herper.  Below we will be well-guided by their liveblog of today's events.)  
 
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-fda-3.jpg" width="400" height="401" alt="Pfizer/BioNTech submission to FDA for booster authorization" title = "Pfizer/BioNTech submission to FDA for booster authorization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-pfizer-submission.jpg" width="400" height="191" alt="Pfizer &amp; BioNTech: Submission of application for approval of boosters" title = "Pfizer &amp; BioNTech: Submission of application for approval of boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -151,7 +153,7 @@ So&hellip; yeah, it _works_.  But the evidence of _need_ is slightly sketchy.
 
 The FDA slide deck makes substantially the same points.  <sup id="fn7a">[[7]](#fn7)</sup>
 There's some slightly subtle foofraw about noninferiority criteria according to the 97.5%
-lower confidence limit of the difference of&hellip; something&hellip;  But the details
+lower confidence limit of the difference of&hellip; something or other.  But the details
 here are unlikely to be of broad interest: the game is to make sure the 3rd dose doesn't
 _harm_ immunity, and after that it _helps_.  
 
@@ -204,10 +206,10 @@ breakthrough infections.
     pre-existing conditions.  You'd _expect_ more breakthroughs there, right?  
   - So while these data are sobering, I'm not utterly convinced they've removed the
     confounding variables that lead to Simpson's paradox.  Maybe I'm just a skeptical
-    grizzled old statistician.  (Well, that's literally true.  The question is if that's
+    grizzled old statistician.  (Well, that's literally true.  The question is whether that's
     relevant?)  
-- Whatever reservations I may have, they do not share and went about giving booster
-  vaccinations with great enthusiasm.  They did it for their elders first, which makes
+- Whatever reservations I may have, they do not share them.  Israel went about giving booster
+  vaccinations with admirable enthusiasm.  They did it for their elders first, which makes
   sense, and the 60+ cohort is now mostly triple-vaccinated.  Slide 24 shows the result: a
   dramatic fold reduction in confirmed infection in that most triple-vaccinated cohort.  
 - Similarly, a booster gave 10-fold reduction in risk of _severe_ disease, not just
@@ -215,7 +217,8 @@ breakthrough infections.
   death are the things we care about most, not a mild breakthrough infection.  
 - Best of all, the side effects looked comparable to, or even _less than_, what was seen
   in the first 2 doses.  They saw _only 1 case of myocarditis_.  (But that's a problem in
-  younger males, and they vaccinated their elderly first, so that may not mean much.)  
+  younger males, and they vaccinated their elderly first, so the low number of events seen
+  here may not mean much.)  
 
 We can argue about the _need_ for boosters, but it's inarguably true that it _worked_.  
 
@@ -260,7 +263,7 @@ paradox analysis, does contest whether there's a universal _need_ for boosters.
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-oliver-4.jpg" width="400" height="225" alt="Oliver @ CDC: Vaccine efficacy vs hospitalization has NOT waned over time" title = "Oliver @ CDC: Vaccine efficacy vs hospitalization has NOT waned over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-oliver-5.jpg" width="400" height="225" alt="Oliver @ CDC: apparent waning vs infection likely due to Delta" title = "Oliver @ CDC: apparent waning vs infection likely due to Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Sara Oliver of the CDC presented an epidemiology update, particularly about Delta in the 
-US. <sup id="fn10a">[[10]](#fn10)</sup>  The times are very difficult, but vaccines
+US. <sup id="fn10a">[[10]](#fn10)</sup>  Our times are very difficult, but the vaccines
 continue to work:  
 - On slide 6, she shows us the hospitalization rates in the US over time, stratified by age.  It
   shows the recurring wave structure, as we try again and again to be as stupid as
@@ -282,12 +285,14 @@ continue to work:
 - On slide 17, she examines apparent vaccine efficacy waning against infection (_not_ just
   severe infection, hospitalization, or death).  Looking at the timing, it seems much more
   likely that this is caused by the introduction of Delta, not by an waning of vaccine
-  efficacy.  Not exactly good news (Delta = bad!), but at least _the vaccines continue to work._  
+  efficacy.  Not exactly good news (Delta = bad!), but at least 
+  _the vaccines continue to work where it matters: preventing hospitalization &amp; death._  
 
 __Summary:__ While infection, hospitalization, and death rates are high, it is mostly
 among the unvaccinated.  Vaccines continue to provide robust protection against severe
 disease.  Unfortunately, vaccination rates are slowing down, and the defiant few remaining
-will require mandates to get vaccinated.  
+will require mandates to get vaccinated lest they get sick themselves, spread it to
+others, or &ndash; Heaven forbid &ndash; evolve yet another variant.  
 
 
 ## The Question  
@@ -301,7 +306,7 @@ The VRBPAC will vote on the following question <sup id="fn11a">[[11]](#fn11)</su
 > Please vote Yes or No.  
 
 __NB:__ That question implies no stratification by age, which 
-[we already know makes huge differences]({{ site.baseurl }}/covid-simpson/).
+[we already know makes huge differences]({{ site.baseurl }}/covid-simpson/),
 even on this crummy little blog that nobody reads.  Also, going down to age 16
 [tripped them up a bit in the EUA hearings, getting 4 "No" votes](https://www.someweekendreading.blog/pfizer-vaccine-passes-vrbpac-review/#pediatric-patients),
 and in any case
@@ -331,7 +336,7 @@ Some important introductory points they make are:
   _not_ news.  
 - We know a boost will _work_; the question is whether that's the best thing to do versus,
   say, vaccinating _everybody else_.  
-- There are other vaccines that require 3 doses (Hep B, DTaP, Hib, PVC13, IPV&hellip; and
+- There are other vaccines that require 3 or more doses (Hep B, DTaP, Hib, PVC13, IPV&hellip; and
   that's just the examples I could find in 30sec!)  If the mRNA vaccines for COVID-19 are
   in that class, "the world needs to know that."  
 - __Important detail:__ The VRBPAC's job is to determine _only_ if treatments meet safety
@@ -352,8 +357,8 @@ However, Israel has boosted 1.2 million people and seen exactly 1 case of this s
 heart inflammation.  So that's potentially a good omen if not exactly the RCT statistic
 we'd like to have in the best of all possible worlds.  The acting chair of VRBPAC, Arnold
 Monto, cautioned that Israel is doing the oldest first, so their data under-represents
-males under 30 who are most at risk.  So&hellip; the risk _looks_ low, but maybe nobody
-knows.  
+males under 30 who are most at risk for myocarditis/pericarditis.  So&hellip; the risk
+_looks_ low, but really nobody knows.  
 
 Another slightly cute detail: Pfizer's presentation ran long, and when they attempted to
 review the Israeli data that had already been discussed, the chair cut them off.  I admit
@@ -377,7 +382,7 @@ Interestingly, Jonathan Sterne of the University of Bristol presented some data 
 noting that there are many confounders with vaccine efficacy.  We explored some of that in
 the Israeli data, showing that
 [age caused a strong Simpson paradox effect]({{ site.baseurl }}/covid-simpson/).  Sterne
-showed a number of similar things happened in the UK, and miht mislead one to think the
+showed a number of similar things happened in the UK, and might mislead one to think the
 vaccines are fading when they are not.  Herper comments that this was done in such a
 _sotto voce_ manner, that people might not have paid attention.  Honestly, do
 we really have to scream _all the time?_  
@@ -420,12 +425,12 @@ healthcare workers).  It passed unanimously: 18 Yes, 0 No, 0 Abstain.  (And no "
 votes, this time.)  
 
 This will be a recommendation for an Emergency Use Authorization for boosters in those
-groups.  Your humble Weekend Editor will be eligible in late November; the Weekend
-Editrix alas, is not eligible as she is under 65 (and thus strong in her own right, so
-that's not a bad thing).  
+groups.  Your humble Weekend Editor will be eligible in next week if the interval is 6
+months from the 2nd dose; the Weekend Editrix alas, is not eligible as she is under 65
+(and thus strong in her own right, so that's not a bad thing).  
 
-That seems eminently sensible to me!  (After all, I predicted it this morning at the top
-of this post, though I was too cynical to think it would actually happen.  _Mea maxima culpa._)  
+That seems eminently sensible to me!  After all, I predicted it this morning at the top
+of this post, though I was too cynical to think it would actually happen.  _Mea maxima culpa._  
 
 Next, the ACIP committe of the CDC meets for 2 days next week to figure out what to do
 with this recommendation.  People who got Moderna or J&amp;J have yet to get a decision.
@@ -436,7 +441,7 @@ with this recommendation.  People who got Moderna or J&amp;J have yet to get a d
 <img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Hunh.  Lookitthat.  They went and did The Sensible Thing?!  
 
-(Apparently I am a cynical old grouch.  Like you didn't know that already.)  
+Apparently I am a cynical old grouch.  Like you didn't know that already.  
 
 I look forward to my booster dose soon, since 6 months after my second dose will be
 exactly 1 week from today!  
