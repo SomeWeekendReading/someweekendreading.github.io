@@ -289,7 +289,7 @@ shout-out to his mom, who pointed him at Morris's blog post.
 Nailed it.  
 
 
-## Addendum 2021-Sep-02: Vaccine confidence intervals  
+## Addendum 2021-Sep-02: Vaccine efficacy confidence intervals  
 
 <img src="{{ site.baseurl }}/images/2021-08-29-covid-simpson-israeli-popln.jpg" width="400" height="125" alt="Morris data: Israeli population stratified by age and dose status" title="Morris data: Israeli population stratified by age and dose status" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-confidence-intervals-by-age.png" width="400" height="400" alt="Israeli vaccine efficacies with confidence intervals, normalized and age-stratified" title="Israeli vaccine efficacies with confidence intervals, normalized and age-stratified" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -299,9 +299,11 @@ calculate the vaccine efficacies _ab initio_, along with their confidence interv
 did that, with a little R script. <sup id="fn11a">[[11]](#fn11)</sup>  
 
 Note that the calculation of the confidence intervals has a few problems when one of the
-arms has 0 infections.  Also, in those cases &ndash; check the first 3 rows of the table
+arms has 0 infections: in those cases &ndash; check the first 3 rows of the table
 &ndash; the infection counts in both arms are so low we can't achieve statistical
-significance.  So don't take seriously the wide confidence intervals when the efficacy is 100%.  
+significance.  It's very hard to get confidence intervals on rare events, because you have
+to take astronomically large numbers of observations to make the rare events happen enough
+times!  So don't take seriously the wide confidence intervals when the efficacy is 100%.  
 
 Here's the resulting plot.  Other than the silly-wide CI's at 100% efficacy, you
 can see that the vaccines remain strong across all ages, and that we are quite certain
