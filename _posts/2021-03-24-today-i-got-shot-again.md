@@ -19,7 +19,7 @@ and then
 This time, the appointment having been booked already, I just had to show up and do as I'm told.
 ("Showing up", I can manage.  "Doing as I'm told" has always been a lifelong struggle.
 But if I have to struggle a bit to take on board another dose of 
-BNT162/PF-07302048 <sup id="fn1a">[[1]](#fn1)</sup>, then "struggle" is the order of the day.)  
+BNT162b2/PF-07302048 <sup id="fn1a">[[1]](#fn1)</sup>, then "struggle" is the order of the day.)  
 
 <img src="{{ site.baseurl }}/images/2021-03-24-today-i-got-shot-again-hypo.jpg" width="400" height="278" alt="Weekend Editor's portside dorsal manipulator tentacle being injected (again)" title="Weekend Editor's portside dorsal manipulator tentacle being injected (again)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Herein illustrated (again) is your humble Weekend Editor's portside dorsal manipulator

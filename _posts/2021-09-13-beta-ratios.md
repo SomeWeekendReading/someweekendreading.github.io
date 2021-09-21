@@ -81,8 +81,8 @@ VE = \frac{p_c - p_v}{p_c} = 1 - \frac{p_v}{p_c}
 $$
 
 Now if we believe that $p_v$ and $p_c$ are Beta-distributed, given the clinical trial as a
-bunch of disease-catching coin flips, then vaccine efficacy is distributed as the ratio of
-a couple of independent Beta variables.  
+bunch of disease-catching coin flips, then vaccine efficacy is distributed as (a trivial linear
+function of) the ratio of a couple of independent Beta variables.  
 
 Ok, so what's the distribution of a ratio of independent Beta variables?  There are a
 variety of ways to approach this, and we'll compare several of them in an upcoming post.  For
@@ -110,7 +110,7 @@ $$
   \Pr(p_2) &= \frac{p_{2}^{\alpha_{2}-1}(1-p_{2})^{\beta_{2}-1}}{B(\alpha_2, \beta_2)} 
 \end{align*} $$
 
-We then ask: if we compute their ratio $R = p_1 / p_2$, then what is the PDF $\Pr(R)$?  If
+We then ask: if we compute their ratio $R = p_1 / p_2$, then what is the PDF of $\Pr(R)$?  If
 we knew the answer, particularly the CDF (or even better the quantile function, which is
 the functional inverse of the CDF!), we could calculate 95% confidence intervals on the
 ratio.  
@@ -341,7 +341,8 @@ $$
 $$
 
 To map between the 2 solutions, swap $\alpha_1 \leftrightarrow \alpha_2$, swap 
-$\beta_1 \leftrightarrow \beta_2$, and swap $R \leftrightarrow 1/R$.  
+$\beta_1 \leftrightarrow \beta_2$, and swap $R \leftrightarrow 1/R$.  (Well, _almost_: the
+exponent of $R$ in the middle has a +1 that becomes a -1, because nothing is ever simple.)  
 
 ### Continuity at $R = 1$  
 

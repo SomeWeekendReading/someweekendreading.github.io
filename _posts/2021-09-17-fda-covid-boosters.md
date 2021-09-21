@@ -153,9 +153,9 @@ So&hellip; yeah, it _works_.  But the evidence of _need_ is slightly sketchy.
 
 The FDA slide deck makes substantially the same points.  <sup id="fn7a">[[7]](#fn7)</sup>
 There's some slightly subtle foofraw about noninferiority criteria according to the 97.5%
-lower confidence limit of the difference of&hellip; something or other.  But the details
-here are unlikely to be of broad interest: the game is to make sure the 3rd dose doesn't
-_harm_ immunity, and after that it _helps_.  
+lower confidence limit of the difference of&hellip; something or other about which you
+probably don't care.  While the details here are unlikely to be of broad interest, the
+game is to make sure the 3rd dose doesn't _harm_ immunity, and after that it _helps_.  
 
 One thing that stood out to me in the FDA slides is that this was a _small_ study: $N =
 23$ in Phase 1 and $N = 306$ in Phase 2/3.  So it's _definitely_ underpowered to detect
@@ -164,7 +164,7 @@ perhaps extrapolate from the rates seen in the first 2 shots, and hope the 3rd d
 change them for the worse.  
 
 
-## Is Vaccine Efficacy Waning?  
+## Is Vaccine Efficacy Really Waning?  
 
 <img src="{{ site.baseurl }}/assets/2021-08-29-covid-simpson-ve-confidence-intervals-by-age.png" width="400" height="400" alt="Israeli vaccine efficacies with confidence intervals, normalized and age-stratified" title = "Israeli vaccine efficacies with confidence intervals, normalized and age-stratified" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This is a vexing question.  The initial Israeli data, 

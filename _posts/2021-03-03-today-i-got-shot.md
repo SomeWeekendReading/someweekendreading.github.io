@@ -52,7 +52,7 @@ pick [Berthold Brecht](https://en.wikipedia.org/wiki/Bertolt_Brecht) instead.)
 
 <img src="{{ site.baseurl }}/images/2021-03-03-today-i-got-shot-hypo.jpg" width="400" height="279" alt="Weekend Editor's portside dorsal manipulator tentacle being injected" title="Weekend Editor's portside dorsal manipulator tentacle being injected" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Herein illustrated is your humble Weekend Editor's portside dorsal manipulator tentacle,
-being injected with a syringe chock full o' BNT162/PF-07302048.  <sup id="fn1a">[[1]](#fn1)</sup>
+being injected with a syringe chock full o' BNT162b2/PF-07302048.  <sup id="fn1a">[[1]](#fn1)</sup>
 
 Unlike substantially _every other encounter_ with the dreadful American healthcare system
 I've had, nothing seemed to go wrong.  This was at a massive vaccination facility, and

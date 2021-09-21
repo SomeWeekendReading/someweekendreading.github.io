@@ -51,7 +51,7 @@ reasonable intellectual property.
 
 Yet it's _not_ equivalent to a vaccine.  There are thousands of other things involved,
 like the lipid nanocapsule, buffers, solvents, and so on.  And that's not even mentioning
-the manufacturing know-how.  The mRNA sequence is, while scientifially interesting, only
+the manufacturing know-how.  The mRNA sequence is, while scientifically interesting, only
 the tiniest step of commercializing a vaccine.  
 
 So I'm leaning toward thinking this is ok, maybe even a public service.  

@@ -15,7 +15,7 @@ RNA sequences for both the Pfizer and Moderna vaccines have been posted on
 [GitHub](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-SmRNA-1273).  
 
 People have said all sorts of damn fool things about RNA vaccines in general, and about
-this new reopsitory in particular.  It is _not_ a recipe for making your own version of
+this new repository in particular.  It is _not_ a recipe for making your own version of
 the vaccine, since there's _very_ elaborate chemistry in the lipid nanocapsule, a complex
 set of buffers and preservatives to make it go into solution in a useful way, and about a
 squillion other things.  It's a bit like knowing the instruction set of a computer: if you
@@ -49,7 +49,7 @@ you probably won't do that, here's a quick summary.  (But really, his explanatio
 probably better than mine.)  
 
 <img src="{{ site.baseurl }}/images/2021-04-08-reading-mrna-vaccines-pfizer-seq.jpg" width="400" height="206" alt="Bert Hubert: Beginning of Pfizer/BioNTech vaccine RNA sequence" title="Bert Hubert: Beginning of Pfizer/BioNTech vaccine RNA sequence" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-The Pfizer sequence was [apparently published by the WHO last September]({{ site.baseurl }}/assets/2021-04-08-reading-mrna-vaccines-11889.doc).  It looks more or less like this, showing the first 500 nucleotides of the RNA.  There are a total of 4284 nucleotides in the whole thing.  
+The Pfizer sequence was [apparently published by the WHO last September]({{ site.baseurl }}/assets/2021-04-08-reading-mrna-vaccines-11889.doc).  It looks more or less like this, showing here the first 500 nucleotides of the RNA.  There are a total of 4284 nucleotides in the whole thing.  
 
 All clear, right?  No, of course not, unless you are a ribosome used to reading this sort
 of thing to make proteins.  (If  you are an intelligent ribosome who reads my blog, please

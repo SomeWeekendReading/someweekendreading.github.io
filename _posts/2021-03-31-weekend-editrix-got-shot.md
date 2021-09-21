@@ -5,7 +5,7 @@ tags: COVID PharmaAndBiotech
 comments: true
 ---
 
-Today the Weekend Editrix got shot.  The good way: Pfizer/BioNTech BNT162b.  
+Today the Weekend Editrix got shot.  The good way: Pfizer/BioNTech PF-07302048/BNT162b2.  
 
 ## Signing up for a vaccination slot  
 
