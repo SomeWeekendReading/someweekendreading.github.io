@@ -450,7 +450,8 @@ exactly 1 week from today!
 ## Addendum 2021-Sep-21: ZDoggMD on the FDA VRBPAC Booster Hearing  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/odKWcnp6Alk" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-For those who style themselves 'visual learners', here's a video by ZDoggMD talking about
+For those who style themselves 'visual learners', here's a video by ZDoggMD (aka Dr. Zubin
+Damania) talking about
 the FDA booster hearing.  Keep in mind that he's an entertainer, so he has to be a little
 ranty and over-the-top to get YouTube views.  However, he's a UCSF-trained doctor, spent
 10 years as a hospitalist at Stanford, etc. &ndash; guy knows how the medical system works
