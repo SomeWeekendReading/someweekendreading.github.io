@@ -36,14 +36,16 @@ nomenclature there are at least 4:
       RNA".  
     - The vaccine compound id often uses an abbreviation of the company's name, which in this
       case is of course "mRNA".  
-  - The J&amp;J vaccine is JNC-78436735. 
+  - The J&amp;J vaccine is JNC-78436735.  The "JN" part is because it was developed by
+    Janssen, their vaccine subsidiary.  And yes, Johnson &amp; Johnson has a subsidiary
+    named Janssen because nothing real is ever allowed to be simple and straightforward.  
   - The AstraZeneca/Oxford vaccine is&hellip; nothing I particularly care about.  
 - __Generic Name:__ In the US, the FDA assigns a name that is deliberately not
   copyrighted, so anybody can use it.  They're generally sort of neutral sounding,
   designed so that it's hard to mis-hear them and mistake them for another medication.
   One drug I worked on, a proteasome inhibitor for use in certain blood cancers, got
   called ["bortezomib"](https://pubchem.ncbi.nlm.nih.gov/compound/Bortezomib) because it
-  was a boronate compound inhibiting the proteasome.  Nice.  (Before that, it
+  was a boronate proteasome inhibitor.  Nice.  (Before that, it
   had compound ids PS-341, LDP-341, and MLN-341 as it changed owners.)  
   - The Pfizer vaccine is designated "tozinameran", for no particularly obvious reason.  I
     guess it doesn't sound like anything else, at least.  

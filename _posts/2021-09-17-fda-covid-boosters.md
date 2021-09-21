@@ -457,14 +457,15 @@ ranty and over-the-top to get YouTube views.  However, he's a UCSF-trained docto
 10 years as a hospitalist at Stanford, etc. &ndash; guy knows how the medical system works
 (and doesn't work).  
 
-It sounds like he and I are mostly aligned, in that the evidence is a little shaky: the
-Israeli data is full of confounders like age (and Simpson paradox effects), the Pfizer
-doses were only 3 weeks apart which may not have been enough (though it got people
-vaccinated faster, so there's that trade-off), the efficacy vs severe disease or
-hospitalization or death is still like 90%, while boosters boost antibodies but those
-aren't the only measure of immune competence, and so on.  So boosters  make sense for
-those most at risk: elderly, health care workers, and other high-risk situations (details
-to be worked out by the CDC's ACIP meeting).  
+It sounds like he and I are mostly aligned, in that the evidence of the need for boosters
+is a little shaky: 
+- the Israeli data is full of confounders like age (and Simpson paradox effects), 
+- the Pfizer doses were only 3 weeks apart which may not have been enough (though it got
+  people vaccinated faster, so there's that trade-off), 
+- the efficacy vs severe disease or hospitalization or death is still like 90%, 
+- while boosters boost antibodies but those aren't the only measure of immune competence, 
+&hellip; and so on.  So boosters make sense for those most at risk: elderly, health care
+workers, and other high-risk situations (details to be worked out at the CDC's ACIP meeting).  
 
 Where we differ is mandates.  He skews more libertarian and wants to try longer to
 persuade the vaccine defiant.  I think we've done that for almost a year now, and have
