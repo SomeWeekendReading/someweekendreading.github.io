@@ -461,19 +461,22 @@ It sounds like he and I are mostly aligned, in that the evidence of the need for
 is a little shaky: 
 - the Israeli data is full of confounders like age (and Simpson paradox effects), 
 - the Pfizer doses were only 3 weeks apart which may not have been enough (though it got
-  people vaccinated faster, so there's that trade-off), 
+  people vaccinated faster, so there's _that_ trade-off), 
 - the efficacy vs severe disease or hospitalization or death is still like 90%, 
 - while boosters boost antibodies but those aren't the only measure of immune competence, 
+
 &hellip; and so on.  So boosters make sense for those most at risk: elderly, health care
 workers, and other high-risk situations (details to be worked out at the CDC's ACIP meeting).  
 
-Where we differ is mandates.  He skews more libertarian and wants to try longer to
-persuade the vaccine defiant.  I think we've done that for almost a year now, and have
-totally lost patience with them and favor mandates.  My attitude is hey, if guys like
-Zubin here can make persuasion _work_ at a scale to make a dent in the unvaccinated
-population, then great, he should do that.  But the empirical result is the vaccine
-defiant just shrug it off, spit another conspiracy theory at you, and hork down some horse
-paste.  Time to try something more forceful.  
+Where we differ is mandates.  
+
+He skews more libertarian and wants to try more to persuade the vaccine defiant.  I think
+we've done that for almost a year now; I've totally lost patience with them and favor
+mandates.  My attitude is hey, if guys like Zubin here can make persuasion _work_ at a
+scale to make a dent in the unvaccinated population, then great, they should do that.  But
+the empirical result is that it hasn't worked: the vaccine defiant just shrug it off, spit
+another conspiracy theory at you, and hork down some horse paste.  Time to try something
+more effective.  
 
 Perhaps Zubin is a nicer man than me.  I just want us all to be vaccinated, except for
 rare medical exceptions where that's not possible.  
