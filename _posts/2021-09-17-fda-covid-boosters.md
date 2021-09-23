@@ -501,6 +501,26 @@ The ACIP meets tomorrow and will vote on whether to advice the CDC to recommend 
 and for whom.  The CDC will _probably_ accept that recommendation, but again no
 guarantees.  
 
+
+## Addendum 2021-Sep-23: CDC ACIP Meeting Approves Most Boosters  
+
+<img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-stat-acip-approval.jpg" width="400" height="228" alt="Branswell at STAT: ACIP approves some boosters" title = "Branswell at STAT: ACIP approves some boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I didn't go over the materials in detail, since I'm taking a day off to do other things.  However,
+[the meeting presentations are here](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-09-22-23.html),
+for your perusal.  Also, the redoubtable Helen Branswell has a Twitter thread 
+that more or less sums everything up for 
+[yesterday's meeting](https://twitter.com/HelenBranswell/status/1440685043551137804) 
+and [today's meeting](https://twitter.com/HelenBranswell/status/1441063256924303360).  
+
+Her story is up at _STAT News_. <sup id="fn14a">[[14]](#fn14)</sup>  
+
+Like the FDA VRBPAC, the CDC ACIP has re-engineered the question into 4 pieces:  
+1. Give Pfizer booster to age > 65yr or LTCF residents? __Passed: 15-0.__  
+2. Give Pfizer booster to age 50-64yr with underlying conditions?  __Passed: 13-2.__  
+3. Give Pfizer booster to age 18-49yr with underlying conditions?  __Passed: 9-6.__  
+4. Give Pfizer booster to age 18-64yr in occupational/institutional high risk setting?  __Failed: 6-9__  
+You can see the unanimity degrades as the booster group expands.  
+
 ---
 
 ## Notes &amp; References  
@@ -540,3 +560,5 @@ guarantees.
 <a id="fn12">12</a>: H Branswell &amp; M Herper, ["Tracking the FDA advisory panel meeting on Covid-19 booster shots"](https://www.statnews.com/2021/09/17/tracking-the-fda-advisory-panel-meeting-on-covid-19-booster-shots/), _STAT News_, 2021-Sep-17. [↩](#fn12a)  
 
 <a id="fn13">13</a>: H Branswell, ["FDA authorizes Pfizer’s Covid-19 booster for people over 65 or at high risk"](https://www.statnews.com/2021/09/22/fda-authorizes-pfizers-covid-19-booster-for-people-over-65-or-at-high-risk/), _STAT News_, 2021-Sep-22. [↩](#fn13a)  
+
+<a id="fn14">14</a>: H Branswell, ["Advisory committee recommends wide swath of Americans be offered Covid-19 vaccine boosters"](https://www.statnews.com/2021/09/23/covid19-vaccine-boosters-cdc-acip/), _STAT News_, 2021-Sep-23. [↩](#fn14a)  
