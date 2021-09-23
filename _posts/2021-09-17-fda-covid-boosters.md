@@ -31,7 +31,7 @@ best course or not for humanity as a whole is up for debate.  We are probably be
 using those doses to vaccinate the hesitant/resistant/defiant holdouts in the US, and
 _everybody else in the world_ to stop the evolution of new variants.  
 
-That being said, if I'm offered a booster, I'll take it.  My refusal would (a) be modeling
+__That being said, if I'm offered a booster, I'll take it.__  My refusal would (a) be modeling
 incorrect behavior for the vaccine hesitant/resistant/defiant, and (b) not guarantee my
 dose would go to an unvaccinated person, but instead just that somebody else would get a
 booster.  
@@ -63,7 +63,7 @@ Research (CBER), said more or less the expected:
 - A data package submission is a prerequisite for _that_, and
 - Pfizer/BioNTech have submitted such a package so they'll be moving it forward.  
 
-Basically: "We're all doin' that thang we're s'pposta do!  Nothin' t'see here kid.  Move along."  
+Basically: "We're all doin' that thang we're s'pposta do!  Nothin' t'see here kid.  Move 'long."  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/WFph7-6t34M" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 It is of course being livestreamed direct from the FDA to various news media and
