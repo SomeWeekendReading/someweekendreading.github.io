@@ -481,6 +481,26 @@ more effective.
 Perhaps Zubin is a nicer man than me.  I just want us all to be vaccinated, except for
 rare medical exceptions where that's not possible.  
 
+
+## Addendum 2021-Sep-22: FDA Approves Pfizer Boosters  
+
+<img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-stat-fda-approval.jpg" width="400" height="224" alt="STAT: FDA Approves Pfizer/BioNTech Booster for Elders &amp; High Risks" title = "STAT: FDA Approves Pfizer/BioNTech Booster for Elders &amp; High Risks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Helen Branswell at _STAT News_ is now reporting <sup id="fn13a">[[13]](#fn13)</sup> that
+the FDA has today officially authorized Pfizer's COVID-19 booster for those over 65 or at
+high risk.  They don't _have_ to follow the VRBPAC recommendation, but usually do; this
+situation turns out to be part of the "usual".  
+
+Per the CDC, there are about 53 million Americans over 65, and 17-20 million are health
+care workers (no word on the overlap).  Possibly 100 million have complicating
+conditions.  That adds up to about _half_ the US population, so there's going to be some
+arguing about what exactly constitutes "high risk".  They're considering health care
+workers, teachers, daycare staff, grocery workers, people in homeless shelters or
+prisons&hellip; all kinds of people.  
+
+The ACIP meets tomorrow and will vote on whether to advice the CDC to recommend boosters,
+and for whom.  The CDC will _probably_ accept that recommendation, but again no
+guarantees.  
+
 ---
 
 ## Notes &amp; References  
@@ -518,3 +538,5 @@ rare medical exceptions where that's not possible.
 <a id="fn11">11</a>: FDA Staff, ["Question for the Committee"](https://www.fda.gov/media/152235/download), FDA VRBPAC 2021-Sep-17 meeting materials, 2021-Sep-17. [↩](#fn11a)  
 
 <a id="fn12">12</a>: H Branswell &amp; M Herper, ["Tracking the FDA advisory panel meeting on Covid-19 booster shots"](https://www.statnews.com/2021/09/17/tracking-the-fda-advisory-panel-meeting-on-covid-19-booster-shots/), _STAT News_, 2021-Sep-17. [↩](#fn12a)  
+
+<a id="fn13">13</a>: H Branswell, ["FDA authorizes Pfizer’s Covid-19 booster for people over 65 or at high risk"](https://www.statnews.com/2021/09/22/fda-authorizes-pfizers-covid-19-booster-for-people-over-65-or-at-high-risk/), _STAT News_, 2021-Sep-22. [↩](#fn13a)  
