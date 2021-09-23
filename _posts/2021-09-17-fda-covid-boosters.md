@@ -507,11 +507,12 @@ guarantees.
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-stat-acip-approval.jpg" width="400" height="228" alt="Branswell at STAT: ACIP approves some boosters" title = "Branswell at STAT: ACIP approves some boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I didn't go over the materials in detail, since I'm taking a day off to do other things.  However,
 [the meeting presentations are here](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-09-22-23.html),
-for your perusal.  Also, the redoubtable Helen Branswell has a Twitter thread 
+for your perusal.  
+
+Also, the redoubtable Helen Branswell has a Twitter thread 
 that more or less sums everything up for 
 [yesterday's meeting](https://twitter.com/HelenBranswell/status/1440685043551137804) 
 and [today's meeting](https://twitter.com/HelenBranswell/status/1441063256924303360).  
-
 Her story is up at _STAT News_. <sup id="fn14a">[[14]](#fn14)</sup>  
 
 Like the FDA VRBPAC, the CDC ACIP has re-engineered the question into 4 pieces:  
