@@ -362,9 +362,9 @@ _looks_ low, but really nobody knows.
 
 Another slightly cute detail: Pfizer's presentation ran long, and when they attempted to
 review the Israeli data that had already been discussed, the chair cut them off.  I admit
-that as a former pharma scientist, it's a gleeful fantasy of mine to be able to tell a
-senior VP of a pharma company to sit down and shut up.  (Perhaps I am a bad person.  But
-it's hard to resist the cravings for a teensy slice of 
+that as a now-retired pharma research scientist, it's a gleeful fantasy of mine to be able
+to tell a senior VP of a pharma company to sit down and shut up.  (Perhaps I am a bad
+person.  But it's hard to resist the cravings for a teensy slice of
 [schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).)  
 
 The public comment period was as crazy a mixed bag as one might expect, including fairly
