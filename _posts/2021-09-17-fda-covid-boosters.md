@@ -515,11 +515,12 @@ that more or less sums everything up for
 and [today's meeting](https://twitter.com/HelenBranswell/status/1441063256924303360).  
 Her story is up at _STAT News_. <sup id="fn14a">[[14]](#fn14)</sup>  
 
-Like the FDA VRBPAC, the CDC ACIP has re-engineered the question into 4 pieces:  
-1. Give Pfizer booster to age > 65yr or LTCF residents? __Passed: 15-0.__  
-2. Give Pfizer booster to age 50-64yr with underlying conditions?  __Passed: 13-2.__  
-3. Give Pfizer booster to age 18-49yr with underlying conditions?  __Passed: 9-6.__  
-4. Give Pfizer booster to age 18-64yr in occupational/institutional high risk setting?  __Failed: 6-9__  
+Like the FDA VRBPAC, the CDC ACIP has re-engineered the question into 4 pieces.  Should we
+give the Pfizer/BioNTech 3rd shot booster to:  
+1. Age > 65yr or LTCF residents? __Passed: 15-0.__  
+2. Age 50-64yr with underlying conditions?  __Passed: 13-2.__  
+3. Age 18-49yr with underlying conditions?  __Passed: 9-6.__  
+4. Age 18-64yr in occupational/institutional high risk setting?  __Failed: 6-9__  
 
 You can see the unanimity degrades as the booster group expands.  
 
