@@ -519,6 +519,7 @@ Like the FDA VRBPAC, the CDC ACIP has re-engineered the question into 4 pieces:
 2. Give Pfizer booster to age 50-64yr with underlying conditions?  __Passed: 13-2.__  
 3. Give Pfizer booster to age 18-49yr with underlying conditions?  __Passed: 9-6.__  
 4. Give Pfizer booster to age 18-64yr in occupational/institutional high risk setting?  __Failed: 6-9__  
+
 You can see the unanimity degrades as the booster group expands.  
 
 ---
