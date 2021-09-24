@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Madness of Texas Abortion Vigilantes
-tags: COVID Politics
+tags: Politics
 comments: true
 ---
 
