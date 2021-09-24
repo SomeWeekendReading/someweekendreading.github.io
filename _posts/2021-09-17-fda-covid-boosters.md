@@ -524,6 +524,28 @@ give the Pfizer/BioNTech 3rd shot booster to:
 
 You can see the unanimity degrades as the booster group expands.  
 
+
+## Addendum 2021-Sep-24: Another Twist 'n' Turn  
+
+<img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-cdc-ruling.jpg" width="400" height="217" alt="CDC Guidance: Boosters all around, more or less?!" title = "CDC Guidance: Boosters all around, more or less?!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Today the CDC issued its official guidance. <sup id="fn15a">[[15]](#fn15)</sup>
+Interestingly, it _overruled_ the ACIP committee and said categories 1 &amp; 2 _should_
+get boosters, while categories 3 &amp; 4 _may_ get boosters.  In saying so, they've
+disagreed with the ACIP verdict of "no" in category 4.  
+
+So basically they _widened_ the categories of people to get boosters beyond what the ACIP
+recommended.  
+
+I don't quite know how to feel about this.  
+
+- On the one hand, I think the risk of boosters is very low and the benefit is medium if you
+  look across the whole population, so that's probably overall favorable.  
+- On the other hand, I don't like the agencies overruling their outside expert advisory
+  committees and I'd like to see us putting more effort getting first doses into the
+  vaccine resistant.  
+
+So I guess I feel&hellip; a bit of both ways, maybe?  
+
 ---
 
 ## Notes &amp; References  
@@ -565,3 +587,5 @@ You can see the unanimity degrades as the booster group expands.
 <a id="fn13">13</a>: H Branswell, ["FDA authorizes Pfizer’s Covid-19 booster for people over 65 or at high risk"](https://www.statnews.com/2021/09/22/fda-authorizes-pfizers-covid-19-booster-for-people-over-65-or-at-high-risk/), _STAT News_, 2021-Sep-22. [↩](#fn13a)  
 
 <a id="fn14">14</a>: H Branswell, ["Advisory committee recommends wide swath of Americans be offered Covid-19 vaccine boosters"](https://www.statnews.com/2021/09/23/covid19-vaccine-boosters-cdc-acip/), _STAT News_, 2021-Sep-23. [↩](#fn14a)  
+
+<a id="fn15">15</a>: [CDC Media Relations](https://www.cdc.gov/media), ["CDC Statement on ACIP Booster Recommendations"](https://www.cdc.gov/media/releases/2021/p0924-booster-recommendations-.html), CDC Newsroom Releases, 2021-Sep-15. [↩](#fn15a)  
