@@ -545,9 +545,15 @@ I don't quite know how to feel about this:
 
 So I guess I feel&hellip; a bit of both ways, maybe?  
 
-Gonna get a booster myself, though.  You should too, if you're eligible.  By my
-[calculation above](#addendum-2021-sep-22-fda-approves-pfizer-boosters), I think we're up
-to a bit over half the US population being eligible, so it's not a stretch.  
+Gonna get a booster myself, though.  You should too, if you're eligible.  
+
+By my [calculation above](#addendum-2021-sep-22-fda-approves-pfizer-boosters), I think
+we're up to a bit over half the US population being eligible, so it's not a stretch that
+maybe you're probably eligible.
+[Here's the list of qualifying medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html),
+and it's pretty broad.  Even being overweight ($25 \le \mathrm{BMI} \e 30
+\mathrm{kg}/\mathrm{m}^2) will do.  Just as a personal point
+of reference, my BMI after 1.5 years of staying at home in a pandemic is 28.9.  
 
 Strange times we live in.  Strange times.  <sup id="fn16a">[[16]](#fn16)</sup>
 
