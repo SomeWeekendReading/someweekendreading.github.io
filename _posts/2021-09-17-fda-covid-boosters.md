@@ -536,8 +536,7 @@ disagreed with the ACIP verdict of "no" in category 4.
 So basically they _widened_ the categories of people to get boosters beyond what the ACIP
 recommended.  
 
-I don't quite know how to feel about this.  
-
+I don't quite know how to feel about this:  
 - On the one hand, I think the risk of boosters is very low and the benefit is medium if you
   look across the whole population, so that's probably overall favorable.  
 - On the other hand, I don't like the agencies overruling their outside expert advisory
@@ -545,6 +544,12 @@ I don't quite know how to feel about this.
   vaccine resistant.  
 
 So I guess I feel&hellip; a bit of both ways, maybe?  
+
+Gonna get a booster myself, though.  You should too, if you're eligible.  By my
+[calculation above](#addendum-2021-sep-22-fda-approves-pfizer-boosters), I think we're up
+to a bit over half the US population being eligible, so it's not a stretch.  
+
+Strange times we live in.  Strange times.  <sup id="fn16a">[[16]](#fn16)</sup>
 
 ---
 
@@ -589,3 +594,5 @@ So I guess I feel&hellip; a bit of both ways, maybe?
 <a id="fn14">14</a>: H Branswell, ["Advisory committee recommends wide swath of Americans be offered Covid-19 vaccine boosters"](https://www.statnews.com/2021/09/23/covid19-vaccine-boosters-cdc-acip/), _STAT News_, 2021-Sep-23. [↩](#fn14a)  
 
 <a id="fn15">15</a>: [CDC Media Relations](https://www.cdc.gov/media), ["CDC Statement on ACIP Booster Recommendations"](https://www.cdc.gov/media/releases/2021/p0924-booster-recommendations-.html), CDC Newsroom Releases, 2021-Sep-15. [↩](#fn15a)  
+
+<a id="fn16">16</a>: And yes, you're perfectly within your rights to tell me I sound like an old man when I say stuff like that.  Doesn't make the times any less strange, though.[↩](#fn16a)  
