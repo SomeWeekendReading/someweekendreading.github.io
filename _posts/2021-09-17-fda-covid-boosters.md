@@ -551,9 +551,11 @@ By my [calculation above](#addendum-2021-sep-22-fda-approves-pfizer-boosters), I
 we're up to a bit over half the US population being eligible, so it's not a stretch that
 maybe you're probably eligible.
 [Here's the list of qualifying medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html),
-and it's pretty broad.  Even being overweight ($25 \le \mathrm{BMI} \e 30
-\mathrm{kg}/\mathrm{m}^2) will do.  Just as a personal point
-of reference, my BMI after 1.5 years of staying at home in a pandemic is 28.9.  
+and it's pretty broad.  Even being overweight but not obese, i.e.,
+$25 \le \mathrm{BMI} \e 30 \mathrm{kg}/\mathrm{m}^2$, will do.  (Personal point
+of reference: my BMI after 1.5 years of staying at home in a pandemic is 28.9.  If you've
+gained a few pounds in the last year and a half, you can put those pounds to ironic use
+and get a booster.)  
 
 Strange times we live in.  Strange times.  <sup id="fn16a">[[16]](#fn16)</sup>
 
