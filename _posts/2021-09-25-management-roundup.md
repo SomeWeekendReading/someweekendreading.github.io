@@ -18,10 +18,7 @@ nightmares to go away.  Answers ranged from months to years&hellip; to "not so f
 Empirically, it's been a year and a quarter for me, and they haven't stopped yet.  Slowed
 down to once or twice a week, maybe.  
 
-Corporate certainly life had its discontents.  And many of them!  I still remember the time
-they tried to impose "proper business attire" on scientists&hellip; as remarkable an
-instance of [wooden-headedness](https://www.dailykos.com/stories/2004/5/15/29251/-) (in the
-sense of historian Barbara Tuchman's views) as I can imagine.  And I'm an imaginative guy.  
+[Corporate certainly life had its discontents]({{ site.baseurl }}/tags/#CorporateLifeAndItsDiscontents).  And many of them!  I still remember the time they tried to impose "proper business attire" on scientists&hellip; as remarkable an instance of [wooden-headedness](https://www.dailykos.com/stories/2004/5/15/29251/-) (in the sense of historian Barbara Tuchman's views) as I can imagine.  And I'm an imaginative guy.  
 
 So this video from Radiohead, "If You Say the Word" <sup id="fn1a">[[1]](#fn1)</sup>,
 captured a perfect revenge fantasy: 3 working class guys practicing humane catch &amp;
