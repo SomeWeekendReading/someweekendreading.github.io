@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Work Nightmares&colon; A Fairness Fantasy
+title: Work Nightmares&colon; A Fantasy of Fairness
 tags: CorporateLifeAndItsDiscontents &Gammad;&Tau;&Phi;
 comments: true
 ---
 
-Yes, discontent with the corporate system and rule by managers is a thing.  
+Yes, discontent with the corporate system and rule by managers is a thing.  As are
+nightmares, and the corresponding fantasies of justice.  
 
 
 ## Still having work nightmares  
@@ -16,7 +17,7 @@ When I retired, I only semi-humorously asked somebody at
 nightmares to go away.  Empirically, it's been a year and a quarter, and they haven't
 stopped yet.  Slowed down to once or twice a week, maybe.  
 
-Corporate certainly life had its discontents.  Many of them.  I still remember the time
+Corporate certainly life had its discontents.  Many of them!  I still remember the time
 they tried to impose "proper business attire" on scientists&hellip; as remarkable an
 instance of wooden-headedness as I can imagine.  And I'm an imaginative guy.  
 
@@ -27,9 +28,11 @@ and then release them into an urban office district (looks like City of London?)
 they are&hellip; still pests,
 but for other reasons.  
 
-Late stage capitalism.  Not my favorite.  But European style social democracy and
-regulated capitalism will be an uphill battle for the rest of my life, here in the US.
-The bright side is that that "the rest of my life" may not be especially long, of course.  
+Late stage capitalism.  Not my favorite.  
+
+But European style social democracy and regulated capitalism will be an uphill battle for
+the rest of my life, here in the US.  The bright side is that that "the rest of my life"
+may not be especially long, of course.  
 
 ---
 
