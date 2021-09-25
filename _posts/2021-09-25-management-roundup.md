@@ -31,7 +31,7 @@ Late stage capitalism.  Not my favorite.
 
 But European style social democracy and regulated capitalism will be an uphill battle for
 the rest of my life, here in the US.  The bright side is that that "the rest of my life"
-may not be especially long, of course.  
+may not be especially long, so maybe everybody _else_ won't have to wait so long?  
 
 ---
 
