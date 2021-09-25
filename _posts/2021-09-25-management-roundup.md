@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Work Nightmares: A Fairness Fantasy
+title: Work Nightmares&colon; A Fairness Fantasy
 tags: CorporateLifeAndItsDiscontents &Gammad;&Tau;&Phi;
 comments: true
 ---
@@ -20,10 +20,11 @@ Corporate certainly life had its discontents.  Many of them.  I still remember t
 they tried to impose "proper business attire" on scientists&hellip; as remarkable an
 instance of wooden-headedness as I can imagine.  And I'm an imaginative guy.  
 
-So this video from Radiohead <sup id="fn1a">[[1]](#fn1)</sup> captured a perfect revenge
-fantasy: 3 working class guys practicing humane catch &amp; release.  The capture suits
-who have escaped out into the real world where they are pests, and then release them into
-an urban office district (looks like City of London?) where they are&hellip; still pests,
+So this video from Radiohead, "If You Say the Word" <sup id="fn1a">[[1]](#fn1)</sup>,
+captured a perfect revenge fantasy: 3 working class guys practicing humane catch &amp;
+release.  The capture suits who have escaped out into the real world where they are pests,
+and then release them into an urban office district (looks like City of London?) where
+they are&hellip; still pests,
 but for other reasons.  
 
 Late stage capitalism.  Not my favorite.  But European style social democracy and
