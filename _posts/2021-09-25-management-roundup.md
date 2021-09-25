@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Naming of Vaccines
+title: Work Nightmares: A Fairness Fantasy
 tags: CorporateLifeAndItsDiscontents &Gammad;&Tau;&Phi;
 comments: true
 ---
@@ -15,6 +15,10 @@ When I retired, I only semi-humorously asked somebody at
 [Bogleheads](https://www.bogleheads.org/) how long it would take for the work-related
 nightmares to go away.  Empirically, it's been a year and a quarter, and they haven't
 stopped yet.  Slowed down to once or twice a week, maybe.  
+
+Corporate certainly life had its discontents.  Many of them.  I still remember the time
+they tried to impose "proper business attire" on scientists&hellip; as remarkable an
+instance of wooden-headedness as I can imagine.  And I'm an imaginative guy.  
 
 So this video from Radiohead <sup id="fn1a">[[1]](#fn1)</sup> captured a perfect revenge
 fantasy: 3 working class guys practicing humane catch &amp; release.  The capture suits
