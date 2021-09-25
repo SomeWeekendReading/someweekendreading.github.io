@@ -441,7 +441,7 @@ with this recommendation.  People who got Moderna or J&amp;J have yet to get a d
 <img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 Hunh.  Lookitthat.  They went and did The Sensible Thing?!  
 
-Apparently I am a cynical old grouch.  Like you didn't know that already.  
+Apparently I am a cynical old grouch.  (Like you didn't know that already.)  
 
 I look forward to my booster dose soon, since 6 months after my second dose will be
 exactly 1 week from today!  
@@ -525,7 +525,7 @@ give the Pfizer/BioNTech 3rd shot booster to:
 You can see the unanimity degrades as the booster group expands.  
 
 
-## Addendum 2021-Sep-24: Another Twist 'n' Turn  
+## Addendum 2021-Sep-24: Another Twist, Another Turn  
 
 <img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-cdc-ruling.jpg" width="400" height="217" alt="CDC Guidance: Boosters all around, more or less?!" title = "CDC Guidance: Boosters all around, more or less?!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Today the CDC issued its official guidance. <sup id="fn15a">[[15]](#fn15)</sup>
@@ -540,7 +540,7 @@ I don't quite know how to feel about this:
 - On the one hand, I think the risk of boosters is very low and the benefit is medium if you
   look across the whole population, so that's probably overall favorable.  
 - On the other hand, I don't like the agencies overruling their outside expert advisory
-  committees and I'd like to see us putting more effort getting first doses into the
+  committees, and I'd like to see us putting more effort getting first doses into the
   vaccine resistant.  
 
 So I guess I feel&hellip; a bit of both ways, maybe?  
@@ -555,7 +555,7 @@ and it's pretty broad.  Even being overweight but not obese, i.e.,
 $25 \le \mathrm{BMI} \le 30 \mathrm{kg}/\mathrm{m}^2$, will do.  (Personal point
 of reference: my BMI after 1.5 years of staying at home in a pandemic is 28.9.  If you've
 gained a few pounds in the last year and a half, you can put those pounds to ironic use
-and get a booster.  You can lose weight after.)  
+and get a booster.  Make those pounds pay rent; you can lose weight afterwards.)  
 
 Strange times we live in.  Strange times.  <sup id="fn16a">[[16]](#fn16)</sup>
 
