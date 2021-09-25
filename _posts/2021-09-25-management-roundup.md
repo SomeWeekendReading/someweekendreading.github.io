@@ -6,7 +6,7 @@ comments: true
 ---
 
 Yes, discontent with the corporate system and rule by managers is a thing.  As are
-nightmares, and the corresponding fantasies of justice.  
+the associated nightmares, and the corresponding fantasies of justice.  
 
 
 ## Still having work nightmares  
@@ -14,11 +14,11 @@ nightmares, and the corresponding fantasies of justice.
 <iframe width="400" height="224" src="https://www.youtube.com/embed/vnhKaCjCIqM" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 When I retired, I only semi-humorously asked somebody at
 [Bogleheads](https://www.bogleheads.org/) how long it would take for the work-related
-nightmares to go away.  Answers ranged from months to years&hellip; to "not so far".
-Empirically, it's been a year and a quarter for me, and they haven't stopped yet.  Slowed
+nightmares to go away.  Answers ranged from months to years&hellip; to "never so far".
+Empirically, it's been a year and a quarter for me, and they haven't stopped; slowed
 down to once or twice a week, maybe.  
 
-[Corporate certainly life had its discontents]({{ site.baseurl }}/tags/#CorporateLifeAndItsDiscontents).  And many of them!  I still remember the time they tried to impose "proper business attire" on scientists&hellip; as remarkable an instance of [wooden-headedness](https://www.dailykos.com/stories/2004/5/15/29251/-) (in the sense of historian Barbara Tuchman's views) as I can imagine.  And I'm an imaginative guy.  
+[Corporate certainly life had its discontents]({{ site.baseurl }}/tags/#CorporateLifeAndItsDiscontents).  And they were many!  I still remember the time they tried to impose "proper business attire" on scientists&hellip; as remarkable an instance of [wooden-headedness](https://www.dailykos.com/stories/2004/5/15/29251/-) (in the sense of historian [Barbara Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)'s views) as I can imagine.  And I'm an imaginative guy.  
 
 So this video from Radiohead, "If You Say the Word" <sup id="fn1a">[[1]](#fn1)</sup>,
 captured a perfect revenge fantasy: 3 working class guys practicing humane catch &amp;
