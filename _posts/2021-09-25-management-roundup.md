@@ -18,9 +18,9 @@ nightmares to go away.  Answers ranged from months to years&hellip; to "never so
 Empirically, it's been a year and a quarter for me, and they haven't stopped; slowed
 down to once or twice a week, maybe.  
 
-[Corporate certainly life had its discontents]({{ site.baseurl }}/tags/#CorporateLifeAndItsDiscontents).  And they were many!  I still remember the time they tried to impose "proper business attire" on scientists&hellip; as remarkable an instance of [wooden-headedness](https://www.dailykos.com/stories/2004/5/15/29251/-) (in the sense of historian [Barbara Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)'s views) as I can imagine.  And I'm an imaginative guy.  
+[Corporate life certainly had its discontents]({{ site.baseurl }}/tags/#CorporateLifeAndItsDiscontents). <sup id="fn1a">[[1]](#fn1)</sup>  And they were many!  I still remember the time they tried to impose "proper business attire" on scientists&hellip; as remarkable an instance of [wooden-headedness](https://www.dailykos.com/stories/2004/5/15/29251/-) (in the sense of historian [Barbara Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)'s views) as I can imagine.  And I'm an imaginative guy.  
 
-So this video from Radiohead, "If You Say the Word" <sup id="fn1a">[[1]](#fn1)</sup>,
+So this video from Radiohead, "If You Say the Word" <sup id="fn2a">[[2]](#fn2)</sup>,
 captured a perfect revenge fantasy: 3 working class guys practicing humane catch &amp;
 release.  The capture suits who have escaped out into the real world where they are pests,
 and then release them into an urban office district (looks like City of London?) where
@@ -47,4 +47,7 @@ may not be especially long, so maybe everybody _else_ won't have to wait so long
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Radiohead, ["Radiohead - If You Say The Word"](https://www.youtube.com/watch?v=vnhKaCjCIqM), _YouTube Radiohead Channel_, 2021-Sep-23. [↩](#fn1a)  
+<a id="fn1">1</a>: Kudos to the Weekend Editrix for finding a typo here, living up to her
+status as an editor. [↩](#fn1a)  
+
+<a id="fn2">2</a>: Radiohead, ["Radiohead - If You Say The Word"](https://www.youtube.com/watch?v=vnhKaCjCIqM), _YouTube Radiohead Channel_, 2021-Sep-23. [↩](#fn2a)  
