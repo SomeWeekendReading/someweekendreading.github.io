@@ -53,4 +53,4 @@ may not be especially long, so maybe everybody _else_ won't have to wait too lon
 <a id="fn1">1</a>: Kudos to the Weekend Editrix for finding a typo here, living up to her
 status as an editor. [↩](#fn1a)  
 
-<a id="fn2">2</a>: Radiohead, ["Radiohead - If You Say The Word"](https://www.youtube.com/watch?v=vnhKaCjCIqM), _YouTube Radiohead Channel_, 2021-Sep-23.  A Canadian/British friend in London says he couldn't _quite_ identify the neighborhood, but it looks like the City neighborhood of London. [↩](#fn2a)  
+<a id="fn2">2</a>: Radiohead, ["Radiohead - If You Say The Word"](https://www.youtube.com/watch?v=vnhKaCjCIqM), _YouTube Radiohead Channel_, 2021-Sep-23.  A Canadian/British friend living in London says he couldn't _quite_ identify the neighborhood, but it looks like the City neighborhood of London. [↩](#fn2a)  
