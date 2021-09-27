@@ -26,13 +26,14 @@ We bred an entirely new strain of SARS-CoV-2, which is just _viciously_ virulent
 outcompeting all other strains, and infecting the unvaccinated like mad.  The fact that
 here at Chez Weekend, as vaccinated persons, we have to put up with increased exposure
 risk due to unvaccinated knotheads just galls me.  Even more, it galls me that people are
-dying from a preventable disease, because they are victims of right-wing disinformation.  
+dying from a preventable disease, because they are victims of right-wing disinformation,
+self-inflicted as it may be.  
 
 I was a bit mixed in my reactions to
 [the last couple week's decisions from the FDA &amp; CDC]({{ site.baseurl }}/fda-covid-boosters/)
 simultaneously promoting and limiting boosters:
 - On the one hand, it seems blunt-trauma-obvious that we're all better off getting the
-  unvaccinated to be vaccinated, whether in the US or around the world.  
+  unvaccinated to be vaccinated in the first place, whether in the US or around the world.  
 - On the other hand, I'd feel a lot safer with a personal booster even though I know a
   thing or two about [the Simpson's Paradox effect]({{ site.baseurl }}/covid-simpson/)
   that is making it look like vaccine efficacy is fading more than it really is.  
@@ -118,7 +119,7 @@ fact, the underlying variable causing both is of course Republicanism.)
 
 __Mind: boggled.__  
 
-<img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-1.jpg" width="400" height="586" alt="NYT: Red COVID" title = "NYT: Red COVID" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-1.jpg" width="400" height="586" alt="NYT: Red COVID" title = "NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-2.jpg" width="400" height="436" alt="NYT: Unvaccinated population fraction rises with Trump margin" title = "NYT: Unvaccinated population fraction rises with Trump margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 David Leonhardt, writing in today's Morning Newsletter in the 
