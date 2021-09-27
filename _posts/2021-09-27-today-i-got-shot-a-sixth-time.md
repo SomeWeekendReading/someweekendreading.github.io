@@ -88,7 +88,7 @@ get vaccinated, knowing they'll dig in &amp; refuse, so that they'll die of COVI
 > Brainwashing itsn't typically a topic that's covered when dissecting mainstream American
 > politics. Sadly, it needs to be. And fast.  
 
-Mind: boggled.  
+__Mind: boggled.__  
 
 This isn't just opinion; it's _data_ and _evidence_.  As we've written before 
 (e.g., [here]({{ site.baseurl }}/covid-loves-republicans/), 
@@ -100,7 +100,7 @@ both high statistical significance and effect size.
 Now there's evidence that the Republican right has not only stayed extreme in the face of
 self-inflicted death, but doubled down.  
 
-Consider California.  The Republicans started a recall campaign against the Democratic
+Consider California: the Republicans started a recall campaign against the Democratic
 governor, essentially to keep re-adjuticating his election.  Compare the results with
 COVID cases: if correlation were causation, you'd think COVID-19 caused recall votes.  (In
 fact, the underlying variable causing both is of course Republicanism.)  
@@ -116,7 +116,7 @@ fact, the underlying variable causing both is of course Republicanism.)
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-Mind: boggled.  
+__Mind: boggled.__  
 
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-1.jpg" width="400" height="586" alt="NYT: Red COVID" title = "NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-2.jpg" width="400" height="436" alt="NYT: Unvaccinated population fraction rises with Trump margin" title = "NYT: Unvaccinated population fraction rises with Trump margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -127,7 +127,7 @@ more extreme at the national level.  He repeats
 and shows in the plot here that it's not only still there, the relationship of outright
 defiance of vaccination is even more associated with Trumpiness.  Charles Gaba did this at the county level, [as we previously cited]({{ site.baseurl }}/vaccinations-vs-votes/), and found the fine-grain data was just as extreme.  
 
-Mind: boggled.  
+__Mind: boggled.__  
 
 
 ## Today I Got Boosted  
@@ -192,10 +192,10 @@ people die needlessly.
 ## 2021: A Bannner Year For Vaccines Chez Weekend  
 
 Look, it's been a _lot_ of vaccinations for us this year, here at Chez Weekend.  3
-COVID-19 vaccinations, 2 shingles vaccinations, and 1 flu vaccination for a total of 6
-vaccinations _in a single year._  The Weekend Editrix is pretty similar.  
+COVID-19 vaccinations + 2 shingles vaccinations + 1 flu vaccination = 6 vaccinations 
+_in a single year._  The Weekend Editrix is pretty similar, at 5 so far this year.  
 
-I haven't had that many vaccinations in a single year since I was a kid!  
+We haven't had that many vaccinations in a single year since we were a kids!  
 
 And I'm thankful for each one.  Each time, I smiled at the tech giving me the shot and
 said so, occasionally to their surprise.  
