@@ -118,8 +118,9 @@ fact, the underlying variable causing both is of course Republicanism.)
 
 __Mind: boggled.__  
 
-<img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-1.jpg" width="400" height="586" alt="NYT: Red COVID" title = "NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-1.jpg" width="400" height="586" alt="NYT: Red COVID" title = "NYT: Red COVID" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-nyt-2.jpg" width="400" height="436" alt="NYT: Unvaccinated population fraction rises with Trump margin" title = "NYT: Unvaccinated population fraction rises with Trump margin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
 David Leonhardt, writing in today's Morning Newsletter in the 
 _New York Times_ <sup id="fn2a">[[2]](#fn2)</sup>, tells us the pattern is growing even
 more extreme at the national level.  He repeats 
