@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today I got shot (again)
+title: Today I got shot (for the 6th time!)
 tags: COVID PharmaAndBiotech
 comments: true
 ---
