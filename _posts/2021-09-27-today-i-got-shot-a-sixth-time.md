@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today I got shot (for the 6th time!)
-tags: COVID PharmaAndBiotech
+tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
 
@@ -167,9 +167,9 @@ unvaccinated.  That applies domestically, and to the entire world.
 Her well-put caution is worth taking seriously:  
 
 > I know people are really impatient to get answers, but it's difficult to do that in the
-> absence of data. Sometimes we want to say, "Well, common sense says," but the entire
+> absence of data. Sometimes we want to say, "Well, common sense says," but __the entire
 > history of medicine is littered with what we think is common sense, and then we study
-> it, and we realize actually it's wrong.  
+> it, and we realize actually it's wrong.__  
 
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-tentacle.jpg" width="400" height="341" alt="Your humble Weekend Editor's portside dorsal manipulator tentacle taking on a Pfizer booster" title = "Your humble Weekend Editor's portside dorsal manipulator tentacle taking on a Pfizer booster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But I'm in the booster-approved group of people over 65. So here's the now-regrettably-canonical picture of my portside dorsal manipulator tentacle getting a dose of Comirnaty a.k.a. tozinameran (otherwise better known as the Pfizer COVID-19 vaccine).  No, I [do not love the names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2).  But I do love the idea of _not getting COVID-19._  Or really, the idea of _nobody_ getting COVID-19!
