@@ -10,7 +10,7 @@ Today I got shot.  Again.  For the _sixth_ time this year!
 
 ## What?  Again?!  
 
-We've done this a couple of times now, right?  I struggled through getting [the first COVID-19 shot when they were hard to get]({{ site.baseurl }}/today-i-got-shot/), and then [the second shot which was hard to schedule but easy otherwise](({{ site.baseurl }}/today-i-got-shot-again/)).  
+We've done this a couple of times now, right?  I struggled through getting [the first COVID-19 shot when they were hard to get]({{ site.baseurl }}/today-i-got-shot/), and then [the second shot which was hard to schedule but easy otherwise]({{ site.baseurl }}/today-i-got-shot-again/).  
 
 I had hoped that would be enough.  If we had _all_ vaccinated (and by "all" I mean 
 _all of humanity_), and done it _fast_, then it would have been enough.  But&hellip; no.
@@ -71,8 +71,8 @@ reciprocated.)
 Apparently Boehlert reads _Breitbart_ (to which I refuse even to link), so the rest of us
 don't have to.  This is, in some measure, a public service, much like we all depend on the
 vital work of those devoted souls who labor in sewers (no, really: I mean that &ndash;
-they do difficult work from which we all benefit).  The latest right-wing nonsensical
-conspiracy theory is that we're trying to murder them by encouraging them to
+they do difficult work from which we all benefit).  The latest right-wing sewage gushing forth
+is that we're trying to murder them by encouraging them to
 get vaccinated, knowing they'll dig in &amp; refuse, so that they'll die of COVID-19:  
 
 > Idiocy, of course, now defines the brainwash movement on the right. At Breitbart, John
@@ -133,8 +133,8 @@ __Mind: boggled.__
 ## Today I Got Boosted  
 
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-newyorker.jpg" width="400" height="241" alt="Gounder: Boosters won't solve the whole problem" title = "Gounder: Boosters won't solve the whole problem" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-But&hellip; but&hellip; as all the existentialists say, no matter what the world should
-be, here we are with the world as it is.  What's the correct course of action, given the
+But&hellip; but&hellip; as all the existentialists say, no matter what the world _should_
+be, here we are with the world as it _is._  What's the correct course of action, given the
 prior that the world is as we can best observe it to be at this moment?  
 
 So today I got a booster.  Refusing a booster would be modeling incorrect behavior for the
@@ -170,7 +170,9 @@ Her well-put caution is worth taking seriously:
 > it, and we realize actually it's wrong.  
 
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-tentacle.jpg" width="400" height="341" alt="Your humble Weekend Editor's portside dorsal manipulator tentacle taking on a Pfizer booster" title = "Your humble Weekend Editor's portside dorsal manipulator tentacle taking on a Pfizer booster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-But I'm on the booster-approved group of people over 65. So here's the now-regrettably-canonical picture of my portside dorsal manipulator tentacle getting a dose of Comirnaty/tozinameran (otherwise better known as the Pfizer COVID-19 vaccine).  No, I [do not love the names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2).  But I do love the idea of not getting COVID-19.  Or really, of _nobody_ getting COVID-19.  
+But I'm in the booster-approved group of people over 65. So here's the now-regrettably-canonical picture of my portside dorsal manipulator tentacle getting a dose of Comirnaty a.k.a. tozinameran (otherwise better known as the Pfizer COVID-19 vaccine).  No, I [do not love the names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2).  But I do love the idea of _not getting COVID-19._  Or really, the idea of _nobody_ getting COVID-19!
+  
+Alas, we are too late for about 688,000 Americans and about 4.55 million worldwide:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -181,9 +183,10 @@ But I'm on the booster-approved group of people over 65. So here's the now-regre
   </p>&mdash; Andy Kim (@AndyKimNJ) <a href="https://twitter.com/AndyKimNJ/status/1440374802460536843?ref_src=twsrc%5Etfw">September 21, 2021</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
-So if &mdash; for some exceptionally obscure reason &mdash; you wish to do me a favor, go
-out and get vaccinated.  You can make an old man happy by telling me about in the comments
-below (or not, as you please).  But really: get vaccinated.  Try not to die.  
+
+So if &mdash; for some exceptionally obscure reason &mdash; you wish to do me a favor,
+then go out and get vaccinated.  You can make an old man happy by telling me about in the
+comments below (or not, as you please).  But really: get vaccinated.  Try not to die.  
 
 Too many people have taken the other path already.  I just can't take it any more, watching
 people die needlessly.  
