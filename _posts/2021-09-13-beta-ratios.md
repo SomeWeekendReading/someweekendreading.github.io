@@ -423,7 +423,7 @@ knowledge there's no kink at $R = 1$.
 
 We'll assemble the goods from 6 identities for the piecewise definition of our
 distribution, how to differentiate it, a formula for the value at unity of ${}\_2F_{1}(\cdots; 1)$, 
-and some lore of $B()$ and $\Gamma$ functions:  
+and some lore of $B()$ and $\Gamma$ functions, all assemblere here in one spot for quick reference:  
 
 $$
 \begin{align*}
@@ -438,11 +438,29 @@ $$
 
 #### Case $0 \le R \le 1$:  
 
+$$
+\frac{d}{dR} \Pr(R | 0 \le R \le 1)
+\begin{align*}
+&= \frac{B(\alpha_1 + \alpha_2, \beta_2}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{d}{dR} \left[R^{\alpha_1 - 1} \cdot {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R)\right] \\
+&= \frac{B()}{ B() B()} 
+\left[ (\alpha_1 - 1) R^{\alpha_1 - 2} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R)
+ + R^{\alpha_1 - 1} \frac{(\alpha_1 + \alpha_2)(1 - \beta_1)}{\alpha_1 + \alpha_2 + \beta_2} 
+   {}_2F_1(\alpha_1 + \alpha_2 + 1, 2-\beta_1; \alpha_1 + \alpha_2 + \beta_2 + 1; R)\right] \\
+&\xrightarrow[R \to 1^{-}]{} \cdots
+\end{align*}
+$$
 to be typeset
 
 #### Case $1 \le R$:  
 
 to be typeset
+
+Those two derivative expressions being identical, we have established equality of the
+derivatives at $R = 1$, so our distribution is first-order smooth.  
+
+The higher derivatives will have to wait until I can invent a trick for doing it in finite
+time.  Or until I forget the problem.  Whichever comes first.  
+
 
 ## Ok, what about the cumulative distribution function (CDF)?  
 
