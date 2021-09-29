@@ -399,8 +399,10 @@ particular reason to expect a kink in the PDF here, so it would be nice to know 
 piecewise representation of the PDF has not introduced a kink.  
 
 This requires differentiating ${}\_{2}F\_{1}(a, b; c; z)$ with respect to $z$.
-[According to Wikipedia's hypergeometric function entry](https://en.wikipedia.org/wiki/Hypergeometric_function#Differentiation_formulas),
-this is pretty straight forward with some nice-looking derivative relations:  
+One can stare at [Wikipedia's hypergeometric function differentiation formulas](https://en.wikipedia.org/wiki/Hypergeometric_function#Differentiation_formulas),
+or just differentiate the power series above to get the same answer: the derivative of a
+hypergeometric function is a constant times another hypergeometric function, with +1 added
+to the parameters:
 
 $$
 \begin{alignat*}{4}
@@ -415,20 +417,32 @@ $$
 [rising Pochammer symbols](https://en.wikipedia.org/wiki/Falling_and_rising_factorials),
 just as above in the series definition of ${}\_{2}F\_{1}(a, b; c; z)$.  
 
-We have not performed this analysis yet.  
+While it's tempting to do the general case of the $n^\mathrm{th}$ derivative to show it's
+$C^\infty$ smooth, we'll content ourselves here with just the first derivative and the
+knowledge there's no kink at $R = 1$.  
 
-<!-- ***
-- Use that to establish left and right derivatives match.
-- Maybe even try for 2nd derivative match.
-- Maybe all derivatives?
-- Maybe look at reflection mapping with respect to unit circle, to reduce one case to the
-  other and hence moot any points about continuity or smoothness?
+We'll assemble the goods from 6 identities for the piecewise definition of our
+distribution, how to differentiate it, a formula for the value at unity of ${}\_2F_{1}(\cdots; 1)$, 
+and some lore of $B()$ and $\Gamma$ functions:  
+
+$$
+\begin{align*}
+  \Pr(R | 0 \le R \le 1) &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \cdot R^{\alpha_1 - 1} \cdot {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
+  \Pr(R | 1 \lt R) &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \cdot \frac{1}{R^{\alpha_2 + 1}} \cdot {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \\
+  \frac{d}{dz} {}_{2}F_{1}(a,b;c;z) &= \frac{ab}{c} \times{}_{2}F_{1}(a+1, b+1; c+1; z) \\
+  {}_2F_1(a, b; c; 1) &= \frac{\Gamma(c) \Gamma(c-a-b)}{\Gamma(c-a) \Gamma(c-b)} \\
+  B(\alpha, \beta) &= \frac{\Gamma(\alpha) \Gamma(\beta)}{\Gamma(\alpha + \beta)} \\
+  \Gamma(n + 1) &= n \Gamma(n)
+\end{align*}
+$$
 
 #### Case $0 \le R \le 1$:  
 
-#### Case $1 \le R$:  
--->
+to be typeset
 
+#### Case $1 \le R$:  
+
+to be typeset
 
 ## Ok, what about the cumulative distribution function (CDF)?  
 
