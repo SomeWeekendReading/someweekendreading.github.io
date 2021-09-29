@@ -172,7 +172,7 @@ Her well-put caution is worth taking seriously:
 > it, and we realize actually it's wrong.__  
 
 <img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-tentacle.jpg" width="400" height="341" alt="Your humble Weekend Editor's portside dorsal manipulator tentacle taking on a Pfizer booster" title = "Your humble Weekend Editor's portside dorsal manipulator tentacle taking on a Pfizer booster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-But I'm in the booster-approved group of people over 65. So here's the now-regrettably-canonical picture of my portside dorsal manipulator tentacle getting a dose of Comirnaty a.k.a. tozinameran (otherwise better known as the Pfizer COVID-19 vaccine).  No, I [do not love the names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2).  But I do love the idea of _not getting COVID-19._  Or really, the idea of _nobody_ getting COVID-19!
+But I'm in the booster-approved group of people over 65. So here's the now-regrettably-canonical picture of my portside dorsal manipulator tentacle getting a dose of Comirnaty a.k.a. tozinameran (otherwise better known as the Pfizer COVID-19 vaccine).  No, I [do not love the names]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/#fn2).  But I do love the idea of _not getting COVID-19._  Or really, the idea of _nobody_ getting COVID-19!  (And hey, this time the tech adminstering the shot wore gloves.  I feel more respected already.)  
   
 Alas, we are too late for about 688,000 Americans and about 4.55 million worldwide:  
 
@@ -221,13 +221,21 @@ arguing about refunds.  Grrr.)
 
 Tune in tomorrow for a field report on booster side effects.  
 
-<!-- 
 
-## Addendum 2021-Sep-28: Booster Side FX  
+## Addendum 2021-Sep-29: Booster Side FX  
 
-***
+By the end of the day of vaccination, I was feeling pretty tired, with a little bit of
+sore muscles and achy joints.  A hot bath took are of that, and I went to be early.  
 
--->
+The next day, I pretty much slept the whole day.  That's my normal way of dealing with
+mild illness, or what feels like that.  
+
+Today&hellip; I'm still a bit weak and tired.  But now I'm going to take some ibuprofen
+and put the vaccine behind me.  Over the next 2 weeks, I'll be as immune as human science
+can make me.  
+
+Then&hellip; gotta talk the Weekend Editrix into it.  We'll see how _that_ goes.  
+
 
 ---
 
