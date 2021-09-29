@@ -444,7 +444,7 @@ $$
 &= \frac{B(\alpha_1 + \alpha_2, \beta_2}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{d}{dR} \left[R^{\alpha_1 - 1} \cdot {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R)\right] \\
 &= \frac{B()}{ B() B()} \left[ (\alpha_1 - 1) R^{\alpha_1 - 2} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) + R^{\alpha_1 - 1} \frac{(\alpha_1 + \alpha_2)(1 - \beta_1)}{\alpha_1 + \alpha_2 + \beta_2} {}_2F_1(\alpha_1 + \alpha_2 + 1, 2-\beta_1; \alpha_1 + \alpha_2 + \beta_2 + 1; R)\right] \\
 &\xrightarrow[R \to 1^{-}]{} \frac{B()}{ B() B()} \left[\cdots \\
-&\quad\quad\quad + \cdots\right]
+&\quad\quad\quad + \cdots\right] \\
 \end{align*}
 $$
 
