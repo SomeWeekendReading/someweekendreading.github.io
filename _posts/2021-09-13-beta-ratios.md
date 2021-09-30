@@ -464,8 +464,8 @@ $$
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \frac{d}{dR} \left[\frac{1}{R^{\alpha_2 + 1}}  {}_{2}F_{1}(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right] \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \left[-\frac{\alpha_2 + 1}{R^{\alpha_2 + 2}} {}_2F_1(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right. \\
 &&& \left. + \frac{1}{R^{\alpha_2 + 1}} \frac{(\alpha_1 + \alpha_2)(1-\beta_2)}{\alpha_1 + \alpha_2 + \beta_1} {}_{2}F_{1}(\alpha_1 + \alpha_2 + 1, 2 - \beta_2; \alpha_1 + \alpha_2 + \beta_1 + 1; 1/R) \left(-\frac{1}{R^2}\right)\right] \\
-&= \cdots && \left[ \cdots \right. \\
-&&& \left. \cdots \right]
+&\xrightarrow[R \to 1^{+}]{} \cdots && \left[ \cdots \right. \\
+&&& \left. + \cdots \right]
 \end{align*}
 $$
 
