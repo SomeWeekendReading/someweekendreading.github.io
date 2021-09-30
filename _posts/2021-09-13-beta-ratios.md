@@ -461,7 +461,7 @@ $$
 $$
 \begin{align*}
 &\frac{d}{dR} \Pr(R | 1 \lt R)&& \\
-
+& \cdots &&
 \end{align*}
 $$
 
