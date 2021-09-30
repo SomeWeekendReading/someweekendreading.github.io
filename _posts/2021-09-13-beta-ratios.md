@@ -448,7 +448,7 @@ $$
 &&& \left. + \frac{(\alpha_1 + \alpha_2)(1 - \beta_1)}{\alpha_1 + \alpha_2 + \beta_2} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2 + 1)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \right] \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
 &&&\times \left[(\alpha_1 - 1)(\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2)(1 - \beta_1)\right] \\
-&= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{\Gamma(\alpha_1 + \alpha_2)\Gamma(\beta_2)}{\Gamma(\alpha_1 + \alpha_2 + \beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
+&= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{\Gamma(\alpha_1 + \alpha_2)\Gamma(\beta_2)}{\Gamma(\alpha_1 + \alpha_2 + \beta_2)} \times \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
 &&&\times \left[(\alpha_1 - 1)(\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2)(1 - \beta_1)\right] \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{(\alpha_1 - 1) (\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2) (1 - \beta_1)}{\beta_1 + \beta_2 - 2} \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{\alpha_1\beta_2 - \alpha_2\beta_1 + \alpha_2 - \alpha_1 - \beta_1 -\beta_2 + 2}{\beta_1 + \beta_2 - 2} \\
@@ -467,7 +467,9 @@ $$
 &\xrightarrow[R \to 1^{+}]{} \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\left[ -(\alpha_2 + 1) \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_1) \Gamma(\beta_1 + \beta_2 - 1)}{\Gamma(\beta_1) \Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \right. \\
 &&& \left. - \frac{(\alpha_1 + \alpha_2)(1-\beta_2)}{\alpha_1 + \alpha_2 + \beta_1} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_1 + 1)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_1)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)}\right] \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)}\times&& \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_1)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_1)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
-&&& \times \left[-(\alpha_2 + 1)(\beta_1 + \beta_2 - 2) - (\alpha_1 + \alpha_2)(1 - \beta_2)\right]
+&&& \times \left[-(\alpha_2 + 1)(\beta_1 + \beta_2 - 2) - (\alpha_1 + \alpha_2)(1 - \beta_2)\right] \\
+&= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times && \cdots \times \cdots \\
+&&& \left[-(\alpha_2 + 1)(\beta_1 + \beta_2 - 2) - (\alpha_1 + \alpha_2)(1 - \beta_2)\right]
 \end{align*}
 $$
 
