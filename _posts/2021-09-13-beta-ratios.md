@@ -480,9 +480,6 @@ $$
 Those two derivative expressions being identical, we have established equality of the
 derivatives at $R = 1$, so our distribution is first-order smooth.  
 
-The higher derivatives will have to wait until I can invent a trick for doing them all in finite
-time.  Or until I forget the problem.  Whichever comes first.  
-
 
 ## Ok, what about the cumulative distribution function (CDF)?  
 
@@ -572,12 +569,9 @@ $R = 1$, i.e., that the expression for $0 \le R \le 1$ and the one for $R \gt 1$
 at $R = 1$.  
 
 However, there are several things we _haven't_ done:  
-- While we have _continuity_ at $R = 1$, we haven't proven _smoothness_.  We don't
-  strictly need that, but as there's no particular reason for a kink at $R = 1$, it would
-  be nice to show the derivative from the left equals the derivative from the right.
-  We suspect it's more than first derivative smooth at $R = 1$, and there may be a way to
-  parlay the derivative relation on ${}\_{2}F\_{1}()$ into a derivative recurrence
-  relation on $\Pr(R)$ to show that to all orders, if we're ambitious.  
+- While we've shown continuity and first-order smoothness (non-kink) at $R = 1$, we
+  suspect a much stronger condition of $C^{\infty}$ smoothness holds.  To prove that, we'd
+  have to match all derivatives, but we've only done orders 0 and 1 here.
 - We haven't confirmed all the details of how to get the CDF; there's probably some bit of
   hypergeometric lore that will tell us the integral identities above from which the CDFs
   follow straightforwardly (or as straightforwardly as things go here).  
