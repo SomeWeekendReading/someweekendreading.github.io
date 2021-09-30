@@ -441,18 +441,18 @@ $$
 $$
 \begin{align*}
 &\frac{d}{dR} \Pr(R | 0 \le R \le 1)&& \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} &&\times\frac{d}{dR} \left[R^{\alpha_1 - 1} \cdot {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R)\right] \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} &&\times\left[ (\alpha_1 - 1) R^{\alpha_1 - 2} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \right. \\
+&= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times&&\frac{d}{dR} \left[R^{\alpha_1 - 1} \cdot {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R)\right] \\
+&= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times&&\left[ (\alpha_1 - 1) R^{\alpha_1 - 2} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \right. \\
 &&& \left. + R^{\alpha_1 - 1} \frac{(\alpha_1 + \alpha_2)(1 - \beta_1)}{\alpha_1 + \alpha_2 + \beta_2} {}_2F_1(\alpha_1 + \alpha_2 + 1, 2-\beta_1; \alpha_1 + \alpha_2 + \beta_2 + 1; R)\right] \\
-&\xrightarrow[R \to 1^{-}]{} \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1)B(\alpha_2, \beta_2)} && \times\left[(\alpha_1 - 1) \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2) \Gamma(\beta_1 + \beta_2 -1)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \right. \\
+&\xrightarrow[R \to 1^{-}]{} \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1)B(\alpha_2, \beta_2)} \times &&\left[(\alpha_1 - 1) \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2) \Gamma(\beta_1 + \beta_2 -1)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \right. \\
 &&& \left. + \frac{(\alpha_1 + \alpha_2)(1 - \beta_1)}{\alpha_1 + \alpha_2 + \beta_2} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2 + 1)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \right] \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \times\frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
-&&& \times \left[(\alpha_1 - 1)(\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2)(1 - \beta_1)\right] \\
-&= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \times\frac{\Gamma(\alpha_1 + \alpha_2)\Gamma(\beta_2)}{\Gamma(\alpha_1 + \alpha_2 + \beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
-&&& \times \left[(\alpha_1 - 1)(\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2)(1 - \beta_1)\right] \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \times\frac{(\alpha_1 - 1) (\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2) (1 - \beta_1)}{\beta_1 + \beta_2 - 2} \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \times\frac{\alpha_1\beta_2 - \alpha_2\beta_1 + \alpha_2 - \alpha_1 - \beta_1 -\beta_2 + 2}{\beta_1 + \beta_2 - 2} \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \times\left[\frac{\alpha_1\beta_2 - \alpha_2\beta_1 + \alpha_2 - \alpha_1}{\beta_1 + \beta_2 - 2} - 1\right]
+&= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
+&\times && \left[(\alpha_1 - 1)(\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2)(1 - \beta_1)\right] \\
+&= \frac{1}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{\Gamma(\alpha_1 + \alpha_2)\Gamma(\beta_2)}{\Gamma(\alpha_1 + \alpha_2 + \beta_2)} \frac{\Gamma(\alpha_1 + \alpha_2 + \beta_2)\Gamma(\beta_1 + \beta_2 - 2)}{\Gamma(\beta_2)\Gamma(\alpha_1 + \alpha_2 + \beta_1 + \beta_2 - 1)} \\
+&\times && \left[(\alpha_1 - 1)(\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2)(1 - \beta_1)\right] \\
+&= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{(\alpha_1 - 1) (\beta_1 + \beta_2 - 2) + (\alpha_1 + \alpha_2) (1 - \beta_1)}{\beta_1 + \beta_2 - 2} \\
+&= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{\alpha_1\beta_2 - \alpha_2\beta_1 + \alpha_2 - \alpha_1 - \beta_1 -\beta_2 + 2}{\beta_1 + \beta_2 - 2} \\
+&= \frac{B(\alpha_1 + \alpha_2, \beta_1 + \beta_2 - 1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\left[\frac{\alpha_1\beta_2 - \alpha_2\beta_1 + \alpha_2 - \alpha_1}{\beta_1 + \beta_2 - 2} - 1\right]
 \end{align*}
 $$
 
@@ -461,10 +461,10 @@ $$
 $$
 \begin{align*}
 &\frac{d}{dR} \Pr(R | 1 \lt R)&& \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \times\frac{d}{dR} \left[\frac{1}{R^{\alpha_2 + 1}}  {}_{2}F_{1}(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right] \\
-&= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \times\left[-\frac{\alpha_2 + 1}{R^{\alpha_2 + 2}} {}_2F_1(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right. \\
+&= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\frac{d}{dR} \left[\frac{1}{R^{\alpha_2 + 1}}  {}_{2}F_{1}(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right] \\
+&= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \times &&\left[-\frac{\alpha_2 + 1}{R^{\alpha_2 + 2}} {}_2F_1(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right. \\
 &&& \left. + \frac{1}{R^{\alpha_2 + 1}} \frac{(\alpha_1 + \alpha_2)(1-\beta_2)}{\alpha_1 + \alpha_2 + \beta_1} {}_{2}F_{1}(\alpha_1 + \alpha_2 + 1, 2 - \beta_2; \alpha_1 + \alpha_2 + \beta_1 + 1; 1/R) \left(-\frac{1}{R^2}\right)\right] \\
-&\xrightarrow[R \to 1^{+}]{} \cdots && \times\left[ \cdots \right. \\
+&\xrightarrow[R \to 1^{+}]{} \cdots \times &&\left[ \cdots \right. \\
 &&& \left. + \cdots \right]
 \end{align*}
 $$
