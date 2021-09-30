@@ -478,7 +478,7 @@ $$
 $$
 
 Those two derivative expressions being identical, we have established equality of the
-derivatives at $R = 1$, so our distribution is first-order smooth.  
+first derivatives at $R = 1$, so our distribution is first-order smooth.  
 
 
 ## Ok, what about the cumulative distribution function (CDF)?  
@@ -533,6 +533,19 @@ Also see, re numeric 3F2():
 https://www.tandfonline.com/doi/abs/10.1080/10652469.2016.1231674?journalCode=gitr20
 -->
 
+<!-- ***
+Also: recursion relation for large parameters a,b,c in terms of lower values?
+-->
+
+<!-- ***
+Quantile function:
+- estimate numerically with Newton's method and the CDF, as Saffer does?
+-->
+
+<!-- ***
+Worked example: vaccine efficacy for a small trial, say 15 treatment + 10 control?
+-->
+
 At some point soon, I'd like to implement this in [R](https://www.r-project.org), perhaps
 mirroring Saffer's Python implementation.  There are some gnarly issues with numerical
 roundoff. Even though the hypergeometric series terminates as a polynomial for integer
@@ -545,11 +558,6 @@ catastrophic fashion.  Some rigorous test cases with known answers are required 
 I'll trust it.  
 
 That's work for another day.  
-
-<!-- ***
-Quantile function:
-- estimate numerically with Newton's method and the CDF, as Saffer does?
--->
 
 
 ## The Weekend Conclusion  
