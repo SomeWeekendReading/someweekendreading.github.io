@@ -463,14 +463,16 @@ $$
 &\frac{d}{dR} \Pr(R | 1 \lt R)&& \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \frac{d}{dR} \left[\frac{1}{R^{\alpha_2 + 1}}  {}_{2}F_{1}(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right] \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \left[-\frac{\alpha_2 + 1}{R^{\alpha_2 + 2}} {}_2F_1(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right. \\
-&&& \left. \frac{1}{R^{\alpha_2 + 1}} \frac{(\alpha_1 + \alpha_2)(1-\beta_2)}{\alpha_1 + \alpha_2 + \beta_1} {}_{2}F_{1}(\alpha_1 + \alpha_2 + 1, 2 - \beta_2; \alpha_1 + \alpha_2 + \beta_1 + 1; 1/R) \left(-\frac{1}{R^2}\right)\right]
+&&& \left. + \frac{1}{R^{\alpha_2 + 1}} \frac{(\alpha_1 + \alpha_2)(1-\beta_2)}{\alpha_1 + \alpha_2 + \beta_1} {}_{2}F_{1}(\alpha_1 + \alpha_2 + 1, 2 - \beta_2; \alpha_1 + \alpha_2 + \beta_1 + 1; 1/R) \left(-\frac{1}{R^2}\right)\right] \\
+&= \cdots && \left[ \cdots \right. \\
+&&& \left. \cdots \right]
 \end{align*}
 $$
 
 Those two derivative expressions being identical, we have established equality of the
 derivatives at $R = 1$, so our distribution is first-order smooth.  
 
-The higher derivatives will have to wait until I can invent a trick for doing it in finite
+The higher derivatives will have to wait until I can invent a trick for doing them all in finite
 time.  Or until I forget the problem.  Whichever comes first.  
 
 
