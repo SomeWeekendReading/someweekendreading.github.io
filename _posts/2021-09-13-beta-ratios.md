@@ -462,7 +462,7 @@ $$
 \begin{align*}
 &\frac{d}{dR} \Pr(R | 1 \lt R)&& \\
 &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} && \frac{d}{dR} 
-\left[\frac{1}{R^{\alpha_2 + 1} {}_{2}F_{1}(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R)}\right] \\
+\left[\frac{1}{R^{\alpha_2 + 1}}  {}_{2}F_{1}(\alpha_1 + \alpha_2, 1-\beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \right] \\
 &= \cdots && \cdots
 \end{align*}
 $$
