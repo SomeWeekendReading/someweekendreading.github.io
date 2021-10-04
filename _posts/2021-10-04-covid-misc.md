@@ -148,8 +148,8 @@ $$
 (We should probably calculate a 95% confidence limit on that!  Right?)  
 
 So&hellip; yeah, it's nothing like the 90%+ efficacy of a vaccine that _prevents you from
-getting sick in the first place_, but it' still good to reduce the risk of hospitalization
-or death by about half for those who do get sick.  
+getting sick in the first place_, but it's still good to reduce the risk of hospitalization
+and death by about half for those who do get sick.  
 
 And, of course, it's not yet approved.  That's a whole 'nother story, and more FDA
 hearings.  
@@ -285,10 +285,10 @@ symbolic of much that is good in humanity.  But it is founded on a vicious premi
 1209, the [Albigensian Crusade](https://en.wikipedia.org/wiki/Albigensian_Crusade)
 against the [apparently harmless Cathars](https://en.wikipedia.org/wiki/Catharism)
 murdered over 20,000.  The commander of the French forces,
-[Simon de Monrtfort, 5th Earl of Leicester](https://en.wikipedia.org/wiki/Simon_de_Montfort,_5th_Earl_of_Leicester),
+[Simon de Montfort, 5th Earl of Leicester, seigneur de Monfort-l'Amaury, Viscount of Albi, B&eacute;ziers and Carcassonne, and Comte de Toulouse](https://en.wikipedia.org/wiki/Simon_de_Montfort,_5th_Earl_of_Leicester),
 is supposed to have been not too picky about who was or was not a Cathar, when he ordered:
 ["Caedite eos! Novit enim Dominus qui sunt eius." (Kill them all! G-d will know his own.)](https://en.wikipedia.org/wiki/Caedite_eos._Novit_enim_Dominus_qui_sunt_eius.)
-Then the B&eacute;ziers Cathedral was later built upon the ruins of a previous Cathar structure.  
+Then the B&eacute;ziers Cathedral was later built upon the ruins of the previous Cathar structure.  
 
 The best religion heals and cares for _everyone_, not just those who agree with us.  The
 anti-vaxxers, the Albigensian crusaders, and the disciples of Huitzilopochtli
