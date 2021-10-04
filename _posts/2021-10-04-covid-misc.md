@@ -10,7 +10,7 @@ Do you want the good news first?
 
 ## The Good News  
 
-Be not afraid: it's _mostly_ good news.  Mostly.  
+Be not afraid: it's mostly good news.  _Mostly._  
 
 ### The FDA calendar  
 
@@ -139,9 +139,9 @@ from that, here at Chez Weekend we have no such inhibitions:
 
 $$
 \begin(align*)
- E & = 100\% \times \left(1 - \frac{p_{\mathrm{treatment}}}{p_{\mathrm{placebo}}}\right) \\
-   & = 100\% \times \left(1 = 0.073 / 0.141) \\
-   & = 48.2\%
+ E &= 100\% \times \left(1 - \frac{p_{\mathrm{treatment}}}{p_{\mathrm{placebo}}}\right) \\
+   &= 100\% \times \left(1 - 0.073 / 0.141) \\
+   &= 48.2\%
 \end(align*)
 $$
 
