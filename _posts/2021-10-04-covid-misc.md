@@ -310,8 +310,9 @@ they're afraid of dying, or so it seems from their actions.  It's a scandal that
 Supreme Court decisions in recent years around dark money in politics allow this to be
 funded more or less in secret.
 
-Here's a thought: if you find you're in a secret combination, taking money and talking
-points from the billionaires who best typify psychology's [dark triad](https://en.wikipedia.org/wiki/Dark_triad), 
+Here's a thought: should it come to pass that you find yourself in a secret combination,
+taking money and talking points from the billionaires who best typify psychology's 
+[dark triad](https://en.wikipedia.org/wiki/Dark_triad), 
 with demonic levels of narcissism, Machiavellianism and psychpathy&hellip; it's time to
 re-think your life choices.  
 
@@ -330,8 +331,8 @@ amazing vaccines and increasingly good therapeutics; we're _trying_ to be equita
 it; and we're looking to the future with pan-coronavirus vaccines to stop the next
 pandemic before it starts.  
 
-I prefer the latter.  You should too: we have the tools of science to be kind, if only we
-have the will to be so.  
+I prefer the latter.  You should too: we have the tools of science to be kind to one
+another, if only we could muster the will to be so.  
 
 ---
 
