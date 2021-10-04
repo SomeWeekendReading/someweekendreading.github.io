@@ -20,7 +20,7 @@ for the other vaccines, mix-n-match booster combinations, and the first kiddo va
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     NEW: The FDA&#39;s independent advisory committee has announced 3 upcoming meetings
-	for vaccine discussions:<br>
+    for vaccine discussions:<br>
     - October 14: Moderna booster<br>
     - October 15: J&amp;J booster<br>
     - October 15: Mix-and-match boosters<br>
@@ -98,8 +98,8 @@ Twitter:
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     &quot;Bridges was among about 150 employees who were fired or resigned rather than
-	comply...About 25,000 other employees at the hospital system
-	complied.&quot;<br><br>
+    comply...About 25,000 other employees at the hospital system
+    complied.&quot;<br><br>
 
     Alternative headline: &quot;99.4% of hospital workers vaccinated following
     mandate&quot;. But sure, a whole article on one of the 0.6% 🙄👆 
@@ -138,11 +138,11 @@ The clinical trial showed 14.1% of the placebo patients were hospitalized or die
 from that, here at Chez Weekend we have no such inhibitions:  
 
 $$
-\begin(align*)
- E &= 100\% \times \left(1 - \frac{p_{\mathrm{treatment}}}{p_{\mathrm{placebo}}}\right) \\
-   &= 100\% \times \left(1 - 0.073 / 0.141) \\
-   &= 48.2\%
-\end(align*)
+\begin{align*}
+ \mathrm{Efficacy} & = 100\% \times \left(1 - \frac{p_{\mathrm{treatment}}}{p_{\mathrm{placebo}}}\right) \\
+                   & = 100\% \times \left(1 - 0.073 / 0.141) \\
+                   & = 48.2\%
+\end{align*}
 $$
 
 (We should probably calculate a 95% confidence limit on that!  Right?)  
