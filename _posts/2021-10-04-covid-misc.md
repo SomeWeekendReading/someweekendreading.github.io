@@ -373,6 +373,10 @@ have the will to be so.
 reliable news source.  But the failure of the mainstream media to get facts straight, and
 to rise above personal anecdote to the larger story is quite damning.  And ever since 
 [Matt Taibbi's 2010 _RS_ article on the financial crash and Goldman Sachs](https://www.rollingstone.com/politics/politics-news/the-great-american-bubble-machine-195229/),
-I've realized I have to take them (somewhat) seriously.  "The world’s most powerful
-investment bank is a great vampire squid wrapped around the face of humanity, relentlessly
-jamming its blood funnel into anything that smells like money."  Indeed! [↩](#fn12a)  
+I've realized I have to take them (somewhat) seriously:  
+
+> The world’s most powerful investment bank is a great vampire squid wrapped around the
+> face of humanity, relentlessly jamming its blood funnel into anything that smells like
+> money.  
+
+Indeed! [↩](#fn12a)  
