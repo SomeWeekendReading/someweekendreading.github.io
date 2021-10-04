@@ -140,7 +140,7 @@ from that, here at Chez Weekend we have no such inhibitions:
 $$
 \begin{align*}
 \mbox{Efficacy} &= 100.0 \% \times \left(1 - \frac{p_\mbox{treatment}}{p_\mbox{placebo}}\right) \\
-                &= 100.0 \% \times \left(1 - 0.073 / 0.141\right) \\
+                &= 100.0 \% \times \left(1 - \frac{0.073}{0.141}\right) \\
                 &=  48.2 \%
 \end{align*}
 $$
