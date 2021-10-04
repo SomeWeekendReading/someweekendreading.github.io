@@ -138,11 +138,11 @@ The clinical trial showed 14.1% of the placebo patients were hospitalized or die
 from that, here at Chez Weekend we have no such inhibitions:  
 
 $$
-\begin{align*}
+\begin{alignat*}{4}
 \mbox{Efficacy} &= 100.0 \% \times \left(1 - \frac{p_\mbox{treatment}}{p_\mbox{placebo}}\right) \\
                 &= 100.0 \% \times \left(1 - 0.073 / 0.141) \\
                 &=  48.2 \%
-\end{align*}
+\end{alignat*}
 $$
 
 (We should probably calculate a 95% confidence limit on that!  Right?)  
