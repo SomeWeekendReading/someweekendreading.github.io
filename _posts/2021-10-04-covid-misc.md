@@ -265,8 +265,6 @@ But even so, we have the same problems as everywhere else, just somewhat muted:
 
 ### Koch money funds and organizes borderline domestic terrorism  
 
-<img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-1.jpg" width="400" height="130" alt="WaPo: Koch money backs violent threats against school boards for mask mandates" title = "WaPo: Koch money backs violent threats against school boards for mask mandates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-2.jpg" width="400" height="310" alt="WaPo: Koch-funded protesters threatening Las Vegas school boards" title = "WaPo: Koch-funded protesters threatening Las Vegas school boards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 A lot of the vaccine resistance, mask resistance, and general resistance to rationality of
 any form seems repetitive.  The people who show up are generally less educated.  They tend
 to scream a lot.  They threaten violence.  They yell the same inanities about ivermectin,
@@ -296,13 +294,26 @@ are not practicing the best religion.
 
 When the authoritarians get organized and use religion as a tool, they become dangerous.  
 
+<img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-1.jpg" width="400" height="130" alt="WaPo: Koch money backs violent threats against school boards for mask mandates" title = "WaPo: Koch money backs violent threats against school boards for mask mandates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-2.jpg" width="400" height="310" alt="WaPo: Koch-funded protesters threatening Las Vegas school boards" title = "WaPo: Koch-funded protesters threatening Las Vegas school boards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-rolling-stone.jpg" width="400" height="214" alt="Rolling Stone: Koch dark money out to sink Biden" title = "Rolling Stone: Koch dark money out to sink Biden" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And so it is today: from the _WaPo_ comes news that the groups intimidating, for example,
 school boards, are in fact organized and funded by
 [Koch family](https://en.wikipedia.org/wiki/Koch_family) money. <sup id="fn10a">[[10]](#fn10)</sup>
-Here's a thought: if you find you're taking money and talking points from the billionaires
-who best typify psychology's [dark triad](https://en.wikipedia.org/wiki/Dark_triad), with demonic
-levels of narcissism, Machiavellianism and psychpathy&hellip; it's time to re-think your
-life choices.  
+_Rolling Stone_ has an article with similar 
+evidence <sup id="fn11a">[[11]](#fn11)</sup> <sup id="fn12a">[[12]](#fn12)</sup>, 
+possibly even more damning.  
+
+Apparently they particularly hate any effort to ameliorate climate change or to have a
+social safety net at all.  Better to burn coal, and make people work cheaper because
+they're afraid of dying, or so it seems from their actions.  It's a scandal that the
+Supreme Court decisions in recent years around dark money in politics allow this to be
+funded more or less in secret.
+
+Here's a thought: if you find you're in a secret combination, taking money and talking
+points from the billionaires who best typify psychology's [dark triad](https://en.wikipedia.org/wiki/Dark_triad), 
+with demonic levels of narcissism, Machiavellianism and psychpathy&hellip; it's time to
+re-think your life choices.  
 
 What's the word we have for deliberate, organized intimidation for political purposes?
 Oh, that's right: domestic terrorism.  
@@ -355,3 +366,13 @@ have the will to be so.
 <a id="fn9">9</a>: W Ring, ["Virus surge hits New England despite high vaccination rates"](https://apnews.com/article/coronavirus-pandemic-health-pandemics-vermont-d25aae90b2dda65b3d1c2c0d5d00156c?utm_source=Twitter&utm_medium=AP&utm_campaign=SocialFlow), _AP News_, 2021-Oct-03. [↩](#fn1a)  
 
 <a id="fn10">10</a>: I Stanley-Becker, ["Koch-backed group fuels opposition to school mask mandates, leaked letter shows"](https://www.washingtonpost.com/politics/2021/10/01/masks-schools-koch-money/), _Washington Post_, 2021-Oct-01. [↩](#fn10a)  
+
+<a id="fn11">11</a>: A Kroll &amp; G Dembicki, ["The Koch Empire Goes All Out to Sink Joe Biden’s Agenda &mdash; and His Presidency, Too"](https://www.rollingstone.com/politics/politics-news/climate-koch-brothers-lobbying-biden-build-back-better-1234815/), _Rolling Stone_, 2021-Sep-30. [↩](#fn11a)  
+
+<a id="fn12">12</a>: I never thought the day would come when I'd cite _Rolling Stone_ as a
+reliable news source.  But the failure of the mainstream media to get facts straight, and
+to rise above personal anecdote to the larger story is quite damning.  And ever since 
+[Matt Taibbi's 2010 _RS_ article on the financial crash and Goldman Sachs](https://www.rollingstone.com/politics/politics-news/the-great-american-bubble-machine-195229/),
+I've realized I have to take them (somewhat) seriously.  "The world’s most powerful
+investment bank is a great vampire squid wrapped around the face of humanity, relentlessly
+jamming its blood funnel into anything that smells like money."  Indeed! [↩](#fn12a)  
