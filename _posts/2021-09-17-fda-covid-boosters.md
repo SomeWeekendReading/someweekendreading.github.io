@@ -537,7 +537,7 @@ So basically they _widened_ the categories of people to get boosters beyond what
 recommended.  
 
 I don't quite know how to feel about this:  
-- On the one hand, I think the risk of boosters is very low and the benefit is medium if you
+- On the one hand, I think the risk of boosters is very low and the benefit is at least medium if you
   look across the whole population, so that's probably overall favorable.  
 - On the other hand, I don't like the agencies overruling their outside expert advisory
   committees, and I'd like to see us putting more effort getting first doses into the
