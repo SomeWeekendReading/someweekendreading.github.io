@@ -147,14 +147,14 @@ $$
 
 (We should probably calculate a 95% confidence limit on that!  Right?)  
 
-So&hellip; yeah, it's nothing like the 95% efficacy of a vaccine that _prevents you from
+So&hellip; yeah, it's nothing like the 90%+ efficacy of a vaccine that _prevents you from
 getting sick in the first place_, but it' still good to reduce the risk of hospitalization
-or death by about half.  
+or death by about half for those who do get sick.  
 
 And, of course, it's not yet approved.  That's a whole 'nother story, and more FDA
 hearings.  
 
-### Retraction: myocarditis is 1 in 25,000 not 1 in 1,000  
+### Retraction: myocarditis is 1 in 25,000 &mdash; not 1 in 1,000!  
 
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-reuters-fact-check.jpg" width="400" height="217" alt="Reuters fact check: retraction myocarditis study, real risk is 1 in 25,000" title = "Reuters fact check: retraction myocarditis study, real risk is 1 in 25,000" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Fifth, there was a nasty preprint a few weeks back claiming that the incidence of
@@ -172,7 +172,7 @@ the wrong denominator: there were 845,930 people vaccinated in their target popu
 instead of just 32,379!  
 
 That lowers the rate of myocarditis by a factor of 25, taking the risk from an alarming 1
-in 1000 to 1 in 25,000.  Something to be prepared for with mass vaccinations, but hardly
+in 1000 to about 1 in 25,000.  Something to be prepared for with mass vaccinations, but hardly
 the threat initially claimed.
 
 The researchers were straightforwardly honest about the mistake, which speaks well of
@@ -276,26 +276,27 @@ doctors are all lying, and so on.
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-beziers.jpg" width="400" height="298" alt="Beziers Cathedral: built on site of a Cathar massacre" title = "Beziers Cathedral: built on site of a Cathar massacre" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Often their arguments are about religious freedom, but for religion of the worst sort:
 they effectively demand as much human sacrifice as a worshipper of
-[Huitzilopochtli](https://en.wikipedia.org/wiki/Hu%C4%ABtzil%C5%8Dp%C5%8Dchtli).
-They remind me of this photograph I just found today, from
+[Huitzilopochtli](https://en.wikipedia.org/wiki/Hu%C4%ABtzil%C5%8Dp%C5%8Dchtli).  
+
+They remind me of this photograph I found just today, from
 [Chris Bertram at _Crooked Timber_](https://crookedtimber.org/2021/10/04/monday-photoblogging-beziers-cathedral/).
 the Cath&eacute;drale Saint-Nazaire-et-Saint-Celse de B&eacute;ziers is indeed a beautiful building, and
 symbolic of much that is good in humanity.  But it is founded on a vicious premise: in
-1209 the [Albigensian Crusade](https://en.wikipedia.org/wiki/Albigensian_Crusade),
-against the [apparently harmless Cathars](https://en.wikipedia.org/wiki/Catharism),
+1209, the [Albigensian Crusade](https://en.wikipedia.org/wiki/Albigensian_Crusade)
+against the [apparently harmless Cathars](https://en.wikipedia.org/wiki/Catharism)
 murdered over 20,000.  The commander of the French forces,
 [Simon de Monrtfort, 5th Earl of Leicester](https://en.wikipedia.org/wiki/Simon_de_Montfort,_5th_Earl_of_Leicester),
 is supposed to have been not too picky about who was or was not a Cathar, when he ordered:
 ["Caedite eos! Novit enim Dominus qui sunt eius." (Kill them all! G-d will know his own.)](https://en.wikipedia.org/wiki/Caedite_eos._Novit_enim_Dominus_qui_sunt_eius.)
-The B&eacute;ziers Cathedral was built upon the ruins of a previous Cathar structure.  
+Then the B&eacute;ziers Cathedral was later built upon the ruins of a previous Cathar structure.  
 
 The best religion heals and cares for _everyone_, not just those who agree with us.  The
 anti-vaxxers, the Albigensian crusaders, and the disciples of Huitzilopochtli
 are not practicing the best religion.  
 
-When the authoritarians get organized and use religion as a tool, they're dangerous.  
+When the authoritarians get organized and use religion as a tool, they become dangerous.  
 
-And so it is today. From the _WaPo_ comes news that the groups intimidating, for example,
+And so it is today: from the _WaPo_ comes news that the groups intimidating, for example,
 school boards, are in fact organized and funded by
 [Koch family](https://en.wikipedia.org/wiki/Koch_family) money. <sup id="fn10a">[[10]](#fn10)</sup>
 Here's a thought: if you find you're taking money and talking points from the billionaires
@@ -310,14 +311,16 @@ Oh, that's right: domestic terrorism.
 ## The Weekend Conclusion  
 
 Times are bad.  Mostly because we insist on _making_ them bad, with self-inflicted wounds
-from the right wing.  
+from the right wing.  And 
+[self-inflicted wounds are the slowest to heal]({{ site.baseurl }}/quotes/#your-humble-weekend-editor).  
 
 But times are also good: we have _exactly_ the tools we need to fight the pandemic with
 amazing vaccines and increasingly good therapeutics; we're _trying_ to be equitable about
 it; and we're looking to the future with pan-coronavirus vaccines to stop the next
 pandemic before it starts.  
 
-I prefer the latter.  You should too.  
+I prefer the latter.  You should too: we have the tools of science to be kind, if only we
+have the will to be so.  
 
 ---
 
