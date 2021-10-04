@@ -276,7 +276,7 @@ doctors are all lying, and so on.
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-beziers.jpg" width="400" height="298" alt="Beziers Cathedral: built on site of a Cathar massacre" title = "Beziers Cathedral: built on site of a Cathar massacre" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Often their arguments are about religious freedom, but for religion of the worst sort:
 they effectively demand as much human sacrifice as a worshipper of
-[Hu&imacr;tzil&omacr;p&omacr;chtli](https://en.wikipedia.org/wiki/Hu%C4%ABtzil%C5%8Dp%C5%8Dchtli).
+[Huitzilopochtli](https://en.wikipedia.org/wiki/Hu%C4%ABtzil%C5%8Dp%C5%8Dchtli).
 They remind me of this photograph I just found today, from
 [Chris Bertram at _Crooked Timber_](https://crookedtimber.org/2021/10/04/monday-photoblogging-beziers-cathedral/).
 the Cath&eacute;drale Saint-Nazaire-et-Saint-Celse de B&eacute;ziers is indeed a beautiful building, and
@@ -290,7 +290,7 @@ is supposed to have been not too picky about who was or was not a Cathar, when h
 The B&eacute;ziers Cathedral was built upon the ruins of a previous Cathar structure.  
 
 The best religion heals and cares for _everyone_, not just those who agree with us.  The
-anti-vaxxers, the Albigensian crusaders, and the disciples of Hu&imacr;tzil&omacr;p&omacr;chtli
+anti-vaxxers, the Albigensian crusaders, and the disciples of Huitzilopochtli
 are not practicing the best religion.  
 
 When the authoritarians get organized and use religion as a tool, they're dangerous.  
