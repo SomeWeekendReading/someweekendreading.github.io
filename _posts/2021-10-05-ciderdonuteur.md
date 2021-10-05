@@ -17,20 +17,23 @@ It is once again autumn in New England.
 }}/in-autumn-in-new-england-thoughts-turn-to/).  We stayed at the same friends' house,
 this time with them in residence.  We didn't take many pictures.  However, as we were all
 fully vaccinated and religious about mask use, we managed to keep company with some good
-friends this time.  Mostly we cooked, and talked, and enjoyed the beautiful views.  It's
-too early for foliage season, but as it's apple season, it is also _cider donut season._  
+friends this time.  Mostly we cooked, and talked, and enjoyed the beautiful views.  
+
+It's too early for foliage season, but as it's apple season, it is also _cider donut season._  
 
 And here at Chez Weekend: cider, donuts, and especially _cider donuts_ are serious business.  
 
 
-## Mr. Ciderdonuteur  
+## M. Ciderdonuteur  
 
 <img src="{{ site.baseurl }}/images/2021-10-05-ciderdonuteur-globe.jpg" width="400" height="511" alt="Boston Globe: Ciderdonuteur!" title = "Boston Globe: Ciderdonuteur!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-05-ciderdonuteur-boston.jpg" width="400" height="162" alt="Boston Magazine: Ciderdonuteur!" title = "Boston Magazine: Ciderdonuteur!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
 From the paper copy of the venerable _Globe_ today comes the story of a heroic man,
-engaged in a Great Work. <sup id="fn1a">[[1]](#fn1)</sup>  Alex Schwartz has made it
-his rather intense hobby to sample _every_ cider donut sold at an orchard or farm store
-in New England.  And people have noticed, e.g., _Boston Magazine_. <sup id="fn2a">[[2]](#fn2)</sup>
+engaged in a Great Work. <sup id="fn1a">[[1]](#fn1)</sup> Alex Schwartz (of Cambridge, of
+course) has made it his rather intense hobby to sample _every_ cider donut sold at an
+orchard or farm store in New England.  And people have noticed, e.g., 
+_Boston Magazine_. <sup id="fn2a">[[2]](#fn2)</sup>
 
 Last year he cataloged the pleasures of 30 orchards and farm stands.  He has the attitude
 you migth expect toward packaged donuts at the grocery store, or apple cider donut
@@ -41,20 +44,19 @@ flavored Oreos ("filling tastes like a candle"), or other abominations of that s
 height="266" alt="Ciderdonuteur: how to spend the pandemic" title = "Ciderdonuteur: how to
 spend the pandemic" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid
 #000000;">
-
 His Instagram account, [@ciderdonuteur](https://www.instagram.com/ciderdonuteur/?hl=en)
 <sup id="fn3a">[[3]](#fn3)</sup>, catalogs both the beauty of New England and a bit of
 food critique of each item sampled.  He's also created a cider donut map of New England,
-which people use to plan day trips.  It currently has 191 spots, in the process of being
-reviewed.  
+which people use to plan day trips.  It currently has 191 spots, each in the process of being
+reviewed for the 2021 season.  
 
 <img src="{{ site.baseurl }}/images/2021-10-05-ciderdonuteur-russell-orchards.gif" width="100" height="100" alt="Ciderdonuteur's best of breed 2020: Russell Orchards" title = "Ciderdonuteur's best of breed 2020: Russell Orchards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Last year's winner (and this year's front-runner) was 
-[Russell Orchards of Ipswich](https://www.russellorchards.com/en/bakery/donuts.php).
-Now I have to see about persuading the Weekend Editrix into an autumnal sightseeing drive
-that _just so happens_ to go through the noble environs of Ipswich.  
+[Russell Orchards of Ipswich](https://www.russellorchards.com/en/bakery/donuts.php), up on
+Cape Ann.  Now I have to see about persuading the Weekend Editrix into an autumnal
+sightseeing drive that _just so happens_ to go through the noble environs of Ipswich.  
 
-And I wonder if Mr. Ciderdonuteur needs an intern?  I could do statistics for him, in
+And I wonder if M. Ciderdonuteur needs an intern?  I could do statistics for him, in
 exchange for tagging along on a couple donut safaris&hellip; in my dreams.  
 
 ---

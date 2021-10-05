@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are we wasting too much COVID-19 vaccine?
-tags: COVID MathInTheNews PharmaAndBiotech R
+tags: COVID Food MathInTheNews PharmaAndBiotech R
 comments: true
 ---
 
