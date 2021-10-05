@@ -113,7 +113,19 @@ personal stories in loving detail.  But the _real_ story is that 99.4% of the em
 those hospitals decided to get vaccinated.  Concentrating on the remaining 0.6% is just a
 waste of your time at best, and flagrantly deceptive at worst.  
 
-There are many similar results, e.g., United Airlines is losing 0.4% of employees.  
+There are many similar results, e.g., United Airlines is losing 0.4% of employees.  Or,
+for example, the Swiss Guard:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    The media continues to report breathlessly on the small number of holdouts when the
+	vast majority of people are getting vaccinated. As of 2019 the Swiss guard had 135
+	members. So we’re talking about like 98% compliance. It’s media malpractice to frame
+	it this way. Mandates work. <a href="https://t.co/LQa7EsEqNt">https://t.co/LQa7EsEqNt</a> 
+  </p>
+  &mdash; Jean-Michel Connard  (@torriangray) <a href="https://twitter.com/torriangray/status/1445143572466962448?ref_src=twsrc%5Etfw">October 4, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 _That's_ the story.  
 
