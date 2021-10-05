@@ -46,22 +46,6 @@ doit <- function(## Inputs
 #      round(quantile(effs, probs = probs), digits = 1) # Get just the quantiles requested
 #    }                                                  #
 
-#    efficacyCI <- function(Ntrt, NtrtInf, Ncnt, NcntInf, probs = c(0.025, 0.500, 0.975)) {
-#      ## Frequentist method: risk rates are scaled binomial, which for large counts
-#      ## are approximately Poisson, which for even larger counts are lognormal.
-#      ## So the log risk rates should be approximately normal.
-#      ## See:
-#      ## https://towardsdatascience.com/pfizer-and-moderna-vaccine-efficacy-calculated-from-data-9566897173c
-#      ## https://www.r-bloggers.com/2020/11/about-confidence-intervals-for-the-biontech-pfizer-covid-19-vaccine-candidate/
-#      irr      <- (NtrtInf / Ntrt) / (NcntInf / Ncnt)
-#      seLogIrr <- sqrt(1/NtrtInf - 1/Ntrt + 1/NcntInf - 1/Ncnt)
-#      cat(sprintf("\n*** irr = %g, seLogErr = %g", irr, seLogIrr))
-#      ## *** CL's are way low, i.e., both below the efficacy?!
-#      c("2.5%"  = 100.0 * irr * exp(-1.96 * seLogIrr),
-#        "ve"    = 100.0 * (1 - irr),
-#        "97.5%" = if (NtrtInf == 0) 100.0 else 100.0 * irr * exp(+1.96 * seLogIrr))
-#    }                                                  #
-
     efficacyCI <- function(Ntrt, NtrtInf, Ncnt, NcntInf, probs = c(0.025, 0.500, 0.975)) {
       ## Frequentist method: risk rates are scaled binomial, so we use the binomial
       ## confidence interval function in the gsDesign package.

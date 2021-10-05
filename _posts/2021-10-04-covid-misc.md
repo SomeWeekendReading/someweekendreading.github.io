@@ -127,7 +127,7 @@ for example, the Swiss Guard:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-_That's_ the story.  
+Mandates work.  _That's_ the story.  
 
 ### Molnupiravir works  
 
@@ -136,14 +136,15 @@ Fourth, from Matthew Herper at _STAT News_ comes the usual good, solid stuff: th
 molnupiravir, an orally available COVID-19 therapy from Merck.<sup id="fn6a">[[6]](#fn6)</sup>
 This drug candidate works by disrupting some of the genetic proofreading mechanisms in the
 virus, so that errors accumulate each time it divides and eventually is non-viable.  In
-that respect, it's like remdesivir, though unlike remdesivir it's just a pill, not an
+that respect, it's like remdesivir; though unlike remdesivir it's just a pill, not an
 infusion.  
 
 It has to be given early in the course of the disease, ideally before symptoms.  That
-points to a _lot_ more testing of asymptomatic people if this is going to do any good.
+points to the need for a _lot_ more testing of asymptomatic people, if this is going to do any good.
 Not to mention the logistics of pre-positioning the drug at every hospital in the world,
 so people who test positive can start on it immediately.  And figure out how to pay the
-$700 each course of the drug will cost.  
+$700 each course of the drug will cost.  (Have you considered that vaccines are both
+cheaper and _already_ pre-positioned everywhere we can reach so far?)  
 
 The clinical trial showed 14.1% of the placebo patients were hospitalized or died, while
 7.3% of the molnupiravir patients did so.  While _STAT News_ won't calculate the efficacy
@@ -157,7 +158,45 @@ $$
 \end{align*}
 $$
 
-(We should probably calculate a 95% confidence limit on that!  Right?)  
+We can get a 95% confidence interval pretty easily here, too.  That's because the
+reporters at _STAT News_ are _not_ of the mathematically illiterate sort, and they give us
+enough information to calculate how many patients were in each arm:  
+- 53 cases in the placebo arm were 14.1%, so there were 53/0.141 = 376 placebo patients  
+- 28 cases in the treatment arm were 7.3%, so there were 28/0.073 = 384 treatment patients  
+
+```R
+> library("gsDesign") # For ciBinomial()
+> mnpData <- matrix(c(53, 28, round(53/0.141), round(28/0.073)), nrow = 2, ncol = 2, byrow = FALSE,
+                    dimnames = list(c("Placebo", "Treatment"), c("Ncases", "Ntotal"))); mnpData
+          Ncases Ntotal
+Placebo       53    376
+Treatment     28    384
+
+> ## Now calculate the efficacy, as above
+> pPlacebo   <- mnpData["Placebo",   "Ncases"] / mnpData["Placebo",   "Ntotal"]
+> pTreatment <- mnpData["Treatment", "Ncases"] / mnpData["Treatment", "Ntotal"]
+> efficacy   <- round(100.0 * (1 - pTreatment / pPlacebo), digits = 2)
+
+> ## Frequentist method: risk rates are scaled binomial, so we use the binomial
+> ## confidence interval function in the gsDesign package.
+> ci <- round(100.0 * (1 - rev(ciBinomial(mnpData["Treatment", "Ncases"],
+                                          mnpData["Placebo",   "Ncases"],
+                                          mnpData["Treatment", "Ntotal"],
+                                          mnpData["Placebo",   "Ntotal"],
+                                          scale = "RR"))),
+              digits = 2)
+
+> c(EfficacyLCL = ci[[1]], Efficacy = efficacy, EfficacyUCL = ci[[2]])
+EfficacyLCL    Efficacy EfficacyUCL 
+      20.45       48.27       66.47 
+> 
+```
+
+Conclusion: Molnupiravir has an efficacy against hospitalization &amp; death of 48.2%,
+with a 95% confidence interval of 20.45% &ndash; 66.47%.  The LCL of 20.45% is pretty
+disappointing, but the study was pretty small (with only 760 patients, the confidence
+interval is pretty wide).  We're pretty sure it does _something_, i.e., it's bounded away
+from 0.  It's _likely_ that it reduces hospitalization &amp; death by half.  
 
 So&hellip; yeah, it's nothing like the 90%+ efficacy of a vaccine that _prevents you from
 getting sick in the first place_, but it's still good to reduce the risk of hospitalization
