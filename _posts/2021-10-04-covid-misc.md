@@ -195,7 +195,7 @@ EfficacyLCL    Efficacy EfficacyUCL
 Conclusions:  
 - Molnupiravir has an efficacy against hospitalization &amp; death of 48.2%.  
 - We're 95% confident the true efficacy is between 20.45% and 66.47%.  
-- Small study size (760 subjects) made the confidence interval is disappointingly wide.  
+- Small study size (760 subjects) made the confidence interval disappointingly wide.  
 
 We're pretty sure it does _something_, i.e., it's bounded away from 0.  It's _likely_ that
 it reduces the risk of hospitalization &amp; death by around half.  
