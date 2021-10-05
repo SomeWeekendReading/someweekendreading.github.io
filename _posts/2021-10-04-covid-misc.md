@@ -207,7 +207,7 @@ and death by about half for those who do get sick.
 And, of course, it's not yet approved.  That's a whole 'nother story, and more FDA
 hearings.  
 
-### Retraction: myocarditis is 1 in 25,000 &mdash; not 1 in 1,000!  
+### Retraction: mRNA vax myocarditis risk is 1 in 25,000 &mdash; not 1 in 1,000!  
 
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-reuters-fact-check.jpg" width="400" height="217" alt="Reuters fact check: retraction myocarditis study, real risk is 1 in 25,000" title = "Reuters fact check: retraction myocarditis study, real risk is 1 in 25,000" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Fifth, there was a nasty preprint a few weeks back claiming that the incidence of
@@ -219,10 +219,10 @@ link to the sewer).
 Today from the fact checkers at _Reuters_ comes a happy little notice that the study has
 been retracted. <sup id="fn7a">[[7]](#fn7)</sup>  
 
-I won't link to the retracted study because it looks like responsible people just made a
-mistake (_Reuters_ does link, if you're curious).  But it was _quite_ a blunder: they used
+I won't link to the retracted study because it looks like responsible people just made an
+honest mistake (_Reuters_ does link, if you're curious).  But it was _quite_ a blunder! They used
 the wrong denominator: there were 845,930 people vaccinated in their target population
-instead of just 32,379!  
+&amp; period instead of just 32,379!  
 
 That lowers the rate of myocarditis by a factor of 25, taking the risk from an alarming 1
 in 1000 to about 1 in 25,000.  Something to be prepared for with mass vaccinations, but hardly
@@ -331,7 +331,7 @@ they effectively demand as much human sacrifice as a worshipper of
 
 They remind me of this photograph I found just today, from
 [Chris Bertram at _Crooked Timber_](https://crookedtimber.org/2021/10/04/monday-photoblogging-beziers-cathedral/).
-the Cath&eacute;drale Saint-Nazaire-et-Saint-Celse de B&eacute;ziers is indeed a beautiful building, and
+The Cath&eacute;drale Saint-Nazaire-et-Saint-Celse de B&eacute;ziers is indeed a beautiful building, and
 symbolic of much that is good in humanity.  But it is founded on a vicious premise: in
 1209, the [Albigensian Crusade](https://en.wikipedia.org/wiki/Albigensian_Crusade)
 against the [apparently harmless Cathars](https://en.wikipedia.org/wiki/Catharism)
@@ -345,7 +345,7 @@ The best religion heals and cares for _everyone_, not just those who agree with 
 anti-vaxxers, the Albigensian crusaders, and the disciples of Huitzilopochtli
 are not practicing the best religion.  
 
-When the authoritarians get organized and use religion as a tool, they become dangerous.  
+When the authoritarians get organized and use bad religion as a tool, they get dangerous.  
 
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-1.jpg" width="400" height="130" alt="WaPo: Koch money backs violent threats against school boards for mask mandates" title = "WaPo: Koch money backs violent threats against school boards for mask mandates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-2.jpg" width="400" height="310" alt="WaPo: Koch-funded protesters threatening Las Vegas school boards" title = "WaPo: Koch-funded protesters threatening Las Vegas school boards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -366,11 +366,11 @@ funded more or less in secret.
 Here's a thought: should it come to pass that you find yourself in a secret combination,
 taking money and talking points from the billionaires who best typify psychology's 
 [dark triad](https://en.wikipedia.org/wiki/Dark_triad), 
-with demonic levels of narcissism, Machiavellianism and psychpathy&hellip; it's time to
+with demonic levels of narcissism, Machiavellianism and psychopathy&hellip; it's time to
 re-think your life choices.  
 
-What's the word we have for deliberate, organized intimidation for political purposes?
-Oh, that's right: domestic terrorism.  
+What's the word we have for deliberate, organized intimidation and threats of violence for
+political purposes? Oh, that's right: domestic terrorism.  
 
 
 ## The Weekend Conclusion  
@@ -384,8 +384,8 @@ amazing vaccines and increasingly good therapeutics; we're _trying_ to be equita
 it; and we're looking to the future with pan-coronavirus vaccines to stop the next
 pandemic before it starts.  
 
-I prefer the latter.  You should too: we have the tools of science to be kind to one
-another, if only we could muster the will to be so.  
+I prefer the latter.  You should too.  We have effective tools of science to be kind to one
+another, if only we could muster the will to do so.  
 
 ---
 
