@@ -161,8 +161,8 @@ $$
 We can get a 95% confidence interval pretty easily here, too.  That's because the
 reporters at _STAT News_ are _not_ of the mathematically illiterate sort, and they give us
 enough information to calculate how many patients were in each arm:  
-- 53 cases in the placebo arm were 14.1%, so there were 53/0.141 = 376 placebo patients  
-- 28 cases in the treatment arm were 7.3%, so there were 28/0.073 = 384 treatment patients  
+- 53 placebo cases were 14.1%, so there were 53/0.141 = 376 placebo subjects  
+- 28 treatment cases were 7.3%, so there were 28/0.073 = 384 treatment subjects  
 
 ```R
 > library("gsDesign") # For ciBinomial()
@@ -192,11 +192,13 @@ EfficacyLCL    Efficacy EfficacyUCL
 > 
 ```
 
-Conclusion: Molnupiravir has an efficacy against hospitalization &amp; death of 48.2%,
-with a 95% confidence interval of 20.45% &ndash; 66.47%.  The LCL of 20.45% is pretty
-disappointing, but the study was pretty small (with only 760 patients, the confidence
-interval is pretty wide).  We're pretty sure it does _something_, i.e., it's bounded away
-from 0.  It's _likely_ that it reduces hospitalization &amp; death by half.  
+Conclusions:  
+- Molnupiravir has an efficacy against hospitalization &amp; death of 48.2%.  
+- We're 95% confident the true efficacy is between 20.45% and 66.47%.  
+- The confidence interval is disappointingly wide because of small study size: 760 subjects.  
+
+We're pretty sure it does _something_, i.e., it's bounded away from 0.  It's _likely_ that
+it reduces the risk of hospitalization &amp; death by around half.  
 
 So&hellip; yeah, it's nothing like the 90%+ efficacy of a vaccine that _prevents you from
 getting sick in the first place_, but it's still good to reduce the risk of hospitalization
