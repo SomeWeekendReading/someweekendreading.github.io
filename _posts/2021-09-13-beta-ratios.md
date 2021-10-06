@@ -485,6 +485,19 @@ first derivatives at $R = 1$, so our distribution is first-order smooth.
 
 That gives us the PDF (probability distribution function); if we want the CDF (cumulative
 distribution function) to calculate quantiles, we'll have to go beyond Pham-Gia's paper.
+That's the accumulated probability from $0$ to $R_0$, which we get by integrating.  Since
+the PDF is piecewise, so is the CDF.  We get the piece for $R \lt R_0$ by integrating from
+$0$ to $R_0$, and the piece for $R_0 \gt 1$ by integrating back from $+\infty$ to $R_0$,
+and subtracting from 1:  
+
+$$
+\begin{align*}
+\Pr( \lt R_0 | 0 \le R_0 \le 1) &= \int_0^{R_0}\!\!\!\!dR \Pr(R | 0 \le R \le 1) \\
+\Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!dR \Pr(R | 1\lt R)
+\end{align*}
+$$
+
+---
 Now, it turns out that Julian Saffer has already worked this out, and what's more put a
 library in Python on Github. <sup id="fn3a">[[3]](#fn3)</sup>  Now, I'm not so much with
 the Python; I'm more of an [R](https://www.r-project.org) guy.  But let's have a look.  
@@ -519,7 +532,7 @@ For $0 \le w \le 1$:
 And for $w > 1$:  
 
 !["Saffer: CDF for w > 1"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-CDF-2.jpg "Saffer: CDF for w > 1")
-
+---
 
 ## Computational realization for practical use  
 
