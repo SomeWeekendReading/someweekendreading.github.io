@@ -259,7 +259,7 @@ $$
 (q)_n = \left\{ 
           \begin{array}{ll}
             1 & n = 0 \\
-            q(q+1)\cdots(q+n-1) & n > 0
+            q(q+1)\cdots(q+n-1) & n \gt 0
           \end{array}
         \right. = \frac{\Gamma(q+n)}{\Gamma(q)}
 $$
@@ -353,7 +353,7 @@ in the left and right limits approaching $R = 1$, establishing continuity at tha
 
 We need 2 identities:  
 - From [Wikipedia's entry on ${}\{2}F\_{1}()$ and values at special points](https://en.wikipedia.org/wiki/Hypergeometric_function#Values_at_special_points_z) comes an
-identity for evaluating ${}\{2}F\_{1}()$ at 1, provided $\Re(c) \gt \Re(a+b)$.  For the
+identity for evaluating ${}\_{2}F\_{1}()$ at 1, provided $\Re(c) \gt \Re(a+b)$.  For the
 positive values of $\alpha_i, \beta_i$ we're considering, this is the case so:
 
 $$
@@ -485,7 +485,7 @@ first derivatives at $R = 1$, so our distribution is first-order smooth.
 
 That gives us the PDF (probability distribution function); if we want the CDF (cumulative
 distribution function) to calculate quantiles, we'll have to go beyond Pham-Gia's paper.
-That's the accumulated probability from $0$ to $R_0$, $\Pr(< R_0)$, which we get by
+That's the accumulated probability from $0$ to $R_0$, $\Pr(\lt R_0)$, which we get by
 integrating.  Since the PDF is piecewise, so is the CDF.  We get the piece for $R \lt R_0$
 by integrating from $0$ to $R_0$, and the piece for $R_0 \gt 1$ by integrating back from
 $+\infty$ to $R_0$, and subtracting from 1:  
@@ -511,7 +511,7 @@ $$
 &= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \int_0^{y \lt 1}\!\!\!\!dx \: x^{n+d} \\
 &= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \left.\frac{x^{n+d+1}}{n+d+1}\right|_0^{y \lt 1} \\
 &= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{d+1}{n+d+1} \frac{y^n}{n!} \\
-&= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n (d+1)_n}{(c)_n (d+2)_n} \frac{y^n}{n!} \\
+&= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(d+1)_n (a)_n (b)_n}{(d+2)_n (c)_n} \frac{y^n}{n!} \\
 &= \frac{y^{d+1}}{d+1} {}_3F_2(d+1, a, b; d+2, c; y)
 \end{align*}
 $$
@@ -521,8 +521,24 @@ ${}\_{3}F\_{2}()$.  The subscripts remind us that there are 3 Pochammer symbols 
 numerator and 2 in the denominator, vs 2 in the numerator and 1 in the denominator for
 ${}\_{2}F\_{1}()$.  
 
-Ok, with a little fear and trembling at having summoned ${}\_{3}F\_{2}()$ which we might
-not be able banish, we proceed to the second integral via a change of variables:  
+Ok, we have a little fear and trembling at the sight of ${}\_{3}F\_{2}()$ (having summoned
+that which which we might not be able banish).  Nonetheless, we swallow our fears and
+proceed recklessly to the second integral via a change of variables:  
+
+$$
+\begin{align*}
+u &= 1/x \\
+x &= 1/u \\
+x &= - du/u^2
+\end{align*}
+$$
+
+which turns out to be quite useful:  
+$$
+\int_{y \gt 1}^{\+infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{1/u \lt 1}\!\!\!\!\!\!\!\!\!\frac{du}{u^2} 
+\: u^d {}_2F_1(a, b; c; u)\\
+&= \cdots
+$$
 
 &hellip;TBD&hellip;
 
