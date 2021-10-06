@@ -507,7 +507,7 @@ We address the first integral by hitting up the power series:
 
 $$
 \begin{align*}
-\int_0^{y \lt 1}&\!\!\!\!dx \: x^d {}_2F_1(a, b; c; x) &= \int_0^{y \lt 1}\!\!\!\!dx \: x^d \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{x^n}{n!} \\
+\int_0^{y \lt 1}\!\!\!\!dx \: x^d {}_2F_1(a, b; c; x) &= \int_0^{y \lt 1}\!\!\!\!dx \: x^d \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{x^n}{n!} \\
 &= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \int_0^{y \lt 1}\!\!\!\!dx \: x^{n+d} \\
 &= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \left.\frac{x^{n+d+1}}{n+d+1}\right|_0^{y \lt 1} \\
 &= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{d+1}{n+d+1} \frac{y^n}{n!} \\
