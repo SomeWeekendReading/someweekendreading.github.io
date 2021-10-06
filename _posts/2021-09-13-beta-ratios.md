@@ -566,36 +566,26 @@ $$
 \end{align*}
 $$
 
-&hellip;TBD&hellip;
+The appropriate limits as $R_0 \leftrightarrow 0$ and as $R_0 \leftrightarrow +\infty$ are
+manifest, due to the way we structured the integrals.  
 
----
+However, since we have a piecewise CDF, we have to show it's continuous at the piece
+boundary at $R = 1$.  It must be, since it's the integral of the PDF which we showed above
+is continuous and first-order smooth.  We just want to be sure!  
+
+&hellip;TBD&hellip; <!-- *** -->
+
 Now, it turns out that Julian Saffer has already worked this out, and what's more put a
 library in Python on Github. <sup id="fn3a">[[3]](#fn3)</sup>  Now, I'm not so much with
 the Python; I'm more of an [R](https://www.r-project.org) guy.  But let's have a look.  
 
-Saffer relies on 2 integrals of hypergeometric functions times algebraic functions, with
-results using _generalized_ hypergeometric functions ${}\_{3}F\_{2}()$&hellip; even more
-fearsome than ${}\_{2}F\_{1}()$!  I don't know quite how to derive these, though I did manage to
-confirm the first at Wolfram:  
-
-<!-- ***
-The first one is reported at https://functions.wolfram.com/HypergeometricFunctions/Hypergeometric2F1/21/01/02/01/0001/
-
-The second one maybe requires a change of variables z = 1/w get the argument to 2F1() in
-canonical form.
--->
+In Saffer's notation, what we call the ratio $R$ he calls $w$.  His integrals agree with
+ours:  
 
 !["Saffer: integral of 2F1() times power"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-3F2-1.jpg "Saffer: integral of 2F1() times power")
 !["Saffer: integral of 2F1() times inverse power"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-3F2-2.jpg "Saffer: integral of 2F1() times inverse power")
 
-Now, I have to admit I don't know where these integrals come from and don't feel up to
-trying to derive them myself, at least not today.  Maybe another day that hasn't been
-spent facing my fears&hellip;  
-
-But I _can_ see that, given these identities, the cumulative distribution functions (the
-running integral from 0 to some value of the PDF) will give us the given CDFs.  (In
-Saffer's notation, what we've called $R$ he calls $w$.)  
-
+And his use of those integrals gets a piecewise CDF which is also identical to ours.
 For $0 \le w \le 1$:  
 
 !["Saffer: CDF for 0 < w < 1"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-CDF-1.jpg "Saffer: CDF for 0 < w < 1")
@@ -603,7 +593,20 @@ For $0 \le w \le 1$:
 And for $w > 1$:  
 
 !["Saffer: CDF for w > 1"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-CDF-2.jpg "Saffer: CDF for w > 1")
----
+
+I'm a bit suspicious of his Python code, since:  
+
+- He calculates things in log space and then exponentiates.  This makes some sense, to
+  avoid the large factorials, but also exponentiates roundoff errors in a numerically
+  unstable way.  
+- He does not address what happens when the parameters $a, b, c$ of the hypergeometric
+  functions become large.  To analyze the Pfizer or Moderna vaccine trials, these can be
+  order of 10s of thousands!  Clearly some sort of recurrence relation is needed to lower
+  the order there.  
+  
+But when we have some R code, we can test against his Python code at low order and see if
+we agree.  
+
 
 ## Computational realization for practical use  
 
@@ -660,13 +663,15 @@ Somewhat beyond Pham-Gia's paper, we've also proven the continuity of the PDF at
 $R = 1$, i.e., that the expression for $0 \le R \le 1$ and the one for $R \gt 1$ match up
 at $R = 1$.  
 
+We've also derived the CDF in a similarly piecewise way, to be used for calculating
+quantiles.  Our results match those of Saffer, so we're probably on the right track here.  
+
 However, there are several things we _haven't_ done:  
 - While we've shown continuity and first-order smoothness (non-kink) at $R = 1$, we
   suspect a much stronger condition of $C^{\infty}$ smoothness holds.  To prove that, we'd
   have to match all derivatives, but we've only done orders 0 and 1 here.
-- We haven't confirmed all the details of how to get the CDF; there's probably some bit of
-  hypergeometric lore that will tell us the integral identities above from which the CDFs
-  follow straightforwardly (or as straightforwardly as things go here).  
+- While we have the CDF function, we haven't demonstrated continuity at $R = 1$.  That
+  requires some identities about ${}\_{3}F\_{2}(1)$ for various parameter values.  
 - We also haven't wrestled with all the numeric issues of implementing this, say in 
   [R](https://www.r-project.org), though Saffer's Python code is probably a good guide.  
 - Furthermore, we haven't investigated the quantile function (functional inverse of the CDF)
