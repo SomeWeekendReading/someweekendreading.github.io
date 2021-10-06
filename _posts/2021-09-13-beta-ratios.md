@@ -539,8 +539,8 @@ $$
 \begin{align*}
 \int_{y \gt 1}^{+\infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{(1/y) \lt 1}\!\!\!\!\!\!\!\!\!du \:\frac{1}{u^2} u^d {}_2F_1(a, b; c; u) \\
 &= \int_{0}^{(1/y) \lt 1}\!\!\!\!\!\!\!\!\!du \:u^{d-2} u^d {}_2F_1(a, b; c; u) \\
-&= \left.\frac{u^{d-1}}{d-1} {}_3F_2(d-1, a, b; c; u) \right|_0^{(1/y) \lt 1} \\
-&= \frac{1}{(d-1)y^{d-1}} {}_3F_2(d-1, a, b; c, d; 1/y)
+&= \left.\frac{u^{d-1}}{d-1} {}_3F_2(d-1, a, b; d, c; u) \right|_0^{(1/y) \lt 1} \\
+&= \frac{1}{(d-1)y^{d-1}} {}_3F_2(d-1, a, b; d, c; 1/y)
 \end{align*}
 $$
 
@@ -574,6 +574,8 @@ boundary at $R = 1$.  It must be, since it's the integral of the PDF which we sh
 is continuous and first-order smooth.  We just want to be sure!  
 
 &hellip;TBD&hellip; <!-- *** -->
+
+### A Second Opinion  
 
 Now, it turns out that Julian Saffer has already worked this out, and what's more put a
 library in Python on Github. <sup id="fn3a">[[3]](#fn3)</sup>  Now, I'm not so much with
