@@ -535,9 +535,11 @@ $$
 
 which turns out to be quite useful:  
 $$
+\begin{align*}
 \int_{y \gt 1}^{\+infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{1/u \lt 1}\!\!\!\!\!\!\!\!\!\frac{du}{u^2} 
 \: u^d {}_2F_1(a, b; c; u)\\
 &= \cdots
+\end{align*}
 $$
 
 &hellip;TBD&hellip;
