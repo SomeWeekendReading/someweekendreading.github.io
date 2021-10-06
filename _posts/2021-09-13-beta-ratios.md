@@ -503,6 +503,30 @@ That leaves us with the riddle of how to integrate powers times ${}\_2F\_{1}()$'
 inverse version of that (which is probably equivalent to the first integral, after a
 change of variables).  
 
+We address the first integral by hitting up the power series:  
+
+$$
+\begin{align*}
+\int_0^{y \lt 1}&\!\!\!\!dx x^d {}_2F_1(a, b; c; x) \\
+&= \int_0^{y \lt 1}\!\!\!\!dx x^d \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{x^n}{n!} \\
+&= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \int_0^{y \lt 1}\!\!\!\!dx x^{n+d} \\
+&= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \left.\frac{x^{n+d+1}}{n+d+1}\right|_0^{y \lt 1} \\
+&= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{d+1}{n+d+1} \frac{y^n}{n!} \\
+&= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n (d+1)_n}{(c)_n (d+2)_n} \frac{y^n}{n!} \\
+&= \frac{y^{d+1}}{d+1} {}_3F_2(d+1, a, b; d+2, c; y)
+\end{align*}
+$$
+
+where we've recognized in the series the _generalized_ hypergeometric function
+${}\_{3}F\_{2}()$.  The subscripts remind us that there are 3 Pochammer symbols in the
+numerator and 2 in the denominator, vs 2 in the numerator and 1 in the denominator for
+${}\_{2}F\_{1}()$.  
+
+Ok, with a little fear and trembling at having summoned ${}\_{3}F\_{2}()$ which we might
+not be able banish, we proceed to the second integral via a change of variables:  
+
+&hellip;TBD&hellip;
+
 ---
 Now, it turns out that Julian Saffer has already worked this out, and what's more put a
 library in Python on Github. <sup id="fn3a">[[3]](#fn3)</sup>  Now, I'm not so much with
