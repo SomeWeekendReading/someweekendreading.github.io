@@ -391,7 +391,7 @@ another, if only we could muster the will to do so.
 
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-3.jpg" width="400" height="161" alt="WaPo: Atty Genl Garland asks FBI to investigate" title = "WaPo: Atty Genl Garland asks FBI to investigate" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 From the _WaPo_ comes news that Attorney General Merrick Garland has asked the FBI to
-investigate the groups threatening school boards in particular. <sup id="fn1a">[[1]](#fn1)</sup> 
+investigate the groups threatening school boards in particular. <sup id="fn13a">[[13]](#fn13)</sup> 
 They protest mask mandates by ripping masks off people's faces, they protest "critical
 race theory" (a complete hallucination) by threatening board members with "we know where
 you live", they give Nazi salutes, they bring guns to school board meetings&hellip; the
@@ -435,7 +435,7 @@ Allow me my little fantasy: what are the chances the FBI will nail the Kochs?
 
 <a id="fn8">8</a>: M Baker, ["In Alaska’s Covid Crisis, Doctors Must Decide Who Lives and Who Dies"](https://www.nytimes.com/2021/10/03/us/coronavirus-crisis-alaska.html), _New York Times_, 2021-Oct-03. [↩](#fn8a)  
 
-<a id="fn9">9</a>: W Ring, ["Virus surge hits New England despite high vaccination rates"](https://apnews.com/article/coronavirus-pandemic-health-pandemics-vermont-d25aae90b2dda65b3d1c2c0d5d00156c?utm_source=Twitter&utm_medium=AP&utm_campaign=SocialFlow), _AP News_, 2021-Oct-03. [↩](#fn1a)  
+<a id="fn9">9</a>: W Ring, ["Virus surge hits New England despite high vaccination rates"](https://apnews.com/article/coronavirus-pandemic-health-pandemics-vermont-d25aae90b2dda65b3d1c2c0d5d00156c?utm_source=Twitter&utm_medium=AP&utm_campaign=SocialFlow), _AP News_, 2021-Oct-03. [↩](#fn9a)  
 
 <a id="fn10">10</a>: I Stanley-Becker, ["Koch-backed group fuels opposition to school mask mandates, leaked letter shows"](https://www.washingtonpost.com/politics/2021/10/01/masks-schools-koch-money/), _Washington Post_, 2021-Oct-01. [↩](#fn10a)  
 
