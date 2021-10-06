@@ -589,6 +589,17 @@ values.
 
 &hellip;TBD&hellip; <!-- *** -->
 
+To summarize the CDF result:  
+
+$$
+\left\{
+  \begin{align*}
+    \Pr( \lt R_0 | 0 \le R_0 \le 1) &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{R_0^{\alpha_1}}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2, 1 - \beta_1;\alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; R_0) \\
+    \Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_2 R_0^{\alpha_2}} {}_3F_2(\alpha_2, \alpha_1 + \alpha_2, 1 - \beta_2; \alpha_2 + 1, \alpha_1 + \alpha_2 + \beta_1; 1/R_0)
+  \end{align*}
+\right.
+$$
+
 ### A Second Opinion  
 
 Now, it turns out that Julian Saffer has already worked this out, and what's more put a
