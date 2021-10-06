@@ -129,8 +129,8 @@ $$
 (Usually these are proportions or probabilities, so we certainly want to stay in $[0, 1]$!)  
 
 $R$, on the other hand, is a bit more gnarly.  Since both $p_1$ and $p_2$ are
-non-negative, then surely 0 is a lower bound for $R$.  But the denominator $p_2$ can of
-course be arbitrarily near 0, so if at the same time the numerator $p_1$ is finite
+non-negative, then surely $R$ is also non-negative, i.e., 0 is a lower bound.  But the
+denominator $p_2$ can of course be arbitrarily near 0, so if at the same time the numerator $p_1$ is finite
 (stepping carefully around the land mine at 0/0), then the upper bound must be infinite:  
 
 $$
@@ -138,7 +138,7 @@ $$
 $$
 
 (Values of $R \gt 1$ will, when we apply this to vaccine efficacies, result in _negative_
-efficacies.  Is that meaningful?  Sure: your vaccine could make things _worse_, making the
+efficacies.  Is that meaningful?  Yes: your vaccine could make things _worse_, making the
 vaccinees _more_ susceptible to disease&hellip; which is surely negative efficacy, no?)  
 
 ### Changes of variables  
@@ -171,8 +171,9 @@ $$
 $$
 
 This is correspondingly appropriate for $1 \lt R$, as it guarantees $p_2 \le 1$, as the
-range requires.  (We'll eventually lose the minus sign, taking absolute value of
-Jacobians.)  
+range requires.  (We'll eventually lose the minus sign, either taking absolute value of
+Jacobians, or more reasonably, keeping careful track of the limits of integeration and
+swapping them when appropriate to cancel a minus sign.)  
 
 So we'll need to do _both_ transformations, piecewise over the range of $R$.  
 
@@ -518,7 +519,7 @@ $$
 $$
 
 where the lower limit vanishes if $d > -1$ (as assumed here), has a constant from 
-${}\{3}F\_{2}(0)$ if $d = 1$, and has a pole if $d < -1$.  
+${}\{3}F\_{2}(0)$ if $d = -1$, and has a pole if $d < -1$.  
 
 We've recognized in the series the _generalized_ hypergeometric function
 ${}\_{3}F\_{2}()$.  The subscripts remind us that there are 3 Pochammer symbols in the
@@ -587,7 +588,7 @@ $$
 So we need to hunt down some identities for ${}\_{3}F\_{2}(1)$ at various parameter
 values.  
 
-&hellip;TBD&hellip; <!-- *** -->
+We have not as yet figured out how to do that.  &hellip;TBD&hellip; <!-- *** -->
 
 To summarize the CDF result:  
 
