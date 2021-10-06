@@ -342,10 +342,6 @@ $$
 \right.
 $$
 
-To map between the 2 solutions, swap $\alpha_1 \leftrightarrow \alpha_2$, swap 
-$\beta_1 \leftrightarrow \beta_2$, and swap $R \leftrightarrow 1/R$.  (Well, _almost_: the
-exponent of $R$ in the middle has a +1 that becomes a -1, because nothing is ever simple.)  
-
 ### Continuity at $R = 1$  
 
 Pham-Gia did not address in his paper whether the 2 different expressions for $\Pr(R)$

@@ -36,7 +36,7 @@ That's a lot, and we won't be putting in the huge effort to live-blog all of the
 But we'll try to hit the high points on the appropriate days.
 
 I know people are really frustrated at the apparent glacial pace of all of this.  But
-&ndash; trust me on this &ndash; they're really moving at breakneck speed, while ensuring
+&ndash; trust me on this &ndash; they're really moving at breakneck speed, while still ensuring
 everything is safe.  The amount of compromise between all the gatekeepers needed is quite
 time-consuming.  (You might argue we need fewer gate-keepers, but that would raise the risk
 of life-ending medical scams in normal times.)  So this schedule looks really good to me!  
@@ -113,8 +113,7 @@ personal stories in loving detail.  But the _real_ story is that 99.4% of the em
 those hospitals decided to get vaccinated.  Concentrating on the remaining 0.6% is just a
 waste of your time at best, and flagrantly deceptive at worst.  
 
-There are many similar results, e.g., United Airlines is losing 0.4% of employees.  Or,
-for example, the Swiss Guard:  
+There are many similar results. For example, consider the [Swiss Guard](https://en.wikipedia.org/wiki/Swiss_Guard):  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -207,7 +206,7 @@ and death by about half for those who do get sick.
 And, of course, it's not yet approved.  That's a whole 'nother story, and more FDA
 hearings.  
 
-### Retraction: mRNA vax myocarditis risk is 1 in 25,000 &mdash; not 1 in 1,000!  
+### A Good Retraction: mRNA vax myocarditis risk is 1 in 25,000 &mdash; not 1 in 1,000!  
 
 <img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-reuters-fact-check.jpg" width="400" height="217" alt="Reuters fact check: retraction myocarditis study, real risk is 1 in 25,000" title = "Reuters fact check: retraction myocarditis study, real risk is 1 in 25,000" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Fifth, there was a nasty preprint a few weeks back claiming that the incidence of
