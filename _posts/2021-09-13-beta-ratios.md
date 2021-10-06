@@ -493,7 +493,7 @@ $+\infty$ to $R_0$, and subtracting from 1:
 $$
 \begin{align*}
 \Pr( \lt R_0 | 0 \le R_0 \le 1) &= \int_0^{R_0}\!\!\!\!\!\!dR \Pr(R | 0 \le R \le 1) \\
-                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{R_0}\!\!\!\!\!\!dR R^{\alpha_1 - 1} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
+                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{R_0}\!\!\!\!\!\!dR \: R^{\alpha_1 - 1} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
 \Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \Pr(R | 1\lt R) \\
                                &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \frac{1}{R^{\alpha_2 + 1}} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R)
 \end{align*}
@@ -507,9 +507,8 @@ We address the first integral by hitting up the power series:
 
 $$
 \begin{align*}
-\int_0^{y \lt 1}&\!\!\!\!dx x^d {}_2F_1(a, b; c; x) \\
-&= \int_0^{y \lt 1}\!\!\!\!dx x^d \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{x^n}{n!} \\
-&= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \int_0^{y \lt 1}\!\!\!\!dx x^{n+d} \\
+\int_0^{y \lt 1}&\!\!\!\!dx \: x^d {}_2F_1(a, b; c; x) &= \int_0^{y \lt 1}\!\!\!\!dx \: x^d \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{x^n}{n!} \\
+&= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \int_0^{y \lt 1}\!\!\!\!dx \: x^{n+d} \\
 &= \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{1}{n!} \left.\frac{x^{n+d+1}}{n+d+1}\right|_0^{y \lt 1} \\
 &= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n}{(c)_n} \frac{d+1}{n+d+1} \frac{y^n}{n!} \\
 &= \frac{y^{d+1}}{d+1} \sum_{n=0}^{+\infty} \frac{(a)_n (b)_n (d+1)_n}{(c)_n (d+2)_n} \frac{y^n}{n!} \\
