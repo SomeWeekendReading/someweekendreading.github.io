@@ -537,15 +537,28 @@ which turns out to just transform this back into the first case:
 
 $$
 \begin{align*}
-\int_{y \gt 1}^{+\infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{1/y \lt 1}\!\!\!\!\!\!\!\!\!du \:\frac{1}{u^2} u^d {}_2F_1(a, b; c; u) \\
-&= \int_{0}^{1/y \lt 1}\!\!\!\!\!\!\!\!\!du \:u^{d-2} u^d {}_2F_1(a, b; c; u) \\
-&= \left.\frac{u^{d-1}}{d-1} {}_3F_2(d-1, a, b; c; u) \right|_0^{1/y \lt 1} \\
+\int_{y \gt 1}^{+\infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{(1/y) \lt 1}\!\!\!\!\!\!\!\!\!du \:\frac{1}{u^2} u^d {}_2F_1(a, b; c; u) \\
+&= \int_{0}^{(1/y) \lt 1}\!\!\!\!\!\!\!\!\!du \:u^{d-2} u^d {}_2F_1(a, b; c; u) \\
+&= \left.\frac{u^{d-1}}{d-1} {}_3F_2(d-1, a, b; c; u) \right|_0^{(1/y) \lt 1} \\
 &= \frac{1}{(d-1)y^{d-1}} {}_3F_2(d-1, a, b; c, d; 1/y)
 \end{align*}
 $$
 
-where the lower limit vanishes at 0 if $d \gt 1$, is complicated if $d = 1$, and has a
-pole if $d \lt 1$.  
+where the lower limit vanishes at 0 if $d \gt 1$ (as assumed here), is complicated if $d =
+1$, and has a pole if $d \lt 1$.  
+
+Armed with those 2 hypergeometric integrals, we can now read off the piecewise CDF from
+the definitions above:  
+
+$$
+\begin{align*}
+\Pr( \lt R_0 | 0 \le R_0 \le 1) &= \int_0^{R_0}\!\!\!\!\!\!dR \Pr(R | 0 \le R \le 1) \\
+                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{R_0}\!\!\!\!\!\!dR \: R^{\alpha_1 - 1} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
+\Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \Pr(R | 1\lt R) \\
+                               &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \frac{1}{R^{\alpha_2 + 1}} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \\
+                              &= \cdots \\
+\end{align*}
+$$
 
 &hellip;TBD&hellip;
 
