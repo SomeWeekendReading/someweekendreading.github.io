@@ -8,7 +8,7 @@ comments: true
 [Warning: Post contains full frontal nerdity.  Bug reports appreciated!] I finally got a
 copy of Pham-Gia's paper on the distribution of the ratio of 2 independent Beta-distributed
 random variables.  While I still have some childhood trauma around hypergeometric functions like
-${}\_{2}F\_{1}()$ and its scarier brother ${}\_{3}F\_{2}()$&hellip; it's time to face my fears.  
+${}\_{2}F\_{1}()$ and its scarier big brother ${}\_{3}F\_{2}()$&hellip; it's time to face my fears.  
 
 
 ## The three B's: Bernoulli, Binomial, and Beta  
@@ -220,6 +220,7 @@ $$
 
 These still contain a residual $p$-integral each, but we'll see next how to interpret those in
 terms of the hypergeometric function ${}\_{2}F\_{1}()$ with various tortured arguments.  
+
 
 ### Hypergeometric functions  
 
@@ -481,7 +482,7 @@ Those two derivative expressions being identical, we have established equality o
 first derivatives at $R = 1$, so our distribution is first-order smooth.  
 
 
-## Ok, what about the cumulative distribution function (CDF)?  
+## Ok, but what about the cumulative distribution function?  
 
 That gives us the PDF (probability distribution function); if we want the CDF (cumulative
 distribution function) to calculate quantiles, we'll have to go beyond Pham-Gia's paper.
@@ -557,12 +558,12 @@ $$
 \Pr( \lt R_0 | 0 \le R_0 \le 1) &= \int_0^{R_0}\!\!\!\!\!\!dR \Pr(R | 0 \le R \le 1) \\
                               &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{R_0}\!\!\!\!\!\!dR \: R^{\alpha_1 - 1} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
                               &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{R_0^{\alpha_1}}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2, 1 - \beta_1;\alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; R_0) \\
-                               &\xrightarrow[R_0 \to 0]{} 0 \\
+                               &\xrightarrow[R_0 \to 0]{} 0 \checkmark \\
 & \\
 \Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \Pr(R | 1\lt R) \\
                                &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \frac{1}{R^{\alpha_2 + 1}} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \\
                               &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_2 R_0^{\alpha_2}} {}_3F_2(\alpha_2, \alpha_1 + \alpha_2, 1 - \beta_2; \alpha_2 + 1, \alpha_1 + \alpha_2 + \beta_1; 1/R_0) \\
-                               &\xrightarrow[R_0 \to +\infty]{} 1 \\
+                               &\xrightarrow[R_0 \to +\infty]{} 1 \checkmark \\
 \end{align*}
 $$
 
@@ -582,6 +583,9 @@ $$
 & = 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_2} {}_3F_2(\alpha_2, \alpha_1 + \alpha_2, 1 - \beta_2; \alpha_2 + 1, \alpha_1 + \alpha_2 + \beta_1; 1)
 \end{align*}
 $$
+
+So we need to hunt down some identities for ${}\_{3}F\_{2}(1)$ at various parameter
+values.  
 
 &hellip;TBD&hellip; <!-- *** -->
 
@@ -610,7 +614,9 @@ I'm a bit suspicious of his Python code, since:
 
 - He calculates things in log space and then exponentiates.  This makes some sense, to
   avoid the large factorials, but also exponentiates roundoff errors in a numerically
-  unstable way.  
+  unstable way.  Better to use a recursion relation on the series coefficients, and
+  transformations to get the argument to be as small as possible on the real line.  (We're
+  not so concerned about the complex plane here.)
 - He does not address what happens when the parameters $a, b, c$ of the hypergeometric
   functions become large.  To analyze the Pfizer or Moderna vaccine trials, these can be
   order of 10s of thousands!  Clearly some sort of recurrence relation is needed to lower
