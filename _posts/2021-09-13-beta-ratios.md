@@ -554,7 +554,11 @@ $$
 \begin{align*}
 \Pr( \lt R_0 | 0 \le R_0 \le 1) &= \int_0^{R_0}\!\!\!\!\!\!dR \Pr(R | 0 \le R \le 1) \\
                               &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{R_0}\!\!\!\!\!\!dR \: R^{\alpha_1 - 1} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
-                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \cdots \\
+                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} 
+\frac{R_0^{\alpha_1}}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2,
+1 - \beta_1;\alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; R_0) \\
+                               &\xrightarrow[R_0 \to 0]{} 0 \\
+& \\
 \Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \Pr(R | 1\lt R) \\
                                &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \frac{1}{R^{\alpha_2 + 1}} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R) \\
                               &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \cdots
