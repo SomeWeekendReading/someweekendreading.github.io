@@ -533,14 +533,19 @@ x &= - du/u^2
 \end{align*}
 $$
 
-which turns out to be quite useful:  
+which turns out to just transform this back into the first case:  
+
 $$
 \begin{align*}
-\int_{y \gt 1}^{\+infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{1/u \lt 1}\!\!\!\!\!\!\!\!\!\frac{du}{u^2} 
-\: u^d {}_2F_1(a, b; c; u)\\
-&= \cdots
+\int_{y \gt 1}^{+\infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{1/y \lt 1}\!\!\!\!\!\!\!\!\!du \:\frac{1}{u^2} u^d {}_2F_1(a, b; c; u) \\
+&= \int_{0}^{1/y \lt 1}\!\!\!\!\!\!\!\!\!du \:u^{d-2} u^d {}_2F_1(a, b; c; u) \\
+&= \left.\frac{u^{d-1}}{d-1} {}_3F_2(d-1, a, b; c; u) \right|_0^{1/y \lt 1} \\
+&= \frac{1}{(d-1)y^(d-1)} {}_3F_2(d-1, a, b; c; 1/y)
 \end{align*}
 $$
+
+where the lower limit vanishes at 0 if $d \gt 1$, is complicated if $d = 1$, and has a
+pole if $d \lt 1$.  
 
 &hellip;TBD&hellip;
 
