@@ -516,18 +516,20 @@ $$
 \end{align*}
 $$
 
-where we've recognized in the series the _generalized_ hypergeometric function
+where the lower limit vanishes if $d > -1$ (as assumed here), has a constant from 
+${}\{3}F\_{2}(0)$ if $d = 1$, and has a pole if $d < -1$.  
+
+We've recognized in the series the _generalized_ hypergeometric function
 ${}\_{3}F\_{2}()$.  The subscripts remind us that there are 3 Pochammer symbols in the
 numerator and 2 in the denominator, vs 2 in the numerator and 1 in the denominator for
 ${}\_{2}F\_{1}()$.  
 
-Ok, we have a little fear and trembling at the sight of ${}\_{3}F\_{2}()$ (having summoned
+Ok, we have a little fear and trembling at the sight of ${}\_{3}F\_{2}()$ (having summoned up
 that which which we might not be able banish).  Nonetheless, we swallow our fears and
 proceed recklessly to the second integral via a change of variables:  
 
 $$
 \begin{align*}
-u &= 1/x \\
 x &= 1/u \\
 x &= - du/u^2
 \end{align*}
@@ -544,8 +546,8 @@ $$
 \end{align*}
 $$
 
-where the lower limit vanishes at 0 if $d \gt 1$ (as assumed here), is complicated if $d =
-1$, and has a pole if $d \lt 1$.  
+where the lower limit vanishes at 0 if $d \gt 1$ (as assumed here), is a constant from
+if ${}\_{3}F\_{2}(0)$ if $d = 1$, and has a pole if $d \lt 1$.  
 
 Armed with those 2 hypergeometric integrals, we can now read off the piecewise CDF from
 the definitions above:  
@@ -554,9 +556,7 @@ $$
 \begin{align*}
 \Pr( \lt R_0 | 0 \le R_0 \le 1) &= \int_0^{R_0}\!\!\!\!\!\!dR \Pr(R | 0 \le R \le 1) \\
                               &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \int_0^{R_0}\!\!\!\!\!\!dR \: R^{\alpha_1 - 1} {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
-                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} 
-\frac{R_0^{\alpha_1}}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2,
-1 - \beta_1;\alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; R_0) \\
+                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{R_0^{\alpha_1}}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2, 1 - \beta_1;\alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; R_0) \\
                                &\xrightarrow[R_0 \to 0]{} 0 \\
 & \\
 \Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \Pr(R | 1\lt R) \\
@@ -572,6 +572,14 @@ manifest, due to the way we structured the integrals.
 However, since we have a piecewise CDF, we have to show it's continuous at the piece
 boundary at $R = 1$.  It must be, since it's the integral of the PDF which we showed above
 is continuous and first-order smooth.  We just want to be sure!  
+
+That amounts to proving the following equality, joining the values of the CDF from below
+and above 1:  
+
+$$
+\frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; 1)
+= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_2} {}_3F_2(\alpha_2, \alpha_1 + \alpha_2, 1 - \beta_2; \alpha_2 + 1, \alpha_1 + \alpha_2 + \beta_1; 1)
+$$
 
 &hellip;TBD&hellip; <!-- *** -->
 
