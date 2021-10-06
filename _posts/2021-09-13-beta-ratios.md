@@ -77,7 +77,7 @@ Then the vaccine efficacy $E$ is how much the risk is lowered, compared to the u
 control arm:  
 
 $$
-E = 100\% \times \frac{p_c - p_v}{p_c} = 100% \times \left(1 - \frac{p_v}{p_c}\right)
+E = 100\% \times \frac{p_c - p_v}{p_c} = 100\% \times \left(1 - \frac{p_v}{p_c}\right)
 $$
 
 Now if we believe that $p_v$ and $p_c$ are Beta-distributed, given the clinical trial as a
