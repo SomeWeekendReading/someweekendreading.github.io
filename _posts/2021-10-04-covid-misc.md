@@ -395,7 +395,7 @@ investigate the groups threatening school boards in particular. <sup id="fn13a">
 They protest mask mandates by ripping masks off people's faces, they protest "critical
 race theory" (a complete hallucination) by threatening board members with "we know where
 you live", they give Nazi salutes, they bring guns to school board meetings&hellip; the
-real suprise here is tht it took this much to trigger FBI interest.  
+real suprise here is tht it took _this much and this long_ to trigger FBI interest.  
 
 Of course, the reaction from the right is the usual Republican hysteria and accusations.
 Rep. Hawley, who apparently supported the Jan 6 seditious conspiracy to block the election
