@@ -387,6 +387,24 @@ pandemic before it starts.
 I prefer the latter.  You should too.  We have effective tools of science to be kind to one
 another, if only we could muster the will to do so.  
 
+## Addendum 2021-Oct-05: The FBI Investigates  
+
+<img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-wapo-3.jpg" width="400" height="161" alt="WaPo: Atty Genl Garland asks FBI to investigate" title = "WaPo: Atty Genl Garland asks FBI to investigate" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+From the _WaPo_ comes news that Attorney General Merrick Garland has asked the FBI to
+investigate the groups threatening school boards in particular. <sup id="fn1a">[[1]](#fn1)</sup> 
+They protest mask mandates by ripping masks off people's faces, they protest "critical
+race theory" (a complete hallucination) by threatening board members with "we know where
+you live", they give Nazi salutes, they bring guns to school board meetings&hellip; the
+real suprise here is tht it took this much to trigger FBI interest.  
+
+Of course, the reaction from the right is the usual Republican hysteria and accusations.
+Rep. Hawley, who apparently supported the Jan 6 seditious conspiracy to block the election
+counting, decided that the Biden administration was using the FBI to intimidate ordinary
+people.  He's clearly hallucinating; the problem of course is that he can get away with a
+Big Lie of this sort.  
+
+Allow me my little fantasy: what are the chances the FBI will nail the Kochs?  
+
 ---
 
 ## Notes &amp; References  
@@ -434,3 +452,5 @@ I've realized I have to take them (somewhat) seriously:
 > money.  
 
 Indeed! [↩](#fn12a)  
+
+<a id="fn13">13</a>: T Bella &amp; D Barrett, ["Garland asks FBI to address recent ‘disturbing spike’ in threats against educators"](https://www.washingtonpost.com/education/2021/10/05/garland-educators-threats-masks-fbi/), _Washington Post_, 2021-Oct-05. [↩](#fn13a)  
