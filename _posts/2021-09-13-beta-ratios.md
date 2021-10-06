@@ -491,12 +491,12 @@ by integrating from $0$ to $R_0$, and the piece for $R_0 \gt 1$ by integrating b
 $+\infty$ to $R_0$, and subtracting from 1:  
 
 $$
-\begin{align*}
+\begin{alignat*}{6}
 \Pr( \lt R_0 | 0 \le R_0 \le 1) &= \int_0^{R_0}\!\!\!\!\!dR \Pr(R | 0 \le R \le 1) \\
-                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} &\cdot& R^{\alpha_1 - 1} &\cdot& {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
-\Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\R\!\!\!\!\!\!dR \Pr(R | 1\lt R) \\
-                               &= \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} &\cdot& \frac{1}{R^{\alpha_2 + 1}} &\cdot& {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R)
-\end{align*}
+                              &= \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} &\int_0^{R_0}\!\!\!\!\!dR & R^{\alpha_1 - 1} &\cdot& {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + \alpha_2 + \beta_2; R) \\
+\Pr( \lt R_0 | 1 \lt R_0)       &= 1 - \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR \Pr(R | 1\lt R) \\
+                               &= 1 - \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} & \int_{R_0}^{+\infty}\!\!\!\!\!\!\!\!\!dR & \frac{1}{R^{\alpha_2 + 1}} &\cdot& {}_2F_1(\alpha_1 + \alpha_2, 1 - \beta_2; \alpha_1 + \alpha_2 + \beta_1; 1/R)
+\end{alignat*}
 $$
 
 That leaves us with the riddle of how to integrate powers times ${}\_2F\_{1}()$'s, and the
