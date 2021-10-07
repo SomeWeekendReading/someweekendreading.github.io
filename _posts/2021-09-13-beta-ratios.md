@@ -44,7 +44,7 @@ coin comes up heads?  A na&iuml;ve estimate would just give the single point val
 $p = k/N$.  A better approach is to regard $p$ as a random variable, whose distribution you're
 inferring from experiment.  The Bayesian way to do this is to start with a prior
 distribution that summarizes your knowledge before the experiment.  If you don't know
-anything, then it's hard to beat a uniform distribution on $[0, 1]$.  This can
+_anything_, then it's hard to beat a uniform distribution on $[0, 1]$.  This can
 conveniently be done with the
 [Beta distribution of the first kind](https://en.wikipedia.org/wiki/Beta_distribution):  
 
@@ -55,7 +55,9 @@ $$
 where the normalization is
 $B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).  
 
-It's pretty clear that the uniform distribution is $\alpha = 1, \beta = 1$.  At that point
+It's pretty clear that the uniform distribution is $\alpha = 1, \beta = 1$.  
+
+At that point
 it's a pretty straightforward application of Bayes Rule to show that the posterior
 distribution for $p$ will be Beta-distributed with parameters $\alpha = k + 1$
 (successes + 1), and $\beta = N - k + 1$ (failures + 1).  So all you have to do is _count_
@@ -663,7 +665,7 @@ The top graph here is from Saffer's repository.  He shows:
 - the PDF of the ratio, its 90% confidence interval, and its mean (green),  
 - the CDF of the ratio (red)  
 
-The bottom graph here uses our formulae above and a naive implementation using the 
+The second graph here uses our formulae above and a naive implementation using the 
 [R](https://www.r-project.org) package 
 [hypergeo](https://cran.r-project.org/web/packages/hypergeo/index.html),
 to reproduce the graph as best we can. <sup id="fn4a">[[4]](#fn4)</sup>  
@@ -700,7 +702,7 @@ Quantile function:
 Worked example: vaccine efficacy for a small trial, say 15 treatment + 10 control?
 -->
 
-At some point soon, I'd like to implement this in [R](https://www.r-project.org).  There
+At some point _soon_o, I'd like to implement this in [R](https://www.r-project.org).  There
 are some gnarly issues with numerical roundoff. Even though the hypergeometric series
 terminates as a polynomial for integer $\beta$'s, one simply cannot na&iuml;vely compute a
 polynomial of order 15,000 for a large clinical trial and expect to get anything other
