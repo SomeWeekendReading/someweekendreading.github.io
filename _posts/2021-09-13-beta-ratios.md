@@ -21,7 +21,7 @@ Suppose you flip a loaded coin that has probability $p$ of coming up heads.  Tha
 2 discrete values:  
 
 $$
-\left{
+\left\{
   \begin{align*}
     \Pr\left(\mbox{heads}\right) &= p \\
     \Pr\left(\mbox{tails}\right) &= 1\
