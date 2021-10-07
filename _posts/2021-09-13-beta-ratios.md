@@ -653,7 +653,7 @@ The top graph here is from Saffer's work.  He shows:
 The bottom graph here uses our formulae above and a naive implementation using the 
 [R](https://www.r-project.org) package 
 [hypergeo](https://cran.r-project.org/web/packages/hypergeo/index.html),
-to reproduce the graph as best we can.  
+to reproduce the graph as best we can. <sup id="fn4a">[[4]](#fn4)</sup>  
 
 We note with some satisfaction that the graphs are more or less identical!  
 
@@ -763,3 +763,5 @@ we were able to reproduce Pham-Gia's main result, the piecewise PDF on pp. 2698-
 <a id="fn2">2</a>: OK, the truth is that I was actually 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle pretty tight because the notation between a couple texts was confusingly and subtly different.  I thought I'd suddenly become stupid!  It took years to get past that, and now even 40+ years later it's a sensitive spot.  Still&hellip; time to face my fears. [↩](#fn2a)  
 
 <a id="fn3">3</a>: J Saffer, ["Beta Quotient Distribution"](https://github.com/jsaffer/beta_quotient_distribution), _GitHub Repository_, last committed 2020-Jun-06, retrieved 2021-Sep-13. [↩](#fn3a)  
+
+<a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), [R script for naive comparison with J Saffer's example]({{ site.baseurl }}/assets/2021-09-13-beta-ratios-naive-comparison-vs-saffer.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Sep-13. [↩](#fn4a)  
