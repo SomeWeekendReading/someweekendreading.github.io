@@ -645,14 +645,15 @@ These values won't trigger any of our concerns about large-parameter evaluation 
 hypergeometric or generalized hypergeometric functions.  So let's compare!  
 
 The top graph here is from Saffer's work.  He shows:  
-- the PDF of the numerator in blue and its 90% confidence interval and mean,  
-- the PDF of the denominator in orange and its 90% confidence interval and mean,  
-- the PDF of the ratio in green and its 90% confidence interval and mean,  
-- the CDF of the ratio in red (dotted line)  
+- the PDF of the numerator and its 90% confidence interval and mean (blue),  
+- the PDF of the denominator and its 90% confidence interval and mean (orange),  
+- the PDF of the ratio and its 90% confidence interval and mean (green),  
+- the CDF of the ratio (red)  
 
 The bottom graph here uses our formulae above and a naive implementation using the 
 [R](https://www.r-project.org) package 
-[hypergeo](https://cran.r-project.org/web/packages/hypergeo/index.html).  
+[hypergeo](https://cran.r-project.org/web/packages/hypergeo/index.html),
+to reproduce the graph as best we can.  
 
 We note with some satisfaction that the graphs are more or less identical!  
 
