@@ -22,8 +22,8 @@ Suppose you flip a loaded coin that has probability $p$ of coming up heads.  Tha
 
 $$
 \begin{align*}
- \Pr(heads) &= p \\
- \Pr(tails) &= 1-p
+ \Pr{\mathrrm{heads}} &= p \\
+ \Pr{{\mathrm{tails}} &= 1-p
 \end{align*}
 $$
 
