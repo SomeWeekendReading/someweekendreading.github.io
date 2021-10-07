@@ -624,11 +624,13 @@ And for $w > 1$:
 
 I'm a bit suspicious of his Python code, since:  
 
+- Hey, I'm an [R](https://www.r-project.org) guy.  Of _course_ I'm a bit uneasy with
+  Python stuff.  
 - He calculates things in log space and then exponentiates.  This makes some sense, to
-  avoid the large factorials, but also exponentiates roundoff errors in a numerically
+  avoid large factorials, but it also exponentiates roundoff errors in a numerically
   unstable way.  Better to use a recursion relation on the series coefficients, and
   transformations to get the argument to be as small as possible on the real line.  (We're
-  not so concerned about the complex plane here.)
+  not so concerned about the complex plane here.)  
 - He does not address what happens when the parameters $a, b, c$ of the hypergeometric
   functions become large.  To analyze the Pfizer or Moderna vaccine trials, these can be
   order of 10s of thousands!  Clearly some sort of recurrence relation is needed to lower
@@ -637,17 +639,18 @@ I'm a bit suspicious of his Python code, since:
 <img src="{{ site.baseurl }}/assets/2021-09-13-beta-ratios-naive-comparison-vs-saffer-saffer.png" width="400" height="225" alt="Saffer: example of 2 beta distributions and their ratio distribution" title = "Saffer: example of 2 beta distributions and their ratio distribution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/assets/2021-09-13-beta-ratios-naive-comparison-vs-saffer.png" width="400" height="225" alt="Us: same example of 2 beta distributions and their ratio distribution" title = "Us: same example of 2 beta distributions and their ratio distribution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But we can test against his Python code on a low order example and see if we agree.
-Fortunately, Saffer provides exactly such an example!  
+Fortunately, Saffer provides exactly such an example.  (This is how good science proceeds,
+by seeing if independent assessment agree.)  
 
 Saffer's repository shows a graph with an example of a numerator Beta distribution with 
 $\alpha_ 1 = 3, \beta_1 = 6$ and a denominator Beta distribution with $\alpha_ 1 = 12, \beta_1 = 7$.
 These values won't trigger any of our concerns about large-parameter evaluation of
-hypergeometric or generalized hypergeometric functions.  So let's compare!  
+hypergeometric or generalized hypergeometric functions.  So let's compare.  
 
-The top graph here is from Saffer's work.  He shows:  
-- the PDF of the numerator and its 90% confidence interval and mean (blue),  
-- the PDF of the denominator and its 90% confidence interval and mean (orange),  
-- the PDF of the ratio and its 90% confidence interval and mean (green),  
+The top graph here is from Saffer's repository.  He shows:  
+- the PDF of the numerator, its 90% confidence interval, and its mean (blue),  
+- the PDF of the denominator, its 90% confidence interval, and its mean (orange),  
+- the PDF of the ratio, its 90% confidence interval, and its mean (green),  
 - the CDF of the ratio (red)  
 
 The bottom graph here uses our formulae above and a naive implementation using the 
@@ -655,7 +658,7 @@ The bottom graph here uses our formulae above and a naive implementation using t
 [hypergeo](https://cran.r-project.org/web/packages/hypergeo/index.html),
 to reproduce the graph as best we can. <sup id="fn4a">[[4]](#fn4)</sup>  
 
-We note with some satisfaction that the graphs are more or less identical!  Apparently
+We note with some satisfaction that the graphs are more or less identical.  Apparently
 we're calculating the same thing&hellip; we may be wrong, but if so, we're wrong _together._
 So, at least for relatively smallish values of the hypergeometric parameters $a, b, c$ we
 agree.  It will be another matter to make this practical for large values of $a, b, c$.  
@@ -686,16 +689,11 @@ Quantile function:
 Worked example: vaccine efficacy for a small trial, say 15 treatment + 10 control?
 -->
 
-At some point soon, I'd like to implement this in [R](https://www.r-project.org), perhaps
-mirroring Saffer's Python implementation.  There are some gnarly issues with numerical
-roundoff. Even though the hypergeometric series terminates as a polynomial for integer
-$\beta$'s, one simply cannot na&iuml;vely compute a polynomial of order 15,000 for a large
-clinical trial and expect to get anything other than nonsense!  
-
-I note that Saffer sensibly computes everything in log space first, and then
-exponentiates.  This does, though, run the risk of exponentiating the roundoff in a
-catastrophic fashion.  Some rigorous test cases with known answers are required before
-I'll trust it.  
+At some point soon, I'd like to implement this in [R](https://www.r-project.org).  There
+are some gnarly issues with numerical roundoff. Even though the hypergeometric series
+terminates as a polynomial for integer $\beta$'s, one simply cannot na&iuml;vely compute a
+polynomial of order 15,000 for a large clinical trial and expect to get anything other
+than nonsense!  
 
 That's work for another day.  
 
@@ -726,7 +724,8 @@ However, there are several things we _haven't_ done:
 - While we have the CDF function, we haven't demonstrated continuity at $R = 1$.  That
   requires some identities about ${}\_{3}F\_{2}(1)$ for various parameter values.  
 - We also haven't wrestled with all the numeric issues of implementing this, say in 
-  [R](https://www.r-project.org), though Saffer's Python code is probably a good guide.  
+  [R](https://www.r-project.org).  However, for relatively small values of the parametes, 
+  we've managed to reproduce convincingly the example Saffer reports in his repository.  
 - Furthermore, we haven't investigated the quantile function (functional inverse of the CDF)
   which would let us read off quantiles directly.  Looking at Saffer's code, he hasn't
   either: he's using Newton's method to solve the relevant equation directly from the CDF,
