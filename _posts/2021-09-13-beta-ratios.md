@@ -634,11 +634,10 @@ I'm a bit suspicious of his Python code, since:
   order of 10s of thousands!  Clearly some sort of recurrence relation is needed to lower
   the order there.  
   
-But when we have some R code, we can test against his Python code at low order and see if
-we agree.  
-
 <img src="{{ site.baseurl }}/assets/2021-09-13-beta-ratios-naive-comparison-vs-saffer-saffer.png" width="400" height="225" alt="Saffer: example of 2 beta distributions and their ratio distribution" title = "Saffer: example of 2 beta distributions and their ratio distribution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/assets/2021-09-13-beta-ratios-naive-comparison-vs-saffer.png" width="400" height="225" alt="Us: same example of 2 beta distributions and their ratio distribution" title = "Us: same example of 2 beta distributions and their ratio distribution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+But we can test against his Python code on a low order example and see if we agree.
+Fortunately, Saffer provides exactly such an example!  
 
 Saffer's repository shows a graph with an example of a numerator Beta distribution with 
 $\alpha_ 1 = 3, \beta_1 = 6$ and a denominator Beta distribution with $\alpha_ 1 = 12, \beta_1 = 7$.
