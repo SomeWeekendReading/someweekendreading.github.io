@@ -23,7 +23,7 @@ Suppose you flip a loaded coin that has probability $p$ of coming up heads.  Tha
 $$
 \begin{align*}
  \Pr(heads) &= p \\
- \pr(tails) &= 1-p
+ \Pr(tails) &= 1-p
 \end{align*}
 $$
 
