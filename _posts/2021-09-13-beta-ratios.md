@@ -5,8 +5,6 @@ tags: CatBlogging Math Statistics TheDivineMadness
 comments: true
 ---
 
-<!-- *** Change source for all identities to Abramowitz & Stegun. -->
-
 [Warning: Post contains full frontal nerdity.  Bug reports appreciated!] I finally got a
 copy of Pham-Gia's paper on the distribution of the ratio of 2 independent Beta-distributed
 random variables.  While I still have some childhood trauma around hypergeometric functions like
@@ -15,6 +13,7 @@ ${}\_{2}F\_{1}()$ and its scarier big brother ${}\_{3}F\_{2}()$&hellip; it's tim
 
 ## The three B's: Bernoulli, Binomial, and Beta  
 
+<!-- *** Change source for all identities to Abramowitz & Stegun. -->
 <!-- *** ref heckerman?  I mean, you DID learn it from there... -->
 Suppose you flip a loaded coin that has probability $p$ of coming up heads.  That's a 
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), with just
