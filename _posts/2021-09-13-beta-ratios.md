@@ -639,7 +639,24 @@ we agree.
 
 <img src="{{ site.baseurl }}/assets/2021-09-13-beta-ratios-naive-comparison-vs-saffer-saffer.png" width="400" height="225" alt="Saffer: example of 2 beta distributions and their ratio distribution" title = "Saffer: example of 2 beta distributions and their ratio distribution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/assets/2021-09-13-beta-ratios-naive-comparison-vs-saffer.png" width="400" height="225" alt="Us: same example of 2 beta distributions and their ratio distribution" title = "Us: same example of 2 beta distributions and their ratio distribution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-&hellip; explain this &hellip;  
+
+Saffer's repository shows a graph with an example of a numerator Beta distribution with 
+$\alpha_ 1 = 3, \beta_1 = 6$ and a denominator Beta distribution with $\alpha_ 1 = 12, \beta_1 = 7$.
+These values won't trigger any of our concerns about large-parameter evaluation of
+hypergeometric or generalized hypergeometric functions.  So let's compare!  
+
+The top graph here is from Saffer's work.  He shows:  
+- the PDF of the numerator in blue and its 90% confidence interval and mean,  
+- the PDF of the denominator in orange and its 90% confidence interval and mean,  
+- the PDF of the ratio in green and its 90% confidence interval and mean,  
+- the CDF of the ratio in red (dotted line)  
+
+The bottom graph here uses our formulae above and a naive implementation using the 
+[R](https://www.r-project.org) package 
+[hypergeo](https://cran.r-project.org/web/packages/hypergeo/index.html).  
+
+We note with some satisfaction that the graphs are more or less identical!  
+
 
 ## Computational realization for practical use  
 
