@@ -655,7 +655,10 @@ The bottom graph here uses our formulae above and a naive implementation using t
 [hypergeo](https://cran.r-project.org/web/packages/hypergeo/index.html),
 to reproduce the graph as best we can. <sup id="fn4a">[[4]](#fn4)</sup>  
 
-We note with some satisfaction that the graphs are more or less identical!  
+We note with some satisfaction that the graphs are more or less identical!  Apparently
+we're calculating the same thing&hellip; we may be wrong, but if so, we're wrong _together._
+So, at least for relatively smallish values of the hypergeometric parameters $a, b, c$ we
+agree.  It will be another matter to make this practical for large values of $a, b, c$.  
 
 
 ## Computational realization for practical use  
@@ -760,7 +763,7 @@ While there may or may not be similar typos in the rest of the paper, we haven't
 carefully since it does not bear directly on our interests.  But with the corrigenda above,
 we were able to reproduce Pham-Gia's main result, the piecewise PDF on pp. 2698-2699. [↩](#fn1a)  
 
-<a id="fn2">2</a>: OK, the truth is that I was actually 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle pretty tight because the notation between a couple texts was confusingly and subtly different.  I thought I'd suddenly become stupid!  It took years to get past that, and now even 40+ years later it's a sensitive spot.  Still&hellip; time to face my fears. [↩](#fn2a)  
+<a id="fn2">2</a>: OK, the truth is that I was actually 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle _pretty tight_, because the notation between a couple texts was subtly and _confusingly_ different.  I thought I'd suddenly become stupid!  It took _years_ to get past that, and now even 45 years later, it's _still_ a sensitive spot.  But&hellip; time to face my fears. [↩](#fn2a)  
 
 <a id="fn3">3</a>: J Saffer, ["Beta Quotient Distribution"](https://github.com/jsaffer/beta_quotient_distribution), _GitHub Repository_, last committed 2020-Jun-06, retrieved 2021-Sep-13. [↩](#fn3a)  
 
