@@ -598,9 +598,7 @@ $$
 $$
 
 So we need to hunt down some identities for ${}\_{3}F\_{2}(1)$ at various parameter
-values.  
-
-We have not as yet figured out how to do that.  &hellip;TBD&hellip; <!-- *** -->
+values.  We have not as yet figured out how to do that.  &hellip;TBD&hellip; <!-- *** -->
 
 To summarize the CDF result:  
 

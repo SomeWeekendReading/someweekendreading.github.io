@@ -2,7 +2,6 @@
 ## Copyright (c) 2021, nobody-in-particular.  All rights reserved.  As if you care.
 
 toolsDir <- "../../tools"                              # Various tools available from author
-## source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline construction tools
 source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics hacks
 
 library("hypergeo")                                    # Hypergeometric functions
@@ -108,7 +107,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
               type = "l", lwd = 2,                     #
               xlim = c(0, xmax), ylim = c(0, ymax),    #
               xlab = "X", ylab = "Pr(X) or Pr(> X)",   #
-              main = "Saffer Example: Beta Ratio Distribution")
+              main = "Saffer Example: Beta Ratio")     #
 
       colorCI(cols, "numerator",   alpha, xvals, numPDF,   num05,   num95)
       colorCI(cols, "denominator", alpha, xvals, denomPDF, denom05, denom95)
