@@ -18,7 +18,7 @@ ${}\_{2}F\_{1}()$ and its scarier big brother ${}\_{3}F\_{2}()$&hellip; it's tim
 <!-- *** ref heckerman?  I mean, you DID learn it from there... -->
 Suppose you flip a loaded coin that has probability $p$ of coming up heads.  That's a 
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), with just
-2 discrete values.  
+2 discrete values:  
 
 $$
 \begin{align*}
@@ -35,11 +35,11 @@ $$
 $$
 
 Next, suppose you don't know how _much_ the coin is loaded.  Somebody lets you take $N$
-flips, and you observe $k$ heads.  What should you believe about $p$, the probability the
-coin comes up heads?  A na&iuml;ve estimate would just give the single point value 
-$p = k/N$.  
+flips, and you observe $k$ heads.  
 
-A better approach is to regard $p$ as a random variable, whose distribution you're
+What should you believe about $p$, the probability the
+coin comes up heads?  A na&iuml;ve estimate would just give the single point value 
+$p = k/N$.  A better approach is to regard $p$ as a random variable, whose distribution you're
 inferring from experiment.  The Bayesian way to do this is to start with a prior
 distribution that summarizes your knowledge before the experiment.  If you don't know
 anything, then it's hard to beat a uniform distribution on $[0, 1]$.  This can
@@ -55,20 +55,20 @@ $B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki
 
 It's pretty clear that the uniform distribution is $\alpha = 1, \beta = 1$.  At that point
 it's a pretty straightforward application of Bayes Rule to show that the posterior
-distribution for $p$ will be Beta-distributed with parameters 
-$\alpha = k + 1, \beta = N - k + 1$.  So all you have to do is _count_ the number of
-trials and successes to get a posterior probability distribution that reflects your
-complete knowledge (and uncertainty!) of $p$.  
+distribution for $p$ will be Beta-distributed with parameters $\alpha = k + 1$
+(successes + 1), and $\beta = N - k + 1$ (failures + 1).  So all you have to do is _count_
+the number of trials and successes to get a posterior probability distribution that
+completely reflects your knowledge (and uncertainty!) of $p$.  
 
 
 ## Why we're interested: vaccine efficacy confidence intervals  
 
-The reason we're interested in this is vaccine efficacy confidence intervals.  Basically
-you have $N_v$ people enrolled in the vaccine arm of the trial, and see $I_v$ infections.
-At the same time, you have $N_c$ people enrolled in the control arm, and observe $I_c$
-infections.  
+The reason we're interested in this is vaccine efficacy confidence intervals.  (Hey,
+COVID-19 pandemic, right?)  Basically you have $N_v$ people enrolled in the vaccine arm of
+the trial, and see $I_v$ infections.  At the same time, you have $N_c$ people enrolled in
+the control arm, and observe $I_c$ infections.  
 
-The coin we flipped above here is: heads you get the disease, tails you don't.  We'd like
+The coin we flipped above is here: heads you get the disease, tails you don't.  We'd like
 to know how much the vaccine lowers your risk of disease.  
 
 So point estimates of the probability of infection in each arm are:  
@@ -90,8 +90,8 @@ $$
 E = 100\% \times \frac{p_c - p_v}{p_c} = 100\% \times \left(1 - \frac{p_v}{p_c}\right)
 $$
 
-Now if we believe that $p_v$ and $p_c$ are Beta-distributed, given the clinical trial as a
-bunch of disease-catching coin flips, then vaccine efficacy is distributed as (a trivial linear
+Now if we believe that $p_v$ and $p_c$ are Beta-distributed, then given the clinical trial as a
+bunch of disease-catching coin flips, the vaccine efficacy is distributed as (a trivial linear
 function of) the ratio of a couple of independent Beta variables.  
 
 Ok, so what's the distribution of a ratio of independent Beta variables?  There are a
@@ -770,7 +770,7 @@ While there may or may not be similar typos in the rest of the paper, we haven't
 carefully since it does not bear directly on our interests.  But with the corrigenda above,
 we were able to reproduce Pham-Gia's main result, the piecewise PDF on pp. 2698-2699. [↩](#fn1a)  
 
-<a id="fn2">2</a>: OK, the truth is that I was actually 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle _pretty tight_, because the notation between a couple texts was subtly and _confusingly_ different.  I thought I'd suddenly become stupid!  It took _years_ to get past that, and now even 45 years later, it's _still_ a sensitive spot.  But&hellip; time to face my fears. [↩](#fn2a)  
+<a id="fn2">2</a>: OK, the truth is that I was actually a mere 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle _pretty tight_, because the notation between a couple texts was subtly and _confusingly_ different.  I thought I'd suddenly become stupid!  It took _years_ to get past that, and now even 45 years later, it's _still_ a sensitive spot.  But&hellip; time to face my fears. [↩](#fn2a)  
 
 <a id="fn3">3</a>: J Saffer, ["Beta Quotient Distribution"](https://github.com/jsaffer/beta_quotient_distribution), _GitHub Repository_, last committed 2020-Jun-06, retrieved 2021-Sep-13. [↩](#fn3a)  
 
