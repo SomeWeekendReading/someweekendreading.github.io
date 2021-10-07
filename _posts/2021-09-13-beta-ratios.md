@@ -21,12 +21,12 @@ Suppose you flip a loaded coin that has probability $p$ of coming up heads.  Tha
 2 discrete values:  
 
 $$
-\begin{align*}
 \left{
- \Pr\left(\mbox{heads}\right) &= p \\
- \Pr\left(\mbox{tails}\right) &= 1\
+  \begin{align*}
+    \Pr\left(\mbox{heads}\right) &= p \\
+    \Pr\left(\mbox{tails}\right) &= 1\
+  \end{align*}
 \right.
-\end{align*}
 $$
 
 Now suppose you do that $N$ times, and observe that heads comes up $k$ times.  That's a 
