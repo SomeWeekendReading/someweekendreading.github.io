@@ -47,14 +47,14 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
     stopifnot(R >= 0)                                  # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
-        R^alpha1 / alpha1 *
+        R^alpha1 / alpha1 *                            #
         genhypergeo(c(alpha1, alpha1 + alpha2, 1 - beta1), c(alpha1 + 1, alpha1 + alpha2 + beta2),
-                    R)
+                    R)                                 #
     else                                               # Large values of R
      1 - beta(alpha1 + alpha2, beta1) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
-       1 / (alpha2 * R^alpha2) *
+       1 / (alpha2 * R^alpha2) *                       #
        genhypergeo(c(alpha2, alpha1 + alpha2, 1 - beta2), c(alpha2 + 1, alpha1 + alpha2 + beta1),
-                   1/R)
+                   1/R)                                #
   }                                                    #
 
   betaRatioMean <- function(alpha1, beta1, alpha2, beta2) {
@@ -75,18 +75,22 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
             border = NA, col = col)                    # Filled in 90% credible interval
   }                                                    #
 
+  ## Values where we numerically evaluate the distributions
   xvals    <- seq(from = 0, to = xmax, length.out = nPoints)
 
+  ## Numerator beta distribution
   numPDF   <- dbeta(x = xvals, shape1 = alpha1, shape2 = beta1)
   numMean  <- alpha1 / (alpha1 + beta1)                # Mean of beta distribution
   num05    <- qbeta(p = 0.05, shape1 = alpha1, shape2 = beta1)
   num95    <- qbeta(p = 0.95, shape1 = alpha1, shape2 = beta1)
 
+  ## Denominator bea distribution
   denomPDF  <- dbeta(x = xvals, shape1 = alpha2, shape2 = beta2)
   denomMean <- alpha2 / (alpha2 + beta2)               # Mean of beta distribution
   denom05   <- qbeta(p = 0.05, shape1 = alpha2, shape2 = beta2)
   denom95   <- qbeta(p = 0.95, shape1 = alpha2, shape2 = beta2)
 
+  ## Ratiodistribution
   ratioPDF  <- sapply(xvals, function(R) { betaRatioPDF(alpha1, beta1, alpha2, beta2, R) })
   ratioCDF  <- sapply(xvals, function(R) { betaRatioCDF(alpha1, beta1, alpha2, beta2, R) })
   ratioMean <- betaRatioMean(alpha1, beta1, alpha2, beta2)
@@ -124,7 +128,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
        mgp = c(1.7, 0.5, 0),                           # Axis title, labels, ticks
        las = 1,                                        # Always horizontal axis labels
        ps  = 16)                                       # Larger type size for file capture
-
-    invisible(NA)                                      # Return nothing of interest, invisibly
   })                                                   #
+
+  invisible(NA)                                        # Return nothing of interest, invisibly
 }                                                      #
