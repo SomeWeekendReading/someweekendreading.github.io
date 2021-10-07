@@ -15,9 +15,17 @@ ${}\_{2}F\_{1}()$ and its scarier big brother ${}\_{3}F\_{2}()$&hellip; it's tim
 
 ## The three B's: Bernoulli, Binomial, and Beta  
 
+<!-- *** ref heckerman?  I mean, you DID learn it from there... -->
 Suppose you flip a loaded coin that has probability $p$ of coming up heads.  That's a 
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), with just
 2 discrete values.  
+
+$$
+\begin{align*}
+ \Pr(heads) &= p \\
+ \pr(tails) &= 1-p
+\end{align*}
+$$
 
 Now suppose you do that $N$ times, and observe that heads comes up $k$ times.  That's a 
 [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution):  
