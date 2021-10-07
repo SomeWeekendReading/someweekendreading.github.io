@@ -702,7 +702,7 @@ Quantile function:
 Worked example: vaccine efficacy for a small trial, say 15 treatment + 10 control?
 -->
 
-At some point _soon_o, I'd like to implement this in [R](https://www.r-project.org).  There
+At some point _soon_, I'd like to implement this in [R](https://www.r-project.org).  There
 are some gnarly issues with numerical roundoff. Even though the hypergeometric series
 terminates as a polynomial for integer $\beta$'s, one simply cannot na&iuml;vely compute a
 polynomial of order 15,000 for a large clinical trial and expect to get anything other
