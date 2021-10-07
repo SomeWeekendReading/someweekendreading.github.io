@@ -24,7 +24,7 @@ $$
 \left\{
   \begin{align*}
     \Pr\left(\mbox{heads}\right) &= p \\
-    \Pr\left(\mbox{tails}\right) &= 1\
+    \Pr\left(\mbox{tails}\right) &= 1 - p
   \end{align*}
 \right.
 $$
