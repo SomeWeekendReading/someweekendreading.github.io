@@ -22,17 +22,18 @@ library("hypergeo")                                    # For hypergeo() and genh
 
 doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribution
                  alpha2 = 12, beta2 = 7,               # Denominator beta distribution
-                 nPoints  = 1000,
-                 xmax     = 2.0,
-                 ymax     = 3.75,
-                 alpha    = 0.40,
-                 cols     = c(numerator   = "blue",
-                              denominator = "orange",
-                              ratio       = "green",
-                              ratioCDF    = "red"),
+                 nPoints  = 1000,                      # Number of points on each curve
+                 xmax     = 2.0,                       # Limit on horizontal axis from Saffer
+                 ymax     = 3.75,                      # Limit on vertical axis from Saffer
+                 alpha    = 0.40,                      # Transparency level of fill colors
+                 cols     = c(numerator   = "blue",    # Colors for various curves
+                              denominator = "orange",  #  and the fill for them inside
+                              ratio       = "green",   #  their 90% credible intervals
+                              ratioCDF    = "red"),    # Finally, destination for plot
                  plotFile = "2021-09-13-beta-ratios-naive-comparison-vs-saffer.png") {
 
   betaRatioPDF <- function(alpha1, beta1, alpha2, beta2, R) {
+    ## *** NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     stopifnot(R >= 0)                                  # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -45,6 +46,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   }                                                    #
 
   betaRatioCDF <- function(alpha1, beta1, alpha2, beta2, R) {
+    ## *** NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     stopifnot(R >= 0)                                  # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -60,6 +62,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   betaRatioQuantile <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
     stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
+    stopifnot(0 <= minR && 0 <= maxR && minR < maxR)   # Really: don't be ridiculous
     uniroot(function(R) {q - betaRatioCDF(alpha1, beta1, alpha2, beta2, R)}, c(minR, maxR))$"root"
   }                                                    #
 
