@@ -74,8 +74,8 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
     alpha1 * (alpha2 + beta2 - 1) / ((alpha1 + beta1) * (alpha2 - 1))
   }                                                    # Mean has simple closed form
 
-  colorCI <- function(cols, whichColor, alpha, xvals, yvals, x05, x95) {
-    col <- col2rgb(cols[[whichColor]])                 # Base color to make transparent
+  colorCI <- function(col, alpha, xvals, yvals, x05, x95) {
+    col <- col2rgb(col)                                # Base color to make transparent
     col <- rgb(col[[1]], col[[2]], col[[3]], max = 255, alpha = alpha * 255)
     foo <- subset(data.frame(x = xvals, pdf = yvals), subset = x05 <= x & x <= x95)
     polygon(x = c(rev(foo$"x"),                   foo$"x"),
@@ -119,9 +119,9 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
               xlab = "X", ylab = "Pr(X) or Pr(> X)",   #
               main = "Saffer's Example Beta Ratio")    #
 
-      colorCI(cols, "numerator",   alpha, xvals, numPDF,   num05,   num95)
-      colorCI(cols, "denominator", alpha, xvals, denomPDF, denom05, denom95)
-      colorCI(cols, "ratio",       alpha, xvals, ratioPDF, ratio05, ratio95)
+      colorCI(cols[["numerator"]],   alpha, xvals, numPDF,   num05,   num95)
+      colorCI(cols[["denominator"]], alpha, xvals, denomPDF, denom05, denom95)
+      colorCI(cols[["ratio"]],       alpha, xvals, ratioPDF, ratio05, ratio95)
 
       abline(v   = c(numMean, denomMean, ratioMean),   # Vertical dashed lines at means
              col = c(cols[["numerator"]], cols[["denominator"]], cols[["ratio"]]),
