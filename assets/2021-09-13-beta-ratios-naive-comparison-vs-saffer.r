@@ -4,7 +4,7 @@
 toolsDir <- "../../tools"                              # Various tools available from author
 source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics hacks
 
-library("hypergeo")                                    # Hypergeometric functions
+library("hypergeo")                                    # For hypergeo() and genhypergeo()
 
 ##
 ## Compare with the example Julian Saffer plots on his GitHub repository:
@@ -26,8 +26,10 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
                  xmax     = 2.0,
                  ymax     = 3.75,
                  alpha    = 0.40,
-                 cols     = c(numerator = "blue", denominator = "orange",
-                              ratio = "green", ratioCDF = "red"),
+                 cols     = c(numerator   = "blue",
+                              denominator = "orange",
+                              ratio       = "green",
+                              ratioCDF    = "red"),
                  plotFile = "2021-09-13-beta-ratios-naive-comparison-vs-saffer.png") {
 
   betaRatioPDF <- function(alpha1, beta1, alpha2, beta2, R) {
@@ -56,14 +58,18 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
                    1/R)                                #
   }                                                    #
 
-  betaRatioMean <- function(alpha1, beta1, alpha2, beta2) {
-    alpha1 * (alpha2 + beta2 - 1) / ((alpha1 + beta1) * (alpha2 - 1))
+  betaRatioQuantile <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
+    stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
+    uniroot(function(R) {q - betaRatioCDF(alpha1, beta1, alpha2, beta2, R)}, c(minR, maxR))$"root"
   }                                                    #
 
-  betaRatioQuantile <- function(alpha1, beta1, alpha2, beta2, q, maxR = 10) {
-    stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
-    uniroot(function(R) {q - betaRatioCDF(alpha1, beta1, alpha2, beta2, R)}, c(0, maxR))$"root"
-  }                                                    #
+  betaRatioMedian <- function(alpha1, beta1, alpha2, beta2, minR = 0, maxR = 10) {
+    betaRatioQuantile(alpha1, beta1, alpha2, beta2, 0.50, minR, maxR)
+  }                                                    # Real calculation uses incomplete Beta func
+
+  betaRatioMean <- function(alpha1, beta1, alpha2, beta2) {
+    alpha1 * (alpha2 + beta2 - 1) / ((alpha1 + beta1) * (alpha2 - 1))
+  }                                                    # Mean has simple closed form
 
   colorCI <- function(cols, whichColor, alpha, xvals, yvals, x05, x95) {
     col <- col2rgb(cols[[whichColor]])                 # Base color to make transparent
@@ -99,15 +105,16 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   ## Saffer: 1152 x 648 --> us: 400 x 225
   withPNG(file.path(".", plotFile), 400, 225, FALSE, function() {
     withPars(function() {                              # Save/restore graphics parameters
+
       matplot(x    = xvals,                            # Plot PDFs and ratio CDF
               y    = matrix(data = c(numPDF, denomPDF, ratioPDF, ratioCDF), nrow = nPoints),
               lty  = c("solid", "solid", "solid", "dotted"),
               col  = c(cols[["numerator"]], cols[["denominator"]],
-                       cols[["ratio"]], cols[["ratioCDF"]]),
+                       cols[["ratio"]],     cols[["ratioCDF"]]),
               type = "l", lwd = 2,                     #
               xlim = c(0, xmax), ylim = c(0, ymax),    #
               xlab = "X", ylab = "Pr(X) or Pr(> X)",   #
-              main = "Saffer Example: Beta Ratio")     #
+              main = "Saffer's Example Beta Ratio")    #
 
       colorCI(cols, "numerator",   alpha, xvals, numPDF,   num05,   num95)
       colorCI(cols, "denominator", alpha, xvals, denomPDF, denom05, denom95)
