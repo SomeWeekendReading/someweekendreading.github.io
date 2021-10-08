@@ -25,7 +25,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
                  nPoints  = 1000,                      # Number of points on each curve
                  xmax     = 2.0,                       # Limit on horizontal axis from Saffer
                  ymax     = 3.75,                      # Limit on vertical axis from Saffer
-                 alpha    = 0.40,                      # Transparency level of fill colors
+                 alpha    = 0.40,                      # Transparency level of fill colors (0 to 1)
                  cols     = c(numerator   = "blue",    # Colors for various curves
                               denominator = "orange",  #  and the fill for them inside
                               ratio       = "green",   #  their 90% credible intervals
