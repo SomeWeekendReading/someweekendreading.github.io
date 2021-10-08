@@ -6,7 +6,7 @@ comments: true
 ---
 
 Today I learned of a hero, engaged in a Great Work that is clearly a service to all
-humanity.  Oh, and there were donuts.  
+humanity.  Oh, and there were donuts, too.  
 
 
 ## Autumn in New England  
