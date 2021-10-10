@@ -591,9 +591,9 @@ and above 1:
 
 $$
 \begin{align*}
-& \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; 1) \\
-& + \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_2} {}_3F_2(\alpha_2, \alpha_1 + \alpha_2, 1 - \beta_2; \alpha_2 + 1, \alpha_1 + \alpha_2 + \beta_1; 1) \\
-& = 1
+  & \frac{B(\alpha_1 + \alpha_2, \beta_2)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_1} {}_3F_2(\alpha_1, \alpha_1 + \alpha_2, 1 - \beta_1; \alpha_1 + 1, \alpha_1 + \alpha_2 + \beta_2; 1) \\
++ & \frac{B(\alpha_1 + \alpha_2, \beta_1)}{B(\alpha_1, \beta_1) B(\alpha_2, \beta_2)} \frac{1}{\alpha_2} {}_3F_2(\alpha_2, \alpha_1 + \alpha_2, 1 - \beta_2; \alpha_2 + 1, \alpha_1 + \alpha_2 + \beta_1; 1) \\
+= & 1
 \end{align*}
 $$
 
