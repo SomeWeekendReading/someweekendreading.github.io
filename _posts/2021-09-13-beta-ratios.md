@@ -529,7 +529,7 @@ $$
 \end{align*}
 $$
 
-where the lower limit vanishes if $d > -1$ (as assumed here), has a constant from 
+where the lower limit of the integral vanishes if $d > -1$ (as assumed here), has a constant from 
 ${}\{3}F\_{2}(0)$ if $d = -1$, and has a pole if $d < -1$.  
 
 We've recognized in the series the _generalized_ hypergeometric function
@@ -538,7 +538,7 @@ numerator and 2 in the denominator, vs 2 in the numerator and 1 in the denominat
 ${}\_{2}F\_{1}()$.  
 
 Ok, we have a little fear and trembling at the sight of ${}\_{3}F\_{2}()$ (having summoned up
-that which which we might not be able banish).  Nonetheless, we swallow our fears and
+that which which we might not be able to put down).  Nonetheless, we swallow our fears and
 proceed recklessly to the second integral via a change of variables:  
 
 $$
@@ -579,7 +579,7 @@ $$
 \end{align*}
 $$
 
-The appropriate limits as $R_0 \leftrightarrow 0$ and as $R_0 \leftrightarrow +\infty$ are
+The appropriate limits as $R_0 \rightarrow 0$ and as $R_0 \rightarrow +\infty$ are
 manifest, due to the way we structured the integrals.  
 
 However, since we have a piecewise CDF, we have to show it's continuous at the piece
