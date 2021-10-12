@@ -379,7 +379,7 @@ against the Beta distribution:
 $$
 \begin{align*}
 E\left[\frac{1}{p_2}\right] & = \int_0^1 dp_2 \frac{1}{p_2} \frac{p_2^{\alpha_2 - 1}(1 - p_2)^(\beta_2 - 1)}{B(\alpha_2, \beta_2)} \\
-   & = \int_0^1 dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^(\beta_2 - 1)}{B(\alpha_2 - 1, \beta_2)} \cdot \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)}
+   & = \int_0^1 dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^{(\beta_2 - 1)}}{B(\alpha_2 - 1, \beta_2)} \cdot \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)}
 \end{align*}
 $$
 
@@ -389,12 +389,12 @@ them into Gamma funcions and using the Gamma recurrence relation:
 
 $$
 \begin{align*}
-Beta(\alpha, \beta) & = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)} \\
+B(\alpha, \beta) & = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)} \\
 \Gamma(n + 1)       & = n \Gamma(n)
 \end{align*}
 $$
 
-Whence the expectation of $1\p_2$ becomes:  
+Whence the expectation of $1/p_2$ becomes:  
 
 $$
 \begin{align*}
@@ -408,7 +408,7 @@ $$
 Combine that with the result for the mean of $p_1$ to obtain the mean of the ratio:  
 
 $$
-E\left[R\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right] = \frac{\alpha_1}{\alpha_1 + \beta_1} \cdot \frac{\alpha_2 + \beta_2 - 1}{\alpha_1 - 1}
+E\left[R\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right] = \frac{\alpha_1}{\alpha_1 + \beta_1} \times \frac{\alpha_2 + \beta_2 - 1}{\alpha_1 - 1}
 $$
 
 ### Continuity at $R = 1$  
