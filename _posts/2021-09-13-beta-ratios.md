@@ -368,6 +368,7 @@ $$
 
 Since $p_1 \sim B(\alpha_1, \beta_1)$, by properties of the Beta distribution we know
 the expectation of $p_1$ immediately:  
+<!-- *** ref A&S for this -->
 
 $$
 E\left[p_1\right] = \frac{\alpha_1}{\alpha_1 + \beta_1}
@@ -412,7 +413,7 @@ E\left[R\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right] = \frac{\
 $$
 
 The median is a bit more interesting than the mean when the distribution is highly skewed,
-but I couldn't figure out a closed form result.  We'll just have to be satisfied with
+but we couldn't figure out a closed form result.  We'll just have to be satisfied with
 using the CDF below and a bit of numerics to find the 50% quantile.  
 
 ### Continuity at $R = 1$  
@@ -681,7 +682,7 @@ ours:
 !["Saffer: integral of 2F1() times power"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-3F2-1.jpg "Saffer: integral of 2F1() times power")
 !["Saffer: integral of 2F1() times inverse power"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-3F2-2.jpg "Saffer: integral of 2F1() times inverse power")
 
-And his use of those integrals gets a piecewise CDF which is also identical to ours.
+Also, his use of those integrals gets a piecewise CDF which is also identical to ours.
 For $0 \le w \le 1$:  
 
 !["Saffer: CDF for 0 < w < 1"]({{ site.baseurl }}/images/2021-09-13-beta-ratios-saffer-CDF-1.jpg "Saffer: CDF for 0 < w < 1")
