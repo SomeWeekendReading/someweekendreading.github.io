@@ -14,7 +14,7 @@ ${}\_{2}F\_{1}()$ and its scarier big brother ${}\_{3}F\_{2}()$&hellip; it's tim
 ## The three B's: Bernoulli, Binomial, and Beta  
 
 <!-- *** Change source for all identities to Abramowitz & Stegun. -->
-<!-- *** ref heckerman?  I mean, you DID learn it from there... -->
+<!-- *** ref Heckerman?  I mean, you DID learn it from there... -->
 Suppose you flip a loaded coin that has probability $p$ of coming up heads.  That's a 
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), with just
 2 discrete values:  
@@ -411,9 +411,9 @@ $$
 E\left[R\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right] = \frac{\alpha_1}{\alpha_1 + \beta_1} \times \frac{\alpha_2 + \beta_2 - 1}{\alpha_1 - 1}
 $$
 
-The median is a bit more interesting than the mean when the distribution is highly skewed,
+(__NB:__ The median is a bit more interesting than the mean when the distribution is highly skewed,
 but we couldn't figure out a closed form result.  We'll just have to be satisfied with
-using the CDF below and a bit of numerics to find the 50% quantile.  
+using the CDF below and a bit of numerics to find the 50% quantile.)  
 
 ### Continuity at $R = 1$  
 
@@ -812,7 +812,7 @@ So we've got a bit more work to do to make this useable in a practical sense.
 <img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title = "***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 -->
 
-<a id="fn1">1</a>: T Pham-Gia, ["Distributions of the ratios of independent beta variables and applications"](https://www.tandfonline.com/doi/abs/10.1080/03610920008832632), _Comm Stat: Theory &amp; Methods_, 29:12, 2693-2715. [DOI: 10.1080/03610920008832632](https://doi.org/10.1080/03610920008832632).  Since it was so hard to get, it's archived [here]({{ site.baseurl }}/assets/2021-09-13-beta-ratios-pham-gia2000.pdf).  
+<a id="fn1">1</a>: T Pham-Gia, ["Distributions of the ratios of independent beta variables and applications"](https://www.tandfonline.com/doi/abs/10.1080/03610920008832632), _Comm Stat: Theory &amp; Methods_, 29:12, 2693-2715. [DOI: 10.1080/03610920008832632](https://doi.org/10.1080/03610920008832632).  Since it was so hard to get, I've archived a copy [here]({{ site.baseurl }}/assets/2021-09-13-beta-ratios-pham-gia2000.pdf).  
 
 __NB:__ We believe there are several errata in this paper which make it much harder to read
 than need be.  We've worked through the details, and with these corrections, obtain the
@@ -827,11 +827,12 @@ same eventual result in terms of ${}\_{2}F\_{1}()$.  Specifically:
     not $\beta_{2}$  
 - p. 2703, in the variables for a Dirichlet distribution, $K$ should again be $\ldots$  
 
-While there may or may not be similar typos in the rest of the paper, we haven't checked
+While there may or may not be similar typos (almost certainly due to journal typesetting,
+not Pham-Gia, who seems to be a pretty good guy!) in the rest of the paper, we haven't checked
 carefully since it does not bear directly on our interests.  But with the corrigenda above,
 we were able to reproduce Pham-Gia's main result, the piecewise PDF on pp. 2698-2699. [↩](#fn1a)  
 
-<a id="fn2">2</a>: OK, the truth is that I was actually a mere 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle _pretty tight_, because the notation between a couple texts was subtly and _confusingly_ different.  I thought I'd suddenly become _stupid!_  It took _years_ to get past that, and now even 45 years later, it's _still_ a sensitive spot.  But&hellip; time to face my fears. [↩](#fn2a)  
+<a id="fn2">2</a>: OK, the truth is: I was actually a mere 23 years old and in my first year of physics grad school at MIT.  I got wrapped around the axle _pretty tight_, because the notation between various texts was subtly and _confusingly_ different.  I thought I'd suddenly become _stupid!_  It took _years_ to get past that.  Now, even 45 years later, it's _still_ a sensitive spot.  But&hellip; time to face my fears. [↩](#fn2a)  
 
 <a id="fn3">3</a>: J Saffer, ["Beta Quotient Distribution"](https://github.com/jsaffer/beta_quotient_distribution), _GitHub Repository_, last committed 2020-Jun-06, retrieved 2021-Sep-13. [↩](#fn3a)  
 
