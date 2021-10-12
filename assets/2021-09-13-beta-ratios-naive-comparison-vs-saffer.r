@@ -42,7 +42,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
     else                                               # Large values of R
       beta(alpha1 + alpha2, beta1) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
         R^(-(alpha2+1)) *                              #
-        hypergeo(alpha1 + alpha2, 1 - beta2, alpha1 + alpha2 + beta1, 1/R)
+        hypergeo(alpha1 + alpha2, 1 - beta2, alpha1 + alpha2 + beta1, 1 / R)
   }                                                    #
 
   betaRatioCDF <- function(alpha1, beta1, alpha2, beta2, R) {
@@ -57,7 +57,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
      1 - beta(alpha1 + alpha2, beta1) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
        1 / (alpha2 * R^alpha2) *                       #
        genhypergeo(c(alpha2, alpha1 + alpha2, 1 - beta2), c(alpha2 + 1, alpha1 + alpha2 + beta1),
-                   1/R)                                #
+                   1 / R)                              #
   }                                                    #
 
   betaRatioQuantile <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
@@ -74,6 +74,8 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
     alpha1 * (alpha2 + beta2 - 1) / ((alpha1 + beta1) * (alpha2 - 1))
   }                                                    # Mean has simple closed form
 
+  betaMean <- function(alpha, beta) { alpha / (alpha + beta) }
+
   colorCI <- function(col, alpha, xvals, yvals, x05, x95) {
     col <- col2rgb(col)                                # Base color to make transparent
     col <- rgb(col[[1]], col[[2]], col[[3]], max = 255, alpha = alpha * 255)
@@ -88,13 +90,13 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   ## Numerator beta distribution
   numPDF   <- dbeta(x = xvals, shape1 = alpha1, shape2 = beta1)
-  numMean  <- alpha1 / (alpha1 + beta1)                # Mean of beta distribution
+  numMean  <- betaMean(alpha1, beta1)                  # Mean of numerator beta distribution
   num05    <- qbeta(p = 0.05, shape1 = alpha1, shape2 = beta1)
   num95    <- qbeta(p = 0.95, shape1 = alpha1, shape2 = beta1)
 
   ## Denominator bea distribution
   denomPDF  <- dbeta(x = xvals, shape1 = alpha2, shape2 = beta2)
-  denomMean <- alpha2 / (alpha2 + beta2)               # Mean of beta distribution
+  denomMean <- betaMean(alpha2, beta2)                 # Mean of denominator beta distribution
   denom05   <- qbeta(p = 0.05, shape1 = alpha2, shape2 = beta2)
   denom95   <- qbeta(p = 0.95, shape1 = alpha2, shape2 = beta2)
 

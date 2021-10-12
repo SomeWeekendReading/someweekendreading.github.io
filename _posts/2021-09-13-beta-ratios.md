@@ -355,7 +355,61 @@ $$
 \right.
 $$
 
-<!-- *** Duplicate Saffer's result for moments and mean. -->
+### Mean of the ratio  
+
+We can also directly cacluate the mean of $R$, not by heroic integration against the
+distribution above, but from the properties of the Beta-distributed $p_1, p_2$ that go
+into $R$.  Because $p_1$ and $p_2$ are _independent_, we can factor the expectation of the
+product of $p_1$ and $1/p_2$ into the product of their expectations:  
+
+$$ 
+E\left[R\right] = E\left[\frac{p_1}{p_2}\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right]
+$$
+
+Since $p_1 \sim B(\alpha_1, \beta_1)$, by properties of the Beta distribution we know
+the expectation of $p_1$ immediately:  
+
+$$
+E\left[p_1\right] = \frac{\alpha_1}{\alpha_1 + \beta_1}
+$$
+
+We also know the expectation of $1/p_2$ almost as immediately, by doing the integral
+against the Beta distribution:  
+
+$$
+\begin{align*}
+E\left[\frac{1}{p_2}\right] & = \int_0^1 dp_2 \frac{1}{p_2} \frac{p_2^{\alpha_2 - 1}(1 - p_2)^(\beta_2 - 1)}{B(\alpha_2, \beta_2)} \\
+   & = \int_0^1 dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^(\beta_2 - 1)}{B(\alpha_2 - 1, \beta_2)} \cdot \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)}
+\end{align*}
+$$
+
+The integral we recognize as the normalization of the $B(\alpha_2 - 1, \beta_2)$
+distribution, so it's just 1.  We can simplify the ratio of Beta functions by decomposing
+them into Gamma funcions and using the Gamma recurrence relation:  
+
+$$
+\begin{align*}
+Beta(\alpha, \beta) & = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)} \\
+\Gamma(n + 1)       & = n \Gamma(n)
+\end{align*}
+$$
+
+Whence the expectation of $1\p_2$ becomes:  
+
+$$
+\begin{align*}
+E\left[\frac{1}{p_2}\right] & = \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)} \\
+   & = \frac{\Gamma(\alpha_2 - 1)\Gamma(\beta_2)}{\Gamma(\alpha_2 + \beta_2 -1)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2) \Gamma(\beta_2)} \\
+   & = \frac{\Gamma(\alpha_2 - 1)}{\Gamma(\alpha_2)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2 + \beta_2 - 1)} \\
+   & = \frac{\alpha_2 + \beta_2 - 1}{\alpha_2 - 1} 
+\end{align*}
+$$
+
+Combine that with the result for the mean of $p_1$ to obtain the mean of the ratio:  
+
+$$
+E\left[R\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right] = \frac{\alpha_1}{\alpha_1 + \beta_1} \cdot \frac{\alpha_2 + \beta_2 - 1}{\alpha_1 - 1}
+$$
 
 ### Continuity at $R = 1$  
 
