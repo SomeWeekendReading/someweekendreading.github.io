@@ -357,10 +357,10 @@ $$
 
 ### Mean of the ratio  
 
-We can also directly cacluate the mean of $R$, not by heroic integration against the
+We can also directly caculate the mean of $R$, not by heroic integration against the
 distribution above, but from the properties of the Beta-distributed $p_1, p_2$ that go
-into $R$.  Because $p_1$ and $p_2$ are _independent_, we can factor the expectation of the
-product of $p_1$ and $1/p_2$ into the product of their expectations:  
+into the ratio $R$.  Because $p_1$ and $p_2$ are _independent_, we can factor the
+expectation of the product of $p_1$ and $1/p_2$ into the product of their expectations:  
 
 $$ 
 E\left[R\right] = E\left[\frac{p_1}{p_2}\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right]
@@ -378,14 +378,14 @@ against the Beta distribution:
 
 $$
 \begin{align*}
-E\left[\frac{1}{p_2}\right] & = \int_0^1 dp_2 \frac{1}{p_2} \frac{p_2^{\alpha_2 - 1}(1 - p_2)^(\beta_2 - 1)}{B(\alpha_2, \beta_2)} \\
-   & = \int_0^1 dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^{(\beta_2 - 1)}}{B(\alpha_2 - 1, \beta_2)} \cdot \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)}
+E\left[\frac{1}{p_2}\right] & = \int_0^1\!\!\!dp_2 \frac{1}{p_2} \frac{p_2^{\alpha_2 - 1}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
+   & = \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)} \cdot \int_0^1\!\!\!dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2 - 1, \beta_2)}
 \end{align*}
 $$
 
 The integral we recognize as the normalization of the $B(\alpha_2 - 1, \beta_2)$
 distribution, so it's just 1.  We can simplify the ratio of Beta functions by decomposing
-them into Gamma funcions and using the Gamma recurrence relation:  
+them into Gamma functions and using the Gamma recurrence relation:  
 
 $$
 \begin{align*}
@@ -410,6 +410,10 @@ Combine that with the result for the mean of $p_1$ to obtain the mean of the rat
 $$
 E\left[R\right] = E\left[p_1\right] \times E\left[\frac{1}{p_2}\right] = \frac{\alpha_1}{\alpha_1 + \beta_1} \times \frac{\alpha_2 + \beta_2 - 1}{\alpha_1 - 1}
 $$
+
+The median is a bit more interesting than the mean when the distribution is highly skewed,
+but I couldn't figure out a closed form result.  We'll just have to be satisfied with
+using the CDF below and a bit of numerics to find the 50% quantile.  
 
 ### Continuity at $R = 1$  
 
