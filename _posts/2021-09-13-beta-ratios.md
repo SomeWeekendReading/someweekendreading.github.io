@@ -367,8 +367,7 @@ E\left[R\right] = E\left[\frac{p_1}{p_2}\right] = E\left[p_1\right] \times E\lef
 $$
 
 Since $p_1 \sim B(\alpha_1, \beta_1)$, by properties of the Beta distribution we know
-the expectation of $p_1$ immediately:  
-<!-- *** ref A&S for this -->
+the expectation of $p_1$ immediately (e.g., Wikipedia):  <!-- *** ref A&S for this -->  
 
 $$
 E\left[p_1\right] = \frac{\alpha_1}{\alpha_1 + \beta_1}
@@ -380,7 +379,7 @@ against the Beta distribution:
 $$
 \begin{align*}
 E\left[\frac{1}{p_2}\right] & = \int_0^1\!\!\!dp_2 \frac{1}{p_2} \frac{p_2^{\alpha_2 - 1}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
-   & = \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)} \cdot \int_0^1\!\!\!dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2 - 1, \beta_2)}
+   & = \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)} \cdot \underbrace{\int_0^1\!\!\!dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2 - 1, \beta_2)}}_1
 \end{align*}
 $$
 
