@@ -32,9 +32,10 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
                               ratioCDF    = "red"),    # Finally, destination for plot
                  plotFile = "2021-09-13-beta-ratios-naive-comparison-vs-saffer.png") {
 
-  betaRatioPDF <- function(alpha1, beta1, alpha2, beta2, R) {
-    ## *** NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
-    stopifnot(R >= 0)                                  # Don't be ridiculous
+  dBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
+    ## Beta ratio PDF
+    ## NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
         R^(alpha1 - 1) *                               #
@@ -45,9 +46,10 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
         hypergeo(alpha1 + alpha2, 1 - beta2, alpha1 + alpha2 + beta1, 1 / R)
   }                                                    #
 
-  betaRatioCDF <- function(alpha1, beta1, alpha2, beta2, R) {
-    ## *** NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
-    stopifnot(R >= 0)                                  # Don't be ridiculous
+  pBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
+    ## Beta ratio CDF
+    ## NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
         R^alpha1 / alpha1 *                            #
@@ -60,21 +62,23 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
                    1 / R)                              #
   }                                                    #
 
-  betaRatioQuantile <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
+  qBetaRatio <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
+    ## Beta ratio quantile (numeric solution via CDF)
+    stopifnot(is.numeric(q) && is.numeric(minR) && is.numeric(maxR))
     stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
     stopifnot(0 <= minR && 0 <= maxR && minR < maxR)   # Really: don't be ridiculous
-    uniroot(function(R) {q - betaRatioCDF(alpha1, beta1, alpha2, beta2, R)}, c(minR, maxR))$"root"
+    uniroot(function(R) {q - pBetaRatio(alpha1, beta1, alpha2, beta2, R)}, c(minR, maxR))$"root"
   }                                                    #
 
-  betaRatioMedian <- function(alpha1, beta1, alpha2, beta2, minR = 0, maxR = 10) {
-    betaRatioQuantile(alpha1, beta1, alpha2, beta2, 0.50, minR, maxR)
-  }                                                    # Real calculation uses incomplete Beta func
+  medianBetaRatio <- function(alpha1, beta1, alpha2, beta2, minR = 0, maxR = 10) {
+    qBetaRatio(alpha1, beta1, alpha2, beta2, 0.50, minR, maxR)
+  }                                                    # Analytic version uses incomplete Beta func
 
-  betaRatioMean <- function(alpha1, beta1, alpha2, beta2) {
+  meanBetaRatio <- function(alpha1, beta1, alpha2, beta2) {
     alpha1 * (alpha2 + beta2 - 1) / ((alpha1 + beta1) * (alpha2 - 1))
   }                                                    # Mean has simple closed form
 
-  betaMean <- function(alpha, beta) { alpha / (alpha + beta) }
+  meanBeta <- function(alpha, beta) { alpha / (alpha + beta) }
 
   colorCI <- function(col, alpha, xvals, yvals, x05, x95) {
     col <- col2rgb(col)                                # Base color to make transparent
@@ -90,22 +94,22 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   ## Numerator beta distribution
   numPDF   <- dbeta(x = xvals, shape1 = alpha1, shape2 = beta1)
-  numMean  <- betaMean(alpha1, beta1)                  # Mean of numerator beta distribution
+  numMean  <- meanBeta(alpha1, beta1)                  # Mean of numerator beta distribution
   num05    <- qbeta(p = 0.05, shape1 = alpha1, shape2 = beta1)
   num95    <- qbeta(p = 0.95, shape1 = alpha1, shape2 = beta1)
 
   ## Denominator bea distribution
   denomPDF  <- dbeta(x = xvals, shape1 = alpha2, shape2 = beta2)
-  denomMean <- betaMean(alpha2, beta2)                 # Mean of denominator beta distribution
+  denomMean <- meanBeta(alpha2, beta2)                 # Mean of denominator beta distribution
   denom05   <- qbeta(p = 0.05, shape1 = alpha2, shape2 = beta2)
   denom95   <- qbeta(p = 0.95, shape1 = alpha2, shape2 = beta2)
 
   ## Ratiodistribution
-  ratioPDF  <- sapply(xvals, function(R) { betaRatioPDF(alpha1, beta1, alpha2, beta2, R) })
-  ratioCDF  <- sapply(xvals, function(R) { betaRatioCDF(alpha1, beta1, alpha2, beta2, R) })
-  ratioMean <- betaRatioMean(alpha1, beta1, alpha2, beta2)
-  ratio05   <- betaRatioQuantile(alpha1, beta1, alpha2, beta2, 0.05)
-  ratio95   <- betaRatioQuantile(alpha1, beta1, alpha2, beta2, 0.95)
+  ratioPDF  <- sapply(xvals, function(R) { dBetaRatio(alpha1, beta1, alpha2, beta2, R) })
+  ratioCDF  <- sapply(xvals, function(R) { pBetaRatio(alpha1, beta1, alpha2, beta2, R) })
+  ratioMean <- meanBetaRatio(alpha1, beta1, alpha2, beta2)
+  ratio05   <- qBetaRatio(alpha1, beta1, alpha2, beta2, 0.05)
+  ratio95   <- qBetaRatio(alpha1, beta1, alpha2, beta2, 0.95)
 
   ## Saffer: 1152 x 648 --> us: 400 x 225
   withPNG(file.path(".", plotFile), 400, 225, FALSE, function() {

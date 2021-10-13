@@ -14,7 +14,6 @@ ${}\_{2}F\_{1}()$ and its scarier big brother ${}\_{3}F\_{2}()$&hellip; it's tim
 ## The three B's: Bernoulli, Binomial, and Beta  
 
 <!-- *** Change source for all identities to Abramowitz & Stegun. -->
-<!-- *** ref Heckerman?  I mean, you DID learn it from there... -->
 Suppose you flip a loaded coin that has probability $p$ of coming up heads.  That's a 
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), with just
 2 discrete values:  
@@ -38,6 +37,7 @@ $$
 Next, suppose you don't know how _much_ the coin is loaded.  Somebody lets you take $N$
 flips, and you observe $k$ heads.  
 
+<!-- *** ref Heckerman?  https://arxiv.org/abs/2002.00269 -->
 What should you believe about $p$, the probability the
 coin comes up heads?  A na&iuml;ve estimate would just give the single point value 
 $p = k/N$.  A better approach is to regard $p$ as a random variable, whose distribution you're
@@ -420,7 +420,7 @@ E\left[R\right] = \frac{\alpha_1}{\alpha_1 + \beta_1} \cdot \frac{\alpha_2 + \be
 $$
 
 (__NB:__ The median is a bit more interesting than the mean when the distribution is highly skewed,
-but we couldn't figure out a closed form result.  We'll just have to be satisfied with
+but we couldn't figure out a closed form result for the median.  We'll just have to be satisfied with
 using the CDF below and a bit of numerics to find the 50% quantile.)  
 
 ### Continuity at $R = 1$  
