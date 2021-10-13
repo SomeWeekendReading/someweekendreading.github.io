@@ -355,7 +355,25 @@ $$
 \right.
 $$
 
-### Mean of the ratio  
+### Moments of the ratio, including the mean  
+
+We can also directly calculate the moments of $R$ (where the 1st moment is of course the
+familiar mean).  We do this not by heroic integratoin against the distribution above, but
+from the properties of the Beta-distributed $p_1, p_2$ that go into the ratio $R$.  
+Because $p_1$ and $p_2$ are statistically independent, the moment integral factors into 2
+separate pieces:
+
+$$
+\begin{align*}
+E\left[R^k\right] &= \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2 \left(\frac{p_1}{p_2}\right)^k \frac{p_1^{\alpha_1 - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1, \beta_1)} \cdot \frac{p_2^{\alpha_2 - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
+  &= \int_0^1\!\!\!\!dp_1 p_1^k \frac{p_1^{\alpha_1 - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1, \beta_1)} \cdot \int_0^1\!\!\!\!dp_2 \frac{1}{p_2^k} \frac{p_2^{\alpha_2 - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
+  &= \cdots
+\end{align*}
+$$
+
+<!-- *** Replace below with moment calculation, check for 0th and 1st moment (1 and mean). -->
+
+
 
 We can also directly caculate the mean of $R$, not by heroic integration against the
 distribution above, but from the properties of the Beta-distributed $p_1, p_2$ that go
@@ -378,8 +396,8 @@ against the Beta distribution:
 
 $$
 \begin{align*}
-E\left[\frac{1}{p_2}\right] & = \int_0^1\!\!\!dp_2 \frac{1}{p_2} \frac{p_2^{\alpha_2 - 1}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
-   & = \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)} \cdot \underbrace{\int_0^1\!\!\!dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2 - 1, \beta_2)}}_1
+E\left[\frac{1}{p_2}\right] & = \int_0^1\!\!\!\!dp_2 \frac{1}{p_2} \frac{p_2^{\alpha_2 - 1}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
+   & = \frac{B(\alpha_2 - 1, \beta_2)}{B(\alpha_2, \beta_2)} \cdot \underbrace{\int_0^1\!\!\!\!dp_2 \frac{p_2^{\alpha_2 - 2}(1 - p_2)^{\beta_2 - 1}}{B(\alpha_2 - 1, \beta_2)}}_1
 \end{align*}
 $$
 
