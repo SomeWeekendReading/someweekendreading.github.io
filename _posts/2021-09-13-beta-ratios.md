@@ -389,9 +389,24 @@ So we then get:
 $$
 \begin{align*}
 E\left[R^k\right] & = \frac{\Gamma(\alpha_1 + k)\Gamma(\beta_1)}{\Gamma(\alpha_1 + \beta_1 + k)} \cdot \frac{\Gamma(\alpha_1 + \beta_1)}{\Gamma(\alpha_1) \Gamma(\beta_1)} \cdot \frac{\Gamma(\alpha_2 - k)\Gamma(\beta_2)}{\Gamma(\alpha_2 + \beta_2 - k)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2) \Gamma(\beta_2) } \\ 
-  & = \frac{\Gamma(\alpha_1 + k)}{\Gamma(\alpha_1)} \cdot \frac{\Gamma(\alpha_1 + \beta_1)}{\Gamma(\alpha_1 + \beta_1 + k)} \cdot \frac{\Gamma(\alpha_2 - k)}{\Gamma(\alpha_2)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2 + \beta_2 - k)}
+  & = \frac{\Gamma(\alpha_1 + k)}{\Gamma(\alpha_1)} \cdot \frac{\Gamma(\alpha_1 + \beta_1)}{\Gamma(\alpha_1 + \beta_1 + k)} \cdot \frac{\Gamma(\alpha_2 - k)}{\Gamma(\alpha_2)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2 + \beta_2 - k)} \\
+  & = \frac{(\alpha_1)_k}{(\alpha_1 + \beta_1)_k} \cdot \frac{\Gamma(\alpha_2 - k)}{\Gamma(\alpha_2)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2 + \beta_2 - k)}
 \end{align*}
 $$
+
+where we've recognized in the first 2 Gamma ratios the rising Pochammer symbols defined
+above.  The remaining 2 Gamma ratios will require a bit of thought, but unsurprisingly
+they turn out to be expressible in terms of Pochammer symbols as well: 
+
+...TBD...
+
+So our final expression for the $k^\mbox{th}$ moment of $R$ is:  
+
+$$
+E\left[R^k\right] = \frac{(\alpha_1)_k}{(\alpha_1 + \beta_1)_k} \cdot \frac{(\alpha_2 + \beta_2 - k)_k}{(\alpha_2 - k)_k}
+$$
+
+... check k = 0, k = 1...
 
 <!-- *** Replace below with moment calculation, check for 0th and 1st moment (1 and mean). -->
 
