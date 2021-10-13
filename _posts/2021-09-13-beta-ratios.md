@@ -361,7 +361,7 @@ We can also directly calculate the moments of $R$ (where the 1st moment is of co
 familiar mean).  We do this not by heroic integratoin against the distribution above, but
 from the properties of the Beta-distributed $p_1, p_2$ that go into the ratio $R$.  
 Because $p_1$ and $p_2$ are statistically independent, the moment integral factors into 2
-separate pieces:
+separate pieces:  
 
 $$
 \begin{align*}
@@ -396,9 +396,16 @@ $$
 
 where we've recognized in the first 2 Gamma ratios the rising Pochammer symbols defined
 above.  The remaining 2 Gamma ratios will require a bit of thought, but unsurprisingly
-they turn out to be expressible in terms of Pochammer symbols as well: 
+they turn out to be expressible in terms of Pochammer symbols as well:  
 
-&hellip;TBD&hellip; <!-- *** -->
+$$
+\begin{align*}
+\frac{\Gamma(a-k)}{\Gamma(a)} &= \frac{\Gamma(a-k)}{(a-1)\Gamma(a-1)} \\
+  &= \frac{\Gamma(a-k)}{(a-1)(a-2)\Gamma(a-2)} \\
+  &= \frac{\Gamma(a-k)}{(a-1)(a-2)\cdots(a-k)\Gamma(a-k)} \\
+  &= \frac{1}{(a-k)_k}
+\end{align*}
+$$
 
 So our final expression for the $k^\mbox{th}$ moment of $R$ is:  
 
