@@ -379,8 +379,7 @@ expanding into Gamma functions, and using the Gamma recurrence relation:
 $$
 \begin{align*}
 B(\alpha, \beta) & = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)} \\
-\Gamma(n + 1)    & = n \Gamma(n) \\
-\Gamma(n - 1)    & = \Gamma(n) / (n - 1)   
+\Gamma(n + 1)    & = n \Gamma(n)
 \end{align*}
 $$
 
@@ -620,9 +619,9 @@ which turns out to just transform this back into the first case:
 $$
 \begin{align*}
 \int_{y \gt 1}^{+\infty}\!\!\!\!\!\!\!\!\!dx \frac{1}{x^d} {}_2F_1(a,b;c; 1/x) &= \int_{0}^{(1/y) \lt 1}\!\!\!\!\!\!\!\!\!du \:\frac{1}{u^2} u^d {}_2F_1(a, b; c; u) \\
-&= \int_{0}^{(1/y) \lt 1}\!\!\!\!\!\!\!\!\!du \:u^{d-2} u^d {}_2F_1(a, b; c; u) \\
-&= \left.\frac{u^{d-1}}{d-1} {}_3F_2(d-1, a, b; d, c; u) \right|_0^{(1/y) \lt 1} \\
-&= \frac{1}{(d-1)y^{d-1}} {}_3F_2(d-1, a, b; d, c; 1/y)
+ &= \int_{0}^{(1/y) \lt 1}\!\!\!\!\!\!\!\!\!du \:u^{d-2} u^d {}_2F_1(a, b; c; u) \\
+ &= \left.\frac{u^{d-1}}{d-1} {}_3F_2(d-1, a, b; d, c; u) \right|_0^{(1/y) \lt 1} \\
+ &= \frac{1}{(d-1)y^{d-1}} {}_3F_2(d-1, a, b; d, c; 1/y)
 \end{align*}
 $$
 
