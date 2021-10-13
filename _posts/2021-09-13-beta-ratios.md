@@ -365,11 +365,10 @@ separate pieces:
 
 $$
 \begin{align*}
-E\left[R^k\right] & = &\int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2 \left(\frac{p_1}{p_2}\right)^k \frac{p_1^{\alpha_1 - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1, \beta_1)} \cdot \frac{p_2^{\alpha_2 - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
-  & = & \int_0^1\!\!\!\!dp_1 p_1^k \frac{p_1^{\alpha_1 - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1, \beta_1)} \cdot \int_0^1\!\!\!\!dp_2 \frac{1}{p_2^k} \frac{p_2^{\alpha_2 - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
-  & = & \frac{B(\alpha_1 + k, \beta_1)}{B(\alpha_1, \beta_1)} \int_0^1\!\!\!\!dp_1 \frac{p_1^{\alpha_1 + k - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1 + k, \beta_1)} \\
-  &   & \cdot \frac{B(\alpha_2 - k, \beta_2)}{B(\alpha_2, \beta_2)} \int_0^1 \!\!\!\!dp_2 \frac{p_2^{\alpha_2 - k - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2 - k, \beta_2)} \\
-  & = & \frac{B(\alpha_1 + k, \beta_1)}{B(\alpha_1, \beta_1)} \cdot \frac{B(\alpha_2 - k, \beta_2)}{B(\alpha_2, \beta_2)}
+E\left[R^k\right] & = \int_0^1\!\!\!\!dp_1 \int_0^1\!\!\!\!dp_2 \left(\frac{p_1}{p_2}\right)^k \frac{p_1^{\alpha_1 - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1, \beta_1)} \cdot \frac{p_2^{\alpha_2 - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
+  & = \int_0^1\!\!\!\!dp_1 p_1^k \frac{p_1^{\alpha_1 - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1, \beta_1)} \cdot \int_0^1\!\!\!\!dp_2 \frac{1}{p_2^k} \frac{p_2^{\alpha_2 - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2, \beta_2)} \\
+  & = \frac{B(\alpha_1 + k, \beta_1)}{B(\alpha_1, \beta_1)} \underbrace{\int_0^1\!\!\!\!dp_1 \frac{p_1^{\alpha_1 + k - 1}(1-p_1)^{\beta_1 - 1}}{B(\alpha_1 + k, \beta_1)}}_1 \cdot \frac{B(\alpha_2 - k, \beta_2)}{B(\alpha_2, \beta_2)} \underbrace{\int_0^1 \!\!\!\!dp_2 \frac{p_2^{\alpha_2 - k - 1}(1-p_2)^{\beta_2 - 1}}{B(\alpha_2 - k, \beta_2)}}_1 \\
+  & = \frac{B(\alpha_1 + k, \beta_1)}{B(\alpha_1, \beta_1)} \cdot \frac{B(\alpha_2 - k, \beta_2)}{B(\alpha_2, \beta_2)}
 \end{align*}
 $$
 
@@ -389,7 +388,7 @@ So we then get:
 
 $$
 \begin{align*}
-E\left[R^k\right] & = & \cdots
+E\left[R^k\right] & = \cdots
 \end{align*}
 $$
 
