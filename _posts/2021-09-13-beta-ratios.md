@@ -388,8 +388,8 @@ So we then get:
 
 $$
 \begin{align*}
-E\left[R^k\right] & = \frac{\Gamma(\alpha_1 + k)\Gamma(\beta_1)}{\Gamma(\alpha_1 + \beta_1 + k)} \cdot \frac{\Gamma(\alpha_1 + \beta_1)}{\Gamma(\alpha_1) \Gamma(\beta_1)} \cdot \frac{\Gamma(\alpha_2 - k)\Gamma(\beta_2)}{\Gamma(\alpha_2 + \beta_2 - k)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2) \Gamma(\beta_2) } \\
-  & = \cdots
+E\left[R^k\right] & = \frac{\Gamma(\alpha_1 + k)\Gamma(\beta_1)}{\Gamma(\alpha_1 + \beta_1 + k)} \cdot \frac{\Gamma(\alpha_1 + \beta_1)}{\Gamma(\alpha_1) \Gamma(\beta_1)} \cdot \frac{\Gamma(\alpha_2 - k)\Gamma(\beta_2)}{\Gamma(\alpha_2 + \beta_2 - k)} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2) \Gamma(\beta_2) } \\ 
+  & = \frac{\alpha_1 + k}{\alpha_1} \cdot \frac{\alpha_1 + \beta_1}{\alpha_1 + \beta_1 + k} \cdot \frac{\alpha_2 - k}{\alpha_2} \cdot \frac{\Gamma(\alpha_2 + \beta_2)}{\Gamma(\alpha_2 + \beta_2 - k)}
 \end{align*}
 $$
 
