@@ -81,7 +81,7 @@ This agenda is more or less what you'd exepct:
   under 18, since _twice now_ (for the original Pfizer EUA and Pfizer booster) Pfizer has
   nearly fouled up the whole thing by digging down to age 16, for which their studies were
   completely inadequately powered (or in the case of the booster, _no subjects at all!_)
-  So there'll be no more of that:  
+  So there'll be no more of that: <sup id="fn4a">[[4]](#fn4)</sup>  
 > 10/14 Discussion Question:  
 >  
 > Question 1) Considering the information presented today and at the meeting of the VRBPAC
@@ -95,7 +95,8 @@ This agenda is more or less what you'd exepct:
 - Then finally it's time to vote.  The question is very explicit, and suggests a booster
   at half the original dose (which may have been a bit too high, by some opinions?).  It
   also calls out the same groups for boosting as were approved for Pfizer, so at least we
-  won't get the complexity of the 2 mRNA vaccines boosting different populations:  
+  won't get the complexity of the 2 mRNA vaccines boosting different 
+  populations: <sup id="fn5a">[[5]](#fn5)</sup>  
 > 10/14 Voting Question:  
 >  
 > Question 1) Do available data support the safety and effectiveness of Moderna COVID-19
@@ -109,6 +110,8 @@ This agenda is more or less what you'd exepct:
 So, yeah: about what you'd expect.  
 
 &hellip;More TBD&hellip;
+
+<!-- *** Conclusion: Next step should be full approval? -->
 
 ---
 
@@ -126,6 +129,10 @@ So, yeah: about what you'd expect.
 
 <a id="fn1">1</a>: H Branswell &amp; M Herper, ["Tracking the FDA advisory panel meeting on Moderna’s Covid vaccine booster"](https://www.statnews.com/2021/10/14/fda-advisory-panel-meeting-moderna-covid-vaccine-booster/), _STAT News_, 2021-Oct-14. [↩](#fn1a)  
 
-<a id="fn2">2</a>: US Food &amp; Drug Administration, ["Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 Meeting Announcement"](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), www.fda.gov, retrieved 2021-Oct-14. [↩](#fn2a)  
+<a id="fn2">2</a>: FDA Staff, ["Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 Meeting Announcement"](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn2a)  
 
-<a id="fn3">3</a>: US Food &amp; Drug Administration, ["169th Meeting of the Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 DRAFT AGENDA"](https://www.fda.gov/media/152949/download), www.fda.gov, retrieved 2021-Oct-14. [↩](#fn3a)  
+<a id="fn3">3</a>: FDA Staff, ["169th Meeting of the Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 DRAFT AGENDA"](https://www.fda.gov/media/152949/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn3a)  
+
+<a id="fn4">4</a>: FDA Staff, ["10/14 Discussion Question"](https://www.fda.gov/media/153091/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn4a)  
+
+<a id="fn5">5</a>: FDA Staff, ["10/14 Voting Question"](https://www.fda.gov/media/153092/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn5a)  
