@@ -19,6 +19,11 @@ library("hypergeo")                                    # For hypergeo() and genh
 ##
 ## But Saffer's example is doable with naive numerics.
 ##
+## IWBNI we also did the Monte Carlo version for comparison: take pairs of random draws from the
+## numerator and denominator distributions, calculate a ratio, and histogram the probability
+## density of the ratio.  Compare with theoretical distribution by something like a
+## Kolmogorov-Smirnov test?
+##
 
 doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribution
                  alpha2 = 12, beta2 = 7,               # Denominator beta distribution

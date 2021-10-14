@@ -1,12 +1,12 @@
 ---
 layout: post
-title: FDA Considers COVID-19 Boosters
+title: FDA Considers COVID-19 Boosters for Pfizer Comirnaty
 tags: COVID Math MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
 ---
 
 Today the FDA's Vaccines and Related Biological Products Advisory Committee meets to
-review the Pfizer/BioNTech application for 3rd dose boosters of their COVID-19 vaccine.
+review the Pfizer/BioNTech application for 3rd dose boosters of their COVID-19 vaccine, Comirnaty.
 Opinion is divided, so there will be some arguing.  I'm makin' popcorn.  
 
 
