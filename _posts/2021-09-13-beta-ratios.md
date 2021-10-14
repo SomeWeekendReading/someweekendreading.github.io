@@ -649,8 +649,8 @@ The appropriate limits as $R_0 \rightarrow 0$ and as $R_0 \rightarrow +\infty$ a
 manifest, due to the way we structured the integrals.  
 
 However, since we have a piecewise CDF, we have to show it's continuous at the piece
-boundary at $R = 1$.  It must be, since it's the integral of the PDF which we showed above
-is continuous and first-order smooth.  We just want to be sure!  
+boundary at $R = 1$.  (It must be, since it's the integral of the PDF which we showed above
+is continuous and first-order smooth.  We just want to be sure!)  
 
 That amounts to proving the following equality, joining the values of the CDF from below
 and above 1:  
