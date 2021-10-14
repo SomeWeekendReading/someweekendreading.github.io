@@ -113,14 +113,16 @@ So, yeah: about what you'd expect.
 ## Opening Remarks  
 
 First up is Peter Marks, Director of CBER, who introduced the general background
-information.  Nothing controversial here: expressions of thanks to the staff, and stuff
-like the fact that COVID-19 spans a spectrum from asymptomatic infection, to symptomatic,
-to hospitalization, to ventilation, to death.  Also, there's some evidence of the 2-shot
-protocol's vaccine efficacy waning over time (though with complicating factors, as
-always).  Delta is _bad._  
+information.  Nothing terribly new, here:  
+- Expressions of thanks to the staff.
+- Stuff like the fact that COVID-19 spans a spectrum from asymptomatic infection, to symptomatic,
+  to hospitalization, to ventilation, to death.  
+- Also, there's some evidence of the 2-shot protocol's vaccine efficacy waning over time
+  (though with complicating factors, as always).  
+- Delta is _bad._  
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-marks-1.jpg" width="400" height="226" alt="Tartof et al., Lancet: Infection VE wanes but hospitalization VE is robust" title = "Tartof et al., Lancet: Infection VE wanes but hospitalization VE is robust" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Hoever, vaccine efficacy is still high against serious disease and hospitalization.  I'm
+However, vaccine efficacy is still high against serious disease and hospitalization.  I'm
 glad he showed this: while it's nice to avoid any infection whatsoever, it's perfectly
 acceptable to get briefly, mildly infected, and then clear the infection quickly with no
 hospitalization.  That's a disease you can _ignore._  (BTW: I couldn't find the slide deck
@@ -130,7 +132,18 @@ the YouTube livestream.  He showed similar resuts for Pfizer and J&amp;J.)
 Ok, got that; just a rehash of what we've known for a while.  Still, I suppose it's nice
 to get everybody on the same page.
 
-
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-agnihothram-1.jpg" width="400" height="225" alt="Agnihothram: Background for Moderna booster EUA application" title = "Agnihothram: Background for Moderna booster EUA application" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Next was a presentation from Sudhakar Agnihothram, of hte Office of Vaccines Research and
+Review at CBER &amp; FDA. <sup id="fn6a">[[6]](#fn6)</sup>  Honestly, not much new here
+either: and that's a good thing, it says everybody's on the same page.  
+- This is the first place in the meeting though, where it's officially said the original
+  Moderna doses were 100&mu;g but the booster will be half that at 50&mu;g.  
+- There were 171 clinical trial participants for the booster (compared with roughly 27,000
+  in the original clinical trial).  So there's some emphasis an small and fast to get this
+  done, the major safety tests having already been performed.  
+- Waning or not, Delta is one of the booster rationales.  
+- People worry that waning neutralizing antibody titers herald a future waning of VE
+  against hospitalization &amp; death, so everybody wants to get out in front of that.  
 
 &hellip;More TBD&hellip;
 
@@ -159,3 +172,5 @@ to get everybody on the same page.
 <a id="fn4">4</a>: FDA Staff, ["10/14 Discussion Question"](https://www.fda.gov/media/153091/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn4a)  
 
 <a id="fn5">5</a>: FDA Staff, ["10/14 Voting Question"](https://www.fda.gov/media/153092/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn5a)  
+
+<a id="fn6">6</a>: S Agnihotram, ["Moderna COVID-19 Vaccine Application for Emergency Use Authorization of a booster dose"](https://www.fda.gov/media/153088/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn6a)  
