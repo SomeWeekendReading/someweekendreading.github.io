@@ -109,6 +109,29 @@ This agenda is more or less what you'd exepct:
 
 So, yeah: about what you'd expect.  
 
+
+## Opening Remarks  
+
+First up is Peter Marks, Director of CBER, who introduced the general background
+information.  Nothing controversial here: expressions of thanks to the staff, and stuff
+like the fact that COVID-19 spans a spectrum from asymptomatic infection, to symptomatic,
+to hospitalization, to ventilation, to death.  Also, there's some evidence of the 2-shot
+protocol's vaccine efficacy waning over time (though with complicating factors, as
+always).  Delta is _bad._  
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-marks-1.jpg" width="400" height="226" alt="Tartof et al., Lancet: Infection VE wanes but hospitalization VE is robust" title = "Tartof et al., Lancet: Infection VE wanes but hospitalization VE is robust" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Hoever, vaccine efficacy is still high against serious disease and hospitalization.  I'm
+glad he showed this: while it's nice to avoid any infection whatsoever, it's perfectly
+acceptable to get briefly, mildly infected, and then clear the infection quickly with no
+hospitalization.  That's a disease you can _ignore._  (BTW: I couldn't find the slide deck
+Marks is using on the VRBPAC meeting web site, so this is a partial screen capture from
+the YouTube livestream.  He showed similar resuts for Pfizer and J&amp;J.)  
+
+Ok, got that; just a rehash of what we've known for a while.  Still, I suppose it's nice
+to get everybody on the same page.
+
+
+
 &hellip;More TBD&hellip;
 
 <!-- *** Conclusion: Next step should be full approval? -->
