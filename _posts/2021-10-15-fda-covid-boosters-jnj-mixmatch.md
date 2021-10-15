@@ -64,7 +64,7 @@ first, so that at least is good.
 
 ## The Discussion Period  
 
-According to Helen Branswell, the discussion was not to J&amp;J's liking: they want to
+According to Helen Branswell, the discussion was not to J&amp;J's liking.  They want to
 remain a 1-dose vaccine because that appeals to some people, and they _don't_ want
 heterologous boosters with somebody else's vaccines.  However, the VRBPAC members think
 otherwise:  
@@ -92,11 +92,11 @@ study. <sup id="fn5a">[[5]](#fn5)</sup> "Heterologous" is just terminological in
 heterologous and homologous just mean "same" and "different" as they're used here.  
 
 Obviously, this was a government-run trial at the NIH/NIAID, since we can never expect
-private companies to do trials with their competitors' vaccines!  (In fact, during the
+private companies to do trials with their competitors' vaccines!  In fact, during the
 J&amp;J presentation, according to Helen Branswell, J Van Hoof of J&amp;J appeared to try
 to _block consideration of heterologous boosts_, asserting without proof that their safety
-had not been proven as often as J&amp;J boosted with J&amp;J had.  Apparently he was
-unaware of the safety study being presented _this very afternoon?!_)  
+had not been proven as much as J&amp;J boosted with J&amp;J had been.  Was he
+unaware of the safety study being presented _this very afternoon?!_  
 
 <img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-nih-1.jpg" width="400" height="224" alt="NIH: All 9 possible pairwise combinations and orderings of 3 vaccines" title="NIH: All 9 possible pairwise combinations and orderings of 3 vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This study used all 3 vaccines in combination with each other, in both orders in a 2-dose
@@ -136,6 +136,12 @@ Too bad the VRBPAC won't be allowed to vote/recommend on this, as the data is so
 
 
 ## The Weekend Conclusion  
+
+1. On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote.  On
+   the other hand, sentiment seems to be that this should have been a 2-dose vaccine from
+   the start, and that heterologous boosters with another vaccine might be better.
+   So&hellip; from the J&amp;J viewpoint, they might see this as 1 win and 2 losses.  
+
 
 &hellip;more updates here as the hearings progress&hellip;  
 
