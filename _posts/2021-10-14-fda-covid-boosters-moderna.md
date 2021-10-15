@@ -122,12 +122,15 @@ information.  Nothing terribly new, here:
 - Delta is _bad._  
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-marks-1.jpg" width="400" height="226" alt="Tartof et al., Lancet: Infection VE wanes but hospitalization VE is robust" title = "Tartof et al., Lancet: Infection VE wanes but hospitalization VE is robust" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
 However, vaccine efficacy is still high against serious disease and hospitalization.  I'm
 glad he showed this: while it's nice to avoid any infection whatsoever, it's perfectly
 acceptable to get briefly, mildly infected, and then clear the infection quickly with no
-hospitalization.  That's a disease you can _ignore._  (BTW: I couldn't find the slide deck
-Marks is using on the VRBPAC meeting web site, so this is a partial screen capture from
-the YouTube livestream.  He showed similar resuts for Pfizer and J&amp;J.)  
+hospitalization.  That's a disease you can _ignore._  (He showed similar resuts for Pfizer
+and J&amp;J.  BTW: I couldn't find the slide deck Marks is showing here on the VRBPAC
+meeting web site, so this is a partial screen capture from the YouTube livestream.  Later:
+found 'em; looks like he uploaded them the next day. <sup id="fn13a">[[13]](#fn13)</sup>
+The screen capture shown here is slide 5.)  
 
 Ok, got that; just a rehash of what we've known for a while.  Still, I suppose it's nice
 to get everybody on the same page.
@@ -510,3 +513,5 @@ We'll see!
 <a id="fn11">11</a>: T Mongeau, ["FDA Review of Effectiveness and Safety of Moderna COVID-19 Vaccine (mRNA-1273) Booster Dose Emergency Use Authorization Amendment"](https://www.fda.gov/media/153087/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn11a)  
 
 <a id="fn12">12</a>: H-L Wong, ["Surveillance Updates of Myocarditis/Pericarditis and mRNA COVID-19 Vaccination in the FDA BEST System"](https://www.fda.gov/media/153090/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn12a)  
+
+<a id="fn13">13</a>: P Marks, ["Welcome Remarks"](https://www.fda.gov/media/153097/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-15. [↩](#fn13a)  
