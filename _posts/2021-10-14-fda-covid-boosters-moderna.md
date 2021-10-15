@@ -344,11 +344,46 @@ So here we are:
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-3.jpg" width="400" height="55" alt="FDA: VRBPAC briefing document" title="FDA: VRBPAC briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-4.jpg" width="400" height="222" alt="FDA: VRBPAC slide deck 1" title="FDA: VRBPAC slide deck 1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-5.jpg" width="400" height="226" alt="FDA: VRBPAC slide deck 2" title="FDA: VRBPAC slide deck 2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-45 pp <sup id="fn10a">[[10]](#fn10)</sup>
-31 slides <sup id="fn11a">[[11]](#fn11)</sup>
-19 slides <sup id="fn12a">[[12]](#fn12)</sup>
+There are 3 primary sources here: the 45 page FDA briefing 
+document <sup id="fn10a">[[10]](#fn10)</sup>, a slide deck of 31 slides which discusses
+immunogenicity and broad safety outcomes <sup id="fn11a">[[11]](#fn11)</sup>, and another
+slide deck of 19 slides which specifically examines safety with regard to myocarditis and
+pericarditis <sup id="fn12a">[[12]](#fn12)</sup>.  
 
-&hellip;More TBD&hellip;
+As with the Moderna presentation, we'll concentrate on the slides since they are the
+things for which we can observe discussion in the video, if needed.  But the briefing
+document is there for any completists among us.  
+
+The first slide deck has a _lot_ more detail on the study design, how it dovetails with
+the original clinical triall, censorship events, and so on.  It kind of surprised me that
+Moderna concentrated on the results and left this part to the FDA.
+
+The success criterion is based on looking at the geometric mean titers of antibodies after
+dose 2 and after dose 3.  They calculate a ratio and its 95% confidence limits, using
+ANCOVA to clean up the dose 2 estimates of antibody levels and adjusting for age groups
+(because, hey, Simpson's paradox).  Success is declared when the ratio met 2 criteria:
+central estimate &ge; 1 and lower confidence limit &ge; 0.67.  
+
+They also did some analysis for sensitivity to Delta by comparing those who completed the
+study early (pre-Delta) vs those who completed it late (post-Delta).  
+
+They reported the usual reactogenic events (fever, fatigue, headache, &hellip;) in
+about the usual proportions.  
+
+There were no SAEs before the time cutoff, and 5 after the cutoff (none deemed vaccine
+related).  There were a few AEs, most of which were also unrelated and the related ones
+were slightly more serious headache and fatigue.  
+
+Final results (slide 29):  
+- Success against the D614G variant was seen in antibody levels, though not with the more
+  complex seroresponse measurements.  
+- Post-hoc, subjects who had weak response to the first 2 doses were more likely to achive
+  the threshold &ge; 4 fold rise in neutralizing abs.  
+- The Delta data was too sketchy since Delta emerged late in the trial.  
+- No evidence of any worse safety profile than the first 2 doses.  
+
+
+&hellip;More TBD&hellip;  
 
 
 ## The Vote  
@@ -365,7 +400,7 @@ boosters, as in Israel.  That will take some _more_ evidence to move people.
 <!-- *** Conclusion: Next step should be CDC ACIP meeting next week? -->
 <!-- *** Conclusion: Next step should be full approval? -->
 
-&hellip;More TBD&hellip;
+&hellip;More TBD&hellip;  
 
 
 ---
