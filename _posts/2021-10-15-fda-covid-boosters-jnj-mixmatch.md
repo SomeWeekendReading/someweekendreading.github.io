@@ -74,7 +74,7 @@ heterologous and homologous just mean "same" and "different" as they're used her
 Obviously, this was a government-run trial at the NIH/NIAID, since we can never expect
 private companies to do trials with their competitors' vaccines!  (In fact, during the
 J&amp;J presentation, according to Helen Branswell, J Van Hoof of J&amp;J appeared to try
-to block consideration of heterologous boosts, asserting without proof that their safety
+to _block consideration of heterologous boosts_, asserting without proof that their safety
 had not been proven as often as J&amp;J boosted with J&amp;J had.  Apparently he was
 unaware of the safety study being presented _this very afternoon?!_)  
 
@@ -110,7 +110,7 @@ So it looks to me like the conclusion _should_ be:
 - the J&amp;J vaccine boosting itself might be something to avoid (it's probably ok, just
   not as good as the others).  
 
-Too bad the VRBPAC won't be able to vote/recommend on this, as the data is somewhat early!  
+Too bad the VRBPAC won't be allowed to vote/recommend on this, as the data is somewhat early!  
 
 &hellip;more updates here as the hearings progress&hellip;  
 
