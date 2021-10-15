@@ -123,7 +123,7 @@ The second slide shown here shows the result for IgG antiobody binding on all 9 
 combinations, this time using 3 variants of concern: WT, Alpha, and Delta.  They all get
 better with boosts and time, but J&amp;J boosting itself was the weakest of the lot.  
 
-They also reported safety outcomes, from which we conclude nothing disastrous happened.  
+They also reported safety outcomes, basically saying nothing special happened.  
 
 So it looks to me like the conclusion _should_ be:  
 - heterologous vaccines work (so we should do them), and  
