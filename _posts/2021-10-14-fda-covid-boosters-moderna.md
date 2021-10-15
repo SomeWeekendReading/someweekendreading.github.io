@@ -387,16 +387,52 @@ Final results (slide 29):
 
 ### Specific Safety from Myocarditis/Pericarditis  
 
+From the FDA fact sheet for Moderna:  
+- Myocarditis &amp; pericarditis most often occur within 7 days, particularly after the
+  2nd dose.  
+- The observed risk is highest in males 18-24 years of age.  
+- It generally resolves quickly under conservative treatment.  
+- Whether there are long-term sequelae is not yet known.  
+
+Ok, so something to worry about, but at least we (a) know the risk is mostly for younger
+males, and (b) they tend to recover relatively quickly.  Still, we don't know if there are
+long-term consequences for this particular myocarditis &amp; pericarditis.  
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-6.jpg" width="400" height="224" alt="FDA: BEST system mRNA COVID-19 vax data reporting by data partner and maker" title="FDA: BEST system mRNA COVID-19 vax data reporting by data partner and maker" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-7.jpg" width="400" height="224" alt="FDA: Myocarditis/pericarditis per million person-days, by age" title="FDA: Myocarditis/pericarditis per million person-days, by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+The FDA does active safety surveillance of biologics at FDA/CBER in what's called the BEST
+system, which stands for Biologics Effectiveness and Safety with a T at the end for no
+obvious reason.  Yeah, I'd probably call it "BEST" too, but I'd at least have an excuse
+for putting the T in there.  
+
+As you can see, they've recorded _stupendous_ quantities of data from a variety of data
+partners.  It looks like about 13 million for Pfizser and 9 million for Moderna.  So
+they're statistically powered to hunt bears.  
+
+Slide 11 shows the incidence of myocarditis/pericarditis per million person-days, broken
+out by age groups (and, somewhat uselessly, FDA data provider).  The bars in the plot are
+at very thin stroke weights, so you may have to click through to the original to see
+clearly.  
+- The rate in men age 18-25 looks to be about 5 events/million person-days with a 95%
+  confidence interval of about 1 &ndash; 10 events/million person-days.  
+- The background rate in every other age group and for women appears to be around 
+  2 events/million person-days, with 95% CI of 0 &ndash; 5 events/million person-days.  
+
+So&hellip; still pretty rare, but definitely slightly less rare in young men.  As we
+thought, all along.  
+
+They also, with admirable skepticism, compared the risk ratio for myocarditis/pericarditis
+in males 18-25 between Pfizer and Moderna.  Shown here on a lot scale,
 &hellip;More TBD&hellip;  
 
 
 ## The Vote  
 
-The vote came at 3:15pm: a unanimous 19 Yes, 0 No, and 0 Abstain.  So now the Pfizer and
-Moderna booster authorizations are the same.  
+The vote came at 3:15pm: a unanimous 19 Yes, 0 No, and 0 Abstain.  Nice to see broad
+agreement.  So now the Pfizer and Moderna booster authorizations are the same.  
 
 However, from the tone of the discussion, it appears there is no appetite for universal
-boosters, as in Israel.  That will take some _more_ evidence to move people.  
+boosters, as in Israel.  That will apparently take some _more_ evidence to move people.  
 
 
 ## The Weekend Conclusion  
