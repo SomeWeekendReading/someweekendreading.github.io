@@ -22,7 +22,7 @@ anyone who _does_ care to dig in, and will gratefully read any summary they migh
 - Helen Branswell &amp; Matt Herper at _STAT News_ are doing their usual live-blogging, so
   that's always a good place to look for callouts of the main 
   points. <sup id="fn1a">[[1]](#fn1)</sup>  
-- The FDA's meeting announcemet page <sup id="fn2a">[[2]](#fn2)</sup>, same as for
+- The FDA's meeting announcement page <sup id="fn2a">[[2]](#fn2)</sup>, same as for
   yesterday, now has new materials for J&amp;J uploaded.  The rest of the meeting
   materials are available there.  
 - The official agenda <sup id="fn3a">[[3]](#fn3)</sup> calls for a decision on the J&amp;J
@@ -115,7 +115,9 @@ The result seems to be, approximately: hey, it worked.
 The first slide here shows the result for pseudovirus neutralization: bigger is better,
 and the vertical axis is on a log scale.  This is for the D614G variant.  It looks like
 the mRNA vaccines all do comparably well with whatever booster happens; the J&amp;J does
-better with an mRNA boost than with itself.  
+better with an mRNA boost than with itself.  It also looks like the heterologous boosts
+were _as good or higher_ than the homologous ones, which strong encourages mixing
+boosters!  
 
 The second slide shown here shows the result for IgG antiobody binding on all 9 vax
 combinations, this time using 3 variants of concern: WT, Alpha, and Delta.  They all get
@@ -124,19 +126,27 @@ better with boosts and time, but J&amp;J boosting itself was the weakest of the 
 They also reported safety outcomes, basically saying nothing special happened.  
 
 So it looks to me like the conclusion _should_ be:  
-- heterologous vaccines work (so we should do them), and  
-- the J&amp;J vaccine boosting itself might be something to avoid (it's probably ok, just
+- heterologous vaccines work, possibly _better_ than homologous (so we should do them), and  
+- the J&amp;J vaccine boosting itself is the weakest kitten in the basket (it's probably ok, just
   not as good as the others).  
 
 Too bad the VRBPAC won't be allowed to vote/recommend on this topic, as the data is
 somewhat early!  But maybe in the _near_ future.  
 
-&hellip;more updates here as the hearings progress&hellip;  
+Ok, that all seems reasonably clear.  I listened to some of the discussion, and people
+pretty much agreed.  
+
+The issues that concerned them were something like the CDC's ACIP can't make a
+recommendation unless the FDA gives an approval or at least an EUA, so the next step for
+the FDA is to let these data mature and then consider a mix-and-match EUA.  There was some
+chit-chat about what data people would like to see to make that happen.  (Furilla
+disagreed that an EUA would be required, given that all 3 vaccines are at least EUA'd or
+even fully approved.)  
 
 
 ## The Weekend Conclusion  
 
-1. J&amp;J boosters approved, sort of:  
+1. J&amp;J boosters approved, _sort of:_  
    - On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote of
      the entire VRBPAC.  
    - On the other hand, sentiment seems to be that this should have been a 2-dose vaccine from
@@ -144,7 +154,16 @@ somewhat early!  But maybe in the _near_ future.
 
    So from the J&amp;J viewpoint, they might see this as 1 win and 2 losses.  
 
-2. &hellip;more updates here as the hearings progress&hellip;  
+2. The mix-and-match study gave fabulous results:  
+   - safety was pretty high, and 
+   - the heterologous efficacies were as good or better than homologous.  
+
+   The next step will be to mature this study a bit, with a few more assays to measure
+   activated T-cell or memory B-cell response, add a few more groups, and then move for an
+   EUA.  At that point, the CDC's ACIP could issue a recommendation for practice.  
+   
+J&amp;J may consider this a mixed result, but I think for the general welfare this was a
+good day.  
 
 ---
 
