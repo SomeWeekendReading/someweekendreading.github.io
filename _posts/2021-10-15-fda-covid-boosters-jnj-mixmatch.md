@@ -144,6 +144,10 @@ disagreed that an EUA would be required, given that all 3 vaccines are at least 
 even fully approved.  They could move as soon as Moderna and J&amp;J are fully approved.
 So that's a potential shortcut, maybe?)  
 
+There was even some discussion of lowering the age at which people can ask for a booster
+without complicating conditions from 65 to 40!  At that point&hellip; come on, just give
+everybody a booster, I say.  
+
 
 ## The Weekend Conclusion  
 
