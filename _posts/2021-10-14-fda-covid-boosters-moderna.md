@@ -267,14 +267,22 @@ yourself out, if that's your thing.
 
 Also, we won't trudge through their safety data, since it's largely comparable to the
 Israeli safety data for Pfizer, reported above.  Basically, there were no SAEs reported
-(though one came up after the report, though it was judged unrelated).  So the safety case
-is quite good.  
+(though one came up after the report, though it was judged unrelated).  Also, the FDA
+presentations (_q.v._) will have some data on myocarditis/pericarditis.  So the safety
+case is quite good.  
 
 I'd rather hear about efficacy, particularly with Delta.  
 
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-4.jpg" width="400" height="225" alt="Moderna: Original vaccine 98.2% efficacy vs severe disease at 5.3 months followup" title="Moderna: Original vaccine 98.2% efficacy vs severe disease at 5.3 months followup" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - CO-12 (severe efficacy)
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-5.jpg" width="400" height="223" alt="Moderna: Original vaccine marginal vs Delta at 2 doses, effective at 3 doses" title="Moderna: Original vaccine marginal vs Delta at 2 doses, effective at 3 doses" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - CO-14 (abs vs variants, Delta accounts for waning?)
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-6.jpg" width="400" height="224" alt="Moderna: Breakthrough infections start Jul/Aug, with Delta" title="Moderna: Breakthrough infections start Jul/Aug, with Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - CO-16 (onset of breakthrough with Delta)
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-7.jpg" width="400" height="224" alt="Moderna: Breakthrough infections start Jul/Aug, with Delta" title="Moderna: Breakthrough infections start Jul/Aug, with Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - CO-41 (ab response to Delta, by age)
 
 &hellip;More TBD&hellip;
