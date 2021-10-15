@@ -226,8 +226,9 @@ $$
 \Pr(\mbox{myocarditis/pericarditis}|\mbox{male under 30}) = \frac{11}{369195} = 2.98 \times 10^{-5}
 $$
 
-(Sure, we could calculate a 95% confidence interval on this with a posterior Beta
-distribution.  But that wouldn't change the result that it's _small_.)  
+(No idea why nobody wanted to do that particular calculation, but here at Chez Weekend we
+have no such inhibitions.  Sure, we could calculate a 95% confidence interval on this with
+a posterior Beta distribution.  But that wouldn't change the result that it's _small_.)  
 
 It's impressive: only a country with a truly integrated EMR system and universal health
 care could have done this.  America can't even _approach_ this, with our fragmented health
@@ -354,6 +355,8 @@ As with the Moderna presentation, we'll concentrate on the slides since they are
 things for which we can observe discussion in the video, if needed.  But the briefing
 document is there for any completists among us.  
 
+### Immunogenicity and General Safety  
+
 The first slide deck has a _lot_ more detail on the study design, how it dovetails with
 the original clinical triall, censorship events, and so on.  It kind of surprised me that
 Moderna concentrated on the results and left this part to the FDA.
@@ -382,6 +385,7 @@ Final results (slide 29):
 - The Delta data was too sketchy since Delta emerged late in the trial.  
 - No evidence of any worse safety profile than the first 2 doses.  
 
+### Specific Safety from Myocarditis/Pericarditis  
 
 &hellip;More TBD&hellip;  
 
