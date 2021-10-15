@@ -65,7 +65,7 @@ at 6 months.  Which is kinda now.
 
 The VRBPAC won't actually vote on this, but they will discuss it, making "general
 observations" to the FDA on the heterologous vaccine 
-study. <supid="fn5a">[[5]](#fn5)</sup> "Heterologous" is just terminological inflation;
+study. <sup id="fn5a">[[5]](#fn5)</sup> "Heterologous" is just terminological inflation;
 heterologous and homologous just mean "same" and "different" as they're used here.
 Obviously, this was a government-run trial at the NIH/NIAID, since we can never expect
 private companies to do trials with their competitors' vaccines!  
@@ -97,9 +97,10 @@ better with boosts and time, but J&amp;J boosting itself was the weakest of the 
 
 They also reported safety outcomes, from which we conclude nothing disastrous happened.  
 
-So it looks to me like: (a) heterologous vaccines work so we should do them, and (b) the
-J&amp;J vaccine boosting itself might be something to avoid (it's probably ok, just not as
-good as the others).  
+So it looks to me like:  
+- heterologous vaccines work (so we should do them), and  
+- the J&amp;J vaccine boosting itself might be something to avoid (it's probably ok, just
+  not as good as the others).  
 
 
 ## The Weekend Conclusion  
