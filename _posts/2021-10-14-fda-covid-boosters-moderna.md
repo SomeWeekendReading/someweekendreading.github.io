@@ -5,7 +5,7 @@ tags: COVID Math MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
 ---
 
-__UNFINISHED DRAFT:__ Today the FDA's Vaccines and Related Biological Products Advisory
+Today the FDA's Vaccines and Related Biological Products Advisory
 Committee meets to review the Moderna application for 3rd dose boosters of their COVID-19
 vaccine, Spikevax.  Wonderful name aside, there should be a good case to be made as well.  
 
