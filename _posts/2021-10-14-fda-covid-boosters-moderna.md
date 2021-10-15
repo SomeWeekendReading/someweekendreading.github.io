@@ -235,17 +235,24 @@ We come in with 3 questions:
 2. Do boosters _work?_  
 3. Are boosters _safe?_  
 
-I was on the fence the last time about need, thinking that the case for waning was weak
-and doses might be better spent on the as-yet-unvaccinated, domestically and globally.
-While I still think that, it seems that they've eliminated a lot of the confounders and
-shown that there indeed was some waning, even for serious effects.  COVID-19 may join the
-ranks of other vaccines that require 3 doses (HPV, HepA, HepB, DTaP, Hib, PCV13, IPV,
-&hellip;).  
+For the first question, I was on the fence the last time about need, thinking that the
+case for waning was weak and doses might be better spent on the as-yet-unvaccinated,
+domestically and globally.  While I still think that, it seems that they've eliminated a
+lot of the confounders and shown that there indeed was some waning, even for serious
+effects.  COVID-19 may join the ranks of other vaccines that also require 3 doses (HPV,
+HepA, HepB, DTaP, Hib, PCV13, IPV, &hellip;).  
 
-For the remaining 2 cases, they've clearly nailed the answer, and it is "yes".  
+After reading their data, my answer to the first question is now "yeah, probably".  
+
+For the remaining 2 questions, they've clearly nailed the answer, and it is "yes".  
 
 
-## The Moderna and FDA presentations  
+## The Moderna presentation  
+
+&hellip;More TBD&hellip;
+
+
+## The FDA presentations  
 
 &hellip;More TBD&hellip;
 
