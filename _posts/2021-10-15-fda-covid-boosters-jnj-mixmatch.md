@@ -136,13 +136,13 @@ somewhat early!  But maybe in the _near_ future.
 
 ## The Weekend Conclusion  
 
-1. J&amp;J boosters approved, sort of.  
-
-   - On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote.  
+1. J&amp;J boosters approved, sort of:  
+   - On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote of
+     the entire VRBPAC.  
    - On the other hand, sentiment seems to be that this should have been a 2-dose vaccine from
-     the start, and that heterologous boosters with another vaccine might be better.  
+     the start, and heterologous boosters with another vaccine might be better.  
 
-   So&hellip; from the J&amp;J viewpoint, they might see this as 1 win and 2 losses.  
+   So from the J&amp;J viewpoint, they might see this as 1 win and 2 losses.  
 
 2. &hellip;more updates here as the hearings progress&hellip;  
 
