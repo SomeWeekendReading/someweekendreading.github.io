@@ -159,7 +159,7 @@ though the committee could discuss it later in the discussion section.
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-1.jpg" width="400" height="223" alt="Israeli MoH: Case for boosters for waning vaccine efficacy" title = "Israeli MoH: Case for boosters for waning vaccine efficacy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Next was a presentation of the evidence for waning vaccine efficacy and the good effect of
-boosters from Israel, by Sharon Alroy-Preis and Ron Milo <sup id="fn1a">[[1]](#fn1)</sup>,
+boosters from Israel, by Sharon Alroy-Preis and Ron Milo <sup id="fn7a">[[7]](#fn7)</sup>,
 who are between them affiliated with basically all the great Israeli research
 institutions.  This is the same pair who presented at the 
 [Pfizer booster hearing]({{ site.baseurl }}/fda-covid-boosters/#is-vaccine-efficacy-really-waning),
@@ -397,6 +397,9 @@ From the FDA fact sheet for Moderna:
 Ok, so something to worry about, but at least we (a) know the risk is mostly for younger
 males, and (b) they tend to recover relatively quickly.  Still, we don't know if there are
 long-term consequences for this particular myocarditis &amp; pericarditis.  
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-3.jpg" width="400" height="55" alt="FDA: VRBPAC briefing document" title="FDA: VRBPAC briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-6.jpg" width="400" height="224" alt="FDA: BEST system mRNA COVID-19 vax data reporting by data partner and maker" title="FDA: BEST system mRNA COVID-19 vax data reporting by data partner and maker" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-7.jpg" width="400" height="224" alt="FDA: Myocarditis/pericarditis per million person-days, by age" title="FDA: Myocarditis/pericarditis per million person-days, by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
