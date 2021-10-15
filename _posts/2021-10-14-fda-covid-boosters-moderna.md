@@ -239,7 +239,7 @@ For the first question, I was on the fence the last time about need, thinking th
 case for waning was weak and doses might be better spent on the as-yet-unvaccinated,
 domestically and globally.  While I still think that, it seems that they've eliminated a
 lot of the confounders and shown that there indeed was some waning, even for serious
-effects.  COVID-19 may join the ranks of other vaccines that also require 3 doses (HPV,
+disease.  COVID-19 may join the ranks of other vaccines that also require 3 doses (HPV,
 HepA, HepB, DTaP, Hib, PCV13, IPV, &hellip;).  
 
 After reading their data, my answer to the first question is now "yeah, probably".  
@@ -260,6 +260,22 @@ Apparently the main point of the sightly unusual errata document was to put 1 mo
 a table, and to report a single, late-breaking adverse event.  The event was renal failure
 due to rhabdomyolosis (basically muscle damage) consequent to a fall.  It was ruled
 unrelated to the vaccine, but of course is reported anyway, as is good practice.  
+
+Here we're going to concentrate on the slides, because it's just too much for me to go
+through the briefing document as well.  But hey, you can go to the references and knock
+yourself out, if that's your thing.  
+
+Also, we won't trudge through their safety data, since it's largely comparable to the
+Israeli safety data for Pfizer, reported above.  Basically, there were no SAEs reported
+(though one came up after the report, though it was judged unrelated).  So the safety case
+is quite good.  
+
+I'd rather hear about efficacy, particularly with Delta.  
+
+- CO-12 (severe efficacy)
+- CO-14 (abs vs variants, Delta accounts for waning?)
+- CO-16 (onset of breakthrough with Delta)
+- CO-41 (ab response to Delta, by age)
 
 &hellip;More TBD&hellip;
 
