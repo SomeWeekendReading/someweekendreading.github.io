@@ -65,9 +65,10 @@ at 6 months.  Which is kinda now.
 
 The VRBPAC won't actually vote on this, but they will discuss it, making "general
 observations" to the FDA on the heterologous vaccine 
-study. <sup id="fn5a">[[5]](#fn5)</sup>  Obviously, this was a government-run trial at the
-NIH/NIAID, since we can never expect private companies to do trials with their
-competitors' vaccines.  
+study. <supid="fn5a">[[5]](#fn5)</sup> "Heterologous" is just terminological inflation;
+heterologous and homologous just mean "same" and "different" as they're used here.
+Obviously, this was a government-run trial at the NIH/NIAID, since we can never expect
+private companies to do trials with their competitors' vaccines!  
 
 <img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-nih-1.jpg" width="400" height="224" alt="NIH: All 9 possible pairwise combinations and orderings of 3 vaccines" title="NIH: All 9 possible pairwise combinations and orderings of 3 vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This study used all 3 vaccines in combination with each other, in both orders in a 2-dose
@@ -77,7 +78,29 @@ did one dose of the first vaccine, then 12 weeks later did the second dose and c
 the "booster".  Seems rational enough to me.  Each of the 9 arms (!) had 50 participants,
 so it's kind of small, but good for exploratory purposes.  
 
-&hellip;updates here as the hearings progress&hellip;  
+For immunogenicity, they measured both pseudovirus neutralization (D614G, with Beta and
+Delta still in process) and IgG antibody binding.  So they didn't just measure blood
+antibody levels in subjects, which is very good indeed.  
+
+<img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-nih-2.jpg" width="400" height="224" alt="NIH: Pseudovirus neutralization for all 9 possible combinations" title="NIH: Pseudovirus neutralization for all 9 possible combinations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-nih-3.jpg" width="400" height="224" alt="NIH: IgG antibody binding for 9 vax combinations and 3 VoCs" title="NIH: IgG antibody binding for 9 vax combinations and 3 VoCs" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+The result seems to be, approximately: hey, it worked.  
+
+The first slide here shows the result for pseudovirus neutralization: bigger is better,
+and the vertical axis is on a log scale.  This is for the D614G variant.  It looks like
+the mRNA vaccines all do comparably well with whatever booster happens; the J&amp;J does
+better with an mRNA boost than with itself.  
+
+The second slide shown here shows the result for IgG antiobody binding on all 9 vax
+combinations, this time using 3 variants of concern: WT, Alpha, and Delta.  They all get
+better with boosts and time, but J&amp;J boosting itself was the weakest of the lot.  
+
+They also reported safety outcomes, from which we conclude nothing disastrous happened.  
+
+So it looks to me like: (a) heterologous vaccines work so we should do them, and (b) the
+J&amp;J vaccine boosting itself might be something to avoid (it's probably ok, just not as
+good as the others).  
+
 
 ## The Weekend Conclusion  
 
