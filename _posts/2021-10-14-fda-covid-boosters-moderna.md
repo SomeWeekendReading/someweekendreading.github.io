@@ -398,9 +398,6 @@ Ok, so something to worry about, but at least we (a) know the risk is mostly for
 males, and (b) they tend to recover relatively quickly.  Still, we don't know if there are
 long-term consequences for this particular myocarditis &amp; pericarditis.  
 
-<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-3.jpg" width="400" height="55" alt="FDA: VRBPAC briefing document" title="FDA: VRBPAC briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
-
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-6.jpg" width="400" height="224" alt="FDA: BEST system mRNA COVID-19 vax data reporting by data partner and maker" title="FDA: BEST system mRNA COVID-19 vax data reporting by data partner and maker" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-7.jpg" width="400" height="224" alt="FDA: Myocarditis/pericarditis per million person-days, by age" title="FDA: Myocarditis/pericarditis per million person-days, by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The FDA does active safety surveillance of biologics at FDA/CBER in what's called the BEST
@@ -409,7 +406,7 @@ obvious reason.  Yeah, I'd probably call it "BEST" too, but I'd at least have an
 for putting the T in there.  
 
 As you can see, they've recorded _stupendous_ quantities of data from a variety of data
-partners.  It looks like about 13 million for Pfizser and 9 million for Moderna.  So
+partners.  It looks like about 13 million for Pfizer and 9 million for Moderna.  So
 they're statistically powered to hunt bears.  
 
 Slide 11 shows the incidence of myocarditis/pericarditis per million person-days, broken
@@ -424,9 +421,19 @@ clearly.
 So&hellip; still pretty rare, but definitely slightly less rare in young men.  As we
 thought, all along.  
 
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-8.jpg" width="400" height="285" alt="FDA: Pfizer vs Moderna myocarditis/pericarditis risk ratio in males 18-24" title="FDA: Pfizer vs Moderna myocarditis/pericarditis risk ratio in males 18-24" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 They also, with admirable skepticism, compared the risk ratio for myocarditis/pericarditis
-in males 18-25 between Pfizer and Moderna.  Shown here on a lot scale,
-&hellip;More TBD&hellip;  
+in males 18-25 between Pfizer and Moderna.  Shown here on a log scale, the risk ratio
+hovers around 1.  Data partner 4 was an outlier for unknown reasons, but when all data
+were combined in meta-analysis, the bottom bar was obtained: still around 1, with the 95%
+confidence intervals bracketing 1.  
+
+The conclusion is that, modulo data partner 4 and even with that if you combine all data
+partners, Pfizer and Moderna are indistinguishable in myocarditis/pericarditis risk for
+males 18-24.  
+
+This is good news for Moderna, since Pfizer was approved (for boosters and indeed full
+approval) at this risk level, so there's no need to hold back Moderna.  
 
 
 ## The Vote  
@@ -440,11 +447,31 @@ boosters, as in Israel.  That will apparently take some _more_ evidence to move 
 
 ## The Weekend Conclusion  
 
-<!-- *** Conclusion: Next step should be CDC ACIP meeting next week? -->
-<!-- *** Conclusion: Next step should be full approval? -->
+It looks a third mRNA booster shot is safe &amp; effective based on the Moderna/FDA data,
+and now probably necessary based on the Israeli MoH data.  So approval made perfect
+sense.  
 
-&hellip;More TBD&hellip;  
+### A "Chilling Postscript"  
 
+There was one "chilling postscritpt", as Helen Branswell put it.  A question was asked
+both of the Israeli presenters (questioner unknown) and again at the end by panelist
+Michael Kurilla: is this just a temporary bump in antibody levels that will fade in 6
+months indicating bi-yearly boosters, or is this the awakening of permanent immunity like
+the other 3-dose vaccines?  
+
+The answer is unknow, but important.  We'd like to know, if durability is limited, whether
+that's a propert of coronaviruses, or of mRNA vaccines, or &hellip; _something._
+
+### Next Steps  
+
+1. The FDA has to decide what official action to take based on the VRBPAC result.
+   Approval of boosters is expected, but not guaranteed.  
+2. Next week, the CDC's ACIP committee will meet to decide what practice recommendation to
+   make for US physicians.  
+3. Moderna has yet to be fully approved, so that should happen since Pfizer seems nearly
+   identical in mechanism, safety, and efficacy.  
+
+We'll see!  
 
 ---
 
