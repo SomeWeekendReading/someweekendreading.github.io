@@ -145,9 +145,124 @@ either: and that's a good thing, it says everybody's on the same page.
 - People worry that waning neutralizing antibody titers herald a future waning of VE
   against hospitalization &amp; death, so everybody wants to get out in front of that.  
 
+There was one sort of interesting question, as pointed out by Helen Branswell: given the
+proposed booster dose is half the original dose, should people classified as
+immunocompromised get a third full dose or half dose?  Life is complicated, and it's hard
+to cover all the possibilities without getting confused.  Opinion seemed to be, e.g., from
+Agnihothram, that the simple answer was the immunocompromised get a full third dose.
+_Maybe_ they'd in the future get a 4th half-dose.  But then Marks jumped in and said that
+was far in the future, and he didn't want the FDA to make a definitive statement now,
+though the committee could discuss it later in the discussion section.  
+
+
+## The Israeli Case for Boosters  
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-1.jpg" width="400" height="223" alt="Israeli MoH: Case for boosters for waning vaccine efficacy" title = "Israeli MoH: Case for boosters for waning vaccine efficacy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Next was a presentation of the evidence for waning vaccine efficacy and the good effect of
+boosters from Israel, by Sharon Alroy-Preis and Ron Milo <sup id="fn1a">[[1]](#fn1)</sup>,
+who are between them affiliated with basically all the great Israeli research
+institutions.  This is the same pair who presented at the 
+[Pfizer booster hearing]({{ site.baseurl }}/fda-covid-boosters/#is-vaccine-efficacy-really-waning),
+and today we'll see an update on their data.  
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-2.jpg" width="400" height="225" alt="Israeli MoH: Booster rates stratified by age" title="Israeli MoH: Booster rates stratified by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-3.jpg" width="400" height="226" alt="Israeli MoH: Boosters at the hinge in death rates" title="Israeli MoH: Boosters at the hinge in death rates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I was immediately impressed by 2 very convincing bits at the start (which is probably
+_why_ they put them at the start):  
+1. The Israelis have been _aggressive_ about rolling out boosters, starting with the
+   elders and working their way downward in age.  The graphs of percent boosted vs time,
+   stratified by age, are just _impressive._  You can say a lot of things about their
+   booster policy, but "hesitant" is not one of them.  They went to, with a will.  
+2. And it made a difference.  Look at the PCR-confirmed case rates vs time, for
+   those over 60 who got boosted, compared with those under 60 who had not (yet).  The
+   curves are indistinguishable until 2 weeks after boost, when the boosted case rates
+   took a _dramatic_ decline.  
+   
+They showed similar results (which I won't reproduce here, but are in the slides) for a
+decrease in positive test rates and decrease in serious disease.  These data cover 
+_most of the Israeli population over age 16_ (4.6 million subjects).  
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-4.jpg" width="400" height="224" alt="Israeli MoH: Post-booster confirmed infection rates, stratified by age" title="Israeli MoH: Post-booster confirmed infection rates, stratified by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-5.jpg" width="400" height="224" alt="Israeli MoH: Post-booster severe disease rates, stratified by age" title="Israeli MoH: Post-booster severe disease rates, stratified by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-6.jpg" width="400" height="226" alt="Israeli MoH: Post-booster death rates for 60+ (too few deaths below 60)" title="Israeli MoH: Post-booster death rates for 60+ (too few deaths below 60)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Three more slides cover age-stratified results for infection, severe infection, and
+death.  At least 2 things are worth learning here:  
+1. Boosters aren't just about lowering the generally medically trivial asymptomatic
+   infections.  They _also_ lower severe infection and the associated hospitalization, and
+   the lower death rates.  It's the latter part we really care about: keeping people out
+   of the hospital and out of the grave.  For each of those variables, they show us the
+   time course graphically, but then objectively report the risk ratio _and the 95% CI_,
+   so we can be sure of it.  The risk ratios typically show a 10-fold reduction or more.
+   This is well done.  
+2. They've age-stratified everything.  Say what you will, these guys have learned the 
+   lesson of [Simpson's paradox]({{ site.baseurl }}/covid-simpson/)!  Sure, it's
+   theoretically nice when people don't make mistakes; but it's _delightful_ when people
+   _learn_ from mistakes and do better.  These guys are _good_.  
+
+
+The adverse event reporting was pretty good news, too.  It looks like the adverse event
+rate is similar to, or even _better than_, the first two doses.  That may be because your
+immune system is starting to get the joke by the time of the third dose, and the third
+dose is half the size anyway.  Perhaps this will trigger some investigation as to whether
+the initial dosing was a bit too high?
+
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-7.jpg" width="400" height="226" alt="Israeli MoH: Rates of adverse events by category and age cohort" title="Israeli MoH: Rates of adverse events by category and age cohort" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-israel-8.jpg" width="400" height="224" alt="Israeli MoH: Myocarditis and pericarditis rates by age and dose" title="Israeli MoH: Myocarditis and pericarditis rates by age and dose" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+The first slide shown here shows the rate of adverse events, broken out by (a) category
+(systemic, local, neurological, allergic, &hellip;), (b) by age, and (c) by 1st/2nd/3rd
+dose.  Just looking at the heights of the bars shows that the general level of side
+effects was medium for dose 1, higher for dose 2, and much lower for dose 3.  That is: if
+you accept the safety of doses 1 and 2, then you must also accept the safety of dose 3.
+
+The second slide shown here summarizes the results for myocarditis and pericarditis in
+particular.  At the time of the Pfizer booster hearing, they hadn't collected enough data
+for young men to be of much use.  However, due to the lightning speed of their booster
+campaign, they now _do_ have enough data.  
+
+These data are encouraging: there were 17 myocarditis/pericarditis events out of 3.7
+million vaccinees, of which 11 were in males under 30 ($N$ = 369,195).  That gives us a
+probability of myocarditis/pericarditis in young males of about 3 chances in 100,000:  
+
+$$
+\Pr(\mbox{myocarditis/pericarditis}|\mbox{male under 30}) = \frac{11}{369195} = 2.98 \times 10^{-5}
+$$
+
+(Sure, we could calculate a 95% confidence interval on this with a posterior Beta
+distribution.  But that wouldn't change the result that it's _small_.)  
+
+We come in with 3 questions:
+1. Are boosters _needed?_  
+2. Do boosters _work?_  
+3. Are boosters _safe?_  
+
+I was on the fence the last time about need, thinking that the case for waning was weak
+and doses might be better spent on the as-yet-unvaccinated, domestically and globally.
+While I still think that, it seems that they've eliminated a lot of the confounders and
+shown that there indeed was some waning, even for serious effects.  COVID-19 may join the
+ranks of other vaccines that require 3 doses (HPV, HepA, HepB, DTaP, Hib, PCV13, IPV,
+&hellip;).  
+
+For the remaining 2 cases, they've clearly nailed the answer, and it is "yes".  
+
+
+## The Moderna and FDA presentations  
+
 &hellip;More TBD&hellip;
 
+
+## The Vote  
+
+The vote came at 3:15pm: a unanimous 19 Yes, 0 No, and 0 Abstain.  So now the Pfizer and
+Moderna booster authorizations are the same.  
+
+
+## The Weekend Conclusion  
+
+<!-- *** Conclusion: Next step should be CDC ACIP meeting next week? -->
 <!-- *** Conclusion: Next step should be full approval? -->
+
+&hellip;More TBD&hellip;
+
 
 ---
 
@@ -158,7 +273,7 @@ either: and that's a good thing, it says everybody's on the same page.
 
 <a id="fn1">1</a>: ***, ["***"](***), *** [↩](#fn1a)  
 
-<img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title = "***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
@@ -174,3 +289,5 @@ either: and that's a good thing, it says everybody's on the same page.
 <a id="fn5">5</a>: FDA Staff, ["10/14 Voting Question"](https://www.fda.gov/media/153092/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn5a)  
 
 <a id="fn6">6</a>: S Agnihotram, ["Moderna COVID-19 Vaccine Application for Emergency Use Authorization of a booster dose"](https://www.fda.gov/media/153088/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn6a)  
+
+<a id="fn7">7</a>: S Alroy-Preis &amp; R Milo, ["Booster protection across ages &ndash; data from Israel"](https://www.fda.gov/media/153086/download), Israeli Ministry of Health, Weizmann Institute, Technion, Gertner Institute, and Hebrew University slides for VRBPAC 2021-Oct-14 meeting, 2021-Oct-14. [↩](#fn7a)  
