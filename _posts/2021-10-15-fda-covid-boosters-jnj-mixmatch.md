@@ -58,7 +58,10 @@ to the mRNA vaccines, or to repair the efficacy against non-severe COVID-19.  Pe
 starting to say this should be a 2-shot vaccine from the start, maybe with the second dose
 at 6 months.  Which is kinda now.  
 
-&hellip;updates here as the hearings progress&hellip;  
+There does seem to be less clotting risk with the 2nd dose of J&amp;J compared to the
+first, so that at least is good.  
+
+&hellip;more updates here as the hearings progress&hellip;  
 
 
 ## The Mix-and-Match Clinical Trial  
@@ -66,9 +69,14 @@ at 6 months.  Which is kinda now.
 The VRBPAC won't actually vote on this, but they will discuss it, making "general
 observations" to the FDA on the heterologous vaccine 
 study. <sup id="fn5a">[[5]](#fn5)</sup> "Heterologous" is just terminological inflation;
-heterologous and homologous just mean "same" and "different" as they're used here.
+heterologous and homologous just mean "same" and "different" as they're used here.  
+
 Obviously, this was a government-run trial at the NIH/NIAID, since we can never expect
-private companies to do trials with their competitors' vaccines!  
+private companies to do trials with their competitors' vaccines!  (In fact, during the
+J&amp;J presentation, according to Helen Branswell, J Van Hoof of J&amp;J appeared to try
+to block consideration of heterologous boosts, asserting without proof that their safety
+had not been proven as often as J&amp;J boosted with J&amp;J had.  Apparently he was
+unaware of the safety study being presented _this very afternoon?!_)  
 
 <img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-nih-1.jpg" width="400" height="224" alt="NIH: All 9 possible pairwise combinations and orderings of 3 vaccines" title="NIH: All 9 possible pairwise combinations and orderings of 3 vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This study used all 3 vaccines in combination with each other, in both orders in a 2-dose
@@ -97,15 +105,19 @@ better with boosts and time, but J&amp;J boosting itself was the weakest of the 
 
 They also reported safety outcomes, from which we conclude nothing disastrous happened.  
 
-So it looks to me like:  
+So it looks to me like the conclusion _should_ be:  
 - heterologous vaccines work (so we should do them), and  
 - the J&amp;J vaccine boosting itself might be something to avoid (it's probably ok, just
   not as good as the others).  
 
+Too bad the VRBPAC won't be able to vote/recommend on this, as the data is somewhat early!  
+
+&hellip;more updates here as the hearings progress&hellip;  
+
 
 ## The Weekend Conclusion  
 
-&hellip;updates here as the hearings progress&hellip;  
+&hellip;more updates here as the hearings progress&hellip;  
 
 ---
 
