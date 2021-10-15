@@ -278,41 +278,41 @@ from the Moderna presentation that bear on this in ways that look interesting to
 width="400" height="225" alt="Moderna: Original vaccine 98.2% efficacy vs severe disease
 at 5.3 months followup" title="Moderna: Original vaccine 98.2% efficacy vs severe disease
 at a median of 5.3 months followup" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-- Slide 12 is a follow-up on efficacy from the original clinical trial of 2 doses.  
-  - It shows the familiar Kaplan-Meier curve for infections in placebo vs vaccine arm, this
-    time amended with a plateau as the infections saturate the placebo arm.  
-  - The significant result is: 98.2% efficacy against severe COVID-19 at 5.3 months of
-    followup after the second dose.  This is still _excellent_ news, even if waning against
-    infection has started.  
-  - Still&hellip; one might wonder: does this include very many months of exposure to
-    Delta, and if not, would that change anything?  
+Slide 12 is a follow-up on efficacy from the original clinical trial of 2 doses.  
+- It shows the familiar Kaplan-Meier curve for infections in placebo vs vaccine arm, this
+  time amended with a plateau as the infections saturate the placebo arm.  
+- The significant result is: 98.2% efficacy against severe COVID-19 at 5.3 months of
+  followup after the second dose.  This is still _excellent_ news, even if waning against
+  infection has started.  
+- Still&hellip; one might wonder: does this include very many months of exposure to
+  Delta, and if not, would that change anything?  
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-5.jpg" width="400" height="223" alt="Moderna: Original vaccine marginal vs Delta at 2 doses, effective at 3 doses" title="Moderna: Original vaccine marginal vs Delta at 2 doses, effective at 3 doses" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-- That question of the relation with the rise of Delta is addressed in slide 14.  It shows
-  antibody titers against various variants, by time after the 2nd dose, and again after
-  the 3rd dose.  (It only shows Delta after the 3rd dose, since it hadn't shown up early
-  enough for the first 2 doses.)
-  - Note the neutralizing abs on the vertical axis are on a log scale, so these changes
-    are huge.  
-  - Antibodies vs WT, Beta, and Gamma are high after dose 1.
-  - But 6-8 months after dose 2, they are still high against WT, but marginal against Beta,
-    Gamma, and most importantly Delta.  
-  - However, 2 weeks after the dose 3 booster, they are high again for all variants,
-    including Delta.  
-  - So the booster restores antibody levels against classic variants, and adds in Delta.
-    (It remains to be seen if antibody levels are what we should be measuring, instead of
-    things like properties of memory B cells or T cells.)  
+That question of the relation with the rise of Delta is addressed in slide 14.  It shows
+antibody titers against various variants, by time after the 2nd dose, and again after
+the 3rd dose.  (It only shows Delta after the 3rd dose, since it hadn't shown up early
+enough for the first 2 doses.)
+- Note the neutralizing abs on the vertical axis are on a log scale, so these changes
+  are huge.  
+- Antibodies vs WT, Beta, and Gamma are high after dose 1.
+- But 6-8 months after dose 2, they are still high against WT, but marginal against Beta,
+  Gamma, and most importantly Delta.  
+- However, 2 weeks after the dose 3 booster, they are high again for all variants,
+  including Delta.  
+- So the booster restores antibody levels against classic variants, and adds in Delta.
+  (It remains to be seen if antibody levels are what we should be measuring, instead of
+  things like properties of memory B cells or T cells.)  
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-6.jpg" width="400" height="224" alt="Moderna: Breakthrough infections start Jul/Aug, with Delta" title="Moderna: Breakthrough infections start Jul/Aug, with Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-- Delta is a vexing question: it comes upon the scene in July and August, just when we
-  _also_ decide vaccine efficacy might be waning.  Is it waning, or is it seeing Delta?
-  - Slide 16 addresses this, showing the increase in breakthrough cases is back-end
-    loaded, i.e., in July and August when Delta showed up.  
-  - This makes me believe that immunity to Delta is the only important thing here.
-    Fortunately, the data on slide 14 shows a 3rd dose confers high antibodies to Delta,
-    which we _hope_ will translate into teaching memory B-cells and activated T-cells how
-    to generate long-term immunity (you'll still get briefly infected, but antibodies will
-    be ramped up quickly).
+Delta is a vexing question: it comes upon the scene in July and August, just when we
+_also_ decide vaccine efficacy might be waning.  Is it waning, or is it seeing Delta?
+- Slide 16 addresses this, showing the increase in breakthrough cases is back-end
+  loaded, i.e., in July and August when Delta showed up.  
+- This makes me believe that immunity to Delta is the only important thing here.
+  Fortunately, the data on slide 14 shows a 3rd dose confers high antibodies to Delta,
+  which we _hope_ will translate into teaching memory B-cells and activated T-cells how
+  to generate long-term immunity (you'll still get briefly infected, but antibodies will
+  be ramped up quickly).
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-7.jpg" width="400" height="224" alt="Moderna: Breakthrough infections start Jul/Aug, with Delta" title="Moderna: Breakthrough infections start Jul/Aug, with Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - Finally, slide 41 hits this point pretty hard, again.  They show geometric mean titers
