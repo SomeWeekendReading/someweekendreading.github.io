@@ -61,6 +61,9 @@ at 6 months.  Which is kinda now.
 There does seem to be less clotting risk with the 2nd dose of J&amp;J compared to the
 first, so that at least is good.  
 
+
+## The Discussion Period  
+
 According to Helen Branswell, the discussion was not to J&amp;J's liking: they want to
 remain a 1-dose vaccine because that appeals to some people, and they _don't_ want
 heterologous boosters with somebody else's vaccines.  However, the VRBPAC members think
@@ -70,6 +73,9 @@ otherwise:
 > lot of VRBPAC members that this vaccine should be a two-dose vaccine. And it’s also
 > apparent that the FDA is thinking about whether the boost for the J&J vaccine should be
 > another brand of vaccine.  
+
+
+## The Vote  
 
 At 1:30pm, the vote came down unanimously in favor of allowing boosters: 19 Yes, 0 No, 0
 Abstain.  The question implied "at least 2 months" after the first dose, but didn't
