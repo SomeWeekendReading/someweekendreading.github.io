@@ -137,13 +137,13 @@ Too bad the VRBPAC won't be allowed to vote/recommend on this, as the data is so
 
 ## The Weekend Conclusion  
 
-1. On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote.  On
-   the other hand, sentiment seems to be that this should have been a 2-dose vaccine from
-   the start, and that heterologous boosters with another vaccine might be better.
+1. J&amp;J boosters approved, sort of.  
+
+   - On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote.  
+   - On the other hand, sentiment seems to be that this should have been a 2-dose vaccine from
+     the start, and that heterologous boosters with another vaccine might be better.  
    So&hellip; from the J&amp;J viewpoint, they might see this as 1 win and 2 losses.  
-
-
-&hellip;more updates here as the hearings progress&hellip;  
+2. &hellip;more updates here as the hearings progress&hellip;  
 
 ---
 
