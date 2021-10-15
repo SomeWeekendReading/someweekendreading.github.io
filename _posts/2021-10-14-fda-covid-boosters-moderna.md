@@ -315,17 +315,17 @@ _also_ decide vaccine efficacy might be waning.  Is it waning, or is it seeing D
   be ramped up quickly).
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-7.jpg" width="400" height="224" alt="Moderna: Breakthrough infections start Jul/Aug, with Delta" title="Moderna: Breakthrough infections start Jul/Aug, with Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-- Finally, slide 41 hits this point pretty hard, again.  They show geometric mean titers
-  of neutralizing antibodies against Delta, _stratified by age_.  (Hey, they seem to have
-  learned about Simpson's paradox, too.  Lotta that goin' around these days.  Good thing,
-  too.)  
-  - Again, note the vertical axis is on a log scale, so these are large differences.  
-  - In a very hopeful sign, the ID50 levels for 18-64, &ge;65, and overall are pretty much
-    the same, 28 days after boost.  I like the fact that the booster has overcome any
-    confounding age effect.  At least, at 28 days out &mdash; nobody knows about
-    durability across age cohorts.  
-  - Your humble Weekend Editor notes with some personal interest that he was boosted 17
-    days ago.  So 11 days to go.  
+Finally, slide 41 hits this point pretty hard, again.  They show geometric mean titers
+of neutralizing antibodies against Delta, _stratified by age_.  (Hey, they seem to have
+learned about Simpson's paradox, too.  Lotta that goin' around these days.  Good thing,
+too.)  
+- Again, note the vertical axis is on a log scale, so these are large differences.  
+- In a very hopeful sign, the ID50 levels for 18-64, &ge;65, and overall are pretty much
+  the same, 28 days after boost.  I like the fact that the booster has overcome any
+  confounding age effect.  At least, at 28 days out &mdash; nobody knows about
+  durability across age cohorts.  
+- Your humble Weekend Editor notes with some personal interest that he was boosted 17
+  days ago.  So 11 days to go.  
 
 So here we are:  
 - Boosters are safe, as shown in the Israeli data and in the FDA data below.  
@@ -344,6 +344,9 @@ So here we are:
 
 The vote came at 3:15pm: a unanimous 19 Yes, 0 No, and 0 Abstain.  So now the Pfizer and
 Moderna booster authorizations are the same.  
+
+However, from the tone of the discussion, it appears there is no appetite for universal
+boosters, as in Israel.  That will take some more evidence to move people.  
 
 
 ## The Weekend Conclusion  
