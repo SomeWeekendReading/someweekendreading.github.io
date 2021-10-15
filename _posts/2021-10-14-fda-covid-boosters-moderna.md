@@ -490,7 +490,7 @@ We'll see!
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: H Branswell &amp; M Herper, ["Tracking the FDA advisory panel meeting on Moderna’s Covid vaccine booster"](https://www.statnews.com/2021/10/14/fda-advisory-panel-meeting-moderna-covid-vaccine-booster/), _STAT News_, 2021-Oct-14. [↩](#fn1a)  
+<a id="fn1">1</a>: H Branswell &amp; M Herper, ["Tracking the FDA advisory panel meeting on Moderna's Covid vaccine booster"](https://www.statnews.com/2021/10/14/fda-advisory-panel-meeting-moderna-covid-vaccine-booster/), _STAT News_, 2021-Oct-14. [↩](#fn1a)  
 
 <a id="fn2">2</a>: FDA Staff, ["Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 Meeting Announcement"](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn2a)  
 
