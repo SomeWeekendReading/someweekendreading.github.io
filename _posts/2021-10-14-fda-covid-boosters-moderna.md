@@ -514,4 +514,4 @@ We'll see!
 
 <a id="fn12">12</a>: H-L Wong, ["Surveillance Updates of Myocarditis/Pericarditis and mRNA COVID-19 Vaccination in the FDA BEST System"](https://www.fda.gov/media/153090/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn12a)  
 
-<a id="fn13">13</a>: P Marks, ["Welcome Remarks"](https://www.fda.gov/media/153097/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-15. [↩](#fn13a)  
+<a id="fn13">13</a>: P Marks, ["Welcome Remarks"](https://www.fda.gov/media/153097/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-15.  Looks like it was uploaded a day late. [↩](#fn13a)  
