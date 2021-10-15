@@ -141,10 +141,13 @@ recommendation unless the FDA gives an approval or at least an EUA, so the next 
 the FDA is to let these data mature and then consider a mix-and-match EUA.  There was some
 chit-chat about what data people would like to see to make that happen.  (Furilla
 disagreed that an EUA would be required, given that all 3 vaccines are at least EUA'd or
-even fully approved.  They could move as soon as Moderna and J&amp;J are fully approved.)  
+even fully approved.  They could move as soon as Moderna and J&amp;J are fully approved.
+So that's a potential shortcut, maybe?)  
 
 
 ## The Weekend Conclusion  
+
+Looks like I got 3 things, 2 of which are nontrivial:  
 
 1. J&amp;J boosters approved, _sort of:_  
    - On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote of
@@ -163,7 +166,14 @@ even fully approved.  They could move as soon as Moderna and J&amp;J are fully a
    EUA.  At that point, the CDC's ACIP could issue a recommendation for practice.  Or, as
    Furilla pointed out, full approval for Moderna and J&amp;J might grease the skids
    there, allowing a bit less deliberation.  
-   
+
+3. One side-effect of watching some of the mix-and-match discussion was that I could
+   observe the chair, Arnold Monto, as he was talking to the speakers and moderating the
+   discussants.  He tends to _smile_ at them, as if he's having a good time &mdash; sort of
+   warms my cold, skeptical heart a bit.  I kind of like the guy. (I did _not_ like the
+   way they all religiously called each other "doctor"; that never happens in, for
+   example physics, where it would just sound pompous.  Cultural differences&hellip;)  
+
 J&amp;J may consider this a mixed result, but I think for the general welfare this was a
 good day.  
 
