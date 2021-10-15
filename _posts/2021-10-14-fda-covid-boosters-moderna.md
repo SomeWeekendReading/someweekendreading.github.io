@@ -249,6 +249,18 @@ For the remaining 2 questions, they've clearly nailed the answer, and it is "yes
 
 ## The Moderna presentation  
 
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-1.jpg" width="400" height="297" alt="Moderna: FDA briefing document" title="Moderna: FDA briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-2.jpg" width="400" height="132" alt="Moderna: Errata for FDA briefing document" title="Moderna: Errata for FDA briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-3.jpg" width="400" height="223" alt="Moderna: Slides for VRBPAC presentation" title="Moderna: Slides for VRBPAC presentation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+There are 3 primary documents here: the Moderna briefing document (66 pages) and its
+errata/supplement (3 pages) <sup id="fn8a">[[8]](#fn8)</sup>, and the Moderna slide 
+deck (49 slides). <sup id="fn9a">[[9]](#fn9)</sup>  
+
+Apparently the main point of the sightly unusual errata document was to put 1 more line in
+a table, and to report a single, late-breaking adverse event.  The event was renal failure
+due to rhabdomyolosis (basically muscle damage) consequent to a fall.  It was ruled
+unrelated to the vaccine, but of course is reported anyway, as is good practice.  
+
 &hellip;More TBD&hellip;
 
 
@@ -298,3 +310,7 @@ Moderna booster authorizations are the same.
 <a id="fn6">6</a>: S Agnihotram, ["Moderna COVID-19 Vaccine Application for Emergency Use Authorization of a booster dose"](https://www.fda.gov/media/153088/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn6a)  
 
 <a id="fn7">7</a>: S Alroy-Preis &amp; R Milo, ["Booster protection across ages &ndash; data from Israel"](https://www.fda.gov/media/153086/download), Israeli Ministry of Health, Weizmann Institute, Technion, Gertner Institute, and Hebrew University slides for VRBPAC 2021-Oct-14 meeting, 2021-Oct-14. [↩](#fn7a)  
+
+<a id="fn8">8</a>: ModernaTX, ["mRNA-1273 BOOSTER DOSE SPONSOR BRIEFING DOCUMENT VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE"](https://www.fda.gov/media/152953/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14.  __NB:__ There was also an errata document supplied, which basically adds 1 row to a table and reports the single adverse event in the trial (unrelated to vaccine). [↩](#fn8a)  
+
+<a id="fn9">9</a>: J Miller, ["Safety and Immunogenicity of a 50 µg Booster Dose of mRNA-1273 (Moderna COVID-19 Vaccine)"](https://www.fda.gov/media/153089/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn9a)  
