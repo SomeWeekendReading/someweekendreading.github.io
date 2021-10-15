@@ -199,7 +199,6 @@ death.  At least 2 things are worth learning here:
    theoretically nice when people don't make mistakes; but it's _delightful_ when people
    _learn_ from mistakes and do better.  These guys are _good_.  
 
-
 The adverse event reporting was pretty good news, too.  It looks like the adverse event
 rate is similar to, or even _better than_, the first two doses.  That may be because your
 immune system is starting to get the joke by the time of the third dose, and the third
@@ -230,7 +229,11 @@ $$
 (Sure, we could calculate a 95% confidence interval on this with a posterior Beta
 distribution.  But that wouldn't change the result that it's _small_.)  
 
-We come in with 3 questions:
+It's impressive: only a country with a truly integrated EMR system and universal health
+care could have done this.  America can't even _approach_ this, with our fragmented health
+care system.  
+
+We come in with 3 questions about boosters:  
 1. Are boosters _needed?_  
 2. Do boosters _work?_  
 3. Are boosters _safe?_  
@@ -249,8 +252,8 @@ For the remaining 2 questions, they've clearly nailed the answer, and it is "yes
 
 ## The Moderna presentation  
 
-<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-1.jpg" width="400" height="297" alt="Moderna: FDA briefing document" title="Moderna: FDA briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-2.jpg" width="400" height="132" alt="Moderna: Errata for FDA briefing document" title="Moderna: Errata for FDA briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-1.jpg" width="400" height="297" alt="Moderna: VRBPAC briefing document" title="Moderna: VRBPAC briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-2.jpg" width="400" height="132" alt="Moderna: Errata for VRBPAC briefing document" title="Moderna: Errata for VRBPAC briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-3.jpg" width="400" height="223" alt="Moderna: Slides for VRBPAC presentation" title="Moderna: Slides for VRBPAC presentation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 There are 3 primary documents here: the Moderna briefing document (66 pages) and its
 errata/supplement (3 pages) <sup id="fn8a">[[8]](#fn8)</sup>, and the Moderna slide 
@@ -272,7 +275,8 @@ presentations (_q.v._) will have some data on myocarditis/pericarditis.  So the 
 case is quite good.  
 
 I'd rather hear about efficacy, particularly with Delta.  There are 4 slides in particular
-from the Moderna presentation that bear on this in ways that look interesting to me.  
+from the Moderna presentation that bear on this in ways that look interesting to me for
+that reason:  
 
 <img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-moderna-4.jpg"
 width="400" height="225" alt="Moderna: Original vaccine 98.2% efficacy vs severe disease
@@ -337,6 +341,13 @@ So here we are:
 
 ## The FDA presentations  
 
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-3.jpg" width="400" height="55" alt="FDA: VRBPAC briefing document" title="FDA: VRBPAC briefing document" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-4.jpg" width="400" height="222" alt="FDA: VRBPAC slide deck 1" title="FDA: VRBPAC slide deck 1" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-14-fda-covid-boosters-moderna-fda-5.jpg" width="400" height="226" alt="FDA: VRBPAC slide deck 2" title="FDA: VRBPAC slide deck 2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+45 pp <sup id="fn10a">[[10]](#fn10)</sup>
+31 slides <sup id="fn11a">[[11]](#fn11)</sup>
+19 slides <sup id="fn12a">[[12]](#fn12)</sup>
+
 &hellip;More TBD&hellip;
 
 
@@ -346,7 +357,7 @@ The vote came at 3:15pm: a unanimous 19 Yes, 0 No, and 0 Abstain.  So now the Pf
 Moderna booster authorizations are the same.  
 
 However, from the tone of the discussion, it appears there is no appetite for universal
-boosters, as in Israel.  That will take some more evidence to move people.  
+boosters, as in Israel.  That will take some _more_ evidence to move people.  
 
 
 ## The Weekend Conclusion  
@@ -375,16 +386,22 @@ boosters, as in Israel.  That will take some more evidence to move people.
 
 <a id="fn2">2</a>: FDA Staff, ["Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 Meeting Announcement"](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn2a)  
 
-<a id="fn3">3</a>: FDA Staff, ["169th Meeting of the Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 DRAFT AGENDA"](https://www.fda.gov/media/152949/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn3a)  
+<a id="fn3">3</a>: FDA Staff, ["169th Meeting of the Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 DRAFT AGENDA"](https://www.fda.gov/media/152949/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn3a)  
 
-<a id="fn4">4</a>: FDA Staff, ["10/14 Discussion Question"](https://www.fda.gov/media/153091/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn4a)  
+<a id="fn4">4</a>: FDA Staff, ["10/14 Discussion Question"](https://www.fda.gov/media/153091/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn4a)  
 
-<a id="fn5">5</a>: FDA Staff, ["10/14 Voting Question"](https://www.fda.gov/media/153092/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn5a)  
+<a id="fn5">5</a>: FDA Staff, ["10/14 Voting Question"](https://www.fda.gov/media/153092/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn5a)  
 
-<a id="fn6">6</a>: S Agnihotram, ["Moderna COVID-19 Vaccine Application for Emergency Use Authorization of a booster dose"](https://www.fda.gov/media/153088/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn6a)  
+<a id="fn6">6</a>: S Agnihotram, ["Moderna COVID-19 Vaccine Application for Emergency Use Authorization of a booster dose"](https://www.fda.gov/media/153088/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn6a)  
 
 <a id="fn7">7</a>: S Alroy-Preis &amp; R Milo, ["Booster protection across ages &ndash; data from Israel"](https://www.fda.gov/media/153086/download), Israeli Ministry of Health, Weizmann Institute, Technion, Gertner Institute, and Hebrew University slides for VRBPAC 2021-Oct-14 meeting, 2021-Oct-14. [↩](#fn7a)  
 
-<a id="fn8">8</a>: ModernaTX, ["mRNA-1273 BOOSTER DOSE SPONSOR BRIEFING DOCUMENT VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE"](https://www.fda.gov/media/152953/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14.  __NB:__ There was also an errata document supplied, which basically adds 1 row to a table and reports the single adverse event in the trial (unrelated to vaccine). [↩](#fn8a)  
+<a id="fn8">8</a>: ModernaTX, ["mRNA-1273 BOOSTER DOSE SPONSOR BRIEFING DOCUMENT VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY COMMITTEE"](https://www.fda.gov/media/152953/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14.  __NB:__ There was also an errata document supplied, which basically adds 1 row to a table and reports the single adverse event in the trial (unrelated to vaccine). [↩](#fn8a)  
 
-<a id="fn9">9</a>: J Miller, ["Safety and Immunogenicity of a 50 µg Booster Dose of mRNA-1273 (Moderna COVID-19 Vaccine)"](https://www.fda.gov/media/153089/download), FDA VRBPAC 2021-Oct-14 Materials, retrieved 2021-Oct-14. [↩](#fn9a)  
+<a id="fn9">9</a>: J Miller, ["Safety and Immunogenicity of a 50 µg Booster Dose of mRNA-1273 (Moderna COVID-19 Vaccine)"](https://www.fda.gov/media/153089/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn9a)  
+
+<a id="fn10">10</a>: FDA Staff, ["FDA Briefing Document EUA amendment request for a booster dose of the Moderna COVID-19 Vaccine"](https://www.fda.gov/media/152991/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn10a)  
+
+<a id="fn11">11</a>: T Mongeau, ["FDA Review of Effectiveness and Safety of Moderna COVID-19 Vaccine (mRNA-1273) Booster Dose Emergency Use Authorization Amendment"](https://www.fda.gov/media/153087/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn11a)  
+
+<a id="fn12">12</a>: H-L Wong, ["Surveillance Updates of Myocarditis/Pericarditis and mRNA COVID-19 Vaccination in the FDA BEST System"](https://www.fda.gov/media/153090/download), [FDA VRBPAC 2021-Oct-14 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-14. [↩](#fn12a)  
