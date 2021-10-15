@@ -81,8 +81,6 @@ At 1:30pm, the vote came down unanimously in favor of allowing boosters: 19 Yes,
 Abstain.  The question implied "at least 2 months" after the first dose, but didn't
 exactly specify when.  
 
-&hellip;more updates here as the hearings progress&hellip;  
-
 
 ## The Mix-and-Match Clinical Trial  
 
@@ -130,7 +128,8 @@ So it looks to me like the conclusion _should_ be:
 - the J&amp;J vaccine boosting itself might be something to avoid (it's probably ok, just
   not as good as the others).  
 
-Too bad the VRBPAC won't be allowed to vote/recommend on this, as the data is somewhat early!  
+Too bad the VRBPAC won't be allowed to vote/recommend on this topic, as the data is
+somewhat early!  But maybe in the _near_ future.  
 
 &hellip;more updates here as the hearings progress&hellip;  
 
@@ -142,7 +141,9 @@ Too bad the VRBPAC won't be allowed to vote/recommend on this, as the data is so
    - On the one hand, J&amp;J boosters were recommended to the FDA by unanimous vote.  
    - On the other hand, sentiment seems to be that this should have been a 2-dose vaccine from
      the start, and that heterologous boosters with another vaccine might be better.  
+
    So&hellip; from the J&amp;J viewpoint, they might see this as 1 win and 2 losses.  
+
 2. &hellip;more updates here as the hearings progress&hellip;  
 
 ---
