@@ -139,7 +139,7 @@ pretty much agreed.
 The issues that concerned them were something like the CDC's ACIP can't make a
 recommendation unless the FDA gives an approval or at least an EUA, so the next step for
 the FDA is to let these data mature and then consider a mix-and-match EUA.  There was some
-chit-chat about what data people would like to see to make that happen.  (Furilla
+chit-chat about what data people would like to see to make that happen.  (Kurilla
 disagreed that an EUA would be required, given that all 3 vaccines are at least EUA'd or
 even fully approved.  They could move as soon as Moderna and J&amp;J are fully approved.
 So that's a potential shortcut, maybe?)  
@@ -168,7 +168,7 @@ Looks like I got 3 things, 2 of which are nontrivial:
    The next step will be to mature this study a bit, with a few more assays to measure
    activated T-cell or memory B-cell response, add a few more groups, and then move for an
    EUA.  At that point, the CDC's ACIP could issue a recommendation for practice.  Or, as
-   Furilla pointed out, full approval for Moderna and J&amp;J might grease the skids
+   Kurilla pointed out, full approval for Moderna and J&amp;J might grease the skids
    there, allowing a bit less deliberation.  
 
 3. One side-effect of watching some of the mix-and-match discussion was that I could

@@ -462,8 +462,8 @@ Michael Kurilla: is this just a temporary bump in antibody levels that will fade
 months indicating bi-yearly boosters, or is this the awakening of permanent immunity like
 the other 3-dose vaccines?  
 
-The answer is unknow, but important.  We'd like to know, if durability is limited, whether
-that's a propert of coronaviruses, or of mRNA vaccines, or &hellip; _something._
+The answer is unknown, but important.  We'd like to know, if durability is limited, whether
+that's a property of coronaviruses, or of mRNA vaccines, or &hellip; _something._
 
 ### Next Steps  
 
