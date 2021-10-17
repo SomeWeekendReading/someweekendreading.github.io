@@ -74,7 +74,7 @@ This agenda is more or less what you'd exepct:
   committee meeting in the first place, so probably there are only minor discrepancies to
   be found here.  
 - Then the usually dreary open public hearings.  Last time we heard from a Trump
-  whackaloon who accused scientists of "sedition".  I wonder what wingnuttery will its
+  whackaloon who accused scientists of "sedition".  I wonder what wingnuttery will show its
   face this time?  
 - Then there's some Q&amp;A and discussion.  The topic the big kahunas at the FDA want to
   see discussed is pre-defined.  I like how they expressly ruled out discussion of people
