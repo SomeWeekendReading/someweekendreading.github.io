@@ -87,13 +87,13 @@ in the Civil War, later port surgeon of Boston and chair of the Boston Board of 
 Commissioners.  For his day, he was highly qualified.  (Also, improbably handsome, as all
 the characters in this tale seem to be.  No idea what's goin' on there.)  
 
-<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-2.jpg" width="400" height="463" alt="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" title="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 He was on the Board of Health Commissioners in the 1873 smallpox outbreak, and saw first
 hand that vaccination saved lives.  In 1901 it came back and he was horrified, and
 organized vaccination teams that could vaccinate people by force, if necessary.  This was
 severely overdone: in at least one case, the doctor doing the vaccination had to stich up
 a head wound from a police officer's club.  
 
+<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-2.jpg" width="400" height="463" alt="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" title="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Ok that's&hellip; the dark side.  
 
 Given the use of violent force by police &mdash; regrettable and even despicable today, but common
@@ -165,10 +165,10 @@ and minimized the effects of smallpox saying it wasn't worth avoiding!
 
 Misinformation matters.  
 
-<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-henning-jacobson.jpg" width="168" height="224" alt="Wikipedia: Henning Jacobson" title="Wikipedia: Henning Jacobson" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Meet Henning Jacobson, the handsome fellow shown here, who is about to misbehave in his
 own fashion.  
 
+<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-henning-jacobson.jpg" width="168" height="224" alt="Wikipedia: Henning Jacobson" title="Wikipedia: Henning Jacobson" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Across the river in Cambridge, police tried to vaccinate Jacobson, who refused and
 was fined \$5 (a good chunk in those days, maybe \$150 today).  At least they weren't
 beating people down and vaccinating by force any more, possibly because Jacobson was a
