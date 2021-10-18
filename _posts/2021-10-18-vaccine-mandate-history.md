@@ -7,7 +7,7 @@ comments: true
 
 The history of why vaccine mandates are in fact constitutional in the United States has a
 long, somewhat twisted history.  It's also of local interest, here at Chez Weekend, as
-many of the important events transpired a short bus/train ride away.  
+many of the important events transpired a short [MBTA](https://www.mbta.com/) ride away.  
 
 
 ##  Why do we talk so much about mandates?  
@@ -188,8 +188,9 @@ Mariner and co-authors in _Am J Public Health_ that is worth your time.
 
 It is, as the saying goes, _stare decisis_.  
 
-Nobody likes a mandate, but they stop people dying.  And people do like to continue
-living.  
+Nobody likes a mandate, but they stop people dying.  
+
+And people do like not dying.  
 
 ---
 
