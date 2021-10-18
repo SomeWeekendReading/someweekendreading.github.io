@@ -116,7 +116,7 @@ That's never a good bet.
 
 ## The Resistance  
 
-Meet Dr. Immaneul Pfeiffer. The _Globe_ quotes the advertisements for his medical
+Meet Dr. Immanuel Pfeiffer. The _Globe_ quotes the advertisements for his medical
 practice:
 
 > &hellip; blessed with a natural healing power and peculiar magnetism, which has made him
@@ -170,7 +170,7 @@ own fashion.
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-henning-jacobson.jpg" width="168" height="224" alt="Wikipedia: Henning Jacobson" title="Wikipedia: Henning Jacobson" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Across the river in Cambridge, police tried to vaccinate Jacobson, who refused and
-was fined \$5 (a good chunk in those days, maybe \$150 today).  At least they weren't
+was fined \\$5 (a good chunk in those days, maybe \\$150 today).  At least they weren't
 beating people down and vaccinating by force any more, possibly because Jacobson was a
 pastor.  
 
