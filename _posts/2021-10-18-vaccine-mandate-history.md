@@ -155,7 +155,7 @@ Durgin pressed the advantage of Pfeiffer's horribly bad example: 130 doctors vac
 Reports from the time say nobody much objected, Pfeiffer's foolishness being in the front
 of everyone's minds.  
 
-So&helliip; success?  
+So&hellip; success?  
 
 Not really: Pfeiffer managed to survive, and _continued to say vaccination was worthless_,
 and minimized the effects of smallpox saying it wasn't worth avoiding!  
