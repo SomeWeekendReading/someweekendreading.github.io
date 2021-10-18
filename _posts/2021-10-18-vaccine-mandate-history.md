@@ -184,7 +184,8 @@ established that:
   
 It both supports state powers and limits them, so lawyers like it.  The decision has been
 affirmed numerous times, and is still in active use.  There's a nice review by Wendy
-Mariner and co-authors in _Am J Public Health_ that is worth your time.
+Mariner and co-authors in _Am J Public Health_ that is worth your 
+time. <sup id="fn5a">[[5]](#fn5)</sup>  
 
 It is, as the saying goes, _stare decisis_.  
 
