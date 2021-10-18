@@ -202,6 +202,14 @@ time. <sup id="fn5a">[[5]](#fn5)</sup>
 
 It is, as the saying goes, _stare decisis_.  
 
+Nobody's hands were completely clean in this story.  They either used excessive force, or
+were con artists purveying misinformation, or were insufficiently skilled at critical
+thinking to defend themselves against misinformation.  Still, as Kant said: 
+"Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades
+gezimmert werden" (out of the crooked timber of humanity, no straight thing was ever
+made).  So let's be compassionate and admit we're imperfect, so here we are together with
+_that_ story as our history of vaccine mandates.  
+
 Nobody likes a mandate, but mandates do stop people dying.  
 
 And people do like _not dying._  
