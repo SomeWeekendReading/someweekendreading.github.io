@@ -96,7 +96,7 @@ a head wound from a police officer's club.
 
 Ok that's&hellip; the dark side.  
 
-Given the use of violent force by police &mdash; regrettable today, but much more common
+Given the use of violent force by police &mdash; regrettable and even despicable today, but common
 then &mdash; there was undesrtandable resistance.  It grew out of the reaction to forced
 vaccination, but also from the usual superstitions: that vaccines _cause_ smallpox, that
 they don't work, that they are somehow making our "blood impure"&hellip; the usual dreck.  
@@ -131,18 +131,18 @@ subjects like astrology and tax protests.  He _hated_ vaccines, for reasons as i
 as everything else he thought.  Attempting to apply reason to him is a category error.  
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-gallops-island.jpg" width="400" height="206" alt="Gallop's Island in Boston Harbor" title="Gallop's Island in Boston Harbor" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-4.jpg" width="400" height="231" alt="Globe: editorial cartooon on Pfeiffer's smallpox" title="Globe: editorial cartooon on Pfeiffer's smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Pfeiffer took Durgin's bet, and they went off to the quarantine unit on 
 [Gallop's Island in the Boston harbor](https://www.bostonharborislands.org/gallops-island/).
 Ironically, today you can tie up your boat there but you can't get off to explore the
 island, due to asbestos contamination of more or less everything.  
 
-<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-4.jpg" width="400" height="231" alt="Globe: editorial cartooon on Pfeiffer's smallpox" title="Globe: editorial cartooon on Pfeiffer's smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-3.jpg" width="239" height="650" alt="Globe: Pfeiffer gets smallpox, flees to Bedford" title="Globe: Pfeiffer gets smallpox, flees to Bedford" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Pfeiffer toured the place, touched the patients, even deliberately inhaled the breath of
 one of the sickest.  Afterward he took a train to a meeting where he waved in his friends'
 faces his handkerchief that he had used on the island.  Then he described to them how
 clever he was, to make Durgin fall into his "trap".  
 
+<img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-3.jpg" width="239" height="650" alt="Globe: Pfeiffer gets smallpox, flees to Bedford" title="Globe: Pfeiffer gets smallpox, flees to Bedford" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 What happened next was, of course, entirely predictable: of course the fool caught
 smallpox, and apparently a bad case.  What he did next was almost as bad: under cover of
 night, he evaded quarantine, going to his farm in Bedford.  The people of Bedford were not
