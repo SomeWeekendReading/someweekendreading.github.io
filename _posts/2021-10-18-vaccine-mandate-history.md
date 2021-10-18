@@ -36,8 +36,8 @@ random: as the map from Bloomberg shows, the decline in life expectancy is
 concentrated in the south, parts of the plains, and parts of the mountain west.  These are
 the Trumpiest, most Republican parts of the US, where people fanatically resist masks or
 vaccination, preferring useless things like ivermectin.  People of my political persuasion
-have taken to calling the GOP a "death cult": here's evidence of the
-_literal truth_ of that name.  
+have taken to calling the GOP a "death cult": here's evidence of the _literal truth_ of
+that epithet.  
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-ap.jpg" width="400" height="175" alt="AP: Japan's COVID-19 success with masks and vaccines" title="AP: Japan's COVID-19 success with masks and vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And the thing is, it _didn't have to be this way_, coming up on 3/4 of a million _dead_ in
@@ -65,10 +65,12 @@ Yes, 'they' can.  And should.
 
 It's a long-established legal precedent in the US: 
 [_Jacobson v Massachusetts_](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) is the US Supreme
-Court decision that decided the matter, bac in 1905.  Yes, it's more than a century old.
-No, it's not a dead letter: it grants the ability to fine or imprison vaccine resisters
-during a public health crisis, but it also limits police power (no use of physical force
-to impose vaccinations).  Apparently lawyers like that sort of thing.  
+Court decision that decided the matter, back in 1905.  
+
+Yes, it's more than a century old.  No, it's not a dead letter: it grants the ability to
+fine or imprison vaccine resisters during a public health crisis, but it also limits
+police power (no use of physical force to impose vaccinations).  Apparently lawyers like
+that sort of thing, so this is not only affirmed by subsequent cases, but in active use.  
 
 The story of how it came about is intriguing.  
 
@@ -77,22 +79,23 @@ The story of how it came about is intriguing.
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-1.jpg" width="400" height="170" alt="Globe: Vaccine resistance &amp; mandates from smallpox in Boston" title="Globe: Vaccine resistance &amp; mandates from smallpox in Boston" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 From the venerable _Globe_ comes the story of how we got here. <sup id="fn4a">[[4]](#fn4)</sup>
-It's a surprisingly tangled tale with larger than life characters, some of whom sadly
-resemble figures like Fauci who advise common sense to minimize death, and Trump
-who&hellip; well, acts inexplicably destructively.  
+It's a surprisingly tangled tale with larger than life characters, some of whom 
+resemble figures like Fauci who advise common sense to minimize death&hellip; and some of whom sadly
+resemble Trump who&hellip; well, acts inexplicably stupidly and destructively.  
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-durgin.jpg" width="254" height="370" alt="Dr. Samuel Holmes Durgin" title="Dr. Samuel Holmes Durgin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Meet Dr. Samuel Holmes Durgin.   
 
-He was a graduate of Harvard Med School, commissioned as a surgeon
-in the Civil War, later port surgeon of Boston and chair of the Boston Board of Health
-Commissioners.  For his day, he was highly qualified.  (Also, improbably handsome, as all
-the characters in this tale seem to be.  No idea what's goin' on there.)  
+He was a graduate of Harvard Med School, commissioned as a surgeon in the Civil War, later
+port surgeon of Boston and chair of the Boston Board of Health Commissioners.  For his
+day, he was highly qualified and worth a listen when he gave medical advice.  (Also,
+improbably handsome, as all the characters in this tale seem to be.  No idea what's goin'
+on there.)  
 
 He was on the Board of Health Commissioners in the 1873 smallpox outbreak, and saw first
-hand that vaccination saved lives.  In 1901 it came back and he was horrified. He
+hand how vaccination saved lives.  In 1901 smallpox came back and he was horrified. He
 organized vaccination teams that could vaccinate people by force, if necessary.  This was
-severely overdone: in at least one case, the doctor doing the vaccination had to stich up
+_severely_ overdone: in at least one case, the doctor doing the vaccination had to stitch up
 a head wound from a police officer's club.  
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-2.jpg" width="400" height="463" alt="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" title="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -131,7 +134,8 @@ extraordinary periods.  Basically: a flim-flam artist.
 
 He published a monthly magazine called _Our Home Rights_ about all sorts of bizarre
 subjects like astrology and tax protests.  He _hated_ vaccines, for reasons as inscrutable
-as everything else he thought.  Attempting to apply reason to him is a category error.  
+as everything else he thought.  Attempting to apply reason to him is a 
+[category error](https://en.wikipedia.org/wiki/Category_mistake).  
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-gallops-island.jpg" width="400" height="206" alt="Gallop's Island in Boston Harbor" title="Gallop's Island in Boston Harbor" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-4.jpg" width="400" height="231" alt="Globe: editorial cartooon on Pfeiffer's smallpox" title="Globe: editorial cartooon on Pfeiffer's smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -172,7 +176,8 @@ Misinformation matters.
 Meet Henning Jacobson. 
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-henning-jacobson.jpg" width="168" height="224" alt="Wikipedia: Henning Jacobson" title="Wikipedia: Henning Jacobson" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-He's the handsome fellow shown here, who is about to misbehave in his own fashion.  
+He's the handsome fellow shown here, who is about to misbehave in his own fashion.  He's
+more of a victim of misinformation than a perpetrator, though.  
 
 Across the river in Cambridge and just after the Pfeiffer fiasco, police tried to
 vaccinate Jacobson, who refused and was fined \\$5 (a good chunk in those days, maybe
@@ -223,4 +228,4 @@ And people do like _not dying._
 
 <a id="fn4">4</a>: C Klein, ["A 1901 smallpox epidemic, a charismatic quack, and the rise of anti-vax propaganda in Boston"](https://www.bostonglobe.com/2021/10/14/magazine/1901-smallpox-epidemic-charismatic-quack-rise-anti-vaxx-propaganda-boston/?s_campaign=breakingnews:newsletter), _Boston Globe_, 2021-Oct-14. [↩](#fn4a)  
 
-<a id="fn5">5</a>: WK Kaminer, _et al.,_ ["_Jacobson v Massachusetts:_ It's Not Your Great-Great-Grandfather's Public Health Law"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449224/), _Am J Public Health_ 95:4, 581-590, 2005-April.  PMID: [15798113](https://www.ncbi.nlm.nih.gov/pubmed/15798113/)[↩](#fn5a)  
+<a id="fn5">5</a>: WK Mariner, _et al.,_ ["_Jacobson v Massachusetts:_ It's Not Your Great-Great-Grandfather's Public Health Law"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449224/), _Am J Public Health_ 95:4, 581-590, 2005-April.  PMID: [15798113](https://www.ncbi.nlm.nih.gov/pubmed/15798113/)[↩](#fn5a)  
