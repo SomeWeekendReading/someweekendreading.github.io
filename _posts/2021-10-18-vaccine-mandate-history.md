@@ -170,7 +170,7 @@ Meet Henning Jacobson, the handsome fellow shown here, who is about to misbehave
 own fashion.  
 
 Across the river in Cambridge, police tried to vaccinate Jacobson, who refused and
-was fined $5 (a good chunk in those days, maybe $150 today).  At least they weren't
+was fined \$5 (a good chunk in those days, maybe $150 today).  At least they weren't
 beating people down and vaccinating by force any more, possibly because Jacobson was a
 pastor.  
 
