@@ -6,7 +6,7 @@ comments: true
 ---
 
 Today the FDA's Vaccines and Related Biological Products Advisory Committee meets to
-review the Johnson &amp; Johnson/Janssen application for 3rd dose boosters of their
+review the Johnson &amp; Johnson/Janssen application for 2nd dose boosters of their
 COVID-19 vaccine.  They will also at least discuss the 3x3 mix-and-match booster study.  
 
 
