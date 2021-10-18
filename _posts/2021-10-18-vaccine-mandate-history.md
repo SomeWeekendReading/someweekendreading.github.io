@@ -63,8 +63,8 @@ mandates.
 
 Yes, 'they' can.  And should.  
 
-It's a long-established legal precedent in the US: [Jacobson v
-Massachusetts](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) is the US Supreme
+It's a long-established legal precedent in the US: 
+[_Jacobson v Massachusetts_](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts) is the US Supreme
 Court decision that decided the matter, bac in 1905.  Yes, it's more than a century old.
 No, it's not a dead letter: it grants the ability to fine or imprison vaccine resisters
 during a public health crisis, but it also limits police power (no use of physical force
@@ -82,13 +82,15 @@ resemble figures like Fauci who advise common sense to minimize death, and Trump
 who&hellip; well, acts inexplicably destructively.  
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-durgin.jpg" width="254" height="370" alt="Dr. Samuel Holmes Durgin" title="Dr. Samuel Holmes Durgin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Meet Dr. Samuel Holmes Durgin: graduate of Harvard Med School, commissioned as a surgeon
+Meet Dr. Samuel Holmes Durgin.   
+
+He was a graduate of Harvard Med School, commissioned as a surgeon
 in the Civil War, later port surgeon of Boston and chair of the Boston Board of Health
 Commissioners.  For his day, he was highly qualified.  (Also, improbably handsome, as all
 the characters in this tale seem to be.  No idea what's goin' on there.)  
 
 He was on the Board of Health Commissioners in the 1873 smallpox outbreak, and saw first
-hand that vaccination saved lives.  In 1901 it came back and he was horrified, and
+hand that vaccination saved lives.  In 1901 it came back and he was horrified. He
 organized vaccination teams that could vaccinate people by force, if necessary.  This was
 severely overdone: in at least one case, the doctor doing the vaccination had to stich up
 a head wound from a police officer's club.  
@@ -96,8 +98,8 @@ a head wound from a police officer's club.
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-2.jpg" width="400" height="463" alt="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" title="Globe: 1902-Jan-28 vaccination teams of 115 doctors vaccinate 10,000 against smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Ok that's&hellip; the dark side.  
 
-Given the use of violent force by police &mdash; regrettable and even despicable today, but common
-then &mdash; there was undesrtandable resistance.  It grew out of the reaction to forced
+Given the use of violent force by police &mdash; regrettable and despicable today, but common
+back then &mdash; there was understandable resistance.  It grew out of the reaction to forced
 vaccination, but also from the usual superstitions: that vaccines _cause_ smallpox, that
 they don't work, that they are somehow making our "blood impure"&hellip; the usual dreck.  
 
@@ -133,24 +135,25 @@ as everything else he thought.  Attempting to apply reason to him is a category 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-gallops-island.jpg" width="400" height="206" alt="Gallop's Island in Boston Harbor" title="Gallop's Island in Boston Harbor" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-4.jpg" width="400" height="231" alt="Globe: editorial cartooon on Pfeiffer's smallpox" title="Globe: editorial cartooon on Pfeiffer's smallpox" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Pfeiffer took Durgin's bet, and they went off to the quarantine unit on 
-[Gallop's Island in the Boston harbor](https://www.bostonharborislands.org/gallops-island/).
-Ironically, today you can tie up your boat there but you can't get off to explore the
-island, due to asbestos contamination of more or less everything.  
+[Gallop's Island in Boston harbor](https://www.bostonharborislands.org/gallops-island/).
+(Ironically, today you can tie up your boat there, but you can't get off to explore the
+island &mdash; there's asbestos contamination of more or less everything.)  
 
 Pfeiffer toured the place, touched the patients, even deliberately inhaled the breath of
-one of the sickest.  Afterward he took a train to a meeting where he waved in his friends'
-faces his handkerchief that he had used on the island.  Then he described to them how
+one of the sickest.  Afterward he took a train to a meeting in Boston where he waved in his friends'
+faces his handkerchief that he had used on the island.  Then he described how
 clever he was, to make Durgin fall into his "trap".  
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-history-globe-3.jpg" width="239" height="650" alt="Globe: Pfeiffer gets smallpox, flees to Bedford" title="Globe: Pfeiffer gets smallpox, flees to Bedford" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 What happened next was, of course, entirely predictable: of course the fool caught
-smallpox, and apparently a bad case.  What he did next was almost as bad: under cover of
-night, he evaded quarantine, going to his farm in Bedford.  The people of Bedford were not
-best pleased at being so exposed and imposed guards around the farm.  The _Globe_ reported
-it as shown here.  Pfeiffer also seems quite handsome; what _is_ it with this story and
-handsome men behaving badly?!  
+smallpox, and apparently a bad case of it.  What he did next was almost as bad: under
+cover of night, he evaded quarantine, going to his farm in Bedford.  The people of Bedford
+were not best pleased at being so exposed, and imposed guards around the farm.  Pfeiffer's
+family was forcibly vaccinated, and confined in quarantine.  The _Globe_ reported as shown
+here.  (Pfeiffer also seems quite handsome; what _is_ it with this story and handsome men
+behaving badly?!)  
 
-Durgin pressed the advantage of Pfeiffer's horribly bad example: 130 doctors vaccinated
+Durgin used Pfeiffer's horribly bad example to press his advantage: 130 doctors vaccinated
 12,000 more Bostonians in the tightly packed housing of the North End and West End.
 Reports from the time say nobody much objected, Pfeiffer's foolishness being in the front
 of everyone's minds.  
@@ -174,24 +177,27 @@ was fined \\$5 (a good chunk in those days, maybe \\$150 today).  At least they 
 beating people down and vaccinating by force any more, possibly because Jacobson was a
 pastor.  
 
-One thing led to another, lawsuit, lawsuit, lawsuit&hellp; and it ended up before the US
+What with all the lawyers, one thing led to another, and those other things led to the US
 Supreme Court.  In a 7-2 decsion, 
-[Jacobson v Massachusetts](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts)
+[_Jacobson v Massachusetts_](https://en.wikipedia.org/wiki/Jacobson_v._Massachusetts)
 established that:  
-- In times of public health crisis, government can indeed compell vaccination.  
-- However, they cannot use force, only fines and imprisonment.  So no more cops beating
-  people senseless so their pet cop doc and vax the victim.  
+- In times of public health crisis, _government can indeed compel vaccination._  
+- However, they _cannot use force_, only fines and imprisonment.  So no more cops beating
+  people senseless so their pet cop doc can vax the victim.  
   
 It both supports state powers and limits them, so lawyers like it.  The decision has been
 affirmed numerous times, and is still in active use.  There's a nice review by Wendy
 Mariner and co-authors in _Am J Public Health_ that is worth your 
 time. <sup id="fn5a">[[5]](#fn5)</sup>  
 
+
+## Vaccine mandates today  
+
 It is, as the saying goes, _stare decisis_.  
 
-Nobody likes a mandate, but they stop people dying.  
+Nobody likes a mandate, but mandates do stop people dying.  
 
-And people do like not dying.  
+And people do like _not dying._  
 
 ---
 
@@ -215,4 +221,4 @@ And people do like not dying.
 
 <a id="fn4">4</a>: C Klein, ["A 1901 smallpox epidemic, a charismatic quack, and the rise of anti-vax propaganda in Boston"](https://www.bostonglobe.com/2021/10/14/magazine/1901-smallpox-epidemic-charismatic-quack-rise-anti-vaxx-propaganda-boston/?s_campaign=breakingnews:newsletter), _Boston Globe_, 2021-Oct-14. [↩](#fn4a)  
 
-<a id="fn5">5</a>: WK Kaminer, _et al.,_ ["_Jacobson v Massachusetts:_ It's Not Your Great-Great-Grandfather's Public Health Law"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449224/), _Am J Public Health_ 95:4, 581-590, 2005-April.  PMID: [15798113](https://www.ncbi.nlm.nih.gov/pubmed/15798113)[↩](#fn5a)  
+<a id="fn5">5</a>: WK Kaminer, _et al.,_ ["_Jacobson v Massachusetts:_ It's Not Your Great-Great-Grandfather's Public Health Law"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449224/), _Am J Public Health_ 95:4, 581-590, 2005-April.  PMID: [15798113](https://www.ncbi.nlm.nih.gov/pubmed/15798113/)[↩](#fn5a)  
