@@ -182,7 +182,7 @@ more of a victim of misinformation than a perpetrator, though.
 Across the river in Cambridge and just after the Pfeiffer fiasco, police tried to
 vaccinate Jacobson, who refused and was fined \\$5 (a good chunk in those days, maybe
 \\$150 today).  At least they weren't beating people down and vaccinating by force any
-more, possibly because Jacobson was a pastor.  
+more, possibly because Jacobson was a Lutheran minister.  
 
 What with all the lawyers, one thing led to another, and those other things led to the US
 Supreme Court.  In a 7-2 decsion, 
@@ -195,7 +195,9 @@ established that:
 It both supports state powers and limits them, so lawyers like it.  The decision has been
 affirmed numerous times, and is still in active use.  There's a nice review by Wendy
 Mariner and co-authors in _Am J Public Health_ that is worth your 
-time. <sup id="fn5a">[[5]](#fn5)</sup>  
+time. <sup id="fn5a">[[5]](#fn5)</sup>  (It should be noted that _Jacobson v Mass_ has
+been mis-used, as well, for things like forced sterilization.  No tool is so purely right
+that evil people can't abuse it.)  
 
 
 ## Vaccine mandates today  

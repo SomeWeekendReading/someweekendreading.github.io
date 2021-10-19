@@ -34,7 +34,7 @@ Some interesting facts and possible consequences:
   trial comes in at 91.1%.  That's largely before Delta, though.  
 - 1.2 billion doses have been made so far, rising to about 3 billion by the end of this
   year.  
-- Pfizer frequently notes that they did _not_ take Trump's Operation Warp Speed mony.  
+- Pfizer frequently notes that they did _not_ take Trump's Operation Warp Speed money.  
 - Talk of a 3rd booster dose can now get serious, though I'd still like to see the booster
   be specific to the Delta strain.  
 - It may reduce vaccine "hesitancy" among the less lunatic fraction of the unvaccinated.

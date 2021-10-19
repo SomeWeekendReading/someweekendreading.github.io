@@ -118,9 +118,9 @@ high points:
   your body and into someone else's.  There's no mechanism to cause sterility.  __Magical thinking__
   like this is another symptom of craziness.  
 - __Conspiracy thinking:__ Point to some dark forces that secretly want to harm you:
-  sterililze because of Bill Gates, or Big Pharma doesn't want you to know 
-  so they can sell you a cure.  Though it's ironic, because Tenpenny is literally selling
-  the conspiracy.  
+  sterilize because of something-something Bill Gates, or Big Pharma doesn't want you to know 
+  so they can sell you a cure.  (Though that's ironic, because Tenpenny is _literally_ selling
+  the conspiracy.)  
 - __Cherry-picking data:__ You can always find 1 paper in the literature saying just about
   anything, e.g., here about syncytin-1.  But the consensus of all the rest of the
   literature is "no".  It's all just
