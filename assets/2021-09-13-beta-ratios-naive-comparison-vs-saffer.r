@@ -1,5 +1,5 @@
-## Created on Wednesday, October  6, 2021 at 9:52pm EDT by sgr on Kryfthanima.Home.
-## Copyright (c) 2021, nobody-in-particular.  All rights reserved.  As if you care.
+## Created on Wednesday, October  6, 2021 at 9:52pm EDT by Weekend Editor on WeekendEditorMachine.
+## Copyright (c) 2021, SomeWeekendReading.blog.  All rights reserved.  As if you care.
 
 toolsDir <- "../../tools"                              # Various tools available from author
 source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics hacks
