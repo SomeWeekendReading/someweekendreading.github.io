@@ -39,7 +39,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   dBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
     ## Beta ratio PDF
-    ## NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -53,7 +53,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   pBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
     ## Beta ratio CDF
-    ## NB: this will not work when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -69,6 +69,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   qBetaRatio <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
     ## Beta ratio quantile (numeric solution via CDF)
+    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     stopifnot(is.numeric(q) && is.numeric(minR) && is.numeric(maxR))
     stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
     stopifnot(0 <= minR && 0 <= maxR && minR < maxR)   # Really: don't be ridiculous
@@ -76,6 +77,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   }                                                    #
 
   medianBetaRatio <- function(alpha1, beta1, alpha2, beta2, minR = 0, maxR = 10) {
+    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     qBetaRatio(alpha1, beta1, alpha2, beta2, 0.50, minR, maxR)
   }                                                    # Analytic version uses incomplete Beta func
 
