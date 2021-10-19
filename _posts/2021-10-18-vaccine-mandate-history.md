@@ -21,10 +21,10 @@ What used to be a first-class economy with widespread prosperity has become some
 Dickensian nightmare of massive inequality, racism, and now a regrettable tendency of
 Republicans to embrace fascism.  The latest fit in that nightmare has been a decline in
 life expectancy: the American healthcare system is not only a leading cause of bankruptcy,
-its spotty availability and our inability to absorb sensible public health advice is
+its spotty availability and our inability to absorb sensible public health advice are
 killing us.  
 
-They're using a paper by UCLA professors Heuveline and Tzen, from the 
+Bloomberg is using a paper by UCLA professors Heuveline and Tzen, from the 
 _BMJ._ <sup id="fn2a">[[2]](#fn2)</sup>
 And it's not just a little blip, it's a large effect!  Consider Figure 4 from Heuveline
 &amp; Tzen, reproduced here: it shows a life expectancy drop  _by 2 years_, averaged
