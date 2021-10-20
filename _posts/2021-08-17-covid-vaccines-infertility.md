@@ -31,7 +31,7 @@ find that it's just a paranoid myth, not another DES in the making.  _That's_ th
 that might set minds at ease.
 
 
-## Some Parnoid Myths Around COVID-19 Vaccines  
+## Some Paranoid Myths Around COVID-19 Vaccines  
 
 People say the damndest things.
 
