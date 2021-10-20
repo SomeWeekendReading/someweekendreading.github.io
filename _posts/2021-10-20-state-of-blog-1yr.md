@@ -6,7 +6,7 @@ comments: true
 ---
 
 This crummy little blog that nobody reads has been around for a little more than a year.
-Time to look at the numbers and see how we've been doing.  
+It's time to look at the numbers and see how we've been doing.  
 
 
 ## It's been _how_ long?  
