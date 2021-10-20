@@ -81,14 +81,15 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
 ```
 - __Number of comments submitted:__ This is harder to get programmatically, so I went to
   the GitHub web UI and got it.  (In the future, I should
-  [use the API to count pull requests progammatically](https://stackoverflow.com/questions/13094712/github-api-get-number-of-pull-requests).  
+  [use the API to count pull requests progammatically](https://stackoverflow.com/questions/13094712/github-api-get-number-of-pull-requests).)  
   
   <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-github-1.jpg" width="400" height="132" alt="GitHub: Number of pull requests (submitted comments)" title="GitHub: Number of pull requests (submitted comments)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-  Comments are done in a way that a remote process creates a pull request, asking me if I
-  want to merge your comment in, or delete it.  Since pull requests here aren't used for
+  Comments are done in a way that a remote process creates a branch with your comment and
+  a pull request, asking me if I
+  want to merge your comment or delete it.  Since pull requests here aren't used for
   anything else, the number of pull requests is the number of comments submitted.  Go to
   the `Pull requests` tab, set the filter to just `is:pr`, and see that there have been
-  281 pull requests submitted since the fiat blog event.  
+  281 pull requests submitted since the fiat blog event (all currently closed).  
 - __Number of accepted comments:__ There are several possibly interesting numbers here: the
   total number of comments that made it past moderation, the ones from people who are not
   me, and the ones from me (generally replies).  We are also interested in the number of 
@@ -109,7 +110,7 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
           19
     ```
   - _Total unique commenters:_ Really only 10 after removing myself and collapsing
-    spelling variations on names of people I know.  (Hi, guys.  Good to see you.)  
+    spelling variations on the names of people I know.  (Hi, guys.  Good to see you.)  
     ```sh
     $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | sort | uniq | wc -l
           15
@@ -124,7 +125,7 @@ $$
 \mbox{Post Frequency} = \frac{477 \mbox{ days}}{124 \mbox{ posts}} = 3.85 \mbox{ days/post}
 $$
 
-&hellip; or roughly 2 posts a week.  (Whether or not they're _quality_ posts, well&hellip;
+&hellip; or just a hair under 2 posts/week.  (Whether or not they're _quality_ posts, well&hellip;
 that's another matter!)  
 
 
@@ -135,11 +136,12 @@ We get a _lot_ of spam here:
   illegal drugs on the blog of a retired drug researcher.  That's&hellip; _special_.  
 - Then there were people trying to sell term papers for college students.  I wonder if
   they know every professor in the developed world has software to spot that sort of
-  plagiarism?  Or if they just thought their dumb customers didn't know that, and were
-  willing to tank their customer's education?  Either way&hellip; ick.  
+  plagiarism?  Or if they just thought their dumb student customers didn't know that, and
+  they were willing to tank their customer's education?  Either way&hellip; ick.  
 - There was a surprisingly small amount of attempted porn advertising.  
-- Then almost everything became Russian: invitations to participate in micro-lending, a
-  bit of icky sex stuff, and a _lot_ of crap about casinos.  I mean&hellip; who in the
+- Then suddenly, almost everything became Russian: invitations to participate in micro-lending, a
+  bit of icky sex stuff, and a _lot_ of crap about casinos.  Even attempts to sell me
+  software to spam comments into _other_ blogs!  I mean&hellip; who in the
   world is gonna get involved with a Russian casino over the web?!  
   
 But they don't stop trying, especially with some older posts that somehow came to their
@@ -147,12 +149,12 @@ notice.  There are half a dozen posts that collect &gt; 90% of the spam.  No ide
 
 We've also gotten a couple nastygrams, both from the same guy.  
 
-He didn't have anything constructive or even _interesting_ to add, so I blocked it.  He
+He didn't have anything constructive or even _interesting_ to add, so I blocked them.  He
 just had a head full of the usual conservative claptrap, and wanted to call me names.  Not
 even original names: socialist (yeah, probably&hellip; so?), liberal (absolutely),
 communist (_really?_) and some vague obscentities.  He just wanted to say I'm wrong, dumb,
 and a bad person who should feel bad.  (Look, dude: I've had drug-resistant clinical
-depression my entire life: I _already know that._) He wasn't even being original!  Had he
+depression my entire life. I _already know that._) He wasn't even being original!  Had he
 been original, I might have accepted the nastygram comment and replied with a thoughtful
 and helpful critique of his command of invective.  But they weren't even _competent_
 insults.  
