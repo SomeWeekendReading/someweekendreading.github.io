@@ -177,14 +177,14 @@ The 95% confidence interval on the spam/nasty probability via a uniform prior an
 posterior Beta is easy to calculate, too:  
 
 ```R
-> qbeta(c(0.025, 0.975), 262 - 33 + 1, 33 + 1)
-[1] 0.8283195 0.9087837
-
+> round(qbeta(c(0.025, 0.500, 0.975), 262 - 33 + 1, 33 + 1), digits = 3)
+[1] 0.828 0.872 0.909
 ```
 
-Thus: the spam/nasty probability is 87.4%, with a confidence interval of 82.8% &ndash; 90.9%.  
+Thus: the Bayesian posterior distribution on spam/nasty probability has a median of 87.2%, with a
+95% confidence interval of 82.8% &ndash; 90.9%.  
 
-(I should probably write a script to do that!)  
+(I should probably write a script to do all this!)  
 
 So&hellip; yeah, the spam is tiresome and voluminous.  Maybe some of you actual readers
 could comment once in a while, to give me an idea of how the articles go over?  
