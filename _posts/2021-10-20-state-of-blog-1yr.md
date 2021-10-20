@@ -15,13 +15,13 @@ Time to look at the numbers and see how we've been doing.
 [first day of retirement](https://www.someweekendreading.blog/retirement-of-iphegenia/).
 Today is 2021-Oct-20.  According to the
 [TimeAndDate.com duration calculator](https://www.timeanddate.com/date/durationresult.html?m1=07&d1=01&y1=2020&m2=10&d2=20&y2=2021&ti=on),
-that is 477 days inclusive.  So we've been blogging for:  
+that is 477 days, inclusive.  So we've been blogging for:  
 
 $$
 \frac{477 \mbox{ days}}{365.24 \mbox{ days/yr}} = 1.306 \mbox{ yr}
 $$
 
-(Yeah, so I missed the first blogiversary.  The line forms to the left for a chance to demand a
+(Yeah, I missed the first blogiversary.  The line forms to the left for a chance to demand a
 refund of your blog subscription fee.)  
 
 It seems like it's time for a bit of retrospective introspection, speculation, and
@@ -31,29 +31,29 @@ haruspication.  Or words to that effect.
 ## Using GitHub as Content Management System and GitHub Pages as Host  
 
 As you can see from the orange &amp; white "merit badges" at the bottom of each page, this
-blog is hosted at GitHub.  (And cares about HTML & CSS correctness so much that you can
-check it against the validators for yourself.)  
+blog is hosted at GitHub.  (And cares so much about HTML & CSS correctness that you can
+check it against the canonical validators for yourself.)  
 
-GitHub's worked out more or less fine for me.  
+GitHub's worked out more or less fine for me.  If you're not comfortable with software
+tools, though, it's probably not for you and you'd like WordPress better.  
 
 For those of you asking, "Why not just use WordPress like everybody else?"&hellip; I
 wanted to have finer control over things, use the absolute bare minimum of icky, intrusive
 Javascript, and be relatively robust against the various WordPress hacks.  I'm willing to
-pay a significant price in figuring out how to do lots of things (like how to get comments
-to work with [StaticMan](https://staticman.net/)).  I haven't yet _used_ much of that fine
-control, e.g., to style the front page, but I will in the by-and-by, perhaps imitating the
-[MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/) theme for
-[Jekyll blogs](https://jekyllrb.com/) hosted on
-[GitHub Pages](https://pages.github.com/).  
+pay a significant price of effort in figuring out how to do lots of things (like how to
+get comments to work with [StaticMan](https://staticman.net/)).  I haven't yet _used_ much
+of that fine control, e.g., to style the front page, but I will in the by-and-by, perhaps
+imitating the [MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/) theme for
+[Jekyll blogs](https://jekyllrb.com/) hosted on [GitHub Pages](https://pages.github.com/).  
 
 One of the amusing side-effects of using GitHub is that there are a number of software
-tools for examining what's in the repository.  I'm going to be pretty primitive here and
-just examine the clone of the repository I have on my laptop, since that's sufficient for
-now.  
+tools for examining what's in the repository, gathering ongoing statistics about it, and
+generating reports.  I'm going to be pretty primitive here and just examine the clone of
+the repository I have on my laptop, since that's sufficient for now:  
 - All the posts are in [GitHub-flavored markdown](https://github.github.com/gfm/) files in
   a directory called `_posts`.  
 - All the comments are in [yaml](https://yaml.org/) files in a directory called
-  `_data\comments`.  
+  `_data/comments`.  
 
 That means I can use even just _elementary_ command-line tools to collect statistics about
 posts and comments.  For example, to count the number of posts:  
@@ -63,10 +63,11 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
 124
 ```
 
-I started this blog with the goal to have fun writing; that's been achieved.  It was
-specifically _not_ a goal to be monetized or become an "influencer" with a huge
-following.  I suspect that has been successfuly avoided; this is, after all, just a crummy
-little blog that nobody reads.  
+I started this blog with the goal to have fun writing; that's been achieved.  
+
+It was specifically _not_ a goal to be monetized or become an "influencer" with a huge
+following.  I suspect that has also been successfuly avoided; this is, after all, just a
+crummy little blog that nobody reads.  
 
 Let's see how the numbers say we've been doing.
 
@@ -79,15 +80,15 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
      124
 ```
 - __Number of comments submitted:__ This is harder to get programmatically, so I went to
-  the GitHub web UI and got it.  (In the future, I should use the API and write a script
-  to do this; see [here](https://stackoverflow.com/questions/13094712/github-api-get-number-of-pull-requests).)  
+  the GitHub web UI and got it.  (In the future, I should
+  [use the API to count pull requests progammatically](https://stackoverflow.com/questions/13094712/github-api-get-number-of-pull-requests).  
   
-  Comments are done in a way that a remote process creates
-  a pull request, asking me if I want to merge your comment in, or delete it.  Since pull
-  requests here aren't used for anything else, the number of pull requests is the number
-  of comments submitted.  Go to the `Pull requests` tab, set the filter to just `is:pr`, 
-  and see that there have been 281 pull requests submitted since the fiat blog event.  
-<img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-github-1.jpg" width="400" height="132" alt="GitHub: Number of pull requests (submitted comments)" title="GitHub: Number of pull requests (submitted comments)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+  <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-github-1.jpg" width="400" height="132" alt="GitHub: Number of pull requests (submitted comments)" title="GitHub: Number of pull requests (submitted comments)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+  Comments are done in a way that a remote process creates a pull request, asking me if I
+  want to merge your comment in, or delete it.  Since pull requests here aren't used for
+  anything else, the number of pull requests is the number of comments submitted.  Go to
+  the `Pull requests` tab, set the filter to just `is:pr`, and see that there have been
+  281 pull requests submitted since the fiat blog event.  
 - __Number of accepted comments:__ There are several possibly interesting numbers here: the
   total number of comments that made it past moderation, the ones from people who are not
   me, and the ones from me (generally replies).  We are also interested in the number of 
@@ -108,7 +109,7 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
           19
     ```
   - _Total unique commenters:_ Really only 10 after removing myself and collapsing
-    spelling variations on names of people I know.  
+    spelling variations on names of people I know.  (Hi, guys.  Good to see you.)  
     ```sh
     $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | sort | uniq | wc -l
           15
@@ -116,8 +117,8 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
 
 ## Post Frequency  
 
-I started out with a goal to be "weekend reading", posting about 1ce/week.  I think I've
-achieved that, the average post frequency has been:  
+I started out with a goal to be "weekend reading", i.e., posting about 1ce/week.  I think I've
+achieved that, since the average post frequency has been:  
 
 $$
 \mbox{Post Frequency} = \frac{477 \mbox{ days}}{124 \mbox{ posts}} = 3.85 \mbox{ days/post}
@@ -148,12 +149,13 @@ We've also gotten a couple nastygrams, both from the same guy.
 
 He didn't have anything constructive or even _interesting_ to add, so I blocked it.  He
 just had a head full of the usual conservative claptrap, and wanted to call me names.  Not
-even original names: socialist (yeah, probably&hellip; so?),liberal (absolutely), and some
-vague obscentities.  He just wanted to say I'm dumb, wrong, and bad.  (Look, dude: I've
-had drug-resistant clinical depression my entire life: I _already know that._) He wasn't
-even being original.  Had he been original, I might have accepted the nastygram comment and
-replied with a thoughtful and helpful critique of his command of invective.  But they
-weren't even competent insults.  
+even original names: socialist (yeah, probably&hellip; so?), liberal (absolutely),
+communist (_really?_) and some vague obscentities.  He just wanted to say I'm wrong, dumb,
+and a bad person who should feel bad.  (Look, dude: I've had drug-resistant clinical
+depression my entire life: I _already know that._) He wasn't even being original!  Had he
+been original, I might have accepted the nastygram comment and replied with a thoughtful
+and helpful critique of his command of invective.  But they weren't even _competent_
+insults.  
 
 The probability of spam or nastygram is kind of interesting ("PR" = "pull request" =
 "attempted comment"):  
@@ -171,8 +173,8 @@ $$
 
 (I should probably write a script to do that!)  
 
-So&hellip; yeah, the spam is tiresome.  Maybe some of you actual readers could comment
-once in a while, to give me an idea of how the articles go over?  
+So&hellip; yeah, the spam is tiresome and voluminous.  Maybe some of you actual readers
+could comment once in a while, to give me an idea of how the articles go over?  
 
 
 ## Comment Rate  
@@ -183,7 +185,7 @@ $$
 \mbox{Comment Rate} = \frac{33 \mbox{ outside comments}}{124 \mbox{ posts}} = 0.266 \mbox{ comments/post}
 $$
 
-&hellip;or about 1 comment every 3.76 posts.  I have gotten some emails, mostly from
+&hellip;or about 1 comment every 3.76 posts.  I _have_ gotten some emails as well, mostly from
 people who don't want to use the comment system, or can't figure it out.
 
 
