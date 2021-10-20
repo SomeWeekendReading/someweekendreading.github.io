@@ -160,7 +160,7 @@ and helpful critique of his command of invective.  But they weren't even _compet
 insults.  
 
 The probability of spam or nastygram is kind of interesting ("PR" = "pull request" =
-"attempted comment"):  
+"attempted comment").  The point estimate is:  
 
 $$
 \begin{align*}
@@ -174,7 +174,7 @@ $$
 $$
 
 The 95% confidence interval on the spam/nasty probability via a uniform prior and
-posterior Beta is easy to calculate, too:  
+Beta posterior is easy to calculate, too:  
 
 ```R
 > round(qbeta(c(0.025, 0.500, 0.975), 262 - 33 + 1, 33 + 1), digits = 3)
