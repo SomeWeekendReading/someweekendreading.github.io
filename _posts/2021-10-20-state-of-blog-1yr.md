@@ -119,8 +119,8 @@ $$
 \mbox{Post Frequency} = \frac{477 \mbox{ days}}{124 \mbox{ posts}} = 3.85 \mbox{ days/post}
 $$
 
-&hellip; or roughly 2 posts a week.  Whether or not they're _quality_ posts, well&hellip;
-that's another matter!  
+&hellip; or roughly 2 posts a week.  (Whether or not they're _quality_ posts, well&hellip;
+that's another matter!)  
 
 
 ## Spam and Nastygrams  
@@ -140,30 +140,35 @@ We get a _lot_ of spam here:
 But they don't stop trying, especially with some older posts that somehow came to their
 notice.  There are half a dozen posts that collect &gt; 90% of the spam.  No idea why.  
 
-We've also gotten a couple nastygrams, both from the same guy.  He didn't have anything
-constructive to add, so I blocked it.  He just had a head full of the usual conservative
-claptrap, and wanted to call me names.  Not even original names: socialist (yeah,
-probably&hellip; so?),liberal (absolutely), and some vague obscentities.  He just wanted
-to say I'm dumb, wrong, and bad.  (Look, dude: I've had drug-resistant clinical depression
-my entire life: I _already know that._)  He wasn't even being original; had he been
-original I might have accepted the nastygram comment and replied with a thoughtful
-critique of his command of invective.  But they weren't even competent insults.  
+We've also gotten a couple nastygrams, both from the same guy.  
 
-The probability of spam/nastygram is kind of interesting ("PR" = "pull request" =
+He didn't have anything constructive or even _interesting_ to add, so I blocked it.  He
+just had a head full of the usual conservative claptrap, and wanted to call me names.  Not
+even original names: socialist (yeah, probably&hellip; so?),liberal (absolutely), and some
+vague obscentities.  He just wanted to say I'm dumb, wrong, and bad.  (Look, dude: I've
+had drug-resistant clinical depression my entire life: I _already know that._) He wasn't
+even being original.  Had he been original, I might have accepted the nastygram comment and
+replied with a thoughtful and helpful critique of his command of invective.  But they
+weren't even competent insults.  
+
+The probability of spam or nastygram is kind of interesting ("PR" = "pull request" =
 "attempted comment"):  
 
 $$
 \begin{align*}
-\mbox{Outside PRs}      & = \mbox{PRs} - \mbox{comments by me} \\
-                        & = 281 - 19 \\
-                        & = 262 \\
-\mbox{Spam/Nasty Prob}  & = 100\% \times \frac{\mbox{Outside PRs} - \mbox{OutsideComments}}{\mbox{OutsidePRs}} \\
-                        & = 100\% \times \frac{262 - 33}{262} \\
-                        & = 87.4\%
+\mbox{Outside PRs}         & = \mbox{PRs} - \mbox{comments by me} \\
+                           & = 281 - 19 \\
+                           & = 262 \\
+\mbox{Spam or Nasty Prob}  & = 100\% \times \frac{\mbox{Outside PRs} - \mbox{OutsideComments}}{\mbox{OutsidePRs}} \\
+                           & = 100\% \times \frac{262 - 33}{262} \\
+                           & = 87.4\%
 \end{align*}
 $$
 
 (I should probably write a script to do that!)  
+
+So&hellip; yeah, the spam is tiresome.  Maybe some of you actual readers could comment
+once in a while, to give me an idea of how the articles go over?  
 
 
 ## Comment Rate  
@@ -241,13 +246,15 @@ But good luck to you, whoever you are.
 
 ## The Weekend Conclusion  
 
-This is still a crummy little blog that nobody reads, and I'm ok with that.  There are a
-few links, probably from the comment sections of a few blogs we're I've dropped in to say
-something.  Not interested in doing promotion work, or monetization.  _Might_ look into
-Google Ads and some minor promotion someday, once I get the stylesheet stuff straightened
-out, but also maybe not.  So don't hold your breath on that.  
+This is still a crummy little blog that nobody reads, and I'm still ok with that.  
 
-To my spammers: You are hopeless.  Move along.  
+
+There are a few links, probably from the comment sections of a few blogs we're I've
+dropped in to say something.  Not interested in doing promotion work, or monetization.
+_Might_ look into Google Ads and some minor promotion someday, once I get the stylesheet
+stuff straightened out, but also maybe not.  So don't hold your breath on that.  
+
+To my spammers: You are hopeless.  You'll never make it past moderation.  Move along.  
 
 To my readers (all 3 of you, excluding my spouse, my cat, and myself): Thanks for reading.
 I'm gratified at the couple of you that have expressed interest.  Please feel free to
