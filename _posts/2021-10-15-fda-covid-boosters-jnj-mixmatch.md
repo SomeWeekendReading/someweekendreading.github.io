@@ -216,7 +216,7 @@ all 65 or older, so maybe a bit _more_ than half!  The rest, I'm sure, can come 
 sufficiently creative argument to persuade a tech at their local pharmacy.  Practically,
 this is just about everybody in the US except kids?  
 
-Let's hope that the CDC and ACIP turn this "permissive" langauge into "preferential", as
+Let's hope that the CDC and ACIP turn this "permissive" language into "preferential", as
 Branswell &amp; Herper put it.  
 
 ---
