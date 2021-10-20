@@ -103,7 +103,7 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
     $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: Weekend Editor" \{\} \; | wc -l
           19
     ```
-  - _Total unique commenters:__Really only 10 after removing myself and collapsing
+  - __Total unique commenters:__ Really only 10 after removing myself and collapsing
     spelling variations on names of people I know.  
     ```sh
     $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | sort | uniq | wc -l
