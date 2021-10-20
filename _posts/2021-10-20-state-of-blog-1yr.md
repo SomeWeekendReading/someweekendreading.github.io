@@ -103,7 +103,7 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
     $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: Weekend Editor" \{\} \; | wc -l
           19
     ```
-  - __Total unique commenters:__ Really only 10 after removing myself and collapsing
+  - _Total unique commenters:_ Really only 10 after removing myself and collapsing
     spelling variations on names of people I know.  
     ```sh
     $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | sort | uniq | wc -l
@@ -176,7 +176,7 @@ once in a while, to give me an idea of how the articles go over?
 The comment rate is pretty low:  
 
 $$
-\mbox{Comment Rate} = \frac{33 \mbox{outside comments}}{124 \mbox{ posts}} = 0.266 \mbox{ comments/post}
+\mbox{Comment Rate} = \frac{33 \mbox{ outside comments}}{124 \mbox{ posts}} = 0.266 \mbox{ comments/post}
 $$
 
 &hellip;or about 1 comment every 3.76 posts.  I have gotten some emails, mostly from
@@ -207,15 +207,15 @@ note for the much bigger drop in July, so&hellip; I dunno.
 The search queries that got to us are kind of interesting, when sorted by what actually
 provoked a click-through:  
 - The first, second, and sixth place queries were "hank gren vaccine", "hank green covid
-  vaccine", and "hank green covid".  Clearly I need to blog about internet-famous people
-  more!  
+  vaccine", and "hank green covid".  Clearly I need to blog more about internet-famous people
+  like Hank Green!  
 - The others that provoked click-throughs were "filibuster statistics by party",
   "#googletranslate", and various queries about the Moderna COVID-19 vaccine.  
 
 The pages to which people clicked through corresponded pretty much to the queries.  The
 highest click-through rate was on the front page, though.  No idea why.  
 
-The countries were first the Anglosphere (US, UK, Australia, Canada&hellip; but not NZ?),
+The countries were first the Anglosphere (US, UK, Australia, Canada&hellip; but _not_ NZ?),
 followed by various European countries and then India.  Only 4 click-throughs from France,
 so I guess my former colleagues in France aren't reading this much.  About as expected?  
 
@@ -246,7 +246,7 @@ But good luck to you, whoever you are.
 
 ## The Weekend Conclusion  
 
-This is still a crummy little blog that nobody reads, and I'm still ok with that.  
+This is still a crummy little blog that nobody reads.  And I'm still ok with that.  
 
 
 There are a few links, probably from the comment sections of a few blogs we're I've
