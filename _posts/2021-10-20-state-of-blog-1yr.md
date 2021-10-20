@@ -30,7 +30,11 @@ haruspication.  Or words to that effect.
 
 ## Using GitHub as Content Management System and GitHub Pages as Host  
 
-That's worked out more or less fine for me.  
+As you can see from the orange &amp; white "merit badges" at the bottom of each page, this
+blog is hosted at GitHub.  (And cares about HTML & CSS correctness so much that you can
+check it against the validators for yourself.)  
+
+GitHub's worked out more or less fine for me.  
 
 For those of you asking, "Why not just use WordPress like everybody else?"&hellip; I
 wanted to have finer control over things, use the absolute bare minimum of icky, intrusive
@@ -246,15 +250,16 @@ But good luck to you, whoever you are.
 
 ## The Weekend Conclusion  
 
-This is still a crummy little blog that nobody reads.  And I'm still ok with that.  
+This is still a crummy little blog that nobody reads.  
 
+And I'm still ok with that.  
 
-There are a few links, probably from the comment sections of a few blogs we're I've
-dropped in to say something.  Not interested in doing promotion work, or monetization.
-_Might_ look into Google Ads and some minor promotion someday, once I get the stylesheet
+There are a few links, mostly from the comment sections of a few blogs we're I've
+dropped in to say something.  I'm not interested in doing promotion work, or monetization.
+I _might_ look into Google Ads and some minor promotion someday, once I get the stylesheet
 stuff straightened out, but also maybe not.  So don't hold your breath on that.  
 
-To my spammers: You are hopeless.  You'll never make it past moderation.  Move along.  
+To my spammers: You're hopeless.  You'll never make it past moderation.  Move along.  
 
 To my readers (all 3 of you, excluding my spouse, my cat, and myself): Thanks for reading.
 I'm gratified at the couple of you that have expressed interest.  Please feel free to
