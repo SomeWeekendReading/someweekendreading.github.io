@@ -173,6 +173,17 @@ $$
 \end{align*}
 $$
 
+The 95% confidence interval on the spam/nasty probability via a uniform prior and
+posterior Beta is easy to calculate, too:  
+
+```R
+> qbeta(c(0.025, 0.975), 262 - 33 + 1, 33 + 1)
+[1] 0.8283195 0.9087837
+
+```
+
+Thus: the spam/nasty probability is 87.4%, with a confidence interval of 82.8% &ndash; 90.9%.  
+
 (I should probably write a script to do that!)  
 
 So&hellip; yeah, the spam is tiresome and voluminous.  Maybe some of you actual readers
