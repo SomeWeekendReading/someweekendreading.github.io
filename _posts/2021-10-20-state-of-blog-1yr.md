@@ -1,7 +1,7 @@
 ---
 layout: post
 title: State of the Blog at 1 Year
-tags: About Statistics
+tags: About Statistics TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
 ---
 
@@ -9,9 +9,9 @@ This crummy little blog that nobody reads has been around for a little more than
 Time to look at the numbers and see how we've been doing.  
 
 
-## It's been HOW long?  
+## It's been _how_ long?  
 
-[Fiat blog.](https://www.someweekendreading.blog/fiat-blog/) was on 2020-Jul-01, my 
+[Fiat blog](https://www.someweekendreading.blog/fiat-blog/) was on 2020-Jul-01, my 
 [first day of retirement](https://www.someweekendreading.blog/retirement-of-iphegenia/).
 Today is 2021-Oct-20.  According to the
 [TimeAndDate.com duration calculator](https://www.timeanddate.com/date/durationresult.html?m1=07&d1=01&y1=2020&m2=10&d2=20&y2=2021&ti=on),
@@ -21,7 +21,7 @@ $$
 \frac{477 \mbox{ days}}{365.24 \mbox{ days/yr}} = 1.306 \mbox{ yr}
 $$
 
-(Yeah, so I missed the first blogiversary.  Line forms to the left for a chance to demand a
+(Yeah, so I missed the first blogiversary.  The line forms to the left for a chance to demand a
 refund of your blog subscription fee.)  
 
 It seems like it's time for a bit of retrospective introspection, speculation, and
@@ -84,7 +84,7 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
   of comments submitted.  Go to the `Pull requests` tab, set the filter to just `is:pr`, 
   and see that there have been 281 pull requests submitted since the fiat blog event.  
 <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-github-1.jpg" width="400" height="132" alt="GitHub: Number of pull requests (submitted comments)" title="GitHub: Number of pull requests (submitted comments)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-- __Number of accepted comments:__There are several possibly interesting numbers here: the
+- __Number of accepted comments:__ There are several possibly interesting numbers here: the
   total number of comments that made it past moderation, the ones from people who are not
   me, and the ones from me (generally replies).  We are also interested in the number of 
   _unique_ outside commentators (and who they are, but I'm not publishing that).  
