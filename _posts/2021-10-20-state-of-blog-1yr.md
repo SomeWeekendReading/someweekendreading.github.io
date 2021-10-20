@@ -181,8 +181,8 @@ Beta posterior is easy to calculate, too:
 [1] 0.828 0.872 0.909
 ```
 
-Thus: the Bayesian posterior distribution on spam/nasty probability has a median of 87.2%, with a
-95% confidence interval of 82.8% &ndash; 90.9%.  
+Thus: the Bayesian posterior distribution of the spam/nasty probability has a median of
+87.2% (95% CL: 82.8% &ndash; 90.9%).  
 
 (I should probably write a script to do all this!)  
 

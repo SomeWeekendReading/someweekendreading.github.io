@@ -181,6 +181,44 @@ Looks like I got 3 things, 2 of which are nontrivial:
 J&amp;J may consider this a mixed result, but I think for the general welfare this was a
 good day.  
 
+
+## Addendum 2021-Oct-20: FDA Authorizes J&amp;J Booster _and_ Mix&amp;Match Boosters  
+
+<img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-fda-auth-1.jpg" width="400" height="231" alt="STAT News: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" title="STAT News: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-fda-auth-2.jpg" width="400" height="132" alt="FDA news release: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" title="FDA news release: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Today the FDA acted on the VRPBAC recommendation, and actually went futher.  Not only did
+they grant EUA for _both_ the Moderna and J&amp;J boosters, they _also_ granted EUA for
+mix&amp;match boosters, despite the preliminary nature of the presented evidence at
+VRBPAC.  This news comes via _STAT News_ <sup id="fn6a">[[6]](#fn6)</sup>, reporting on
+the actual FDA statement issued today. <sup id="fn7a">[[7]](#fn7)</sup>  
+
+This is a _very_ aggressive move for them, indicating that they _really_ want people to
+get boosted.  
+
+The steps remaining are that the CDC's ACIP meeting has to recommend this as standard
+medical policy, and CDC Director Rochelle Walensky has to sign off on the recommendation.
+The ACIP meets tomorrow, 2021-Oct-21.  
+
+Authorization would significantly simplify boosting long-term care facility residents, for
+example.  Vax teams would only have to bring one type of vaccine for everybody, instead of
+all 3 to handle any variation in initial doses among the residents.  
+
+Right now, the eligible populations are:  
+- Anybody who previously got J&amp;J.  
+- Anybody who previously got Moderna or Pfizer, and:  
+  - Are over age 65, or  
+  - Are aged 18-64 and have pre-existing conditions placing them at severe risk of COVID-19, or  
+  - Are aged 18-64 and have jobs or living circumstances that put them at higher exposure to COVID-19.  
+  
+With only a quick look at the numbers, that's at least half the US population, outside
+kids.  Branswell &amp; Herper's article suggests this includes 60% of people aged 18-64 +
+all 65 or older, so maybe a bit _more_ than half!  The rest, I'm sure, can come up with a
+sufficiently creative argument to persuade a tech at their local pharmacy.  Practically,
+this is just about everybody in the US except kids?  
+
+Let's hope that the CDC and ACIP turn this "permissive" langauge into "preferential", as
+Branswell &amp; Herper put it.  
+
 ---
 
 ## Notes &amp; References  
@@ -204,3 +242,7 @@ good day.
 <a id="fn4">4</a>: P Heaton, J Van Hoof, S Schneeweiss, D Barouch, &amp; M Douoghuih, ["Emergency Use Authorization (EUA) Amendment for a Booster Dose for the Janssen COVID-19 Vaccine (Ad26.COV2.S)"](https://www.fda.gov/media/153129/download), [FDA VRBPAC 2021-Oct-15 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-15. [↩](#fn4a)  
 
 <a id="fn5">5</a>: K Lyke, _et al._, ["DMID 21-0012 - Heterologous Platform Boost Study Mix and Match"](https://www.fda.gov/media/153128/download), [FDA VRBPAC 2021-Oct-15 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement), retrieved 2021-Oct-15. [↩](#fn5a)  
+
+<a id="fn6">6</a>: H Branswell &amp; M Herper, ["FDA authorizes booster shots of Moderna, Johnson & Johnson Covid-19 vaccines"](https://www.statnews.com/2021/10/20/covid19-vaccine-booster-dose-moderna-johnson/), _STAT News_, 2021-Oct-20. [↩](#fn6a)  
+
+<a id="fn7">7</a>: [FDA Office of Media Affairs](mailto:fdaoma@fda.hhs.gov), ["Coronavirus (COVID-19) Update: FDA Takes Additional Actions on the Use of a Booster Dose for COVID-19 Vaccines"](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-takes-additional-actions-use-booster-dose-covid-19-vaccines), FDA press announcements, 2021-Oct-20. [↩](#fn7a)  
