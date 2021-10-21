@@ -478,7 +478,7 @@ We'll see!
 
 ## Addendum 2021-Oct-20: FDA Authorizes Moderna Booster _and_ Mix&amp;Match Boosters  
 
-See addendum to [the J&amp;J booster summary, which was simultaneously approved](https://www.someweekendreading.blog/fda-covid-boosters-jnj-mixmatch/#addendum-2021-oct-20-fda-authorizes-jj-booster-and-mixmatch-boosters).  
+See addendum to [the J&amp;J booster summary, which was simultaneously approved](https://www.someweekendreading.blog/fda-covid-boosters-jnj-mixmatch/#addendum-2021-oct-20-fda-authorizes-moderna-jj-booster-and-mixmatch-boosters).  
 
 ---
 
