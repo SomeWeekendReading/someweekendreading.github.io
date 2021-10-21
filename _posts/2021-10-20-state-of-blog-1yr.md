@@ -178,11 +178,11 @@ The 95% confidence interval on the spam/nasty probability via a uniform prior an
 Beta posterior is easy to calculate, too:  
 
 ```R
-> round(qbeta(c(0.025, 0.500, 0.975), 262 - 33 + 1, 33 + 1), digits = 3)
-[1] 0.828 0.872 0.909
+> 100.0 * round(qbeta(c(0.025, 0.500, 0.975), 262 - 33 + 1, 33 + 1), digits = 3)
+[1] 82.8 87.2 90.9
 ```
 
-Thus: the Bayesian posterior distribution of the spam/nasty probability has a median of
+Thus the Bayesian posterior distribution of the spam/nasty probability has a median of
 87.2% (95% CL: 82.8% &ndash; 90.9%).  
 
 (I should probably write a script to do all that.  And another to collect all the page view
