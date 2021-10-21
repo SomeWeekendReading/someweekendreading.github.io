@@ -185,8 +185,8 @@ Beta posterior is easy to calculate, too:
 Thus: the Bayesian posterior distribution of the spam/nasty probability has a median of
 87.2% (95% CL: 82.8% &ndash; 90.9%).  
 
-(I should probably write a script to do all this!)  
-<!-- *** and a script to collect all the page view counts, for all pages, into a table. -->
+(I should probably write a script to do all that.  And another to collect all the page view
+counts into a table.)  
 
 So&hellip; yeah, the spam is tiresome and voluminous.  Maybe some of you actual readers
 could comment once in a while, to give me an idea of how the articles go over?  
