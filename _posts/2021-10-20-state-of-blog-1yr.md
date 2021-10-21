@@ -96,23 +96,23 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
   _unique_ outside commentators (and who they are, but I'm not publishing that).  
   - _Total accepted comments:_  
     ```sh
-    $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: .*" \{\} \; | wc -l
+    $ find ./_data/comments/ -iname "*.yml" -a -type f -a -exec grep "^name: .*" \{\} \; | wc -l
           52
     ```
   - _Total accepted comments not from me:_  
     ```sh
-    $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | wc -l
+    $ find ./_data/comments/ -iname "*.yml" -a -type f -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | wc -l
           33
     ```
   - _Total accepted comments from me:_  
     ```sh
-    $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: Weekend Editor" \{\} \; | wc -l
+    $ find ./_data/comments/ -iname "*.yml" -a -type f -a -exec grep "^name: Weekend Editor" \{\} \; | wc -l
           19
     ```
   - _Total unique commenters:_ Really only 10 after removing myself and collapsing
     spelling variations on the names of people I know.  (Hi, guys.  Good to see you.)  
     ```sh
-    $ find ./_data/comments/ -iname "*.yml" -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | sort | uniq | wc -l
+    $ find ./_data/comments/ -iname "*.yml" -a -type f -a -exec grep "^name: .*" \{\} \; | grep -v "Weekend Editor$" | sort | uniq | wc -l
           15
     ```
 
