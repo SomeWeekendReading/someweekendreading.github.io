@@ -241,7 +241,7 @@ so I guess my former colleagues in France aren't reading this much.  About as ex
 As far as devices, it's almost evenly divided between desktops and mobile, with only a few
 hardy tablet users.  Again, about as expected.  This blog is tagged as mobile-friendly by
 Google, but every time I've tried it the result was _much_ better on a real desktop screen
-or on a tablet.  
+or on a tablet, compared to a dinky phone screen.  
 
 <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-search-console-2.jpg" width="400" height="349" alt="Google Search Console: Top linked pages" title="Google Search Console: Top linked pages" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 When we ask about other web pages that link to us, the top link is to the front page, and
@@ -251,14 +251,14 @@ much linkage, as expected.
 <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-search-console-3.jpg" width="400" height="280" alt="Google Search Console: Top linking sites" title="Google Search Console: Top linking sites" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I don't do any promotion for this blog: no Twitterage, no Instagrammatization, no
 Facebookery, nothing.  The _only_ things I do are (a) mention it to people in conversation
-or email when it's relevant, and (b) veryoccasionally leave comments on somebody else's
+or email when it's relevant, and (b) very occasionally leave comments on somebody else's
 blog.  The linking sites confirm this, being mostly places I've left comments on other
 blogs.  
 
 <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-search-console-4.jpg" width="400" height="274" alt="Google Search Console: Top linking text" title="Google Search Console: Top linking text" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The text people use to link here is kind of amusing.  Some of it's just my _nom de blog_,
-or the name of the blog, or the ubiquitous "here".  But the "fda declares war on america"
-guy is&hellip; probably not paying attention to what I say.  Or linking to me as someone
+or the name of the blog itself, or the ubiquitous "here".  But the "fda declares war on america"
+guy is&hellip; probably not paying attention to what I have to say.  Or linking to me as someone
 with whom they disagree, maybe?  I didn't bother to track down the reference, so I dunno.
 But good luck to you, whoever you are.  
 
