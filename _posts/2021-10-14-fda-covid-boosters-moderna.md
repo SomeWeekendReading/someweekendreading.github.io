@@ -476,6 +476,10 @@ that's a property of coronaviruses, or of mRNA vaccines, or &hellip; _something.
 
 We'll see!  
 
+## Addendum 2021-Oct-20: FDA Authorizes J&amp;J Booster _and_ Mix&amp;Match Boosters  
+
+See addendum to [the J&amp;J booster summary, which was simultaneously approved](https://www.someweekendreading.blog/fda-covid-boosters-jnj-mixmatch/#addendum-2021-oct-20-fda-authorizes-jj-booster-and-mixmatch-boosters).  
+
 ---
 
 ## Notes &amp; References  
