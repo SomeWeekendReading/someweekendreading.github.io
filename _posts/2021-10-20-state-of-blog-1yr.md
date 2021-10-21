@@ -250,8 +250,8 @@ then a few others about vaccine stuff that apparently interests people.  All in 
 much linkage, as expected.  
 
 <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-search-console-3.jpg" width="400" height="280" alt="Google Search Console: Top linking sites" title="Google Search Console: Top linking sites" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-I don't do any promotion for this blog: no Twitterage, no Instagrammatization, no
-Facebookery, nothing.  The _only_ things I do are (a) mention it to people in conversation
+I don't do any promotion for this blog: no Twittage, no Instagrammaton, no
+FaceBorg, nothing.  The _only_ things I do are (a) mention it to people in conversation
 or email when it's relevant, and (b) very occasionally leave comments on somebody else's
 blog.  The linking sites confirm this, being mostly places I've left comments on other
 blogs.  
