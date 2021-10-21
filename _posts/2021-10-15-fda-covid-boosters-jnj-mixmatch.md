@@ -182,7 +182,7 @@ J&amp;J may consider this a mixed result, but I think for the general welfare th
 good day.  
 
 
-## Addendum 2021-Oct-20: FDA Authorizes Moderna &amp; J&amp;J Booster _and_ Mix&amp;Match Boosters  
+## Addendum 2021-Oct-20: FDA Authorizes Moderna, J&amp;J Booster _and_ Mix&amp;Match Boosters  
 
 <img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-fda-auth-1.jpg" width="400" height="231" alt="STAT News: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" title="STAT News: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-fda-auth-2.jpg" width="400" height="132" alt="FDA news release: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" title="FDA news release: FDA EUA's Moderna boost, J&amp;J boost, and mix-match boosts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
