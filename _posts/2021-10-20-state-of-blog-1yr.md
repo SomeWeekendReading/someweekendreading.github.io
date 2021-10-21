@@ -280,7 +280,7 @@ To my spammers: You're hopeless.  You'll never make it past moderation.  Move al
 
 To my readers (all 3 of you, excluding my spouse, my cat, and myself): Thanks for reading.
 I'm gratified at the couple of you that have expressed interest.  Please feel free to
-leave comments; it makes me happy to engage with thoughtful comments.  
+leave comments; it makes me happy to engage with thoughtful people.  
 
 ---
 
