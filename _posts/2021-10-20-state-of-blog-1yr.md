@@ -139,10 +139,11 @@ We get a _lot_ of spam here:
   plagiarism?  Or if they just thought their dumb student customers didn't know that, and
   they were willing to tank their customer's education?  Either way&hellip; ick.  
 - There was a surprisingly small amount of attempted porn advertising.  
-- Then suddenly, almost everything became Russian: invitations to participate in micro-lending, a
-  bit of icky sex stuff, and a _lot_ of crap about casinos.  Even attempts to sell me
-  software to spam comments into _other_ blogs!  I mean&hellip; who in the
-  world is gonna get involved with a Russian casino over the web?!  
+- Then suddenly, almost everything became Russian: invitations to participate in
+  micro-lending, a small bit of icky sex stuff, and a _lot_ of crap about casinos.  Even
+  attempts to sell me software to spam comments into _other_ blogs!  I mean&hellip; who in
+  the world is gonna get involved with a Russian casino over the web, or buy spam software
+  from spammers?!  
   
 But they don't stop trying, especially with some older posts that somehow came to their
 notice.  There are half a dozen posts that collect &gt; 90% of the spam.  No idea why.  
