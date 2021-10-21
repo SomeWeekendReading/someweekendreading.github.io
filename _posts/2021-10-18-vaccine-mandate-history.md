@@ -176,8 +176,8 @@ Misinformation matters.
 Meet Henning Jacobson. 
 
 <img src="{{ site.baseurl }}/images/2021-10-18-vaccine-mandate-henning-jacobson.jpg" width="168" height="224" alt="Wikipedia: Henning Jacobson" title="Wikipedia: Henning Jacobson" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-He's the handsome fellow shown here, who is about to misbehave in his own fashion.  He's
-more of a victim of misinformation than a perpetrator, though.  
+He's the handsome fellow shown here, who is about to misbehave in his own fashion.  (He's
+more of a _victim_ of misinformation than a perpetrator, though.)  
 
 Across the river in Cambridge and just after the Pfeiffer fiasco, police tried to
 vaccinate Jacobson, who refused and was fined \\$5 (a good chunk in those days, maybe
