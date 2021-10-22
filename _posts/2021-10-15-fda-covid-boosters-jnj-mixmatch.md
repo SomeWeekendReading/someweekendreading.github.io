@@ -219,6 +219,61 @@ this is just about everybody in the US except kids?
 Let's hope that the CDC and ACIP turn this "permissive" language into "preferential", as
 Branswell &amp; Herper put it.  
 
+
+## Addendum 2021-Oct-21: CDC's ACIP &amp; Director Recommend Moderna, J&amp;J Booster, _and_ Mix&amp;Match Boosters  
+
+<img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-stat.jpg" width="400" height="234" alt="STAT News: CDC's ACIP recommends CDC back all boosters and mix-match" title="STAT News: CDC's ACIP recommends CDC back all boosters and mix-match" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Today the CDC's Advisory Committee on Immunization Practice (ACIP) met to consider
+practice recommendations around Moderna boosters, J&amp;J boosters, and mix-n-match
+boosters.  As always, Helen Branswell at _STAT News_ has the
+goods.  <sup id="fn8a">[[8]](#fn8)</sup> If you want to read through the 7 hours of
+presentations that rehash the data from the FDA VRBPAC meeting, they're now online
+too. <sup id="fn9a">[[9]](#fn9)</sup>  
+
+<img src="{{ site.baseurl }}/images/2021-10-15-fda-covid-boosters-jnj-mixmatch-moderna-acip.jpg" width="400" height="225" alt="CDC ACIP, Moderna presentation: evidence of VE waning, or not?" title="CDC ACIP, Moderna presentation: evidence of VE waning, or not?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I looked _briefly_ through all the slide decks.  There's a lot of stuff there, but it's
+mostly stuff we've seen before, just tweaked for the audience.  One slide I'd like to call
+out is slide 12 of the presentation for Moderna boosters.  
+- It shows rates of COVID-19 cases (in units of cases/1000 person-years on the vertical
+  axis).  
+- The 3 groups break down subjects into all, young, and old categories.  
+- The real info is in the difference between the light blue (early vaccinees) and dark
+  blue (late vaccinees).  I _think_ the light blue bars are the people who were controls
+  in the clinical trial; when the trial ended they got the real Moderna doses.  So they're
+  pretty much the same, just vaccinated some 5 or 6 months later.  
+- They offer as evidence of vaccine efficacy waning that the light blue bars are all
+  higher, i.e., the early vaccinees got "breakthrough" COVID-19 at a higher rate than the
+  later vaccinees.  (Though both are _astronomically_ lower than unvaccinated people.)  
+- On the other hand: this seems to be convolved with the appearance of Delta, so I'm not
+  absolutely certain this definitely means VE waning.  Still&hellip; another chip on the
+  pile, and it's adding up.  
+  
+__Bottom line:__ The CDC's ACIP basically agreed with the FDA's VRBPAC, and recommended to
+the CDC that practice guidance include boosters for all 3 vaccines, and that mix-n-match
+was probably a good thing.  There was, of course, some talk of guiding people one way or
+another: young men discouraged from a 3rd mRNA dose because of myocarditis risk, or young
+women discouraged from a 2nd J&amp;J risk because of thrombosis.  In the end, there was no
+formal guidance on that, though every doctor in the developed world knows those things
+anyway and will probably give that advice to their patients.  
+
+Those who are immunocompromised can get a full-dose 3rd shot of Moderna, while those who
+are immunologically normal get the "booster" dose, which is half the initial dose.  
+
+The next step would be to see of CDC Director Rochelle Walensky makes it official,
+resulting in clinical guidance.  However, she took that step late this evening.  So we're
+done here: boosters are on, for those over 65 or 18-65 with risky conditions or risky jobs
+or living environments.  
+
+> "These recommendations are another example of our fundamental commitment to protect as
+> many people as possible from Covid-19," Walensky said in a statement, noting the country
+> now has three authorized booster doses that "are all highly effective in reducing the
+> risk of severe disease, hospitalization, and death even in the midst of the widely
+> circulating Delta variant."  
+
+That's probably 60% or more of the US population, with nearly every age 18+ person able to
+find some excuse or other.  For example, being overweight (25 &lt; BMI &le; 30) is on the
+list.  And we Americans tend to be pretty fat.  
+
 ---
 
 ## Notes &amp; References  
@@ -246,3 +301,7 @@ Branswell &amp; Herper put it.
 <a id="fn6">6</a>: H Branswell &amp; M Herper, ["FDA authorizes booster shots of Moderna, Johnson & Johnson Covid-19 vaccines"](https://www.statnews.com/2021/10/20/covid19-vaccine-booster-dose-moderna-johnson/), _STAT News_, 2021-Oct-20. [↩](#fn6a)  
 
 <a id="fn7">7</a>: [FDA Office of Media Affairs](mailto:fdaoma@fda.hhs.gov), ["Coronavirus (COVID-19) Update: FDA Takes Additional Actions on the Use of a Booster Dose for COVID-19 Vaccines"](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-takes-additional-actions-use-booster-dose-covid-19-vaccines), FDA press announcements, 2021-Oct-20. [↩](#fn7a)  
+
+<a id="fn8">8</a>: H Branswell, ["CDC advisory panel backs mix-and-match approach to Covid-19 vaccine boosters"](https://www.statnews.com/2021/10/21/moderna-jandj-booster-covid19-vaccine-cdc/), _STAT News_, 2021-Oct-21. [↩](#fn8a)  
+
+<a id="fn9">9</a>: CDC Staff, ["ACIP Presentation Slides: October 20-21, 2021 Meeting (COVID-19 subset on 2021-Oct-21)"](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-10-20-21.html#covid-19), __CDC ACIP Home, meeting materials, 2021-Oct-21. [↩](#fn9a)  
