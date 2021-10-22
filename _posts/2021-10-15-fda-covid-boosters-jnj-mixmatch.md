@@ -271,8 +271,11 @@ or living environments.
 > circulating Delta variant."  
 
 That's probably 60% or more of the US population, with nearly every age 18+ person able to
-find some excuse or other.  For example, being overweight (25 &lt; BMI &le; 30) is on the
-list.  And we Americans tend to be pretty fat.  
+find some excuse or other.  For example, being overweight but not obese (25 &lt; BMI &le; 30)
+is on the 
+[list of medical conditions increasing COVID-19
+risk](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html).
+And we Americans tend to be pretty fat.  
 
 ---
 
