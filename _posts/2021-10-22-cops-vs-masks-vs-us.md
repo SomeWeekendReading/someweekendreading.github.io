@@ -131,7 +131,8 @@ Well, quite a few things, maybe?
 
 I mean&hellip; sure, it's brilliant and hilarious.  Also probably felony assault to use it on an
 unwilling subject.  And, given the hyper-military, hair-trigger police you're likely to
-encounter (good cops aside, of course), it's likely to get you _shot dead_.  
+encounter (good cops aside, of course), attempting to use it on a cop is likely to get you
+_shot dead_.  
 
 Another wonderful fantasy.  That's 3 fantasies in this post: firing NYPD cops who won't mask
 and react violently to being questioned, outsourcing policing to Canada, and now a mask
