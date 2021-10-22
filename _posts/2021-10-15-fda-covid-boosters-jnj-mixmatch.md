@@ -307,4 +307,4 @@ And we Americans tend to be pretty fat.
 
 <a id="fn8">8</a>: H Branswell, ["CDC advisory panel backs mix-and-match approach to Covid-19 vaccine boosters"](https://www.statnews.com/2021/10/21/moderna-jandj-booster-covid19-vaccine-cdc/), _STAT News_, 2021-Oct-21. [↩](#fn8a)  
 
-<a id="fn9">9</a>: CDC Staff, ["ACIP Presentation Slides: October 20-21, 2021 Meeting (COVID-19 subset on 2021-Oct-21)"](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-10-20-21.html#covid-19), __CDC ACIP Home, meeting materials, 2021-Oct-21. [↩](#fn9a)  
+<a id="fn9">9</a>: CDC Staff, ["ACIP Presentation Slides: October 20-21, 2021 Meeting (COVID-19 subset on 2021-Oct-21)"](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-10-20-21.html#covid-19), __CDC ACIP Home_, meeting materials, 2021-Oct-21. [↩](#fn9a)  
