@@ -182,4 +182,4 @@ think of themselves.
 
 <a id="fn7">7</a>: A Pan, ["Shooting Masks onto People's Faces"](https://www.youtube.com/watch?v=pa6BlJlrL-k), _YouTube_ channel "Sufficiently Advanced", 2020-Aug-15.  [↩](#fn7a)  
 
-<a id="fn8">8</a>: J Duane, ["Don't Talk to the Police"](https://www.youtube.com/watch?v=d-7o9xYp7eE), _YouTube_ channel of the Regent University School of Law, 2012-Mar-20. [↩](#fn8a)  
+<a id="fn8">8</a>: J Duane, ["Don't Talk to the Police"](https://www.youtube.com/watch?v=d-7o9xYp7eE), _YouTube_ channel of the Regent University School of Law, 2012-Mar-20. Yeah, ok: Regent University.  I don't have much good to say about them, maybe nothing.  But his advice struck a chord with me.  Maybe it's a special-case, one-time thing, but still&hellip; [↩](#fn8a)  
