@@ -51,7 +51,7 @@ another viewpoint:
     <a href="https://t.co/mqABCt8hdU">pic.twitter.com/mqABCt8hdU</a> 
   </p> &mdash; Exposing Dirty Cops In NYC (@Copwatch_CPU) <a href="https://twitter.com/Copwatch_CPU/status/1450552892532928515?ref_src=twsrc%5Etfw">October 19, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 <img src="{{ site.baseurl }}/images/2021-10-22-cops-vs-masks-vs-us-pharyngula.jpg" width="400" height="240" alt="PZ Myers: Bad cops fail at risk assessment (and citizenship)" title="PZ Myers: Bad cops fail at risk assessment (and citizenship)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Reaction was swift, and universally negative.  For example,
@@ -62,16 +62,16 @@ unsurprising that citizens resist this.
 Of course we understand that cops feel threatened.  They are just _massively confused_
 about what the real threat is: while their unions are busy resisting mask mandates, the
 main cause of police deaths is COVID-19.  More than gunshot, more than anything.
-Resisting vaccination and resisting masks is _just stupid_.  Resisting even _talking_ to a
+Resisting vaccination and resisting masks is just _stupid_.  Resisting even talking to a
 citizen who asks them about masks is _vicious and stupid_.  
 
-Yes, "not all cops".  But the good ones need to reign in the rest.  If they don't they're
+Yes, "not all cops".  But the good ones need to reign in the rest.  If they don't, they're
 complicit.  
 
 <img src="{{ site.baseurl }}/images/2021-10-22-cops-vs-masks-vs-us-nydn-2.jpg" width="400" height="310" alt="Cops disciplined, sort of, for mask refusal and forcible ejection from subway" title="Cops disciplined, sort of, for mask refusal and forcible ejection from subway" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 NYPD Commissioner Dermot Shea described this as "absolutely inexcusable", and Mayor de
-Blasio said it was completely "unacceptable": <sup id="fn4a">[[4]](#fn4)</sup>  
+Blasio said it was completely "unacceptable" <sup id="fn4a">[[4]](#fn4)</sup>:  
 
 > We’ve given this instruction a thousand times — if you’re going to be in law
 > enforcement, you actually have to participate in following the law.  
@@ -95,23 +95,24 @@ numbers:
 $$
 \begin{align*}
 \mbox{COVID-19 to guns risk ratio} &= \frac{476 \mbox{ COVID-19 deaths}}{94\mbox{ gun deaths}} \\
-                                   &= 5.064
+                                   &= 5.064\mbox{ COVID-19 deaths/gun death}
 \end{align*}
 $$
 
 So: if you're a cop, you're entitled to worry about your safety, but why then does your
-union resist vaccination mandates and masking when
+union resist vaccination mandates and masking against COVID-19 when
 _that's clearly the thing that is most likely to kill you?!_  
 
 <img src="{{ site.baseurl }}/images/2021-10-22-cops-vs-masks-vs-us-reuters.jpg" width="400" height="205" alt="Reuters: Cops not vaxed by Nov 30 put on unpaid leave" title="Reuters: Cops not vaxed by Nov 30 put on unpaid leave" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
-How can it be done better?  Look no further than our wonderful neighbor to the north,
-Canada.  Reuters reports that Toronto police who are unvaccinated by November 30 will be
-placed on unpaid leave. <sup id="fn6a">[[6]](#fn6)</sup>  That's how a civilized people
-behave.  
+How can we do better?  
+
+Look no further than our wonderful neighbor to the north, Canada.  Reuters reports that
+Toronto police who are unvaccinated by November 30 will be placed on unpaid 
+leave. <sup id="fn6a">[[6]](#fn6)</sup>  _That's_ how civilized peoples behave.  
 
 A fantasy thought: could we subcontract our policing to Canada?  I mean, yeah, probably not&hellip;
-but let me dream for a moment.  
+but let me dream for a moment here, ok?  
 
 
 ## A less realistic response  
@@ -128,7 +129,7 @@ In their words:
 
 Well, quite a few things, maybe?  
 
-I mean&hellip; it's brilliant and hilarious.  Also probably felony assault to use it on an
+I mean&hellip; sure, it's brilliant and hilarious.  Also probably felony assault to use it on an
 unwilling subject.  And, given the hyper-military, hair-trigger police you're likely to
 encounter (good cops aside, of course), it's likely to get you _shot dead_.  
 
