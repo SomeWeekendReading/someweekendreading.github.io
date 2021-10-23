@@ -111,6 +111,8 @@ Look no further than our wonderful neighbor to the north, Canada.  Reuters repor
 Toronto police who are unvaccinated by November 30 will be placed on unpaid 
 leave. <sup id="fn6a">[[6]](#fn6)</sup>  _That's_ how civilized peoples behave.  
 
+Maybe the US cops who refuse vaccination are precisely the ones we want to be rid of?  
+
 A fantasy thought: could we subcontract our policing to Canada?  I mean, yeah, probably not&hellip;
 but let me dream for a moment here, ok?  
 
