@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cops vs Us&colon; Mask Edition
+title: Cops vs The Rest of Us&colon; Mask Edition
 tags: COVID Politics
 comments: true
 ---
