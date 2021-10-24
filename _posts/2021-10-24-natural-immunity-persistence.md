@@ -11,7 +11,7 @@ What are the consequences of relying on 'natural' immunity after recovery from C
 ## What happens if you perpetually refuse vaccination?  
 
 First of all, if you are unvaccinated, _you will get COVID-19_, most likely the Delta
-variant.  This is unavoidable, and sometimes unsurvivable or only with long-term
+variant.  This is unavoidable, and sometimes unsurvivable or only survivable with long-term
 debilitating consequences.  
 
 But then what would happen after that?  Would you then be immune?  
@@ -46,7 +46,8 @@ The disturbing thing, of course, is in the delusional replies to this:
 - Vaccinees have taken the [Mark of the Beast](https://en.wikipedia.org/wiki/Number_of_the_beast),
   which ends in the [lake of fire](https://en.wikipedia.org/wiki/Lake_of_fire#Book_of_Revelation).  
 - Vaccinees should shut up and leave the unvaccinated alone.  
-- Vaccinees are simply too afraid of COVID, and should instead "build up" their immunity.  
+- Vaccinees are simply too afraid of COVID, and should instead "build up" their immunity
+  (as if that's not what vaccination _does_).  
 
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-yale.jpg" width="400" height="257" alt="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" title="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-lancet.jpg" width="400" height="164" alt="Lancet: durability of immunity against reinfection by SARS-CoV-2" title="Lancet: durability of immunity against reinfection by SARS-CoV-2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -62,8 +63,9 @@ Hmm&hellip; let's suppose that you do this dumb thing, avoiding vaccination.  Le
 suppose that as you keep getting COVID-19 over and over, the mortality rate creeps
 up a bit because it's wearing you down.  It's varying over time and in different places
 <sup id="fn4a">[[4]](#fn4)</sup>, ranging from a few tenths of a percent to double digit
-percents.  So let's say 3% over many cycles of re-infection.  How bad can it get?  Pretty
-bad:  
+percents.  So let's say 3% mortality for you, averaged over many cycles of re-infection.  
+
+How bad can it get?  Pretty bad:  
 
 ```R
 > 0.97^9
@@ -72,7 +74,15 @@ bad:
 
 That means: after 9 cycles of infection &ndash; just 13.5 years &ndash; _25% of you are dead!_  
 
-That&hellip; is a poor survival strategy.  
+Is that a lot?  Why, yes.  Yes, it is:  
+- About 1/4 of the US population seem to be vaccine refuseniks for now, although as mandates
+  take hold that will go down to the really hard core.  Let's say 15% of US residents are
+  hardcore vaccine refusers.  
+- If one quarter of those vaccine refusers die within 13.5 years, that's about 15% /4 =
+  about 4% of the entire US.  
+- There are 330 million people in the US, so 4% of that is _13.2 million dead in 13.5 years!_  
+
+That&hellip; is a _poor survival strategy._  
 
 
 ## The Weekend Conclusion  
