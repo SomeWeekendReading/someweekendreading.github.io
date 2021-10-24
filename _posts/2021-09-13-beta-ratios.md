@@ -358,7 +358,7 @@ $$
 ### Moments of the ratio, including the mean  
 
 We can also directly calculate the moments of $R$ (where the 1st moment is of course the
-familiar mean).  We do this not by heroic integratoin against the distribution above, but
+familiar mean).  We do this not by heroic integration against the distribution above, but
 from the properties of the Beta-distributed $p_1, p_2$ that go into the ratio $R$.  
 Because $p_1$ and $p_2$ are statistically independent, the moment integral factors into 2
 separate pieces:  
@@ -418,6 +418,8 @@ moment, and the case $k = 1$ gives us the mean of the ratio distribution:
 $$
 E\left[R\right] = \frac{\alpha_1}{\alpha_1 + \beta_1} \cdot \frac{\alpha_2 + \beta_2 - 1}{\alpha_2 - 1}
 $$
+
+<!-- *** Do 2nd moment, and then calculate std dev sqrt(E[R^2] - E[R]^2) -->
 
 (__NB:__ The median is a bit more interesting than the mean when the distribution is highly skewed,
 but we couldn't figure out a closed form result for the median.  We'll just have to be satisfied with
