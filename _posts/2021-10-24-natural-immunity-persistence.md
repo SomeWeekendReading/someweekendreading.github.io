@@ -30,7 +30,7 @@ zoonotic re-infections in humanity more or less forever.
 
 So&hellip; alternative (a), boosters, is the likely future.  
 
-That's why I was struck by this (_NB:_ "MI" = myocardial infarction, basically a heart attack;
+That's why I was struck by this (__NB:__ "MI" = myocardial infarction, basically a heart attack;
 "PE" = pulmonary embolism, clotting in the lung that's often instanty fatal):  
 
 <blockquote class="twitter-tweet">
@@ -43,12 +43,14 @@ That's why I was struck by this (_NB:_ "MI" = myocardial infarction, basically a
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-The disturbing thing, of course, is in the delusional replies to this:  
-- Vaccinees have taken the [Mark of the Beast](https://en.wikipedia.org/wiki/Number_of_the_beast),
-  which ends in the [lake of fire](https://en.wikipedia.org/wiki/Lake_of_fire#Book_of_Revelation).  
-- Vaccinees should shut up and leave the unvaccinated alone.  
-- Vaccinees are simply too afraid of COVID, and should instead "build up" their immunity
-  (as if that's not what vaccination _does_).  
+The disturbing thing, of course, is in the delusional replies that crawled out of the woodwork:  
+- vaccinees have taken the [Mark of the Beast](https://en.wikipedia.org/wiki/Number_of_the_beast),
+  which ends in the [lake of fire](https://en.wikipedia.org/wiki/Lake_of_fire#Book_of_Revelation),
+  or  
+- vaccinees should shut up and leave the unvaccinated alone, or  
+- vaccinees are simply too afraid of COVID, and should instead "build up" their immunity
+  (except that's what vaccination _does_), or  
+- I just can't bear to read any more.  
 
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-yale.jpg" width="400" height="257" alt="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" title="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-lancet.jpg" width="400" height="164" alt="Lancet: durability of immunity against reinfection by SARS-CoV-2" title="Lancet: durability of immunity against reinfection by SARS-CoV-2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -64,7 +66,7 @@ Hmm&hellip; let's suppose that you do this dumb thing, avoiding vaccination.  Le
 suppose that as you keep getting COVID-19 over and over, the mortality rate creeps
 up a bit because it's wearing you down.  It's varying over time and in different places
 <sup id="fn4a">[[4]](#fn4)</sup>, ranging from a few tenths of a percent to double digit
-percents.  So let's say 3% mortality for you, averaged over many cycles of re-infection.  
+percents.  So let's _guess_ 3% mortality for you, averaged over many cycles of re-infection.  
 
 How bad can it get?  Pretty bad:  
 
@@ -82,7 +84,7 @@ Why, yes.  Yes, it is:
   take hold that will go down to the really hard core.  Let's say 15% &ndash; 16% of US
   residents are hardcore vaccine refusers.  
 - If one quarter of those vaccine refusers die within 13.5 years from repeated COVID-19
-  infection, that's about 16% /4 = about 4% of the entire US dead.  
+  infection, that's about 16% / 4 = about 4% of the entire US dead.  
 - There are 330 million people in the US, so 4% of that is _13.2 million dead in 13.5 years!_  
 
 That is a&hellip; _poor survival strategy._  
