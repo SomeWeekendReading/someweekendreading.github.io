@@ -52,7 +52,8 @@ The disturbing thing, of course, is in the delusional replies to this:
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-lancet.jpg" width="400" height="164" alt="Lancet: durability of immunity against reinfection by SARS-CoV-2" title="Lancet: durability of immunity against reinfection by SARS-CoV-2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The Tweet's author is referring to this article by Kinsella in the _Yale Daily News_. <sup id="fn2a">[[2]](#fn2)</sup> Townsend, _et al._ at the Yale School of Public Health <sup id="fn3a">[[3]](#fn3)</sup> used _actual_ close relatvies of SARS-CoV-2 (classic SARS, MERS, and a couple other human coronaviruses for a total of around 6 viruses) to estimate the duration of 'natural' immunity for unvaccinated people:  
 - At 3 months, there's about 5% chance of reinfection.  
-- At 17 months, there's a 50% chance.  
+- At 17 months, there's a _50% chance of reinfection_, i.e., you should, on average, to be
+  reinfected by this point at 1.5 years after your first infection.  
 
 __Conclusion:__ If you refuse vaccination, you should expect to get COVID-19 about every
 1.5 years, or a bit less.  
