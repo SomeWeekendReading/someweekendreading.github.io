@@ -103,5 +103,4 @@ Don't do that.  Get vaccinated.
 
 <a id="fn3">3</a>: JT Townsend _et al.,_ ["The durability of immunity against reinfection by SARS-CoV-2: a comparative evolutionary study"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00219-6/fulltext), _The Lancet Microbe_, 2021-Oct-01.  DOI: [10.1016/S2666-5247(21)00219-6](https://doi.org/10.1016/S2666-5247(21)00219-6). [↩](#fn3a)  
 
-<a id="fn4">4</a>: MN Hasan, _et al._, ["The Global Case-Fatality Rate of COVID-19 Has Been Declining Since May 2020"](https://www.ajtmh.org/view/journals/tpmd/104/6/article-p2176.xml), _Am J Tropical Med &amp; Hygiene_ 104:6, pp 2176-2184, 2021.  DOI: [10.4269/ajtmh.20-1496](https://doi.org/10.4269/ajtmh.20-1496) [↩](#fn4a)  
-
+<a id="fn4">4</a>: MN Hasan, _et al._, ["The Global Case-Fatality Rate of COVID-19 Has Been Declining Since May 2020"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8176487/), _Am J Tropical Med &amp; Hygiene_ 104:6, pp 2176-2184, 2021.  PMID: [33882025](https://www.ncbi.nlm.nih.gov/pubmed/33882025), DOI: [10.4269/ajtmh.20-1496](https://doi.org/10.4269/ajtmh.20-1496) [↩](#fn4a)  
