@@ -76,10 +76,10 @@ That means: after 9 cycles of infection &ndash; just 13.5 years &ndash; _25% of 
 
 Is that a lot?  Why, yes.  Yes, it is:  
 - About 1/4 of the US population seem to be vaccine refuseniks for now, although as mandates
-  take hold that will go down to the really hard core.  Let's say 15% of US residents are
-  hardcore vaccine refusers.  
-- If one quarter of those vaccine refusers die within 13.5 years, that's about 15% /4 =
-  about 4% of the entire US.  
+  take hold that will go down to the really hard core.  Let's say 15% &ndash; 16% of US
+  residents are hardcore vaccine refusers.  
+- If one quarter of those vaccine refusers die within 13.5 years from repeated COVID-19
+  infection, that's about 16% /4 = about 4% of the entire US dead.  
 - There are 330 million people in the US, so 4% of that is _13.2 million dead in 13.5 years!_  
 
 That&hellip; is a _poor survival strategy._  
