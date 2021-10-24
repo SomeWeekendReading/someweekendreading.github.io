@@ -30,7 +30,8 @@ zoonotic re-infections in humanity more or less forever.
 
 So&hellip; alternative (a), boosters, is the likely future.  
 
-That's why I was struck by this:  
+That's why I was struck by this (_NB:_ "MI" = myocardial infarction, basically a heart attack;
+"PE" = pulmonary embolism, clotting in the lung that's often instanty fatal):  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -74,7 +75,9 @@ How bad can it get?  Pretty bad:
 
 That means: after 9 cycles of infection &ndash; just 13.5 years &ndash; _25% of you are dead!_  
 
-Is that a lot?  Why, yes.  Yes, it is:  
+Is that a lot?  
+
+Why, yes.  Yes, it is:  
 - About 1/4 of the US population seem to be vaccine refuseniks for now, although as mandates
   take hold that will go down to the really hard core.  Let's say 15% &ndash; 16% of US
   residents are hardcore vaccine refusers.  
@@ -82,7 +85,7 @@ Is that a lot?  Why, yes.  Yes, it is:
   infection, that's about 16% /4 = about 4% of the entire US dead.  
 - There are 330 million people in the US, so 4% of that is _13.2 million dead in 13.5 years!_  
 
-That&hellip; is _a poor survival strategy._  
+That is a&hellip; _poor survival strategy._  
 
 
 ## The Weekend Conclusion  
