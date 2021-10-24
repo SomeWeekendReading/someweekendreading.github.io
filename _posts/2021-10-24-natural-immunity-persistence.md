@@ -97,7 +97,7 @@ Don't do that.  Get vaccinated.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: T Prince, _et al._, ["SARS-CoV-2 Infections in Animals: Reservoirs for Reverse Zoonosis and Models for Study"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/), _Viruses_ 13:3, p 494, 2021-Mar-07. PMID: [33802857](https://www.ncbi.nlm.nih.gov/pubmed/33802857), DOI: [10.3390/v13030494](https://dx.doi.org/10.3390/v13030494) [↩](#fn1a)  
+<a id="fn1">1</a>: T Prince, _et al._, ["SARS-CoV-2 Infections in Animals: Reservoirs for Reverse Zoonosis and Models for Study"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/), _Viruses_ 13:3, p 494, 2021-Mar-07. PMID: [33802857](https://www.ncbi.nlm.nih.gov/pubmed/33802857/), DOI: [10.3390/v13030494](https://dx.doi.org/10.3390/v13030494) [↩](#fn1a)  
 
 <a id="fn2">2</a>: A Kinsella, ["COVID-19 reinfection is likely among unvaccinated individuals, Yale study finds"](https://yaledailynews.com/blog/2021/10/07/covid-19-reinfection-is-likely-among-unvaccinated-individuals-yale-study-finds/), _Yale Daily News_, 2021-Oct-07. [↩](#fn2a)  
 
