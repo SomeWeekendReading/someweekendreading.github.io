@@ -14,7 +14,7 @@ First of all, if you are unvaccinated, _you will get COVID-19_, most likely the 
 variant.  This is unavoidable, and sometimes unsurvivable or only with long-term
 debilitating consequences.  
 
-But then what happens after that?  Are you now immune?  
+But then what would happen after that?  Would you then be immune?  
 
 We'd love to believe that immunity is more or less life-long, as with measles.  But
 coronaviruses are unrelated to measles viruses, so there's really no reason to expect
@@ -22,13 +22,13 @@ that.
 
 Immunity may fade with time, which means either: (a) we need periodic boosters, probably
 annually, or (b) we have to be really aggressive about vaccinating _every single human
-being_ until we eradicate COVID-19 like we've eradicated smallpox.  Unfortunately,
-SARS-CoV2 is present in many animal reservoirs now. <sup id="fn1a">[[1]](#fn1)</sup>
-Unless we're going to vaccinate all the wild, farmed, and domestic animals in the world,
-that reservoir is going to keep on causing zoonotic re-infections in humanity more or less
-forever.  
+being_ until we eradicate COVID-19 like we've eradicated smallpox.  Unfortunately, unlike
+smallpox which is human-specific, SARS-CoV2 is present in many animal reservoirs 
+now. <sup id="fn1a">[[1]](#fn1)</sup> Unless we're going to vaccinate all the wild,
+farmed, and domestic animals in the world, that reservoir is going to keep on causing
+zoonotic re-infections in humanity more or less forever.  
 
-So&hellip; (a), boosters, is the likely future.  
+So&hellip; alternative (a), boosters, is the likely future.  
 
 That's why I was struck by this:  
 
@@ -46,23 +46,24 @@ The disturbing thing, of course, is in the delusional replies to this:
 - Vaccinees have taken the [Mark of the Beast](https://en.wikipedia.org/wiki/Number_of_the_beast),
   which ends in the [lake of fire](https://en.wikipedia.org/wiki/Lake_of_fire#Book_of_Revelation).  
 - Vaccinees should shut up and leave the unvaccinated alone.  
-- Vaccinees are simply to afraid of COVID, and should instead build up their immune systems.  
+- Vaccinees are simply too afraid of COVID, and should instead "build up" their immunity.  
 
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-yale.jpg" width="400" height="257" alt="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" title="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-lancet.jpg" width="400" height="164" alt="Lancet: durability of immunity against reinfection by SARS-CoV-2" title="Lancet: durability of immunity against reinfection by SARS-CoV-2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The Tweet's author is referring to this article by Kinsella in the _Yale Daily News_. <sup id="fn2a">[[2]](#fn2)</sup> Townsend, _et al._ at the Yale School of Public Health <sup id="fn3a">[[3]](#fn3)</sup> used _actual_ close relatvies of SARS-CoV-2 (classic SARS, MERS, and a couple other human coronaviruses for a total of around 6 viruses) to estimate the duration of 'natural' immunity for unvaccinated people:  
 - At 3 months, there's about 5% chance of reinfection.  
 - At 17 months, there's a _50% chance of reinfection_, i.e., you should, on average, to be
-  reinfected by this point at 1.5 years after your first infection.  
+  reinfected by this point about 1.5 years after your first infection.  
 
-__Conclusion:__ If you refuse vaccination, you should expect to get COVID-19 about every
-1.5 years, or a bit less.  
+__Conclusion:__ If you refuse vaccination, you should expect on average to get COVID-19
+_again_, about every 1.5 years or a bit less, for the rest of your life.  
 
-Hmm&hellip; let's suppose that you do this dumb thing, avoiding vaccination.  Furthermore,
-let's suppose that as you keep getting COVID-19 over and over, the mortality rate creeps
-up because it's wearing you down.  It's varying over time and in different places
+Hmm&hellip; let's suppose that you do this dumb thing, avoiding vaccination.  Let us further
+suppose that as you keep getting COVID-19 over and over, the mortality rate creeps
+up a bit because it's wearing you down.  It's varying over time and in different places
 <sup id="fn4a">[[4]](#fn4)</sup>, ranging from a few tenths of a percent to double digit
-percents.  So let's say 3% over many cycles of re-infection.  
+percents.  So let's say 3% over many cycles of re-infection.  How bad can it get?  Pretty
+bad:  
 
 ```R
 > 0.97^9
