@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Natural' Immunity Persistence vs COVID-19?
+title: 'Natural' Immunity Persistence vs COVID-19
 tags: COVID Politics Statistics
 comments: true
 ---
