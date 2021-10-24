@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Persistence of 'Natural' Immunity to COVID-19
+title: The Persistence of 'Natural' Immunity vs COVID-19?
 tags: COVID Politics Statistics
 comments: true
 ---
@@ -76,7 +76,7 @@ That&hellip; is a poor survival strategy.
 
 ## The Weekend Conclusion  
 
-We already know that although 'natural' immunity conveys some protection, 
+We already know that although 'natural' immunity conveys some protection,
 [vaccination induces stronger antibody levels](https://www.someweekendreading.blog/vax-better/).
 Now we see the consequences: 25% of vaccine refusers dead within 13.5 years, based on
 comparison with the most closely related human-infecting coronaviruses.  
