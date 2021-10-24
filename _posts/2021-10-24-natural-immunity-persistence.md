@@ -81,7 +81,7 @@ We already know that although 'natural' immunity conveys some protection,
 Now we see the consequences: 25% of vaccine refusers dead within 13.5 years, based on
 comparison with the most closely related human-infecting coronaviruses.  
 
-Don't do that.  Get vaccinated.  
+Don't do that.  Get vaccinated.  You should live, and not die.  
 
 ---
 
