@@ -82,7 +82,7 @@ Is that a lot?  Why, yes.  Yes, it is:
   infection, that's about 16% /4 = about 4% of the entire US dead.  
 - There are 330 million people in the US, so 4% of that is _13.2 million dead in 13.5 years!_  
 
-That&hellip; is a _poor survival strategy._  
+That&hellip; is _a poor survival strategy._  
 
 
 ## The Weekend Conclusion  
@@ -90,9 +90,10 @@ That&hellip; is a _poor survival strategy._
 We already know that although 'natural' immunity conveys some protection,
 [vaccination induces stronger antibody levels](https://www.someweekendreading.blog/vax-better/).
 Now we see the consequences: 25% of vaccine refusers dead within 13.5 years, based on
-comparison with the most closely related human-infecting coronaviruses.  
+comparison with the most closely related human-infecting coronaviruses.  13.2 million dead
+in the US in the next 13.5 years.  
 
-Don't do that.  Get vaccinated.  You should live, and not die.  
+Please don't do that.  Get vaccinated.  You should live, and not die.  
 
 ---
 
