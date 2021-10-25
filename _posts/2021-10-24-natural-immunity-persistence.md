@@ -28,7 +28,7 @@ now. <sup id="fn1a">[[1]](#fn1)</sup> Unless we're going to vaccinate all the wi
 farmed, and domestic animals in the world, that reservoir is going to keep on causing
 zoonotic re-infections in humanity more or less forever.  
 
-So&hellip; alternative (a), boosters, is the likely future.  
+So&hellip; alternative (a), periodic boosters, is the likely future.  
 
 That's why I was struck by this (__NB:__ "MI" = myocardial infarction, basically a heart attack;
 "PE" = pulmonary embolism, clotting in the lung that's often instanty fatal):  
@@ -50,7 +50,7 @@ The disturbing thing, of course, is in the delusional replies that crawled out o
 - vaccinees should shut up and leave the unvaccinated alone, or  
 - vaccinees are simply too afraid of COVID, and should instead "build up" their immunity
   (except that's what vaccination _does_), or  
-- I just can't bear to read any more.  
+- &hellip; I just can't bear to read any more replies.  
 
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-yale.jpg" width="400" height="257" alt="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" title="Yale Daily News: COVID-19 reinfections every 1.5 years without vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-24-natural-immunity-persistence-lancet.jpg" width="400" height="164" alt="Lancet: durability of immunity against reinfection by SARS-CoV-2" title="Lancet: durability of immunity against reinfection by SARS-CoV-2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
