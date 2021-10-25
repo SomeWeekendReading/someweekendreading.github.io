@@ -185,6 +185,6 @@ _everybody_ should mask up again.
 
 <a id="fn4">4</a>: O Darcy, ["White House frustrated with 'hyperbolic' and 'irresponsible' Delta variant coverage, sources say"](https://www.cnn.com/2021/07/30/media/variant-media-coverage-white-house/index.html), _CNN Businesss_, 2021-Aug-02. [↩](#fn4a)  
 
-<a id="fn5">4</a>: Authors redacted, ["Improving comunications around vaccine breakthrough and vaccine effectiveness"]({{ site.baseurl }}/assets/2021-08-04-vaccine-delta-cdc-internal-presentation-2021-jul-29.pdf), 2021-Jul-29.  Originally obtained by the _Washington Post_. [↩](#fn5a)  
+<a id="fn5">5</a>: Authors redacted, ["Improving comunications around vaccine breakthrough and vaccine effectiveness"]({{ site.baseurl }}/assets/2021-08-04-vaccine-delta-cdc-internal-presentation-2021-jul-29.pdf), 2021-Jul-29.  Originally obtained by the _Washington Post_. [↩](#fn5a)  
 
 <a id="fn6">6</a>: O Gonzalez &amp; D Alberti, ["Chart: Less than 0.1% of vaccinated Americans tested positive for COVID-19"](https://www.axios.com/chart-vaccinated-americans-delta-covid-cases-b93710e3-cfc1-4248-9c33-474b00947a90.html), _Axios_, 2021-Jul-31. [↩](#fn6a)  
