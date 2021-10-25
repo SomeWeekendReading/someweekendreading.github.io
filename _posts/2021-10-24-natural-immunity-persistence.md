@@ -93,6 +93,14 @@ That is a&hellip; _poor survival strategy._
 
 ## The Weekend Conclusion  
 
+Now, you can fiddle with the numbers in that simple model if you like.  Maybe the
+mortality rate from repeated COVID-19 reinfection is lower than 3%, or higher.  Maybe the
+hardcore vaccine defiant fraction of the population will be less than 16%, or maybe
+higher.  The final numbers will of course vary.  
+
+But the point is not to fixate on the number of needless deaths.  The point is, however:
+the number is large, and it is _needless._  __We don't need to die like that.__  
+
 We already know that although 'natural' immunity conveys some protection,
 [vaccination induces stronger antibody levels](https://www.someweekendreading.blog/vax-better/).
 Now we see the consequences: 25% of vaccine refusers dead within 13.5 years, based on
