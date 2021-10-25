@@ -31,16 +31,16 @@ haruspication.  Or words to that effect.
 ## Using GitHub as Content Management System and GitHub Pages as Host  
 
 As you can see from the orange &amp; white "merit badges" at the bottom of each page, this
-blog is hosted at GitHub.  (And cares so much about HTML & CSS correctness that you can
-check it against the canonical validators for yourself.)  
+blog is hosted at GitHub.  (Also this blog cares so much about HTML & CSS correctness that
+you can check it for yourself against the canonical HTML, CSS, and hyperlink validators.)  
 
 GitHub's worked out more or less fine for me.  If you're not comfortable with software
-tools, though, it's probably not for you and you'd like WordPress better.  
+tools, though, it's probably _not_ for you and you'd like WordPress better.  
 
-For those of you asking, "Why not just use WordPress like everybody else?"&hellip; I
+For those of you asking, "Why not just use WordPress like everybody else?"  Mostly, I
 wanted to have finer control over things, use the absolute bare minimum of icky, intrusive
 Javascript, and be relatively robust against the various WordPress hacks.  I'm willing to
-pay a significant price of effort in figuring out how to do lots of things (like how to
+pay a significant price of time &amp; effort in figuring out how to do lots of things (like how to
 get comments to work with [StaticMan](https://staticman.net/)).  I haven't yet _used_ much
 of that fine control, e.g., to style the front page, but I will in the by-and-by, perhaps
 imitating the [MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/) theme for
@@ -55,7 +55,7 @@ the repository I have on my laptop, since that's sufficient for now:
 - All the comments are in [yaml](https://yaml.org/) files in a directory called
   `_data/comments`.  
 
-That means I can use even just _elementary_ command-line tools to collect statistics about
+That means I can use even just _elementary_ Unix command-line tools to collect statistics about
 posts and comments.  For example, to count the number of posts:  
 
 ```sh
@@ -65,8 +65,8 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
 
 I started this blog with the goal to have fun writing; that's been achieved.  
 
-It was specifically _not_ a goal to be monetized or become an "influencer" with a huge
-following.  I suspect that has also been successfuly avoided; this is, after all, just a
+It was specifically _not_ a goal to be monetized or to become an "influencer" with a huge
+following.  I suspect both of those have also been successfuly avoided; this is, after all, just a
 crummy little blog that nobody reads.  
 
 Let's see how the numbers say we've been doing.
@@ -85,15 +85,15 @@ $ find ./_posts -iname "*.md" -a -type f -a -print | wc -l
   
   <img src="{{ site.baseurl }}/images/2021-10-20-state-of-blog-1yr-github-1.jpg" width="400" height="132" alt="GitHub: Number of pull requests (submitted comments)" title="GitHub: Number of pull requests (submitted comments)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
   Comments are done in a way that a remote process creates a branch with your comment and
-  a pull request, asking me if I
-  want to merge your comment or delete it.  Since pull requests here aren't used for
-  anything else, the number of pull requests is the number of comments submitted.  Go to
-  the `Pull requests` tab, set the filter to just `is:pr`, and see that there have been
-  281 pull requests submitted since the fiat blog event (all currently closed).  
+  a pull request to ask me if I want to merge your comment or delete it.  Since pull
+  requests here aren't used for anything else, the number of pull requests is the number
+  of comments submitted.  Go to   the `Pull requests` tab, set the filter to just `is:pr`,
+  and see that there have been 281 pull requests submitted since the fiat blog event (all
+  currently closed).  
 - __Number of accepted comments:__ There are several possibly interesting numbers here: the
   total number of comments that made it past moderation, the ones from people who are not
-  me, and the ones from me (generally replies).  We are also interested in the number of 
-  _unique_ outside commentators (and who they are, but I'm not publishing that).  
+  me, and the ones from me (generally my replies to comments).  We are also interested in
+  the number of _unique_ outside commentators (and who they are, but I'm not publishing that).  
   - _Total accepted comments:_  
     ```sh
     $ find ./_data/comments/ -iname "*.yml" -a -type f -a -exec grep "^name: .*" \{\} \; | wc -l
@@ -136,7 +136,7 @@ We get a _lot_ of spam here:
   illegal drugs on the blog of a retired drug researcher.  That's&hellip; _special_.  
 - Then there were people trying to sell term papers for college students.  I wonder if
   they know every professor in the developed world has software to spot that sort of
-  plagiarism?  Or if they just thought their dumb student customers didn't know that, and
+  plagiarism?  Or if they just thought their dumb student customers _didn't_ know that, and
   they were willing to tank their customer's education?  Either way&hellip; ick.  
 - There was a surprisingly small amount of attempted porn advertising.  
 - Then suddenly, almost everything became Russian: invitations to participate in
@@ -182,8 +182,8 @@ Beta posterior is easy to calculate, too:
 [1] 82.8 87.2 90.9
 ```
 
-Thus the Bayesian posterior distribution of the spam/nasty probability has a median of
-87.2% (95% CL: 82.8% &ndash; 90.9%).  
+Thus the Bayesian posterior Beta distribution gives us an estimate of the probability of
+the spam/nastygram probability: median 87.2% (95% CL: 82.8% &ndash; 90.9%).  
 
 (I should probably write a script to do all that.  And another to collect all the page view
 counts into a table.)  
