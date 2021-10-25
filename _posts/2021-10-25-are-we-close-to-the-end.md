@@ -95,9 +95,8 @@ From the _NYT_ article:
 > wrong compared to other countries that have solved their supply, distribution and access
 > issues."  
 
-Think about that: "people's willingness to be vaccinated" is the only barrier.  
-
-As Dr. Tedros Adhanom Ghebreyesus of the WHO put it:  
+Think about that: "people's willingness to be vaccinated" is the only barrier.  As
+Dr. Tedros Adhanom Ghebreyesus of the WHO put it:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
