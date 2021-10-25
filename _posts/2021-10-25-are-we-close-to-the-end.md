@@ -5,7 +5,7 @@ tags: COVID Politics Statistics
 comments: true
 ---
 
-Well&hellip; are we?  
+Well&hellip; _are_ we?  
 
 
 ## What does it take?  
