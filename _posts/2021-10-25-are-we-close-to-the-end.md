@@ -64,8 +64,8 @@ enough by 18 months to be a problem.
 
 Now, it's not uniform in the US.  The miserable American South has remained mired in a
 political swamp of ivermectin and Republican propaganda.  The northeast has been pretty
-ok, but the best standout has been Puerto Rico with 73%, better even than New England.
-CNN reports that they are the most heavily vaccinated US
+ok.  But the best standout for vaccine performance has been Puerto Rico with 73%, better
+even than New England.  CNN reports that they are the most heavily vaccinated US
 region. <sup id="fn4a">[[4]](#fn4)</sup> So congratulations to sensible Puerto Ricans,
 along with
 [Native Americans, who are the most vaccinated US ethnic group]({{ site.baseurl }}/highest-vax-group-in-us/)!  
