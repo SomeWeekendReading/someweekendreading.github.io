@@ -5,7 +5,8 @@ tags: COVID Politics Statistics
 comments: true
 ---
 
-What are the consequences of relying on 'natural' immunity after recovery from COVID-19?  
+What are the consequences of relying on 'natural' immunity after recovery from COVID-19?
+Pretty grim, as it turns out.  
 
 
 ## What happens if you perpetually refuse vaccination?  
