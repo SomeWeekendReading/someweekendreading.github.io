@@ -49,7 +49,7 @@ purposes Portual has 87%.  Keep in mind that the Delta variant of SARS-CoV2 has 
 the immune fraction $h$ is:  
 
 $$
-h = 1 - \frac{1}{R_0} = 1 - \frac{1}{6.0 \mbox{ to } 7.0} = 83.3\% \mbox{ to } 85.7%
+h = 1 - \frac{1}{R_0} = 1 - \frac{1}{6.0 \mbox{ to } 7.0} = 83.3\% \mbox{ to } 85.7\%
 $$
 
 So Portugal has likely achieved herd immunity, barring even more virulent strains.  The US
@@ -77,7 +77,9 @@ From the _NYT_ article:
 > Social media has been "irresponsible" in dealing with unfounded rumors, he said, and the
 > United States has been "the poster child of a country that has not handled the messaging
 > about vaccines."  
+>  
 > &hellip;  
+>  
 > In countries like France, Italy and Canada, officials began requiring people to use
 > health passports to show proof of vaccination to enter many establishments, a move that
 > is credited with improving their vaccination efforts.  
