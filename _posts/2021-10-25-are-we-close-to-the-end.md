@@ -45,9 +45,13 @@ get COVID-19.
 
 This is why the pandemic drags on.  People refuse to take the safe, free, easily available
 routes to safety.  Today 57% of the US population is fully vaccinated.  For comparison
-purposes Portual has 87%.  Keep in mind that the Delta variant of SARS-CoV2 has an $R_0
-\sim 6.0 - 7.0$ <sup id="fn3a">[[3]](#fn3)</sup>, that means herd immunity happens when
-the immune fraction $h$ is:  
+purposes Portual has 87%.  
+
+Keep in mind that the Delta variant of SARS-CoV2 has an 
+$R_0 \sim 6.0 - 7.0$ <sup id="fn3a">[[3]](#fn3)</sup>.  That's&hellip; disturbingly large,
+though not as large as measles, which is terrifyingly large.  But with the COVID $R_0$,
+the usual simple models then tell us that herd immunity happens when the immune fraction
+$h$ is:  
 
 $$
 h = 1 - \frac{1}{R_0} = 1 - \frac{1}{6.0 \mbox{ to } 7.0} = 83.3\% \mbox{ to } 85.7\%
