@@ -31,6 +31,7 @@ How's _that_ going?
 
 <img src="{{ site.baseurl }}/images/2021-10-25-are-we-close-to-the-end-nyt-1.jpg" width="400" height="225" alt="NYT: Vaccination early leaders are now laggards" title="NYT: Vaccination early leaders are now laggards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-25-are-we-close-to-the-end-nyt-2.jpg" width="400" height="279" alt="NYT: anti-vax rally in NYC" title="NYT: anti-vax rally in NYC" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-08-04-vaccine-delta-cdc-15.jpg" width="400" height="226" alt="CDC slide 15: Mortality vs transmissibility for various viral diseases" title="CDC slide 15: Mortality vs transmissibility for various viral diseases" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Not so great, actually.  
 
 Yesterday in the _New York Times_ was a report that nations who were early leaders in
