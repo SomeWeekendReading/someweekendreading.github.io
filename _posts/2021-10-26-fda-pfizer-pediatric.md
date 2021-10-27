@@ -76,7 +76,7 @@ prediction of what they'll report for vaccine efficacy:
 
 $$
 \begin{align*}
-  VE &= 100\% \times \left(1 - \frac{\Pr\left(\mbox{infect} | \mbox{treatment}\right)}{\Pr\left(\mbox{infect} | \mbox{placebo}\right)}\right) \\
+  \mbox{VE} &= 100\% \times \left(1 - \frac{\Pr\left(\mbox{infect} | \mbox{treatment}\right)}{\Pr\left(\mbox{infect} | \mbox{placebo}\right)}\right) \\
      &= 100\% \times \left(1 - \frac{3/1518}{16/750}\right) \\
      &= 100\% \times \left(1 - \frac{0.00198}{0.0213}\right) \\
 	 &= 100\% \times \left(1 - 0.0930\right) \\
