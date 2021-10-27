@@ -40,7 +40,7 @@ Today is step 1.
 As has apparently become the pandemic custom of this crummy little blog that nobody reads,
 we will rely upon the formidable Helen Branswell and Matthew Herper of _STAT News_ to be
 our guides on this safari. <sup id="fn1a">[[1]](#fn1)</sup>  They're live-blogging the
-whole thing, and we'll tag along with them to ge an extra pair of eyes to point out the
+whole thing, and we'll tag along with them to get an extra pair of eyes to point out the
 more interesting sights along the way.  
 
 They've already done us one favor in their preamble, pointing out that there was an
@@ -101,8 +101,10 @@ Loading required package: ggplot2
 1 70.3731 97.10647
 ```
 
-So we predict they will report 90.7% vaccine efficacy, with a 95% confidence limit of
-70.4% &ndash; 97.1%, at least at a very na&iuml;ve level.  
+__Prediction:__ We predict they will report 90.7% vaccine efficacy, with a 95% confidence
+limit of 70.4% &ndash; 97.1%, at least at a very na&iuml;ve level (their confidence limit
+algorithm will be more sophisticated than this clunky one, and will take into account
+censorship effects as people drop out of the trial).  
 
 Better still, the vax kids had mild symptoms but the unvaxed kids had more pronounced
 fevers and other symptoms.  So, overall pretty good.  
