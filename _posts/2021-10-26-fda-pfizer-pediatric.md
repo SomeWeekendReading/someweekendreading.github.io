@@ -114,7 +114,7 @@ contains pretty much the things you'd expect:
 The discussion question that is supposed to determine what the committee recommends to the
 FDA is <sup id="fn5a">[[5]](#fn5)</sup>:  
 
-> <ul>October 26, 2021 VRBPAC Meeting Voting Question</ul>  
+> <u>October 26, 2021 VRBPAC Meeting Voting Question</u>  
 >  
 > Based on the totality of scientific evidence available, do the benefits of the
 > PfizerBioNTech COVID-19 Vaccine when administered as a 2-dose series (10 µg each dose, 3
@@ -330,6 +330,7 @@ So it's recommended to the FDA administrators for approval.
 
 But what was the abstention about?  
 
+<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 According to Helen Branswell, it was Michael Kurilla.  Recall
 [we previously noted that he abstained during the original Moderna approval hearing](https://www.someweekendreading.blog/moderna-vaccine-passes-vrbpac-review/#whats-the-sitch).
 In that case, he thought the EUA was a bit much, preferring an "extended access protocol"
