@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FDA VRBPAC Considers Pfizer COVID-19 Vacceine for Kids 5-11
+title: FDA VRBPAC Considers Pfizer COVID-19 Vaccine for Kids 5-11
 tags: COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
@@ -76,9 +76,9 @@ prediction of what they'll report for vaccine efficacy:
 
 $$
 \begin{align*}
-  VE &= 100\% \times \left(1 - \frac{Pr\(\mbox{infect} | \mbox{treatment}\)}{Pr\(\mbox{infect} | \mbox{placebo}\)}\right) \\
-     &= 100\% \times \left(1 - frac{3/1518}{16/750}\right) \\
-     &= 100\% \times \left(1 - frac{0.00198}{0.0213}\right) \\
+  VE &= 100\% \times \left(1 - \frac{\Pr\left(\mbox{infect} | \mbox{treatment}\right)}{\Pr\left(\mbox{infect} | \mbox{placebo}\right)}\right) \\
+     &= 100\% \times \left(1 - \frac{3/1518}{16/750}\right) \\
+     &= 100\% \times \left(1 - \frac{0.00198}{0.0213}\right) \\
 	 &= 100\% \times \left(1 - 0.0930\right) \\
 	 &= 90.7\% \sim 91\%
 \end{align*}
