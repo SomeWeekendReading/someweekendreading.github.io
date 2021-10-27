@@ -127,6 +127,6 @@ Please don't do that.  Get vaccinated.  You should live, and not die.
 
 <a id="fn2">2</a>: A Kinsella, ["COVID-19 reinfection is likely among unvaccinated individuals, Yale study finds"](https://yaledailynews.com/blog/2021/10/07/covid-19-reinfection-is-likely-among-unvaccinated-individuals-yale-study-finds/), _Yale Daily News_, 2021-Oct-07. [↩](#fn2a)  
 
-<a id="fn3">3</a>: JT Townsend _et al.,_ ["The durability of immunity against reinfection by SARS-CoV-2: a comparative evolutionary study"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00219-6/fulltext), _The Lancet Microbe_, 2021-Oct-01.  DOI: [10.1016/S2666-5247(21)00219-6](https://doi.org/10.1016/S2666-5247(21)00219-6). [↩](#fn3a)  
+<a id="fn3">3</a>: JP Townsend _et al.,_ ["The durability of immunity against reinfection by SARS-CoV-2: a comparative evolutionary study"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00219-6/fulltext), _The Lancet Microbe_, 2021-Oct-01.  DOI: [10.1016/S2666-5247(21)00219-6](https://doi.org/10.1016/S2666-5247(21)00219-6). [↩](#fn3a)  
 
 <a id="fn4">4</a>: MN Hasan, _et al._, ["The Global Case-Fatality Rate of COVID-19 Has Been Declining Since May 2020"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8176487/), _Am J Tropical Med &amp; Hygiene_ 104:6, pp 2176-2184, 2021.  PMID: [33882025](https://pubmed.ncbi.nlm.nih.gov/33882025/), DOI: [10.4269/ajtmh.20-1496](https://dx.doi.org/10.4269/ajtmh.20-1496) [↩](#fn4a)  
