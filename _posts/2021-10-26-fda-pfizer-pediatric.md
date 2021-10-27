@@ -276,9 +276,11 @@ immunogenicity (baseline, 1 month, and 6 months).
 
 The side effects were mostly fever, fatigue, and headache &ndash; about what we'd expect.
 There were SAEs reported, and were mostly what you'd also expect.  Interestingly, they
-also reported "upper arm fracture" and "ingestion of a foreign body": stuff that happens
-to kids, but unlikely to be vaccine related.  Remember in the Moderna trial, the guy
-who had to [report being struck by lightning?](https://www.someweekendreading.blog/moderna-struck-by-lightning/#3-saes-in-the-treatment-arm-of-the-moderna-trial)
+also reported "upper arm fracture" and "ingestion of a foreign body" (apparently a
+5-year-old swallowed a penny, which _has_ been known to happen&hellip;): stuff that
+happens to kids, but unlikely to be vaccine  related.  Remember in the Moderna trial, the
+guy who had to
+[report being struck by lightning?](https://www.someweekendreading.blog/moderna-struck-by-lightning/#3-saes-in-the-treatment-arm-of-the-moderna-trial)
 Yeah, like that.  
 
 But there was no anaphylaxis, no myocarditis (phew!), no Bell's palsy, etc.  
