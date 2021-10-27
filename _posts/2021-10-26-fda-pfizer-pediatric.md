@@ -385,7 +385,7 @@ The things on the horizon I'd like to see moving faster:
 - Full approval for Moderna and J&amp;J, to put them on an even footing with Pfizer and
   tamp down a bit on the paranoia and superstition of the resisters.  
   
-But for today&amp; it looks like it was a good day.  
+But for today&hellip; it looks like it was a good day.  
 
 ---
 
