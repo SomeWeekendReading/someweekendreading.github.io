@@ -301,9 +301,9 @@ confidence interval (just safety, and some notion of comparable efficacy).
 
 The corresponding Kaplan-Meier curves, shown here, are a thing of beauty just like the
 original clinical trial.  (About which
-[Randall Monroe cartooned in XKCD #2400](https://xkcd.com/2400/) &ndash; "statistics pro
-tip: always try to get data that's good enough that you don't need to do statistics to
-it".)  The red curve shows infections vs time in the placebo arm; the blue curve shows
+[Randall Monroe cartooned in XKCD #2400](https://xkcd.com/2400/) &ndash; "Statistics Pro
+Tip: Always try to get data that's good enough that you don't need to do statistics to
+it.")  The red curve shows infections vs time in the placebo arm; the blue curve shows
 infections vs time in the vaccine arm.  Clearly, the vaccine is working!  
 
 So, yeah&hellip; another tour de force for mRNA vaccines.  
@@ -325,12 +325,13 @@ for tracking events in bilogicals, showing how well it worked in the adult datas
 tracked adverse events in about 1/3 of the US population, and so on.  A red flag here
 would have been a disaster.  
 
-No red flags thrown down on the field.  Good.  
+No red flags thrown down on the field here.  Good.  
 
 
 ## Public comment period  
 
-It was the usual cesspool of paranoia and ignorance.  
+It was the usual cesspool of paranoia and ignorance.  I couldn't bear more than a few
+sentences of it.  
 
 
 ## The vote  
@@ -382,6 +383,7 @@ going to be any problem I can't see it from here.  (Other than, I wish this were
 Looks like you'll soon be able to vaccinate your kids!  
 
 The things on the horizon I'd like to see moving faster:  
+- Similar pediatric approvals for Moderna and J&amp; J.  
 - The last remaining age cohort: infant pediatric studies, i.e., ages 6 months up to 5
   years.  I believe these are still in clinical trials, but haven't really checked.  
 - Full approval for Moderna and J&amp;J, to put them on an even footing with Pfizer and
