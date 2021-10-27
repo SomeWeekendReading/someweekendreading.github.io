@@ -40,7 +40,7 @@ Today is step 1.
 As has apparently become the pandemic custom of this crummy little blog that nobody reads,
 we will rely upon the formidable Helen Branswell and Matthew Herper of _STAT News_ to be
 our guides on this safari. <sup id="fn1a">[[1]](#fn1)</sup>  They're live-blogging the
-whole thing, and we'll tag along with them to get an extra pair of eyes to point out the
+whole thing, and we'll tag along with them to get a couple extra pairs of eyes to point out the
 more interesting sights along the way.  
 
 They've already done us one favor in their preamble, pointing out that there was an
@@ -60,19 +60,21 @@ this that I sympathize with this view, when people deliberately try to sabotage 
 health.  
 
 For today, Pfizer tested doses of 10&mu;g, 20&mu;g, and 30&mu;g (the original dose for
-adults) in a dose-finding Phase 1 trial.  It's applying for EUA for the 10&mu;g dose ages
-5-11 as tested in a Phase 2/3 trial, and sticking with the 30&mu;g dose for 12 and older.
-Pfizer says that dose in ages 5-11 a vaccine efficacy (i.e., reduction in probability of
-infection compared to unvaccinated) of 91%.  As historical vaccines go, that's excellent.
-The issues will likely be (a) medical need, and (b) side effects in otherwise healthy
-children who aren't at huge COVID-19 risk anyway.  Let's hope the latter are just headache
-and mild fever.  
+adults) in a dose-finding Phase 1 trial.  They picked 10&mu;g and are today applying for
+EUA for the 10&mu;g dose ages 5-11 as tested in a Phase 2/3 trial, and sticking with the
+30&mu;g dose for 12 and older.  Pfizer says that dose in ages 5-11 a vaccine efficacy
+(i.e., reduction in probability of infection compared to unvaccinated) of 91%.  As
+historical vaccines go, that's excellent.  The issues will likely be (a) medical need, and
+(b) side effects in otherwise healthy children who aren't at huge COVID-19 risk anyway.
+Let's hope the latter are just headache and mild fever.  
 
 They compared 1518 kids in the treatment arm (3 got COVID-19) vs 750 in the placebo arm
-(16 got COVID-19), so it should be adequately powered to see reasonably-sized effects.
+(16 got COVID-19), so it should be adequately powered to see reasonably-sized effects (but
+_not_ rare events, like rare adverse events such as anaphylaxis). 
+
 Just a guess based on the numbers in each arm: I bet they did 2:1 randomization into the
 treatment vs placebo arms.  In fact, just from those 4 integers, we can do our own little
-prediction of what they'll report for vaccine efficacy:  
+prediction of what they'll report for vaccine efficacy:   
 
 $$
 \begin{align*}
@@ -214,7 +216,7 @@ clinically rare thing at all!
 Finally, she shows that COVID-19 is now the 8th leading cause of death of kids age 5-11.  
 
 I think we can now regard the case for epidemiological frequency and unmet medical need as
-having been established.  Thoroughly.  
+having been established.  _Thoroughly._  
 
 
 ## Myocarditis safety signals  
@@ -294,9 +296,9 @@ It worked on both the reference strain and the Delta strain.
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-pfizer-gruber-2.jpg" width="400" height="223" alt="Pfizer, Gruber: Beautiful Kaplan-Meier curve" title="Pfizer, Gruber: Beautiful Kaplan-Meier curve" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The main punchline we got out of it here at Chez Weekend was the vaccine efficacy: 90.7%
 (spot on with the quick hack we did above to guess the point estimate of the efficacy!),
-and with a 95% confidence limit of 67.7% &ndash; 98.3% (pretty close to our estimate above
-of 70.4% &ndash; 97.1%).  The confidence interval is much wider than the original
-clinical trial because of the number of subjects enrolled: about 2250 here, vs about
+and with a 95% confidence limit of 67.7% &ndash; 98.3% (only slightly wider than our
+estimate above of 70.4% &ndash; 97.1%).  The confidence interval is much wider than the
+original clinical trial because of the number of subjects enrolled: about 2250 here, vs about
 30,000 in the first trial.  That's typical once you know a medication is working in one
 population, to bridge to another population you don't need to re-establish a tight
 confidence interval (just safety, and some notion of comparable efficacy).  
@@ -306,7 +308,8 @@ original clinical trial.  (About which
 [Randall Monroe cartooned in XKCD #2400](https://xkcd.com/2400/) &ndash; "Statistics Pro
 Tip: Always try to get data that's good enough that you don't need to do statistics to
 it.")  The red curve shows infections vs time in the placebo arm; the blue curve shows
-infections vs time in the vaccine arm.  Clearly, the vaccine is working!  
+infections vs time in the vaccine arm.  Clearly, the vaccine is working and you don't need
+a fancy statistician to tell you that!  (Though, as it happens, one just did.)  
 
 So, yeah&hellip; another tour de force for mRNA vaccines.  
 
@@ -380,18 +383,20 @@ steps are:
 3. The CDC administrators have to agree and make the recommendation.  
 
 So far, the data looks excellent on both the safety and efficacy front, so if there's
-going to be any problem I can't see it from here.  (Other than, I wish this were faster?!)  
+going to be any problem I can't see it from here.  (Other than: I wish this whole process
+were faster?!)  
 
 Looks like you'll soon be able to vaccinate your kids!  
 
 The things on the horizon I'd like to see moving faster:  
 - Similar pediatric approvals for Moderna and J&amp; J.  
 - The last remaining age cohort: infant pediatric studies, i.e., ages 6 months up to 5
-  years.  I believe these are still in clinical trials, but haven't really checked.  
+  years, for all 3 vaccines.  I believe these are still in clinical trials, but haven't
+  really checked.  
 - Full approval for Moderna and J&amp;J, to put them on an even footing with Pfizer and
   tamp down a bit on the paranoia and superstition of the resisters.  
   
-But for today&hellip; it looks like it was a good day.  
+But for today&hellip; it looks like this was a good day.  
 
 ---
 
