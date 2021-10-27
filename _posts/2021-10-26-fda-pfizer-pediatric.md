@@ -84,7 +84,25 @@ $$
 \end{align*}
 $$
 
-So that certainly matches the claim of 91% vaccine efficacy, at least at a na&iuml;ve level.  
+We can also get a (very crude) estimate of the 95% confidence limits, using a scaled
+binomial model like the one
+[we used on the Israeli Simpson Paradox dataset](https://www.someweekendreading.blog/covid-simpson/#addendum-2021-sep-02-vaccine-efficacy-confidence-intervals):  
+
+```R
+> library("gsDesign")
+Loading required package: xtable
+Loading required package: ggplot2
+> NtrtInf <- 3
+> NcntInf <- 16
+> Ntrt    <- 1518
+> Ncnt    <- 750
+> 100.0 * (1 - rev(ciBinomial(NtrtInf, NcntInf, Ntrt, Ncnt, scale = "RR")))
+    upper    lower
+1 70.3731 97.10647
+```
+
+So we predict they will report 90.7% vaccine efficacy, with a 95% confidence limit of
+70.4% &ndash; 97.1%, at least at a very na&iuml;ve level.  
 
 Better still, the vax kids had mild symptoms but the unvaxed kids had more pronounced
 fevers and other symptoms.  So, overall pretty good.  
@@ -271,8 +289,9 @@ It worked on both the reference strain and the Delta strain.
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-pfizer-gruber-1.jpg" width="400" height="218" alt="Pfizer, Gruber: VE = 90.7% (95% CL: 67.7% &ndash; 98.3%)" title="Pfizer, Gruber: VE = 90.7% (95% CL: 67.7% &ndash; 98.3%)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-pfizer-gruber-2.jpg" width="400" height="223" alt="Pfizer, Gruber: Beautiful Kaplan-Meier curve" title="Pfizer, Gruber: Beautiful Kaplan-Meier curve" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The main punchline we got out of it here at Chez Weekend was the vaccine efficacy: 90.7%
-(spot on with the quick hack we did above to guess the result!), and with a 95% confidence
-limit of 67.7% &ndash; 98.3%.  The confidence interval is much wider than the original
+(spot on with the quick hack we did above to guess the point estimate of the efficacy!),
+and with a 95% confidence limit of 67.7% &ndash; 98.3% (pretty close to our estimate above
+of 70.4% &ndash; 97.1%).  The confidence interval is much wider than the original
 clinical trial because of the number of subjects enrolled: about 2250 here, vs about
 30,000 in the first trial.  That's typical once you know a medication is working in one
 population, to bridge to another population you don't need to re-establish a tight
@@ -330,7 +349,6 @@ So it's recommended to the FDA administrators for approval.
 
 But what was the abstention about?  
 
-<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 According to Helen Branswell, it was Michael Kurilla.  Recall
 [we previously noted that he abstained during the original Moderna approval hearing](https://www.someweekendreading.blog/moderna-vaccine-passes-vrbpac-review/#whats-the-sitch).
 In that case, he thought the EUA was a bit much, preferring an "extended access protocol"
@@ -339,6 +357,7 @@ access to the vaccine.  Seems like a bad idea to me, but at least he's consisten
 don't know if he was on the original Pfizer committee, because there was 1 abstention
 there, too.)  
 
+<img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Interestingly, [Kurilla also argued against the need for a mix-and-match EUA](https://www.someweekendreading.blog/fda-covid-boosters-jnj-mixmatch/#the-mix-and-match-clinical-trial),
 saying it wasn't necessary.  
 
