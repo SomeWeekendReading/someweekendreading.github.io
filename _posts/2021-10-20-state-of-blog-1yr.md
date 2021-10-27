@@ -227,9 +227,9 @@ note for the much bigger drop in July, so&hellip; I dunno.
 
 The search queries that got to us are kind of interesting, when sorted by what actually
 provoked a click-through:  
-- The first, second, and sixth place queries were "hank gren vaccine", "hank green covid
+- The first, second, and sixth place queries were "hank green vaccine", "hank green covid
   vaccine", and "hank green covid".  Clearly I need to blog more about internet-famous people
-  like Hank Green!  
+  like [Hank Green](https://en.wikipedia.org/wiki/Hank_Green)!  
 - The others that provoked click-throughs were "filibuster statistics by party",
   "#googletranslate", and various queries about the Moderna COVID-19 vaccine.  
 
