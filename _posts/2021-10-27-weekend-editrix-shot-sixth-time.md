@@ -39,11 +39,11 @@ neutralization antibody titers for the D614G variant:
 
 So her choices for a booster to follow Pfizer have these results:  
 
-| Booster | GMT  | GM Fold |
-|---------|------|---------|
-| Moderna | 3247 | 32.0x   |
-| J&amp;J |  894 | 12.5x   |
-| Pfizer  | 1846 | 20.0x   |
+| Booster || GMT  || GM Fold |
+|---------||------||---------|
+| Moderna || 3247 || 32.0x   |
+| J&amp;J ||  894 || 12.5x   |
+| Pfizer  || 1846 || 20.0x   |
 
 So based on both antibody level and fold induction, it looks like Moderna is her best bet
 for getting the strongest immunity.  She agreed.  Since she hates fiddling with all the
@@ -83,7 +83,8 @@ wind down the pandemic (mabye replace it with endemic conditions, but _wound dow
 Ok, technically, we're not _all_ boosted.  The Weekend Publisher has been lagging behind.
 Not because he's a vaccine denialist, of course; he is, after all, my cat!  Rather because
 veterinary vaccines are not yet available. <sup id="fn2a">[[2]](#fn2)</sup>  But when they 
-are&hellip; there's gonna be a coupla quick trips to the vet.
+are&hellip; there's gonna be a coupla quick trips to the vet, followed by some cat treats
+to restore diplomatic relations.
 
 (Also, I may have exaggerated that part back there about the zeppelin.  Possibly.)  
 
