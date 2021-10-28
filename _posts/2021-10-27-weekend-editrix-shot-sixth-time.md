@@ -94,19 +94,20 @@ amity and decorum.
 
 ## Addendum 2021-Oct-28: Side effects  
 
-Well, that turns out to be a big rougher than either of us thought it would be.  
+Well, that turns out to be a bit rougher than either of us thought it would be.  
 
 Both of us had relatively mild reactions to 2 doses of Pfizer, and I had a mild reaction
 to the 3rd Pfizer booster.  We figured that Moderna at half dose in the booster should be
 comparable.  
 
 Wrong: today she has 2&deg;C fever, aches all over, extreme fatigue.  After digging around
-the CDC advisories, we figured out that Tylenol/acetaminophen was ok if taken a while
-_after_ the vaccination.  So at V + 14 hours this morning, we got a couple time-release
+the CDC advisories, we figured out that
+[Tylenol/acetaminophen was ok if taken a while _after_ the vaccination](https://apnews.com/article/can-i-take-painkillers-before-after-covid-19-vaccine-86f03cdeb208e058f82032ed8548a219).
+So at V + 14 hours this morning, we got a couple time-release
 acetaminophens in her that will work for the next 8 hours.  After breakfast (and after
 retrieving with me the Weekend Publisher from the back yard, the little snot having
-escaped the tent on the back deck into the wilds of the back yard), she went back to bed.
-Sleeping now, with a cold compress on the forehead.  
+escaped the tent on the back deck into the wilds of the back yard) and a light lunch, she
+went back to bed.  Sleeping now, with a cold compress on her forehead.  
 
 So it doesn't _look_ serious, but it does look annoying.  
 
