@@ -80,12 +80,14 @@ truth be told, we'd _prefer_ it if all the vaccine resisters got vaccinated so w
 wind down the pandemic (mabye replace it with endemic conditions, but _wound down_).  
 
 <img src="{{ site.baseurl }}/images/2021-10-27-weekend-editrix-shot-sixth-time-weekend-publisher.jpg" width="400" height="300" alt="The Weekend Publisher, contemplating vaccination" title="The Weekend Publisher, contemplating vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Ok, technically, we're not _all_ boosted here.  The Weekend Publisher has been lagging behind.
-Not because he's a vaccine denialist, of course; he is, after all, _my_ cat!  Rather because
-veterinary vaccines are not yet available. <sup id="fn2a">[[2]](#fn2)</sup>  
+Ok, technically, we're not _all_ boosted here.  The Weekend Publisher has been lagging
+behind, as shown here in his favorite "lagging behind" pose. Not because he's a vaccine
+denialist, of course; he is, after all, _my_ cat!  Rather because veterinary vaccines are
+not yet available. <sup id="fn2a">[[2]](#fn2)</sup>  
 
-But when they are&hellip; there's gonna be a coupla quick trips to the vet, followed by
-some cat treats to restore diplomatic relations to a state of general amity and decorum.  
+But when feline vaccines are available&hellip; there's gonna be a coupla quick trips to
+the vet, followed by some cat treats to restore diplomatic relations to a state of general
+amity and decorum.  
 
 (Also, I may have exaggerated that part back there about the zeppelin.)  
 
