@@ -86,7 +86,7 @@ veterinary vaccines are not yet available. <sup id="fn2a">[[2]](#fn2)</sup>  But
 are&hellip; there's gonna be a coupla quick trips to the vet, followed by some cat treats
 to restore diplomatic relations.
 
-(Also, I may have exaggerated that part back there about the zeppelin.  Possibly.)  
+(Also, I may have exaggerated that part back there about the zeppelin.)  
 
 ---
 
