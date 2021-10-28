@@ -66,7 +66,7 @@ have to get so many vaccinations, it's more regrettable that so many others will
 so, and are thereby both prolonging the pandemic and breeding new variants.  
 
 After that, we adjourned to her favorite restaurant for dinner and then boarded the
-Weekend Zeppelin for the short sail homeward.  
+Weekend Zeppelin for the short sail homeward to Ch&acirc;teau Weekend.  
 
 Look: it's easy to get vaccinated, so easy that even a couple of weird folks like us can
 do it.  You can do it too.  
