@@ -39,11 +39,11 @@ neutralization antibody titers for the D614G variant:
 
 So her choices for a booster to follow Pfizer have these results:  
 
-| __Booster__ || __GMT__  || __GM Fold__ |
-|:-----------:||---------:||------------:|
-| Moderna     || 3247     || 32.0x       |
-| J&amp;J     ||  894     || 12.5x       |
-| Pfizer      || 1846     || 20.0x       |
+| __Booster__ | | __GMT__  | | __GM Fold__ |
+|:-----------:|-|---------:|-|------------:|
+| Moderna     | | 3247     | | 32.0x       |
+| J&amp;J     | |  894     | | 12.5x       |
+| Pfizer      | | 1846     | | 20.0x       |
 
 So based on both antibody level and fold induction, it looks like Moderna is her best bet
 for getting the strongest immunity.  She agreed.  Since she hates fiddling with all the
