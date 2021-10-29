@@ -1,13 +1,13 @@
 ---
 layout: post
-title: FDA VRBPAC Considers Pfizer COVID-19 Vaccine for Kids 5-11
+title: FDA VRBPAC Considers Pfizer COVID-19 Vaccine for Kids 5 &ndash; 11
 tags: COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
 
 Today the FDA's Vaccine and Related Biological Products Advisory Committee (VRBPAC) meets
 to discuss an Emergency Use Authorization (EUA) for Pfizer's COVID-19 vaccine Comirnaty
-for children ages 5-11.  Lots of parents have been awaiting this for the last year and a
+for children ages 5 &ndash; 11.  Lots of parents have been awaiting this for the last year and a
 half, with varying degress of frayed nerves.  
 
 
@@ -29,7 +29,7 @@ being an _emergency_ use authorization and all, it's instead been taking _weeks.
 quite fast: somebody is frantically turning the crank _really_ hard on machinery that was
 never meant to go this fast.  So when they get things done, we should applaud them.  
 
-If everything goes smoothly, vaccinations of kids 5-11 could start Wednesday 2021-Nov-03.  
+If everything goes smoothly, vaccinations of kids 5 &ndash; 11 could start Wednesday 2021-Nov-03.  
 
 Today is step 1.  
 
@@ -61,8 +61,8 @@ health.
 
 For today, Pfizer tested doses of 10&mu;g, 20&mu;g, and 30&mu;g (the original dose for
 adults) in a dose-finding Phase 1 trial.  They picked 10&mu;g and are today applying for
-EUA for the 10&mu;g dose ages 5-11 as tested in a Phase 2/3 trial, and sticking with the
-30&mu;g dose for 12 and older.  Pfizer says that dose in ages 5-11 a vaccine efficacy
+EUA for the 10&mu;g dose ages 5 &ndash; 11 as tested in a Phase 2/3 trial, and sticking with the
+30&mu;g dose for 12 and older.  Pfizer says that dose in ages 5 &ndash; 11 a vaccine efficacy
 (i.e., reduction in probability of infection compared to unvaccinated) of 91%.  As
 historical vaccines go, that's excellent.  The issues will likely be (a) medical need, and
 (b) side effects in otherwise healthy children who aren't at huge COVID-19 risk anyway.
@@ -140,15 +140,15 @@ FDA is <sup id="fn5a">[[5]](#fn5)</sup>:
 >  
 > Based on the totality of scientific evidence available, do the benefits of the
 > PfizerBioNTech COVID-19 Vaccine when administered as a 2-dose series (10 µg each dose, 3
-> weeks apart) outweigh its risks for use in children 5-11 years of age?  
+> weeks apart) outweigh its risks for use in children 5 &ndash; 11 years of age?  
 
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-2.jpg" width="400" height="387" alt="Pfizer: VRBPAC dossier on Pfizer COVID-19 vax for kids" title="Pfizer: VRBPAC dossier on Pfizer COVID-19 vax for kids" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-3.jpg" width="400" height="92" alt="FDA: FDA reanalysis of Pfizer COVID-19 vax for kids" title="FDA: FDA reanalysis of Pfizer COVID-19 vax for kids" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-4.jpg" width="400" height="256" alt="FDA: Review of safety and efficacy in kids 5-11" title="FDA: Review of safety and efficacy in kids 5-11" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-4.jpg" width="400" height="256" alt="FDA: Review of safety and efficacy in kids 5 &ndash; 11" title="FDA: Review of safety and efficacy in kids 5 &ndash; 11" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-5.jpg" width="400" height="214" alt="FDA: Formal statement of EUA" title="FDA: Formal statement of EUA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-6.jpg" width="400" height="211" alt="FDA: Post-market surveillance in FDA BEST system" title="FDA: Post-market surveillance in FDA BEST system" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-7.jpg" width="400" height="225" alt="FDA: Pediatric benefit-risk analysis" title="FDA: Pediatric benefit-risk analysis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-8.jpg" width="400" height="223" alt="CDC: Epidemiology of COVID-19 for ages 5-11" title="CDC: Epidemiology of COVID-19 for ages 5-11" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-8.jpg" width="400" height="223" alt="CDC: Epidemiology of COVID-19 for ages 5 &ndash; 11" title="CDC: Epidemiology of COVID-19 for ages 5 &ndash; 11" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-9.jpg" width="400" height="223" alt="FDA: EUA amendment" title="FDA: EUA amendment" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-10.jpg" width="400" height="208" alt="Pfizer: Analysis of vax data in kids 9-11" title="Pfizer: Analysis of vax data in kids 9-11" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-11.jpg" width="400" height="200" alt="CDC: mRNA COVID-19 vaccine-associated myocarditis" title="CDC: mRNA COVID-19 vaccine-associated myocarditis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -168,13 +168,13 @@ There are 10 documents to review here:
    trial. <sup id="fn9a">[[9]](#fn9)</sup>  This is more or less the FDA's reanalysis, in
    slide form.  
 5. Then Doran Fink of the FDA discusses the purpose of the meeting: background on
-   COVID-19, background in kids 5-11, statutory criteria for an EUA, and what the benefit/risk
+   COVID-19, background in kids 5 &ndash; 11, statutory criteria for an EUA, and what the benefit/risk
    considerations should be. <sup id="fn10a">[[10]](#fn10)</sup>  
 6. Hui-Lee Wong of the FDA discusses post-market active surveillance in the FDA's BEST
    system, for tracking safety and effectiveness of 
    biologics. <sup id="fn11a">[[11]](#fn11)</sup>  
 7. Hong Yang of the FDA considers the benefit-risk results for COVID-19 mRNA vaccination
-   in children age 5-11. <sup id="fn12a">[[12]](#fn12)</sup>  
+   in children age 5 &ndash; 11. <sup id="fn12a">[[12]](#fn12)</sup>  
 8. Fiona Havers of the CDC discusses the epidemiology of COVID-19 in kids, presumably
    somewhat different from adults due to different immune systems and different life 
    exposures. <sup id="fn13a">[[13]](#fn13)</sup>  
@@ -191,10 +191,10 @@ There are 10 documents to review here:
 Matt Herper reports that Peter Marks, the head of FDA CBER, wanted to establish two
 facts for the VRBPAC:  
 1. _Unmet medical need:_  There is, in fact, significant harm to kids, especially from the
-   Delta variant.  In ages 5-11 there have been 1.9 million infections, 8300
+   Delta variant.  In ages 5 &ndash; 11 there have been 1.9 million infections, 8300
    hospitalizations (1/3 ICU admissions), 2500 cases of MIS-C (multisystem inflammatory
    syndrome in children; summary: you don't want your kids to get it), and over 100
-   deaths.  That makes COVID-19 one of the top 10 causes of death in ages 5-11 for this
+   deaths.  That makes COVID-19 one of the top 10 causes of death in ages 5 &ndash; 11 for this
    period.  And of course, it has impacts on school closure.  
 2. _Mandates:_ Mandates are out of scope for this committee; other bodies will decide
    that.  Just medical need, safety, and efficacy are on the table today.  
@@ -203,17 +203,17 @@ facts for the VRBPAC:
 ## Epidemiology and unmet medical need: does it happen often, and does it matter?  
 
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-havers-1.jpg" width="400" height="226" alt="CDC, Havers: 1.9 million cases of COVID-19 in kids, a LOW estimate" title="CDC, Havers: 1.9 million cases of COVID-19 in kids, a LOW estimate" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-havers-2.jpg" width="400" height="221" alt="CDC, Havers: kids 5-11 were 10.6% of cases 2021-Oct-10" title="CDC, Havers: kids 5-11 were 10.6% of cases 2021-Oct-10" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-havers-3.jpg" width="400" height="226" alt="CDC, Havers: COVID-19 is now 8th leading cause of death of kids 5-11" title="CDC, Havers: COVID-19 is now 8th leading cause of death of kids 5-11" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-havers-2.jpg" width="400" height="221" alt="CDC, Havers: kids 5 &ndash; 11 were 10.6% of cases 2021-Oct-10" title="CDC, Havers: kids 5 &ndash; 11 were 10.6% of cases 2021-Oct-10" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-havers-3.jpg" width="400" height="226" alt="CDC, Havers: COVID-19 is now 8th leading cause of death of kids 5 &ndash; 11" title="CDC, Havers: COVID-19 is now 8th leading cause of death of kids 5 &ndash; 11" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Fiona Havers of the CDC, in discussiong the epidemiology of COVID-19 in kids, confirms
 much of this.  The stratification by age indeed shows 1.9 million COVID-19 cases i ages
-5-11.  Empirically, seroprevalence in that age group hints that the actual rate is much
+5 &ndash; 11.  Empirically, seroprevalence in that age group hints that the actual rate is much
 higher, so the cases are probably under-reported.  
 
-Kids ages 5-11 constituted 10.6% of the cases in the week of 2021-Oct-10, so it's not a
+Kids ages 5 &ndash; 11 constituted 10.6% of the cases in the week of 2021-Oct-10, so it's not a
 clinically rare thing at all!  
 
-Finally, she shows that COVID-19 is now the 8th leading cause of death of kids age 5-11.  
+Finally, she shows that COVID-19 is now the 8th leading cause of death of kids age 5 &ndash; 11.  
 
 I think we can now regard the case for epidemiological frequency and unmet medical need as
 having been established.  _Thoroughly._  
@@ -260,7 +260,7 @@ being vaccinated but much higher COVID-19 risk (which causes _worse_ myocarditis
 
 There's a lot here, but the summary position is: vax risks are mild, COVID-19 risks are
 huge, and you're _way_ better off with vaccination.  Especially if the risk of myocarditis
-is testosterone linked, then we should expect to see less of it in boys 5-11 years old.  
+is testosterone linked, then we should expect to see less of it in boys 5 &ndash; 11 years old.  
 
 Sounds like the truth to me!  
 
@@ -287,7 +287,7 @@ Yeah, like that.
 
 But there was no anaphylaxis, no myocarditis (phew!), no Bell's palsy, etc.  
 
-They did "immunobridging" studies, to compare immunity between 5-11 year olds vs 16-25
+They did "immunobridging" studies, to compare immunity between 5 &ndash; 11 year olds vs 16-25
 year olds, and saw that the immunity was comparable.  
 
 It worked on both the reference strain and the Delta strain.  
@@ -398,6 +398,51 @@ The things on the horizon I'd like to see moving faster:
   
 But for today&hellip; it looks like this was a good day.  
 
+
+## Addendum 2021-Oct-29: FDA authorization  
+
+<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-stat-fda-approval.jpg" width="400" height="177" alt="STAT News: FDA grants EUA for pediatric Pfizer COVID vaccine" title="STAT News: FDA grants EUA for pediatric Pfizer COVID vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-fda-approval.jpg" width="400" height="248" alt="FDA: EUA Authorization for pediatric Pfizer COVID vaccine" title="FDA: EUA Authorization for pediatric Pfizer COVID vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Today the FDA adminitrators took step (2) above, and granted formal EUA for
+Pfizer's Comirnaty in 5 &ndash; 11 
+year olds. <sup id="fn16a">[[16]](#fn16)</sup> <sup id="fn17a">[[17]](#fn17)</sup>  
+
+Both _STAT News_ and the FDA press release quoted Woodcock:  
+
+> "As a mother and a physician, I know that parents, caregivers, school staff, and
+> children have been waiting for today's authorization. Vaccinating younger children
+> against COVID-19 will bring us closer to returning to a sense of normalcy," said Acting
+> FDA Commissioner Janet Woodcock, M.D. "Our comprehensive and rigorous evaluation of the
+> data pertaining to the vaccine's safety and effectiveness should help assure parents and
+> guardians that this vaccine meets our high standards."  
+
+The FDA press release also notes a few sad epidemiological facts:  
+- Kids 5 &ndash; 11 make up 39% of COVID-19 cases in those under 18 in the US.  So we're biting a
+  _big chunk_ out of kids COVID-19 risk here, keeping our kids safer.  
+- Those aren't all mild cases, either: 8300 COVID-19 _hospitalizations_ in kids 5 &ndash; 11 so
+  far.  As of 2021-Oct-17, 691 of those cases under 18 are dead, and of those 146 were
+  kids 5 &ndash; 11.  So it's a _real risk to kids_ that we're now dramatically lowering.  
+
+Interestingly, the FDA also authorized a manufacturing change for Pfizer.  They can now
+incorporate Tris buffer, a commonly used buffer in many other approved medications, to
+maintain stable pH.  This makes the vaccine's cold chain requirements a bit less
+stringent, which should lessen the logistics headaches of getting it distributed
+everywhere.  
+
+Step (3) above, the meeting of the ACIP committee of the CDC, occurs next Tuesday
+2021-Nov-02.  
+
+While the risk of myocarditis appears to be small here, this pediatric trial was not
+adequately powered (not enough subjects enrolled) to quantify rare events.  If the theory
+that vaccine-associated myocarditis is linked to testosterone is correct, then it's not an
+issue for pediatric use.  Also, the FDA models indicate there would be fewer myocarditis
+hospitalizations with the vaccine than with the COVID-19 cases from no vaccine.  
+
+But on the other hand, given this small trial _we really just don't know for sure._ If
+there's one thing docs on regulatory boards hate, it's not knowing for sure that they're
+not actually harming people.  That should be a subject of active debate next Tuesday at
+the ACIP meeting.  
+
 ---
 
 ## Notes &amp; References  
@@ -430,7 +475,7 @@ But for today&hellip; it looks like this was a good day.
 
 <a id="fn9">9</a>: L Ball, ["FDA Review of Effectiveness and Safety of Pfizer-BioNTech COVID-19 Vaccine in Children 5 through 11 Years of Age _Emergency Use Authorization Amendment_"](https://www.fda.gov/media/153510/download), [FDA VRBPAC 2021-Oct-26 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement#event-materials), retrieved 2021-Oct-26.  [↩](#fn9a)  
 
-<a id="fn10">10</a>: DL Fink, ["Pfizer-BioNTech COVID-19 Vaccine: Request for Emergency Use Authorization (EUA) Amendment, Use of a 2-Dose Primary Series in Children 5-11 Years of Age"](https://www.fda.gov/media/153512/download), [FDA VRBPAC 2021-Oct-26 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement#event-materials), retrieved 2021-Oct-26.  [↩](#fn10a)  
+<a id="fn10">10</a>: DL Fink, ["Pfizer-BioNTech COVID-19 Vaccine: Request for Emergency Use Authorization (EUA) Amendment, Use of a 2-Dose Primary Series in Children 5 &ndash; 11 Years of Age"](https://www.fda.gov/media/153512/download), [FDA VRBPAC 2021-Oct-26 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement#event-materials), retrieved 2021-Oct-26.  [↩](#fn10a)  
 
 <a id="fn11">11</a>: H-L Wong, ["Post-Market Active Surveillance of COVID-19 Vaccines in the Pediatric Population in the FDA BEST System"](https://www.fda.gov/media/153511/download), [FDA VRBPAC 2021-Oct-26 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement#event-materials), retrieved 2021-Oct-26.  [↩](#fn11a)  
 
@@ -441,3 +486,7 @@ But for today&hellip; it looks like this was a good day.
 <a id="fn14">14</a>: WC Gruber, ["BNT162b2 (COVID-19 Vaccine, mRNA) Vaccine – Request for Emergency Use Authorization in Individuals 5 to <12 Years of Age"](https://www.fda.gov/media/153513/download), [FDA VRBPAC 2021-Oct-26 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement#event-materials), retrieved 2021-Oct-26.  [↩](#fn14a)  
 
 <a id="fn15">15</a>: M Oster, ["mRNA COVID-19 Vaccine-Associated Myocarditis"](https://www.fda.gov/media/153514/download), [FDA VRBPAC 2021-Oct-26 Materials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement#event-materials), retrieved 2021-Oct-26.  [↩](#fn15a)  
+
+<a id="fn16">16</a>: M Herper, ["FDA authorizes Pfizer Covid-19 vaccine for children aged 5 to 11"](https://www.statnews.com/2021/10/29/fda-pfizer-vaccine-covid19-children/), _STAT News_, 2021-Oct-29. [↩](#fn16a)  
+
+<a id="fn17">17</a>: [FDA Office of Media Affairs](mailto:fdaoma@fda.hhs.gov), ["FDA Authorizes Pfizer-BioNTech COVID-19 Vaccine for Emergency Use in Children 5 through 11 Years of Age"](https://www.fda.gov/news-events/press-announcements/fda-authorizes-pfizer-biontech-covid-19-vaccine-emergency-use-children-5-through-11-years-age), US FDA press announcements, 2021-Oct-29. [↩](#fn17a)  

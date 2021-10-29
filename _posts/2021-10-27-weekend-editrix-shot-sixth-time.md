@@ -103,7 +103,7 @@ comparable.
 Wrong: today she has +3&deg;C fever, aches all over, extreme fatigue.  After digging around
 the CDC advisories, we figured out that
 [Tylenol/acetaminophen was ok if taken a while _after_ the vaccination](https://apnews.com/article/can-i-take-painkillers-before-after-covid-19-vaccine-86f03cdeb208e058f82032ed8548a219).
-So at V + 14 hours this morning, we got a couple time-release
+So at VAX + 14 hours this morning, we got a couple time-release
 acetaminophens in her that will work for the next 8 hours.  After breakfast (and after
 retrieving with me the Weekend Publisher from the back yard, the little snot having
 escaped the tent on the back deck into the wilds of the back yard) and a light lunch, she
