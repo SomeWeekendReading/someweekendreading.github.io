@@ -423,7 +423,7 @@ The FDA press release also notes a couple epidemiological facts:
   - 691 of those 8300 cases under 18 are now dead, and  
   - 146 of those dying were kids 5 &ndash; 11.  
 
-Those 2 facts mean: we're biting a _big chunk_ out of a _real risk_ to our kids this way.  
+Those 2 facts mean: today we're biting a _big chunk_ out of a _real risk_ to our kids.  
 
 Interestingly, the FDA also authorized a manufacturing change for Pfizer.  They can now
 incorporate Tris buffer, a commonly used buffer in many other approved medications, to
