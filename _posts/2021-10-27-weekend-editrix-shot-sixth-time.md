@@ -100,7 +100,7 @@ Both of us had relatively mild reactions to 2 doses of Pfizer, and I had a mild 
 to the 3rd Pfizer booster.  We figured that Moderna at half dose in the booster should be
 comparable.  
 
-Wrong: today she has 2&deg;C fever, aches all over, extreme fatigue.  After digging around
+Wrong: today she has +3&deg;C fever, aches all over, extreme fatigue.  After digging around
 the CDC advisories, we figured out that
 [Tylenol/acetaminophen was ok if taken a while _after_ the vaccination](https://apnews.com/article/can-i-take-painkillers-before-after-covid-19-vaccine-86f03cdeb208e058f82032ed8548a219).
 So at V + 14 hours this morning, we got a couple time-release
