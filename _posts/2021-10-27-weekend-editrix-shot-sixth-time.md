@@ -94,7 +94,7 @@ amity and decorum.
 
 ## Addendum 2021-Oct-28: Side effects  
 
-Well, that turns out to be a bit rougher than either of us thought it would be.  
+Well, that turned out to be a bit rougher than either of us thought it would be.  
 
 Both of us had relatively mild reactions to 2 doses of Pfizer, and I had a mild reaction
 to the 3rd Pfizer booster.  We figured that Moderna at half dose in the booster should be
@@ -116,6 +116,12 @@ me, too.  (Yes, I know: this is the innate immune system, not the acquired immun
 which is the one that matters.  Still!)  
 
 Updates later when things change.  
+
+
+## Addendum 2021-Oct-29: Side effects abate  
+
+All better.  Fever reduced, aches & pains fading.  Still a bit of a headache, but overall
+ok.  
 
 ---
 
