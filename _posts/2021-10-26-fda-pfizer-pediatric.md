@@ -419,8 +419,9 @@ Both _STAT News_ and the FDA press release quoted Woodcock:
 The FDA press release also notes a couple epidemiological facts:  
 - Kids 5 &ndash; 11 make up 39% of COVID-19 cases in those under 18 in the US.  
 - Those aren't all mild cases, either: 8300 COVID-19 _hospitalizations_ in kids 5 &ndash; 11 so
-  far.  As of 2021-Oct-17, 691 of those cases under 18 are dead, and of those 146 were
-  kids 5 &ndash; 11.  
+  far.  As of 2021-Oct-17:  
+  - 691 of those cases under 18 are dead, and  
+  - of those 146 were kids 5 &ndash; 11.  
 
 Those 2 facts mean: we're biting a _big chunk_ out of a _real risk_ to our kids this way.  
 
