@@ -403,7 +403,7 @@ But for today&hellip; it looks like this was a good day.
 
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-stat-fda-approval.jpg" width="400" height="177" alt="STAT News: FDA grants EUA for pediatric Pfizer COVID vaccine" title="STAT News: FDA grants EUA for pediatric Pfizer COVID vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-fda-fda-approval.jpg" width="400" height="248" alt="FDA: EUA Authorization for pediatric Pfizer COVID vaccine" title="FDA: EUA Authorization for pediatric Pfizer COVID vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Today the FDA adminitrators took step (2) above, and granted formal EUA for
+Today the FDA adminitrators took another of the steps above, and granted formal EUA for
 Pfizer's Comirnaty in 5 &ndash; 11 
 year olds. <sup id="fn16a">[[16]](#fn16)</sup> <sup id="fn17a">[[17]](#fn17)</sup>  
 
@@ -431,8 +431,8 @@ maintain stable pH.  This makes the vaccine's cold chain requirements a bit less
 stringent, which should lessen the logistics headaches of getting it distributed
 everywhere.  
 
-Step (3) above, the meeting of the ACIP committee of the CDC, occurs next Tuesday
-2021-Nov-02.  
+The next step, as enumerated above, is the meeting of the ACIP committee of the CDC,
+occurs next Tuesday, 2021-Nov-02.  
 
 While the risk of myocarditis appears to be small here, this pediatric trial was not
 adequately powered (not enough subjects enrolled) to quantify rare events.  If the theory
