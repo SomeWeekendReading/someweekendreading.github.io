@@ -389,7 +389,7 @@ were faster?!)
 Looks like you'll soon be able to vaccinate your kids!  
 
 The things on the horizon I'd like to see moving faster:  
-- Similar pediatric approvals for Moderna and J&amp; J.  
+- Similar pediatric approvals for Moderna and J&amp;J.  
 - The last remaining age cohort: infant pediatric studies, i.e., ages 6 months up to 5
   years, for all 3 vaccines.  I believe these are still in clinical trials, but haven't
   really checked.  
