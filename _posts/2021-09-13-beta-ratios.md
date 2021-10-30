@@ -666,7 +666,12 @@ $$
 $$
 
 So we need to hunt down some identities for ${}\_{3}F\_{2}(1)$ at various parameter
-values.  We have not as yet figured out how to do that.  &hellip;TBD&hellip; <!-- *** -->
+values.  We have not as yet figured out how to do that.  &hellip;TBD&hellip;
+<!-- 
+*** NB: this has to be true, since the 2 terms are the same thing, just 
+    swapping a1 <-> a2 and b1 <-> b2.  That's like swapping the control and treatment
+    arms of a trial.  So for the CDF term 2 has to be 1 - term1.  We just need to prove it.
+-->
 
 To summarize the CDF result:  
 
