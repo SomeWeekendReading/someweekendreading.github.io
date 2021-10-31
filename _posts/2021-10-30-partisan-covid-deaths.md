@@ -41,6 +41,15 @@ and
 COVID-19 infections and vaccine resistance correlate to conservative Republican votes.
 Now we know that this is also true of death rates.  
 
+The Twitter commentariat was even more put out about this than me:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Seems like one of the largest ritual human sacrifices in history, possibly the largest.<a href="https://t.co/GjXNDYcW5w">https://t.co/GjXNDYcW5w</a> <a href="https://t.co/eEyzPynlKg">pic.twitter.com/eEyzPynlKg</a>
+  </p>&mdash; Kurt Andersen (@KBAndersen) <a href="https://twitter.com/KBAndersen/status/1454535495132778497?ref_src=twsrc%5Etfw">October 30, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
 When your tribal identity pushes you to actions that kill you and your fellow tribe
 members, it's time to change tribes.  
 
