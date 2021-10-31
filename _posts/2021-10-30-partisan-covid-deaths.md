@@ -31,16 +31,15 @@ The cumulative death curves here show about what you'd expect:
 - There's an early rise in decile 0, which contains New York City.  It was very much _not_
   Republican.  But it had early infections before anywhere else, largely due to more extensive
   international connections in the blue areas.  
-- But then the blue deciles got things under control, and the red deciles went wild with
+- But then the blue deciles got things under control, while the red deciles went wild with
   their own [Masque of the Red Death](https://en.wikipedia.org/wiki/The_Masque_of_the_Red_Death).  
   
 We've seen this before
 [at the state level by our own analysis]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/)
 and
-[at the county level by an analysis due to Charles Gaba]({{ site.baseurl }}/vaccinations-vs-votes/),
-where COVID-19
-infections and vaccine resistance correlate to conservative Republican votes.  Now we know
-it's also true of death rates.  
+[at the county level by an analysis due to Charles Gaba]({{ site.baseurl }}/vaccinations-vs-votes/).
+COVID-19 infections and vaccine resistance correlate to conservative Republican votes.
+Now we know that this is also true of death rates.  
 
 When your tribal identity pushes you to actions that kill you and your fellow tribe
 members, it's time to change tribes.  
@@ -61,8 +60,8 @@ mandates.
 <a href="https://www.google.com/search?q=locust+avenue%2C+mill+valley+california" target="_blank"><img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-mill-valley-map.jpg" width="400" height="226" alt="Today: Locust Avenue, Mill Valley CA, USA" title="Today: Locust Avenue, Mill Valley CA, USA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The data on the photo says it was taken 1918-Nov-03 by Raymond Coyne in Mill Valley,
 California on Locust Avenue.  That street apparently still exists today, a bit over a
-century later.  I just love lots of historical detail like that, so we get a sense of how
-real it is, a step closer to the
+century later.  I just love historical detail like that, so we can get a sense of how
+real this was, a step closer to the
 [_ding an sich_](https://en.wikipedia.org/wiki/Thing-in-itself), with an emotional
 understanding that these were _actual people._  
 
@@ -80,16 +79,18 @@ incompetence seems regrettably durable through history.)
 <img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-lancet.jpg" width="400" height="185" alt="Lancet: Fluvoxamine and COVID-19" title="Lancet: Fluvoxamine and COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The right are bewilderingly fixated on mirages like hydroxychloroquine and ivermectin.
 Both are fine drugs in their usual places, but those places have nothing to do with
-COVID-19.  Yet, tribal identity&hellip;  
+COVID-19.  In the case of ivermectin, the alleged positive studies seem to have been faked;
+the rest were either bungled designs or murky results.  Yet, tribal identity&hellip;  
 
 Now, it's not that drug repurposing is a bad idea.  In fact, it's a _great_ idea to search
 the space of already-approved drugs with known safety profiles for activity in new
-situations.  I used to work for a company that had an ACE2 inhibitor, that they could
-never figure out how to use.  Eventually it was sold, but now that it's known that
-SARS-CoV2 binds to the ACE2 receptor, it's suddenly very interesting.
+situations.  I had a project once called the "sleeping beauties" where we looked at all of
+our clinically proven-safe molecules to see if they had activities in other areas,
+especialy cancers.  I even used to work for a company that had an ACE2 inhibitor that they could
+never quite figure out how to use.  Eventually it was sold, but now that it's known that
+SARS-CoV2 binds to the ACE2 receptor in the lungs, it's suddenly very interesting.  
 
 <img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-lancet-result.jpg" width="400" height="330" alt="Lancet: Bayesian posterior analysis of probability of infection" title="Lancet: Bayesian posterior analysis of probability of infection" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 From the _NYT_ comes news <sup id="fn5a">[[5]](#fn5)</sup> of a paper in 
 _Lancet Global Health_ <sup id="fn6a">[[6]](#fn6)</sup> of repurposing the anti-depressant
 fluvoxamine.  It's usually used for depression and OCD, but at higher doses it can quell
@@ -98,21 +99,27 @@ case, it reduced the need for hospitalization by 1/3.  And a 10-day course costs
 which is pretty good news.  
 
 They even did a pretty nice Bayesian analysis (under both
-[ITT (top) and mITT (bottom) conditions](https://en.wikipedia.org/wiki/Intention-to-treat_analysis)) of the
-probability of infection for each arm of the trial (left), and the risk ratio (right).
-That's exactly how I would have done it.  So I like these guys, just so you know my bias.  
+[ITT (top) and mITT (bottom) conditions](https://en.wikipedia.org/wiki/Intention-to-treat_analysis))
+of the probability of infection for each arm of the trial (left), and the risk ratio
+(right).  That's exactly how I would have done it.  I like these guys (just so you know my bias).  
 
-Good result: existing approved drug, known favorable safety profile, cheap, and pretty
-effective at changing course away from hospitalization for a patient with unmet medical
-need.  Just about the perfect example!  In this regard, it's a bit like dexamethasone,
-which helps similarly.  (And not much like remdesivir, which was not approved, didn't work
-very much, and is hideously expensive.)  
+It's a good result:  
+- existing approved &amp; available drug, 
+- known favorable safety profile, 
+- cheap, and 
+- pretty effective at changing course away from hospitalization for a patient with unmet medical
+  need.  
+
+Just about the perfect example!  In this regard, it's a bit like dexamethasone, which
+helps similarly.  (And _not_ much at all like remdesivir, which was not approved &amp;
+limited availability, has an incompletely understood safety profile, is hideously
+expensive, and didn't work all that much.)  
 
 
 ## The Weekend Conclusion  
 
 The thing about conspiracy theories is, they are generally false.  Believing them about
-important matters _can get you killed._  
+life-or-death matters _can get you killed._  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -122,7 +129,7 @@ important matters _can get you killed._
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 (__NB:__ Drochon says he doesn't remember the original source, just a "friend on FB".  Hey, if
-_you're_ the source, drop a line and we'll happily credit you.)  
+_you're_ the source, drop us a line and we'll happily credit you!)  
 
 ---
 
