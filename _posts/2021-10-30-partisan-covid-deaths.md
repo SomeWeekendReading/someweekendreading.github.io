@@ -12,7 +12,7 @@ delusional beliefs about ivermectin and hydroxychloroquine.  Care to draw a conc
 ## The partisan divide in death rates  
 
 <img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-r-bloggers.jpg" width="400" height="224" alt="Healy, R-bloggers: The Polarization of Death" title="Healy, R-bloggers: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-github.jpg" width="400" height="224" alt="Healy, GitHub: The Polarization of Death" title="Healy, GitHub: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-github.jpg" width="400" height="129" alt="Healy, GitHub: The Polarization of Death" title="Healy, GitHub: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-result.jpg" width="400" height="453" alt="Healy: The Polarization of Death" title="Healy: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Kieran Healy has done some interesting work relating the COVID-19 death rates in US
 counties over time, stratified by deciles of Republican margin over Democrats, reported in
