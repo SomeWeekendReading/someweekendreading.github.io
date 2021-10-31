@@ -6,29 +6,41 @@ comments: true
 ---
 
 COVID-19 death rates in the US are nakedly partisan.  So is mask resistance.  So is
-delusional beliefs about ivermectin and hydroxychloroquine.  Care to draw a conclusion?  
+delusional belief about nonsensical use of ivermectin and hydroxychloroquine.  Care to
+draw a conclusion?  
 
 
 ## The partisan divide in death rates  
 
-<img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-r-bloggers.jpg" width="400" height="224" alt="Healy, R-bloggers: The Polarization of Death" title="Healy, R-bloggers: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-github.jpg" width="400" height="129" alt="Healy, GitHub: The Polarization of Death" title="Healy, GitHub: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-result.jpg" width="400" height="453" alt="Healy: The Polarization of Death" title="Healy: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Kieran Healy has done some interesting work relating the COVID-19 death rates in US
-counties over time, stratified by deciles of Republican margin over Democrats, reported in
-_R bloggers_ and his own blog, as well as a GitHub repository for the data and
+<img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-r-bloggers.jpg"
+width="400" height="224" alt="Healy, R-bloggers: The Polarization of Death" title="Healy,
+R-bloggers: The Polarization of Death" style="float: right; margin: 3px 3px 3px 3px;
+border: 1px solid #000000;"> <img src="{{ site.baseurl
+}}/images/2021-10-30-partisan-covid-deaths-healy-github.jpg" width="400" height="129"
+alt="Healy, GitHub: The Polarization of Death" title="Healy, GitHub: The Polarization of
+Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> <img
+src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-healy-result.jpg"
+width="400" height="453" alt="Healy: The Polarization of Death" title="Healy: The
+Polarization of Death" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid
+#000000;"> Kieran Healy has done some interesting work relating the COVID-19 death rates
+in US counties over time, stratified by deciles of Republican margin over Democrats,
+reported in _R bloggers_ and his own blog, as well as a GitHub repository for the data and
 code. <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup>  
 
 The cumulative death curves here show about what you'd expect:  
 - There's an early rise in decile 0, which contains New York City.  It was very much _not_
-  Republican, but had early infections before anywhere else.  
+  Republican.  But it had early infections before anywhere else, largely due to more extensive
+  international connections in the blue areas.  
 - But then the blue deciles got things under control, and the red deciles went wild with
-  their own Masque of the Red Death.  
+  their own [Masque of the Red Death](https://en.wikipedia.org/wiki/The_Masque_of_the_Red_Death).  
   
-We've seen this before [at the state level]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/)
-and [at the county level]({{ site.baseurl }}/vaccinations-vs-votes/), where COVID-19
+We've seen this before
+[at the state level by our own analysis]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/)
+and
+[at the county level by an analysis due to Charles Gaba]({{ site.baseurl }}/vaccinations-vs-votes/),
+where COVID-19
 infections and vaccine resistance correlate to conservative Republican votes.  Now we know
-it's true of death rates also.  
+it's also true of death rates.  
 
 When your tribal identity pushes you to actions that kill you and your fellow tribe
 members, it's time to change tribes.  
@@ -46,9 +58,13 @@ masking during the 1918 flu pandemic.  An article in the _Guardian_ <sup id="fn3
 shows an old photo from California <sup id="fn4a">[[4]](#fn4)</sup> about local mask
 mandates.  
 
-The data on the photo says it was taken 1918-Nov-03 by Raymond Coyne, in Mill Valley,
-California on Locust Avenue.  I just love lots of historical detail like that, so we 
-get a sense of how real it is, that these were _actual people._  
+<a href="https://www.google.com/search?q=locust+avenue%2C+mill+valley+california" target="_blank"><img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-mill-valley-map.jpg" width="400" height="226" alt="Today: Locust Avenue, Mill Valley CA, USA" title="Today: Locust Avenue, Mill Valley CA, USA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+The data on the photo says it was taken 1918-Nov-03 by Raymond Coyne in Mill Valley,
+California on Locust Avenue.  That street apparently still exists today, a bit over a
+century later.  I just love lots of historical detail like that, so we get a sense of how
+real it is, a step closer to the
+[_ding an sich_](https://en.wikipedia.org/wiki/Thing-in-itself), with an emotional
+understanding that these were _actual people._  
 
 Note that everybody's masked in the photo and one is holding a sign saying,
 "WEAR A MASK OR GO TO JAIL".  So mask mandates were quite a controversial thing in those
@@ -73,18 +89,24 @@ never figure out how to use.  Eventually it was sold, but now that it's known th
 SARS-CoV2 binds to the ACE2 receptor, it's suddenly very interesting.
 
 <img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-lancet-result.jpg" width="400" height="330" alt="Lancet: Bayesian posterior analysis of probability of infection" title="Lancet: Bayesian posterior analysis of probability of infection" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
 From the _NYT_ comes news <sup id="fn5a">[[5]](#fn5)</sup> of a paper in 
 _Lancet Global Health_ <sup id="fn6a">[[6]](#fn6)</sup> of repurposing the anti-depressant
 fluvoxamine.  It's usually used for depression and OCD, but at higher doses it can quell
-the cytokine storm caused by COVID-19.  In this case, it reduced the need for
-hospitalization by 1/3.  And a 10-day course costs \$4, which is pretty good news.  
+the cytokine storm caused by COVID-19 (apparently it has a lot of off targets?).  In this
+case, it reduced the need for hospitalization by 1/3.  And a 10-day course costs \$4,
+which is pretty good news.  
 
-They even did a pretty nice Bayesian analysis (under both 
-[ITT and mITT conditions](https://en.wikipedia.org/wiki/Intention-to-treat_analysis)) of the
-probability of infection for each arm of the trial, and the risk ratio.  That's exactly
-how I would have done it.  So I like these guys, just so you know my bias.  
+They even did a pretty nice Bayesian analysis (under both
+[ITT (top) and mITT (bottom) conditions](https://en.wikipedia.org/wiki/Intention-to-treat_analysis)) of the
+probability of infection for each arm of the trial (left), and the risk ratio (right).
+That's exactly how I would have done it.  So I like these guys, just so you know my bias.  
 
-Good result: existing drug, known safety profile, cheap, and pretty effective.  
+Good result: existing approved drug, known favorable safety profile, cheap, and pretty
+effective at changing course away from hospitalization for a patient with unmet medical
+need.  Just about the perfect example!  In this regard, it's a bit like dexamethasone,
+which helps similarly.  (And not much like remdesivir, which was not approved, didn't work
+very much, and is hideously expensive.)  
 
 
 ## The Weekend Conclusion  
@@ -99,7 +121,7 @@ important matters _can get you killed._
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-(Drochon says he doesn't remember the original source, just a "friend on FB".  Hey, if
+(__NB:__ Drochon says he doesn't remember the original source, just a "friend on FB".  Hey, if
 _you're_ the source, drop a line and we'll happily credit you.)  
 
 ---
