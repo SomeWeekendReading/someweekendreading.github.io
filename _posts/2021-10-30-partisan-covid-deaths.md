@@ -82,9 +82,9 @@ hospitalization by 1/3.  And a 10-day course costs \$4, which is pretty good new
 They even did a pretty nice Bayesian analysis (under both 
 [ITT and mITT conditions](https://en.wikipedia.org/wiki/Intention-to-treat_analysis)) of the
 probability of infection for each arm of the trial, and the risk ratio.  That's exactly
-how I would have done it, so I like these guys, just so you know my bias.  
+how I would have done it.  So I like these guys, just so you know my bias.  
 
-Good result: existing drug, known safety profile, cheap, pretty effective.  
+Good result: existing drug, known safety profile, cheap, and pretty effective.  
 
 
 ## The Weekend Conclusion  
