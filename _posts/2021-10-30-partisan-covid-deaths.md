@@ -149,8 +149,8 @@ life-or-death matters _can get you killed._
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-(__NB:__ Drochon says he doesn't remember the original source, just a "friend on FB".  Hey, if
-_you're_ the source, drop us a line and we'll happily credit you!)  
+(__NB:__ Drochon says he doesn't remember the original source, just a "friend on FB".  But
+hey, if _you're_ the source, drop us a line and we'll happily credit you!)  
 
 ---
 
