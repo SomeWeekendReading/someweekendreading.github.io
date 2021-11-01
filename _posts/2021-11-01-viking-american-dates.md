@@ -146,7 +146,7 @@ been exploring North America, what should you answer?
 
 In this year of 2021CE, you should maybe look at your phone to get the time of day as a
 little extra florish, and then answer "exactly 1000 years, perhaps 6 months more if the
-trees at L'Anse aux Meadows were really felled in the spring."  
+trees at L'Anse aux Meadows were really felled in the spring, given that it's now November."  
 
 You're still gonna get sent to the principal's office for the crime of being a smartass,
 no way around that.  But it'll be satisfying to know you can prove your answer was _right_
