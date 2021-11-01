@@ -34,25 +34,22 @@ The cumulative death curves here show about what you'd expect:
 - But then the blue deciles got things under control, while the red deciles went wild with
   their own [Masque of the Red Death](https://en.wikipedia.org/wiki/The_Masque_of_the_Red_Death).  
 
-Gaba went on to summarize this result in a simple bar chart, for those who find mulitple
-time courses too confusing:  
-
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    It&#39;s been even higher more recently: Since 6/30/21, the death rate in the reddest
-	tenth is SIX TIMES higher than in the bluest tenth: 
-    <a href="https://t.co/RXx9N6B7tB">https://t.co/RXx9N6B7tB</a> 
-    <a href="https://t.co/t1BJOwNdSX">pic.twitter.com/t1BJOwNdSX</a>
-  </p>&mdash; Charles Ghoul-ba 👻 (@charles_gaba) <a href="https://twitter.com/charles_gaba/status/1454648431620800513?ref_src=twsrc%5Etfw">October 31, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
-
 We've seen this before
 [at the state level by our own analysis]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/)
 and
 [at the county level by an analysis due to Charles Gaba]({{ site.baseurl }}/vaccinations-vs-votes/).
 COVID-19 infections and vaccine resistance correlate to conservative Republican votes.
 Now we know that this is also true of death rates.  
+
+Gaba went on to summarize this result in a simple bar chart, for those who find mulitple
+time courses too confusing:  
+
+<blockquote class="twitter-tweet" data-conversation="none">
+  <p lang="en" dir="ltr">
+    It&#39;s been even higher more recently: Since 6/30/21, the death rate in the reddest tenth is SIX TIMES higher than in the bluest tenth: <a href="https://t.co/RXx9N6B7tB">https://t.co/RXx9N6B7tB</a> <a href="https://t.co/t1BJOwNdSX">pic.twitter.com/t1BJOwNdSX</a>
+  </p>&mdash; Charles Ghoul-ba 👻 (@charles_gaba) <a href="https://twitter.com/charles_gaba/status/1454648431620800513?ref_src=twsrc%5Etfw">October 31, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 The Twitter commentariat was even more put out about this than me:  
 
