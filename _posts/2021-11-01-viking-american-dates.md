@@ -115,7 +115,7 @@ By identifying which ring in their sample was the 993 spike in C14, it was mostl
 of counting outward to the outermost bark ring to determine the year the tree was felled.
 Identifying the 993 ring was done by minimizing a $\chi^2$ statistic.  While the details
 are interesting, Figure 2a from the paper shows that there is absolutely no argument about
-where the date of tree felling should be placed: 1021CE, exactly, across multiple samples.
+where the date of tree felling should be placed: __1021CE, exactly, across multiple samples.__
 (By looking at the structure of the outer ring, one can even determine that it was
 springtime!)  
 
@@ -129,10 +129,12 @@ all consistent.
 So, if you're a primary school student and your teacher asks you how long have Europeans
 been exploring North America, what should you answer?  
 
-In the year 2021CE, you should answer "exactly 1000 years, perhaps 6 months more if the
-trees at L'Anse aux Meadows were really felled in the spring."  You're still gonna get
-sent to the principal's office for being a smartass, but it'll be satisfying to know you
-can prove you're right, yes?  
+In the year 2021CE, you should maybe look at your phone to get the time of day, and then
+answer "exactly 1000 years, perhaps 6 months more if the trees at L'Anse aux Meadows were
+really felled in the spring."  
+
+You're still gonna get sent to the principal's office for being a smartass, but it'll be
+satisfying to know you can prove your answer was _right_, yes?  
 
 ---
 
