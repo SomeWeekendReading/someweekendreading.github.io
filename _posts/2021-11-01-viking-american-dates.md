@@ -113,11 +113,24 @@ similar plot for that one.)
 <img src="{{ site.baseurl }}/images/2021-11-01-viking-american-dates-1021CE.jpg" width="400" height="276" alt="Date of tree felling: 1021CE, exactly" title="Date of tree felling: 1021CE, exactly" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"> 
 By identifying which ring in their sample was the 993 spike in C14, it was mostly a matter
 of counting outward to the outermost bark ring to determine the year the tree was felled.
-Identifying the 993 ring was done by minimizing a $\chi^2$ statistic.  While the details
-are interesting, Figure 2a from the paper shows that there is absolutely no argument about
-where the date of tree felling should be placed: __1021CE, exactly, across multiple samples.__
-(By looking at the structure of the outer ring, one can even determine that it was
-springtime!)  
+Identifying the 993 ring was done by minimizing a $\chi^2$ statistic.  
+
+$$
+\chi^2_{(x)} = \sum_{i=1}^n \frac{(R_i - C(x-r_i))^2}{\delta R_i^2 + \delta C(x - r_i)^2}
+$$
+
+where: 
+- $R_i \pm \delta R_i$ are the measured carbon-14 sample dates  
+- $C(x - r_i) \pm \delta C(x - r_i)$ are the carbon-14 concentrations for the year $(x - r_i)$,  
+- $x$ is the trial age for the outermost (bark) ring of the wood, and  
+- $r_i$ is the tree-ring number.  
+
+A value of $x$ is chosen to minimize $\chi^2$.  
+
+While the details are interesting, Figure 2a from the paper shows that there is absolutely
+no argument about where the date of tree felling should be placed: __1021CE, exactly,
+across multiple samples.__ (By looking at the structure of the outer ring, one can even
+determine that it was springtime!)  
 
 They went to a lot of other effort to compare this result with sources like the Icelandic
 Sagas: an oral history that was written down a couple centuries later.  Bottom line: it's
@@ -133,8 +146,8 @@ In the year 2021CE, you should maybe look at your phone to get the time of day, 
 answer "exactly 1000 years, perhaps 6 months more if the trees at L'Anse aux Meadows were
 really felled in the spring."  
 
-You're still gonna get sent to the principal's office for being a smartass, but it'll be
-satisfying to know you can prove your answer was _right_, yes?  
+You're still gonna get sent to the principal's office for the crime of being a smartass,
+but it'll be satisfying to know you can prove your answer was _right_, yes?  
 
 ---
 
