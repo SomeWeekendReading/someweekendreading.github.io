@@ -60,10 +60,9 @@ The Twitter commentariat was even more put out about this than me:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-Now you know why you're so often hearing the phrase "GOP death cult."  
-
-When your tribal identity pushes you to actions that kill you and your fellow tribe
-members, it's time to change tribes.  
+Now you know why you're so often hearing the phrase "GOP death cult": when your tribal
+identity pushes you to actions that kill you and your fellow tribe members, it's time to
+change tribes.  
 
 
 ## The partisan divide in NPIs  
