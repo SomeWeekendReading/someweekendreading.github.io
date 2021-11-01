@@ -123,8 +123,8 @@ where:
 - $R_i \pm \delta R_i$ are the measured carbon-14 sample dates,  
 - $C(x - r_i) \pm \delta C(x - r_i)$ are the carbon-14 concentrations for the year $(x - r_i)$,  
 - $x$ is the trial age for the outermost (bark) ring of the wood, and  
-- $r_i$ is the tree-ring number with the outer ring being 0 and counting down into
-  negative numbers as one goes inward.  
+- $r_i$ is the tree-ring number (with the outer ring being 0 and counting down into
+  negative numbers as one goes inward).  
 
 The value of $x$ is chosen to minimize $\chi^2$, and this is what's shown in Figure
 2a with a _sharp_ minimum indicated.  
@@ -141,15 +141,16 @@ all consistent.
 
 ## The Weekend Conclusion  
 
-So, if you're a primary school student and your teacher asks you how long have Europeans
+So, if you're a primary school student today and your teacher asks you how long have Europeans
 been exploring North America, what should you answer?  
 
-In the year 2021CE, you should maybe look at your phone to get the time of day, and then
-answer "exactly 1000 years, perhaps 6 months more if the trees at L'Anse aux Meadows were
-really felled in the spring."  
+In this year of 2021CE, you should maybe look at your phone to get the time of day as a
+little extra florish, and then answer "exactly 1000 years, perhaps 6 months more if the
+trees at L'Anse aux Meadows were really felled in the spring."  
 
 You're still gonna get sent to the principal's office for the crime of being a smartass,
-but it'll be satisfying to know you can prove your answer was _right_, yes?  
+no way around that.  But it'll be satisfying to know you can prove your answer was _right_
+by referring to the scientific literature, yes?  
 
 ---
 
