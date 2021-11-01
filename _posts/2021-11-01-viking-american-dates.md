@@ -86,7 +86,7 @@ The usual methods one would try here are dendrochronology and carbon-14 dating:
   So the carbon-14 answers, using some sophisticated methods called "wiggle-matching"
   (yes, really) to account for yearly differences initially tell us roughly 700CE &ndash; 
   1100CE as a date for L'Anse aux Meadows.  If you carefully combine all the samples from
-  many different pieces, you can narrow that down to 1018CD &ndash; 1025CE, as shown in
+  many different pieces, you can narrow that down to 1019CE &ndash; 1024CE, as shown in
   Figure 1 from the paper.
 
 That's&hellip; nice, but Kuitems _et al._ decided to do better!  
@@ -120,12 +120,14 @@ $$
 $$
 
 where: 
-- $R_i \pm \delta R_i$ are the measured carbon-14 sample dates  
+- $R_i \pm \delta R_i$ are the measured carbon-14 sample dates,  
 - $C(x - r_i) \pm \delta C(x - r_i)$ are the carbon-14 concentrations for the year $(x - r_i)$,  
 - $x$ is the trial age for the outermost (bark) ring of the wood, and  
-- $r_i$ is the tree-ring number.  
+- $r_i$ is the tree-ring number with the outer ring being 0 and counting down into
+  negative numbers as one goes inward.  
 
-A value of $x$ is chosen to minimize $\chi^2$.  
+The value of $x$ is chosen to minimize $\chi^2$, and this is what's shown in Figure
+2a with a _sharp_ minimum indicated.  
 
 While the details are interesting, Figure 2a from the paper shows that there is absolutely
 no argument about where the date of tree felling should be placed: __1021CE, exactly,
