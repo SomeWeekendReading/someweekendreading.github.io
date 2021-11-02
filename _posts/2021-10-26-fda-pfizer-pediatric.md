@@ -486,8 +486,9 @@ And as for schoolkids:
 
 Yep, that they are.  
 
-The next step is formal administrative approval from the CDC director, Rochelle Walensky.
-Given that she described this as a "momentous day", that is likely to happen fast.  
+The next (and final!) step is formal administrative approval from the CDC director,
+Rochelle Walensky.  Given that she described this as a "momentous day", that is likely to
+happen fast.  
 
 ---
 
