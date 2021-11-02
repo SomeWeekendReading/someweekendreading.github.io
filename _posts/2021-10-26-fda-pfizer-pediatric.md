@@ -445,6 +445,50 @@ there's one thing docs on regulatory boards hate, it's not knowing for sure that
 not actually harming people.  That should be a subject of active debate next Tuesday at
 the ACIP meeting.  
 
+
+## Addendum 2021-Nov-02: CDC ACIP meeting  
+
+Today the CDC's ACIP committee met about Pfizer's Comirnaty vaccine against COVID-19 for
+5 &ndash; 11 year olds.  It was approved unanimously, 14-0.  <sup id="fn1a">[[1]](#fn1)</sup>
+Helen Branswell documented the meeting in a massive 50-tweet thread on Twitter:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    50. The final tweet of this thread. Read my story on the 
+    <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a> vote
+    here. Thanks for spending the afternoon with me. <a href="https://t.co/sppzfHr0KV">https://t.co/sppzfHr0KV</a> 
+  </p>&mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1455646772223782912?ref_src=twsrc%5Etfw">November 2, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+<img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-cdc-pfizer-1.jpg" width="400" height="224" alt="Pfizer at CDC ACIP: Kaplan-Meier curves" title="Pfizer at CDC ACIP: Kaplan-Meier curves" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I won't go over the presentations, as it appears there is no new data.  If you're
+super-careful and curious, you can get all the presentations 
+[here](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-11-2-3.html).  
+
+For my purposes, the only slide worth looking at is the one shown here, with the
+completely convincing Kaplan-Meier curves.  I dunno why this was _slide 28_ of the Pfizer
+presentation; I almost want it to be the _one and only_ slide of the whole meeting: "hey,
+anybody got an argument good enough to go up against this?"  
+
+Yes, I am a cranky old man.  
+
+There was, however, an increased emphasis on safety which is the main concern of ACIP
+anyway.  There was a lot of discussion about myocarditis, but it is expected to be lower
+in the younger group than in men (perhaps testosterone-linked?).  The risk of myocarditis
+from COVID-19 is much higher, in any case.  
+
+And as for schoolkids:  
+
+> "These kids are not in a cocoon. They're not at home," said Norman Baylor, president and
+> CEO of Biologics Consulting and a former head of the FDA's Office of Vaccines. "These
+> kids are in school and they are exposed to everything."  
+
+Yep, that they are.  
+
+The next step is formal administrative approval from the CDC director, Rochelle Walensky.
+Given that she described this as a "momentous day", that is likely to happen fast.  
+
 ---
 
 ## Notes &amp; References  
@@ -492,3 +536,5 @@ the ACIP meeting.
 <a id="fn16">16</a>: M Herper, ["FDA authorizes Pfizer Covid-19 vaccine for children aged 5 to 11"](https://www.statnews.com/2021/10/29/fda-pfizer-vaccine-covid19-children/), _STAT News_, 2021-Oct-29. [↩](#fn16a)  
 
 <a id="fn17">17</a>: [FDA Office of Media Affairs](mailto:fdaoma@fda.hhs.gov), ["FDA Authorizes Pfizer-BioNTech COVID-19 Vaccine for Emergency Use in Children 5 through 11 Years of Age"](https://www.fda.gov/news-events/press-announcements/fda-authorizes-pfizer-biontech-covid-19-vaccine-emergency-use-children-5-through-11-years-age), US FDA press announcements, 2021-Oct-29. [↩](#fn17a)  
+
+<a id="fn18">18</a>: H Branswell, ["CDC advisers endorse Pfizer’s Covid-19 vaccine for kids 5-11"](https://www.statnews.com/2021/11/02/cdc-advisers-endorse-pfizer-covid-19-vaccine-for-kids-5-11/), _STAT News_, 2021-Nov-02. [↩](#fn18a)  

@@ -22,7 +22,7 @@ tedious memorization of dates of doubtful relevance to be regurgitated at the ap
 moment for teachers and tests of doubtful motives.  And indeed, that's true for how
 history is usually taught.  There's none of the reason _why_ people did things, or refused
 to do other things: food, territory, power, marriages, slavery, spices, cloth, &hellip;
-all kids of things that are interesting and relevant get pressed out of the pablum fed to
+all kinds of things that are interesting and relevant get pressed out of the pablum fed to
 kids.  
 
 No wonder they're bored.  
