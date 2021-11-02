@@ -449,7 +449,7 @@ the ACIP meeting.
 ## Addendum 2021-Nov-02: CDC ACIP meeting  
 
 Today the CDC's ACIP committee met about Pfizer's Comirnaty vaccine against COVID-19 for
-5 &ndash; 11 year olds.  It was approved unanimously, 14-0.  <sup id="fn1a">[[1]](#fn1)</sup>
+5 &ndash; 11 year olds.  It was approved unanimously, 14-0.  <sup id="fn18a">[[18]](#fn18)</sup>
 Helen Branswell documented the meeting in a massive 50-tweet thread on Twitter:  
 
 <blockquote class="twitter-tweet">
@@ -471,7 +471,7 @@ completely convincing Kaplan-Meier curves.  I dunno why this was _slide 28_ of t
 presentation; I almost want it to be the _one and only_ slide of the whole meeting: "hey,
 anybody got an argument good enough to go up against this?"  
 
-Yes, I am a cranky old man.  
+(Yes, I am a cranky old man.)  
 
 There was, however, an increased emphasis on safety which is the main concern of ACIP
 anyway.  There was a lot of discussion about myocarditis, but it is expected to be lower
