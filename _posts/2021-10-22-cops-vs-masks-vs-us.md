@@ -7,7 +7,7 @@ comments: true
 
 Two NYPD transit cops forcibly ejected a citizen from a Manhattan subway station.  His
 crime?  Pointing out that the cops were not wearing masks, in contravention of a statewide
-mask mandate, and, for that matter simple common sense and courtesy.  
+mask mandate, and, for that matter, simple common sense and courtesy.  
 
 
 ## NYPD transit cops did _what_, now?  
@@ -34,7 +34,7 @@ That's pretty much the definition of _bad cop._
 
 Fortunately, there are people taking video of police actions, which is a citizen right
 supported by the
-[Supreme Court decision Glik v Cunniffe](https://en.wikipedia.org/wiki/Glik_v._Cunniffe).
+[Supreme Court decision _Glik v Cunniffe_](https://en.wikipedia.org/wiki/Glik_v._Cunniffe).
 Indeed, there's a whole Twitter account devoted to this:
 [@Copwatch\_CPU, whose slogan is "Exposing Dirty Cops in NYC"](https://twitter.com/Copwatch_CPU).
 The @Copwatch\_CPU folks published video taken by a commuter documenting the affair from
@@ -62,7 +62,7 @@ unsurprising that citizens resist this.
 Of course we understand that cops feel threatened.  They are just _massively confused_
 about what the real threat is: while their unions are busy resisting mask mandates, the
 main cause of police deaths is COVID-19.  More than gunshot, more than anything.
-Resisting vaccination and resisting masks is just _stupid_.  Resisting even talking to a
+Resisting vaccination and resisting masks is just _stupid_.  Resisting even _talking_ to a
 citizen who asks them about masks is _vicious and stupid_.  
 
 Yes, "not all cops".  But the good ones need to reign in the rest.  If they don't, they're
@@ -81,7 +81,8 @@ vacation days.  What do you want to bet that 'up to' means 'actually 0'?  I can'
 police department in the US with their paramilitary culture taking this seriously.  
 
 What I would _like_ to see is these 2 jokers fired and banned from police or military work
-for life.  I will, of course, not get what I want here.
+for life.  Oh, and banned from firearms ownership or use.  I will, of course, not get what
+I want here.  
 
 
 ## Cops understandably feel threatened, but are confused about the _actual_ threat  
@@ -173,7 +174,7 @@ think of themselves.
 
 <a id="fn1">1</a>: G Branwyn, ["NYPD transit cops muscle guy from subway for pointing out they're maskless"](https://boingboing.net/2021/10/20/nypd-transit-cops-muscle-guy-from-subway-for-pointing-out-theyre-maskless.html), _Boing Boing_, 2021-Oct-20. [↩](#fn1a)  
 
-<a id="fn2">2</a>: C Guse, ["NYPD cops refuse to wear masks, boot rider from NYC subway for raising issue"](https://www.nydailynews.com/new-york/ny-nypd-masks-subway-rider-video-20211019-ybaa4qji35gqdc4leaprrcdk3q-story.html), _New York Daily News_, 2021-Oct-19. [↩](#fn2a)  
+<a id="fn2">2</a>: C Guse, ["NYPD cops refuse to wear masks, boot rider from NYC subway for raising issue"](https://www.nydailynews.com/new-york/ny-nypd-masks-subway-rider-video-20211019-ybaa4qji35gqdc4leaprrcdk3q-story.html), _New York Daily News_, 2021-Oct-19.  No, I don't normally "read" the _New York Daily News_.  Neither should you. [↩](#fn2a)  
 
 <a id="fn3">3</a>: PZ Myers, ["Ooh, such a dangerous job"](https://freethoughtblogs.com/pharyngula/2021/10/20/ooh-such-a-dangerous-job/), _Pharyngula_, 2021-Oct-20. [↩](#fn3a)  
 
