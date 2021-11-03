@@ -13,11 +13,11 @@ humanity.  Oh, and there were donuts, too.
 
 It is once again autumn in New England.  
 
-[Like last year, we made a pilgrimage to the Berkshires]({{ site.baseurl
-}}/in-autumn-in-new-england-thoughts-turn-to/).  We stayed at the same friends' house,
-this time with them in residence.  We didn't take many pictures.  However, as we were all
-fully vaccinated and religious about mask use, we managed to keep company with some good
-friends this time.  Mostly we cooked, and talked, and enjoyed the beautiful views.  
+[Like last year, we made a pilgrimage to the Berkshires]({{ site.baseurl }}/in-autumn-in-new-england-thoughts-turn-to/).
+We stayed at the same friends' house, though this time with them in residence.  We didn't
+take many pictures.  However, as we were all fully vaccinated and religious about mask
+use, we managed to keep company with some good friends this time.  Mostly we cooked, and
+talked, and enjoyed the beautiful views.  
 
 It's too early for foliage season, but as it's apple season, it is also _cider donut season._  
 
