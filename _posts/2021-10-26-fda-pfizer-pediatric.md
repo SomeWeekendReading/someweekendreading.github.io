@@ -490,6 +490,31 @@ The next (and final!) step is formal administrative approval from the CDC direct
 Rochelle Walensky.  Given that she described this as a "momentous day", that is likely to
 happen fast.  
 
+
+## Addendum 2021-Nov-02: CDC endorses ACIP recommendation  
+
+Well, that was fast <sup id="fn19a">[[19]](#fn19)</sup>:  
+
+> Today, CDC Director Rochelle P. Walensky, M.D., M.P.H., endorsed the CDC Advisory
+> Committee on Immunization Practices’ (ACIP) recommendation that children 5 to 11 years
+> old be vaccinated against COVID-19 with the Pfizer-BioNTech pediatric vaccine. CDC now
+> expands vaccine recommendations to about 28 million children in the United States in
+> this age group and allows providers to begin vaccinating them as soon as possible.  
+
+And in more personal terms, Walensky said:  
+
+> "Together, with science leading the charge, we have taken another important step forward
+> in our nation's fight against the virus that causes COVID-19. We know millions of
+> parents are eager to get their children vaccinated and with this decision, we now have
+> recommended that about 28 million children receive a COVID-19 vaccine. As a mom, I
+> encourage parents with questions to talk to their pediatrician, school nurse or local
+> pharmacist to learn more about the vaccine and the importance of getting their children
+> vaccinated."  
+
+So that's it: ages 5 &ndash; 11 vaccination with Pfizer is now on the table.  
+
+Get your kids vax'd!  
+
 ---
 
 ## Notes &amp; References  
@@ -539,3 +564,5 @@ happen fast.
 <a id="fn17">17</a>: [FDA Office of Media Affairs](mailto:fdaoma@fda.hhs.gov), ["FDA Authorizes Pfizer-BioNTech COVID-19 Vaccine for Emergency Use in Children 5 through 11 Years of Age"](https://www.fda.gov/news-events/press-announcements/fda-authorizes-pfizer-biontech-covid-19-vaccine-emergency-use-children-5-through-11-years-age), US FDA press announcements, 2021-Oct-29. [↩](#fn17a)  
 
 <a id="fn18">18</a>: H Branswell, ["CDC advisers endorse Pfizer’s Covid-19 vaccine for kids 5-11"](https://www.statnews.com/2021/11/02/cdc-advisers-endorse-pfizer-covid-19-vaccine-for-kids-5-11/), _STAT News_, 2021-Nov-02. [↩](#fn18a)  
+
+<a id="fn19">19</a>: [CDC Media Relations](https://www.cdc.gov/media), ["CDC Recommends Pediatric COVID-19 Vaccine for Children 5 to 11 Years"](https://www.cdc.gov/media/releases/2021/s1102-PediatricCOVID-19Vaccine.html), _CDC Media Releases_, 2021-Nov-02. [↩](#fn19a)  
