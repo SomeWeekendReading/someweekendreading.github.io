@@ -41,7 +41,7 @@ __Result:__ Unvaccinated people had a risk of reinfection that was _higher_ by 5
 (95% confidence limit: 2.75 &ndash; 10.99).  
 
 Note that the risk ratio there is bounded away from 1 by the 95% confidence limit, i.e.,
-we're really sure this is a real thing and not just by chance.
+we're pretty sure this is a real thing and not just by chance.
 
 So we previously thought vaccine-induced immunity was probably better.  Now we have to
 revise our opinion: vaccine-induced immunity is more than _5 times better!_  
