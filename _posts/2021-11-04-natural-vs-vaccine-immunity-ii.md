@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natural Immunity vs Vaccine Immunity Redux
+title: Natural vs Vaccined Immunity, Redux
 tags: COVID PharmaAndBiotech Statistics
 comments: true
 ---
