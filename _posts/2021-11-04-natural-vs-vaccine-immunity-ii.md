@@ -77,6 +77,6 @@ Isn't it about time we start listening to this excellent advice?
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: [CDC Media Relations](https://www.cdc.gov/media), ["New CDC Study: Vaccination Offers Higher Protection than Previous COVID-19 Infection"](https://www.cdc.gov/media/releases/2021/s1029-Vaccination-Offers-Higher-Protection.html), _CDC Media Releases_, 2021-Oct-29. [↩](#fn1a)  
+<a id="fn1">1</a>: [CDC Media Relations](https://www.cdc.gov/media/), ["New CDC Study: Vaccination Offers Higher Protection than Previous COVID-19 Infection"](https://www.cdc.gov/media/releases/2021/s1029-Vaccination-Offers-Higher-Protection.html), _CDC Media Releases_, 2021-Oct-29. [↩](#fn1a)  
 
-<a id="fn2">2</a>: CH Bozio, _et al.,_ ["Laboratory-Confirmed COVID-19 Among Adults Hospitalized with COVID-19–Like Illness with Infection-Induced or mRNA Vaccine-Induced SARS-CoV-2 Immunity — Nine States, January–September 2021"](https://www.cdc.gov/mmwr/volumes/70/wr/mm7044e1.htm), _CDC Morbidity and Mortality Weekly Report (MMWR)_, ePub 2021-Oct-29.  DOI: [10.15585/mmwr.mm7044e1](http://dx.doi.org/10.15585/mmwr.mm7044e1)[↩](#fn2a)  
+<a id="fn2">2</a>: CH Bozio, _et al.,_ ["Laboratory-Confirmed COVID-19 Among Adults Hospitalized with COVID-19–Like Illness with Infection-Induced or mRNA Vaccine-Induced SARS-CoV-2 Immunity — Nine States, January–September 2021"](https://www.cdc.gov/mmwr/volumes/70/wr/mm7044e1.htm?s_cid=mm7044e1_w), _CDC Morbidity and Mortality Weekly Report (MMWR)_, ePub 2021-Oct-29.  DOI: [10.15585/mmwr.mm7044e1](http://dx.doi.org/10.15585/mmwr.mm7044e1)[↩](#fn2a)  
