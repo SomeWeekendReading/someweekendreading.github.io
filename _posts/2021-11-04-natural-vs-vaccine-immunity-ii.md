@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Natural' Immunity vs Vaccine Immunity Redux
+title: &quot;Natural&quot; Immunity vs Vaccine Immunity Redux
 tags: Math Physics Statistics
 comments: true
 ---
