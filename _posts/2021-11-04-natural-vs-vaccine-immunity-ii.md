@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Was the Norse Settlement at L'Anse aux Meadows in Newfoundland?
+title: 'Natural' Immunity vs Vaccine Immunity Redux
 tags: Math Physics Statistics
 comments: true
 ---
