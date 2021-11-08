@@ -101,7 +101,9 @@ news&hellip; I just don't know _what_ to think:
 	
 The last course avoids cops in the clinic, doesn't damage public health, and only
 causes legal exposure to somebody attempting to sue them for unsuccessful bribery.
-So apparently that's the way out: take the bribe, and vax 'em anyway.  
+So apparently that's the way out: take the bribe, and vax 'em anyway.  In some ways,
+everybody gets what they deserve: a small bonus for the medical folk, and a vaccine for
+the deluded patient.  It's just&hellip; lacking in _consent_ that bugs me.  
 
 I just don't know how I feel about this.  I both want to laugh and cry, simultaneously.  
 
