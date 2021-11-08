@@ -138,6 +138,7 @@ now.  In fact, they've done very well:
 - Japan has 125 million people, and so far only 18,000 deaths (14 dead per 100,000).  
 
 That means the US/Japan risk ratio says we in the US have _16 times more risk than Japan:_  
+
 $$
 \mbox{Risk Ratio} = \frac{227}{14} = 16.2
 $$
