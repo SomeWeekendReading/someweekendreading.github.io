@@ -17,7 +17,7 @@ There's no question COVID-19 had stressed us all.  And by _all_, I mean _humanit
 just Americans.  People respond to stress in different ways: sometimes admirably rising to
 the occasion, and sometimes descending into chaos and corruption.  
 
-Today two examples of the latter slithered into my awareness.  
+Today some examples of the latter slithered into my awareness.  
 
 
 ### Lesson 1: Why are all the ivermectin studies misdesigned, inconclusive, or outright fakes?  
@@ -139,7 +139,7 @@ now.  In fact, they've done very well:
 
 That means the US/Japan risk ratio says we in the US have _16 times more risk than Japan:_  
 $$
-  \mbox{Risk Ratio} = \frac{227}{14} = 16.2
+\mbox{Risk Ratio} = \frac{227}{14} = 16.2
 $$
 
 (TBD: And yeah, I oughta calculate a 95% confidence limit on that, using the fancy new
