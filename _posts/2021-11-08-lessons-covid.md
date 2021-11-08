@@ -50,7 +50,7 @@ retracted. <sup id="fn1a">[[1]](#fn1)</sup>
 - The forensic journalism initially found that the data was _clearly faked:_ there were
   big blocks of patient data that had been copied &amp; pasted repeatedly, i.e., some of
   the patients didn't even exist.  The authors admitted it was "rigged, sabotaged, or
-  mistakenly entered".  
+  mistakenly entered."  
 - However, in their official retraction, they admitted no such thing.  They claimed what
   got submitted was a file of data meant to "train a research assistant" instead of the
   real data.  They claim this was an 'innocent mistake'.  They also claim the results
@@ -85,10 +85,10 @@ safe, and effective vaccine people are sometimes attempting to bribe a doctor to
 them with water. <sup id="fn2a">[[2]](#fn2)</sup>  
 
 Now, I've worked with several Greek reserach scientists and doctors.  They were, to a
-fault, extremely competent, reliable, and funny.  I really liked them.  But as to this
-news&hellip; I just don't know what to think:  
+fault, extremely competent, reliable, and funny.  I really liked them.  But this
+news&hellip; I just don't know _what_ to think:  
 - On the one hand, people stupidly spending good money on a bribe for a fake vaccine card
-  is regrettably&hellp; well, not exactly _understandable_, but at least familiar.  
+  is regrettably&hellip; well, not exactly _understandable_, but at least familiar.  
 - This puts the doctors and nurses doing the administration in an interesting bind:  
   - If they outright refuse the bribe, then something annoying happens where they probably
     have to call the cops.  Nobody wants cops in their clinic.  
@@ -96,14 +96,14 @@ news&hellip; I just don't know what to think:
     damaged public health and likely the health of their patient.  No bribe is worth
     that.  
   - If they take the bribe and vaccinate anyway, they've practiced bad medicine by
-    administering treatment without consent.  The patient could later sue them, though
-    only by admitting they had attempted bribery.  
+    administering treatment without consent.  The patient could later sue them (though
+    only by admitting they had attempted bribery, so _that's_ unlikely).  
 	
-Since the last course avoids cops in the clinic, doesn't damage public health, and only
-causes legal exposure to somebody attempting to sue them for unsuccessful bribery,
-apparently that's the way out: take the bribe, vax 'em anyway.  
+The last course avoids cops in the clinic, doesn't damage public health, and only
+causes legal exposure to somebody attempting to sue them for unsuccessful bribery.
+So apparently that's the way out: take the bribe, and vax 'em anyway.  
 
-I both want to laugh and cry, simultaneously.  
+I just don't know how I feel about this.  I both want to laugh and cry, simultaneously.  
 
 I honestly don't know what I would do in that situation.  What would you do?  
 
