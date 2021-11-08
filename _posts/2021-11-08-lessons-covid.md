@@ -89,7 +89,7 @@ fault, extremely competent, reliable, and funny.  I really liked them.  But this
 news&hellip; I just don't know _what_ to think:  
 - On the one hand, people stupidly spending good money on a bribe for a fake vaccine card
   is regrettably&hellip; well, not exactly _understandable_, but at least familiar.  
-- This puts the doctors and nurses doing the administration in an interesting bind:  
+- This puts the doctors and nurses doing the vaccinating in an interesting 3-way bind:  
   - If they outright refuse the bribe, then something annoying happens where they probably
     have to call the cops.  Nobody wants cops in their clinic.  
   - If they take the bribe and give the water, they've just practiced corrupt medicine and
@@ -137,19 +137,28 @@ now.  In fact, they've done very well:
 - The US has 330 million people, and so far over 750,000 deaths (227 dead per 100,000).  
 - Japan has 125 million people, and so far only 18,000 deaths (14 dead per 100,000).  
 
-Compared to the US, they're doing _fantastic!_  Everybody wears a mask, because that's
+That means the US/Japan risk ratio says we in the US have _16 times more risk than Japan:_  
+$$
+  \mbox{Risk Ratio} = \frac{227}{14} = 16.2
+$$
+
+(TBD: And yeah, I oughta calculate a 95% confidence limit on that, using the fancy new
+[beta ratio stuff that I've been working on]({{ site.baseurl }}/beta-ratios/), right?)  
+
+Compared to the US, Japan is doing _fantastic!_  Everybody wears a mask, because that's
 _customary_ when you have even a cold, to prevent spreading it to others.  And their vax
-uptake was slow because of silly bureaucratic reasons, but after that it sped right up.  
+uptake was initially slow because of silly bureaucratic reasons, but after that it sped 
+right up.  
 
 Result:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
+<blockquote class="twitter-tweet"> 
+  <p lang="en" dir="ltr"> 
     Japan has zero daily COVID-19 deaths for first time in 15 months - media 
     <a href="https://t.co/APzo79nQbq">https://t.co/APzo79nQbq</a> 
     <a href="https://t.co/MbNGhuh5pq">pic.twitter.com/MbNGhuh5pq</a> 
-  </p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1457597562286968833?ref_src=twsrc%5Etfw">November 8, 2021</a>
-</blockquote>
+  </p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1457597562286968833?ref_src=twsrc%5Etfw">November 8, 2021</a> 
+</blockquote> 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Wouldn't you rather live in a society like that?  Wouldn't you rather _behave_ in a way that
