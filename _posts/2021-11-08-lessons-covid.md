@@ -143,7 +143,7 @@ $$
 \mbox{Risk Ratio} = \frac{227}{14} = 16.2
 $$
 
-(TBD: And yeah, I oughta calculate a 95% confidence limit on that, using the fancy new
+(TBD: And yeah, I oughta calculate 95% confidence limits on that, using the fancy new
 [beta ratio stuff that I've been working on]({{ site.baseurl }}/beta-ratios/), right?)  
 
 Compared to the US, Japan is doing _fantastic!_  Everybody wears a mask, because that's
