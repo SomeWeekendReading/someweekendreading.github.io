@@ -8,7 +8,7 @@ comments: true
 COVID-19 has taught us some lessons about (a) how mind-numbingly stupid and corrupt we can
 be, and (b) some forms of corruption that are so confusing that I can't tell if they are 
 [the divine madness]({{ site.baseurl }}/tags/#TheDivineMadness) or instead just 
-[Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#ϜΤΦ).  
+[&Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#ϜΤΦ).  
 
 
 ## Some people react to stress with corruption  
