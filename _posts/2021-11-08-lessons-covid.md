@@ -43,14 +43,20 @@ Yes, that is an _excellent_ question.  Ivermectin, and before it hydroxychloroqu
 the "miracle medications" that the Trumpsters swore up and down were a safe, easy, and
 cheap cure for COVID-19.  People believed that, and then they died.  
 
+Now, ivermectin and hydroxychloroquine are perfectly reasonable drugs &ndash; in the
+applications for which they are known to work.  Those applications are invertebrate
+parasite infestations and malaria, respectively. Neither of them has _anything_ to do with
+COVID-19.  
+
 So why are the studies of real COVID-19 therapies like vaccines and molnupiravir so
-ethically squeaky clean, while the Republican-amplifed crap is useless and corrupt?  Today
-came news from _Retraction Watch_ that the study they all cite about ivermectin has been
+ethically squeaky clean, whereas the Republican-amplifed crap around ivermectin and
+hydroxychloroquine is medically useless and scientifically corrupt?  Today came news from
+_Retraction Watch_ that the study they all cite about ivermectin has been 
 retracted. <sup id="fn1a">[[1]](#fn1)</sup>  
-- The forensic journalism initially found that the data was _clearly faked:_ there were
-  big blocks of patient data that had been copied &amp; pasted repeatedly, i.e., some of
-  the patients didn't even exist.  The authors admitted it was "rigged, sabotaged, or
-  mistakenly entered."  
+- The forensic journalism by the BBC, quoted in _Retraction Watch_, initially found that
+  the data was _clearly faked:_ there were big blocks of patient data that had been copied
+  &amp; pasted repeatedly, i.e., some of the patients didn't even exist.  The authors
+  admitted it was "rigged, sabotaged, or mistakenly entered" &ndash; their exact words.  
 - However, in their official retraction, they admitted no such thing.  They claimed what
   got submitted was a file of data meant to "train a research assistant" instead of the
   real data.  They claim this was an 'innocent mistake'.  They also claim the results
@@ -87,25 +93,29 @@ them with water. <sup id="fn2a">[[2]](#fn2)</sup>
 Now, I've worked with several Greek reserach scientists and doctors.  They were, to a
 fault, extremely competent, reliable, and funny.  I really liked them.  But this
 news&hellip; I just don't know _what_ to think:  
-- On the one hand, people stupidly spending good money on a bribe for a fake vaccine card
+- On the one hand: people stupidly spending good money on a bribe for a fake vaccine card
   is regrettably&hellip; well, not exactly _understandable_, but at least familiar.  
-- This puts the doctors and nurses doing the vaccinating in an interesting 3-way bind:  
+- On the other hand: this puts the doctors and nurses doing the vaccinating in an
+  interesting and frustrating 3-way bind:  
   - If they outright refuse the bribe, then something annoying happens where they probably
-    have to call the cops.  Nobody wants cops in their clinic.  
-  - If they take the bribe and give the water, they've just practiced corrupt medicine and
-    damaged public health and likely the health of their patient.  No bribe is worth
-    that.  
-  - If they take the bribe and vaccinate anyway, they've practiced bad medicine by
-    administering treatment without consent.  The patient could later sue them (though
+    have to call the cops.  Nobody wants cops in their clinic.  Plus, cops probably shut
+    the place down for the rest of the day, depriving other people of their vaccinations.
+    So nothing good happens down that path (aside from discouraging bribery, which I admit
+    is important!).  
+  - If they take the bribe and give the water sham vaccination, they've just practiced
+    _corrupt_ medicine and damaged public health and likely the health of their patient.  No
+    bribe is worth that.  
+  - If they take the bribe and vaccinate for real anyway, they've practiced _bad_ medicine by
+    administering treatment without proper consent.  The patient could later sue them (though
     only by admitting they had attempted bribery, so _that's_ unlikely).  
 	
 The last course avoids cops in the clinic, doesn't damage public health, and only
-causes legal exposure to somebody attempting to sue them for unsuccessful bribery.
+causes legal exposure to somebody attempting to sue them for not honoring illegal bribery.
 So apparently that's the way out: take the bribe, and vax 'em anyway.  In some ways,
 everybody gets what they deserve: a small bonus for the medical folk, and a vaccine for
-the deluded patient.  It's just&hellip; lacking in _consent_ that bugs me.  
+the deluded patient.  It's just&hellip; _lacking in consent_ that bugs me.  
 
-I just don't know how I feel about this.  I both want to laugh and cry, simultaneously.  
+I just don't know how to feel about this.  I both want to laugh and cry, simultaneously.  
 
 I honestly don't know what I would do in that situation.  What would you do?  
 
