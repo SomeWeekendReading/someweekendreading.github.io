@@ -38,7 +38,6 @@ question for us today:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-<img src="{{ site.baseurl }}/images/2021-11-08-lessons-covid-ivermectin-retraction.jpg" width="400" height="188" alt="Medscape Retraction Watch: Ivermectin study retracted" title="Medscape Retraction Watch: Ivermectin study retracted" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Yes, that is an _excellent_ question.  Ivermectin, and before it hydroxychloroquine, were
 the "miracle medications" that the Trumpsters swore up and down were a safe, easy, and
 cheap cure for COVID-19.  People believed that, and then they died.  
@@ -48,6 +47,7 @@ applications for which they are known to work.  Those applications are invertebr
 parasite infestations and malaria, respectively. Neither of them has _anything_ to do with
 COVID-19.  
 
+<img src="{{ site.baseurl }}/images/2021-11-08-lessons-covid-ivermectin-retraction.jpg" width="400" height="188" alt="Medscape Retraction Watch: Ivermectin study retracted" title="Medscape Retraction Watch: Ivermectin study retracted" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So why are the studies of real COVID-19 therapies like vaccines and molnupiravir so
 ethically squeaky clean, whereas the Republican-amplifed crap around ivermectin and
 hydroxychloroquine is medically useless and scientifically corrupt?  Today came news from
