@@ -1,4 +1,4 @@
-s---
+---
 layout: post
 title: On kids and vaccines ending the pandemic
 tags: COVID Politics
