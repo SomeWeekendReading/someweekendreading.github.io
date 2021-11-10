@@ -71,7 +71,9 @@ This is why you don't take medical advice from right-wing political actors.  Eve
 
 ### Lesson 2: Vaccines in Greece and how doctors respond  
 
-(__NB:__ See update below.)  
+(__NB:__ See the [update below](#addendum-2021-nov-10-a-greek-friends-opinion); the source
+material is at least conflicting, so this story is doubtful.  I mean, it's still a _cool_
+story, but it's also possibly just a _story._)  
 
 From Greece comes word of an interesting moral quandry:  
 
