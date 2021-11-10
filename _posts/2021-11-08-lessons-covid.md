@@ -247,7 +247,7 @@ When I dig through their article in detail, they cite 3 sources:
    > to vaccinate the negative ones normally.  
 
    Ok, there are a few rough edges on the automatic translation, but it does seem to say
-   about what we got above.  Still, it's just one TV reporter.  
+   about what we got above.  Still, it's just one TV reporter citing 1 newspaper reporter.  
 2. They also claim the same information was published in the newspaper 
    [_tovima_](https://www.tovima.gr/to-vima/), but their link goes to the front page
    instead of the particular article.  That's a bit dicey, but it appears the TV show
@@ -268,10 +268,12 @@ When I dig through their article in detail, they cite 3 sources:
    that the specific numbers are not as high as reported.  So not _quite_ a denial?  
 
 Seeing all that back-and-forth, it's now time for me to invoke
-[Scott's Razor](https://astralcodexten.substack.com/p/open-thread-164), and admit that the
-situation is complex enough that I'm no longer comfortable having an opinion.
-Unless somebody has further information about this story, I'm going to just admit I don't
-know if it's true.  
+[Scott's Razor](https://astralcodexten.substack.com/p/open-thread-164): I admit that the
+situation is sufficiently complex compared to my ignorance that I'm no longer comfortable
+having an opinion.  Unless somebody has further information about this story, I'm going to
+just admit I don't know if it's true.  
+
+Still&hellip; kinda cool story.  
 
 ---
 
