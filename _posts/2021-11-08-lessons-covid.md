@@ -174,8 +174,9 @@ Loading required package: ggplot2
 1 15.55 16.02
 ```
 
-So we conclude that for COVID-19 deaths compared to Japan, the US has 15.78 times the risk
-(95% confidence limit: 15.55 &ndash; 16.02).  
+We conclude that for COVID-19 deaths compared to Japan, the US has 15.78 times the risk
+(95% confidence limit: 15.55 &ndash; 16.02).  So&hellip; yeah, we're _pretty darn sure_
+the US has about 16 times the COVID-19 death rate of Japan.  
 
 Compared to the US, Japan is doing _fantastic!_  Everybody wears a mask, because that's
 _customary_ when you have even a cold, to prevent spreading it to others.  And their vax
