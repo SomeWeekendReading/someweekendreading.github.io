@@ -1,4 +1,4 @@
----
+s---
 layout: post
 title: On kids and vaccines ending the pandemic
 tags: COVID Politics
@@ -77,7 +77,7 @@ vaccination".
 <img src="{{ site.baseurl }}/images/2021-11-09-vac-eff-and-kids-medrxiv-li-2.jpg" width="400" height="226" alt="Li, et al.: Spread network of a COVID-19 outbreak from 2 kids" title="Li, et al.: Spread network of a COVID-19 outbreak from 2 kids" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 Ok, let's look at the paper: it's a preprint on _medR&chi;iv_ by Li, 
-_et al._ <sup id="fn1a">[[1]](#fn1)</sup>  They studied a population of school-age kids
+_et al._ <sup id="fn2a">[[2]](#fn2)</sup>  They studied a population of school-age kids
 under 12 in China, and their relation to PCR-confirmed cases of Delta COVID-19.  They did
 the usual contact tracing, and that resulted in the graph shown.  
 - The 2 red squares just left of center represent the "index cases", i.e., 2 kids who got
@@ -91,7 +91,7 @@ _will not stop_ until we vaccinate spreader populations like this example!
 
 In their words:  
 
-> Conclusion: Children aged < 12y may be critical hidden spreaders, which indicates an
+> Conclusion: Children aged &lt; 12y may be critical hidden spreaders, which indicates an
 > urgent need of vaccination for this particular population.  
 
 
@@ -118,7 +118,6 @@ vaccinated world-wide.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-
 <a id="fn1">1</a>: E Boodman, ["Not all Covid waves look the same. Here’s a snapshot of the Delta surge"](https://www.statnews.com/2021/11/08/not-all-covid-waves-look-the-same-heres-a-snapshot-of-the-delta-surge/), _STAT News_, 2021-Nov-08. [↩](#fn1a)  
 
-<a id="fn2">2</a>: H Li, _et al.,_ ["A need of COVID19 vaccination for children aged <12 years: Comparative evidence from the clinical characteristics in patients during a recent Delta surge (B.1.617.2)"](https://www.medrxiv.org/content/10.1101/2021.11.05.21265712v1), _medR&chi;iv_ Preprints, 2021-Nov-08. DOI: [10.1101/2021.11.05.21265712](https://doi.org/10.1101/2021.11.05.21265712). [↩](#fn2a)  
+<a id="fn2">2</a>: H Li, _et al.,_ ["A need of COVID19 vaccination for children aged &lt;12 years: Comparative evidence from the clinical characteristics in patients during a recent Delta surge (B.1.617.2)"](https://www.medrxiv.org/content/10.1101/2021.11.05.21265712v1), _medR&chi;iv_ Preprints, 2021-Nov-08. DOI: [10.1101/2021.11.05.21265712](https://doi.org/10.1101/2021.11.05.21265712). [↩](#fn2a)  
