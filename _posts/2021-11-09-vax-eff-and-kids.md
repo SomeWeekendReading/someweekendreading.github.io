@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On kids and vaccines ending the pandemic
+title: On kids and vaccines&colon; ending the pandemic
 tags: COVID Politics
 comments: true
 ---
