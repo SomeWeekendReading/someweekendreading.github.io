@@ -166,7 +166,7 @@ large parameter regime:
 Loading required package: xtable
 Loading required package: ggplot2
 > nUS  <- 330000000; nUSDead  <- 750000
-> nJPN <- 125000000; nJPNDead <- 18000
+> nJPN <- 125000000; nJPNDead <-  18000
 > round((nUSDead / nUS) / (nJPNDead / nJPN), digits = 2)
 [1] 15.78
 > round(ciBinomial(nUSDead, nJPNDead, nUS, nJPN, scale = "RR"), digits = 2)
