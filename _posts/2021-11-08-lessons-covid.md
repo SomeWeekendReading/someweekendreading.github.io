@@ -71,6 +71,8 @@ This is why you don't take medical advice from right-wing political actors.  Eve
 
 ### Lesson 2: Vaccines in Greece and how doctors respond  
 
+(__NB:__ See update below.)  
+
 From Greece comes word of an interesting moral quandry:  
 
 <blockquote class="twitter-tweet">
@@ -196,6 +198,78 @@ Result:
 
 Wouldn't you rather live in a society like that?  Wouldn't you rather _behave_ in a way that
 we collectively _make_ a society like that?  
+
+
+## Addendum 2021-Nov-10: A Greek friend's opinion  
+
+A former Greek colleague &ndash; by which I mean he's still Greek, but now a former
+colleague &ndash; emailed to say the story was funny, in both the humor sense and the 
+"how can that possibly be true?" sense:  
+
+> Having thought a little about  this, I wonder (i) how general this sort of behavior can
+> be, if true at all, and (ii) how strongly it correlates with Greekness.  
+>  
+> If you ever bribe someone for any service, you don't normally go around telling people
+> you did so. If you accept a bribe, you don't normally tell this to anyone. The supposed
+> journalist who wrote the news, must have been contacted by several doctors who were
+> telling the same story, i.e., that they accepted money from patients, and must have
+> confirmed their story by finding the patients admitting their bribery attempt. Doctors
+> are not supposed to tell journalists who their patients are and what they are consulting
+> for. The account sounds anecdotal.  
+
+So it should have been difficult for a reporter to have gotten several doctors to tell
+similar stories, and next to impossible to confirm with patients.  
+
+I've forgotten my original source, but it quoted the blog 
+[_Keep Talking Greece_](https://www.keeptalkinggreece.com/): "Greek News in English, Blog,
+Wit &amp; Drama".  Their [About Us](https://www.keeptalkinggreece.com/about-2/) page says
+they started in 2010 to tell people about the lives of real Greek people, as an antidote
+to all the crazy stories being told about Greece in the financial crisis.  If anything,
+that sounds like a claim for pro-Greek, rather than anti-Greek propaganda.  Sounds fine,
+if true. But somewhat suspiciously, none of their articles are attributed to an author.
+So that's at least a little peculiar.  
+
+When I dig through their article in detail, they cite 3 sources:  
+1. A report on
+   [Mega TV](https://www.megatv.com/2021/10/09/koronoios-pelateia-ano-ton-100-000-atomon-se-kyklomata-ton-pseytoemvolismon/).
+   When I run the accompanying text through Google Translate, it says:  
+
+   > There are over 100,000 citizens who have sought to receive a vaccination certificate
+   > without ever being vaccinated.  
+   >  
+   > As the journalist Vassilis Lambropoulos reveals in "Vima tis Kyriakis", data is being
+   > altered in about 200 vaccination centers out of a total of 2,000.  
+   > 
+   > The surreal element is that doctors take starters to drop water instead of the
+   > substance of the vaccine, but because they are afraid of the consequences, they seem
+   > to vaccinate the negative ones normally.  
+
+   Ok, there are a few rough edges on the automatic translation, but it does seem to say
+   about what we got above.  Still, it's just one TV reporter.  
+2. They also claim the same information was published in the newspaper 
+   [_tovima_](https://www.tovima.gr/to-vima/), but their link goes to the front page
+   instead of the particular article.  That's a bit dicey, but it appears the TV show
+   above was basing its reporting on this source.  
+3. Also, confusingly in a Greek web site called [_Banking News_](https://www.bankingnews.gr/koinonia/articles/592458/diapseydei-i-astynomia-tis-apokalypseis-gia-tous-eikonikoys-emvoliasmoys-kai-ta-plasta-pistopoiitika-sygxysi-gia-to-teixos-anosias),
+   is a denial that this happened.  Sort of.  
+   
+   After Google Translate, the headline is: "Police deny revelations about sham
+   vaccinations and fake certificates - Confusion over immunity wall".  A bit later we
+   read the denial:  
+   
+   > "The Internal Affairs Service of the Security Forces announces that the data
+   > mentioned in a Sunday newspaper article regarding the investigation of fictitious
+   > vaccination cases do not correspond to reality", the Police states regarding the
+   > revelations of the newspaper "To Vima tis Kyriakis".  
+   
+   On the other hand, the rest of the article goes on to say of _course_ this happens, but
+   that the specific numbers are not as high as reported.  So not _quite_ a denial?  
+
+Seeing all that back-and-forth, it's now time for me to invoke
+[Scott's Razor](https://astralcodexten.substack.com/p/open-thread-164), and admit that the
+situation is complex enough that I'm no longer comfortable having an opinion.
+Unless somebody has further information about this story, I'm going to just admit I don't
+know if it's true.  
 
 ---
 
