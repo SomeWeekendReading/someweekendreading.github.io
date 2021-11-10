@@ -180,7 +180,7 @@ Loading required package: ggplot2
 
 We conclude that for COVID-19 deaths compared to Japan, the US has 15.78 times the risk
 (95% confidence limit: 15.55 &ndash; 16.02).  So&hellip; yeah, we're _pretty darn sure_
-the US has about 16 times the COVID-19 death rate of Japan.  
+the US has about 16 times the per capita COVID-19 death rate of Japan.  
 
 Compared to the US, Japan is doing _fantastic!_  Everybody wears a mask, because that's
 _customary_ when you have even a cold, to prevent spreading it to others.  And their vax
@@ -204,9 +204,9 @@ we collectively _make_ a society like that?
 
 ## Addendum 2021-Nov-10: A Greek friend's opinion  
 
-A former Greek colleague &ndash; by which I mean he's still Greek, but now a former
-colleague &ndash; emailed to say the story was funny, in both the humor sense and the 
-"how can that possibly be true?" sense:  
+A former Greek colleague &ndash; by which I mean he's still Greek; just now that I've
+retired, he's a former colleague &ndash; emailed to say the story was funny, in both the
+humor sense and the "how can that possibly be true?" sense:  
 
 > Having thought a little about  this, I wonder (i) how general this sort of behavior can
 > be, if true at all, and (ii) how strongly it correlates with Greekness.  
@@ -222,7 +222,7 @@ colleague &ndash; emailed to say the story was funny, in both the humor sense an
 So it should have been difficult for a reporter to have gotten several doctors to tell
 similar stories, and next to impossible to confirm with patients.  
 
-I've forgotten my original source, but it quoted the blog 
+I've forgotten my original source, but it led me to the source I cited below, the blog 
 [_Keep Talking Greece_](https://www.keeptalkinggreece.com/): "Greek News in English, Blog,
 Wit &amp; Drama".  Their [About Us](https://www.keeptalkinggreece.com/about-2/) page says
 they started in 2010 to tell people about the lives of real Greek people, as an antidote
