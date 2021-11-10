@@ -146,17 +146,36 @@ case, so they could remain _slavers_).
 Consider, the better example of Japan, currently at 73.6% fully 
 vaccinated <sup id="fn3a">[[3]](#fn3)</sup>.  They're actually doing rather well right
 now.  In fact, they've done very well:  
-- The US has 330 million people, and so far over 750,000 deaths (227 dead per 100,000).  
-- Japan has 125 million people, and so far only 18,000 deaths (14 dead per 100,000).  
+- The US has 330 million people, and so far over 750,000 deaths (227.27 dead per 100,000).  
+- Japan has 125 million people, and so far only 18,000 deaths (14.40 dead per 100,000).  
 
-That means the US/Japan risk ratio says we in the US have _16 times more risk than Japan:_  
+That means the US/Japan risk ratio says we in the US have almost _16 times more risk than Japan:_  
 
 $$
-\mbox{Risk Ratio} = \frac{227}{14} = 16.2
+\mbox{Risk Ratio} = \frac{227.27}{14.40} = 15.78
 $$
 
-(TBD: And yeah, I oughta calculate 95% confidence limits on that, using the fancy new
-[beta ratio stuff that I've been working on]({{ site.baseurl }}/beta-ratios/), right?)  
+TBD: And yeah, I oughta calculate 95% confidence limits on that, using the fancy new
+[beta ratio stuff that I've been working on]({{ site.baseurl }}/beta-ratios/), right?  But
+for now, let's do the usual crude binomial confidence interval we've been using as a
+stopgap measure until I get my brain in gear on numerics of ${}\_{3}F\_{2}()$ in the
+large parameter regime:  
+
+```R
+> library("gsDesign")
+Loading required package: xtable
+Loading required package: ggplot2
+> nUS  <- 330000000; nUSDead  <- 750000
+> nJPN <- 125000000; nJPNDead <- 18000
+> round((nUSDead / nUS) / (nJPNDead / nJPN), digits = 2)
+[1] 15.78
+> round(ciBinomial(nUSDead, nJPNDead, nUS, nJPN, scale = "RR"), digits = 2)
+  lower upper
+1 15.55 16.02
+```
+
+So we conclude that for COVID-19 deaths compared to Japan, the US has 15.78 times the risk
+(95% confidence limit: 15.55 &ndash; 16.02).  
 
 Compared to the US, Japan is doing _fantastic!_  Everybody wears a mask, because that's
 _customary_ when you have even a cold, to prevent spreading it to others.  And their vax
