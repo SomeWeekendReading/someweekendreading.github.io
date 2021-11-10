@@ -14,7 +14,6 @@ so sick&hellip; think again.  Try harder this time.
 <img src="{{ site.baseurl }}/images/2021-11-09-vac-eff-and-kids-stat-1.jpg" width="400" height="176" alt="STAT News: Not all waves are the same: vaccine protection from Delta" title="STAT News: Not all waves are the same: vaccine protection from Delta" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-11-09-vac-eff-and-kids-stat-3.jpg" width="400" height="299" alt="STAT News: COVID-19 cases by vaccine status" title="STAT News: COVID-19 cases by vaccine status" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-11-09-vac-eff-and-kids-stat-2.jpg" width="400" height="296" alt="STAT News: COVID-19 hospitalizations by vaccine status" title="STAT News: COVID-19 hospitalizations by vaccine status" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 Not all COVID-19 waves are alike.  Today from Eric Boodman at 
 _STAT News_ <sup id="fn1a">[[1]](#fn1)</sup> comes evidence that the Delta wave is indeed
 different, partly due to the amount of vaccination, but also due to the concentrated

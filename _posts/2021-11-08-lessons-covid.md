@@ -211,7 +211,6 @@ we collectively _make_ a society like that?
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-
 <a id="fn1">1</a>: _Retraction Watch_ Staff, ["Ivermectin-COVID-19 Study Retracted; Authors Blame File Mixup"](https://www.medscape.com/viewarticle/962222?uac=66555DT&faf=1&sso=true&impID=3774109&src=WNL_trdalrt_pos1_211106), _Retraction Watch_ section of _Medscape_, 2021-Nov-03. [↩](#fn1a)  
 
 <a id="fn2">2</a>: Unattributed, ["Anti-vaxxers bribe doctors for “vaccination” with water, end up with the real vaccine"](https://www.keeptalkinggreece.com/2021/10/10/greece-fake-vaccinations-water-real-vaccine/), _Keep Talking Greece_, 2021-Oct-10. [↩](#fn2a)  
