@@ -204,7 +204,7 @@ we collectively _make_ a society like that?
 
 ## Addendum 2021-Nov-10: A Greek friend's opinion  
 
-A former Greek colleague &ndash; by which I mean he's still Greek; just now that I've
+A former Greek colleague &ndash; by which I mean he's still Greek; but now that I've
 retired, he's a former colleague &ndash; emailed to say the story was funny, in both the
 humor sense and the "how can that possibly be true?" sense:  
 
