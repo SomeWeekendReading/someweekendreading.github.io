@@ -279,7 +279,7 @@ __Later:__ My Greek friend offered a few more details: the newspaper
 [_To Vima tis Kyriakis_](https://en.wikipedia.org/wiki/To_Vima) translates to something
 like _The Sunday Tribune_.  Back in the 1970s, it was a well-respected, trustworthy,
 centrist newspaper on a par with other European papers such as _Le Monde_, _El Pais_, _The
-Guardian_, and so on.  But now, apparently, it is a little politically aligned with the
+Guardian_, and so on.  But now, apparently, it is politically aligned with the
 PASOK party.  
 
 It's apparently possible the government deliberately planted the story to discourage
