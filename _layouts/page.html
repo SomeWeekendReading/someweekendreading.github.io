@@ -9,6 +9,7 @@ layout: default
   {% include page-tags.html %}
   
   <div class="entry">
+    <div><span class="date">{{ page.date | date: "%a %Y-%b-%d" }}</span></div>
     {{ content }}
   </div>
 
