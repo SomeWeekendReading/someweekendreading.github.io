@@ -124,7 +124,8 @@ Treatment      3    389
 
 ```
 
-So we calculate the efficacy vs hospitalization at 89.00% (CL: 66.32% &ndash; 96.43%):  
+So we calculate the efficacy vs hospitalization at 89.00% (CL: 66.32% &ndash; 96.43%),
+which is _even better_ than molnupiravir:  
 
 ```R
 > efficacyAndCL(389, 3, 385, 27)
@@ -155,15 +156,16 @@ So we calculate the efficacy vs hospitalization at 89.00% (CL: 66.32% &ndash; 96
   see if there were synergy in using both simultaneously.  Or in combination with the
   antibody therapies, because why not check?  
 - __Safety:__ Paxlovid, at least, is in a class of drugs that have been well-used for 25
-  or so years, so we know a lot about their safety.  
+  or so years, so we know a lot about their safety.  People with HIV take them
+  chronically, daily for years and years.  
 - __Prophylaxis:__ If you test positive for COVID-19, what can we do for your contacts
   other than test them?  Both molnupiravir and paxlovid have to be given early.  Can we
   give them as a preventive, _before_ people start showing symptoms?  It would be great if
   we could offer them as a therapy to people found in contact tracing, and might even be
   able to stop outbreaks in their tracks.  
 
-That's an awful lot of powerfully [positive mana](https://en.wikipedia.org/wiki/Mana)
-coming down the road.  
+That's an awful lot of powerfully [positive protective mana](https://en.wikipedia.org/wiki/Mana)
+coming down the road at us.  
 
 
 ## The Weekend Conclusion  
