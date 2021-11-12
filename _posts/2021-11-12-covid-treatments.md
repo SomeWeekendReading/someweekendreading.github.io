@@ -23,10 +23,10 @@ $$
 \end{align*}
 $$
 
-Efficacy of 100% means nobody in the treatment arm of a trial got sick.  Efficacy of 0%
-means they got sick as often as the treated ones.  A _negative_ efficacy means the treated
-subjects got sick _more often_ than the untreated, i.e., the treatment is actively
-harmful.  
+- Efficacy of 100% means nobody in the treatment arm of a trial got sick.  
+- Efficacy of 0% means they got sick as often as the treated ones.  
+- A _negative_ efficacy means the treated subjects got sick _more often_ than the
+  untreated, i.e., the treatment is actively harmful.  
 
 So that's just a ratio of 2 probabilities and a little arithmetic.  You can calculate it
 yourself on paper if you can learn just 4 integers: the number of subjects in the
@@ -112,7 +112,8 @@ So we calculate the efficacy vs hospitalization at 48.27% (CL: 20.45% &ndash; 66
 0.2045387 0.4827044 0.6646596
 ```
 
-For paxlovid, the numbers are a trial of very similar size, as reported in the _WaPo_:  
+For paxlovid, the numbers are a trial of very similar size, as reported in the 
+_WaPo_ <sup id="fn4a">[[4]](#fn4)</sup>:  
 
 ```R
 > paxData <- matrix(c(27, 3, 385, 389), nrow = 2, ncol = 2, byrow = FALSE,
