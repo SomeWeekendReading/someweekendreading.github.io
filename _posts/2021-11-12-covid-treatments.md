@@ -24,7 +24,10 @@ $$
 $$
 
 - Efficacy of 100% means nobody in the treatment arm of a trial got sick.  
-- Efficacy of 0% means they got sick as often as the treated ones.  
+- Efficacy of a positive percent means the treatment helped, i.e., the treatment arm got sick
+  somewhat less often than the untreated arm.  
+- Efficacy of 0% means the treated &amp; untreated people got sick at about the same rate,
+  i.e., treatment didn't help and didn't hurt.  
 - A _negative_ efficacy means the treated subjects got sick _more often_ than the
   untreated, i.e., the treatment is actively harmful.  
 
@@ -104,12 +107,12 @@ Placebo       53    376
 Treatment     28    384
 ```
 
-So we calculate the efficacy vs hospitalization at 48.27% (CL: 20.45% &ndash; 66.47%):  
+So we calculate the efficacy vs hospitalization at 48.3% (CL: 20.5% &ndash; 66.5%):  
 
 ```R
-> efficacyAndCL(384, 28, 376, 53)
-      LCL       Eff       UCL
-0.2045387 0.4827044 0.6646596
+> signif(efficacyAndCL(384, 28, 376, 53), digits = 3)
+  LCL   Eff   UCL
+0.205 0.483 0.665
 ```
 
 For paxlovid, the numbers are a trial of very similar size, as reported in the 
@@ -124,14 +127,13 @@ Treatment      3    389
 
 ```
 
-So we calculate the efficacy vs hospitalization at 89.00% (CL: 66.32% &ndash; 96.43%),
+So we calculate the efficacy vs hospitalization at 89.0% (CL: 66.3% &ndash; 96.4%),
 which is _even better_ than molnupiravir:  
 
 ```R
-> efficacyAndCL(389, 3, 385, 27)
-      LCL       Eff       UCL 
-0.6632056 0.8900314 0.9643484 
-
+> signif(efficacyAndCL(389, 3, 385, 27), digits = 3)
+  LCL   Eff   UCL
+0.663 0.890 0.964
 ```
 
    
@@ -166,7 +168,7 @@ which is _even better_ than molnupiravir:
   able to stop outbreaks in their tracks.  
 
 That's an awful lot of powerfully [positive protective mana](https://en.wikipedia.org/wiki/Mana)
-coming down the road at us.  
+barreling down the road at us.  
 
 
 ## The Weekend Conclusion  
