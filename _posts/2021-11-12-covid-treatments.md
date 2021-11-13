@@ -153,8 +153,9 @@ which is _even better_ than molnupiravir:
 - __Synergy:__ I used to do a lot of synergy research in oncology, where therapies get
   combined to deliver a stronger effect than either drug alone.  Since molnupiravir and
   paxlovid work by completely different mechanisms of action, it would be interesting to
-  see if there were synergy in using both simultaneously.  Or in combination with the
-  antibody therapies, because why not check?  
+  see if there were synergy in using both simultaneously.  Or better yet, a 3-way
+  combination of molnupiravir, paxlovid, and fluvoxamine?  Or in combination with the
+  antibody therapies, because why not _check?_  
 - __Safety:__ Paxlovid, at least, is in a class of drugs that have been well-used for 25
   or so years, so we know a lot about their safety.  People with HIV take them
   chronically, daily for years and years.  
