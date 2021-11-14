@@ -140,8 +140,10 @@ That's _even better_ than molnupiravir: the _lower confidence limit_ of paxlovid
 case) is about the same as the _upper confidence limit_ (best case) for molnupiravir.
 
 Look at what happened to the relative prices of Merck and Pfizer when this was announced
-last week.  People aren't stupid about this.  Both drugs are going to be good, probably
-used in combination. But paxlovid looks better for now, if you can only get one of them.  
+last week.  People aren't stupid about this.  
+
+Both drugs are going to be good, and probably even better if used in combination, perhaps
+along with fluvoxamine. But paxlovid looks better for now, if you can only get one of them.  
    
 
 ## Why that matters  
@@ -217,7 +219,7 @@ very broad confidence interval means the posterior distribution of the efficacy 
 very wide.  It is your warning that the trial isn't really powered to report on the
 blessedly rare event of death.  A very cautious person might conclude that death rates
 were reduced by _at least_ 46%, probably more, maybe as much as 100%&hellip; but we can't
-say with confidence _exactly how much_ more.  
+say with confidence exactly _how much_ more.  
 
 Still, a _worst case_ 46% reduction in death is a good result!  
 
