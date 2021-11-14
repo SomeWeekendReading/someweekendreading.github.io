@@ -179,6 +179,36 @@ new drugs, in addition to the antibody infusions, dexamethasone, and so on.
 
 Things are slowly getting better.  
 
+
+## Addendum 2021-Nov-14: Death rates in the paxlovid trial  
+
+After some discussion
+[in the comments with TheZvi](https://thezvi.wordpress.com/2021/11/11/covid-11-11-winter-and-effective-treatments-are-coming/#comment-15407),
+we should also discuss the death rates in the paxlovid trial.  
+
+The confusing thing here is that there were 0 deaths in the paxlovid arm vs 7 deaths in
+the control arm.  That seems to lead to an efficacy vs death of 100%&hellip; which,
+understandably, people have trouble swallowing.  Here's how I would have reported it.
+
+Yes, the efficacy vs death was estimated at 100%, but with a 95% confidence limit of 46%
+&ndash; 100%.  That very broad confidence limit is your warning that the trial isn't
+really powered to report on the blessedly rare event of death.  A very cautious person
+might conclude that: death rates were reduced by _at least_ 46%, probably more, maybe as
+much as 100%, but we can't say with confidence _how much_ more.  Still, a _worst case_
+reduction in death of 46% is a good result!  
+
+```R
+> paxDataD <- matrix(c(7, 0, 385, 389), nrow = 2, ncol = 2, byrow = FALSE,
+                     dimnames = list(c("Placebo", "Treatment"), c("Ndead", "Ntotal"))); paxDataD
+          Ndead Ntotal
+Placebo       7    385
+Treatment     0    389
+
+> signif(efficacyAndCL(389, 0, 385, 7), digits = 3)
+  LCL  Eff  UCL
+ 0.46 1.00 1.00
+```
+
 ---
 
 ## Notes &amp; References  

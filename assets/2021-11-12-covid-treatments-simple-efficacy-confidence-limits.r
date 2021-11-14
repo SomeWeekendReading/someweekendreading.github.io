@@ -8,15 +8,20 @@ library("gsDesign")                                    # For ciBinomial()
 ## (To be eventually replaced by my super-duper Beta ratios stuff with Gauss hypergeometric magic!)
 ##
 
-## Molnupiravir example:
+## Molnupiravir example, hospitalizations:
 ## > signif(efficacyAndCL(384, 28, 376, 53), digits = 3)
 ##   LCL   Eff   UCL
 ## 0.205 0.483 0.665
 ##
-## Paxlovid example:
+## Paxlovid example, hospitalizations:
 ## > signif(efficacyAndCL(389, 3, 385, 27), digits = 3)
 ##   LCL   Eff   UCL
 ## 0.663 0.890 0.964
+##
+## Paxlovid example, deaths:
+## > signif(efficacyAndCL(389, 0, 385, 7), digits = 3)
+##  LCL  Eff  UCL
+## 0.46 1.00 1.00
 ##
 ## Try the qBetaRatio() method here?  Are these numbers small enough for the naive implementation?
 ## > sapply(c("LCL" = 0.025, "Median" = 0.500, "UCL" = 0.975), function(q) { 1 - qBetaRatio(28 + 1, 384 - 28 + 1, 53 + 1, 377 - 53 + 1, q = q) })
