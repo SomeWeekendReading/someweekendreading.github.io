@@ -205,13 +205,14 @@ Treatment     0    389
 Here's how I would have reported it: yes, the efficacy vs death was measured at 100% (CL:
 46% &ndash; 100%).  
 
-But with a 95% confidence limit of 46% &ndash; 100%?!  That very broad confidence limit is
-your warning that the trial isn't really powered to report on the blessedly rare event of
-death.  A very cautious person might conclude that death rates were reduced by _at least_
-46%, probably more, maybe as much as 100%&hellip; but we can't say with confidence
-_how much_ more.  
+But with a 95% confidence limit of 46% &ndash; 100%?!  From a Bayesian point of view, that
+very broad confidence interval means the posterior distribution of the efficacy is very,
+very wide.  It is your warning that the trial isn't really powered to report on the
+blessedly rare event of death.  A very cautious person might conclude that death rates
+were reduced by _at least_ 46%, probably more, maybe as much as 100%&hellip; but we can't
+say with confidence _exactly how much_ more.  
 
-Still, a _worst case_ reduction in death of 46% is a good result!  
+Still, a _worst case_ 46% reduction in death is a good result!  
 
 ---
 
