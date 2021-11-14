@@ -190,16 +190,6 @@ The confusing thing here is that there were 0 deaths in the paxlovid arm vs 7 de
 the control arm.  That seems to lead to an efficacy vs death of 100%&hellip; which,
 understandably, people have trouble swallowing.  
 
-Here's how I would have reported it: yes, the efficacy vs death was measured at 100% (CL:
-46% &ndash; 100%).  
-
-But with a 95% confidence limit of 46% &ndash; 100%?!  That very broad confidence limit is
-your warning that the trial isn't really powered to report on the blessedly rare event of
-death.  A very cautious person might conclude that death rates were reduced by _at least_
-46%, probably more, maybe as much as 100%&hellip; but we can't say with confidence _how
-much_
-more.  Still, a _worst case_ reduction in death of 46% is a good result!  
-
 ```R
 > paxDataD <- matrix(c(7, 0, 385, 389), nrow = 2, ncol = 2, byrow = FALSE,
                      dimnames = list(c("Placebo", "Treatment"), c("Ndead", "Ntotal"))); paxDataD
@@ -211,6 +201,17 @@ Treatment     0    389
   LCL  Eff  UCL
  0.46 1.00 1.00
 ```
+
+Here's how I would have reported it: yes, the efficacy vs death was measured at 100% (CL:
+46% &ndash; 100%).  
+
+But with a 95% confidence limit of 46% &ndash; 100%?!  That very broad confidence limit is
+your warning that the trial isn't really powered to report on the blessedly rare event of
+death.  A very cautious person might conclude that death rates were reduced by _at least_
+46%, probably more, maybe as much as 100%&hellip; but we can't say with confidence
+_how much_ more.  
+
+Still, a _worst case_ reduction in death of 46% is a good result!  
 
 ---
 
