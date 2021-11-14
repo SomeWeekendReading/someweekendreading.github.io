@@ -135,14 +135,13 @@ So we calculate the efficacy vs hospitalization at 89.0% (CL: 66.3% &ndash; 96.4
 0.663 0.890 0.964
 ```
 
+<img src="{{ site.baseurl }}/images/2021-11-12-covid-treatments-merck-pfizer-stock.jpg" width="400" height="264" alt="Merck &amp; Pfizer stock prices: relative merits of paxlovid vs molnupiravir?" title="Merck &amp; Pfizer stock prices: relative merits of paxlovid vs molnupiravir?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 That's _even better_ than molnupiravir: the _lower confidence limit_ of paxlovid (worst
 case) is about the same as the _upper confidence limit_ (best case) for molnupiravir.
-Look at what happened to the relative prices of Merck and
-Pfizer when this was announced last week:  
 
-<img src="{{ site.baseurl }}/images/2021-11-12-covid-treatments-merck-pfizer-stock.jpg" width="400" height="264" alt="Merck &amp; Pfizer stock prices: relative merits of paxlovid vs molnupiravir?" title="Merck &amp; Pfizer stock prices: relative merits of paxlovid vs molnupiravir?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-People aren't stupid about this.  Both are going to be good, probably used in combination.
-But paxlovid looks better for now, if you can only get one of them.   
+Look at what happened to the relative prices of Merck and Pfizer when this was announced
+last week.  People aren't stupid about this.  Both are going to be good, probably used in
+combination. But paxlovid looks better for now, if you can only get one of them.   
    
 
 ## Why that matters  
