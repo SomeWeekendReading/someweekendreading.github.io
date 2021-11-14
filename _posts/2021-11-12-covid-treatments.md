@@ -140,8 +140,8 @@ That's _even better_ than molnupiravir: the _lower confidence limit_ of paxlovid
 case) is about the same as the _upper confidence limit_ (best case) for molnupiravir.
 
 Look at what happened to the relative prices of Merck and Pfizer when this was announced
-last week.  People aren't stupid about this.  Both are going to be good, probably used in
-combination. But paxlovid looks better for now, if you can only get one of them.   
+last week.  People aren't stupid about this.  Both drugs are going to be good, probably
+used in combination. But paxlovid looks better for now, if you can only get one of them.  
    
 
 ## Why that matters  
