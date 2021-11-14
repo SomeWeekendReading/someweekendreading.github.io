@@ -183,8 +183,8 @@ Things are slowly getting better.
 ## Addendum 2021-Nov-14: Death rates in the paxlovid trial  
 
 After some discussion
-[in the comments with TheZvi](https://thezvi.wordpress.com/2021/11/11/covid-11-11-winter-and-effective-treatments-are-coming/#comment-15407),
-we should also discuss the death rates in the paxlovid trial.  
+[in the comments over at TheZvi's blog](https://thezvi.wordpress.com/2021/11/11/covid-11-11-winter-and-effective-treatments-are-coming/#comment-15407),
+we should also examine the death rates in the paxlovid trial.  
 
 The confusing thing here is that there were 0 deaths in the paxlovid arm vs 7 deaths in
 the control arm.  That seems to lead to an efficacy vs death of 100%&hellip; which,
