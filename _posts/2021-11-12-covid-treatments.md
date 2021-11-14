@@ -18,8 +18,8 @@ popultion.  In other words:
 
 $$
 \begin{align*}
- \mbox{VE} &= 100\% \times \frac{\Pr(\mbox{sick} | \mbox{untreated}) - \Pr(\mbox{sick} | \mbox{treated})}{\Pr(\mbox{sick} | \mbox{untreated})} \\
-           &= 100\% \times \left(1 - \frac{\Pr(\mbox{sick} | \mbox{treated})}{\Pr(\mbox{sick} | \mbox{untreated})}\right)
+ \mbox{Efficacy} &= 100\% \times \frac{\Pr(\mbox{sick} | \mbox{untreated}) - \Pr(\mbox{sick} | \mbox{treated})}{\Pr(\mbox{sick} | \mbox{untreated})} \\
+                 &= 100\% \times \left(1 - \frac{\Pr(\mbox{sick} | \mbox{treated})}{\Pr(\mbox{sick} | \mbox{untreated})}\right)
 \end{align*}
 $$
 
