@@ -199,7 +199,7 @@ Result:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Wouldn't you rather live in a society like that?  Wouldn't you rather _behave_ in a way that
-we collectively _make_ a society like that?  
+we collectively _make_ our society be like that?  
 
 
 ## Addendum 2021-Nov-10: A Greek friend's opinion  
