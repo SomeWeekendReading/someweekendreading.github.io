@@ -267,7 +267,7 @@ Sounds like the truth to me!
 
 ## The Pfizer presentation  
 
-Then we got to the main presentaiton by Pfizer, from William Gruber.  They're proposing a
+Then we got to the main presentation by Pfizer, from William Gruber.  They're proposing a
 10&mu;g dose, intramuscular, as 2 doses 3 weeks apart just like the adult version.  The
 main difference is the pediatric dose is 1/3 the adult dose.  
 

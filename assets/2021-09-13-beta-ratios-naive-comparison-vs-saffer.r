@@ -39,7 +39,8 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   dBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
     ## Beta ratio PDF
-    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
     stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -54,6 +55,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   pBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
     ## Beta ratio CDF
     ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
     stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -70,6 +72,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   qBetaRatio <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
     ## Beta ratio quantile (numeric solution via CDF)
     ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
     stopifnot(is.numeric(q) && is.numeric(minR) && is.numeric(maxR))
     stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
     stopifnot(0 <= minR && 0 <= maxR && minR < maxR)   # Really: don't be ridiculous
@@ -80,6 +83,12 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
     ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     qBetaRatio(alpha1, beta1, alpha2, beta2, 0.50, minR, maxR)
   }                                                    # Analytic version uses incomplete Beta func
+
+  medianCLBetaRatio <- function(alpha1, beta1, alpha2, beta2, alpha = 0.05, minR = 0, maxR = 10) {
+    sapply(c(LCL = alpha / 2, Median = 0.5, UCL = 1 - alpha / 2), function(q) {
+      qBetaRatio(alpha1, beta1, alpha2, beta2, q, minR, maxR)
+    })                                                 # Return LCL, median, UCL.  alpha here is
+  }                                                    #  tail probs, i.e., 0.05 for 95% cl's.
 
   meanBetaRatio <- function(alpha1, beta1, alpha2, beta2) {
     alpha1 * (alpha2 + beta2 - 1) / ((alpha1 + beta1) * (alpha2 - 1))

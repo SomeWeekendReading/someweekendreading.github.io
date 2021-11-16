@@ -24,7 +24,8 @@ library("gsDesign")                                    # For ciBinomial()
 ## 0.46 1.00 1.00
 ##
 ## Try the qBetaRatio() method here?  Are these numbers small enough for the naive implementation?
-## > sapply(c("LCL" = 0.025, "Median" = 0.500, "UCL" = 0.975), function(q) { 1 - qBetaRatio(28 + 1, 384 - 28 + 1, 53 + 1, 377 - 53 + 1, q = q) })
+## For molnumpiravir
+## > 1 - medianCLBetaRatio(28 + 1, 384 - 28 + 1, 53 + 1, 376 - 53 + 1, 0.05, 0, 10)
 efficacyAndCL <- function(Ntrt, Ktrt, Ncnt, Kcnt) {    # Treatment efficacy & 95% conf limit
   ## Ntrt = number of subjects in treatment arm
   ## Ktrt = number of sick in treatment arm
