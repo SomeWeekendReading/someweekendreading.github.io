@@ -1,0 +1,8 @@
+_id: 4c5af160-47f9-11ec-a494-ab56eeda5371
+_parent: 'https://www.someweekendreading.blog/covid-dead-partisans/'
+replying_to_uid: 08554100-47f4-11ec-a646-b1a15ec0a9ee
+message: "Does look like that, doesn't it?\r\n\r\nI was actually thinking of a [Box-Cox transformation](https://en.wikipedia.org/wiki/Power_transform#Box%E2%80%93Cox_transformation), one special case of which is a log transform.  Then optimize for the _&chi;2_ of a linear fit to choose the parameter in the B-C transform.\r\n\r\nBut it seems Gaba hasn't released the raw data.  Given how hard it is to collect, he may not want to."
+name: Weekend Editor
+email: 9188857aff0b1cfd146b06ed259e1afe
+hp: ''
+date: 1637189659
