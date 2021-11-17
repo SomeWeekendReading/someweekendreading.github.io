@@ -11,7 +11,7 @@ percentage of Trump voters.  It's not pretty.
 
 ## Previously&hellip;  
 
-[Last April, we did some regressions of state vaccination rates on state % Trump margins]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/#statistical-hypothesis-testing).
+Last April, [we did some regressions of state vaccination rates on state % Trump margins]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/#statistical-hypothesis-testing).
 It showed a depressingly statistically significant result: Trump states were not only less
 vaccinated, they weren't even _using_ the doses they had, back when they were scarce.  
 
@@ -24,7 +24,7 @@ Then at the end of October,
 stratify counties by deciles of % Trump voters and see the death rate in the most
 Republican is 6x higher than the most Democratic.  
 
-Now he's updated to the latest data, in both vax rates and death rates.  
+Now he's updated to the latest data, in both vax rates and death rates.  Oy, vey.  
 
 
 ## The ugliness of the present moment  
@@ -81,7 +81,7 @@ Being Republican is hazardous to your health.  And your neighbor's health.
 
 <a id="fn1">1</a>: ***, ["***"](***), *** [↩](#fn1a)  
 
-<img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/***"><img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
