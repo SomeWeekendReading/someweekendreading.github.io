@@ -257,7 +257,7 @@ When I dig through their article in detail, they cite 3 sources:
    
    After Google Translate, the headline is: "Police deny revelations about sham
    vaccinations and fake certificates - Confusion over immunity wall".  A bit later we
-   read the denial:  
+   read the denial, again courtesy of Google Translate:  
    
    > "The Internal Affairs Service of the Security Forces announces that the data
    > mentioned in a Sunday newspaper article regarding the investigation of fictitious
