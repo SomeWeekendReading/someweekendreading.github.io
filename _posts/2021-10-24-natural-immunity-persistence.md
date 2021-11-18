@@ -32,7 +32,7 @@ zoonotic re-infections in humanity more or less forever.
 So&hellip; alternative (a), periodic boosters, is the likely future.  
 
 That's why I was struck by this (__NB:__ "MI" = myocardial infarction, basically a heart attack;
-"PE" = pulmonary embolism, clotting in the lung that's often instanty fatal):  
+"PE" = pulmonary embolism, clotting in the lung that's often instantly fatal):  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
