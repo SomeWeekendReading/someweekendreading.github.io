@@ -86,8 +86,8 @@ Being Republican is hazardous to your health.  And your neighbor's health.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: C Gaba, ["Weekly Update: U.S. #COVID19 Vaccination Levels By COUNTY & Trump 2020 Vote"](https://acasignups.net/21/11/15/weekly-update-us-covid19-vaccination-levels-county-trump-2020-vote), ACASignups.net blog, 2021-Nov-15. [↩](#fn1a)  
+<a id="fn1">1</a>: C Gaba, ["Weekly Update: U.S. #COVID19 Vaccination Levels By COUNTY & Trump 2020 Vote"](https://acasignups.net/21/11/15/weekly-update-us-covid19-vaccination-levels-county-trump-2020-vote), _ACASignups.net_ blog, 2021-Nov-15. [↩](#fn1a)  
 
-<a id="fn2">2</a>: C Gaba, ["Weekly Update: #COVID19 Case/Death Rates By County, Partisan Lean & Vaccination Rate"](https://acasignups.net/21/11/15/weekly-update-covid19-casedeath-rates-county-partisan-lean-vaccination-rate), ACASignups.net blog, 2021-Nov-15. [↩](#fn2a)  
+<a id="fn2">2</a>: C Gaba, ["Weekly Update: #COVID19 Case/Death Rates By County, Partisan Lean & Vaccination Rate"](https://acasignups.net/21/11/15/weekly-update-covid19-casedeath-rates-county-partisan-lean-vaccination-rate), _ACASignups.net_ blog, 2021-Nov-15. [↩](#fn2a)  
 
 <a id="fn3">3</a>: C Gaba, ["America 2021 in one image"](https://twitter.com/charles_gaba/status/1459565881214836743), _Twitter_, 2021-Nov-13. [↩](#fn3a)  
