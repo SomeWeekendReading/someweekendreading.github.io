@@ -135,7 +135,8 @@ meta-analysis (combining mulitple other studies to get better statistical signif
 66 studies and found ivermectin is wonderful.  
 
 Today, we read through a dissection of that meta-analysis by Scott Alexander Siskind, who
-gets my award for Best Blogger Ever.  <sup id="fn5a">[[5]](#fn5)</sup>  
+gets my award for Best Blogger Ever.  <sup id="fn5a">[[5]](#fn5)</sup>  Let's see what
+Scott has to say, and maybe add on a few little bits.  
 
 ### Weirdness \#1: Anomalous Anonymity  
 
