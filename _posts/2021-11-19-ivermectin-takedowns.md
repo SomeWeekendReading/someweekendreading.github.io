@@ -5,7 +5,7 @@ tags: COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
 
-The right-wing knuckleheadedness around ivermecting as a COVID-19 therapy continues to
+The right-wing knuckleheadedness around ivermectin as a COVID-19 therapy continues to
 amaze me.  This week I came across 2 ivermecting takedowns: a Malaysian clinical trial and
 Scott Alexander's dissection of the ivmmeta.com metanalysis.  Two thumbs down.  Way down.  
 
