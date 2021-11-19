@@ -72,9 +72,11 @@ them_.
 <a href="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-malay-mih.png"><img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-malay-mih-thumb.jpg" width="400" height="225" alt="Malaysian Ministry of Health: ivermecting is useless for COVID-19" title="Malaysian Ministry of Health: ivermecting is useless for COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Earlier this month, the Ministry of Health in Malaysia released the results of a clinical
 trial of ivermectin vs standard of care in COVID-19 
-patients.  <sup id="fn4a">[[4]](#fn4)</sup>  Why Malaysia?  Because ivermectin is generic,
-and therefore _cheap_.  That makes a huge difference in the developing world.  However,
-sensible people want to know if ivermectin is _actually useful_, so they ran a trial.  
+patients.  <sup id="fn4a">[[4]](#fn4)</sup>  (The US registry is 
+[NCT04920942](https://clinicaltrials.gov/ct2/show/NCT04920942), if you want to see _all_
+the details.)  Why Malaysia?  Because ivermectin is generic, and therefore _cheap_.  That
+makes a huge difference in the developing world.  However, sensible people want to know if
+ivermectin is _actually useful_, so they ran a trial.  
 
 The summary is shown here:  
 - _Design:_  
@@ -304,7 +306,7 @@ Ivermectin is _not for COVID-19!_
 - For COVID-19 treatment, there's fluvoxamine, dexamethasone, molnupiravir, and (soon)
   plaxovid.  All fine therapies if you get a breakthrough infection.
 
-But your first step is gettinf vaccinated.  Here at Chez Weekend, we both got 3 doses of
+But your first step is getting vaccinated.  Here at Chez Weekend, we both got 3 doses of
 mRNA vaccines.  
 
 ---
