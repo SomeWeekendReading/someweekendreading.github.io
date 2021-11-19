@@ -74,7 +74,9 @@ Earlier this month, the Ministry of Health in Malaysia released the results of a
 trial of ivermectin vs standard of care in COVID-19 
 patients.  <sup id="fn4a">[[4]](#fn4)</sup>  (The US registry is 
 [NCT04920942](https://clinicaltrials.gov/ct2/show/NCT04920942), if you want to see _all_
-the details.)  Why Malaysia?  Because ivermectin is generic, and therefore _cheap_.  That
+the details.)  
+
+Why Malaysia?  Because ivermectin is generic, and therefore _cheap_.  That
 makes a huge difference in the developing world.  However, sensible people want to know if
 ivermectin is _actually useful_, so they ran a trial.  
 
