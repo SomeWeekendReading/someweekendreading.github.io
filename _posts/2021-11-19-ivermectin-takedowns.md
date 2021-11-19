@@ -224,7 +224,7 @@ fraud, they eliminated 18 out of 29 studies.  The eliminations were for fraud, f
 preregistration violations (not saying what you're measuring in advance, but just going on
 a fishing expedition), methodological blunders, and so on.  
 
-### Weirdness \#4: Irritatingly Insignificant  
+### Weirdness \#4: Indifferently Insignificant  
 
 Finding this much fraud and incompetence in one place would be enough for me to just throw
 out _everything_.  That's because the rest have a pretty good chance of being fraudulent
