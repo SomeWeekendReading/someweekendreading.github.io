@@ -256,13 +256,16 @@ accident_?  Why is it when trying to combine large numbers of studies in a meta-
 before we even get to the "meta" part, we're _back down to one study?_  
 
 If that doesn't smell bad to you, get your doc to check you for COVID-19 because you've
-lost your sense of smell.  
+lost your sense of smell.  Sure, maybe the meta-analysis of all of them combined
+might be significant, but at this point it had better be _really_ convincing.  (And the
+fact that they already use different endpoints and inclusion criteria isn't helping.)  
 
 You can fiddle about with the inclusion criteria, the outcome measures, and the
 combination methods to get results from $p \sim 0.04$ to $p \sim 0.15$.  I.e., if you try
 really hard to manipulate the questions you ask, you can get borderline statistical
-significance (below 0.05).  There's a name for this practice of fiddling around to find
-the question your data says is significant: _p-hacking_.  And it's a crime against
+significance (just below 0.05).  There's a name for this practice of fiddling around to find
+the _post hoc_ question your data says is significant:
+[_p-hacking_](https://en.wikipedia.org/wiki/Data_dredging).  And it's a crime against
 statistics.  
 
 ### Weirdness \#5: Wait, Worms?  
