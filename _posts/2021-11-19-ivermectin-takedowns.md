@@ -16,13 +16,14 @@ Scott Alexander's dissection of the ivmmeta.com metanalysis.  Two thumbs down.  
 infestations of non-vertebrate parasites (think intestinal worms, or a topical lotion for
 head lice).  
 
-It has mostly veterinary applications in the US, since farm animals get worms but people
-rarely do.  But that's not the case everywhere, and even in the US people occasionally get
-worms and need treatment.  And that's what ivermectin does, and does very well.  
+It has mostly veterinary applications in the US, since farm animals get worms regularly,
+but people rarely do.  But that's not the case everywhere, and even in the US people
+occasionally get worms and need treatment.  That's what ivermectin does, and does very
+well.  
 
 I'm going to vent a certain amount of invective about ivermectin here, but don't get me
 wrong: it's a perfectly fine drug, _in the case of parasite infestations._ Campbell &amp;
-&Omacr;mura even got the 2015 Nobel in medicine for its discovery in the 1970s.  It's even
+Omura even got the 2015 Nobel in medicine for its discovery in the 1970s.  It's even
 on the
 [WHO's list of esential medicines](https://en.wikipedia.org/wiki/WHO_Model_List_of_Essential_Medicines#Anthelminthics).
 If you have worms, ivermectin is your new best friend.  If you don't, then not.  
@@ -45,8 +46,8 @@ the FDA or even notice the consumer update, but the FDA's trying to be responsib
 People are so suspicious and deluded that
 [when Merck announced the success of the molnupiravir trial](https://www.someweekendreading.blog/covid-misc/#molnupiravir-works),
 people immediately dived down the intellectual rathole of speculation that molnupiravir is
-just repackaged ivermectin (because Merck makes both, and ivermectin is a cheap generic
-&amp; thus less profitable).  
+just repackaged ivermectin (because Merck makes both, and ivermectin is a cheap generic,
+thus less profitable).  
 
 It was so bad, and so _immediate_, that _Reuters_ ran 2 Fact Checks on it, and
 they're just not even remotely
@@ -90,7 +91,7 @@ The summary is shown here:
     they're (properly) looking for an early intervention to prevent serious disease or
     death.  
   - Randomly assigned ivermectin or standard of care.  So they're (properly) randomizing.
-    (I think: there are a lot of details to proper randomization which are left out of the
+    (I _think:_ there are a lot of details to proper randomization which are left out of the
     summary.  But everything looks good on the surface.)  
 - _Results:_  
   - 3x more adverse events in the ivermectin arm, the most common being severe diarrhea.
@@ -151,7 +152,7 @@ It seems kind of trollish to me: if you hope to change the world for the better,
 your name on it so you can claim credit; if you're just stirring up trouble with
 disinformation, you want anonymity and plausible deniability.  
 
-(Yes, this blog is hemi-semi-demi-anonymous.  That's to repel annoyances.  And, of course,
+(Yes, _this_ blog is hemi-semi-demi-anonymous.  That's to repel annoyances.  And, of course,
 because I'm not trying to make a dramatic splash that changes how everybody thinks.  I
 want to examine how _I_ think, and talk it over with friends and the occasional passers-by
 who somehow find their way to this crummy little blog that nobody reads.)  
@@ -167,7 +168,7 @@ of 35 ivermectin studies, summarizing them:
   in ivermectin vs other arm) and its confidence limit.  You'd like to see $RR < 1$ to see
   a positive ivermectin effect.  
 - The plot on the right shows the same sort of thing visually: $RR$ goes horizontally from
-  left ($RR < 1$) to right ($RR > 1$).  The box shows you where the $RR$ estimate is, the
+  the left ($RR < 1$) to the right ($RR > 1$).  The box shows you where the $RR$ estimate is, the
   size of the box indicates the number of patients, and the whiskers show the confidence
   interval.  
 - For ivermectin to be successful, you'd like to see a lot of big green boxes all to the
