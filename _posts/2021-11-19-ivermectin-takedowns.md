@@ -167,7 +167,7 @@ of 35 ivermectin studies, summarizing them:
 - The first numbers on the left are the Risk Ratio ($RR$: ratio of probability of the endpoint
   in ivermectin vs other arm) and its confidence limit.  You'd like to see $RR < 1$ to see
   a positive ivermectin effect.  
-- The plot on the right shows the same sort of thing visually: $RR$ goes horizontally from
+- The plot on the right shows the same sort of thing visually: $RR$ increases horizontally from
   the left ($RR < 1$) to the right ($RR > 1$).  The box shows you where the $RR$ estimate is, the
   size of the box indicates the number of patients, and the whiskers show the confidence
   interval.  
