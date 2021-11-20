@@ -1106,8 +1106,7 @@ may be wrong, especially when you believe too firmly that you're right."
 &mdash; [George Soros](https://en.wikipedia.org/wiki/George_Soros), 
 [interview in CNN Money 14-May-2008](https://money.cnn.com/2008/05/12/pf/soros_interview.moneymag/index.htm?postversion=2008051404).  
 
-"Those stock market guys are crooked." &mdash; [Al Capone](https://en.wikipedia.org/wiki/Al_Capone),
-famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](https://www.alternet.org/2009/11/bill_moyers_and_james_galbraith_our_free_market_makes_economic_collapse_inevitable/).  
+"Those stock market guys are crooked." &mdash; [Al Capone](https://en.wikipedia.org/wiki/Al_Capone), famous gangster of the 1920s-30s, quoted [in an article by Bill Moyers](https://www.alternet.org/2009/11/bill_moyers_and_james_galbraith_our_free_market_makes_economic_collapse_inevitable/).  And Capone?  He _knew_ from crooked.  
 
 "Simplicity is the ultimate form of sophistication."
 &mdash; [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_vinci)  

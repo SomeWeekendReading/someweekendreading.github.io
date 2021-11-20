@@ -9,6 +9,7 @@ The right-wing knuckleheadedness around ivermectin as a COVID-19 therapy continu
 amaze me.  This week I came across 2 ivermectin takedowns: a Malaysian clinical trial and
 Scott Alexander's dissection of the ivmmeta.com metanalysis.  Two thumbs down.  Way down.  
 
+
 ## OK, why are people so shouty about this ivermectin stuff?  
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-structure.png" width="250" height="195" alt="Wikipedia: ivermectin structure" title="Wikipedia: ivermectin structure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -202,7 +203,6 @@ of fradulent studies on ivermectin, this makes _absolutely no sense whatsoever!_
 
 It introduces the potential for investigator bias that contaminates everything.  
 
-
 ### The long, hard grind  
 
 Scott then went through each of the 35 studies, read the primary material, and found all
@@ -234,7 +234,7 @@ fraud, they eliminated 18 out of 29 studies.  The eliminations were for fraud, f
 preregistration violations (not saying what you're measuring in advance, but just going on
 a fishing expedition), methodological blunders, and so on.  
 
-### Weirdness \#4: Indifferently Insignificant  
+### Weirdness \#4: Silly Significance  
 
 Finding this much fraud and incompetence in one place would be enough for me to just throw
 out _everything_.  That's because the rest have a pretty good chance of being fraudulent
@@ -296,10 +296,9 @@ Basically:
   better, _provided you're being harassed by intestinal worms in the first place._  
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-bitterman-thumb.jpg" width="400" height="247" alt="Bitterman: ivermectin risk ratio vs % of population at risk for worms" title="Bitterman: ivermectin risk ratio vs % of population at risk for worms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 The final nail in the coffin&hellip; well, let's be honest: it's really more of a railroad
-spike.  Avi Bitterman controlled the ivermectin results for percent of population with
-_Strongyloides_ worm infestation and
+spike, isn't it?  Avi Bitterman controlled the ivermectin results for percent of
+population with _Strongyloides_ worm infestation and
 [reported the result shown here](https://twitter.com/AviBittMD/status/1461076939192602628).  
 
 The horizontal axis is the fraction of the population at risk for infestation by
@@ -333,8 +332,7 @@ mRNA vaccines.
 And as of this afternoon, the US FDA's advisory committee has expanded the Emergency Use
 Authorization for boosters of both Pfizer and Moderna to all persons over age 18 who are
 more than 6 months past their initial 2 shots. <sup id="fn7a">[[7]](#fn7)</sup> Acting FDA
-Commissioner Woodcock then endorsed the decision, making all-adult boosters officially
-granted EUA.  
+Commissioner Woodcock then endorsed the decision, officially granting EUA for all-adult boosters.  
 
 In a remarkable display of speed, the CDC's ACIP committee within hours voted 11 &ndash; 0 to
 endorse that.  Then CDC Director Walensky immediately ratified their decision, adding the
