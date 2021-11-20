@@ -46,7 +46,9 @@ People are so suspicious and deluded that
 [when Merck announced the success of the molnupiravir trial](https://www.someweekendreading.blog/covid-misc/#molnupiravir-works),
 people immediately dived down the intellectual rathole that molnupiravir was just
 ivermectin repackaged (because Merck makes both, and ivermectin is cheap &amp; less
-profitable).  It's so bad, and so _immediate_, that _Reuters_ ran 2 Fact Checks on it, and
+profitable).  
+
+It was so bad, and so _immediate_, that _Reuters_ ran 2 Fact Checks on it, and
 they're just not even remotely
 similar. <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup> Ivermectin is
 a macrolytic lactone derived from a bacterium, and acts on ion channels found in parasites
@@ -92,7 +94,7 @@ The summary is shown here:
     summary.  But everything looks good on the surface.)  
 - _Results:_  
   - 3x more adverse events in the ivermectin arm, the most common being severe diarrhea.
-    (Bonus points for the diarrhea cartoon.)  
+    (Bonus points for the diarrhea cartoon on the center right.)  
   - No difference in progression to severe disease (21.2% on ivm, 17.3% on SoC).  That
     gives a risk ratio of 1.29 _against_ ivermectin.  But the 95% confidence interval on
     the risk ratio is 0.82 &ndash; 2.02: since that interval includes 1 (i.e., the same
@@ -136,7 +138,7 @@ meta-analysis (combining mulitple other studies to get better statistical signif
 
 Today, we read through a dissection of that meta-analysis by Scott Alexander Siskind, who
 gets my award for Best Blogger Ever.  <sup id="fn5a">[[5]](#fn5)</sup>  Let's see what
-Scott has to say, and maybe add on a few little bits.  
+Scott has to say, and maybe add on a few little bits of our own.  
 
 ### Weirdness \#1: Anomalous Anonymity  
 
@@ -145,7 +147,9 @@ professional-looking&hellip; but it's anonymous.  Why would you perform thousand
 hours like this, hoping to change the world of COVID-19 therapeutics, and not put your
 name on it?  
 
-It seems pretty trollish to me.  
+It seems kind of trollish to me: if you hope to change the world for the better, you want
+your name on it so you can claim credit; if you're just stirring up trouble with
+disinformation, you want anonymity and plausible deniability.  
 
 (Yes, this blog is hemi-semi-demi-anonymous.  That's to repel annoyances.  And, of course,
 because I'm not trying to make a dramatic splash that changes how everybody thinks.  I
@@ -159,10 +163,10 @@ Scott starts off in the right place: the
 [forest plot (a.k.a. "blobbogram")](https://en.wikipedia.org/wiki/Forest_plot)
 of 35 ivermectin studies, summarizing them:  
 - Each line is a study.  
-- The first numbers on the left are the Risk Ratio (ratio of probability of the endpoint
+- The first numbers on the left are the Risk Ratio ($RR$: ratio of probability of the endpoint
   in ivermectin vs other arm) and its confidence limit.  You'd like to see $RR < 1$ to see
-  an ivermectin effect.  
-- The plot on the right shows the same sort of thing visuall: $RR$ goes horizontally from
+  a positive ivermectin effect.  
+- The plot on the right shows the same sort of thing visually: $RR$ goes horizontally from
   left ($RR < 1$) to right ($RR > 1$).  The box shows you where the $RR$ estimate is, the
   size of the box indicates the number of patients, and the whiskers show the confidence
   interval.  
@@ -203,7 +207,7 @@ It introduces the potential for investigator bias that contaminates everything.
 Scott then went through each of the 35 studies, read the primary material, and found all
 sorts of crap.  For example, some studies were actually fraudulent.  Some, once you got
 the raw data, showed craziness: patients dying before the study started, groups of 4
-patients looking like the data was copy/pasted&hellip; basically enough to convince you
+patients repeatedly looking like the data was copy/pasted&hellip; basically enough to convince you
 the study never happened at all.  At least 4 studies have been retracted
 _because of data fraud._  
 
@@ -212,11 +216,11 @@ through more than half of his writeup.  It's just too depressing.  If it's not f
 it's incompetent.  If it's not incompetent, it's underpowered.  If it's not underpowered,
 it's just mis-analyzed.  If it's not mis-analyzed, it wasn't randomized or blinded.  
 
-Sometimes they report numbers that _simply could not be the result_ from a patient
+Sometimes they reported numbers that _simply could not be the result_ from a patient
 population they claimed.  Simple example: if you have 10 patients, there's no way you can
 say 15% of them did something or other &ndash; 0.15 is not the result of any integer
-fraction with a denominator of 10.  Is that incompetence, or fake data?  Does it matter
-which?  
+fraction with a denominator of 10.  Is that incompetence, or fake data?  (And at this
+point, does it _matter_ which?)  
 
 Some of the studies even have treatment and control groups done at different times, which
 means they were exposed to different strains of SARS-CoV-2 (Delta vs other)!  That is, not
@@ -266,7 +270,7 @@ statistics.
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-EurJnlInflamm.jpg" width="400" height="531" alt="Riaz, et al.: worldwide incidence of 3 species of parasitic worms" title="Riaz, et al.: worldwide incidence of 3 species of parasitic worms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But now the best part!  
 
-Scott points out that the studies showing even a trend toward significance come from
+Scott points out that the studies showing even just a _trend_ toward significance come from
 countries with something in common: Mahmud from Bangladesh, Ravakirti from East India,
 Lopez-Medina from Colombia, etc. all come from countries with a large amount of intestinal
 parasitic worms.  The maps here are from the Riaz paper <sup id="fn6a">[[6]](#fn6)</sup>
@@ -282,7 +286,6 @@ Basically:
   letting the worms run riot in your gut while you're sick of COVID-19.  Worm
   hyperinfection alone can be fatal; imagine how much worse it is to have COVID-19 at the
   same time.  So again, ivermectin helps _if and only if you already have worms._  
-
 - Worms have a variety of ways of turning down your immune system so they can parasitize
   you at their leisure; it's likely some of those also reduce vaccine efficacy and
   response to SARS-CoV2 infection.  Ivermectin makes vaccination or response to infection
@@ -290,13 +293,17 @@ Basically:
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-bitterman-thumb.jpg" width="400" height="247" alt="Bitterman: ivermectin risk ratio vs % of population at risk for worms" title="Bitterman: ivermectin risk ratio vs % of population at risk for worms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The final nail in the coffin is really more of a railroad spike.  Avi Bitterman controlled
-the ivermectin results for percent of population with Strongyloides worm infestation and 
+the ivermectin results for percent of population with _Strongyloides_ worm infestation and 
 [reported the result shown here](https://twitter.com/AviBittMD/status/1461076939192602628).
 
 The horizontal axis is the fraction of the population at risk for infestation by
-_Strongyloides stercoralis_, a parastical worm.  The vertical axis is the Risk Ratio for
-all-causes mortality, with low values being favorable to ivermectin.  Note this very, very
+_Strongyloides stercoralis_, a parasite worm.  The vertical axis is the Risk Ratio for
+all-causes mortality in an ivermectin COVID-19 trial, with low values being favorable to
+ivermectin.  
+
+Each gray circle is a study, diameter indicating the size.  Note this very, very
 carefully: _all the studies reporting ivermectin effect were in regions at risk for worm infestations._
+
 
 ## The Weekend Conclusion  
 
@@ -311,6 +318,21 @@ Ivermectin is _not for COVID-19!_
 
 But your first step is getting vaccinated.  Here at Chez Weekend, we both got 3 doses of
 mRNA vaccines.  
+
+<img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-stat-1.jpg" width="400" height="229" alt="STAT: FDA approves boosters for adults over 18" title="STAT: FDA approves boosters for adults over 18" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-stat-2.jpg" width="400" height="179" alt="STAT: CDC approves boosters for adults over 18" title="STAT: CDC approves boosters for adults over 18" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+And as of this afternoon, the US FDA has expanded the Emergency Use Authorization for
+boosters of both Pfizer and Moderna to all persons over age 18 who are more than 6 months
+past their initial 2 shots. <sup id="fn7a">[[7]](#fn7)</sup>  Acting FDA Commissioner
+Woodcock then endorsed the decision, making it official policy.  
+
+In a remarkable display of speed, the CDC's ACIP committee within hours voted 11-0 to
+endorse that, and CDC Director Walensky immediately ratified it, adding the policy to
+their medical practice guidelines. <sup id="fn8a">[[8]](#fn8)</sup>  
+
+So there ya go, it's a done deal in the US: boosters all around for adults, and kids 5-18
+can get the first 2 shots in the series.  (Pediatric vaccines for ages 0 to 5 years are
+still in the pipeline.)  
 
 ---
 
@@ -337,3 +359,7 @@ p-->
 <a id="fn5">5</a>: SA Siskind, ["Ivermectin: Much More Than You Wanted To Know"](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted), _Astral Codex Ten_ Blog, 2021-Nov-07. [↩](#fn5a)  
 
 <a id="fn6">6</a>: M Riaz, _et al.,_ ["Prevalence, risk factors, challenges, and the currently available diagnostic tools for the determination of helminths infections in human"](https://journals.sagepub.com/doi/full/10.1177/2058739220959915), _Eur Jnl Inflamm_ 18 (2020), pp 1-15.  DOI: [10.1177/2058739220959915](https://doi.org/10.1177/2058739220959915) [↩](#fn6a)  
+
+<a id="fn7">7</a>: H Branswell, ["FDA expands emergency authorization for Covid-19 booster shots to all adults"](https://www.statnews.com/2021/11/19/fda-pfizer-boosters-covid19-vaccine-expand/), _STAT News_, 2021-Nov-19. [↩](#fn7a)  
+
+<a id="fn8">8</a>: H Branswell, ["CDC expands eligibility for Covid-19 booster shots to all adults"](https://www.statnews.com/2021/11/19/covid19-vaccine-boosters-cdc-vote-pfizer/), _STAT News_, 2021-Nov-19. [↩](#fn8a)  
