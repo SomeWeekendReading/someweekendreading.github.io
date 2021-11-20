@@ -483,6 +483,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "I have only done a little bit of social science research, but it was enough to make me hate people." &mdash; Scott Alexander Siskind, ["Lizardman's Constant is 4%"](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/), [_Slate Star Codex_](https://slatestarcodex.com/), now at [_Astral Codex Ten_](https://astralcodexten.substack.com/).  
 
+"I guess the trouble was that we didn't have any self-admitted proletarians. Everyone was a temporarily embarrassed capitalist." &mdash; [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck), "A Primer on the 30's", _Esquire_ (cited in [WikiQuote](https://en.wikiquote.org/wiki/John_Steinbeck)).  
+
 
 ## Those of Rational &amp; Scientific Bent
 

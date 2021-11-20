@@ -240,8 +240,9 @@ Finding this much fraud and incompetence in one place would be enough for me to 
 out _everything_.  That's because the rest have a pretty good chance of being fraudulent
 or incompetent, just in a way I didn't find out.  But then, I'm a cranky old statistician.  
 
-Scott is young man who has more faith in humanity.  So he persisted.  After removing 2/3
-of the studies for incompetence or fraud, that cuts the forest plot down to this:  
+Scott is younger man who has more faith in humanity than me.  So he persisted.  After
+removing 2/3 of the studies for incompetence or fraud, that cuts the forest plot down to
+this:  
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-acx-2.png" width="900" height="294" alt="ACX/ivmmeta: forest plot after removing 2/3 of studies for incompetence and fraud" title="ACX/ivmmeta: forest plot after removing 2/3 of studies for incompetence and fraud" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
