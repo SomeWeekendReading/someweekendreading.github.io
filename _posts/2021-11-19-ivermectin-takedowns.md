@@ -371,8 +371,8 @@ _already have a worm infestation._
 __Conclusion:__  
 - You have worms?  Ivermectin is for you, COVID-19 or not.  
 - You have COVID-19 but no worms?  Ivermectin is junk; get fluvoxamine or molnupiravir or
-  paxlovid or monoclonal antibodies or dexamethasone or&hellip; Remind me again: why weren't
-  you vaccinated?  
+  paxlovid or monoclonal antibodies or dexamethasone or&hellip; 
+- And if you weren't vaccinated, remind me again: why is that?  
 
 ---
 
