@@ -297,7 +297,7 @@ the ivermectin results for percent of population with _Strongyloides_ worm infes
 [reported the result shown here](https://twitter.com/AviBittMD/status/1461076939192602628).
 
 The horizontal axis is the fraction of the population at risk for infestation by
-_Strongyloides stercoralis_, a parasite worm.  The vertical axis is the Risk Ratio for
+_Strongyloides stercoralis_, a parasitic worm.  The vertical axis is the Risk Ratio for
 all-causes mortality in an ivermectin COVID-19 trial, with low values being favorable to
 ivermectin.  
 
