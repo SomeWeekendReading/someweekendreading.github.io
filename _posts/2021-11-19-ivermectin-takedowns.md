@@ -44,7 +44,7 @@ the FDA or even notice the consumer update, but the FDA's trying to be responsib
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-reuters-2.jpg" width="400" height="272" alt="Reuters Fact Check: molnupiravir is STILL not ivermectin" title="Reuters Fact Check: molnupiravir is STILL not ivermectin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 People are so suspicious and deluded that
 [when Merck announced the success of the molnupiravir trial](https://www.someweekendreading.blog/covid-misc/#molnupiravir-works),
-people immediately dived down the intellectual rathole that molnupiravir was just
+people immediately dived down the intellectual rathole speculating that molnupiravir was just
 ivermectin repackaged (because Merck makes both, and ivermectin is cheap &amp; less
 profitable).  
 
