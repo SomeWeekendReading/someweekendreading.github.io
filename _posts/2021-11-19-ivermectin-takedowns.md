@@ -296,9 +296,11 @@ Basically:
   better, _provided you're being harassed by intestinal worms in the first place._  
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-bitterman-thumb.jpg" width="400" height="247" alt="Bitterman: ivermectin risk ratio vs % of population at risk for worms" title="Bitterman: ivermectin risk ratio vs % of population at risk for worms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-The final nail in the coffin is really more of a railroad spike.  Avi Bitterman controlled
-the ivermectin results for percent of population with _Strongyloides_ worm infestation and 
-[reported the result shown here](https://twitter.com/AviBittMD/status/1461076939192602628).
+
+The final nail in the coffin&hellip; well, let's be honest: it's really more of a railroad
+spike.  Avi Bitterman controlled the ivermectin results for percent of population with
+_Strongyloides_ worm infestation and
+[reported the result shown here](https://twitter.com/AviBittMD/status/1461076939192602628).  
 
 The horizontal axis is the fraction of the population at risk for infestation by
 _Strongyloides stercoralis_, a parasitic worm.  The vertical axis is the Risk Ratio for
@@ -318,7 +320,7 @@ Ivermectin is _not for COVID-19!_
 - For COVID-19 prevention, there's vaccination.  Really, that's your best bet.  Try to get
   Pfizer or Moderna if you can.  
 - For COVID-19 treatment, there's fluvoxamine, dexamethasone, molnupiravir, and (soon)
-  plaxovid.  All fine therapies if you get a breakthrough infection.
+  paxlovid.  All fine therapies if you get a breakthrough infection.
 
 But your first step is getting vaccinated.  Here at Chez Weekend, we both got 3 doses of
 mRNA vaccines.  
