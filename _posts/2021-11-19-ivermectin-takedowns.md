@@ -6,7 +6,7 @@ comments: true
 ---
 
 The right-wing knuckleheadedness around ivermectin as a COVID-19 therapy continues to
-amaze me.  This week I came across 2 ivermecting takedowns: a Malaysian clinical trial and
+amaze me.  This week I came across 2 ivermectin takedowns: a Malaysian clinical trial and
 Scott Alexander's dissection of the ivmmeta.com metanalysis.  Two thumbs down.  Way down.  
 
 ## OK, why are people so shouty about this ivermectin stuff?  
@@ -18,7 +18,7 @@ head lice).
 
 It has mostly veterinary applications in the US, since farm animals get worms but people
 rarely do.  But that's not the case everywhere, and even in the US people occasionally get
-worms and need treatment.  And that's what ivermenctin does, and does very well.  
+worms and need treatment.  And that's what ivermectin does, and does very well.  
 
 I'm going to vent a certain amount of invective about ivermectin here, but don't get me
 wrong: it's a perfectly fine drug, _in the case of parasite infestations._ Campbell &amp;
@@ -69,7 +69,7 @@ them_.
 
 ## The recent Malaysian clinical trial  
 
-<a href="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-malay-mih.png"><img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-malay-mih-thumb.jpg" width="400" height="225" alt="Malaysian Ministry of Health: ivermecting is useless for COVID-19" title="Malaysian Ministry of Health: ivermecting is useless for COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-malay-mih.png"><img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-malay-mih-thumb.jpg" width="400" height="225" alt="Malaysian Ministry of Health: ivermectin is useless for COVID-19" title="Malaysian Ministry of Health: ivermectin is useless for COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Earlier this month, the Ministry of Health in Malaysia released the results of a clinical
 trial of ivermectin vs standard of care in COVID-19 
 patients.  <sup id="fn4a">[[4]](#fn4)</sup>  (The US registry is 
