@@ -330,18 +330,19 @@ mRNA vaccines.
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-stat-1.jpg" width="400" height="229" alt="STAT: FDA approves boosters for adults over 18" title="STAT: FDA approves boosters for adults over 18" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-stat-2.jpg" width="400" height="179" alt="STAT: CDC approves boosters for adults over 18" title="STAT: CDC approves boosters for adults over 18" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-And as of this afternoon, the US FDA has expanded the Emergency Use Authorization for
-boosters of both Pfizer and Moderna to all persons over age 18 who are more than 6 months
-past their initial 2 shots. <sup id="fn7a">[[7]](#fn7)</sup>  Acting FDA Commissioner
-Woodcock then endorsed the decision, making it official policy.  
+And as of this afternoon, the US FDA's advisory committee has expanded the Emergency Use
+Authorization for boosters of both Pfizer and Moderna to all persons over age 18 who are
+more than 6 months past their initial 2 shots. <sup id="fn7a">[[7]](#fn7)</sup> Acting FDA
+Commissioner Woodcock then endorsed the decision, making all-adult boosters officially
+granted EUA.  
 
-In a remarkable display of speed, the CDC's ACIP committee within hours voted 11-0 to
-endorse that, and CDC Director Walensky immediately ratified it, adding the policy to
-their medical practice guidelines. <sup id="fn8a">[[8]](#fn8)</sup>  
+In a remarkable display of speed, the CDC's ACIP committee within hours voted 11 &ndash; 0 to
+endorse that.  Then CDC Director Walensky immediately ratified their decision, adding the
+policy to CDC medical practice guidelines. <sup id="fn8a">[[8]](#fn8)</sup>  
 
-So there ya go, it's a done deal in the US: boosters all around for adults, and kids 5-18
-can get the first 2 shots in the series.  (Pediatric vaccines for ages 0 to 5 years are
-still in the pipeline.)  
+So there ya go, it's a done deal in the US: boosters all around for adults, and kids 5
+&ndash; 18 can get the first 2 shots in the series.  (Pediatric vaccines for ages 0 to 5
+years are still in the pipeline.)  
 
 ---
 
