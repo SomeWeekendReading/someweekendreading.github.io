@@ -266,7 +266,7 @@ combination methods to get results from $p \sim 0.04$ to $p \sim 0.15$.  I.e., i
 really hard to manipulate the questions you ask, you can get borderline statistical
 significance (just below 0.05).  There's a name for this practice of fiddling around to find
 the _post hoc_ question your data says is significant:
-[_p-hacking_](https://en.wikipedia.org/wiki/Data_dredging).  And it's a crime against
+[$p$-_hacking_](https://en.wikipedia.org/wiki/Data_dredging).  And it's a crime against
 statistics.  
 
 ### Weirdness \#5: Wait, Worms?  
