@@ -326,7 +326,7 @@ But your first step is getting vaccinated.  Here at Chez Weekend, we both got 3 
 mRNA vaccines.  
 
 
-## Addendum 2021-Nov-19, evening: FDA &amp; CDC extend boosters to all over 18 years old  
+## Addendum 2021-Nov-19, later that evening: US FDA &amp; CDC extend boosters to all over 18 years old  
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-stat-1.jpg" width="400" height="229" alt="STAT: FDA approves boosters for adults over 18" title="STAT: FDA approves boosters for adults over 18" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-stat-2.jpg" width="400" height="179" alt="STAT: CDC approves boosters for adults over 18" title="STAT: CDC approves boosters for adults over 18" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
