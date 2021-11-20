@@ -343,6 +343,37 @@ So there ya go, it's a done deal in the US: boosters all around for adults, and 
 &ndash; 18 can get the first 2 shots in the series.  (Pediatric vaccines for ages 0 to 5
 years are still in the pipeline.)  
 
+
+## Addendum 2021-Nov-20: The media slowly catch up  
+
+<img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-economist.jpg" width="329" height="828" alt="Economist: ivermectin only helps COVID-19 pts who already have worms" title="Economist: ivermectin only helps COVID-19 pts who already have worms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Today we notice that _The Economist_ has noticed.  <sup id="fn9a">[[9]](#fn9)</sup>  While
+most of their article is behind the usual execrable paywall, the graphic indicates they've
+found a preprint of Avi Bitterman on the result above.  That's&hellip; mildly impressive:
+I haven't found Bitterman's preprint myself, yet.  So&hellip; good job, _Economist_?  
+
+They're leading with a forest plot, in the usual way:  
+- Each row is a clinical trial.  
+- Trials with suspected fraud, which are _the majority of ivermectin studies_, have been
+  excluded.  This _alone_ should make you deeply suspicious of the rest!  
+- The circle represents the central estimate of the risk ratio between ivermectin arms and
+  non-ivermectin arms of trials.  Basically it's the mean or median or something of the risk
+  ratio.  
+- The whiskers represent the 95% confidence interval.  
+- You'd like to see both the central estimate and the upper confidence limit below 1 to
+  believe there is solid evidence that ivermectin is beneficial.  
+- They've separated the trials from countries with low _Strongyloides_ rates from those
+  with higher rates; basically non-wormy vs wormy.  
+  
+The result shows that ivermectin does _nothing_ for COVID-19 patients who do not 
+_already have a worm infestation._  
+
+__Conclusion:__  
+- You have worms?  Ivermectin is for you, COVID-19 or not.  
+- You have COVID-19 but no worms?  Ivermectin is junk; get fluvoxamine or molnupiravir or
+  paxlovid or monoclonal antibodies or dexamethasone or&hellip; Remind me again: why weren't
+  you vaccinated?  
+
 ---
 
 ## Notes &amp; References  
@@ -372,3 +403,5 @@ p-->
 <a id="fn7">7</a>: H Branswell, ["FDA expands emergency authorization for Covid-19 booster shots to all adults"](https://www.statnews.com/2021/11/19/fda-pfizer-boosters-covid19-vaccine-expand/), _STAT News_, 2021-Nov-19. [↩](#fn7a)  
 
 <a id="fn8">8</a>: H Branswell, ["CDC expands eligibility for Covid-19 booster shots to all adults"](https://www.statnews.com/2021/11/19/covid19-vaccine-boosters-cdc-vote-pfizer/), _STAT News_, 2021-Nov-19. [↩](#fn8a)  
+
+<a id="fn9">9</a>: _Economist_ Staff, ["Ivermectin may help covid-19 patients, but only those with worms"](https://www.economist.com/graphic-detail/2021/11/18/ivermectin-may-help-covid-19-patients-but-only-those-with-worms?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content), _Daily Chart_ in _The Economist_, 2021-Nov-18. [↩](#fn9a)  
