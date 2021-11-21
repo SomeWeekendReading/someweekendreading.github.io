@@ -368,11 +368,11 @@ They're leading with a forest plot, in the usual way:
 The result shows that ivermectin does _nothing_ for COVID-19 patients who do not 
 _already have a worm infestation._  
 
-__Conclusion:__  
-- You have worms?  Ivermectin is for you, COVID-19 or not.  
-- You have COVID-19 but no worms?  Ivermectin is junk; get fluvoxamine or molnupiravir or
+__Conclusions:__  
+- _You have worms?_  Ivermectin is for you, COVID-19 or not.  
+- _You have COVID-19, but not worms?_  Ivermectin is junk; get fluvoxamine or molnupiravir or
   paxlovid or monoclonal antibodies or dexamethasone or&hellip; something known to _work._  
-- You weren't vaccinated?!  Remind me again: why is that?  
+- _You weren't vaccinated?!_  Remind me again: why is that?  
 
 ---
 
