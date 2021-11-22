@@ -490,6 +490,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "Remember to always be praising people when they finally do the right thing, regardless of whether they first exhausted all alternatives." &mdash; Zvi Mowshowitz, [_The Zvi_](https://thezvi.wordpress.com/2021/07/08/covid-7-8-delta-takes-over/), 2021-Jul-08.  
 
+"If you teach a man to fish, he'll be eating fish for a lifetime. Teach him to teach himself to fish, and you've given him the fundamental life skill of figuring things out on his own." &mdash; [Wylie Beckert](https://www.muddycolors.com/2021/01/the-wisdom-of-the-lazy-teacher/), "The Wisdom of the Lazy Teacher", expanding the proverb "Give a man a fish and he eats for a day; teach a man to fish and he eats for a lifetime."  
+
 "He lacked the courage to doubt himself.  He lacked the wisdom to change his mind." &mdash; [George Packer](https://en.wikipedia.org/wiki/George_Packer), ["How Rumsfeld Deserves to Be Remembered"](https://www.theatlantic.com/ideas/archive/2021/06/how-donald-rumsfeld-deserves-be-remembered/619334/), [_The Atlantic_](https://www.theatlantic.com), 2021-Jun-30.  On the death of [Donald Rumsfeld](https://en.wikipedia.org/wiki/Donald_Rumsfeld).  
 
 "You can't use reason to argue someone out of a position that they did not arrive at by reason." &mdash; [Derek Lowe](https://en.wikipedia.org/wiki/Derek_Lowe_(chemist)), [_In the Pipeline_](https://blogs.sciencemag.org/pipeline/archives/2021/05/04/spike-protein-behavior#comment-344613)  
