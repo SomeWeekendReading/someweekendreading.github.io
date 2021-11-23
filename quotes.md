@@ -1174,3 +1174,4 @@ _Business Week_, 14-Nov-2003.
 - On corporate managers and politicians: "Pay less attention to what they _say_, and more
   to what they _do_."  
 - "When you're in a hurry, all data are short-term."  
+- "I probably won't follow your orders, but I may follow your example."  
