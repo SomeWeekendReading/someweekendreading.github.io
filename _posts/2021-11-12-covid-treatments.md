@@ -86,7 +86,7 @@ Today we'll look at treatment efficacy for 2 new COVID-19 therapeutics:
    catastrophic failure.  Clever, really.  We
    [previously analyzed their result](https://www.someweekendreading.blog/covid-misc/#molnupiravir-works)
    on this crummy little blog that nobody reads, and it was pretty good!  
-2. Just last week, Pfizer announced that the trial on Paxlovid was stopped, because the
+2. Just last week, Pfizer announced that the trial on paxlovid was stopped, because the
    trial results were so good! <sup id="fn3a">[[3]](#fn3)</sup>  It's a protease
    inhibitor, part of a large family of drugs that interrupt the functioning of some viral
    proteins in proteolysis.  This is the family of drugs that have revolutionized the

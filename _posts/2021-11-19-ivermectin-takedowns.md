@@ -50,13 +50,19 @@ people immediately dived down the intellectual rathole of speculation that molnu
 just repackaged ivermectin (because Merck makes both, and ivermectin is a cheap generic,
 thus less profitable).  
 
-It was so bad, and so _immediate_, that _Reuters_ ran 2 Fact Checks on it, and
-they're just not even remotely
-similar. <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup> Ivermectin is
-a macrolytic lactone derived from a bacterium, and acts on ion channels found in parasites
-but not humans.  Molnupiravir is a nucleotide that's been messed with chemically so it
-won't function properly, and operates by getting incorporated in the viral RNA as it
-replicates so it hypermutates and can't function.  Not even _remotely_ similar!  
+It was so bad, and so _immediate_, that _Reuters_ ran 2 Fact Checks on it, and they're
+just not even remotely similar <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>:  
+- Ivermectin is a macrolytic lactone derived from a bacterium, acting on glutamate-gated
+  chloride ion channels found all over in worms and insects.  Wedge those channels open,
+  the chloride ions flow freely, hyper-polarizing the membrane involved, which paralyzes
+  and kills the parasite.  In humans, the only such channels are in the brain and spinal
+  cord, but ivermectin can't pass the blood-brain barrier (at normal dose levels).  
+- Molnupiravir is a nucleotide that's been messed with chemically so it won't function
+  properly, and operates by getting incorporated in the viral RNA as it replicates so it
+  hypermutates and can't function.  
+  
+Not even _remotely_ similar!  Also, ivermectin's mechanism has nothing to do with
+viruses.  
 
 We've previously
 [whinged a bit about ivermectin nonsense](https://www.someweekendreading.blog/lessons-covid/#lesson-1-why-are-all-the-ivermectin-studies-misdesigned-inconclusive-or-outright-fakes)
@@ -386,7 +392,7 @@ __Conclusions:__
 <a href="{{ site.baseurl }}/images/***"><img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-p-->
+-->
 
 <a id="fn1">1</a>: FDA Staff, ["Why You Should Not Use Ivermectin to Treat or Prevent COVID-19"](https://www.fda.gov/consumers/consumer-updates/why-you-should-not-use-ivermectin-treat-or-prevent-covid-19), FDA Consumer Updates, retrieved 2021-Nov-19. [↩](#fn1a)  
 
