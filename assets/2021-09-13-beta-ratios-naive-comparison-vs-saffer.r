@@ -17,7 +17,7 @@ library("hypergeo")                                    # For hypergeo() and genh
 ## the Moderna/Pfizer COVID-19 vaccine clinical trials, those could be O(10k-20k).  We almost
 ## certainly need some recurrence relation or other to help out with that.
 ##
-## But Saffer's example is doable with naive numerics.
+## But Saffer's example is doable with naive numerics, as th largest parameter is only 12.
 ##
 ## IWBNI we also did the Monte Carlo version for comparison: take pairs of random draws from the
 ## numerator and denominator distributions, calculate a ratio, and histogram the probability
@@ -54,7 +54,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   pBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
     ## Beta ratio CDF
-    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
     stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
     if (R <= 1)                                        # Small values of R
@@ -71,7 +71,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   qBetaRatio <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
     ## Beta ratio quantile (numeric solution via CDF)
-    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
     stopifnot(is.numeric(q) && is.numeric(minR) && is.numeric(maxR))
     stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
@@ -80,12 +80,13 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   }                                                    #
 
   medianBetaRatio <- function(alpha1, beta1, alpha2, beta2, minR = 0, maxR = 10) {
-    ## NB: this WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     qBetaRatio(alpha1, beta1, alpha2, beta2, 0.50, minR, maxR)
   }                                                    # Analytic version uses incomplete Beta func
 
   medianCLBetaRatio <- function(alpha1, beta1, alpha2, beta2, alpha = 0.05, minR = 0, maxR = 10) {
     sapply(c(LCL = alpha / 2, Median = 0.5, UCL = 1 - alpha / 2), function(q) {
+      ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
       qBetaRatio(alpha1, beta1, alpha2, beta2, q, minR, maxR)
     })                                                 # Return LCL, median, UCL.  alpha here is
   }                                                    #  tail probs, i.e., 0.05 for 95% cl's.
@@ -95,15 +96,6 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   }                                                    # Mean has simple closed form
 
   meanBeta <- function(alpha, beta) { alpha / (alpha + beta) }
-
-  colorCI <- function(col, alpha, xvals, yvals, x05, x95) {
-    col <- col2rgb(col)                                # Base color to make transparent
-    col <- rgb(col[[1]], col[[2]], col[[3]], max = 255, alpha = alpha * 255)
-    foo <- subset(data.frame(x = xvals, pdf = yvals), subset = x05 <= x & x <= x95)
-    polygon(x = c(rev(foo$"x"),                   foo$"x"),
-            y = c(rep(0, length.out = nrow(foo)), foo$"pdf"),
-            border = NA, col = col)                    # Filled in 90% credible interval
-  }                                                    #
 
   ## Values where we numerically evaluate the distributions
   xvals    <- seq(from = 0, to = xmax, length.out = nPoints)
@@ -140,6 +132,15 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
               xlim = c(0, xmax), ylim = c(0, ymax),    #
               xlab = "X", ylab = "Pr(X) or Pr(> X)",   #
               main = "Saffer's Example Beta Ratio")    #
+
+      colorCI <- function(col, alpha, xvals, yvals, x05, x95) {
+        col <- col2rgb(col)                            # Base color to make transparent
+        col <- rgb(col[[1]], col[[2]], col[[3]], max = 255, alpha = alpha * 255)
+        foo <- subset(data.frame(x = xvals, pdf = yvals), subset = x05 <= x & x <= x95)
+        polygon(x = c(rev(foo$"x"),                   foo$"x"),
+                y = c(rep(0, length.out = nrow(foo)), foo$"pdf"),
+                border = NA, col = col)                # Filled in 90% credible interval
+      }                                                #
 
       colorCI(cols[["numerator"]],   alpha, xvals, numPDF,   num05,   num95)
       colorCI(cols[["denominator"]], alpha, xvals, denomPDF, denom05, denom95)
