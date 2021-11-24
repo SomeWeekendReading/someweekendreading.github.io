@@ -37,7 +37,9 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
                               ratioCDF    = "red"),    # Finally, destination for plot
                  plotFile = "2021-09-13-beta-ratios-naive-comparison-vs-saffer.png") {
 
-  dBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
+  ## The 4 functions for the Beta ratio distribution that are analogous to the corresponding
+  ## functions for the normal distribution: dnorm(), pnorm(), qnorm(), and rnorm().
+  dBetaRatio <- function(R, alpha1, beta1, alpha2, beta2) { # *** log = FALSE
     ## Beta ratio PDF
     ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
@@ -52,48 +54,60 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
         hypergeo(alpha1 + alpha2, 1 - beta2, alpha1 + alpha2 + beta1, 1 / R)
   }                                                    #
 
-  pBetaRatio <- function(alpha1, beta1, alpha2, beta2, R) {
-    ## Beta ratio CDF
+  pBetaRatio <- function(R0, alpha1, beta1, alpha2, beta2) { # *** lower.tail = TRUE, log.p = FALSE
+    ## Beta ratio CDF (cumulative distribution function): Pr(R <= R0)
     ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
-    stopifnot(is.numeric(R) && R >= 0)                 # Don't be ridiculous
-    if (R <= 1)                                        # Small values of R
+    stopifnot(is.numeric(R0) && R0 >= 0)               # Don't be ridiculous
+    if (R0 <= 1)                                       # Small values of R0
       beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
-        R^alpha1 / alpha1 *                            #
+        R0^alpha1 / alpha1 *                           #
         genhypergeo(c(alpha1, alpha1 + alpha2, 1 - beta1), c(alpha1 + 1, alpha1 + alpha2 + beta2),
-                    R)                                 #
-    else                                               # Large values of R
+                    R0)                                #
+    else                                               # Large values of R0
      1 - beta(alpha1 + alpha2, beta1) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
-       1 / (alpha2 * R^alpha2) *                       #
+       1 / (alpha2 * R0^alpha2) *                      #
        genhypergeo(c(alpha2, alpha1 + alpha2, 1 - beta2), c(alpha2 + 1, alpha1 + alpha2 + beta1),
-                   1 / R)                              #
+                   1 / R0)                             #
   }                                                    #
 
-  qBetaRatio <- function(alpha1, beta1, alpha2, beta2, q, minR = 0, maxR = 10) {
-    ## Beta ratio quantile (numeric solution via CDF)
+  qBetaRatio <- function(p, alpha1, beta1, alpha2, beta2, # *** lower.tail = TRUE, log.p = FALSE
+                         minR = 0, maxR = 10, tol = .Machine$double.eps^0.25) {
+    ## Beta ratio quantile (numeric solution via CDF): find R0 such that Pr(R <= R0) = p.
+    ##   It is the functional inverse of pBetaRatio().
+    ## tol is the default tolerance for uniroot()
     ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
-    stopifnot(is.numeric(q) && is.numeric(minR) && is.numeric(maxR))
-    stopifnot(0 <= q && q <= 1.0)                      # Don't be ridiculous
+    stopifnot(is.numeric(p) && is.numeric(minR) && is.numeric(maxR)) # *** is.double()?
+    stopifnot(0 <= p && p <= 1.0)                      # Don't be ridiculous
     stopifnot(0 <= minR && 0 <= maxR && minR < maxR)   # Really: don't be ridiculous
-    uniroot(function(R) {q - pBetaRatio(alpha1, beta1, alpha2, beta2, R)}, c(minR, maxR))$"root"
+    uniroot(function(R) {p - pBetaRatio(R, alpha1, beta1, alpha2, beta2)},
+            interval = c(minR, maxR), tol = tol)$"root"#
   }                                                    #
 
-  medianBetaRatio <- function(alpha1, beta1, alpha2, beta2, minR = 0, maxR = 10) {
-    ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
-    qBetaRatio(alpha1, beta1, alpha2, beta2, 0.50, minR, maxR)
-  }                                                    # Analytic version uses incomplete Beta func
+  rBetaRatio <- function(n, alpha1, beta1, alpha2, beta2) {
+    ## Separately generate numerator and denominator series, and return the pairwise ratios
+    rbeta(n, alpha1, beta1) / rbeta(n, alpha2, beta2)  # Generate n random numbers distributed like
+  }                                                    #  dBetaRatio() with these parameters
 
-  medianCLBetaRatio <- function(alpha1, beta1, alpha2, beta2, alpha = 0.05, minR = 0, maxR = 10) {
-    sapply(c(LCL = alpha / 2, Median = 0.5, UCL = 1 - alpha / 2), function(q) {
-      ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
-      qBetaRatio(alpha1, beta1, alpha2, beta2, q, minR, maxR)
-    })                                                 # Return LCL, median, UCL.  alpha here is
-  }                                                    #  tail probs, i.e., 0.05 for 95% cl's.
-
+  ## Computing the Beta ratio distribution's mean and median (and median's confidence limits)
   meanBetaRatio <- function(alpha1, beta1, alpha2, beta2) {
     alpha1 * (alpha2 + beta2 - 1) / ((alpha1 + beta1) * (alpha2 - 1))
   }                                                    # Mean has simple closed form
+
+  medianBetaRatio <- function(alpha1, beta1, alpha2, beta2,
+                              minR = 0, maxR = 10, tol = .Machine$double.eps^0.25) {
+    ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+    qBetaRatio(0.50, alpha1, beta1, alpha2, beta2, minR, maxR, tol)
+  }                                                    # Analytic version uses incomplete Beta func
+
+  medianCLBetaRatio <- function(alpha1, beta1, alpha2, beta2, alpha = 0.05,
+                                minR = 0, maxR = 10, tol = .Machine$double.eps^0.25) {
+    sapply(c(LCL = alpha / 2, Median = 0.5, UCL = 1 - alpha / 2), function(p) {
+      ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
+      qBetaRatio(p, alpha1, beta1, alpha2, beta2, minR, maxR, tol)
+    })                                                 # Return LCL, median, UCL.  alpha here is
+  }                                                    #  tail probs, i.e., 0.05 for 95% cl's.
 
   meanBeta <- function(alpha, beta) { alpha / (alpha + beta) }
 
@@ -106,18 +120,18 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
   num05    <- qbeta(p = 0.05, shape1 = alpha1, shape2 = beta1)
   num95    <- qbeta(p = 0.95, shape1 = alpha1, shape2 = beta1)
 
-  ## Denominator bea distribution
+  ## Denominator beta distribution
   denomPDF  <- dbeta(x = xvals, shape1 = alpha2, shape2 = beta2)
   denomMean <- meanBeta(alpha2, beta2)                 # Mean of denominator beta distribution
   denom05   <- qbeta(p = 0.05, shape1 = alpha2, shape2 = beta2)
   denom95   <- qbeta(p = 0.95, shape1 = alpha2, shape2 = beta2)
 
-  ## Ratiodistribution
-  ratioPDF  <- sapply(xvals, function(R) { dBetaRatio(alpha1, beta1, alpha2, beta2, R) })
-  ratioCDF  <- sapply(xvals, function(R) { pBetaRatio(alpha1, beta1, alpha2, beta2, R) })
+  ## Beta ratio distribution
+  ratioPDF  <- sapply(xvals, function(R) { dBetaRatio(R, alpha1, beta1, alpha2, beta2) })
+  ratioCDF  <- sapply(xvals, function(R) { pBetaRatio(R, alpha1, beta1, alpha2, beta2) })
   ratioMean <- meanBetaRatio(alpha1, beta1, alpha2, beta2)
-  ratio05   <- qBetaRatio(alpha1, beta1, alpha2, beta2, 0.05)
-  ratio95   <- qBetaRatio(alpha1, beta1, alpha2, beta2, 0.95)
+  ratio05   <- qBetaRatio(0.05, alpha1, beta1, alpha2, beta2)
+  ratio95   <- qBetaRatio(0.95, alpha1, beta1, alpha2, beta2)
 
   ## Saffer: 1152 x 648 --> us: 400 x 225
   withPNG(file.path(".", plotFile), 400, 225, FALSE, function() {
