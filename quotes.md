@@ -984,8 +984,7 @@ much as his intentions, nor this or that detail so much as the whole story."
 &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russel),
 ["An Outline of Intellectual Rubbish", Chapter 7 of _Unpopular Essays_](https://en.wikiquote.org/wiki/Unpopular_Essays#Chapter_7:_An_Outline_of_Intellectual_Rubbish), 1950.  
 
-"The trouble with the world is that the stupid are cocksure and the intelligent are full of
-doubt." &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)  
+"The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt." &mdash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell), anticipating the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).  
 
 "The best lack all conviction, while the worst are full of passionate intensity." &mdash; [William Butler Yeats](https://en.wikipedia.org/wiki/W._B._Yeats), ["The Second Coming"](https://en.wikipedia.org/wiki/The_Second_Coming_(poem))  
 
@@ -1170,7 +1169,7 @@ _Business Week_, 14-Nov-2003.
 - "Everyone _interesting_ is mad; of this there is no question.  The better question is whether or not their madness is [the divine madness]({{ site.baseurl }}/tags/#TheDivineMadness)."  
 - "Let sleeping dogs bury their own dead."  (Combining "let sleeping dogs lie" and "let
   the dead past bury its own dead".)  
-- "This isn't rocket surgery."  
+- "This isn't rocket surgery." (Combining "rocket science" and "brain surgery".)  
 - On corporate managers and politicians: "Pay less attention to what they _say_, and more
   to what they _do_."  
 - "When you're in a hurry, all data are short-term."  
