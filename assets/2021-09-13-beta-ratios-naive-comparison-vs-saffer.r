@@ -39,14 +39,18 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
 
   ##
   ## The 4 functions for the Beta ratio distribution that are analogous to the corresponding
-  ## functions for the normal distribution: dnorm(), pnorm(), qnorm(), and rnorm().
+  ## functions for the normal distribution: PDF dnorm(), CDF pnorm(), quantile qnorm(), and
+  ## RNG rnorm().
   ##
 
   dBetaRatio <- function(R, alpha1, beta1, alpha2, beta2, log.d = FALSE) {
     ## Beta ratio PDF
+    ##
     ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
-    stopifnot(is.numeric(R) && R >= 0 && is.logical(log.d)) # *** is.double()?
+
+    stopifnot(is.numeric(R) && R >= 0 && is.logical(log.d))
+
     probDens <-                                        # Compute the probability density
       if (R <= 1)                                      # Small values of R
         beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -56,20 +60,25 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
         beta(alpha1 + alpha2, beta1) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
           (1 / R)^(alpha2 + 1) *                       #
           hypergeo(alpha1 + alpha2, 1 - beta2, alpha1 + alpha2 + beta1, 1 / R)
+
     if (log.d) log(probDens) else probDens             # Return either density or its log
   }                                                    #
 
   pBetaRatio <- function(R0, alpha1, beta1, alpha2, beta2, lower.tail = TRUE, log.p = FALSE) {
     ## Beta ratio CDF (cumulative distribution function): Pr(R <= R0)
+    ##
     ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
-    stopifnot(is.numeric(R0) && R0 >= 0 &&             # *** is.double()?
+
+    stopifnot(is.numeric(R0) && R0 >= 0 &&             #
               is.logical(lower.tail) && is.logical(log.p))
+
     cumProb <-                                         #
       if (R0 <= 1)                                     # Small values of R0
         beta(alpha1 + alpha2, beta2) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
           R0^alpha1 / alpha1 *                         #
-          genhypergeo(c(alpha1, alpha1 + alpha2, 1 - beta1), c(alpha1 + 1, alpha1 + alpha2 + beta2),
+          genhypergeo(c(alpha1, alpha1 + alpha2, 1 - beta1),
+                      c(alpha1 + 1, alpha1 + alpha2 + beta2),
                       R0)                              #
       else                                             # Large values of R0
         1 - beta(alpha1 + alpha2, beta1) / (beta(alpha1, beta1) * beta(alpha2, beta2)) *
@@ -77,6 +86,7 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
               genhypergeo(c(alpha2, alpha1 + alpha2, 1 - beta2),
                           c(alpha2 + 1, alpha1 + alpha2 + beta1),
                           1 / R0)                      #
+
     if (!lower.tail) cumProb <- 1 - cumProb            # If want upper tail instead, reverse it
     if (log.p) log(cumProb) else cumProb               # Return either cum prob or its log
   }                                                    #
@@ -86,18 +96,24 @@ doit <- function(alpha1 =  3, beta1 = 6,               # Numerator beta distribu
     ## Beta ratio quantile (numeric solution via CDF): find R0 such that Pr(R <= R0) = p.
     ##   It is the functional inverse of pBetaRatio().
     ## tol is the default tolerance for uniroot()
+    ##
     ## NB: This WILL NOT WORK when alpha, beta ~ O(10^4), as for Pfizer & Moderna clinical trial!
     ##     Either get NaN + i NaN or, worse, just wildly wrong numbers.
-    stopifnot(is.numeric(p) && is.numeric(minR) && is.numeric(maxR) && is.numeric(tol)) # *** is.double()?
+
+    stopifnot(is.numeric(p) && is.numeric(minR) && is.numeric(maxR) && is.numeric(tol))
     stopifnot(0 <= p && p <= 1.0)                      # Don't be ridiculous
     stopifnot(0 <= minR && 0 <= maxR && minR < maxR)   # Really: don't be ridiculous
+    stopifnot(tol > 0)                                 # C'mon, I mean it: no ridiculousness!
+
     uniroot(function(R) {p - pBetaRatio(R, alpha1, beta1, alpha2, beta2)},
             interval = c(minR, maxR), tol = tol)$"root"#
   }                                                    #
 
   rBetaRatio <- function(n, alpha1, beta1, alpha2, beta2) {
     ## Separately generate numerator and denominator series, and return the pairwise ratios
+
     stopifnot(is.integer(n) && n > 0)                  # Generate n random numbers,
+
     rbeta(n, alpha1, beta1) / rbeta(n, alpha2, beta2)  # distributed like dBetaRatio()
   }                                                    #  with these parameters
 
