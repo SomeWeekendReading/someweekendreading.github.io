@@ -83,31 +83,34 @@ postStats <- function(## Inputs
 
 plotHitsVsTime <- function(## Inputs
                            postData,
-                           today    = format(Sys.Date(), "%Y-%b-%d"),
-                           blogName = "www.someweekendreading.blog",
+                           blogName   = "www.someweekendreading.blog",
+                           plotWidth  = 800,
+                           plotHeight = plotWidth / 2,
 
                            ## Outputs
                            destDir  = "../_drafts",
-                           destFile = sprintf("post-stats-%s-hits.png", today),
-                           width    = 600,
-                           height   = width / 2) {
+                           destFile = "post-stats-%s-hits.png") {
+
+  minPostDate <- min(postData$"PostDate")              # Minimum date
+  maxPostDate <- max(postData$"PostDate")              # Maximum date
+
   ## *** Add quarterly boxplot of hits?
-  withPNG(file.path(destDir, destFile), width, height, FALSE, function() {
+  withPNG(file.path(destDir, sprintf(destFile, format(maxPostDate, "%Y-%b-%d"))),
+          plotWidth, plotHeight, FALSE, function() {   # Capture graphics to file
     withPars(function() {                              # Save/restore graphics parameters
 
       ## *** Should do horizontal axis manually: vertical dates, monthly intervals
       plot(x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
-           xlab = "Post Date", ylab = "Post Hits (log scale)", log = "y",
-           main = "Hits vs Time")                      # Scatterplot hits vs time
-      rug(postData$"PostHits", side = 2, col = "gray") # Marginal univariate density
-      ## LOESS fit and 95% confidence interval.  See example at:
+           xlab = "Post Date", ylab = "Post Hits (log scale)", log = "y", main = "Hits vs Time")
+      rug(postData$"PostHits", side = 2, col = "gray") # Marginal (univariate) density
+      ## LOESS fit and 95% confidence interval as a function of time.  See example at:
       ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
-      minPostDate <- min(postData$"PostDate")          # Minimum date
       plx <- predict(loess(PostHits ~ PostDays,        # LOESS fit of hits vs days since min date
                            data = transform(postData,  # Subtract minPostDate, make numeric
                                             PostDays = as.numeric(PostDate - minPostDate))),
                      se = TRUE)                        # Get predictions and standard errors
       lines(postData$"PostDate", plx$"fit")            # Main trend and 95% CL by t-distribution
+      ## *** Do CL as shaded polygon like everybody else (do it first, plot points & fit curve on top)
       lines(postData$"PostDate", plx$"fit" + qt(0.975, plx$"df") * plx$"se", lty = "dashed")
       lines(postData$"PostDate", plx$"fit" - qt(0.975, plx$"df") * plx$"se", lty = "dashed")
       legend("topleft", bg = "antiquewhite", inset = 0.01,
@@ -132,5 +135,5 @@ plotHitsVsTime <- function(## Inputs
        oma   = c(0, 0, 1, 0),                          # Outer margin @ top for overall title
        mar   = c(3, 3, 2, 1),                          # Pull in on margins
        mgp   = c(1.7, 0.5, 0))                         # Axis title, label, tick
-  })                                                   #
+  })                                                   # Done with file capture
 }                                                      #
