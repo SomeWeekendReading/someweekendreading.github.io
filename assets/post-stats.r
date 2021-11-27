@@ -69,9 +69,8 @@ postStats <- function(## Inputs
       f <- file.path(destDir, destFile)                #  make full pathname
       saveDataframe(postData, f)                       #   then save results
       cat(sprintf("Saved to %s.\n", f))                #   and report it
-    } else {                                           # Else doesn't want report saved
+    } else                                             # Else doesn't want report saved
       cat(sprintf("Results not saved.\n"))             #   so don't do that
-    }                                                  #
 
     invisible(postData)                                # Return the dataframe of results, invisibly
   })                                                   # End withTranscript()
