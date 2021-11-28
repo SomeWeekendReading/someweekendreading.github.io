@@ -91,11 +91,8 @@ plotHitsVsTime <- function(## Inputs
                            destDir  = "../_drafts",
                            destFile = "post-stats-%s-hits.png") {
 
-  minPostDate <- min(postData$"PostDate")              # Minimum date
-  maxPostDate <- max(postData$"PostDate")              # Maximum date
-
   ## *** Add quarterly boxplot of hits?
-  withPNG(file.path(destDir, sprintf(destFile, format(maxPostDate, "%Y-%b-%d"))),
+  withPNG(file.path(destDir, sprintf(destFile, format(Sys.Date(), "%Y-%b-%d"))),
           plotWidth, plotHeight, FALSE, function() {   # Capture graphics to file
     withPars(function() {                              # Save/restore graphics parameters
 
@@ -107,7 +104,8 @@ plotHitsVsTime <- function(## Inputs
       ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
       plx <- predict(loess(PostHits ~ PostDays,        # LOESS fit of hits vs days since min date
                            data = transform(postData,  # Subtract minPostDate, make numeric
-                                            PostDays = as.numeric(PostDate - minPostDate))),
+                                            PostDays =
+                                              as.numeric(PostDate - min(postData$"PostDate")))),
                      se = TRUE)                        # Get predictions and standard errors
       lines(postData$"PostDate", plx$"fit")            # Main trend and 95% CL by t-distribution
       ## *** Do CL as shaded polygon like everybody else (do it first, plot points & fit curve on top)
