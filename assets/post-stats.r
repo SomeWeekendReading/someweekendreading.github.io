@@ -23,31 +23,38 @@ library("RCurl")                                       # For getURLContent()
 ## or
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
-                      postsDir  = "../_posts",         # Local repository of posts (*.md files)
-                      postPatt  = "*.md",              # What post files look like
-                      mdRegexp  = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
-                      blogName   = "www.someweekendreading.blog",
-                      countURL  = sprintf("https://api.countapi.xyz/get/%s", blogName),
-                      startDate = "2021-Jul-15",       # When counting started
-                      today     = format(Sys.Date(), "%Y-%b-%d"),
-                      hitPlotWidth  = 800,
-                      hitPlotHeight = hitPlotWidth / 2,
+                      postsDir      = "../_posts",     # Local repository of posts (*.md files)
+                      postPatt      = "*.md",          # What post files look like
+                      ## 2 capture groups: (1) for the post date, (2) for the post name in counters
+                      mdRegexp      = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
+                      blogName      = "www.someweekendreading.blog",
+                      countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
+                      startDate     = "2021-Jul-15",   # Counting is from then until today
+                      today         = format(Sys.Date(), "%Y-%b-%d"),
+                      hitPlotWidth  = 800,             # Shape of hits vs time plot
+                      hitPlotHeight = hitPlotWidth / 2,#
 
                       ## Outputs
                       destDir     = "../_drafts",      # Directory where results get written
-                      txFile      = sprintf("post-stats-%s.txt", today),   # NULL for no tx
-                      destFile    = sprintf("post-stats-%s.tsv", today),   # NULL for no save
-                      hitPlotFile = if (is.null(destFile))
-                                      NULL
-                                    else
+                      txFile      = sprintf("post-stats-%s.txt", today), # NULL for no tx
+                      destFile    = sprintf("post-stats-%s.tsv", today), # NULL for no save
+                      hitPlotFile = if (is.null(destFile))               # NULL for no hits/time plot
+                                      NULL             # No plot file
+                                    else               # Else derive from data save file
                                       sub("^(.*)\\.tsv$", "\\1-hits.png", destFile)) {
+
+  showDataframeHeadTail <- function(df) {              # Show representative values in df
+    print(head(df))                                    # Describe the dataframe contents
+    cat("...\n")                                       #  by showing the first few rows, ellipsis,
+    print(tail(df))                                    #  and the last few rows
+  }                                                    #
 
   getPostData <- function(startDate, today, postsDir, postPatt, mdRegexp, countURL) {
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
                       "\n  - Date hit counting started: %s",
                       "\n  - Today:                     %s\n",
-                      sep = ""),                       #
-                startDate, today))                     #
+                      sep = ""),                       #  and today, so we're measuring blog hits
+                startDate, today))                     #  between those 2 dates
     postFiles <- list.files(path = postsDir, pattern = postPatt)
     cat(sprintf("\n* Found %d posts to check for hit counts.\n", length(postFiles)))
     postData <- transform(ddply(data.frame(PostFile = postFiles), "PostFile", function(postFile) {
@@ -71,9 +78,7 @@ postStats <- function(## Inputs
     HitsEnd   = as.Date(HitsEnd,   format = "%Y-%b-%d"))
 
     cat(sprintf("\n  - Result: %d rows of data:\n", nrow(postData)))
-    print(head(postData))                              # Describe the fish we caught
-    cat("...\n")                                       #
-    print(tail(postData))                              #
+    showDataframeHeadTail(postData)                    # Show first few and last few rows
 
     postData                                           # Return data for posts
   }                                                    #
@@ -107,26 +112,30 @@ postStats <- function(## Inputs
 
           ## *** Add quarterly boxplot of hits?
           ## *** Should do horizontal axis manually: vertical dates, monthly intervals
-          plot(x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue", log = "y",
-               xlab = "Post Date", ylab = "Post Hits (log scale)", main = "Hits vs Time")
-               #ylim = c(1, max(postData$"PostHits")))
+          plot(x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
+               xlab = "Post Date", ylab = "Post Hits (log scale)", main = "Hits vs Time",
+               log = "y") #ylim = c(1, max(postData$"PostHits")))
+          rug(postData$"PostDate", side = 1, col = "gray")
           rug(postData$"PostHits", side = 2, col = "gray")
+
           ## LOESS fit and 95% confidence interval as a function of time.  See example at:
           ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
           plx <- predict(loess(PostHits ~ PostDays,    # LOESS fit of hits vs days since min date
                                data = transform(postData,
-                                                PostDays =
-                                                  as.numeric(PostDate - min(postData$"PostDate")))),
+                                                PostDays = as.numeric(
+                                                    PostDate - min(postData$"PostDate")))),
                          se = TRUE)                    # Get predictions and standard errors
-          lines(postData$"PostDate", plx$"fit")        # Main trend and 95% CL by t-distribution
+          lines(postData$"PostDate", plx$"fit", lwd = 2)
           ## *** Do CL shaded polygon like everybody else (do first, plot points & fit curve on top)
           lines(postData$"PostDate", plx$"fit" + qt(0.975, plx$"df") * plx$"se", lty = "dashed")
           lines(postData$"PostDate", plx$"fit" - qt(0.975, plx$"df") * plx$"se", lty = "dashed")
+
           legend("topleft", bg = "antiquewhite", inset = 0.01,
-                 pch    = c(21,                NA,            NA),
-                 pt.bg  = c("blue",            NA,            NA),
-                 lty    = c(NA,                "solid",       "dashed"),
-                 legend = c("Individual Post", "LOESS trend", "95% confidence interval"))
+                 pch    = c(21,                NA,                    NA),
+                 pt.bg  = c("blue",            NA,                    NA),
+                 lty    = c(NA,                "solid",               "dashed"),
+                 lwd    = c(NA,                2,                     1),
+                 legend = c("Individual Post", "LOESS central trend", "95% confidence interval"))
 
           ## *** Show histogram sideways up against the y axis of the scatterplot?
           hist(postData$"PostHits", xlab = "Post Hits", ylab = "Freq(Post Hits)",
@@ -165,6 +174,7 @@ postStats <- function(## Inputs
       plotHitsVsTime(postData, blogName, hitPlotWidth, hitPlotHeight, destDir, hitPlotFile)
     })                                                 #
 
-    invisible(postData)                                # Return the dataframe of results, invisibly
+    invisible(postData)                                # Return results invisibly (also in global var)
+
   })                                                   # End withTranscript()
 }                                                      #
