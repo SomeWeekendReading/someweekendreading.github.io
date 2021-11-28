@@ -21,7 +21,7 @@ library("RCurl")                                       # For getURLContent()
 ## or
 ## > rm("postData"); postStats()
 ## or
-## > foo <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
+## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
                       postsDir  = "../_posts",         # Local repository of posts (*.md files)
                       mdRegexp  = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
@@ -81,6 +81,7 @@ postStats <- function(## Inputs
   })                                                   # End withTranscript()
 }                                                      #
 
+## *** Integrate this with postStats()
 plotHitsVsTime <- function(## Inputs
                            postData,
                            blogName   = "www.someweekendreading.blog",
