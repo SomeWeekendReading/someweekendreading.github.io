@@ -19,7 +19,7 @@ library("RCurl")                                       # For getURLContent()
 ## Example:
 ## > postStats()
 ## or
-## > rm("postData"); postStats()
+## > rm("postData", "postDataSaved", "hitPlotDone"); postStats()
 ## or
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
