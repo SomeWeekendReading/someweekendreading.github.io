@@ -3,7 +3,7 @@
 
 toolsDir <- "../../tools"                              # Tools available from the author
 source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline construction tools
-source(file.path(toolsDir, "graphics-tools.r"))        # Pipeline construction tools
+source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics tools
 
 library("plyr")                                        # For ddply()
 library("RCurl")                                       # For getURLContent()
@@ -130,7 +130,7 @@ postStats <- function(## Inputs
           lines(postData$"PostDate", plx$"fit" + qt(0.975, plx$"df") * plx$"se", lty = "dashed")
           lines(postData$"PostDate", plx$"fit" - qt(0.975, plx$"df") * plx$"se", lty = "dashed")
 
-          legend("topleft", bg = "antiquewhite", inset = 0.01,
+          legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
                  pch    = c(21,                NA,                    NA),
                  pt.bg  = c("blue",            NA,                    NA),
                  lty    = c(NA,                "solid",               "dashed"),
