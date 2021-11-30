@@ -117,7 +117,7 @@ rules for EUA (or approval), and after some discussion, there's a vote over what
 to recommend to the FDA administration.  
 
 
-## Our trusty safari guides  
+## Our trusty safari guides?  
 
 Hmm... normally Helen Branswell and Matt Herper of _STAT News_ live-blog these things, and
 we use them as our trusty safari guides through the FDA/CDC jungle.  A quick trawl through
@@ -265,6 +265,8 @@ that's where to look.
   seemed to damp down that result, made people wonder if there was a particular population
   of responders who should be characterized.  That, at least, would mean only those who
   might benefit from it need take the risk.  
+- The logistical difficulties of getting the drug to people within 5 days of symptoms
+  looked daunting to some AMDAC members.  
 
 Interestingly, given the looming hearings for paxlovid: if another orally available agent
 with a better risk/benefit profile were to become available, then AMDAC thought the FDA
