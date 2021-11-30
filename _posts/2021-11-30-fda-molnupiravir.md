@@ -276,9 +276,12 @@ Weirdly, absolutely nobody said the word "paxlovid".  Maybe a legal reason for t
 
 ## The Weekend Conclusion  
 
-Well, it looks like molnupiravir is recommended for EUA, though not with complete
-enthusiasm.  The potential mutagenic effects in pregnancy really rang the AMDAC like a
-bell.  Now let's see (a) what the FDA administration does, and (b) whether anybody
+Well, it looks like molnupiravir is recommended for EUA, though with less than complete
+enthusiasm.  That's fair, I guess: the benefit was less than the stellar interim analysis,
+and the mutagenic effects during pregnancy give one pause.  The potential mutagenic
+effects in pregnancy really rang the AMDAC like a bell.  
+
+Now let's see (a) what the FDA administration does, and (b) whether anybody
 accelerates the paxlovid hearing!  
 
 _Multae apologiae_ for my rash decision to go grocery shopping instead of listening to the
