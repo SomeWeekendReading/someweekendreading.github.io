@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FDA AMDAC Considers Merck Molnupiravir
+title: FDA AMDAC Considers Merck's Molnupiravir
 tags: COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
@@ -272,6 +272,10 @@ Well, it looks like molnupiravir is recommended for EUA, though not with complet
 enthusiasm.  The potential mutagenic effects in pregnancy really rang the AMDAC like a
 bell.  Now let's see (a) what the FDA administration does, and (b) whether anybody
 accelerates the paxlovid hearing!  
+
+_Multae apologiae_ for my rash decision to go grocery shopping instead of listening to the
+tox stuff.  Maybe later when I'm not so tired I'll go back and wade through the tox
+details.  
 
 ---
 
