@@ -58,21 +58,24 @@ postStats <- function(## Inputs
     postFiles <- list.files(path = postsDir, pattern = postPatt)
     cat(sprintf("\n* Found %d posts to check for hit counts.\n", length(postFiles)))
     postData <- transform(ddply(data.frame(PostFile = postFiles), "PostFile", function(postFile) {
-      pf       <- as.character(postFile[1, 1])         # Convert factor to string
-      postDate <- as.Date(sub(mdRegexp, "\\1", pf))    # Extract date from post filename
+      pf <- as.character(postFile[1, 1])               # Convert factor to string
       ## What the analytics page does:
-      ##
       ## https://api.countapi.xyz/get/www.someweekendreading.blog/{{ page.url | escape | replace: "/", "." }}
       ##
       ## NB: page.url returns a string like "/name/", so this escapes and puts periods
       ## BOTH before AND after: ".name." -- a historical accident, but let's stick with it,
       ## since all our counters at countapi.xyz have that in them now.
-      postHits <- as.integer(                          # Parse as integer
-          sub("^\\{.*\"value\":([0-9]+).*\\}$", "\\1", #   extracted from JSON string
-              getURLContent(sprintf("%s/%s",           # Construct URL to countapi.xyz, and
-                                    countURL,          #  use "get" command to get its value
-                                    gsub("/", "\\.", URLencode(sub(mdRegexp, "/\\2/", pf)))))))
-      data.frame(PostDate = postDate, PostHits = postHits, HitsStart = startDate, HitsEnd = today)
+      data.frame(PostDate  = as.Date(sub(mdRegexp, "\\1", pf)),
+                 PostHits  = as.integer(sub("^\\{.*\"value\":([0-9]+).*\\}$", "\\1",
+                                            ## I wish we could batch these, not slowly 1 by 1!
+                                            getURLContent(sprintf("%s/%s",
+                                                                  countURL,
+                                                                  gsub("/", "\\.",
+                                                                       URLencode(sub(mdRegexp,
+                                                                                     "/\\2/",
+                                                                                     pf))))))),
+                 HitsStart = startDate,                # Keep track of when we started counting,
+                 HitsEnd   = today)                    #  and today.  Counts are in that interval.
     }, .progress = progress_text()),                   # Takes a minute; might as well show progress
     HitsStart = as.Date(HitsStart, format = "%Y-%b-%d"),
     HitsEnd   = as.Date(HitsEnd,   format = "%Y-%b-%d"))
@@ -107,35 +110,49 @@ postStats <- function(## Inputs
       cat(sprintf("* Hits vs time not plotted.\n"))    #  then don't do that
     else {                                             # Otherwise...
       f <- file.path(destDir, destFile)                # Destination pathname
+      ## *** Add quarterly boxplot of hits?  See function quarters().
       withPNG(f, plotWidth, plotHeight, FALSE, function() {
         withPars(function() {                          # Save/restore graphics parameters
+          withPars(function() {                        # Set label orientation & add space @ bottom
+            plot(x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
+                 ## ylim = c(1, max(postData$"PostHits")))
+                 main = "Hits vs Time", ylab = "Post Hits (log scale)", log = "y",
+                 xaxt = "n", xlab = NA)                # Horiz axis done manually, below
 
-          ## *** Add quarterly boxplot of hits?
-          ## *** Should do horizontal axis manually: vertical dates, monthly intervals
-          plot(x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
-               xlab = "Post Date", ylab = "Post Hits (log scale)", main = "Hits vs Time",
-               log = "y") #ylim = c(1, max(postData$"PostHits")))
-          rug(postData$"PostDate", side = 1, col = "gray")
-          rug(postData$"PostHits", side = 2, col = "gray")
+            rug(postData$"PostDate", side = 1, col = "gray")
+            rug(postData$"PostHits", side = 2, col = "gray")
 
-          ## LOESS fit and 95% confidence interval as a function of time.  See example at:
-          ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
-          plx <- predict(loess(PostHits ~ PostDays,    # LOESS fit of hits vs days since min date
-                               data = transform(postData,
-                                                PostDays = as.numeric(
-                                                    PostDate - min(postData$"PostDate")))),
-                         se = TRUE)                    # Get predictions and standard errors
-          lines(postData$"PostDate", plx$"fit", lwd = 2)
-          ## *** Do CL shaded polygon like everybody else (do first, plot points & fit curve on top)
-          lines(postData$"PostDate", plx$"fit" + qt(0.975, plx$"df") * plx$"se", lty = "dashed")
-          lines(postData$"PostDate", plx$"fit" - qt(0.975, plx$"df") * plx$"se", lty = "dashed")
+            ## LOESS fit and 95% confidence interval as a function of time.  See example at:
+            ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
+            plx <- predict(loess(PostHits ~ PostDays,  # LOESS fit of hits vs days since min date
+                                 data = transform(postData,
+                                                  PostDays = as.numeric(
+                                                      PostDate - min(postData$"PostDate")))),
+                           se = TRUE)                  # Get predictions and standard errors
+            lines(postData$"PostDate", plx$"fit", lwd = 2)
+            lines(postData$"PostDate", plx$"fit" + qt(0.975, plx$"df") * plx$"se", lty = "dashed")
+            lines(postData$"PostDate", plx$"fit" - qt(0.975, plx$"df") * plx$"se", lty = "dashed")
+            ## *** Add CL shaded polygon like everybody else (shade first, plot points/curve on top)
 
-          legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
-                 pch    = c(21,                NA,                    NA),
-                 pt.bg  = c("blue",            NA,                    NA),
-                 lty    = c(NA,                "solid",               "dashed"),
-                 lwd    = c(NA,                2,                     1),
-                 legend = c("Individual Post", "LOESS central trend", "95% confidence interval"))
+            legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
+                   pch    = c(21,                NA,                    NA),
+                   pt.bg  = c("blue",            NA,                    NA),
+                   lty    = c(NA,                "solid",               "dashed"),
+                   lwd    = c(NA,                2,                     1),
+                   legend = c("Individual Post", "LOESS central trend", "95% confidence interval"))
+
+            withPars(function() {                      # Horiz axis only: extra space for date labels
+              minPostDate <- min(postData$"PostDate")  # Get date range to be covered,
+              maxPostDate <- max(postData$"PostDate")  #   make 1st day of month for each
+              ticks <- seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1,
+                           to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1,
+                           by   = "month")             #
+              axis.Date(side = 1, at = ticks, format = "%Y-%b-%d", labels = TRUE)
+              mtext("Post Date", side = 1, line = 5.5, las = 0)
+            }, mgp = c(7, 0.5, 0))                     # Horizontal axis only: title, label, tick
+
+          }, las = 3,                                  # Always vertical labels, both axes
+             mar = c(7, 3, 2, 1))                      # Extra margin @ bottom for date labels
 
           ## *** Show histogram sideways up against the y axis of the scatterplot?
           hist(postData$"PostHits", xlab = "Post Hits", ylab = "Freq(Post Hits)",
