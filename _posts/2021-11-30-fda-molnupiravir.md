@@ -226,7 +226,9 @@ Looking through the FDA slides, I'm struck by 3 aspects:
    risk (bone marrow, mutagenicity, reproductive abnormalities, requiring pregnancy
    tests&hellip;).  
    
-
+(See below, in the voting: it was a mistake on my part to get tired and go grocery
+shopping during the tox portion.  It turns out there were major reservations about
+mutagenesis during pregnancy!)  
 
 
 ## Discussion and voting  
@@ -254,8 +256,8 @@ that's where to look.
 - The cautionary notes seemed to be around pregnant women, where some mutagenic effects
   particularly during organogenesis in the fetus were likely (so not in the 1st trimester).
   If you're a woman, a prescription for molnupiravir will be preceded by a pregnancy test.  
-- They also felt it should be limited to high-risk individuals (possibly mostly
-  unvaccinated or who had a suboptimal response to vaccination due to immune impairment),
+- They also felt it should be limited to high-risk individuals (possibly mostly the
+  unvaccinated or those who had a suboptimal response to vaccination due to immune impairment),
   because of some other tox effects (which I now regret skipping over!).  
 - There was also some concern that the induction of high mutation rates in the virus might,
   if it doesn't go _far_ enough, create a troublesome new variants.  
