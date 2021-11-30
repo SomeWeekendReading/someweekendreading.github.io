@@ -144,10 +144,10 @@ postStats <- function(## Inputs
             withPars(function() {                      # Horiz axis only: extra space for date labels
               minPostDate <- min(postData$"PostDate")  # Get date range to be covered,
               maxPostDate <- max(postData$"PostDate")  #   make 1st day of month for each
-              ticks <- seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1,
-                           to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1,
-                           by   = "month")             #
-              axis.Date(side = 1, at = ticks, format = "%Y-%b-%d", labels = TRUE)
+              axis.Date(side = 1, format = "%Y-%b-%d", labels = TRUE,
+                        at = seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1,
+                                 to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1,
+                                 by   = "month"))      # Ticks at start of each month
               mtext("Post Date", side = 1, line = 5.5, las = 0)
             }, mgp = c(7, 0.5, 0))                     # Horizontal axis only: title, label, tick
 
