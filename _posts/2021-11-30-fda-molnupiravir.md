@@ -175,7 +175,8 @@ ourselves.
 
   So that means molnupiravir has an efficacy against hospitalization of 30.4% (CL: 1.0% - 51.1%).
   That is both a dramatically lower median efficacy, as well as a wider confidence
-  limit.  It's somewhat disappointing, especially in comparison with the robust results
+  limit.  Apparently the back half of the clinical trial didn't so so well?! It's somewhat
+  disappointing, especially in comparison with the robust results
   of paxlovid (though that's _also_ an intermediate analysis, I believe).  Still, it's
   statistically significant (the CL is -- _barely_ -- bounded above 0%, and a median 30%
   reduction in hospitalization is nothing to sneeze at!).  
@@ -250,13 +251,18 @@ embiggen).  If you watch the video broadcast near the end, each member had to st
 name and their vote and possibly some reasons.  So if you want to know who went which way,
 that's where to look.  
 
-The cautionary notes seemed to be around pregnant women, where some mutagenic effects
-particularly during organogenesis in the fetus were likely (so not in the 1st trimester).
-If you're a woman, a prescription for molnupiravir will be preceded by a pregnancy test.  
-
-They also felt it should be limited to high-risk individuals (possibly mostly
-unvaccinated or who had a suboptimal response to vaccination due to immune impairment),
-because of some other tox effects (which I now regret skipping over!).  
+- The cautionary notes seemed to be around pregnant women, where some mutagenic effects
+  particularly during organogenesis in the fetus were likely (so not in the 1st trimester).
+  If you're a woman, a prescription for molnupiravir will be preceded by a pregnancy test.  
+- They also felt it should be limited to high-risk individuals (possibly mostly
+  unvaccinated or who had a suboptimal response to vaccination due to immune impairment),
+  because of some other tox effects (which I now regret skipping over!).  
+- There was also some concern that the induction of high mutation rates in the virus might,
+  if it doesn't go _far_ enough, create a troublesome new variants.  
+- The fact that the early part of the clinical trial went so well, while the later part
+  seemed to damp down that result, made people wonder if there was a particular population
+  of responders who should be characterized.  That, at least, would mean only those who
+  might benefit from it need take the risk.  
 
 Interestingly, given the looming hearings for paxlovid: if another orally available agent
 with a better risk/benefit profile were to become available, then AMDAC thought the FDA
