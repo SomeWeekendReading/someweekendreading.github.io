@@ -180,7 +180,7 @@ postStats <- function(## Inputs
   withTranscript(postsDir, destDir, txFile, "Blog Post Hit Counts", function() {
 
     if (clear) {                                       # Wants completely virgin calculation
-      heraldPhase("Clearing Out Previous Results")     # Delete globals holding previous results
+      heraldPhase("Clearing out previous results")     # Delete globals holding previous results
       rm("postData", "postDataSaved", "hitPlotDone", envir = globalenv())
       cat("Done.\n")                                   #
     }                                                  #

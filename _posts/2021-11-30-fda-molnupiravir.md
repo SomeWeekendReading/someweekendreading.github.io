@@ -119,7 +119,7 @@ to recommend to the FDA administration.
 
 ## Our trusty safari guides?  
 
-Hmm... normally Helen Branswell and Matt Herper of _STAT News_ live-blog these things, and
+Hmm... normally Helen Branswell and Mattew Herper of _STAT News_ live-blog these things, and
 we use them as our trusty safari guides through the FDA/CDC jungle.  A quick trawl through
 _STAT News_ comes up empty, though.  Maybe we're on our own today!  
 
@@ -297,7 +297,7 @@ details.
 ## Addendum 2021-Nov-30 evening:  
 
 <img src="{{ site.baseurl }}/images/2021-11-30-fda-molnupiravir-stat.jpg" width="400" height="220" alt="STAT: FDA AMBAC narrowly recommends EUA of molnupiravir" title="STAT: FDA AMBAC narrowly recommends EUA of molnupiravir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-_Now_ our safari guides at _STAT News_ check in! <sup id="fn8a">[[8]](#fn8)</sup>  Matt
+_Now_ our safari guides at _STAT News_ check in! <sup id="fn8a">[[8]](#fn8)</sup>  Matthew
 Herper reports, as above, that AMDAC members were concerned about birth defects and that
 the efficacy was not as stellar as initially thought.  
 
