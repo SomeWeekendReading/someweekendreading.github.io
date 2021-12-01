@@ -19,10 +19,11 @@ library("RCurl")                                       # For getURLContent()
 ## Example:
 ## > postStats()
 ## or
-## > rm("postData", "postDataSaved", "hitPlotDone"); postStats()
+## > postStats(clear = TRUE)
 ## or
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
+                      clear         = FALSE,           # Discard all previous results?
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)
                       postPatt      = "*.md",          # What post files look like
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
@@ -177,6 +178,12 @@ postStats <- function(## Inputs
   }                                                    #
 
   withTranscript(postsDir, destDir, txFile, "Blog Post Hit Counts", function() {
+
+    if (clear) {                                       # Wants completely virgin calculation
+      heraldPhase("Clearing Out Previous Results")     # Delete globals holding previous results
+      rm("postData", "postDataSaved", "hitPlotDone", envir = globalenv())
+      cat("Done.\n")                                   #
+    }                                                  #
 
     heraldPhase("Getting hit count for each post")     # Announce what we're doing
     maybeAssign("postData", function() {               # Collect hit count for each post
