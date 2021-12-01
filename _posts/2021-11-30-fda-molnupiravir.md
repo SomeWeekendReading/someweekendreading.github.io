@@ -276,6 +276,9 @@ paxlovid hearings _first._
 
 Weirdly, absolutely nobody said the word "paxlovid".  Maybe a legal reason for that?  
 
+At the end, the chair said: "In my many years of chairing these meetings, this is the
+first one that's gone over time.  I think that speaks to the complexity of the decision."  
+
 ## The Weekend Conclusion  
 
 Well, it looks like molnupiravir is recommended for EUA, though with less than complete
