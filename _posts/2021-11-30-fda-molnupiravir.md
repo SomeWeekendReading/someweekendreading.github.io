@@ -293,6 +293,21 @@ _Multae apologiae_ for my rash decision to go grocery shopping instead of listen
 tox stuff.  Maybe later when I'm not so tired I'll go back and wade through the tox
 details.  
 
+
+## Addendum 2021-Nov-30 evening:  
+
+<img src="{{ site.baseurl }}/images/2021-11-30-fda-molnupiravir-stat.jpg" width="400" height="220" alt="STAT: FDA AMBAC narrowly recommends EUA of molnupiravir" title="STAT: FDA AMBAC narrowly recommends EUA of molnupiravir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+_Now_ our safari guides at _STAT News_ check in! <sup id="fn8a">[[8]](#fn8)</sup>  Matt
+Herper reports, as above, that AMDAC members were concerned about birth defects and that
+the efficacy was not as stellar as initially thought.  
+
+> In the end, panelists narrowly voted that the benefits of having an oral Covid treatment
+> to keep people out of the hospital outweighed their questions and concerns. But the FDA
+> may write a far narrower authorization for the drug than observers would previously have
+> expected.  
+
+Sigh.  
+
 ---
 
 ## Notes &amp; References  
@@ -320,3 +335,5 @@ details.
 <a id="fn6">6</a>: J Farley, A Hodowanec, M Seaton, R Heflich, P Harrington, E Donaldson, J O'Rear, D Birnkrant, ["FDA Presentaiton for Antimicrobial Drugs Advisory Committee Meeting Briefing Document: Molnupiravir, Oral Treatment of COVID-19"](https://www.fda.gov/media/154473/download), FDA AMDAC 2021-Nov-30 Materials, retrieved 2021-Nov-30. [↩](#fn6a)  
 
 <a id="fn7">7</a>: FDA Staff, ["U.S. Food and Drug Administration, Center for Drug Evaluation and Research, FDA Briefing Document: Antimicrobial Drugs Advisory Committee Meeting November 30, 2021"](https://www.fda.gov/media/154418/download), FDA AMDAC 2021-Nov-30 Materials, retrieved 2021-Nov-30. There is also [a 3-page addendum](https://www.fda.gov/media/154419/download) and [a 1-page erratum](https://www.fda.gov/media/154420/download). [↩](#fn7a)  
+
+<a id="fn8">8</a>: M Herper, ["FDA panel narrowly recommends authorization of first antiviral pill to treat Covid-19"](https://www.statnews.com/2021/11/30/fda-panel-narrowly-recommends-authorization-of-merck-covid-pill-after-day-of-tense-discussion/), _STAT News_, 2021-Nov-30. [↩](#fn8a)  
