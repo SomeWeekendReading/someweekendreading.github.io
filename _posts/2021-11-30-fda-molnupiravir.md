@@ -207,7 +207,7 @@ were left out of the slides:
 
 That's&hellip; kind of convincing to me.  (Though keep in mind I skipped most of the
 toxicity and mutagenicity arguments, so that might change my mind if I had the energy to
-pay attention to it.)  
+pay attention to it.  Aaaand&hellip; that turns out to be the case, sadly enough.  See below.)  
 
 
 ## The FDA presentation  
@@ -226,7 +226,7 @@ Looking through the FDA slides, I'm struck by 3 aspects:
    risk (bone marrow, mutagenicity, reproductive abnormalities, requiring pregnancy
    tests&hellip;).  
    
-(See below, in the voting: it was a mistake on my part to get tired and go grocery
+(See below, in the voting: it was a mistake on my part to get bored and go grocery
 shopping during the tox portion.  It turns out there were major reservations about
 mutagenesis during pregnancy!)  
 
