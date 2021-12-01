@@ -23,7 +23,7 @@ library("RCurl")                                       # For getURLContent()
 ## or
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
-                      clear         = FALSE,           # Discard all previous results?
+                      clear         = FALSE,           # Discard all previous results and recompute?
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)
                       postPatt      = "*.md",          # What post files look like
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
@@ -125,6 +125,8 @@ postStats <- function(## Inputs
 
             ## LOESS fit and 95% confidence interval as a function of time.  See example at:
             ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
+            ## *** Just for kicks, try fitting an actual logistic curve?  Really, any CDF will
+            ##     have the flattening out property; which one, though?
             plx <- predict(loess(PostHits ~ PostDays,  # LOESS fit of hits vs days since min date
                                  data = transform(postData,
                                                   PostDays = as.numeric(
