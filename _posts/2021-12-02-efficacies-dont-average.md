@@ -7,7 +7,7 @@ comments: true
 
 A couple days ago, commenting at
 [TheZvi](https://thezvi.wordpress.com/2021/12/01/fda-votes-on-molunpiravir/#comment-15907),
-I blithely averaged efficacies from the early and late cohots of the molnupiravir.  Fellow
+I blithely averaged efficacies from the early and late cohorts of the molnupiravir trial.  Fellow
 commenter Thomas pointed out that this is not correct.  This post is a _mea culpa_ and a
 lesson to myself on How to Do It Right.  
 
@@ -52,11 +52,11 @@ rest of the patients. <sup id="fn2a">[[2]](#fn2)</sup>  So the 3rd row in this t
 obtained by subtracting the second row from the first row:  
 
 
-|    __Cohort__  | $N_{\mbox{trt}}$ | $K_{\mbox{trthosp}}$ | $N_{\mbox{ctl}}$ | $K_{\mbox{ctlhosp}}$ |
-|:-----------------|-------------------:|----------------------:|-------------------:|----------------------:|
-| _Full_           | 709  |    48    | 699  | 68 |
-| _Interim_        | 385  |    28    | 377  | 53 |
-| _Completion_     | 324  |    20    | 322  | 15 |
+|    __Cohort__  | | $N_{\mbox{trt}}$ | | $K_{\mbox{trthosp}}$ | | $N_{\mbox{ctl}}$ | | $K_{\mbox{ctlhosp}}$ |
+|:-----------------|-|-------------------:|-|----------------------:|-|-------------------:|-|----------------------:|
+| _Full_           | | 709  | |    48    | | 699  | | 68 |
+| _Interim_        | | 385  | |    28    | | 377  | | 53 |
+| _Completion_     | | 324  | |    20    | | 322  | | 15 |
 
 For any arm, we can get a point estimate of the efficacy by:  
 
@@ -68,7 +68,7 @@ $$
 $$
 
 We can do a little more by getting 95% confidence limits, which as a retired statistician
-I am required to do by international law.  I wrote a little [R script](https://www.r-project.org)
+I am required by international law to do.  I wrote a little [R script](https://www.r-project.org)
 to do this <sup id="fn4a">[[4]](#fn4)</sup>, which really just uses scaled binomial
 confidence intervals:  
 
@@ -100,24 +100,24 @@ So let's see what we get:
 ```
 - Interim:  
 ```R
-round(efficacyAndCL(385, 28, 377, 53), digits = 3)
+> round(efficacyAndCL(385, 28, 377, 53), digits = 3)
   LCL   Eff   UCL 
 0.204 0.483 0.665 
 ```
 - Completion:  
 ```R
-round(efficacyAndCL(324, 20, 322, 15), digits = 3)
+> round(efficacyAndCL(324, 20, 322, 15), digits = 3)
    LCL    Eff    UCL 
 -1.516 -0.325  0.301 
 ```
 
 So, in table form and expressed as percentages, we get:  
 
-|    __Cohort__  | 95% LCL   | Efficacy | 95% UCL | 
-|:-----------------|----------:|---------:|--------:|
-| _Full_         |    1.0%  |  30.4%  | 51.1%  |
-| _Interim_      |   20.4%  |  48.3%  | 66.5%  |
-| _Completion_    | -151.6%  | -32.5% | 30.1%  |
+|    __Cohort__  | | 95% LCL   | | Efficacy | | 95% UCL | 
+|:-----------------|-|----------:|-|---------:|-|--------:|
+| _Full_         | |    1.0%  | |  30.4%  | | 51.1%  |
+| _Interim_      | |   20.4%  | |  48.3%  | | 66.5%  |
+| _Completion_    | | __-151.6%__  | | __-32.5%__ | | __30.1%__  |
 
 Yeah&hellip; that second half of the trial looks like it was pretty miserable!  It should
 be clear now why the FDA AMDAC members describe the efficacy as "wobbly".  
