@@ -31,7 +31,6 @@ efficacyAndCL <- function(Ntrt, Ktrt, Ncnt, Kcnt) {    # Treatment efficacy & 95
   ## Ktrt = number of sick in treatment arm
   ## Ncnt = number of subjects in control arm
   ## Kcnt = number of sick in control arm
-
   eff   <- 1 - (Ktrt / Ntrt) / (Kcnt / Ncnt)           # Point estimate, then confidence limits
   effCL <- rev(1 - ciBinomial(Ktrt, Kcnt, Ntrt, Ncnt, scale = "RR"))
 
