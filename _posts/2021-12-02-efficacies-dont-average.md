@@ -114,11 +114,11 @@ So let's see what we get:
 
 So, in table form and expressed as percentages, we get:  
 
-|    __Cohort__  | | 95% LCL   | | Efficacy | | 95% UCL | 
-|:-----------------|-|----------:|-|---------:|-|--------:|
-| _Full_         | |    1.0%  | |  30.4%  | | 51.1%  |
-| _Interim_      | |   20.4%  | |  48.3%  | | 66.5%  |
-| _Completion_    | | __-151.6%__  | | __-32.5%__ | | __30.1%__  |
+|    __Cohort__     | | _95% LCL_     | | _Efficacy_  | | _95% UCL_ | 
+|:-----------------|-|=------------:|-|-----------:|-|-=-------:|
+| _Full_            | |     1.0%    | |  30.4%     | |    51.1%  |
+| _Interim_         | |    20.4%    | |  48.3%      | |   66.5%  |
+| _Completion_       | | __-151.6%__ | | __-32.5%__ | | __30.1%__ |
 
 Yeah&hellip; that second half of the trial looks like it was pretty miserable!  It should
 be clear now why the FDA AMDAC members describe the efficacy as "wobbly".  
