@@ -1174,3 +1174,4 @@ _Business Week_, 14-Nov-2003.
   to what they _do_."  
 - "When you're in a hurry, all data are short-term."  
 - "I probably won't follow your orders, but I may follow your example."  
+- "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones too, but in a theology-dependent way.)"  

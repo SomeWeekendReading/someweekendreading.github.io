@@ -8,8 +8,9 @@ comments: true
 A couple days ago, commenting at
 [TheZvi](https://thezvi.wordpress.com/2021/12/01/fda-votes-on-molunpiravir/#comment-15907),
 I blithely averaged efficacies from the early and late cohorts of the molnupiravir trial.  Fellow
-commenter Thomas pointed out that this is not correct.  This post is a _mea culpa_ and a
+commenter Thomas pointed out that this is _not correct!_  This post is a _mea culpa_ and a
 lesson to myself on How to Do It Right.  
+
 
 ## What's the sitch?  
 
@@ -37,6 +38,7 @@ but I needed the reminder not to make cavalier guesses.  I owe you a favor for t
 
 So the point of this post is (a) to own my mistake and learn from it, and (b) to get
 archived here for myself (and anybody else who cares) How to Do It Right.
+
 
 ## Let's do it right  
 
@@ -124,9 +126,11 @@ be clear now why the FDA AMDAC members describe the efficacy as "wobbly".
 
 ## The Weekend Conclusion  
 
+Ok, I learned 2 things here:  
+
 1. I was wrong to average efficacies in order to conclude that the completion cohort was
    low performance.  Many thanks to Thomas for correcting me, thereby giving me this
-   opportunity to clear up my knowledge here.  
+   opportunity to clear up my thinking here.  
 2. The completion cohort _really was_ miserable, more so even than I thought.  
 
 Every mistake is an opportunity to learn better.  
