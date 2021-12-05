@@ -10,7 +10,7 @@ Remember last month, when we had the story about [people in Greece bribing docto
 
 ## Creative ways to avoid vaccination
 
-<img src="{{ site.baseurl }}/imagesxd/2021-12-05-fake-arm-vaccine-bbc.jpg" width="400" height="219" alt="BBC: Dodging vaccination with a rubber arm?!" title="BBC: Dodging vaccination with a rubber arm?!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-12-05-fake-arm-vaccine-bbc.jpg" width="400" height="219" alt="BBC: Dodging vaccination with a rubber arm?!" title="BBC: Dodging vaccination with a rubber arm?!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 People have tried all sorts of ways to avoid being vaccinated: outright refusal, fake vax
 cards, bribes, &hellip; all sorts of things.  But from Italy via the 
 venerable Beeb <sup id="fn1a">[[1]](#fn1)</sup> comes a story that shows what happens when
