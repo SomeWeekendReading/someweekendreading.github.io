@@ -170,7 +170,7 @@ $$
 
 So while it's wrong to ignore this, it might not be _excessively_ misleading because of
 the low-to-moderate dropout rate.  But you would be right to be suspicous of anybody who
-did what I'm about to do _if they had access to the censorship data!_</sup>[↩](#fn2a)  
+did what I'm about to do _if they had access to the censorship data!_[↩](#fn2a)  
 
 <a id="fn3">3</a>: Merck Staff, ["Center for Drug Evaluation and Research, Antimicrobial Drugs Advisory Committee Meeting Briefing Document: Molnupiravir, Oral Treatment of COVID-19, APPLICATION NUMBER: EUA #000108"](https://www.fda.gov/media/154421/download), FDA AMDAC 2021-Nov-30 Materials, retrieved 2021-Nov-30. There is also [a 7-page addendum](https://www.fda.gov/media/154422/download). [↩](#fn3a)  
 
