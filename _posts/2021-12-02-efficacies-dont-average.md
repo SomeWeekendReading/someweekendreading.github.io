@@ -73,7 +73,7 @@ $$
 $$
 
 We can do a little more by getting 95% confidence limits, which as a retired statistician
-I am required by international law to do.  I wrote a little [R script](https://www.r-project.org)
+I am required to do, under international law.  I wrote a little [R script](https://www.r-project.org)
 to do this <sup id="fn4a">[[4]](#fn4)</sup>, which really just uses scaled binomial
 confidence intervals:  
 
