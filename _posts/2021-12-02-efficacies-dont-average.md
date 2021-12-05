@@ -97,18 +97,18 @@ but I haven't finished the tricky numerics of ${}\_{3}F\_{2}()$ for large parame
 So let's see what we get:  
 - Full:  
 ```R
-## Full cohort
-> round(efficacyAndCL(709, 48, 699, 68), digits = 3)
+\#\# Full cohort
+\> round(efficacyAndCL(709, 48, 699, 68), digits = 3)
   LCL   Eff   UCL 
 0.010 0.304 0.511 
 
-## Interim cohort
-> round(efficacyAndCL(385, 28, 377, 53), digits = 3)
+\#\# Interim cohort
+\> round(efficacyAndCL(385, 28, 377, 53), digits = 3)
   LCL   Eff   UCL 
 0.204 0.483 0.665 
 
-## Completion cohort
-> round(efficacyAndCL(324, 20, 322, 15), digits = 3)
+\#\# Completion cohort
+\> round(efficacyAndCL(324, 20, 322, 15), digits = 3)
    LCL    Eff    UCL 
 -1.516 -0.325  0.301 
 ```
