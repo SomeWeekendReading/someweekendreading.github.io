@@ -18,14 +18,14 @@ During [the FDA hearing on molnupiravir]({{ site.baseurl }}/fda-molnupiravir/),
 it became apparent that:
 - The interim analysis of the early cohort of patients showed fantastic efficacy vs 
   hospitalization: 48.3% (CL: 20.5% &ndash; 66.5%).  
-- The final analysis of the full trial showed "meh" efficacy: 30.4% (CL: 1.0% &ndash;
+- The final analysis of the full cohort showed "meh" efficacy: 30.4% (CL: 1.0% &ndash;
   51.1%).  
   
-I was opining that in order to come down from ~50% to ~30%, the second half of the trial
+I was opining that in order to come down from ~50% to ~30%, the second cohort of the trial
 must have been pretty miserable!  Just winging it, I thought:  
-- Suppose the early and late cohort are about the same size.  
-- Then the efficacy of the whole trial should be about the average of the early and late
-  cohort.  
+- Suppose the interim and "completion" cohort are about the same size.  
+- Then the efficacy of the whole trial should be about the average of the interim and completion
+  cohorts.  
 - So the efficacy of the late cohort must have been about 10%: (50% + 10%) / 2 = 30%.  
 
 The point I was trying to make was that the second cohort of the trial had to be really
@@ -50,7 +50,10 @@ we picked up slides CC-20 and CC-23 from the Merck deck <sup id="fn1a">[[1]](#fn
 shown here.  They contain what we need: patient and hospitalization counts, for the
 control and treatment arms, for the interim and full analysis.  Subtracting the interim
 counts from the full counts will give us the counts for the "completion" set, i.e., the
-rest of the patients. <sup id="fn2a">[[2]](#fn2)</sup>  So the 3rd row in this table is
+rest of the patients. <sup id="fn2a">[[2]](#fn2)</sup>  
+
+Let $N_x$ be the number of patients in an arm ($x = $ treatment or control), and let $K_{x\mbox{hosp}}$ 
+be the number of those who go on to be hospitalized.  So the 3rd row in this table is
 obtained by subtracting the second row from the first row:  
 
 
@@ -92,21 +95,19 @@ efficacyAndCL <- function(Ntrt, Ktrt, Ncnt, Kcnt) {    # Treatment efficacy & 95
 but I haven't finished the tricky numerics of ${}\_{3}F\_{2}()$ for large parameter values.)  
 
 So let's see what we get:  
-
 - Full:  
 ```R
+## Full cohort
 > round(efficacyAndCL(709, 48, 699, 68), digits = 3)
   LCL   Eff   UCL 
 0.010 0.304 0.511 
-```
-- Interim:  
-```R
+
+## Interim cohort
 > round(efficacyAndCL(385, 28, 377, 53), digits = 3)
   LCL   Eff   UCL 
 0.204 0.483 0.665 
-```
-- Completion:  
-```R
+
+## Completion cohort
 > round(efficacyAndCL(324, 20, 322, 15), digits = 3)
    LCL    Eff    UCL 
 -1.516 -0.325  0.301 
@@ -114,13 +115,13 @@ So let's see what we get:
 
 So, in table form and expressed as percentages, we get:  
 
-|    __Cohort__     | | _95% LCL_     | | _Efficacy_  | | _95% UCL_ | 
+|    _Cohort_       | | _95% LCL_     | | _Efficacy_  | | _95% UCL_ | 
 |:-----------------|-|-------------:|-|-----------:|-|---------:|
 | _Full_            | |     1.0%    | |  30.4%     | |    51.1%  |
 | _Interim_         | |    20.4%    | |  48.3%      | |   66.5%  |
 | _Completion_       | | __-151.6%__ | | __-32.5%__ | | __30.1%__ |
 
-Yeah&hellip; that second half of the trial looks like it was pretty miserable!  It should
+Yeah&hellip; that second half of the trial, shown in bold, looks like it was pretty miserable!  It should
 be clear now why the FDA AMDAC members describe the efficacy as "wobbly".  
 
 
