@@ -121,8 +121,12 @@ So, in table form and expressed as percentages, we get:
 | _Interim_         | |    20.4%    | |  48.3%      | |   66.5%  |
 | _Completion_       | | __-151.6%__ | | __-32.5%__ | | __30.1%__ |
 
-Yeah&hellip; that second half of the trial, shown in bold, looks like it was pretty miserable!  It should
-be clear now why the FDA AMDAC members describe the efficacy as "wobbly".  
+Yeah&hellip; that second half of the trial, shown in bold, looks like it was pretty
+miserable!  The efficacy is negative, meaning there were more hospitalizations in the
+treatment arm than in the control arm (20 vs 15).  Those are pretty small numbers though,
+and hence the 95% confidence limits are quite wide.  
+
+It should be clear now why the FDA AMDAC chair, Lindsey Baden, described the efficacy as "wobbly".  
 
 
 ## The Weekend Conclusion  
