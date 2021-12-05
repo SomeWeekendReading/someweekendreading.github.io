@@ -95,7 +95,7 @@ efficacyAndCL <- function(Ntrt, Ktrt, Ncnt, Kcnt) {    # Treatment efficacy & 95
 but I haven't finished the tricky numerics of ${}\_{3}F\_{2}()$ for large parameter values.)  
 
 So let's see what we get:  
-- Full:  
+
 ```R
 \#\# Full cohort
 \> round(efficacyAndCL(709, 48, 699, 68), digits = 3)
