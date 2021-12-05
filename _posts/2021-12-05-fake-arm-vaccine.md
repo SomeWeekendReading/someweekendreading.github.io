@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mea Culpa&colon; Efficacies Don't Average!
+title: Avoding Vaccination With More Creativity Than Common Sense
 tags: COVID Politics &Gammad;&Tau;&Phi;
 comments: true
 ---
