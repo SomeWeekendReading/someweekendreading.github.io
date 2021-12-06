@@ -24,11 +24,13 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
                       clear         = FALSE,           # Discard all previous results and recompute?
+                      ## Most of these remaining inputs should change very rarely
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)
                       postPatt      = "*.md",          # What post files look like
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
                       mdRegexp      = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
-                      jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$", # Capture count value
+                      ## 1 capture group: get the integer value from the JSON returned
+                      jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$",
                       blogName      = "www.someweekendreading.blog",
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
                       startDate     = "2021-Jul-15",   # Counting is from then until today
@@ -38,7 +40,7 @@ postStats <- function(## Inputs
 
                       ## Outputs
                       destDir     = "../_drafts",      # Directory where results get written
-                      txFile      = sprintf("post-stats-%s.txt", today), # NULL for no tx
+                      txFile      = sprintf("post-stats-%s.txt", today), # NULL for no transcript
                       destFile    = sprintf("post-stats-%s.tsv", today), # NULL for no save
                       hitPlotFile = if (is.null(destFile))               # NULL for no hits/time plot
                                       NULL             # No plot file
