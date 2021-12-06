@@ -104,6 +104,7 @@ postStats <- function(## Inputs
 
   plotHitsVsTime <- function(## Inputs
                              postData,
+                             today,
                              blogName   = "www.someweekendreading.blog",
                              plotWidth  = 800,
                              plotHeight = plotWidth / 2,
@@ -166,10 +167,11 @@ postStats <- function(## Inputs
           hist(postData$"PostHits", xlab = "Post Hits", ylab = "Freq(Post Hits)",
                main = "Hit Frequency Distribution", col = "blue", breaks = 20)
 
-          title(main = sprintf("Hits on %s: %s to %s", # Overall title
+          title(main = sprintf("Hits on %s: %s to %s (as of %s)", # Overall title
                                blogName,               # Put blog name in title
                                format(postData[1, "HitsStart"], format = "%Y-%b-%d"),
-                               format(postData[1, "HitsEnd"],   format = "%Y-%b-%d")),
+                               format(postData[1, "HitsEnd"],   format = "%Y-%b-%d"),
+                               today),                 #
                 outer = TRUE)                          # It's in the top outer margin
 
         }, pty   = "m",                                # Maximal plotting area
@@ -202,7 +204,7 @@ postStats <- function(## Inputs
 
     heraldPhase("Plotting hits vs time")               # Plot hits vs time and probability
     maybeAssign("hitPlotDone", function() {            #   distribution of hits
-      plotHitsVsTime(postData, blogName, hitPlotWidth, hitPlotHeight, destDir, hitPlotFile)
+      plotHitsVsTime(postData, today, blogName, hitPlotWidth, hitPlotHeight, destDir, hitPlotFile)
     })                                                 #
 
     invisible(postData)                                # Return results invisibly (also in global var)
