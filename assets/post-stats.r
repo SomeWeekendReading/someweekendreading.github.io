@@ -28,6 +28,7 @@ postStats <- function(## Inputs
                       postPatt      = "*.md",          # What post files look like
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
                       mdRegexp      = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
+                      jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$", # Capture count value
                       blogName      = "www.someweekendreading.blog",
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
                       startDate     = "2021-Jul-15",   # Counting is from then until today
@@ -50,7 +51,7 @@ postStats <- function(## Inputs
     print(tail(df))                                    #  and the last few rows
   }                                                    #
 
-  getPostData <- function(startDate, today, postsDir, postPatt, mdRegexp, countURL) {
+  getPostData <- function(startDate, today, postsDir, postPatt, mdRegexp, jsonRegexp, countURL) {
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
                       "\n  - Date hit counting started: %s",
                       "\n  - Today:                     %s\n",
@@ -67,7 +68,7 @@ postStats <- function(## Inputs
       ## BOTH before AND after: ".name." -- a historical accident, but let's stick with it,
       ## since all our counters at countapi.xyz have that in them now.
       data.frame(PostDate  = as.Date(sub(mdRegexp, "\\1", pf)),
-                 PostHits  = as.integer(sub("^\\{.*\"value\":([0-9]+).*\\}$", "\\1",
+                 PostHits  = as.integer(sub(jsonRegexp, "\\1",
                                             ## I wish we could batch these, not slowly 1 by 1!
                                             getURLContent(sprintf("%s/%s",
                                                                   countURL,
@@ -186,12 +187,12 @@ postStats <- function(## Inputs
     if (clear) {                                       # Wants completely virgin calculation
       heraldPhase("Clearing out previous results")     # Delete globals holding previous results
       rm("postData", "postDataSaved", "hitPlotDone", envir = globalenv())
-      cat("Done.\n")                                   #
+      cat("* Done.\n")                                 #
     }                                                  #
 
     heraldPhase("Getting hit count for each post")     # Announce what we're doing
     maybeAssign("postData", function() {               # Collect hit count for each post
-      getPostData(startDate, today, postsDir, postPatt, mdRegexp, countURL)
+      getPostData(startDate, today, postsDir, postPatt, mdRegexp, jsonRegexp, countURL)
     })                                                 # Done retrieving counts
 
     heraldPhase("Saving results")                      # Save the results, maybe
