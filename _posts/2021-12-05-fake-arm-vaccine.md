@@ -33,7 +33,9 @@ People are creative.  More often than they're sensible, apparently.
 <a href="{{ site.baseurl }}/images/2021-12-05-fake-arm-vaccine-la-repubblica.jpg"><img src="{{ site.baseurl }}/images/2021-12-05-fake-arm-vaccine-la-repubblica-thumb.jpg" width="400" height="282" alt="la Repubblica: Dr No Vax and the rubber arm" title="la Repubblica: Dr No Vax and the rubber arm" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 We chased down the original source for this very important news, to an article by Carlotta
 Rocci in _la Repubblica_. <sup id="fn2a">[[2]](#fn2)</sup>  We show it here under Google
-Translate, since at Chez Weekend we do some Latin, but precious little Italian.  
+Translate, since at Chez Weekend we do some Latin, but precious little Italian.  (Ok: a
+bit of _nel mezzo del cammin di nostra vita_ and maybe 
+_ogni speranza laciate, voich'entrate_, but no more.)  
 
 It just gets weirder and weirder.  The comedian in this case is a dentist named Guido
 Russo, who styles himself "Doctor No Vax".  On his office door, shown here, is a sign
@@ -68,4 +70,4 @@ COVID-19?
 
 <a id="fn1">1</a>: Author unnamed, ["Italian man tries to dodge Covid jab using fake arm"](https://www.bbc.com/news/world-europe-59524527), _BBC News_, 2021-Dec-03. [↩](#fn1a)  
 
-<a id="fn2">2</a>: C Rocci, ["Medico No Vax sospeso va a fare il vaccino con un braccio finto per ottenere il Green Pass: denunciato per truffa"](https://torino.repubblica.it/cronaca/2021/12/02/news/no_vax_con_un_braccio_in_silicone_va_a_fare_il_vaccino_per_avere_lo_stesso_il_green_pass_denunciato-328713577/?ref=RHTP-BH-I322793271-P2-S5-T1), _la Repubblica_, 2021-Dec-02. [↩](#fn2a)  
+<a id="fn2">2</a>: C Rocci, ["Medico No Vax sospeso va a fare il vaccino con un braccio finto per ottenere il Green Pass: denunciato per truffa"](https://torino.repubblica.it/cronaca/2021/12/02/news/no_vax_con_un_braccio_in_silicone_va_a_fare_il_vaccino_per_avere_lo_stesso_il_green_pass_denunciato-328713577/), _la Repubblica_, 2021-Dec-02. [↩](#fn2a)  
