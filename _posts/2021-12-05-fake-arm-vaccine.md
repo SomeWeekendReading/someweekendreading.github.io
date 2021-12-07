@@ -27,6 +27,27 @@ the police.
 
 People are creative.  More often than they're sensible, apparently.  
 
+
+## Addendum 2021-Dec-06: Details!  
+
+<a href="{{ site.baseurl }}/images/2021-12-05-fake-arm-vaccine-la-repubblica.jpg"><img src="{{ site.baseurl }}/images/2021-12-05-fake-arm-vaccine-la-repubblica-thumb.jpg" width="400" height="282" alt="la Repubblica: Dr No Vax and the rubber arm" title="la Repubblica: Dr No Vax and the rubber arm" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+We chased down the original source for this very important news, to an article by Carlotta
+Rocci in _la Repubblica_. <sup id="fn2a">[[2]](#fn2)</sup>  We show it here under Google
+Translate, since at Chez Weekend we do some Latin, but precious little Italian.  
+
+It just gets weirder and weirder.  The comedian in this case is a dentist named Guido
+Russo, who styles himself "Doctor No Vax".  On his office door, shown here, is a sign
+advising potential patients that the "Green Pass" (vaccine proof) is "strictly
+voluntary".  (The Italian government may have a somewhat orthogonal opinion on this.)  He is
+apparently suspended due to a refusal to vaccinate.  
+
+There's some possibility that he even posted his plans on Twitter under a pseudonym
+(apparently in Cyrillic, because it just _has_ to get weirder).  The picture of the
+silicone male torso is&hellip; disorienting.  
+
+Wouldn't it just be easier to get vaccinated?  And then, you know, not have to worry about
+COVID-19?  
+
 ---
 
 ## Notes &amp; References  
@@ -42,3 +63,5 @@ People are creative.  More often than they're sensible, apparently.
 -->
 
 <a id="fn1">1</a>: Author unnamed, ["Italian man tries to dodge Covid jab using fake arm"](https://www.bbc.com/news/world-europe-59524527), _BBC News_, 2021-Dec-03. [↩](#fn1a)  
+
+<a id="fn2">2</a>: C Rocci, ["Medico No Vax sospeso va a fare il vaccino con un braccio finto per ottenere il Green Pass: denunciato per truffa"](https://torino.repubblica.it/cronaca/2021/12/02/news/no_vax_con_un_braccio_in_silicone_va_a_fare_il_vaccino_per_avere_lo_stesso_il_green_pass_denunciato-328713577/?ref=RHTP-BH-I322793271-P2-S5-T1), _la Repubblica_, 2021-Dec-02. [↩](#fn2a)  

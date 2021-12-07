@@ -17,6 +17,7 @@ library("RCurl")                                       # For getURLContent()
 ##
 
 ## Example:
+##
 ## > postStats()
 ## or
 ## > postStats(clear = TRUE)
@@ -24,6 +25,7 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
                       clear         = FALSE,           # Discard all previous results and recompute?
+
                       ## Most of these remaining inputs should change very rarely
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)
                       postPatt      = "*.md",          # What post files look like
@@ -46,12 +48,6 @@ postStats <- function(## Inputs
                                       NULL             # No plot file
                                     else               # Else derive from data save file
                                       sub("^(.*)\\.tsv$", "\\1-hits.png", destFile)) {
-
-  showDataframeHeadTail <- function(df) {              # Show representative values in df
-    print(head(df))                                    # Describe the dataframe contents
-    cat("...\n")                                       #  by showing the first few rows, ellipsis,
-    print(tail(df))                                    #  and the last few rows
-  }                                                    #
 
   getPostData <- function(startDate, today, postsDir, postPatt, mdRegexp, jsonRegexp, countURL) {
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
@@ -167,11 +163,11 @@ postStats <- function(## Inputs
           hist(postData$"PostHits", xlab = "Post Hits", ylab = "Freq(Post Hits)",
                main = "Hit Frequency Distribution", col = "blue", breaks = 20)
 
-          title(main = sprintf("Hits on %s: %s to %s (as of %s)", # Overall title
+          title(main = sprintf("Hits as of %s on %s: Posts %s to %s",
+                               today,                  # Overall title
                                blogName,               # Put blog name in title
                                format(postData[1, "HitsStart"], format = "%Y-%b-%d"),
-                               format(postData[1, "HitsEnd"],   format = "%Y-%b-%d"),
-                               today),                 #
+                               format(postData[1, "HitsEnd"],   format = "%Y-%b-%d")),
                 outer = TRUE)                          # It's in the top outer margin
 
         }, pty   = "m",                                # Maximal plotting area
