@@ -308,6 +308,34 @@ the efficacy was not as stellar as initially thought.
 
 Sigh.  
 
+
+## Addendum 2021-Dec-02: The efficacy in the back half of the trial  
+
+The efficacy of the first cohort was so good the trial was stopped because that was enough
+for approval and it would be unethical to continue giving placebos instead of just moving
+ASAP to approval.
+
+But&hellip; the final report had only modest efficacy.  What does that say about the back
+half of the trial?  
+
+[Somebody asked me about that and I looked into it](https://www.someweekendreading.blog/efficacies-dont-average/)
+(after first doing it wrong, which is why the linked post is labelled "MeaCulpa".  
+
+It turns out from the slides above you can work all this out.  The median efficacies and
+their 95% confidence limits in the full, interim, and completion cohorts were:  
+
+
+|    _Cohort_       | | _95% LCL_     | | _Efficacy_  | | _95% UCL_ | 
+|:-----------------|-|-------------:|-|-----------:|-|---------:|
+| _Full_            | |     1.0%    | |  30.4%     | |    51.1%  |
+| _Interim_         | |    20.4%    | |  48.3%      | |   66.5%  |
+| _Completion_       | | __-151.6%__ | | __-32.5%__ | | __30.1%__ |
+
+So yeah, the second half of the trial population (the "completion" cohort) was pretty
+miserable.  There were _more_ hospitalizations in the treatment arm than in the control
+arm, so the efficacy was _negative!_  Now you see why the AMDAC members were so
+concerned.  
+
 ---
 
 ## Notes &amp; References  

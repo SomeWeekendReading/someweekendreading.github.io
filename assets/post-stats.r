@@ -9,12 +9,16 @@ library("plyr")                                        # For ddply()
 library("RCurl")                                       # For getURLContent()
 
 ##
-## Collect stats on posts
+## Collect stats on posts over time.
 ##
+
 ## *** Other stats: # comments for each post, # images for each post, byte count including
 ##     images for each post, ...
+##
 ## *** Graphics (quarterly boxplot of hits, byte counts vs time, ...)
 ##
+## *** Just for kicks, try fitting an actual logistic curve?  Really, any CDF will
+##     have the flattening out property; which one, though?
 
 ## Example:
 ##
@@ -113,7 +117,6 @@ postStats <- function(## Inputs
       cat(sprintf("* Hits vs time not plotted.\n"))    #  then don't do that
     else {                                             # Otherwise...
       f <- file.path(destDir, destFile)                # Destination pathname
-      ## *** Add quarterly boxplot of hits?  See function quarters().
       withPNG(f, plotWidth, plotHeight, FALSE, function() {
         withPars(function() {                          # Save/restore graphics parameters
           withPars(function() {                        # Set label orientation & add space @ bottom
@@ -127,8 +130,6 @@ postStats <- function(## Inputs
 
             ## LOESS fit and 95% confidence interval as a function of time.  See example at:
             ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
-            ## *** Just for kicks, try fitting an actual logistic curve?  Really, any CDF will
-            ##     have the flattening out property; which one, though?
             plx <- predict(loess(PostHits ~ PostDays,  # LOESS fit of hits vs days since min date
                                  data = transform(postData,
                                                   PostDays = as.numeric(
