@@ -45,6 +45,10 @@ There's some possibility that he even posted his plans on Twitter under a pseudo
 (apparently in Cyrillic, because it just _has_ to get weirder).  The picture of the
 silicone male torso is&hellip; disorienting.  
 
+There are other articles linked, e.g., that Russo continued to work as a dentist in spite
+of a suspension.  I think I'll decline the invitation to dive down any further rabbit
+holes here.  The level of cognitive hazard is pretty high as it stands.  
+
 Wouldn't it just be easier to get vaccinated?  And then, you know, not have to worry about
 COVID-19?  
 
