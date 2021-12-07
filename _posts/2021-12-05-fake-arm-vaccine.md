@@ -34,8 +34,8 @@ People are creative.  More often than they're sensible, apparently.
 We chased down the original source for this very important news, to an article by Carlotta
 Rocci in _la Repubblica_. <sup id="fn2a">[[2]](#fn2)</sup>  We show it here under Google
 Translate, since at Chez Weekend we do some Latin, but precious little Italian.  (Ok: a
-bit of _nel mezzo del cammin di nostra vita_ and maybe 
-_ogni speranza laciate, voich'entrate_, but no more.)  
+bit of _nel mezzo del cammin di nostra vita_ and maybe some
+_ogni speranza laciate, voich'entrate_, but after that it's all restaurant menus.)  
 
 It just gets weirder and weirder.  The comedian in this case is a dentist named Guido
 Russo, who styles himself "Doctor No Vax".  On his office door, shown here, is a sign
