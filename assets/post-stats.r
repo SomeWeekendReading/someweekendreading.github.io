@@ -163,11 +163,12 @@ postStats <- function(## Inputs
           hist(postData$"PostHits", xlab = "Post Hits", ylab = "Freq(Post Hits)",
                main = "Hit Frequency Distribution", col = "blue", breaks = 20)
 
-          title(main = sprintf("Hits as of %s on %s: Posts %s to %s",
-                               today,                  # Overall title
-                               blogName,               # Put blog name in title
+          title(main = sprintf("%s: Hits %s to %s; Posts %s to %s",
+                               blogName,
                                format(postData[1, "HitsStart"], format = "%Y-%b-%d"),
-                               format(postData[1, "HitsEnd"],   format = "%Y-%b-%d")),
+                               format(postData[1, "HitsEnd"], format = "%Y-%b-%d"),
+                               format(postData[1,              "PostDate"],   format = "%Y-%b-%d"),
+                               format(postData[nrow(postData), "PostDate"],   format = "%Y-%b-%d")),
                 outer = TRUE)                          # It's in the top outer margin
 
         }, pty   = "m",                                # Maximal plotting area
