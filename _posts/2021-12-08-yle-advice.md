@@ -17,10 +17,10 @@ likely to help, right?  Of course!
 
 <img src="{{ site.baseurl }}/images/2021-12-08-yle-advice-yle.jpg" width="400" height="128" alt="Your Local Epidemiologist: Some answers about Omicron" title="Your Local Epidemiologist: Some answers about Omicron" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Katelyn Jetelina ([CV](https://daj9cl0xcfutq.cloudfront.net/cv/jetelina.pdf)), a.k.a. the
-blogger behind _Your Local Epidemiologist_ &amp; professor of epidemiology at UTexas
-Houston, is one such expert.  Today she told us about some of the latest lab data on
-Omicron: its rate of infection, severity, vaccine evasion experiments, and so
-on. <sup id="fn1a">[[1]](#fn1)</sup>  
+blogger behind [_Your Local Epidemiologist_](https://yourlocalepidemiologist.substack.com/)
+&amp; professor of epidemiology at UTexas Houston, is one such expert.  Today she told us
+about some of the latest lab data on Omicron: its rate of infection, severity, vaccine
+evasion experiments, and so on. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 All very interesting, but&hellip;  
 
@@ -49,4 +49,4 @@ It's good advice.  You should take it.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: K Jetelina, ["Omicron: We're getting (some) answers"](https://yourlocalepidemiologist.substack.com/p/omicron-were-getting-some-answers), _Your Local Epidemiologist_ blog, 2021-Dec-07.  As [I've said before in analogy to avoiding death in a chem lab accident](https://www.someweekendreading.blog/so-nu/#addendum-2021-nov-29-your-local-epidemiologist-again): when your epidemiologist is offering you daily updates, _pay attention and follow instructions!_ [↩](#fn1a)  
+<a id="fn1">1</a>: K Jetelina, ["Omicron: We're getting (some) answers"](https://yourlocalepidemiologist.substack.com/p/omicron-were-getting-some-answers), [_Your Local Epidemiologist_](https://yourlocalepidemiologist.substack.com/) blog, 2021-Dec-07.  As [I've said before in analogy to avoiding death in a chem lab accident](https://www.someweekendreading.blog/so-nu/#addendum-2021-nov-29-your-local-epidemiologist-again): when your epidemiologist is offering you daily updates, _pay attention and follow instructions!_ [↩](#fn1a)  
