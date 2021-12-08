@@ -29,7 +29,7 @@ Instead, I'm going to tell you her extremely well-informed and useful advice (em
 > take it seriously. __Wear a good mask. Ventilate spaces. Test, test, test. And, for the
 > love of all things, go get your vaccine and/or booster.__
 
-It's _good_ advice.  You should take it.  
+It's good advice.  You should take it.  
 
 ---
 
