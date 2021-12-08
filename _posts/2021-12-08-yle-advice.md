@@ -20,7 +20,7 @@ infection, severity, vaccine evasion experiments, and so on. <sup id="fn1a">[[1]
 
 I'm not going to tell you about any of that.  
 
-Instead, I'm going to tell you her extremely well-informed and useful advice:  
+Instead, I'm going to tell you her extremely well-informed and useful advice (emphasis added):  
 
 > We’re all exhausted. The scientists. The healthcare workers. The parents. The
 > pharmacists. The teachers. Everyone. But the virus isn’t. And it won’t be until we all
