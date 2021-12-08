@@ -22,7 +22,9 @@ Houston, is one such expert.  Today she told us about some of the latest lab dat
 Omicron: its rate of infection, severity, vaccine evasion experiments, and so
 on. <sup id="fn1a">[[1]](#fn1)</sup>  
 
-All very interesting, but&hellip; I'm not going to tell you about _any_ of it.  
+All very interesting, but&hellip;  
+
+I'm not going to tell you about _any_ of it.  
 
 Instead, I'm going to tell you her extremely well-informed and useful advice (emphasis added):  
 
