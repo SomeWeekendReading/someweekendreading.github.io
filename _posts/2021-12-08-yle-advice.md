@@ -14,11 +14,13 @@ Want to survive omicron?  Good choice.  Probably you should take advice from wel
 experts who know what actions are likely to help, right?  
 
 <img src="{{ site.baseurl }}/images/2021-12-08-yle-advice-yle.jpg" width="400" height="128" alt="Your Local Epidemiologist: Some answers about Omicron" title="Your Local Epidemiologist: Some answers about Omicron" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Prof Katelyn Jetelina, a.k.a. the blogger behind _Your Local Epidemiologist_, is one such
-expert.  Today she told us about some of the latest lab data on Omicron: its rate of
-infection, severity, vaccine evasion experiments, and so on. <sup id="fn1a">[[1]](#fn1)</sup>  
+Katelyn Jetelina ([CV](https://daj9cl0xcfutq.cloudfront.net/cv/jetelina.pdf)), a.k.a. the
+blogger behind _Your Local Epidemiologist_ &amp; professor of epidemiology at UTexas
+Houston, is one such expert.  Today she told us about some of the latest lab data on
+Omicron: its rate of infection, severity, vaccine evasion experiments, and so
+on. <sup id="fn1a">[[1]](#fn1)</sup>  
 
-I'm not going to tell you about any of that.  
+All very interesting.  I'm not going to tell you about any of that.  
 
 Instead, I'm going to tell you her extremely well-informed and useful advice (emphasis added):  
 
