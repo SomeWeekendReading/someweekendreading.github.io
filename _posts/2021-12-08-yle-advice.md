@@ -11,7 +11,7 @@ YLE has some important advice for all of us about surviving Omicron.
 ## Some Informed Advice From An Expert  
 
 Want to survive omicron?  Good choice.  Probably you should take advice from well-informed
-experts who know what actions are likely to help, right?  
+experts who know what actions are likely to help, right?  Of course.  
 
 <img src="{{ site.baseurl }}/images/2021-12-08-yle-advice-yle.jpg" width="400" height="128" alt="Your Local Epidemiologist: Some answers about Omicron" title="Your Local Epidemiologist: Some answers about Omicron" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Katelyn Jetelina ([CV](https://daj9cl0xcfutq.cloudfront.net/cv/jetelina.pdf)), a.k.a. the
