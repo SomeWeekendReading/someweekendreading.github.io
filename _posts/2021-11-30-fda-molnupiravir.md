@@ -333,8 +333,8 @@ their 95% confidence limits in the full, interim, and completion cohorts were:
 
 So yeah, the second half of the trial population (the "completion" cohort) was pretty
 miserable.  There were _more_ hospitalizations in the treatment arm than in the control
-arm, so the efficacy was _negative!_  Now you see why the AMDAC members were so
-concerned.  
+arm (but only 20 vs 15), so the efficacy was _negative!_ Now you see why the AMDAC members
+were so concerned.  
 
 ---
 
