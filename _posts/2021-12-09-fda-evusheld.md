@@ -16,7 +16,7 @@ The FDA granted an Emergency Use Authorization to Evusheld.  (Yeah, I also spell
 the first few times I tried to type it.  Terrible name, but then all drug names are
 terrible to some degree.)  
 
-Now, I'd never heard of this.  It's not like I spend my time browsing
+Now, I'd never heard of this!  It's not like I spend my time browsing
 [ClinicalTrials.gov](https://www.ClinicalTrials.gov), but I like to think I have _some_
 idea what's [In the Pipeline](https://www.science.org/blogs/pipeline).  So to have this
 pop up was a pleasant surprise.  
@@ -69,14 +69,14 @@ I waded through all that, so you don't have to.  Here are the high points:
 - It is _not_ approved for use as a therapeutic for people who already have COVID-19, nor
   is it approved as a prophylactic for people who have been exposed.  It is also _not_ for
   people who want to avoid vaccination.   
-- __Specifically:__ It's authorized for
+- __Specifically:__ It's authorized for&hellip;  
   - Adults &amp; children over 12 who mass at least 40kg (88lb),  
   - Who are _not_ currently infected with SARS-CoV2 virus &amp; have _not_ been recently
     exposed,  
   - Whose immune systems haven't (or probably won't?) respond to COVID-19 vaccination (as
     detailed in the fact sheet <sup id="fn5a">[[5]](#fn5)</sup>), or
     have a history of severe allergic reactions to the COVID-19 vaccinations,
-- The cost is around $1000/dose, compared to $30/dose for vaccination.  
+- The cost is around \$1000/dose, compared to \$30/dose for vaccination.  
 - The trial (PROVENT <sup id="fn6a">[[6]](#fn6)</sup>) had 3441 subjects getting evusheld
   and 1731 getting a placebo.  
   - I was unable to find the infection rates to confirm the efficacy of 77% or get
