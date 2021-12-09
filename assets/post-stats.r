@@ -81,8 +81,8 @@ postStats <- function(## Inputs
                  HitsStart = startDate,                # Keep track of when we started counting,
                  HitsEnd   = today)                    #  and today.  Counts are in that interval.
     }, .progress = progress_text()),                   # Takes a minute; might as well show progress
-    HitsStart = as.Date(HitsStart, format = "%Y-%b-%d"),
-    HitsEnd   = as.Date(HitsEnd,   format = "%Y-%b-%d"))
+    HitsStart = as.Date(HitsStart, format = "%Y-%b-%d"), # *** Make it a Date in the first place?
+    HitsEnd   = as.Date(HitsEnd,   format = "%Y-%b-%d")) # *** Make it a Date in the first place?
 
     cat(sprintf("\n  - Result: %d rows of data:\n", nrow(postData)))
     showDataframeHeadTail(postData)                    # Show first few and last few rows
