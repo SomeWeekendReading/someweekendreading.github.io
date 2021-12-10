@@ -8,7 +8,7 @@ comments: true
 Last weekend, the Weekend Editrix was exposed to a person who tested positive for
 COVID-19.  The need for rapid testing suddenly became very real for us.  While waiting for
 the test to work, we worked out the Bayesian stats for the test: a positive test means
-near-100% chance of COVID-19, while a negative test means 89.4% chance of no COVID-19.  
+near-100% chance of COVID-19, while a negative test means 89.4% chance of _no_ COVID-19.  
 
 
 ## What's the sitch?  
@@ -66,9 +66,10 @@ it will be crucial to have testing be _universally_ available and free.  We're n
 ## The test  
 
 Fortunately, the test was easy enough to operate that even a couple of older PhDs could do
-it without too much problem.  After swabbing the Weekend Editrix's nose, we used the buffer
-solution to extract the antigens into solution.  We put 4 drops into the sample chamber,
-and watched the sample strip gradually turn pink.  
+it without too much problem.  After swabbing the Weekend Editrix's nose, we used the
+buffer solution to extract the antigens into solution.  We put the 4 required drops of
+loaded buffer into the sample chamber, and watched the sample strip gradually turn pink as
+the goop diffused along.  
 
 The readout is kind of interesting: there are 2 red bars that might appear, labelled "C"
 and "T" ([photo below](#the-result)).  
@@ -82,11 +83,12 @@ and "T" ([photo below](#the-result)).
 I wonder how much we should trust that; how much work is the word "likely" doing there?
 We had 15 minutes to think it over, while the test did its stuff.  
 
-So I read the box insert on the test.  It's describe as having a low False Positive Rate
-(FPR) by which most people understand: if it comes up positive you've almost certainly got
-COVID-19.  It's also said to have a somewhat higher False Negative Rate (FNR), by which
-most people understand: if it comes up negative then you _might_ be in the clear, but
-there's some chance you're not.  
+So I read the box insert on the test.  (Hey, sometimes reading the manual is The Right Thing.)  
+- It's described as having a low False Positive Rate (FPR) by which most people
+  understand: if it comes up positive you've almost certainly got COVID-19.  
+- It's also said to have a somewhat higher False Negative Rate (FNR), by which
+  most people understand: if it comes up negative then you _might_ be in the clear, but
+  there's some chance you're not.  
 
 "Most people understand" incorrectly.  
 
@@ -153,14 +155,14 @@ a global pandemic?!)
 But I'm not the test developer: I don't care about optimizing their assay.  I want to know
 if my spouse has COVID-19 or not!  For that, we have other measures, some of which are the
 Bayesian duals of the above.  Here are the 4 cases:  
-- _Positive Predictive Value:_ If the test comes up positive, what's the probability you
+- _Positive Predictive Value (PPV):_ If the test comes up positive, what's the probability you
   have COVID-19?  
-- _Negative Predictive Value:_ If the test comes up negative, what's the probability you
+- _Negative Predictive Value (NPV):_ If the test comes up negative, what's the probability you
   do _not_ have COVID-19?  
-- _False Discovery Rate:_ If the test comes up positive, what's the probability the test
+- _False Discovery Rate (FDR):_ If the test comes up positive, what's the probability the test
   lied and you're actually still ok and do _not_ have COVID-19?  This is the Bayesian dual
   of the False Positive Rate above.  
-- _Negative Overlooked Rate:_ If the test comes up negative, what's the probability the
+- _Negative Overlooked Value (NOV):_ If the test comes up negative, what's the probability the
   test lied and you really _do_ have COVID-19?  This is the Bayesian dual of the False
   Negative Rate above.  
 
@@ -218,10 +220,12 @@ $$
 \end{align*}
 $$
 
-So if the test comes up positive, we should be sure we have a COVID-19 case.  On the other
-hand, if the test comes up negative, we should be 89.4% sure we do _not_ have a COVID-19 case.  
+__Result:__  
+- If the test comes up positive, we should be sure we have a COVID-19 case.  
+- If the test comes up negative, we should be 89.4% sure we do _not_ have a COVID-19 case.  
 
-(Why couldn't they quote PPV and NPV on the box, and not make me go through all that?!)  
+(Why couldn't they just quote the PPV and NPV on the box, and not make me go through all
+that?!  This is the sort of thing that makes a grizzled old statistician grumpy.)  
 
 Ding!  The kitchen timer went off.  Time to read the test.  
 
