@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Weekend Editrix Exposed to COVID-19&colon; An Adventure with Bayes Rule in Medical Testing
-tags: COVID
+tags: COVID PharmaAndBiotech Statistics
 comments: true
 ---
 
@@ -216,14 +216,17 @@ $$
 So if the test comes up positive, we should be sure we have a COVID-19 case.  On the other
 hand, if the test comes up negative, we should be 89.4% sure we do not.  
 
+(Why couldn't they quote PPV and NPV on the box, and not make me go through all that?!)  
+
 Ding!  The kitchen timer went off.  Time to read the test.  
 
 
 ## The result  
 
 <a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result-thumb.jpg" width="150" height="456" alt="Test result: clear!" title="Test result: clear!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Ultimately, as you can see here, the test was negative.  Big sigh of relief!  (89.4% of
-the biggest sigh of relief possible, as you saw above.)  
+Ultimately, as you can see here, the test was negative: only the C bar showed up, and not
+a trace of the T bar.  Big sigh of relief!  (89.4% of the biggest sigh of relief possible,
+as you saw above.)  
 
 We also breathed sighs of relief on behalf of the elderly people visited this week by the
 Weekend Editrix and her minions.  At least none of them will get sick inadvertently
