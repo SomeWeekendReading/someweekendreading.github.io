@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Weekend Editrix Exposed (and Bayes Rule in Medical Testing)
+title: The Weekend Editrix Exposed to COVID-19&colon; An Adventure with Bayes Rule in Medical Testing
 tags: COVID
 comments: true
 ---
