@@ -76,7 +76,7 @@ I waded through all that, so you don't have to.  Here are the high points:
   - Whose immune systems haven't (or probably won't?) respond to COVID-19 vaccination (as
     detailed in the fact sheet <sup id="fn5a">[[5]](#fn5)</sup>), or
     have a history of severe allergic reactions to the COVID-19 vaccinations,
-- The cost is around \$1000/dose, compared to \$30/dose for vaccination.  
+- The cost is around \$1000 per dose, compared to \$30 per dose for vaccination.   
 - The trial (PROVENT <sup id="fn6a">[[6]](#fn6)</sup>) had 3441 subjects getting evusheld
   and 1731 getting a placebo.  
   - I was unable to find the infection rates to confirm the efficacy of 77% or get
