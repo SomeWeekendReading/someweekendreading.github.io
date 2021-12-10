@@ -75,8 +75,8 @@ The readout is kind of interesting: there are 2 bars, labelled "C" and "T" (phot
 - The T bar stands for "test": if it shows up, even faintly, then you're likely infected.
   If it doesn't show up, even faintly, then you're likely _not_ infected.  
 
-I wonder how much we should trust that.   We had 15 minutes to think it over, while the
-test did its stuff.  
+I wonder how much we should trust that; how much work is the word "likely" doing there?
+We had 15 minutes to think it over, while the test did its stuff.  
 
 So I read the box insert on the test.  It's describe as having a low False Positive Rate
 (FPR) by which most people understand: if it comes up positive you've almost certainly got
@@ -120,8 +120,8 @@ False Negative Rate:
 
 $$
 \begin{align*}
-\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &= \frac{FP}{FP + TN} \\
-\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &= \frac{FN}{FN + TP}
+\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) = \frac{FP}{FP + TN} \\
+\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) = \frac{FN}{FN + TP}
 \end{\align*}
 $$
 
@@ -183,14 +183,10 @@ the 4 unknowns $TP$, $TN$, $FP$, $FN$:
 
 $$
 \begin{align*}
-TP + FN    &= S = 108 \\
-TN + FP    &= H =  64 \\
-\mbox{TPR} &= \Pr(\mbox{Test+} | \mbox{Reality+}) \\
-           &= \frac{TP}{TP + FN} \\
-		   &= 0.93 \\
-\mbox{TNR} &= \Pr(\mbox{Test-} | \mbox{Reality-}) \\
-           &= \frac{TN}{TN + FP} \\
-		   &= 1.00 \\
+TP + FN    &= S \\
+TN + FP    &= H \\
+\mbox{TPR} &= \frac{TP}{TP + FN} \\
+\mbox{TNR} &= \frac{TN}{TN + FP}
 \end{align*}
 $$
 
@@ -198,10 +194,10 @@ The solution is:
 
 $$
 \begin{align*}
-TP &= \mbox{TPR} \cdot S       &= 100.44 \\
-TN &= \mbox{TNR} \cdot H       &= 64     \\
-FN &= (1 - \mbox{TPR}) \cdot S &= 7.56 \\
-FP &= (1 - \mbox{TNR}) \cdot H &= 0
+TP &= \mbox{TPR} \cdot S = 100.44 \\
+TN &= \mbox{TNR} \cdot H = 64     \\
+FN &= (1 - \mbox{TPR}) \cdot S = 7.56 \\
+FP &= (1 - \mbox{TNR}) \cdot H = 0
 \end{align*}
 $$
 
@@ -209,8 +205,10 @@ Now we've reconstructed (approximately) the counts in the trial.  Armed with tha
 compute the Positive Predictive Value and the Negative Predictive Value:  
 
 $$
+\begin{align*}
 \mbox{PPV} &= \frac{TP}{TP + FP} &= 100\% \\
 \mbox{NPV} &= \frac{TN}{TN + FN} &= 89.4\%
+\end{align*}
 $$
 
 So if the test comes up positive, we should be sure we have a COVID-19 case.  On the other
