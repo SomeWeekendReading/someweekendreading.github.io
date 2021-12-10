@@ -120,9 +120,9 @@ False Negative Rate:
 
 $$
 \begin{align*}
-\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) = \frac{FP}{FP + TN} \\
-\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) = \frac{FN}{FN + TP}
-\end{\align*}
+\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &= \frac{FP}{FP + TN} \\
+\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &= \frac{FN}{FN + TP}
+\end{align*}
 $$
 
 Usually people keep those 2 types of error separate, since there are different
@@ -194,15 +194,16 @@ The solution is:
 
 $$
 \begin{align*}
-TP &= \mbox{TPR} \cdot S = 100.44 \\
-TN &= \mbox{TNR} \cdot H = 64     \\
-FN &= (1 - \mbox{TPR}) \cdot S = 7.56 \\
-FP &= (1 - \mbox{TNR}) \cdot H = 0
+TP &= \mbox{TPR} \cdot S &= 100.44 \\
+TN &= \mbox{TNR} \cdot H &= 64     \\
+FN &= (1 - \mbox{TPR}) \cdot S &= 7.56 \\
+FP &= (1 - \mbox{TNR}) \cdot H &= 0
 \end{align*}
 $$
 
-Now we've reconstructed (approximately) the counts in the trial.  Armed with that, we can
-compute the Positive Predictive Value and the Negative Predictive Value:  
+Now we've reconstructed the counts in the trial. (Approximately; almost certainly we
+should round 100.44 to 100 and 7.56 to 8 to get integer numbers of people!)  Armed with
+that, we can compute the Positive Predictive Value and the Negative Predictive Value:  
 
 $$
 \begin{align*}
