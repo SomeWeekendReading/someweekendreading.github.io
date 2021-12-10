@@ -96,9 +96,9 @@ I waded through all that, so you don't have to.  Here are the high points:
 ## The Weekend Conclusion  
 
 It's probably not relevant to you personally, since it applies only to 2% &ndash; 3% of
-the population.  On the other hand, it _is_ relevant to you personally: since we all owe
+the population.  On the other hand, it _is_ relevant to you personally: we all owe
 each other a mutual moral duty of care, and our immunocompromised brothers and sisters need
-this.  
+this.  It's relevant to all of us to help them out.  
 
 So&hellip; at least we're doing _that._  
 
