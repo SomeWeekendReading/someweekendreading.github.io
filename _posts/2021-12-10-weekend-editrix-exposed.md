@@ -222,8 +222,8 @@ $$
 $$
 
 __Result:__  
-- If the test comes up positive, we should be 100% (ish) sure we have a COVID-19 case.  
-- If the test comes up negative, we should be 89.4% sure we do _not_ have a COVID-19 case.  
+- _Positive test:_ be 100% (ish) sure we have a COVID-19 case.  
+- _Negative test:_ be 89.4% sure we do _not_ have a COVID-19 case.  
 
 (Why couldn't they just quote the PPV and NPV on the box, and not make me go through all
 that?!  This is the sort of thing that makes a grizzled old statistician grumpy.)  
