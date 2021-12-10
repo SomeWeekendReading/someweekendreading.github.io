@@ -36,11 +36,11 @@ we _absolutely_ do not want to inject COVID-19 there!
 
 ## Rapid antigen test kits  
 
-<img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-fda.jpg" width="400" height="344" alt="FDA approval of ACON Laboratories Flow_flex_ COVID-19 Antigen Home Test" title="FDA approval of ACON Laboratories Flow_flex_ COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-fda.jpg" width="400" height="344" alt="FDA approval of ACON Laboratories Flowflex COVID-19 Antigen Home Test" title="FDA approval of ACON Laboratories Flowflex COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-thumb.jpg" width="400" height="219" alt="Flowflex COVID-19 Antigen Home Test" title="Flowflex COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Fortunately, a quick call to our local pharmacy revealed they had several kinds of test
 kits.  But&hellip; about 30min later when we arrived, they had only 1 kind of test kit and
-only 3 of them: the ACON Laboratories Flow_flex_ antigen test kit, authorized by the FDA
+only 3 of them: the ACON Laboratories Flowflex antigen test kit, authorized by the FDA
 on October 4th. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 Here's what the FDA said about approving this test:  
@@ -270,4 +270,4 @@ from the kindness of the Weekend Editrix and her minions who visit them.
 
 <a id="fn1">1</a>: JE Shuren, ["Coronavirus (COVID-19) Update: FDA Authorizes Additional OTC Home Test to Increase Access to Rapid Testing for Consumers"](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-additional-otc-home-test-increase-access-rapid-testing), _FDA.gov_, 2021-Oct-04. [↩](#fn1a)  
 
-<a id="fn2">2</a>: ACON Laboratories Staff, ["Flow_flex_ COVID-19 Antigen Home Test Package Insert"](https://www.aconlabs.com/wp-content/uploads/2021/10/1151297701-Flowflex-US-COVID-19-Home-Consumer-User-Insert-En-zhe10-101721.pdf), ACON Labs, retrieved 2021-Dec-10. [↩](#fn2a)  
+<a id="fn2">2</a>: ACON Laboratories Staff, ["Flowflex COVID-19 Antigen Home Test Package Insert"](https://www.aconlabs.com/wp-content/uploads/2021/10/1151297701-Flowflex-US-COVID-19-Home-Consumer-User-Insert-En-zhe10-101721.pdf), ACON Labs, retrieved 2021-Dec-10. [↩](#fn2a)  
