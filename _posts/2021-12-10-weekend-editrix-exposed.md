@@ -1,0 +1,259 @@
+---
+layout: post
+title: The Weekend Editrix Exposed (and Bayes Rule in Medical Testing)
+tags: COVID
+comments: true
+---
+
+Last weekend, the Weekend Editrix was exposed to a person who tested positive for
+COVID-19.  The need for rapid testing suddenly became very real for us.  
+
+
+## What's the sitch?  
+
+We are members of a religious community.  
+
+For most of 2020, meetings were quickly transitioned to Zoom, like everything else.  Some
+things worked surprisingly well, others not so much.  Humans are to some degree social
+creatures, and in a religious context we often crave the emotions associated with social
+contact.  
+
+So once vaccines were rolled out sufficiently well, we reconvened in person &mdash; though
+masked, socially distanced, and with hand sanitizer everywhere.  We also reported
+(respecting medical privacy) any COVID-19 contacts that might have happened, so people
+would know when to test.  That seemed to work pretty well.  
+
+But we learned this afternoon from our religious community that the Weekend Editrix was
+exposed last weekend.  (Your humble Weekend Editor, being laid up with a back injury,
+participated via Zoom.)  Suddenly, we were _very_ interested in the availability and price
+of home COVID-19 test kits, to decide what to do next.  This is especially so since the
+Weekend Editrix works with a social service agency that visits elder care facilities, and
+we _absolutely_ do not want to inject COVID-19 there!  
+
+
+## Rapid antigen test kits  
+
+<img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-fda.jpg" width="400" height="344" alt="FDA approval of ACON Laboratories Flow_flex_ COVID-19 Antigen Home Test" title="FDA approval of ACON Laboratories Flow_flex_ COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-thumb.jpg" width="400" height="219" alt="Flowflex COVID-19 Antigen Home Test" title="Flowflex COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+Fortunately, a quick call to our local drugstore revealed they had several kinds of test
+kits.  But&hellip; about 30min later when we arrived, they had only 1 kind of test kit and
+only 3 of them: the ACON Laboratories Flow_flex_ antigen test kit, authorized by the FDA
+on October 4th. <sup id="fn1a">[[1]](#fn1)</sup>  
+
+Here's what the FDA said about approving this test:  
+
+> This action highlights our continued commitment to increasing the availability of
+> appropriately accurate and reliable OTC tests to meet public health needs and increase
+> access to testing for consumers.  
+
+"Accurate" means it tells you the truth; "reliable" means it _keeps_ telling you the truth
+if you test over and over again.  Sounds good to me.  
+
+It was frustrating that the pharmacy phone call claimed abundance and diversity of tests,
+but _very_ quickly that situation turned into just a few of exactly 1 test.  And, of
+course this being the United States, they were _not_ free.  Limited variety, limited
+stock, and then only if you can pay.  
+
+With a sigh, we paid.  It wasn't a lot by our standards, but if we were poor, or students,
+or just really desperate, it could have been bad.  Especially with therapeutics like
+molnupiravir and paxlovid coming on line that only work in early days after symptoms, it
+will be crucial to have testing be universally available and free.  We're not there yet.  
+
+
+## The test  
+
+Fortunately, the test was easy enough to operate that even a couple of older PhDs could do
+it without too much problem.  After swabbing the Weekend Editrix's nose, used the buffer
+solution to extract the antigens into solution.  We put 4 drops into the sample chamber,
+and watched the sample strip gradually turn pink.  
+
+The readout is kind of interesting: there are 2 bars, labelled "C" and "T" (photo below).  
+
+- The C bar stands for "control": it indicates whether the test is working, and must
+  always show up or the test is broken.  (If C doesn't show up, you have to try again with
+  another test kit.)  
+- The T bar stands for "test": if it shows up, even faintly, then you're likely infected.
+  If it doesn't show up, even faintly, then you're likely _not_ infected.  
+
+I wonder how much we should trust that.   We had 15 minutes to think it over, while the
+test did its stuff.  
+
+So I read the box insert on the test.  It's describe as having a low False Positive Rate
+(FPR) by which most people understand: if it comes up positive you've almost certainly got
+COVID-19.  It's also said to have a somewhat higher False Negative Rate (FNR), by which
+most people understand: if it comes up negative then you _might_ be in the clear, but
+there's some chance you're not.  
+
+"Most people understand" incorrectly.  
+
+As a cranky, grizzled old statistician this bothered me.  Let's work out the details while
+we're waiting for the test, shall we?  
+
+For a binary test like this, there are 2 things going on:  
+- __Reality:__ you either have COVID-19 (+) or you don't (-)  
+- __Test:__ the test either comes up positive (+) or negative (-)  
+
+So if you do that test on $N$ people, you come up with:   
+- _True Positives:_ $TP$ of them who have COVID-19 and test positive  
+- _True Negatives:_ $TN$ of them who do _not_ have COVID-19 and test negative  
+- _False Positives:_ $FP$ of them who do _not_ have COVID-19 but the test lies and gives a positive  
+- _False Negatives:_ $FN$ of them wo _do_ have COVID-19 but the test lies and gives a negative  
+
+Obviously that's all the cases:  
+
+$$
+N = TP + TN + FP + FN
+$$
+
+I mean, it's just 4 integers.  How hard can it be?  
+
+<img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-tp-fp-tn-fn-1.jpg" width="400" height="245" alt="Counts: True Positive, False Positive, False Negative, True Negative" title="Counts: True Positive, False Positive, False Negative, True Negative" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+These can be arranged in a table, as shown here.  The test result (+/- for the test
+readout) is shown on the rows, but the unknown truth of the matter is shown on the columns
+(+/- for having COVID-19 or not).  Obviously, you'd like that table to be diagona: as near
+as you can get, $FN = 0$ and $FP = 0$ so that the test always tells you the truth.  
+
+In fact, if you're the developer of the test, you try to engineer that.  In fact, you try
+_very_ hard!  You run the test on samples of known COVID-19 status, and measure the
+Bayesian probability of the test lying either way, called the False Positive Rate and the
+False Negative Rate:   
+
+$$
+\begin{align*}
+\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &= \frac{FP}{FP + TN} \\
+\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &= \frac{FN}{FN + TP}
+\end{\align*}
+$$
+
+Usually people keep those 2 types of error separate, since there are different
+consequences of a false positive (somebody gets treated for a disease they don't have,
+which is bad) and a false negative (somebody _doesn't_ get treated for a disease they _do_
+have, which is _really_ bad).  But if you wanted to, you could just lump them together
+into the stuff you get right and the stuff you get wrong (usually called the
+Misclassification Rate):  
+
+$$
+\begin{align*}
+\mbox{Fraction Right}         &= \frac{TP + TN}{TP + TN + FP + FN} \\
+\mbox{Misclassification Rate} &= \frac{FP + FN}{TP + TN + FP + FN}
+\end{align*}
+$$
+
+So the developers at ACON Laboratories fiddled about with the test, trying to minimize the 
+$\mbox{FNR}$ and $\mbox{FPR}$.  Good for them.  They did it well enough that the FDA
+approved their test last October.  (Sheesh, why so long?  More than a year and a half into
+a global pandemic?!)  
+
+But I'm not the test developer: I don't care about optimizing their assay.  I want to know
+if my spouse has COVID-19 or not!  For that, we have other measures, some of which are the
+Bayesian duals of the above.  Here are the 4 cases:  
+- _Positive Predictive Value:_ If the test comes up positive, what's the probability you
+  have COVID-19?  
+- _Negative Predictive Value:_ If the test comes up negative, what's the probability you
+  do _not_ have COVID-19?  
+- _False Discovery Rate:_ If the test comes up positive, what's the probability the test
+  lied and you're actually still ok and do _not_ have COVID-19?  This is the Bayesian dual
+  of the False Positive Rate above.  
+- _Negative Overlooked Rate:_ If the test comes up negative, what's the probability the
+  test lied and you really _do_ have COVID-19?  This is the Bayesian dual of the False
+  Negative Rate above.  
+
+<a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-tp-fp-tn-fn-2.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-tp-fp-tn-fn-2-thumb.jpg" width="400" height="281" alt="Bayes Rule Example: False Positive Rate vs False Discovery Rate" title="Bayes Rule Example: False Positive Rate vs False Discovery Rate" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+We can annotate our little 2x2 table to show those as well, and you can see all the
+different ways to quantify error and correctness of a binary test.  That's what's shown
+here (click to embiggen).  
+
+The package insert for the test said <sup id="fn2a">[[2]](#fn2)</sup>:  
+
+> __Q: HOW ACCURATE IS THIS TEST?__  
+>  
+> __A:__ The performance of Flowflex COVID-19 Antigen Home Test was established in an
+> allcomers clinical study conducted between March 2021 and May 2021 with 172 nasal swabs
+> self-collected or pair-collected by another study participant from 108 individual
+> symptomatic patients (within 7 days of onset) suspected of COVID-19 and 64 asymptomatic
+> patients. All subjects were screened for the presence or absence of COVID-19 symptoms
+> within two weeks of study enrollment. The Flowflex COVID-19 Antigen Home Test was compared
+> to an FDA authorized molecular SARS-CoV-2 test. The Flowflex COVID-19 Antigen Home
+> Test __correctly identified 93% of positive specimens and 100% of negative specimens.__  
+
+So we know $N = 172$, with $S = TP + FN = 108$ ("S" for "sick") presumed COVID-19 subjects
+and $H = TN + FP = 64$ ("H" for "healthy") healthy subjects.  We'll interpret the quoted
+93% and 100% as the True Positive Rate and True Negative Rate.  So we have 4 equations in
+the 4 unknowns $TP$, $TN$, $FP$, $FN$:  
+
+$$
+\begin{align*}
+TP + FN    &= S = 108 \\
+TN + FP    &= H =  64 \\
+\mbox{TPR} &= \Pr(\mbox{Test+} | \mbox{Reality+}) \\
+           &= \frac{TP}{TP + FN} \\
+		   &= 0.93 \\
+\mbox{TNR} &= \Pr(\mbox{Test-} | \mbox{Reality-}) \\
+           &= \frac{TN}{TN + FP} \\
+		   &= 1.00 \\
+\end{align*}
+$$
+
+The solution is:  
+
+$$
+\begin{align*}
+TP &= \mbox{TPR} \cdot S       &= 100.44 \\
+TN &= \mbox{TNR} \cdot H       &= 64     \\
+FN &= (1 - \mbox{TPR}) \cdot S &= 7.56 \\
+FP &= (1 - \mbox{TNR}) \cdot H &= 0
+\end{align*}
+$$
+
+Now we've reconstructed (approximately) the counts in the trial.  Armed with that, we can
+compute the Positive Predictive Value and the Negative Predictive Value:  
+
+$$
+\mbox{PPV} &= \frac{TP}{TP + FP} &= 100\% \\
+\mbox{NPV} &= \frac{TN}{TN + FN} &= 89.4\%
+$$
+
+So if the test comes up positive, we should be sure we have a COVID-19 case.  On the other
+hand, if the test comes up negative, we should be 89.4% sure we do not.  
+
+Ding!  The kitchen timer went off.  Time to read the test.  
+
+
+## The result  
+
+<a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result-thumb.jpg" width="150" height="456" alt="Test result: clear!" title="Test result: clear!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+Ultimately, as you can see here, the test was negative.  Big sigh of relief!  (89.4% of
+the biggest sigh of relief possible, as you saw above.)  
+
+We also breathed sighs of relief on behalf of the elderly people visited this week by the
+Weekend Editrix and her minions.  At least none of them will get sick inadvertently
+because of the kindness of the Weekend Editrix and her minions who visit them.  
+
+
+## The Weekend Conclusion  
+
+1. In the US, our medical system in general is cruel, and our COVID-19 testing system is
+   laughable in terms of difficulty of access and low availability to all despite lack of
+   money.  
+2. People _really_ don't understand the difference between a False Positive Rate and a
+   False Discovery Rate.  Or appreciate that they really want to know the Positive
+   Predictive Value and the Negative Predictive Value.  Tsk!  
+3. But after all that, we're still relieved to be COVID-19 free here at Chez Weekend.  
+
+---
+
+## Notes &amp; References  
+
+<!--
+<sup id="fn1a">[[1]](#fn1)</sup>
+
+<a id="fn1">1</a>: ***, ["***"](***), *** [↩](#fn1a)  
+
+<a href="{{ site.baseurl }}/images/***"><img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
+<iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+-->
+
+<a id="fn1">1</a>: JE Shuren, ["Coronavirus (COVID-19) Update: FDA Authorizes Additional OTC Home Test to Increase Access to Rapid Testing for Consumers"](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-additional-otc-home-test-increase-access-rapid-testing), _FDA.gov_, 2021-Oct-04. [↩](#fn1a)  
+
+<a id="fn2">2</a>: ACON Laboratories Staff, ["Flow_flex_ COVID-19 Antigen Home Test Package Insert"](https://www.aconlabs.com/wp-content/uploads/2021/10/1151297701-Flowflex-US-COVID-19-Home-Consumer-User-Insert-En-zhe10-101721.pdf), ACON Labs, retrieved 2021-Dec-10. [↩](#fn2a)  
