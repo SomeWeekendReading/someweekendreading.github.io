@@ -94,11 +94,11 @@ postStats <- function(## Inputs
     if (!is.null(destFile)) {                          # If specified destination file
       f <- file.path(destDir, destFile)                #  make full pathname
       saveDataframe(postData, f)                       #   then save results
-      cat(sprintf("* Saved to %s.\n", f))              #   and report it
-      TRUE                                             #  flag that it was done
+      cat(sprintf("* Saved to %s.\n", f))              #   report it
+      TRUE                                             #   and flag that it was done
     } else {                                           # Else doesn't want report saved
       cat(sprintf("* Results not saved.\n"))           #   so don't do that
-      FALSE                                            #   flag that it was NOT done
+      FALSE                                            #   and flag that it was NOT done
     }                                                  #
   }                                                    #
 
