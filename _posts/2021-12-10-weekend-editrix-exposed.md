@@ -213,7 +213,7 @@ $$
 $$
 
 So if the test comes up positive, we should be sure we have a COVID-19 case.  On the other
-hand, if the test comes up negative, we should be 89.4% sure we do not.  
+hand, if the test comes up negative, we should be 89.4% sure we do _not_ have a COVID-19 case.  
 
 (Why couldn't they quote PPV and NPV on the box, and not make me go through all that?!)  
 
