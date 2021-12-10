@@ -96,16 +96,17 @@ As a cranky, grizzled old statistician this bothered me.  Let's work out the det
 we're waiting for the test, shall we?  
 
 For a binary test like this, there are 2 things going on:  
-- __Reality:__ you either have COVID-19 (+) or you don't (-)  
-- __Test:__ the test either comes up positive (+) or negative (-)  
+- __Reality:__ you either have COVID-19 (+) or you don't (-).  
+- __Test:__ the test either comes up positive (+) or negative (-).  
 
-These are _not the same!_  The test can lie to you, hopefully with small probability.  
-
-If you run the test on $N$ people, you come up with people divided among 4 cases:   
+These are _not the same!_  The test can lie to you, hopefully with small probability.  If
+you run the test on $N$ people, you come up with people divided among 4 cases:  
 - _True Positives:_ $TP$ of them who have COVID-19 and test positive  
 - _True Negatives:_ $TN$ of them who do _not_ have COVID-19 and test negative  
-- _False Positives:_ $FP$ of them who do _not_ have COVID-19 but the test lies and gives a positive  
-- _False Negatives:_ $FN$ of them wo _do_ have COVID-19 but the test lies and gives a negative  
+- _False Positives:_ $FP$ of them who do _not_ have COVID-19 but the test lies and gives a
+  positive anyway  
+- _False Negatives:_ $FN$ of them wo _do_ have COVID-19 but the test lies and gives a
+  negative anyway  
 
 Obviously that's all the cases:  
 
@@ -113,7 +114,7 @@ $$
 N = TP + TN + FP + FN
 $$
 
-I mean, it's just 4 integers.  How hard can it be?  
+I mean, it's just 4 integers.  How hard can it be?  (Never say this.)  
 
 <img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-tp-fp-tn-fn-1.jpg" width="400" height="245" alt="Counts: True Positive, False Positive, False Negative, True Negative" title="Counts: True Positive, False Positive, False Negative, True Negative" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 These can be arranged in a table, as shown here.  The test result (+/- for the test
@@ -198,7 +199,7 @@ TN + FP    &= H \\
 \end{align*}
 $$
 
-The solution is:  
+Pretty obviously, the solution is:  
 
 $$
 \begin{align*}
@@ -215,13 +216,13 @@ that, we can compute the Positive Predictive Value and the Negative Predictive V
 
 $$
 \begin{align*}
-\mbox{PPV} &= \frac{TP}{TP + FP} &= 100\% \\
-\mbox{NPV} &= \frac{TN}{TN + FN} &= 89.4\%
+\mbox{PPV} &= \frac{TP}{TP + FP} &= \frac{100.44}{100.44 + 0} &= 100.0\% \\
+\mbox{NPV} &= \frac{TN}{TN + FN} &= \frac{64}{64 + 7.56}      &= 89.4\%
 \end{align*}
 $$
 
 __Result:__  
-- If the test comes up positive, we should be sure we have a COVID-19 case.  
+- If the test comes up positive, we should be 100% (ish) sure we have a COVID-19 case.  
 - If the test comes up negative, we should be 89.4% sure we do _not_ have a COVID-19 case.  
 
 (Why couldn't they just quote the PPV and NPV on the box, and not make me go through all
@@ -234,23 +235,24 @@ Ding!  The kitchen timer went off.  Time to read the test.
 
 <a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result-thumb.jpg" width="150" height="456" alt="Test result: clear!" title="Test result: clear!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Ultimately, as you can see here, the test was negative: only the C bar showed up, and not
-a trace of the T bar.  Big sigh of relief!  (89.4% of the biggest sigh of relief possible,
-as you saw above.)  
+a trace of the T bar.  Big sigh of relief!  (Exactly 89.4% of the biggest possible sigh of
+relief, if by some accident you happened to read the math above.)  
 
 We also breathed sighs of relief on behalf of the elderly people visited this week by the
 Weekend Editrix and her minions.  At least none of them will get sick inadvertently
-because of the kindness of the Weekend Editrix and her minions who visit them.  
+from the kindness of the Weekend Editrix and her minions who visit them.  
 
 
 ## The Weekend Conclusion  
 
 1. In the US, our medical system in general is cruel, and our COVID-19 testing system is
-   laughable in terms of difficulty of access and low availability to all despite lack of
-   money.  
+   laughable: difficult of acces and low availability to all if money were lacking.  
 2. People _really_ don't understand the difference between a False Positive Rate and a
-   False Discovery Rate.  Or appreciate that they really want to know the Positive
-   Predictive Value and the Negative Predictive Value.  Tsk!  
-3. But after all that, we're still relieved to be COVID-19 free here at Chez Weekend.  
+   False Discovery Rate.  Or appreciate that what they _really_ want to know the Positive
+   Predictive Value and the Negative Predictive Value.  Tsk!  (Admittedly, I have niche
+   tastes.)  
+3. But after all that, we're still relieved to be 89.4% sure we're COVID-19 free here at
+   Chez Weekend.  
 
 ---
 
