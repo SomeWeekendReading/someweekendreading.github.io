@@ -6,7 +6,9 @@ comments: true
 ---
 
 Last weekend, the Weekend Editrix was exposed to a person who tested positive for
-COVID-19.  The need for rapid testing suddenly became very real for us.  
+COVID-19.  The need for rapid testing suddenly became very real for us.  While waiting for
+the test to work, we worked out the Bayesian stats for the test: a positive test means
+near-100% chance of COVID-19, while a negative test means 89.4% chance of no COVID-19.  
 
 
 ## What's the sitch?  
@@ -14,19 +16,20 @@ COVID-19.  The need for rapid testing suddenly became very real for us.
 We are members of a religious community.  
 
 For most of 2020, meetings were quickly transitioned to Zoom, like everything else.  Some
-things worked surprisingly well, others not so much.  Humans are to some degree social
-creatures, and in a religious context we often crave the emotions associated with social
-contact.  
+things worked surprisingly well, and others&hellip; not so much.  Humans are to some
+degree social creatures, and in a religious context we often crave the emotions associated
+with social contact.  
 
 So once vaccines were rolled out sufficiently well, we reconvened in person &mdash; though
-masked, socially distanced, and with hand sanitizer everywhere.  We also reported
+vaccinated, masked, socially distanced, and with hand sanitizer everywhere.  We also reported
 (respecting medical privacy) any COVID-19 contacts that might have happened, so people
 would know when to test.  That seemed to work pretty well.  
 
 But we learned this afternoon from our religious community that the Weekend Editrix was
 exposed last weekend.  (Your humble Weekend Editor, being laid up with a back injury,
-participated via Zoom.)  Suddenly, we were _very_ interested in the availability and price
-of home COVID-19 test kits, to decide what to do next.  This is especially so since the
+participated via Zoom.  Any exposure to me would be through the Weekend Editrix.)
+Suddenly, we were _very_ interested in the availability, price, speed, and accuracy of
+home COVID-19 test kits, to decide what to do next.  This is especially so since the
 Weekend Editrix works with a social service agency that visits elder care facilities, and
 we _absolutely_ do not want to inject COVID-19 there!  
 
@@ -35,7 +38,7 @@ we _absolutely_ do not want to inject COVID-19 there!
 
 <img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-fda.jpg" width="400" height="344" alt="FDA approval of ACON Laboratories Flow_flex_ COVID-19 Antigen Home Test" title="FDA approval of ACON Laboratories Flow_flex_ COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-thumb.jpg" width="400" height="219" alt="Flowflex COVID-19 Antigen Home Test" title="Flowflex COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Fortunately, a quick call to our local drugstore revealed they had several kinds of test
+Fortunately, a quick call to our local pharmacy revealed they had several kinds of test
 kits.  But&hellip; about 30min later when we arrived, they had only 1 kind of test kit and
 only 3 of them: the ACON Laboratories Flow_flex_ antigen test kit, authorized by the FDA
 on October 4th. <sup id="fn1a">[[1]](#fn1)</sup>  
@@ -50,24 +53,25 @@ Here's what the FDA said about approving this test:
 if you test over and over again.  Sounds good to me.  
 
 It was frustrating that the pharmacy phone call claimed abundance and diversity of tests,
-but _very_ quickly that situation turned into just a few of exactly 1 test.  And, of
+but _very_ quickly that situation turned into just a few of exactly 1 kind of test.  And, of
 course this being the United States, they were _not_ free.  Limited variety, limited
-stock, and then only if you can pay.  
+availability, and then only if you can pay.  
 
-With a sigh, we paid.  It wasn't a lot by our standards, but if we were poor, or students,
-or just really desperate, it could have been bad.  Especially with therapeutics like
-molnupiravir and paxlovid coming on line that only work in early days after symptoms, it
-will be crucial to have testing be universally available and free.  We're not there yet.  
+With a sigh, we paid.  It wasn't a lot at all by our standards, but if we had been poor, or
+students, or just really desperate, it could have been bad.  Especially with therapeutics
+like molnupiravir and paxlovid coming that only work in early days after symptoms:
+it will be crucial to have testing be _universally_ available and free.  We're not there yet.  
 
 
 ## The test  
 
 Fortunately, the test was easy enough to operate that even a couple of older PhDs could do
-it without too much problem.  After swabbing the Weekend Editrix's nose, used the buffer
+it without too much problem.  After swabbing the Weekend Editrix's nose, we used the buffer
 solution to extract the antigens into solution.  We put 4 drops into the sample chamber,
 and watched the sample strip gradually turn pink.  
 
-The readout is kind of interesting: there are 2 bars, labelled "C" and "T" (photo below).  
+The readout is kind of interesting: there are 2 red bars that might appear, labelled "C"
+and "T" ([photo below](#the-result)).  
 
 - The C bar stands for "control": it indicates whether the test is working, and must
   always show up or the test is broken.  (If C doesn't show up, you have to try again with
@@ -93,7 +97,9 @@ For a binary test like this, there are 2 things going on:
 - __Reality:__ you either have COVID-19 (+) or you don't (-)  
 - __Test:__ the test either comes up positive (+) or negative (-)  
 
-So if you do that test on $N$ people, you come up with:   
+These are _not the same!_  The test can lie to you, hopefully with small probability.  
+
+If you run the test on $N$ people, you come up with people divided among 4 cases:   
 - _True Positives:_ $TP$ of them who have COVID-19 and test positive  
 - _True Negatives:_ $TN$ of them who do _not_ have COVID-19 and test negative  
 - _False Positives:_ $FP$ of them who do _not_ have COVID-19 but the test lies and gives a positive  
