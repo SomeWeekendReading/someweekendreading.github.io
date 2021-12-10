@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FDA Grants EUA to AstraZeneca's Evusheld for COVID-19 Prevention
-tags: COVID MathInTheNews PharmaAndBiotech Statistics
+tags: COVID PharmaAndBiotech
 comments: true
 ---
 
