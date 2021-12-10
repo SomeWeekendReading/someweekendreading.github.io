@@ -40,7 +40,7 @@ we _absolutely_ do not want to inject COVID-19 there!
 <a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-thumb.jpg" width="400" height="219" alt="Flowflex COVID-19 Antigen Home Test" title="Flowflex COVID-19 Antigen Home Test" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Fortunately, a quick call to our local pharmacy revealed they had several kinds of test
 kits.  But&hellip; about 30min later when we arrived, they had only 1 kind of test kit and
-only 3 of them: the ACON Laboratories Flowflex antigen test kit, authorized by the FDA
+only 3 of them: the ACON Laboratories Flowflex COVID-19 Antigen Home Test kit, authorized by the FDA
 on October 4th. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 Here's what the FDA said about approving this test:  
@@ -72,7 +72,7 @@ loaded buffer into the sample chamber, and watched the sample strip gradually tu
 the goop diffused along.  
 
 The readout is kind of interesting: there are 2 red bars that might appear, labelled "C"
-and "T" ([photo below](#the-result)).  
+and "T" ([photo below; spoiler alert](#the-result)).  
 
 - The C bar stands for "control": it indicates whether the test is working, and must
   always show up or the test is broken.  (If C doesn't show up, you have to try again with
