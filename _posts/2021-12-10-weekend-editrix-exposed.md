@@ -224,10 +224,11 @@ $$
 
 __Result:__  
 - _Positive test:_ be 100% (ish) sure we have a COVID-19 case.  
-- _Negative test:_ be 89.4% sure we do _not_ have a COVID-19 case.  
+- _Negative test:_ be 89.4% sure we do _not_ have a COVID-19 case (which is pretty good,
+  as these things go).  
 
-(Why couldn't they just quote the PPV and NPV on the box, and not make me go through all
-that?!  This is the sort of thing that makes a grizzled old statistician grumpy.)  
+Grumble: Why couldn't they just quote the PPV and NPV on the box, and not make me go through all
+that?!  This is the sort of thing that makes a grizzled old statistician grumpy.  
 
 Ding!  The kitchen timer went off.  Time to read the test.  
 
@@ -236,12 +237,13 @@ Ding!  The kitchen timer went off.  Time to read the test.
 
 <a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result-thumb.jpg" width="150" height="456" alt="Test result: clear!" title="Test result: clear!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Ultimately, as you can see here, the test was negative: only the C bar showed up, and not
-a trace of the T bar.  Big sigh of relief!  (Exactly 89.4% of the biggest possible sigh of
-relief, if by some accident you happened to read the math above.)  
+a trace of the T bar.  Big sigh of relief!  (Exactly 89.4% of the biggest _possible_ sigh of
+relief, as you will understand if by some happy accident you happened to wade through the
+math above.)  
 
 We also breathed sighs of relief on behalf of the elderly people visited this week by the
-Weekend Editrix and her minions.  At least none of them will get sick inadvertently
-from the kindness of the Weekend Editrix and her minions who visit them.  
+Weekend Editrix and her minions.  At least none of them will inadvertently get sick
+from the kindness of the Weekend Editrix, and her minions who visit them.  
 
 
 ## The Weekend Conclusion  
