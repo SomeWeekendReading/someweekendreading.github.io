@@ -203,12 +203,12 @@ $$
 Pretty obviously, the solution is:  
 
 $$
-\begin{align*}
-TP &= \mbox{TPR} \cdot S       &&= 100.44 \\
-TN &= \mbox{TNR} \cdot H       &&= 64     \\
-FN &= (1 - \mbox{TPR}) \cdot S &&= 7.56 \\
-FP &= (1 - \mbox{TNR}) \cdot H &&= 0
-\end{align*}
+\begin{alignat*}{3}
+TP &= \mbox{TPR} \cdot S       &= 100.44 \\
+TN &= \mbox{TNR} \cdot H       &= 64     \\
+FN &= (1 - \mbox{TPR}) \cdot S &= 7.56 \\
+FP &= (1 - \mbox{TNR}) \cdot H &= 0
+\end{alignat*}
 $$
 
 Now we've reconstructed the counts in the trial. (Approximately; almost certainly we
@@ -216,10 +216,10 @@ should round 100.44 to 100 and 7.56 to 8 to get integer numbers of people!)  Arm
 that, we can compute the Positive Predictive Value and the Negative Predictive Value:  
 
 $$
-\begin{align*}
-\mbox{PPV} &= \frac{TP}{TP + FP} &= \frac{100.44}{100.44 + 0} &&= 100.0\% \\
-\mbox{NPV} &= \frac{TN}{TN + FN} &= \frac{64}{64 + 7.56}      &&= 89.4\%
-\end{align*}
+\begin{alignat*}{4}
+\mbox{PPV} &= \frac{TP}{TP + FP} &= \frac{100.44}{100.44 + 0} &= 100.0\% \\
+\mbox{NPV} &= \frac{TN}{TN + FN} &= \frac{64}{64 + 7.56}      &= 89.4\%
+\end{alignat*}
 $$
 
 __Result:__  
