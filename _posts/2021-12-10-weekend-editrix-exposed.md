@@ -204,10 +204,10 @@ Pretty obviously, the solution is:
 
 $$
 \begin{alignat*}{4}
-TP &= \mbox{TPR} \cdot S       &&= 100.44 \\
-TN &= \mbox{TNR} \cdot H       &&= 64     \\
-FN &= (1 - \mbox{TPR}) \cdot S &&= 7.56   \\
-FP &= (1 - \mbox{TNR}) \cdot H &&= 0
+TP &= \mbox{TPR} \cdot S       &&= 0.93 \times 108          &&= 100.44 \\
+TN &= \mbox{TNR} \cdot H       &&= 1.00 \times 64           &&= 64     \\
+FN &= (1 - \mbox{TPR}) \cdot S &&= (1.00 - 0.93) \times 108 &&= 7.56   \\
+FP &= (1 - \mbox{TNR}) \cdot H &&= (1.0 - 1.0) \times 64    &&= 0
 \end{alignat*}
 $$
 
