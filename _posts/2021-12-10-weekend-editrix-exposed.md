@@ -129,10 +129,10 @@ Bayesian probability of the test lying either way, called the False Positive Rat
 False Negative Rate:   
 
 $$
-\begin{align*}
-\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &&= \frac{FP}{FP + TN} \\
-\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &&= \frac{FN}{FN + TP}
-\end{align*}
+\begin{alignat*}{3}
+\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &= \frac{FP}{FP + TN} \\
+\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &= \frac{FN}{FN + TP}
+\end{alignat*}
 $$
 
 Usually people keep those 2 types of error separate, since there are different
