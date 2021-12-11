@@ -130,8 +130,8 @@ False Negative Rate:
 
 $$
 \begin{align*}
-\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &= \frac{FP}{FP + TN} \\
-\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &= \frac{FN}{FN + TP}
+\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &&= \frac{FP}{FP + TN} \\
+\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &&= \frac{FN}{FN + TP}
 \end{align*}
 $$
 
@@ -204,10 +204,10 @@ Pretty obviously, the solution is:
 
 $$
 \begin{align*}
-TP &= \mbox{TPR} \cdot S &= 100.44 \\
-TN &= \mbox{TNR} \cdot H &= 64     \\
-FN &= (1 - \mbox{TPR}) \cdot S &= 7.56 \\
-FP &= (1 - \mbox{TNR}) \cdot H &= 0
+TP &= \mbox{TPR} \cdot S       &&= 100.44 \\
+TN &= \mbox{TNR} \cdot H       &&= 64     \\
+FN &= (1 - \mbox{TPR}) \cdot S &&= 7.56 \\
+FP &= (1 - \mbox{TNR}) \cdot H &&= 0
 \end{align*}
 $$
 
@@ -217,8 +217,8 @@ that, we can compute the Positive Predictive Value and the Negative Predictive V
 
 $$
 \begin{align*}
-\mbox{PPV} &= \frac{TP}{TP + FP} &= \frac{100.44}{100.44 + 0} &= 100.0\% \\
-\mbox{NPV} &= \frac{TN}{TN + FN} &= \frac{64}{64 + 7.56}      &= 89.4\%
+\mbox{PPV} &= \frac{TP}{TP + FP} &&= \frac{100.44}{100.44 + 0} &&= 100.0\% \\
+\mbox{NPV} &= \frac{TN}{TN + FN} &&= \frac{64}{64 + 7.56}      &&= 89.4\%
 \end{align*}
 $$
 
