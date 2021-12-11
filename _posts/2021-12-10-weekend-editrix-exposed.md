@@ -120,10 +120,10 @@ I mean, it's just 4 integers.  How hard can it be?  (Never say this.)
 <img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-tp-fp-tn-fn-1.jpg" width="400" height="245" alt="Counts: True Positive, False Positive, False Negative, True Negative" title="Counts: True Positive, False Positive, False Negative, True Negative" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 These can be arranged in a table, as shown here.  The test result (+/- for the test
 readout) is shown on the rows, but the unknown truth of the matter is shown on the columns
-(+/- for having COVID-19 or not).  Obviously, you'd like that table to be diagona: as near
+(+/- for having COVID-19 or not).  Obviously, you'd like that table to be diagonal: as near
 as you can get, $FN = 0$ and $FP = 0$ so that the test always tells you the truth.  
 
-In fact, if you're the developer of the test, you try to engineer that.  In fact, you try
+If you're the developer of the test, you try to engineer that.  In fact, you try
 _very_ hard!  You run the test on samples of known COVID-19 status, and measure the
 Bayesian probability of the test lying either way, called the False Positive Rate and the
 False Negative Rate:   
@@ -135,7 +135,7 @@ $$
 \end{alignat*}
 $$
 
-Usually people keep those 2 types of error separate, since there are different
+Usually people keep those 2 types of error separated, since there are different
 consequences of a false positive (somebody gets treated for a disease they don't have,
 which is bad) and a false negative (somebody _doesn't_ get treated for a disease they _do_
 have, which is _really_ bad).  But if you wanted to, you could just lump them together
@@ -212,7 +212,7 @@ FP &= (1 - \mbox{TNR}) \cdot H &&= (1.0 - 1.0) \times 64    &&= 0
 $$
 
 Now we've reconstructed the counts in the trial. (Approximately; almost certainly we
-should round 100.44 to 100 and 7.56 to 8 to get integer numbers of people!)  Armed with
+should round 100.44 down to 100 and 7.56 up to 8 to get integer numbers of people!)  Armed with
 that, we can compute the Positive Predictive Value and the Negative Predictive Value:  
 
 $$
