@@ -83,7 +83,8 @@ and "T" ([photo below; spoiler alert](#the-result)).
 I wonder how much we should trust that; how much work is the word "likely" doing there?
 We had 15 minutes to think it over, while the test did its stuff.  
 
-So I read the box insert on the test.  (Hey, sometimes reading the manual is The Right Thing.)  
+So I read the box insert on the test.  (Hey, sometimes reading the manual is The Right
+Thing, no?)  
 - It's described as having a low False Positive Rate (FPR) by which most people
   understand: if it comes up positive you've almost certainly got COVID-19.  
 - It's also said to have a somewhat higher False Negative Rate (FNR), by which
@@ -101,12 +102,12 @@ For a binary test like this, there are 2 things going on:
 
 These are _not the same!_  The test can lie to you, hopefully with small probability.  If
 you run the test on $N$ people, you come up with people divided among 4 cases:  
-- _True Positives:_ $TP$ of them who have COVID-19 and test positive  
-- _True Negatives:_ $TN$ of them who do _not_ have COVID-19 and test negative  
+- _True Positives:_ $TP$ of them who have COVID-19 and test positive.  
+- _True Negatives:_ $TN$ of them who do _not_ have COVID-19 and test negative.  
 - _False Positives:_ $FP$ of them who do _not_ have COVID-19 but the test lies and gives a
-  positive anyway  
+  positive anyway.  
 - _False Negatives:_ $FN$ of them wo _do_ have COVID-19 but the test lies and gives a
-  negative anyway  
+  negative anyway.  
 
 Obviously that's all the cases:  
 
@@ -172,7 +173,7 @@ We can annotate our little 2x2 table to show those as well, and you can see all 
 different ways to quantify error and correctness of a binary test.  That's what's shown
 here (click to embiggen).  
 
-The package insert for the test said <sup id="fn2a">[[2]](#fn2)</sup>:  
+How about some concrete numbers?  The package insert for the test said <sup id="fn2a">[[2]](#fn2)</sup>:  
 
 > __Q: HOW ACCURATE IS THIS TEST?__  
 >  
