@@ -223,23 +223,25 @@ $$
 $$
 
 __Result:__  
-- _Positive test:_ be 100% (ish) sure we have a COVID-19 case.  
-- _Negative test:_ be 89.4% sure we do _not_ have a COVID-19 case (which is pretty good,
+- _If the test is positive:_ be 100% (ish) sure we have a COVID-19 case.  
+- _If the test is negative:_ be 89.4% sure we do _not_ have a COVID-19 case (which is pretty good,
   as these things go).  
 
 Grumble: Why couldn't they just quote the PPV and NPV on the box, and not make me go through all
 that?!  This is the sort of thing that makes a grizzled old statistician grumpy.  
 
-Ding!  The kitchen timer went off.  Time to read the test.  
+Now&hellip; how would one go about putting confidence limits on the PPV and NPV?  Hmm&hellip;
+
+Ding!  The kitchen timer went off.  No time for confidence limits; time now to read the test.  
 
 
 ## The result  
 
 <a href="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result.jpg"><img src="{{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-test-result-thumb.jpg" width="150" height="456" alt="Test result: clear!" title="Test result: clear!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Ultimately, as you can see here, the test was negative: only the C bar showed up, and not
-a trace of the T bar.  Big sigh of relief!  (Exactly 89.4% of the biggest _possible_ sigh of
-relief, as you will understand if by some happy accident you happened to wade through the
-math above.)  
+Ultimately, as you can see here, the test was negative: only the C bar showed up (i.e.,
+the test worked), and not a trace of the T bar (i.e., no viral antigens detected).  Big
+sigh of relief!  (Exactly 89.4% of the biggest _possible_ sigh of relief, as you will
+understand if by some happy accident you chanced to wade through the math above.)  
 
 We also breathed sighs of relief on behalf of the elderly people visited this week by the
 Weekend Editrix and her minions.  At least none of them will inadvertently get sick

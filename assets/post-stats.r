@@ -11,6 +11,11 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## Collect stats on posts over time.
 ##
+## We peruse the local snapshot of the repository, looking for post markdown files (_posts/*.md),
+## then interrogating the hit count server for the coresponding post keys (api.countapi.xyz/get).
+##
+## This carefully uses the get rather than bump interface, so it doesn't alter the counter values.
+##
 
 ## *** Other stats: # comments for each post, # images for each post, byte count including
 ##     images for each post, ...
