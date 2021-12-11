@@ -129,9 +129,9 @@ Bayesian probability of the test lying either way, called the False Positive Rat
 False Negative Rate:   
 
 $$
-\begin{alignat*}{3}
-\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &= \frac{FP}{FP + TN} \\
-\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &= \frac{FN}{FN + TP}
+\begin{alignat*}{4}
+\mbox{FPR} &= \Pr(\mbox{Test+} | \mbox{Reality-}) &&= \frac{FP}{FP + TN} \\
+\mbox{FNR} &= \Pr(\mbox{Test-} | \mbox{Reality+}) &&= \frac{FN}{FN + TP}
 \end{alignat*}
 $$
 
@@ -203,11 +203,11 @@ $$
 Pretty obviously, the solution is:  
 
 $$
-\begin{alignat*}{3}
-TP &= \mbox{TPR} \cdot S       &= 100.44 \\
-TN &= \mbox{TNR} \cdot H       &= 64     \\
-FN &= (1 - \mbox{TPR}) \cdot S &= 7.56 \\
-FP &= (1 - \mbox{TNR}) \cdot H &= 0
+\begin{alignat*}{4}
+TP &= \mbox{TPR} \cdot S       &&= 100.44 \\
+TN &= \mbox{TNR} \cdot H       &&= 64     \\
+FN &= (1 - \mbox{TPR}) \cdot S &&= 7.56   \\
+FP &= (1 - \mbox{TNR}) \cdot H &&= 0
 \end{alignat*}
 $$
 
@@ -216,9 +216,9 @@ should round 100.44 to 100 and 7.56 to 8 to get integer numbers of people!)  Arm
 that, we can compute the Positive Predictive Value and the Negative Predictive Value:  
 
 $$
-\begin{alignat*}{4}
-\mbox{PPV} &= \frac{TP}{TP + FP} &= \frac{100.44}{100.44 + 0} &= 100.0\% \\
-\mbox{NPV} &= \frac{TN}{TN + FN} &= \frac{64}{64 + 7.56}      &= 89.4\%
+\begin{alignat*}{5}
+\mbox{PPV} &= \frac{TP}{TP + FP} &&= \frac{100.44}{100.44 + 0} &&= 100.0\% \\
+\mbox{NPV} &= \frac{TN}{TN + FN} &&= \frac{64}{64 + 7.56}      &&= 89.4\%
 \end{alignat*}
 $$
 
