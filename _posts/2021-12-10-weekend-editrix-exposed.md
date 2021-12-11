@@ -217,8 +217,8 @@ that, we can compute the Positive Predictive Value and the Negative Predictive V
 
 $$
 \begin{align*}
-\mbox{PPV} &= \frac{TP}{TP + FP} &&= \frac{100.44}{100.44 + 0} &&= 100.0\% \\
-\mbox{NPV} &= \frac{TN}{TN + FN} &&= \frac{64}{64 + 7.56}      &&= 89.4\%
+\mbox{PPV} &= \frac{TP}{TP + FP} &= \frac{100.44}{100.44 + 0} &&= 100.0\% \\
+\mbox{NPV} &= \frac{TN}{TN + FN} &= \frac{64}{64 + 7.56}      &&= 89.4\%
 \end{align*}
 $$
 
