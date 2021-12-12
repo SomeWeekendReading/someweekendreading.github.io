@@ -33,7 +33,7 @@ library("RCurl")                                       # For getURLContent()
 ## or
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
-                      clear         = FALSE,           # Discard all previous results and recompute?
+                      clearVars     = c("postData", "postDataSaved", "hitPlotDone"),
 
                       ## Most of these remaining inputs should change very rarely
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)
@@ -176,7 +176,7 @@ postStats <- function(## Inputs
                main = "Hit Frequency Distribution", col = "blue", breaks = 20)
 
           title(main = sprintf("%s: Hits %s to %s; Posts %s to %s",
-                               blogName,
+                               blogName,               # Overall title of all plots
                                format(postData[1, "HitsStart"], format = "%Y-%b-%d"),
                                format(postData[1, "HitsEnd"], format = "%Y-%b-%d"),
                                format(postData[1,              "PostDate"],   format = "%Y-%b-%d"),
@@ -197,9 +197,9 @@ postStats <- function(## Inputs
 
   withTranscript(postsDir, destDir, txFile, "Blog Post Hit Counts", function() {
 
-    if (clear) {                                       # Wants completely virgin calculation
+    if (!is.null(clearVars)) {                         # Wants completely virgin calculation?
       heraldPhase("Clearing out previous results")     # Delete globals holding previous results
-      removePreviousResults(c("postData", "postDataSaved", "hitPlotDone"))
+      removePreviousResults(clearVars)                 # Remove the requested globals
       cat("\n\n* Done.\n")                             # Yep, we did that.
     }                                                  #
 
