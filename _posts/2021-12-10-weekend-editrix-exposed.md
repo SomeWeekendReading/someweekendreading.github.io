@@ -251,7 +251,7 @@ from the kindness of the Weekend Editrix, and her minions who visit them.
 ## The Weekend Conclusion  
 
 1. In the US, our medical system in general is cruel, and our COVID-19 testing system is
-   laughable: difficult of acces and low availability to all if money were lacking.  
+   laughable: difficult of access and low availability to all if money were lacking.  
 2. People _really_ don't understand the difference between a False Positive Rate and a
    False Discovery Rate.  Or appreciate that what they _really_ want to know the Positive
    Predictive Value and the Negative Predictive Value.  Tsk!  (Admittedly, I have niche
