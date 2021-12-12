@@ -133,6 +133,12 @@ postStats <- function(## Inputs
             rug(postData$"PostDate", side = 1, col = "gray")
             rug(postData$"PostHits", side = 2, col = "gray")
 
+            yrRange <- sapply(range(postData$"PostDate"), function(d) { as.integer(format(d, "%Y")) })
+            sapply(seq(from = yrRange[[1]], to = yrRange[[2]]), function(yr) {
+              abline(v = as.Date(sprintf("%4d-Jan-01", yr), format = "%Y-%b-%d"),
+                     lty = "solid", col = "gray")      # Draw vertical gray line @ Jan 01 of each year
+            })                                         #  between min post date and max post date
+
             ## LOESS fit and 95% confidence interval as a function of time.  See example at:
             ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
             plx <- predict(loess(PostHits ~ PostDays,  # LOESS fit of hits vs days since min date
