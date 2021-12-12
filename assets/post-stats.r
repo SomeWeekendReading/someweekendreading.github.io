@@ -199,8 +199,8 @@ postStats <- function(## Inputs
 
     if (clear) {                                       # Wants completely virgin calculation
       heraldPhase("Clearing out previous results")     # Delete globals holding previous results
-      rm("postData", "postDataSaved", "hitPlotDone", envir = globalenv())
-      cat("* Done.\n")                                 #
+      removePreviousResults(c("postData", "postDataSaved", "hitPlotDone"))
+      cat("\n\n* Done.\n")                             # Yep, we did that.
     }                                                  #
 
     heraldPhase("Getting hit count for each post")     # Announce what we're doing
