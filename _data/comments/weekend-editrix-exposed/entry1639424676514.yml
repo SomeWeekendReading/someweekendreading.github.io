@@ -1,0 +1,8 @@
+_id: 1a2ebab0-5c4d-11ec-bc8d-d39ca6d9a82d
+_parent: 'https://www.someweekendreading.blog/weekend-editrix-exposed/'
+replying_to_uid: ''
+message: "Oddly enough, a medical friend read this and reminded me that while the gold standard is a PCR test, the silver standard is to use a [lateral flow test](https://en.wikipedia.org/wiki/Lateral_flow_test) like this but insisting on 2 negative results 24hr apart.  \r\n\r\nSo your suggestion turns out to be the standard of practice.  \r\n\r\nIf, as you worked out, the 2 consecutive tests were independent events (probabilistically), then the NOV of the pair would be the square of the NOV of a single test: 10.6% squared is about 1%.  \r\n\r\nHowever, as you also began working out, it's unlikely the tests are completely independent.  They might share a common failure mode, or share a common blindness to a viral variant, or share a common hand-fisted blunderer administering the test (me).  I don't know quite how to quantify that, so I might just say the chance of COVID-19 given a 2nd negative test would be lower than 10%, but bigger than 1%."
+name: Weekend Editor
+email: 9188857aff0b1cfd146b06ed259e1afe
+hp: ''
+date: 1639424676
