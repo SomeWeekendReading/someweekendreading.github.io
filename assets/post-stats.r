@@ -37,7 +37,7 @@ library("RCurl")                                       # For getURLContent()
 ##     have the flattening out property; which one, though?
 ## *** Make CL shaded polygon for LOESS like everybody else (shade first, plot points/curve on top)
 ## *** Show histogram sideways up against the y axis of the scatterplot?
-postStats <- function(## Inputs (most of the time defaults are ok; first arg is most likely to change)
+postStats <- function(## Inputs (most of the time defaults are ok; clearVars is most likely to change)
                       clearVars     = c("postData", "postDataSaved", "hitPlotDone"),
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)
                       postPatt      = "*.md",          # What post files look like
