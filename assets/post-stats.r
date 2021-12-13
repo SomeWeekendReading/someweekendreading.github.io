@@ -5,7 +5,7 @@ toolsDir <- "../../tools"                              # Tools available from th
 source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline construction tools
 source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics tools
 
-library("plyr")                                        # For ddply()
+library("plyr")                                        # For ldply()
 library("RCurl")                                       # For getURLContent()
 
 ##
@@ -29,7 +29,7 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## > postStats()
 ## or
-## > postStats(clear = TRUE)
+## > postStats(clear = c("postData", "postDataSaved", "hitPlotDone")) # or a subset of those
 ## or
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 postStats <- function(## Inputs
@@ -44,16 +44,16 @@ postStats <- function(## Inputs
                       jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$",
                       blogName      = "www.someweekendreading.blog",
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
-                      startDate     = "2021-Jul-15",   # Counting is from then until today
-                      today         = format(Sys.Date(), "%Y-%b-%d"),
+                      startDate     = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
+                      today         = Sys.Date(),      #
                       hitPlotWidth  = 800,             # Shape of hits vs time plot
                       hitPlotHeight = hitPlotWidth / 2,#
 
                       ## Outputs
                       destDir     = "../_drafts",      # Directory where results get written
-                      txFile      = sprintf("post-stats-%s.txt", today), # NULL for no transcript
-                      destFile    = sprintf("post-stats-%s.tsv", today), # NULL for no save
-                      hitPlotFile = if (is.null(destFile))               # NULL for no hits/time plot
+                      txFile      = sprintf("post-stats-%s.txt", format(today, format = "%Y-%b-%d")),
+                      destFile    = sprintf("post-stats-%s.tsv", format(today, format = "%Y-%b-%d")),
+                      hitPlotFile = if (is.null(destFile))
                                       NULL             # No plot file
                                     else               # Else derive from data save file
                                       sub("^(.*)\\.tsv$", "\\1-hits.png", destFile)) {
@@ -62,19 +62,20 @@ postStats <- function(## Inputs
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
                       "\n  - Date hit counting started: %s",
                       "\n  - Today:                     %s\n",
-                      sep = ""),                       #  and today, so we're measuring blog hits
-                startDate, today))                     #  between those 2 dates
+                      sep = ""),                       #  and today, so measuring blog hits btw dates
+                format(startDate, format = "%Y-%b-%d"),
+                format(today,     format = "%Y-%b-%d")))
     postFiles <- list.files(path = postsDir, pattern = postPatt)
     cat(sprintf("\n* Found %d posts to check for hit counts.\n", length(postFiles)))
-    postData <- transform(ddply(data.frame(PostFile = postFiles), "PostFile", function(postFile) {
-      pf <- as.character(postFile[1, 1])               # Convert factor to string
+    postData <- ldply(postFiles, function(postFile) {  # Map over postFiles
       ## What the analytics page does:
       ## https://api.countapi.xyz/get/www.someweekendreading.blog/{{ page.url | escape | replace: "/", "." }}
       ##
       ## NB: page.url returns a string like "/name/", so this escapes and puts periods
       ## BOTH before AND after: ".name." -- a historical accident, but let's stick with it,
       ## since all our counters at countapi.xyz have that in them now.
-      data.frame(PostDate  = as.Date(sub(mdRegexp, "\\1", pf)),
+      data.frame(PostFile  = postFile,                 # Construct dataframe row for this postFile
+                 PostDate  = as.Date(sub(mdRegexp, "\\1", postFile), format = "%Y-%m-%d"),
                  PostHits  = as.integer(sub(jsonRegexp, "\\1",
                                             ## I wish we could batch these, not slowly 1 by 1!
                                             getURLContent(sprintf("%s/%s",
@@ -82,12 +83,10 @@ postStats <- function(## Inputs
                                                                   gsub("/", "\\.",
                                                                        URLencode(sub(mdRegexp,
                                                                                      "/\\2/",
-                                                                                     pf))))))),
+                                                                                     postFile))))))),
                  HitsStart = startDate,                # Keep track of when we started counting,
                  HitsEnd   = today)                    #  and today.  Counts are in that interval.
-    }, .progress = progress_text()),                   # Takes a minute; might as well show progress
-    HitsStart = as.Date(HitsStart, format = "%Y-%b-%d"), # *** Make it a Date in the first place?
-    HitsEnd   = as.Date(HitsEnd,   format = "%Y-%b-%d")) # *** Make it a Date in the first place?
+    }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
     cat(sprintf("\n  - Result: %d rows of data:\n", nrow(postData)))
     showDataframeHeadTail(postData)                    # Show first few and last few rows
@@ -190,7 +189,7 @@ postStats <- function(## Inputs
            mar   = c(3, 3, 2, 1),                      # Pull in on margins
            mgp   = c(1.7, 0.5, 0))                     # Axis title, label, tick
       })                                               # Done with file capture
-      cat(sprintf("* Hits vs time plotted to %s.\n", f))
+      cat(sprintf("* Hits vs time plot: %s.\n", f))    # Capture filename to transcript
     }                                                  #
     TRUE                                               # Flag that it was done
   }                                                    #
