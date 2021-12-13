@@ -16,15 +16,6 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## This carefully uses the get rather than bump interface, so it doesn't alter the counter values.
 ##
-
-## *** Other stats: # comments for each post, # images for each post, byte count including
-##     images for each post, ...
-##
-## *** Graphics (quarterly boxplot of hits, byte counts vs time, ...)
-##
-## *** Just for kicks, try fitting an actual logistic curve?  Really, any CDF will
-##     have the flattening out property; which one, though?
-
 ## Example:
 ##
 ## > postStats()
@@ -37,10 +28,17 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 ##
-postStats <- function(## Inputs
-                      clearVars     = c("postData", "postDataSaved", "hitPlotDone"),
 
-                      ## Most of these remaining inputs should change very rarely
+## Issues:
+## *** Other stats: # comments for each post, # images for each post, byte count including
+##     images for each post, ...
+## *** Graphics (quarterly boxplot of hits, byte counts vs time, ...)
+## *** Just for kicks, try fitting an actual logistic curve?  Really, any CDF will
+##     have the flattening out property; which one, though?
+## *** Make CL shaded polygon for LOESS like everybody else (shade first, plot points/curve on top)
+## *** Show histogram sideways up against the y axis of the scatterplot?
+postStats <- function(## Inputs (most of the time defaults are ok; first arg is most likely to change)
+                      clearVars     = c("postData", "postDataSaved", "hitPlotDone"),
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)
                       postPatt      = "*.md",          # What post files look like
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
@@ -50,11 +48,11 @@ postStats <- function(## Inputs
                       blogName      = "www.someweekendreading.blog",
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
                       startDate     = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
-                      today         = Sys.Date(),      #
+                      today         = Sys.Date(),      # Today is when hits get measured
                       hitPlotWidth  = 800,             # Shape of hits vs time plot
                       hitPlotHeight = hitPlotWidth / 2,#
 
-                      ## Outputs
+                      ## Outputs (most of the time, these defaults are what you want)
                       destDir     = "../_drafts",      # Directory where results get written
                       txFile      = sprintf("post-stats-%s.txt", format(today, format = "%Y-%b-%d")),
                       destFile    = sprintf("post-stats-%s.tsv", format(today, format = "%Y-%b-%d")),
@@ -68,7 +66,7 @@ postStats <- function(## Inputs
                       "\n  - Date hit counting started: %s",
                       "\n  - Today:                     %s\n",
                       sep = ""),                       #  and today, so measuring blog hits btw dates
-                format(startDate, format = "%Y-%b-%d"),
+                format(startDate, format = "%Y-%b-%d"),#
                 format(today,     format = "%Y-%b-%d")))
     postFiles <- list.files(path = postsDir, pattern = postPatt)
     cat(sprintf("\n* Found %d posts to check for hit counts.\n", length(postFiles)))
@@ -112,14 +110,14 @@ postStats <- function(## Inputs
   }                                                    #
 
   plotHitsVsTime <- function(## Inputs
-                             postData,
-                             today,
+                             postData,                 # Dataframe of post data to plot
+                             today,                    # For labelling time interval of hit counts
                              blogName   = "www.someweekendreading.blog",
-                             plotWidth  = 800,
+                             plotWidth  = 800,         #
                              plotHeight = plotWidth / 2,
 
                              ## Outputs
-                             destDir  = "../_drafts",
+                             destDir  = "../_drafts",  #
                              destFile = "post-stats-hits.png") {
 
     if (is.null(destFile))                             # If doesn't want the plot,
@@ -153,7 +151,6 @@ postStats <- function(## Inputs
             lines(postData$"PostDate", plx$"fit", lwd = 2)
             lines(postData$"PostDate", plx$"fit" + qt(0.975, plx$"df") * plx$"se", lty = "dashed")
             lines(postData$"PostDate", plx$"fit" - qt(0.975, plx$"df") * plx$"se", lty = "dashed")
-            ## *** Add CL shaded polygon like everybody else (shade first, plot points/curve on top)
 
             legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
                    pch    = c(21,                NA,                    NA),
@@ -175,7 +172,6 @@ postStats <- function(## Inputs
           }, las = 3,                                  # Always vertical labels, both axes
              mar = c(7, 3, 2, 1))                      # Extra margin @ bottom for date labels
 
-          ## *** Show histogram sideways up against the y axis of the scatterplot?
           hist(postData$"PostHits", xlab = "Post Hits", ylab = "Freq(Post Hits)",
                main = "Hit Frequency Distribution", col = "blue", breaks = 20)
 
