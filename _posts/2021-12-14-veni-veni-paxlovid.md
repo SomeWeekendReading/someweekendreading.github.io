@@ -102,9 +102,11 @@ Here's what I got out of the sources below:
 2. __The numbers and their confidence limits:__ 28 days after treatment, there were 5/679
    patients in the treatment arm hospitalized, versus 44/682 in the control arm.  That
    gives us a central estimate of the efficacy of: $1 - (5/679) / (44/682) = 88.6\%$.  So
-   their report is consistent.  Using the Weekender's R hack of estimating efficacy
-   confidence limits with a scaled binomial model <sup id="fn1a">[[1]](#fn1)</sup>, we get
-   very decent confidence limits indeed: 
+   their report is consistent.  
+
+   Using the Weekend R script of estimating efficacy confidence limits with a scaled
+   binomial model <sup id="fn4a">[[4]](#fn4)</sup>, we get very decent confidence limits
+   indeed:  
 
    ```R
    > signif(efficacyAndCL(679, 5, 682, 44), digits = 3)
@@ -114,7 +116,7 @@ Here's what I got out of the sources below:
    
    Also, there were 0 deaths in the treatment arm, vs 12 in the placebo arm.  So before
    anybody tries to bust my chops about "100% efficacy vs death", let's get the confidence
-   limits on that, too:
+   limits on that, too:  
    
    ```R
    > signif(efficacyAndCL(679, 0, 682, 12), digits = 3)
@@ -122,16 +124,18 @@ Here's what I got out of the sources below:
    0.68 1.00 1.00 
    ```
 3. __Viral load:__ It reduced viral load in the treatment arm vs placebo arm by a large
-   fold ratio: 0.93 log10 copies/ml, which in the vernacular is a 10-fold reduction.
+   fold ratio: 0.93 log10 copies/ml, which in the vernacular is a 10-fold reduction.  
+
    Translation: "ginormous".  The drug is working by a mechanism of action (reduction in
    viral load) that is right down at the root cause of the disease.  
-4. __Side effects:__  There are always side-effects, sometimes unpleasant.  Sometimes
-   fatal.  The side effects here were described as "mild".  (But remember: this is a press
-   release, so they _would_ say that, wouldn't they?)  More to the point is whether side
-   effects were so strong as to get people to drop out of the trial: 2% dropout in the
-   treatment arm, vs 4.2% in the placebo arm.  The treatment arm experienced fewer or
-   milder side-effects (enough to make people drop out) than the placebo.  Always love to
-   see that.  
+4. __Side effects:__  There are always side-effects, sometimes unpleasant, sometimes
+   even fatal.  The side effects here were described as "mild".  (But remember: this is a press
+   release, so they _would_ say that, wouldn't they?)  
+
+   More to the point is whether side effects were so strong as to get people to drop out
+   of the trial: 2% dropout in the treatment arm, vs 4.2% in the placebo arm.  The
+   treatment arm experienced fewer or milder side-effects (enough to make people drop out)
+   than the placebo.  Always love to see that.  
 5. __Vaccinated vs unvaccinated:__ In vaccinated subjects, it was less good at reducing
    symptoms, but still reduced hospitalization by 70%. Now there are more vaccinated these
    days, so 70% of a larger number, as Zvi pointed out, might mean more than the
@@ -145,18 +149,21 @@ Here's what I got out of the sources below:
 7. __Availability:__ US government has bought 10 million courses of treatment for $5.3bln
    ($530/course of treatment). Pfizer claims 200,000 courses available this year, and 80
    million next year. Given that there are only 17 days remaining in this year and it’s
-   not yet approved, that’s impressive.  (Though as Zvi pointed out, 200k doses might be a
-   single day's worth by the end of the year.  Then again, if it gets approved Dec 30,
-   that works out for the 1 remaining day of the year.  Not in a good way, but it _does_
-   work out.)  
-8. Dosing would be 2 pills of nirmatrelvir and 1 of ritonavir, twice a day.  It's a
-   combination medication: nirmatrelvir is Pfizer's new inhibitor of a SARS-CoV2 protease,
-   and ritonavir helps it along.  Ritonavir is also a protease inhibitor in its own right,
-   but its main role here is to inhibit the liver mechanisms that would break down
-   nirmatrelvir, thus making it last longer in the body.  Ritonavir is a well-known drug,
-   used chronically by those with HIV to inhibit the HIV proteases.  That's pretty good
-   news: we know a lot about the safety of HIV meds, and it's moslty good.  We can hope
-   for the same here, maybe?  
+   not yet approved, that’s impressive.  
+
+   Though as Zvi pointed out, 200k doses might be a single day's worth by the end of the
+   year.  Then again, if it gets approved Dec 30, that works out for the 1 remaining day
+   of the year.  Not in a good way&hellip; but it _does_ work out.  
+8. __Dosing:__ Dosing would be 2 pills of nirmatrelvir and 1 of ritonavir, twice a day.  
+
+   It's a combination medication: nirmatrelvir is Pfizer's new inhibitor of a SARS-CoV2
+   protease, and ritonavir helps it along.  Ritonavir is also a protease inhibitor in its
+   own right, but its main role here is to inhibit the liver mechanisms that would break
+   down nirmatrelvir, thus making it last longer in the body.  
+   
+   Ritonavir is a well-known drug, used chronically by those with HIV to inhibit the HIV
+   proteases.  That's pretty good news: we know a lot about the safety of HIV meds, and
+   it's moslty good.  We can hope for the same here, maybe?  
 
 ## The Weekend Conclusion  
 
@@ -165,7 +172,7 @@ what's available.  On the other hand, what's available is from a relatively slim
 release.  (I haven't dug into clinicaltrials.gov to see if there's an official report
 there yet.)  So&hellip; things could change.  
 
-But the FDA has the next move.  Tick, tock.  Tick, tock.  Tick, tock.  
+But the FDA has the next move.  Tick, tock&hellp; tick, tock&hellip; tick, tock.  
 
 ---
 
