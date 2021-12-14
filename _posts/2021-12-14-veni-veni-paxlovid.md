@@ -65,10 +65,11 @@ gig here, and wrote a summary. <sup id="fn3a">[[3]](#fn3)</sup>
 
 <img src="{{ site.baseurl }}/images/2021-12-14-veni-veni-paxlovid-in-the-pipeline.jpg" width="400" height="256" alt="Derek Lowe @ In the Pipeline: Pfizer's paxlovid holds up" title="Derek Lowe @ In the Pipeline: Pfizer's paxlovid holds up" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Also, the formidable med-chem blogger Derek Lowe weighed in at 
-_In the Pipeline_. <sup id="fn4a">[[4]](#fn4)</sup>  It really looks like we're all
-reading the same press release, and coming to the same conclusions.  At least we agree
-about what it _says_, even though we wish it said more (like a link to the actual data
-package!).  
+_In the Pipeline_. <sup id="fn4a">[[4]](#fn4)</sup>  
+
+It really looks like we're all reading the same press release, and coming to the same
+conclusions.  At least we agree about what it _says_, even though we wish it said more
+(like a link to the actual data package!).  
 
 
 ## Yeah, fine, but what's in it?  
@@ -113,7 +114,7 @@ Here's what I got out of the sources below:
 
    Using the Weekend R script of estimating efficacy confidence limits with a scaled
    binomial model <sup id="fn5a">[[5]](#fn5)</sup>, we get very decent confidence limits
-   indeed:  
+   of 72.3% &ndash; 95.3%:  
 
    ```R
    > signif(efficacyAndCL(679, 5, 682, 44), digits = 3)
@@ -123,7 +124,7 @@ Here's what I got out of the sources below:
    
    Also, there were 0 deaths in the treatment arm, vs 12 in the placebo arm.  So before
    anybody tries to bust my chops about "100% efficacy vs death", let's get the confidence
-   limits on that, too:  
+   limits on that, too &ndash; a respectable 68% &ndash; 100%:  
    
    ```R
    > signif(efficacyAndCL(679, 0, 682, 12), digits = 3)
@@ -179,7 +180,7 @@ what's available.  On the other hand, what's available is from a relatively slim
 release.  (I haven't dug into clinicaltrials.gov to see if there's an official report
 there yet.)  So&hellip; things could change.  
 
-But the FDA has the next move.  Tick, tock&hellp; tick, tock&hellip; tick, tock.  
+But the FDA has the next move.  Tick, tock&hellip; tick, tock&hellip; tick, tock.  
 
 ---
 
