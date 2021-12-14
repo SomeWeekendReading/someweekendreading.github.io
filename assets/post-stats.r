@@ -50,6 +50,7 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                       today         = Sys.Date(),      # Today is when hits get measured
                       hitPlotWidth  = 800,             # Shape of hits vs time plot
                       hitPlotHeight = hitPlotWidth / 2,#
+                      clGray        = gray(level = 0.80, alpha = 0.50),
 
                       ## Outputs (most of the time, these defaults are what you want)
                       destDir     = "../_drafts",      # Directory where results get written
@@ -111,9 +112,10 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
   plotHitsVsTime <- function(## Inputs
                              postData,                 # Dataframe of post data to plot
                              today,                    # For labelling time interval of hit counts
-                             blogName   = "www.someweekendreading.blog",
-                             plotWidth  = 800,         #
-                             plotHeight = plotWidth / 2,
+                             blogName,                 # Name of blog in title
+                             clGray,                   # Gray for confidence limits on LOESS
+                             plotWidth,                # Size of plot
+                             plotHeight,               #
 
                              ## Outputs
                              destDir  = "../_drafts",  #
@@ -126,7 +128,6 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
       withPNG(f, plotWidth, plotHeight, FALSE, function() {
         withPars(function() {                          # Save/restore graphics parameters
           withPars(function() {                        # Set label orientation & add space @ bottom
-            clGray <- gray(level = 0.75, alpha = 0.5)
             plot(panel.first = {
                    ## LOESS fit and 95% confidence interval as a function of time.  See example at:
                    ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
@@ -137,16 +138,15 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                                   se = TRUE)           # Get predictions and standard errors
                    ucl <- plx$"fit" + qt(0.975, plx$"df") * plx$"se"
                    lcl <- plx$"fit" - qt(0.975, plx$"df") * plx$"se"
-                   ## LCL is sometimes negative, which makes log plot throw fits
                    minPosLCL <- min(subset(lcl, subset = lcl > 0))
-                   lcl <- pmax(lcl, minPosLCL)
+                   lcl <- pmax(lcl, minPosLCL)         # Clip negatives up to min pos (log scale!)
                    polygon(x = c(postData$"PostDate", rev(postData$"PostDate")),
-                           y = c(lcl, rev(ucl)),
-                           col = clGray, border = NA)
+                           y = c(lcl, rev(ucl)),       # Polygon with shade of confidence limits
+                           col = clGray, border = NA)  # Then LOESS line and CL borders (dashed)
                    lines(postData$"PostDate", plx$"fit", lwd = 2)
                    lines(postData$"PostDate", ucl,       lty = "dashed")
                    lines(postData$"PostDate", lcl,       lty = "dashed")
-                 },
+                 },                                    # Preliminaries done; now rest of plot:
                  x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
                  ## ylim = c(1, max(postData$"PostHits")))
                  main = "Hits vs Time", ylab = "Post Hits (log scale)", log = "y",
@@ -160,6 +160,7 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
               abline(v = as.Date(sprintf("%4d-Jan-01", yr), format = "%Y-%b-%d"),
                      lty = "solid", col = "gray")      # Draw vertical gray line @ Jan 01 of each year
             })                                         #  between min post date and max post date
+            abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
 
             legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
                    pch    = c(21,                NA,                    22),
@@ -224,7 +225,8 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
 
     heraldPhase("Plotting hits vs time")               # Plot hits vs time and probability
     maybeAssign("hitPlotDone", function() {            #   distribution of hits
-      plotHitsVsTime(postData, today, blogName, hitPlotWidth, hitPlotHeight, destDir, hitPlotFile)
+      plotHitsVsTime(postData, today, blogName, clGray,#
+                     hitPlotWidth, hitPlotHeight, destDir, hitPlotFile)
     })                                                 #
 
     invisible(postData)                                # Return results invisibly (also in global var)
