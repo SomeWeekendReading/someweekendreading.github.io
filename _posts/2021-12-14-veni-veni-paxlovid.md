@@ -198,7 +198,7 @@ But the FDA has the next move.  Tick, tock&hellip; tick, tock&hellip; tick, tock
 
 <a id="fn1">1</a>: B Fidler, ["In final analysis, Pfizer's COVID-19 pill remains highly effective"](https://www.biopharmadive.com/news/pfizer-paxlovid-covid-pill-final-study-results/611460/?utm_source=Sailthru&utm_medium=email&utm_campaign=Issue:%202021-12-14%20BioPharma%20Dive%20%5Bissue:38584%5D&utm_term=BioPharma%20Dive), _BioPharma Dive_, 2021-Dec-14. [↩](#fn1a)  
 
-<a id="fn2">2</a>: [Pfizer Media Relations](mailto:PfizerMediaRelations@pfizer.com), ["PFIZER ANNOUNCES ADDITIONAL PHASE 2/3 STUDY RESULTS CONFIRMING ROBUST EFFICACY OF NOVEL COVID-19 ORAL ANTIVIRAL TREATMENT CANDIDATE IN REDUCING RISK OF HOSPITALIZATION OR DEATH"](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-additional-phase-23-study-results?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosvitals&stream=top), _Pfizer Press Releases_, 2021-Dec-14 6:45am. [↩](#fn2a)  
+<a id="fn2">2</a>: [Pfizer Media Relations](mailto:PfizerMediaRelations@pfizer.com), ["PFIZER ANNOUNCES ADDITIONAL PHASE 2/3 STUDY RESULTS CONFIRMING ROBUST EFFICACY OF NOVEL COVID-19 ORAL ANTIVIRAL TREATMENT CANDIDATE IN REDUCING RISK OF HOSPITALIZATION OR DEATH"](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-additional-phase-23-study-results), _Pfizer Press Releases_, 2021-Dec-14 6:45am. [↩](#fn2a)  
 
 <a id="fn3">3</a>: M Herper, ["Pfizer’s Covid pill remains 89% effective in final analysis, company says"](https://www.statnews.com/2021/12/14/pfizers-covid-pill-remains-89-effective-in-final-analysis-company-says/), _STAT News_, 2021-Dec-14. [↩](#fn3a)  
 
