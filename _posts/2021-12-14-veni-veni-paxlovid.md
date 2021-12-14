@@ -180,7 +180,7 @@ what's available.  On the other hand, what's available is from a relatively slim
 release.  (I haven't dug into clinicaltrials.gov to see if there's an official report
 there yet.)  So&hellip; things could change.  
 
-But the FDA has the next move.  Tick, tock&hellip; tick, tock&hellip; tick, tock.  
+But the FDA has the next move.  Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;  
 
 ---
 
