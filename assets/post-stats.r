@@ -160,6 +160,7 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
               abline(v = as.Date(sprintf("%4d-Jan-01", yr), format = "%Y-%b-%d"),
                      lty = "solid", col = "gray")      # Draw vertical gray line @ Jan 01 of each year
             })                                         #  between min post date and max post date
+            ## Vertical dashed line when hit counter was turned on
             abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
 
             legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
