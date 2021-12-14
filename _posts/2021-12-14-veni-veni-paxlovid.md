@@ -154,10 +154,10 @@ Here's what I got out of the sources below:
 6. __Variants:__ In the trial it worked against several variants (quantitative data
    pending), and lab tests indicated efficacy against Omicron (inhibits the same viral
    protease essential to viral reproduction).  
-7. __Availability:__ US government has bought 10 million courses of treatment for $5.3bln
-   ($530/course of treatment). Pfizer claims 200,000 courses available this year, and 80
-   million next year. Given that there are only 17 days remaining in this year and it’s
-   not yet approved, that’s impressive.  
+7. __Availability:__ US government has bought 10 million courses of treatment for \$5.3bln
+   (\$530/course of treatment, _cheaper_ than molnupiravir?!). Pfizer claims 200,000
+   courses available this year, and 80 million next year. Given that there are only 17
+   days remaining in this year and it’s not yet approved, that’s impressive.  
 
    Though as Zvi pointed out, 200k doses might be a single day's worth by the end of the
    year.  Then again, if it gets approved Dec 30, that works out for the 1 remaining day
