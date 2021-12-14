@@ -59,9 +59,16 @@ data package and, more importantly, the independent FDA analysis of it, then we'
 know what's what.  This is _preliminary!_  
 
 <img src="{{ site.baseurl }}/images/2021-12-14-veni-veni-paxlovid-stat.jpg" width="400" height="161" alt="Herper @ STAT: Paxlovid still 89% effective in final analysis" title="Herper @ STAT: Paxlovid still 89% effective in final analysis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Finally, I decided to check out _STAT News_, where Helen Branswell and Matthew Herper have
+I also decided to check out _STAT News_, where Helen Branswell and Matthew Herper have
 been keeping me sane (sort of) the last couple months.   It turned out that Herper got the
 gig here, and wrote a summary. <sup id="fn3a">[[3]](#fn3)</sup>  
+
+<img src="{{ site.baseurl }}/images/2021-12-14-veni-veni-paxlovid-in-the-pipeline.jpg" width="400" height="256" alt="Derek Lowe @ In the Pipeline: Pfizer's paxlovid holds up" title="Derek Lowe @ In the Pipeline: Pfizer's paxlovid holds up" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Also, the formidable med-chem blogger Derek Lowe weighed in at 
+_In the Pipeline_. <sup id="fn4a">[[4]](#fn4)</sup>  It really looks like we're all
+reading the same press release, and coming to the same conclusions.  At least we agree
+about what it _says_, even though we wish it said more (like a link to the actual data
+package!).  
 
 
 ## Yeah, fine, but what's in it?  
@@ -105,7 +112,7 @@ Here's what I got out of the sources below:
    their report is consistent.  
 
    Using the Weekend R script of estimating efficacy confidence limits with a scaled
-   binomial model <sup id="fn4a">[[4]](#fn4)</sup>, we get very decent confidence limits
+   binomial model <sup id="fn5a">[[5]](#fn5)</sup>, we get very decent confidence limits
    indeed:  
 
    ```R
@@ -194,4 +201,6 @@ But the FDA has the next move.  Tick, tock&hellp; tick, tock&hellip; tick, tock.
 
 <a id="fn3">3</a>: M Herper, ["Pfizer’s Covid pill remains 89% effective in final analysis, company says"](https://www.statnews.com/2021/12/14/pfizers-covid-pill-remains-89-effective-in-final-analysis-company-says/), _STAT News_, 2021-Dec-14. [↩](#fn3a)  
 
-<a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for efficacy confidence limits by scaled binomial ratio"]({{ site.baseurl }}/assets/2021-11-12-covid-treatments-simple-efficacy-confidence-limits.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Nov-12. [↩](#fn4a)  
+<a id="fn4">4</a>: D Lowe, ["Pfizer's Paxlovid Holds Up"](https://www.science.org/content/blog-post/pfizer-s-paxlovid-holds), _In the Pipeline_ blog at _Science Translational Medicine_, 2021-Dec-14. [↩](#fn4a)  
+
+<a id="fn5">5</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for efficacy confidence limits by scaled binomial ratio"]({{ site.baseurl }}/assets/2021-11-12-covid-treatments-simple-efficacy-confidence-limits.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Nov-12. [↩](#fn5a)  
