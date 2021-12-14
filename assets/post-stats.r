@@ -35,7 +35,6 @@ library("RCurl")                                       # For getURLContent()
 ## *** Graphics (quarterly boxplot of hits, byte counts vs time, ...)
 ## *** Just for kicks, try fitting an actual logistic curve?  Really, any CDF will
 ##     have the flattening out property; which one, though?
-## *** Make CL shaded polygon for LOESS like everybody else (shade first, plot points/curve on top)
 ## *** Show histogram sideways up against the y axis of the scatterplot?
 postStats <- function(## Inputs (most of the time defaults are ok; clearVars is most likely to change)
                       clearVars     = c("postData", "postDataSaved", "hitPlotDone"),
@@ -127,7 +126,28 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
       withPNG(f, plotWidth, plotHeight, FALSE, function() {
         withPars(function() {                          # Save/restore graphics parameters
           withPars(function() {                        # Set label orientation & add space @ bottom
-            plot(x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
+            clGray <- gray(level = 0.75, alpha = 0.5)
+            plot(panel.first = {
+                   ## LOESS fit and 95% confidence interval as a function of time.  See example at:
+                   ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
+                   plx <- predict(loess(PostHits ~ PostDays,
+                                  data = transform(postData,
+                                                   PostDays = as.numeric(
+                                                       PostDate - min(postData$"PostDate")))),
+                                  se = TRUE)           # Get predictions and standard errors
+                   ucl <- plx$"fit" + qt(0.975, plx$"df") * plx$"se"
+                   lcl <- plx$"fit" - qt(0.975, plx$"df") * plx$"se"
+                   ## LCL is sometimes negative, which makes log plot throw fits
+                   minPosLCL <- min(subset(lcl, subset = lcl > 0))
+                   lcl <- pmax(lcl, minPosLCL)
+                   polygon(x = c(postData$"PostDate", rev(postData$"PostDate")),
+                           y = c(lcl, rev(ucl)),
+                           col = clGray, border = NA)
+                   lines(postData$"PostDate", plx$"fit", lwd = 2)
+                   lines(postData$"PostDate", ucl,       lty = "dashed")
+                   lines(postData$"PostDate", lcl,       lty = "dashed")
+                 },
+                 x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
                  ## ylim = c(1, max(postData$"PostHits")))
                  main = "Hits vs Time", ylab = "Post Hits (log scale)", log = "y",
                  xaxt = "n", xlab = NA)                # Horiz axis done manually, below
@@ -141,22 +161,13 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                      lty = "solid", col = "gray")      # Draw vertical gray line @ Jan 01 of each year
             })                                         #  between min post date and max post date
 
-            ## LOESS fit and 95% confidence interval as a function of time.  See example at:
-            ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
-            plx <- predict(loess(PostHits ~ PostDays,  # LOESS fit of hits vs days since min date
-                                 data = transform(postData,
-                                                  PostDays = as.numeric(
-                                                      PostDate - min(postData$"PostDate")))),
-                           se = TRUE)                  # Get predictions and standard errors
-            lines(postData$"PostDate", plx$"fit", lwd = 2)
-            lines(postData$"PostDate", plx$"fit" + qt(0.975, plx$"df") * plx$"se", lty = "dashed")
-            lines(postData$"PostDate", plx$"fit" - qt(0.975, plx$"df") * plx$"se", lty = "dashed")
-
             legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
-                   pch    = c(21,                NA,                    NA),
-                   pt.bg  = c("blue",            NA,                    NA),
+                   pch    = c(21,                NA,                    22),
+                   pt.bg  = c("blue",            NA,                    clGray),
+                   pt.cex = c(1.5,               NA,                    3),
+                   col    = c("black",           "black",               clGray),
                    lty    = c(NA,                "solid",               "dashed"),
-                   lwd    = c(NA,                2,                     1),
+                   lwd    = c(NA,                2,                     NA),
                    legend = c("Individual Post", "LOESS central trend", "95% confidence interval"))
 
             withPars(function() {                      # Horiz axis only: extra space for date labels
