@@ -211,9 +211,9 @@ FP &= (1 - \mbox{TNR}) \cdot H &&= (1.0 - 1.0) \times 64    &&= 0
 \end{alignat*}
 $$
 
-Now we've reconstructed the counts in the trial.  Approximately; almost certainly we
-should round 100.44 down to 100 and 7.56 up to 8, because humans usually come in integer
-quantities (conjoined twins notwithstanding)!  That would amount to a TPR of 92.59%
+Now we've reconstructed the counts in the trial.  Approximately: almost certainly we
+should round 100.44 to 100 and 7.56 to 8, because humans usually come in integer
+quantities (conjoined twins notwithstanding).  That would amount to a TPR of 92.59%
 instead the 93% to which they sensibly rounded.  Armed with that, we can compute the
 Positive Predictive Value and the Negative Predictive Value:  
 

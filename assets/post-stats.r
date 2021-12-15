@@ -145,16 +145,26 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                  main = "Hits vs Time", ylab = "Post Hits (log scale)", log = "y",
                  xaxt = "n", xlab = NA)                # Horiz axis done manually, below
 
-            rug(postData$"PostDate", side = 1, col = "gray")
-            rug(postData$"PostHits", side = 2, col = "gray")
+            withPars(function() {                      # Horiz axis only: extra space for date labels
+              minPostDate <- min(postData$"PostDate")  # Get date range to be covered,
+              maxPostDate <- max(postData$"PostDate")  #   make 1st day of month for each
+              axis.Date(side = 1, format = "%Y-%b-%d", labels = TRUE,
+                        at = seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1, #1st day
+                                 to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1, # of month
+                                 by   = "month"))      # Ticks at start of each month
+              mtext("Post Date", side = 1, line = 5.5, las = 0)
+            }, mgp = c(7, 0.5, 0))                     # Horizontal axis only: title, label, tick
+
+            rug(postData$"PostDate", side = 1, col = "gray") # Poor man's marginal histograms
+            rug(postData$"PostHits", side = 2, col = "gray") #  done as rug plots
 
             yrRange <- sapply(range(postData$"PostDate"), function(d) { as.integer(format(d, "%Y")) })
             sapply(seq(from = yrRange[[1]], to = yrRange[[2]]), function(yr) {
               abline(v = as.Date(sprintf("%4d-Jan-01", yr), format = "%Y-%b-%d"),
                      lty = "solid", col = "gray")      # Draw vertical gray line @ Jan 01 of each year
             })                                         #  between min post date and max post date
-            ## Vertical dashed line when hit counter was turned on
-            abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
+
+            abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed") # Hit counter turned on
 
             legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
                    pch    = c(21,                NA,                    22,        NA,       NA),
@@ -165,16 +175,6 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                    lwd    = c(NA,                2,                     NA,        1,        1),
                    legend = c("Individual post", "LOESS central trend", "95% confidence interval",
                               "Hit counting started", "Year end"))
-
-            withPars(function() {                      # Horiz axis only: extra space for date labels
-              minPostDate <- min(postData$"PostDate")  # Get date range to be covered,
-              maxPostDate <- max(postData$"PostDate")  #   make 1st day of month for each
-              axis.Date(side = 1, format = "%Y-%b-%d", labels = TRUE,
-                        at = seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1,
-                                 to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1,
-                                 by   = "month"))      # Ticks at start of each month
-              mtext("Post Date", side = 1, line = 5.5, las = 0)
-            }, mgp = c(7, 0.5, 0))                     # Horizontal axis only: title, label, tick
 
           }, las = 3,                                  # Always vertical labels, both axes
              mar = c(7, 3, 2, 1))                      # Extra margin @ bottom for date labels
