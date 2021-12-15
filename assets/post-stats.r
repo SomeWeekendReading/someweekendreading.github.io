@@ -188,10 +188,11 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
           hist(postData$"PostHits", xlab = "Post Hits", ylab = "Freq(Post Hits)",
                main = "Hit Frequency Distribution", col = "blue", breaks = 20)
 
-          title(main = sprintf("%s: Hits %s to %s; Posts %s to %s",
+          title(main = sprintf("%s: Hits %s to %s; %d Posts %s to %s",
                                blogName,               # Overall title of all plots
                                format(postData[1, "HitsStart"], format = "%Y-%b-%d"),
                                format(postData[1, "HitsEnd"], format = "%Y-%b-%d"),
+                               nrow(postData),         # Include number of posts
                                format(postData[1,              "PostDate"],   format = "%Y-%b-%d"),
                                format(postData[nrow(postData), "PostDate"],   format = "%Y-%b-%d")),
                 outer = TRUE)                          # It's in the top outer margin
