@@ -162,6 +162,12 @@ Here's what I got out of the sources below:
    Though as Zvi pointed out, 200k doses might be a single day's worth by the end of the
    year.  Then again, if it gets approved Dec 30, that works out for the 1 remaining day
    of the year.  Not in a good way&hellip; but it _does_ work out.  
+
+   Still, I'm betting on a narrower FDA Emergency Use Authorization.  The risk of
+   ritonavir interacting with other drugs is high (though known, so physicians have to
+   _check_ before prescribing), and the more widely an antiviral (or, for that matter,
+   antibacterial) is used the more likely resistance mutations happen.  So probably it's
+   going into the highest-risk populations first.  
 8. __Dosing:__ Dosing would be 2 pills of nirmatrelvir and 1 of ritonavir, twice a day.  
 
    It's a combination medication: nirmatrelvir is Pfizer's new inhibitor of a SARS-CoV2
@@ -171,7 +177,12 @@ Here's what I got out of the sources below:
    
    Ritonavir is a well-known drug, used chronically by those with HIV to inhibit the HIV
    proteases.  That's pretty good news: we know a lot about the safety of HIV meds, and
-   it's moslty good.  We can hope for the same here, maybe?  
+   it's moslty good.  (_Mostly:_ because ritonavir slows the breakdown of other drugs, it
+   interacts with a _lot_ of other medications, and therefore warrants a cautious doctor
+   looking down your medication list.  Some may need to have increased doses, others
+   decreased doses, others temporarily substituted wit another drug.) 
+   
+   We can hope for reasonably free use here if we take those precautions, maybe?  
 
 ## The Weekend Conclusion  
 
@@ -180,7 +191,8 @@ what's available.  On the other hand, what's available is from a relatively slim
 release.  (I haven't dug into clinicaltrials.gov to see if there's an official report
 there yet.)  So&hellip; things could change.  
 
-But the FDA has the next move.  Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;  
+US deaths from COVID-19 are just around 800,000.  Now the FDA has the next move.
+Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;  
 
 ---
 
