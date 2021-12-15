@@ -190,6 +190,9 @@ Here's what I got out of the sources below:
    _check_ before prescribing), and the more widely an antiviral (or, for that matter,
    antibacterial) is used the more likely resistance mutations happen.  So probably it's
    going into the highest-risk populations first.  
+
+   Using it in combination with something else with a different mechanism of action would
+   somewhat de-risk the situation as far as paxlovid escape mutations go.  
 8. __Dosing:__ Dosing would be 2 pills of nirmatrelvir and 1 of ritonavir, twice a day.  
 
    It's a combination medication: nirmatrelvir is Pfizer's new inhibitor of a SARS-CoV2
