@@ -215,7 +215,7 @@ Ok, that's more or less it:
 - The FDA has yet to act on Merck's molnupiravir, 2 weeks after the narrow AMDAC vote in
   favor of it.  Britain has authorized it <sup id="fn6a">[[6]](#fn6)</sup>, but France
   rejected it. <sup id="fn7a">[[7]](#fn7)</sup>  
-- Paxlovid is moving along, everything looks good so far from what's available.  
+- Paxlovid is moving along.  Everything looks good so far, from what little is available.  
 - On the other hand, what's available is from a relatively slim press release.  (I haven't
   dug into clinicaltrials.gov to see if there's an official report there yet.)  
 
