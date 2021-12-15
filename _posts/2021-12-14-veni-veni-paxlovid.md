@@ -164,7 +164,8 @@ Here's what I got out of the sources below:
    wild.  So it could change, but at least it points in the hopeful direction.  It's
    _possible_ Omicron could mutate its [3CLpro](https://en.wikipedia.org/wiki/3C-like_protease)
    protease to escape paxlovid.  But at least for now, Omicron has only 1 mutation there
-   (P132H), which is not (yet) enough.  
+   ([P132H in ORF1ab](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant#Mutations)), 
+   which is not (yet) enough.  
    
    There will likely be robust discussion at the FDA regarding the tradeoff between wide
    use of paxlovid vs selection pressure to mutate 3CLpro to escape paxlovid.  I don't
