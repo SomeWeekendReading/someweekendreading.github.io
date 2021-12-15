@@ -175,8 +175,8 @@ Here's what I got out of the sources below:
    dramatically harder to mutate to evade simultaneously 2 drugs with different
    mechanisms.  Maybe with molnupiravir, if that ever gets approved; maybe with
    fluvoxamine; maybe with monoclonal antibodies; maybe&hellip; maybe.  
-7. __Availability:__ US government has bought 10 million courses of treatment for \$5.3bln
-   (\$530/course of treatment, _cheaper_ than molnupiravir?!). Pfizer claims 200,000
+7. __Availability:__ US government has bought 10 million courses of treatment for \\$5.3bln
+   (\\$530/course of treatment, _cheaper_ than molnupiravir?!). Pfizer claims 200,000
    courses available this year, and 80 million next year. Given that there are only 17
    days remaining in this year and it’s not yet approved, that’s impressive.  
 
