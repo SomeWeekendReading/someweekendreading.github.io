@@ -46,7 +46,7 @@ yet.)  But since I was anxious to see paxlovid move along toward approval, so pe
 _stop_ moving along toward death, my eye was caught by a title that contained the words
 "Pfizer", "COVID-19 pill", "final analysis", and "effective". <sup id="fn1a">[[1]](#fn1)</sup>  
 
-Yep, it apears the data package for paxlovid has been submitted to the FDA.  In the comments at TheZvi, [I had opined that if it were submitted by last Friday, then with perfect scheduling and nobody playing "Joe Manchin at the FDA", we might get Emergency Use Authorization by the end of this year](https://thezvi.wordpress.com/2021/12/06/omicron-post-4/#comment-16123).  Well, we didn't make last Friday, but we made today, a slip of 4 days.  
+Yep, it apears the data package for paxlovid has been submitted to the FDA.  In the comments at [TheZvi](https://thezvi.wordpress.com), I had opined that [if it were submitted by last Friday, then with perfect scheduling and nobody playing "Joe Manchin at the FDA", we might get Emergency Use Authorization by the end of this year](https://thezvi.wordpress.com/2021/12/06/omicron-post-4/#comment-16123).  Well, we didn't make last Friday, but we made today, a slip of 4 days.  
 
 <img src="{{ site.baseurl }}/images/2021-12-14-veni-veni-paxlovid-pfizer.jpg" width="400"
 height="196" alt="Pfizer: Paxlovid full study results confirm robust efficacy vs COVID-19 hospitalization" title="Pfizer: Paxlovid full study results confirm robust efficacy vs COVID-19 hospitalization" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
