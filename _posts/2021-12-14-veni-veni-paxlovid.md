@@ -186,10 +186,14 @@ Here's what I got out of the sources below:
 
 ## The Weekend Conclusion  
 
-Ok, that's more or less it: paxlovid is moving along, everything looks good so far from
-what's available.  On the other hand, what's available is from a relatively slim press
-release.  (I haven't dug into clinicaltrials.gov to see if there's an official report
-there yet.)  So&hellip; things could change.  
+Ok, that's more or less it: 
+- The FDA has yet to act on Merck's molnupiravir, 2 weeks after the narrow AMDAC vote in
+  favor of it.
+- Paxlovid is moving along, everything looks good so far from what's available.  
+- On the other hand, what's available is from a relatively slim press release.  (I haven't
+  dug into clinicaltrials.gov to see if there's an official report there yet.)  
+
+So&hellip; things could change.  
 
 US deaths from COVID-19 are just around 800,000.  Now the FDA has the next move.
 Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;  
