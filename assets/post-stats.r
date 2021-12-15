@@ -35,7 +35,8 @@ library("RCurl")                                       # For getURLContent()
 ## *** Graphics (quarterly boxplot of hits, byte counts vs time, ...)
 ## *** Just for kicks, try fitting an actual logistic curve?  Really, any CDF will
 ##     have the flattening out property; which one, though?
-## *** Show histogram sideways up against the y axis of the scatterplot?
+## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
+##     See: https://www.r-bloggers.com/2012/09/example-10-3-enhanced-scatterplot-with-marginal-histograms/
 postStats <- function(## Inputs (most of the time defaults are ok; clearVars is most likely to change)
                       clearVars     = c("postData", "postDataSaved", "hitPlotDone"),
                       postsDir      = "../_posts",     # Local repository of posts (*.md files)

@@ -179,9 +179,9 @@ How about some concrete numbers?  The package insert for the test said <sup id="
 >  
 > __A:__ The performance of Flowflex COVID-19 Antigen Home Test was established in an
 > allcomers clinical study conducted between March 2021 and May 2021 with 172 nasal swabs
-> self-collected or pair-collected by another study participant from 108 individual
-> symptomatic patients (within 7 days of onset) suspected of COVID-19 and 64 asymptomatic
-> patients. All subjects were screened for the presence or absence of COVID-19 symptoms
+> self-collected or pair-collected by another study participant from __108 individual
+> symptomatic patients__ (within 7 days of onset) suspected of COVID-19 and __64 asymptomatic
+> patients.__ All subjects were screened for the presence or absence of COVID-19 symptoms
 > within two weeks of study enrollment. The Flowflex COVID-19 Antigen Home Test was compared
 > to an FDA authorized molecular SARS-CoV-2 test. The Flowflex COVID-19 Antigen Home
 > Test __correctly identified 93% of positive specimens and 100% of negative specimens.__  
@@ -211,9 +211,11 @@ FP &= (1 - \mbox{TNR}) \cdot H &&= (1.0 - 1.0) \times 64    &&= 0
 \end{alignat*}
 $$
 
-Now we've reconstructed the counts in the trial. (Approximately; almost certainly we
-should round 100.44 down to 100 and 7.56 up to 8 to get integer numbers of people!)  Armed with
-that, we can compute the Positive Predictive Value and the Negative Predictive Value:  
+Now we've reconstructed the counts in the trial.  Approximately; almost certainly we
+should round 100.44 down to 100 and 7.56 up to 8, because humans usually come in integer
+quantities (conjoined twins notwithstanding)!  That would amount to a TPR of 92.59%
+instead the 93% to which they sensibly rounded.  Armed with that, we can compute the
+Positive Predictive Value and the Negative Predictive Value:  
 
 $$
 \begin{alignat*}{5}
