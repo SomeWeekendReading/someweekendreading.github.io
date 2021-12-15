@@ -110,17 +110,8 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
     }                                                  #
   }                                                    #
 
-  plotHitsVsTime <- function(## Inputs
-                             postData,                 # Dataframe of post data to plot
-                             today,                    # For labelling time interval of hit counts
-                             blogName,                 # Name of blog in title
-                             clGray,                   # Gray for confidence limits on LOESS
-                             plotWidth,                # Size of plot
-                             plotHeight,               #
-
-                             ## Outputs
-                             destDir  = "../_drafts",  #
-                             destFile = "post-stats-hits.png") {
+  plotHitsVsTime <- function(postData, today, blogName, clGray, plotWidth, plotHeight,
+                             destDir, destFile) {      # Outputs
 
     if (is.null(destFile))                             # If doesn't want the plot,
       cat(sprintf("* Hits vs time not plotted.\n"))    #  then don't do that
@@ -130,7 +121,8 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
         withPars(function() {                          # Save/restore graphics parameters
           withPars(function() {                        # Set label orientation & add space @ bottom
             plot(panel.first = {
-                   ## LOESS fit and 95% confidence interval as a function of time.  See example at:
+                   ## LOESS fit and 95% confidence interval as a function of time.  Imitated
+                   ## from an example at:
                    ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
                    plx <- predict(loess(PostHits ~ PostDays,
                                   data = transform(postData,
