@@ -141,8 +141,8 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                    lines(postData$"PostDate", lcl,       lty = "dashed")
                  },                                    # Preliminaries done; now rest of plot:
                  x = postData$"PostDate", y = postData$"PostHits", pch = 21, bg = "blue",
-                 ## ylim = c(1, max(postData$"PostHits")),
                  main = "Hits vs Time", ylab = "Post Hits (log scale)", log = "y",
+                 ## ylim = c(1, max(postData$"PostHits")),
                  xaxt = "n", xlab = NA)                # Horiz axis done manually, below
 
             withPars(function() {                      # Horiz axis only: extra space for date labels

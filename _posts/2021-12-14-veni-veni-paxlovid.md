@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Veni, veni paxlovid!
-tags: COVID MathInTheNews PharmaAndBiotech Statistics
+tags: COVID MathInTheNews PharmaAndBiotech R Statistics
 comments: true
 ---
 
@@ -72,7 +72,7 @@ conclusions.  At least we agree about what it _says_, even though we wish it sai
 (like a link to the actual data package!).  
 
 
-## Yeah, fine, but what's in it?  
+## Yeah, fine.  But what's in it?  
 
 Good question.  
 
@@ -94,7 +94,7 @@ the clock is ticktocking on that now.  I imagine anybody who works on this at th
 _painfully_ aware of this.  
 
 
-## Ok&hellip; if you must&hellip; what's in the press release?  
+## Ok&hellip; if you must.  What's in the press release?  
 
 Here's what I got out of the sources below:  
 
@@ -112,9 +112,9 @@ Here's what I got out of the sources below:
    gives us a central estimate of the efficacy of: $1 - (5/679) / (44/682) = 88.6\%$.  So
    their report is consistent.  
 
-   Using the Weekend R script of estimating efficacy confidence limits with a scaled
-   binomial model <sup id="fn5a">[[5]](#fn5)</sup>, we get very decent confidence limits
-   of 72.3% &ndash; 95.3%:  
+   Using the Weekend Reading [R script](https://www.r-project.org) for estimating efficacy
+   confidence limits with a scaled binomial model <sup id="fn5a">[[5]](#fn5)</sup>, we get 
+   a respectable very confidence limit of 72.3% &ndash; 95.3%:  
 
    ```R
    > signif(efficacyAndCL(679, 5, 682, 44), digits = 3)
@@ -122,9 +122,11 @@ Here's what I got out of the sources below:
    0.723 0.886 0.953 
    ```
    
-   Also, there were 0 deaths in the treatment arm, vs 12 in the placebo arm.  So before
+   Also, there were 0 deaths in the treatment arm vs 12 in the placebo arm.  So before
    anybody tries to bust my chops about "100% efficacy vs death", let's get the confidence
-   limits on that, too &ndash; a respectable 68% &ndash; 100%:  
+   limits on that, where we see a not too wildly indecisive 68% &ndash; 100% (confidence
+   limits on rare events are always wide, because you can't get enough samples; since
+   each sample is a death, this is a good thing):  
    
    ```R
    > signif(efficacyAndCL(679, 0, 682, 12), digits = 3)
@@ -135,7 +137,9 @@ Here's what I got out of the sources below:
    fold ratio: 0.93 log10 copies/ml, which in the vernacular is a 10-fold reduction.  
 
    Translation: "ginormous".  The drug is working by a mechanism of action (reduction in
-   viral load) that is right down at the root cause of the disease.  
+   viral load) that is right down at the root cause of the disease.  It's _extremely_
+   difficult ot argue that the drug is not doing what it looks like it's doing, namely
+   curing COVID-19.  
 4. __Side effects:__  There are always side-effects, sometimes unpleasant, sometimes
    even fatal.  The side effects here were described as "mild".  (But remember: this is a press
    release, so they _would_ say that, wouldn't they?)  
@@ -147,13 +151,30 @@ Here's what I got out of the sources below:
 5. __Vaccinated vs unvaccinated:__ In vaccinated subjects, it was less good at reducing
    symptoms, but still reduced hospitalization by 70%. Now there are more vaccinated these
    days, so 70% of a larger number, as Zvi pointed out, might mean more than the
-   percentage reveals, though the vaccinated are at lower risk overall.  There will be
-   animated discussion on this, both by the FDA wondering for whom it should be described,
-   as well as nimrods who think it means they can shirk vaccination.  Though if the safety
-   profile is good, an unrestrictive prescription profile would make sense.  
+   percentage reveals, though the vaccinated are at lower risk overall.  
+   
+   There will be animated discussion on this, both by the FDA wondering for whom it should
+   be described, as well as nimrods who think it means they can shirk vaccination.  Though
+   if the safety profile is good, an unrestrictive prescription profile would make sense.  
 6. __Variants:__ In the trial it worked against several variants (quantitative data
    pending), and lab tests indicated efficacy against Omicron (inhibits the same viral
    protease essential to viral reproduction).  
+   
+   This is _in vitro_ data, not actual combat usage against COVID-19 patients in the
+   wild.  So it could change, but at least it points in the hopeful direction.  It's
+   _possible_ Omicron could mutate its [3CLpro](https://en.wikipedia.org/wiki/3C-like_protease)
+   protease to escape paxlovid.  But at least for now, Omicron has only 1 mutation there
+   (P132H), which is not (yet) enough.  
+   
+   There will likely be robust discussion at the FDA regarding the tradeoff between wide
+   use of paxlovid vs selection pressure to mutate 3CLpro to escape paxlovid.  I don't
+   personally know anything like enough about how to make that trade-off, and just hope
+   that people who _do_ know discuss it at the hearings.  
+   
+   Resistance to paxlovid is another incentive to try combination therapy, since it's
+   dramatically harder to mutate to evade simultaneously 2 drugs with different
+   mechanisms.  Maybe with molnupiravir, if that ever gets approved; maybe with
+   fluvoxamine; maybe with monoclonal antibodies; maybe&hellip; maybe.  
 7. __Availability:__ US government has bought 10 million courses of treatment for \$5.3bln
    (\$530/course of treatment, _cheaper_ than molnupiravir?!). Pfizer claims 200,000
    courses available this year, and 80 million next year. Given that there are only 17
