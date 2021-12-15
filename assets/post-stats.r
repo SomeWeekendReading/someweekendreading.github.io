@@ -157,13 +157,14 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
             abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
 
             legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
-                   pch    = c(21,                NA,                    22),
-                   pt.bg  = c("blue",            NA,                    clGray),
-                   pt.cex = c(1.5,               NA,                    3),
-                   col    = c("black",           "black",               clGray),
-                   lty    = c(NA,                "solid",               "dashed"),
-                   lwd    = c(NA,                2,                     NA),
-                   legend = c("Individual Post", "LOESS central trend", "95% confidence interval"))
+                   pch    = c(21,                NA,                    22,        NA,       NA),
+                   pt.bg  = c("blue",            NA,                    clGray,    NA,       NA),
+                   pt.cex = c(1.5,               NA,                    3,         NA,       NA),
+                   col    = c("black",           "black",               clGray,    "gray",   "gray"),
+                   lty    = c(NA,                "solid",               "dashed",  "dashed", "solid"),
+                   lwd    = c(NA,                2,                     NA,        1,        1),
+                   legend = c("Individual post", "LOESS central trend", "95% confidence interval",
+                              "Hit counting started", "Year end"))
 
             withPars(function() {                      # Horiz axis only: extra space for date labels
               minPostDate <- min(postData$"PostDate")  # Get date range to be covered,
