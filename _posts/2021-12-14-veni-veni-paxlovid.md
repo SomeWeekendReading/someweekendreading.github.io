@@ -147,10 +147,10 @@ Here's what I got out of the sources below:
 5. __Vaccinated vs unvaccinated:__ In vaccinated subjects, it was less good at reducing
    symptoms, but still reduced hospitalization by 70%. Now there are more vaccinated these
    days, so 70% of a larger number, as Zvi pointed out, might mean more than the
-   percentage reveals.  There will be animated discussion on this, both by the FDA
-   wondering for whom it should be described, as well as nimrods who think it means they
-   can shirk vaccination.  Though if the safety profile is good, an unrestrictive
-   prescription profile would make sense.  
+   percentage reveals, though the vaccinated are at lower risk overall.  There will be
+   animated discussion on this, both by the FDA wondering for whom it should be described,
+   as well as nimrods who think it means they can shirk vaccination.  Though if the safety
+   profile is good, an unrestrictive prescription profile would make sense.  
 6. __Variants:__ In the trial it worked against several variants (quantitative data
    pending), and lab tests indicated efficacy against Omicron (inhibits the same viral
    protease essential to viral reproduction).  
@@ -188,7 +188,8 @@ Here's what I got out of the sources below:
 
 Ok, that's more or less it: 
 - The FDA has yet to act on Merck's molnupiravir, 2 weeks after the narrow AMDAC vote in
-  favor of it.
+  favor of it.  Britain has authorized it <sup id="fn6a">[[6]](#fn6)</sup>, but France
+  rejected it. <sup id="fn7a">[[7]](#fn7)</sup>  
 - Paxlovid is moving along, everything looks good so far from what's available.  
 - On the other hand, what's available is from a relatively slim press release.  (I haven't
   dug into clinicaltrials.gov to see if there's an official report there yet.)  
@@ -221,3 +222,7 @@ Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;
 <a id="fn4">4</a>: D Lowe, ["Pfizer's Paxlovid Holds Up"](https://www.science.org/content/blog-post/pfizer-s-paxlovid-holds), _In the Pipeline_ blog at _Science Translational Medicine_, 2021-Dec-14. [↩](#fn4a)  
 
 <a id="fn5">5</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for efficacy confidence limits by scaled binomial ratio"]({{ site.baseurl }}/assets/2021-11-12-covid-treatments-simple-efficacy-confidence-limits.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Nov-12. [↩](#fn5a)  
+
+<a id="fn6">6</a>: M Moody, P Ryan, C Carvalho, ["Merck and Ridgeback’s Molnupiravir, an Oral COVID-19 Antiviral Medicine, Receives First Authorization in the World"](https://www.merck.com/news/merck-and-ridgebacks-molnupiravir-an-oral-covid-19-antiviral-medicine-receives-first-authorization-in-the-world/), _Merck Press Releases_, 2021-Nov-04. [↩](#fn6a)  
+
+<a id="fn7">7</a>: Haute Authorit&eacute; de Sant&eacute;, ["Covid-19 : deux nouveaux traitements évalués par la HAS"](https://www.has-sante.fr/jcms/p_3304161/fr/covid-19-deux-nouveaux-traitements-evalues-par-la-has), _HAS Presse Communiqu&eacute;s_, 2021-Dec-19. [↩](#fn7a)  
