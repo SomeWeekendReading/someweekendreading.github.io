@@ -68,7 +68,7 @@ Also, the formidable med-chem blogger Derek Lowe weighed in at
 _In the Pipeline_. <sup id="fn4a">[[4]](#fn4)</sup>  
 
 It really looks like we're all reading the same press release, and coming to the same
-conclusions.  At least we agree about what it _says_, even though we wish it said more
+conclusions.  At least we agree about what it _says_, even though we wish it said _more_
 (like a link to the actual data package!).  
 
 

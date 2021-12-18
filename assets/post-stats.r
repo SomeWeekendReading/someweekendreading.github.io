@@ -112,7 +112,6 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
 
   plotHitsVsTime <- function(postData, today, blogName, clGray, plotWidth, plotHeight,
                              destDir, destFile) {      # Outputs
-
     if (is.null(destFile))                             # If doesn't want the plot,
       cat(sprintf("* Hits vs time not plotted.\n"))    #  then don't do that
     else {                                             # Otherwise...
