@@ -224,6 +224,30 @@ So&hellip; things could change.
 US deaths from COVID-19 are just around 800,000.  Now the FDA has the next move.
 Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;  
 
+
+## Looks like Europe got there first&hellip; sort of  
+
+This week the European Medicines Agency (EMA) had a meeting of its Committee for Medicinal
+Products for Human Use (CHMP), and they advised that paxlovid can begin to be used in
+Europe (according to a Pfizer press release). <sup id="fn8a">[[8]](#fn8)</sup> The EMA is
+(sort of) like the US FDA, and the CHMP is a bit like several of the FDA advisory
+committees (AMBAC, VRBPAC in this case).  
+
+They authorized it under European regulations which are (again, sort of) like the
+Emergency Use Authorization in the US, i.e., it's not fully authorized and it's up to the
+medical authorities of the member states to decide to allow it on an emergency basis.  So
+lots of political Rube Goldberg machinery has to wheeze into action&hellip; but at least
+it's _action._  
+
+They advised it for patients who (a) do not yet need supplementary oxygen and (b) have
+other risk factors for the disease, and that it should be administered within 5 days of
+symptoms.  So, as predicted above, they wrote for it somewhat narrowly.  They hedged a bit
+on "adults at standard risk", but said it was being studied.  
+
+Apparently the fact that paxlovid showed _in vitro_ activity against Omicron was of some
+interest, as is completely understandable given the steep trajectory of Omicron.  
+
+
 ---
 
 ## Notes &amp; References  
@@ -251,3 +275,5 @@ Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;
 <a id="fn6">6</a>: M Moody, P Ryan, C Carvalho, ["Merck and Ridgeback’s Molnupiravir, an Oral COVID-19 Antiviral Medicine, Receives First Authorization in the World"](https://www.merck.com/news/merck-and-ridgebacks-molnupiravir-an-oral-covid-19-antiviral-medicine-receives-first-authorization-in-the-world/), _Merck Press Releases_, 2021-Nov-04. [↩](#fn6a)  
 
 <a id="fn7">7</a>: Haute Authorit&eacute; de Sant&eacute;, ["Covid-19 : deux nouveaux traitements évalués par la HAS"](https://www.has-sante.fr/jcms/p_3304161/fr/covid-19-deux-nouveaux-traitements-evalues-par-la-has), _HAS Presse Communiqu&eacute;s_, 2021-Dec-19. [↩](#fn7a)  
+
+<a id="fn8">8</a>: [Pfizer Media Relations (Europe)](mailto:EUPress@Pfizer.com), ["EMA Issues Advice for Potential Early Use of Pfizer’s Novel COVID-19 Oral Antiviral Candidate"](https://www.pfizer.com/news/press-release/press-release-detail/ema-issues-advice-potential-early-use-pfizers-novel-covid), _Pfizer Press Releases_, 2021-Dec-16 10:30am. [↩](#fn8a)  
