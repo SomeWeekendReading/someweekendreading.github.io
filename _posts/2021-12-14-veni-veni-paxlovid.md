@@ -225,7 +225,7 @@ US deaths from COVID-19 are just around 800,000.  Now the FDA has the next move.
 Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;  
 
 
-## Looks like Europe got there first&hellip; sort of  
+## Looks like the Europeans got there first&hellip; sort of  
 
 This week the European Medicines Agency (EMA) had a meeting of its Committee for Medicinal
 Products for Human Use (CHMP), and they advised that paxlovid can begin to be used in
