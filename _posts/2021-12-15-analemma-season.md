@@ -7,7 +7,7 @@ comments: true
 
 It's that season again: the time of nerdly meditations on the analemma.  The shortest day
 of the year, Dec 21, is yet to come.  But for night owls, the day of earliest sunset (at
-the latitude of Ch&acirc;teau Weekend) was Dec 7th.  How can that be?  That's the tale of
+the latitude of Ch&acirc;teau Weekend) was Dec 8th.  How can that be?  That's the tale of
 the analemma!  
 
 
@@ -61,13 +61,15 @@ who didn't _care_ about sunrise, the sunsets had already begun to get better!  H
 that be, that sunsets started to get later before the Winter Solstice?!  
 
 The fascinating explanation is part celestial mechanics, part hobby astronomy, and part
-pretty pictures.  (Oh, and some math.  There's always some math!)  These factors producing
-the analemma conspire to create an interesting effect: while the Winter Solstice is always
-on Dec 21 (a fixed point of the Gregorian solar calendar, regardless of latitude), the
-earliest sunset is a bit before that and the latest sunrise is a bit after (both depending on
-latitude).  It led to a series of annual emails from Doug, in which he would, each year,
-alert us to the day of earliest sunset. <sup id="fn2a">[[2]](#fn2)</sup> By now-ancient
-tradition among the now-ancient _Symbolici Cantabrigiae_, this is known as "Dodds's Day".  
+pretty pictures.  (Oh, and some
+math. <sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>There's always some
+math!)  These factors producing the analemma conspire to create an interesting effect:
+while the Winter Solstice is always on Dec 21 (a fixed point of the Gregorian solar
+calendar, regardless of latitude), the earliest sunset is a bit before that and the latest
+sunrise is a bit after (both depending on latitude).  It led to a series of annual emails
+from Doug, in which he would, each year, alert us to the day of earliest sunset. <sup
+id="fn2a">[[2]](#fn2)</sup> By now-ancient tradition among the now-ancient _Symbolici
+Cantabrigiae_, this is known as "Dodds's Day".  
 
 For the Weekend Editrix, on the other hand &ndash; well, let's just say she's a morning person
 who inexplicably-but-actually _cares_ that the sun should rise before she does.  So we call
@@ -144,3 +146,7 @@ Removed Nov 01 &ndash; Nov 06 to avoid complexity of daylight savings time chang
 Use results for other cities at other latitudes.  Particularly let me know if you're in the southern hemisphere and work out the details around your summer solstice! [↩](#fn3a)  
 
 <a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for sun times, Dodds Day, and Weekend Editrix Day"]({{ site.baseurl }}/assets/2021-12-15-analemma-season-sun-times.r), [www.someweekendreading.blog]({{ site.baseurl }}/), 2021-Dec-15. [↩](#fn4a)  
+
+<a id="fn5">5</a>: CH Holbrow, ["Build Your Own Analemma"](https://arxiv.org/pdf/1302.0765.pdf), ar_&chi_;iv 1302.0765, 2013-Feb-05. [↩](#fn5a)  
+
+<a id="fn6">6</a>: P Lynch, ["The Equation of Time and the Analemma"](http://irishmathsoc.org/bull69/Lynch.pdf), _Irish Math Soc. Bull._ vol 68, Summer 2012, pp. 47-56. [↩](#fn6a)  
