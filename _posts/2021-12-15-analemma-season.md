@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tis the season&hellip; of the Analemma
+title: &rsquo;Tis the season&hellip; of the Analemma
 tags: Beauty Math Obscurantism Physics R TheDivineMadness
 comments: true
 ---
