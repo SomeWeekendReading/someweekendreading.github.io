@@ -147,6 +147,6 @@ Use results for other cities at other latitudes.  Particularly let me know if yo
 
 <a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for sun times, Dodds Day, and Weekend Editrix Day"]({{ site.baseurl }}/assets/2021-12-15-analemma-season-sun-times.r), [www.someweekendreading.blog]({{ site.baseurl }}/), 2021-Dec-15. [↩](#fn4a)  
 
-<a id="fn5">5</a>: CH Holbrow, ["Build Your Own Analemma"](https://arxiv.org/pdf/1302.0765.pdf), ar_&chi_;iv 1302.0765, 2013-Feb-05. [↩](#fn5a)  
+<a id="fn5">5</a>: CH Holbrow, ["Build Your Own Analemma"](https://arxiv.org/pdf/1302.0765.pdf), ar_&chi;_iv 1302.0765, 2013-Feb-05. [↩](#fn5a)  
 
 <a id="fn6">6</a>: P Lynch, ["The Equation of Time and the Analemma"](http://irishmathsoc.org/bull69/Lynch.pdf), _Irish Math Soc. Bull._ vol 68, Summer 2012, pp. 47-56. [↩](#fn6a)  
