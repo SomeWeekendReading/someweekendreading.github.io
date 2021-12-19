@@ -62,7 +62,7 @@ that be, that sunsets started to get later before the Winter Solstice?!
 
 The fascinating explanation is part celestial mechanics, part hobby astronomy, and part
 pretty pictures.  (Oh, and some
-math. <sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>There's always some
+math. <sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>  There's always some
 math!)  These factors producing the analemma conspire to create an interesting effect:
 while the Winter Solstice is always on Dec 21 (a fixed point of the Gregorian solar
 calendar, regardless of latitude), the earliest sunset is a bit before that and the latest
