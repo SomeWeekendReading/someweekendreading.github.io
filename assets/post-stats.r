@@ -29,19 +29,19 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 ##
 
-## Issues:
 ## *** Ability to isolate a particular calendar year (in getPostData()?)
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
 ##     See: https://www.r-bloggers.com/2012/09/example-10-3-enhanced-scatterplot-with-marginal-histograms/
-postStats <- function(## Inputs (most of the time defaults are ok; clearVars is most likely to change)
+postStats <- function(## Inputs
                       clearVars   = c("postData", "postDataSaved", "plotDone"),
+                      ## Most of the time, these defaults are what you want
                       postsDir    = "../_posts",       # Local repository of posts & comments
-                      commentsDir = "../_data/comments",
-                      postPatt    = "*.md",            # What post files look like
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
-                      mdRegexp    = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
+                      postPatt    = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
+                      commentsDir = "../_data/comments",
+                      commentPatt = "^entry.*\\.yml$", # What comment files look like
                       ## 1 capture group: get the integer value from the JSON returned
                       jsonRegexp  = "^\\{.*\"value\":([0-9]+).*\\}$",
                       blogName    = "www.someweekendreading.blog",
@@ -49,20 +49,20 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                       startDate   = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
                       today       = Sys.Date(),        # Today is when hits get measured
                       plotWidth   = 800,               # Shape of hits/comments vs time plot
-                      plotHeight  = plotWidth,         #
+                      plotHeight  = plotWidth,         # 2x2 array of plots, so why not square?
                       clGray      = gray(level = 0.80, alpha = 0.50),
 
                       ## Outputs (most of the time, these defaults are what you want)
                       destDir  = "../_drafts",         # Directory where results get written
                       txFile   = sprintf("post-stats-%s.txt", format(today, format = "%Y-%b-%d")),
-                      destFile = sprintf("post-stats-%s.tsv", format(today, format = "%Y-%b-%d")),
-                      plotFile = if (is.null(destFile))
-                                   NULL                # No plot file
-                                 else                  # Else derive from data save file
-                                   sub("^(.*)\\.tsv$", "\\1.png", destFile)) {
+                      dataFile = sprintf("post-stats-%s.tsv", format(today, format = "%Y-%b-%d")),
+                      plotFile = if (is.null(dataFile))# If no data file
+                                   NULL                # Then no plot file
+                                 else                  # Else derive plot file from data file
+                                   sub("^(.*)\\.tsv$", "\\1.png", dataFile)) {
 
-  getPostData <- function(startDate, today, postsDir, postPatt, mdRegexp, jsonRegexp, countURL,
-                          commentsDir) {
+  getPostData <- function(startDate, today, postsDir, postPatt, jsonRegexp, countURL,
+                          commentsDir, commentPatt) {  #
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
                       "\n  - Date hit counting started: %s",
                       "\n  - Today:                     %s\n",
@@ -78,31 +78,37 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
       ## NB: page.url returns a string like "/name/", so this escapes and puts periods
       ## BOTH before AND after: ".name." -- a historical accident, but let's stick with it,
       ## since all our counters at countapi.xyz have that in them now.
-      postRoot     <- sub(mdRegexp, "\\2", postFile)   # Extract root of post filename
+      postRoot     <- sub(postPatt, "\\2", postFile)   # Extract root of post filename
       postComments <- file.path(commentsDir, postRoot) # Where comments are, if any
-      data.frame(PostFile  = postFile,                 # Construct dataframe row for this postFile
-                 PostDate  = as.Date(sub(mdRegexp, "\\1", postFile), format = "%Y-%m-%d"),
-                 PostComments = if (dir.exists(postComments)) length(list.files(postComments)) else 0,
-                 PostHits  = as.integer(sub(jsonRegexp, "\\1",
-                                            ## I wish we could batch these, not slowly 1 by 1!
-                                            getURLContent(sprintf("%s/%s",
-                                                                  countURL,
-                                                                  gsub("/", "\\.",
-                                                                       URLencode(sprintf("/%s/",
-                                                                                         postRoot))))))),
-                 HitsStart = startDate,                # Keep track of when we started counting,
-                 HitsEnd   = today)                    #  and today.  Counts are in that interval.
+      data.frame(PostFile     = postFile,              # Construct dataframe row for this postFile
+                 PostDate     = as.Date(sub(postPatt, "\\1", postFile), format = "%Y-%m-%d"),
+                 PostComments = if (dir.exists(postComments))
+                                  length(list.files(path = postComments, pattern = commentPatt))
+                                else                   # Count comment files for this post
+                                  0,                   #   most of the time there are none
+                 PostHits     = as.integer(            # Interrogate hit server for this post
+                                  sub(jsonRegexp, "\\1",
+                                      ## I wish we could batch these, not slowly 1 by 1!
+                                      getURLContent(sprintf("%s/%s",
+                                                            countURL,
+                                                            gsub("/", "\\.",
+                                                                 URLencode(sprintf("/%s/",
+                                                                                   postRoot))))))),
+                 HitsStart    = startDate,             # Keep track of when we started counting,
+                 HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
     cat(sprintf("\n  - Result: %d rows of data:\n", nrow(postData)))
     showDataframeHeadTail(postData)                    # Show first few and last few rows
 
+    ## *** Maybe restrict to a particular year here
+
     postData                                           # Return data for posts
   }                                                    #
 
-  savePostData <- function(destDir, destFile, postData) {
-    if (!is.null(destFile)) {                          # If specified destination file
-      f <- file.path(destDir, destFile)                #  make full pathname
+  savePostData <- function(destDir, dataFile, postData) {
+    if (!is.null(dataFile)) {                          # If specified destination file
+      f <- file.path(destDir, dataFile)                #  make full pathname
       saveDataframe(postData, f)                       #   then save results
       cat(sprintf("* Saved to %s.\n", f))              #   report it
       TRUE                                             #   and flag that it was done
@@ -112,8 +118,7 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
     }                                                  #
   }                                                    #
 
-  plotDataVsTime <- function(postData, blogName, clGray, plotWidth, plotHeight,
-                             destDir, destFile) {      # Outputs
+  plotDataVsTime <- function(postData, blogName, clGray, plotWidth, plotHeight, destDir, plotFile) {
 
     scatterplotWithLOESS <- function(postData, colName, clGray, log, main, hitsStart, histBreaks) {
       withPars(function() {                            # Set label orientation & add space @ bottom
@@ -132,9 +137,9 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
           polygon(x = c(postData$"PostDate", rev(postData$"PostDate")),
                   y = c(lcl, rev(ucl)),                # Polygon with shade of confidence limits
                   col = clGray, border = NA)           # Then LOESS line and CL borders (dashed)
-                  lines(postData$"PostDate", plx$"fit", lwd = 2)
-                  lines(postData$"PostDate", ucl,       lty = "dashed")
-                  lines(postData$"PostDate", lcl,       lty = "dashed")
+          lines(postData$"PostDate", plx$"fit", lwd = 2)
+          lines(postData$"PostDate", ucl,       lty = "dashed")
+          lines(postData$"PostDate", lcl,       lty = "dashed")
         },                                             # Preliminaries done; now rest of plot:
         x = postData$"PostDate", y = postData[, colName], pch = 21, bg = "blue",
         ## ylim = c(1, max(postData[, colName])),
@@ -148,8 +153,9 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
                     at = seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1, #1st day
                              to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1, # of month
                              by   = "month"))          # Ticks at start of each month
-          mtext("Post Date", side = 1, line = 5.5, las = 0)
-        }, mgp = c(7, 0.5, 0))                         # Horizontal axis only: title, label, tick
+          ## *** Is the label really necessary, given you can see they're dates?
+          mtext("Post Date", side = 1, line = 7.5, las = 0)
+        }, mgp = c(8.5, 0.5, 0))                       # Horizontal axis only: title, label, tick
 
         rug(postData$"PostDate", side = 1, col = "gray") # Poor man's marginal histograms
         rug(postData[, colName], side = 2, col = "gray") #  done as rug plots
@@ -157,67 +163,64 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
         yrRange <- sapply(range(postData$"PostDate"), function(d) { as.integer(format(d, "%Y")) })
         sapply(seq(from = yrRange[[1]], to = yrRange[[2]]), function(yr) {
           abline(v = as.Date(sprintf("%4d-Jan-01", yr), format = "%Y-%b-%d"),
-                 lty = "solid", col = "gray")      # Draw vertical gray line @ Jan 01 of each year
-        })                                         #  between min post date and max post date
+                 lty = "solid", col = "gray")          # Draw vertical gray line @ Jan 01 of each year
+        })                                             #  between min post date and max post date
 
+        legendInset <- c(0.03, 0.01)                   # Insets for legend (accomodate vertical rug)
         if (!is.null(hitsStart)) {                     # Want to show when hit counter turned on?
           abline(v = postData[1, hitsStart], col = "gray", lty = "dashed")
-          legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
+          legend("topleft", bg = "antiquewhite", inset = legendInset,
                  pch    = c(21,                NA,                    22,        NA,       NA),
                  pt.bg  = c("blue",            NA,                    clGray,    NA,       NA),
                  pt.cex = c(1.5,               NA,                    3,         NA,       NA),
                  col    = c("black",           "black",               clGray,    "gray",   "gray"),
-                 lty    = c(NA,                "solid",               "dashed",  "dashed", "solid"),
+                 lty    = c(NA,                "solid",               "dashed",  "solid",  "dashed"),
                  lwd    = c(NA,                2,                     NA,        1,        1),
                  legend = c("Individual post", "LOESS central trend", "95% confidence interval",
-                            "Hit counting started", "Year boundary"))
-        } else {                                       # Else don't show hit count start; diff legend
-          legend("topleft", bg = "antiquewhite", inset = c(0.05, 0.01),
+                            "Year boundary", sprintf("Hit counting started: %s",
+                                                     postData[1, hitsStart])))
+        } else                                         # Else don't show hit count start; diff legend
+          legend("topleft", bg = "antiquewhite", inset = legendInset,
                  pch    = c(21,                NA,                    22,       NA),
                  pt.bg  = c("blue",            NA,                    clGray,   NA),
                  pt.cex = c(1.5,               NA,                    3,        NA),
-                 col    = c("black",           "black",               clGray,  "gray"),
+                 col    = c("black",           "black",               clGray,   "gray"),
                  lty    = c(NA,                "solid",               "dashed", "solid"),
                  lwd    = c(NA,                2,                     NA,       1),
                  legend = c("Individual post", "LOESS central trend", "95% confidence interval",
-                            "Year boundar"))           #
-        }                                              #
+                            "Year boundary"))          #
 
       }, las = 3,                                      # Always vertical labels, both axes
-         mar = c(7, 3, 2, 1))                          # Extra margin @ bottom for date labels
+         mar = c(8.5, 3, 2, 1))                        # Extra margin @ bottom for date labels
 
       hist(postData[, colName], xlab = colName, ylab = sprintf("Freq(%s)", colName),
            main = sprintf("%s Frequency Distribution", colName), col = "blue", breaks = histBreaks)
     }                                                  #
 
-    if (is.null(destFile))                             # If doesn't want the plot, then don't do that
-      cat(sprintf("* Hits/comments vs time not plotted.\n"))
-    else {                                             # Otherwise...
-      f <- file.path(destDir, destFile)                # Destination pathname
-      withPNG(f, plotWidth, plotHeight, FALSE, function() {
-        withPars(function() {                          # Save/restore graphics parameters
+    f <- if (is.null(plotFile)) NULL else file.path(destDir, plotFile)
+    withPNG(f, plotWidth, plotHeight, FALSE, function() {
+      withPars(function() {                            # Save/restore graphics parameters
 
-          scatterplotWithLOESS(postData, "PostHits", clGray, "y", "Hits vs Time", "HitsStart", 20)
-          scatterplotWithLOESS(postData, "PostComments", clGray, "", "Comments vs Time", NULL,
-                               20)#max(postData$"PostComments" + 2)) # *** how does this work?
+        scatterplotWithLOESS(postData, "PostHits",     clGray, "y", "Hits vs Time",     "HitsStart",
+                             20)                       #
+        scatterplotWithLOESS(postData, "PostComments", clGray, "",  "Comments vs Time", NULL,
+                             20)#max(postData$"PostComments" + 2)) # *** how does this work?
 
-          title(main = sprintf("%s Hits & Comments %s: %d posts from %s to %s",
-                               blogName,               # Overall title of all plots
-                               format(postData[1, "HitsEnd"], format = "%Y-%b-%d"),
-                               nrow(postData),         # Include number of posts
-                               format(postData[1,              "PostDate"],   format = "%Y-%b-%d"),
-                               format(postData[nrow(postData), "PostDate"],   format = "%Y-%b-%d")),
-                outer = TRUE, cex.main = 1.5)          # It's in the top outer margin
+        title(main = sprintf("%s Hits & Comments %s: %d posts",
+                             blogName,                 # Overall title of all plots
+                             format(postData[1, "HitsEnd"], format = "%Y-%b-%d"),
+                             nrow(postData)),          # Include number of posts
+              outer = TRUE, cex.main = 1.5)            # It's in the top outer margin
 
-        }, pty   = "m",                                # Maximal plotting area
-           bg    = "white",                            # Background
-           mfrow = c(2, 2),                            # 2 x 2 array of plots
-           oma   = c(0, 0, 1, 0),                      # Outer margin @ top for overall title
-           mar   = c(3, 3, 2, 1),                      # Pull in on margins
-           mgp   = c(1.7, 0.5, 0))                     # Axis title, label, tick
-      })                                               # Done with file capture
-      cat(sprintf("* Data vs time plot: %s.\n", f))    # Capture filename to transcript
-    }                                                  #
+      }, pty   = "m",                                  # Maximal plotting area
+         bg    = "white",                              # Background
+         ps    = 16,                                   # Larger type size for file capture
+         mfrow = c(2, 2),                              # 2 x 2 array of plots
+         oma   = c(0, 0, 1, 0),                        # Outer margin @ top for overall title
+         mar   = c(3, 3, 2, 1),                        # Pull in on margins
+         mgp   = c(1.7, 0.5, 0))                       # Axis title, label, tick
+    })                                                 # Done with file capture
+    cat(sprintf("* Data vs time plot: %s.\n", f))      # Capture filename to transcript
     TRUE                                               # Flag that it was done
   }                                                    #
 
@@ -231,11 +234,12 @@ postStats <- function(## Inputs (most of the time defaults are ok; clearVars is 
 
     heraldPhase("Getting hit count for each post")     # Announce what we're doing
     maybeAssign("postData", function() {               # Collect hit count for each post
-      getPostData(startDate, today, postsDir, postPatt, mdRegexp, jsonRegexp, countURL, commentsDir)
+      getPostData(startDate, today, postsDir, postPatt, jsonRegexp, countURL,
+                  commentsDir, commentPatt)            #
     })                                                 # Done retrieving counts
 
     heraldPhase("Saving results")                      # Save the results, maybe
-    maybeAssign("postDataSaved", function() { savePostData(destDir, destFile, postData) })
+    maybeAssign("postDataSaved", function() { savePostData(destDir, dataFile, postData) })
 
     heraldPhase("Plotting hits vs time")               # Plot hits vs time and probability
     maybeAssign("plotDone", function() {               #   distribution of hits
