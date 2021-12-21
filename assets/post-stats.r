@@ -153,9 +153,8 @@ postStats <- function(## Inputs
                     at = seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1, #1st day
                              to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1, # of month
                              by   = "month"))          # Ticks at start of each month
-          ## *** Is the label really necessary, given you can see they're dates?
-          mtext("Post Date", side = 1, line = 7.5, las = 0)
-        }, mgp = c(8.5, 0.5, 0))                       # Horizontal axis only: title, label, tick
+          ## Don't really need horizontal axis label, since dates make it obvious it's the post date
+        }, mgp = c(7.5, 0.5, 0))                       # Horizontal axis only: title, label, tick
 
         rug(postData$"PostDate", side = 1, col = "gray") # Poor man's marginal histograms
         rug(postData[, colName], side = 2, col = "gray") #  done as rug plots
@@ -191,7 +190,7 @@ postStats <- function(## Inputs
                             "Year boundary"))          #
 
       }, las = 3,                                      # Always vertical labels, both axes
-         mar = c(8.5, 3, 2, 1))                        # Extra margin @ bottom for date labels
+         mar = c(7.5, 3, 2, 1))                        # Extra margin @ bottom for date labels
 
       hist(postData[, colName], xlab = colName, ylab = sprintf("Freq(%s)", colName),
            main = sprintf("%s Frequency Distribution", colName), col = "blue", breaks = histBreaks)
