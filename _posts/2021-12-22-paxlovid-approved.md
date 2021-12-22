@@ -8,7 +8,7 @@ comments: true
 &hellip; aaaaand, today the suspense is over: the FDA has authorized paxlovid.  
 
 
-## 
+## Paxlovid is legal  
 
 <img src="{{ site.baseurl }}/images/2021-12-22-paxlovid-approved-stat.jpg" width="400" height="188" alt="Herper @ STAT: FDA Authorizes Paxlovid" title="Herper @ STAT: FDA Authorizes Paxlovid" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2021-12-22-paxlovid-approved-fda.jpg" width="400" height="176" alt="FDA: Paxlovid authorized" title="FDA: Paxlovid authorized" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
