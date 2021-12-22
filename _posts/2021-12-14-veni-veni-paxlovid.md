@@ -225,7 +225,7 @@ US deaths from COVID-19 are just around 800,000.  Now the FDA has the next move.
 Tick, tock&hellip; tick, tock&hellip; tick, tock&hellip;  
 
 
-## Looks like the Europeans got there first&hellip; sort of  
+## Addendum 2021-Dec-16: Looks like the Europeans got there first&hellip; sort of  
 
 This week the European Medicines Agency (EMA) had a meeting of its Committee for Medicinal
 Products for Human Use (CHMP), and they advised that paxlovid can begin to be used in
@@ -247,6 +247,26 @@ on "adults at standard risk", but said it was being studied.
 Apparently the fact that paxlovid showed _in vitro_ activity against Omicron was of some
 interest, as is completely understandable given the steep trajectory of Omicron.  
 
+
+## Addendum 2021-Dec-21: Rumor has FDA approval this week?  
+
+<img src="{{ site.baseurl }}/images/2021-12-14-veni-veni-paxlovid-reuters.jpg" width="400" height="155" alt="Reuters: Anonymous reports on FDA approving molnupiravir &amp; paxlovid this week" title="Reuters: Anonymous reports on FDA approving molnupiravir &amp; paxlovid this week" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+_Reuters_ reported just this morning essentially a rumor that molnupiravir and paxlovid
+will be "approved" (presumably under EUA?) this week, "according to people familiar with
+the matter". <sup id="fn9a">[[9]](#fn9)</sup> Or, apparently at least "three of the
+people", who asked not to be named.  It looks like Wednesday (tomorrow!) would be the
+earliest this can happen.  
+
+I _hate_ anonymous stories like this.  We can't check anything!  And there's nothing on
+the FDA's AMDAC and VRBPAC committee meeting calendars, so it would have to be an approval
+without the external advisory committee, like
+[evusheld](https://www.someweekendreading.blog/fda-evusheld/).  That's somewhat rare, but
+it can happen.  Maybe the paxlovid data is good enough to warrant this; molnupiravir looks
+like a hot mess right now.  A sense of urgency, I guess.  
+
+Still&hellip; maybe tomorrow will be A Good Day.  
+
+"The FDA declined to comment."  
 
 ---
 
@@ -277,3 +297,5 @@ interest, as is completely understandable given the steep trajectory of Omicron.
 <a id="fn7">7</a>: Haute Authorit&eacute; de Sant&eacute;, ["Covid-19 : deux nouveaux traitements évalués par la HAS"](https://www.has-sante.fr/jcms/p_3304161/fr/covid-19-deux-nouveaux-traitements-evalues-par-la-has), _HAS Presse Communiqu&eacute;s_, 2021-Dec-19. [↩](#fn7a)  
 
 <a id="fn8">8</a>: [Pfizer Media Relations (Europe)](mailto:EUPress@Pfizer.com), ["EMA Issues Advice for Potential Early Use of Pfizer’s Novel COVID-19 Oral Antiviral Candidate"](https://www.pfizer.com/news/press-release/press-release-detail/ema-issues-advice-potential-early-use-pfizers-novel-covid), _Pfizer Press Releases_, 2021-Dec-16 10:30am. [↩](#fn8a)  
+
+<a id="fn9">9</a>: J Wingrove, J Jacobs, &amp; R Langreth, ["FDA Expected to Authorize Pfizer and Merck Covid Pills This Week"](https://www.bloomberg.com/news/articles/2021-12-21/fda-expected-to-authorize-pfizer-merck-covid-pills-this-week), _Reuters_, 2021-Dec-21. [↩](#fn9a)  
