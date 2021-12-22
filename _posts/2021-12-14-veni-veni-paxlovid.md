@@ -114,7 +114,7 @@ Here's what I got out of the sources below:
 
    Using the Weekend Reading [R script](https://www.r-project.org) for estimating efficacy
    confidence limits with a scaled binomial model <sup id="fn5a">[[5]](#fn5)</sup>, we get 
-   a respectable very confidence limit of 72.3% &ndash; 95.3%:  
+   a very respectable confidence limit of 72.3% &ndash; 95.3%:  
 
    ```R
    > signif(efficacyAndCL(679, 5, 682, 44), digits = 3)
@@ -266,7 +266,7 @@ like a hot mess right now.  A sense of urgency, I guess.
 
 Still&hellip; maybe tomorrow will be A Good Day.  
 
-"The FDA declined to comment."  
+> The FDA declined to comment.  
 
 ---
 
