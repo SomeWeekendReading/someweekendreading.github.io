@@ -264,7 +264,7 @@ without the external advisory committee, like
 it can happen.  Maybe the paxlovid data is good enough to warrant this; molnupiravir looks
 like a hot mess right now.  A sense of urgency, I guess.  
 
-Still&hellip; maybe tomorrow will be A Good Day.  
+Still&hellip; maybe tomorrow will be A Good Day.  In the meantime, as _Reuters_ says:  
 
 > The FDA declined to comment.  
 
