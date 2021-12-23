@@ -5,7 +5,7 @@ tags: COVID PharmaAndBiotech
 comments: true
 ---
 
-&hellip; aaaaand, today the suspense is over: the FDA has authorized paxlovid.  
+&hellip; aaaaand, today [the suspense is over](https://www.someweekendreading.blog/veni-veni-paxlovid/#addendum-2021-dec-21-rumor-has-fda-approval-this-week): the FDA has authorized paxlovid.  
 
 
 ## Paxlovid is legal  
