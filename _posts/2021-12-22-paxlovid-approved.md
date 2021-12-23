@@ -29,7 +29,11 @@ explicitly mention this.
 
 The FDA accepted that the efficacy vs hospitalization was 88%.  
 
-Here at Chez Weekend, we approve fully.  Not that anyone should care.  
+
+## The Weekend Conclusion  
+
+Here at Chez Weekend, we approve _fully._  (Not that anyone should care about that;
+instead care about people getting effective treatment, which is A Good Thing.)  
 
 ---
 
@@ -48,3 +52,13 @@ Here at Chez Weekend, we approve fully.  Not that anyone should care.
 <a id="fn1">1</a>: M Herper, ["FDA authorizes Pfizer pill to treat Covid-19 in patients as young as 12"](https://www.statnews.com/2021/12/22/fda-authorizes-pfizer-pill-to-treat-covid-19-in-patients-as-young-as-12/), _STAT News_, 2021-Dec-22. [↩](#fn1a)  
 
 <a id="fn2">2</a>: [C Tantibanchachai](mailto:chanapa.tantibanchachai@fda.hhs.gov), ["Coronavirus (COVID-19) Update: FDA Authorizes First Oral Antiviral for Treatment of COVID-19"](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-oral-antiviral-treatment-covid-19), _FDA News Releases_, 2021-Dec-22. [↩](#fn2a)  
+
+<a id="fn3">3</a>: Pfizer Staff, ["EPIC-HR: Study of Oral PF-07321332/Ritonavir Compared With Placebo in Nonhospitalized High Risk Adults With COVID-19"](https://clinicaltrials.gov/ct2/show/NCT04960202), ClinicalTrials.gov, downloaded 2021-Dec-23. [↩](#fn3a)  
+
+<a id="fn4">4</a>: Pfizer Staff, ["FACT SHEET FOR PATIENTS, PARENTS, AND CAREGIVERS: EMERGENCY USE AUTHORIZATION (EUA) OF PAXLOVID FOR CORONAVIRUS DISEASE 19 (COVID-19)"](https://www.fda.gov/media/155051/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn4a)  
+
+<a id="fn5">5</a>: FDA Staff, ["Frequently Asked Questions on the Emergency Use Authorization for Paxlovid for Treatment of COVID-19"](https://www.fda.gov/media/155052/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn5a)  
+
+<a id="fn6">6</a>: Pfizer Staff, ["FACT SHEET FOR HEALTHCARE PROVIDERS: EMERGENCY USE AUTHORIZATION FOR PAXLOVID(TM)"](https://www.fda.gov/media/155050/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn6a)  
+
+<a id="fn7">7</a>: JA O'Shaughnessy (Acting Chief Scientist, FDA), ["Official Letter of Emergency Use Authorization"](https://www.fda.gov/media/155049/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn7a)  
