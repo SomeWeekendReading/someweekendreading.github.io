@@ -35,6 +35,26 @@ The FDA accepted that the efficacy vs hospitalization was 88%.
 Here at Chez Weekend, we approve _fully._  (Not that anyone should care about that;
 instead care about people getting effective treatment, which is A Good Thing.)  
 
+
+## Addendum 2021-Dec-23: A trawl through the data  
+
+One of the drawbacks to sidestepping the advisory committes (AMDAC or VRBPAC) is that we
+don't get public availability of the filing documents, the slide decks, and so on.  Those
+are _really_ informative.  
+
+But here, [as with evusheld](https://www.someweekendreading.blog/fda-evusheld/), we have
+to rely on skimpier sources, starting with the FDA press release.  So here's what we've
+got, working forward from the press release and following links:  
+
+- The clinical trial itself, called EPIC-HR and given the id NCT04960202 at
+  ClinicalTrials.gov. <sup id="fn3a">[[3]](#fn3)</sup>  
+- The Pfizer fact sheet for patients, parents, and caregivers, i.e., explaining to
+  non-medical people what's happening to them. <sup id="fn4a">[[4]](#fn4)</sup>  
+- The Pfizer fact sheet for healthcare providers, with a lot more technical information
+  and pragmatic use guidelines. <sup id="fn5a">[[5]](#fn5)</sup>  
+- The FDA's FAQ on the paxlovid EUA. <sup id="fn6a">[[6]](#fn6)</sup>  
+- The official letter from the FDA's acting chief scientist, granting the EUA.  <sup id="fn7a">[[7]](#fn7)</sup>  
+
 ---
 
 ## Notes &amp; References  
@@ -57,8 +77,8 @@ instead care about people getting effective treatment, which is A Good Thing.)
 
 <a id="fn4">4</a>: Pfizer Staff, ["FACT SHEET FOR PATIENTS, PARENTS, AND CAREGIVERS: EMERGENCY USE AUTHORIZATION (EUA) OF PAXLOVID FOR CORONAVIRUS DISEASE 19 (COVID-19)"](https://www.fda.gov/media/155051/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn4a)  
 
-<a id="fn5">5</a>: FDA Staff, ["Frequently Asked Questions on the Emergency Use Authorization for Paxlovid for Treatment of COVID-19"](https://www.fda.gov/media/155052/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn5a)  
+<a id="fn5">5</a>: Pfizer Staff, ["FACT SHEET FOR HEALTHCARE PROVIDERS: EMERGENCY USE AUTHORIZATION FOR PAXLOVID(TM)"](https://www.fda.gov/media/155050/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn5a)  
 
-<a id="fn6">6</a>: Pfizer Staff, ["FACT SHEET FOR HEALTHCARE PROVIDERS: EMERGENCY USE AUTHORIZATION FOR PAXLOVID(TM)"](https://www.fda.gov/media/155050/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn6a)  
+<a id="fn6">6</a>: FDA Staff, ["Frequently Asked Questions on the Emergency Use Authorization for Paxlovid for Treatment of COVID-19"](https://www.fda.gov/media/155052/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn6a)  
 
 <a id="fn7">7</a>: JA O'Shaughnessy (Acting Chief Scientist, FDA), ["Official Letter of Emergency Use Authorization"](https://www.fda.gov/media/155049/download), FDA.gov, downloaded 2021-Dec-23. [↩](#fn7a)  
