@@ -81,7 +81,8 @@ got, working forward from the press release and following links:
   - The former pharma nerd in me can't resist the structural diagrams for nirmatrelvir and
     ritonavir.  I always admired med chemists: not only can they make these
     battleship-sized molecules, but they can design a scalable pipeline that does it
-    reliably, over and over, making the exact same thing each time.  
+    reliably, over and over, making the exact same thing each time.  Repeatably.
+    Verifiably.  In a way the correctness of the synthesis can be audited.  Amazing.  
   - There's also the final, official, all i's dotted, all t's crossed report on efficacy.
     In the paxlovid arm, $N_p = 1039$ subjects, of whom $K_p = 8$ were hospitalized.  In
     the placebo arm, $N_0 = 1046$ subjects, of whom $K_0 = 66$ were hospitalized.  My
@@ -110,7 +111,7 @@ got, working forward from the press release and following links:
   EUA.  <sup id="fn7a">[[7]](#fn7)</sup>  This one goes on for 11 pages; I'm always
   surprised at how long they are.  
   - Some of it is detail about which sections of the FDA Act apply.  If you care about
-    that, you're probably a lawyer and don't need me to tell you about it.  If you care
+    that, then you're probably a lawyer and don't need me to tell you about it.  If you care
     about it and are _not_ a lawyer, then I slightly fear you.  
   - It specifies the prescribing guidelines, the appearance of the pills, the required
     package inserts, reporting adverse events, monthly reporting on viral variants
