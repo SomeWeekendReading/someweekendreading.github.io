@@ -77,7 +77,7 @@ got, working forward from the press release and following links:
     the usual HIV cocktail.  (The HIV cocktail is a complicated combination designed to
     make it hard for the HIV virus to evade all of them.  But just 1, it can evade.)  
 <img src="{{ site.baseurl }}/images/2021-12-22-paxlovid-approved-nirmatrelvir.jpg" width="200" height="183" alt="Struture of nirmatrelvir" title="Struture of nirmatrelvir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2021-12-22-paxlovid-approved-ritonavir.jpg" width="400" height="162" alt="Structure of ritonavir" title="Structure of ritonavir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-12-22-paxlovid-approved-ritonavir.jpg" width="451" height="183" alt="Structure of ritonavir" title="Structure of ritonavir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
   - The former pharma nerd in me can't resist the structural diagrams for nirmatrelvir and
     ritonavir.  I always admired med chemists: not only can they make these
     battleship-sized molecules, but they can design a scalable pipeline that does it
