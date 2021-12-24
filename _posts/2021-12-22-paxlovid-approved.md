@@ -126,7 +126,7 @@ So, no big surprises.  Other than that it got done so suddenly, without an advis
 meeting.  
 
 
-## And in related news: molnupiravir is also legal  
+## Addendum 2021-Dec-23: And in related news&hellip; molnupiravir is _also_ legal  
 
 Honestly, I though Merck's molnupiravir was dead in the water:
 [equivocal recommendation from the AMDAC](https://www.someweekendreading.blog/fda-molnupiravir/),
