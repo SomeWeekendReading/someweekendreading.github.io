@@ -22,7 +22,8 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## or
 ##
-## > postStats(year = 2021)
+## > postStats(year = 2020L, txFile = "post-stats-2020-yearend.txt")
+## > postStats(year = 2021L, txFile = "post-stats-2021-yearend.txt")
 ##
 ## or
 ##
@@ -44,43 +45,46 @@ library("RCurl")                                       # For getURLContent()
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
 ##     See: https://www.r-bloggers.com/2012/09/example-10-3-enhanced-scatterplot-with-marginal-histograms/
 postStats <- function(## Inputs
-                      clearVars   = c("postData", "postDataSaved", "plotDone"),
-                      year        = NA,
+                      clearVars     = c("postData", "postDataSaved", "plotDone"),
+                      year          = NA,
                       ## Most of the time, these defaults are what you want
-                      postsDir    = "../_posts",       # Local repository of posts & comments
+                      postsDir      = "../_posts",     # Local repository of posts & comments
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
-                      postPatt    = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
-                      commentsDir = "../_data/comments",
-                      commentPatt = "^entry.*\\.yml$", # What comment files look like
+                      postPatt      = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
+                      commentsDir   = "../_data/comments",
+                      commentPatt   = "^entry.*\\.yml$",
                       ## 1 capture group: get the integer value from the JSON returned
-                      jsonRegexp  = "^\\{.*\"value\":([0-9]+).*\\}$",
-                      blogName    = "www.someweekendreading.blog",
-                      countURL    = sprintf("https://api.countapi.xyz/get/%s", blogName),
-                      startDate   = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
-                      today       = Sys.Date(),        # Today is when hits get measured
-                      plotWidth   = 800,               # Shape of hits/comments vs time plot
-                      plotHeight  = plotWidth,         # 2x2 array of plots, so why not square?
-                      clGray      = gray(level = 0.80, alpha = 0.50),
+                      jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$",
+                      blogName      = "www.someweekendreading.blog",
+                      countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
+                      hitStartDate  = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
+                      postStartDate = as.Date("2020-Jul-01", format = "%Y-%b-%d"),
+                      today         = Sys.Date(),      # Today is when hits get measured
+                      plotWidth     = 800,             # Shape of hits/comments vs time plot
+                      plotHeight    = plotWidth,       # 2x2 array of plots, so why not square?
+                      clGray        = gray(level = 0.80, alpha = 0.50),
 
-                      ## Outputs (most of the time, these defaults are what you want)
+                      ## Outputs (most of the time, these defaults are what you want, except txFile)
                       destDir  = "../_drafts",         # Directory where results get written
                       txFile   = sprintf("post-stats-%s.txt", format(today, format = "%Y-%b-%d")),
                       dataFile = if (is.null(txFile))
                                    NULL
                                  else
                                    sub("^(.*)\\.txt$", "\\1.tsv", txFile),
-                      plotFile = if (is.null(dataFile))# If no transcript file
+                      plotFile = if (is.null(txFile))  # If no transcript file
                                    NULL                # Then no plot file
                                  else                  # Else derive plot file from transcript file
                                    sub("^(.*)\\.txt$", "\\1.png", txFile)) {
 
-  getPostData <- function(startDate, today, postsDir, postPatt, jsonRegexp, countURL,
-                          commentsDir, commentPatt, year) {
+  getPostData <- function(postStartDate, hitStartDate, today, postsDir, postPatt, jsonRegexp,
+                          countURL, commentsDir, commentPatt, year) {
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
+                      "\n  - Date posts started:        %s",
                       "\n  - Date hit counting started: %s",
                       "\n  - Today:                     %s\n",
                       sep = ""),                       #  and today, so measuring blog hits btw dates
-                format(startDate, format = "%Y-%b-%d"),#
+                format(postStartDate, format = "%Y-%b-%d"),
+                format(hitStartDate, format = "%Y-%b-%d"),
                 format(today,     format = "%Y-%b-%d")))
     postFiles <- list.files(path = postsDir, pattern = postPatt)
     cat(sprintf("\n* Found %d posts to check for hit counts.\n", length(postFiles)))
@@ -107,12 +111,15 @@ postStats <- function(## Inputs
                                                             gsub("/", "\\.",
                                                                  URLencode(sprintf("/%s/",
                                                                                    postRoot))))))),
-                 HitsStart    = startDate,             # Keep track of when we started counting,
+                 HitsStart    = hitStartDate,             # Keep track of when we started counting,
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
     ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
     if (!is.na(year)) {                                # Wants to restrict to a single year
+      stopifnot(is.integer(year)                                &&
+                as.integer(format(postStartDate, "%Y")) <= year &&
+                year                                    <= as.integer(format(Sys.Date(), "%Y")))
       cat(sprintf("\n* Restricting data to just the year %d", year))
       minDate <- as.Date(sprintf("%d-Jan-01", year), format = "%Y-%b-%d")
       maxDate <- as.Date(sprintf("%d-Dec-31", year), format = "%Y-%b-%d")
@@ -257,7 +264,7 @@ postStats <- function(## Inputs
 
     heraldPhase("Getting hit count for each post")     # Announce what we're doing
     maybeAssign("postData", function() {               # Collect hit count for each post
-      getPostData(startDate, today, postsDir, postPatt, jsonRegexp, countURL,
+      getPostData(postStartDate, hitStartDate, today, postsDir, postPatt, jsonRegexp, countURL,
                   commentsDir, commentPatt, year)      #
     })                                                 # Done retrieving counts
 
