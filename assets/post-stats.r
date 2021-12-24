@@ -29,6 +29,9 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 ##
 
+## *** Scatterplot comments vs hits?  Each point is a post.
+## *** Some kind of bicluster of comments & hits?
+##     Maybe count posts in boxes by comment number and hit decile?
 ## *** Ability to isolate a particular calendar year (in getPostData()?)
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
