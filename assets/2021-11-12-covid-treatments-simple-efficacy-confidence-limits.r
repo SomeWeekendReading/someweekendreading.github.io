@@ -23,6 +23,16 @@ library("gsDesign")                                    # For ciBinomial()
 ##  LCL  Eff  UCL
 ## 0.46 1.00 1.00
 ##
+## Paxlovid final report, hospitalizations:
+## > signif(efficacyAndCL(1039, 8, 1046, 66), digits = 3)
+##   LCL   Eff   UCL
+## 0.751 0.878 0.940
+##
+## Paxlovid final report, deaths:
+## > signif(efficacyAndCL(1039, 0, 1046, 12), digits = 3)
+##   LCL   Eff   UCL
+## 0.679 1.000 1.000
+##
 ## Try the qBetaRatio() method here?  Are these numbers small enough for the naive implementation?
 ## For molnumpiravir
 ## > 1 - medianCLBetaRatio(28 + 1, 384 - 28 + 1, 53 + 1, 376 - 53 + 1, 0.05, 0, 10)
