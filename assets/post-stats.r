@@ -22,6 +22,10 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## or
 ##
+## > postStats(year = 2021)
+##
+## or
+##
 ## > postStats(clear = c("postData", "postDataSaved", "plotDone")) # or a subset of those
 ##
 ## or
@@ -30,15 +34,18 @@ library("RCurl")                                       # For getURLContent()
 ##
 
 ## *** Scatterplot comments vs hits?  Each point is a post.
+##     > plot(x = postData$"PostComments", y = postData$"PostHits", pch = 21, bg = "blue", xlab = "PostComments", ylab = "PostHits", log = "y")
+##     Barfs getting bandwidth in comment direction:
+##     > scatterplotWithDensities(xs = postData$"PostComments", ys = postData$"PostHits", bg = "blue", xlab = "PostHits", ylab = "PostComments", main = "Hits vs Comments", log = "y")
 ## *** Some kind of bicluster of comments & hits?
-##     Maybe count posts in boxes by comment number and hit decile?
-## *** Ability to isolate a particular calendar year (in getPostData()?)
+##     Maybe count posts in boxes by comment number and hit decile?  (7 comment x 10 hit levels)
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
 ##     See: https://www.r-bloggers.com/2012/09/example-10-3-enhanced-scatterplot-with-marginal-histograms/
 postStats <- function(## Inputs
                       clearVars   = c("postData", "postDataSaved", "plotDone"),
+                      year        = NA,
                       ## Most of the time, these defaults are what you want
                       postsDir    = "../_posts",       # Local repository of posts & comments
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
@@ -58,14 +65,17 @@ postStats <- function(## Inputs
                       ## Outputs (most of the time, these defaults are what you want)
                       destDir  = "../_drafts",         # Directory where results get written
                       txFile   = sprintf("post-stats-%s.txt", format(today, format = "%Y-%b-%d")),
-                      dataFile = sprintf("post-stats-%s.tsv", format(today, format = "%Y-%b-%d")),
-                      plotFile = if (is.null(dataFile))# If no data file
+                      dataFile = if (is.null(txFile))
+                                   NULL
+                                 else
+                                   sub("^(.*)\\.txt$", "\\1.tsv", txFile),
+                      plotFile = if (is.null(dataFile))# If no transcript file
                                    NULL                # Then no plot file
-                                 else                  # Else derive plot file from data file
-                                   sub("^(.*)\\.tsv$", "\\1.png", dataFile)) {
+                                 else                  # Else derive plot file from transcript file
+                                   sub("^(.*)\\.txt$", "\\1.png", txFile)) {
 
   getPostData <- function(startDate, today, postsDir, postPatt, jsonRegexp, countURL,
-                          commentsDir, commentPatt) {  #
+                          commentsDir, commentPatt, year) {
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
                       "\n  - Date hit counting started: %s",
                       "\n  - Today:                     %s\n",
@@ -101,10 +111,16 @@ postStats <- function(## Inputs
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
+    ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
+    if (!is.na(year)) {                                # Wants to restrict to a single year
+      cat(sprintf("\n* Restricting data to just the year %d", year))
+      minDate <- as.Date(sprintf("%d-Jan-01", year), format = "%Y-%b-%d")
+      maxDate <- as.Date(sprintf("%d-Dec-31", year), format = "%Y-%b-%d")
+      postData <- subset(postData, subset = minDate <= PostDate & PostDate <= maxDate)
+    }                                                  # postData is now just for that year
+
     cat(sprintf("\n  - Result: %d rows of data:\n", nrow(postData)))
     showDataframeHeadTail(postData)                    # Show first few and last few rows
-
-    ## *** Maybe restrict to a particular year here
 
     postData                                           # Return data for posts
   }                                                    #
@@ -123,7 +139,8 @@ postStats <- function(## Inputs
 
   plotDataVsTime <- function(postData, blogName, clGray, plotWidth, plotHeight, destDir, plotFile) {
 
-    scatterplotWithLOESS <- function(postData, colName, clGray, log, main, hitsStart, histBreaks) {
+    scatterplotWithLOESS <- function(postData, colName, clGray, log, main, hitsStart, histBreaks,
+                                     barPlot = FALSE) {#
       withPars(function() {                            # Set label orientation & add space @ bottom
         plot(panel.first = {                           # First do LOESS plot & 95%CL
           ## LOESS fit and 95% confidence interval as a function of time.  Imitated from example at:
@@ -178,7 +195,7 @@ postStats <- function(## Inputs
                  col    = c("black",           "black",               clGray,    "gray",   "gray"),
                  lty    = c(NA,                "solid",               "dashed",  "solid",  "dashed"),
                  lwd    = c(NA,                2,                     NA,        1,        1),
-                 legend = c("Individual post", "LOESS central trend", "95% confidence interval",
+                 legend = c("Individual post", "LOESS central trend", "LOESS 95% confidence interval",
                             "Year boundary", sprintf("Hit counting started: %s",
                                                      postData[1, hitsStart])))
         } else                                         # Else don't show hit count start; diff legend
@@ -189,24 +206,28 @@ postStats <- function(## Inputs
                  col    = c("black",           "black",               clGray,   "gray"),
                  lty    = c(NA,                "solid",               "dashed", "solid"),
                  lwd    = c(NA,                2,                     NA,       1),
-                 legend = c("Individual post", "LOESS central trend", "95% confidence interval",
+                 legend = c("Individual post", "LOESS central trend", "LOESS 95% confidence interval",
                             "Year boundary"))          #
 
       }, las = 3,                                      # Always vertical labels, both axes
          mar = c(7.5, 3, 2, 1))                        # Extra margin @ bottom for date labels
 
-      hist(postData[, colName], xlab = colName, ylab = sprintf("Freq(%s)", colName),
-           main = sprintf("%s Frequency Distribution", colName), col = "blue", breaks = histBreaks)
+      if (barPlot)                                     # Barplot for too few vals to histogram
+        barplot(height = table(postData[, colName]), col = "blue",
+                xlab = colName, ylab = sprintf("Freq(%s)", colName),
+                main = sprintf("%s Frequency Distribution", colName))
+      else                                             # Else ordinary histogram
+        hist(postData[, colName], xlab = colName, ylab = sprintf("Freq(%s)", colName),
+             main = sprintf("%s Frequency Distribution", colName), col = "blue", breaks = histBreaks)
     }                                                  #
 
     f <- if (is.null(plotFile)) NULL else file.path(destDir, plotFile)
     withPNG(f, plotWidth, plotHeight, FALSE, function() {
       withPars(function() {                            # Save/restore graphics parameters
 
-        scatterplotWithLOESS(postData, "PostHits",     clGray, "y", "Hits vs Time",     "HitsStart",
-                             20)                       #
-        scatterplotWithLOESS(postData, "PostComments", clGray, "",  "Comments vs Time", NULL,
-                             20)#max(postData$"PostComments" + 2)) # *** how does this work?
+        scatterplotWithLOESS(postData, "PostHits", clGray, "y", "Hits vs Time", "HitsStart", 20)
+        scatterplotWithLOESS(postData, "PostComments", clGray, "",  "Comments vs Time", NULL, NULL,
+                             barPlot = TRUE)           # Too few distinct comment vals for histogram
 
         title(main = sprintf("%s Hits & Comments %s: %d posts",
                              blogName,                 # Overall title of all plots
@@ -237,7 +258,7 @@ postStats <- function(## Inputs
     heraldPhase("Getting hit count for each post")     # Announce what we're doing
     maybeAssign("postData", function() {               # Collect hit count for each post
       getPostData(startDate, today, postsDir, postPatt, jsonRegexp, countURL,
-                  commentsDir, commentPatt)            #
+                  commentsDir, commentPatt, year)      #
     })                                                 # Done retrieving counts
 
     heraldPhase("Saving results")                      # Save the results, maybe
