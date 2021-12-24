@@ -34,12 +34,12 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 ##
 
-## *** Scatterplot comments vs hits?  Each point is a post.
+## *** Some kind of bicluster of comments & hits?
+##     Maybe count posts in boxes by comment number and hit decile?  (7 comment x 10 hit levels)
+## *** Scatterplot comments vs hits?  Each point is a post.  Too few comment levels to see much.
 ##     > plot(x = postData$"PostComments", y = postData$"PostHits", pch = 21, bg = "blue", xlab = "PostComments", ylab = "PostHits", log = "y")
 ##     Barfs getting bandwidth in comment direction:
 ##     > scatterplotWithDensities(xs = postData$"PostComments", ys = postData$"PostHits", bg = "blue", xlab = "PostHits", ylab = "PostComments", main = "Hits vs Comments", log = "y")
-## *** Some kind of bicluster of comments & hits?
-##     Maybe count posts in boxes by comment number and hit decile?  (7 comment x 10 hit levels)
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
