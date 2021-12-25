@@ -51,8 +51,8 @@ moon.  Never gonna get serviced, like the Hubble was.  Whatever's there has to l
 entirety of the 10 year mission.  
 
 So it's important that the launch go _perfectly:_ any use of fuel to correct mistakes here
-is fuel lost to the rest of the mission, insofar as the booster and the telescope
-propulsion interact at all.  
+is fuel lost to the rest of the mission (insofar as the booster and the telescope
+propulsion interact at all).  
 
 The result so far:  
 - successful launch, with insertion into the transfer orbit to L2  
