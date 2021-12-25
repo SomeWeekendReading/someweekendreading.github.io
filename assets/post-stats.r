@@ -253,15 +253,28 @@ postStats <- function(## Inputs
 
     f2 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
     withPNG(f2, plotWidth / 2, plotHeight / 2, FALSE, function() {
-      xs <- postData$"PostComments"                    #
+      ys <- postData$"PostComments"                    #
       withPars(function() {                            #
-        scatterplotWithDensities(xs = xs,              #
-                                 ys = postData$"PostHits",
-                                 xlab = "PostComments", ylab = "PostHits", main = "Comments vs Hits",
-                                 bg = "blue", log = "y", nLevels = 20, kdeN = 100,
-                                 kdeH = c(4 * 1.06 * sqrt(var(xs)) * length(xs)^(-1/5),
-                                          bandwidth.nrd(postData$"PostHits")),
-                                 regressionColor = "red")
+        scatterplotWithDensities(xs = postData$"PostHits",
+                                 ys = ys,              #
+                                 xlab = "PostHits (log scale)", ylab = "PostComments",
+                                 main = "Hits vs Comments",
+                                 bg = "blue", log = "x", nLevels = 20, kdeN = 100,
+                                 ## Too few comment levels, so give comment bandwidth manually;
+                                 ## heuristic derived from bandwidth.nrd()
+                                 kdeH = c(bandwidth.nrd(postData$"PostHits"),
+                                          4 * 1.06 * sqrt(var(ys)) * length(ys)^(-1/5)),
+                                 regressionColor = NULL) ## Figure out how to handle log scale
+
+        mdl <<- lm(PostComments ~ log(PostHits), data = postData)
+        cat("\n\n"); print(summary(mdl))               #
+        ## *** Figure out untf arg, make scatterPlotWithDensities() do this right
+        ## > abline(reg = mdl, lty = "dashed", col = "red", lwd = 2, untf = TRUE)
+        ## > abline(reg = mdl, lty = "dashed", col = "red", lwd = 2, untf = FALSE)
+        foo <- data.frame(x = postData$"PostHits", y = predict(mdl))
+        foo <- foo[order(foo$"x"), ]                   #
+        lines(x = foo$"x", y = foo$"y", lty = "dashed", lwd = 2, col = "red")
+
       }, pty = "m",                                    #
          bg  = "white",                                #
          ps  = 16,                                     #
@@ -269,9 +282,6 @@ postStats <- function(## Inputs
          mgp = c(1.7, 0.5, 0))                         #
     })                                                 #
     cat(sprintf("\n\n* Scatterplot: %s.\n", f2))       # Capture filename to transcript
-    print(summary(lm(PostHits ~ PostComments, data = postData)))
-    print(summary(lm(log(PostHits) ~ PostComments, data = postData)))
-    ## cor.test(x = postData$"PostComments", y = log(postData$"PostHits"))
 
     TRUE                                               # Flag that it was done
   }                                                    #
