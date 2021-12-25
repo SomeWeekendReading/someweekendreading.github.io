@@ -38,8 +38,8 @@ library("RCurl")                                       # For getURLContent()
 ##     Maybe count posts in boxes by comment number and hit decile?  (7 comment x 10 hit levels)
 ## *** Scatterplot comments vs hits?  Each point is a post.  Too few comment levels to see much.
 ##     > plot(x = postData$"PostComments", y = postData$"PostHits", pch = 21, bg = "blue", xlab = "PostComments", ylab = "PostHits", log = "y")
-##     Barfs getting bandwidth in comment direction:
-##     > scatterplotWithDensities(xs = postData$"PostComments", ys = postData$"PostHits", bg = "blue", xlab = "PostHits", ylab = "PostComments", main = "Hits vs Comments", log = "y")
+##     Barfs getting bandwidth in comment direction: bandwidth.nrd(postData$"PostComments") = 0
+##     > scatterplotWithDensities(xs = postData$"PostComments", ys = postData$"PostHits", bg = "blue", xlab = "PostComments", ylab = "PostHits", main = "Comments vs Hits", log = "y")
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
