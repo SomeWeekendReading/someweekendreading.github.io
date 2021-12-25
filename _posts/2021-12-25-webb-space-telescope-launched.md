@@ -32,9 +32,26 @@ away from Earth and can never be serviced or have its resources replenished.
 
 Unlike the visible-light Hubble, the Webb will operate in the infrared.  This is
 appropriate: very old things, which are now very far away because of the expansion of the
-universe, are now heavily red-shifted and so IR is where the action is.  But that means it
-needs to operate at cryogenic temperature, and have an elaborate heat shield to block the
-sun (and for that matter, the earth) which are sources of heat.  
+universe, are now heavily red-shifted and so IR is where the action is:  
+- the universe is about 13.8 billion years old  
+- the earliest and most distant galaxy the Hubble can see in visible light was formed at
+  about 0.4 billion years into the universe's life  
+- the earliest stars seem to have appeared when the univers was about 0.1 billion years
+  old.  
+  
+So by going to infrared, we can see about 300 million years further back than we can in
+visible light, to probe what's jokingly called the "Dark Ages" whose visible light is no
+longer visible because it's redshifted to infrared.  
+
+And, of course, serendipity: when you look with a new method, you almost always see
+something new.  As your humble Weekend Editor is
+[fond of saying]({{ site.baseurl }}/quotes/#your-humble-weekend-editor):  
+
+> You can't plan serendipity &mdash; give _chance_ a chance!  
+
+But that means the JWST detectors need to operate at cryogenic temperature, and thus have an
+elaborate heat shield to block the sun (and for that matter, the earth) which are sources
+of sufficient heat to be annoying.  
 
 <a href="{{ site.baseurl }}/images/2021-12-25-webb-space-telescope-launched-earth-sun-lagrange-points.png"><img src="{{ site.baseurl }}/images/2021-12-25-webb-space-telescope-launched-earth-sun-lagrange-points-thumb.jpg" width="400" height="277" alt="_Scientific American_: Earth-Sun Lagrange Points" title="_Scientific American_: Earth-Sun Lagrange Points" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The solution is to operate (sort of) at
