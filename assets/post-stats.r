@@ -34,12 +34,11 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 ##
 
+## *** Scatterplot comments vs hits?  Each point is a post.  Too few comment levels to see much.
+##     > scatterplotWithDensities(xs = postData$"PostComments", ys = postData$"PostHits", bg = "blue", xlab = "PostComments", ylab = "PostHits", main = "Comments vs Hits", log = "y", nLevels = 20, kdeN = 100, kdeH = c(4*1.06*sqrt(var(postData$"PostComments")) * length(postData$"PostComments")^(-1/5), bandwidth.nrd(postData$"PostHits")), regressionColor = "red")
+##     > summary(lm(PostHits ~ PostComments, data = postData))
 ## *** Some kind of bicluster of comments & hits?
 ##     Maybe count posts in boxes by comment number and hit decile?  (7 comment x 10 hit levels)
-## *** Scatterplot comments vs hits?  Each point is a post.  Too few comment levels to see much.
-##     > plot(x = postData$"PostComments", y = postData$"PostHits", pch = 21, bg = "blue", xlab = "PostComments", ylab = "PostHits", log = "y")
-##     Barfs getting bandwidth in comment direction: bandwidth.nrd(postData$"PostComments") = 0
-##     > scatterplotWithDensities(xs = postData$"PostComments", ys = postData$"PostHits", bg = "blue", xlab = "PostComments", ylab = "PostHits", main = "Comments vs Hits", log = "y")
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
@@ -250,7 +249,30 @@ postStats <- function(## Inputs
          mar   = c(3, 3, 2, 1),                        # Pull in on margins
          mgp   = c(1.7, 0.5, 0))                       # Axis title, label, tick
     })                                                 # Done with file capture
-    cat(sprintf("* Data vs time plot: %s.\n", f))      # Capture filename to transcript
+    cat(sprintf("* Data vs time plot: %s.", f))        # Capture filename to transcript
+
+    f2 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
+    withPNG(f2, plotWidth / 2, plotHeight / 2, FALSE, function() {
+      xs <- postData$"PostComments"                    #
+      withPars(function() {                            #
+        scatterplotWithDensities(xs = xs,              #
+                                 ys = postData$"PostHits",
+                                 xlab = "PostComments", ylab = "PostHits", main = "Comments vs Hits",
+                                 bg = "blue", log = "y", nLevels = 20, kdeN = 100,
+                                 kdeH = c(4 * 1.06 * sqrt(var(xs)) * length(xs)^(-1/5),
+                                          bandwidth.nrd(postData$"PostHits")),
+                                 regressionColor = "red")
+      }, pty = "m",                                    #
+         bg  = "white",                                #
+         ps  = 16,                                     #
+         mar = c(3, 3, 2, 1),                          #
+         mgp = c(1.7, 0.5, 0))                         #
+    })                                                 #
+    cat(sprintf("\n\n* Scatterplot: %s.\n", f2))       # Capture filename to transcript
+    print(summary(lm(PostHits ~ PostComments, data = postData)))
+    print(summary(lm(log(PostHits) ~ PostComments, data = postData)))
+    ## cor.test(x = postData$"PostComments", y = log(postData$"PostHits"))
+
     TRUE                                               # Flag that it was done
   }                                                    #
 
