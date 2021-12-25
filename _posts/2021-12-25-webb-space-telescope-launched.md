@@ -74,7 +74,7 @@ propulsion interact at all).
 The result so far:  
 - successful launch, with insertion into a highly elliptic earth orbit (to do the
   unfolding and testing before insertion to a transfer orbit to L2)  
-- the telescope is confirmed to be receiving power  
+- the telescope is confirmed to be receiving power from its solar array  
 - it will take about a month for it to unfold and deploy completely, test systems,
   and move into position at the L2 point with double-checked communication with Earth.  
 
