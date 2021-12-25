@@ -47,8 +47,12 @@ It keeps the major heat sources (the sun and the earth) behind the heat shield, 
 relatively gravitationally stable, and close enough to the earth for reasonably
 high-bandwidth communication (S-band up: 16 kbit/s, S-band down: 40 kbit/s, Ka-band down:
 up to 28 Mbit/s).  But&hellip; it's a million miles away, about 4 times as far as the
-moon.  Nevery gonna get serviced, like the Hubble was.  Whatever's there has to last the
+moon.  Never gonna get serviced, like the Hubble was.  Whatever's there has to last the
 entirety of the 10 year mission.  
+
+So it's important that the launch go _perfectly:_ any use of fuel to correct mistakes here
+is fuel lost to the rest of the mission, insofar as the booster and the telescope
+propulsion interact at all.  
 
 The result so far:  
 - successful launch, with insertion into the transfer orbit to L2  
