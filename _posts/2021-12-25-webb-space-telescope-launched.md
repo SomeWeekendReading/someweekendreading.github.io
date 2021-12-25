@@ -72,7 +72,8 @@ is fuel lost to the rest of the mission (insofar as the booster and the telescop
 propulsion interact at all).  
 
 The result so far:  
-- successful launch, with insertion into the transfer orbit to L2  
+- successful launch, with insertion into a highly elliptic earth orbit (to do the
+  unfolding and testing before insertion to a transfer orbit to L2)  
 - the telescope is confirmed to be receiving power  
 - it will take about a month for it to unfold and deploy completely, test systems,
   and move into position at the L2 point with double-checked communication with Earth.  
