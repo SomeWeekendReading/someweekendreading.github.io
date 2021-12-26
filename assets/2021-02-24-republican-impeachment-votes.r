@@ -174,10 +174,10 @@ doit <- function(## Inputs
               xaxt = "n", ylab = NA, xlab = NA)        #
         box(which = "plot")                            #
       }, pty = "m",                                    # Maximal plotting area
-      bg  = "transparent",                             # Transparent background
-      ps  = 10,                                        # Larger type size for file capture
-      omd = c(legendFrac, 1, 0, 1),                    # Leave room for color bar legend
-      mar = c(1, 2, 1, 1))                             # Pull in on margins
+         bg  = "transparent",                          # Transparent background
+         ps  = 10,                                     # Larger type size for file capture
+         omd = c(legendFrac, 1, 0, 1),                 # Leave room for color bar legend
+         mar = c(1, 2, 1, 1))                          # Pull in on margins
     })                                                 # Done capturing graphics to file
     cat(sprintf("\n* Correlation bicluster of predictors to %s", f))
     TRUE                                               # Flag that it's been done

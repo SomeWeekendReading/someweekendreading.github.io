@@ -34,11 +34,6 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
 ##
 
-## *** Scatterplot comments vs hits?  Each point is a post.  Too few comment levels to see much.
-##     > scatterplotWithDensities(xs = postData$"PostComments", ys = postData$"PostHits", bg = "blue", xlab = "PostComments", ylab = "PostHits", main = "Comments vs Hits", log = "y", nLevels = 20, kdeN = 100, kdeH = c(4*1.06*sqrt(var(postData$"PostComments")) * length(postData$"PostComments")^(-1/5), bandwidth.nrd(postData$"PostHits")), regressionColor = "red")
-##     > summary(lm(PostHits ~ PostComments, data = postData))
-## *** Some kind of bicluster of comments & hits?
-##     Maybe count posts in boxes by comment number and hit decile?  (7 comment x 10 hit levels)
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
@@ -253,8 +248,8 @@ postStats <- function(## Inputs
 
     f2 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
     withPNG(f2, plotWidth / 2, plotHeight / 2, FALSE, function() {
-      ys <- postData$"PostComments"                    #
-      withPars(function() {                            #
+      ys <- postData$"PostComments"                    # Regression of comments on hits in
+      withPars(function() {                            #  scatterplot of comments vs hits
         scatterplotWithDensities(xs = postData$"PostHits",
                                  ys = ys,              #
                                  xlab = "PostHits (log scale)", ylab = "PostComments",
@@ -266,14 +261,26 @@ postStats <- function(## Inputs
                                           4 * 1.06 * sqrt(var(ys)) * length(ys)^(-1/5)),
                                  regressionColor = NULL) ## Figure out how to handle log scale
 
-        mdl <<- lm(PostComments ~ log(PostHits), data = postData)
-        cat("\n\n"); print(summary(mdl))               #
+        mdl    <<- lm(PostComments ~ log(PostHits), data = postData)
+        mdlSum <<- summary(mdl)
+        cat("\n\n"); print(mdlSum)                     # Show regression stats
         ## *** Figure out untf arg, make scatterPlotWithDensities() do this right
         ## > abline(reg = mdl, lty = "dashed", col = "red", lwd = 2, untf = TRUE)
         ## > abline(reg = mdl, lty = "dashed", col = "red", lwd = 2, untf = FALSE)
         foo <- data.frame(x = postData$"PostHits", y = predict(mdl))
-        foo <- foo[order(foo$"x"), ]                   #
+        foo <- foo[order(foo$"x"), ]                   # Plot log-linear fit
         lines(x = foo$"x", y = foo$"y", lty = "dashed", lwd = 2, col = "red")
+        coefData <- coef(mdlSum)
+        legend("topleft", bg = "antiquewhite", inset = 0.01, title = "Regression", cex = 0.8,
+               legend = c(sprintf("Slope = %.2f (t-stat p ~ %.1e)",
+                                  coefData[["log(PostHits)", "Estimate"]],
+                                  coefData[["log(PostHits)", "Pr(>|t|)"]]),
+                          sprintf("F-stat p ~ %.1e, Adj R^2 ~ %.1f%%",
+                                  pf(mdlSum$"fstatistic"[[1]],
+                                     mdlSum$"fstatistic"[[2]],
+                                     mdlSum$"fstatistic"[[3]],
+                                     lower.tail = FALSE),
+                                  100.0 * mdlSum$"adj.r.squared")))
 
       }, pty = "m",                                    #
          bg  = "white",                                #
@@ -282,6 +289,50 @@ postStats <- function(## Inputs
          mgp = c(1.7, 0.5, 0))                         #
     })                                                 #
     cat(sprintf("\n\n* Scatterplot: %s.\n", f2))       # Capture filename to transcript
+
+    qs  <- quantile(postData$"PostHits", probs = seq(from = 0.00, to = 1.00, by = 0.10))
+    foo <- transform(postData,                         # Original data with hit quantile column
+                     PostHitsDecile = cut(postData$"PostHits",
+                                          breaks         = qs,
+                                          labels         = names(qs)[-11],
+                                          include.lowest = TRUE,
+                                          ordered_result = TRUE))
+    tbl <<- table(foo$"PostComments", foo$"PostHitsDecile")
+    print(tbl)                                         # Table of comments x hits, for bicluster
+    f3  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
+    withPNG(f3, plotWidth, plotHeight, FALSE, function() {
+      legendFrac <- 0.13                               # How much space on left for color legend
+      withPars(function() {                            # Save/restore graphics parameters
+        ctRange   <- range(tbl)                        # Range of counts in table
+        nColors   <- min(diff(ctRange) + 1, 256)       # Colors used in bicluster
+        colors    <- makeSaturableHeatmapColorsBWR(nColors,
+                                                   minObs = ctRange[[1]], maxObs = ctRange[[2]])
+
+        heatmapRespectFALSE(tbl, scale = "none", col = colors,
+                            margins = c(1.5 * max(nchar(colnames(tbl))),
+                                        2.5 * max(nchar(rownames(tbl)))),
+                            main = "Comment/Hit Bicluster",
+                            xlab = "Hit Decile", ylab = "Comments",
+                            add.expr = {box(which = "plot")})
+
+        par(omd = c(0.02, legendFrac, 0, 1), pty = "m", mar = c(1, 3, 1, 1), new = TRUE)
+        image(x    = 0,                                # draw the color bar
+              y    = seq(from = ctRange[[1]], to = ctRange[[2]], along.with = colors),
+              z    = matrix(1 : length(colors), ncol = length(colors)),
+              cex.axis = 0.9,                          # Smaller labels
+              ylim = ctRange,                          # Show range of POSSIBLE correlations
+              col  = colors,                           # Heatmap colors
+              xaxt = "n", ylab = "Post Count", xlab = NA)
+        box(which = "plot")                            # Box around the color legend
+
+      }, pty = "m",                                    # Maximal plotting area
+         bg  = "white",                                # White background
+         omd = c(legendFrac, 1, 0, 0.99),              # Leave room for color bar legend
+         ps  = 16,                                     # Larger type for file capture
+         mar = c(1, 1, 0.9, 1),                        # Margins: title inexplicably cropped @ top?
+         mgp = c(1.7, 0.5, 0))                         # Axis title, label, tick
+    })                                                 #
+    cat(sprintf("\n\n* Bicluster: %s\n", f3))          # Capture dest file to transcript
 
     TRUE                                               # Flag that it was done
   }                                                    #
