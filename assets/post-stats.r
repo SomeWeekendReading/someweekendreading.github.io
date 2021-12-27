@@ -265,8 +265,8 @@ postStats <- function(## Inputs
                                           4 * 1.06 * sqrt(var(ys)) * length(ys)^(-1/5)),
                                  regressionColor = NULL) ## Figure out how to handle log scale
 
-        mdl    <<- lm(PostComments ~ log(PostHits), data = postData)
-        mdlSum <<- summary(mdl)
+        mdl    <- lm(PostComments ~ log(PostHits), data = postData)
+        mdlSum <- summary(mdl)                         # Extract details of regression results
         cat("\n\n"); print(mdlSum)                     # Show regression stats
         ## *** Figure out untf arg, make scatterPlotWithDensities() do this right
         ## > abline(reg = mdl, lty = "dashed", col = "red", lwd = 2, untf = TRUE)
@@ -315,11 +315,10 @@ postStats <- function(## Inputs
         heatmapRespectFALSE(tbl, scale = "none", col = colors,
                             margins = c(1.5 * max(nchar(colnames(tbl))),
                                         2.5 * max(nchar(rownames(tbl)))),
-                            main = "Comment/Hit Bicluster",
-                            xlab = "Hit Decile", ylab = "Comments",
+                            main = "Comment/Hit Bicluster", xlab = "Hit Decile", ylab = "Comments",
                             add.expr = {box(which = "plot")})
 
-        par(omd = c(0.02, legendFrac, 0, 1), pty = "m", mar = c(1, 3, 1, 1), new = TRUE)
+        par(omd = c(0, legendFrac, 0, 1), pty = "m", mar = c(1, 3, 1, 1), new = TRUE)
         image(x    = 0,                                # draw the color bar
               y    = seq(from = ctRange[[1]], to = ctRange[[2]], along.with = colors),
               z    = matrix(1 : length(colors), ncol = length(colors)),
