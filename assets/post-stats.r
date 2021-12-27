@@ -13,25 +13,22 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## We peruse the local snapshot of the repository, looking for post markdown files (_posts/*.md),
 ## then interrogating the hit count server for the coresponding post keys (api.countapi.xyz/get).
+## We also delve into the _data/comments subdirectories, counting comments for each post.
 ##
-## This carefully uses the get rather than bump interface, so it doesn't alter the counter values.
+## This carefully uses the get (rather than bump) interface, so it doesn't alter the counter values.
 ##
-## Example:
+## Examples:
 ##
-## > postStats()
-##
-## or
-##
-## > postStats(year = 2020L, txFile = "post-stats-2020-yearend.txt")
-## > postStats(year = 2021L, txFile = "post-stats-2021-yearend.txt")
+## > postData <- postStats()
 ##
 ## or
 ##
-## > postStats(clear = c("postData", "postDataSaved", "plotDone")) # or a subset of those
+## > postData2020 <- postStats(year = 2020L, txFile = "post-stats-2020-yearend.txt")
+## > postData2021 <- postStats(year = 2021L, txFile = "post-stats-2021-yearend.txt")
 ##
 ## or
 ##
-## > postData <- transform(read.table("../_drafts/post-stats-2021-Nov-27.tsv", sep = "\t", header = TRUE), PostDate = as.Date(PostDate), HitsStart = as.Date(HitsStart), HitsEnd = as.Date(HitsEnd))
+## > postData <- postStats(clear = c("postData", "postDataSaved", "plotDone")) # or a subset of those
 ##
 
 ## *** Other stats: # images for each post, byte count including images for each post, ...
