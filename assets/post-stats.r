@@ -105,7 +105,7 @@ postStats <- function(## Inputs
                                                             gsub("/", "\\.",
                                                                  URLencode(sprintf("/%s/",
                                                                                    postRoot))))))),
-                 HitsStart    = hitStartDate,             # Keep track of when we started counting,
+                 HitsStart    = hitStartDate,          # Keep track of when we started counting,
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
@@ -301,7 +301,7 @@ postStats <- function(## Inputs
                                           labels         = names(qs)[-11],
                                           include.lowest = TRUE,
                                           ordered_result = TRUE))
-    tbl <<- table(foo$"PostComments", foo$"PostHitsDecile")
+    tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
     print(tbl)                                         # Table of comments x hits, for bicluster
     f3  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
     withPNG(f3, plotWidth, plotHeight, FALSE, function() {
