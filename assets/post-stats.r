@@ -109,8 +109,9 @@ postStats <- function(## Inputs
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
-    ## *** Number of posts broken down by year
-    ## cat(sprintf("\n\n* Breakdown of post counts by year:\n"))
+    cat(sprintf("\n\n* Breakdown of post counts by year:\n"))
+    print(ddply(transform(postData, Year = as.integer(format(PostDate, format = "%Y"))), "Year",
+                function(dfy) { data.frame(Year = dfy[1, "Year"], NPosts = nrow(dfy)) }))
 
     ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
     if (!is.na(year)) {                                # Wants to restrict to a single year
