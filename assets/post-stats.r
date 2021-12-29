@@ -31,6 +31,8 @@ library("RCurl")                                       # For getURLContent()
 ## > postData <- postStats(clear = c("postData", "postDataSaved", "plotDone")) # or a subset of those
 ##
 
+## *** Do regression in left half, splice in heatmap image in right half?
+## *** Something like tobit regression of comments on hits?
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
@@ -301,8 +303,8 @@ postStats <- function(## Inputs
     tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
     print(tbl)                                         # Table of comments x hits, for bicluster
     f3  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
-    withPNG(f3, plotWidth, plotHeight, FALSE, function() {
-      legendFrac <- 0.13                               # How much space on left for color legend
+    withPNG(f3, plotWidth/2, plotHeight/2, FALSE, function() {
+      legendFrac <- 0.20                               # How much space on left for color legend
       withPars(function() {                            # Save/restore graphics parameters
         ctRange   <- range(tbl)                        # Range of counts in table
         nColors   <- min(diff(ctRange) + 1, 256)       # Colors used in bicluster
