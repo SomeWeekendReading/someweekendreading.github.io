@@ -41,7 +41,7 @@ with the explanation that he hopes it will:
 
 > &hellip;make people happy and encourage them to go out to hike in a beautiful nature.  
 
-Make people happy.  Appreciate the beauty around them.  That's a version of the 
+Make people happy.  Appreciate the beauty around them.  _That's_ a version of the 
 [Divine Madness]({{ site.baseurl }}/tags/#TheDivineMadness).  
 
 May we all aspire to the same.  
