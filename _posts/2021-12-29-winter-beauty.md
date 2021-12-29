@@ -19,7 +19,7 @@ Well, more accurately: 1/3rd of us love winter.
 - The Weekend Publisher doesn't care much for it either, mostly because we take down his
   summer tent on the deck.  He then has to confine his winter backyard stalking activities to
   a little canvas hunting blind (a.k.a. "pet playpen"), as shown here.  (Perhaps he will
-  be happier when we build him a solarium on the deck with a cat door?)  
+  be happier when we build him a solarium on the deck, with a cat door?)  
 
 <img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap.jpg" width="400" height="151" alt="Olsen @ AP: Finnish winter art" title="Olsen @ AP: Finnish winter art" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-1.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-1-thumb.jpg" width="400" height="225" alt="Ephemeral art: 90m arctic fox on Lake Pitkajarvi near Helsinki" title="Ephemeral art: 90m arctic fox on Lake Pitkajarvi near Helsinki" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
