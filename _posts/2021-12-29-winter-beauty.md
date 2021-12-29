@@ -14,32 +14,33 @@ Here at Ch&acirc;teau Weekend, we love winter.
 
 Well, more accurately: 1/3rd of us love winter.  
 - The Weekend Editrix _despises_ winter, a position with which I sympathize but do not
-  understand.  
+  understand.   _Comme d'habitude._  
 - The Weekend Publisher doesn't care much for it either, mostly because we take down his
-  outdoor tent on the deck.  He then has to confine his winter backyard stalking activities to
-  a little canvas hunting blind (a.k.a. "pet playpen").  
+  summer tent on the deck.  He then has to confine his winter backyard stalking activities to
+  a little canvas hunting blind (a.k.a. "pet playpen").  (Perhaps he will be happier when
+  we build him a solarium on the deck?)  
 
 <img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap.jpg" width="400" height="151" alt="Olsen @ AP: Finnish winter art" title="Olsen @ AP: Finnish winter art" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-1.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-1-thumb.jpg" width="400" height="225" alt="Ephemeral art: 90m arctic fox on Lake Pitkajarvi near Helsinki" title="Ephemeral art: 90m arctic fox on Lake Pitkajarvi near Helsinki" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-2.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-2-thumb.jpg" width="400" height="225" alt="Ephemeral art: a closer view, with human at top left for scale" title="Ephemeral art: a closer view, with human at top left for scale" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3-thumb.jpg" width="400" height="226" alt="Ephemeral art: it's all about the snow shovel" title="Ephemeral art: it's all about the snow shovel" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Dear as those two are to your humble Weekend Editor, they are mistaken.  New evidence of the
+Dear as those two are to your humble Weekend Editor, they are both mistaken.  New evidence of the
 aesthetic error of having insufficient affection for winter comes from an _Associated
 Press_ article about a mad architect in Finland  <sup id="fn1a">[[1]](#fn1)</sup>  (where
 they do winter _professionally._)  
 
-The mad architect in question, Pasi Widgren, took to the shores of Lake Pitkajarvi north
+The mad architect in question, one Pasi Widgren, took to the shores of Lake Pitkajarvi north
 of Helsinki on 2021-Dec-04.  His instrument of artistic expression?  The noble snow
-shovel.  (The particular snow shovel in question is shown in the 3rd photo.  Though I
+shovel.  (The particular snow shovel in question is shown in the 3rd photo here.  Though I
 suspect GPS was involved, as well.)  
 
-The result is shown here in 3 photos from the AP (click to embiggen) of an arctic fox
+The result is shown in 3 photos from the AP (click to embiggen) of an arctic fox
 which is 90m tall.  To get some idea of that scale, note in the second photo
-there is a human walking on the ice in the upper left.  Basically: _big_, high-precision
+there is a human walking away on the ice in the upper left.  Basically: _big_, high-precision
 snow shovel work here.  
 
-The whole thing took, astonishingly, only about 4hr to complete.  After that, he climbed
-to the top of some 45m cliffs to look at the result.  (I'm almost surprised there's that
+The whole thing took, astonishingly, only about 4hr to complete.  After that, Widgren climbed
+to the top of some 45m cliffs to look at the result.  (I'm _almost_ surprised there's that
 much daylight in Finland this time of year.  He must have started in the early morning!)  
 
 This is his 6th year of [_theia mania_](https://en.wikipedia.org/wiki/Divine_madness)
@@ -60,7 +61,7 @@ Make people happy.  Appreciate the beauty around them.
 
 Now, _that's_ a version of the [Divine Madness]({{ site.baseurl }}/tags/#TheDivineMadness).  
 
-May we all aspire to the same.  
+May we all aspire to the same?  Please?  
 
 ---
 
