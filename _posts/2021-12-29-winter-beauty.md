@@ -5,7 +5,7 @@ tags: Beauty TheDivineMadness  &Gammad;&Tau;&Phi;
 comments: true
 ---
 
-Winter is the best time of the year.  Do not attempt to correct me on ths.  
+Winter is the best time of the year.  Do not attempt to correct me on this matter.  
 
 
 ## Winter Beauty  
