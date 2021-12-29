@@ -12,7 +12,7 @@ Winter is the best time of the year.  Do not attempt to correct me on this matte
 
 Here at Ch&acirc;teau Weekend, we love winter.  
 
-<img src="{{ site.baseurl }}/images/2021-12-29-weekend-publisher-hunting-blind.jpg" width="400" height="533" alt="The Weekend Publisher in his winter hunting blind, stalking wild turkeys" title="The Weekend Publisher in his winter hunting blind, stalking wild turkeys" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-12-29-weekend-publisher-hunting-blind.jpg" width="400" height="533" alt="The Weekend Publisher in his winter hunting blind, stalking wild turkeys, who ignore him with dignity" title="The Weekend Publisher in his winter hunting blind, stalking wild turkeys, who ignore him with dignity" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Well, more accurately: 1/3rd of us love winter.  
 - The Weekend Editrix _despises_ winter, a position with which I sympathize but do not
   understand.   _Comme d'habitude._  
