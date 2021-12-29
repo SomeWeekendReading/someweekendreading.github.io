@@ -10,7 +10,7 @@ Winter is the best time of the year.  Do not attempt to correct me on ths.
 
 ## Winter Beauty  
 
-Here at Ch&aacute;teau Weekend, we love winter.  
+Here at Ch&acirc;teau Weekend, we love winter.  
 
 Well, more accurately: 1/3rd of us do.  The Weekend Editrix _despises_ winter, a position
 with which I sympathize but do not understand.  The Weekend Publisher doesn't care much
