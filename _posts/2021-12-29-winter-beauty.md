@@ -16,7 +16,7 @@ Well, more accurately: 1/3rd of us love winter.
 - The Weekend Editrix _despises_ winter, a position with which I sympathize but do not
   understand.  
 - The Weekend Publisher doesn't care much for it either, mostly because we take down his
-  outdoor tent on the deck.  He has to confine his winter backyard stalking activities to
+  outdoor tent on the deck.  He then has to confine his winter backyard stalking activities to
   a little canvas hunting blind (a.k.a. "pet playpen").  
 
 <img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap.jpg" width="400" height="151" alt="Olsen @ AP: Finnish winter art" title="Olsen @ AP: Finnish winter art" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -25,15 +25,16 @@ Well, more accurately: 1/3rd of us love winter.
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3-thumb.jpg" width="400" height="226" alt="Ephemeral art: it's all about the snow shovel" title="Ephemeral art: it's all about the snow shovel" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Dear as those two are to your humble Weekend Editor, they are mistaken.  New evidence of the
 aesthetic error of having insufficient affection for winter comes from an _Associated
-Press_ article about a mad architect in Finland (where they do winter
-_professionally._) <sup id="fn1a">[[1]](#fn1)</sup>  
+Press_ article about a mad architect in Finland  <sup id="fn1a">[[1]](#fn1)</sup>  (where
+they do winter _professionally._)  
 
 The mad architect in question, Pasi Widgren, took to the shores of Lake Pitkajarvi north
 of Helsinki on 2021-Dec-04.  His instrument of artistic expression?  The noble snow
-shovel.  (As shown in the 3rd photo.  Though I suspect GPS was involved, as well.)  
+shovel.  (The particular snow shovel in question is shown in the 3rd photo.  Though I
+suspect GPS was involved, as well.)  
 
 The result is shown here in 3 photos from the AP (click to embiggen) of an arctic fox
-which is 90m from side to side.  To get some idea of that scale, note in the second photo
+which is 90m tall.  To get some idea of that scale, note in the second photo
 there is a human walking on the ice in the upper left.  Basically: _big_, high-precision
 snow shovel work here.  
 
