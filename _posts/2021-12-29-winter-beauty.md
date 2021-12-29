@@ -27,8 +27,8 @@ Well, more accurately: 1/3rd of us love winter.
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3-thumb.jpg" width="400" height="226" alt="Ephemeral art: it's all about the snow shovel" title="Ephemeral art: it's all about the snow shovel" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Dear as those two are to your humble Weekend Editor&hellip; they are both _mistaken._ New
 evidence of the aesthetic error of having insufficient affection for winter comes from an
-_Associated Press_ article about a mad architect in Finland <sup
-id="fn1a">[[1]](#fn1)</sup> (where they do winter _professionally._)  
+_Associated Press_ article about a mad architect in
+Finland <sup id="fn1a">[[1]](#fn1)</sup> (where they do winter _professionally._)  
 
 The mad architect in question, one Pasi Widgren, took to the shores of Lake Pitkajarvi north
 of Helsinki on 2021-Dec-04.  His instrument of artistic expression?  The noble snow
@@ -59,7 +59,7 @@ Wigdren offered the explanation that he hopes his art will:
 > &hellip;make people happy and encourage them to go out to hike in a beautiful nature.  
 
 - Make people happy.  
-- Appreciate the beauty around them.  
+- Help them appreciate the beauty around them.  
 
 Now&hellip; _that's_ a version of the [Divine Madness]({{ site.baseurl }}/tags/#TheDivineMadness).  
 

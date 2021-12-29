@@ -249,8 +249,51 @@ postStats <- function(## Inputs
     })                                                 # Done with file capture
     cat(sprintf("* Data vs time plot: %s.", f))        # Capture filename to transcript
 
-    f2 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
-    withPNG(f2, plotWidth / 2, plotHeight / 2, FALSE, function() {
+    qs  <- quantile(postData$"PostHits", probs = seq(from = 0.00, to = 1.00, by = 0.10))
+    foo <- transform(postData,                         # Original data with hit quantile column
+                     PostHitsDecile = cut(postData$"PostHits",
+                                          breaks         = qs,
+                                          labels         = names(qs)[-11],
+                                          include.lowest = TRUE,
+                                          ordered_result = TRUE))
+    tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
+    print(tbl)                                         # Table of comments x hits, for bicluster
+    f2  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
+    withPNG(f2, plotWidth/2, plotHeight/2, FALSE, function() {
+      legendFrac <- 0.20                               # How much space on left for color legend
+      withPars(function() {                            # Save/restore graphics parameters
+        ctRange   <- range(tbl)                        # Range of counts in table
+        nColors   <- min(diff(ctRange) + 1, 256)       # Colors used in bicluster
+        colors    <- makeSaturableHeatmapColorsBWR(nColors,
+                                                   minObs = ctRange[[1]], maxObs = ctRange[[2]])
+
+        heatmapRespectFALSE(tbl, scale = "none", col = colors,
+                            margins = c(1.5 * max(nchar(colnames(tbl))),
+                                        2.5 * max(nchar(rownames(tbl)))),
+                            main = "Comment/Hit Bicluster", xlab = "Hit Decile", ylab = "Comments",
+                            add.expr = {box(which = "plot")})
+
+        par(omd = c(0, legendFrac, 0, 1), pty = "m", mar = c(1, 3, 1, 1), new = TRUE)
+        image(x    = 0,                                # draw the color bar
+              y    = seq(from = ctRange[[1]], to = ctRange[[2]], along.with = colors),
+              z    = matrix(1 : length(colors), ncol = length(colors)),
+              cex.axis = 0.9,                          # Smaller labels
+              ylim = ctRange,                          # Show range of POSSIBLE correlations
+              col  = colors,                           # Heatmap colors
+              xaxt = "n", ylab = "Post Count", xlab = NA)
+        box(which = "plot")                            # Box around the color legend
+
+      }, pty = "m",                                    # Maximal plotting area
+         bg  = "white",                                # White background
+         omd = c(legendFrac, 1, 0, 0.99),              # Leave room for color bar legend
+         ps  = 16,                                     # Larger type for file capture
+         mar = c(1, 1, 0.9, 1),                        # Margins: title inexplicably cropped @ top?
+         mgp = c(1.7, 0.5, 0))                         # Axis title, label, tick
+    })                                                 #
+    cat(sprintf("\n\n* Bicluster: %s\n", f2))          # Capture dest file to transcript
+
+    f3 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
+    withPNG(f3, plotWidth / 2, plotHeight / 2, FALSE, function() {
       ys <- postData$"PostComments"                    # Regression of comments on hits in
       withPars(function() {                            #  scatterplot of comments vs hits
         scatterplotWithDensities(xs = postData$"PostHits",
@@ -291,50 +334,7 @@ postStats <- function(## Inputs
          mar = c(3, 3, 2, 1),                          #
          mgp = c(1.7, 0.5, 0))                         #
     })                                                 #
-    cat(sprintf("\n\n* Scatterplot: %s.\n", f2))       # Capture filename to transcript
-
-    qs  <- quantile(postData$"PostHits", probs = seq(from = 0.00, to = 1.00, by = 0.10))
-    foo <- transform(postData,                         # Original data with hit quantile column
-                     PostHitsDecile = cut(postData$"PostHits",
-                                          breaks         = qs,
-                                          labels         = names(qs)[-11],
-                                          include.lowest = TRUE,
-                                          ordered_result = TRUE))
-    tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
-    print(tbl)                                         # Table of comments x hits, for bicluster
-    f3  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
-    withPNG(f3, plotWidth/2, plotHeight/2, FALSE, function() {
-      legendFrac <- 0.20                               # How much space on left for color legend
-      withPars(function() {                            # Save/restore graphics parameters
-        ctRange   <- range(tbl)                        # Range of counts in table
-        nColors   <- min(diff(ctRange) + 1, 256)       # Colors used in bicluster
-        colors    <- makeSaturableHeatmapColorsBWR(nColors,
-                                                   minObs = ctRange[[1]], maxObs = ctRange[[2]])
-
-        heatmapRespectFALSE(tbl, scale = "none", col = colors,
-                            margins = c(1.5 * max(nchar(colnames(tbl))),
-                                        2.5 * max(nchar(rownames(tbl)))),
-                            main = "Comment/Hit Bicluster", xlab = "Hit Decile", ylab = "Comments",
-                            add.expr = {box(which = "plot")})
-
-        par(omd = c(0, legendFrac, 0, 1), pty = "m", mar = c(1, 3, 1, 1), new = TRUE)
-        image(x    = 0,                                # draw the color bar
-              y    = seq(from = ctRange[[1]], to = ctRange[[2]], along.with = colors),
-              z    = matrix(1 : length(colors), ncol = length(colors)),
-              cex.axis = 0.9,                          # Smaller labels
-              ylim = ctRange,                          # Show range of POSSIBLE correlations
-              col  = colors,                           # Heatmap colors
-              xaxt = "n", ylab = "Post Count", xlab = NA)
-        box(which = "plot")                            # Box around the color legend
-
-      }, pty = "m",                                    # Maximal plotting area
-         bg  = "white",                                # White background
-         omd = c(legendFrac, 1, 0, 0.99),              # Leave room for color bar legend
-         ps  = 16,                                     # Larger type for file capture
-         mar = c(1, 1, 0.9, 1),                        # Margins: title inexplicably cropped @ top?
-         mgp = c(1.7, 0.5, 0))                         # Axis title, label, tick
-    })                                                 #
-    cat(sprintf("\n\n* Bicluster: %s\n", f3))          # Capture dest file to transcript
+    cat(sprintf("\n\n* Scatterplot: %s.\n", f3))       # Capture filename to transcript
 
     TRUE                                               # Flag that it was done
   }                                                    #
