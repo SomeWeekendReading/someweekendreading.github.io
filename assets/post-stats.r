@@ -18,6 +18,7 @@ library("RCurl")                                       # For getURLContent()
 ## This carefully uses the get (rather than bump) interface, so it doesn't alter the counter values.
 ##
 ## Examples:
+
 ##
 ## > postData <- postStats()
 ##
