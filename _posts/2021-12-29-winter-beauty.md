@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Celebration of Mid-Winter Beauty
-tags: Beauty TheDivineMadness  &Gammad;&Tau;&Phi;
+tags: Beauty CatBlogging TheDivineMadness  &Gammad;&Tau;&Phi;
 comments: true
 ---
 
