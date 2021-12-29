@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beautiful Winter
+title: In Celebration of Mid-Winter Beauty
 tags: Beauty TheDivineMadness  &Gammad;&Tau;&Phi;
 comments: true
 ---
