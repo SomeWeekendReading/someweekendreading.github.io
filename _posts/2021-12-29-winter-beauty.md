@@ -12,12 +12,12 @@ Winter is the best time of the year.  Do not attempt to correct me on this matte
 
 Here at Ch&acirc;teau Weekend, we love winter.  
 
-Well, more accurately: 1/3rd of us do.  
+Well, more accurately: 1/3rd of us love winter.  
 - The Weekend Editrix _despises_ winter, a position with which I sympathize but do not
   understand.  
 - The Weekend Publisher doesn't care much for it either, mostly because we take down his
-  outdoor tent on the deck and he has to confine his backyard stalking activities to a little
-  canvas hunting blind (a.k.a. "pet playpen").  
+  outdoor tent on the deck.  He has to confine his winter backyard stalking activities to
+  a little canvas hunting blind (a.k.a. "pet playpen").  
 
 <img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap.jpg" width="400" height="151" alt="Olsen @ AP: Finnish winter art" title="Olsen @ AP: Finnish winter art" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-1.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-1-thumb.jpg" width="400" height="225" alt="Ephemeral art: 90m arctic fox on Lake Pitkajarvi near Helsinki" title="Ephemeral art: 90m arctic fox on Lake Pitkajarvi near Helsinki" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -25,8 +25,8 @@ Well, more accurately: 1/3rd of us do.
 <a href="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3.jpg"><img src="{{ site.baseurl }}/images/2021-12-29-winter-beauty-ap-3-thumb.jpg" width="400" height="226" alt="Ephemeral art: it's all about the snow shovel" title="Ephemeral art: it's all about the snow shovel" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Dear as those two are to your humble Weekend Editor, they are mistaken.  New evidence of the
 aesthetic error of having insufficient affection for winter comes from an _Associated
-Press_ article a mad architect in Finland, where they do winter
-_professionally._ <sup id="fn1a">[[1]](#fn1)</sup>  
+Press_ article about a mad architect in Finland (where they do winter
+_professionally._) <sup id="fn1a">[[1]](#fn1)</sup>  
 
 The mad architect in question, Pasi Widgren, took to the shores of Lake Pitkajarvi north
 of Helsinki on 2021-Dec-04.  His instrument of artistic expression?  The noble snow
