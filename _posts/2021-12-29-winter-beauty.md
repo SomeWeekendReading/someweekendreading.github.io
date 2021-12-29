@@ -41,13 +41,15 @@ The whole thing took, astonishingly, only about 4hr to complete.  After that, he
 to the top of some 45m cliffs to look at the result.  (I'm almost surprised there's that
 much daylight in Finland this time of year.  He must have started in the early morning!)  
 
-This is his 6th year of [_theia mania_](https://en.wikipedia.org/wiki/Divine_madness) artwork.
+This is his 6th year of [_theia mania_](https://en.wikipedia.org/wiki/Divine_madness)
+artwork.  
+
 In a way, it reminds me of
 [Japanese rice paddy art](https://www.google.com/search?q=japanese+rice+paddy+art&rlz=1C5CHFA_enUS504US504&source=lnms&tbm=isch),
 a more summerish sport pursued by Japanese rice farmers who are intelligent but bored, and
 in possession of multiple strains of rice, programmable planting machinery, and GPS.  I
 love the fact that nobody would have predicted either form of ephemeral art.  Both of them
-are beautiful, and hilarious.  
+are beautiful&hellip; and hilarious.  
 
 Wigdren offered the explanation that he hopes his art will:  
 
