@@ -71,6 +71,14 @@ postStats <- function(## Inputs
                                  else                  # Else derive plot file from transcript file
                                    sub("^(.*)\\.txt$", "\\1.png", txFile)) {
 
+  dateYear          <- function(d) { as.integer(format(d, format = "%Y")) }
+
+  dateYearEnd       <- function(d) {
+    as.Date(sprintf("%d-12-31", dateYear(xlim[[2]])), format = "%Y-%m-%d")
+  }
+
+  unixTimestampYear <- function(ts) { dateYear(as.Date(as.POSIXct(ts, origin = "1970-01-01"))) }
+
   getPostData <- function(postStartDate, hitStartDate, today, postsDir, postPatt, jsonRegexp,
                           countURL, commentsDir, commentPatt, year) {
     cat(sprintf(paste("* Dates:",                      # First report date when counting started
@@ -111,14 +119,14 @@ postStats <- function(## Inputs
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
     cat(sprintf("\n\n* Breakdown of post counts by year:\n"))
-    print(ddply(transform(postData, Year = as.integer(format(PostDate, format = "%Y"))), "Year",
+    print(ddply(transform(postData, Year = dateYear(PostDate)), "Year",
                 function(dfy) { data.frame(Year = dfy[1, "Year"], NPosts = nrow(dfy)) }))
 
     ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
     if (!is.na(year)) {                                # Wants to restrict to a single year
-      stopifnot(is.integer(year)                                &&
-                as.integer(format(postStartDate, "%Y")) <= year &&
-                year                                    <= as.integer(format(Sys.Date(), "%Y")))
+      stopifnot(is.integer(year)                &&
+                dateYear(postStartDate) <= year &&
+                year                    <= dateYear(Sys.Date()))
       cat(sprintf("\n* Restricting data to just the year %d", year))
       minDate <- as.Date(sprintf("%d-Jan-01", year), format = "%Y-%b-%d")
       maxDate <- as.Date(sprintf("%d-Dec-31", year), format = "%Y-%b-%d")
@@ -148,6 +156,8 @@ postStats <- function(## Inputs
     scatterplotWithLOESS <- function(postData, colName, clGray, log, main, hitsStart, histBreaks,
                                      barPlot = FALSE) {#
       withPars(function() {                            # Set label orientation & add space @ bottom
+        xlim      <- range(postData$"PostDate")        # Range of dates having posts
+        xlim[[2]] <- dateYearEnd(xlim[[2]])            #  Pull up to year end of last post
         plot(panel.first = {                           # First do LOESS plot & 95%CL
           ## LOESS fit and 95% confidence interval as a function of time.  Imitated from example at:
           ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
@@ -168,8 +178,8 @@ postStats <- function(## Inputs
           lines(postData$"PostDate", lcl,       lty = "dashed")
         },                                             # Preliminaries done; now rest of plot:
         x = postData$"PostDate", y = postData[, colName], pch = 21, bg = "blue",
-        ## ylim = c(1, max(postData[, colName])),
-        main = main, log = log, xaxt = "n", xlab = NA, # horizontal axis done below
+        xlim = xlim, ## ylim = c(1, max(postData[, colName])),
+        main = main, log = log, xaxt = "n", xlab = NA,
         ylab = sprintf("%s (%s scale)", colName, if (nchar(log) > 0) "log" else "linear"))
 
         withPars(function() {                          # Horiz axis only: extra space for date labels
@@ -185,8 +195,7 @@ postStats <- function(## Inputs
         rug(postData$"PostDate", side = 1, col = "gray") # Poor man's marginal histograms
         rug(postData[, colName], side = 2, col = "gray") #  done as rug plots
 
-        yrRange <- sapply(range(postData$"PostDate"), function(d) { as.integer(format(d, "%Y")) })
-        sapply(seq(from = yrRange[[1]], to = yrRange[[2]]), function(yr) {
+        sapply(seq(from = dateYear(xlim[[1]]), to = dateYear(xlim[[2]])), function(yr) {
           abline(v = as.Date(sprintf("%4d-Jan-01", yr), format = "%Y-%b-%d"),
                  lty = "solid", col = "gray")          # Draw vertical gray line @ Jan 01 of each year
         })                                             #  between min post date and max post date
@@ -354,11 +363,6 @@ postStats <- function(## Inputs
     ## 3 Total    152   549        79        3.61           6.95
 
     commentYears <- function(commentsDir, commentPatt) {
-
-      unixTimestampYear <- function(ts) {              # Seconds since 1970-01-01: extract the year
-        as.integer(format(as.Date(as.POSIXct(ts, origin = "1970-01-01")), format = "%Y"))
-      }                                                #
-
       ## NB: Timestamps are 13-digit integers, apparently msec since Unix epoch 1970-01-01.
       ##     It would be more traditional to do it in seconds, and have a 10-digit integer,
       ##     which would fit into a 32-bit word.  So we conver to double via as.numeric(),
@@ -372,8 +376,7 @@ postStats <- function(## Inputs
     yearComments <- table(commentYears(commentsDir, commentPatt))
     yearComments <- data.frame(Year      = as.integer(dimnames(yearComments)[[1]]),
                                NComments = as.vector(yearComments))
-    foo <- ddply(transform(postData,
-                           Year = as.integer(sprintf("%s", format(PostDate, format = "%Y")))),
+    foo <- ddply(transform(postData, Year = as.integer(sprintf("%s", dateYear(PostDate)))),
                  "Year",                               # Map over year subsets of the data
                  function(ydf) {                       # What to compute for each tranch of posts
                    data.frame(NPosts = nrow(ydf),      #
