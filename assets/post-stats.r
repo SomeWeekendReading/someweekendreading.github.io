@@ -22,10 +22,11 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## > postData <- postStats()
 ##
-## or
+## or, to make files for the year-in-review post:
 ##
-## > postData2020 <- postStats(year = 2020L, txFile = "post-stats-2020-yearend.txt")
-## > postData2021 <- postStats(year = 2021L, txFile = "post-stats-2021-yearend.txt")
+## > postData2020    <- postStats(year = 2020L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2020-yearend.txt")
+## > postData2021    <- postStats(year = 2021L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2021-yearend.txt")
+## > postDataOmnibus <- postStats(              destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-omnibus.txt")
 ##
 ## or
 ##
@@ -365,4 +366,59 @@ postStats <- function(## Inputs
     invisible(postData)                                # Return results invisibly (also in global var)
 
   })                                                   # End withTranscript()
+}                                                      #
+
+## *** Add number of comments not from me for each year
+## *** Add number of comments from me for each year
+## *** Total unique commenters for each year (and hand-collapse known spelling variations)
+## *** Just for completelness, add century and millennium leap year calculations
+summarizePostFrequency <- function(postData,           # Table of post frequencies by year
+                                   commentsDir = "../_data/comments",
+                                   commentPatt = "^.*entry([0-9]+)\\.yml$") {
+  ## Returns a dataframe summarizing post frequency by year and overall, e.g.:
+  ##    Year NPosts NDays NComments DaysPerPost DaysPerComment
+  ## 1  2020     41   184        21        4.49           8.76
+  ## 2  2021    111   365        58        3.29           6.29
+  ## 3 Total    152   549        79        3.61           6.95
+
+  commentYears <- function(commentsDir, commentPatt) { # Extract year for each comment accepted
+
+    unixTimestampYear <- function(ts) {                # Seconds since 1970-01-01: extract the year
+      as.integer(format(as.Date(as.POSIXct(ts, origin = "1970-01-01")), format = "%Y"))
+    }                                                  #
+
+    ## NB: Timestamps are 13-digit integers, apparently msec since Unix epoch 1970-01-01.
+    ##     It would be more traditional to do it in seconds, and have a 10-digit integer,
+    ##     which would fit into a 32-bit integer.  So we conver to double via as.numeric(),
+    ##     divide by 1000 to get to seconds, and convert to integer.  Then convert
+    ##     THAT to a Date and extract the year.
+    sapply(list.files(path = commentsDir, patt = commentPatt, recursive = TRUE), function(cf) {
+      unixTimestampYear(as.integer(as.numeric(sub(commentPatt, "\\1", cf)) / 1000))
+    })                                                 #
+  }                                                    #
+
+  yearComments <- table(commentYears(commentsDir, commentPatt))
+  yearComments <- data.frame(Year      = as.integer(dimnames(yearComments)[[1]]),
+                             NComments = as.vector(yearComments))
+  foo <- ddply(transform(postData, Year = as.integer(sprintf("%s", format(PostDate, format = "%Y")))),
+               "Year",                                 # Map over year subsets of the data
+               function(ydf) {                         # What to compute for each tranch of posts
+                 data.frame(NPosts = nrow(ydf),        #
+                            NDays = ifelse(ydf[[1, "Year"]] == 2020,
+                                           184,        # Number of days in 1st year of blogging
+                                           ifelse(ydf[[1, "Year"]] %% 4 == 0,
+                                                  366, #
+                                                  365)))
+               })                                      #
+  foo <- merge(foo, yearComments, by = "Year")         # Join with comment dataframe
+  foo <- transform(foo,                                # Add rate columns
+                   DaysPerPost    = round(NDays / NPosts, digits = 2),
+                   DaysPerComment = round(NDays / NComments, digits = 2))
+  rbind(foo,                                           # Add another row at the bottom, which has
+        transform(data.frame(Year   = "Total",         #  totals of posts & days, & overall days/post
+                             NPosts = sum(foo$"NPosts"),
+                             NDays  = sum(foo$"NDays"),#
+                             NComments = sum(foo$"NComments")),
+                  DaysPerPost = round(NDays / NPosts, digits = 2),
+                  DaysPerComment = round(NDays / NComments, digits = 2)))
 }                                                      #
