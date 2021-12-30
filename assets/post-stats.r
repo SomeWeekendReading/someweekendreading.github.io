@@ -73,9 +73,9 @@ postStats <- function(## Inputs
 
   dateYear          <- function(d) { as.integer(format(d, format = "%Y")) }
 
-  dateYearEnd       <- function(d) {
-    as.Date(sprintf("%d-12-31", dateYear(xlim[[2]])), format = "%Y-%m-%d")
-  }
+  dateYearEnd       <- function(d) {                   # Make date @ end of given year
+    as.Date(sprintf("%d-12-31", dateYear(d)), format = "%Y-%m-%d")
+  }                                                    #
 
   unixTimestampYear <- function(ts) { dateYear(as.Date(as.POSIXct(ts, origin = "1970-01-01"))) }
 
@@ -157,7 +157,7 @@ postStats <- function(## Inputs
                                      barPlot = FALSE) {#
       withPars(function() {                            # Set label orientation & add space @ bottom
         xlim      <- range(postData$"PostDate")        # Range of dates having posts
-        xlim[[2]] <- dateYearEnd(xlim[[2]])            #  Pull up to year end of last post
+        xlim[[2]] <- dateYearEnd(xlim[[2]]) + 1        #  Pull up to year end of last post
         plot(panel.first = {                           # First do LOESS plot & 95%CL
           ## LOESS fit and 95% confidence interval as a function of time.  Imitated from example at:
           ## https://stackoverflow.com/questions/22717930/how-to-get-the-confidence-intervals-for-lowess-fit-using-r
