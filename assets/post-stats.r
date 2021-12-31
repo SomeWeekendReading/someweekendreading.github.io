@@ -351,6 +351,7 @@ postStats <- function(## Inputs
     TRUE                                               # Flag that it was done
   }                                                    #
 
+  ## *** Add comments per post in each year, and overall
   ## *** Integrate this into postStats(), and capture the table to the transcript?
   ## *** Add number of comments not from me for each year
   ## *** Add number of comments from me for each year
