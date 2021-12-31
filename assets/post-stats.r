@@ -17,8 +17,8 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## This carefully uses the get (rather than bump) interface, so it doesn't alter the counter values.
 ##
-## Examples:
 
+## Examples:
 ##
 ## > postData <- postStats()
 ##
@@ -123,6 +123,7 @@ postStats <- function(## Inputs
                 function(dfy) { data.frame(Year = dfy[1, "Year"], NPosts = nrow(dfy)) }))
 
     ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
+    ## OTOH, this exercises each counter, making sure the server doesn't GC it?
     if (!is.na(year)) {                                # Wants to restrict to a single year
       stopifnot(is.integer(year)                &&
                 dateYear(postStartDate) <= year &&
