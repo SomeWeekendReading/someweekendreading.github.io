@@ -388,7 +388,8 @@ postStats <- function(## Inputs
                                                     366,
                                                     365)))
                  })                                    #
-    foo <- merge(foo, yearComments, by = "Year")       # Join with comment dataframe
+    foo <- transform(merge(foo, yearComments, by = "Year", all = TRUE),
+                     NComments = ifelse(is.na(NComments), 0, NComments))
     foo <- transform(foo,                              # Add rate columns
                      DaysPerPost    = round(NDays / NPosts, digits = 2),
                      DaysPerComment = round(NDays / NComments, digits = 2))
@@ -397,7 +398,7 @@ postStats <- function(## Inputs
                                NPosts = sum(foo$"NPosts"),
                                NDays  = sum(foo$"NDays"),
                                NComments = sum(foo$"NComments")),
-                    DaysPerPost = round(NDays / NPosts, digits = 2),
+                    DaysPerPost    = round(NDays / NPosts, digits = 2),
                     DaysPerComment = round(NDays / NComments, digits = 2)))
   }                                                    #
 
