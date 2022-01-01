@@ -304,6 +304,10 @@ postStats <- function(## Inputs
     })                                                 #
     cat(sprintf("\n\n* Bicluster: %s\n", f2))          # Capture dest file to transcript
 
+    cat(sprintf("\n\n* Correlation test between hits and comments:\n"))
+    print(cor.test(postData$"PostHits", postData$"PostComments", method = "pearson"))
+    print(cor.test(postData$"PostHits", postData$"PostComments", method = "spearman"))
+
     f3 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
     withPNG(f3, plotWidth / 2, plotHeight / 2, FALSE, function() {
       ys <- postData$"PostComments"                    # Regression of comments on hits in

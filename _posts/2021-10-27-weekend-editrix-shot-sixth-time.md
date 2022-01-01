@@ -112,7 +112,7 @@ went back to bed.  Sleeping now, with a cold compress on her forehead.
 So it doesn't _look_ serious, but it does look annoying.  
 
 I'm slightly jealous: I want _my_ immune system to work that hard building immunity for
-me, too.  (Yes, I know: this is the innate immune system, not the acquired immune system
+me, too.  (Yes, I know: this is the innate immune system, not the acquired immune system,
 which is the one that matters.  Still!)  
 
 Updates later when things change.  
