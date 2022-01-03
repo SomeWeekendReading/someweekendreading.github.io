@@ -16,8 +16,8 @@ Chez Weekend.
 
 But the next-day reports were&hellip; _interesting._  
 
-The main theme seemed to be: don't mess with librarians.  In front of the Boston Public
-Library was an ice sculpture of a spider crab _reading a book:_  
+The main theme seemed to be: don't mess with librarians.  In front of the main entrance to
+the Boston Public Library was an ice sculpture of a spider crab _reading a book:_  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -50,3 +50,6 @@ Like I told you: don't mess with librarians!
 <a id="fn1">1</a>: ***, ["***"](***), *** [↩](#fn1a)  
 
 <a href="{{ site.baseurl }}/images/***"><img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
+<iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+-->
