@@ -16,8 +16,9 @@ Chez Weekend.
 
 But the next-day reports were&hellip; _interesting._  
 
-The main theme seemed to be: don't mess with librarians.  In front of the main entrance to
-the Boston Public Library was an ice sculpture of a spider crab _reading a book:_  
+There are usually a lot of very beautiful ice sculptures.  The main theme seemed to be:
+don't mess with librarians.  In front of the main entrance to the Boston Public Library
+was an ice sculpture of a spider crab _reading a book:_  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
