@@ -24,6 +24,8 @@ library("RCurl")                                       # For getURLContent()
 ##
 ## or, to make files for the year-in-review post:
 ##
+## *** Done for 2020 year-end post; do not repeat without editing!  (Add 2022 year-end version,
+##     do 2022 and omnibus, re-use previous files when posting.)
 ## > postData2020    <- postStats(year = 2020L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2020-yearend.txt")
 ## > postData2021    <- postStats(year = 2021L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2021-yearend.txt")
 ## > postDataOmnibus <- postStats(              destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-omnibus.txt")
