@@ -11,12 +11,12 @@ again in Boston.  Wanna see a highlight?
 
 ## First Night  
 
-Yes, they moved most things outdoors.  Still a bit dangerous, so we hunkered down here at
-Chez Weekend.  
+Yes, they moved most things outdoors.  Still a bit dangerous though, so we hunkered down
+here at Chez Weekend.  
 
 But the next-day reports were&hellip; _interesting._  
 
-There are usually a lot of very beautiful ice sculptures.  The main theme seemed to be:
+There are usually a lot of very beautiful ice sculptures.  A prominent theme seemed to be:
 don't mess with librarians.  In front of the main entrance to the Boston Public Library
 was an ice sculpture of a spider crab _reading a book:_  
 
