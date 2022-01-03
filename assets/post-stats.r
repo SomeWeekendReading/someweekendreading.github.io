@@ -363,6 +363,7 @@ postStats <- function(## Inputs
   ## *** Add number of comments from me for each year
   ## *** Total unique commenters for each year (and hand-collapse known spelling variations)
   ## *** Just for completelness, add century and millennium leap year calculations
+  ## *** NB: BUG -- if run before Dec 31, will still use 365/366 days for final year
   summarizePostFrequency <- function(postData, commentsDir, commentPatt) {
     ## Returns a dataframe summarizing post frequency by year and overall, e.g.:
     ##    Year NPosts NDays NComments DaysPerPost DaysPerComment
