@@ -1066,6 +1066,8 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 
 "It's a little embarrassing that after 45 years of research &amp; study, the best advice I can give people is to be a little kinder to each other." &mdash; [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)  
 
+"You should absolutely trust Science. But Science is not clearly visible, like a comet bearing down on you. Science is like the Gnostic God. It exists, somewhere out there, perfect in itself. It is pure and right and beautiful. If you could hear it, it would certainly speak Truth. Yet here we are, in the stupid material universe, seeing through a glass darkly. Good sometimes looks like evil, evil often looks like good, and there's some jerk with the head of a lion and the body of a snake psyching us out at every turn. Do we trust the priests? The scriptures? The Inner Light of our own hearts? 'Just trust in God'. NOT HELPFUL." &mdash; S Siskind, ["Movie Review: Don't Look Up"](https://astralcodexten.substack.com/p/movie-review-dont-look-up), _Astral Codex Ten_ blog, 2022-Jan-04.  
+
 
 ## The One Who Is Voltaire  
 
