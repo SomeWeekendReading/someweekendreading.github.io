@@ -12,7 +12,7 @@ with susceptible genes is dead&hellip; well, think again.
 ## How long can a pandemic go on, really?  
 
 We are now starting our 3rd year of a global pandemic.  Everybody's tired of it.
-Everybody wants it to end so we can move on.  How much longer, really, can it be?  
+Everybody wants it to end so we can move on.  How much longer, really, can that take?  
 
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-1.jpg" width="400" height="152" alt="Curr Biol: Human genetics and 20,000 year old coronavirus epidemic in Asia" title="Curr Biol: Human genetics and 20,000 year old coronavirus epidemic in Asia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It's just come to my attention that last summer there was a pretty disturbing paper in
@@ -20,7 +20,7 @@ _Current Biology_ by Souilmi, _et al._ on an ancient pandemic, also very likely 
 coronavirus. <sup id="fn1a">[[1]](#fn1)</sup>  We'll go through it in some detail below, paying
 attention to their methods, but the conclusion is stark: around 20,000 to 25,000 years ago
 in East Asia, there was a coronavirus epidemic that lasted long enough to leave a genetic
-imprint on the human population: about 700 generations, or _around 18,000 years._  It
+imprint on the human population: a bit over 700 generations, or _around 20,000 years._  It
 stopped when all those with susceptible genes were _dead._  
 
 Maybe we should try to avoid that?  
@@ -35,7 +35,7 @@ we take a dour view of the popular media's attempt report science; it's usually 
 beyond all recognition.  
 
 However, we've found 4 articles which, after reading the actual paper, seem not to have
-mangled anything too badly (though they all do leave out _a lot!_)
+mangled anything too badly (though they all do leave out _a lot!_).  
 - Carl Zimmer at the _New York Times_ is a pretty good science journalist, and it shows in
   the work he did reporting on this last June in his column.  <sup id="fn2a">[[2]](#fn2)</sup>  
 - Theresa Machemer at the _Smithsonian Magazine_ did a similarly credible 
@@ -61,17 +61,18 @@ There are 7 coronaviruses that regularly infect humans.
   - Based on known rates of mutation, they are relatively new in evolutionary terms. The
     newest, HCoV-HKU1, emerged in about the 1950s. The oldest, HCoV-NL63, looks like it
     emerged about 1200CE, or 820 years ago.  
-- The remaining 3 are all _very_ recent and all big troublemakers, each a result of zoonotic
+- The remaining 3 are all _very_ recent and all big troublemakers, each a result of zo&ouml;notic
   transfer (from bats, civets, and camels, apparently):  
-  - SARS-COV1 emerged in China in 2002, infecting 8000 and kiling 800 before subsiding.  
+  - SARS-COV1 emerged in China in 2002, infecting 8000 and kiling 800 before subsiding (a
+    10% lethality rate).  
   - MERS-CoV emerged in 2006 in the Middle East, infecting 2400 and killing over 850
-    before subsiding.  
+    before subsiding (a 35% lethality rate!).  
   - Finally, SARS-CoV2 emerged in 2019 in China (again!), triggering the pandemic in which
     we find ourselves: as of 2021-Jan-06 there have been 298,549,912 cases and 5,484,607
-    deaths worldwide. <sup id="fn7a">[[7]](#fn7)</sup>  
+    deaths worldwide (a 1.8% lethality rate). <sup id="fn7a">[[7]](#fn7)</sup>  
 	
 Worse, there is now profound evidence that SARS-CoV2 has infected many wild, farmed, and
-domesticated animals, so it can come back by _another_ zoonotic transfer at any 
+domesticated animals, so it can come back by _another_ zo&ouml;notic transfer at any 
 time. <sup id="fn8a">[[8]](#fn8)</sup>  
 
 This naturally and pointedly raises the question: _how much longer can this go on?_  
@@ -81,9 +82,9 @@ This naturally and pointedly raises the question: _how much longer can this go o
 <a href="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-2.jpg"><img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-2-thumb.jpg" width="400" height="400" alt="Human/coronavirus interactome, excess adaptations, time scale" title="Human/coronavirus interactome, excess adaptations, time scale" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-nature-1.jpg" width="400" height="231" alt="Zeberg &amp; P&auml;&auml;bo in Nature: Neaderthals and COVID-19 genetic risk factors" title="Zeberg &amp; P&auml;&auml;bo in Nature: Neaderthals and COVID-19 genetic risk factors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-nyt-2.jpg" width="400" height="625" alt="Zimmer @ NYT: Neanderthal DNA is both good and bad" title="Zimmer @ NYT: Neanderthal DNA is both good and bad" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-In today's paper, Souilmi and co-authors attempt to answer this question by loooking at
-deep time: if this has happened in the past, is there evidence left in the human genome of
-viruses forcing us to evolve in response?  
+In the paper we're doing today in Weekend Journal Club, Souilmi and co-authors attempt to
+answer this question by loooking at deep time: if this has happened in the past, is there
+evidence left in the human genome of viruses forcing us to evolve in response?  
 
 It's a bit of a complicated story.  Fortunately, the authors supply us with a "graphical
 abstract" shown here (click to embiggen).  
