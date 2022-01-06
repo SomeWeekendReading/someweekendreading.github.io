@@ -115,7 +115,7 @@ in a single population (isolated because it was, after all, the Stone Age), whos
 day descendants carry with them their evolutionary adaptations to coronaviruses.  
 
 
-## A summary of some of their results  
+## A summary of (some of) their results  
 
 ### Identifying human populations forcibly evolved by coronaviruses  
 
@@ -201,7 +201,7 @@ __Conclusion:__ We'll let the authors say it themselves:
 > strong positive selection in East Asia. Selection events starting 900 generations ago
 > clearly predate the estimated split of different East Asian populations included in the
 > 1000 Genomes Project from their shared ancestral population.  
-> &hellip;
+> &hellip;  
 > &hellip; we note that the signal is restricted specifically at CoV-VIPs and none of 17
 > other viruses that we tested exhibit the same temporal clustering.  
 
