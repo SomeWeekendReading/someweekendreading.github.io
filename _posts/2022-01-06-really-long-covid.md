@@ -61,7 +61,7 @@ There are 7 coronaviruses that regularly infect humans.
   - Based on known rates of mutation, they are relatively new in evolutionary terms. The
     newest, HCoV-HKU1, emerged in about the 1950s. The oldest, HCoV-NL63, looks like it
     emerged about 1200CE, or 820 years ago.  
-- The remaining 3 are all _very_ recent and all big troublemakers, each a result of zo&ouml;notic
+- The remaining 3 are all _very_ recent and all _big_ troublemakers, each a result of zo&ouml;notic
   transfer (from bats, civets, and camels, apparently):  
   - SARS-COV1 emerged in China in 2002, infecting 8000 and kiling 800 before subsiding (a
     10% lethality rate).  
@@ -70,7 +70,7 @@ There are 7 coronaviruses that regularly infect humans.
   - Finally, SARS-CoV2 emerged in 2019 in China (again!), triggering the pandemic in which
     we find ourselves: as of 2021-Jan-06 there have been 298,549,912 cases and 5,484,607
     deaths worldwide (a 1.8% lethality rate). <sup id="fn7a">[[7]](#fn7)</sup>  
-	
+    
 Worse, there is now profound evidence that SARS-CoV2 has infected many wild, farmed, and
 domesticated animals, so it can come back by _another_ zo&ouml;notic transfer at any 
 time. <sup id="fn8a">[[8]](#fn8)</sup>  
@@ -94,15 +94,15 @@ abstract" shown here (click to embiggen).
   SARS-CoV2 specifically.  Amusingly, they call these VIPs (viral-interacting proteins).
   These proteins are very specific to the coronavirus family.  
   - Proteins like these will evolve quickly under deadly selection pressure: survivors will
-	either have mutations in the proteins that permit infection, or will have the forms of
-	proteins that tend to prevent infection; those who do not will be dead.  
+    either have mutations in the proteins that permit infection, or will have the forms of
+    proteins that tend to prevent infection; those who do not will be dead.  
   - There's plenty of evidence that this has happened, e.g., with some helpful and other
-	harmful genes inherited from Neanderthals 50,000 years 
-	ago. <sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
-	(__NB:__ Svante P&auml;&auml;bo is the world's expert on Neanderthal genetics, being the leader
-	of the group that first sequenced Neanderthal DNA from multiple samples.  I've seen him
-	speak at conferences: he's famous for slides with _no bullet points_: he just puts up
-	pictures and talks about them in a very engaging way.)  
+    harmful genes inherited from Neanderthals 50,000 years 
+    ago. <sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
+    (__NB:__ Svante P&auml;&auml;bo is the world's expert on Neanderthal genetics, being the leader
+    of the group that first sequenced Neanderthal DNA from multiple samples.  I've seen him
+    speak at conferences: he's famous for slides with _no bullet points_: he just puts up
+    pictures and talks about them in a very engaging way.)  
 - They used the 1000 Genomes Project's data to look across 2504 human samples from 26
   different ethnic/geographic groups across the world, seeking populations that have fixed
   mutations (i.e., very high frequency in a population) in those VIP genes.  
@@ -167,7 +167,7 @@ $p \lt 10^{-3}$, and so on).
 
 <a href="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-4.jpg"><img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-4-thumb.jpg" width="400" height="150" alt="Souilmi _et al.:_ Adaptation of 42 VIPs clustered at 870 generations ago" title="Souilmi _et al.:_ Adaptation of 42 VIPs clustered at 870 generations ago" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The result was that there were 42 VIP genes who showed adaptation clustered around 870
-generations ago (with a confidence limit around $\pm$generations.  Their Figure 2 shown here
+generations ago (with a confidence limit around $\pm$200 generations.  Their Figure 2 shown here
 (click to embiggen) shows the time of adapatation of the coronavirus VIP genes (pink)
 clusters somewhere 770 &ndash; 970 generations ago, and that this is much more than other
 genes in the genome (blue) have done.  This excess is statistically significant at
@@ -184,16 +184,17 @@ individual allele frequencies started to rise.  This is their Figure 3, reproduc
   epidemic started inducing the mutation.  
   
 You can clearly see that all 42 genes began spreading mutations around the same time,
-namely 870 generations ago.  We can also see that the spread of those genes continued
-until about 200 generations ago, i.e., likely a coronavirus continued to exert selective
-pressure (i.e., kill everybody without the protective mutations) for 670 generations or
+namely 900ish generations ago.  We can also see that the spread of those genes continued
+until about 200ish generations ago, i.e., likely a coronavirus continued to exert selective
+pressure (i.e., kill everybody without the protective mutations) for 700ish generations or
 so.  
 
 For a variety of reasons, people use a generation time of 28 years per
 generation <sup id="fn11a">[[11]](#fn11)</sup>, so we're looking at about 25,000 years
 ago.  That becomes even more interesting when we note that coronaviruses themselves only
 evolved as a species at about the same time, namely an estimated 23,000 years
-ago! <sup id="fn12a">[[12]](#fn12)</sup>  
+ago! <sup id="fn12a">[[12]](#fn12)</sup>  Coronaviruses almost _immediately_ jumped to
+humans; this _will_ happen again and again and again and&hellip;  
 
 __Conclusion:__ We'll let the authors say it themselves:  
 
@@ -208,7 +209,7 @@ __Conclusion:__ We'll let the authors say it themselves:
 
 ### Ok, so _how long did that go on?!_  
 
-Right.  So we know _when_ it happend, but how long did it go on killing people?  
+Right.  So we know _when_ it happend, but _how long_ did it go on killing people?  
 
 A rough answer for how long this went on is to look at the previous figure, and note that
 the allele frequency stabilized about 200 generations (about 5,000 years) ago.  To get a
@@ -218,8 +219,8 @@ result was consistent with selection until about 5,000 years ago.  So for 20,000
 coronavirus was selectively killing people in East Asia until all those who didn't have
 the resistance mutations were dead.  
 
-__Conclusion:__ The coronavirus pandemic lasted from 25,000 years ago to 5,000 years ago,
-or in other words, _it lasted for 20,000 years._  
+__Conclusion:__ The coronavirus pandemic lasted from 25,000 years ago to 5,000 years ago.
+Or, in other words, _it lasted for 20,000 years._  
 
 __Note well that figure:__ just "riding it out" will take potentially _forever_.  Fortunately,
 we have more resources than our ancient ancestors.  They could only engage in some minor
@@ -228,7 +229,7 @@ interventions like masks, social distancing, infection-preventing vaccines, and
 post-infection therapies like paxlovid.  
 
 So, you know the drill by now: Mask.  Social distance.  Vaccinate.  Get paxlovid if you
-get sick.  Support research on drugging the genes above.  
+get sick.  
 
 ### But wait, there's more!  
 
@@ -239,38 +240,39 @@ paper.
   in the correctness of the analysis.  
 - Interestingly, some of the 42 genes are druggable, which is a starting point for future
   antiviral drug research.  
-- Four of them (SMAD3, IMPDH2, PPIB, and GPX1) are the targets of 11 existing drugs
-  currently being investigated for coronavirus therapy, so that's a good thing to keep
-  doing.  
-- Five more of them are targeted by multiple drugs for other diseases, so they ought to be
-  investiaged for repurposing for COVID-19.  
-- An additional six genes are part of the "druggable genome" <sup id="fn13a">[[13]](#fn13)</sup>,
-  so we could perhaps find new therapeutic molecules there.
+  - Four of them (SMAD3, IMPDH2, PPIB, and GPX1) are the targets of 11 existing drugs
+    currently being investigated for coronavirus therapy, so that's a good thing to keep
+    doing.  
+  - Five more of them are targeted by multiple drugs for other diseases, so they ought to be
+    investiaged for repurposing for COVID-19.  
+  - An additional six genes are part of the "druggable genome" <sup id="fn13a">[[13]](#fn13)</sup>,
+    so we could perhaps find new therapeutic molecules there.  
 
 
 ## The Weekend Conclusion  
 
 Whew!  Let's recap what we've learned, and how that informs what we should do:  
 
-1. We know what genes interact with the 7 coronaviruses that infect humans.  
-2. East Asia had a long pandemic that fixed mutations in those genes (but not elsewhere;
-   little long-distance travel in the late Stone Age) 25,000 years ago to 5,000 years
-   ago.  
+1. We know 300-400ish genes which interact with the 7 coronaviruses known to infect humans.  
+2. East Asia had a long coronavirus epidemic that fixed mutations in some of those genes
+   (but not elsewhere; little long-distance travel in the late Stone Age) 25,000 years ago
+   to 5,000 years ago.  
 3. There was continuous selective pressure on the human genome in East Asia ("continuous
    selective pressure" = people dying) _for 20,000 years._  
-4. 42 genes were selectively mutated effect; of those 4 + 5 + 6 = 15 genes either
+4. 42 genes were selectively mutated and fixed in the genome; of those 4 + 5 + 6 = 15 genes either
    are targeted by drugs currently in coronavirus trials or are targeted by other existing
-   drugs or are in the druggable genome where the chemistry to make a drug looks
-   tractable.  _There are other opportunities for coronavirus therapy here._  
-5. Evolution is doing it the hard way: people die until only the resistant are left.
+   drugs or are in the druggable genome where the chemistry to make a drug for them looks
+   tractable.  _There are opportunities for novel coronavirus therapies here._  
+5. Evolution is doing it the hard way: people die until only those with resistance
+   mutations are left.  
 6. Vaccination is doing it the easy way: people get a couple shots, take a day or so off,
-	and go on about their lives.  Don't make the stupid choice here.  
+   and go on about their lives.  Don't make the stupid choice here.  
 
 Again: Mask.  Social distance.  Vaccinate.  Get paxlovid if you get sick.  Support
 research on drugging the genes above.  
 
-I know you're tired of that.  But how tired would you and your descendants be of 20,000
-years of this?  Make the smart choice here.  
+I know you're tired of that.  But how tired would you and your descendants be after 
+_20,000 years_ of this?  Make the smart choice here.  
 
 ---
 
