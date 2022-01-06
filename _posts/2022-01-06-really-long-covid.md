@@ -257,7 +257,7 @@ Whew!  Let's recap what we've learned, and how that informs what we should do:
    ago.  
 3. There was continuous selective pressure on the human genome in East Asia ("continuous
    selective pressure" = people dying) _for 20,000 years._  
-4. 42 genes were selectively mutated effect; of those 4+5+6 = 15 genes either
+4. 42 genes were selectively mutated effect; of those 4 + 5 + 6 = 15 genes either
    are targeted by drugs currently in coronavirus trials or are targeted by other existing
    drugs or are in the druggable genome where the chemistry to make a drug looks
    tractable.  _There are other opportunities for coronavirus therapy here._  
@@ -295,7 +295,7 @@ years of this?  Make the smart choice here.
 
 <a id="fn5">5</a>: Y Saplakoglu, ["An ancient coronavirus swept across East Asia 25,000 years ago"](https://www.livescience.com/ancient-coronavirus-infected-people-thousands-years-ago.html), 2021-Apr-23. [↩](#fn5a)  
 
-<a id="fn6">6</a>: DX Liu, _et al.,_ ["Human Coronavirus-229E, -OC43, -NL63, and -HKU1 (Coronaviridae)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/), _Encyc Virol_ (2021-Mar-01), 428-440. PMC: [PMC7204879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/).  DOI: [10.1016/B978-0-12-809633-8.21501-X](https://dx.doi.org/10.1016%2FB978-0-12-809633-8.21501-X). [↩](#fn6a)  
+<a id="fn6">6</a>: DX Liu, _et al.,_ ["Human Coronavirus-229E, -OC43, -NL63, and -HKU1 (Coronaviridae)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/), _Encyc Virol_ (2021-Mar-01), 428-440. PMC: [PMC7204879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/).  DOI: [10.1016/B978-0-12-809633-8.21501-X](https://dx.doi.org/10.1016/B978-0-12-809633-8.21501-X). [↩](#fn6a)  
 
 <a id="fn7">7</a>: WorldOMeter, ["COVID_19 Coronavirus Pandemic"](https://www.worldometers.info/coronavirus/), retrieved 2021-Jan-06. [↩](#fn7a)  
 
