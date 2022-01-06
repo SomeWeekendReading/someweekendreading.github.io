@@ -6,13 +6,13 @@ comments: true
 ---
 
 How long can COVID-19 go on?  If you answered less than $O(10^4)$ years until everyone
-with susceptible genes is dead&hellip; well, think again.  
+with susceptible genes is _dead_&hellip; well, think again.  
 
 
 ## How long can a pandemic go on, really?  
 
 We are now starting our 3rd year of a global pandemic.  Everybody's tired of it.
-Everybody wants it to end so we can move on.  How much longer, really, can that take?  
+Everybody wants it to end so we can move on.  How much longer, really, can that possibly take?  
 
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-1.jpg" width="400" height="152" alt="Curr Biol: Human genetics and 20,000 year old coronavirus epidemic in Asia" title="Curr Biol: Human genetics and 20,000 year old coronavirus epidemic in Asia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It's just come to my attention that last summer there was a pretty disturbing paper in
@@ -20,8 +20,8 @@ _Current Biology_ by Souilmi, _et al._ on an ancient pandemic, also very likely 
 coronavirus. <sup id="fn1a">[[1]](#fn1)</sup>  We'll go through it in some detail below, paying
 attention to their methods, but the conclusion is stark: around 20,000 to 25,000 years ago
 in East Asia, there was a coronavirus epidemic that lasted long enough to leave a genetic
-imprint on the human population: a bit over 700 generations, or _around 20,000 years._  It
-stopped when all those with susceptible genes were _dead._  
+imprint on the human population.  It lasted _around 20,000 years._  It only stopped when
+all those with susceptible genes were _dead._  
 
 Maybe we should try to avoid that?  
 
@@ -54,28 +54,28 @@ mangled anything too badly (though they all do leave out _a lot!_).
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-worldometer-cases-deaths.jpg" width="400" height="594" alt="WorldOMeter: COVID-19 daily cases & deaths as of 2021-Jan-06" title="WorldOMeter: COVID-19 daily cases & deaths as of 2021-Jan-06" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 There are 7 coronaviruses that regularly infect humans.  
 - Of those, 4 are _relatively_ recent and cause something like a cold: HCoV-229E, HCoV-OC43,
-  HCoV-NL63, and HCoV-HKU1 <sup id="fn6a">[[6]](#fn6)</sup>.  
-  - Together, they account for about 15% - 30% of common colds in upper adults, while
-    rarely causing life-threatening lower respiratory infections in infants, the elderly,
-    and the immunocompromised.  
+  HCoV-NL63, and HCoV-HKU1. <sup id="fn6a">[[6]](#fn6)</sup>  
+  - Together, they account for about 15% - 30% of common colds and upper resipiratory
+    infections in adults, while rarely causing life-threatening lower respiratory
+    infections in infants, the elderly, and the immunocompromised.  
   - Based on known rates of mutation, they are relatively new in evolutionary terms. The
     newest, HCoV-HKU1, emerged in about the 1950s. The oldest, HCoV-NL63, looks like it
     emerged about 1200CE, or 820 years ago.  
-- The remaining 3 are all _very_ recent and all _big_ troublemakers, each a result of zo&ouml;notic
-  transfer (from bats, civets, and camels, apparently):  
+- The remaining 3 are all _very_ recent indeed, and all _big_ troublemakers, each a result
+  of zo&ouml;notic transfer (from bats, civets, and camels, apparently):  
   - SARS-COV1 emerged in China in 2002, infecting 8000 and kiling 800 before subsiding (a
     10% lethality rate).  
   - MERS-CoV emerged in 2006 in the Middle East, infecting 2400 and killing over 850
     before subsiding (a 35% lethality rate!).  
   - Finally, SARS-CoV2 emerged in 2019 in China (again!), triggering the pandemic in which
     we find ourselves: as of 2021-Jan-06 there have been 298,549,912 cases and 5,484,607
-    deaths worldwide (a 1.8% lethality rate). <sup id="fn7a">[[7]](#fn7)</sup>  
+    deaths worldwide (a very fortunate 1.8% lethality rate). <sup id="fn7a">[[7]](#fn7)</sup>  
     
 Worse, there is now profound evidence that SARS-CoV2 has infected many wild, farmed, and
 domesticated animals, so it can come back by _another_ zo&ouml;notic transfer at any 
 time. <sup id="fn8a">[[8]](#fn8)</sup>  
 
-This naturally and pointedly raises the question: _how much longer can this go on?_  
+This naturally, and rahter _pointedly_, raises the question: _how much longer can this go on?_  
 
 ## A look back in deep time  
 
@@ -91,18 +91,19 @@ abstract" shown here (click to embiggen).
 
 - They use previous research to identify 420 human genes that interact with coronaviruses,
   from mass spectrometry data and from literature curation.  332 of those interact with
-  SARS-CoV2 specifically.  Amusingly, they call these VIPs (viral-interacting proteins).
-  These proteins are very specific to the coronavirus family.  
+  SARS-CoV2 specifically.  Amusingly for speakers of American English, they call these
+  VIPs (viral-interacting proteins). These proteins are very specific to the coronavirus family.  
   - Proteins like these will evolve quickly under deadly selection pressure: survivors will
     either have mutations in the proteins that permit infection, or will have the forms of
     proteins that tend to prevent infection; those who do not will be dead.  
   - There's plenty of evidence that this has happened, e.g., with some helpful and other
     harmful genes inherited from Neanderthals 50,000 years 
     ago. <sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
-    (__NB:__ Svante P&auml;&auml;bo is the world's expert on Neanderthal genetics, being the leader
-    of the group that first sequenced Neanderthal DNA from multiple samples.  I've seen him
-    speak at conferences: he's famous for slides with _no bullet points_: he just puts up
-    pictures and talks about them in a very engaging way.)  
+    (__NB:__ Svante P&auml;&auml;bo, in addition to the distinction of 2 consecutive
+    umlauts in his name, is the world's expert on Neanderthal genetics, being the leader
+    of the group that first sequenced Neanderthal DNA from multiple samples.  I've seen
+    him speak at conferences: he's famous for slides with _no bullet points:_ he just puts
+    up pictures and talks about them in a very engaging way.)  
 - They used the 1000 Genomes Project's data to look across 2504 human samples from 26
   different ethnic/geographic groups across the world, seeking populations that have fixed
   mutations (i.e., very high frequency in a population) in those VIP genes.  
@@ -126,16 +127,17 @@ groups.  They did a sweep across the VIP genes, looking for statistically signif
 enrichment of the exact same mutation in group samples.  They estimated statistical
 significance by comparing to a block-randomized genome (adjusted for confounders) to get
 an idea of the False Positive Rate, and then got a final $p$-value by bootstrap.  They
-also did a Gene Ontlogy enrichment to reject instances explained by phenomena other than
+also did a Gene Ontology enrichment to reject instances explained by phenomena other than
 viral interactions.  
 
-The result is shown here in Figure 1.  
+The result is shown here in Figure 1 (click to embiggen).  
 - Each plot is an ethnic/geographic group.  The top row are East Asian groups; for comparison the
   bottom row are non-East Asian groups.  See how different they are?  
 - The vertical axis is a fold enrichment for VIP mutations (presumably the fold is with
   respect to the block-randomized genomes?).  
-  - The curve is the enrichment itself, while the gray bar is the 95% confidence
-    interval.  It's cut off from above at 20-fold enrichment.  
+  - The curve is the enrichment itself, while the gray zone around it is the 95% confidence
+    interval.  It's cut off from above at 20-fold enrichment.  Basically the curve goes up
+    if the group has enrichment of the same VIP mutations, and not if the group doesn't.  
   - The red dots, of which there are many, represent significance at $p \lt 0.001$, i.e.,
     there's only 1 chance in 1000 to see this at random.  
   - The horizontal dashed line is what you'd expect to see if there were no effect.  
@@ -144,7 +146,8 @@ So as you can see, the East Asian populations are enriched for VIP mutations by 
 measures, whereas the non-East Asian populations are not.  Mostly these enriched
 populations are from China, Viet Nam, and Japan.  (Is it a coincidence that the ancient
 epidemic was in East Asia, and both SARS-CoV1 and SARS-CoV2 emerged in China in modern
-times?  I dunno, but it makes me uneasy somehow.)  
+times?  I dunno either, but it makes me uneasy somehow.  To avoid any suspicion of
+prejudice, let's regard that as coincidence until proven by more data.)  
 
 __Conclusion:__ Certain East Asian populations show, with very high confidence, well fixed
 mutations in genes for the VIP proteins.  No such enrichment happens anywhere else, even
@@ -166,35 +169,35 @@ thresholds were impressive (iSAFE proximity test $p \lt 10^{-9}$, each VIP gene 
 $p \lt 10^{-3}$, and so on).  
 
 <a href="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-4.jpg"><img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-4-thumb.jpg" width="400" height="150" alt="Souilmi _et al.:_ Adaptation of 42 VIPs clustered at 870 generations ago" title="Souilmi _et al.:_ Adaptation of 42 VIPs clustered at 870 generations ago" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-The result was that there were 42 VIP genes who showed adaptation clustered around 870
-generations ago (with a confidence limit around $\pm$200 generations.  Their Figure 2 shown here
-(click to embiggen) shows the time of adapatation of the coronavirus VIP genes (pink)
-clusters somewhere 770 &ndash; 970 generations ago, and that this is much more than other
-genes in the genome (blue) have done.  This excess is statistically significant at
-$p \lt 2.3 \times 10^{-4}$.  
+The result was that there were 42 VIP genes showing adaptation clustered around
+870$\pm$200 generations ago.  Their Figure 2 shown here (click to embiggen) shows the time
+of adapatation of the coronavirus VIP genes (pink) clusters somewhere 770 &ndash; 970
+generations ago, and that this is much more than all other genes in the genome (blue) have
+done.  This excess is statistically significant at $p \lt 2.3 \times 10^{-4}$.  
 
 <a href="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-5.jpg"><img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-5-thumb.jpg" width="400" height="412" alt="Souilmi _et al.:_ 42 coronavirus VIP gene allele frequencies over time in Chinese Dai and Chinese Han" title="Souilmi _et al.:_ 42 coronavirus VIP gene allele frequencies over time in Chinese Dai and Chinese Han" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 You can see the same thing happening if you look at individual genes, and ask when
-individual allele frequencies started to rise.  This is their Figure 3, reproduced here
-(click to embiggen).  
+individual allele frequencies started to rise, i.e., when they start to appear in a large
+fraction of the population.  This is their Figure 3, reproduced here (click to embiggen).  
 - The top row is Chinese Dai, the bottom row is Chinese Han.  
 - The horizontal axis is time (generations ago).  The vertical axis is the mutated allele
   frequency, e.g., 0% - 100% of the population.  
 - The graphs on the right are zoomed in to show detail around the time the ancient
   epidemic started inducing the mutation.  
   
-You can clearly see that all 42 genes began spreading mutations around the same time,
-namely 900ish generations ago.  We can also see that the spread of those genes continued
-until about 200ish generations ago, i.e., likely a coronavirus continued to exert selective
-pressure (i.e., kill everybody without the protective mutations) for 700ish generations or
-so.  
+You can clearly see that all 42 genes increasingly had _the same mutations at the same
+time_, namely 900ish generations ago.  We can also see that the spread of those genes
+continued until about 200ish generations ago, i.e., it is likely that a coronavirus
+continued to exert selective pressure (i.e., kill everybody without the protective
+mutations) for 700ish generations or so.  
 
 For a variety of reasons, people use a generation time of 28 years per
 generation <sup id="fn11a">[[11]](#fn11)</sup>, so we're looking at about 25,000 years
 ago.  That becomes even more interesting when we note that coronaviruses themselves only
 evolved as a species at about the same time, namely an estimated 23,000 years
 ago! <sup id="fn12a">[[12]](#fn12)</sup>  Coronaviruses almost _immediately_ jumped to
-humans; this _will_ happen again and again and again and&hellip;  
+humans upon emerging as a distinct viral species; this _will_ happen again and again and
+again and&hellip;  
 
 __Conclusion:__ We'll let the authors say it themselves:  
 
@@ -204,25 +207,27 @@ __Conclusion:__ We'll let the authors say it themselves:
 > clearly predate the estimated split of different East Asian populations included in the
 > 1000 Genomes Project from their shared ancestral population.  
 > &hellip;  
-> &hellip; we note that the signal is restricted specifically at CoV-VIPs and none of 17
+> &hellip; [W]e note that the signal is restricted specifically at CoV-VIPs and none of 17
 > other viruses that we tested exhibit the same temporal clustering.  
 
 ### Ok, so _how long did that go on?!_  
 
-Right.  So we know _when_ it happend, but _how long_ did it go on killing people?  
+Right.  So we know _what_ happened and _when_ it happend, but _how long_ did it go on
+killing people?  
 
 A rough answer for how long this went on is to look at the previous figure, and note that
-the allele frequency stabilized about 200 generations (about 5,000 years) ago.  To get a
-more sophisticated estimate, they looked for _coordinated_ changes in the 42 coronavirus
-VIP genes, since coordination presumably indicates selective pressure from the virus.  The
-result was consistent with selection until about 5,000 years ago.  So for 20,000 years, a
-coronavirus was selectively killing people in East Asia until all those who didn't have
-the resistance mutations were dead.  
+the allele frequency of the specific mutations in the VIP genes stabilized about 200
+generations (about 5,000 years) ago.  To get a more sophisticated estimate, the authors
+looked for _coordinated_ changes in the 42 coronavirus VIP genes, since coordination
+presumably indicates selective pressure from the virus in common across the 42 VIP genes.
+The result was consistent with selection until about 5,000 years ago.  So for 20,000
+years, a coronavirus was selectively killing people in East Asia until all those who
+didn't have the resistance mutations were dead.  
 
 __Conclusion:__ The coronavirus pandemic lasted from 25,000 years ago to 5,000 years ago.
 Or, in other words, _it lasted for 20,000 years._  
 
-__Note well that figure:__ just "riding it out" will take potentially _forever_.  Fortunately,
+__Note well that figure:__ Just "riding it out" will take potentially _forever_.  Fortunately,
 we have more resources than our ancient ancestors.  They could only engage in some minor
 infection-avoiding habits and rely on their genes.  We have scientifically validated
 interventions like masks, social distancing, infection-preventing vaccines, and
@@ -236,15 +241,15 @@ get sick.
 The study goes on to do a lot more stuff; indeed this is only about the first half of the
 paper.  
 - They noted the 42 coronavirus VIP genes are enriched for features known to
-  interact with viruses (and even coronivirses specifically), which gives us some confidence
-  in the correctness of the analysis.  
+  interact with viruses (and even coronivirses specifically) according to the Gene
+  Ontology. This gives us some confidence in the correctness of the analysis.  
 - Interestingly, some of the 42 genes are druggable, which is a starting point for future
   antiviral drug research.  
   - Four of them (SMAD3, IMPDH2, PPIB, and GPX1) are the targets of 11 existing drugs
     currently being investigated for coronavirus therapy, so that's a good thing to keep
     doing.  
   - Five more of them are targeted by multiple drugs for other diseases, so they ought to be
-    investiaged for repurposing for COVID-19.  
+    investigated for repurposing against COVID-19.  
   - An additional six genes are part of the "druggable genome" <sup id="fn13a">[[13]](#fn13)</sup>,
     so we could perhaps find new therapeutic molecules there.  
 
@@ -260,8 +265,8 @@ Whew!  Let's recap what we've learned, and how that informs what we should do:
 3. There was continuous selective pressure on the human genome in East Asia ("continuous
    selective pressure" = people dying) _for 20,000 years._  
 4. 42 genes were selectively mutated and fixed in the genome; of those 4 + 5 + 6 = 15 genes either
-   are targeted by drugs currently in coronavirus trials or are targeted by other existing
-   drugs or are in the druggable genome where the chemistry to make a drug for them looks
+   are targeted by drugs currently in coronavirus trials, or are targeted by other existing
+   drugs, or are in the druggable genome where the chemistry to make a drug for them looks
    tractable.  _There are opportunities for novel coronavirus therapies here._  
 5. Evolution is doing it the hard way: people die until only those with resistance
    mutations are left.  
@@ -271,7 +276,7 @@ Whew!  Let's recap what we've learned, and how that informs what we should do:
 Again: Mask.  Social distance.  Vaccinate.  Get paxlovid if you get sick.  Support
 research on drugging the genes above.  
 
-I know you're tired of that.  But how tired would you and your descendants be after 
+I know you're tired of all that.  But how tired would you and your descendants be after 
 _20,000 years_ of this?  Make the smart choice here.  
 
 ---
@@ -300,16 +305,16 @@ _20,000 years_ of this?  Make the smart choice here.
 
 <a id="fn6">6</a>: DX Liu, _et al.,_ ["Human Coronavirus-229E, -OC43, -NL63, and -HKU1 (Coronaviridae)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/), _Encyc Virol_ (2021-Mar-01), 428-440. PMC: [PMC7204879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/).  DOI: [10.1016/B978-0-12-809633-8.21501-X](https://dx.doi.org/10.1016/B978-0-12-809633-8.21501-X). [↩](#fn6a)  
 
-<a id="fn7">7</a>: WorldOMeter, ["COVID_19 Coronavirus Pandemic"](https://www.worldometers.info/coronavirus/), retrieved 2021-Jan-06. [↩](#fn7a)  
+<a id="fn7">7</a>: WorldOMeter, ["COVID_19 Coronavirus Pandemic"](https://www.worldometers.info/coronavirus/), retrieved the morning of 2021-Jan-06.  It's probably a lot more by the time you read this. [↩](#fn7a)  
 
 <a id="fn8">8</a>: T Prince, _et al.,_ ["SARS-CoV-2 Infections in Animals: Reservoirs for Reverse Zoonosis and Models for Study "](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/), _Viruses_ 13:3, p. 494, 2021-Mar-17. PMC: [PMC8002747](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/).  DOI: [10.3390/v13030494](https://dx.doi.org/10.3390%2Fv13030494). [↩](#fn8a)  
 
-<a id="fn9">9</a>: H Zeberg &amp; S P&auml;&auml;bo, ["The major genetic risk factor for severe COVID-19 is inherited from Neanderthals"](https://www.nature.com/articles/s41586-020-2818-3), _Nature_ 587, pp. 610-612, 2020-Nov-26.  DOI: [10.1038/s41586-020-2818-3](https://doi.org/10.1038/s41586-020-2818-3). [↩](#fn9a)  
+<a id="fn9">9</a>: H Zeberg &amp; S P&auml;&auml;bo, ["The major genetic risk factor for severe COVID-19 is inherited from Neanderthals"](https://www.nature.com/articles/s41586-020-2818-3), _Nature_ 587, pp. 610-612, 2020-Nov-26.  DOI: [10.1038/s41586-020-2818-3](https://doi.org/10.1038/s41586-020-2818-3). Yes, he really has 2 consecutive umlauts in his name, but is also interesting for other reasons. [↩](#fn9a)  
 
 <a id="fn10">10</a>: C Zimmer, ["Deep in Human DNA, a Gift From the Neanderthals"](https://www.nytimes.com/2018/10/04/science/neanderthal-genes-viruses.html), _New York Times_, 2018-Oct-04. [↩](#fn10a)  
 
 <a id="fn11">11</a>: P Moorjani, ["A genetic method for dating ancient genomes provides a direct estimate of human generation interval in the last 45,000 years"](https://pubmed.ncbi.nlm.nih.gov/27140627/), _Proc Natl Acad USA_ 113:20, pp. 5652-5657, 2016-May-17. DOI: [10.1073/pnas.1514696113](https://dx.doi.org/10.1073/pnas.1514696113).[↩](#fn11a)  
 
-<a id="fn12">12</a>: M Ghafari, _et al.,_ ["Prisoner of War dynamics explains the time-dependent pattern of substitution rates in viruses "](https://www.biorxiv.org/content/10.1101/2021.02.09.430479v1), _BioR&chi;v_ preprint, 2021-Feb-09. DOI: [10.1101/2021.02.09.430479](https://doi.org/10.1101/2021.02.09.430479). [↩](#fn12a)  
+<a id="fn12">12</a>: M Ghafari, _et al.,_ ["Prisoner of War dynamics explains the time-dependent pattern of substitution rates in viruses "](https://www.biorxiv.org/content/10.1101/2021.02.09.430479v1), _BioR&chi;iv_ preprint, 2021-Feb-09. DOI: [10.1101/2021.02.09.430479](https://doi.org/10.1101/2021.02.09.430479). [↩](#fn12a)  
 
 <a id="fn13">13</a>: C Finan, _et al.,_ ["The druggable genome and support for target identification and validation in drug development"](https://pubmed.ncbi.nlm.nih.gov/28356508/), _Sci Transl Med_ 9:383, 2017-Mar-29.  DOI: [10.1126/scitranslmed.aag1166](https://dx.doi.org/10.1126/scitranslmed.aag1166). [↩](#fn13a)  
