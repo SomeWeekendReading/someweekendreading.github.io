@@ -20,7 +20,7 @@ _Current Biology_ by Souilmi, _et al._ on an ancient pandemic, also very likely 
 coronavirus. <sup id="fn1a">[[1]](#fn1)</sup>  We'll go through it in some detail below, paying
 attention to their methods, but the conclusion is stark: around 20,000 to 25,000 years ago
 in East Asia, there was a coronavirus epidemic that lasted long enough to leave a genetic
-imprint on the human population.  It lasted _around 20,000 years._  It only stopped when
+imprint on the human population.  It lasted _around 20,000 years,_  stopping only when
 all those with susceptible genes were _dead._  
 
 Maybe we should try to avoid that?  
@@ -72,10 +72,10 @@ There are 7 coronaviruses that regularly infect humans.
     deaths worldwide (a very fortunate 1.8% lethality rate). <sup id="fn7a">[[7]](#fn7)</sup>  
     
 Worse, there is now profound evidence that SARS-CoV2 has infected many wild, farmed, and
-domesticated animals, so it can come back by _another_ zo&ouml;notic transfer at any 
+domesticated animals.  That means it can come back by _another_ zo&ouml;notic transfer at any 
 time. <sup id="fn8a">[[8]](#fn8)</sup>  
 
-This naturally, and rahter _pointedly_, raises the question: _how much longer can this go on?_  
+This naturally and rather _pointedly_ raises the question: _how much longer can this go on?_  
 
 ## A look back in deep time  
 
