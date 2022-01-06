@@ -304,7 +304,7 @@ _20,000 years_ of this?  Make the smart choice here.
 
 <a id="fn8">8</a>: T Prince, _et al.,_ ["SARS-CoV-2 Infections in Animals: Reservoirs for Reverse Zoonosis and Models for Study "](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/), _Viruses_ 13:3, p. 494, 2021-Mar-17. PMC: [PMC8002747](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/).  DOI: [10.3390/v13030494](https://dx.doi.org/10.3390%2Fv13030494). [↩](#fn8a)  
 
-<a id="fn9">9</a>: H Zeberg &amp; S P&auml;&auml;bo, ["The major genetic risk factor for severe COVID-19 is inherited from Neanderthals"](https://www.nature.com/articles/s41586-020-2818-3), _Nature_ 587, pp. 610-612, 2020-Nov-26.  DOI: [10.1038/s41586-020-2818-3](https://doi.org/10.1038/s41586-020-2818-3) [↩](#fn9a)  
+<a id="fn9">9</a>: H Zeberg &amp; S P&auml;&auml;bo, ["The major genetic risk factor for severe COVID-19 is inherited from Neanderthals"](https://www.nature.com/articles/s41586-020-2818-3), _Nature_ 587, pp. 610-612, 2020-Nov-26.  DOI: [10.1038/s41586-020-2818-3](https://doi.org/10.1038/s41586-020-2818-3). [↩](#fn9a)  
 
 <a id="fn10">10</a>: C Zimmer, ["Deep in Human DNA, a Gift From the Neanderthals"](https://www.nytimes.com/2018/10/04/science/neanderthal-genes-viruses.html), _New York Times_, 2018-Oct-04. [↩](#fn10a)  
 
@@ -312,4 +312,4 @@ _20,000 years_ of this?  Make the smart choice here.
 
 <a id="fn12">12</a>: M Ghafari, _et al.,_ ["Prisoner of War dynamics explains the time-dependent pattern of substitution rates in viruses "](https://www.biorxiv.org/content/10.1101/2021.02.09.430479v1), _BioR&chi;v_ preprint, 2021-Feb-09. DOI: [10.1101/2021.02.09.430479](https://doi.org/10.1101/2021.02.09.430479). [↩](#fn12a)  
 
-<a id="fn13">13</a>: C Finan, _et al.,_ ["The druggable genome and support for target identification and validation in drug development"](https://pubmed.ncbi.nlm.nih.gov/28356508/), _Sci Transl Med_ 9:383, 2017-Mar-29.  DOI: [10.1126/scitranslmed.aag1166](https://dx.doi.org/10.1126/scitranslmed.aag1166) [↩](#fn13a)  
+<a id="fn13">13</a>: C Finan, _et al.,_ ["The druggable genome and support for target identification and validation in drug development"](https://pubmed.ncbi.nlm.nih.gov/28356508/), _Sci Transl Med_ 9:383, 2017-Mar-29.  DOI: [10.1126/scitranslmed.aag1166](https://dx.doi.org/10.1126/scitranslmed.aag1166). [↩](#fn13a)  
