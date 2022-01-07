@@ -266,7 +266,7 @@ Whew!  Let's recap what we've learned, and how that informs what we should do:
    selective pressure" = people dying) _for 20,000 years._  
 4. Of the 42 genes that were selectively mutated and fixed in the genome, 4 + 5 + 6 = 15
    genes either are targeted by drugs currently in coronavirus trials, or are targeted by
-   other existing drugs, or are in the druggable genome where the chemistry to make a drug
+   other existing drugs, or are in the druggable genome where the chemistry to make a new drug
    for them looks tractable.  _There are opportunities for novel coronavirus therapies here._  
 5. Evolution is doing it the hard way: people die until only those with resistance
    mutations are left.  
