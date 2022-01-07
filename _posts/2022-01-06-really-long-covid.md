@@ -273,11 +273,11 @@ Whew!  Let's recap what we've learned, and how that informs what we should do:
 6. Vaccination is doing it the easy way: people get a couple shots, take a day or so off,
    and go on about their lives.  Don't make the stupid choice here.  
 
-Again: Mask.  Social distance.  Vaccinate.  Get paxlovid if you get sick.  Support
-research on drugging the genes above.  
+Again: Mask.  Social distance.  Vaccinate.  Get paxlovid &amp; fluvoxamine if you get
+sick.  Support research on drugs for the 15 druggable genes above.  
 
-I know you're tired of all that.  But how tired would you and your descendants be after 
-_20,000 years_ of this?  Make the smart choice here.  
+I know you're tired of doing all that.  But how tired would you and your descendants be after 
+_20,000 years of this?_  Make the smart choice here.  
 
 ---
 
