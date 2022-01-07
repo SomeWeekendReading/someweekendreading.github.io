@@ -28,7 +28,10 @@ library("RCurl")                                       # For getURLContent()
 ##     do 2022 and omnibus, re-use previous files when posting.)
 ## > postData2020    <- postStats(year = 2020L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2020-yearend.txt")
 ## > postData2021    <- postStats(year = 2021L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2021-yearend.txt")
-## > postDataOmnibus <- postStats(              destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-omnibus.txt")
+##
+## *** For 2022 year-end post; replace XXX.txt with transcript file based on post filename.
+## > postData2022    <- postStats(year = 2022L, destDir = ".", txFile = "XXX.txt")
+## > postDataOmnibus <- postStats(              destDir = ".", txFile = "XXX.txt")
 ##
 ## or
 ##
