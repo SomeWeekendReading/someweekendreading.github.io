@@ -44,7 +44,7 @@ mangled anything too badly (though they all do leave out _a lot!_).
   should get you to notice that just "muddling through" is the incorrect response here.
 - The Australian Broadcasting Corporation (ABC)'s science reporters Conroy and Salleh also
   summarized things relatively clearly. <sup id="fn4a">[[4]](#fn4)</sup>  
-- Yasemin Saplakoglu at LiveScience wrote an even briefer, though relatively accurate
+- Yasemin Saplakoglu at _LiveScience_ wrote an even briefer, though relatively accurate
   summary all the way back in April <sup id="fn5a">[[5]](#fn5)</sup>, so she gets pride of
   place for doing the early reporting when the paper was still a preprint.  
 
@@ -102,7 +102,7 @@ abstract" shown here (click to embiggen).
     (__NB:__ Svante P&auml;&auml;bo, in addition to the distinction of 2 consecutive
     umlauts in his name, is the world's expert on Neanderthal genetics, being the leader
     of the group that first sequenced Neanderthal DNA from multiple samples.  I've seen
-    him speak at conferences: he's famous for slides with _no bullet points:_ he just puts
+    him speak at conferences. He's famous for slides with _no bullet points:_ he just puts
     up pictures and talks about them in a very engaging way.)  
 - They used the 1000 Genomes Project's data to look across 2504 human samples from 26
   different ethnic/geographic groups across the world, seeking populations that have fixed
@@ -259,15 +259,15 @@ paper.
 Whew!  Let's recap what we've learned, and how that informs what we should do:  
 
 1. We know 300-400ish genes which interact with the 7 coronaviruses known to infect humans.  
-2. East Asia had a long coronavirus epidemic that fixed mutations in some of those genes
+2. East Asia had a long coronavirus epidemic that fixed mutations in 42 of those genes
    (but not elsewhere; little long-distance travel in the late Stone Age) 25,000 years ago
    to 5,000 years ago.  
 3. There was continuous selective pressure on the human genome in East Asia ("continuous
    selective pressure" = people dying) _for 20,000 years._  
-4. 42 genes were selectively mutated and fixed in the genome; of those 4 + 5 + 6 = 15 genes either
-   are targeted by drugs currently in coronavirus trials, or are targeted by other existing
-   drugs, or are in the druggable genome where the chemistry to make a drug for them looks
-   tractable.  _There are opportunities for novel coronavirus therapies here._  
+4. Of the 42 genes that were selectively mutated and fixed in the genome, 4 + 5 + 6 = 15
+   genes either are targeted by drugs currently in coronavirus trials, or are targeted by
+   other existing drugs, or are in the druggable genome where the chemistry to make a drug
+   for them looks tractable.  _There are opportunities for novel coronavirus therapies here._  
 5. Evolution is doing it the hard way: people die until only those with resistance
    mutations are left.  
 6. Vaccination is doing it the easy way: people get a couple shots, take a day or so off,
