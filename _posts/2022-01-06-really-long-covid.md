@@ -301,7 +301,7 @@ _20,000 years_ of this?  Make the smart choice here.
 
 <a id="fn4">4</a>: G Conroy &amp; A Salleh, ["Coronavirus epidemic broke out in East Asia around 25,000 years ago, gene study shows"](https://www.abc.net.au/news/science/2021-06-25/coronavirus-epidemic-east-asia-twenty-thousand-years-ago/100226362), _ABC Science_, 2021-Jun-24. [↩](#fn4a)  
 
-<a id="fn5">5</a>: Y Saplakoglu, ["An ancient coronavirus swept across East Asia 25,000 years ago"](https://www.livescience.com/ancient-coronavirus-infected-people-thousands-years-ago.html), 2021-Apr-23. [↩](#fn5a)  
+<a id="fn5">5</a>: Y Saplakoglu, ["An ancient coronavirus swept across East Asia 25,000 years ago"](https://www.livescience.com/ancient-coronavirus-infected-people-thousands-years-ago.html), _LiveScience_, 2021-Apr-23. [↩](#fn5a)  
 
 <a id="fn6">6</a>: DX Liu, _et al.,_ ["Human Coronavirus-229E, -OC43, -NL63, and -HKU1 (Coronaviridae)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/), _Encyc Virol_ (2021-Mar-01), 428-440. PMC: [PMC7204879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204879/).  DOI: [10.1016/B978-0-12-809633-8.21501-X](https://dx.doi.org/10.1016/B978-0-12-809633-8.21501-X). [↩](#fn6a)  
 
@@ -309,7 +309,7 @@ _20,000 years_ of this?  Make the smart choice here.
 
 <a id="fn8">8</a>: T Prince, _et al.,_ ["SARS-CoV-2 Infections in Animals: Reservoirs for Reverse Zoonosis and Models for Study "](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/), _Viruses_ 13:3, p. 494, 2021-Mar-17. PMC: [PMC8002747](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002747/).  DOI: [10.3390/v13030494](https://dx.doi.org/10.3390%2Fv13030494). [↩](#fn8a)  
 
-<a id="fn9">9</a>: H Zeberg &amp; S P&auml;&auml;bo, ["The major genetic risk factor for severe COVID-19 is inherited from Neanderthals"](https://www.nature.com/articles/s41586-020-2818-3), _Nature_ 587, pp. 610-612, 2020-Nov-26.  DOI: [10.1038/s41586-020-2818-3](https://doi.org/10.1038/s41586-020-2818-3). Yes, he really has 2 consecutive umlauts in his name, but is also interesting for other reasons. [↩](#fn9a)  
+<a id="fn9">9</a>: H Zeberg &amp; S P&auml;&auml;bo, ["The major genetic risk factor for severe COVID-19 is inherited from Neanderthals"](https://www.nature.com/articles/s41586-020-2818-3), _Nature_ 587, pp. 610-612, 2020-Nov-26.  DOI: [10.1038/s41586-020-2818-3](https://doi.org/10.1038/s41586-020-2818-3). Yes, Svante really has 2 consecutive umlauts in his name, but is also interesting for other reasons. [↩](#fn9a)  
 
 <a id="fn10">10</a>: C Zimmer, ["Deep in Human DNA, a Gift From the Neanderthals"](https://www.nytimes.com/2018/10/04/science/neanderthal-genes-viruses.html), _New York Times_, 2018-Oct-04. [↩](#fn10a)  
 
