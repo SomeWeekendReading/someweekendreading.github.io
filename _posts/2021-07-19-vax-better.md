@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 Vaccination is Better Than Natural Immunity
-tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 ---
 

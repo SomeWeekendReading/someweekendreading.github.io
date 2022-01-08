@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Partisan Divide on COVID-19 Deaths
-tags: COVID Politics Statistics
+tags: COVID JournalClub Politics Statistics
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Couple Ivermectin Takedowns
-tags: COVID MathInTheNews PharmaAndBiotech Statistics
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
 

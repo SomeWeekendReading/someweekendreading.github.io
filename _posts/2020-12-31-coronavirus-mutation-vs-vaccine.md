@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The mutant coronavirus&colon; will the vaccines still work?
-tags: COVID MathInTheNews PharmaAndBiotech
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech
 comments: true
 ---
 

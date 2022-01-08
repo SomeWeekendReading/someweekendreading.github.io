@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Statins &amp; ACE inhibitors &amp; ARB blockers as COVID-19 therapeutics?
-tags: COVID R SomebodyAskedMe Statistics
+tags: COVID JournalClub R SomebodyAskedMe Statistics
 comments: true
 ---
 

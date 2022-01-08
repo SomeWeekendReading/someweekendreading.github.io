@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another study of clotting and COVID vaccines
-tags: COVID MathInTheNews PharmaAndBiotech 
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech 
 comments: true
 ---
 

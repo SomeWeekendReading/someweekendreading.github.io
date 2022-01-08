@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vaccination vs Hospitalization Rates&colon; Simpson's Paradox
-tags: COVID MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics 
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics 
 comments: true
 ---
 

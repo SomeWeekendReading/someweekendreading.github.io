@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good news on vaccines vs variants!
-tags: COVID MathInTheNews PharmaAndBiotech Statistics
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
 

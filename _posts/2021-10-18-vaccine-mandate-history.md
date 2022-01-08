@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vaccine Mandate Origins in the US
-tags: COVID Politics
+tags: COVID JournalClub Politics
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Was the Norse Settlement at L'Anse aux Meadows in Newfoundland?
-tags: Math Physics Statistics
+tags: JournalClub Math Physics Statistics
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The AstraZeneca/Oxford Vaccine vs Blood Clots
-tags: COVID MathInTheNews PharmaAndBiotech R SomebodyAskedMe Statistics
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech R SomebodyAskedMe Statistics
 comments: true
 ---
 
