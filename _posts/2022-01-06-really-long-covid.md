@@ -25,6 +25,9 @@ all those with susceptible genes were _dead._
 
 Maybe we should try to avoid that?  
 
+
+## Summaries in popular science news  
+
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-nyt-1.jpg" width="400" height="574" alt="Zimmer @ NYT: Corona virus epidemic 20,000 years ago" title="Zimmer @ NYT: Corona virus epidemic 20,000 years ago" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-smithsonian-1.jpg" width="400" height="200" alt="Machemer @ Smithsonian: 20,000 year old coronavirus epidemic marked human genome" title="Machemer @ Smithsonian: 20,000 year old coronavirus epidemic marked human genome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-abc-1.jpg" width="400" height="146" alt="Australian Broadcast Company: Coronavirus epidemic in East Asia 25,000 years ago" title="Australian Broadcast Company: Coronavirus epidemic in East Asia 25,000 years ago" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -77,6 +80,7 @@ time. <sup id="fn8a">[[8]](#fn8)</sup>
 
 This naturally and rather _pointedly_ raises the question: _how much longer can this go on?_  
 
+
 ## A look back in deep time  
 
 <a href="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-2.jpg"><img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-2-thumb.jpg" width="400" height="400" alt="Human/coronavirus interactome, excess adaptations, time scale" title="Human/coronavirus interactome, excess adaptations, time scale" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -99,7 +103,7 @@ abstract" shown here (click to embiggen).
   - There's plenty of evidence that this has happened, e.g., with some helpful and other
     harmful genes inherited from Neanderthals 50,000 years 
     ago. <sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
-    (__NB:__ Svante P&auml;&auml;bo, in addition to the distinction of 2 consecutive
+    (__NB:__ Svante P&auml;&auml;bo, in addition to the distinction of having 2 consecutive
     umlauts in his name, is the world's expert on Neanderthal genetics, being the leader
     of the group that first sequenced Neanderthal DNA from multiple samples.  I've seen
     him speak at conferences. He's famous for slides with _no bullet points:_ he just puts
@@ -121,7 +125,6 @@ day descendants carry with them their evolutionary adaptations to coronaviruses.
 
 ### Identifying human populations forcibly evolved by coronaviruses  
 
-<a href="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-3.jpg"><img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-3-thumb.jpg" width="400" height="193" alt="Soilmi _et al.:_ Fold enrichment of coronavirus VIPs in East Asian vs non-East Asian populations" title="Soilmi _et al.:_ Fold enrichment of coronavirus VIPs in East Asian vs non-East Asian populations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 First, let's look at how they pored over human gene pools in various ethnic and geographic
 groups.  They did a sweep across the VIP genes, looking for statistically significant
 enrichment of the exact same mutation in group samples.  They estimated statistical
@@ -130,6 +133,7 @@ an idea of the False Positive Rate, and then got a final $p$-value by bootstrap.
 also did a Gene Ontology enrichment to reject instances explained by phenomena other than
 viral interactions.  
 
+<a href="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-3.jpg"><img src="{{ site.baseurl }}/images/2022-01-06-really-long-covid-currbiol-3-thumb.jpg" width="400" height="193" alt="Soilmi _et al.:_ Fold enrichment of coronavirus VIPs in East Asian vs non-East Asian populations" title="Soilmi _et al.:_ Fold enrichment of coronavirus VIPs in East Asian vs non-East Asian populations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The result is shown here in Figure 1 (click to embiggen).  
 - Each plot is an ethnic/geographic group.  The top row are East Asian groups; for comparison the
   bottom row are non-East Asian groups.  See how different they are?  
