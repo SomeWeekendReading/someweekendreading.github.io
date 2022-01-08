@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Really long COVID!
+title: Reeeeeeally long COVID!
 tags: COVID JournalClub Statistics PharmaAndBiotech 
 comments: true
 ---
