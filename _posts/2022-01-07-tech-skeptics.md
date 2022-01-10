@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech Skepticism
-tags: NotableAndQuotable Obscurantism &Gammad;&Tau;&Phi;
+tags: Beauty NotableAndQuotable Obscurantism &Gammad;&Tau;&Phi;
 comments: true
 ---
 
