@@ -27,9 +27,9 @@ couple years, COBOL programmers were in high demand.  Upon hearing from a candid
 he didn't want to learn COBOL, a more than usually clueless HR person replied, "Why, don't
 you like learning new things?"  
 
-_(forehead-smack)_  No, that's not learning new things.  That's learning a near-pointless
-old thing, for the convenience of someone else, that will be of no lasting benefit to the
-person who does the work.  
+_(forehead-smack)_ No, that's _not learning new things!_ That's learning a near-pointless
+old thing, for the convenience of someone else, and which will be of no lasting benefit to
+the person who does the work.  
 
 A lot of tech changes feel like that.  Just recall the last time you were forced into an
 OS update on your computer, and had to cope with all the pointless little interface
@@ -139,7 +139,7 @@ exaggeration:
 Fortunately, Doge Marcello did not listen: the age of literacy gradually dawned.  Equally
 unfortunately, Savonarola fought a rearguard action destroying much Renaissance art and writing.  
 
-Savonarola lost.  
+_Savonarola lost._  
 
 ---
 
@@ -155,8 +155,12 @@ Savonarola lost.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: J Norman, ["Scribe Filippo de Strata's Polemic Against Printing"](https://www.historyofinformation.com/detail.php?id=4276), _History of Information_, retrieved 2022-Jan-09.  The original is preserved in Venice's _Biblioteca Marciana_ (Italian Manuscripts, Class I, 72 (5074) folios iv.-2r).  This translation from Latin was done by Shelagh Grier in 1986, but not widely published (a Hayloft Press pamphlet in a limited edition of 350).[↩](#fn1a)  
+<a id="fn1">1</a>: J Norman, ["Scribe Filippo de Strata's Polemic Against Printing"](https://www.historyofinformation.com/detail.php?id=4276), _History of Information_, retrieved 2022-Jan-09.  
 
-<a id="fn2">2</a>: And look: if you have to read a 2,000 year old 3-volume poem, _in Latin_, to figure out how to get a girlfriend or boyfriend, _you're not doing it right!_  I say this as a former lonely young nerd with low social skills and a penchant for Latin, who tried exactly this.  Trust me; didn't work.  
+The original is preserved in Venice's _Biblioteca Marciana_ (Italian Manuscripts, Class I, 72 (5074) folios iv.-2r).  This translation from Latin was done by Shelagh Grier in 1986, but not widely published (a Hayloft Press pamphlet in a limited edition of 350).[↩](#fn1a)  
 
-And to this day, I'm not sure how my old Latin tutors would have felt about the attempt, had I been caught.  At least one of them would have laughed, and wished me good luck. He later became a minister, somewhat to my surprise. [↩](#fn2a)  
+<a id="fn2">2</a>: And look: if you have to read a 2,000 year old, 3-volume poem, _in Latin_, to figure out how to get a girlfriend or boyfriend&hellip; _you're not doing it right!_  
+
+I say this as a former young lonely nerd with low social skills and a penchant for Latin, who tried exactly this.  Trust me; didn't work.  
+
+To this day, I'm not sure how my old Latin tutors would have felt about the attempt, had I been caught.  (At least one of them likely would have laughed, and wished me good luck. He later became a minister, somewhat to my surprise.) [↩](#fn2a)  
