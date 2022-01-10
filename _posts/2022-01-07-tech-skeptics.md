@@ -5,9 +5,9 @@ tags: Beauty NotableAndQuotable Obscurantism &Gammad;&Tau;&Phi;
 comments: true
 ---
 
-It's fashionable lately to be skeptical about technology.  (Or everything, really.)
+It's fashionable lately to be skeptical about technology.  (Of everything, really.)
 Sometimes we don't realize how deep are the roots of suspicion of innovation, and
-(usually) how wrong.  
+(usually) how _wrong._  
 
 
 ## I get it  
@@ -16,16 +16,18 @@ I mean&hellip; I _get_ it.  People are suspicious of the motives of some fast-ta
 egghead with a new way of doing things.  Especially when you've got a perfectly good way
 of doing those things already.  
 
-Often, the "learning new things" is a dog-whistle for "change to doing it my way."  
+Often, it feels like the phrase "learning new things" is a dog-whistle for "change to
+doing it my way, so I can make a profit at the expense of your time."  
 
-I remember in the late 90s when everybody was stressing about Y2K and how all the
+I remember in the late 90s when everybody was stressing about Y2K, and how all the
 computers would melt down when the calendar changed.  A lot of the software that needed
-updating was in COBOL, a very old-fashioned language once in vogue for business
-aplications but seldom taught now.  But for those couple years, COBOL programmers were in
-high demand.  Upon hearing from a candidate that he didn't want to learn COBOL, a more
-than usually clueless HR person replied, "Why, don't you like learning new things?"  
+updating was in [COBOL](https://en.wikipedia.org/wiki/COBOL), a very old-fashioned
+language once in vogue for business aplications but seldom taught now.  But for those
+couple years, COBOL programmers were in high demand.  Upon hearing from a candidate that
+he didn't want to learn COBOL, a more than usually clueless HR person replied, "Why, don't
+you like learning new things?"  
 
-(forehead-smack)  No, that's not learning new things.  That's learning a near-pointless
+_(forehead-smack)_  No, that's not learning new things.  That's learning a near-pointless
 old thing, for the convenience of someone else, that will be of no lasting benefit to the
 person who does the work.  
 
@@ -37,12 +39,12 @@ changes.
 ## But not really  
 
 So I get the frustration.  What I _don't_ get is that some changes really _matter_, and
-that people often can't tell the difference (or won't bother to).  
+that people often can't tell the difference (or won't bother to try).  
 
 Just to make the point sharply, let's consider an historical case: the introduction of the
 printing press.  
 
-Prior to this, books were rare and expensive: each one was hand-copied, by a professional
+Prior to presses, books were rare and expensive: each one was hand-copied, by a professional
 scribe with excellent handwriting.  There were whole monasteries devoted to this: an array
 of desks, each occupied by a monk with a quill who wrote down what he heard as a senior
 monk at the front read a book aloud.  No wonder there were marginal illustrations from
@@ -50,16 +52,17 @@ bored monks.
 
 The introduction of the printing press threw all those scribes out of work.  Of course
 they objected!  They thought the printing presses were producing trashy stuff (yeah, they
-kinda were, but that's where demand was).  They thought the common folk should have no use
-for books (or education, or hygiene, or&hellip;).  They complained that printed books "had
-no soul", whatever that means.  
+kinda were sometimes, but that's where demand was).  They thought the common folk should
+have no use for books (or education, or hygiene, or&hellip;).  They complained that
+printed books "had no soul", whatever that means.  
 
 <img src="{{ site.baseurl }}/images/2022-01-07-tech-skeptics-destrata.jpg" width="400" height="560" alt="Filippo de Strata: a 15th century Venetian's jeremiad against printing" title="Filippo de Strata: a 15th century Venetian's jeremiad against printing" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Meet one Filippo de Strata, a Venetian scribe of the late 1400s, variously described as
-Dominican or Benedictine.  His whiny complaint about those degenerate printers has come
-down to us today, in translation. <sup id="fn1a">[[1]](#fn1)</sup>  
+Meet one [Filippo de Strata](http://www.medievalsourcesbibliography.org/authors.php?id=1741),
+a Venetian scribe of the late 1400s, variously described as Dominican or Benedictine.  His
+whiny complaint about those degenerate printers has come down to us today, in
+translation. <sup id="fn1a">[[1]](#fn1)</sup>  
 
-You can read most of it at the reference, but here are some of the high points.  (__NB:__
+You can read more of it at the reference, but here are some of the high points.  (__NB:__
 Where "writer" is translated, we perhaps would prefer "scribe", as that was de Strata's
 profession.)  
 
@@ -69,7 +72,7 @@ who was the 69th Doge of Venice from 1473-Aug-13 to 1474-Dec-01.  So of course w
 start off by buttering up the person with the power:  
 
 > May you hold sway for ever, Marcellan house, now seated on the throne, exalted as you
-> deserve. Doge Nicolo, you will prepare celestial realms for yourself, where you may
+> deserve. Doge Nicol&ograve;, you will prepare celestial realms for yourself, where you may
 > disport yourself joyously.  
 >  
 > You have lived a holy life as a private citizen, keeping yourself to yourself; now you
@@ -114,9 +117,9 @@ The bit about [Ovid](https://en.wikipedia.org/wiki/Ovid) is particularly choice 
 
 De Strata then paints a dark future if those evil printing presses are not stopped:  
 
-> They basely flood the market with anything suggestive of sexuality, and they print the
+> They basely flood the market with anything suggestive of sexuality, and __they print the
 > stuff at such a low price that anyone and everyone procures it for himself in
-> abundance. And so it happens that asses go to school. The printers guzzle wine and,
+> abundance.__ And so it happens that asses go to school. The printers guzzle wine and,
 > swamped in excess, bray and scoff. The Italian writer lives like a beast in a stall.  
 >  
 > [Writing] is a maiden with a pen, a harlot in print.  
@@ -129,13 +132,12 @@ exaggeration:
 
 > Should you not call her a harlot who makes us excessively amourous? Governed only by
 > avaricious gain, will not that most base woman deserve the name of prostitute, who saps
-> the strength of the young by fostering wantnoness? This is what the printing presses do:
-> they corrupt susceptible hearts. Yet the (may we say) silly asses do not see this, and
+> the strength of the young by fostering wantnoness? __This is what the printing presses do:
+> they corrupt susceptible hearts.__ Yet the (may we say) silly asses do not see this, and
 > brutes rejoice in the fraudulent title of teachers, exalting themselves &hellip;
 
-Fortunatley, Doge Marcello did not listen, and the age of literacy gradually dawned.
-Equally unfortunately, Savonarola fought a rearguard action destroying much Renaissance
-art and writing.  
+Fortunately, Doge Marcello did not listen: the age of literacy gradually dawned.  Equally
+unfortunately, Savonarola fought a rearguard action destroying much Renaissance art and writing.  
 
 Savonarola lost.  
 
