@@ -45,8 +45,8 @@ library("RCurl")                                       # For getURLContent()
 ## *** Show histogram sideways up against the y axis of the scatterplot?  (Log scale!)
 ##     See: https://www.r-bloggers.com/2012/09/example-10-3-enhanced-scatterplot-with-marginal-histograms/
 postStats <- function(## Inputs
-                      clearVars     = c("postData", "postDataSaved", "plotDone", "summaryDone"),
                       year          = NA,
+                      clearVars     = c("postData", "postDataSaved", "plotDone", "summaryDone"),
                       ## Most of the time, these defaults are what you want
                       postsDir      = "../_posts",     # Local repository of posts & comments
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
