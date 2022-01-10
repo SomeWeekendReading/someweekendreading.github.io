@@ -1,12 +1,14 @@
 ## Created on Saturday, November 27, 2021 at 9:06am EST by WeekendEditor on WeekendEditorMachine.
 ## Copyright (c) 2021, SomeWeekendReading.  All rights reserved.  As if you care.
 
-toolsDir <- "../../tools"                              # Tools available from the author
-source(file.path(toolsDir, "pipeline-tools.r"))        # Pipeline construction tools
-source(file.path(toolsDir, "graphics-tools.r"))        # Various graphics tools
+suppressPackageStartupMessages({                       # Ssshh!  Quiet in the library...
+  toolsDir <- "../../tools"                            # Tools available from the author
+  source(file.path(toolsDir, "pipeline-tools.r"))      # Pipeline construction tools
+  source(file.path(toolsDir, "graphics-tools.r"))      # Various graphics tools
 
-library("plyr")                                        # For ldply()
-library("RCurl")                                       # For getURLContent()
+  library("plyr")                                      # For ldply()
+  library("RCurl")                                     # For getURLContent()
+})                                                     #
 
 ##
 ## Collect stats on posts over time.
@@ -36,6 +38,8 @@ library("RCurl")                                       # For getURLContent()
 ## or
 ##
 ## > postData <- postStats(clear = c("postData", "postDataSaved", "plotDone")) # or a subset of those
+##
+## See also post-stats, an RScript file in this directory for use at the (Unix) command line.
 ##
 
 ## *** Do regression in left half, splice in heatmap image in right half?
@@ -311,7 +315,8 @@ postStats <- function(## Inputs
 
     cat(sprintf("\n\n* Correlation test between hits and comments:\n"))
     print(cor.test(postData$"PostHits", postData$"PostComments", method = "pearson"))
-    print(cor.test(postData$"PostHits", postData$"PostComments", method = "spearman"))
+    ## Spearman exact = FALSE to avoid warning: "Cannot compute exact p-value with ties"
+    print(cor.test(postData$"PostHits", postData$"PostComments", method = "spearman", exact = FALSE))
 
     f3 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
     withPNG(f3, plotWidth / 2, plotHeight / 2, FALSE, function() {
