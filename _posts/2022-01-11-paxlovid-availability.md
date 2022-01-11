@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FDA Authorizes Paxlovid
+title: Finding paxlovid
 tags: COVID PharmaAndBiotech 
 comments: true
 ---
