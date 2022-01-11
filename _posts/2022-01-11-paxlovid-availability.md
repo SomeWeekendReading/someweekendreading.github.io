@@ -52,10 +52,10 @@ are. <sup id="fn1a">[[1]](#fn1)</sup>
    <a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-synthesis.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-synthesis-thumb.jpg" width="400" height="264" alt="Owen, et al. @ Science: paxlovid synthesis of a few hundred grams for clinical trial" title="Owen, et al. @ Science: paxlovid synthesis of a few hundred grams for clinical trial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
    Last year, the paxlovid team published their data, including the synthesis (see
    Supplementary Info package 1 at the end of the article for synthesis of all 6 candidate
-   molecules). <sup id="fn2a">[[2]](#fn2)</sup>  The chain shown here (click to embiggen)
+   molecules). <sup id="fn2a">[[2]](#fn2)</sup>  The synthesis shown here (click to embiggen)
    is what they had to go through in order to make a measly few hundred grams of
    nirmatrelvir for the clinical trial (the ritonavir they could just buy, since it's
-   already approved for HIV).  Lowe walks you through the whole thing, explaining what the
+   already approved for HIV).  Lowe walks us through the whole thing, explaining what the
    various steps do (at least, if you're a synthetic organic chemist, so you can
    understand the explanation).  
    
