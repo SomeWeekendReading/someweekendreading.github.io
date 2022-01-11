@@ -107,9 +107,9 @@ service: it points us to a US Department of Health &amp; Human Services web site
 finding various COVID-19 therapeutics, the
 [COVID-19 Public Therapeutic Locator](https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data).  <sup id="fn4a">[[4]](#fn4)</sup>  
 
-It can find [paxlovid]({{ site.baseurl }}/paxlovid-approved),
-[molnupiravir]({{ site.baseurl }}/fda-molnupiravir), and
-[evusheld]({{ site.baseurl }}/fda-evusheld) for you.  (Did you forget evusheld?
+It can find [paxlovid]({{ site.baseurl }}/paxlovid-approved/),
+[molnupiravir]({{ site.baseurl }}/fda-molnupiravir/), and
+[evusheld]({{ site.baseurl }}/fda-evusheld/) for you.  (Did you forget evusheld?
 Remarkably many people do.)   Of course, we're most interested in paxlovid.  It can also
 do a number of visualizations like scatterplots and maps.  More interestingly to a
 grizzled old stats nerd like your humble Weekend Editor, it also supports data downloads
@@ -153,7 +153,7 @@ treatment sell out in a matter of minutes. And making it (marginally) easier to 
 vendors still doesn't fix the supply problem, it just makes it easier for flash-mobs to
 dogpile on the few places that have it in stock.  
 
-Remind you of [seeking out vaccine apppointments in March of 2021]({{ site.baseurl }}/today-i-got-shot)
+Remind you of [seeking out vaccine apppointments in March of 2021]({{ site.baseurl }}/today-i-got-shot/)
 yet?  
 
 We got work to do.  
