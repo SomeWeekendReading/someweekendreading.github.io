@@ -140,7 +140,9 @@ associated filter is shown here (click to embiggen):
 The result is pretty interesting, shown here (click to embiggen).  There are exactly 3
 vendors in the extended metro Boston area that have paxlovid in supply (18-20 courses of
 treatment available).  That's 58 courses of treatment for about 4.87 million people
-(0.000019 courses/person)!  Yes, I think that qualifies as "hard to find".  
+(0.000019 courses/person)!  
+
+Yes, I think that officially qualifies as "hard to find".  
 
 Interestingly, when I first ran this query a couple hours ago researching this article,
 there were something like a dozen vendors (in just Middlesex and Suffolk counties).  So
@@ -151,7 +153,8 @@ treatment sell out in a matter of minutes. And making it (marginally) easier to 
 vendors still doesn't fix the supply problem, it just makes it easier for flash-mobs to
 dogpile on the few places that have it in stock.  
 
-Remind you of seeking out vaccine apppointments in March of 2020 yet?  
+Remind you of [seeking out vaccine apppointments in March of 2021]({{ site.baseurl }}today-i-got-shot)
+yet?  
 
 We got work to do.  
 
