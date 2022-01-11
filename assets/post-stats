@@ -11,25 +11,25 @@
 ##
 
 loadScript <- function() {                             # Source main script into global env
-  myArgs <- commandArgs(FALSE)                         # ALL args, incl Rscript craziness
-  myFile <- pmatch("--file=", myArgs)                  # Find the --file arg to Rscript
+  myArgs <- commandArgs(FALSE)                         # ALL args, INCLUDING Rscript craziness
+  myFile <- pmatch("--file=", myArgs)                  # Find the --file arg to Rscript (the script)
   stopifnot(!is.na(myFile))                            # It must be present to proceed!
   ## Script is in same dir as this launcher & may source other stuff relative to that, so
   ## find dir of this script, pushd to it, source script into global env, then popd back.
   ## All of that can be done via judicious use of: source(..., chdir = TRUE, ...).
-  ## *** Clumsily, the script assumes the current dir is where the script lives, so put in a global
-  scriptDir <- normalizePath(file.path(normalizePath(getwd()),
-                                       dirname(substring(myArgs[myFile],
-                                                         first = 1 + nchar("--file=")))))
-  source(file.path(scriptDir, "post-stats.r"),         # Full pathname (poss rel to curr dir)
+  source(file.path(normalizePath(file.path(normalizePath(getwd()),
+                                           dirname(substring(myArgs[myFile],
+                                                             first = 1 + nchar("--file="))))),
+                   "post-stats.r"),                    # Full pathname (poss rel to curr dir)
          chdir = TRUE,                                 # Temp dir change to script file's home
          local = FALSE)                                # Load into the GLOBAL environment
-  scriptDir                                            # Return the script directory
+  invisible(NA)                                        # Return nothing of interest
 }                                                      #
 
-## NB: scriptDir, scriptArgs & loadScript are only vars bound after script loading & when script runs
-scriptDir <- loadScript()                              # Source from its dir to global env
-setwd(scriptDir);                                      # *** Clumsily, script assumes it's in working dir
+## *** Accept args in keyword form --year, --clearVars, --destDir, --txFile
+## *** Also process --help argument, which invalidates all other arguments
+## NB: scriptArgs & loadScript are only vars bound after script loading & when script runs
+loadScript()                                           # Source from its dir to global env
 scriptArgs <- commandArgs(TRUE)                        # The "real" script arguments
 system.time(switch(as.character(length(scriptArgs)),   # Dispatch on number of args (as strings,
                    "0" = postStats(),                  #  so can be tagged & have error clause)

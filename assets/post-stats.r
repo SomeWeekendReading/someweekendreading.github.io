@@ -2,6 +2,7 @@
 ## Copyright (c) 2021, SomeWeekendReading.  All rights reserved.  As if you care.
 
 suppressPackageStartupMessages({                       # Ssshh!  Quiet in the library...
+  ## NB: relative pathname works here because the launch script pushd's to this directory when loading
   toolsDir <- "../../tools"                            # Tools available from the author
   source(file.path(toolsDir, "pipeline-tools.r"))      # Pipeline construction tools
   source(file.path(toolsDir, "graphics-tools.r"))      # Various graphics tools
@@ -52,10 +53,11 @@ postStats <- function(## Inputs
                       year          = NA,
                       clearVars     = c("postData", "postDataSaved", "plotDone", "summaryDone"),
                       ## Most of the time, these defaults are what you want
-                      postsDir      = "../_posts",     # Local repository of posts & comments
+                      blogRoot      = "/Users/sgr/Documents/laboratory/someweekendreading.github.io",
+                      postsDir      = file.path(blogRoot, "_posts"),
+                      commentsDir   = file.path(blogRoot, "_data/comments"),
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
                       postPatt      = "^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)\\.md$",
-                      commentsDir   = "../_data/comments",
                       commentPatt   = "^.*entry([0-9]+)\\.yml$",
                       ## 1 capture group: get the integer value from the JSON returned
                       jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$",
@@ -68,8 +70,8 @@ postStats <- function(## Inputs
                       plotHeight    = plotWidth,       # 2x2 array of plots, so why not square?
                       clGray        = gray(level = 0.80, alpha = 0.50),
 
-                      ## Outputs (most of the time, these defaults are what you want, except txFile)
-                      destDir  = "../_drafts",         # Directory where results get written
+                      ## Outputs (mostly, these defaults are what you want, except txFile and destDir)
+                      destDir  = file.path(blogRoot, "_drafts"),
                       txFile   = sprintf("post-stats-%s.txt", format(today, format = "%Y-%b-%d")),
                       dataFile = if (is.null(txFile))
                                    NULL
