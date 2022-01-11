@@ -115,7 +115,7 @@ do a number of visualizations like scatterplots and maps.  More interestingly to
 grizzled old stats nerd like your humble Weekend Editor, it also supports data downloads
 for independent analysis.  I think we need to say "well done" to the HHS on this one.  
 
-<a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-weekend-publisher-unconcerned.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-weekend-publisher-unconcerned-thumb.jpg" width="400" height="533" alt="The Weekend Publisher is unconcerned about your COVID-19 stuff." title="The Weekend Publisher is unconcerned about your COVID-19 stuff." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-weekend-publisher-unconcerned.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-weekend-publisher-unconcerned-thumb.jpg" width="200" height="267" alt="The Weekend Publisher is unconcerned about your COVID-19 stuff." title="The Weekend Publisher is unconcerned about your COVID-19 stuff." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Ok, your humble Weekend Editor does not (yet) have COVID-19.  Nor do the Weekend Editrix
 nor the Weekend Publisher.  But are we gonna try this thing out anyway?  (glares out the
 screen at you)  
