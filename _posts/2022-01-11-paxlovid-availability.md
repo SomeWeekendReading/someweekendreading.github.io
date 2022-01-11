@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding paxlovid
-tags: COVID PharmaAndBiotech 
+tags: CatBlogging COVID PharmaAndBiotech 
 comments: true
 ---
 
