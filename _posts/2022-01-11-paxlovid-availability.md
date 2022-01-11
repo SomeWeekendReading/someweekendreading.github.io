@@ -174,7 +174,7 @@ We got work to do.
 
 <a id="fn1">1</a>: D Lowe, ["Making Paxlovid"](https://www.science.org/content/blog-post/making-paxlovid), _In the Pipeline_ blog at _Science Translational Medicine_, 2022-Jan-05. [↩](#fn1a)  
 
-<a id="fn2">2</a>: D Owen, _et al., ["An oral SARS-CoV-2 Mpro inhibitor clinical candidate for the treatment of COVID-19"](https://www.science.org/doi/10.1126/science.abl4784), _Science_ 374:6575, 2021-Nov-02.  DOI: [10.1126/science.abl4784](https://doi.org/10.1126/science.abl4784) [↩](#fn2a)  
+<a id="fn2">2</a>: D Owen, _et al.,_ ["An oral SARS-CoV-2 Mpro inhibitor clinical candidate for the treatment of COVID-19"](https://www.science.org/doi/10.1126/science.abl4784), _Science_ 374:6575, 2021-Nov-02.  DOI: [10.1126/science.abl4784](https://doi.org/10.1126/science.abl4784) [↩](#fn2a)  
 
 <a id="fn3">3</a>: S Lupkin, ["The COVID antiviral drugs are here but they're scarce. Here's what to know"](https://www.npr.org/sections/health-shots/2021/12/31/1069323181/covid-antivirals-paxlovid-molnupiravir), _NPR_ from _Weekend Edition Sunday_, 2021-12-31. [↩](#fn3a)  
 
