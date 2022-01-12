@@ -54,7 +54,7 @@ I waded through all that, so you don't have to.  Here are the high points:
     SARS-CoV2 spike protein.  
   - Doing combination therapy (yay!) like this confers some robustness against mutation.
     None of the Omicron mutations relevant to evusheld neutralized it.  _In vitro_
-    experiments show evushelt works against Delta and Mu, also.  
+    experiments show evusheld works against Delta and Mu, also.  
 - Unlike other antibody therapies, these have been engineered to have a long lifetime in
   the body, like 6 months, maybe up to 12.  (I have no idea how that works, given that
   until today I didn't know it was possible.  Things move fast, or at least faster than

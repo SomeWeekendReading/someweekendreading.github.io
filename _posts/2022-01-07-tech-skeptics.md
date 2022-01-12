@@ -84,7 +84,8 @@ start off by buttering up the person with the power:
 &hellip; and so on.  And on.  And on.  
 
 Next the complaint about printing presses.  De Strata helpfully informs us that they're
-invented by icky nerds, and print nothing but dumb crap that should be banned (emphasis added):  
+invented by a bunch of icky nerds, and print nothing but dumb crap that should probably be
+banned anyway (emphasis added):  
 
 > I know that you always __hate printed books crammed with the foolishness of common folk__,
 > and that you follow sound precepts. The things I have described do not apply to you, but

@@ -113,7 +113,9 @@ It can find [paxlovid]({{ site.baseurl }}/paxlovid-approved/),
 Remarkably many people do.)   Of course, we're most interested in paxlovid.  It can also
 do a number of visualizations like scatterplots and maps.  More interestingly to a
 grizzled old stats nerd like your humble Weekend Editor, it also supports data downloads
-for independent analysis.  I think we need to say "well done" to the HHS on this one.  
+for independent analysis.  
+
+I think we need to say "well done" to the HHS on this one.  
 
 <a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-weekend-publisher-unconcerned.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-weekend-publisher-unconcerned-thumb.jpg" width="200" height="267" alt="The Weekend Publisher is unconcerned about your COVID-19 stuff." title="The Weekend Publisher is unconcerned about your COVID-19 stuff." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Ok, your humble Weekend Editor does not (yet) have COVID-19.  Nor do the Weekend Editrix
@@ -124,7 +126,7 @@ Of course we are.
 
 So I imagined the unwelcome scenario where I had to hunt down a way to fill a paxlovid
 scrip for one of us here at Chez Weekend.  (Well, maybe not the cat. He, as you can see
-here (click to embiggen), is unconcerned about your COVID-19 stuff.  It's a tomcat thing.)  
+here &ndash; click to embiggen &ndash; is unconcerned about your COVID-19 stuff.  It's a tomcat thing.)  
 
 
 <a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-filter.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-filter-thumb.jpg" width="200" height="547" alt="HealthData.gov: filters based on US state, counties, paxlovid, and availability" title="HealthData.gov: filters based on US state, counties, paxlovid, and availability" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
