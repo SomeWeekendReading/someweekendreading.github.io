@@ -117,7 +117,7 @@ reasons, too.
 The peak will happen soon: late January or February.  
 
 __Conclusion:__ Paxlovid available in April might as well be paxlovid available on Mars.
-Prepare to deal with Omicron by stocking up on food, medications, and live carefully
+Prepare to deal with Omicron by stocking up on food, medications, and living carefully
 enough to stay out of hospital for 4-6 weeks.  
 
 ---
