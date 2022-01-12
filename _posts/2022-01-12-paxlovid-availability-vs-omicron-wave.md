@@ -9,10 +9,9 @@ The Omicron wave is coming.  [Paxlovid is scarce]({{ site.baseurl }}/paxlovid-av
 Which way will it go?  
 
 
-## Omicron is coming to town&hellp; will paxlovid help?  
+## Omicron is coming to town&hellip; will paxlovid help?  
 
 As we [demonstrated yesterday, paxlovid is in very short supply]({{ site.baseurl }}/paxlovid-availability/#still-how-can-i-get-me-some-of-that-stuff):
-
 only 58 courses yesterday afternoon, for the metro Boston population of about 4.87
 million.  That's scarcity on a level that qualifies as "uselessly impossible" for most
 people to find.  
@@ -29,7 +28,7 @@ ventilator usage, and deaths.  The timing is crucial: which comes first, the Omi
 or rescue by paxlovid?  
 
 Alas, it appears the Omicron peak will happen first. Consider the IHME projections for
-COVID-19 for the next month in Massachusetts. <sup id="fn5a">[[5]](#fn5)</sup>  
+COVID-19 for the next month in Massachusetts. <sup id="fn1a">[[1]](#fn1)</sup>  
 - All the pictures below are linked to full-size images, so click to embiggen.  
 - In these graphs, the projections happen under various scenarios: no changes, Omicron much more
   severe, mask usage goes up to 80%, most people get a booster dose of vaccine, or vaccine
