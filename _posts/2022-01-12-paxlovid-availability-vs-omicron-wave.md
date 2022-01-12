@@ -99,6 +99,14 @@ __Cumulative deaths:__
 - Current deaths are about 20k, so this means Omicron will layer on top of that an
   additional 5% - 25% more of the current total.  
 
+__The Scenarios:__ Remember those various scenarios above around mask use, vaccination,
+and so on?  See how the projection lines don't separate much from each other?  Basically,
+the conclusion is that _there's not much we can do about this._  We're gonna get an
+Omicron wave and it will be pretty bad.  Prepare for that.  
+
+Afterwards, it might be better.  But the next month or month and a half will be other than
+we prefer.  
+
 
 ## The Weekend Conclusion  
 
