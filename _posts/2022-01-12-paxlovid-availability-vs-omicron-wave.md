@@ -35,7 +35,7 @@ COVID-19 for the next month in Massachusetts. <sup id="fn1a">[[1]](#fn1)</sup>
   hesitancy is reduced so the holdouts get vaccinated.  Each scenario is indicated by the
   color of the dashed projection curve at the right-hand side.  
 - The color regions around the curve indicate uncertainty.  While they didn't document
-  _exactly what_ &alpha; level this was, I'm assuming it's the traditional 95% confidence
+  _exactly what_ $\alpha$ level this was, I'm assuming it's the traditional 95% confidence
   interval.  
 - There's an important conclusion to draw from the way the scenario projections separate
   from each other in the Omicron wave.  Can you guess what it is before I smack you in the
