@@ -26,7 +26,7 @@ I'm going to vent a certain amount of invective about ivermectin here, but don't
 wrong: it's a perfectly fine drug, _in the case of parasite infestations._ Campbell &amp;
 Omura even got the 2015 Nobel in medicine for its discovery in the 1970s.  It's even
 on the
-[WHO's list of esential medicines](https://en.wikipedia.org/wiki/WHO_Model_List_of_Essential_Medicines#Anthelminthics).
+[WHO's list of essential medicines](https://en.wikipedia.org/wiki/WHO_Model_List_of_Essential_Medicines#Anthelminthics).
 If you have worms, ivermectin is your new best friend.  If you don't, then not.  
 
 So please understand: my animus on the subject is not about ivermectin for the usual
@@ -50,8 +50,8 @@ people immediately dived down the intellectual rathole of speculation that molnu
 just repackaged ivermectin (because Merck makes both, and ivermectin is a cheap generic,
 thus less profitable).  
 
-It was so bad, and so _immediate_, that _Reuters_ ran 2 Fact Checks on it, and they're
-just not even remotely similar <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>:  
+It was so bad, and so _immediate_, that _Reuters_ ran 2 Fact Checks on it.  Ivermectin and
+molnupiravir are just not even remotely similar <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>:  
 - Ivermectin is a macrolytic lactone derived from a bacterium, acting on glutamate-gated
   chloride ion channels found all over in worms and insects.  Wedge those channels open,
   the chloride ions flow freely, hyper-polarizing the membrane involved, which paralyzes

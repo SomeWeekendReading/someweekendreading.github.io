@@ -167,7 +167,7 @@ We got work to do.
 ## Addendum 2022-Jan-12: Comparison to the Omicron tsunami  
 
 I took a look at the IHME dataset for predictions of the Omicron tsunami (we can't really
-call it just a wave any more).  The big question is: Will paxlovid become
+call it just a _wave_ any more, right?).  The big question is: Will paxlovid become
 available in time to save us from Omicron?  The big answer is: No.  
 
 So check out [tomorrow's post]({{ site.baseurl }}/paxlovid-availability-vs-omicron-wave)
