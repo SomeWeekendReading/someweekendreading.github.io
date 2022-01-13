@@ -13,10 +13,14 @@ you score some paxlovid?!
 ## More supply chain frustration?!  
 
 Remember last spring when vaccines were being rolled out?  The glacial speed, bungled
-supply chains, and general chaos?  
+supply chains, and general chaos?  (Not to mention the Republican disinformation
+campaigns!)  
 
 Welcome to the second act: the rollout of antiviral therapies like paxlovid and
-molnupiravir&hellip; with glacial speed, bungled supply chains, and general chaos.  
+molnupiravir&hellip; with glacial speed, bungled supply chains, and general chaos.
+(Though so far, the conservative disinformation campaign seems to consist largely of
+people claiming that paxlovid and molnupiravir are just ivermectin or hydroxychloroquine
+repackaged at a higher price.  The people saying that seem to be utterly fact-proof.)  
 
 <img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-pipeline.jpg" width="400" height="269" alt="Derek Lowe @ In the Pipeline: Making paxlovid" title="Derek Lowe @ In the Pipeline: Making paxlovid" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Part of the problem is the supply right now is approximately 0, and it's hard to
@@ -37,21 +41,21 @@ are. <sup id="fn1a">[[1]](#fn1)</sup>
    appropriate bulk materials), packaged, shipped, delivered to pharmacies/hospitals/clincs&hellip;
    and it all has to be done as soon as possible.  
 2. _Synthesis:_  Metric-ton level synthesis does not happen in funky little laboratories
-   with glassware all over.  It takes a big, noisy, smelly chemical plant.  Some of them
-   are special-purpose, making only 1 precursor.  
+   with peculiar bits of glassware all over.  It takes a big, noisy, smelly chemical
+   plant.  Some of them are special-purpose, making only 1 precursor.  
 3. _Chemical supply chain for reagents:_  There are a lot of inputs, so you won't make
    them all yourself.  You'll buy them.  Or, at least attempt to buy them.  The resulting
    chemical supply chain involves dozens of factories all over the world.  
-4. _Foreign suppliers:_  Inevitably, most of the inputs to the process are from overseas,
+4. _Foreign suppliers:_ Inevitably, most of the inputs to the process are from overseas,
    mostly Chinese because apparently that made sense to some MBAs at some point.  (__NB:__
-   Like many scientists, I use "MBA" in its pejorative sense.)  The US does not have that
-   kind of capacity any more because of outsourcing, and we can't build it in less than
-   probably a decade.  
+   Like many scientists, I use "MBA" in its rather more pejorative sense.)  The US does
+   not have that kind of capacity any more because of outsourcing, and we can't build it
+   in less than probably a decade.  
 
    <img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-paxlovid-paper.jpg" width="400" height="175" alt="Owen, et al. in Science: paxlovid publication, including synthesis" title="Owen, et al. in Science: paxlovid publication, including synthesis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
    <a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-synthesis.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-synthesis-thumb.jpg" width="400" height="264" alt="Owen, et al. @ Science: paxlovid synthesis of a few hundred grams for clinical trial" title="Owen, et al. @ Science: paxlovid synthesis of a few hundred grams for clinical trial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
    Last year, the paxlovid team published their data, including the synthesis (see
-   Supplementary Info package 1 at the end of the article for synthesis of all 6 candidate
+   Supplementary Info, package 1, at the end of the article for synthesis of all 6 candidate
    molecules). <sup id="fn2a">[[2]](#fn2)</sup>  The synthesis shown here (click to embiggen)
    is what they had to go through in order to make a measly few hundred grams of
    nirmatrelvir for the clinical trial (the ritonavir they could just buy, since it's
@@ -128,15 +132,14 @@ So I imagined the unwelcome scenario where I had to hunt down a way to fill a pa
 scrip for one of us here at Chez Weekend.  (Well, maybe not the cat. He, as you can see
 here &ndash; click to embiggen &ndash; is unconcerned about your COVID-19 stuff.  It's a tomcat thing.)  
 
-
 <a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-filter.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-filter-thumb.jpg" width="200" height="547" alt="HealthData.gov: filters based on US state, counties, paxlovid, and availability" title="HealthData.gov: filters based on US state, counties, paxlovid, and availability" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-result.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-result-thumb.jpg" width="400" height="61" alt="HealthData.gov: search results" title="HealthData.gov: search results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So I put in the parameters for Ch&acirc;teau Weekend, hoping (without much hope) to find
 paxlovid available somewhere within sailing distance in the Weekend Zeppelin.  The
 associated filter is shown here (click to embiggen):  
-- Set the state to Massachusetts  
-- Set the county to Middlesex, Suffolk, Norfolk, or Essex: the Boston-adjacent counties  
-- The medication ("Order Label") is paxlovid  
+- Set the state to Massachusetts.  
+- Set the county to Middlesex, Suffolk, Norfolk, or Essex: the Boston-adjacent counties.  
+- The medication ("Order Label") is paxlovid.  
 - The courses available are &ge; 0, i.e., not sold out.  
 
 The result is pretty interesting, shown here (click to embiggen).  There are exactly 3
@@ -153,12 +156,22 @@ over the course of a couple hours, most of the vendors sold out.
 So this is not a complete solution.  Empirically, we observe that paxlovid courses of
 treatment sell out in a matter of minutes. And making it (marginally) easier to find
 vendors still doesn't fix the supply problem, it just makes it easier for flash-mobs to
-dogpile on the few places that have it in stock.  
+dogpile on the few places that have what little stock there is.  
 
 Remind you of [seeking out vaccine apppointments in March of 2021]({{ site.baseurl }}/today-i-got-shot/)
 yet?  
 
 We got work to do.  
+
+
+## Addendum 2022-Jan-12: Comparison to the Omicron tsunami  
+
+I took a look at the IHME dataset for predictions of the Omicron tsunami (we can't really
+call it just a wave any more).  The big question is: Will paxlovid become
+available in time to save us from Omicron?  The big answer is: No.  
+
+So check out [tomorrow's post]({{ site.baseurl }}/paxlovid-availability-vs-omicron-wave)
+for that.  
 
 ---
 
