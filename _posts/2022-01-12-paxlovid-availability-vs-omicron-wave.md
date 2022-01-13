@@ -27,8 +27,11 @@ There's a _tsunami_ coming of Omicron infections, hospitalizations, ICU admissio
 ventilator usage, and deaths.  The timing is crucial: which comes first, the Omicron peak
 or rescue by paxlovid?  
 
-Alas, it appears the Omicron peak will happen first. Consider the IHME projections for
-COVID-19 for the next month in Massachusetts. <sup id="fn1a">[[1]](#fn1)</sup>  
+Alas, it appears the Omicron peak will happen first.  Inspired by
+[TheZvi](https://thezvi.wordpress.com/2022/01/10/the-ihme-report/), who looked at the IHME
+report for the entire United States, we consider the IHME projections for
+COVID-19 for the next month in our corner of the world,
+Massachusetts. <sup id="fn1a">[[1]](#fn1)</sup>  
 - All the pictures below are linked to full-size images, so click to embiggen.  
 - In these graphs, the projections happen under various scenarios: no changes, Omicron much more
   severe, mask usage goes up to 80%, most people get a booster dose of vaccine, or vaccine
