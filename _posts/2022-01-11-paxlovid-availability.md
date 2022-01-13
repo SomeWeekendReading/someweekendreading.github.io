@@ -133,7 +133,6 @@ scrip for one of us here at Chez Weekend.  (Well, maybe not the cat. He, as you 
 here &ndash; click to embiggen &ndash; is unconcerned about your COVID-19 stuff.  It's a tomcat thing.)  
 
 <a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-filter.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-filter-thumb.jpg" width="200" height="547" alt="HealthData.gov: filters based on US state, counties, paxlovid, and availability" title="HealthData.gov: filters based on US state, counties, paxlovid, and availability" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-<a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-result.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-result-thumb.jpg" width="400" height="61" alt="HealthData.gov: search results" title="HealthData.gov: search results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So I put in the parameters for Ch&acirc;teau Weekend, hoping (without much hope) to find
 paxlovid available somewhere within sailing distance in the Weekend Zeppelin.  The
 associated filter is shown here (click to embiggen):  
@@ -142,6 +141,7 @@ associated filter is shown here (click to embiggen):
 - The medication ("Order Label") is paxlovid.  
 - The courses available are &ge; 0, i.e., not sold out.  
 
+<a href="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-result.jpg"><img src="{{ site.baseurl }}/images/2022-01-11-paxlovid-availability-locator-result-thumb.jpg" width="400" height="61" alt="HealthData.gov: search results" title="HealthData.gov: search results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The result is pretty interesting, shown here (click to embiggen).  There are exactly 3
 vendors in the extended metro Boston area that have paxlovid in supply (18-20 courses of
 treatment available).  That's 58 courses of treatment for about 4.87 million people
