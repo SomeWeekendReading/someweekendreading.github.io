@@ -28,13 +28,15 @@ loadScript <- function() {                             # Source main script into
 
 ## *** Accept args in keyword form --year, --clearVars, --destDir, --txFile
 ## *** Also process --help argument, which invalidates all other arguments
-## NB: scriptArgs & loadScript are only vars bound after script loading & when script runs
 loadScript()                                           # Source from its dir to global env
 scriptArgs <- commandArgs(TRUE)                        # The "real" script arguments
-system.time(switch(as.character(length(scriptArgs)),   # Dispatch on number of args (as strings,
-                   "0" = postStats(),                  #  so can be tagged & have error clause)
-                   "1" = postStats(year = as.integer(scriptArgs[[1]])),
-                   stop(sprintf("Args should be either nothing or year; got: %s",
+## NB: scriptArgs & loadScript are only vars bound after script loading & when script runs.
+## So removing them before launching gets a clean environment with the R script loaded.
+system.time(switch(as.character(length(scriptArgs)),   # Dispatch on number of args (strings, to dispatch)
+                   "0" = { rm("loadScript", "scriptArgs"); postStats()                     },
+                   ## *** Can't delete scriptArgs since it's needed in the call?
+                   "1" = { rm("loadScript"); postStats(year = as.integer(scriptArgs[[1]])) },
+                   stop(sprintf("Args should be either nothing or the year; instead got: %s",
                                 paste(scriptArgs, sep = ",")))),
             gcFirst = TRUE)                            # Clean up memory BEFORE starting
 q(status = 0)                                          # Normal exit code, if we get this far

@@ -63,6 +63,8 @@ postStats <- function(## Inputs
                       jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$",
                       blogName      = "www.someweekendreading.blog",
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
+                      ## *** 2022-Jan-14: SSL certificate is expired; emailed developer
+                      sslVerify     = FALSE, # TRUE,
                       hitStartDate  = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
                       postStartDate = as.Date("2020-Jul-01", format = "%Y-%b-%d"),
                       today         = Sys.Date(),      # Today is when hits get measured
@@ -121,9 +123,8 @@ postStats <- function(## Inputs
                                                             gsub("/", "\\.",
                                                                  URLencode(sprintf("/%s/",
                                                                                    postRoot)))),
-                                                    ## 2022-Jan-14: SSL certificate expired; emailed dev
-                                                    .opts = RCurl::curlOptions(ssl.verifypeer=FALSE)
-                                                    ))),
+                                                    .opts = RCurl::curlOptions(
+                                                              ssl.verifypeer = sslVerify)))),
                  HitsStart    = hitStartDate,          # Keep track of when we started counting,
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
