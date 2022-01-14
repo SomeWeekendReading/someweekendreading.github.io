@@ -120,7 +120,10 @@ postStats <- function(## Inputs
                                                             countURL,
                                                             gsub("/", "\\.",
                                                                  URLencode(sprintf("/%s/",
-                                                                                   postRoot))))))),
+                                                                                   postRoot)))),
+                                                    ## 2022-Jan-14: SSL certificate expired; emailed dev
+                                                    .opts = RCurl::curlOptions(ssl.verifypeer=FALSE)
+                                                    ))),
                  HitsStart    = hitStartDate,          # Keep track of when we started counting,
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
