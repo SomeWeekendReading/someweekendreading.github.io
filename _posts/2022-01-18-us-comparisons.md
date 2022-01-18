@@ -54,6 +54,8 @@ Why do we insist on being like _Russia_, when we could instead be like Japan?
 
 Also, it's interesting to look at a couple other countries on that list.  
 
+#### Mexico  
+
 Let's start with Mexico.  In spite of being poorer and having an unending drug war with
 the narco traffickers, they are very sensibly at 84% vaccinated, and a negligible fraction
 who are vaccine-defiant.  And Mexico is, by and large, more religious than the US, so
@@ -74,10 +76,10 @@ but _laughably_ false, as _FactCheck.org_ reminds us <sup id="fn1a">[[1]](#fn1)<
 
 They go on considerably in that vein, quoting vile Republican politicians like Florida
 governor DeSantis, Iowa governor Reynolds, and Texas governor Abbot.  All of them spewing
-vile, racist, xenophobic nonsense straight into the anry id of their base voters.  Who
-are, it needs reminding, very base indeed.  
+racist, xenophobic nonsense straight into the anry id of their base voters.  Who
+are, it needs reminding, _very_ base indeed.  
 
-They go to some effort to debunk this notion, including looking at phylogenetic data on
+FactCheck.org goes to some effort to debunk this notion, including looking at phylogenetic data on
 the viral genomes to show that the spread is, if anything, going _the other way_ from the
 US to Mexico and South America:  
 
@@ -90,6 +92,8 @@ US to Mexico and South America:
 
 In fact, there is a much better explanation for COVID-19 hot spots in the US: they are
 conservative Republican areas with low vaccination rates.  Self-inflicted wound, that.  
+
+#### France  
 
 Hey, what about France?  Conservatives hate France, thinking of it as some European
 socialist hellhole, right?  I worked many years for a French company, and have nothing but
