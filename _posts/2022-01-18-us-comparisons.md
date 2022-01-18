@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing the US Pandemic to Other Countries
+title: Comparing the US COVID-19 Pandemic to Other Countries
 tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
@@ -12,7 +12,7 @@ Republicans love to diss?
 ## Vaccination Rates  
 
 From _Morning Consult_ comes this comparison of vaccination rates (vaccinated, planned,
-uncertain (?!), and unwilling):  
+uncertain (how can anybody be _uncertain?!_), and unwilling):  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -39,7 +39,7 @@ We both have dominant propaganda channels in our media, feeding us nonsense!
   and whole swaths of the country with nothing but media from 
   [Sinclair Broadcast Group](https://en.wikipedia.org/wiki/Sinclair_Broadcast_Group), all
   run more or less by Western oligarchs in the service of the wealthy, the Republicans,
-  and&hellip; most regrettably, Trump.  
+  and&hellip; regrettably, Trump.  
   
 With that much intellectual sewage pumped under high pressure into American minds,
 particularly in rural areas, it's surprising only 1/5th of the population is insane.  
@@ -59,6 +59,7 @@ the narco traffickers, they are very sensibly at 84% vaccinated, and a negligibl
 who are vaccine-defiant.  And Mexico is, by and large, more religious than the US, so
 using "religion" as an explanation of US vaccine defiance is just dumb.  
 
+<img src="{{ site.baseurl }}/images/2022-01-18-us-comparisons-factcheck.jpg" width="400" height="243" alt="Farley @ FactCheck.org: Immigrants not responsible for COVID-19 surge" title="Farley @ FactCheck.org: Immigrants not responsible for COVID-19 surge" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The other thing that comes to mind is repeated racist, xenophobic Republican claims that
 Mexicans are surging over the border bringing COVID-19, so&hellip; something something
 something.  Inevitably, "Trump's Wall" is invoked.  This is, of course, not just false,
@@ -128,7 +129,7 @@ France has dramatically _less_ unemployment than the US, not more, as the Republ
 dream  holds.  Krugman shows us the grap of employment fraction of ages 25-54 over the
 pandemic (data from FRED, Eurostat).  
 - US companies immediately jettisoned workers overboard into the storm-tossed pandemic
-  sea, like dumping excess cargo.  
+  sea, like distressed ships dumping excess cargo.  
 - France, on the other hand, offered subsidies to keep furloughed employees on the
   payroll.  Hence when they were vaccinated they were immediately available to return to
   work.  They did not have the "worker shortage" we have in the US, because wages are kept
@@ -144,9 +145,9 @@ Krugman's conclusion, which I endorse (for what little that's worth):
 > dreams, has its own ugly white nationalist movement, albeit not as powerful as ours.  
 >  
 > Still, at a time when Republicans denounce as destructive "socialism" any effort to make
-> America less unequal, it's worth knowing that the economy of France &ndash; which isn't
+> America less unequal, __it's worth knowing that the economy of France &ndash; which isn't
 > socialist but comes far closer to socialism than anything Democrats might propose &ndash; is
-> doing pretty well.  
+> doing pretty well.__  
   
 We should aspire to do likewise.  
 
