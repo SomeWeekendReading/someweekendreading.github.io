@@ -140,7 +140,7 @@ pandemic (data from FRED, Eurostat).
   too low to make the job desirable to anybody who's not starving.  It helps that they
   have universal child care, so parents _could_ return to work!  
   
-Krugman's conclusion, which I endorse (for what little that's worth):  
+Krugman's conclusion, which I endorse (for what little that's worth; __emphasis__ added):  
 
 > I don't want to romanticize the French economy or French society, both of which have
 > plenty of problems. And liberals who like to imagine that we could neutralize the anger
