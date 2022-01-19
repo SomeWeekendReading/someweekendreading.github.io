@@ -162,8 +162,8 @@ budget.  But here we are: an orally available protease inhibitor combination dru
 has about 89% efficacy in preventing hospitalization.  
 
 _That_&hellip; is good work.  I've never seen anything that even comes close to this.  We
-can't repeat the lucky starting point, but we can appreciate that prior research is
-something of which _you never let go._  
+can't repeat the lucky starting point, but we can appreciate that _you never let go_ of
+prior research.  
 
 
 ## Activity vs the SARS-CoV2 Omicron variant  
