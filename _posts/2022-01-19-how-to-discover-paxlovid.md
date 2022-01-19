@@ -275,7 +275,7 @@ I prefer the latter.
 
 <a id="fn2">2</a>: B Halford, ["How Pfizer scientists transformed an old drug lead into a COVID-19 antiviral"](https://cen.acs.org/pharmaceuticals/drug-discovery/How-Pfizer-scientists-transformed-an-old-drug-lead-into-a-COVID-19-antiviral/100/i3), _Chemical &amp; Engineering News_, 100:3, 2022-Jan-14. [↩](#fn2a)  
 
-<a id="fn3">3</a>: [Pfizer Media Relations](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-shares-vitro-efficacy-novel-covid-19-oral-treatment), ["Pfizer Shares In Vitro Efficacy of Novel COVID-19 Oral Treatment Against Omicron Variant"](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-shares-vitro-efficacy-novel-covid-19-oral-treatment), _Pfizer Press Releases_, 2022-Jan-18. [↩](#fn3a)  
+<a id="fn3">3</a>: [Pfizer Media Relations](mailto:PfizerMediaRelations@pfizer.com), ["Pfizer Shares In Vitro Efficacy of Novel COVID-19 Oral Treatment Against Omicron Variant"](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-shares-vitro-efficacy-novel-covid-19-oral-treatment), _Pfizer Press Releases_, 2022-Jan-18. [↩](#fn3a)  
 
 <a id="fn4">4</a>: S Ullrich, _et al.,_ ["Main protease mutants of SARS-CoV-2 variants remain susceptible to nirmatrelvir (PF-07321332)"](https://www.biorxiv.org/content/10.1101/2021.11.28.470226v2), _bioR&chi;iv_, posted 2022-Jan-04.  DOI: [10.1101/2021.11.28.470226](https://doi.org/10.1101/2021.11.28.470226). [↩](#fn4a)  
 
