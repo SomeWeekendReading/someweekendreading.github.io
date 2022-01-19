@@ -86,7 +86,7 @@ mostly-ready drug for a related disease, crash-priority funding and more or less
 resources, and a dedicated team of smart (and slightly desperate) people.  
 
 <img src="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-lowe.jpg" width="400" height="289" alt="Derek Lowe @ In the Pipeline: Discovering Paxlovid" title="Derek Lowe @ In the Pipeline: Discovering Paxlovid" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-cen-1.jpg" width="400" height="197" alt="Halford @ C&amp;EN: Paxlovid med-chem optimization process" title="Halford @ C&amp;EN: Paxlovid med-chem optimization process" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-cen-1.jpg" width="400" height="197" alt="Halford @ C&amp;E News: Paxlovid med-chem optimization process" title="Halford @ C&amp;E News: Paxlovid med-chem optimization process" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And that's today's story, brought to us by masterful med-chem blogger Derek Lowe at _In
 the Pipeline_ <sup id="fn1a">[[1]](#fn1)</sup>, starting from an article in _Chemical
 &amp; Engineering News_ by Bethany Halford. <sup id="fn2a">[[2]](#fn2)</sup>  
@@ -135,10 +135,10 @@ But, of course, there were problems:
   exactly to me, at least in my hearing: "Sure, you lab weenies can make a few milligrams
   or even grams of the stuff.  But I gotta make tons of it.  Throw me a bone, here!")  
 
-<a href="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-cen-2.jpg"><img src="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-cen-2-thumb.jpg" width="400" height="268" alt="Halford @ C&amp;EN: Joy Yang of Pfizer's structural diagram of nirmatrelvir bound to SARS-CoV2 3CLpro" title="Halford @ C&amp;EN: Joy Yang of Pfizer's structural diagram of nirmatrelvir bound to SARS-CoV2 3CLpro" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-cen-2.jpg"><img src="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-cen-2-thumb.jpg" width="400" height="268" alt="Halford @ C&amp;E News: Joy Yang of Pfizer's structural diagram of nirmatrelvir bound to SARS-CoV2 3CLpro" title="Halford @ C&amp;E News: Joy Yang of Pfizer's structural diagram of nirmatrelvir bound to SARS-CoV2 3CLpro" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 On 2020-Jul-22, they first made PF-07321332, now known as nirmaltrelvir, as one of about
 20 compounds to be tested.  The rat PK studies came back 2020-Sep-01, and this molecule
-was blessed.  Here, in another illustration from Joy Yang of PFizer via _C&amp;EN_, it's
+was blessed.  Here, in another illustration from Joy Yang of PFizer via _C&amp;E News_, it's
 shown in its binding pocket in 3CLpro:  
 - The gray arrows and curves are the 3CLpro protein structure.  
 - The binding pocket is outlined in purple, to give you an idea where the electron density
