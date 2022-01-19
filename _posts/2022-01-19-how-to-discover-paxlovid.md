@@ -194,7 +194,7 @@ et al.: nirmatrelvir activity against 6 variants of SARS-CoV2 3CLpro" style="flo
 <img src="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-biorxiv-1a.jpg" width="400" height="141" alt="Ullrich, et al.: More than 50% inhibition of 3CLpro at 20nM in all 6 variants" title="Ullrich, et al.: More than 50% inhibition of 3CLpro at 20nM in all 6 variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 1. It looks like the binding affinity of nirmatrelvir for 3CLpro is very good at 
    $K_i \sim 1\mbox{nm}$, for both the original SARS-CoV2 and the Omicron variant.  They
-   alleged a preprint available on _bioR&chi;v_, but didn't cite anything in particular, in
+   alleged a preprint available on _bioR&chi;iv_, but didn't cite anything in particular, in
    the frustrating manner customary in press releases.  However, a bit of spelunking leads
    me to believe it's this one by Ullrich, _et al._ <sup id="fn4a">[[4]](#fn4)</sup>.
    They looked at the activity of nirmatrelvir against 3CLpro in 6 different SARS-CoV2
@@ -205,7 +205,7 @@ et al.: nirmatrelvir activity against 6 variants of SARS-CoV2 3CLpro" style="flo
    (concentration at which half the effect was achieved) calculated.  They looked at this
    dose response in Omicron and other variants, getting around 16nM vs 38nM in original
    strain, i.e., _better_ response in Omicron.  Again they claim to have submitted to
-   _bioR&chi;v_, but this being a press release they couldn't be bothered to give a proper
+   _bioR&chi;iv_, but this being a press release they couldn't be bothered to give a proper
    citation.  Spelunking on my part was less successful, but this appears to be a related
    result by Bojkova, _et al._ <sup id="fn5a">[[5]](#fn5)</sup>  
 <img src="{{ site.baseurl }}/images/2022-01-19-how-to-discover-paxlovid-biorxiv-3.jpg" width="400" height="196" alt="Vangeel, et al.: Activity vs infection of remdesivir, molnupiravir, and nirmatrelvir vs SARS-CoV2 variants" title="Vangeel, et al.: Activity vs infection of remdesivir, molnupiravir, and nirmatrelvir vs SARS-CoV2 variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -214,7 +214,7 @@ et al.: nirmatrelvir activity against 6 variants of SARS-CoV2 3CLpro" style="flo
    others.) They got IC50s (concentration at which 50% of infections were stopped) of
    38 - 207nM for nirmatrelvir against Omicron vs 22 - 225nM against the original strain,
    i.e., entirely comparable. Again, this being a press release, they _claim_ to have submitted to
-   _bioR&chi;v_ but give no citation.  However, they _do_ cite other work by 
+   _bioR&chi;iv_ but give no citation.  However, they _do_ cite other work by 
    Vangeel _et al._ <sup id="fn6a">[[6]](#fn6)</sup>, showing their "findings are
    consistent."  (Why in the world would you _fail to cite your own research_, but instead
    cite someone else's as "consistent" with your own?!)  However, the Vangeel paper
@@ -277,8 +277,8 @@ I prefer the latter.
 
 <a id="fn3">3</a>: [Pfizer Media Relations](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-shares-vitro-efficacy-novel-covid-19-oral-treatment), ["Pfizer Shares In Vitro Efficacy of Novel COVID-19 Oral Treatment Against Omicron Variant"](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-shares-vitro-efficacy-novel-covid-19-oral-treatment), _Pfizer Press Releases_, 2022-Jan-18. [↩](#fn3a)  
 
-<a id="fn4">4</a>: S Ullrich, _et al.,_ ["Main protease mutants of SARS-CoV-2 variants remain susceptible to nirmatrelvir (PF-07321332)"](https://www.biorxiv.org/content/10.1101/2021.11.28.470226v2), _bioR&chi;v_, posted 2022-Jan-04.  DOI: [10.1101/2021.11.28.470226](https://doi.org/10.1101/2021.11.28.470226). [↩](#fn4a)  
+<a id="fn4">4</a>: S Ullrich, _et al.,_ ["Main protease mutants of SARS-CoV-2 variants remain susceptible to nirmatrelvir (PF-07321332)"](https://www.biorxiv.org/content/10.1101/2021.11.28.470226v2), _bioR&chi;iv_, posted 2022-Jan-04.  DOI: [10.1101/2021.11.28.470226](https://doi.org/10.1101/2021.11.28.470226). [↩](#fn4a)  
 
-<a id="fn5">5</a>: D Bojkova, _et al.,_ ["Reduced interferon antagonism but similar drug sensitivity in Omicron variant compared to Delta variant SARS-CoV-2 isolates"](https://www.biorxiv.org/content/10.1101/2022.01.03.474773v1), _bioR&chi;v_, posted 2022-Jan-04. [↩](#fn5a)  
+<a id="fn5">5</a>: D Bojkova, _et al.,_ ["Reduced interferon antagonism but similar drug sensitivity in Omicron variant compared to Delta variant SARS-CoV-2 isolates"](https://www.biorxiv.org/content/10.1101/2022.01.03.474773v1), _bioR&chi;iv_, posted 2022-Jan-04. [↩](#fn5a)  
 
-<a id="fn6">6</a>: L Vangeel, _et al.,_ ["Remdesivir, Molnupiravir and Nirmatrelvir remain active against SARS-CoV-2 Omicron and other variants of concern"](https://www.biorxiv.org/content/10.1101/2021.12.27.474275v2), posted 2022-Jan-15. [↩](#fn6a)  
+<a id="fn6">6</a>: L Vangeel, _et al.,_ ["Remdesivir, Molnupiravir and Nirmatrelvir remain active against SARS-CoV-2 Omicron and other variants of concern"](https://www.biorxiv.org/content/10.1101/2021.12.27.474275v2), _bioR&chi;iv_, posted 2022-Jan-15. [↩](#fn6a)  
