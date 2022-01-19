@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Medchem Optimization of Paxlovid
+title: Med-Chem Optimization of Paxlovid
 tags: COVID PharmaAndBiotech 
 comments: true
 ---
 
-Previously, [we wrote about how hard it was to find paxlovid]({{ site.baseurl }}/paxlovid-availability/),
+Previously, [we wrote about how hard it currently is to find paxlovid]({{ site.baseurl }}/paxlovid-availability/),
 given intense demand, supply chain frustrations, and the complex synthesis pathway.  Today
 let's have a look at how exactly one goes about _discovering_ such a thing, with an
 improbable number of steps in its chemistry. (Hint: an awful lot of luck/serendipity was involved!)  
@@ -229,6 +229,14 @@ It looks like the rapid development of paxlovid was due to a combination of luck
 work on a 3CLpro inhibitor for SARS in 2003) and hard work (Owen and his team at Pfizer).
 Another piece of luck is the broad activity against SARS coronavirus variants, which is
 very hopeful indeed.  
+
+Some of this was serendipity, with the previous 3CLpro inhibitor being remembered at the
+right time by the right people.  As I've been known to say, somewhat irritatingly:  
+
+>You can't plan serendipity -- give _chance_ a chance!  
+
+&hellip; and here serendipity came through for us.  There's nothing so useful as a huge
+knowledge base of what you've tried in the past, to inform what you should try next.  
 
 The religious side of me wants to be grateful for whatever divine influence put these
 tools in our hands at precisely the right moment.  The more pragmatic side of me just
