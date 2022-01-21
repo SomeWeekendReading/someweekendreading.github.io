@@ -1,0 +1,98 @@
+
+* BioPharma Insurrectionist Donors on Fri Jan 21 14:30:36 2022
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2022-01-21-biopharma-insurrection-donors.txt
+
+Loading biopharma/insurrectionist politician donor data:
+--------------------------------------------------------
+
+* Loading data from ./2022-01-21-biopharma-insurrection-donors.tsv
+  - Found 2 columns (Donor, Recipient) x 113 rows:
+  Donor          Recipient
+1   BIO Rep Arrington (TX)
+2   BIO  Rep Marshall (KS)
+3   BIO    Rep Mullin (OK)
+4   BIO     Rep Nunes (CA)
+5   BIO     Rep Smith (NB)
+6   BIO  Rep Thompson (PA)
+...
+     Donor           Recipient
+108 Pfizer    Rep Scalise (LA)
+109 Pfizer      Rep Smith (NB)
+110 Pfizer      Rep Smith (MT)
+111 Pfizer   Rep Stefanik (NY)
+112 Pfizer Sen Tuberville (AL)
+113 Pfizer   Rep Walorski (IN)
+
+  - Number of recipients for each biopharma donor:
+       Donor NRecipients
+10    Pfizer          24
+8      Merck          19
+7      Lilly          15
+2      Amgen          13
+6        J&J          11
+5        GSK           9
+3        BIO           8
+4  Genentech           5
+9   Novartis           5
+1     AbbVie           4
+
+  - Number of donors for each insurrectionist recipient:
+              Recipient NDonors
+28      Rep Mullin (OK)       9
+38       Rep Smith (NB)       8
+1    Rep Arrington (TX)       7
+42    Rep Walorski (IN)       7
+7       Rep Carter (GA)       6
+19       Rep Kelly (PA)       5
+27    Rep McCarthy (CA)       5
+29       Rep Nunes (CA)       5
+35     Rep Scalise (LA)       5
+37       Rep Smith (MT)       5
+5      Rep Burgess (TX)       4
+16      Rep Hudson (NC)       4
+31       Rep Pence (IN)       4
+11       Rep Estes (KS)       3
+14    Rep Griffith (VA)       2
+17     Rep Johnson (OH)       2
+18       Rep Joyce (PA)       2
+20     Rep Kennedy (LA)       2
+33        Rep Rice (SC)       2
+39     Rep Smucker (PA)       2
+43  Sen Tuberville (AL)       2
+2        Rep Baird (IN)       1
+3       Rep Bishop (NC)       1
+4         Rep Bost (IL)       1
+6      Rep Calvert (CA)       1
+8        Rep Cline (VA)       1
+9       Rep Duncan (SC)       1
+10        Rep Dunn (FL)       1
+12        Rep Foxx (NC)       1
+13      Rep Garcia (CA)       1
+15        Rep Hern (OK)       1
+21    Rep LaTurner (KS)       1
+22       Rep Lesko (AZ)       1
+23      Rep Lummis (WY)       1
+24 Rep Malliotakis (NY)       1
+25        Rep Mann (KS)       1
+26    Rep Marshall (KS)       1
+30      Rep Palmer (AL)       1
+32     Rep Pfluger (TX)       1
+34  Rep Rutherford (FL)       1
+36  Rep Schweikert (AZ)       1
+40    Rep Stefanik (NY)       1
+41    Rep Thompson (PA)       1
+
+Making bipartite graph:
+-----------------------
+
+* Making graph with 10 donors and 43 recipients
+  - Graph is verified to be bipartite
+
+Plotting graph:
+---------------
+
+Plotted to ./2022-01-21-biopharma-insurrection-donors.png
+
+* BioPharma Insurrectionist Donors completed Fri Jan 21 14:30:37 2022 (0.4 sec elapsed).
