@@ -40,7 +40,7 @@ who reject election results.  As far as anyone can tell, they have stuck to it.)
 
 Here are the donors, ranked by the number of insurrectionists they funded:  
 
-| Donor     | | NRecipients |
+| __Donor__ | | __NRecipients__ |
 |:---------:|-|------------:|
 | Pfizer    | |          24 |
 | Merck     | |          19 |
@@ -67,7 +67,7 @@ really that bad.
 Who are those politicians?  Here are the top few of the recipients, who got donations from
 more than 5 biopharma donors:  
 
-|            Recipient | | NDonors |
+|        __Recipient__ | | __NDonors__ |
 |---------------------:|-|--------:|
 |      Rep Mullin (OK) | |      9  |
 |       Rep Smith (NB) | |      8  |
