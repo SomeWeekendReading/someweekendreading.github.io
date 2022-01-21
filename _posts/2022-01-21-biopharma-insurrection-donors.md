@@ -16,27 +16,28 @@ stopping?
 <img src="{{ site.baseurl }}/images/2022-01-21-biopharma-insurrection-donors-usdin.jpg" width="400" height="254" alt="Usdin @ BioCentury: BioPharmas contributing to pols who voted to overthrow election" title="Usdin @ BioCentury: BioPharmas contributing to pols who voted to overthrow election" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-21-biopharma-insurrection-donors-capaction.jpg" width="400" height="248" alt="CAP Action: Corporations funding McCarthy's insurrection caucus" title="CAP Action: Corporations funding McCarthy's insurrection caucus" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Sometime last week, I came across an article by the estimable med-chem blogger Derek Lowe
-at _In the Pipeline_, title simply "Shame". <sup id="fn1a">[[1]](#fn1)</sup>  True enough,
-he discusses an article from Steve Usdin in _BioCentury_ <sup id="fn2a">[[2]](#fn2)</sup> 
-on donations by biopharma companies to US representatives (and 1 senator) who tried _to
-overthrow the US government_ last year, by overruling the election results.  If you think
-that's unique to biopharma, consult the article in CAP Action from mid-2021 documenting
-how much of corporate America is funding insurrectionists. <sup id="fn3a">[[3]](#fn3)</sup>  
+at _In the Pipeline_, titled simply "Shame". <sup id="fn1a">[[1]](#fn1)</sup> True enough,
+it is about some shameful behavior: he discusses an article from Steve Usdin in
+_BioCentury_ <sup id="fn2a">[[2]](#fn2)</sup> on donations by biopharma companies to US
+representatives (and 1 senator) who tried _to overthrow the US government_ last year, by
+overruling the election results.  If you think that's unique to biopharma, consult the
+article in _CAP Action_ from mid-2021 documenting how much of corporate America is funding
+insurrectionists. <sup id="fn3a">[[3]](#fn3)</sup>   
 
 It's hard to describe just how much this angers me.  BioPharma scientists are among the
 most ethical people I've met in my life. <sup id="fn4a">[[4]](#fn4)</sup>  It's espcially
-galling since many of them pledged not to donate to any members of Congress who voted to
+galling since many of these companies pledged not to donate to any members of Congress who voted to
 decertify the election&hellip; but within a few months, the 
 [dog had returned to the vomit](https://en.wikipedia.org/wiki/As_a_dog_returns_to_his_vomit,_so_a_fool_repeats_his_folly#:~:text=%22As%20a%20dog%20returns%20to,New%20Testament%2C%202%20Peter%202%3A).  
 
-Derek apparently feels the same way.  It should be noted that as Derek is well to the
+Derek apparently feels the same way.  It should be noted that since Derek is well to the
 right of me, he and I agree on approximately nothing in politics.  Nothing, that is,
-except the execrable nature of Trump and all but a very few Republicans.  
+except the execrable nature of Trump and all but a very few of the current crop of Republicans.  
 
 From the insurrection riot on 2021-Jan-06 through 2021-Nov-03, 9 biopharmas and their
 trade group BIO contributed to 42 lawmakers who voted for decertification of the
 election.  (PhRMA, another trade group, has adopted a policy of not donating to candidates
-who reject election results.  As far as anyone can tell, they have stuck to it.)  
+who reject election results.  As far as anyone can tell, they seem to have stuck to it.)  
 
 Here are the donors, ranked by the number of insurrectionists they funded:  
 
@@ -117,12 +118,12 @@ Constitution, adopted after the Civil War, which says in part:
 
 > Section 3  
 >  
-> No person shall be a Senator or Representative in Congress, or elector of President and
+> __No person shall be a Senator or Representative in Congress__, or elector of President and
 > Vice-President, or hold any office, civil or military, under the United States, or under
 > any State, who, having previously taken an oath, as a member of Congress, or as an
 > officer of the United States, or as a member of any State legislature, or as an
 > executive or judicial officer of any State, to support the Constitution of the United
-> States, shall have engaged in insurrection or rebellion against the same, or given aid
+> States, __shall have engaged in insurrection or rebellion__ against the same, or given aid
 > or comfort to the enemies thereof.  
 
 Why are these guys still members of Congress?  
