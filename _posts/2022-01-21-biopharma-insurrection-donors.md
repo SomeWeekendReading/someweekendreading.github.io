@@ -10,19 +10,20 @@ funding the Republican politicians who attempted to overthrow the last election.
 these funders of insurrectionists, and once we know their companies can we shame them into
 stopping?  
 
+
 ## A shame for the US biopharma sector  
 
 <img src="{{ site.baseurl }}/images/2022-01-21-biopharma-insurrection-donors-lowe.jpg" width="400" height="283" alt="Derek Lowe: Shame on biopharma donors to insurrectionists" title="Derek Lowe: Shame on biopharma donors to insurrectionists" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-21-biopharma-insurrection-donors-usdin.jpg" width="400" height="254" alt="Usdin @ BioCentury: BioPharmas contributing to pols who voted to overthrow election" title="Usdin @ BioCentury: BioPharmas contributing to pols who voted to overthrow election" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-21-biopharma-insurrection-donors-capaction.jpg" width="400" height="248" alt="CAP Action: Corporations funding McCarthy's insurrection caucus" title="CAP Action: Corporations funding McCarthy's insurrection caucus" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Sometime last week, I came across an article by the estimable med-chem blogger Derek Lowe
+Sometime last week, I came across an article by the estimable med-chem blogger Derek Lowe,
 at _In the Pipeline_, titled simply "Shame". <sup id="fn1a">[[1]](#fn1)</sup> True enough,
 it is about some shameful behavior: he discusses an article from Steve Usdin in
 _BioCentury_ <sup id="fn2a">[[2]](#fn2)</sup> on donations by biopharma companies to US
 representatives (and 1 senator) who tried _to overthrow the US government_ last year, by
 overruling the election results.  If you think that's unique to biopharma, consult the
-article in _CAP Action_ from mid-2021 documenting how much of corporate America is funding
-insurrectionists. <sup id="fn3a">[[3]](#fn3)</sup>   
+article in _CAP Action_ from mid-2021 which documented how much corporate America is funding
+insurrectionist politicians. <sup id="fn3a">[[3]](#fn3)</sup>   
 
 It's hard to describe just how much this angers me.  BioPharma scientists are among the
 most ethical people I've met in my life. <sup id="fn4a">[[4]](#fn4)</sup>  It's espcially
@@ -42,17 +43,17 @@ who reject election results.  As far as anyone can tell, they seem to have stuck
 Here are the donors, ranked by the number of insurrectionists they funded:  
 
 | __Donor__ | | __NRecipients__ |
-|:---------:|-|------------:|
-| Pfizer    | |          24 |
-| Merck     | |          19 |
-| Lilly     | |          15 |
-| Amgen     | |          13 |
-| J&amp;J   | |          11 |
-| GSK       | |           9 |
-| BIO       | |           8 |
-| Genentech | |           5 |
-| Novartis  | |           5 |
-| AbbVie    | |           4 |
+|:---------:|-|----------------:|
+| Pfizer    | |              24 |
+| Merck     | |              19 |
+| Lilly     | |              15 |
+| Amgen     | |              13 |
+| J&amp;J   | |              11 |
+| GSK       | |               9 |
+| BIO       | |               8 |
+| Genentech | |               5 |
+| Novartis  | |               5 |
+| AbbVie    | |               4 |
 
 Clearly the top offenders are Pfizer, Merck, Lilly, Amgen, and J&amp;J.  I'm _slightly_
 gratified to note the absence of any of my former employers in this list of the damnable.
@@ -69,17 +70,17 @@ Who are those politicians?  Here are the top few of the recipients, who got dona
 more than 5 biopharma donors:  
 
 |        __Recipient__ | | __NDonors__ |
-|---------------------:|-|--------:|
-|      Rep Mullin (OK) | |      9  |
-|       Rep Smith (NB) | |      8  |
-|   Rep Arrington (TX) | |      7  |
-|    Rep Walorski (IN) | |      7  |
-|      Rep Carter (GA) | |      6  |
-|       Rep Kelly (PA) | |      5  |
-|    Rep McCarthy (CA) | |      5  |
-|       Rep Nunes (CA) | |      5  |
-|     Rep Scalise (LA) | |      5  |
-|       Rep Smith (MT) | |      5  |
+|---------------------:|-|------------:|
+|      Rep Mullin (OK) | |          9  |
+|       Rep Smith (NB) | |          8  |
+|   Rep Arrington (TX) | |          7  |
+|    Rep Walorski (IN) | |          7  |
+|      Rep Carter (GA) | |          6  |
+|       Rep Kelly (PA) | |          5  |
+|    Rep McCarthy (CA) | |          5  |
+|       Rep Nunes (CA) | |          5  |
+|     Rep Scalise (LA) | |          5  |
+|       Rep Smith (MT) | |          5  |
 
 Needless to say, they are all Republicans.  
 
@@ -102,19 +103,22 @@ plot it as a bipartite graph <sup id="fn5a">[[5]](#fn5)</sup>, shown here.
 
 A few points become blunt-trauma-obvious:  
 - The main biopharma offenders are Pfizer, Merck, Lilly, Amgen, and J&amp;J.  The others
-  are there, but at least the donated to fewer insurrectionists.  This accords with what
-  we saw in the table above.  
+  are there, but at least the donated to fewer insurrectionists.  
 - The biggest offending insurrectionist politicians in terms of the number of funding
   sources accepted were Mullin, Smith, Walorski, Arrington, Carter, Smith, Scalise, Nunes,
-  McCarthy.  This also accords with what we saw in the table above.  
+  McCarthy.  
+  
+Both conclusions are in accord with what we saw above in the tables, we just see it
+graphically here.  
 
 
 ## The Weekend Conclusion  
 
-I dunno.  
+I dunno what to say, really.  
 
-I'd dearly love to see us attempt to apply the 14th Amendment to the US
-Constitution, adopted after the Civil War, which says in part:  
+I'd dearly love to see us attempt to apply the
+[14th Amendment of the US Constitution](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution),
+adopted after the Civil War, which says in part:  
 
 > Section 3  
 >  
@@ -124,9 +128,10 @@ Constitution, adopted after the Civil War, which says in part:
 > officer of the United States, or as a member of any State legislature, or as an
 > executive or judicial officer of any State, to support the Constitution of the United
 > States, __shall have engaged in insurrection or rebellion__ against the same, or given aid
-> or comfort to the enemies thereof.  
+> or comfort to the enemies thereof. &hellip;  
 
-Why are these guys still members of Congress?  
+Why are these guys _still_ members of Congress?    Haven't they, in the words of the 14th
+Amendment, "given aid and comfort" to insurrectionists?  
 
 It seems like the right wing is so amazingly full of crap, they have to export it onto the
 rest of us.  
