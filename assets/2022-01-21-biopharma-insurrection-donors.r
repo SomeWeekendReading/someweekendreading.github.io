@@ -88,6 +88,7 @@ doit <- function(## Inputs
   plotBipartiteGraph <- function(donorGraph, donorData, destDir, plotFile) {
     ## *** Ok, I could never make this look pretty enough to satsify me, so I
     ##     perpeatrated the really hacky kludge that follows.
+
     ## Modeled after 2nd answer in:
     ##   https://stackoverflow.com/questions/31366066/how-to-plot-a-bipartite-graph-in-r
     ## V(g)$shape <- shape[as.numeric(V(g)$type) + 1]
@@ -164,17 +165,17 @@ doit <- function(## Inputs
                                         Rank = 1 : nrow(sortedDonors)),
                               x = donorx,              # Add in points where edge joins on
                               y = -1 + 2 * (Rank - 1) / (nrow(sortedDonors) - 1))
-    rownames(sortedDonors) <- as.character(sortedDonors$"Donor")
+    rownames(sortedDonors) <- as.character(sortedDonors$"Donor") # Look up by donor name
 
     sortedRecips <- ddply(donorData, "Recipient", function(df) { data.frame(NDonors = nrow(df)) })
     sortedRecips <- transform(transform(sortedRecips[order(sortedRecips$"NDonors", decreasing = FALSE), ],
                                         Rank = 1 : nrow(sortedRecips)),
                               x = recipx,              # Add in points where edge joins on
                               y = -1 + 2 * (Rank - 1) / (nrow(sortedRecips) - 1))
-    rownames(sortedRecips) <- as.character(sortedRecips$"Recipient")
+    rownames(sortedRecips) <- as.character(sortedRecips$"Recipient") # Look up by recipient name
 
     edges <- transform(donorData,                      # Add edge data
-                       fromx = donorx,                 # Edge goes fromhere
+                       fromx = donorx,                 # Edge goes from here
                        fromy = sortedDonors[as.character(Donor),     "y"],
                        tox   = recipx,                 #  to here
                        toy   = sortedRecips[as.character(Recipient), "y"])
@@ -184,12 +185,12 @@ doit <- function(## Inputs
       withPars(function() {                            # Save/restore graphics params
         plot(x = NA, y = NA, xlim = c(-1, +1), ylim = c(-1, +1),
              axes = FALSE, ann = FALSE, frame.plot = FALSE)
-        text(x = donorx, y = sortedDonors$"y", labels = sortedDonors$"Donor",     adj = c(1, 0.5))
-        text(x = recipx, y = sortedRecips$"y", labels = sortedRecips$"Recipient", adj = c(0, 0.5))
+        text(x = sortedDonors$"x", y = sortedDonors$"y", labels = as.character(sortedDonors$"Donor"),
+             adj = c(1, 0.5))                          # Put names of donors
+        text(x = sortedRecips$"x", y = sortedRecips$"y", labels = as.character(sortedRecips$"Recipient"),
+             adj = c(0, 0.5))                          # Put names of recipients
         ddply(edges, c("Donor", "Recipient"), function(drdf) {
-          donor <- as.character(drdf$"Donor")          # Donor name
-          recip <- as.character(drdf$"Recipient")      # Recipient name
-          lines(x = c(donorx, recipx), y = c(sortedDonors[donor, "y"], sortedRecips[recip, "y"]))
+          lines(x = c(drdf$"fromx", drdf$"tox"), y = c(drdf$"fromy", drdf$"toy"))
           NULL                                         # Don't build a nonsense result
         })                                             # Done with edges
       }, pty = "m",                                    # Maximal plotting area

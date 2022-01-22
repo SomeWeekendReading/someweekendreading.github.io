@@ -1,5 +1,5 @@
 
-* BioPharma Insurrectionist Donors on Fri Jan 21 14:30:36 2022
+* BioPharma Insurrectionist Donors on Fri Jan 21 20:26:30 2022
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2022-01-21-biopharma-insurrection-donors.txt
@@ -95,4 +95,4 @@ Plotting graph:
 
 Plotted to ./2022-01-21-biopharma-insurrection-donors.png
 
-* BioPharma Insurrectionist Donors completed Fri Jan 21 14:30:37 2022 (0.4 sec elapsed).
+* BioPharma Insurrectionist Donors completed Fri Jan 21 20:26:30 2022 (0.3 sec elapsed).
