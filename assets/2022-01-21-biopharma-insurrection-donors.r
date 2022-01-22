@@ -65,12 +65,12 @@ doit <- function(## Inputs
 
     cat(sprintf("\n  - Number of recipients for each biopharma donor:\n"))
     foo <- ddply(donorData, "Donor", function(df) { data.frame(NRecipients = nrow(df)) })
-    foo <- foo[order(foo$"NRecipients", decreasing = TRUE), ]
+    foo <- foo[order(-foo$"NRecipients", as.character(foo$"Donor"), decreasing = FALSE), ]
     print(foo)                                         # Show frequent donors
 
     cat(sprintf("\n  - Number of donors for each insurrectionist recipient:\n"))
     foo <- ddply(donorData, "Recipient", function(df) { data.frame(NDonors = nrow(df)) })
-    foo <- foo[order(foo$"NDonors", decreasing = TRUE), ]
+    foo <- foo[order(-foo$"NDonors", as.character(foo$"Recipient"), decreasing = FALSE), ]
     print(foo)                                         # Show frequent recipients
 
     donorData                                          # Return the dataframe
@@ -100,11 +100,13 @@ doit <- function(## Inputs
 
     sortedDonors <- ddply(donorData, "Donor", function(df) { data.frame(NRecipients = nrow(df)) })
     sortedDonors <- as.character(
-        sortedDonors[order(sortedDonors$"NRecipients", decreasing = FALSE), ]$"Donor")
+        sortedDonors[order(-sortedDonors$"NRecipients", as.character(sortedDonors$"Donor"),
+                           decreasing = TRUE), ]$"Donor")
 
     sortedRecips <- ddply(donorData, "Recipient", function(df) { data.frame(NDonors = nrow(df)) })
     sortedRecips <- as.character(
-        sortedRecips[order(sortedRecips$"NDonors", decreasing = FALSE), ]$"Recipient")
+        sortedRecips[order(-sortedRecips$"NDonors", as.character(sortedRecips$"Recipient"),
+                           decreasing = FALSE), ]$"Recipient")
 
     ## Default xlim is [-1, +1], so put donors @ -0.5 and recipients @ +0.5
     V(donorGraph)$"x" <- ifelse(!V(donorGraph)$"type", -0.25, +0.25)
@@ -160,19 +162,23 @@ doit <- function(## Inputs
     ##   y - y1 = m * (x - x1)
     ##   y = y1 + (2 / (n-1)) * (x - 1) = y1 + 2 * (x-1) / (n-1)
     sortedDonors <- ddply(donorData, "Donor", function(df) { data.frame(NRecipients = nrow(df)) })
-    sortedDonors <- transform(transform(sortedDonors[order(sortedDonors$"NRecipients",
-                                                           decreasing = FALSE), ],
+    sortedDonors <- transform(transform(sortedDonors[order(-sortedDonors$"NRecipients",
+                                                           as.character(sortedDonors$"Donor"),
+                                                           decreasing = TRUE), ],
                                         Rank = 1 : nrow(sortedDonors)),
                               x = donorx,              # Add in points where edge joins on
                               y = -1 + 2 * (Rank - 1) / (nrow(sortedDonors) - 1))
     rownames(sortedDonors) <- as.character(sortedDonors$"Donor") # Look up by donor name
 
     sortedRecips <- ddply(donorData, "Recipient", function(df) { data.frame(NDonors = nrow(df)) })
-    sortedRecips <- transform(transform(sortedRecips[order(sortedRecips$"NDonors", decreasing = FALSE), ],
+    sortedRecips <- transform(transform(sortedRecips[order(-sortedRecips$"NDonors",
+                                                           as.character(sortedRecips$"Recipient"),
+                                                           decreasing = TRUE), ],
                                         Rank = 1 : nrow(sortedRecips)),
                               x = recipx,              # Add in points where edge joins on
                               y = -1 + 2 * (Rank - 1) / (nrow(sortedRecips) - 1))
     rownames(sortedRecips) <- as.character(sortedRecips$"Recipient") # Look up by recipient name
+    print(sortedRecips)
 
     edges <- transform(donorData,                      # Add edge data
                        fromx = donorx,                 # Edge goes from here

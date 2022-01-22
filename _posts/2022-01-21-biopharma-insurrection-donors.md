@@ -105,8 +105,8 @@ A few points become blunt-trauma-obvious:
 - The main biopharma offenders are Pfizer, Merck, Lilly, Amgen, and J&amp;J.  The others
   are there, but at least the donated to fewer insurrectionists.  
 - The biggest offending insurrectionist politicians in terms of the number of funding
-  sources accepted were Mullin, Smith, Walorski, Arrington, Carter, Smith, Scalise, Nunes,
-  McCarthy.  
+  sources accepted were Mullin, Smith, Arrington, Walorski, Carter, Kelly, McCarthy,
+  Nunes, Scalise, Smith.  
   
 Both conclusions are in accord with what we saw above in the tables, we just see it
 graphically here.  

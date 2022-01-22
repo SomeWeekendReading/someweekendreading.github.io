@@ -1,5 +1,5 @@
 
-* BioPharma Insurrectionist Donors on Fri Jan 21 20:26:30 2022
+* BioPharma Insurrectionist Donors on Sat Jan 22 09:30:06 2022
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2022-01-21-biopharma-insurrection-donors.txt
@@ -7,92 +7,62 @@
 Loading biopharma/insurrectionist politician donor data:
 --------------------------------------------------------
 
-* Loading data from ./2022-01-21-biopharma-insurrection-donors.tsv
-  - Found 2 columns (Donor, Recipient) x 113 rows:
-  Donor          Recipient
-1   BIO Rep Arrington (TX)
-2   BIO  Rep Marshall (KS)
-3   BIO    Rep Mullin (OK)
-4   BIO     Rep Nunes (CA)
-5   BIO     Rep Smith (NB)
-6   BIO  Rep Thompson (PA)
-...
-     Donor           Recipient
-108 Pfizer    Rep Scalise (LA)
-109 Pfizer      Rep Smith (NB)
-110 Pfizer      Rep Smith (MT)
-111 Pfizer   Rep Stefanik (NY)
-112 Pfizer Sen Tuberville (AL)
-113 Pfizer   Rep Walorski (IN)
 
-  - Number of recipients for each biopharma donor:
-       Donor NRecipients
-10    Pfizer          24
-8      Merck          19
-7      Lilly          15
-2      Amgen          13
-6        J&J          11
-5        GSK           9
-3        BIO           8
-4  Genentech           5
-9   Novartis           5
-1     AbbVie           4
-
-  - Number of donors for each insurrectionist recipient:
-              Recipient NDonors
-28      Rep Mullin (OK)       9
-38       Rep Smith (NB)       8
-1    Rep Arrington (TX)       7
-42    Rep Walorski (IN)       7
-7       Rep Carter (GA)       6
-19       Rep Kelly (PA)       5
-27    Rep McCarthy (CA)       5
-29       Rep Nunes (CA)       5
-35     Rep Scalise (LA)       5
-37       Rep Smith (MT)       5
-5      Rep Burgess (TX)       4
-16      Rep Hudson (NC)       4
-31       Rep Pence (IN)       4
-11       Rep Estes (KS)       3
-14    Rep Griffith (VA)       2
-17     Rep Johnson (OH)       2
-18       Rep Joyce (PA)       2
-20     Rep Kennedy (LA)       2
-33        Rep Rice (SC)       2
-39     Rep Smucker (PA)       2
-43  Sen Tuberville (AL)       2
-2        Rep Baird (IN)       1
-3       Rep Bishop (NC)       1
-4         Rep Bost (IL)       1
-6      Rep Calvert (CA)       1
-8        Rep Cline (VA)       1
-9       Rep Duncan (SC)       1
-10        Rep Dunn (FL)       1
-12        Rep Foxx (NC)       1
-13      Rep Garcia (CA)       1
-15        Rep Hern (OK)       1
-21    Rep LaTurner (KS)       1
-22       Rep Lesko (AZ)       1
-23      Rep Lummis (WY)       1
-24 Rep Malliotakis (NY)       1
-25        Rep Mann (KS)       1
-26    Rep Marshall (KS)       1
-30      Rep Palmer (AL)       1
-32     Rep Pfluger (TX)       1
-34  Rep Rutherford (FL)       1
-36  Rep Schweikert (AZ)       1
-40    Rep Stefanik (NY)       1
-41    Rep Thompson (PA)       1
+* Using already-loaded value of donorData.
 
 Making bipartite graph:
 -----------------------
 
-* Making graph with 10 donors and 43 recipients
-  - Graph is verified to be bipartite
+
+* Using already-loaded value of donorGraph.
 
 Plotting graph:
 ---------------
 
+                                Recipient NDonors Rank    x           y
+Rep Thompson (PA)       Rep Thompson (PA)       1    1 0.25 -1.00000000
+Rep Stefanik (NY)       Rep Stefanik (NY)       1    2 0.25 -0.95238095
+Rep Schweikert (AZ)   Rep Schweikert (AZ)       1    3 0.25 -0.90476190
+Rep Rutherford (FL)   Rep Rutherford (FL)       1    4 0.25 -0.85714286
+Rep Pfluger (TX)         Rep Pfluger (TX)       1    5 0.25 -0.80952381
+Rep Palmer (AL)           Rep Palmer (AL)       1    6 0.25 -0.76190476
+Rep Marshall (KS)       Rep Marshall (KS)       1    7 0.25 -0.71428571
+Rep Mann (KS)               Rep Mann (KS)       1    8 0.25 -0.66666667
+Rep Malliotakis (NY) Rep Malliotakis (NY)       1    9 0.25 -0.61904762
+Rep Lummis (WY)           Rep Lummis (WY)       1   10 0.25 -0.57142857
+Rep Lesko (AZ)             Rep Lesko (AZ)       1   11 0.25 -0.52380952
+Rep LaTurner (KS)       Rep LaTurner (KS)       1   12 0.25 -0.47619048
+Rep Hern (OK)               Rep Hern (OK)       1   13 0.25 -0.42857143
+Rep Garcia (CA)           Rep Garcia (CA)       1   14 0.25 -0.38095238
+Rep Foxx (NC)               Rep Foxx (NC)       1   15 0.25 -0.33333333
+Rep Dunn (FL)               Rep Dunn (FL)       1   16 0.25 -0.28571429
+Rep Duncan (SC)           Rep Duncan (SC)       1   17 0.25 -0.23809524
+Rep Cline (VA)             Rep Cline (VA)       1   18 0.25 -0.19047619
+Rep Calvert (CA)         Rep Calvert (CA)       1   19 0.25 -0.14285714
+Rep Bost (IL)               Rep Bost (IL)       1   20 0.25 -0.09523810
+Rep Bishop (NC)           Rep Bishop (NC)       1   21 0.25 -0.04761905
+Rep Baird (IN)             Rep Baird (IN)       1   22 0.25  0.00000000
+Sen Tuberville (AL)   Sen Tuberville (AL)       2   23 0.25  0.04761905
+Rep Smucker (PA)         Rep Smucker (PA)       2   24 0.25  0.09523810
+Rep Rice (SC)               Rep Rice (SC)       2   25 0.25  0.14285714
+Rep Kennedy (LA)         Rep Kennedy (LA)       2   26 0.25  0.19047619
+Rep Joyce (PA)             Rep Joyce (PA)       2   27 0.25  0.23809524
+Rep Johnson (OH)         Rep Johnson (OH)       2   28 0.25  0.28571429
+Rep Griffith (VA)       Rep Griffith (VA)       2   29 0.25  0.33333333
+Rep Estes (KS)             Rep Estes (KS)       3   30 0.25  0.38095238
+Rep Pence (IN)             Rep Pence (IN)       4   31 0.25  0.42857143
+Rep Hudson (NC)           Rep Hudson (NC)       4   32 0.25  0.47619048
+Rep Burgess (TX)         Rep Burgess (TX)       4   33 0.25  0.52380952
+Rep Smith (MT)             Rep Smith (MT)       5   34 0.25  0.57142857
+Rep Scalise (LA)         Rep Scalise (LA)       5   35 0.25  0.61904762
+Rep Nunes (CA)             Rep Nunes (CA)       5   36 0.25  0.66666667
+Rep McCarthy (CA)       Rep McCarthy (CA)       5   37 0.25  0.71428571
+Rep Kelly (PA)             Rep Kelly (PA)       5   38 0.25  0.76190476
+Rep Carter (GA)           Rep Carter (GA)       6   39 0.25  0.80952381
+Rep Walorski (IN)       Rep Walorski (IN)       7   40 0.25  0.85714286
+Rep Arrington (TX)     Rep Arrington (TX)       7   41 0.25  0.90476190
+Rep Smith (NB)             Rep Smith (NB)       8   42 0.25  0.95238095
+Rep Mullin (OK)           Rep Mullin (OK)       9   43 0.25  1.00000000
 Plotted to ./2022-01-21-biopharma-insurrection-donors.png
 
-* BioPharma Insurrectionist Donors completed Fri Jan 21 20:26:30 2022 (0.3 sec elapsed).
+* BioPharma Insurrectionist Donors completed Sat Jan 22 09:30:07 2022 (0.3 sec elapsed).
