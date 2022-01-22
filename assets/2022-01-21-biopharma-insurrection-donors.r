@@ -178,7 +178,6 @@ doit <- function(## Inputs
                               x = recipx,              # Add in points where edge joins on
                               y = -1 + 2 * (Rank - 1) / (nrow(sortedRecips) - 1))
     rownames(sortedRecips) <- as.character(sortedRecips$"Recipient") # Look up by recipient name
-    print(sortedRecips)
 
     edges <- transform(donorData,                      # Add edge data
                        fromx = donorx,                 # Edge goes from here
