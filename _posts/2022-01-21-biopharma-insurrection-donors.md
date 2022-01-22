@@ -94,7 +94,7 @@ Shame, indeed.
 
 <img src="{{ site.baseurl }}/assets/2022-01-21-biopharma-insurrection-donors.png" width="400" height="1000" alt="Bipartite graph structure of donors and insurrection politicians" title="Bipartite graph structure of donors and insurrection politicians" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 If we think of the donor/recipient data as a 
-[bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph) (links from donors to
+[bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph) (links between donors and
 recipients, but never donor-donor or recipient-recipient links), then we can begin to see
 some structure.  (Indeed, beyond the outrage, this is the one original contribution I'm
 making with this article.)  We took the figure from Usdin's article, marshalled the data into a
