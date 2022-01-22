@@ -127,11 +127,11 @@ adopted after the Civil War, which says in part:
 > any State, who, having previously taken an oath, as a member of Congress, or as an
 > officer of the United States, or as a member of any State legislature, or as an
 > executive or judicial officer of any State, to support the Constitution of the United
-> States, __shall have engaged in insurrection or rebellion__ against the same, or given aid
-> or comfort to the enemies thereof. &hellip;  
+> States, __shall have engaged in insurrection or rebellion__ against the same, or 
+> __given aid or comfort__ to the enemies thereof. &hellip;  
 
 Why are these guys _still_ members of Congress?    Haven't they, in the words of the 14th
-Amendment, "given aid and comfort" to insurrectionists?  
+Amendment, "given aid or comfort" to insurrectionists?  
 
 It seems like the right wing is so amazingly full of crap, they have to export it onto the
 rest of us.  
