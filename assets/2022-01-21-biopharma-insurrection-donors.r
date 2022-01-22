@@ -204,7 +204,7 @@ doit <- function(## Inputs
          mar = c(0, 0, 0, 0)                           # Pull in on margins
       )                                                #
     })                                                 #
-    cat(sprintf("Plotted to %s\n", f))                 # Log what we did to transcript
+    cat(sprintf("* Plotted to %s\n", f))               # Log what we did to transcript
   }                                                    #
 
   withTranscript(dataDir, destDir, txFile, "BioPharma Insurrectionist Donors", function() {

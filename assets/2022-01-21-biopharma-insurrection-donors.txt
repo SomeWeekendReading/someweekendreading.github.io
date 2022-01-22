@@ -1,5 +1,5 @@
 
-* BioPharma Insurrectionist Donors on Sat Jan 22 16:20:19 2022
+* BioPharma Insurrectionist Donors on Sat Jan 22 16:23:18 2022
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2022-01-21-biopharma-insurrection-donors.txt
@@ -93,6 +93,6 @@ Making bipartite graph:
 Plotting graph:
 ---------------
 
-Plotted to ./2022-01-21-biopharma-insurrection-donors.png
+* Plotted to ./2022-01-21-biopharma-insurrection-donors.png
 
-* BioPharma Insurrectionist Donors completed Sat Jan 22 16:20:20 2022 (0.4 sec elapsed).
+* BioPharma Insurrectionist Donors completed Sat Jan 22 16:23:19 2022 (0.4 sec elapsed).
