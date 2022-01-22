@@ -20,14 +20,14 @@ suppressPackageStartupMessages({                       # Ssshh!  Quiet in the li
 doit <- function(## Inputs
                  dataDir  = ".",                       #
                  dataFile = "2022-01-21-biopharma-insurrection-donors.tsv",
-                 ## Shorten names of donors
+                 ## Map names of donors to shorter versions
                  donorMap = c("Biotechnology Innovation Organization (BIO)" = "BIO",
                               "Genentech unit of Roche"                     = "Genentech",
                               "Merck & Co."                                 = "Merck",
                               "Johnson & Johnson"                           = "J&J",
                               "Eli Lilly"                                   = "Lilly",
                               "GlaxoSmithKline"                             = "GSK"),
-                 ## Shorten names of states of recipients
+                 ## Map names of states to shorter versions
                  stateMap = c("Texas" = "TX", "Kan." = "KS", "Okla." = "OK", "Calif." = "CA",
                               "Neb." = "NB", "Pa." = "PA", "Ala." = "AL", "Ind." = "IN", "Ill." = "IL",
                               "Ga." = "GA", "Ariz." = "AZ", "Wyo." = "WY", "S.C." = "SC", "La." = "LA",
