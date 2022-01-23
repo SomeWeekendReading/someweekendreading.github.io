@@ -193,4 +193,6 @@ for that.
 
 <a id="fn3">3</a>: S Lupkin, ["The COVID antiviral drugs are here but they're scarce. Here's what to know"](https://www.npr.org/sections/health-shots/2021/12/31/1069323181/covid-antivirals-paxlovid-molnupiravir), _NPR_ from _Weekend Edition Sunday_, 2021-12-31. [↩](#fn3a)  
 
-<a id="fn4">4</a>: US Dept of Health &amp; Human Services Office of Chief Data Officer, ["COVID-19 Public Therapeutic Locator"](https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data), [_HealthData.gov_](https://healthdata.gov/), retrieved 2022-Jan-11.  __NB:__ When accessing this site with either a phone or tablet, for me it redircted to a _completely useless_ mobile version that could not do filtering.  The desktop/laptop version (URL ending in "/data/") still seems to work fine.[↩](#fn4a)  
+<a id="fn4">4</a>: US Dept of Health &amp; Human Services Office of Chief Data Officer, ["COVID-19 Public Therapeutic Locator"](https://healthdata.gov/Health/COVID-19-Public-Therapeutic-Locator/rxn6-qnx8/data), [_HealthData.gov_](https://healthdata.gov/), retrieved 2022-Jan-11.  
+
+__NB:__ When accessing this site with either a phone or tablet, for me it redircted to a _completely useless_ mobile version that could not do filtering.  The desktop/laptop version (URL ending in "/data/") still seems to work fine.[↩](#fn4a)  
