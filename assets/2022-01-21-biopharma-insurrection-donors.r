@@ -193,7 +193,7 @@ doit <- function(## Inputs
     f <- file.path(destDir, plotFile)                  # Where the plot goes
     withPNG(f, 400, 1000, FALSE, function() {          # Capture to file
       withPars(function() {                            # Save/restore graphics params
-        plot(x = NA, y = NA,                           # Draw nothing, but set up plot area & scale coords
+        plot(x = NA, y = NA,                           # Draw nothing; set up plot area & scale coords
              xlim = c(-1, +1), ylim = c(-1, +1), axes = FALSE, ann = FALSE, frame.plot = FALSE)
         text(x = sortedDonors$"x", y = sortedDonors$"y", labels = as.character(sortedDonors$"Donor"),
              adj = c(1, 0.5))                          # Put names of donors, to left of assigned point
@@ -220,11 +220,11 @@ doit <- function(## Inputs
     heraldPhase("Making bipartite graph")              # Make finite graph
     maybeAssign("donorGraph", function() { makeDonorGraph(donorData) })
 
-    heraldPhase("Plotting graph")                      # Plot the graph
-    maybeAssign("plotDone", function() {
+    heraldPhase("Plotting graph")                      # Plot the graph: relates donors to recipients,
+    maybeAssign("plotDone", function() {               #  highlighting frequent offenders
       ## plotBipartiteGraph(donorGraph, donorData, destDir, plotFile)
-      plotBipartiteGraph2(donorData, destDir, plotFile)# Do it the hard way, which is easier!
+      plotBipartiteGraph2(donorData, destDir, plotFile)# Do it the hard way, which is easier (oddly)!
     })                                                 #
 
-  })                                                   #
-}                                                      #
+  })                                                   # Done capturing transcript
+}                                                      # Done overall
