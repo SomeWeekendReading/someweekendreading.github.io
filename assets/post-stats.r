@@ -75,9 +75,9 @@ postStats <- function(## Inputs
                       ## Outputs (mostly, these defaults are what you want, except txFile and destDir)
                       destDir  = file.path(blogRoot, "_drafts"),
                       txFile   = sprintf("post-stats-%s.txt", format(today, format = "%Y-%b-%d")),
-                      dataFile = if (is.null(txFile))
-                                   NULL
-                                 else
+                      dataFile = if (is.null(txFile))  # If no transcript file
+                                   NULL                # Then no data file
+                                 else                  # Else derive data file from transcript file
                                    sub("^(.*)\\.txt$", "\\1.tsv", txFile),
                       plotFile = if (is.null(txFile))  # If no transcript file
                                    NULL                # Then no plot file
@@ -136,8 +136,8 @@ postStats <- function(## Inputs
     ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
     ## OTOH, this exercises each counter, making sure the server doesn't GC it?
     if (!is.na(year)) {                                # Wants to restrict to a single year
-      stopifnot(is.integer(year)                &&
-                dateYear(postStartDate) <= year &&
+      stopifnot(is.integer(year)                &&     # Check the year is a reasonable number
+                dateYear(postStartDate) <= year &&     #
                 year                    <= dateYear(Sys.Date()))
       cat(sprintf("\n* Restricting data to just the year %d", year))
       minDate <- as.Date(sprintf("%d-Jan-01", year), format = "%Y-%b-%d")
@@ -191,7 +191,7 @@ postStats <- function(## Inputs
         },                                             # Preliminaries done; now rest of plot:
         x = postData$"PostDate", y = postData[, colName], pch = 21, bg = "blue",
         xlim = xlim, ## ylim = c(1, max(postData[, colName])),
-        main = main, log = log, xaxt = "n", xlab = NA,
+        main = main, log = log, xaxt = "n", xlab = NA, #
         ylab = sprintf("%s (%s scale)", colName, if (nchar(log) > 0) "log" else "linear"))
 
         withPars(function() {                          # Horiz axis only: extra space for date labels
