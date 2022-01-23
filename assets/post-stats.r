@@ -367,13 +367,10 @@ postStats <- function(## Inputs
     TRUE                                               # Flag that it was done
   }                                                    #
 
-  ## *** Add comments per post in each year, and overall
-  ## *** Integrate this into postStats(), and capture the table to the transcript?
   ## *** Add number of comments not from me for each year
   ## *** Add number of comments from me for each year
   ## *** Total unique commenters for each year (and hand-collapse known spelling variations)
   ## *** Just for completelness, add century and millennium leap year calculations
-  ## *** NB: BUG -- if run before Dec 31, will still use 365/366 days for final year
   summarizePostFrequency <- function(postData, commentsDir, commentPatt) {
     ## Returns a dataframe summarizing post frequency by year and overall, e.g.:
     ##    Year NPosts NDays NComments DaysPerPost DaysPerComment
@@ -392,31 +389,40 @@ postStats <- function(## Inputs
       })                                               #
     }                                                  #
 
+    blogDays <- function(yr, blogStartYr = 2020) {     # How many blogging days in a given year?
+      currDate <- Sys.Date()                           # Current date
+      currYr   <- as.integer(format(currDate, "%Y"))   # Current year and current day of year
+      currDoY  <- as.integer(strftime(Sys.Date(), "%j"))
+
+      stopifnot(yr >= blogStartYr && yr <= currYr)     # Signal if year is too far back, or future
+
+      if (yr == 2020)                                  # If first year of blogging: Jul 01 to Dec 31
+        184                                            #  was 184 days
+      else if (yr < currYr) {                          # Else if year between then and now
+        if (yr %% 4 == 0) 366 else 365                 #  oversimplified leap year calculation ***
+      } else                                           # Else it's the current year
+        as.integer(strftime(currDate, "%j"))           #  so return number of days so far
+    }                                                  #
+
     yearComments <- table(commentYears(commentsDir, commentPatt))
     yearComments <- data.frame(Year      = as.integer(dimnames(yearComments)[[1]]),
                                NComments = as.vector(yearComments))
     foo <- ddply(transform(postData, Year = as.integer(sprintf("%s", dateYear(PostDate)))),
                  "Year",                               # Map over year subsets of the data
-                 function(ydf) {                       # What to compute for each tranch of posts
-                   data.frame(NPosts = nrow(ydf),      #
-                              NDays = ifelse(ydf[[1, "Year"]] == 2020,
-                                             184,      # Number of days in 1st year of blogging
-                                             ifelse(ydf[[1, "Year"]] %% 4 == 0,
-                                                    366,
-                                                    365)))
-                 })                                    #
-    foo <- transform(merge(foo, yearComments, by = "Year", all = TRUE),
-                     NComments = ifelse(is.na(NComments), 0, NComments))
-    foo <- transform(foo,                              # Add rate columns
-                     DaysPerPost    = round(NDays / NPosts, digits = 2),
-                     DaysPerComment = round(NDays / NComments, digits = 2))
+                 function(ydf) { data.frame(NPosts = nrow(ydf), NDays = blogDays(ydf[[1, "Year"]])) })
+    foo <- transform(transform(merge(foo, yearComments, by = "Year", all = TRUE),
+                               NComments = ifelse(is.na(NComments), 0, NComments)),
+                     DaysPerPost     = round(NDays / NPosts,     digits = 2),
+                     DaysPerComment  = round(NDays / NComments,  digits = 2),
+                     CommentsPerPost = round(NComments / NPosts, digits = 2))
     rbind(foo,                                         # Add another row at the bottom, which has
           transform(data.frame(Year   = "Total",       #  totals of posts & days, & overall days/post
                                NPosts = sum(foo$"NPosts"),
                                NDays  = sum(foo$"NDays"),
                                NComments = sum(foo$"NComments")),
-                    DaysPerPost    = round(NDays / NPosts, digits = 2),
-                    DaysPerComment = round(NDays / NComments, digits = 2)))
+                    DaysPerPost     = round(NDays / NPosts,     digits = 2),
+                    DaysPerComment  = round(NDays / NComments,  digits = 2),
+                    CommentsPerPost = round(NComments / NPosts, digits = 2)))
   }                                                    #
 
   withTranscript(postsDir, destDir, txFile, "Blog Post Hit Counts", function() {
@@ -451,4 +457,3 @@ postStats <- function(## Inputs
 
   })                                                   # End withTranscript()
 }                                                      #
-
