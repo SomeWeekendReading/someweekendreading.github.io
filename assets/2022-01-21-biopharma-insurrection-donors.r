@@ -154,13 +154,17 @@ doit <- function(## Inputs
                                   donorx = -0.65, recipx = +0.25) {
     ## Really hacky kludge, doing it the hard way, because I don't understand igraph well enough!
 
-    ## Default ylim is [-1, +1].
-    ## - So we want the bottom vertex at y1 = -1 and the top one at y2 = +1.
-    ## - The vertex rank ranges from x1 = 1 to x2 = n.
-    ## - Slope: m = (y2 - y1) / (x2 - x1) = 2 / (n - 1).
+    ## How to assign y coordinates to nodes:
+    ## - Default ylim is [-1, +1], so we'll rank nodes and embed in that range
+    ## - So we want the bottom vertex at y1 = -1 and the top one at y2 = +1
+    ## - The vertex rank ranges from x1 = 1 to x2 = n
+    ## - Slope: m = (y2 - y1) / (x2 - x1) = 2 / (n - 1)
     ## - Slope-point formula for linear embedding:
     ##   y - y1 = m * (x - x1)
-    ##   y = y1 + (2 / (n-1)) * (x - 1) = y1 + 2 * (x-1) / (n-1)
+    ##   y = y1 + (2 / (n-1)) * (x - 1)
+    ##     = y1 + 2 * (x-1) / (n-1)
+
+    ## Sort Donors by # recipients and name, then add Rank, x, y
     sortedDonors <- ddply(donorData, "Donor", function(df) { data.frame(NRecipients = nrow(df)) })
     sortedDonors <- transform(transform(sortedDonors[order(-sortedDonors$"NRecipients",
                                                            as.character(sortedDonors$"Donor"),
@@ -170,6 +174,7 @@ doit <- function(## Inputs
                               y = -1 + 2 * (Rank - 1) / (nrow(sortedDonors) - 1))
     rownames(sortedDonors) <- as.character(sortedDonors$"Donor") # Look up by donor name
 
+    ## Sort Recipients by # donors and name, then add Rank, x, y
     sortedRecips <- ddply(donorData, "Recipient", function(df) { data.frame(NDonors = nrow(df)) })
     sortedRecips <- transform(transform(sortedRecips[order(-sortedRecips$"NDonors",
                                                            as.character(sortedRecips$"Recipient"),
@@ -188,23 +193,23 @@ doit <- function(## Inputs
     f <- file.path(destDir, plotFile)                  # Where the plot goes
     withPNG(f, 400, 1000, FALSE, function() {          # Capture to file
       withPars(function() {                            # Save/restore graphics params
-        plot(x = NA, y = NA, xlim = c(-1, +1), ylim = c(-1, +1),
-             axes = FALSE, ann = FALSE, frame.plot = FALSE)
+        plot(x = NA, y = NA,                           # Draw nothing, but set up plot area & scale coords
+             xlim = c(-1, +1), ylim = c(-1, +1), axes = FALSE, ann = FALSE, frame.plot = FALSE)
         text(x = sortedDonors$"x", y = sortedDonors$"y", labels = as.character(sortedDonors$"Donor"),
-             adj = c(1, 0.5))                          # Put names of donors
+             adj = c(1, 0.5))                          # Put names of donors, to left of assigned point
         text(x = sortedRecips$"x", y = sortedRecips$"y", labels = as.character(sortedRecips$"Recipient"),
-             adj = c(0, 0.5))                          # Put names of recipients
+             adj = c(0, 0.5))                          # Put names of recipients, to right of point
         ddply(edges, c("Donor", "Recipient"), function(drdf) {
           lines(x = c(drdf$"fromx", drdf$"tox"), y = c(drdf$"fromy", drdf$"toy"))
-          NULL                                         # Don't build a nonsense result
+          NULL                                         # Don't build a nonsense result from ddply()
         })                                             # Done with edges
       }, pty = "m",                                    # Maximal plotting area
          bg  = "white",                                # White background
          ps  = 16,                                     # Larger type size for file capture
          mar = c(0, 0, 0, 0)                           # Pull in on margins
-      )                                                #
-    })                                                 #
-    cat(sprintf("* Plotted to %s\n", f))               # Log what we did to transcript
+      )                                                # Done with graphics params
+    })                                                 # Done with file capture
+    cat(sprintf("* Plotted to %s\n", f))               # Log what we did to the transcript
   }                                                    #
 
   withTranscript(dataDir, destDir, txFile, "BioPharma Insurrectionist Donors", function() {
