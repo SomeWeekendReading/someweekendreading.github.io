@@ -237,9 +237,7 @@ pentagons).  The soccer ball is the Goldberg polyhedron of order $G(1, 1)$, whic
 a [truncated icosahedron](https://en.wikipedia.org/wiki/Truncated_icosahedron) of 32
 faces, not 24.  
 
-So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy of a sort.  There
-are [various solids with 24 faces](https://www.polyhedra.net/en/pictures.php?type=op),
-though, so let's let that one pass.  
+So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy of a sort.  There are [various solids with 24 faces](https://www.polyhedra.net/en/result.php?type_fev=faces&operator=%3D&number=24&B1=Submit), though, so let's let that one pass.  
 
 If you plant viral antigens on each of those faces, you can expose the patient's immune
 system to up to 24 variants.  (More likely 8-12, so each variant is on 2 or 3 faces.)
@@ -256,7 +254,7 @@ had to find people who are still unvaccinated, but willing to participate in a v
 trial!  I'm pleasantly surprised they could do this.  
 
 That trial has gotten to data lock, and is currently being analyzed.  Chez Weekend, we're
-all waiting excitedly.  (Ok, not the cat.)  
+all waiting excitedly.  (Ok, not the cat.  He's&hellip; a cat.)  
 
 
 ## The Weekend Conclusion  
@@ -265,7 +263,7 @@ Ok, maybe we can process multiple variants in parallel: a 24-sided ferritin nano
 with 8-12 variant spike proteins/RBDs, at a redundancy factor of 2-3.  
 
 I guess it's come to that: we have to be _that_ clever to evade all the viruses we're
-dumpig into our population via climate change and animal habitat invasion.  
+dumping into our population via climate change and animal habitat invasion.  
 
 We might not be this clever for the next one.  Or we might be as slow as
 we were for this one.  Or we might have so much superstitious vaccine defiance that it
