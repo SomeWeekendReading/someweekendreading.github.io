@@ -48,7 +48,7 @@ of life-ending medical scams in normal times.)  So this schedule looks really go
 Second, from _Genetic Engineering &amp; Biotechnology News_ comes the 
 report <sup id="fn1a">[[1]](#fn1)</sup> that the National Institute of Allergy and
 Infectious Diseases (NIAID) has awarded $36 million for the development of a
-_pan-coronavirus vaccine!_  The grat announcment itself <sup id="fn2a">[[2]](#fn2)</sup>
+_pan-coronavirus vaccine!_  The grant announcment itself <sup id="fn2a">[[2]](#fn2)</sup>
 summarizes the purpose thus:  
 
 > NIAID is issuing this Notice of Special Interest (NOSI) to highlight the critical need
