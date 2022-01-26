@@ -92,9 +92,10 @@ the US:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Yes, by all means: do whatever the _zeitgeist_ and _l'esprit du temps_ nudge you to do, so
-long as you get your people vaccinated.  (On the left, in German: "Impfen hilft", or
-"vaccination helps".  On the right, in French: "Oui, le vaccin put avoir des effets
-d&eacute;sirables", or "Yes, the vaccine can have desireable effects".  Indeed.)  
+long as you get your people vaccinated.  (On the left, in German: "Impfen hilft, auch
+allen die du liebst", or "Vaccination helps, also everyone you love".  On the right, in
+French: "Oui, le vaccin put avoir des effets d&eacute;sirables", or "Yes, the vaccine can
+have desireable effects".  Indeed.)  
 
 So that's the sitch.  The sitch is not good.  
 
