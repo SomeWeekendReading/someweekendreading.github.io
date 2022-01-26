@@ -50,8 +50,8 @@ _Our World in Data_ is showing us how to learn this important lesson:
 
 $$
 \begin{align*}
-  \mbox{Risk Ratio} &= \frac{\Pr(\mbox{death} | \mbox{unvaxed})}{\\Pr(\mbox{death} | \mbox{unvaxed})} \\
-                    &= \frac{9.74\%}{9.74\% + 0.71\% + 0.10\%} \\
+  \mbox{Risk Ratio} &= \frac{\Pr(\mbox{death} | \mbox{unvaxed})}{\Pr(\mbox{death} | \mbox{vaxed})} \\
+                    &= \frac{9.74\%}{0.71\% + 0.10\%} = \frac{9.74\%}{0.81\%} \\
 					&= 12.02
 \end{align*}
 $$
@@ -189,7 +189,7 @@ military sources). <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</
   (RBD) subset of the spike protein.  
 
 
-## A deeper dive  
+## A deep(er) dive  
 
 That's about as much as we can learn from press releases and fawning interviews from the
 military press.  For a deeper look, we're going to have to find the scientists involved
@@ -237,7 +237,7 @@ pentagons).  The soccer ball is the Goldberg polyhedron of order $G(1, 1)$, whic
 a [truncated icosahedron](https://en.wikipedia.org/wiki/Truncated_icosahedron) of 32
 faces, not 24.  
 
-So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy of a sort.  There are [various solids with 24 faces](https://www.polyhedra.net/en/result.php?type_fev=faces&operator=%3D&number=24&B1=Submit), though, so let's let that one pass.  
+So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy, of a sort.  There are [various solids with 24 faces](https://www.polyhedra.net/en/result.php?type_fev=faces&operator=%3D&number=24&B1=Submit), though, so let's let that one pass.  
 
 If you plant viral antigens on each of those faces, you can expose the patient's immune
 system to up to 24 variants.  (More likely 8-12, so each variant is on 2 or 3 faces.)
