@@ -89,7 +89,7 @@ the US:
     <a href="https://t.co/nDp8GCSLvr">https://t.co/nDp8GCSLvr</a>
   </p>&mdash; Bruno Tertrais (@BrunoTertrais) <a href="https://twitter.com/BrunoTertrais/status/1486069786916364290?ref_src=twsrc%5Etfw">January 25, 2022</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 Yes, by all means: do whatever the _zeitgeist_ and _l'esprit du temps_ nudge you to do, so
 long as you get your people vaccinated.  (On the left, in German: "Impfen hilft", or
@@ -296,7 +296,7 @@ Heaven help us.
   
 <a id="fn4">4</a>: Walter Reed Army Institute of Research, ["Preclinical studies support Army's pan-coronavirus vaccine development strategy"](https://www.army.mil/article/252890/series_of_preclinical_studies_supports_the_armys_pan_coronavirus_vaccine_development_strategy), _US Army_, 2021-Dec-16. [↩](#fn4a)  
   
-<a id="fn5">5</a>: P Butler, ["The Army's 'universal vaccine' aims to end all COVID pandemics"](https://www.cnet.com/health/the-armys-universal-vaccine-aims-to-end-all-covid-pandemics/), _c|net_, 2022-Jan-22. [↩](#fn5a)  
+<a id="fn5">5</a>: P Butler, ["The Army's 'universal vaccine' aims to end all COVID pandemics"](https://www.cnet.com/health/could-a-universal-vaccine-put-an-end-to-covid-pandemics-the-army-is-counting-on-it/), _c|net_, 2022-Jan-22. [↩](#fn5a)  
 
 <a id="fn6">6</a>: K Jetelina, ["Pan-coronavirus "super" vaccine"](https://yourlocalepidemiologist.substack.com/p/pan-coronavirus-super-vaccine), _Your Local Epidemiologist_ blog, 2021-Dec-26. [↩](#fn6a)  
 
