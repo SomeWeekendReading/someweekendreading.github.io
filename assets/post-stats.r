@@ -422,9 +422,9 @@ postStats <- function(## Inputs
                                            }),
                                      yearComments, by = "Year", all = TRUE),
                                NComments = ifelse(is.na(NComments), 0, NComments)),
-                     DaysPerPost     = round(NDays / NPosts,     digits = 2),
-                     DaysPerComment  = round(NDays / NComments,  digits = 2),
-                     CommentsPerPost = round(NComments / NPosts, digits = 2))
+                     DaysPerPost     = round(NDays     / NPosts,    digits = 2),
+                     DaysPerComment  = round(NDays     / NComments, digits = 2),
+                     CommentsPerPost = round(NComments / NPosts,    digits = 2))
     rbind(foo,                                         # Add another row at the bottom, which has
           transform(data.frame(Year   = "Total",       #  totals of posts & days, & overall days/post
                                NPosts = sum(foo$"NPosts"),
