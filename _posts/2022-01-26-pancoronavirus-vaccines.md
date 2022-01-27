@@ -103,7 +103,7 @@ my favorite countries outside the US:
 Yes, by all means: do whatever the _zeitgeist_ and _l'esprit du temps_ nudge you to do, so
 long as you get your people vaccinated.  
 
-So that's the sitch.  The sitch is bad.  
+So that's the sitch.  The sitch is bad (aside from the typically excellent French humor).  
 
 
 ## Some thngs are happening (slowly, but at least happening)  
