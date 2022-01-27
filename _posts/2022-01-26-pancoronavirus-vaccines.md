@@ -269,7 +269,9 @@ trial!  I'm pleasantly surprised they could do this.
 That trial has apparently gotten to data lock, and is currently being analyzed.  Chez
 Weekend, we're all waiting excitedly.  (Ok, not the cat.  He's&hellip; well, a _cat_.
 He's too busy with more important matters, like guarding Ch&acirc;teau Weekend from
-birds, squirrels and other miscreants, as shown here.)  
+birds, squirrels and other minuscule miscreants, as shown here.  Occasionally, he
+theorizes that he can take down a wild turkey many times his size.  He is incorrect, but
+we have prevented him from performing the relevant experiment.)  
 
 
 ## The Weekend Conclusion  
