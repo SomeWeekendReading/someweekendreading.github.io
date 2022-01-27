@@ -154,7 +154,7 @@ always hanging over me!  Can't we do something about that?
 
 Why, yes.  Yes, we can.  
 
-That's where today's blog post comes in:  
+That's where today's blog post comes in.  
 
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-defenseone.jpg" width="400" height="374" alt="Copp @ DefenseOne: Army efforts toward pan-coronavirus vaccine" title="Copp @ DefenseOne: Army efforts toward pan-coronavirus vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-army.jpg" width="400" height="186" alt="US Army: preclinical results on pan-coronavirus" title="US Army: preclinical results on pan-coronavirus" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">

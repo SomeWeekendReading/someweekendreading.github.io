@@ -91,7 +91,7 @@ efficacyAndCL <- function(Ntrt, Ktrt, Ncnt, Kcnt) {    # Treatment efficacy & 95
 ```
 
 (I'd prefer to use 
-[my new Bayesian method of the distribution of Beta-distributed variables]({{ site.baseurl/beta-ratios}}),
+[my new Bayesian method of the distribution of Beta-distributed variables]({{ site.baseurl }}/beta-ratios),
 but I haven't finished the tricky numerics of ${}\_{3}F\_{2}()$ for large parameter values.)  
 
 So let's see what we get:  
