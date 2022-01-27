@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pan-Coronavirus Vaccines
-tags: COVID PharmaAndBiotech 
+tags: COVID PharmaAndBiotech Statistics
 comments: true
 ---
 
@@ -31,7 +31,7 @@ In a word, the sitch is bad.
 disturbing, though predictable, data on death rates and vaccination status.  Nearly
 _every_ media outlest gets confused about this; even this crummy little blog that
 nobody reads (_CLBTNR_) has documented the fact:
-[the fraction of dead who are vaccinated tells you _nothing_, while the fractoin of the vaccinated who die is what matters]({{ site.baseurl }}/covid-simpson/#but-whats-that-got-to-do-with-covid-19-vaccination-rates-and-hospitalization-rates).
+[the fraction of dead who are vaccinated tells you _nothing_, while the fraction of the vaccinated who die is what matters]({{ site.baseurl }}/covid-simpson/#but-whats-that-got-to-do-with-covid-19-vaccination-rates-and-hospitalization-rates).
 That is, you shouldn't care about $\Pr(\mbox{vaccinated} | \mbox{death})$ (which would be
 100% if 100% of the population were vaccinated, so it's clearly meaning-free).
 Instead you should care about $\Pr(\mbox{death} | \mbox{vaccinated})$.  The relevant
@@ -53,8 +53,8 @@ _Our World in Data_ is showing us how to learn this important lesson:
 $$
 \begin{align*}
   \mbox{Risk Ratio} &= \frac{\Pr(\mbox{death} | \mbox{unvaxed})}{\Pr(\mbox{death} | \mbox{vaxed})} \\
-                    &= \frac{9.74\%}{0.71\% + 0.10\%} \\
-					&= \frac{9.74\%}{0.81\%} \\
+                    &= \frac{9.74/100k}{0.71/100k + 0.10/100k} \\
+					&= \frac{9.74/100k}{0.81/100k} \\
 					&= 12.02
 \end{align*}
 $$
