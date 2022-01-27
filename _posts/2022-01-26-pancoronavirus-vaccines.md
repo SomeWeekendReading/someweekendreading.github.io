@@ -62,11 +62,11 @@ $$
 Something cheap, easy, and reliable can reduce your risk of death by 12x; maybe you should
 _do_ that thing?  
 
-Many others have had a few tart thoughts on these data, mostly of the form: if you think
-there's no point to vaccination, we're completely done tolerating your BS.  As this blog says
-right up top that it is devoted to occasional tart thoughts, let's look at one.  Gerry
-Doyle of _Reuters_, for example, reminds us that _we can do much better_, using the
-example of Singapore:  
+Many others have had a few tart thoughts on these data, mostly of the form: "if you think
+there's no point to vaccination, we are completely done tolerating your BS".  As this
+humble blog says right up top that it is devoted to occasional tart thoughts, let's look
+at one.  Gerry Doyle of _Reuters_, for example, reminds us that _we can do much better_,
+using the example of Singapore:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -77,15 +77,16 @@ example of Singapore:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-The green part of the pie chart is people who got asymptomatic or mildly symptomatic COVID,
-vs everything else in the miniscule rest of the pie chart.  Singapore is massively
-vaccinated, and that's the cause.  
+The green part of the pie chart is people who got asymptomatic or mildly symptomatic
+COVID, vs everything else that can go badly wrong in the miniscule rest of the pie chart.
+Singapore is massively vaccinated, and that's the cause.  
 
-So try to be like them, at least in this respect, ok?  Yeah, I know: the US is not
-Singapore.  Before you trot out some American-exceptionalist, hyper-patriot nonsense, let
-me point out that I completely understand public health campaigns must be culturally
-sensitive.  Consider, for example, France and Germany, 2 of my favorite countries outside
-the US:  
+So try to be like them, at least in this respect, ok?  
+
+Yeah, I know: the US is not Singapore.  Before you trot out some American-exceptionalist,
+hyper-patriot nonsense, let me point out that I completely understand public health
+campaigns must be culturally sensitive.  Consider, for example, France and Germany, 2 of
+my favorite countries outside the US:  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     Both our countries have reputations to uphold.
@@ -94,14 +95,13 @@ the US:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-Yes, by all means: do whatever the _zeitgeist_ and _l'esprit du temps_ nudge you to do, so
-long as you get your people vaccinated.  
 - On the left, in German: "Impfen hilft, auch allen die du liebst", or "Vaccination helps,
   also everyone you love".  
 - On the right, in French: "Oui, le vaccin put avoir des effets d&eacute;sirables", or
-  "Yes, the vaccine can have desireable effects".  
+  "Yes, the vaccine can have desirable effects".  
   
-Indeed!  
+Yes, by all means: do whatever the _zeitgeist_ and _l'esprit du temps_ nudge you to do, so
+long as you get your people vaccinated.  
 
 So that's the sitch.  The sitch is bad.  
 
@@ -132,8 +132,9 @@ original vaccines.  So it will go faster, even just for that reason.  There are 
   and boosted population.  
 - $n = 305$: Completely unvaccinated folks get 3 doses of the Omicron vaccine.  This tells
   us about the vaccine na&iuml;ve population, which at this point is still most of the
-  world.  Sadly.  That's important, because this is one of the populations where future
-  variants will occur, so even selfish people should want to see them vaccinated!  
+  world.  (Sadly.  To our collective moral discredit.)  That's important, because this is
+  one of the populations where future variants will occur, so even selfish people should
+  want to see them vaccinated!  
 
 We can expect a readout of that trial before mid-year, followed by _extremely_ rapid
 FDA/VRBPAC review and CDC/ACIP review.  Of course, by next month Omicron will have burned
@@ -187,7 +188,7 @@ military sources). <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</
   be universal to all coronaviruses?)  (Also parenthetically, a soccer ball is a 
   [Goldberg polyhedron](https://en.wikipedia.org/wiki/Goldberg_polyhedron), but has 32
   faces instead of 24. And that's as much as this nerd knows about sportsball, due to a
-  lifelong sports aversion induced by getting beatings from jocks in middle &amp; high school.)  
+  lifelong sports aversion induced by beatings from jocks in middle &amp; high school.)  
 - It has an undemanding cold chain, unlike the mRNA vaccines: 36 - 46&deg;F for up to 6
   months and at room temperature for up to 1 month.  
 - The best current guess at a dose schedule is 2 primers separated by 28 days and then a
@@ -312,6 +313,6 @@ Heaven help us.
 
 <a id="fn8">8</a>: H King, _et al.,_ ["Efficacy and breadth of adjuvanted SARS-CoV-2 receptor-binding domain nanoparticle vaccine in macaques"](https://www.pnas.org/content/118/38/e2106433118.short), _Proc Natl Acad Sci_ 118:38, 2021-Sep-21.  DOI: [10.1073/pnas.2106433118](https://doi.org/10.1073/pnas.2106433118).[↩](#fn8a)  
 
-<a id="fn9">9</a>: D Martinze, _et al.,_ ["A broadly cross-reactive antibody neutralizes and protects against sarbecovirus challenge in mice"](https://www.science.org/doi/10.1126/scitranslmed.abj7125), _Science Translational Medicine_, 14:629, 2021-Nov-02.  DOI: [10.1126/scitranslmed.abj7125](https://doi.org/10.1126/scitranslmed.abj7125). [↩](#fn9a)  
+<a id="fn9">9</a>: D Martinez, _et al.,_ ["A broadly cross-reactive antibody neutralizes and protects against sarbecovirus challenge in mice"](https://www.science.org/doi/10.1126/scitranslmed.abj7125), _Science Translational Medicine_, 14:629, 2021-Nov-02.  DOI: [10.1126/scitranslmed.abj7125](https://doi.org/10.1126/scitranslmed.abj7125). [↩](#fn9a)  
 
 <a id="fn10">10</a>: US Army Medical Research and Development Command, ["SARS-COV-2-Spike-Ferritin-Nanoparticle (SpFN) Vaccine With ALFQ Adjuvant for Prevention of COVID-19 in Healthy Adults"](https://clinicaltrials.gov/ct2/show/NCT04784767), _ClinicalTrials.gov_, 2021-March-05. [↩](#fn10a)  
