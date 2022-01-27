@@ -371,7 +371,6 @@ postStats <- function(## Inputs
   ## *** Add number of comments not from me for each year
   ## *** Add number of comments from me for each year
   ## *** Total unique commenters for each year (and hand-collapse known spelling variations)
-  ## *** Just for completelness, add century and millennium leap year calculations
   summarizePostFrequency <- function(postData, commentsDir, commentPatt) {
     ## Returns a dataframe summarizing post frequency by year and overall, e.g.:
     ##    Year NPosts NDays NComments DaysPerPost DaysPerComment
@@ -382,8 +381,8 @@ postStats <- function(## Inputs
     commentYears <- function(commentsDir, commentPatt) {
       ## NB: Timestamps are 13-digit integers, apparently msec since Unix epoch 1970-01-01.
       ##     It would be more traditional to do it in seconds, and have a 10-digit integer,
-      ##     which would fit into a 32-bit word.  So we conver to double via as.numeric(),
-      ##     divide by 1000 to get to seconds, and convert to integer via as.integer().
+      ##     which would fit into a 32-bit word.  So we convert to double via as.numeric(),
+      ##     divide by 1000msec/sec to get to seconds, and convert to integer via as.integer().
       ##     Then convert THAT to a Date and extract the year.  Phew!
       sapply(list.files(path = commentsDir, patt = commentPatt, recursive = TRUE), function(cf) {
         unixTimestampYear(as.integer(as.numeric(sub(commentPatt, "\\1", cf)) / 1000))
