@@ -414,7 +414,7 @@ postStats <- function(## Inputs
                                NComments = as.vector(yearComments))
     foo <- transform(transform(merge(ddply(transform(postData,
                                                      Year = as.integer(
-                                                       sprintf("%s", dateYear(PostDate)))),
+                                                              sprintf("%s", dateYear(PostDate)))),
                                            "Year",     # Map over year subsets of the data
                                            function(ydf) {
                                              data.frame(NPosts = nrow(ydf),
@@ -426,9 +426,9 @@ postStats <- function(## Inputs
                      DaysPerComment  = round(NDays     / NComments, digits = 2),
                      CommentsPerPost = round(NComments / NPosts,    digits = 2))
     rbind(foo,                                         # Add another row at the bottom, which has
-          transform(data.frame(Year   = "Total",       #  totals of posts & days, & overall days/post
-                               NPosts = sum(foo$"NPosts"),
-                               NDays  = sum(foo$"NDays"),
+          transform(data.frame(Year      = "Total",    #  totals of posts & days, & overall days/post
+                               NPosts    = sum(foo$"NPosts"),
+                               NDays     = sum(foo$"NDays"),
                                NComments = sum(foo$"NComments")),
                     DaysPerPost     = round(NDays / NPosts,     digits = 2),
                     DaysPerComment  = round(NDays / NComments,  digits = 2),
@@ -440,7 +440,6 @@ postStats <- function(## Inputs
     if (!is.null(clearVars)) {                         # Wants completely virgin calculation?
       heraldPhase("Clearing out previous results")     # Delete globals holding previous results
       removePreviousResults(clearVars)                 # Remove the requested globals
-      cat("\n\n* Done.\n")                             # Yep, we did that.
     }                                                  #
 
     heraldPhase("Getting hit count for each post")     # Announce what we're doing
