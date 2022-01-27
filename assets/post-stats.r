@@ -391,30 +391,36 @@ postStats <- function(## Inputs
 
     blogDays <- function(yr, blogStartYr = 2020) {     # How many blogging days in a given year?
       currDate <- Sys.Date()                           # Current date
-      currYr   <- as.integer(format(currDate, "%Y"))   # Current year and current day of year
-      currDoY  <- as.integer(strftime(Sys.Date(), "%j"))
+      currYr   <- as.integer(format(currDate, "%Y"))   # Current year and
+      currDoY  <- as.integer(strftime(currDate, "%j")) # Current day of year
 
-      stopifnot(yr >= blogStartYr && yr <= currYr)     # Signal if year is too far back, or future
+      stopifnot(blogStartYr <= yr && yr <= currYr)     # Signal if year is too far back, or future
 
-      if (yr == 2020)                                  # If first year of blogging: Jul 01 to Dec 31
+      if (yr == blogStartYr)                           # If first year of blogging: Jul 01 to Dec 31
         184                                            #  was 184 days
       else if (yr < currYr) {                          # Else if year between then and now
-        div4   <- yr %%   4 == 0                       #  is this year divisible by 4?
+        div4   <- yr %%   4 == 0                       #  is this year divisible by   4?
         div100 <- yr %% 100 == 0                       #  is this year divisible by 100?
         div400 <- yr %% 400 == 0                       #  is this year divisible by 400?
         ## Leap year if divisible by 4 and NOT by 100, or if divisible by 4 AND by 100 AND by 400
+        ## Equivalent to? div4 && (!div100 || div400)
         if ((div4 && !div100) || (div4 && div100 && div400)) 366 else 365
       } else                                           # Else it's the current year
-        as.integer(strftime(currDate, "%j"))           #  so return number of days so far
+        currDoY                                        #  so return number of days so far
     }                                                  #
 
     yearComments <- table(commentYears(commentsDir, commentPatt))
     yearComments <- data.frame(Year      = as.integer(dimnames(yearComments)[[1]]),
                                NComments = as.vector(yearComments))
-    foo <- ddply(transform(postData, Year = as.integer(sprintf("%s", dateYear(PostDate)))),
-                 "Year",                               # Map over year subsets of the data
-                 function(ydf) { data.frame(NPosts = nrow(ydf), NDays = blogDays(ydf[[1, "Year"]])) })
-    foo <- transform(transform(merge(foo, yearComments, by = "Year", all = TRUE),
+    foo <- transform(transform(merge(ddply(transform(postData,
+                                                     Year = as.integer(
+                                                       sprintf("%s", dateYear(PostDate)))),
+                                           "Year",     # Map over year subsets of the data
+                                           function(ydf) {
+                                             data.frame(NPosts = nrow(ydf),
+                                                        NDays  = blogDays(ydf[[1, "Year"]]))
+                                           }),
+                                     yearComments, by = "Year", all = TRUE),
                                NComments = ifelse(is.na(NComments), 0, NComments)),
                      DaysPerPost     = round(NDays / NPosts,     digits = 2),
                      DaysPerComment  = round(NDays / NComments,  digits = 2),
