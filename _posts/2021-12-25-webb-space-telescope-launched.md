@@ -80,6 +80,10 @@ The result so far:
 
 Wish the JWST some good luck.  It's a Happy Christmas kind of thing, for scientists.  
 
+Or&hellip; is it?  [XKCD has a more cautious interpretation](https://xkcd.com/2559/):  
+
+![Update: Santa has been destroyed by the range safety officer.]({{ site.baseurl }}/images/2021-12-25-webb-space-telescope-launched-XKCD-december_25th_launch.png "Update: Santa has been destroyed by the range safety officer.")
+
 ---
 
 ## Notes &amp; References  
