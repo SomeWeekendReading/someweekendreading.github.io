@@ -305,4 +305,4 @@ Heaven help us.
 
 <a id="fn9">9</a>: D Martinze, _et al.,_ ["A broadly cross-reactive antibody neutralizes and protects against sarbecovirus challenge in mice"](https://www.science.org/doi/10.1126/scitranslmed.abj7125), _Science Translational Medicine_, 14:629, 2021-Nov-02.  DOI: [10.1126/scitranslmed.abj7125](https://doi.org/10.1126/scitranslmed.abj7125). [↩](#fn9a)  
 
-<a id="fn10">10</a>: US Army Medical Research and Development Command, ["SARS-COV-2-Spike-Ferritin-Nanoparticle (SpFN) Vaccine With ALFQ Adjuvant for Prevention of COVID-19 in Healthy Adults"](https://clinicaltrials.gov/ct2/show/NCT04784767), ClinicalTrials.gov, 2021-March-05. [↩](#fn10a)  
+<a id="fn10">10</a>: US Army Medical Research and Development Command, ["SARS-COV-2-Spike-Ferritin-Nanoparticle (SpFN) Vaccine With ALFQ Adjuvant for Prevention of COVID-19 in Healthy Adults"](https://clinicaltrials.gov/ct2/show/NCT04784767), _ClinicalTrials.gov_, 2021-March-05. [↩](#fn10a)  
