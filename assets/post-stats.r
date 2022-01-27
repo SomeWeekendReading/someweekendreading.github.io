@@ -367,6 +367,7 @@ postStats <- function(## Inputs
     TRUE                                               # Flag that it was done
   }                                                    #
 
+  ## *** Add capability for summary by quarters instead of years
   ## *** Add number of comments not from me for each year
   ## *** Add number of comments from me for each year
   ## *** Total unique commenters for each year (and hand-collapse known spelling variations)
@@ -399,7 +400,11 @@ postStats <- function(## Inputs
       if (yr == 2020)                                  # If first year of blogging: Jul 01 to Dec 31
         184                                            #  was 184 days
       else if (yr < currYr) {                          # Else if year between then and now
-        if (yr %% 4 == 0) 366 else 365                 #  oversimplified leap year calculation ***
+        div4   <- yr %%   4 == 0                       #  is this year divisible by 4?
+        div100 <- yr %% 100 == 0                       #  is this year divisible by 100?
+        div400 <- yr %% 400 == 0                       #  is this year divisible by 400?
+        ## Leap year if divisible by 4 and NOT by 100, or if divisible by 4 AND by 100 AND by 400
+        if ((div4 && !div100) || (div4 && div100 && div400)) 366 else 365
       } else                                           # Else it's the current year
         as.integer(strftime(currDate, "%j"))           #  so return number of days so far
     }                                                  #
