@@ -14,7 +14,9 @@ Back in October, we noted that the NIAID grants were given to University of Wisc
 Madison, Brigham & Women’s Hospital in Boston, and Duke University.  Ironically, the
 reports we have today come from none of them, though we didn't dig into exactly why that
 is. It could well be that they all did the fundamental research, which fed into the
-clinical trials at Walter Reed which are today's subject.  I hope so.  
+clinical trials at Walter Reed which are today's subject.  I hope so.  (_Later:_
+Apparently not.  All those efforts seem to be independent, and today we're seeing
+_another_ effort funded mostly by the US Army.)  
 
 Let's see what's going on!  
 
