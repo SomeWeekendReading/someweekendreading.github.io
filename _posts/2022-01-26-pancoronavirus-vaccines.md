@@ -57,10 +57,10 @@ $$
 $$
 
 Something cheap, easy, and reliable can reduce your risk of death by 12x; maybe you should
-do that thing?  
+_do_ that thing?  
 
 Many others have had a few tart thoughts on these data, mostly of the form: if you think
-there's no point to vaccination, we're completely done with your BS.  As this blog says
+there's no point to vaccination, we're completely done tolerating your BS.  As this blog says
 right up top that it is devoted to occasional tart thoughts, let's look at one.  Gerry
 Doyle of _Reuters_, for example, reminds us that _we can do much better_, using the
 example of Singapore:  
@@ -112,7 +112,7 @@ and [the FDA's then-promise of rapid review, comparable to annual flu vaccines](
 
 Of course, since then things have moved on &ndash; and not in a good way &ndash; with the
 advent of the Omicron variant.  From the _New York Times_ comes a brief piece yesterday
-<sup id="fn1a">[[1]](#fn1)</sup>, doucmenting that clinical trials are happening for the
+<sup id="fn1a">[[1]](#fn1)</sup>, documenting that clinical trials are happening for the
 Pfizer/BioNTech version specific to Omicron.  It's based on a joint Pfizer/BioNTech press
 release. <sup id="fn2a">[[2]](#fn2)</sup>  
 
@@ -125,7 +125,7 @@ original vaccines.  So it will go faster, even just for that reason.  There are 
   the question of whether the new vaccine is much better than the old, in a fully vaxed
   and boosted population.  
 - $n = 305$: Completely unvaccinated folks get 3 doses of the Omicron vaccine.  This tells
-  us about the vaccine na&iuml;e population, which at this point is still most of the
+  us about the vaccine na&iuml;ve population, which at this point is still most of the
   world.  Sadly.  That's important, because this is one of the populations where future
   variants will occur, so even selfish people should want to see them vaccinated!  
 
@@ -157,7 +157,7 @@ confer immunity to all variants of SARS-CoV2, including the ones that haven't cr
 yet.  _Probably_ also to the other 6 coronaviruses that infect humans (see this CLBTNR's discussion
 [here]({{ site.baseurl }}/really-long-covid/#some-history) and
 [here]({{ site.baseurl }}/covid-misc/#research-on-a-pan-coronavirus-vaccine)).  Probably
-not (yet) also to the bajillions of coronaviruses currently in animal populations that might
+_not_ (yet) also to the bajillions of coronaviruses currently in animal populations that might
 cause yet another pandemic someday, next time we do something stupid to an animal habitat.  
 
 While we haven't come across research reports from the original grantees, things have
@@ -208,7 +208,7 @@ Our guides here will be:
 3. The _PNAS_ publication of the preclinical data for the RFN vaccine in 
    primates <sup id="fn8a">[[8]](#fn8)</sup>.  
 
-### One approacch: 'elite neutralizers'  
+### One approach: 'elite neutralizers'  
 
 Some people, for reasons not understood, produce 'broadly neutralizing antibodies' (bnAbs)
 tht bind all over the relevant virus.  In the case of SARS-CoV2 this means beyond the
@@ -232,18 +232,21 @@ even: it's [_pikuach nefesh_](https://en.wikipedia.org/wiki/Pikuach_nefesh).
 Basically, they've built a ferritin nanoparticle (nanometer scale struture involving iron
 atoms), which has "24 sides like a soccer ball".  A soccer ball, as you of course all
 remember from gym class, is a
-[Goldberg polyhedron](https://en.wikipedia.org/wiki/Goldberg_polyhedron) (some very clever
-ways of tesselating the unit sphere, mostly with regular hexagons and 12 distinct
+[Goldberg polyhedron](https://en.wikipedia.org/wiki/Goldberg_polyhedron) (a very clever
+way of tesselating the unit sphere, mostly with regular hexagons plus 12 distinct
 pentagons).  The soccer ball is the Goldberg polyhedron of order $G(1, 1)$, which makes it
 a [truncated icosahedron](https://en.wikipedia.org/wiki/Truncated_icosahedron) of 32
 faces, not 24.  
 
-So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy, of a sort.  There are [various solids with 24 faces](https://www.polyhedra.net/en/result.php?type_fev=faces&operator=%3D&number=24&B1=Submit), though, so let's let that one pass.  
+So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy, of a sort.  
 
-If you plant viral antigens on each of those faces, you can expose the patient's immune
-system to up to 24 variants.  (More likely 8-12, so each variant is on 2 or 3 faces.)
-This has been done both with the full spike protein (SpFN) and with just the receptor
-binding doman (RBD).  
+There are [various solids with 24 faces](https://www.polyhedra.net/en/result.php?type_fev=faces&operator=%3D&number=24&B1=Submit), though, so let's let that one pass.  
+
+If you plant viral antigens on each of those faces (somehow!), you can expose the
+patient's immune system to up to 24 variants.  (More likely 8-12, so each variant is on 2
+or 3 faces.)  This has been done both with the full spike protein (SpFN) and with just the
+receptor binding doman (RBD, so it's called the RFN vaccine).  By that point, you've built
+what viruses can only regard as the vaccination [death star](https://en.wikipedia.org/wiki/Death_Star).  
 
 In animal trials, they both induced antibody responses, and at sufficiently high doses
 also induced T-cell responses in a pseudovirus neutralization assay.  
@@ -266,12 +269,11 @@ with 8-12 variant spike proteins/RBDs, at a redundancy factor of 2-3.
 I guess it's come to that: we have to be _that_ clever to evade all the viruses we're
 dumping into our population via climate change and animal habitat invasion.  
 
-We might not be this clever for the next one.  Or we might be as slow as
-we were for this one.  Or we might have so much superstitious vaccine defiance that it
-does us in.  
+We might not be this clever for the next one.  Or we might be as bletcherously slow as we
+were for this one.  Or we might be done in by great steaming buckets of superstitious
+vaccine defiance.  
 
 Heaven help us.  
-
 
 ---
 
