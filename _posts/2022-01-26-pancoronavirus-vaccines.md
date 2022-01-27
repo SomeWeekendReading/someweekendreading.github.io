@@ -53,7 +53,8 @@ _Our World in Data_ is showing us how to learn this important lesson:
 $$
 \begin{align*}
   \mbox{Risk Ratio} &= \frac{\Pr(\mbox{death} | \mbox{unvaxed})}{\Pr(\mbox{death} | \mbox{vaxed})} \\
-                    &= \frac{9.74\%}{0.71\% + 0.10\%} = \frac{9.74\%}{0.81\%} \\
+                    &= \frac{9.74\%}{0.71\% + 0.10\%} \\
+					&= \frac{9.74\%}{0.81\%} \\
 					&= 12.02
 \end{align*}
 $$
@@ -94,12 +95,15 @@ the US:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Yes, by all means: do whatever the _zeitgeist_ and _l'esprit du temps_ nudge you to do, so
-long as you get your people vaccinated.  (On the left, in German: "Impfen hilft, auch
-allen die du liebst", or "Vaccination helps, also everyone you love".  On the right, in
-French: "Oui, le vaccin put avoir des effets d&eacute;sirables", or "Yes, the vaccine can
-have desireable effects".  Indeed.)  
+long as you get your people vaccinated.  
+- On the left, in German: "Impfen hilft, auch allen die du liebst", or "Vaccination helps,
+  also everyone you love".  
+- On the right, in French: "Oui, le vaccin put avoir des effets d&eacute;sirables", or
+  "Yes, the vaccine can have desireable effects".  
+  
+Indeed!  
 
-So that's the sitch.  The sitch is not good.  
+So that's the sitch.  The sitch is bad.  
 
 
 ## Some thngs are happening (slowly, but at least happening)  
@@ -139,7 +143,7 @@ this year_, enough to re-vaccinte 1/4th of humanity
 in the first year of availability.  So there's that.  
 
 Still, we're doing something about Omicron (too slowly), and learning to get better for
-the next time.  
+the next time (maybe just in time).  
 
 
 ## What about 'the next time'?  
@@ -156,7 +160,7 @@ That's where today's blog post comes in:
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-cnet.jpg" width="400" height="303" alt="Butler @ c|net: Army effort to end all future COVID pandemics" title="Butler @ c|net: Army effort to end all future COVID pandemics" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 NIAID issued some grants last year for research on pan-coronavirus vaccines, that will
 confer immunity to all variants of SARS-CoV2, including the ones that haven't cropped up
-yet.  _Probably_ also to the other 6 coronaviruses that infect humans (see this CLBTNR's discussion
+yet.  _Possibly_ also to the other 6 coronaviruses that infect humans (see this CLBTNR's discussion
 [here]({{ site.baseurl }}/really-long-covid/#some-history) and
 [here]({{ site.baseurl }}/covid-misc/#research-on-a-pan-coronavirus-vaccine)).  Probably
 _not_ (yet) also to the bajillions of coronaviruses currently in animal populations that might
@@ -183,13 +187,14 @@ military sources). <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</
   be universal to all coronaviruses?)  (Also parenthetically, a soccer ball is a 
   [Goldberg polyhedron](https://en.wikipedia.org/wiki/Goldberg_polyhedron), but has 32
   faces instead of 24. And that's as much as this nerd knows about sportsball, due to a
-  lifelong sports aversion induced by beatings by jocks during childhood.)  
+  lifelong sports aversion induced by getting beatings from jocks in middle &amp; high school.)  
 - It has an undemanding cold chain, unlike the mRNA vaccines: 36 - 46&deg;F for up to 6
   months and at room temperature for up to 1 month.  
 - The best current guess at a dose schedule is 2 primers separated by 28 days and then a
   booster at 6 months after that.  So&hellip; like the mRNA vaccines, pretty much.  
 - There's a "smaller" version of the vaccine, which concentrates on the Receptor Binding Domain
-  (RBD) subset of the spike protein.  
+  (RBD) subset of the spike protein.  It _might_ be easier to manufacture, and appears to
+  have about the same properties in preclinical trials.  
 
 
 ## A deep(er) dive  
@@ -201,7 +206,7 @@ and see what they think.
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-yle.jpg" width="400" height="127" alt="Your Local Epidemiologist: pan-coronavirus 'super' vaccine" title="Your Local Epidemiologist: pan-coronavirus 'super' vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-science.jpg" width="400" height="157" alt="Joyce, et al. @ Science Transl Med: SpFN response in nonhuman primates" title="Joyce, et al. @ Science Transl Med: SpFN response in nonhuman primates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-pnas.jpg" width="400" height="270" alt="King, et al. @ PNAS: RFN response in nonhuman primates" title="King, et al. @ PNAS: RFN response in nonhuman primates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Our guides here will be:  
+Our safari guides here will be:  
 1. Katelyn Jetelina's blog _Your Local Epidemiologist_, who wrote about this 
    2021-Dec-26 <sup id="fn6a">[[6]](#fn6)</sup>.  Eric Topol of Scripps collaborated with
    Jetelina on this post.  
@@ -255,12 +260,12 @@ also induced T-cell responses in a pseudovirus neutralization assay.
 
 The human clincal trials started in 2021-Apr, with trial id 
 NCT04784767 <sup id="fn10a">[[10]](#fn10)</sup>.  This proved somewhat difficult to
-recruit: participants must not have been previously vaccinated nor had COVID-19!  So you
+recruit: participants must not have been previously vaccinated _nor_ had COVID-19.  So you
 had to find people who are still unvaccinated, but willing to participate in a vaccine
 trial!  I'm pleasantly surprised they could do this.  
 
-That trial has gotten to data lock, and is currently being analyzed.  Chez Weekend, we're
-all waiting excitedly.  (Ok, not the cat.  He's&hellip; a cat.)  
+That trial has apparently gotten to data lock, and is currently being analyzed.  Chez
+Weekend, we're all waiting excitedly.  (Ok, not the cat.  He's&hellip; well, a _cat_.)  
 
 
 ## The Weekend Conclusion  
@@ -299,7 +304,7 @@ Heaven help us.
   
 <a id="fn4">4</a>: Walter Reed Army Institute of Research, ["Preclinical studies support Army's pan-coronavirus vaccine development strategy"](https://www.army.mil/article/252890/series_of_preclinical_studies_supports_the_armys_pan_coronavirus_vaccine_development_strategy), _US Army_, 2021-Dec-16. [↩](#fn4a)  
   
-<a id="fn5">5</a>: P Butler, ["The Army's 'universal vaccine' aims to end all COVID pandemics"](https://www.cnet.com/health/could-a-universal-vaccine-put-an-end-to-covid-pandemics-the-army-is-counting-on-it/), _c_\|_net_, 2022-Jan-22. [↩](#fn5a)  
+<a id="fn5">5</a>: P Butler, ["The Army's 'universal vaccine' aims to end all COVID pandemics"](https://www.cnet.com/health/could-a-universal-vaccine-put-an-end-to-covid-pandemics-the-army-is-counting-on-it/), _c _\|_net_, 2022-Jan-22. [↩](#fn5a)  
 
 <a id="fn6">6</a>: K Jetelina, ["Pan-coronavirus "super" vaccine"](https://yourlocalepidemiologist.substack.com/p/pan-coronavirus-super-vaccine), _Your Local Epidemiologist_ blog, 2021-Dec-26. [↩](#fn6a)  
 
