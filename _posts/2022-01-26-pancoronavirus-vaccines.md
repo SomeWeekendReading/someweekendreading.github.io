@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pan-Coronavirus Vaccines
-tags: COVID PharmaAndBiotech Statistics
+tags: CatBlogging COVID PharmaAndBiotech Statistics
 comments: true
 ---
 
@@ -103,7 +103,7 @@ my favorite countries outside the US:
 Yes, by all means: do whatever the _zeitgeist_ and _l'esprit du temps_ nudge you to do, so
 long as you get your people vaccinated.  
 
-So that's the sitch.  The sitch is bad (aside from the typically excellent French humor).  
+So that's the sitch.  The sitch is bad.  (Aside from the typically excellent French humor).  
 
 
 ## Some thngs are happening (slowly, but at least happening)  
@@ -265,8 +265,11 @@ recruit: participants must not have been previously vaccinated _nor_ had COVID-1
 had to find people who are still unvaccinated, but willing to participate in a vaccine
 trial!  I'm pleasantly surprised they could do this.  
 
+<img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-publisher-on-guard.jpg" width="400" height="533" alt="Weekend Publisher on guard, keeping Ch&aacute;teau Weekend safe from birds, squirrels and other miscreants" title="Weekend Publisher on guard, keeping Ch&aacute;teau Weekend safe from birds, squirrels and other miscreants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 That trial has apparently gotten to data lock, and is currently being analyzed.  Chez
-Weekend, we're all waiting excitedly.  (Ok, not the cat.  He's&hellip; well, a _cat_.)  
+Weekend, we're all waiting excitedly.  (Ok, not the cat.  He's&hellip; well, a _cat_.
+He's too busy with more important matters, like guarding Ch&aacute;teau Weekend from
+birds, squirrels and other miscreants, as shown here.)  
 
 
 ## The Weekend Conclusion  
