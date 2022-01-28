@@ -397,7 +397,7 @@ postStats <- function(## Inputs
 
       if (yr == blogStartYr)                           # If first year of blogging: Jul 01 to Dec 31
         184                                            #  was 184 days
-      else if (yr < currYr) {                          # Else if year between then and now
+      else if (yr < currYr) {                          # Else if between then & now, days in whole year:
         div4   <- yr %%   4 == 0                       #  is this year divisible by   4?
         div100 <- yr %% 100 == 0                       #  is this year divisible by 100?
         div400 <- yr %% 400 == 0                       #  is this year divisible by 400?

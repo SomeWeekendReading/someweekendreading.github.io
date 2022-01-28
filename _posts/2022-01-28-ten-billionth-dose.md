@@ -14,12 +14,12 @@ of that?
 <img src="{{ site.baseurl }}/images/2022-01-28-ten-billionth-dose-cosmos.gif" width="150" height="193" alt="Carl Sagan, Cosmos" title="Carl Sagan, Cosmos" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), astrophysicist and host of popular
 science American book and TV show _Cosmos_ <sup id="fn1a">[[1]](#fn1)</sup>,
-used to describe astronomically large numbers with the phrase "billions and billions".  We
-used to joke that there needed to be a new unit in the metric system, the Sagan, with a
-value of some multiple of $10^{9}$, for multi-billion quantities somewhere north of a
-billion but south of a trillion.  
+used to describe astronomically large numbers with the endlessly repeated phrase "billions
+and billions".  In grad school, we used to joke that there needed to be a new unit in the
+metric system, the Sagan, with a value of some multiple of $10^{9}$, for multi-billion
+quantities somewhere north of a billion but south of a trillion.  
 
-In April of 2021, [we noted that the COVID-19 vaccination campaign had given out its billionth dose]({{ site.baseurl }}/billionth-dose/).  Today, [Eric Topol of the Scripps Research Translational Institute](https://drerictopol.com/meet-eric-topol/) reminds us that we mark another order of magnitude progress in the almost exactly 8 months since then:  
+In April of 2021, [we noted that the COVID-19 vaccination campaign had given out its billionth dose]({{ site.baseurl }}/billionth-dose/).  Today, [Eric Topol of the Scripps Research Translational Institute](https://drerictopol.com/meet-eric-topol/), quoting the always-excellent _Our World in Data_, reminds us that we mark another order of magnitude progress in the almost exactly 8 months since then:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
