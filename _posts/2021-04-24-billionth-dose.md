@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Billionth Dose
-tags: COVID MathInTheNews PharmaAndBiotech Politics
+tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 ---
 

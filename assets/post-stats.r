@@ -344,7 +344,7 @@ postStats <- function(## Inputs
         foo <- data.frame(x = postData$"PostHits", y = predict(mdl))
         foo <- foo[order(foo$"x"), ]                   # Plot log-linear fit
         lines(x = foo$"x", y = foo$"y", lty = "dashed", lwd = 2, col = "red")
-        coefData <- coef(mdlSum)
+        coefData <- coef(mdlSum)                       # Extract coeffs & p-values from model
         legend("topleft", bg = "antiquewhite", inset = 0.01, title = "Regression", cex = 0.8,
                legend = c(sprintf("Slope = %.2f (t-stat p ~ %.1e)",
                                   coefData[["log(PostHits)", "Estimate"]],
@@ -392,7 +392,6 @@ postStats <- function(## Inputs
     blogDays <- function(yr, blogStartYr = 2020) {     # How many blogging days in a given year?
       currDate <- Sys.Date()                           # Current date
       currYr   <- as.integer(format(currDate, "%Y"))   # Current year and
-      currDoY  <- as.integer(strftime(currDate, "%j")) # Current day of year
 
       stopifnot(blogStartYr <= yr && yr <= currYr)     # Signal if year is too far back, or future
 
@@ -406,7 +405,7 @@ postStats <- function(## Inputs
         ## Equivalent to? div4 && (!div100 || div400)
         if ((div4 && !div100) || (div4 && div100 && div400)) 366 else 365
       } else                                           # Else it's the current year
-        currDoY                                        #  so return number of days so far
+        as.integer(strftime(currDate, "%j"))           #  so return number of days so far
     }                                                  #
 
     yearComments <- table(commentYears(commentsDir, commentPatt))
@@ -419,7 +418,7 @@ postStats <- function(## Inputs
                                            function(ydf) {
                                              data.frame(NPosts = nrow(ydf),
                                                         NDays  = blogDays(ydf[[1, "Year"]]))
-                                           }),
+                                           }),         #
                                      yearComments, by = "Year", all = TRUE),
                                NComments = ifelse(is.na(NComments), 0, NComments)),
                      DaysPerPost     = round(NDays     / NPosts,    digits = 2),
@@ -457,7 +456,7 @@ postStats <- function(## Inputs
     })                                                 #
 
     heraldPhase("Summarizing Post Data")               # Summarize post/comment/hit counts
-    maybeAssign("summaryDone", function() {            #
+    maybeAssign("summaryDone", function() {            #  in a table of stats by year
       print(summarizePostFrequency(postData, commentsDir, commentPatt))
       TRUE                                             # Flag that it was done
     })                                                 #

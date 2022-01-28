@@ -543,7 +543,15 @@ Not being open about it doesn’t make it go away.
 And because it’s true, it is what is there to be interacted with.  
 Anything untrue isn’t there to be lived.  
 People can stand what is true,  
-for they are already enduring it." &mdash; [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)  
+for they are already enduring it."  
+&mdash; [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)  
+
+"If the box contains a diamond,  
+I desire to believe that the box contains a diamond;  
+If the box does not contain a diamond,  
+I desire to believe thatthe box does not contain a diamond;  
+Let me not become attached to beliefs I may not want."  
+&mdash; [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski), on [the nature of truth and its relation to belief](https://plato.stanford.edu/entries/tarski-truth/)  
 
 "Any sufficiently advanced technology is indistinguishable from magic." &mdash; [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke), ["Clarke's Third Law"](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
 
