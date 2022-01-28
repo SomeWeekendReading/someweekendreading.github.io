@@ -161,8 +161,11 @@ doit <- function(## Inputs
     ## - Slope: m = (y2 - y1) / (x2 - x1) = 2 / (n - 1)
     ## - Slope-point formula for linear embedding:
     ##   y - y1 = m * (x - x1)
-    ##   y = y1 + (2 / (n-1)) * (x - 1)
-    ##     = y1 + 2 * (x-1) / (n-1)
+    ##   y = y1 + m * (x - x1)            x -> 0
+    ##     = -1 + (2 / (n-1)) * (x - 1) ---------> -1 - 2/(n-1) = -(n-1 + 2)/(n-1) = -(n+1)/(n-1)
+    ##     = -1 - (2 / (n-1)) + (2 / (n-1)) * x
+    ##     = -(n-1 + 2) / (n-1) + (2 / (n-1)) * x
+    ##     = -(n+1)/(n-1) + (2 / (n-1)) * x   Agrees with above on y-intercept and slope.
 
     ## Sort Donors by # recipients and name, then add Rank, x, y
     sortedDonors <- ddply(donorData, "Donor", function(df) { data.frame(NRecipients = nrow(df)) })
