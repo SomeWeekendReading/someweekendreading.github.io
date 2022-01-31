@@ -46,7 +46,7 @@ say 'I did my own research' might sound like on the subject of blizzards:
 >   
 > I am concerned for our republic.   
 ><hr>  
-> 4/First of all, @CDCgov says blizzards are no big deal so long as you're financially stable, don't have to leave your house for work, have food, can afford heating and internet, and don't have to worry about power outages.  
+> 4/First of all, [@CDCgov](https://twitter.com/CDCgov) says blizzards are no big deal so long as you're financially stable, don't have to leave your house for work, have food, can afford heating and internet, and don't have to worry about power outages.  
 >   
 > Those apply to me. So why should I care about others?   
 ><hr>  
@@ -102,7 +102,7 @@ say 'I did my own research' might sound like on the subject of blizzards:
 >   
 > And my buddy who got it was FINE after his ER visit and skin graft.  
 >   
-> pubmed.ncbi.nlm.nih.gov/19730758/#:~:t….  
+> [pubmed.ncbi.nlm.nih.gov/19730758/#:~:t](https://pubmed.ncbi.nlm.nih.gov/19730758/#:~:text=The%20annual%20incidence%20of%20severe,over%20the%20age%20of%2065)….  
 ><hr>  
 > 14/I mean, sure, some people might die from from the cold. But how many died "from" the cold, vs. "with" the cold?  
 >   
@@ -110,7 +110,7 @@ say 'I did my own research' might sound like on the subject of blizzards:
 >   
 > Why won't anyone tell us? #transparency  
 >   
-> publichealthpost.org/research/count….  
+> [publichealthpost.org/research/count](https://www.publichealthpost.org/research/counting-cold-related-deaths-new-york-city/#:~:text=Each%20year%20in%20the%20United,exposure%2C%20essentially%20freezing%20to%20death)….  
 ><hr>  
 > 15/Honestly, this "wear gloves" thing is ridiculous.  
 >   
