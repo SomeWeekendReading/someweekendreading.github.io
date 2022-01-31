@@ -4,6 +4,7 @@ title: COVID Vaccines&colon; Why Not Full Approval?
 tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
+
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) a couple days ago why the
 Pfizer, Moderna, and J&amp;J vaccines don't have full FDA approval.  Umm&hellip; hmm.
 Good question.  
