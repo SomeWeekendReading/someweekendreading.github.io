@@ -128,7 +128,7 @@ say 'I did my own research' might sound like on the subject of blizzards:
 >   
 > This is a completely ridiculous overreaction to something that is seasonal, and will literally melt away. It will assuredly be gone by Easter. #blizzard2022   
 
-See?  Told ya he was brilliant.  I didn't expect he'd also be funny.  
+See?  Told ya he was brilliant.  I didn't expect he'd _also_ be funny.  
 
 
 ## The Weekend Conclusion  
@@ -138,7 +138,7 @@ So, yeah:
   reading conspiracy theories is 'doing your own research'&hellip; then whatever you say
   sounds about as dumb as Shah's parody above.  
 - If you then mix it with the tropes of right wing hysteria, you additionally sound like
-  the victim of the Republican mind-control virus.  
+  a victim of the Republican mind-control virus, spreading fascism through your mind.  
   
 So&hellip; maybe _don't_ do that?  
 
