@@ -146,7 +146,7 @@ So, yeah:
   
 Hey, um&hellip; maybe _don't_ do that?  
 
-Unless, of course, you're doing it like [XKCD #2515](https://xkcd.com/2515/):  
+Unless, of course, you're doing it like [XKCD #2515](https://www.explainxkcd.com/wiki/index.php/2515:_Vaccine_Research), in which the obvious is laboriously and unreliably rediscovered:  
 ![Honestly feel a little sheepish about the time and effort I spent confirming 'yes, the vaccine helps protect people from getting sick and dying' but I guess everyone needs a hobby.]({{ site.baseurl }}/images/2022-01-31-did-my-own-research-XKCD-2515.png "Honestly feel a little sheepish about the time and effort I spent confirming 'yes, the vaccine helps protect people from getting sick and dying' but I guess everyone needs a hobby.")  
 
 ---
