@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I Did My Own Research' &mdash; What That Sounds Like
+title: When You Say 'I Did My Own Research'&hellip; What That Sounds Like to Research Scientists
 tags: COVID Politics
 comments: true
 ---
