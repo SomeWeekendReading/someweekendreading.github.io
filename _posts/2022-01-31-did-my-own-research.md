@@ -130,8 +130,11 @@ say 'I did my own research' might sound like on the subject of blizzards:
 
 See?  Told ya he was brilliant.  I didn't expect he'd _also_ be funny.  
 
-The only thing missing is a suggestion to sprinkle ivermectin as a snow &amp; ice melter.
-Which makes approximately as much sense as ivermectin for COVID-19, so why not?  
+The only thing missing is a suggestion to sprinkle ivermectin as a snow &amp; ice
+melter.  Which makes
+[approximately as much sense as ivermectin for COVID-19]({{ site.baseurl }}/ivermectin-takedowns/),
+so why not?  (Whoops: spoke too soon.  One of the replies suggested taking some ivermectin
+and then peeing on the snow.  Yes, that's _much_ better&hellip;)  
 
 
 ## The Weekend Conclusion  
