@@ -15,16 +15,14 @@ that sounds like to actual research scientists.
 Our Main(e) Event today is from an epidemiologist who is the CDC director in Maine,
 [Dr. Nirav Shah](https://en.wikipedia.org/wiki/Nirav_D._Shah).  
 
-Now, the paranoid sector of Republicans in the US (which as far as I can tell is nearly
-_all_ Republicans) may demur at listening to a 'foreigner' with a name like 'Nirav Shah'.
+Now, the xenophobic sector of US Republicans (which as far as I can tell is nearly
+_all_ of them) may demur at listening to a 'foreigner' with a name like 'Nirav Shah'.
 I freely admit that Shah was in fact born in Wisconsin, but he seems to have overcome that
 initial disadvantage, becoming both a doctor _and_ a lawyer.  You might want to listen to
 him.  I know that I personally will shut up and listen when he talks about pandemics and
 epidemics.  
 
-As you may have noticed, this last weekend we had a blizzard here in New England.  While I
-was out renewing my snowblower pilot's license, Shah was imagining what the covidiots who
-say 'I did my own research' might sound like on the subject of blizzards:  
+As you may have noticed, [this last weekend we had a blizzard here in New England](https://www.bostonglobe.com/2022/01/30/metro/more-than-50000-remain-without-power-mass-following-saturdays-blizzard/).  While I was out renewing my snowblower pilot's license, Shah was imagining what the covidiots who say 'I did my own research' might have to say on the subject of blizzards:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -128,7 +126,7 @@ say 'I did my own research' might sound like on the subject of blizzards:
 >   
 > This is a completely ridiculous overreaction to something that is seasonal, and will literally melt away. It will assuredly be gone by Easter. #blizzard2022   
 
-See?  Told ya he was brilliant.  I didn't expect he'd _also_ be funny.  
+See?  Told ya he was brilliant.  I didn't expect he'd _also_ be funny, though.  
 
 The only thing missing is a suggestion to sprinkle ivermectin as a snow &amp; ice
 melter.  Which makes
@@ -147,6 +145,9 @@ So, yeah:
   a victim of the Republican mind-control virus, spreading fascism through your mind.  
   
 Hey, um&hellip; maybe _don't_ do that?  
+
+Unless, of course, you're doing it like [XKCD #2515](https://xkcd.com/2515/):  
+![Honestly feel a little sheepish about the time and effort I spent confirming \"yes, the vaccine helps protect people from getting sick and dying\" but I guess everyone needs a hobby.]({{ site.baseurl }}/images/2022-01-31-did-my-own-research-XKCD-2515.png "Honestly feel a little sheepish about the time and effort I spent confirming \"yes, the vaccine helps protect people from getting sick and dying\" but I guess everyone needs a hobby.")  
 
 ---
 
