@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pfizer COVID-19 vaccine fully FDA-approved
+title: Moderna COVID-19 vaccine fully FDA-approved
 tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
