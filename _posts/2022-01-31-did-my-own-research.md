@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I Did My Own Research'&colon; What That Sounds Like
+title: 'I Did My Own Research' &mdash; What That Sounds Like
 tags: COVID Politics
 comments: true
 ---
