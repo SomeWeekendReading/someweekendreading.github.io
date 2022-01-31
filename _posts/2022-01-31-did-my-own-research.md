@@ -35,7 +35,7 @@ say 'I did my own research' might sound like on the subject of blizzards:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 > 2/I studied poignant, analytical memes from leading thinkers in finance, technology, and art sales.  
-><>  
+>  
 > To my surprise, their insights actually CONFIRMED all of my pre-conceived notions about this storm.  
 >   
 > Thanks for the research help @Twitter!   
@@ -140,7 +140,7 @@ So, yeah:
 - If you then mix it with the tropes of right wing hysteria, you additionally sound like
   a victim of the Republican mind-control virus, spreading fascism through your mind.  
   
-So&hellip; maybe _don't_ do that?  
+Hey, um&hellip; maybe _don't_ do that?  
 
 ---
 
