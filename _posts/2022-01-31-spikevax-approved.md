@@ -10,7 +10,7 @@ Good news: the Moderna COVID-19 vaccine, aka 'Spikevax', is now fully FDA-approv
 
 ## Full FDA approval  
 
-[Last August, we noted with full approval]({{ site.baseurl }}/pfizer-vaccine-approved/) the full approval of Pfizer/BioNTech's COVID-19 vaccine, which we are apparently supposed to call comirnaty/tozinameran.  
+[Last August, we noted our Full Weekend Approval]({{ site.baseurl }}/pfizer-vaccine-approved/) of the full FDA approval of Pfizer/BioNTech's COVID-19 vaccine, which we are apparently supposed to call comirnaty/tozinameran.  
 
 <img src="{{ site.baseurl }}/images/2022-01-31-spikevax-approved-stat.jpg" width="400" height="223" alt="Bransewell @ STAT News: FDA grants full approval for Moderna COVID-19 vaccine" title="Bransewell @ STAT News: FDA grants full approval for Moderna COVID-19 vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-31-spikevax-approved-fda.jpg" width="400" height="195" alt="US FDA: Moderna Spikevax full approval and info sheets" title="US FDA: Moderna Spikevax full approval and info sheets" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -51,7 +51,7 @@ Some interesting facts and possible consequences:
   unvaccinated?    We can start having intelligent conversations about vaccine mandates,
   _of approved vaccines,_ in schools, universities, workplaces, and so on.  
 
-Approved.  That's a good word, isn't it?  
+'Approved'.  That's a good word, isn't it?  
 
 ---
 
