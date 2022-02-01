@@ -267,7 +267,7 @@ from the kindness of the Weekend Editrix, and her minions who visit them.
 A member of the Weekend Commentariat (email division) wishes to point out that 
 [Randall Munroe](https://xkcd.com/about/), the chaotic good genius behind 
 [the wonderfully perverse XKCD](https://xkcd.com/), has shown us all 
-[The Correct Way to interpret COVID-19 rapid antigen tests](https://xkcd.com/2558/):  
+[The Correct Way to interpret COVID-19 rapid antigen tests](https://www.explainxkcd.com/wiki/index.php/2558:_Rapid_Test_Results):  
 
 ![A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.]({{ site.baseurl }}/images/2021-12-10-weekend-editrix-exposed-xkcd.png "A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.")
 
