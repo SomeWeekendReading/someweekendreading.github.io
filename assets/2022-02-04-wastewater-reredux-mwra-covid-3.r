@@ -191,8 +191,8 @@ doit <- function(## Inputs
         axis.Date(1,                                   #
                   at     = seq(from = floor_date(min(jointData$"Date"), "month"),
                                to   = ceiling_date(max(jointData$"Date"), "month"),
-                               by   = "month"),        # Kind of miraculous this works at all
-                  format = "%Y-%m-%d")                 #
+                               by   = "2 months"),     # Kind of miraculous this works at all
+                  format = "%Y-%b-%d")                 #  it's really seq.Date()
         legend("topleft", bg = "antiquewhite", inset = 0.01,
                pch = 21, pt.bg = rnaCols, pt.cex = 1.5, legend = names(rnaCols))
 
@@ -274,7 +274,7 @@ doit <- function(## Inputs
                   at     = seq(from = floor_date(min(jointData$"Date"), "month"),
                                to   = ceiling_date(max(jointData$"Date"), "month"),
                                by   = "month"),        # Kind of miraculous this works at all
-                  format = "%Y-%m-%d")                 #
+                  format = "%Y-%b-%d")                 #
         legend("top", , bg = "antiquewhite", inset = 0.01,
                pch = 21, pt.bg = 1 : (2 + 1), legend = c("RNA", "Cases", "Deaths"))
       }, pty   = "m",                                  # Maximal plotting area

@@ -200,7 +200,7 @@ postStats <- function(## Inputs
           axis.Date(side = 1, format = "%Y-%b-%d", labels = TRUE,
                     at = seq(from = minPostDate - as.integer(getDay(minPostDate)) + 1, #1st day
                              to   = maxPostDate - as.integer(getDay(maxPostDate)) + 1, # of month
-                             by   = "month"))          # Ticks at start of each month
+                             by   = "2 months"))       # seq.Date() is pretty clever
           ## Don't really need horizontal axis label, since dates make it obvious it's the post date
         }, mgp = c(7.5, 0.5, 0))                       # Horizontal axis only: title, label, tick
 

@@ -1,5 +1,5 @@
 
-* MWRA COVID Analysis on Thu Feb 03 14:36:55 2022
+* MWRA COVID Analysis on Fri Feb 04 17:16:34 2022
   - input data directory: ./data
   - results directory:    ./results
   - transcript to:        ./results/mwra-covid-transcript.txt
@@ -486,4 +486,4 @@ RNA         0.001108245  0.00300743
 8  +0.00 - +0.01
 10 +0.00 - +0.00
 
-* MWRA COVID Analysis completed Thu Feb 03 14:37:11 2022 (16.4 sec elapsed).
+* MWRA COVID Analysis completed Fri Feb 04 17:16:51 2022 (17.2 sec elapsed).
