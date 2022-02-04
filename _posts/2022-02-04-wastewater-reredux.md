@@ -649,7 +649,7 @@ Basically, we're winning.  Too slowly, and in the face of a subpopulation who ar
 stupidly engaged in a death cult determined to bring all of us down&hellip; but _winning._  
 
 And, hey: if you're not yet vaccinated and boosted, go take care of that, ok?  If you tell
-me about it, I'll personally issue you a Certificate of Non-Knuckleheadedness, or
+me about it, I'll personally issue you a Weekend Certificate of Non-KnuckleHeadedness, or
 something.  
 
 You should live, and not die.  
