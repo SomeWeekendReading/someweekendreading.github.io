@@ -165,7 +165,7 @@ Hence every year we all had to take the usual inane HR training that the things 
 
 This made scientists _furious._ [↩](#fn4a)  
 
-<a id="fn5">5</a>: [WeekendEditor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script to show bipartite graph structure of donors and insurrectionist politicians"]({{ site.baseurl }}/assets/2022-01-21-biopharma-insurrection-donors.r), [_Some WeekendReading_]({{ site.baseurl }}) blog, 2022-Jan-21.  
+<a id="fn5">5</a>: [WeekendEditor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script to show bipartite graph structure of donors and insurrectionist politicians"]({{ site.baseurl }}/assets/2022-01-21-biopharma-insurrection-donors.r), [_Some WeekendReading_]({{ site.baseurl }}/) blog, 2022-Jan-21.  
 
 We have aggregated the figures in Lowe and Usdin's articles, collecting the donors and recipients into [a tab-separated spreadsheet which is available for download and review]({{ site.baseurl }}/assets/2022-01-21-biopharma-insurrection-donors.tsv).  
 

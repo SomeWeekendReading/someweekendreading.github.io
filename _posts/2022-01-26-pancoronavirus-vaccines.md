@@ -106,7 +106,7 @@ long as you get your people vaccinated.
 So that's the sitch.  The sitch is bad.  (Aside from the typically excellent French humor).  
 
 
-## Some thngs are happening (slowly, but at least happening)  
+## Some things are happening (slowly, but at least happening)  
 
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-nyt.jpg" width="400" height="109" alt="Mueller @ NYT: Pfizer/BioNTech omicron specific vax trial expected to read out in 1H 2022" title="Mueller @ NYT: Pfizer/BioNTech omicron specific vax trial expected to read out in 1H 2022" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-pfizer.jpg" width="400" height="280" alt="Pfizer/BioNTech press release: omicron-specific vax trials started" title="Pfizer/BioNTech press release: omicron-specific vax trials started" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -246,7 +246,9 @@ pentagons).  The soccer ball is the Goldberg polyhedron of order $G(1, 1)$, whic
 a [truncated icosahedron](https://en.wikipedia.org/wiki/Truncated_icosahedron) of 32
 faces, not 24.  
 
-So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy, of a sort.  
+So "24 faces like a soccer ball" must be regarded as&hellip; illiteracy, of a sort.
+Whether it's illiteracy of mathematics or of sports, we leave as an exercise for the
+reader.  
 
 There are [various solids with 24 faces](https://www.polyhedra.net/en/result.php?type_fev=faces&operator=%3D&number=24&B1=Submit), though, so let's let that one pass.  
 
