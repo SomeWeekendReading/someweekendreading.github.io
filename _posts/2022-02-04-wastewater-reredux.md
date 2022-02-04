@@ -15,10 +15,10 @@ hospitalizations, ICU admissions, and deaths.  It would be nice if it were causa
 related to the disease in some straightforward way (though there are perfectly good
 biomarkers for which we know no such causal relation).  
 
-The [Massachusetts Water Resources Authority (MWRA)](https://www.mrwra.com/), at its 
+The [Massachusetts Water Resources Authority (MWRA)](https://www.mwra.com/), at its 
 [Deer Island Treatment Plant (DITP)](https://www.mwra.com/03sewer/html/sew.htm), runs a huge
 sewage treatment operation for the metro Boston area.  They've been sequencing the amount of
-SARS-CoV2 viral mRNA in sewage, in conjunction with [Biobot Analytics](https://www.biobot.io/),
+SARS-CoV2 viral mRNA in sewage, in conjunction with [Biobot Analytics](https://biobot.io/),
 for almost 2 years now, through 3 major waves of COVID-19 in the Boston area.  Frankly, it's the
 biggest and coolest example of [metagenomics](https://en.wikipedia.org/wiki/Metagenomics)
 I've ever seen.  
@@ -92,7 +92,7 @@ actually disclosing it in a usefully machine-readable way.
 So&hellip; it gave us fits the last couple times, trying to get the data out of the PDF and
 into a spreadsheet for later analysis.  This time we explored some other alternatives:  
 
-1. [Biobot.io](https://www.biobot.io/) suggested looking in 
+1. [Biobot.io](https://biobot.io/) suggested looking in 
    [a Github repository they maintain](https://github.com/biobotanalytics/covid19-wastewater-data).
    It looks like there are files there which might contain what we want, but they don't
    include data for Norfolk county in Massachusetts, and have very different numbers than
