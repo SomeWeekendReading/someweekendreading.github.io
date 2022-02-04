@@ -118,7 +118,7 @@ All that, apparently because somebody didn't want to publish a spreadsheet, just
 picture of it instead&hellip; sheesh.  But we got the MWRA data in the end, and
 semi-automatically (i.e., you have to do a few hand steps, but not too many).  
 
-### Data sources: county-leel COVID-19 case rates and death rates  
+### Data sources: county-level COVID-19 case rates and death rates  
 
 One problem with our previous analysis was that we used state-wide data on COVID-19
 medical loads (cases, hospitalizations, ICU admissions, and deaths) while the MWRA data is
