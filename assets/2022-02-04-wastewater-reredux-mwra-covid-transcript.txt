@@ -1,0 +1,489 @@
+
+* MWRA COVID Analysis on Thu Feb 03 14:36:55 2022
+  - input data directory: ./data
+  - results directory:    ./results
+  - transcript to:        ./results/mwra-covid-transcript.txt
+
+Archival:
+---------
+
+* Archived analysis script(s) to ./results:
+  - ./mwra-covid-3.r
+
+Loading datasets and constructing joint dataset:
+------------------------------------------------
+
+* Reading US county-level COVID data from ./data/us-counties.csv.gz
+  - Dropping 2 columns for being empty or for being state & fips: state, fips
+  - Differentiating cumulative cases & deaths to get daily increments
+  - Structure:
+    o 2130 rows
+    o 6 columns: Date, County, Cases, Deaths, Cases.New, Deaths.New
+        Date    County Cases Deaths Cases.New Deaths.New
+1 2020-03-05 Middlesex     1      0         1          0
+2 2020-03-06 Middlesex     1      0         0          0
+3 2020-03-07 Middlesex     5      0         4          0
+4 2020-03-08 Middlesex    10      0         5          0
+5 2020-03-09 Middlesex    15      0         5          0
+6 2020-03-10 Middlesex    41      0        26          0
+...
+           Date  County  Cases Deaths Cases.New Deaths.New
+2125 2022-01-26 Suffolk 195110   2132       846          7
+2126 2022-01-27 Suffolk 196144   2138      1034          6
+2127 2022-01-28 Suffolk 197025   2144       881          6
+2128 2022-01-29 Suffolk 197025   2144         0          0
+2129 2022-01-30 Suffolk 197025   2144         0          0
+2130 2022-01-31 Suffolk 198467   2156      1442         12
+
+* Reading MWRA wastewater RNA data from ./data/MWRAData20220201-data.tsv.gz
+  - Structure:
+    o 686 rows
+    o 5 columns: Date, South, North, South.7, North.7
+         Date South North South.7 North.7
+9  2020-03-09    NA    29      NA      NA
+10 2020-03-10    38    15      NA      21
+11 2020-03-11    31    65      34      31
+12 2020-03-12    25    36      31      32
+13 2020-03-13    NA    NA      31      32
+14 2020-03-14    16    27      26      31
+...
+          Date South North South.7 North.7
+715 2022-01-26   672   904    1619    1187
+716 2022-01-27  1106  1426    1503    1211
+717 2022-01-28   715   821    1328    1144
+718 2022-01-29  1693  1132    1276    1094
+719 2022-01-30  1234  1066    1207    1050
+720 2022-01-31  1388  1053    1118    1016
+
+
+* Constructing joint dataset by inner join on dates
+  - Saved to ./results/mwra-covid-joint-data.tsv
+  - Structure:
+    o 2058 rows
+    o 10 columns: Date, South, North, South.7, North.7, County, Cases, Deaths, Cases.New, Deaths.New
+        Date South North South.7 North.7    County Cases Deaths Cases.New
+1 2020-03-09    NA    29      NA      NA   Suffolk    10      0         1
+2 2020-03-09    NA    29      NA      NA Middlesex    15      0         5
+3 2020-03-09    NA    29      NA      NA   Norfolk    10      0         3
+4 2020-03-10    38    15      NA      21   Norfolk    22      0        12
+5 2020-03-10    38    15      NA      21 Middlesex    41      0        26
+6 2020-03-10    38    15      NA      21   Suffolk    20      0        10
+  Deaths.New
+1          0
+2          0
+3          0
+4          0
+5          0
+6          0
+...
+           Date South North South.7 North.7    County  Cases Deaths Cases.New
+2053 2022-01-30  1234  1066    1207    1050   Suffolk 197025   2144         0
+2054 2022-01-30  1234  1066    1207    1050   Norfolk 123471   2079         0
+2055 2022-01-30  1234  1066    1207    1050 Middlesex 303054   4421         0
+2056 2022-01-31  1388  1053    1118    1016   Norfolk 124407   2091       936
+2057 2022-01-31  1388  1053    1118    1016 Middlesex 305536   4443      2482
+2058 2022-01-31  1388  1053    1118    1016   Suffolk 198467   2156      1442
+     Deaths.New
+2053          0
+2054          0
+2055          0
+2056         12
+2057         22
+2058         12
+
+
+Exploratory plots:
+------------------
+
+* Plot of north vs south RNA to ./results/plot-north-south.png
+
+Prediction set:
+---------------
+
+* Making prediction set:
+  - Averaging North and South daily mRNA measurements
+  - For each day, summing cases and deaths over counties
+  - Outer joining RNA data and medical data
+  - Structure:
+    o 686 rows
+    o 4 columns: Date, RNA, Cases, Deaths
+        Date  RNA Cases Deaths
+1 2020-03-09 29.0     9      0
+2 2020-03-10 26.5    48      0
+3 2020-03-11 48.0     0      0
+4 2020-03-12 30.5    12      0
+5 2020-03-13   NA    15      0
+6 2020-03-14 21.5    10      0
+...
+          Date    RNA Cases Deaths
+681 2022-01-26  788.0  3414     31
+682 2022-01-27 1266.0  3432     31
+683 2022-01-28  768.0  2891     34
+684 2022-01-29 1412.5     0      0
+685 2022-01-30 1150.0     0      0
+686 2022-01-31 1220.5  4860     46
+
+  - Saved to ./results/mwra-covid-joint-data-prediction-set.tsv.
+
+Correlation plots:
+------------------
+
+* Correlation time courses plotted to ./results/plot-med-loads-vs-RNA-1.png
+* Correlation chart plotted to ./results/plot-med-loads-vs-RNA-2.png
+
+Lagged regressions:
+-------------------
+
+* Regressing medical vars on RNA at various lags to test predictive power
+* Scatterplotting significance & strength vs RNA lag
+  - ./results/plot-RNA-Cases-lags.png
+  - ./results/plot-RNA-Deaths-lags.png
+
+* Optimal lags for each medical variable:
+  MedVar Lag            p     Adj.R2
+1  Cases   7 6.511943e-93 0.49721375
+2 Deaths  18 8.273442e-09 0.05265426
+
+Final regressions:
+------------------
+
+* Trying some regressions at the optimal lag for each variable:
+  - Regressing Cases on RNA at lag 7 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-11250.8   -280.8   -121.6    214.0  19470.9 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 317.09647   68.33327    4.64 4.26e-06 ***
+RNA           1.03859    0.04232   24.54  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1552 on 607 degrees of freedom
+  (77 observations deleted due to missingness)
+Multiple R-squared:  0.498,	Adjusted R-squared:  0.4972 
+F-statistic: 602.3 on 1 and 607 DF,  p-value: < 2.2e-16
+
+                  2.5 %     97.5 %
+(Intercept) 182.8981252 451.294808
+RNA           0.9554764   1.121701
+
+    o Plot to ./results/plot-RNA-Cases-regression.png
+
+  - Regressing Deaths on RNA at lag 18 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-32.118  -7.998  -4.014   3.870  85.089 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 8.9882052  0.5803964  15.486  < 2e-16 ***
+RNA         0.0021169  0.0003621   5.847 8.27e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 13.14 on 596 degrees of freedom
+  (88 observations deleted due to missingness)
+Multiple R-squared:  0.05424,	Adjusted R-squared:  0.05265 
+F-statistic: 34.18 on 1 and 596 DF,  p-value: 8.273e-09
+
+                  2.5 %       97.5 %
+(Intercept) 7.848334454 10.128075989
+RNA         0.001405821  0.002828059
+
+    o Plot to ./results/plot-RNA-Deaths-regression.png
+  MedVar Wave Lag.Days       p AdjR2Pct Intercept       InterceptCL  Slope
+1  Cases  All        7 6.5e-93       50       320 +182.90 - +451.29 1.0000
+2 Deaths  All       18 8.3e-09        5         9    +7.85 - +10.13 0.0021
+        SlopeCL
+1 +0.96 - +1.12
+2 +0.00 - +0.00
+[1] "Wave1"
+
+* Scatterplotting significance & strength vs RNA lag
+  - ./results/Wave1/Wave1-plot-RNA-Cases-lags.png
+  - ./results/Wave1/Wave1-plot-RNA-Deaths-lags.png
+
+* Optimal lags for each medical variable:
+  MedVar Lag           p    Adj.R2
+1  Cases  10 3.31171e-15 0.6354045
+2 Deaths  15 7.84316e-16 0.6836086
+* Trying some regressions at the optimal lag for each variable:
+  - Regressing Cases on RNA at lag 10 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-852.62 -117.09  -43.26   69.57 1128.18 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  45.9176    47.7420   0.962     0.34    
+RNA           2.7311     0.2615  10.443 3.31e-15 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 274.2 on 61 degrees of freedom
+  (44 observations deleted due to missingness)
+Multiple R-squared:  0.6413,	Adjusted R-squared:  0.6354 
+F-statistic: 109.1 on 1 and 61 DF,  p-value: 3.312e-15
+
+                2.5 %     97.5 %
+(Intercept) -49.54841 141.383570
+RNA           2.20810   3.254006
+
+    o Plot to ./results/Wave1/Wave1-plot-RNA-Cases-regression.png
+
+  - Regressing Deaths on RNA at lag 15 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-55.840  -6.621   0.138   6.148  42.636 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.82182    3.31232    0.55    0.584    
+RNA          0.19408    0.01742   11.14 7.84e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 17.75 on 56 degrees of freedom
+  (49 observations deleted due to missingness)
+Multiple R-squared:  0.6892,	Adjusted R-squared:  0.6836 
+F-statistic: 124.2 on 1 and 56 DF,  p-value: 7.843e-16
+
+                 2.5 %   97.5 %
+(Intercept) -4.8135620 8.457199
+RNA          0.1591918 0.228978
+
+    o Plot to ./results/Wave1/Wave1-plot-RNA-Deaths-regression.png
+[1] "Wave2"
+
+* Scatterplotting significance & strength vs RNA lag
+  - ./results/Wave2/Wave2-plot-RNA-Cases-lags.png
+  - ./results/Wave2/Wave2-plot-RNA-Deaths-lags.png
+
+* Optimal lags for each medical variable:
+  MedVar Lag            p    Adj.R2
+1  Cases   0 8.395252e-50 0.6119030
+2 Deaths  16 2.567886e-30 0.4527565
+* Trying some regressions at the optimal lag for each variable:
+  - Regressing Cases on RNA at lag 0 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-2073.87  -199.75   -21.41   159.73  2201.38 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 286.95294   44.01463   6.519 4.36e-10 ***
+RNA           1.50575    0.07845  19.193  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 437.8 on 232 degrees of freedom
+  (10 observations deleted due to missingness)
+Multiple R-squared:  0.6136,	Adjusted R-squared:  0.6119 
+F-statistic: 368.4 on 1 and 232 DF,  p-value: < 2.2e-16
+
+                 2.5 %     97.5 %
+(Intercept) 200.233468 373.672420
+RNA           1.351179   1.660325
+
+    o Plot to ./results/Wave2/Wave2-plot-RNA-Cases-regression.png
+
+  - Regressing Deaths on RNA at lag 16 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-21.1525  -5.3180  -0.3423   4.6747  22.6715 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  4.95681    0.77875   6.365 1.15e-09 ***
+RNA          0.01801    0.00134  13.436  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 7.162 on 216 degrees of freedom
+  (26 observations deleted due to missingness)
+Multiple R-squared:  0.4553,	Adjusted R-squared:  0.4528 
+F-statistic: 180.5 on 1 and 216 DF,  p-value: < 2.2e-16
+
+                 2.5 %     97.5 %
+(Intercept) 3.42188132 6.49173131
+RNA         0.01536397 0.02064646
+
+    o Plot to ./results/Wave2/Wave2-plot-RNA-Deaths-regression.png
+[1] "Wave2.5"
+
+* Scatterplotting significance & strength vs RNA lag
+  - ./results/Wave2.5/Wave2.5-plot-RNA-Cases-lags.png
+  - ./results/Wave2.5/Wave2.5-plot-RNA-Deaths-lags.png
+
+* Optimal lags for each medical variable:
+  MedVar Lag            p    Adj.R2
+1  Cases   2 2.011629e-10 0.2319787
+2 Deaths  17 2.233901e-07 0.1746985
+* Trying some regressions at the optimal lag for each variable:
+  - Regressing Cases on RNA at lag 2 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-701.17 -146.73  -35.91   90.90 1479.29 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  51.5808    50.6711   1.018     0.31    
+RNA           1.2737     0.1866   6.827 2.01e-10 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 359.8 on 150 degrees of freedom
+  (2 observations deleted due to missingness)
+Multiple R-squared:  0.2371,	Adjusted R-squared:  0.232 
+F-statistic: 46.61 on 1 and 150 DF,  p-value: 2.012e-10
+
+                  2.5 %     97.5 %
+(Intercept) -48.5405115 151.702090
+RNA           0.9050617   1.642332
+
+    o Plot to ./results/Wave2.5/Wave2.5-plot-RNA-Cases-regression.png
+
+  - Regressing Deaths on RNA at lag 17 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3.9597 -1.7906 -0.1524  1.3540  8.9683 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 0.762701   0.318866   2.392   0.0181 *  
+RNA         0.006605   0.001210   5.458 2.23e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.223 on 135 degrees of freedom
+  (17 observations deleted due to missingness)
+Multiple R-squared:  0.1808,	Adjusted R-squared:  0.1747 
+F-statistic: 29.79 on 1 and 135 DF,  p-value: 2.234e-07
+
+                  2.5 %      97.5 %
+(Intercept) 0.132081980 1.393319918
+RNA         0.004211881 0.008998891
+
+    o Plot to ./results/Wave2.5/Wave2.5-plot-RNA-Deaths-regression.png
+[1] "Wave3"
+
+* Scatterplotting significance & strength vs RNA lag
+  - ./results/Wave3/Wave3-plot-RNA-Cases-lags.png
+  - ./results/Wave3/Wave3-plot-RNA-Deaths-lags.png
+
+* Optimal lags for each medical variable:
+  MedVar Lag            p    Adj.R2
+1  Cases   7 9.857586e-10 0.3563977
+2 Deaths  19 4.962621e-05 0.1970670
+* Trying some regressions at the optimal lag for each variable:
+  - Regressing Cases on RNA at lag 7 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10827.9  -1389.3    -25.4    973.1  19378.0 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 728.2772   584.7717   1.245    0.216    
+RNA           0.9594     0.1392   6.893 9.86e-10 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3982 on 83 degrees of freedom
+  (7 observations deleted due to missingness)
+Multiple R-squared:  0.3641,	Adjusted R-squared:  0.3564 
+F-statistic: 47.52 on 1 and 83 DF,  p-value: 9.858e-10
+
+                   2.5 %     97.5 %
+(Intercept) -434.8102110 1891.36460
+RNA            0.6825411    1.23617
+
+    o Plot to ./results/Wave3/Wave3-plot-RNA-Cases-regression.png
+
+  - Regressing Deaths on RNA at lag 19 days:
+Call:
+lm(formula = as.formula(sprintf("%s ~ RNA", mv)), data = transform(predictionSet, 
+    RNA = lagVector(predictionSet[, "RNA"], lag)))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-30.732  -7.480  -1.815   5.894  47.980 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 6.5129524  2.1138904   3.081  0.00293 ** 
+RNA         0.0020578  0.0004762   4.321 4.96e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 13.51 on 71 degrees of freedom
+  (19 observations deleted due to missingness)
+Multiple R-squared:  0.2082,	Adjusted R-squared:  0.1971 
+F-statistic: 18.67 on 1 and 71 DF,  p-value: 4.963e-05
+
+                  2.5 %      97.5 %
+(Intercept) 2.297974625 10.72793016
+RNA         0.001108245  0.00300743
+
+    o Plot to ./results/Wave3/Wave3-plot-RNA-Deaths-regression.png
+   MedVar    Wave Lag.Days       p AdjR2Pct Intercept        InterceptCL  Slope
+1   Cases     All        7 6.5e-93       50    320.00  +182.90 - +451.29 1.0000
+3   Cases   Wave1       10 3.3e-15       60     46.00   -49.55 - +141.38 2.7000
+5   Cases   Wave2        0 8.4e-50       60    290.00  +200.23 - +373.67 1.5000
+7   Cases Wave2.5        2 2.0e-10       20     52.00   -48.54 - +151.70 1.3000
+9   Cases   Wave3        7 9.9e-10       40    730.00 -434.81 - +1891.36 0.9600
+2  Deaths     All       18 8.3e-09        5      9.00     +7.85 - +10.13 0.0021
+4  Deaths   Wave1       15 7.8e-16       70      1.80      -4.81 - +8.46 0.1900
+6  Deaths   Wave2       16 2.6e-30       50      5.00      +3.42 - +6.49 0.0180
+8  Deaths Wave2.5       17 2.2e-07       20      0.76      +0.13 - +1.39 0.0066
+10 Deaths   Wave3       19 5.0e-05       20      6.50     +2.30 - +10.73 0.0021
+         SlopeCL
+1  +0.96 - +1.12
+3  +2.21 - +3.25
+5  +1.35 - +1.66
+7  +0.91 - +1.64
+9  +0.68 - +1.24
+2  +0.00 - +0.00
+4  +0.16 - +0.23
+6  +0.02 - +0.02
+8  +0.00 - +0.01
+10 +0.00 - +0.00
+
+* MWRA COVID Analysis completed Thu Feb 03 14:37:11 2022 (16.4 sec elapsed).
