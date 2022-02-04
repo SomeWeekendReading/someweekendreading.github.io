@@ -404,8 +404,8 @@ Let's see if that happens.
 
 #### Wave 1  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-regression.png" width="200" height="200" alt="Wave 1 Cases vs RNA: prediction by regression" title="Wave 1 Cases vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 For case counts predicted by RNA, we get a slightly longer optimal lag time of 10 days,
 i.e., wave 1 victims took a bit longer to get sick compared to the oveall dataset.  While
 the statistical significance ($p \sim 10^{-15}$) is slightly smaller (though still
@@ -417,8 +417,8 @@ Some of this might be due to just having fewer data points than in the whole dat
 in general to my eye it appears the cases vs RNA regression looks very much more usefully
 predictive.  In any case, the numbers are still way _more than_ "good enough".  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-regression.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: prediction by regression" title="Wave 1 Deaths vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 For deaths, the optimal lag decreases to 15 days, i.e., people in wave 1 died 3 days
 quicker than average across the whole dataset.  Wave 1 was _brutal!_ The statistical
 significance is still very good ($p \sim 10^{-16}$), but now the percent of variance
@@ -436,8 +436,8 @@ standard of care across waves affecting the death rate more than the case rate.
 
 #### Wave 2  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 2 Cases vs RNA: optimal RNA-to-case lag" title="Wave 2 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Cases-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Cases-regression.png" width="200" height="200" alt="Wave 2 Cases vs RNA: prediction by regression" title="Wave 2 Cases vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 2 Cases vs RNA: optimal RNA-to-case lag" title="Wave 2 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The wave 2 data is peculiarly different: the optimal lag is 0 days, and the data is
 adamantly certain about this!  People got sick _faster_ in wave 2 than in any other wave
 or across the dataset as a whole.  The regression is insanely statistically significant 
@@ -448,8 +448,8 @@ case rates, which is very good indeed.  (Though the 0 day delay between sewage R
 case diagnosis is somewhat mysterious.  It's not a marginal effect, either: look at the strong
 negative slope of the $-\log_{10} p$/$R^2$ vs lag time plot&hellip;)  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 2 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 2 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Deaths-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Deaths-regression.png" width="200" height="200" alt="Wave 2 Deaths vs RNA: prediction by regression" title="Wave 2 Deaths vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 2 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 2 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 With deaths in wave 2, the lag is kind of all over the place.  Strictly speaking, the
 optimum is at 16 days, so we picked that in deference to the overall result of 18 days.
 But really, looking at the plot, you could pick anything from 12 to 20 days and have a
@@ -470,8 +470,8 @@ dataset.
 
 #### Wave 2.5 (Delta)  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Cases-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Cases-regression.png" width="200" height="200" alt="Wave 1 Cases vs RNA: prediction by regression" title="Wave 1 Cases vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here we have the Delta wave, or lat least the first 2/3 of it.  We don't get to observe
 the full decline of the Delta wave, because the Omicron wave came along and yeti-stomped
 it before we could observe its decrease.  _C'est la mort._  
@@ -493,8 +493,8 @@ immunity.
 
 Or it could be something else even weirder is happening; we just can't tell.  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Deaths-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Deaths-regression.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: prediction by regression" title="Wave 1 Deaths vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave2.5-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 For the Delta wave, we return to a longer lag between RNA and death rates, at about 17
 days.  Unlike case rates, here the data's preference seems relatively clear for 17 days.  
 
@@ -507,13 +507,14 @@ day!  By any measure, this is heroic success, though nobody felt that way at the
 Medical care got better, and more people got vaccinated; _this is what winning looks
 like._  
 
-__Conclusion:__ One of the morals appears to be: though the SARS-CoV2 virus gets more infectious, we are
-_faster_ about getting more vaccinated and smarter about treatment?  That would be nice&hellip;  
+__Conclusion:__ One of the morals appears to be: though the SARS-CoV2 virus gets more
+infectious, we are _faster_ about getting more vaccinated and smarter about treatment?
+That would be nice&hellip;  
 
 #### Wave 3 (Omicron)  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Cases-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Cases-regression.png" width="200" height="200" alt="Wave 1 Cases vs RNA: prediction by regression" title="Wave 1 Cases vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Finally, the dreaded Omicron wave!  
 
 We return to a lag time between RNA and case rates of 7 days, and the data is quite
@@ -532,8 +533,8 @@ around 2,000 to 3,000 cases/day.)  While those were clearly outlier counts, ther
 clearly multiple days with 5,000 to 10,000 cases/day.  Omicron is _massively more
 infectious_ than previous waves, and we see that here.  
 
-<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-regression.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: prediction by regression" title="Wave 1 Deaths vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here the lag between RNA and death counts is still pretty solid at 19 days.  The
 regression is the least statistically significant of all, though still very significant by
 any reasonable standard ($p \sim 10^{-5}$).  The strength of prediction is, if not
