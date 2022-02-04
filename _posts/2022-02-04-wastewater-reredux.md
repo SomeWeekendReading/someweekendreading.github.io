@@ -533,6 +533,11 @@ around 2,000 to 3,000 cases/day.)  While those were clearly outlier counts, ther
 clearly multiple days with 5,000 to 10,000 cases/day.  Omicron is _massively more
 infectious_ than previous waves, and we see that here.  
 
+It's also important to look at the horizontal scale, the RNA copies/ml.  For the first
+waves, the first tick was at 100-200 copies/ml.  Here it's at 2000 copies/ml: we have 
+_an order of magnitude more RNA in wastewater with Omicron_, compared to previous waves.
+Omicron's infectiousness is a _massive_ effect.  
+
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-regression.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: prediction by regression" title="Wave 1 Deaths vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave3-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here the lag between RNA and death counts is still pretty solid at 19 days.  The
