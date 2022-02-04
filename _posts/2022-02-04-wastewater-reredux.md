@@ -409,7 +409,7 @@ Let's see if that happens.
 For case counts predicted by RNA, we get a slightly longer optimal lag time of 10 days,
 i.e., wave 1 victims took a bit longer to get sick compared to the oveall dataset.  While
 the statistical significance ($p \sim 10^{-15}$) is slightly smaller (though still
-stupendously significant!), the strength of prediction ($R^2 ~ 60\%$) is somewhat larger.
+stupendously significant!), the strength of prediction ($R^2 \sim 60\%$) is somewhat larger.
 The plot also looks quite a bit better.  There are more points away from the origin, so
 we're no longer relying on just a few outliers to drive the regression.  
 
@@ -500,7 +500,7 @@ days.  Unlike case rates, here the data's preference seems relatively clear for 
 
 The regression is by normal standards very significant ($p \sim 10^{-7}$), it's _less_
 significant than the previous waves.  Also, the strength of effect is slightly lower, but
-not by much ($R^2 ~ 20\%)$.  
+not by much ($R^2 \sim 20\%)$.  
 
 If you look at the vertical scale, you can see why: we're down to well below 5 deaths per
 day!  By any measure, this is heroic success, though nobody felt that way at the time.
