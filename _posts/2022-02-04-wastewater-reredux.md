@@ -269,7 +269,7 @@ relationship.  Plotted here (click to embiggen) is that time course.
     them, so they all have mean 0 and standard deviation 1.  This means the vertical
     number is trickier to interpret (number of standard deviations away from the mean), but
     you can see whether the curves have the same _shape_.  
-- note that in all waves, a peak in the black RNA points leads to peaks in red cases and
+- Note that in all waves, a peak in the black RNA points leads to peaks in red cases and
   green deaths, but _by different amounts in each wave_.  In the first wave, there were a
   lot of deaths, but in the 3rd Omicron wave there were fewer.  The waves are
   _different_.  
@@ -360,8 +360,8 @@ statistical significance and strength of effect, is at the peak at 18 days.  Tha
 touch longer than the 2 weeks we predicted, but not by much!  And anyway, we're all for
 people surviving _longer_ than we guessed.  
 
-However, we see that the peak occured at a very strong statistical significance ($p \sim
-10^{-9}), but at a miserably useless strength of prediction ($R^2 \sim 5\%$).  The
+However, we see that the peak occured at a very strong statistical significance 
+($p \sim 10^{-9}$), but at a miserably useless strength of prediction ($R^2 \sim 5\%$).  The
 regression plot confirms this: yes, there's a pseudopod of points going out to the right
 and slightly up, driving the RNA/death relationship, but the mass of points cluster around
 the origin and go nowhere in particular.  
