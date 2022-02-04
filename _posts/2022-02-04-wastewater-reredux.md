@@ -549,7 +549,7 @@ first.
 
 #### Wave Summary  
 
-<a href="{{ site.baseurl }}/images/2022-02-04-wastewater-reredux-final-regressions-table.jpg"><img src="{{ site.baseurl }}/images/2022-02-04-wastewater-reredux-final-regressions-table-thumb.jpg" width="400" height="195" alt="Summary table of Cases/Deaths vs RNA regression results" title="Summary table of Cases/Deaths vs RNA regression results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-final-regressions-table.jpg"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-final-regressions-table-thumb.jpg" width="400" height="195" alt="Summary table of Cases/Deaths vs RNA regression results" title="Summary table of Cases/Deaths vs RNA regression results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Ok, that's a lot of data, and a lot of different analyses and sub-analyses.  Let's
 summarize in a table of all the regression results (click to embiggen).  
 - Regressing across the whole dataset, including the relatively heterogenous waves:  
