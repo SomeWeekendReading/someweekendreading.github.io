@@ -564,11 +564,12 @@ summarize in a table of all the regression results (click to embiggen).
   generally better results.  
   - Cases were pretty predictable, with lag times of 0 to 10 days.  We predicted a week,
     so that's not bad.  
-  - Death rates all had a longer lag time of 15 - 19 days, which makes sense.  We
+  - Death rates all had a consistently longer lag time of 15 - 19 days, which makes sense.  We
     predicted 2 weeks (14 days), but then we're grumpy old pessimists here at Chez
     Weekend.  It's always good to hear we're _too_ pessimistic, even if it's only hearing
     that people live about 1 - 5 days longer than we thought.  
-  - Waves 1 and 2 were the most predictable (by $R^2$).  This makes some sense, as they
+  - Waves 1 and 2 were the most predictable (by $R^2$), in both case rates and death
+    rates.  This makes some sense, as they
     were well separated from other waves (unlike wave 2.5 and 3) and were not
     infectiousness outliers like wave 3.  
   - Looking at the rightmost column of the table, the 95% confidence limits on the
@@ -577,7 +578,8 @@ summarize in a table of all the regression results (click to embiggen).
   - The _magnitude_ of that association varies not too much for cases (0.96 - 2.7), so
     cases are kind of steadily predictable.  
   - However, the slope for death rates varies over 2 orders of magnitude (0.0021 - 0.19).
-    This reflects the very different character of the waves.  
+    This reflects the very different character of the waves and how outcomes differ when
+    vaccination goes up and treatment gets better.  
 
 ### Limitations, or what we'd like to have done better  
 
@@ -616,7 +618,7 @@ Let's be honest about how limited this study is, and list some of the problems h
   the lag in advance.  That would have to be fixed in a thorough study.  
 - _Binary classifier:_  Since the waves had different quantitative character, we should consider a
   binary classifier: given a level of RNA, are we in a wave or not?  
-- _Crossvalidation:_  None of this has been [crossvalidated](https://en.wikipedia.org/wiki/Cross-validation_(statistics))!  With only 2 waves to look at, that might be pretty difficult for regression.  A classifier might be doable, though.  
+- _Crossvalidation:_  None of this has been [crossvalidated](https://en.wikipedia.org/wiki/Cross-validation_(statistics))!  With only 3 (or 3-and-a-half?) waves to look at, that might be pretty difficult for regression.  A classifier might be doable, though.  
 - _Multivariate predictors:_ We'd like to use variant data (like $R_0$), population
   vaccination rates, and efficacy of standard of care as covariates with RNA.  Then we
   could say something about the _relative_ importance of those variables on case rates and
@@ -676,8 +678,8 @@ You should live, and not die.
 
 <a id="fn5">5</a>: Massachusetts Water Resources Authority, [Biobot wastewater RNA data](http://www.mwra.com/biobot/biobotdata.htm), retrieved 2022-Feb-01.  Data is reported as a PDF export from an unavailable spreadsheet.  We've [archived the version of the PDF data here]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-MWRAData20220201-data.pdf).  We've also archived here [the GZIP-compressed, tab-separated data file we extracted]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-MWRAData20220201-data.tsv.gz).[↩](#fn5a)  
 
-<a id="fn6">6</a>: _New York Times_ Staff, ["GitHub Repository: covid-19-data"](https://github.com/nytimes/covid-19-data), _GitHub_ maintained by the _NYT_, retrieved 2022-Feb-01.  The file we snapshotted is `us-counties.csv`, which we've here [GZIP compressed and archived]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-us-counties.csv.gz). [↩](#fn6a)  
+<a id="fn6">6</a>: _New York Times_ Staff, ["GitHub Repository: covid-19-data"](https://github.com/nytimes/covid-19-data), _GitHub_ maintained by the _NYT_, retrieved 2022-Feb-01.  The file we snapshotted is [`us-counties.csv`](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv), which we've here [GZIP compressed and archived]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-us-counties.csv.gz). [↩](#fn6a)  
 
-<a id="fn7">7</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Third wastewater/COVID analysis script in R"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-3.r), [_Some Weekend Reading_]({{ site.baseurl }}), 2022-Feb-04.  There is also a [transcript of running the analysis]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-transcript.txt) for peer review. [↩](#fn7a)  
+<a id="fn7">7</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Third wastewater/COVID analysis script in R"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-3.r), [_Some Weekend Reading_]({{ site.baseurl }}/), 2022-Feb-04.  There is also a [transcript of running the analysis]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-transcript.txt) for peer review. [↩](#fn7a)  
 
-<a id="fn8">8</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Joint dataset combining wastewater mRNA and county-level cases &amp; deaths"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-joint-data.tsv) and ["Prediction dataset for wastewater mRNA and 3 counties sum of cases and deaths"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-joint-data-prediction-set.tsv), [_Some Weekend Reading_]({{ site.baseurl }}), 2022-Feb-04. [↩](#fn8a)  
+<a id="fn8">8</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Joint dataset combining wastewater mRNA and county-level cases &amp; deaths"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-joint-data.tsv) and ["Prediction dataset for wastewater mRNA and 3 counties sum of cases and deaths"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-joint-data-prediction-set.tsv), [_Some Weekend Reading_]({{ site.baseurl }}/), 2022-Feb-04. [↩](#fn8a)  
