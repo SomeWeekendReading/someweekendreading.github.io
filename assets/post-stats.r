@@ -215,7 +215,7 @@ postStats <- function(## Inputs
         legendInset <- c(0.03, 0.01)                   # Insets for legend (accomodate vertical rug)
         if (!is.null(hitsStart)) {                     # Want to show when hit counter turned on?
           abline(v = postData[1, hitsStart], col = "gray", lty = "dashed")
-          legend("topleft", bg = "antiquewhite", inset = legendInset,
+          legend("topright", bg = "antiquewhite", inset = legendInset,
                  pch    = c(21,                NA,                    22,        NA,       NA),
                  pt.bg  = c("blue",            NA,                    clGray,    NA,       NA),
                  pt.cex = c(1.5,               NA,                    3,         NA,       NA),
@@ -226,7 +226,7 @@ postStats <- function(## Inputs
                             "Year boundary", sprintf("Hit counting started: %s",
                                                      postData[1, hitsStart])))
         } else                                         # Else don't show hit count start; diff legend
-          legend("topleft", bg = "antiquewhite", inset = legendInset,
+          legend("topright", bg = "antiquewhite", inset = legendInset,
                  pch    = c(21,                NA,                    22,       NA),
                  pt.bg  = c("blue",            NA,                    clGray,   NA),
                  pt.cex = c(1.5,               NA,                    3,        NA),

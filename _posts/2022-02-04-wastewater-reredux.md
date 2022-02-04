@@ -404,8 +404,10 @@ Let's see if that happens.
 
 #### Wave 1  
 
-<img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-lags.png" width="400" height="400" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-regression.png" width="400" height="400" alt="Wave 1 Cases vs RNA: prediction by regression" title="Wave 1 Cases vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-lags.png" width="200" height="200" alt="Wave 1 Cases vs RNA: optimal RNA-to-case lag" title="Wave 1 Cases vs RNA: optimal RNA-to-case lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Cases-regression.png" width="200" height="200" alt="Wave 1 Cases vs RNA: prediction by regression" title="Wave 1 Cases vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-lags.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-lags.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-regression.png"><img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-regression.png" width="200" height="200" alt="Wave 1 Deaths vs RNA: prediction by regression" title="Wave 1 Deaths vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 For case counts predicted by RNA, we get a slightly longer optimal lag time of 10 days,
 i.e., wave 1 victims took a bit longer to get sick compared to the oveall dataset.  While
 the statistical significance ($p \sim 10^{-15}$) is slightly smaller (though still
@@ -417,8 +419,6 @@ Some of this might be due to just having fewer data points than in the whole dat
 in general to my eye it appears the cases vs RNA regression looks very much more usefully
 predictive.  In any case, the numbers are still way _more than_ "good enough".  
 
-<img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-lags.png" width="400" height="400" alt="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" title="Wave 1 Deaths vs RNA: optimal RNA-to-death lag" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-Wave1-plot-RNA-Deaths-regression.png" width="400" height="400" alt="Wave 1 Deaths vs RNA: prediction by regression" title="Wave 1 Deaths vs RNA: prediction by regression" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 For deaths, the optimal lag decreases to 15 days, i.e., people in wave 1 died 3 days
 quicker than average across the whole dataset.  Wave 1 was _brutal!_ The statistical
 significance is still very good ($p \sim 10^{-16}$), but now the percent of variance
