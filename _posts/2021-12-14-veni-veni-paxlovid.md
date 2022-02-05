@@ -126,7 +126,7 @@ Here's what I got out of the sources below:
    anybody tries to bust my chops about "100% efficacy vs death", let's get the confidence
    limits on that, where we see a not too wildly indecisive 68% &ndash; 100% (confidence
    limits on rare events are always wide, because you can't get enough samples; since
-   each sample is a death, this is a good thing):  
+   each sample is a death, rarity is a Good Thing):  
    
    ```R
    > signif(efficacyAndCL(679, 0, 682, 12), digits = 3)
@@ -134,11 +134,12 @@ Here's what I got out of the sources below:
    0.68 1.00 1.00 
    ```
 3. __Viral load:__ It reduced viral load in the treatment arm vs placebo arm by a large
-   fold ratio: 0.93 log10 copies/ml, which in the vernacular is a 10-fold reduction.  
+   fold ratio: 0.93 log10 copies/ml, which in the vernacular is nearly a 10-fold reduction
+   ($10^{0.93} = 8.51$, so ok, maybe an 8-fold reduction).  
 
    Translation: "ginormous".  The drug is working by a mechanism of action (reduction in
    viral load) that is right down at the root cause of the disease.  It's _extremely_
-   difficult ot argue that the drug is not doing what it looks like it's doing, namely
+   difficult to argue that the drug is not doing what it looks like it's doing, namely
    curing COVID-19.  
 4. __Side effects:__  There are always side-effects, sometimes unpleasant, sometimes
    even fatal.  The side effects here were described as "mild".  (But remember: this is a press

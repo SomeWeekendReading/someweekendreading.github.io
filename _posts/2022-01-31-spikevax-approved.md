@@ -53,6 +53,23 @@ Some interesting facts and possible consequences:
 
 'Approved'.  That's a good word, isn't it?  
 
+
+## Addendum 2022-Feb-05: CDC also approves  
+
+In an interesting display of speed, just 4 days later _Reuters_ reports that the CDC's
+Advisory Committee on Immunization Policy (ACIP) met and also voted full approval for
+Spikevax in clinical use for individuals over age 18. <sup id="fn3a">[[3]](#fn3)</sup>
+The details and slide presentations to the ACIP are public, and somewhat interesting
+reading. <sup id="fn4a">[[4]](#fn4)</sup>  
+
+So now we have 2 mRNA vaccines (Pfizer's comirnaty and Moderna's spikevax) that are (a)
+stupendously effective, (b) massively safe, (c) have been dosed in _billions_ of people,
+(d) are fully FDA approved, and (e) fully CDC recommended for practitioners.  
+
+If you haven't yet been vaccinated: this is your signal that _everything_ has been done to
+prove that these are some of the safest and most effective medicines in human history.
+Don't you think it's time you get yourself some of that? 
+
 ---
 
 ## Notes &amp; References  
@@ -70,3 +87,7 @@ Some interesting facts and possible consequences:
 <a id="fn1">1</a>: H Branswell, ["And then there were 2: FDA gives full approval to Moderna’s Covid-19 vaccine"](https://www.statnews.com/2022/01/31/and-then-there-were-2-fda-gives-full-approval-to-modernas-covid-19-vaccine/), _STAT News_, 2022-Jan-31. [↩](#fn1a)  
 
 <a id="fn2">2</a>: US FDA Staff, ["Spikevax and Moderna COVID-19 Vaccine"](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/spikevax-and-moderna-covid-19-vaccine), _US Food &amp; Drug Administration_, retrieved 2022-Jan-31.  Kudos to Moderna for getting the FDA to say "Spikevax" repeatedly. :-) [↩](#fn2a)  
+
+<a id="fn3">3</a>: _Reuters_ Staff, ["U.S. CDC backs full approval of Moderna's COVID-19 vaccine"](https://www.reuters.com/world/us/us-cdc-backs-full-approval-moderna-covid-vaccine-2022-02-04/), _Reuters_, 2022-Feb-04. [↩](#fn3a)  
+
+<a id="fn4">4</a>: US Centers for Disease Control &amp; Prevention, ["ACIP Presentation Slides: February 4, 2022 Meeting"](https://www.cdc.gov/vaccines/acip/meetings/slides-2022-02-04.html), _CDC Advisory Committee on Immunization Policy_ meeting materials, 2022-Feb-04. [↩](#fn4a)  
