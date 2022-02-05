@@ -149,6 +149,27 @@ Hey, um&hellip; maybe _don't_ do that?
 Unless, of course, you're doing it like [XKCD #2515, from back on 2021-Sep-13](https://www.explainxkcd.com/wiki/index.php/2515:_Vaccine_Research), in which the obvious is laboriously and unreliably rediscovered:  
 ![Honestly feel a little sheepish about the time and effort I spent confirming 'yes, the vaccine helps protect people from getting sick and dying' but I guess everyone needs a hobby.]({{ site.baseurl }}/images/2022-01-31-did-my-own-research-XKCD-2515.png "Honestly feel a little sheepish about the time and effort I spent confirming 'yes, the vaccine helps protect people from getting sick and dying' but I guess everyone needs a hobby.")  
 
+## Addendum 2022-Feb-05: New England snow divers  
+
+People in the US look to New England when they think "crazy winter people".  Here in New
+England, we look to Maine when we think "crazy winter people".  
+
+It has come to my attention that a fellow Mainiac wanted to thank Nirav Shah for all he's
+done for public health in Maine, and did so in what I can only assume is typical Maine
+fashion:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Thank you for this very funny thread. I appreciate what you have done for our state. <br>
+    
+    Meanwhile in Brooksville: <a href="https://t.co/rUfDmZDEoW">pic.twitter.com/rUfDmZDEoW</a>
+
+  </p>&mdash; lydia osgood (@LCosgood) <a href="https://twitter.com/LCosgood/status/1487474011047092224?ref_src=twsrc%5Etfw">January 29, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+I mean&hellip; [I love winter too]({{ site.baseurl }}/winter-beauty/), but I stand all amazed at the true professionals.  
+
 ---
 
 ## Notes &amp; References  
