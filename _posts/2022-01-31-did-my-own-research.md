@@ -152,10 +152,10 @@ Unless, of course, you're doing it like [XKCD #2515, from back on 2021-Sep-13](h
 ## Addendum 2022-Feb-05: New England snow divers  
 
 People in the US look to New England when they think "crazy winter people".  Here in New
-England, we look to Maine when we think "crazy winter people".  
+England, we look to Maine when _we_ think "crazy winter people".  
 
 It has come to my attention that a fellow Mainiac wanted to thank Nirav Shah for all he's
-done for public health in Maine, and did so in what I can only assume is typical Maine
+done for public health in Maine, and did so in what I can only assume is the typical Maine
 fashion:  
 
 <blockquote class="twitter-tweet">
