@@ -285,10 +285,9 @@ postStats <- function(## Inputs
     withPNG(f2, plotWidth/2, plotHeight/2, FALSE, function() {
       legendFrac <- 0.20                               # How much space on left for color legend
       withPars(function() {                            # Save/restore graphics parameters
-        ctRange   <- range(tbl)                        # Range of counts in table
-        nColors   <- min(diff(ctRange) + 1, 256)       # Colors used in bicluster
-        colors    <- makeSaturableHeatmapColorsBWR(nColors,
-                                                   minObs = ctRange[[1]], maxObs = ctRange[[2]])
+        ctRange <- range(tbl)                          # Range of counts in table
+        nColors <- min(diff(ctRange) + 1, 256)         # Colors used in bicluster
+        colors  <- rev(makeFDRColors(nColors, maxFDRColored = 1.0, baseColor = "blue"))
 
         heatmapRespectFALSE(tbl, scale = "none", col = colors,
                             margins = c(1.5 * max(nchar(colnames(tbl))),
@@ -303,7 +302,7 @@ postStats <- function(## Inputs
               cex.axis = 0.9,                          # Smaller labels
               ylim = ctRange,                          # Show range of POSSIBLE correlations
               col  = colors,                           # Heatmap colors
-              xaxt = "n", ylab = "Post Count", xlab = NA)
+              xaxt = "n", ylab = "Number of Posts", xlab = NA)
         box(which = "plot")                            # Box around the color legend
 
       }, pty = "m",                                    # Maximal plotting area
