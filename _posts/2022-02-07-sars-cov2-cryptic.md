@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SARS-CoV2 Cryptic Sequences in NYC Wastewater: Why Not to Sleep Well at Night
+title: SARS-CoV2 Cryptic Sequences in NYC Wastewater&colon; Why Not to Sleep Well at Night
 tags: COVID JournalClub PharmaAndBiotech Politics Statistics
 comments: true
 ---
