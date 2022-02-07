@@ -301,6 +301,6 @@ than 20,000 years.
 
 Amusingly, it appears an editor at _Nature_ may have forced a change from "wastewater treatement facility" (WWTF) to "wastewater treatment plant" (WWTP), because of the obvious "WTF" jest.  But they didn't catch _all_ instances of WWTF in the paper, which looks like passive resistance on the part of the authors to leave in this little jape.  
 
-To which we can only respond, [&Gammad;&Tau;&Phi;]({{ site.baseurl }}/https://www.someweekendreading.blog/tags/#%CF%9C%CE%A4%CE%A6)?  [↩](#fn1a)  
+To which we can only respond, [&Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#%CF%9C%CE%A4%CE%A6)?  [↩](#fn1a)  
 
 <a id="fn2">2</a>: J Auerbach, ["Does New York City really have as many rats as people?](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2014.00764.x), _Significance_ 11, 22-27, 2014-Oct. [↩](#fn2a)  
