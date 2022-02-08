@@ -68,8 +68,8 @@ calculating ratios of conditional probabilities for infection and hospitalizatio
 $$
 \left\{
   \begin{align*}
-	RR_{\mbox{infect}} &= \frac{\Pr(\mbox{infect} | \mbox{unvax})}{\Pr(\mbox{infect} | \mbox{vax+boost})) \\
-	RR_{\mbox{hosp}}   &= \frac{\Pr(\mbox{hosp}   | \mbox{unvax})}{\Pr(\mbox{hosp}   | \mbox{vax+boost}))
+	RR_{\mbox{infect}} &= \frac{\Pr(\mbox{infect} | \mbox{unvax})}{\Pr(\mbox{infect} | \mbox{vax+boost})} \\
+	RR_{\mbox{hosp}}   &= \frac{\Pr(\mbox{hosp}   | \mbox{unvax})}{\Pr(\mbox{hosp}   | \mbox{vax+boost})}
   \end{align*}
 \right.
 $$
@@ -221,9 +221,9 @@ general use of the Internet to make swarm attacks. <sup id="fn7a">[[7]](#fn7)</s
 There are some interesting facts to contemplate:  
 - While it's true Rogan has about 11 million regular listeners, it's the _same_ 11 million
   for each podcast.  It's not like he's growing much.  
-- Spotify paid him about \$100 million to host his podcasts, so they're paying about 
-  \$10 for each pair of ears listening.  That's a _massive_ payout for Rogan, and an _enormous_
-  amount to pay to get listeners.  
+- Spotify paid him about \$100 million to host his podcasts.
+  - So they're paying about \$10 for each pair of ears listening.  That's a _massive_
+    payout for Rogan, and an _enormous_ amount to pay to get listeners.  
 - Other artists have _dramatically_ larger audiences, for which they are paid a pittance:
   - Euro football championship: 5 billion viewers  
   - The Olympics: 4 billion viewers  
