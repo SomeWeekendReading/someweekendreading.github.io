@@ -11,7 +11,7 @@ unpleasantness.  Let me show you why.
 
 ## The consequences of choosing to remain unvaccinated  
 
-<img src="{{ site.baseurl }}/images/old-man-yells-at-cloud.jpg" width="400" height="318" alt="Simpsons: old man yells at cloud" title="Simpsons: old man yells at cloud" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/old-man-yells-at-cloud.jpg" width="400" height="318" alt="Simpsons: Old man yells at cloud" title="Simpsons: Old man yells at cloud" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Now, if you've seen almost _anything_ on this crummy little blog that nobody reads, you
 know what I'm going to tell you: being unvaccinated without _excellent_ reason is a bad
 way to live personally, a bad way to treat the people around you, and a bad way to
@@ -68,8 +68,8 @@ calculating ratios of conditional probabilities for infection and hospitalizatio
 $$
 \left\{
   \begin{align*}
-	RR_{\mbox{infect}} &= \frac{\Pr(\mbox{infect} | \mbox{unvax})}(\Pr(\mbox{infect} | \mbox{vax+boost})) \\
-	RR_{\mbox{hosp}}   &= \frac{\Pr(\mbox{hosp}   | \mbox{unvax})}(\Pr(\mbox{hosp}   | \mbox{vax+boost}))
+	RR_{\mbox{infect}} &= \frac{\Pr(\mbox{infect} | \mbox{unvax})}{\Pr(\mbox{infect} | \mbox{vax+boost})) \\
+	RR_{\mbox{hosp}}   &= \frac{\Pr(\mbox{hosp}   | \mbox{unvax})}{\Pr(\mbox{hosp}   | \mbox{vax+boost}))
   \end{align*}
 \right.
 $$
@@ -78,8 +78,8 @@ Let's see what they found for risk ratios in the Delta and Omicron wave:
 
 |                 |   | _Delta_ |   | _Omicron_ |
 |:---------------:|:-:|-------:|:-:|---------:|
-| Infection       |   | 12.3   |   |  3.8     |
-| Hospitalization |   | 83.0   |   | 12.9     |
+| _Infection_       |   | 12.3   |   |  3.8     |
+| _Hospitalization_ |   | 83.0   |   | 12.9     |
 
 (Now, I didn't dig deep enough to see if they provided enough information to check the
 risk ratio calculation, let alone enough to get a 95% confidence interval on them.  I'm a
@@ -179,6 +179,7 @@ The inescapable conclusion is related to trust:
 1. A people who trust their government to tell them the truth,  
 2. Trust each other, and  
 3. Perceive their government as not corrupt  
+
 &hellip; will respond sensibly and get vaccinated.  
 
 In the words of Thomas Bollyky, one of the study authors, to the _WaPo_:  
@@ -220,8 +221,8 @@ general use of the Internet to make swarm attacks. <sup id="fn7a">[[7]](#fn7)</s
 There are some interesting facts to contemplate:  
 - While it's true Rogan has about 11 million regular listeners, it's the _same_ 11 million
   for each podcast.  It's not like he's growing much.  
-- Spotify paid him about \$100 million to host his podcasts, so they're paying about \$10
-  for each pair of ears listening.  That's a _massive_ payout for Rogan, and an _enormous_
+- Spotify paid him about \$100 million to host his podcasts, so they're paying about 
+  \$10 for each pair of ears listening.  That's a _massive_ payout for Rogan, and an _enormous_
   amount to pay to get listeners.  
 - Other artists have _dramatically_ larger audiences, for which they are paid a pittance:
   - Euro football championship: 5 billion viewers  
