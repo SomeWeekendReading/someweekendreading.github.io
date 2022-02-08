@@ -43,7 +43,7 @@ suppressPackageStartupMessages({                       # Ssshh!  Quiet in the li
 ## See also post-stats, an RScript file in this directory for use at the (Unix) command line.
 ##
 
-## *** Do regression in left half, splice in heatmap image in right half?
+## *** Do regression in left half of image, splice in heatmap image in right half of image?
 ## *** Something like tobit regression of comments on hits?
 ## *** Other stats: # images for each post, byte count including images for each post, ...
 ## *** Graphics: quarterly boxplot of hits/comments, byte counts vs time, ...
