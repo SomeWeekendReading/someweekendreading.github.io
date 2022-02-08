@@ -236,7 +236,7 @@ host Rogan at ruinous expense both in terms of money and public disapproval.  Th
 _subsidizing_ someone to spew hatred, racism, misogyny, ignorance, and COVID-19
 disinformation (like ivermectin).  
 
-We understand (though do not respect) why Rogan wants to do it: he's being paid well.  As
+We understand (though we do _not_ respect) why Rogan wants to do it: he's being paid well.  As
 for his corporate masters?  They're spreading right-wing memes to undermine any sort of
 effective government that might move toward things people want, like universal healthcare,
 affordable housing, peaceful foreign policies, green and sustainable energy, and so on.
