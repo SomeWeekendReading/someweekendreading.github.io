@@ -40,7 +40,7 @@ Let's check in on the progress of that work.
 <img src="{{ site.baseurl }}/images/2022-02-09-moderna-monkey-trial-at-1.jpg" width="400" height="126" alt="Mole @ Ars Technica: Moderna Omicron booster 'only as good as' original in monkeys" title="Mole @ Ars Technica: Moderna Omicron booster 'only as good as' original in monkeys" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-02-09-moderna-monkey-trial-biorxiv.jpg" width="400" height="361" alt="Gagne @ bioRxiv: booster in macaques has comparable B cell expansion nAbs and protection vs Omicron" title="Gagne @ bioRxiv: booster in macaques has comparable B cell expansion nAbs and protection vs Omicron" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
-My correspondent asked me about an article in _Ars Technica_ 
+My correspondent asked about an article in _Ars Technica_ 
 <sup id="fn1a">[[1]](#fn1)</sup> claiming that the result of the Moderna Monkey Trial
 showed vaccine efficacy in monkeys 'only as good as' the current vaccines.  Now, 2 things
 immediately stood out to me:  
@@ -49,13 +49,17 @@ immediately stood out to me:
    saying you're only a so-so skier, because you're 'only as good as' a gold medalist.
    That phrase 'only as good as' is doing a lot of lifting here, and not in a good way.  
 2. Animal trials are not about showing efficacy in the first place!  They're about safety
-  ("did any of the monkeys catch fire and explode?") and about PK/PD ("did the drug levels
+  ("did any of the monkeys catch fire and explode?") and about
+  [PK](https://en.wikipedia.org/wiki/Pharmacokinetics) and
+  [PD](https://en.wikipedia.org/wiki/Pharmacodynamics) ("did the drug levels
   in the blood go down about like you thought?", and "did the drug get into the right
   compartment, at the right time, at the right level, and for the right duration?"), and
-  about dose-finding.  Sure, if you see efficacy, it's fine to report that.  But it's not
+  about [dose-finding](https://en.wikipedia.org/wiki/Dose-ranging_study)
+  ("do you know how much is enough?" and "do you know how much is too
+  much?").  Sure, if you see efficacy, it's fine to report that.  But it's not
   the main thing.  
   
-So some digging is required, to route around the damage caused by bad science journalism.
+Some digging is required here, to route around the damage caused by bad science journalism.
 The actual scientific report is still a preprint <sup id="fn2a">[[2]](#fn2)</sup>, but
 it's available to read.  Sure enough, it only uses the word "efficacy" in the introduction
 and in justifying the use of a primate model.  It's all about memory B cells, T cells, and
@@ -66,7 +70,7 @@ _expect!_
 So&hellip; one reasonable reaction would be: "move along kid, nothin' to see here."  
 
 But that's boring.  Let's examine the reasonableness of making _any_ claim about efficacy
-based on the Moderna Monkey Trial.  (Gee, I love that phrase.)  
+based on the Moderna Monkey Trial.  (Sheesh, I love that phrase.)  
 
 
 ## What efficacy means for $N = 8$  
@@ -91,7 +95,7 @@ Upon seeing that, we'd be within our rights to throw up our hands in disgust and
 what's on TV.  That would be about as productive as anything else.  But&hellip; here at
 Chez Weekend, we like to dig.  So let's dig.  
 
-There were 4 treatment animals who got 2 ordinary Moderna shots and the Omicron booster,
+There were 4 treatment animals who got 2 ordinary Moderna shots plus the Omicron booster,
 and 4 control animals who got 3 ordinary Moderna shots.  That means there are only 25
 possible outcomes, if you're measuring who got COVID-19 and who did not: 0-4 in the
 control arm, and 0-4 in the treatment arm.  (__NB:__ This is _not_ what the paper is
@@ -122,22 +126,22 @@ Here's what the 25 possible outcomes look like:
 ![Efficacies and 95% confidence intervals for Moderna Monkey Trial]({{ site.baseurl }}/images/2022-02-09-moderna-monkey-trial-efficacies.jpg "Efficacies and 95% confidence intervals for Moderna Monkey Trial")  
 
 - All efficacy computations are for $N_c = 4$ controls and $N_t = 4$ treatment animals.  
-- The rows are $K_c$, the number of sick animals in the control group; the columns are
-  $K_t$, the number of sick animals in the treatment group.  
+- The rows are $K_c$ values, the number of sick animals in the control group; the columns are
+  $K_t$ values, the number of sick animals in the treatment group.  
 - The values in each cell are the efficacy point estimate from the equation above and the
   95% confidence limits based on a scaled binomial confidence interval.  
-- The first row is peculiar but sensible, since it reflects $K_c = 0$, no sick controls:  
+- __The first row is peculiar but sensible:__ it reflects $K_c = 0$, no sick controls.  
   - The upper left corner is sensibly NaN because it's computing 0/0, i.e., what happens if you run
     a COVID-19 trial and there's no COVID-19.  
-  - The other elements are sensibly $-\infty$, because $K_c = 0$ means dividing by 0,
-    i.e., given the nonzero cases in the treatment arm, the treatment arm was infinitely
-    more risky than the control arm.  
+  - The other elements of the first row are sensibly $-\infty$, because $K_c = 0$ means
+    dividing by 0, i.e., given the nonzero cases in the treatment arm, the treatment arm
+    was infinitely more risky than the control arm.  
 
 A few things should stand out:  
 - In no case was it possible to say the 95% confidence interval was greater than 80% or
   94%, the efficacy of the existing vaccine.  
-- In fact, only in the 3 outcomes in the lower left, in bold and red, was it possible to
-  say with 95% confidence that efficacy was greater than 0!  
+- In fact, only in the 3 outcomes in the lower left, in bold and red, would it have been
+  possible to say with 95% confidence that efficacy was greater than 0%!  
   
 __Summary:__ With an $N = 4 + 4$ trial, it is _simply not possible mathematically_ to show
 that efficacy was statistically significantly better than the existing vaccines.  To
