@@ -283,6 +283,11 @@ Omicron, and cryptic variants in animals near us.
 It might take a generation of annual boosters to stomp that out.  A generation is better
 than 20,000 years.  
 
+## Addendum 2022-Feb-09: YLE weighs in on wastewater-based epidemiology  
+
+Today Katelyn Jetelina, writing at _Your Local Epidemiologist_, posted a nice survey of
+wastewater surveillance efforts across the US.  <sup id="fn3a">[[3]](#fn3)</sup>
+
 ---
 
 ## Notes &amp; References  
@@ -304,3 +309,5 @@ Amusingly, it appears an editor at _Nature_ may have forced a change from "waste
 To which we can only respond, [&Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#%CF%9C%CE%A4%CE%A6)?  [↩](#fn1a)  
 
 <a id="fn2">2</a>: J Auerbach, ["Does New York City really have as many rats as people?](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2014.00764.x), _Significance_ 11, 22-27, 2014-Oct. [↩](#fn2a)  
+
+<a id="fn3">3</a>: K Jetelina, ["Wastewater: Taking surveillance to the next level"](https://yourlocalepidemiologist.substack.com/p/wastewater-taking-surveillance-to), _Your Local Epidemiologist_ blog, 2022-Feb-09. [↩](#fn3a)  

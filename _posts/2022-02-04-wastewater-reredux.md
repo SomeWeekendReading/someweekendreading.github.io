@@ -659,6 +659,12 @@ something.
 
 You should live, and not die.  
 
+
+## Addendum 2022-Feb-09: YLE weighs in on wastewater-based epidemiology  
+
+Today Katelyn Jetelina, writing at _Your Local Epidemiologist_, posted a nice survey of
+wastewater surveillance efforts across the US.  <sup id="fn9a">[[9]](#fn9)</sup>
+
 ---
 
 ## Notes &amp; References  
@@ -688,3 +694,5 @@ You should live, and not die.
 <a id="fn7">7</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Third wastewater/COVID analysis script in R"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-3.r), [_Some Weekend Reading_]({{ site.baseurl }}/), 2022-Feb-04.  There is also a [transcript of running the analysis]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-transcript.txt) for peer review. [↩](#fn7a)  
 
 <a id="fn8">8</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Joint dataset combining wastewater mRNA and county-level cases &amp; deaths"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-joint-data.tsv) and ["Prediction dataset for wastewater mRNA and 3 counties sum of cases and deaths"]({{ site.baseurl }}/assets/2022-02-04-wastewater-reredux-mwra-covid-joint-data-prediction-set.tsv), [_Some Weekend Reading_]({{ site.baseurl }}/), 2022-Feb-04. [↩](#fn8a)  
+
+<a id="fn9">9</a>: K Jetelina, ["Wastewater: Taking surveillance to the next level"](https://yourlocalepidemiologist.substack.com/p/wastewater-taking-surveillance-to), _Your Local Epidemiologist_ blog, 2022-Feb-09. [↩](#fn9a)  
