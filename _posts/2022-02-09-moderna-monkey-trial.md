@@ -132,33 +132,35 @@ Here's what the 25 possible outcomes look like:
   95% confidence limits based on a scaled binomial confidence interval.  
 - __The first row is peculiar but sensible:__ it reflects $K_c = 0$, no sick controls.  
   - The upper left corner is sensibly NaN because it's computing 0/0, i.e., what happens if you run
-    a COVID-19 trial and there's no COVID-19.  
+    a COVID-19 trial and there's no COVID-19: you get no information!  
   - The other elements of the first row are sensibly $-\infty$, because $K_c = 0$ means
     dividing by 0, i.e., given the nonzero cases in the treatment arm, the treatment arm
     was infinitely more risky than the control arm.  
 
 A few things should stand out:  
-- In no case was it possible to say the 95% confidence interval was greater than 80% or
+- In no case was it possible to say the 95% lower confidence limit was greater than 80% or
   94%, the efficacy of the existing vaccine.  
 - In fact, only in the 3 outcomes in the lower left, in bold and red, would it have been
   possible to say with 95% confidence that efficacy was greater than 0%!  
   
-__Summary:__ With an $N = 4 + 4$ trial, it is _simply not possible mathematically_ to show
+__Summary:__ With an $N = 4 + 4$ trial, it is _simply not mathematically possible_ to show
 that efficacy was statistically significantly better than the existing vaccines.  To
 complain otherwise is a misleading canard.  
 
 
 ## The Weekend Conclusion  
 
-Sure, the trial didn't prove the omicron booster was better.  It 
-_could not possibly have done so_, and _was not designed to do that._  Journalism hinting
-that this constitutes failure is just ignorant.  
+Sure, the trial didn't prove the omicron booster was better.  It _could not possibly have
+done so_, and very sensibly _was not designed to do that._  Thinking that this constitutes
+failure is just ignorant.  
 
 The trial _did succeed_ at doing the sensible thing: demonstrating safety in primates, and
 demonstrating immune reaction in the all-important memory B cells and T cells that we want
 to see.  A result like this should, and probably will, clear the way for a human trial.  
 
-Good job on this experiment.  Somewhat less good job on the science journalism.  
+Good job on this experiment.  Somewhat less good job on the science journalism.  (But, to
+be fair: it _was_ good journalism to cite the primary sources so we could check up on the
+conclusions.)  
 
 ---
 
