@@ -154,7 +154,7 @@ The trial _did succeed_ at doing the sensible thing: demonstrating safety in pri
 demonstrating immune reaction in the all-important memory B cells and T cells that we want
 to see.  A result like this should, and probably will, clear the way for a human trial.  
 
-Good job on this experiment.  
+Good job on this experiment.  Somewhat less good job on the science journalism.  
 
 ---
 
