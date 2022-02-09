@@ -260,9 +260,9 @@ refuseniks and the conspiracy whackos.  Time to make them bend over backward, in
 
 ## The Weekend Conclusion  
 
-We'll leave the last word to Cheryl Rofer, another retired physics type.  She specialized
-in nuclear stuff and national security, so she knows a thing or two about response to
-threats.  And, alas, the public's myopic and attention-span-impaired attitude:  
+We'll leave the last word to Cheryl Rofer, another retired physics &amp; chemistry type.
+She specialized in nuclear stuff and national security, so she knows a thing or two about
+response to threats.  And, alas, the public's myopic and attention-span-impaired attitude:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
