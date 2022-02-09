@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Moderna Omicron-Specific Booster Monkey Trial
+title: On the Moderna Monkey Trial of Omicron-Specific Boosters
 tags: COVID MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
 ---
