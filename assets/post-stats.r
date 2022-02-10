@@ -165,7 +165,7 @@ postStats <- function(## Inputs
 
   plotDataVsTime <- function(postData, blogName, clGray, plotWidth, plotHeight, destDir, plotFile) {
 
-    scatterplotWithLOESS <- function(postData, colName, clGray, log, main, hitsStart, histBreaks,
+    scatterplotWithLOESS <- function(postData, colName, clGray, log, main, doLegend, histBreaks,
                                      barPlot = FALSE) {#
       withPars(function() {                            # Set label orientation & add space @ bottom
         xlim      <- range(postData$"PostDate")        # Range of dates having posts
@@ -212,10 +212,9 @@ postStats <- function(## Inputs
                  lty = "solid", col = "gray")          # Draw vertical gray line @ Jan 01 of each year
         })                                             #  between min post date and max post date
 
-        legendInset <- c(0.03, 0.01)                   # Insets for legend (accomodate vertical rug)
-        if (!is.null(hitsStart)) {                     # Want to show when hit counter turned on?
-          abline(v = postData[1, hitsStart], col = "gray", lty = "dashed")
-          legend("topright", bg = "antiquewhite", inset = legendInset,
+        if (doLegend) {                                # Want to do legend?
+          abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
+          legend("topright", bg = "antiquewhite", inset = c(0.01, 0.01), # 0.03 if on left, for y rug
                  pch    = c(21,                NA,                    22,        NA,       NA),
                  pt.bg  = c("blue",            NA,                    clGray,    NA,       NA),
                  pt.cex = c(1.5,               NA,                    3,         NA,       NA),
@@ -224,17 +223,8 @@ postStats <- function(## Inputs
                  lwd    = c(NA,                2,                     NA,        1,        1),
                  legend = c("Individual post", "LOESS central trend", "LOESS 95% confidence interval",
                             "Year boundary", sprintf("Hit counting started: %s",
-                                                     postData[1, hitsStart])))
-        } else                                         # Else don't show hit count start; diff legend
-          legend("topright", bg = "antiquewhite", inset = legendInset,
-                 pch    = c(21,                NA,                    22,       NA),
-                 pt.bg  = c("blue",            NA,                    clGray,   NA),
-                 pt.cex = c(1.5,               NA,                    3,        NA),
-                 col    = c("black",           "black",               clGray,   "gray"),
-                 lty    = c(NA,                "solid",               "dashed", "solid"),
-                 lwd    = c(NA,                2,                     NA,       1),
-                 legend = c("Individual post", "LOESS central trend", "LOESS 95% confidence interval",
-                            "Year boundary"))          #
+                                                     postData[1, "HitsStart"])))
+        }                                              #
 
       }, las = 3,                                      # Always vertical labels, both axes
          mar = c(7.5, 3, 2, 1))                        # Extra margin @ bottom for date labels
@@ -252,8 +242,8 @@ postStats <- function(## Inputs
     withPNG(f, plotWidth, plotHeight, FALSE, function() {
       withPars(function() {                            # Save/restore graphics parameters
 
-        scatterplotWithLOESS(postData, "PostHits", clGray, "y", "Hits vs Time", "HitsStart", 20)
-        scatterplotWithLOESS(postData, "PostComments", clGray, "",  "Comments vs Time", NULL, NULL,
+        scatterplotWithLOESS(postData, "PostHits", clGray, "y", "Hits vs Time", FALSE, 20)
+        scatterplotWithLOESS(postData, "PostComments", clGray, "",  "Comments vs Time", TRUE, NULL,
                              barPlot = TRUE)           # Too few distinct comment vals for histogram
 
         title(main = sprintf("%s Hits & Comments %s: %d posts",
@@ -279,7 +269,7 @@ postStats <- function(## Inputs
                                           labels         = names(qs)[-11],
                                           include.lowest = TRUE,
                                           ordered_result = TRUE))
-    tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
+    tbl <<- table(foo$"PostComments", foo$"PostHitsDecile")
     print(tbl)                                         # Table of comments x hits, for bicluster
     f2  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
     withPNG(f2, plotWidth/2, plotHeight/2, FALSE, function() {
@@ -290,6 +280,9 @@ postStats <- function(## Inputs
         colors  <- rev(makeFDRColors(nColors, maxFDRColored = 1.0, baseColor = "blue"))
 
         heatmapRespectFALSE(tbl, scale = "none", col = colors,
+                            ## 2ndary sort key by decile on cols, by comment # on rows
+                            Rowv = -as.integer(rownames(tbl)),
+                            Colv = -as.integer(gsub("^([0-9]*)%$", "\\1", colnames(tbl))),
                             margins = c(1.5 * max(nchar(colnames(tbl))),
                                         2.5 * max(nchar(rownames(tbl)))),
                             main = "Comment/Hit Bicluster", xlab = "Hit Decile", ylab = "Comments",
