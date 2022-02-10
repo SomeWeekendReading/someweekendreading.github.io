@@ -211,9 +211,10 @@ postStats <- function(## Inputs
           abline(v = as.Date(sprintf("%4d-Jan-01", yr), format = "%Y-%b-%d"),
                  lty = "solid", col = "gray")          # Draw vertical gray line @ Jan 01 of each year
         })                                             #  between min post date and max post date
+        ## Vertical dashed line when hit-counting was turned on (mid-2021)
+        abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
 
-        if (doLegend) {                                # Want to do legend?
-          abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
+        if (doLegend)                                  # Want to do legend?
           legend("topright", bg = "antiquewhite", inset = c(0.01, 0.01), # 0.03 if on left, for y rug
                  pch    = c(21,                NA,                    22,        NA,       NA),
                  pt.bg  = c("blue",            NA,                    clGray,    NA,       NA),
@@ -224,7 +225,6 @@ postStats <- function(## Inputs
                  legend = c("Individual post", "LOESS central trend", "LOESS 95% confidence interval",
                             "Year boundary", sprintf("Hit counting started: %s",
                                                      postData[1, "HitsStart"])))
-        }                                              #
 
       }, las = 3,                                      # Always vertical labels, both axes
          mar = c(7.5, 3, 2, 1))                        # Extra margin @ bottom for date labels
