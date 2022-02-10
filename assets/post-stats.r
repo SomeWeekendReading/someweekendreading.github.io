@@ -269,7 +269,7 @@ postStats <- function(## Inputs
                                           labels         = names(qs)[-11],
                                           include.lowest = TRUE,
                                           ordered_result = TRUE))
-    tbl <<- table(foo$"PostComments", foo$"PostHitsDecile")
+    tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
     print(tbl)                                         # Table of comments x hits, for bicluster
     f2  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
     withPNG(f2, plotWidth/2, plotHeight/2, FALSE, function() {
@@ -280,7 +280,7 @@ postStats <- function(## Inputs
         colors  <- rev(makeFDRColors(nColors, maxFDRColored = 1.0, baseColor = "blue"))
 
         heatmapRespectFALSE(tbl, scale = "none", col = colors,
-                            ## 2ndary sort key by decile on cols, by comment # on rows
+                            ## 2ndary sort key by comment # on rows and by decile on cols
                             Rowv = -as.integer(rownames(tbl)),
                             Colv = -as.integer(gsub("^([0-9]*)%$", "\\1", colnames(tbl))),
                             margins = c(1.5 * max(nchar(colnames(tbl))),
