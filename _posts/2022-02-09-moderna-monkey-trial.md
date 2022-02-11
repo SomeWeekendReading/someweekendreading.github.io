@@ -16,7 +16,9 @@ vaccine.  What should we think about that?
 Everybody's worried about Omicron, in spite of the fact that it's almost over.  Omicron
 is _so_ infectious that it burns through a population pretty quickly.  
 
-Since, apparently, here at Chez Weekend we're all about sewage lately, have a look at the
+Since, apparently, here at Chez Weekend we're 
+[all]({{ site.baseurl }}/wastewater-reredux/) about 
+[sewage lately]({{ site.baseurl }}/sars-cov2-cryptic/), have a look at the
 viral RNA levels detected by Boston's MWRA as of today.  See that big peak at the right,
 almost back down to background?  That's the Omicron wave.  Cases, hospitalizations, and
 deaths will still be peaking, but the Omicron viral wave is coming to a close.  
