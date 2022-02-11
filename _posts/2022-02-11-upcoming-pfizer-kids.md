@@ -51,5 +51,4 @@ that's probably the least awkward fact about this whole little circus.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-
-<a id="fn1">1</a>: FDA VRBPAC Staff, ["Vaccines and Related Biological Products Advisory Committee February 15, 2022 Meeting Announcement"](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting-announcement), US FDA Vaccines and Related Biologic Products Advisory Committee, 2022-Feb-15.  Retrieved 2022-Feb-11 ahead of the meeting. [↩](#fn1a)  
+<a id="fn1">1</a>: FDA VRBPAC Staff, ["Vaccines and Related Biological Products Advisory Committee February 15, 2022 Meeting Announcement"](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting-announcement), US FDA Vaccines and Related Biologic Products Advisory Committee, 2022-Feb-15.  Retrieved 2022-Feb-11 ahead of the meeting.  Links to event materials are at the bottom of the page. [↩](#fn1a)  
