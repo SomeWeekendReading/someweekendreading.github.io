@@ -165,7 +165,7 @@ postStats <- function(## Inputs
 
   plotDataVsTime <- function(postData, blogName, clGray, plotWidth, plotHeight, destDir, plotFile) {
 
-    scatterplotWithLOESS <- function(postData, colName, clGray, log, main, doLegend, histBreaks,
+    scatterplotWithLOESS <- function(postData, colName, clGray, log, doLegend, histBreaks,
                                      barPlot = FALSE) {#
       withPars(function() {                            # Set label orientation & add space @ bottom
         xlim      <- range(postData$"PostDate")        # Range of dates having posts
@@ -191,7 +191,7 @@ postStats <- function(## Inputs
         },                                             # Preliminaries done; now rest of plot:
         x = postData$"PostDate", y = postData[, colName], pch = 21, bg = "blue",
         xlim = xlim, ## ylim = c(1, max(postData[, colName])),
-        main = main, log = log, xaxt = "n", xlab = NA, #
+        main = sprintf("%s vs Time", colName), log = log, xaxt = "n", xlab = NA, #
         ylab = sprintf("%s (%s scale)", colName, if (nchar(log) > 0) "log" else "linear"))
 
         withPars(function() {                          # Horiz axis only: extra space for date labels
@@ -229,22 +229,22 @@ postStats <- function(## Inputs
       }, las = 3,                                      # Always vertical labels, both axes
          mar = c(7.5, 3, 2, 1))                        # Extra margin @ bottom for date labels
 
-      if (barPlot)                                     # Barplot for too few vals to histogram
-        barplot(height = table(postData[, colName]), col = "blue",
+      if (barPlot)                                     # Barplot if too few vals to histogram
+        barplot(height = table(postData[, colName]), col = "blue", space = 0,
                 xlab = colName, ylab = sprintf("Freq(%s)", colName),
                 main = sprintf("%s Frequency Distribution", colName))
       else                                             # Else ordinary histogram
-        hist(postData[, colName], xlab = colName, ylab = sprintf("Freq(%s)", colName),
-             main = sprintf("%s Frequency Distribution", colName), col = "blue", breaks = histBreaks)
+        hist(x = postData[, colName], col = "blue", breaks = histBreaks,
+             xlab = colName, ylab = sprintf("Freq(%s)", colName),
+             main = sprintf("%s Frequency Distribution", colName))
     }                                                  #
 
     f <- if (is.null(plotFile)) NULL else file.path(destDir, plotFile)
     withPNG(f, plotWidth, plotHeight, FALSE, function() {
       withPars(function() {                            # Save/restore graphics parameters
 
-        scatterplotWithLOESS(postData, "PostHits", clGray, "y", "Hits vs Time", FALSE, 20)
-        scatterplotWithLOESS(postData, "PostComments", clGray, "",  "Comments vs Time", TRUE, NULL,
-                             barPlot = TRUE)           # Too few distinct comment vals for histogram
+        scatterplotWithLOESS(postData, "PostHits",     clGray, "y", FALSE, 20)
+        scatterplotWithLOESS(postData, "PostComments", clGray, "",  TRUE,  NULL, barPlot = TRUE)
 
         title(main = sprintf("%s Hits & Comments %s: %d posts",
                              blogName,                 # Overall title of all plots
