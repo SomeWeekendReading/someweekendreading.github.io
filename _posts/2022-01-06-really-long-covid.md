@@ -66,7 +66,7 @@ There are 7 coronaviruses that regularly infect humans.
     emerged about 1200CE, or 820 years ago.  
 - The remaining 3 are all _very_ recent indeed, and all _big_ troublemakers, each a result
   of zo&ouml;notic transfer (from bats, civets, and camels, apparently):  
-  - SARS-COV1 emerged in China in 2002, infecting 8000 and kiling 800 before subsiding (a
+  - SARS-CoV1 emerged in China in 2002, infecting 8000 and kiling 800 before subsiding (a
     10% lethality rate).  
   - MERS-CoV emerged in 2006 in the Middle East, infecting 2400 and killing over 850
     before subsiding (a 35% lethality rate!).  
