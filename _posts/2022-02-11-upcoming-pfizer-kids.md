@@ -91,6 +91,22 @@ to find out the details.
 
 [&Gammad;&Tau;&Phi;]([&Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#%CF%9C%CE%A4%CE%A6)), indeed.  
 
+
+## Addendum 2022-Feb-12: _STAT News_ doesn't know, either  
+
+<img src="{{ site.baseurl }}/images/2022-02-11-upcoming-pfizer-kids-stat.jpg" width="400" height="209" alt="STAT News: A few details on Pfizer/FDA postponement" title="STAT News: A few details on Pfizer/FDA postponement" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+There's an article up at _STAT News_ by Herper, Florko, and 
+Branswell. <sup id="fn2a">[[2]](#fn2)</sup>  I haven't much experience with Florko, but
+Herper and Bransewell have been extraordinarily reliable.  
+
+While there's some detail in the article, most of it amounts to "we don't really know
+what's going on, so we have to wait for the fuller dataset to be submitted and analyzed
+before anybody will talk."  The FDA quote above implies that they've already received some
+new data; this article implies they're _waiting_ for the data from the completion of the
+3rd shot trial.  
+
+As [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) was told at the start of his investing career: ["Nobody knows nothin'."](https://www.bogleheads.org/forum/viewtopic.php?t=311425)  
+
 ---
 
 ## Notes &amp; References  
@@ -108,3 +124,5 @@ to find out the details.
 <a id="fn1">1</a>: FDA VRBPAC Staff, ["Vaccines and Related Biological Products Advisory Committee February 15, 2022 Meeting Announcement"](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting-announcement), US FDA Vaccines and Related Biologic Products Advisory Committee, 2022-Feb-15.  
 
 Retrieved 2022-Feb-11 ahead of the meeting.  Links to event materials are at the bottom of the page. [↩](#fn1a)  
+
+<a id="fn2">2</a>: M Herper, N Florko, &amp; H Branswell, ["Pfizer and FDA pull back from plan to expedite review of Covid-19 vaccine in young children"](https://www.statnews.com/2022/02/11/pfizer-and-fda-pull-back-from-plan-to-expedite-review-of-covid-19-vaccine-in-young-children/), _STAT News_, 2022-Feb-12. [↩](#fn2a)  
