@@ -125,4 +125,4 @@ As [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) was told at the sta
 
 Retrieved 2022-Feb-11 ahead of the meeting.  Links to event materials are at the bottom of the page. [↩](#fn1a)  
 
-<a id="fn2">2</a>: M Herper, N Florko, &amp; H Branswell, ["Pfizer and FDA pull back from plan to expedite review of Covid-19 vaccine in young children"](https://www.statnews.com/2022/02/11/pfizer-and-fda-pull-back-from-plan-to-expedite-review-of-covid-19-vaccine-in-young-children/), _STAT News_, 2022-Feb-12. [↩](#fn2a)  
+<a id="fn2">2</a>: M Herper, N Florko, &amp; H Branswell, ["Pfizer and FDA pull back from plan to expedite review of Covid-19 vaccine in young children"](https://www.statnews.com/2022/02/11/pfizer-and-fda-pull-back-from-plan-to-expedite-review-of-covid-19-vaccine-in-young-children/), _STAT News_, 2022-Feb-11. [↩](#fn2a)  
