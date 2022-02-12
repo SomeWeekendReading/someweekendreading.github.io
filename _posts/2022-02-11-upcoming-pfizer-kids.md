@@ -37,6 +37,60 @@ More will appear today &amp; over the weekend.  Somehow the VRBPAC members are s
 read it all before the meeting, which makes it awkward that it's not there _now._  But
 that's probably the least awkward fact about this whole little circus.  
 
+
+## Addendum 2022-Feb-11, late night:  
+
+["Curiouser and curiouser!" said Alice.](https://www.cs.cmu.edu/~rgs/alice-II.html)  
+
+[Gary Cornell](https://www.garycornell.com/) just emailed me to note that Pfizer had
+withdrawn its application!  If you go to the page in the References below, you now see
+this bit of clickbait:  
+
+<img src="{{ site.baseurl }}/images/2022-02-11-upcoming-pfizer-kids-fda-vrbpac-postponement.jpg" width="730" height="104" alt="FDA VRBPAC: Pfizer meeting postponed?!" title="FDA VRBPAC: Pfizer meeting postponed?!" style="display: inline-block; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
+If you follow the link, because 'clickbait', you find a page chock full of catnip like
+this as the lead-off graf:  
+
+> The U.S. Food and Drug Administration has been notified by Pfizer that new data have
+> recently emerged regarding its emergency use authorization request for the use of the
+> Pfizer-BioNTech COVID-19 Vaccine in children 6 months through 4 years of age. As part of
+> its rolling submission, the company recently notified the agency of additional findings
+> from its ongoing clinical trial. Based on the agency’s preliminary assessment, and to
+> allow more time to evaluate additional data, we believe additional information regarding
+> the ongoing evaluation of a third dose should be considered as part of our decision-making
+> for potential authorization.  
+
+So let's summarize:  
+1. Everybody agrees we want to be able to vax kids.  
+2. Pfizer's been doing age-deescalation trials, where you start with adults and work your
+   way down.  They're now working on 6 months - 4 years; everybody above that has a
+   vaccine EUA'd or even approved for them.  
+3. The trial of 2 shots worked for 6 months - 2 years, but failed for 2 years - 4 years.
+   This is a problem, because _you don't get to skip an age group_ in an age-deescalation
+   trial.  They don't want to approve something for little kiddles who will then, in the
+   natural course of things, age into the danger group.  
+4. Rather than go back to the drawing board completely, Pfizer &amp; the FDA agreed to try
+   a 3rd shot and see if that got enough immune response in the 2yr -4yr tranche.  
+5. That data _is not yet in_, but the FDA _invited submission anyway_, and that was 
+   what was going to happen on Monday.  The whisper network says they wanted parents to
+   "get kids started" on the timeline to getting the 3rd shot.  
+6. Now Pfizer pulled the emergency brake line, saying in effect: "Hold on, we got data.
+   Let's have a think before we meet."  Which is&hellip; the first sensible thing in this
+   list.  
+   
+So I guess it's sack-of-hammers weird that the FDA invited an application
+_before the trial data was in_, possibly attempting to move faster than usual.  But then
+somebody at Pfizer maybe burnt the midnight oil and produced data at the last minute?  
+
+It'll take them a couple weeks to argue about the data, and produce the usual duelling
+slide decks.  Maybe sometime by the end of February we'll know what's going on.  
+
+Honestly, I've just never seen anything like this.  I see the ripples on the water and
+conclude there are big things swimming below the surface; I decline to swim in the waters
+to find out the details.  
+
+[&Gammad;&Tau;&Phi;]([&Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#%CF%9C%CE%A4%CE%A6)), indeed.  
+
 ---
 
 ## Notes &amp; References  
