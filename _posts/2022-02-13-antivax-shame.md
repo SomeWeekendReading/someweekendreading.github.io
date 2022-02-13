@@ -19,7 +19,7 @@ have a streak of barely suppressed violence.  This week came 2 examples where th
 been _threatening physical violence upon the families of scientists_, in this case Katelyn Jetelina of
 _Your Local Epidemiologist_, the University of Texas Health Science Center at
 Houston, and the University of Texas Southwestern Medical 
-Center <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> (of whom we are
+Center <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> (and of whom we are
 fans on this blog).  
 
 The _Medpage Today_ article chronicles just how many _millions of dollars_ are being
