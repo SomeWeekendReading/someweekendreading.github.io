@@ -53,7 +53,7 @@ deserves some safety at the _very_ least.
 
 The anti-vaxxers, on the other hand, deserve shame. And criminal prosecution for some of them.  
 
-Part of me wants the anti-vaxxers to be taken out and shot.  Though "shot" with a vaccine,
+Part of me wants the anti-vaxxers to be taken out and shot.  "Shot" with a vaccine,
 of course, because that's just poetic justice.  
 
 ---
