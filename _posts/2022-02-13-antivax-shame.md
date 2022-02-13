@@ -47,14 +47,14 @@ from blogging:
 >  
 > So, I’m taking a break for a week or two.  
 
-So she's "taking a break" from the [thuggery](https://en.wikipedia.org/wiki/Thuggee), and
+So she's "taking a break" from the [thuggery](https://en.wikipedia.org/wiki/Thuggee).
 I hope it's in a location that's a well-kept secret with good police protection.  She
-deserves some safety.  
+deserves some safety at the _very_ least.  
 
-The anti-vaxxers deserve shame, and criminal prosecution for some of them.  
+The anti-vaxxers, on the other hand, deserve shame. And criminal prosecution for some of them.  
 
 Part of me wants the anti-vaxxers to be taken out and shot.  Though "shot" with a vaccine,
-because that's just poetic justice.  
+of course, because that's just poetic justice.  
 
 ---
 
