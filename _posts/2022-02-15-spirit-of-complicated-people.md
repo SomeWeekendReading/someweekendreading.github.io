@@ -35,8 +35,9 @@ with sufficient evidence for that conclusion already?!)
 
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched-thumb.jpg" width="400" height="300" alt="Jan Nepomuk: dog touched" title="Jan Nepomuk: dog touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 And so it is today: somebody or other pointed me at somebody else or other, who a photo
-showing a more or less late European medieval soldier and his loyal dog, which had been
-burnhished shiny by passers-by who also wanted to pet the dog (click to embiggen).  
+showing a more or less late medieval European soldier and his loyal dog, which had been
+burnished shiny by passers-by who also wanted to pet the dog (click to embiggen, for most
+of these images).  
 
 Isn't it nice that, even in a pandemic and the revenance of fascism that people want to do
 basic kindnesses, like petting a dog?  
@@ -76,7 +77,7 @@ to convince me their image was taken on Mars.  Get on that, will you?)
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-charles-bridge-2.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-charles-bridge-2-thumb.jpg" width="400" height="262" alt="Charles Bridge in Prague in twilight" title="Charles Bridge in Prague in twilight" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <iframe width="400" height="224" src="https://www.youtube.com/embed/nJgD6gyi0Wk" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 However, a few minutes of quality time with [Google Lens](https://en.wikipedia.org/wiki/Google_Lens)
-exhumed a boatload of similar (near-identical) images, complete with explanations of who,
+exhumed a boatload of similar (even near-identical) images, complete with explanations of who,
 what, when, where, and why.  It turns out this is a relief sculpture at the base of a
 statue on the [Charles Bridge](https://en.wikipedia.org/wiki/Charles_Bridge) built in 1357
 over the [Vltava River](https://en.wikipedia.org/wiki/Vltava) in Prague, capital of the
@@ -112,7 +113,7 @@ to the right, you see this.  Something weird, disturbing, dark, and violent is h
 here:  
 - A bunch of armored soldiers, armed with spears or pikes, are on a bridge.  
 - They appear to be forcibly throwing someone off the bridge, upside-down.  It's unlikely
-  to be a friendly dunking.  
+  to be a friendly fraternity dunking prank.  
 - In the foreground, a well-dressed woman with coiffed hair (likely a noble), is watching
   under what appear to be the dual influences of a cherub to her left and another soldier
   on her right.  
@@ -181,7 +182,7 @@ Swimming would be out of the quesiton, and drowning a certainty.
 
 Well, that went dark fast.  
 
-I mean, I just wanted to feel good about a guy petting a dog.  And I got this?!  
+I mean, I just wanted to feel-good about a guy petting a dog.  And I got _this_ instead?!  
 
 Sure, it's Middle Ages MittelEuropa, but still&hellip; why can't we have a nice little
 story about how people like to pet dogs?  Well, people&hellip; they're _complicated._  
@@ -193,7 +194,7 @@ story about how people like to pet dogs?  Well, people&hellip; they're _complica
 Apparently this whole horrific scene has become a tourist attraction.  Maybe that's good,
 rehabilitating ugly things in the past?  Tour guides lead people to the bridge, which I
 admit is quite scenic and has quite a bit of artwork.  Then they tell the tourists that
-touching St Jan or the queen either brings good luck or ensures one will return to
+touching St Jan or the Queen Sophia either brings good luck or ensures one will return to
 Prague.  Also, people like dogs, so they pet the dog because apparently it's easier to
 reach.  Shown here is a view of 2 tourists doing exactly that, with a view of the whole
 statue above the plaques.  (Did you remember we've thus far only been talking about 2

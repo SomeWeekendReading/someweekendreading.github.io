@@ -7,8 +7,8 @@ name: Some Weekend Reading
 description: Occasional tart thoughts of a grumpy old retired scientist, your humble Weekend Editor.
 author: Weekend Editor
 
-## Whether to show posts dated in the future
-future: true
+## Whether to show posts dated in the future (default false)
+## future: true
 
 ## NB: changed usage of site.avatar in _layouts/default.html to prepend {{ site.baseurl }}/ to this.
 ## Any other uses will have to do the same, e.g., a link/rel/icon in the meta section.
