@@ -179,7 +179,7 @@ likely have included the rack, which would have disjointed arms and legs from th
 sockets, torn muscle and tendon, and generally left no use of limbs to the victim.
 Swimming would be out of the quesiton, and drowning a certainty.  
 
-Well, that got dark fast.  
+Well, that went dark fast.  
 
 I mean, I just wanted to feel good about a guy petting a dog.  And I got this?!  
 
@@ -231,7 +231,7 @@ In this bottom photo, I can just about make out the Latin inscription:
 > NEPOMUCENO  
 > Anno MCCCLXXXIII  
 > EX HOC PONTE  
-> DEIECTO \
+> DEIECTO  
 >  
 > EREXIT  
 > MATHIAS LB  
@@ -265,15 +265,15 @@ So what's our active choice here?
 
 If I choose nothing, my pessimistic and usually depressed mind will drift toward the
 dark.  No, it's not about good people wanting to pet dogs.  It's about jealous husbands,
-secrecy, authoritarian tyrrany, military occupation, torture, murder, and&hellip; look,
-I'm gonna just stop there, ok?  
+secrecy, authoritarian tyrrany, military occupation, state-authorized torture, murder,
+and&hellip; look, I'm just gonna just stop there, ok?  
 
 On the other tentacle: it's a story about persistence in keeping a promise (the seal of
 the confessional), about revering people who are loyal for centuries afterward, about
 turning a horrible occasion into a hope for good luck.  
 
 And, in spite of all the humans and their crappy behavior, it's about a loyal dog who
-inspires people to pet him affectionately.  
+inspires people to pet him or her affectionately.  
 
 It's hard to live up to the example of a saint, particularly one who's been martyred.  But
 maybe we can _start_ by trying to live up to the example of the dog?  
