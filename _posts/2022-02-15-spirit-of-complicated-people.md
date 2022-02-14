@@ -105,7 +105,7 @@ It was sitting _right there_, and now it's going to waste!  Sigh.
 
 Ok, no duck.  But why a dog?  And what else is going on here?  As it turns out, rather a _lot._  
 
-<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-nepomuk-people-queen-and-saint-touched-thumb.jpg" width="400" height="231" alt="Jan Nepomuk: Queen and saint touched" title="Jan Nepomuk: Queen and saint touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched-thumb.jpg" width="400" height="231" alt="Jan Nepomuk: Queen and saint touched" title="Jan Nepomuk: Queen and saint touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The image of the soldier, his highly polished dog, and the fascinating other stuff is at
 the base of a statue (which we'll look at in a minute).  If you move just a meter or two
 to the right, you see this.  Something weird, disturbing, dark, and violent is happening
