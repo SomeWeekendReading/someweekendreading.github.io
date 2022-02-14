@@ -232,11 +232,11 @@ postStats <- function(## Inputs
       if (barPlot)                                     # Barplot if too few vals to histogram
         barplot(height = table(postData[, colName]), col = "blue", space = 0,
                 xlab = colName, ylab = sprintf("Freq(%s)", colName),
-                main = sprintf("%s Frequency Distribution", colName))
+                main = sprintf("%s Distribution", colName))
       else                                             # Else ordinary histogram
         hist(x = postData[, colName], col = "blue", breaks = histBreaks,
              xlab = colName, ylab = sprintf("Freq(%s)", colName),
-             main = sprintf("%s Frequency Distribution", colName))
+             main = sprintf("%s Distribution", colName))
     }                                                  #
 
     f <- if (is.null(plotFile)) NULL else file.path(destDir, plotFile)
