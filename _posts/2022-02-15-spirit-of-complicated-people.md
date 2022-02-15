@@ -93,7 +93,9 @@ cross with 5 stars) are a bit of a tourist attraction, hence the fame of photos 
 this.  One very helpful Prague tourist site, _LivingPrague_, explained a great many
 fascinating and occasionally disturbing details. <sup id="fn1a">[[1]](#fn1)</sup>  The
 pictures reproduced here are from _LivingPrague_, and some clearer versions from 
-_My Modern Met_ <sup id="fn2a">[[2]](#fn2)</sup>.  
+_My Modern Met_ <sup id="fn2a">[[2]](#fn2)</sup>.  (The video is kind of interesting: it
+shows the late medieval construction techniques for building such a bridge: largely with
+nothing but human and animal muscle power, augmented by clever leverage and wheels.)  
 
 Legend says construction of this bridge was started personally by 
 [Emperor Charles IV, king of Bohemia and later Holy Roman Emperor](https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor)
