@@ -18,7 +18,7 @@ that can restore at least _some_ of my faith in human nature is welcome.
 
 On the other hand: avoiding things that destroy my faith in human nature is a survival
 tactic for me, for many years now.  That's why I don't have social media accounts: no
-Bookfacery, no Twittage, no Instagrammaton, no TackyTo k, no WhatsOpera&hellip; none of
+Bookfacery, no Twittage, no Instagrammaton, no TackyTonk, no WhatsOpera&hellip; none of
 that.  I have very little patience with performative stupidity (unless done as satire and
 done well, by somebody like Monty Python).  
 
@@ -27,7 +27,7 @@ to know what they think.  Other people whom I respect (for reasons _other_ than 
 social media hygiene) trawl through the social media sewers and post interesting bits they
 find on their blogs.  _That_ I will read, occasionally dipping into a Twitter thread
 blessed by tasteful people I trust.  (But not Facebook: I won't touch Facebook, not even
-with the legendary Ten Foot Pole of Touching.  Now, I might _stab_ Facebook using a ten foot
+with the legendary Ten Foot Pole of Touching.  Now, I might _stab_ corporate Facebook using a ten foot
 [pikestaff](https://en.wikipedia.org/wiki/Pike_(weapon)) with a venom tip&hellip; but
 lacking the context for medieval anti-cavalry weapons, that is unlikely to matter.  Yes, I
 am a cranky old man.  How are you only just realizing this _now?_ Have I not provided you
@@ -101,8 +101,9 @@ Legend says construction of this bridge was started personally by
 [Emperor Charles IV, king of Bohemia and later Holy Roman Emperor](https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor)
 at 5:31am on 1357-Jul-09, because in the notation of the day (1357 9/7 5:31) the numbers
 formed a [palindrome](https://en.wikipedia.org/wiki/Palindrome).  Weird cat, that Charles 
-ne&eacute; Wenceslaus.  This is your fair warning that the going is about to get weird.
-_Deeply_ weird.  
+ne&eacute; Wenceslaus.  
+
+This is your fair warning that the going is about to get weird. _Deeply_ weird.  
 
 
 ## Fine, but why a dog?  And what else is there?  
@@ -118,10 +119,12 @@ The image of the soldier, his highly polished dog, and the fascinating other stu
 the base of a statue (which we'll look at in a minute).  If you move just a meter or two
 to the right, you see this relief instead.  Something weird, disturbing, dark, and violent
 is happening here:  
-- A bunch of armored soldiers, armed with spears or pikes, are on a bridge.  
+- Storm clouds are gathering in the upper left, perhaps as a sign of divine displeasure.  
+- A bunch of armored soldiers, armed with spears or pikes and coming out from a
+  portcullis, are on a bridge.   
 - They appear to be forcibly throwing someone off the bridge, upside-down.  It's unlikely
   to be a friendly dunking prank at some medieval cosplay fraternity.  (Please don't tell
-  me if there actually _are_ medieval cosplay fraternities.)  
+  me there actually _are_ medieval cosplay fraternities; I'd really rather not know that.)  
 - In the foreground, a well-dressed woman with coiffed hair (likely a noble), is watching
   under what appear to be the dual influences of a cherub to her left and another soldier
   on her right.  
@@ -139,8 +142,10 @@ Maybe the dog isn't the main point being made here.
 ## Jan Nepomuk  
 
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-in-river.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-in-river-thumb.jpg" width="400" height="225" alt="Jan Nepomuk: supine in river" title="Jan Nepomuk: supine in river" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Meet [Jan Nepomuk](https://en.wikipedia.org/wiki/John_of_Nepomuk) (first name pronounced
-with a Y sound, something like "Yahn"), c1345 &ndash; 1393-Mar-20, patron saint of Bohemia
+
+Meet [Jan Nepomuk](https://en.wikipedia.org/wiki/John_of_Nepomuk) (Jan Nepomuck&yacute;, first
+name pronounced with a Y sound, something like "Yahn"), c1345 &ndash; 1393-Mar-20, patron
+saint of Bohemia
 and (somewhat ironically) protector from drowning.  
 
 Whenever a death date is given like that with _extreme_ precision, you should expect a
@@ -164,8 +169,9 @@ displays.  Accounts vary, but one of a couple things happened:
    and state. King Wenceslas IV wanted to appoint bishops himself, while the Catholic
    hierarchy had other ideas.  So, a conflict of political power.  
 2. Jan Nepomuk was hearing the confession of Queen Sophia, and afterwards the jealous King
-   wanted to know what his wife said.  The Seal of the Confessional meant absolute secrecy,
-   so&hellip; a conflict with a very powerful, very jealous, very enraged husband.  
+   Wenceslas wanted to know what his wife said.  The Seal of the Confessional meant
+   absolute secrecy, so&hellip; a conflict with a very powerful, very jealous, very
+   enraged husband.  
 
 Situation number 2 is what's depicted in the reliefs above.  The woman in
 the background of the first relief is speaking into the grille in a confessional.  The
@@ -180,14 +186,14 @@ The other relief shows the result: Wenceslas IV ordered Jan Nepomuk tortured and
 executed.  (Why bother torturing somebody you're going to kill anyway?  Why not just kill
 them, and save time?  If you must exhibit a tortured body as a deterrent to others, why
 not just kill first and then mutilate at leisure?  I'm going down the path here of how to
-be a More Efficient Psychopath, so it seems like this is a good place to stop.  But I do
-not understand.)  
+be a More Efficient Psychopath, so it seems like this is maybe a good place to stop.  But I do
+not _understand._)  
 
 After being tortured, the soldiers are dumping him into the Vltava to drown. The
 solider in the foreground is forcing Queen Sophia to watch, at swordpoint.  Torture would
 likely have included the rack, which would have disjointed arms and legs from their
 sockets, torn muscle and tendon, and generally left no use of limbs to the victim.
-Swimming would be out of the quesiton, and drowning a certainty.  
+Swimming would be out of the question, and drowning a certainty.  
 
 Well, that went dark fast.  
 
@@ -232,7 +238,11 @@ Not, as it happens, for very long.
 
 The first photo here shows the statue in 1860, complete with the very baroque 5 stars said
 to have arisen from the river when the saint was killed.  Note there are _no_ polished
-spots from handsy tourists.  Just a couple of dull brown reliefs.  
+spots from handsy tourists.  Just a couple of dull brown reliefs.  (Also note the odd
+mixture of 6-point stars around his head and 5-point stars at his feet.  What's going on
+there?  And it's too bad the 5-pointers at his feet are only stellated to one more level;
+it would have been cool to try to represent the full fractal here.  What?  Nerds like
+symbolism too, you know.)  
 
 The middle one was taken in 1996, and shows exactly _one_ shiny spot, on the saint
 himself.  For a very Catholic environment, making an appeal to the saint makes pretty good
@@ -240,7 +250,7 @@ sense.  Nobody was much interested in the queen or the dog, though.
 
 Finally, the bottom picture from 2020 shows 3 burnished spots: saint, queen, and dog.  So
 it looks like the dog-polishing tourists started sometime in the last 25 years.  That
-matchese up with the 1989 Velvet Revolution, after which tourism began rising.
+matches up with the 1989 Velvet Revolution, after which tourism began rising.
 
 In this bottom photo, I can just about make out the Latin inscription:  
 
@@ -286,14 +296,16 @@ one you _must_ make lest circumstances force an unsavory choice upon you.
 
 So what's our active choice here?  
 
-If I choose nothing, my pessimistic (and usually depressed) mind will drift toward the
-dark.  No, it's not about good people wanting to pet dogs.  It's about jealous husbands,
-secrecy, authoritarian tyrrany, military occupation, state-authorized torture, political
-murder, and&hellip; look, I'm just gonna just stop there, ok?  
+On the one hand, we can be ["realists"](https://plato.stanford.edu/entries/realism-intl-relations/)
+about this story.  Or on the other hand, we can choose to do nothing for
+interpretation.  But if I choose nothing, my pessimistic (and usually depressed) mind will
+drift toward the dark.  No, it's not about good people wanting to pet dogs.  It's about
+jealous husbands, secrecy, authoritarian tyrrany, military occupation, state-authorized
+torture, political murder, and&hellip; look, I'm just gonna just stop there, ok?  
 
-On the other tentacle: it's a story about persistence in keeping a promise (the seal of
-the confessional), about revering loyal people even centuries afterward, about
-turning a horrible occasion into a hope for good luck.  
+On the gripping hand: it's a story about persistence in keeping a promise (the seal of
+the confessional), about revering loyal people even centuries afterward, and about
+turning a horrible historical event into a hope for good luck.  
 
 And, in spite of all the humans and their crappy behavior, it's _also_ about a loyal dog who
 inspires people to pet him or her affectionately.  People are complicated, but that dog
