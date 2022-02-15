@@ -92,7 +92,8 @@ Interesting enough, but more to the point: the 40 statues on the bridge (actuall
 cross with 5 stars) are a bit of a tourist attraction, hence the fame of photos like
 this.  One very helpful Prague tourist site, _LivingPrague_, explained a great many
 fascinating and occasionally disturbing details. <sup id="fn1a">[[1]](#fn1)</sup>  The
-pictures reproduced here are from _LivingPrague_.  
+pictures reproduced here are from _LivingPrague_, and some clearer versions from 
+_My Modern Met_ <sup id="fn2a">[[2]](#fn2)</sup>.  
 
 Legend says construction of this bridge was started personally by 
 [Emperor Charles IV, king of Bohemia and later Holy Roman Emperor](https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor)
@@ -314,3 +315,8 @@ maybe we can _start_ by at least trying to live up to the example of the dog?
 -->
 
 <a id="fn1">1</a>: _LivingPrague_ Staff, ["Prague Jan Nepomuk Statue"](https://livingprague.com/prague-attractions/prague-jan-nepomuk-statue/), _LivingPrague.com_, posted in 2020, retrieved 2022-Feb-13. [↩](#fn1a)  
+
+<a id="fn2">2</a>: M Muzdakis, ["This Relief of a Saint’s Dog Shines Gold From Many Years of Pets for the “Good Boy”"](https://mymodernmet.com/saint-john-of-nepomuk-dog-prague/), 
+_My Modern Met_, 2021-Dec-08.  
+
+__NB:__ The dog is usually thought to be the soldier's dog, not the saint's dog.  [↩](#fn2a)  
