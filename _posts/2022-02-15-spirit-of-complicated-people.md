@@ -62,7 +62,8 @@ I _always_ have questions.  Here are just the top few:
 - Why is the soldier holding what almost looks like a Roman _pilum_, a short spear for
   close-in fighting?  This is not normally an implement of dog-petting (unless I've been
   doing it wrong my whole life, and the dogs have just been really forgiving of my lapse
-  in petting without weapons?)  
+  in petting without weapons?).  
+- If the soldier is ready to fight with the weapon he's holding, then why is he barefoot?!  
   
 So many, _many_ questions.  
 
@@ -208,7 +209,7 @@ story about how people like to pet dogs?  Well&hellip; people?  They're _complic
 <img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-eastman-mit.jpg" width="400" height="380" alt="George Eastman relief @ MIT: Nose rubbed shiny for good luck on physics exams" title="George Eastman relief @ MIT: Nose rubbed shiny for good luck on physics exams" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 People apparently like to rub statues for good luck.  
 
-At MIT, there's a relief of [George Eastman (think Eastman Kodak) where students about to enter a physics lecture hall used to rub the nose for good luck on exams](https://alum.mit.edu/slice/george-eastmans-nose-available-rubbing).  Rumor had it that there was also a relief of Ellen Swallow Richards, where the undergrads would rub her breasts for good luck; one hopes that particular instance has fallen by the wayside nowadays.  I never quite got the rubbing statues, but apparently it's a thing.  
+At MIT, there's a relief of [George Eastman (think Eastman Kodak) where students about to enter a physics lecture hall used to rub the nose for good luck on exams](https://alum.mit.edu/slice/george-eastmans-nose-available-rubbing).  (Rumor had it that there was also a relief of Ellen Swallow Richards, where the undergrads would rub her breasts for good luck; one hopes that particular instance has fallen by the wayside nowadays.)  I never quite got the rubbing statues, but apparently it's a thing.  
 
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-being-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-being-touched-thumb.jpg" width="400" height="600" alt="Jan Nepomuk: touched by tourists" title="Jan Nepomuk: touched by tourists" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Apparently this whole horrific scene has become a tourist attraction.  Maybe that's good,
