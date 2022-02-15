@@ -294,7 +294,7 @@ in 1729.
 
 I'm really tempted to coin the neologism "depontificated" (thrown over the bridge) in
 parallel to "defenestrated" (thrown out the window).  (See comment below from one more
-competent than me in these matters.  The relevant word would be "depontation", from
+competent than me in these matters: the relevant neologism would be "depontation", from
 _d&emacr;pont&amacr;re_.)  But I'm kind of starting to like old Jan Nepomuck&yacute;, so
 let's not make too much fun of the occasion of his death.  
 
