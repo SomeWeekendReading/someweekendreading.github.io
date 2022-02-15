@@ -293,8 +293,10 @@ Interestingly, this is well _before_ Jan Nepomuk was beatified in 1721 or canoni
 in 1729.  
 
 I'm really tempted to coin the neologism "depontificated" (thrown over the bridge) in
-parallel to "defenestrated" (thrown out the window).  But I'm kind of starting to
-like old Jan Nepomuk, so let's not make too much fun of the occasion of his death.  
+parallel to "defenestrated" (thrown out the window).  (See comment below from one more
+competent than me in these matters.  The relevant word would be "depontation", from
+_d&emacr;pont&amacr;re_.)  But I'm kind of starting to like old Jan Nepomuck&yacute;, so
+let's not make too much fun of the occasion of his death.  
 
 
 ## The Weekend Conclusion  
