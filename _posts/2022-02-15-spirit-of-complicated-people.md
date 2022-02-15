@@ -5,7 +5,7 @@ tags: Beauty COVID Obscurantism Politics Religion Sadness &Gammad;&Tau;&Phi;
 comments: true
 ---
 
-The times are difficult, here in the 3rd year of a global pandemic that drags on and on,
+Times are difficult, here in the 3rd year of a global pandemic that drags on and on,
 because people just _cannot_ grasp the importance of public health measures and
 vaccination.  Anything that sustains our spirit and our belief in a good core to human
 nature is important.  So why am I looking at dog statues on bridges in Prague?  
