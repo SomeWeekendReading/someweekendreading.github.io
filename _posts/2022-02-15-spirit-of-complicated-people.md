@@ -33,7 +33,7 @@ lacking the context for medieval anti-cavalry weapons, that is unlikely to matte
 am a cranky old man.  How are you only just realizing this _now?_ Have I not provided you
 with sufficient evidence for that conclusion already?!)  
 
-<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched-thumb.jpg" width="400" height="481" alt="Jan Nepomuk: dog touched" title="Jan Nepomuk: dog touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched-thumb.jpg" width="400" height="472" alt="Jan Nepomuk: dog touched" title="Jan Nepomuk: dog touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 And so it is today: somebody or other pointed me at somebody else or other, who tweeted a photo
 showing a more or less late medieval European soldier and his loyal dog.  The dog had been
 burnished shiny by passers-by who also wanted to pet the dog (click to embiggen, for most
@@ -110,7 +110,7 @@ It was just sitting _right there_, and now it's going to waste!  Sigh.
 
 Ok, no duck.  But why a dog?  And what else is going on here?  As it turns out, rather a _lot._  
 
-<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched-thumb.jpg" width="400" height="435" alt="Jan Nepomuk: Queen and saint touched" title="Jan Nepomuk: Queen and saint touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched-thumb.jpg" width="400" height="465" alt="Jan Nepomuk: Queen and saint touched" title="Jan Nepomuk: Queen and saint touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The image of the soldier, his highly polished dog, and the fascinating other stuff is at
 the base of a statue (which we'll look at in a minute).  If you move just a meter or two
 to the right, you see this relief instead.  Something weird, disturbing, dark, and violent
