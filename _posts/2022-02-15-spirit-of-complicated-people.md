@@ -7,7 +7,7 @@ comments: true
 
 Times are difficult, here in the 3rd year of a global pandemic that drags on and on,
 because people just _cannot_ grasp the importance of public health measures and
-vaccination.  Anything that sustains our spirit and our belief in a good core to human
+vaccination.  Anything that sustains our spirit and our belief in a good core of human
 nature is important.  So why am I looking at dog statues on bridges in Prague?  
 
 
@@ -18,7 +18,7 @@ that can restore at least _some_ of my faith in human nature is welcome.
 
 On the other hand: avoiding things that destroy my faith in human nature is a survival
 tactic for me, for many years now.  That's why I don't have social media accounts: no
-Bookfacery, no Twittage, no Instagrammaton, no TackyTank, no WhatsOpera&hellip; none of
+Bookfacery, no Twittage, no Instagrammaton, no TackyTo k, no WhatsOpera&hellip; none of
 that.  I have very little patience with performative stupidity (unless done as satire and
 done well, by somebody like Monty Python).  
 
@@ -33,7 +33,7 @@ lacking the context for medieval anti-cavalry weapons, that is unlikely to matte
 am a cranky old man.  How are you only just realizing this _now?_ Have I not provided you
 with sufficient evidence for that conclusion already?!)  
 
-<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched-thumb.jpg" width="400" height="300" alt="Jan Nepomuk: dog touched" title="Jan Nepomuk: dog touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-dog-touched-thumb.jpg" width="400" height="481" alt="Jan Nepomuk: dog touched" title="Jan Nepomuk: dog touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 And so it is today: somebody or other pointed me at somebody else or other, who tweeted a photo
 showing a more or less late medieval European soldier and his loyal dog.  The dog had been
 burnished shiny by passers-by who also wanted to pet the dog (click to embiggen, for most
@@ -50,13 +50,15 @@ Well&hellip; yes, but&hellip;  I have questions.
 I _always_ have questions.  Here are just the top few:  
 - Where is this sculpture, who put it there, and why?  
 - Why a soldier?  This soldier has a scallop on his brassard which indicates service in
-  Spain, so which conflict was that and what should I think about this soldier?  
+  a pilgrimage and some affiliation with St James the Greater, patron of Spain.  So which
+  conflict was he in and what should I think about this soldier?  
 - Who are all those people behind the soldier, kneeling on something like steps, with
   their hands upraised?  
 - Who is the woman to the right, talking into a grille of some sort?  Why can't we see
   anything other than the legs of the person on the other side of the grille?  
-- What's with the weird architecture: elaborate curtain on the upper right, and elaborately
-  sculpted columns in the style of Corinth with _spears_ around the base?  
+- What's with the weird architecture: elaborate curtain on the upper right like a stage
+  setting (memory theatre of the soldier's memories?), and elaborately sculpted columns in
+  the style of Corinth with _spears_ around the base?  
 - Why is the soldier holding what almost looks like a Roman _pilum_, a short spear for
   close-in fighting?  This is not normally an implement of dog-petting (unless I've been
   doing it wrong my whole life, and the dogs have just been really forgiving of my lapse
@@ -82,7 +84,9 @@ what, when, where, and why.  It turns out this is a relief sculpture at the base
 statue on the [Charles Bridge](https://en.wikipedia.org/wiki/Charles_Bridge) built in 1357
 over the [Vltava River](https://en.wikipedia.org/wiki/Vltava) in Prague, the capital of the
 Czech Republic.  For 500 years, it was the only way to cross the river with a horse and
-carriage/cart, so all the streets in Prague sort of funnel traffic toward the bridge.  
+carriage/cart, so all the streets in Prague sort of funnel traffic toward the bridge.  It
+was originally called "the bridge", since it was the only one; you only need names when
+you have 2 or more of something.  Practical folk, the residents of Prague.  
 
 Interesting enough, but more to the point: the 40 statues on the bridge (actually 39 + one
 cross with 5 stars) are a bit of a tourist attraction, hence the fame of photos like
@@ -106,7 +110,7 @@ It was just sitting _right there_, and now it's going to waste!  Sigh.
 
 Ok, no duck.  But why a dog?  And what else is going on here?  As it turns out, rather a _lot._  
 
-<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched-thumb.jpg" width="400" height="231" alt="Jan Nepomuk: Queen and saint touched" title="Jan Nepomuk: Queen and saint touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-queen-and-saint-touched-thumb.jpg" width="400" height="435" alt="Jan Nepomuk: Queen and saint touched" title="Jan Nepomuk: Queen and saint touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The image of the soldier, his highly polished dog, and the fascinating other stuff is at
 the base of a statue (which we'll look at in a minute).  If you move just a meter or two
 to the right, you see this relief instead.  Something weird, disturbing, dark, and violent
@@ -195,9 +199,7 @@ story about how people like to pet dogs?  Well&hellip; people?  They're _complic
 <img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-eastman-mit.jpg" width="400" height="380" alt="George Eastman relief @ MIT: Nose rubbed shiny for good luck on physics exams" title="George Eastman relief @ MIT: Nose rubbed shiny for good luck on physics exams" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 People apparently like to rub statues for good luck.  
 
-At MIT, there's a relief of [George Eastman (think Eastman Kodak) where students about to enter a physics lecture hall used to rub the nose for good luck](https://alum.mit.edu/slice/george-eastmans-nose-available-rubbing).  Rumor had it
-that there was also a relief of Ellen Swallow Richards, where the undergrads would rub her
-breasts for good luck; one hopes that particular instance has fallen by the wayside nowadays.  I never quite got the rubbing statues, but apparently it's a thing.  
+At MIT, there's a relief of [George Eastman (think Eastman Kodak) where students about to enter a physics lecture hall used to rub the nose for good luck on exams](https://alum.mit.edu/slice/george-eastmans-nose-available-rubbing).  Rumor had it that there was also a relief of Ellen Swallow Richards, where the undergrads would rub her breasts for good luck; one hopes that particular instance has fallen by the wayside nowadays.  I never quite got the rubbing statues, but apparently it's a thing.  
 
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-being-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-being-touched-thumb.jpg" width="400" height="600" alt="Jan Nepomuk: touched by tourists" title="Jan Nepomuk: touched by tourists" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Apparently this whole horrific scene has become a tourist attraction.  Maybe that's good,
@@ -234,7 +236,8 @@ himself.  For a very Catholic environment, making an appeal to the saint makes p
 sense.  Nobody was much interested in the queen or the dog, though.  
 
 Finally, the bottom picture from 2020 shows 3 burnished spots: saint, queen, and dog.  So
-it looks like the dog-polishing tourists started sometime in the last 25 years.  
+it looks like the dog-polishing tourists started sometime in the last 25 years.  That
+matchese up with the 1989 Velvet Revolution, after which tourism began rising.
 
 In this bottom photo, I can just about make out the Latin inscription:  
 
@@ -247,7 +250,7 @@ In this bottom photo, I can just about make out the Latin inscription:
 > EREXIT  
 > MATHIAS LB  
 > DE WUNSCHWITZ  
-> ANNO MDCLXXXXIII  
+> ANNO MDCLXXXIII  
 
 Which, not to make my long-ago Latin tutors spin too fast in their graves, might be
 rendered:  
@@ -261,7 +264,12 @@ rendered:
 > Erected by  
 > Mathias LB  
 > of Wunschwitz  
-> in the year 1693  
+> in the year 1683  
+
+That matches what we know: the statue was built in 1683 by one Jan Brokoff, based on a
+model by Matthias Rauchmiller.  (So I don't know what the "LB" after Mathias means?)
+Interestingly, this is well _before_ Jan Nepomuk was beatified in 1721 or canonized
+in 1729.  
 
 I'm really tempted to coin the neologism "depontificated" (thrown over the bridge) in
 parallel to "defenestrated" (thrown out the window).  But I'm kind of starting to
@@ -277,8 +285,8 @@ So what's our active choice here?
 
 If I choose nothing, my pessimistic (and usually depressed) mind will drift toward the
 dark.  No, it's not about good people wanting to pet dogs.  It's about jealous husbands,
-secrecy, authoritarian tyrrany, military occupation, state-authorized torture, murder,
-and&hellip; look, I'm just gonna just stop there, ok?  
+secrecy, authoritarian tyrrany, military occupation, state-authorized torture, political
+murder, and&hellip; look, I'm just gonna just stop there, ok?  
 
 On the other tentacle: it's a story about persistence in keeping a promise (the seal of
 the confessional), about revering loyal people even centuries afterward, about
@@ -289,7 +297,7 @@ inspires people to pet him or her affectionately.  People are complicated, but t
 loves some of them anyway.  
 
 It's hard to live up to the example of a saint, particularly one who's been martyred.  But
-maybe we can _start_ by trying to live up to the example of the dog?  
+maybe we can _start_ by at least trying to live up to the example of the dog?  
 
 ---
 
