@@ -273,13 +273,14 @@ In this bottom photo, I can just about make out the Latin inscription:
 > ANNO MDCLXXXIII  
 
 Which, not to make my long-ago Latin tutors spin _too_ fast in their graves, might be
-rendered:  
+rendered (thanks to commenter M 2ler for advice on the dative case and the verb
+_deiicio_):  
 
-> The Divine Jan  
+> To the Divine Jan  
 > of Nepomuk  
 > in the year 1383 _(NB: sources agree should be 1393)_  
 > from this bridge  
-> defeated _(or: martyred, killed?)_  
+> cast down  
 >  
 > Erected by  
 > Mathias LB  
