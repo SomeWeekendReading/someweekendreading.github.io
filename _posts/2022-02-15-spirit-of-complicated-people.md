@@ -87,16 +87,16 @@ over the [Vltava River](https://en.wikipedia.org/wiki/Vltava) in Prague, the cap
 Czech Republic.  For 500 years, it was the only way to cross the river with a horse and
 carriage/cart, so all the streets in Prague sort of funnel traffic toward the bridge.  It
 was originally called "the bridge", since it was the only one; you only need names when
-you have 2 or more of something.  Practical folk, the residents of Prague.  
+you have 2 or more of something.  (Practical folk, the residents of Prague.)  
 
 Interesting enough, but more to the point: the 40 statues on the bridge (actually 39 + one
 cross with 5 stars) are a bit of a tourist attraction, hence the fame of photos like
 this.  One very helpful Prague tourist site, _LivingPrague_, explained a great many
 fascinating and occasionally disturbing details. <sup id="fn1a">[[1]](#fn1)</sup>  The
 pictures reproduced here are from _LivingPrague_, and some clearer versions from 
-_My Modern Met_ <sup id="fn2a">[[2]](#fn2)</sup>.  (The video is kind of interesting: it
+_My Modern Met_ <sup id="fn2a">[[2]](#fn2)</sup>.  The video here is also kind of interesting: it
 shows the late medieval construction techniques for building such a bridge: largely with
-nothing but human and animal muscle power, augmented by clever leverage and wheels.)  
+nothing but human and animal muscle power, augmented by clever leverage and wheels.  
 
 Legend says construction of this bridge was started personally by 
 [Emperor Charles IV, king of Bohemia and later Holy Roman Emperor](https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor)
@@ -104,7 +104,7 @@ at 5:31am on 1357-Jul-09, because in the notation of the day (1357 9/7 5:31) the
 formed a [palindrome](https://en.wikipedia.org/wiki/Palindrome).  Weird cat, that Charles 
 ne&eacute; Wenceslaus.  
 
-This is your fair warning that the going is about to get weird. _Deeply_ weird.  
+_That_ is your fair warning that the going is about to get weird. _Deeply_ weird.  
 
 
 ## Fine, but why a dog?  And what else is there?  
@@ -183,18 +183,21 @@ remembering the confession, seeking forgiveness.  Possibly a symbol that even pe
 do bad things like drowning saints, might have a good streak they show with dogs.
 Possibly&hellip; all sorts of things.  
 
-The other relief shows the result: Wenceslas IV ordered Jan Nepomuk tortured and
-executed.  (Why bother torturing somebody you're going to kill anyway?  Why not just kill
-them, and save time?  If you must exhibit a tortured body as a deterrent to others, why
-not just kill first and then mutilate at leisure?  I'm going down the path here of how to
-be a More Efficient Psychopath, so it seems like this is maybe a good place to stop.  But I do
-not _understand._)  
+The other relief shows the result: Wenceslas IV ordered Jan Nepomuk tortured and executed.
+(Why bother torturing somebody you're going to kill anyway?  Why not just kill them, and
+save time?  If you must exhibit a tortured body as a deterrent to others, why not just
+kill first and then mutilate at leisure?  I seem to be going down the path here of how to
+be a More Efficient Psychopath, so it seems like this is maybe a good place to stop.  But
+I do not _understand._)  
 
 After being tortured, the soldiers are dumping him into the Vltava to drown. The
 solider in the foreground is forcing Queen Sophia to watch, at swordpoint.  Torture would
 likely have included the rack, which would have disjointed arms and legs from their
 sockets, torn muscle and tendon, and generally left no use of limbs to the victim.
 Swimming would be out of the question, and drowning a certainty.  
+
+
+## Umm&hellip; happy dog story?  
 
 Well, that went dark fast.  
 
@@ -209,28 +212,31 @@ story about how people like to pet dogs?  Well&hellip; people?  They're _complic
 <img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-eastman-mit.jpg" width="400" height="380" alt="George Eastman relief @ MIT: Nose rubbed shiny for good luck on physics exams" title="George Eastman relief @ MIT: Nose rubbed shiny for good luck on physics exams" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 People apparently like to rub statues for good luck.  
 
-At MIT, there's a relief of [George Eastman (think Eastman Kodak) where students about to enter a physics lecture hall used to rub the nose for good luck on exams](https://alum.mit.edu/slice/george-eastmans-nose-available-rubbing).  (Rumor had it that there was also a relief of Ellen Swallow Richards, where the undergrads would rub her breasts for good luck; one hopes that particular instance has fallen by the wayside nowadays.)  I never quite got the rubbing statues, but apparently it's a thing.  
+At MIT, there's a relief of [George Eastman (think Eastman Kodak) where students about to enter a physics lecture hall used to rub the nose for good luck on exams](https://alum.mit.edu/slice/george-eastmans-nose-available-rubbing).  (Rumor had it that there was also a relief of Ellen Swallow Richards, where the undergrads would rub her breasts for good luck; one hopes that particular instance has fallen by the wayside nowadays.)  I never quite got idea of rubbing statues, but apparently it's a thing.  
 
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-being-touched.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-being-touched-thumb.jpg" width="400" height="600" alt="Jan Nepomuk: touched by tourists" title="Jan Nepomuk: touched by tourists" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Apparently this whole horrific scene has become a tourist attraction.  Maybe that's good,
-rehabilitating ugly things in the past?  Tour guides lead people to the bridge, which I
-admit is quite scenic and has quite a bit of nice artwork.  Then they tell the tourists that
-touching St Jan or the Queen Sophia either brings good luck or ensures one will return to
-Prague.  Also, people like dogs, so they pet the dog too, because apparently it's easier to
-reach the dog.  Shown here is a view of 2 tourists doing exactly that, with a view of the whole
-statue above the plaques.  (Did you remember we've thus far only been talking about 2
-minor plaques at the bottom, not the main statue?  Surprise!)  
+Also apparently, this whole horrific scene has somehow become a tourist attraction.  Maybe
+that's good, rehabilitating ugly things in the past?  Tour guides lead people to the
+bridge, which I admit is quite scenic and has quite a bit of nice artwork.  Then they tell
+the tourists that touching St Jan or the Queen Sophia either brings good luck, or ensures
+one will return to Prague, or&hellip; _something_.  
+
+Also, people like dogs, so they pet the dog too, because apparently it's easier to reach
+the dog than the saint or the queen.  Shown here is a view of 2 tourists doing exactly
+that, with a view of the whole statue above the plaques.  (Did you remember we've thus far
+only been talking about 2 minor plaques at the bottom, not the main statue?  Surprise!)  
 
 Ok, that's slightly amusing.  People turn a martyrdom into a happy petition for good
-luck.  I can work with that, though I was hoping for a simple story about petting dogs.
+luck.  I can work with that, though I was hoping for a simple story about petting dogs.  
+
 But nothing is _ever_ allowed to be simple, it seems.  
 
 
-## How long has that been going on?  
+## How long has _that_ been going on?  
 
 The statue was erected about 300 years after the martyrdom, so call it 1683 or so.  For
-how much of the intervening 3+ centuries since then have people been rubbing saint, queen, and dog
-here hoping for good luck and return tickets?  
+how much of the intervening 3+ centuries since then until today have people been rubbing
+the saint, the queen, and the dog here, hoping for good luck and return tickets?  
 
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-1860.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-1860-thumb.jpg" width="400" height="499" alt="Jan Nepomuk: statue in 1860, untouched" title="Jan Nepomuk: statue in 1860, untouched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-1996.jpg"><img src="{{ site.baseurl }}/images/2022-02-15-spirit-of-complicated-people-nepomuk-1996-thumb.jpg" width="400" height="582" alt="Jan Nepomuk: statue in 1996, only saint touched" title="Jan Nepomuk: statue in 1996, only saint touched" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -241,7 +247,7 @@ The first photo here shows the statue in 1860, complete with the very baroque 5 
 to have arisen from the river when the saint was killed.  Note there are _no_ polished
 spots from handsy tourists.  Just a couple of dull brown reliefs.  (Also note the odd
 mixture of 6-point stars around his head and 5-point stars at his feet.  What's going on
-there?  And it's too bad the 5-pointers at his feet are only stellated to one more level;
+there?  And it's too bad the 5-pointers at his feet are only stellated to one level;
 it would have been cool to try to represent the full fractal here.  What?  Nerds like
 symbolism too, you know.)  
 
@@ -251,7 +257,7 @@ sense.  Nobody was much interested in the queen or the dog, though.
 
 Finally, the bottom picture from 2020 shows 3 burnished spots: saint, queen, and dog.  So
 it looks like the dog-polishing tourists started sometime in the last 25 years.  That
-matches up with the 1989 Velvet Revolution, after which tourism began rising.
+matches up with the 1989 Velvet Revolution, after which tourism became serious.  
 
 In this bottom photo, I can just about make out the Latin inscription:  
 
@@ -266,7 +272,7 @@ In this bottom photo, I can just about make out the Latin inscription:
 > DE WUNSCHWITZ  
 > ANNO MDCLXXXIII  
 
-Which, not to make my long-ago Latin tutors spin too fast in their graves, might be
+Which, not to make my long-ago Latin tutors spin _too_ fast in their graves, might be
 rendered:  
 
 > The Divine Jan  
@@ -331,7 +337,6 @@ maybe we can _start_ by at least trying to live up to the example of the dog?
 
 <a id="fn1">1</a>: _LivingPrague_ Staff, ["Prague Jan Nepomuk Statue"](https://livingprague.com/prague-attractions/prague-jan-nepomuk-statue/), _LivingPrague.com_, posted in 2020, retrieved 2022-Feb-13. [↩](#fn1a)  
 
-<a id="fn2">2</a>: M Muzdakis, ["This Relief of a Saint’s Dog Shines Gold From Many Years of Pets for the “Good Boy”"](https://mymodernmet.com/saint-john-of-nepomuk-dog-prague/), 
-_My Modern Met_, 2021-Dec-08.  
+<a id="fn2">2</a>: M Muzdakis, ["This Relief of a Saint's Dog Shines Gold From Many Years of Pets for the 'Good Boy'"](https://mymodernmet.com/saint-john-of-nepomuk-dog-prague/), _My Modern Met_, 2021-Dec-08.  
 
 __NB:__ The dog is usually thought to be the soldier's dog, not the saint's dog.  [↩](#fn2a)  
