@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Republicans Are _Still_ Being a COVID-19 Death Cult?!  
+title: Republicans Are Still Being a COVID-19 Death Cult?!  
 tags:  COVID Politics Sadness
 comments: true
 ---
 
 Yesterday came simultaneous bits of evidence in the US that (a) COVID-19 death rates for
-unvaccinated are unambiguously disastrous, and (b) Republicans attempt to defund any
-school that takes COVID-19 protections.  This is death cult levels of badness.  
+unvaccinated are unambiguously disastrous, and (b) Republicans attempted to defund any
+school that takes COVID-19 protections.  This is 'death cult' levels of badness.  
 
 
 ## Death rates by vax status  
@@ -70,7 +70,7 @@ Basically:
 - The public health data says we should get vaxed, boosted, masked, and distanced to
   minimize the loss of life.  
 - Republicans, particuarly Sen Cruz, propose to defund any school which does that, thereby
-  using federal funding as a bludgeon to maximizes misery and death.  
+  using federal funding as a bludgeon to _maximize misery and death._  
   
 Note that voting for this proposal was nearly unanimous among Republicans, with the
 exceptions of Blunt and Collins and apparently a couple others who judiciously chose to be
@@ -87,14 +87,18 @@ side.  Al Franken (then senator, D-MI) is supposed to have said of Cruz:
 
 If this had been proposed by another Republican senator slightly less disliked, and you
 know there are 49 other Republican senators each crazy enough to try, then this might have
-passed.  (Probably to be blocked in the House or by the President, but still, it's a
-statement of intent from the right: they want deaths in exchange for political points.)  
+passed.  (Probably to be blocked in the House or by the President, but still: it's a
+statement of intent from the right. They want political points, and are willing to accept
+deaths in order to get them.  This is the
+[bargain of Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), the
+ultimate coordination problem.)  
+
 
 ## The Weekend Conclusion  
 
 Look, I grew up in a family that had been Republican since the time there _were_
-Republicans.  But about the time or Reagan, they gradually got crazy, and I got out.  Now
-the crazy isn't gradual any more.  
+Republicans.  But about the time or Reagan, Republicans gradually got crazy, and I got
+out.  Now the crazy isn't so gradual any more.  
 
 __Conclusion:__ Once you figure out you're in a death cult, the correct next move is to
 _get out._  
