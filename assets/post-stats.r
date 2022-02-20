@@ -266,7 +266,9 @@ postStats <- function(## Inputs
                                           include.lowest = TRUE,
                                           ordered_result = TRUE))
     tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
+    cat(sprintf("\n  - Table of number of comments/post(rows) vs number of hits/post (cols):\n"))
     print(tbl)                                         # Table of comments x hits, for bicluster
+
     f2  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
     withPNG(f2, plotWidth / 2, plotHeight / 2, FALSE, function() {
       legendFrac <- 0.20                               # How much space on left for color legend
