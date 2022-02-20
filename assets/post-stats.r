@@ -363,10 +363,11 @@ postStats <- function(## Inputs
   ## *** Total unique commenters for each year (and hand-collapse known spelling variations)
   summarizePostFrequency <- function(postData, commentsDir, commentPatt) {
     ## Returns a dataframe summarizing post frequency by year and overall, e.g.:
-    ##    Year NPosts NDays NComments DaysPerPost DaysPerComment
-    ## 1  2020     41   184        21        4.49           8.76
-    ## 2  2021    111   365        58        3.29           6.29
-    ## 3 Total    152   549        79        3.61           6.95
+    ##    Year NPosts NDays NComments DaysPerPost DaysPerComment CommentsPerPost
+    ## 1  2020     41   184        21        4.49           8.76            0.51
+    ## 2  2021    111   365        58        3.29           6.29            0.52
+    ## 3  2022     22    51        17        2.32           3.00            0.77
+    ## 4 Total    174   600        96        3.45           6.25            0.55
 
     commentYears <- function(commentsDir, commentPatt) {
       ## NB: Timestamps are 13-digit integers, apparently msec since Unix epoch 1970-01-01.
