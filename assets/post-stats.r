@@ -129,10 +129,6 @@ postStats <- function(## Inputs
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
-    cat(sprintf("\n\n* Breakdown of post counts by year:\n"))
-    print(ddply(transform(postData, Year = dateYear(PostDate)), "Year",
-                function(dfy) { data.frame(Year = dfy[1, "Year"], NPosts = nrow(dfy)) }))
-
     ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
     ## OTOH, this exercises each counter, making sure the server doesn't GC it?
     if (!is.na(year)) {                                # Wants to restrict to a single year
@@ -145,7 +141,7 @@ postStats <- function(## Inputs
       postData <- subset(postData, subset = minDate <= PostDate & PostDate <= maxDate)
     }                                                  # postData is now just for that year
 
-    cat(sprintf("\n  - Result: %d rows of data:\n", nrow(postData)))
+    cat(sprintf("\n  - Result: %d rows (posts) of data:\n", nrow(postData)))
     showDataframeHeadTail(postData)                    # Show first few and last few rows
 
     postData                                           # Return data for posts
@@ -272,7 +268,7 @@ postStats <- function(## Inputs
     tbl <- table(foo$"PostComments", foo$"PostHitsDecile")
     print(tbl)                                         # Table of comments x hits, for bicluster
     f2  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
-    withPNG(f2, plotWidth/2, plotHeight/2, FALSE, function() {
+    withPNG(f2, plotWidth / 2, plotHeight / 2, FALSE, function() {
       legendFrac <- 0.20                               # How much space on left for color legend
       withPars(function() {                            # Save/restore graphics parameters
         ctRange <- range(tbl)                          # Range of counts in table
@@ -381,6 +377,15 @@ postStats <- function(## Inputs
       })                                               #
     }                                                  #
 
+    isLeapYear <- function(yr) {                       # Is this year a leap year?
+      div4   <- yr %%   4 == 0                         #  is this year divisible by   4?
+      div100 <- yr %% 100 == 0                         #  is this year divisible by 100?
+      div400 <- yr %% 400 == 0                         #  is this year divisible by 400?
+      ## Leap year if divisible by 4 and NOT by 100, or if divisible by 4 AND by 100 AND by 400
+      ## Equivalent to? div4 && (!div100 || div400)
+      (div4 && !div100) || (div4 && div100 && div400)  # TRUE if this is a leap year
+    }                                                  #
+
     blogDays <- function(yr, blogStartYr = 2020) {     # How many blogging days in a given year?
       currDate <- Sys.Date()                           # Current date
       currYr   <- as.integer(format(currDate, "%Y"))   # Current year and
@@ -389,13 +394,8 @@ postStats <- function(## Inputs
 
       if (yr == blogStartYr)                           # If first year of blogging: Jul 01 to Dec 31
         184                                            #  was 184 days
-      else if (yr < currYr) {                          # Else if between then & now, days in whole year:
-        div4   <- yr %%   4 == 0                       #  is this year divisible by   4?
-        div100 <- yr %% 100 == 0                       #  is this year divisible by 100?
-        div400 <- yr %% 400 == 0                       #  is this year divisible by 400?
-        ## Leap year if divisible by 4 and NOT by 100, or if divisible by 4 AND by 100 AND by 400
-        ## Equivalent to? div4 && (!div100 || div400)
-        if ((div4 && !div100) || (div4 && div100 && div400)) 366 else 365
+      else if (yr < currYr) {                          # Elseif between then & now, days in year:
+        if (isLeapYear(yr)) 366 else 365               #  take account of leap year
       } else                                           # Else it's the current year
         as.integer(strftime(currDate, "%j"))           #  so return number of days so far
     }                                                  #
