@@ -391,7 +391,6 @@ postStats <- function(## Inputs
     blogDays <- function(yr, blogStartYr = 2020) {     # How many blogging days in a given year?
       currDate <- Sys.Date()                           # Current date
       currYr   <- as.integer(format(currDate, "%Y"))   # Current year and
-
       stopifnot(blogStartYr <= yr && yr <= currYr)     # Signal if year is too far back, or future
 
       if (yr == blogStartYr)                           # If first year of blogging: Jul 01 to Dec 31
