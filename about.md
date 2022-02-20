@@ -5,6 +5,7 @@ permalink: /about/
 tags: About CatBlogging
 date: 2020-07-01
 description: What's this all about, then?
+comments: true
 ---
 
 ## Who?

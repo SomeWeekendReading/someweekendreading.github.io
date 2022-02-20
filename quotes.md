@@ -5,6 +5,7 @@ permalink: /quotes/
 description: Quotes that amuse me
 tags: NotableAndQuotable TheDivineMadness &Gammad;&Tau;&Phi;
 date: 2020-07-01
+comments: true
 ---
 
 "A witty saying proves nothing." &mdash; 
