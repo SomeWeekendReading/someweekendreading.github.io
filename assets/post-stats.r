@@ -378,12 +378,14 @@ postStats <- function(## Inputs
     }                                                  #
 
     isLeapYear <- function(yr) {                       # Is this year a leap year?
-      div4   <- yr %%   4 == 0                         #  is this year divisible by   4?
-      div100 <- yr %% 100 == 0                         #  is this year divisible by 100?
-      div400 <- yr %% 400 == 0                         #  is this year divisible by 400?
-      ## Leap year if divisible by 4 and NOT by 100, or if divisible by 4 AND by 100 AND by 400
-      ## Equivalent to? div4 && (!div100 || div400)
-      (div4 && !div100) || (div4 && div100 && div400)  # TRUE if this is a leap year
+      yr     <- as.integer(yr)                         # Defensive programming: convert to integer
+      stopifnot(yr >= 1583)                            # First full year of Gregorian calendar
+      div4   <- yr %%   4 == 0                         # Is this year divisible by   4?
+      div100 <- yr %% 100 == 0                         # Is this year divisible by 100?
+      div400 <- yr %% 400 == 0                         # Is this year divisible by 400?
+      ## Gregorian calendar: Leap year if divisible by 4 and NOT by 100,
+      ##   or if divisible by 4 AND by 100 AND by 400.
+      div4 && (!div100 || div400)                      # TRUE if this is a leap year
     }                                                  #
 
     blogDays <- function(yr, blogStartYr = 2020) {     # How many blogging days in a given year?
