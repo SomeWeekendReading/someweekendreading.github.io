@@ -73,8 +73,8 @@ Basically:
   using federal funding as a bludgeon to _maximize misery and death._  
   
 Note that voting for this proposal was nearly unanimous among Republicans, with the
-exceptions of Blunt and Collins and apparently a couple others who judiciously chose to be
-out of town.  
+exceptions of Blunt and Collins (and, apparently, a couple others who judiciously chose to be
+out of town).  
 
 __Conclusion:__ Republicans aren't just advocating bad policy any more.  They're
 explicitly advocating policy that causes avoidable deaths.  
