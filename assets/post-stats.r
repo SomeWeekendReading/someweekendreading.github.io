@@ -86,7 +86,6 @@ postStats <- function(## Inputs
 
   dateYear          <- function(d)  { as.integer(format(d, format = "%Y"))                           }
   dateYearEnd       <- function(d)  { as.Date(sprintf("%d-12-31", dateYear(d)), format = "%Y-%m-%d") }
-  unixTimestampYear <- function(ts) { dateYear(as.Date(as.POSIXct(ts, origin = "1970-01-01")))       }
 
   getPostData <- function(postStartDate, hitStartDate, today, postsDir, postPatt, jsonRegexp,
                           countURL, commentsDir, commentPatt, year) {
@@ -370,6 +369,9 @@ postStats <- function(## Inputs
     ## 4 Total    174   600        96        3.45           6.25            0.55
 
     commentYears <- function(commentsDir, commentPatt) {
+
+      unixTimestampYear <- function(ts) { dateYear(as.Date(as.POSIXct(ts, origin = "1970-01-01"))) }
+
       ## NB: Timestamps are 13-digit integers, apparently msec since Unix epoch 1970-01-01.
       ##     It would be more traditional to do it in seconds, and have a 10-digit integer,
       ##     which would fit into a 32-bit word.  So we convert to double via as.numeric(),
@@ -380,16 +382,17 @@ postStats <- function(## Inputs
       })                                               #
     }                                                  #
 
-    isLeapYear <- function(yr) {                       # Is this year a leap year?
-      ## Gregorian calendar leap year iff:
-      ## - divisible by 4 and NOT by 100, or
-      ## - divisible by 4 AND by 100 AND by 400
-      yr <- as.integer(yr)                             # Defensive programming: convert to integer
-      stopifnot(is.integer(yr) && yr >= 1583)          # First full year of Gregorian calendar
-      (yr %% 4 == 0) && (!(yr %% 100 == 0) || (yr %% 400 == 0))
-    }                                                  # Returns TRUE if yr i
-
     blogDays <- function(yr, blogStartYr = 2020) {     # How many blogging days in a given year?
+
+      isLeapYear <- function(yr) {                     # Is this year a leap year?
+        ## Gregorian calendar leap year iff:
+        ## - divisible by 4 and NOT by 100, or
+        ## - divisible by 4 AND by 100 AND by 400
+        yr <- as.integer(yr)                           # Defensive programming: convert to integer
+        stopifnot(is.integer(yr) && yr >= 1583)        # First full year of Gregorian calendar
+        (yr %% 4 == 0) && (!(yr %% 100 == 0) || (yr %% 400 == 0))
+      }                                                # Returns TRUE if yr i
+
       currDate <- Sys.Date()                           # Current date
       currYr   <- as.integer(format(currDate, "%Y"))   # Current year and
       stopifnot(blogStartYr <= yr && yr <= currYr)     # Signal if year is too far back, or future

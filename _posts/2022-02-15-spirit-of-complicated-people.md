@@ -56,7 +56,7 @@ I _always_ have questions.  Here are just the top few:
   their hands upraised?  
 - Who is the woman to the right, talking into a grille of some sort?  Why can't we see
   anything other than the legs of the person on the other side of the grille?  
-- What's with the weird architecture: elaborate curtain on the upper right like a stage
+- What's with the weird architecture: elaborate curtain on the upper left like a stage
   setting (memory theatre of the soldier's memories?), and elaborately sculpted columns in
   the style of Corinth with _spears_ around the base?  
 - Why is the soldier holding what almost looks like a Roman _pilum_, a short spear for
