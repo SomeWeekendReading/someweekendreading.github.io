@@ -64,6 +64,9 @@ postStats <- function(## Inputs
                       blogName      = "www.someweekendreading.blog",
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
                       ## *** 2022-Jan-14: SSL certificate is expired; emailed developer
+                      ##     2022-Feb-21: still expired; need command-line test case with curl?
+                      ##  $ curl --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
+                      ##  $ curl --insecure --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
                       sslVerify     = FALSE, # TRUE,
                       hitStartDate  = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
                       postStartDate = as.Date("2020-Jul-01", format = "%Y-%b-%d"),
@@ -84,8 +87,8 @@ postStats <- function(## Inputs
                                  else                  # Else derive plot file from transcript file
                                    sub("^(.*)\\.txt$", "\\1.png", txFile)) {
 
-  dateYear          <- function(d)  { as.integer(format(d, format = "%Y"))                           }
-  dateYearEnd       <- function(d)  { as.Date(sprintf("%d-12-31", dateYear(d)), format = "%Y-%m-%d") }
+  dateYear    <- function(d)  { as.integer(format(d, format = "%Y"))                           }
+  dateYearEnd <- function(d)  { as.Date(sprintf("%d-12-31", dateYear(d)), format = "%Y-%m-%d") }
 
   getPostData <- function(postStartDate, hitStartDate, today, postsDir, postPatt, jsonRegexp,
                           countURL, commentsDir, commentPatt, year) {
