@@ -113,7 +113,7 @@ But Republicans have manipulated unrepresentative features of our government
 (gerrymandering, voter suppression, unrepresentative Senate, packed Supreme Court) to
 perpetuate their minority rule.  Americans may be more liberal, but American _government_
 is sliding into fascism.  But then, this is the AEI we're listening to, so it makes sense
-he would assert that.  
+he would assert that the country is 'more liberal.'  
 
 Like his fellow conservative David Brooks, he says he thinks liberals aren't religious
 enough or engaged in civic groups enough, like conservatives.  Pfeh.  
@@ -551,7 +551,8 @@ and eliminate fossil fuels, but we can also:
   most of the water in various rivers, contributing to the desertification of the
   southwest.  The impact on the developing world could be life-saving.  
 - Localized power with vertical farming technology mean that food production can happen at
-  scale, almost anywhere.
+  scale, almost anywhere.  
+- Steel minimills will no longer have to be sited according to power availability.  
 - &hellip; and a ton of other applications dependent on compact, localized, clean power.  
 
 
@@ -574,15 +575,15 @@ _Less Wrong_ <sup id="fn24a">[[24]](#fn24)</sup> on the subject of what exactly 
 and pessimism mean.  He distinguishes:  
 - _Descriptive optimisim:_ Believing that good things will naturally happen.  This is the
   view of the maddening Professor Pangloss: "this is the best of all possible worlds."
-  I'm normally a pretty peaceful guy but that sort of thing makes me want to punch
+  I'm normally a pretty peaceful guy, but that sort of thing makes me want to punch
   Professor Pangloss.  Good thing he's a fictional character, no?  
 - _Prescriptive optimism:_ A belief that we can and should do all that we can to make
-  better outcomes.  To match Professor Pangloss with a dueling adage: "we work to make
-  this world much, much better."  
+  _better_ outcomes, no matter the current state of the world.  To match Professor
+  Pangloss with a dueling adage: "we work to make this world much, much better."  
   
 Descriptive optimists make me want to punch the delusional, a desire which I work to
 suppress.  Prescriptive optimists make me want to ask what the work is that needs to be
-done.  
+done, and where I can pitch in.  
 
 In fancier language: [Romain Rollard](https://en.wikipedia.org/wiki/Romain_Rolland),
 French writer &amp; Nobel Laureate, reviewing
