@@ -248,7 +248,9 @@ Well&hellip; sort of.
 
 As the _Washington Post_ editorial board pointed out yesterday <sup id="fn8a">[[8]](#fn8)</sup>,
 while we have miraculous vaccines, we labor under the self-inflicted curse of
-disinformation.  People just _cannot_ stop saying stupid stuff about vaccines even when it
+disinformation.  (And "self-inflicted wounds are the slowest to heal", as I hate to
+realize but [always say anyway]({{ site.baseurl }}/quotes/#your-humble-weekend-editor).)
+People just _cannot_ stop saying stupid stuff about vaccines even when it
 costs lives.  If you were to tell me the anti-vax disinformation campaign were found to be
 an act of terrorism by a hostile foreign power, I would of course want to see evidence,
 but I would be favorably disposed toward this explanation.  
