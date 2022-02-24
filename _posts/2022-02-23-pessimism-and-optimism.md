@@ -6,18 +6,19 @@ comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why I'm always so dour.
-Well, times are hard: pandemic waves, disinformation and death, potentially nuclear
-war over Ukraine, the rise of the fascist right, and so on.  So let's take some
-inventory of our problems&hellip; and maybe a few points that (may) cause hope for the future.  
+Well, times are hard: pandemic waves, disinformation &amp; death, potential nuclear war
+over Ukraine, the rise of the fascist right, climate change not only unchecked but
+furiously denied, and so on.  So let's take some inventory of our problems&hellip; and
+maybe a few points that (may) cause hope for the future.  
 
 
 ## The Bad News: 6 Reasons to Despair  
 
-Ok, fair question: why _am_ I so dour these days?  Well, lifelong clinical depression and
+Ok, fair question: why _am_ I so dour these days?  Lifelong clinical depression and
 becoming an old man probably have something to do with it.  But&hellip; so does the state
-of the world.  
+of the external world.  
 
-To wit, 6 reasons chosen _ad libitum_ from recent news:
+To wit, 6 reasons chosen _ad libitum_ from recent news (actually, from my open browser tabs):
 
 ### Reason 1: The collapse of&hellip; everything?&hellip; into fascism  
 
@@ -29,37 +30,37 @@ mentioned a couple times now, I have relatively little patience with
 a bit too willing to forgive Republican madness in the name of
 [St Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke), _way_ too willing to perpetrate
 deeply misleading both-sider-ism, and so on.  (He is, however, rather good in very small
-doses, rather like pepper, with a chaser/antidote of
+doses, rather like pepper.  Especially with a chaser/antidote of
 [Jonathan Capehart](https://en.wikipedia.org/wiki/Jonathan_Capehart) on the
-[PBS News Hour](https://www.pbs.org/newshour/) (as he was with former
+[PBS News Hour](https://www.pbs.org/newshour/), as he was with former
 colleague/counterbalance [Mark Shields](https://en.wikipedia.org/wiki/Mark_Shields)).  
 
 He has a recent column in the _New York Times_ <sup id="fn1a">[[1]](#fn1)</sup> in which
 I believe he recognizes our collective symptoms world-wide (though his prescription for
-treatment is wishful thinking):
+treatment is wishful thinking; emphasis added below by your humble Weekend Editor):
 
 > In the early 1990s I was a roving correspondent for _The Wall Street Journal_, based in
-> Europe. Some years it felt as if all I did was cover good news: the end of the Soviet
+> Europe. __Some years it felt as if all I did was cover good news:__ the end of the Soviet
 > Union, Ukrainians voting for independence, German reunification, the spread of democracy
 > across Eastern Europe, Mandela coming out of prison and the end of apartheid, the Oslo
 > peace process that seemed to bring stability to the Middle East.  
 >  
-> I obsess about those years now. I obsess about them because the good times did not
+> __I obsess about those years now.__ I obsess about them because the good times did not
 > last. History is reverting toward barbarism. We have an authoritarian strongman in
 > Russia threatening to invade his neighbor, an increasingly authoritarian China waging
 > genocide on its people and threatening Taiwan, cyberattacks undermining the world order,
 > democracy in retreat worldwide, thuggish populists across the West undermining nations
 > from within.  
 >  
-> What the hell happened?  
+> __What the hell happened?__  
 
 Yes: "what the hell happened?" is indeed the correct question, with especial emphasis on
-the use of the word "hell" as the theologically correct description of our collective
-illness.  Well done, Brooks: we don't agree on much, but I'm with you on this one.  
+the technical use of the word "hell" as the theologically correct description of our collective
+suffering.  Well done, Brooks: we don't agree on much, but I'm with you on this one.  
 
 He goes on to describe this as the collapse of "the liberal order", using 'liberal' in a
 certain technically correct poli sci sense, but possibly gleefully hoping people will
-mistake for liberal social policies.  He follows that by an appeal for return to
+mistake it for liberal social policies.  He follows that by an appeal for return to
 traditions that people abandoned once they had a viable choice to do so.  The collapse,
 though, is in fact the collapse of
 [_neolilberalism_](https://en.wikipedia.org/wiki/Neoliberalism), which has not much to do
@@ -67,7 +68,7 @@ with the 'liberal' policies favored by that grizzled old socialist, your humble 
 Editor.  
 
 Still&hellip; _something_ big is collapsing dangerously into fascism.  To ignore this with
-a sunny optimism is just delusional on the scale of
+a sunny optimism is just&hellip; _delusional_ on the scale of
 [_Candide_ and Professor Pangloss](https://en.wikipedia.org/wiki/Candide).  
 
 ### Reason 2: The furious frustration of the majority liberal voters  
@@ -75,7 +76,8 @@ a sunny optimism is just delusional on the scale of
 Next, let's have a look at [_FiveThirtyEight_](https://fivethirtyeight.com/), founded by
 [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) to fill the need for
 objective [data journalism](https://en.wikipedia.org/wiki/Data_journalism) on politics.
-(And, inexplicably to me, sportsball kinds of stuff, too.  _De gustibus,_ and all that.)
+(And, inexplicably to me, [sportsball](https://www.dictionary.com/e/slang/sportsball/)
+kinds of stuff, too.  _De gustibus,_ and all that.)
 I like to read them to get a take on _what the data says_, not what some half-educated
 pundit thinks.  I was gleeful in the last few elections to see they correctly predicted
 more states and even counties than the seasoned pundits!  
@@ -98,7 +100,7 @@ are.
 His first [Deep Thought](https://www.pinterest.com/chrissymfrey/deep-thoughts-snl/) is
 that only half of Americans are optimistic.  Given the general shape of the world as it
 is, this is like saying only half of Americans are even vaguely rational: the real
-question is why the other half are so delusional?  
+question is why the optimists are so delusional?  
 
 Now, he doesn't publish his data, so we can't check for ourselves, but: looking at that
 barplot above, do you think the difference is statistically significant?  It seems like a
@@ -111,9 +113,9 @@ strikes me as straight-up right-wing delusion: we're _far_ more conservative tha
 to be, and downright crazy about it.  True, more _voters_ identify with liberal policies.
 But Republicans have manipulated unrepresentative features of our government
 (gerrymandering, voter suppression, unrepresentative Senate, packed Supreme Court) to
-perpetuate their minority rule.  Americans may be more liberal, but American _government_
-is sliding into fascism.  But then, this is the AEI we're listening to, so it makes sense
-he would assert that the country is 'more liberal.'  
+castrate elections and perpetuate their minority rule.  Americans may be more liberal, but
+American _government_ is sliding into fascism.  But then, this is the AEI we're listening
+to, so it makes sense he would assert that the country is 'more liberal.'  
 
 Like his fellow conservative David Brooks, he says he thinks liberals aren't religious
 enough or engaged in civic groups enough, like conservatives.  Pfeh.  
@@ -151,8 +153,8 @@ the US, as well as trailing 30 day death rates:
   Trump.  
   - There was an initial blue wave in early 2020, as the coastal Democratic cities were
     hit.  They have more contact with the outside world than the decidedly insular,
-    borderline xenophobic cities of the interior, so it makes sense the pandemic would hit
-    them first.  
+    borderline xenophobic cities of the interior (and their rural environs), so it makes
+    sense the pandemic would hit the blue coastal cities first.  
   - Then the coastal cities got a grip, with masking, social distancing, and
     eventually vaccinating.  The red areas did much less of that, and paid with their
     lives.  
@@ -160,7 +162,7 @@ the US, as well as trailing 30 day death rates:
   100,000.  (Basically the first plot is the time integral of this one.)  
   - We see the same inital blue wave as the pandemic hit the coastal Democratic cities.  
   - We then see the same, depressing cycle of waves in Republican areas where people
-    _refuse_ to mask, to distance, or to vaccinate.  They cannot refuse to die.  
+    _refuse_ to mask, to distance, or to vaccinate.  They cannot, however, refuse to die.  
     
 [Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
 is a shameful taste to acquire, but it feels as though the world is forcing this upon
@@ -185,7 +187,7 @@ to point out:
 > eligible to get vaccinated.  
 
 The early days of vaccination were desperate times, and those most at risk reached out to
-get shot.  (Your humble Weekend Editor and Editrix, as junior senior citizens, were among
+get shots ASAP.  (Your humble Weekend Editor and Editrix, as junior senior citizens, were among
 them.)  But as soon as we dipped into the general population, the knuckleheads began to
 scream against vaccinations, for reasons ranging from superstition to insanity.  As [Derek
 Lowe, the formidable med-chem blogger at _In the Pipeline_ at
@@ -206,20 +208,20 @@ _Science Translational Medicine_ put it](https://www.science.org/content/blog-po
 > knows what else.  
 
 It's _hard_ not to be gloomy about the future in the face of furious ignorance from
-conservatives like that.  And it's not like they're a minority; since Reagan the
-Republican party has migrated rightward and crazy-ward until now it looks like they're
+conservatives like that.  And it's not like they're a minority; since Reagan, the
+Republican party has migrated far rightward and crazy-ward until now it looks like they're
 almost _all_ like that.  
 
 Should you have the grave misfortune to find yourself inadvertently Republican, you have
 my sympathy. And my advice: get out of the crazy party.  
 
-### Reason 5: Vaccines miracles, disinfromation curses  
+### Reason 5: Vaccine miracles, disinfromation curses  
 
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-stat-branswell.jpg" width="400" height="202" alt="Branswell @ STAT News: COVID-19 vaccines miracles" title="Branswell @ STAT News: COVID-19 vaccines miracles" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-The redoubtable Helen Branswell, writing at _STAT News_ catalogs some of the ways in which
-the COVID-19 vaccines have been exactly what we mean by 
-miraculous <sup id="fn7a">[[7]](#fn7)</sup>:  
-- Record efficacy at 90% and above, developed in record-shattering time.  Just go back and
+The redoubtable Helen Branswell, writing at _STAT News_, catalogs some of the ways in which
+the COVID-19 vaccines have been exactly what we mean when we say
+"miraculous" <sup id="fn7a">[[7]](#fn7)</sup>:  
+- Record-breaking efficacy at 90% and above, developed in record-shattering time.  Just go back and
   read some of the early posts on this crummy little blog that nobody reads (CLBTNR), and you'll
   see me gushing about that too ([here]({{ site.baseurl }}/pfizer-vaccine-efficacy-data/), 
   [here]({{ site.baseurl }}/moderna-vaccine-efficacy-data/), 
@@ -257,11 +259,12 @@ but I would be favorably disposed toward this explanation.
 
 They start by quoting Helen Branswell ("freaking miracle").  But then:  
 - 5% of people think the vaccines contain microchips (but see Dr. Pip 
-  [previously in this CLBTNR]({{ site.baseurl }}/variants-vs-vaccines/#what-about-vaccine-resistance))  
-- 7% thought the vaccines use aborted fetal cells  
-- 8% thought the vaccines could alter human DNA  
+  [previously in this CLBTNR]({{ site.baseurl }}/variants-vs-vaccines/#what-about-vaccine-resistance)),  
+- 7% thought the vaccines use aborted fetal cells,  
+- 8% thought the vaccines could alter human DNA,  
 - 10% thought the vaccines could cause infertility.  
-- 46% were "uncertain" about at least one of the preceding 4 lies.  
+
+&hellip;and 46% were "uncertain" about _at least one_ of the preceding 4 lies.  
 
 On the Republican propaganda channel Fox News, Tucker Carlson apparently compared vaccine
 mandates to the Nazi medical experiment/torture acts of Nazi Germany, on Jan 21, according
@@ -276,14 +279,15 @@ sewage pumped at high pressure into the minds of half of US citizens.
 Look, we're a racist country.  Just get over it.  Then set about fixing it.  
 
 Unfortunately, in the meantime, we have to deal with our police forces as they currently
-exist.  They have a regrettable tendency to be right-wing white supermacists.  The number
-of pointless beatings and murders of Black Americans is distressing, of course, but
-nothing new.  It's just that we now have video on our phones so we capture it.  That's why
-cops so doggedly resist the right of the public to video them while on duty: it makes it
-much harder to cover up later.
+exist.  They have a regrettable tendency to be right-wing white supermacists prone to
+violence since they view themselves as an occupying army.  The number of pointless
+beatings and murders of Black Americans is distressing, of course, but nothing new.  It's
+just that we now have video on our phones so we capture it.  That's why cops so doggedly
+resist the right of the public to video them while on duty: it makes it much harder to
+cover up later.
 
 With their hysterical opposition to the  Black Lives Matter movement, cops sometimes like
-to counter that "Blue Lives Matter", meaning they think they're the real victims here.  As
+to counter that "Blue Lives Matter", meaning they think _they're_ the real victims here.  As
 a great many of them, for inscrutable reasons, hew to a few bits of Irish culture, it was
 inevitable that they would try to translate that into Irish Gaelic, as shown on the shirt
 worn by this poor unfortunate.  
@@ -303,16 +307,16 @@ into Irish, mistakes were made in _every single word_, with hilarious result:
    indirect and polite way in modern Irish to refer to Blacks.  
 
 So even if you spot the racist jerk a few points for grammar, word order, and incorrect
-use of the dictionary&hellip; he ended up _almost_ saying "Black Lives Matter"!  
+use of the dictionary&hellip; he ended up _almost_ saying something close to "Black Lives Matter"!  
 
 The fact that I have to reach this far to find something funny is symptomatic of just how
 dark the times are.  We're being taken down by people who are not just violent racists,
-but who are _this stupid._  
+but who are _this stupid,_ too.  
 
 And we haven't even _started_ in on climate change, that may kill billions in the
 generations to come.  If you're a boomer like your humble Weekend Editor and are puzzled
 why the millennials seem mad at you, this is why.  In their place, I'd be mad at us too.
-(I vs Us??  Counterfactual subjunctives and pronominal reference don't play well together in
+(I _vs_ Us??  Counterfactual subjunctives and pronominal reference don't play well together in
 English!  Do they do any better in any other languages?)  
 
 ## The Good News: 6 Reasons to Hope  
@@ -322,15 +326,15 @@ point in the middle, they pivot to thanksgiving for anticipated forgiveness and
 redemption.  So it is here, or at least we shall attempt to be so.  
 
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-wapo-takei.jpg" width="400" height="494" alt="George Takei @ WaPo: Without optimism, we have already failed" title="George Takei @ WaPo: Without optimism, we have already failed" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Actor George Takei seems to be a decent fellow.  Once when appointed to a transportation
+Actor George Takei seems to be a kind and decent fellow.  Once when appointed to a transportation
 board in California (more or less based on celebrity), he actually went out and learned
 about transportation issues, so he could be _competent._  He's more than just an actor,
-he's a pretty smart and decent guy.  
+he's a pretty smart, capable, and responsible guy.  
 
-He's also old enough, and 3rd generation Japanese-American, to have been in one of the
-WWII internment camps during one of America's xenophobic periods.  KK Ottersen recently interviewed
-him about those memories (and his graphic novel on the subject) in the
-_Washington Post._<sup id="fn10a">[[10]](#fn10)</sup>  
+He's also old enough at age 84, and 3rd generation Japanese-American, to have been in one
+of the WWII internment camps during one of America's xenophobic periods.  KK Ottersen
+recently interviewed him about those memories (and his graphic novel on the subject) in
+the _Washington Post._<sup id="fn10a">[[10]](#fn10)</sup>  
 
 There are many aspects to the interview, both cruel and beautiful.  One bit that
 particularly stuck with me was this one:  
@@ -343,7 +347,7 @@ So his father started baseball teams.  And dance groups in the evening, with a  
 player in the mess hall.  And they produced musicals.  All of that, in a prison camp in
 their own country.  
 
-_That's_ resilience: the ability to find the bits of beauty amongst the misery.  
+_That's_ resilience: the insistence on finding the bits of beauty amongst the misery.  
 
 Let us attempt resilience.  
 
@@ -379,22 +383,21 @@ development?  Remember back in [2021-Aug](https://www.someweekendreading.blog/tw
 when we confirmed that picture with the hints that an HIV vaccine trial would soon start
 from Moderna?  
 
-No?  That's ok, we don't really remember either and had to look it up.  
+No?  That's ok, we didn't really remember either, and had to look it up.  
 
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-iavi.jpg" width="400" height="186" alt="IAVI: press release about Phase I HIV vaccine trial with Moderna" title="IAVI: press release about Phase I HIV vaccine trial with Moderna" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-moderna.jpg" width="400" height="148" alt="Moderna: press release about Phase I HIV vaccine trial with IAVI" title="Moderna: press release about Phase I HIV vaccine trial with IAVI" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-clinicaltrialsdotgov.jpg" width="400" height="206" alt="ClinicalTrials.gov: Vaccine trial NCT05001373 for HIV" title="ClinicalTrials.gov: Vaccine trial NCT05001373 for HIV" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But it's true: the HIV mRNA vaccine trial has finally started dosing people in Phase I,
 according to press releases from the International AIDS Vaccine 
-Institute <sup id="fn12a">[[12]](#fn12)</sup>  
-and Moderna. <sup id="fn13a">[[13]](#fn13)</sup>  The clinical trial is 
-NCT05001373, also known as IAVI G002 <sup id="fn14a">[[14]](#fn14)</sup>, available for
-your perusal at _ClincalTrials.gov_.  
+Institute <sup id="fn12a">[[12]](#fn12)</sup> and Moderna. <sup id="fn13a">[[13]](#fn13)</sup>
+The clinical trial is NCT05001373, also known as IAVI G002 <sup
+id="fn14a">[[14]](#fn14)</sup>, available for your perusal at _ClincalTrials.gov_.  
 
 It uses a 60-mer of mRNA, and in some arms assesses a boosting immunogen (usually called
-an adjuvant?) to induce maturation of memory B cells and the production of broadly
-neutralizing antibodies (bnAbs).  Given how fast the HIV virus can mutate, the ability to
-retarget the mRNA in almost real time will probably prove important.  
+an adjuvant? or maybe someting else&hellip;) to induce maturation of memory B cells and
+the production of broadly neutralizing antibodies (bnAbs).  Given how fast the HIV virus
+can mutate, the ability to retarget the mRNA in almost real time will probably prove important.  
 
 It looks like a fairly complex design for a Phase I, with various arms getting the
 origianl vaccine, the original vaccine plus the boosting immunogen/adjuvant, and some
@@ -435,19 +438,19 @@ reasons not really understood, tease out the latent HIV virus and make it come o
 on the attack against the immune system.  
 
 Lowe compares this to poking a hibernating bear with a stick: if all you've got is a
-stick, this is a _bad idea._  But if you have a shotgun loaded for bear, and for some
+stick, this is a _bad idea._  But if you also have a shotgun loaded for bear, and for some
 reason you need to kill a bear, then this can work.  
 
 And so it is here: we have therapies that work against active HIV, and now we have a PD-1
-therapy that (sometimes) turns latent HIV into active HIV where we can fight it.  
+therapy that (sometimes) turns latent HIV into active HIV, out where we can fight it.  
 
-This discovery hinged on having patients who have both AIDS and a PD-1-appropriate cancer,
-which is bad luck squared.  Let's all be thankful for these afflicted folk who
-participated in a clinical trial and may have led to a life-saving discovery.  
+This discovery hinged on having patients who have both AIDS and a PD-1-appropriate cancer
+simultaneously, which is bad luck squared!  Let's all be thankful for these afflicted folk
+who participated in a clinical trial and may have led to a life-saving discovery.  
 
 If this works out, adding a PD-1 inhibitor to the AIDS cocktail of drugs would force the
 remaining virus out in the open where it can be attacked&hellip; and possibly _cure_ the
-disease.  
+disease, at least up to the amount of viral genes retrotranscribed into the genome.  
 
 So that's 2 good bits on AIDS: prevention and treatment.  
 
