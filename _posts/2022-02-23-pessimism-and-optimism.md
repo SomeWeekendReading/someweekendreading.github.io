@@ -298,7 +298,7 @@ into Irish, mistakes were made in _every single word_, with hilarious result:
    alive".  The Gaelic equivalent would have been something like the word for "people".  
 4. Well, _gorm_ does mean blue.  But when referring to people, colors usually mean _hair_
    color, not skin color! This could be people with blue hair, except&hellip; "blue" an
-   indirect and polite way to refer to Blacks.  
+   indirect and polite way in modern Irish to refer to Blacks.  
 
 So even if you spot the racist jerk a few points for grammar, word order, and incorrect
 use of the dictionary&hellip; he ended up _almost_ saying "Black Lives Matter"!  
@@ -587,7 +587,8 @@ done.
 In fancier language: [Romain Rollard](https://en.wikipedia.org/wiki/Romain_Rolland),
 French writer &amp; Nobel Laureate, reviewing
 [Raymond Lefebvre](https://en.wikipedia.org/wiki/Raymond_Lefebvre)'s
-_The Sacrifice of Abraham_ (quoted by DJ Fisher: <sup id="fn25a">[[25]](#fn25)</sup>):  
+_The Sacrifice of Abraham_ (quoted by DJ Fisher: <sup id="fn25a">[[25]](#fn25)</sup>),
+on being an optimist without hope:  
 
 > this intimate alliance &ndash; which for me makes the true man &ndash; of __pessimism of the intelligence, which penetrates every illusion, and optimism of the will.__ It is this natural bravery that is the flower of a good people, which __"does not need to hope to undertake and to succeed to persevere,"__ but which lives in struggle over and above suffering, doubt, and the blasts of nothingness because his fiery life is the negation of death.  
 
@@ -596,7 +597,7 @@ to that of one of my favorite authors,
 [James Branch Cabell](https://en.wikipedia.org/wiki/James_Branch_Cabell) who thus satirizes 
 Professor Pangloss:  
 
-> The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true.  &mdash; [_The Silver Stallion_, Book 4, "Coth at Purutsa", Ch XXVI: The Realist in Defeat](https://en.wikiquote.org/wiki/James_Branch_Cabell#The_Silver_Stallion_(1926))  
+> The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true.  &mdash; [James Branch Cabell, _The Silver Stallion_, Book 4, "Coth at Purutsa", Ch XXVI: The Realist in Defeat](https://en.wikiquote.org/wiki/James_Branch_Cabell#The_Silver_Stallion_(1926))  
 
 ---
 
