@@ -19,7 +19,7 @@ of the world.
 
 To wit, 6 reasons chosen _ad libitum_ from recent news:
 
-### Reason 1: The collapse of&hellip; everything&hellip; into fascism  
+### Reason 1: The collapse of&hellip; everything?&hellip; into fascism  
 
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-brooks.jpg" width="400" height="223" alt="Brooks @ NYT: The Dark Century" title="Brooks @ NYT: The Dark Century" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 If we're going to inventory reasons for despair, why not start with a conservative
@@ -297,15 +297,15 @@ into Irish, mistakes were made in _every single word_, with hilarious result:
 3. Instead of the word "lives" (with a long I), he chose the verb "lives" as in "is
    alive".  The Gaelic equivalent would have been something like the word for "people".  
 4. Well, _gorm_ does mean blue.  But when referring to people, colors usually mean _hair_
-   color, not skin color! This could be people with blue hair, except&hellip; it's an
+   color, not skin color! This could be people with blue hair, except&hellip; "blue" an
    indirect and polite way to refer to Blacks.  
 
 So even if you spot the racist jerk a few points for grammar, word order, and incorrect
-use of the dictionary&hellip; he ended up almost saying "Black Lives Matter"!  
+use of the dictionary&hellip; he ended up _almost_ saying "Black Lives Matter"!  
 
 The fact that I have to reach this far to find something funny is symptomatic of just how
-dark the times are.  We're being taken down by people who are not just racists and
-violent, but who are _this stupid._  
+dark the times are.  We're being taken down by people who are not just violent racists,
+but who are _this stupid._  
 
 And we haven't even _started_ in on climate change, that may kill billions in the
 generations to come.  If you're a boomer like your humble Weekend Editor and are puzzled
@@ -658,7 +658,7 @@ Professor Pangloss:
 
 <a id="fn22">22</a>: Q Yu, _et al.,_ ["RNA demethylation increases the yield and biomass of rice and potato plants in field trials"](https://www.nature.com/articles/s41587-021-00982-9), _Nat Biotech_ 39, 1581-1588, 2021-Jul-22. DOI: [10.1038/s41587-021-00982-9](https://doi.org/10.1038/s41587-021-00982-9). [↩](#fn22a)  
 
-<a id="fn23">23</a>: CFS Staff, ["Commonwealth Fusion Systems creates viable path to commercial fusion power with world’s strongest magnet"](https://cfs.energy/news-and-media/cfs-commercial-fusion-power-with-hts-magnet), Commonwealth Fusion Systems press releases, 2021-Sep-08. [↩](#fn23a)  
+<a id="fn23">23</a>: CFS Staff, ["Commonwealth Fusion Systems creates viable path to commercial fusion power with world’s strongest magnet"](https://cfs.energy/news-and-media/cfs-commercial-fusion-power-with-hts-magnet/), Commonwealth Fusion Systems press releases, 2021-Sep-08. [↩](#fn23a)  
 
 <a id="fn24">24</a>: J Crawford, ["Descriptive vs. Prescriptive Optimism"](https://www.lesswrong.com/posts/cTCxMjjTcR525o4X6/descriptive-vs-prescriptive-optimism), _Less Wrong_ blog, 2022-Jan-22. [↩](#fn24a)  
 
