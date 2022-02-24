@@ -21,7 +21,7 @@ To wit, 6 reasons chosen _ad libitum_ from recent news:
 
 ### Reason 1: The collapse of&hellip; everything&hellip; into fascism  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-brooks.jpg" width="400" height="223" alt="Brooks @ NYT: The Dark Century" title="Brooks @ NYT: The Dark Century" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-brooks.jpg" width="400" height="223" alt="Brooks @ NYT: The Dark Century" title="Brooks @ NYT: The Dark Century" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 If we're going to inventory reasons for despair, why not start with a conservative
 columnist?  Conservatives are, after all, the cause of most of my despair.  As I've
 mentioned a couple times now, I have relatively little patience with 
@@ -80,7 +80,7 @@ I like to read them to get a take on _what the data says_, not what some half-ed
 pundit thinks.  I was gleeful in the last few elections to see they correctly predicted
 more states and even counties than the seasoned pundits!  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-538.jpg" width="400" height="248" alt="FiveThirtyEight: Why are white liberals so pessimistic?" title="FiveThirtyEight: Why are white liberals so pessimistic?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-538.jpg" width="400" height="248" alt="FiveThirtyEight: Why are white liberals so pessimistic?" title="FiveThirtyEight: Why are white liberals so pessimistic?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And so, an article by [Daniel Cox](https://www.aei.org/profile/daniel-a-cox/) on why white
 liberals like me are pessimistic and pissed off. <sup id="fn2a">[[2]](#fn2)</sup>  At
 first blush, I don't quite see why anbody needs this article, because isn't it _obvious?_
@@ -94,7 +94,7 @@ they have something credible to say that passes muster with my brother and siste
 statisticians at _FiveThirtyEight_&hellip; maybe I should pay attention.  Thus here we
 are.  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-538-barplot.jpg" width="400" height="204" alt="Cox @ 538: White Democrats more worried" title="Cox @ 538: White Democrats more worried" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-538-barplot.jpg" width="400" height="204" alt="Cox @ 538: White Democrats more worried" title="Cox @ 538: White Democrats more worried" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 His first [Deep Thought](https://www.pinterest.com/chrissymfrey/deep-thoughts-snl/) is
 that only half of Americans are optimistic.  Given the general shape of the world as it
 is, this is like saying only half of Americans are even vaguely rational: the real
@@ -134,11 +134,11 @@ little data to back up the promising title.
 
 ### Reason 3: Red COVID  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-leonhardt-1.jpg" width="400" height="513" alt="Leonhardt @ NYT: Red America's COVID Problem" title="Leonhardt @ NYT: Red America's COVID Problem" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-leonhardt-2.jpg" width="400" height="543" alt="Leonhardt @NYT: Red COVID" title="Leonhardt @NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-leonhardt-3.jpg" width="400" height="503" alt="Leonhardt @ NYT: Red COVID Update" title="Leonhardt @ NYT: Red COVID Update" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<a href="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-leonhardt-3-plot-1.jpg"><img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-leonhardt-3-plot-1-thumb.jpg" width="400" height="409" alt="Cumulative US COVID deaths/capita, by county Trump vote share" title="Cumulative US COVID deaths/capita, by county Trump vote share" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-<a href="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-leonhardt-3-plot-2.jpg"><img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-nyt-leonhardt-3-plot-2-thumb.jpg" width="400" height="303" alt="US death rates/capita, 30-day trailing average, by county Trump vote share" title="US death rates/capita, 30-day trailing average, by county Trump vote share" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-1.jpg" width="400" height="513" alt="Leonhardt @ NYT: Red America's COVID Problem" title="Leonhardt @ NYT: Red America's COVID Problem" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-2.jpg" width="400" height="543" alt="Leonhardt @NYT: Red COVID" title="Leonhardt @NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3.jpg" width="400" height="503" alt="Leonhardt @ NYT: Red COVID Update" title="Leonhardt @ NYT: Red COVID Update" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-1.jpg"><img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-1-thumb.jpg" width="400" height="409" alt="Cumulative US COVID deaths/capita, by county Trump vote share" title="Cumulative US COVID deaths/capita, by county Trump vote share" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-2.jpg"><img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-2-thumb.jpg" width="400" height="303" alt="US death rates/capita, 30-day trailing average, by county Trump vote share" title="US death rates/capita, 30-day trailing average, by county Trump vote share" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 David Leonhardt at the _New York Times_ continues his series, which 
 [we've previously cited]({{ site.baseurl }}/today-i-got-shot-a-sixth-time/#the-vaccine-defiance-stupidity-is-nakedly-partisan), 
@@ -174,7 +174,7 @@ times.  This time, he's constructded an animation showing just how rapidly thing
 worse in the red counties over a full year since the vaccines first became 
 available. <sup id="fn6a">[[6]](#fn6)</sup>  
 
-![Charles Gaba @ ACASignups: animation over time of vax status vs county Trump lean]({{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-acasignups-gaba-red-blue-county-animation.gif "Charles Gaba @ ACASignups: animation over time of vax status vs county Trump lean")
+![Charles Gaba @ ACASignups: animation over time of vax status vs county Trump lean]({{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-acasignups-gaba-red-blue-county-animation.gif "Charles Gaba @ ACASignups: animation over time of vax status vs county Trump lean")
 
 The most interesting thing to me about this animation is something Gaba also is at pains
 to point out:  
@@ -215,7 +215,7 @@ my sympathy. And my advice: get out of the crazy party.
 
 ### Reason 5: Vaccines miracles, disinfromation curses  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-stat-branswell.jpg" width="400" height="202" alt="Branswell @ STAT News: COVID-19 vaccines miracles" title="Branswell @ STAT News: COVID-19 vaccines miracles" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-stat-branswell.jpg" width="400" height="202" alt="Branswell @ STAT News: COVID-19 vaccines miracles" title="Branswell @ STAT News: COVID-19 vaccines miracles" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The redoubtable Helen Branswell, writing at _STAT News_ catalogs some of the ways in which
 the COVID-19 vaccines have been exactly what we mean by 
 miraculous <sup id="fn7a">[[7]](#fn7)</sup>:  
@@ -243,7 +243,7 @@ miraculous <sup id="fn7a">[[7]](#fn7)</sup>:
 
 So why aren't we all celebrating in the streets, with smiles all around?  Good job, right?  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-wapo.jpg" width="400" height="90" alt="Editorial Board @ WaPo: How many did vax misinformation kill?" title="Editorial Board @ WaPo: How many did vax misinformation kill?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-wapo.jpg" width="400" height="90" alt="Editorial Board @ WaPo: How many did vax misinformation kill?" title="Editorial Board @ WaPo: How many did vax misinformation kill?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Well&hellip; sort of.  
 
 As the _Washington Post_ editorial board pointed out yesterday <sup id="fn8a">[[8]](#fn8)</sup>,
@@ -270,7 +270,7 @@ sewage pumped at high pressure into the minds of half of US citizens.
 
 ### Reason 6: Racist violence from police  
 
-<a href="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-dumb-racist-cop.jpg"><img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-dumb-racist-cop-thumb.jpg" width="400" height="447" alt="Audrey Nickel @ Geeky Gaeilgeoir: Dumb racist cop hilariously self-owns in Irish Gaelic mistranslation" title="Audrey Nickel @ Geeky Gaeilgeoir: Dumb racist cop hilariously self-owns in Irish Gaelic mistranslation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-dumb-racist-cop.jpg"><img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-dumb-racist-cop-thumb.jpg" width="400" height="447" alt="Audrey Nickel @ Geeky Gaeilgeoir: Dumb racist cop hilariously self-owns in Irish Gaelic mistranslation" title="Audrey Nickel @ Geeky Gaeilgeoir: Dumb racist cop hilariously self-owns in Irish Gaelic mistranslation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Look, we're a racist country.  Just get over it.  Then set about fixing it.  
 
 Unfortunately, in the meantime, we have to deal with our police forces as they currently
@@ -319,7 +319,7 @@ Many of the Davidic Psalms in the Hebrew Bible start out as lamentations.  At a 
 point in the middle, they pivot to thanksgiving for anticipated forgiveness and
 redemption.  So it is here, or at least we shall attempt to be so.  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-wapo-takei.jpg" width="400" height="494" alt="George Takei @ WaPo: Without optimism, we have already failed" title="George Takei @ WaPo: Without optimism, we have already failed" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-wapo-takei.jpg" width="400" height="494" alt="George Takei @ WaPo: Without optimism, we have already failed" title="George Takei @ WaPo: Without optimism, we have already failed" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Actor George Takei seems to be a decent fellow.  Once when appointed to a transportation
 board in California (more or less based on celebrity), he actually went out and learned
 about transportation issues, so he could be _competent._  He's more than just an actor,
@@ -347,7 +347,7 @@ Let us attempt resilience.
 
 ### Reason 1: The COVID-19 Omicron wave is finally fading  
 
-<a href="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-mwra-omicron-wanes.jpg"><img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-mwra-omicron-wanes-thumb.jpg" width="400" height="306" alt="Mass Water Resources Authority 2022-Feb-18: Biobot data says omicron wave is waning" title="Mass Water Resources Authority 2022-Feb-18: Biobot data says omicron wave is waning" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-mwra-omicron-wanes.jpg"><img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-mwra-omicron-wanes-thumb.jpg" width="400" height="306" alt="Mass Water Resources Authority 2022-Feb-18: Biobot data says omicron wave is waning" title="Mass Water Resources Authority 2022-Feb-18: Biobot data says omicron wave is waning" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 From the Massachusetts Water Resources Authority's measurement of SARS-CoV2 mRNA in Boston
 metro wastewater <sup id="fn11a">[[11]](#fn11)</sup> comes evidence that the Omicron wave
 is finally ending.  As you can see from the plot, the wastewater levels of viral mRNA are
@@ -379,9 +379,9 @@ from Moderna?
 
 No?  That's ok, we don't really remember either and had to look it up.  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-hiv-iavi.jpg" width="400" height="186" alt="IAVI: press release about Phase I HIV vaccine trial with Moderna" title="IAVI: press release about Phase I HIV vaccine trial with Moderna" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-hiv-moderna.jpg" width="400" height="148" alt="Moderna: press release about Phase I HIV vaccine trial with IAVI" title="Moderna: press release about Phase I HIV vaccine trial with IAVI" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-hiv-clinicaltrialsdotgov.jpg" width="400" height="206" alt="ClinicalTrials.gov: Vaccine trial NCT05001373 for HIV" title="ClinicalTrials.gov: Vaccine trial NCT05001373 for HIV" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-iavi.jpg" width="400" height="186" alt="IAVI: press release about Phase I HIV vaccine trial with Moderna" title="IAVI: press release about Phase I HIV vaccine trial with Moderna" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-moderna.jpg" width="400" height="148" alt="Moderna: press release about Phase I HIV vaccine trial with IAVI" title="Moderna: press release about Phase I HIV vaccine trial with IAVI" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-clinicaltrialsdotgov.jpg" width="400" height="206" alt="ClinicalTrials.gov: Vaccine trial NCT05001373 for HIV" title="ClinicalTrials.gov: Vaccine trial NCT05001373 for HIV" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But it's true: the HIV mRNA vaccine trial has finally started dosing people in Phase I,
 according to press releases from the International AIDS Vaccine 
 Institute <sup id="fn12a">[[12]](#fn12)</sup>  
@@ -402,8 +402,8 @@ We wish them luck!  It's time for AIDS to go.
 
 ### Reason 3: Poking a hibernating bear with a cancer immunotherapy stick  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-hiv-lowe.jpg" width="400" height="231" alt="Lowe @ In the Pipeline: Cancer PD-1 therapy to tease out hidden HIV virus" title="Lowe @ In the Pipeline: Cancer PD-1 therapy to tease out hidden HIV virus" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-hiv-stm.jpg" width="400" height="184" alt="Uldrick et al. @ SciTranslMed: PD-1 therapy reverses HIV latency" title="Uldrick et al. @ SciTranslMed: PD-1 therapy reverses HIV latency" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-lowe.jpg" width="400" height="231" alt="Lowe @ In the Pipeline: Cancer PD-1 therapy to tease out hidden HIV virus" title="Lowe @ In the Pipeline: Cancer PD-1 therapy to tease out hidden HIV virus" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-hiv-stm.jpg" width="400" height="184" alt="Uldrick et al. @ SciTranslMed: PD-1 therapy reverses HIV latency" title="Uldrick et al. @ SciTranslMed: PD-1 therapy reverses HIV latency" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Med-chemist and blogger Derek Lowe at _In the Pipeline_ has some fascinating 
 news <sup id="fn15a">[[15]](#fn15)</sup> 
 of a paper <sup id="fn16a">[[16]](#fn16)</sup> on the
@@ -451,10 +451,10 @@ So that's 2 good bits on AIDS: prevention and treatment.
 
 ### Reason 4: White paint.  Yes, white paint. VERY white paint.  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-white-paint-pbs.jpg" width="400" height="367" alt="Yang &amp; Baldwin @ PBS: World's whitest paint" title="Yang &amp; Baldwin @ PBS: World's whitest paint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-white-paint-purdue-news.jpg" width="400" height="189" alt="Purdue News: Record for whitest paint in Guinness book" title="Purdue News: Record for whitest paint in Guinness book" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-white-paint-patent.jpg" width="400" height="185" alt="Patent: Solar-reflective, infrared-emissive paint" title="Patent: Solar-reflective, infrared-emissive paint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-white-paint-paper.jpg" width="400" height="134" alt="Li, et al. @ Appl Matl &amp; Interfaces: Ultrawhite BaSO4 paint for subambient radiative cooling" title="Li, et al. @ Appl Matl &amp; Interfaces: Ultrawhite BaSO4 paint for subambient radiative cooling" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-pbs.jpg" width="400" height="367" alt="Yang &amp; Baldwin @ PBS: World's whitest paint" title="Yang &amp; Baldwin @ PBS: World's whitest paint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-purdue-news.jpg" width="400" height="189" alt="Purdue News: Record for whitest paint in Guinness book" title="Purdue News: Record for whitest paint in Guinness book" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-patent.jpg" width="400" height="185" alt="Patent: Solar-reflective, infrared-emissive paint" title="Patent: Solar-reflective, infrared-emissive paint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-paper.jpg" width="400" height="134" alt="Li, et al. @ Appl Matl &amp; Interfaces: Ultrawhite BaSO4 paint for subambient radiative cooling" title="Li, et al. @ Appl Matl &amp; Interfaces: Ultrawhite BaSO4 paint for subambient radiative cooling" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 What's so interesting about white paint?  
 
 Well, if it's _really_ white, it reflects a lot of solar energy.  For example, if you
@@ -474,7 +474,7 @@ radiation of the sun.  It reflects most solar energy, and what it emits in infra
 emits in the sky window that gets out through the atmosphere without being reflected back
 to earth.  
 
-<a href="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-white-paint-paper-temps.jpg"> <img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-white-paint-paper-temps-thumb.jpg" width="400" height="148" alt="Li, et al. Fig 3: field tests showing reduction of temperature vs ambient" title="Li, et al. Fig 3: field tests showing reduction of temperature vs ambient" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-paper-temps.jpg"> <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-paper-temps-thumb.jpg" width="400" height="148" alt="Li, et al. Fig 3: field tests showing reduction of temperature vs ambient" title="Li, et al. Fig 3: field tests showing reduction of temperature vs ambient" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The result is that it stays about 4.5&deg;C below ambient temperature and achieves a
 cooling power of about 117 W/m2, as shown here in their Figure 3 (click to embiggen).
 That's enough, if painted on the roof of a building, to 
@@ -489,8 +489,8 @@ This could be big.  And it's _simple_, so it can be done in the developing world
 
 ### Reason 5: Food production  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-food-lowe.jpg" width="400" height="112" alt="Lowe @ In the Pipeline: Lose a methyl group, gain food production" title="Lowe @ In the Pipeline: Lose a methyl group, gain food production" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-food-nat-biotech.jpg" width="400" height="259" alt="Yu, et al. @ Nat Biotech: RNA demethylation and potato/rice production" title="Yu, et al. @ Nat Biotech: RNA demethylation and potato/rice production" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-food-lowe.jpg" width="400" height="112" alt="Lowe @ In the Pipeline: Lose a methyl group, gain food production" title="Lowe @ In the Pipeline: Lose a methyl group, gain food production" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-food-nat-biotech.jpg" width="400" height="259" alt="Yu, et al. @ Nat Biotech: RNA demethylation and potato/rice production" title="Yu, et al. @ Nat Biotech: RNA demethylation and potato/rice production" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Plants are a genetic nightmare: huge genomes, unimaginably complex biochemistry, making
 molecules the size of battleships&hellip; _very_ different from animals, or fungi, or
 bacteria, or archaea!  So every time we try to monkey with their genome to increase food
@@ -506,7 +506,7 @@ with RNA methylation in certain food plants.
 - So what happens if you put the human FTO gene in potatoes and rice?  Interesting stuff,
   that's what!  
   
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-food-potatoes.jpg" width="400" height="172" alt="Higher yield potatoes with transgenic RNA demethylation gene FTO" title="Higher yield potatoes with transgenic RNA demethylation gene FTO" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-food-potatoes.jpg" width="400" height="172" alt="Higher yield potatoes with transgenic RNA demethylation gene FTO" title="Higher yield potatoes with transgenic RNA demethylation gene FTO" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Here are some potatoes grown with and without the extra FTO gene.  See howmuch larger they
 are on the right?  The result was that crop yields in rice and potatoes went up by 50%
 with the insertion of FTO.  In rice, grain size remained constant as did overall plant
@@ -527,7 +527,7 @@ out.)
 
 ### Reason 6: Near(er) term fusion  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-cfs.jpg" width="400" height="418" alt="Commonwealth Fusion Systems: 40 Tesla REBCO magnet" title="Commonwealth Fusion Systems: 40 Tesla REBCO magnet" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-cfs.jpg" width="400" height="418" alt="Commonwealth Fusion Systems: 40 Tesla REBCO magnet" title="Commonwealth Fusion Systems: 40 Tesla REBCO magnet" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube.com/embed/WdoI1X5m96s" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <iframe width="400" height="224" src="https://www.youtube.com/embed/yXLO3-7BRwQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 We've [written about this previously]({{ site.baseurl }}/cfs-20t-magnet/), but it bears
@@ -557,7 +557,7 @@ and eliminate fossil fuels, but we can also:
 
 ## The Weekend Conclusion: 12 Reasons to be Confused  
 
-<img src="{{ site.baseurl }}/images/2022-02-XX-pessimisim-and-optimism-dickens.jpg" width="400" height="216" alt="Charles Dickens, A Tale of Two Cities: The best of times, the worst of times" title="Charles Dickens, A Tale of Two Cities: The best of times, the worst of times" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-dickens.jpg" width="400" height="216" alt="Charles Dickens, A Tale of Two Cities: The best of times, the worst of times" title="Charles Dickens, A Tale of Two Cities: The best of times, the worst of times" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Best let [the best author](https://dickens.ucsc.edu/programs/dickens-to-go/best-of-times.html)
 have the (nearly) last word:  
 
@@ -652,7 +652,7 @@ Professor Pangloss:
 
 <a id="fn19">19</a>: X Ruan, X Li, Z Huang, &amp; JA Peoples, ["1. WO2020072818 - METAL-FREE SOLAR-REFLECTIVE INFRARED-EMISSIVE PAINTS AND METHODS OF PRODUCING THE SAME"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020072818&tab=PCTBIBLIO&_ga=2.82536342.1803355587.1618177710-1869368167.1598324459), _PatentScope_ publication number WO/2020/072818, 2020-Sep-04. [↩](#fn19a)  
 
-<a id="fn20">20</a>: X Li, J Peoples, P Yao, &amp; X Ruan, ["Ultrawhite BaSO4 Paints and Films for Remarkable Daytime Subambient Radiative Cooling"]({{ site.baseurl }}/assets/2022-02-XX-pessimism-and-optimism-li2021.pdf), _ACS Appl Matls &amp; Interfaces_ 13, 21733-21739, 2021.   DOI: [10.1021/acsami.1c02368](https://doi.org/10.1021/acsami.1c02368). [↩](#fn20a)  
+<a id="fn20">20</a>: X Li, J Peoples, P Yao, &amp; X Ruan, ["Ultrawhite BaSO4 Paints and Films for Remarkable Daytime Subambient Radiative Cooling"]({{ site.baseurl }}/assets/2022-02-23-pessimism-and-optimism-li2021.pdf), _ACS Appl Matls &amp; Interfaces_ 13, 21733-21739, 2021.   DOI: [10.1021/acsami.1c02368](https://doi.org/10.1021/acsami.1c02368). [↩](#fn20a)  
 
 <a id="fn21">21</a>: D Lowe, ["One Lost Methyl Group = Huge Amounts of Food Production"](https://www.science.org/content/blog-post/one-lost-methyl-group-=-huge-amounts-food-production), _In the Pipeline_ blog at _Science Translational Medicine_, 2021-Jul-28. [↩](#fn21a)  
 
