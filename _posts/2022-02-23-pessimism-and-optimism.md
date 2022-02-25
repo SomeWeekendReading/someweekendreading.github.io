@@ -300,8 +300,9 @@ into Irish, mistakes were made in _every single word_, with hilarious result:
    little Scottish Gaelic.)  
 2. To say something "is important" is a whole different phrase; our dumb cop here chose
    the word for the _noun_ matter, as in material objects like dirt, water, and air.  
-3. Instead of the word "lives" (with a long I), he chose the verb "lives" as in "is
-   alive".  The Gaelic equivalent would have been something like the word for "people".  
+3. Instead of the word "lives" (with a long I), he chose the verb "lives" (with a short I)
+   as in "is alive".  The Irish Gaelic equivalent would have been something like the word for 
+   "people".  
 4. Well, _gorm_ does mean blue.  But when referring to people, colors usually mean _hair_
    color, not skin color! This could be people with blue hair, except&hellip; "blue" an
    indirect and polite way in modern Irish to refer to Blacks.  
@@ -454,7 +455,7 @@ disease, at least up to the amount of viral genes retrotranscribed into the geno
 
 So that's 2 good bits on AIDS: prevention and treatment.  
 
-### Reason 4: White paint.  Yes, white paint. VERY white paint.  
+### Reason 4: White paint?  Yes, white paint. VERY white paint.  
 
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-pbs.jpg" width="400" height="367" alt="Yang &amp; Baldwin @ PBS: World's whitest paint" title="Yang &amp; Baldwin @ PBS: World's whitest paint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-white-paint-purdue-news.jpg" width="400" height="189" alt="Purdue News: Record for whitest paint in Guinness book" title="Purdue News: Record for whitest paint in Guinness book" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">

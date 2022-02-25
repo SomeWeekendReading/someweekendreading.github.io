@@ -213,15 +213,15 @@ postStats <- function(## Inputs
         abline(v = postData[1, "HitsStart"], col = "gray", lty = "dashed")
 
         if (doLegend)                                  # Want to do legend?
-          legend("topright", bg = "antiquewhite", inset = c(0.01, 0.01), # 0.03 if on left, for y rug
+          legend("topleft", bg = "antiquewhite", inset = c(0.01, 0.01), # 0.03 if on left, for y rug
                  pch    = c(21,                NA,                    22,        NA,       NA),
                  pt.bg  = c("blue",            NA,                    clGray,    NA,       NA),
                  pt.cex = c(1.5,               NA,                    3,         NA,       NA),
                  col    = c("black",           "black",               clGray,    "gray",   "gray"),
                  lty    = c(NA,                "solid",               "dashed",  "solid",  "dashed"),
                  lwd    = c(NA,                2,                     NA,        1,        1),
-                 legend = c("Individual post", "LOESS central trend", "LOESS 95% confidence interval",
-                            "Year boundary", sprintf("Hit counting started: %s",
+                 legend = c("Individual post", "LOESS central trend", "LOESS 95% CI",
+                            "Year boundary", sprintf("Hits since: %s",
                                                      postData[1, "HitsStart"])))
 
       }, las = 3,                                      # Always vertical labels, both axes
