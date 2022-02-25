@@ -149,7 +149,7 @@ on the 'Red COVID' phenomenon of lower vaccination rates and higher deaths in Re
 
 Last week there was a sobering update on both the total deaths by political affiliation in
 the US, as well as trailing 30 day death rates:  
-- The first plot shows cumulative death rates per 100,000, binned by county % of votes for
+- The first plot shows cumulative death rates per 100,000, stratified by county % of votes for
   Trump.  
   - There was an initial blue wave in early 2020, as the coastal Democratic cities were
     hit.  They have more contact with the outside world than the decidedly insular,
@@ -187,8 +187,8 @@ to point out:
 > eligible to get vaccinated.  
 
 The early days of vaccination were desperate times, and those most at risk reached out to
-get shots ASAP.  (Your humble Weekend Editor and Editrix, as junior senior citizens, were among
-them.)  But as soon as we dipped into the general population, the knuckleheads began to
+get shots ASAP.  (Your humble Weekend Editor and Editrix, as junior senior citizens, were
+happily among them.)  But as soon as we dipped into the general population, the knuckleheads began to
 scream against vaccinations, for reasons ranging from superstition to insanity.  As [Derek
 Lowe, the formidable med-chem blogger at _In the Pipeline_ at
 _Science Translational Medicine_ put it](https://www.science.org/content/blog-post/usefulness-rebuttal):  
@@ -221,19 +221,20 @@ my sympathy. And my advice: get out of the crazy party.
 The redoubtable Helen Branswell, writing at _STAT News_, catalogs some of the ways in which
 the COVID-19 vaccines have been exactly what we mean when we say
 "miraculous" <sup id="fn7a">[[7]](#fn7)</sup>:  
-- Record-breaking efficacy at 90% and above, developed in record-shattering time.  Just go back and
-  read some of the early posts on this crummy little blog that nobody reads (CLBTNR), and you'll
-  see me gushing about that too ([here]({{ site.baseurl }}/pfizer-vaccine-efficacy-data/), 
-  [here]({{ site.baseurl }}/moderna-vaccine-efficacy-data/), 
+- Record _breaking_ efficacy at 90% and above, developed with record _shattering_ speed.
+  Just go back and read some of the early posts on this crummy little blog that nobody
+  reads (CLBTNR), and you'll see me gushing about that too
+  ([here]({{ site.baseurl }}/pfizer-vaccine-efficacy-data/),
+  [here]({{ site.baseurl }}/moderna-vaccine-efficacy-data/),
   [here]({{ site.baseurl }}/beautiful-vaccines/),
-  [here]({{ site.baseurl }}/pfizer-vaccine-passes-vrbpac-review/), 
+  [here]({{ site.baseurl }}/pfizer-vaccine-passes-vrbpac-review/),
   [here]({{ site.baseurl }}/beautiful-vaccines-2/),
   [here]({{ site.baseurl }}/moderna-vaccine-passes-vrbpac-review/),).  Well done, vaccine
   makers.  
 - Also, in a bit under 1 year, we've managed to _vaccinate 55% of the entire human species!_
-  Yes: we haven't done it equitably, we've done it too slowly to prevent variants, and so
-  on.  We'll eventually do the right thing there (after, in the alleged words of
-  Winston Churchill, "exhausting all possible alternatives").  
+  Yes: that's too little, we haven't done it equitably, we've done it too slowly to
+  prevent variants, and so on.  We'll eventually do the right thing there (after, in the
+  alleged words of Winston Churchill, "exhausting all possible alternatives").  
 - Vaccination has saved millions of lives, just in the US; many more world-wide.  
 - We had a solid foundation in mRNA research, just poised to bear fruit at the exact
   moment it was needed.  "Miracle" is, if anything, an understatement here.  
@@ -262,24 +263,24 @@ They start by quoting Helen Branswell ("freaking miracle").  But then:
   [previously in this CLBTNR]({{ site.baseurl }}/variants-vs-vaccines/#what-about-vaccine-resistance)),  
 - 7% thought the vaccines use aborted fetal cells,  
 - 8% thought the vaccines could alter human DNA,  
-- 10% thought the vaccines could cause infertility.  
+- 10% thought the vaccines could cause infertility&hellip;  
 
-&hellip;and 46% were "uncertain" about _at least one_ of the preceding 4 lies.  
+&hellip;and 46% were "uncertain" about _at least one_ of those 4 lies.  
 
 On the Republican propaganda channel Fox News, Tucker Carlson apparently compared vaccine
 mandates to the Nazi medical experiment/torture acts of Nazi Germany, on Jan 21, according
-to the _WaPo_.  Somehow, Republicans trust _that_ more than they trust vaccination!  
+to the _WaPo_ (_op. cit._).  Somehow, Republicans trust _that_ more than they trust vaccination!  
 
-Hence&hellip; a gloomy outlook.  We cannot long survive with that sort of information
-sewage pumped at high pressure into the minds of half of US citizens.  
+Hence&hellip; a gloomy outlook here at Chez Weekend.  We cannot long survive with that
+sort of information sewage pumped at high pressure into the minds of half of US citizens.  
 
 ### Reason 6: Racist violence from police  
 
 <a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-dumb-racist-cop.jpg"><img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-dumb-racist-cop-thumb.jpg" width="400" height="447" alt="Audrey Nickel @ Geeky Gaeilgeoir: Dumb racist cop hilariously self-owns in Irish Gaelic mistranslation" title="Audrey Nickel @ Geeky Gaeilgeoir: Dumb racist cop hilariously self-owns in Irish Gaelic mistranslation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Look, we're a racist country.  Just get over it.  Then set about fixing it.  
+Look, the US is a racist country.  Just get over it.  Then set about _fixing_ it.  
 
 Unfortunately, in the meantime, we have to deal with our police forces as they currently
-exist.  They have a regrettable tendency to be right-wing white supermacists prone to
+exist.  They have a regrettable tendency to be right-wing white supermacists, prone to
 violence since they view themselves as an occupying army.  The number of pointless
 beatings and murders of Black Americans is distressing, of course, but nothing new.  It's
 just that we now have video on our phones so we capture it.  That's why cops so doggedly
@@ -288,37 +289,44 @@ cover up later.
 
 With their hysterical opposition to the  Black Lives Matter movement, cops sometimes like
 to counter that "Blue Lives Matter", meaning they think _they're_ the real victims here.  As
-a great many of them, for inscrutable reasons, hew to a few bits of Irish culture, it was
-inevitable that they would try to translate that into Irish Gaelic, as shown on the shirt
-worn by this poor unfortunate.  
+a great many of them, for inscrutable reasons, also hew to a few bits of Irish culture, it was
+inevitable that they would try to translate that into Irish Gaelic.  An example of this
+"wit" is shown on the back of the shirt worn by this poor unfortunate.  
 
 The _Geeky Gaeilgeoir_ goes through why _everything_ about this is
-wrong. <sup id="fn9a">[[9]](#fn9)</sup>  In an attempt to translate "Blue Lives Matter"
-into Irish, mistakes were made in _every single word_, with hilarious result:  
+wrong, both morally and linguistically. <sup id="fn9a">[[9]](#fn9)</sup>  In an attempt to
+translate "Blue Lives Matter" into Irish, mistakes were made in the overall syntax, in
+_every single word_, and in overall idiomatic meaning, with hilarious result:  
 1. The words are not even vaguely in the Gaelic order, which is VSO: verb, subject,
-   then object.  (Your humble Weekend Editor, while innocent of Irish Gaelic, once knew a
-   little Scottish Gaelic.)  
+   then object.  Adjectives go _after_ nouns.  (Your humble Weekend Editor, while innocent
+   of Irish Gaelic, once knew a little Scottish Gaelic.)  So you should be shooting for
+   something like: "[are important] [people] [blue]".
 2. To say something "is important" is a whole different phrase; our dumb cop here chose
    the word for the _noun_ matter, as in material objects like dirt, water, and air.  
 3. Instead of the word "lives" (with a long I), he chose the verb "lives" (with a short I)
    as in "is alive".  The Irish Gaelic equivalent would have been something like the word for 
    "people".  
 4. Well, _gorm_ does mean blue.  But when referring to people, colors usually mean _hair_
-   color, not skin color! This could be people with blue hair, except&hellip; "blue" an
-   indirect and polite way in modern Irish to refer to Blacks.  
+   color, not skin color! _Dubh_ would mean a black-haired person, not a racial
+   indication.  So this use of _gorm_ could mean people with blue hair, except&hellip;
+   "blue" an indirect and polite way in modern Irish to refer to Blacks.  
 
 So even if you spot the racist jerk a few points for grammar, word order, and incorrect
-use of the dictionary&hellip; he ended up _almost_ saying something close to "Black Lives Matter"!  
+use of the dictionary&hellip; he ended up _almost_ saying something idiomatically close to
+"Black Lives Matter"!  
+
+I can't make up stuff this weird.  And I'm _good_ at weird.  
 
 The fact that I have to reach this far to find something funny is symptomatic of just how
 dark the times are.  We're being taken down by people who are not just violent racists,
 but who are _this stupid,_ too.  
 
-And we haven't even _started_ in on climate change, that may kill billions in the
-generations to come.  If you're a boomer like your humble Weekend Editor and are puzzled
-why the millennials seem mad at you, this is why.  In their place, I'd be mad at us too.
+And we haven't even _started_ in on climate change, which may kill billions in the
+generations to come.  If you're a boomer (like your humble Weekend Editor) and are puzzled
+as to why the millennials all seem mad at you, this is why.  In their place, I'd be mad at us too.
 (I _vs_ Us??  Counterfactual subjunctives and pronominal reference don't play well together in
 English!  Do they do any better in any other languages?)  
+
 
 ## The Good News: 6 Reasons to Hope  
 
@@ -416,7 +424,7 @@ of a paper <sup id="fn16a">[[16]](#fn16)</sup> on the
 interaction of cancer PD-1 therapies and latent/hidden HIV virus in people taking
 maintenance therapy for AIDS.  
 
-The paper is, alas, paywalled; but Lowe's description is fascinating:  
+The paper is, alas, paywalled; but Lowe's description is fascinating.  First, some background:  
 - PD-1 ("programmable death receptor 1") is a gene now at the focus of many innovative
   immunotherapies in cancer.  
   - It basically calms down T cells, stopping them from killing things.  
@@ -434,7 +442,7 @@ The paper is, alas, paywalled; but Lowe's description is fascinating:
     withdrawn.  
   - This means people have to stay on anti-HIV drugs for the rest of their lives.  
   
-The paper comes with the interesting discovery: some forms of PD-1 cancer therapies, for
+The paper adds the interesting discovery: some forms of PD-1 cancer therapies, for
 reasons not really understood, tease out the latent HIV virus and make it come out to go
 on the attack against the immune system.  
 
@@ -517,13 +525,13 @@ Here are some potatoes grown with and without the extra FTO gene.  See howmuch l
 are on the right?  The result was that crop yields in rice and potatoes went up by 50%
 with the insertion of FTO.  In rice, grain size remained constant as did overall plant
 size; they just produced a _lot more grains of rice._  In the potatoes above, the overall
-number of potatoes is about the same, but the overall weight of potatoes skyrocketed.  In
-both potatoes and rice, nutritional quality (starge, protein, total carbohydrate, vitamin
+number of potatoes is about the same, but the _overall weight of potatoes skyrocketed._  In
+both potatoes and rice, nutritional quality (starch, protein, total carbohydrate, vitamin
 C content) remained about the same.  
 
 Basically FTO made deeper and more extensive roots, and boosted photosynthetic efficiency
-up "by a startling 36%", in Lowe's words.  Transpiration from leaves (basically plant
-breathing) was up 78%, but drought tolerance was also improved.  These are 
+"by a startling 36%", in Lowe's words.  Transpiration from leaves (basically plant
+breathing) was up 78%, and drought tolerance was also improved.  These are
 _exactly the traits we want to see in a world of hostile climate change._  
 
 Of course there will be hysterical, superstitious resistance to what will probably be
@@ -553,13 +561,21 @@ built now in Massachusetts, expected to produce commercially meaningful power by
 
 This changes _everything._  Not only can we decarbonize our entire energy infrastructure
 and eliminate fossil fuels, but we can also:
+
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-smithsonian.jpg" width="400" height="301" alt="Panko @ Smithsonian: Orca carbon capture plant in Iceland" title="Panko @ Smithsonian: Orca carbon capture plant in Iceland" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - Build desalinization plants to supply coastal cities with water.  No longer will LA use
   most of the water in various rivers, contributing to the desertification of the
   southwest.  The impact on the developing world could be life-saving.  
-- Localized power with vertical farming technology mean that food production can happen at
+- Build localized power with vertical farming technology, so food production can happen at
   scale, almost anywhere.  
-- Steel minimills will no longer have to be sited according to power availability.  
-- &hellip; and a ton of other applications dependent on compact, localized, clean power.  
+- Build steel minimills near where steel is needed or near transportation nexi; they no
+  longer have to be sited according to power availability.  
+- Build carbon sequestration plants all over, using fusion power to capture and store CO2
+  underground in more stable forms, like the Orca plant in 
+  Iceland. <sup id="fn24a">[[24]](#fn24)</sup>  Orca is currently geothermal, which works
+  in Iceland but not elsewhere.  Cheap fusion power means we could do that _everywhere._  
+
+&hellip; and a ton of other applications dependent on compact, localized, clean power.  
 
 
 ## The Weekend Conclusion: 12 Reasons to be Confused  
@@ -571,13 +587,13 @@ have the (nearly) last word:
 > It was the best of times, it was the worst of times, it was the age of wisdom, it was
 > the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it
 > was the season of light, it was the season of darkness, it was the spring of hope, it
-> was the winter of despair.  &mdash; Charles Dickens, _A Tale of Two Cities_  
+> was the winter of despair.  &mdash; Charles Dickens, __A Tale of Two Cities__  
 
 So shall we go against our natural grain and be optimists?  Or shall we be pessimists and
 depressed forever?  It's a difficult choice for me.  
 
 I was recently impressed by an essay of Jason Crawford at
-_Less Wrong_ <sup id="fn24a">[[24]](#fn24)</sup> on the subject of what exactly optimism
+_Less Wrong_ <sup id="fn25a">[[25]](#fn25)</sup> on the subject of what exactly optimism
 and pessimism mean.  He distinguishes:  
 - _Descriptive optimisim:_ Believing that good things will naturally happen.  This is the
   view of the maddening Professor Pangloss: "this is the best of all possible worlds."
@@ -594,7 +610,7 @@ done, and where I can pitch in.
 In fancier language: [Romain Rollard](https://en.wikipedia.org/wiki/Romain_Rolland),
 French writer &amp; Nobel Laureate, reviewing
 [Raymond Lefebvre](https://en.wikipedia.org/wiki/Raymond_Lefebvre)'s
-_The Sacrifice of Abraham_ (quoted by DJ Fisher: <sup id="fn25a">[[25]](#fn25)</sup>),
+_The Sacrifice of Abraham_ (quoted by DJ Fisher: <sup id="fn26a">[[26]](#fn26)</sup>),
 on being an optimist without hope:  
 
 > this intimate alliance &ndash; which for me makes the true man &ndash; of __pessimism of the intelligence, which penetrates every illusion, and optimism of the will.__ It is this natural bravery that is the flower of a good people, which __"does not need to hope to undertake and to succeed to persevere,"__ but which lives in struggle over and above suffering, doubt, and the blasts of nothingness because his fiery life is the negation of death.  
@@ -668,6 +684,8 @@ Professor Pangloss:
 
 <a id="fn23">23</a>: CFS Staff, ["Commonwealth Fusion Systems creates viable path to commercial fusion power with world’s strongest magnet"](https://cfs.energy/news-and-media/cfs-commercial-fusion-power-with-hts-magnet/), Commonwealth Fusion Systems press releases, 2021-Sep-08. [↩](#fn23a)  
 
-<a id="fn24">24</a>: J Crawford, ["Descriptive vs. Prescriptive Optimism"](https://www.lesswrong.com/posts/cTCxMjjTcR525o4X6/descriptive-vs-prescriptive-optimism), _Less Wrong_ blog, 2022-Jan-22. [↩](#fn24a)  
+<a id="fn24">24</a>: B Panko, ["World’s Largest Carbon Capture Plant Opens in Iceland"](https://www.smithsonianmag.com/smart-news/worlds-largest-carbon-capture-plant-opens-iceland-180978620/), _Smithsonian Magazine_, 2021-Sep-09. [↩](#fn24a)  
 
-<a id="fn25">25</a>: DJ Fisher, ["Romain Rolland and the Politics of Intellectual Engagement"](https://publishing.cdlib.org/ucpressebooks/view?docId=ft538nb2x9&chunk.id=d0e6265&toc.id=&brand=ucpress), Univ Calif Press, 1988.  See header quote to "Conclusion". Also [here](http://ark.cdlib.org/ark:/13030/ft538nb2x9/).  The quote is from Rolland's review of R Lefebvre's _The Sacrifice of Abraham._  [↩](#fn25a)  
+<a id="fn25">25</a>: J Crawford, ["Descriptive vs. Prescriptive Optimism"](https://www.lesswrong.com/posts/cTCxMjjTcR525o4X6/descriptive-vs-prescriptive-optimism), _Less Wrong_ blog, 2022-Jan-22. [↩](#fn25a)  
+
+<a id="fn26">26</a>: DJ Fisher, ["Romain Rolland and the Politics of Intellectual Engagement"](https://publishing.cdlib.org/ucpressebooks/view?docId=ft538nb2x9&chunk.id=d0e6265&toc.id=&brand=ucpress), Univ Calif Press, 1988.  See header quote to "Conclusion". Also [here](http://ark.cdlib.org/ark:/13030/ft538nb2x9/).  The quote is from Rolland's review of R Lefebvre's _The Sacrifice of Abraham._  [↩](#fn26a)  
