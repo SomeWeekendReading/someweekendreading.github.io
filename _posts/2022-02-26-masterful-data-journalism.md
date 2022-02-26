@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Masterful Data Journalism on Political Resistance to COVID-19 Vaccines
+title: Masterful Data Journalism on US Political Resistance to COVID-19 Vaccines
 tags:  COVID PharmaAndBiotech Politics
 comments: true
 ---
