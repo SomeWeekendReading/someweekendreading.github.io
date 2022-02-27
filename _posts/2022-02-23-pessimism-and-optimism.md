@@ -6,7 +6,7 @@ comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why I'm always so dour.
-Well, times are hard: pandemic waves, disinformation &amp; death, potential nuclear war
+Well, times _are_ hard: pandemic waves, disinformation &amp; death, potential nuclear war
 over Ukraine, the rise of the fascist right, climate change not only unchecked but
 furiously denied, and so on.  So let's take some inventory of our problems&hellip; and
 maybe a few points that (may) cause hope for the future.  
@@ -14,11 +14,12 @@ maybe a few points that (may) cause hope for the future.
 
 ## The Bad News: 6 Reasons to Despair  
 
-Ok, fair question: why _am_ I so dour these days?  Lifelong clinical depression and
+Fair question: why _am_ I so dour these days?  Lifelong clinical depression and
 becoming an old man probably have something to do with it.  But&hellip; so does the state
 of the external world.  
 
-To wit, 6 reasons chosen _ad libitum_ from recent news (actually, from my open browser tabs):
+To wit, 6 reasons chosen _ad libitum_ from recent news (actually, from my open browser
+tabs, if you want to know my sources):
 
 ### Reason 1: The collapse of&hellip; everything?&hellip; into fascism  
 
@@ -45,18 +46,18 @@ treatment is wishful thinking; emphasis added below by your humble Weekend Edito
 > across Eastern Europe, Mandela coming out of prison and the end of apartheid, the Oslo
 > peace process that seemed to bring stability to the Middle East.  
 >  
-> __I obsess about those years now.__ I obsess about them because the good times did not
-> last. History is reverting toward barbarism. We have an authoritarian strongman in
-> Russia threatening to invade his neighbor, an increasingly authoritarian China waging
-> genocide on its people and threatening Taiwan, cyberattacks undermining the world order,
-> democracy in retreat worldwide, thuggish populists across the West undermining nations
-> from within.  
+> __I obsess about those years now.__ I obsess about them because
+> __the good times did not last.__ History is reverting toward barbarism. We have an
+> authoritarian strongman in Russia threatening to invade his neighbor, an increasingly
+> authoritarian China waging genocide on its people and threatening Taiwan, cyberattacks
+> undermining the world order, democracy in retreat worldwide, thuggish populists across
+> the West undermining nations from within.  
 >  
 > __What the hell happened?__  
 
-Yes: "what the hell happened?" is indeed the correct question, with especial emphasis on
+Yes: "what the hell happened?" is indeed the correct question (with especial emphasis on
 the technical use of the word "hell" as the theologically correct description of our collective
-suffering.  Well done, Brooks: we don't agree on much, but I'm with you on this one.  
+suffering).  Well done, Brooks: we don't agree on much, but I'm with you on this one.  
 
 He goes on to describe this as the collapse of "the liberal order", using 'liberal' in a
 certain technically correct poli sci sense, but possibly gleefully hoping people will
@@ -136,6 +137,7 @@ little data to back up the promising title.
 
 ### Reason 3: Red COVID  
 
+<!-- *** Make the firs 3 images narrower than usual, to fit? -->
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-1.jpg" width="400" height="513" alt="Leonhardt @ NYT: Red America's COVID Problem" title="Leonhardt @ NYT: Red America's COVID Problem" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-2.jpg" width="400" height="543" alt="Leonhardt @NYT: Red COVID" title="Leonhardt @NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3.jpg" width="400" height="503" alt="Leonhardt @ NYT: Red COVID Update" title="Leonhardt @ NYT: Red COVID Update" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">

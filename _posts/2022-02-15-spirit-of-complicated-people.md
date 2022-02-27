@@ -164,15 +164,15 @@ of Nepomuk?"
 He became a priest, Catholic of course, and apparently advanced to relatively high degree.
 That meant he was a member of one hierarchy (Gr _hieros_ + _arkhein_ = holy/priestly rulers)
 competing against another hierarchy, the aristocracy and royals.  Funny thing about hierarchies:
-they do _not_ play well with others.  What they _do_ is demand submission to dominance
+they do _not_ play well with others.  What they _do_ is demand submission to their dominance
 displays.  Accounts vary, but one of a couple things happened:  
-1. Jan Nepomuk somehow got caught in the gears of the machine of conflict between church
+1. Jan Nepomuk somehow got caught in the gears of the machinery of conflict between church
    and state. King Wenceslas IV wanted to appoint bishops himself, while the Catholic
-   hierarchy had other ideas.  So, a conflict of political power.  
+   hierarchy had other ideas.  So&hellip; a conflict of political power?  
 2. Jan Nepomuk was hearing the confession of Queen Sophia, and afterwards the jealous King
    Wenceslas wanted to know what his wife said.  The Seal of the Confessional meant
-   absolute secrecy, so&hellip; a conflict with a very powerful, very jealous, very
-   enraged husband.  
+   absolute secrecy.  So&hellip; a conflict with a very powerful, very jealous, very
+   enraged husband?  
 
 Situation number 2 is what's depicted in the reliefs above.  The woman in
 the background of the first relief is speaking into the grille in a confessional.  The
@@ -197,7 +197,7 @@ sockets, torn muscle and tendon, and generally left no use of limbs to the victi
 Swimming would be out of the question, and drowning a certainty.  
 
 
-## Umm&hellip; happy dog story?  
+## Umm&hellip; where's my happy dog story?  
 
 Well, that went dark fast.  
 
@@ -268,7 +268,7 @@ In this bottom photo, I can just about make out the Latin inscription:
 > DEIECTO  
 >  
 > EREXIT  
-> MATHIAS LB  
+> MATHIAS L.B.  
 > DE WUNSCHWITZ  
 > ANNO MDCLXXXIII  
 
@@ -283,12 +283,13 @@ _deiicio_):
 > cast down  
 >  
 > Erected by  
-> Mathias LB  
+> Mathias L.B.  
 > of Wunschwitz  
 > in the year 1683  
 
 That matches what we know: the statue was built in 1683 by one Jan Brokoff, based on a
-model by Matthias Rauchmiller.  (So I don't know what the "LB" after Mathias means?)
+model by Matthias Rauchmiller.  (So I don't know what the "LB" after Mathias means?  See
+below; one commenter thinks the B has something to do with a barony.)
 Interestingly, this is well _before_ Jan Nepomuk was beatified in 1721 or canonized
 in 1729.  
 
