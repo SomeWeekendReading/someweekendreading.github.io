@@ -137,10 +137,9 @@ little data to back up the promising title.
 
 ### Reason 3: Red COVID  
 
-<!-- *** Make the firs 3 images narrower than usual, to fit? -->
-<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-1.jpg" width="400" height="513" alt="Leonhardt @ NYT: Red America's COVID Problem" title="Leonhardt @ NYT: Red America's COVID Problem" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-2.jpg" width="400" height="543" alt="Leonhardt @NYT: Red COVID" title="Leonhardt @NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3.jpg" width="400" height="503" alt="Leonhardt @ NYT: Red COVID Update" title="Leonhardt @ NYT: Red COVID Update" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-1.jpg" width="200" height="257" alt="Leonhardt @ NYT: Red America's COVID Problem" title="Leonhardt @ NYT: Red America's COVID Problem" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-2.jpg" width="200" height="272" alt="Leonhardt @NYT: Red COVID" title="Leonhardt @NYT: Red COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3.jpg" width="200" height="252" alt="Leonhardt @ NYT: Red COVID Update" title="Leonhardt @ NYT: Red COVID Update" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-1.jpg"><img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-1-thumb.jpg" width="400" height="409" alt="Cumulative US COVID deaths/capita, by county Trump vote share" title="Cumulative US COVID deaths/capita, by county Trump vote share" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-2.jpg"><img src="{{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-nyt-leonhardt-3-plot-2-thumb.jpg" width="400" height="303" alt="US death rates/capita, 30-day trailing average, by county Trump vote share" title="US death rates/capita, 30-day trailing average, by county Trump vote share" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
