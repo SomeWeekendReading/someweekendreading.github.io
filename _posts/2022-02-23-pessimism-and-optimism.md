@@ -167,7 +167,7 @@ the US, as well as trailing 30 day death rates:
     
 [Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
 is a shameful taste to acquire, but it feels as though the world is forcing this upon
-those of us who survive.  
+the survivors.  
 
 ### Reason 4: Republican vaccine defiance  
 
