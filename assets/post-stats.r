@@ -87,8 +87,8 @@ postStats <- function(## Inputs
                                  else                  # Else derive plot file from transcript file
                                    sub("^(.*)\\.txt$", "\\1.png", txFile)) {
 
-  dateYear    <- function(d)  { as.integer(format(d, format = "%Y"))                           }
-  dateYearEnd <- function(d)  { as.Date(sprintf("%d-12-31", dateYear(d)), format = "%Y-%m-%d") }
+  dateYear    <- function(d) { as.integer(format(d, format = "%Y"))                           }
+  dateYearEnd <- function(d) { as.Date(sprintf("%d-12-31", dateYear(d)), format = "%Y-%m-%d") }
 
   getPostData <- function(postStartDate, hitStartDate, today, postsDir, postPatt, jsonRegexp,
                           countURL, commentsDir, commentPatt, year) {
