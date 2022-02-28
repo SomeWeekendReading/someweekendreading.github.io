@@ -1186,3 +1186,6 @@ _Business Week_, 14-Nov-2003.
 - "When you're in a hurry, all data are short-term."  
 - "I probably won't follow your orders, but I may follow your example."  
 - "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones too, but in a theology-dependent way.)"  
+- "[Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
+  is a shameful taste to acquire."  (__NB:__ I know Scalzi did it, but ironically and
+  brilliantly.  He's not what I mean here.)   
