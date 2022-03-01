@@ -52,8 +52,11 @@ Tiresome or not, it's the right thing.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Not today, man.  Not today.  Too much crap in the world: right-wing
-fascism, Republicans undermining democracy, screamingly hysterical anti-vaxxers, Trump
-_still_ not indicted (let alone convicted and imprisoned), &hellip;  I need to take Emma's
-advice above and find something good, just for my own survival.  Maybe you could do the
-same, and tell me about your adventures in doing so? [↩]  
+<a id="fn1">1</a>: Not today, man.  Not today.  
+
+Too much crap in the world: right-wingfascism, Republicans undermining democracy,
+screamingly hysterical anti-vaxxers, Trump _still_ not indicted (let alone convicted and
+imprisoned), &hellip;  
+
+I need to take Emma's advice above and find something good, just for my own survival.
+Maybe you could do the same, and tell me about your adventures in doing so? [↩]  
