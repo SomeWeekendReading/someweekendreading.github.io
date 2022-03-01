@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ukraine &amp; Russian: A Lack of THoughts
+title: Ukraine &amp; Russia&colon; A Lack of THoughts
 tags:  MeaCulpa Sadness SomebodyAskedMe Politics
 comments: true
 ---
