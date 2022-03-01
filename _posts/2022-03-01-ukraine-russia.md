@@ -14,7 +14,7 @@ about the invasion of Ukraine by Russian.  Well&hellip;
    no particular reason to trust my own feelings, and thus _really_ no reason for you to
    listen to me.  At least not on this subject.  
 2. It's just such a subject of _despair_ for me.  There are so many possibilities for a
-   better world, and yet we keep shooting ourselves in the foot.  (And each other's feet,
+   better world, and yet we keep shooting ourselves in the foot.  (And _each other's_ feet,
    just to be thorough.)  The rise of right-wing fascism should be a shame to humanity.  I
    wouldn't want to write a post that infected you with my despair.  There are no
    vaccinations for that!  
