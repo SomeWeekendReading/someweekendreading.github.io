@@ -1188,4 +1188,6 @@ _Business Week_, 14-Nov-2003.
 - "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones too, but in a theology-dependent way.)"  
 - "[Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
   is a shameful taste to acquire."  (__NB:__ I know Scalzi did it, but ironically and
-  brilliantly.  He's not what I mean here.)   
+  brilliantly.  He's not what I mean here.)  
+- "Interpretation is an active choice that you _must_ make, lest the world make an
+  unsavory choice for you."  
