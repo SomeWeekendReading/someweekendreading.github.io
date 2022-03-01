@@ -12,12 +12,12 @@ about the invasion of Ukraine by Russian.  Well&hellip;
 
 1. I'm in no way an expert on eastern Europe's politics, economies, or histories.  There's
    no particular reason to trust my own feelings, and thus _really_ no reason for you to
-   listen to me.  
+   listen to me.  At least not on this subject.  
 2. It's just such a subject of _despair_ for me.  There are so many possibilities for a
-   better world, and yet we keep shooting ourselves in the foot.  And each other's feet,
-   just to be thorough.  The rise of right-wing fascism should be a shame to humanity.  I
-   wouldn't want to write a post that infected you with my despair.  No vaccinations for
-   that!  
+   better world, and yet we keep shooting ourselves in the foot.  (And each other's feet,
+   just to be thorough.)  The rise of right-wing fascism should be a shame to humanity.  I
+   wouldn't want to write a post that infected you with my despair.  There are no
+   vaccinations for that!  
    
 <iframe width="400" height="224" src="https://www.youtube.com/embed/qTmUx1tGZUk" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 In the meantime, I'm trying to take advice from professionals, such as the
@@ -32,7 +32,7 @@ good stuff, because
 ["Interpretation is an active choice that you _must_ make, lest the world make an unsavory choice for you"]({{ site.baseurl }}/quotes/#your-humble-weekend-editor),
 as I say with apparently tiresome frequency.  
 
-But so I say again today.  
+But so I say again today.  Tiresome or not, it's the right thing.  
 
 ---
 
