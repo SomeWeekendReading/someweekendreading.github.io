@@ -32,7 +32,9 @@ good stuff, because
 ["Interpretation is an active choice that you _must_ make, lest the world make an unsavory choice for you"]({{ site.baseurl }}/quotes/#your-humble-weekend-editor),
 as I say with apparently tiresome frequency.  
 
-But so I say again today.  Tiresome or not, it's the right thing.  
+But so I say again today.  
+
+Tiresome or not, it's the right thing.  
 
 ---
 
