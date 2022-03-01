@@ -54,9 +54,9 @@ Tiresome or not, it's the right thing.
 
 <a id="fn1">1</a>: Not today, man.  Not today.  
 
-Too much crap in the world: right-wingfascism, Republicans undermining democracy,
+Too much crap in the world: right-wing fascism, Republicans undermining democracy in the US,
 screamingly hysterical anti-vaxxers, Trump _still_ not indicted (let alone convicted and
-imprisoned), &hellip;  
+imprisoned), &hellip; and now Russia threatening nuclear war.  
 
 I need to take Emma's advice above and find something good, just for my own survival.
 Maybe you could do the same, and tell me about your adventures in doing so? [↩]  
