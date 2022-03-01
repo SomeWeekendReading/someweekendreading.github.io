@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ukraine &amp; Russia&colon; A Lack of THoughts
+title: Ukraine &amp; Russia&colon; A Lack of Thoughts
 tags:  MeaCulpa Sadness SomebodyAskedMe Politics
 comments: true
 ---
@@ -54,4 +54,4 @@ But so I say again today.  Tiresome or not, it's the right thing.
 fascism, Republicans undermining democracy, screamingly hysterical anti-vaxxers, Trump
 _still_ not indicted (let alone convicted and imprisoned), &hellip;  I need to take Emma's
 advice above and find something good, just for my own survival.  Maybe you could do the
-same, and tell me about your adventures in doing so? [↩](#fn1a)  
+same, and tell me about your adventures in doing so? [↩]  
