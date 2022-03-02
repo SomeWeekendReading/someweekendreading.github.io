@@ -63,10 +63,11 @@ postStats <- function(## Inputs
                       jsonRegexp    = "^\\{.*\"value\":([0-9]+).*\\}$",
                       blogName      = "www.someweekendreading.blog",
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
-                      ## *** 2022-Jan-14: SSL certificate is expired; emailed developer
+                      ## *** 2022-Jan-14: SSL certificate is expired; emailed author
                       ##     2022-Feb-21: still expired; need command-line test case with curl?
-                      ##  $ curl --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
-                      ##  $ curl --insecure --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
+                      ##     2022-Mar-02: still expired; wrote author again with curl examples
+                      ## $ curl --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
+                      ## $ curl --insecure --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
                       sslVerify     = FALSE, # TRUE,
                       hitStartDate  = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
                       postStartDate = as.Date("2020-Jul-01", format = "%Y-%b-%d"),
