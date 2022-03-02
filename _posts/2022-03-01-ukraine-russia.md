@@ -6,7 +6,7 @@ comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why I haven't said anything
-about the invasion of Ukraine by Russian.  Well&hellip;
+about the invasion of Ukraine by Russia.  Well&hellip;
 
 ## Two Reasons  
 
