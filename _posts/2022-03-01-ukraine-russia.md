@@ -21,7 +21,7 @@ about the invasion of Ukraine by Russia.  Well&hellip;
    
 <iframe width="400" height="224" src="https://www.youtube.com/embed/qTmUx1tGZUk" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 In the meantime, I'm trying to take advice from professionals, such as the
-psychotherapist's video shown here.
+psychotherapist Emma McAdam's video shown here.
 
 __Summary:__ Your brain searches avidly for sources of danger, but only somewhat
 desultorily for sources of good news.  _There is a lot of good news in the world,_ but you
