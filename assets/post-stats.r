@@ -27,20 +27,16 @@ suppressPackageStartupMessages({                       # Ssshh!  Quiet in the li
 ##
 ## or, to make files for the year-in-review post:
 ##
-## *** Done for 2020 year-end post; do not repeat without editing!  (Add 2022 year-end version,
-##     do 2022 and omnibus, re-use previous files when posting.)
-## > postData2020    <- postStats(year = 2020L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2020-yearend.txt")
-## > postData2021    <- postStats(year = 2021L, destDir = ".", txFile = "2022-01-01-letat-du-blog-2021-post-stats-2021-yearend.txt")
-##
-## *** For 2022 year-end post; replace XXX.txt with transcript file based on post filename.
+## *** For 2022 l'etat du blog post; replace XXX.txt with transcript file based on post filename.
 ## > postData2022    <- postStats(year = 2022L, destDir = ".", txFile = "XXX.txt")
 ## > postDataOmnibus <- postStats(              destDir = ".", txFile = "XXX.txt")
 ##
-## or
+## or, in an R session to prevent recomputation of earlier phases:
 ##
 ## > postData <- postStats(clear = c("postData", "postDataSaved", "plotDone")) # or a subset of those
 ##
-## See also post-stats, an RScript file in this directory for use at the (Unix) command line.
+## See also post-stats, an RScript file in this directory for use at the (Unix) command line:
+## $ ./assets/post-stats
 ##
 
 ## *** Do regression in left half of image, splice in heatmap image in right half of image?
@@ -132,8 +128,11 @@ postStats <- function(## Inputs
                  HitsEnd      = today)                 #  and today.  Counts are in that interval.
     }, .progress = progress_text())                    # Takes a minute; might as well show progress
 
-    ## *** Might it be better to do this in the ldply(), to avoid having to collect all the rest?
-    ## OTOH, this exercises each counter, making sure the server doesn't GC it?
+    ## Yes, it would be faster to do this filter in the ldply() loop above, downloading only
+    ## the counts in which we're interested.  On the other hand, the server will GC counts that
+    ## haven't been accessed in 6 months, so doing it this way keeps all the keys current.
+    ## (https://countapi.xyz says it must be "updated" every 6 months; I'm not sure if access via
+    ## "get" constitutes "update"?)
     if (!is.na(year)) {                                # Wants to restrict to a single year
       stopifnot(is.integer(year)                &&     # Check the year is a reasonable number
                 dateYear(postStartDate) <= year &&     #
@@ -363,7 +362,8 @@ postStats <- function(## Inputs
   ## *** Add capability for summary by quarters instead of years
   ## *** Add number of comments not from me for each year
   ## *** Add number of comments from me for each year
-  ## *** Total unique commenters for each year (and hand-collapse known spelling variations)
+  ## *** Total unique commenters for each year (and hand-collapse known spelling variations,
+  ##     compare with unique MD5 hashes of emails)
   summarizePostFrequency <- function(postData, commentsDir, commentPatt) {
     ## Returns a dataframe summarizing post frequency by year and overall, e.g.:
     ##    Year NPosts NDays NComments DaysPerPost DaysPerComment CommentsPerPost
@@ -377,10 +377,12 @@ postStats <- function(## Inputs
       unixTimestampYear <- function(ts) { dateYear(as.Date(as.POSIXct(ts, origin = "1970-01-01"))) }
 
       ## NB: Timestamps are 13-digit integers, apparently msec since Unix epoch 1970-01-01.
-      ##     It would be more traditional to do it in seconds, and have a 10-digit integer,
-      ##     which would fit into a 32-bit word.  So we convert to double via as.numeric(),
-      ##     divide by 1000msec/sec to get to seconds, and convert to integer via as.integer().
-      ##     Then convert THAT to a Date and extract the year.  Phew!
+      ##     (It would be more traditional to do it in seconds, and have a 10-digit integer,
+      ##     which would fit into a 32-bit word, but we have some non-traditionalists here.)
+      ##
+      ##     So we convert to double-float via as.numeric(), divide by 1000msec/sec to get the
+      ##     seconds elapsed, then convert THAT to integer via as.integer().  Then convert THAT
+      ##     to a Date and extract the year.  Phew!
       sapply(list.files(path = commentsDir, patt = commentPatt, recursive = TRUE), function(cf) {
         unixTimestampYear(as.integer(as.numeric(sub(commentPatt, "\\1", cf)) / 1000))
       })                                               #
@@ -395,7 +397,7 @@ postStats <- function(## Inputs
         yr <- as.integer(yr)                           # Defensive programming: convert to integer
         stopifnot(is.integer(yr) && yr >= 1583)        # First full year of Gregorian calendar
         (yr %% 4 == 0) && (!(yr %% 100 == 0) || (yr %% 400 == 0))
-      }                                                # Returns TRUE if yr i
+      }                                                # Returns TRUE if yr is a leap year
 
       currDate <- Sys.Date()                           # Current date
       currYr   <- as.integer(format(currDate, "%Y"))   # Current year and
