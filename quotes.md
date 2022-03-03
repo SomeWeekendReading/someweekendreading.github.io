@@ -95,6 +95,8 @@ coordination were founded: the United Nations and Starfleet." &mdash; Ozy Brenna
 
 ## The Political Ones &amp; The Economic Dismals  
 
+"When you don't want to do something because it would 'send the wrong message' it is clear that you are imposing restrictions in order to send messages." &mdash; [Zvi Mowshowitz](https://en.wikipedia.org/wiki/Zvi_Mowshowitz), [_TheZvi_ blog, 2022-Mar-03](https://thezvi.wordpress.com/2022/03/03/covid-3-3-2022-move-along/).  
+
 "The law of our world is pain, the scar that teaches the hardness of days and leaves its mark in every heart." &mdash; [Chorus](https://zgreatbatch.wordpress.com/agamemnon-2/) in [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)'s [_Agamemnon_](https://en.wikipedia.org/wiki/Aeschylus#Agamemnon), first play of the [Oresteia](https://en.wikipedia.org/wiki/Aeschylus#The_Oresteia_(458_BC)) (458BCE). __NB:__ See [below](#your-humble-weekend-editor), where your humble Weekend Editor opines that the point of civilization is to be _less brutal_ than nature.  While Aeschylus may have a point, _we can do better._  And should.  
 
 "I must study politics and war, that our sons may have liberty to study mathematics and
