@@ -95,7 +95,7 @@ coordination were founded: the United Nations and Starfleet." &mdash; Ozy Brenna
 
 ## The Political Ones &amp; The Economic Dismals  
 
-"When you don't want to do something because it would 'send the wrong message' it is clear that you are imposing restrictions in order to send messages." &mdash; [Zvi Mowshowitz](https://en.wikipedia.org/wiki/Zvi_Mowshowitz), [_TheZvi_ blog, 2022-Mar-03](https://thezvi.wordpress.com/2022/03/03/covid-3-3-2022-move-along/).  
+"When you don't want to do something because it would 'send the wrong message' it is clear that you are imposing restrictions in order to send messages." &mdash; [Zvi Mowshowitz](https://en.wikipedia.org/wiki/Zvi_Mowshowitz), [_Don't Worry About the Vase_ blog, 2022-Mar-03](https://thezvi.wordpress.com/2022/03/03/covid-3-3-2022-move-along/).  
 
 "The law of our world is pain, the scar that teaches the hardness of days and leaves its mark in every heart." &mdash; [Chorus](https://zgreatbatch.wordpress.com/agamemnon-2/) in [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)'s [_Agamemnon_](https://en.wikipedia.org/wiki/Aeschylus#Agamemnon), first play of the [Oresteia](https://en.wikipedia.org/wiki/Aeschylus#The_Oresteia_(458_BC)) (458BCE). __NB:__ See [below](#your-humble-weekend-editor), where your humble Weekend Editor opines that the point of civilization is to be _less brutal_ than nature.  While Aeschylus may have a point, _we can do better._  And should.  
 
@@ -491,7 +491,7 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 ## Those of Rational &amp; Scientific Bent
 
-"Remember to always be praising people when they finally do the right thing, regardless of whether they first exhausted all alternatives." &mdash; Zvi Mowshowitz, [_The Zvi_](https://thezvi.wordpress.com/2021/07/08/covid-7-8-delta-takes-over/), 2021-Jul-08.  
+"Remember to always be praising people when they finally do the right thing, regardless of whether they first exhausted all alternatives." &mdash; Zvi Mowshowitz, [_Don't Worry About the Vase_](https://thezvi.wordpress.com/2021/07/08/covid-7-8-delta-takes-over/) blog, 2021-Jul-08.  
 
 "If you teach a man to fish, he'll be eating fish for a lifetime. Teach him to teach himself to fish, and you've given him the fundamental life skill of figuring things out on his own." &mdash; [Wylie Beckert](https://www.muddycolors.com/2021/01/the-wisdom-of-the-lazy-teacher/), "The Wisdom of the Lazy Teacher", expanding the proverb "Give a man a fish and he eats for a day; teach a man to fish and he eats for a lifetime."  
 
@@ -668,8 +668,7 @@ don't struggle to get them right."
 "Truth must be repeated again and again, because error is constantly being preached around it."
 &mdash; [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)
 
-"Always side with the truth. It's much bigger than you are."
-&mdash; [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden)
+"Always side with the truth. It's much bigger than you are." &mdash; [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden)  
 
 "I believe that no discovery of fact, however trivial, can be wholly useless to the
 race, and that no trumpeting of falsehood, however virtuous in intent, can be anything
