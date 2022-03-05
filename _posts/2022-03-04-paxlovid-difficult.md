@@ -71,7 +71,7 @@ Reducing her article to a bullet list and not diving deeply into each paper, I g
   Overall, the UK's Health Security Agency estimated the risk of death from Omicron at
   about 60% of the risk from Delta. <sup id="fn16a">[[16]](#fn16)</sup>  
 - Some reasons for mildness may be that it doesn't replicate as well in 
-  lung <sup id="fn8a">[[8]]</sup> and that it triggers interferon 
+  lung <sup>[[8]](#fn8)</sup> and that it triggers interferon 
   responses <sup id="fn17a">[[17]](#fn17)</sup> which invoke antiviral immunity.  
 
 Overall, Omicron is a nasty bit of work.  Now that the BA.2 variant of Omicron is here, we
@@ -268,7 +268,7 @@ Oh, and let's not start a nuclear war, ok?  (Just in case Putin reads this.)
 
 <a id="fn13">13</a>: RP Bhattacharyya, _et al.,_ ["Challenges in Inferring Intrinsic Severity of the SARS-CoV-2 Omicron Variant"](https://www.nejm.org/doi/full/10.1056/NEJMp2119682), _N Engl J Med_ 386:e14, 2022-Feb-17.  DOI: [10.1056/NEJMp2119682](https://doi.org/10.1056/NEJMp2119682). [↩](#fn13a)  
 
-<a id="fn14">14</a>: JM Ferdinands, _et al.,_ ["Waning 2-Dose and 3-Dose Effectiveness of mRNA Vaccines Against COVID-19–Associated Emergency Department and Urgent Care Encounters and Hospitalizations Among Adults During Periods of Delta and Omicron Variant Predominance — VISION Network, 10 States, August 2021–January 2022"](https://www.cdc.gov/mmwr/volumes/71/wr/mm7107e2.htm?s_cid=mm7107e2_w), CDC _Morbidity and Mortality Weekly Report_, 71:7, 255-263, 2022-Feb-18.  DOI: [10.15585/mmwr.mm7107e2external icon]( http://dx.doi.org/10.15585/mmwr.mm7107e2external icon). [↩](#fn14a)  
+<a id="fn14">14</a>: JM Ferdinands, _et al.,_ ["Waning 2-Dose and 3-Dose Effectiveness of mRNA Vaccines Against COVID-19–Associated Emergency Department and Urgent Care Encounters and Hospitalizations Among Adults During Periods of Delta and Omicron Variant Predominance — VISION Network, 10 States, August 2021–January 2022"](https://www.cdc.gov/mmwr/volumes/71/wr/mm7107e2.htm?s_cid=mm7107e2_w), CDC _Morbidity and Mortality Weekly Report_, 71:7, 255-263, 2022-Feb-18.  DOI: [10.15585/mmwr.mm7107e2external icon]( http://dx.doi.org/10.15585/mmwr.mm7107e2). [↩](#fn14a)  
 
 <a id="fn15">15</a>: JP Evans, _et al.,_ ["Neutralizing antibody responses elicited by SARS-CoV-2 mRNA vaccination wane over time and are boosted by breakthrough infection"](https://www.science.org/doi/10.1126/scitranslmed.abn8057), _Science Translational Medicine_, 2022-Feb-15.  DOI: [10.1126/scitranslmed.abn8057](https://doi.org/10.1126/scitranslmed.abn8057). [↩](#fn15a)  
 
