@@ -215,7 +215,8 @@ world, then maybe we'll have learned a number of important lessons.
 > [__What's Wrong with the World?__ (1910), Chapter 5](http://www.gutenberg.org/etext/1717).  
 
 <img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-chesterton-thursday.jpg" width="300" height="283" alt="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" title="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-(Sure, Chesterton's a bit preachy.  But he's brilliantly funny, too.  Try out 
+(Sure, Chesterton's a bit preachy.  But he's brilliantly funny,
+too.  <sup id="fn19a">[[19]](#fn19)</sup>  Try out
 [_The Man Who Was Thursday_](https://www.gutenberg.org/files/1695/1695-h/1695-h.htm), for example.)  
 
 Making paxlovid has been found difficult&hellip; but worthwhile.  We're _trying._  
