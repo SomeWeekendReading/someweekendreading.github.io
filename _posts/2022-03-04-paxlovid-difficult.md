@@ -60,7 +60,7 @@ Reducing her article to a bullet list and not diving deeply into each paper, I g
   2022-Mar-01. <sup id="fn10a">[[10]](#fn10)</sup>  
 - Omicron is _especially_ good at spreading from cell to cell by preventing immune
   surveillance, estimated at 5x better than earlier versions. <sup id="fn11a">[[11]](#fn11)</sup>
-  Some of this may be due to the increased negative charge that binds to the ACE2 receptor
+  Some of this may be due to the increased positive charge that binds to the ACE2 receptor
   better, while simultaneously repelling some antibodies.  
 - Also, some particularly cunning placement of a sugar in Omicron's spike may guard
   against the immune system. <sup id="fn12a">[[12]](#fn12)</sup>  
@@ -175,9 +175,9 @@ accent on the first syllable ("PAXlovid").  Would that this were our main proble
     block the liver enzyme CYP3A which would break 
     down nirmatrelvir, so it makes nirmatrelvir stay resident in the body longer.  It's
     also a mild protease inhibitor on it's own, but the main effect is as an adjuvant to
-    make other drugs stronger.  That's it's role in the current AIDS cocktails, and the
-    main problem with interactions with all kinds of other drugs.  Still, it's already
-    manufactured in quantity, so it's not the supply problem.  
+    make other drugs stronger.  That's its role in the current AIDS/HepC cocktails, and
+    also the main problem that it interacts with all kinds of other drugs.  Still, it's
+    already manufactured in quantity, so it's not the supply problem.  
 - It initially took about 9 months to synthesize nirmatrelvir, though after some process
   optimization (somebody's losing sleep over this in a serious way!), that's now down to
   about 7 months.  You can make mRNA vaccine doses faster than this!  
@@ -227,7 +227,8 @@ Making paxlovid has been found difficult&hellip; but worthwhile.  We're _trying.
 Now if only we can also _try_ to deliver universal health care to all of humanity, before we
 breed a more serious variant that starts wiping us out.  
 
-Oh, and let's not start a nuclear war, ok?  (Just in case Putin reads this.)  
+Oh, and let's not start a nuclear war, ok?  (Just in case Putin reads this.  Worth a shot,
+at least.)  
 
 ---
 
