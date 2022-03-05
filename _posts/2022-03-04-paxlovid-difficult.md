@@ -161,7 +161,7 @@ a long time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #00
 <iframe width="400" height="224" src="https://www.youtube.com/embed/8GHvJPr-Tpg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Having re-learned that valuable lesson, let's move on the the _actual_
 journalism, curated by a science journalist showing signs of
-sanity.  <sup id="fn18a">[[18]](#fn18)</sup>
+actual sanity.  <sup id="fn18a">[[18]](#fn18)</sup>
 
 Ironically, the first thing I learned is that Pfizer-folk pronounce paxlovid with the
 accent on the 2nd syllable ("paxLOvid"), whereas out here in the wild I've only heard the
@@ -201,13 +201,14 @@ Still, with all that: Pfizer's Chief Global Supply Officer, Mike McDermott says 
 interview above that they expect to have 30 million courses available by mid-2022 and 120
 million by the end of 2022.  
 
-That's&hellip; not a _lot_ to share among 8 billion people, though my hope we'll share is
-perhaps yet another celestial delusion about what telestial people will do.  
+That's&hellip; not a _lot_,  when shared among 8 billion people.  Though my hope we'll share is
+perhaps yet another celestial delusion about what telestial people will actually do.  
 
 Still: things are getting better, with higher vaccination rates (glacially slowly) and
-treatment alternatives like paxlovid/bebtelovimab/molnupiravir.  If we somehow learn to
-get those universally available even to the developing world (or the poor in the developed
-world), then maybe we'll have learned a number of important lessons.  
+treatment alternatives like paxlovid/bebtelovimab/molnupiravir (slowly improving supply).
+If we somehow learn to get those universally available even to the developing world (or
+the poor in the developed world), then maybe we'll have learned a number of important
+lessons.  Only some of them will be about COVID-19.  
 
 
 ## The Weekend Conclusion  
@@ -218,17 +219,19 @@ world), then maybe we'll have learned a number of important lessons.
 > [__What's Wrong with the World?__ (1910), Chapter 5](http://www.gutenberg.org/etext/1717).  
 
 <img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-chesterton-thursday.jpg" width="300" height="283" alt="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" title="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-(Sure, Chesterton's a bit preachy.  But he's brilliantly funny,
-too.  <sup id="fn19a">[[19]](#fn19)</sup>  Try out
-[_The Man Who Was Thursday_](https://www.gutenberg.org/files/1695/1695-h/1695-h.htm), for example.)  
+(Sure, Chesterton's a bit preachy.  Sometimes more than a bit.  But he's also brilliantly 
+funny.  <sup id="fn19a">[[19]](#fn19)</sup>  For example, try out
+[_The Man Who Was Thursday_](https://www.gutenberg.org/files/1695/1695-h/1695-h.htm).
+Just see if the opening scene of law enforcement vs terrorists duelling by poetry in a
+park, followed by adjournment to the restaurant in the bad guy's HQ draws your interest.)  
 
-Making paxlovid has been found difficult&hellip; but worthwhile.  We're _trying._  
+Making paxlovid has also been found difficult&hellip; but worthwhile.  We're _trying._  
 
 Now if only we can also _try_ to deliver universal health care to all of humanity, before we
 breed a more serious variant that starts wiping us out.  
 
 Oh, and let's not start a nuclear war, ok?  (Just in case Putin reads this.  Worth a shot,
-at least.)  
+anyway.)  
 
 ---
 
