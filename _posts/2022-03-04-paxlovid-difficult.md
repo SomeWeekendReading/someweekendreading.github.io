@@ -116,7 +116,7 @@ complete autarky, just _shorter_ supply chains and _more_ domestic production.
 Robustness is not free, after all.  
 
 
-## Some things are hard to make, others slow to make, and some both  
+## Some things are hard to make, others slow, and some both  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -210,11 +210,11 @@ world, then maybe we'll have learned a number of important lessons.
 ## The Weekend Conclusion  
 
 <img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-chesterton-wrong.jpg" width="300" height="455" alt="Project Gutenberg: Chesterton's 'Whats Wrong With the World?'" title="Project Gutenberg: Chesterton's 'Whats Wrong With the World?'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-chesterton-thursday.jpg" width="300" height="283" alt="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" title="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 > The Christian ideal has not been tried and found wanting; it has been found difficult
 > and left untried." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
 > [__What's Wrong with the World?__ (1910), Chapter 5](http://www.gutenberg.org/etext/1717).  
 
+<img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-chesterton-thursday.jpg" width="300" height="283" alt="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" title="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 (Sure, Chesterton's a bit preachy.  But he's brilliantly funny, too.  Try out 
 [_The Man Who Was Thursday_](https://www.gutenberg.org/files/1695/1695-h/1695-h.htm), for example.)  
 
