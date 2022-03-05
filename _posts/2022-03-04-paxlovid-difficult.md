@@ -215,7 +215,7 @@ lessons.  Only some of them will be about COVID-19.
 
 <img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-chesterton-wrong.jpg" width="300" height="455" alt="Project Gutenberg: Chesterton's 'Whats Wrong With the World?'" title="Project Gutenberg: Chesterton's 'Whats Wrong With the World?'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 > The Christian ideal has not been tried and found wanting; it has been found difficult
-> and left untried." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+> and left untried. &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
 > [__What's Wrong with the World?__ (1910), Chapter 5](http://www.gutenberg.org/etext/1717).  
 
 <img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-chesterton-thursday.jpg" width="300" height="283" alt="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" title="Project Gutenberg: Chesterton's 'The Man Who Was Thursday'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
