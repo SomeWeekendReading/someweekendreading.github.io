@@ -139,26 +139,27 @@ under any circumstances, read the reply tweets!  The level of stupidity is well 
 toxic:  
 - Multiple assertions that this is just a cash cow for Pfizer to get money from dying
   people, and anybody who disagrees is a stockholder.  
-- Sly assertions that vaccines "just don't work", so somehow this won't either.  
-- Even more blatant assertions that vaccines are somehow harmful, so they won't take a
-  pill from the same company.  
+- Sly assertions that vaccines "just don't work", so somehow this won't work either.  
+- Even more blatant assertions that the Pfizer vaccine is somehow harmful, so one
+  shouldn't take a pill from the same company.  
 - Repeated, and I mean _repeated_, implications that somehow both paxlovid and
   molnupiravir are just ivermectin, 
   [studiously rebunked despite repeated debunking](https://www.someweekendreading.blog/ivermectin-takedowns/#but-covid-19).
   These really seem to be fact-proof beliefs on the dimwitted right.  
-- Utterly bogus assertions that it "isn't needed", and "COVID's over".  
+- Utterly bogus assertions that a viral therapeutic "isn't needed", and "COVID's over".  
 - A few _really_ weird off-topic religious assertions that aren't even _internally_
   consistent.  
 - Outlandish claims that side-effects are being hidden, similar to outlandish claims of
   hidden side-effects in vaccines.  
-- Assertions that vacines cause Parkinson's-like body tremors.  
+- Wild assertions that vacines cause Parkinson's-like body tremors, so maybe this
+  medication will cause some horrible side-effect.  
 
 &hellip;and so on, _ad nauseam._  Now you know why I refuse to touch Facebook or Twitter.  
 
 <img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-ap-1.jpg" width="400" height="172" alt="Murphy @ AP: Why making paxlovid takes a long time" title="Murphy @ AP: Why making paxlovid takes 
 a long time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube.com/embed/8GHvJPr-Tpg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-Having re-learned that lesson, let's move on the the _actual_
+Having re-learned that valuable lesson, let's move on the the _actual_
 journalism, curated by a science journalist showing signs of
 sanity.  <sup id="fn18a">[[18]](#fn18)</sup>
 
@@ -166,10 +167,12 @@ Ironically, the first thing I learned is that Pfizer-folk pronounce paxlovid wit
 accent on the 2nd syllable ("paxLOvid"), whereas out here in the wild I've only heard the
 accent on the first syllable ("PAXlovid").  Would that this were our main problem!  
 
-- Paxlovid is actually a pair of drugs, taken together:  
-  - Nirmatrelvir is the novel protease inhibitor which is the current pain in the rear end
-    to manufacture in quantity.  
-  - Ritonavir is taken with it, mostly to block the liver enzyme CYP3A which would break
+- Paxlovid is actually [a pair of drugs](https://en.wikipedia.org/wiki/Nirmatrelvir/ritonavir),
+  taken together:  
+  - [_Nirmatrelvir_](https://en.wikipedia.org/wiki/Nirmatrelvir) is the novel protease
+    inhibitor which is the current pain in the rear end to manufacture in quantity.  
+  - [_Ritonavir_](https://en.wikipedia.org/wiki/Ritonavir) is taken with it, mostly to
+    block the liver enzyme CYP3A which would break 
     down nirmatrelvir, so it makes nirmatrelvir stay resident in the body longer.  It's
     also a mild protease inhibitor on it's own, but the main effect is as an adjuvant to
     make other drugs stronger.  That's it's role in the current AIDS cocktails, and the
@@ -185,7 +188,7 @@ accent on the first syllable ("PAXlovid").  Would that this were our main proble
   together global supply chains that are marginally cheaper in good times (but fail
   utterly in stressed times; they are "priced for perfection" and perfection only!).  But
   it's also because you'd only build a centralized, specialized plant if you knew you were
-  going to sell in volume for enough years to pay back the maybe \$10 billion cost in
+  going to sell in volume for enough years to pay back the maybe \$1 billion cost in
   building the plant.  So the different components to the reaction network get made in
   different places, and shipped around a lot.  
   - Paxlovid is made in 20 sites in 10 countries, so it depends a lot on air freight!  
@@ -203,8 +206,8 @@ perhaps yet another celestial delusion about what telestial people will do.
 
 Still: things are getting better, with higher vaccination rates (glacially slowly) and
 treatment alternatives like paxlovid/bebtelovimab/molnupiravir.  If we somehow learn to
-get those universally available even to the developing world or the poor in the developed
-world, then maybe we'll have learned a number of important lessons.  
+get those universally available even to the developing world (or the poor in the developed
+world), then maybe we'll have learned a number of important lessons.  
 
 
 ## The Weekend Conclusion  
