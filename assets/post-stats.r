@@ -61,7 +61,7 @@ postStats <- function(## Inputs
                       countURL      = sprintf("https://api.countapi.xyz/get/%s", blogName),
                       ## *** 2022-Jan-14: SSL certificate is expired; emailed author
                       ##     2022-Feb-21: still expired; need command-line test case with curl?
-                      ##     2022-Mar-02: still expired; wrote author again with curl examples
+                      ##     2022-Mar-02: still expired; wrote author again with curl examples:
                       ## $ curl --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
                       ## $ curl --insecure --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
                       sslVerify     = FALSE, # TRUE,
