@@ -278,7 +278,7 @@ Oh, and let's not start a nuclear war, ok?  (Just in case Putin reads this.)
 
 <a id="fn18">18</a>: T Murphy, ["EXPLAINER: Why Pfizer needs time to make COVID-19 treatment"](https://apnews.com/article/coronavirus-pandemic-science-business-health-medication-2f84fdd8eab845606d05f7f9d1fe3e0b), _AP News_, 2022-Mar-02. [↩](#fn18a)  
 
-<a id="fn19">19</a>: The _London Times_ asked writers for essays on the subject of "What's
+<a id="fn19">19</a>: The _London Times_ once asked writers for essays on the subject of "What's
 Wrong with the World?"  Chesterton's reply was this letter:  
 
 > Dear Sirs:  
