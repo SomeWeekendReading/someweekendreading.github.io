@@ -877,6 +877,12 @@ and left untried."
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
 [_What's Wrong with the World?_ (1910), Chapter 5](http://www.gutenberg.org/etext/1717).  
 
+"In one sense, and that the eternal sense, the thing is plain.  The answer to the question
+'What is Wrong?' is, or should be, 'I am wrong.' Until a man can give that answer his
+idealism is only a hobby." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [letter to the _Daily News_ 1905-Aug-16](https://www.jordanmposs.com/blog/2019/2/27/whats-wrong-chesterton).  
+
+"The Church endeavoured to institute a machinery of pardon; the State has only a machinery of punishment.  The State can only free society from the criminal; the Church sought to free the criminal from the crime." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [letter to the _Daily News_ 1905-Aug-16](https://www.jordanmposs.com/blog/2019/2/27/whats-wrong-chesterton).  
+
 "...there is a law written in the darkest of the Books of Life, and it is this: If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are[Pg 24] in frightful danger of seeing it for the first time." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [_The Napoleon of Notting Hill_](https://en.wikipedia.org/wiki/The_Napoleon_of_Notting_Hill), p. 23-24.  
 
 "All science, even the divine science, is a sublime detective story. Only it is not set to detect why a man is dead; but the darker secret of why he is alive."
