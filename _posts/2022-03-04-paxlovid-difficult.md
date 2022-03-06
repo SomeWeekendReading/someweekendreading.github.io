@@ -299,7 +299,7 @@ There's apparently no actual evidence this happened, at least as told.  But anyb
 read more than a bit of Chesterton will find it utterly plausible.  
 
 <a href="{{ site.baseurl }}/images/chesterton-wrong-daily-news-1905-aug-16.jpg"><img src="{{ site.baseurl }}/images/chesterton-wrong-daily-news-1905-aug-16-thumb.jpg" width="400" height="110" alt="Chesterton @ Daily News 1905-Aug-16: What is wrong? I am wrong." title="Chesterton @ Daily News 1905-Aug-16: What is wrong? I am wrong." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-There _was_ [a piece in the _Daily News_ of 1905-Aug-16, dug up by Jordan Poss](https://www.jordanmposs.com/blog/2019/2/27/whats-wrong-chesterton), saying something similar, if a bit more prolix:  
+There _was_, however, [a letter by Chesterton to the _Daily News_ of 1905-Aug-16, dug up by Jordan Poss](https://www.jordanmposs.com/blog/2019/2/27/whats-wrong-chesterton), saying something similar, abeit more prolix:  
 
 > In one sense, and that the eternal sense, the thing is plain. __The answer to the question
 > "What is Wrong?" is, or should be, "I am wrong."__ Until a man can give that answer his
