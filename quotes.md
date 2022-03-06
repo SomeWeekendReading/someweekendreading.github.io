@@ -1078,6 +1078,8 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 
 "You should absolutely trust Science. But Science is not clearly visible, like a comet bearing down on you. Science is like the Gnostic God. It exists, somewhere out there, perfect in itself. It is pure and right and beautiful. If you could hear it, it would certainly speak Truth. Yet here we are, in the stupid material universe, seeing through a glass darkly. Good sometimes looks like evil, evil often looks like good, and there's some jerk with the head of a lion and the body of a snake psyching us out at every turn. Do we trust the priests? The scriptures? The Inner Light of our own hearts? 'Just trust in God'. NOT HELPFUL." &mdash; S Siskind, ["Movie Review: Don't Look Up"](https://astralcodexten.substack.com/p/movie-review-dont-look-up), _Astral Codex Ten_ blog, 2022-Jan-04.  
 
+"You know, my father said resilience is not all just teeth-gritting determination.  It’s also the strength to find and see beauty in an ugly situation." &mdash; [George Takei](https://en.wikipedia.org/wiki/George_Takei), on internment in a US concentration camp as a Japanese-American in WWII.  Quoted in KK Ottersen, ["George Takei: 'I maintain that without optimism, we've already failed'"](https://www.washingtonpost.com/magazine/2022/02/15/george-takei-star-trek-activist-racism-japanese/), _Washington Post_, 2022-Feb-15.  
+
 
 ## The One Who Is Voltaire  
 
@@ -1192,3 +1194,5 @@ _Business Week_, 14-Nov-2003.
   brilliantly.  He's not what I mean here.)  
 - "Interpretation is an active choice that you _must_ make, lest the world make an
   unsavory choice for you."  
+- "Oh, I'm just braiding the tassels on the lunatic fringe."  
+- "Clutch those pearls any harder, you're gonna strangle yourself."  

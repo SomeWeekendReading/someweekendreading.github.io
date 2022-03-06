@@ -231,7 +231,7 @@ Now if only we can also _try_ to deliver universal health care to all of humanit
 breed a more serious variant that starts wiping us out.  
 
 Oh, and let's not start a nuclear war, ok?  (Just in case Putin reads this.  Worth a shot,
-anyway.)  
+nanyway.)  
 
 ---
 
@@ -285,8 +285,8 @@ anyway.)
 
 <a id="fn18">18</a>: T Murphy, ["EXPLAINER: Why Pfizer needs time to make COVID-19 treatment"](https://apnews.com/article/coronavirus-pandemic-science-business-health-medication-2f84fdd8eab845606d05f7f9d1fe3e0b), _AP News_, 2022-Mar-02. [↩](#fn18a)  
 
-<a id="fn19">19</a>: The _London Times_ once asked writers for essays on the subject of "What's
-Wrong with the World?"  Chesterton's reply was this letter:  
+<a id="fn19">19</a>: The _London Times_ in 1908 asked writers for essays on the subject of
+"What is Wrong with the World?"  Chesterton's reply was this letter:  
 
 > Dear Sirs:  
 >  
@@ -294,5 +294,16 @@ Wrong with the World?"  Chesterton's reply was this letter:
 >  
 > Sincerely yours,  
 > G. K. Chesterton  
+
+There's apparently no actual evidence this happened, at least as told.  But anybody who's
+read more than a bit of Chesterton will find it utterly plausible.  
+
+<a href="{{ site.baseurl }}/images/chesterton-wrong-daily-news-1905-aug-16.jpg"><img src="{{ site.baseurl }}/images/chesterton-wrong-daily-news-1905-aug-16-thumb.jpg" width="400" height="110" alt="Chesterton @ Daily News 1905-Aug-16: What is wrong? I am wrong." title="Chesterton @ Daily News 1905-Aug-16: What is wrong? I am wrong." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+There _was_ [a piece in the _Daily News_ of 1905-Aug-16, dug up by Jordan Poss](https://www.jordanmposs.com/blog/2019/2/27/whats-wrong-chesterton), saying something similar, if a bit more prolix:  
+
+> In one sense, and that the eternal sense, the thing is plain. The answer to the question
+> "What is Wrong?" is, or should be, "I am wrong." Until a man can give that answer his
+> idealism is only a hobby. But this original sin belongs to all ages, and is the business
+> of religion.  
 
 [↩](#fn19a)  

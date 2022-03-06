@@ -50,7 +50,7 @@ Well&hellip; yes, but&hellip;  I have questions.
 I _always_ have questions.  Here are just the top few:  
 - Where is this sculpture, who put it there, and why?  
 - Why a soldier?  This soldier has a scallop on his brassard which indicates service in
-  a pilgrimage and some affiliation with St James the Greater, patron of Spain.  So which
+  a pilgrimage and some affiliation with St James the Greater, patron saint of Spain.  So which
   conflict was he in and what should I think about this soldier?  
 - Who are all those people behind the soldier, kneeling on something like steps, with
   their hands upraised?  
