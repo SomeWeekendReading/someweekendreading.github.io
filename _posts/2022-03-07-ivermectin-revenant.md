@@ -94,11 +94,11 @@ Now, what should we think about that?  I have numerous reservations:
   remdesivir or ivermectin but not both _that_ severe so as to restrict attention to only 
   $ 41,608 / 1,761,060 = 2.4\%$ of the COVID-19 patient population?  Shouldn't that make
   us worry about the general applicability of the results?  
-  <img src="{{ site.baseurl }}/images/2022-03-07-ivermectin-revenant-epid.jpg" width="400" height="126" alt="Groenwald &amp; van Smeden @ Epidemiology: Efficient sampling in case-control studies" title="Groenwald &amp; van Smeden @ Epidemiology: Efficient sampling in case-control studies" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - __Unbalanced sample:__  The sample was quite  unbalanced, by an order of magnitude:
   1,072 ivermectin patients vs 40,536 remdesivir patients.  While this reflects current
   practice (ivermectin kind of "underground" vs remdesivire standard of care in the early
   pandemic), it worries me.  
+    <img src="{{ site.baseurl }}/images/2022-03-07-ivermectin-revenant-epid.jpg" width="400" height="126" alt="Groenwald &amp; van Smeden @ Epidemiology: Efficient sampling in case-control studies" title="Groenwald &amp; van Smeden @ Epidemiology: Efficient sampling in case-control studies" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
   - _Case/Control Sampling:_ It would have been more usual to do some sort of case-control
     sampling. <sup id="fn2a">[[2]](#fn2)</sup>  In that case, one would take all 1,072
     ivermectin cases, and then sampled the remdesivir cases to get a similar
