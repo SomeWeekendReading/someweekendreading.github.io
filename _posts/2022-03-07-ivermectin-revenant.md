@@ -156,25 +156,13 @@ case with ivermectin.
 It appears to be a brave effort, though we need to see the details to be sure.  But it
 appears to be an irrelevant comparison now, because:  
 
-- The cohort of patients has some problems with age and gender biases, though this might
-  have been corrected by their methods; we'll see when there's a full report.  On the
-  other hand, the use of a US EMR system biases you toward employed people with health
-  insurance, and I seen no way around that.  
-- The sample is unbalanced, and probably should have done sampling to make it so.  That
-  would have reduced statistical significance, so I'd like to hear from the authors about
-  that, too.  
+- The cohort of patients has some problems with age and gender biases, though this might have been corrected by their methods; we'll see when there's a full report.  On the other hand, the use of a US EMR system biases you toward employed people with health insurance, and I seen no way around that.  
+- The sample is unbalanced, and probably should have done case/control sampling to make it so.  That would have reduced statistical significance, so I'd like to hear from the authors about that, too.  
 - The SARS-CoV2 variants circulating at the time of the study are no longer relevant.  
 - The reported effect size (risk differnce of about 5%) is not large.  
-- The comparison with remdesivir is odd, since remdesivir was at best only mildly
-  effective, and administered only in the hospital at relatively late stages.  Ivermectin
-  likely self-administered at home in early stages.  
-- With the advent of paxlovid, molnupiravir, and bebtelovimab, the comparison with
-  remdesivir is irrelevant.  The small effect size for ivermectin reported here has no
-  hope of beating the new antivirals.  
-- As this is an abstract of a conference short talk/poster, we have little idea of their
-  methods for controlling for confounders or assessing association with mortality.  That's
-  not their fault; there's just no room in an abstract.  Still, I'm not gonna just believe
-  based on a few random assertions in an abstract!  I want to see the math.  
+- The comparison with remdesivir is odd, since remdesivir is safe but at best only mildly effective, and administered only in the hospital at relatively late stages.  Ivermectin likely self-administered at home in early stages.  
+- With the advent of paxlovid, molnupiravir, and bebtelovimab, the comparison with remdesivir is irrelevant.  The small effect size for ivermectin reported here has no hope of beating the new antivirals.  
+- As this is an abstract of a conference short talk/poster, we have little idea of their methods for controlling for confounders or assessing association with mortality.  That's not their fault; there's just no room in an abstract.  Still, I'm not gonna just believe based on a few random assertions in an abstract!  I want to see the math.  
 
 So, no.  This does not make me change my mind.  I'm _not_ on the ivermectin bandwagon for
 anything other than treating parasite infestations.  
