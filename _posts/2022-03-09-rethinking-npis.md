@@ -59,11 +59,11 @@ daily case rates per capita and death rates per capita:
   which is quite a wonderful resource.  
 
 What should we conclude from these data?  Several things:  
-- The case rates are not materially different between the Trumpy and non-Trumpy groups,
-  despite differences in mask use.  This is not because masks don't work, but rather
+- __The case rates are not materially different between the Trumpy and non-Trumpy groups,
+  despite differences in mask use.__  This is not because masks don't work, but rather
   because Omicron is _so contagious_ that it will eventually overwhelm masks.  Masks can
   _slow down_ Omicron at best, and these data only cover the period favorable to Omicron.  
-- The death rates are dramatically &ndash; and _drearily_ &ndash; different!  This is
+- __The death rates are dramatically &ndash; and _drearily_ &ndash; different!__  This is
   almost entirely due to differences in vaccination.  Vaccination will prevent many
   infections, and drastically lower the severity of the few that get through.  Again, like
   parachutes: they won't prevent you from falling out of an airplane, but they make the
