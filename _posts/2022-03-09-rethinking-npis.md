@@ -72,8 +72,9 @@ Leonhardt interviewd Christopher Murray of University of Washington, who predict
 He said that it's as if you had to roll a die each time you go to a public indoor venue to
 see if you get COVID-19.  With a mask, you get COVID-19 if you roll a 1; without a mask,
 you get COVID-19 if you roll a 1 or a 2.  So masks work: they cut the probability per unit
-time of infection by a factor of 2.  But with Omicron it's still so high, that the virus
-rips through the population anyway.  Whether you live or die is driven by vaccination.  
+time of infection by a factor of 2.  But with Omicron the infection risk is _still_ so
+high, that the virus rips through the population anyway.  Whether you live or die is
+driven by&hellip; vaccination, of course.  
 
 
 ## Leonhardt's Conclusion  
@@ -103,9 +104,11 @@ rips through the population anyway.  Whether you live or die is driven by vaccin
 
 Broadly speaking, we agree here at Chez Weekend.  We're a little leery of dropping NPIs,
 since they _do_ stop needless deaths.  The counter-argument is that people don't like
-masks (with which we agree) and that masking causes psychological damage (which we don't
-really see).  Still, Leonhardt shows us data that says vaccination and boosting are
-important, and now masking is less so.  
+masks (with which we agree) and that masking causes psychological damage (with which we
+don't don't really agree).  Still, Leonhardt shows us data that says vaccination and
+boosting are important, and but masking is now less so.  
+
+Until the next variant.  
 
 ![Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA]({{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-mill-valley.jpg "Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA")  
 
@@ -124,8 +127,9 @@ not the 1918 flu pandemic that killed more people?  Selective blindness is why!
 <img src="{{ site.baseurl }}/images/bela-lugosi-as-dracula.gif" width="200" height="148" alt="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose." title="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So&hellip; we'll continue to mask, but try to control our rage at seeing unmasked people,
 or idiots wearing masks beneath their noses.  For now.  I promise I'll personally try not
-to glare at people like Bela Lugosi does here.  He had the excuse that he was playing
-Dracula; I'm just ticked off at malicious compliance about masks.  
+to glare at people like Bela Lugosi does here.  He at least had the excuse that he was playing
+Dracula in a film. <sup id="fn5a">[[5]](#fn5)</sup> I'm just perpetually ticked off at
+malicious/incompetent compliance about masks.  
 
 ---
 
@@ -147,6 +151,8 @@ Dracula; I'm just ticked off at malicious compliance about masks.
 
 <a id="fn2">2</a>: S Decker, ["Which States Ban Mask Mandates in Schools, and Which Require Masks?"](https://www.edweek.org/policy-politics/which-states-ban-mask-mandates-in-schools-and-which-require-masks/2021/08), _Education Week_, original 2021-Aug-20, updated 2022-Mar-07. [↩](#fn1a)  
 
-<a id="fn3">3</a>: And even _enjoyable_, to a certain kind of personality.  I've never been that sort of dopamine junkie, but I know some.  When I want excitement, I find the Weekend Publisher&hellip; and pet the cat. [↩](#fn3a)  
+<a id="fn3">3</a>: And even _enjoyable_, to a certain kind of personality.  I've never been that sort of dopamine/adrenaline junkie, but I know some.  When I want excitement, I find the Weekend Publisher&hellip; and pet the cat. [↩](#fn3a)  
 
 <a id="fn4">4</a>: E Martin, ["The lessons learned from 1918 flu fatigue, according to historians"](https://www.nationalgeographic.com/history/article/the-lessons-learned-from-1918-flu-fatigue-according-to-historians), _National Geographic_, 2022-Mar-04. [↩](#fn4a)  
+
+<a id="fn5">5</a>: Yeah, this one's for you, Ana.  Though I see no family resemblance, really. [↩](#fn5a)  
