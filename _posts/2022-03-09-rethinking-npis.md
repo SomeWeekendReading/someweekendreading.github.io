@@ -6,8 +6,9 @@ comments: true
 ---
 
 People are clamoring for an end to "restrictions", by which they mean masks and closures.
-They're eager to be done with COVID-19, whether COVID-19 is done with them or not.  Does _any_
-of that make sense?  Well&hellip; _some_ of it.  
+And, of course, vaccination mandates.  They're eager to be done with COVID-19, whether
+COVID-19 is done with them or not.  Does _any_ of that make sense?  Well&hellip; _some_ of
+it&hellip; _maybe._  
 
 
 ## NPIs, Vaccinations, and Political Blinders  
