@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ivermectin Revenant
-tags:  COVID JornalClub PharmaAndBiotech SomebodyAskedMe Statistics
+tags:  COVID JournalClub PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
 ---
 
