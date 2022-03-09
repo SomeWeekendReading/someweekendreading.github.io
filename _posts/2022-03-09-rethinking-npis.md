@@ -114,13 +114,15 @@ We're a bit wary of pandemic fatigue driving us to engage in
 to conclude that we should do what we want to do anyway.  That was certainly the case in
 the 1918 flu pandemic in the US, as shown in a marvelous historical article by Emily
 Martin in _National Geographic_ this mongh. <sup id="fn4a">[[4]](#fn4)</sup>  People
-really wanted it to be over, so just acted as if it was so &ndash; at the cost of
+really wanted it to be over, so just acted as if it were so &ndash; at the cost of
 prolonging infections for _years_ into the 1920s, and an absolutely steadfast
 determination not to remember.  Why do you think you studied World War I in school, but
 not the 1918 flu pandemic that killed more people?  Selective blindness is why!  
 
+<img src="{{ site.baseurl }}/images/bela-lugosi-as-dracula.gif" width="500" height="369" alt="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose" title="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So&hellip; we'll continue to mask, but try to control our rage at seeing unmasked people,
-or idiots wearing masks beneath their noses.  For now.  
+or idiots wearing masks beneath their noses.  For now.  I promise I'll personally try not
+to glare at people like Bela Lugosi does here, playing Dracula.  At least I'll _try._  
 
 ---
 
@@ -138,10 +140,10 @@ or idiots wearing masks beneath their noses.  For now.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: D Leonhardt, ["Do Covid Precautions Work?"](https://www.nytimes.com/2022/03/09/briefing/covid-precautions-red-blue-states.html), _New York Times_ Newsletter "The Morning", 2022-Mar-09. [↩](#fn1a)  
+<a id="fn1">1</a>: D Leonhardt, ["Do Covid Precautions Work?"](https://www.nytimes.com/2022/03/09/briefing/covid-precautions-red-blue-states.html), _New York Times_ newsletter "The Morning", 2022-Mar-09. [↩](#fn1a)  
 
-<a id="fn2">2</a>: S Decker, ["Which States Ban Mask Mandates in Schools, and Which Require Masks?"](https://www.edweek.org/policy-politics/which-states-ban-mask-mandates-in-schools-and-which-require-masks/2021/08), _Education Week_, 2021-Aug-20, updated 2022-Mar-07. [↩](#fn1a)  
+<a id="fn2">2</a>: S Decker, ["Which States Ban Mask Mandates in Schools, and Which Require Masks?"](https://www.edweek.org/policy-politics/which-states-ban-mask-mandates-in-schools-and-which-require-masks/2021/08), _Education Week_, original 2021-Aug-20, updated 2022-Mar-07. [↩](#fn1a)  
 
-<a id="fn3">3</a>: And even _enjoyable_, to a certain kind of personality.  I've never been that sort of dopamine junkie, but I know some.  When I want excitement, I find the Weekend Publisher and pet the cat. [↩](#fn3a)  
+<a id="fn3">3</a>: And even _enjoyable_, to a certain kind of personality.  I've never been that sort of dopamine junkie, but I know some.  When I want excitement, I find the Weekend Publisher&hellip; and pet the cat. [↩](#fn3a)  
 
 <a id="fn4">4</a>: E Martin, ["The lessons learned from 1918 flu fatigue, according to historians"](https://www.nationalgeographic.com/history/article/the-lessons-learned-from-1918-flu-fatigue-according-to-historians), _National Geographic_, 2022-Mar-04. [↩](#fn4a)  
