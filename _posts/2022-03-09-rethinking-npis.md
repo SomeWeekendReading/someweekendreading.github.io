@@ -106,6 +106,8 @@ important, and now masking is less so.
 
 ![Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA]({{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-mill-valley.jpg "Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA")  
 
+(Details on the picture: [2021-Oct-30, in this crummy little blog that nobody reads]({{ site.baseurl }}/partisan-covid-deaths/#the-partisan-divide-in-npis).)  
+
 We're a bit wary of pandemic fatigue driving us to engage in
 [motivated reasoning](https://en.wikipedia.org/wiki/Motivated_reasoning)
 to conclude that we should do what we want to do anyway.  That was certainly the case in
@@ -141,4 +143,4 @@ or idiots wearing masks beneath their noses.  For now.
 
 <a id="fn3">3</a>: And even _enjoyable_, to a certain kind of personality.  I've never been that sort of dopamine junkie, but I know some.  When I want excitement, I find the Weekend Publisher and pet the cat. [↩](#fn3a)  
 
-<a id="fn4">4</a>: E Martin, ["The lessons learned from 1918 flu fatigue, according to historians"](***), _National Geographic_, 2022-Mar-04. [↩](#fn4a)  
+<a id="fn4">4</a>: E Martin, ["The lessons learned from 1918 flu fatigue, according to historians"](https://www.nationalgeographic.com/history/article/the-lessons-learned-from-1918-flu-fatigue-according-to-historians), _National Geographic_, 2022-Mar-04. [↩](#fn4a)  
