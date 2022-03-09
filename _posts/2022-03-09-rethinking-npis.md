@@ -115,7 +115,7 @@ We're a bit wary of pandemic fatigue driving us to engage in
 [motivated reasoning](https://en.wikipedia.org/wiki/Motivated_reasoning)
 to conclude that we should do what we want to do anyway.  That was certainly the case in
 the 1918 flu pandemic in the US, as shown in a marvelous historical article by Emily
-Martin in _National Geographic_ this mongh. <sup id="fn4a">[[4]](#fn4)</sup>  People
+Martin in _National Geographic_ this month. <sup id="fn4a">[[4]](#fn4)</sup>  People
 really wanted it to be over, so just acted as if it were so &ndash; at the cost of
 prolonging infections for _years_ into the 1920s, and an absolutely steadfast
 determination not to remember.  Why do you think you studied World War I in school, but
