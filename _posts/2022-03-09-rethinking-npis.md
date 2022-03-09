@@ -78,9 +78,9 @@ rips through the population anyway.  Whether you live or die is driven by vaccin
 
 ## Leonhardt's Conclusion  
 
-> One, nothing matters nearly as much as vaccination. A continued push to persuade
-> skeptics to get shots — and to make sure that people are receiving booster shots — will
-> save lives.  
+> One, __nothing matters nearly as much as vaccination.__ A continued push to persuade
+> skeptics to get shots &ndash; and to make sure that people are receiving booster shots
+> &ndash; will save lives.  
 >  
 > Two, there is a strong argument for continuing to remove other restrictions, and
 > returning to normal life, now that Omicron caseloads have fallen 95 percent from their
@@ -92,9 +92,11 @@ rips through the population anyway.  Whether you live or die is driven by vaccin
 > years — mental health troubles, elevated blood pressure, drug overdoses, violent crime,
 > vehicle crashes and more.  
 >  
-> If a new variant emerges, and hospitals are again at risk of being overwhelmed, then
-> reinstating Covid restrictions may make sense again, despite their modest effects. But
+> __If a new variant emerges, and hospitals are again at risk of being overwhelmed, then
+> reinstating Covid restrictions may make sense again,__ despite their modest effects. But
 > that’s not where the country is today.  
+
+(Emphasis added.)  
 
 
 ## The Weekend Conclusion  
