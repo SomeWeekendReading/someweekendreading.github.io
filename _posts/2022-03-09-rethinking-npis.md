@@ -124,7 +124,8 @@ not the 1918 flu pandemic that killed more people?  Selective blindness is why!
 <img src="{{ site.baseurl }}/images/bela-lugosi-as-dracula.gif" width="200" height="148" alt="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose." title="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So&hellip; we'll continue to mask, but try to control our rage at seeing unmasked people,
 or idiots wearing masks beneath their noses.  For now.  I promise I'll personally try not
-to glare at people like Bela Lugosi does here, playing Dracula.  At least I'll _try._  
+to glare at people like Bela Lugosi does here.  He had the excuse that he was playing
+Dracula; I'm just ticked off at malicious compliance about masks.  
 
 ---
 
