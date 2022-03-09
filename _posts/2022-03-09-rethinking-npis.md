@@ -18,11 +18,12 @@ it&hellip; _maybe._
 Do NPI's (non-pharmaceutical interventions, like masks) work?  From the _New York Times_
 this morning comes an article by David Leonhardt <sup id="fn1a">[[1]](#fn1)</sup> about
 the American right-wing suspicion that "masks don't work". (They also think "vaccines
-don't work" &ndash; in spite of 90%+ efficacy, so you should conclude that their opinions
-are largely evidence-free.)  They're so eager to be done with COVID-19, that several
-Republican governors last year went so far as to _ban_ mask mandates, even going so far as
-to sue school districts that required masks. <sup id="fn2a">[[2]](#fn2)</sup> At the time
-last year, that was about as smart as banning parachutes among skydivers.  
+don't work" &ndash; in spite of 90%+ efficacy, so you should conclude that American
+right-wing opinions are largely evidence-free.)  They're so eager to be done with
+COVID-19, that several Republican governors last year went so far as to _ban_ mask
+mandates, even going so far as to sue school districts that required masks. <sup
+id="fn2a">[[2]](#fn2)</sup> At the time last year, that was about as smart as banning
+parachutes among skydivers.   
 
 Is it any better now?  Leonhardt tries to answer that question.  
 
@@ -60,21 +61,22 @@ daily case rates per capita and death rates per capita:
 What should we conclude from these data?  Several things:  
 - The case rates are not materially different between the Trumpy and non-Trumpy groups,
   despite differences in mask use.  This is not because masks don't work, but rather
-  because Omicron is _so infectious_ that it will eventually overwhelm masks.  Masks can
-  slow down Omicron at best, and these data only cover the period favorable to Omicron.  
+  because Omicron is _so contagious_ that it will eventually overwhelm masks.  Masks can
+  _slow down_ Omicron at best, and these data only cover the period favorable to Omicron.  
 - The death rates are dramatically &ndash; and _drearily_ &ndash; different!  This is
   almost entirely due to differences in vaccination.  Vaccination will prevent many
   infections, and drastically lower the severity of the few that get through.  Again, like
   parachutes: they won't prevent you from falling out of an airplane, but they make the
   experience survivable. <sup id="fn3a">[[3]](#fn3)</sup>  
 
-Leonhardt interviewd Christopher Murray of University of Washington, who predicted this.
+Leonhardt interviewed Christopher Murray of University of Washington, who predicted this.
 He said that it's as if you had to roll a die each time you go to a public indoor venue to
 see if you get COVID-19.  With a mask, you get COVID-19 if you roll a 1; without a mask,
 you get COVID-19 if you roll a 1 or a 2.  So masks work: they cut the probability per unit
 time of infection by a factor of 2.  But with Omicron the infection risk is _still_ so
-high, that the virus rips through the population anyway.  Whether you live or die is
-driven by&hellip; vaccination, of course.  
+high, that the virus rips through the population anyway.  
+
+Whether you live or die is driven by&hellip; vaccination, of course.  
 
 
 ## Leonhardt's Conclusion  
@@ -118,11 +120,12 @@ We're a bit wary of pandemic fatigue driving us to engage in
 [motivated reasoning](https://en.wikipedia.org/wiki/Motivated_reasoning)
 to conclude that we should do what we want to do anyway.  That was certainly the case in
 the 1918 flu pandemic in the US, as shown in a marvelous historical article by Emily
-Martin in _National Geographic_ this month. <sup id="fn4a">[[4]](#fn4)</sup>  People
-really wanted it to be over, so just acted as if it were so &ndash; at the cost of
+Martin in _National Geographic_ this month. <sup id="fn4a">[[4]](#fn4)</sup> People really
+wanted the flu pandemic to be over, so just acted as if it were so &ndash; at the cost of
 prolonging infections for _years_ into the 1920s, and an absolutely steadfast
-determination not to remember.  Why do you think you studied World War I in school, but
-not the 1918 flu pandemic that killed more people?  Selective blindness is why!  
+determination not to remember any lessons from the pandemic.  Why do you think you studied
+World War I in school, but not the 1918 flu pandemic that killed more people?  Selective
+blindness is why!  
 
 <img src="{{ site.baseurl }}/images/bela-lugosi-as-dracula.gif" width="200" height="148" alt="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose." title="Either Bela Lugosi as Dracula, or your humble Weekend Editor seeing a mask worn below the nose." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So&hellip; we'll continue to mask, but try to control our rage at seeing unmasked people,
