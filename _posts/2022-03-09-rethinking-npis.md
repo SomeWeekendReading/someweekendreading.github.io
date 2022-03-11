@@ -66,8 +66,8 @@ What should we conclude from these data?  Several things:
 - __The death rates are dramatically &ndash; and _drearily_ &ndash; different!__  This is
   almost entirely due to differences in vaccination.  Vaccination will prevent many
   infections, and drastically lower the severity of the few that get through.  Again, like
-  parachutes: they won't prevent you from falling out of an airplane, but they make the
-  experience survivable. <sup id="fn3a">[[3]](#fn3)</sup>  
+  parachutes: they won't prevent you from falling out of an airplane, but they make
+  experiencing the end result survivable. <sup id="fn3a">[[3]](#fn3)</sup>  
 
 Leonhardt interviewed Christopher Murray of University of Washington, who predicted this.
 He said that it's as if you had to roll a die each time you go to a public indoor venue to
@@ -114,7 +114,7 @@ Until the next variant.
 
 ![Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA]({{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-mill-valley.jpg "Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA")  
 
-(Details on the picture: [2021-Oct-30, in this crummy little blog that nobody reads]({{ site.baseurl }}/partisan-covid-deaths/#the-partisan-divide-in-npis).)  
+(Details on the picture above: [2021-Oct-30, in this crummy little blog that nobody reads]({{ site.baseurl }}/partisan-covid-deaths/#the-partisan-divide-in-npis).)  
 
 We're a bit wary of pandemic fatigue driving us to engage in
 [motivated reasoning](https://en.wikipedia.org/wiki/Motivated_reasoning)
@@ -154,7 +154,7 @@ malicious/incompetent compliance about masks.
 
 <a id="fn2">2</a>: S Decker, ["Which States Ban Mask Mandates in Schools, and Which Require Masks?"](https://www.edweek.org/policy-politics/which-states-ban-mask-mandates-in-schools-and-which-require-masks/2021/08), _Education Week_, original 2021-Aug-20, updated 2022-Mar-07. [↩](#fn1a)  
 
-<a id="fn3">3</a>: And even _enjoyable_, to a certain kind of personality.  I've never been that sort of dopamine/adrenaline junkie, but I know some.  When I want excitement, I find the Weekend Publisher&hellip; and pet the cat. [↩](#fn3a)  
+<a id="fn3">3</a>: And even _enjoyable_, to a certain kind of personality.  I've never been that sort of dopamine/adrenaline junkie, but I do know some of them.  When I want excitement, I find the Weekend Publisher&hellip; and pet the cat. [↩](#fn3a)  
 
 <a id="fn4">4</a>: E Martin, ["The lessons learned from 1918 flu fatigue, according to historians"](https://www.nationalgeographic.com/history/article/the-lessons-learned-from-1918-flu-fatigue-according-to-historians), _National Geographic_, 2022-Mar-04. [↩](#fn4a)  
 

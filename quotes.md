@@ -488,6 +488,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "I guess the trouble was that we didn't have any self-admitted proletarians. Everyone was a temporarily embarrassed capitalist." &mdash; [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck), "A Primer on the 30's", _Esquire_ (cited in [WikiQuote](https://en.wikiquote.org/wiki/John_Steinbeck)).  
 
+"It's no trick to make a log of money&hellip; if _all_ you wan to do is make a lot of money." &mdash; [_Citizen Kane_](https://en.wikipedia.org/wiki/Citizen_Kane), 1941 screenplay by [Herman Mankiewicz](https://en.wikipedia.org/wiki/Herman_J._Mankiewicz) and [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles), occasionally argued to be [the best film ever made](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).  
+
 
 ## Those of Rational &amp; Scientific Bent
 
@@ -707,11 +709,7 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "&hellip; ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science." &mdash; [Charles Darwin](https://en.wikipedia.org/wiki/Charles_darwin), [_The Descent of Man_](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex), [frontmatter](http://pages.britishlibrary.net/charles.darwin/texts/descent/descent_front.html), p. 2.  (Compare [William Butler Yeats](https://en.wikipedia.org/wiki/W._B._Yeats)'s _terrifying_ poem, ["The Second Coming"](https://en.wikipedia.org/wiki/The_Second_Coming_(poem)), written in WWI aftermath and the 1918 flu pandemic: "The best lack all conviction, while the worst / Are full of passionate intensity.")  
 
-"All dichotomies are false dichotomies.  Including that one, because of course there are a
-few true dichotomies."
-&mdash; [Hank Green](https://en.wikipedia.org/wiki/Hank_Green), 
-["Just Some Election Thoughts&hellip;"](https://www.youtube.com/watch?v=0q5L0MzuVP4), 
-[_vlogbrothers_](https://en.wikipedia.org/wiki/Vlogbrothers), 2020-Nov-06.
+"All dichotomies are false dichotomies.  Including that one, because of course there are a few true dichotomies." &mdash; [Hank Green](https://en.wikipedia.org/wiki/Hank_Green), ["Just Some Election Thoughts&hellip;"](https://www.youtube.com/watch?v=0q5L0MzuVP4), [_vlogbrothers_](https://en.wikipedia.org/wiki/Vlogbrothers), 2020-Nov-06.  
 
 "Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve." &mdash; [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis), epigram #101 in ["Epigrams in Programming"](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html), _ACM SIGPLAN Notices_ 17:9 (1982-Sep), pp. 7-13.  
 
