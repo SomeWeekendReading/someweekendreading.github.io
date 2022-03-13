@@ -312,7 +312,7 @@ _every single word_, and in overall idiomatic meaning, with hilarious result:
    indication.  So this use of _gorm_ could mean people with blue hair, except&hellip;
    "blue" an indirect and polite way in modern Irish to refer to Blacks.  
 
-So even if you spot the racist jerk a few points for grammar, word order, and incorrect
+So even if you spot the racist jerk a few points for grammar, word order, and incompetent
 use of the dictionary&hellip; he ended up _almost_ saying something idiomatically close to
 "Black Lives Matter"!  
 

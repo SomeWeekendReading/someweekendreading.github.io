@@ -24,15 +24,15 @@ The first part was the BSO itself:
   [_The Unanswered Question_ by Charles Ives](https://en.wikipedia.org/wiki/The_Unanswered_Question),
   which pretty much flew right over my head.  I'm enough of a barbarian that this was just
   kind of acoustic nonsense to me, though judging by the response of the crowd that was by
-  no means the consensus.  A trumpet sort of asks "the perennial question of existence", a
-  woodwind quartet tries to answer, becomes more dissonant and then gives up.  Uplifting,
-  n'est-ce pas?  
+  no means the consensus.  A trumpet &ndash; sort of &ndash; asks "the perennial question
+  of existence", a woodwind quartet tries &ndash; sort of &ndash; to answer, becomes more
+  dissonant and then gives up.  Uplifting, _n'est-&ccedil;e pas?_  
 - Then they did
   [_Symphonie Fantastique_, by Hector Berlioz](https://en.wikipedia.org/wiki/Symphonie_fantastique).
-  That is, of course,
-  fantastic.  (The clue is right there in the name.)  Granted, it's pretty morbid when you
-  read the backstory.  Of course, I liked the 4th movement best: "Marche au supplice"
-  (march to the scaffold), though it's the worst part of the backstory.  
+  That is, of course, fantastic, the clue being right there in the name.  Granted, it's
+  pretty morbid when you read the backstory.  Of course, I liked the 4th movement best:
+  "Marche au supplice" (march to the scaffold), though it's the worst part of the
+  backstory.  
 
 The second part was, uncharacteristically, a half-hour special done by the Tanglewood
 festival chorus.  We know several people who are (or were) members, so that was the main
