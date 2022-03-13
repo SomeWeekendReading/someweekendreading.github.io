@@ -67,4 +67,4 @@ But I'll still never get the Ives piece.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Nope.  Not today. [↩](#fn1a)  
+<a id="fn1">1</a>: Nope.  Not today.  
