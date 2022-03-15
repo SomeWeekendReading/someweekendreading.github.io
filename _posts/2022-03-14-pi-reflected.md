@@ -17,7 +17,7 @@ Of course we mean this literally:
     Happy Pi Day! <a href="https://t.co/5T5uzwVwSR">pic.twitter.com/5T5uzwVwSR</a>
   </p>&mdash; World of Engineering (@engineers_feed) <a href="https://twitter.com/engineers_feed/status/1503241522325573632?ref_src=twsrc%5Etfw">March 14, 2022</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 ---
 
