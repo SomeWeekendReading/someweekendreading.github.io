@@ -84,14 +84,14 @@ start off by buttering up the person with the power:
 &hellip; and so on.  And on.  And on.  
 
 Next the complaint about printing presses.  De Strata helpfully informs us that they're
-invented by a bunch of icky nerds, and print nothing but dumb crap that should probably be
-banned anyway (emphasis added):  
+invented by a bunch of icky nerds whom nobody likes, and print nothing but dumb crap that
+should probably be banned anyway (emphasis added):  
 
 > I know that you always __hate printed books crammed with the foolishness of common folk__,
 > and that you follow sound precepts. The things I have described do not apply to you, but
 > to __the utterly uncouth types of people who have driven reputable writers from their
 > homes.__ Among the latter this servant of yours has been driven out, bewailing the damage
-> which results from the printers' cunning. They shamnelessly print, at a negligible
+> which results from the printers' cunning. They shamelessly print, at a negligible
 > price, __material which may, alas, inflame impressionable youths,__ while a true writer dies
 > of hunger. Cure (if you will) the plague which is doing away with the laws of all
 > decency, and curb the printers. They persist in their sick vices, setting Tibullus in
@@ -160,8 +160,8 @@ _Savonarola lost._
 
 The original is preserved in Venice's _Biblioteca Marciana_ (Italian Manuscripts, Class I, 72 (5074) folios iv.-2r).  This translation from Latin was done by Shelagh Grier in 1986, but not widely published (a Hayloft Press pamphlet in a limited edition of 350).[↩](#fn1a)  
 
-<a id="fn2">2</a>: And look: if you have to read a 2,000 year old, 3-volume poem, _in Latin_, to figure out how to get a girlfriend or boyfriend&hellip; _you're not doing it right!_  
+<a id="fn2">2</a>: And look: if you have to read a 2,000 year old, 3-volume poem, _in Latin,_ to figure out how to get a girlfriend or boyfriend&hellip; _you're not doing it right!_  
 
 I say this as a former young lonely nerd with low social skills and a penchant for Latin, who tried exactly this.  Trust me; didn't work.  
 
-To this day, I'm not sure how my old Latin tutors would have felt about the attempt, had I been caught.  (At least one of them likely would have laughed, and wished me good luck. He later became a minister, somewhat to my surprise.) [↩](#fn2a)  
+To this day, I'm not sure how my old Latin tutors would have felt about the attempt, had I had the bad grace or ill fortune to have been caught.  (At least one of them likely would have laughed, and wished me good luck. He later became a minister, somewhat to my surprise.) [↩](#fn2a)  
