@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection on Pi Day
-tags:  Beauty Math
+tags:  Beauty Math &Gammad;&Tau;&Phi;
 comments: true
 ---
 
