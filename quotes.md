@@ -493,6 +493,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 ## Those of Rational &amp; Scientific Bent
 
+"The first rule of [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) Club is you don't know you're in Dunning-Kruger Club."  &mdash; Dan Geravoin, [Twitter 2022-Mar-14](https://twitter.com/geravoin/status/1503444857183895553), in reference to [_Fight Club_](https://en.wikipedia.org/wiki/Fight_Club).  To which I can only add: this makes Dunning-Kruger Club the _opposite_ of a secret society: the members don't know they're members, but everybody _else_ does.  
+
 "Remember to always be praising people when they finally do the right thing, regardless of whether they first exhausted all alternatives." &mdash; Zvi Mowshowitz, [_Don't Worry About the Vase_](https://thezvi.wordpress.com/2021/07/08/covid-7-8-delta-takes-over/) blog, 2021-Jul-08.  
 
 "If you teach a man to fish, he'll be eating fish for a lifetime. Teach him to teach himself to fish, and you've given him the fundamental life skill of figuring things out on his own." &mdash; [Wylie Beckert](https://www.muddycolors.com/2021/01/the-wisdom-of-the-lazy-teacher/), "The Wisdom of the Lazy Teacher", expanding the proverb "Give a man a fish and he eats for a day; teach a man to fish and he eats for a lifetime."  
