@@ -64,7 +64,7 @@ company.  I don't really get on board with economic arguments about the "costs" 
 precautions, when the costs of non-precautions are human lives.  An _easily avoidable_
 human death is a morally shameful thing over which to argue economics.  
 
-As Sam Adler-Bell argues in _NY Mag_ <sup id="fn2">[[2]](#fn2)</sup>, anger at Leonhardt
+As Sam Adler-Bell argues in _NY Mag_ <sup id="fn2a">[[2]](#fn2)</sup>, anger at Leonhardt
 is a usual sort of thing among us liberals, and for approximately this reason:  
  
 > Recently, Leonhardt has used his personal front page to amplify a particular message:
@@ -361,7 +361,7 @@ news.
 
 <a id="fn1">1</a>: D Leonhardt, ["Covid and the 'Very Liberal'"](https://www.nytimes.com/2022/03/18/briefing/covid-risks-poll-americans.html), _New York Times_, 2022-Mar-18. [↩](#fn1a)  
 
-<a id="fn2">2</a>: S Adler-Bell, ["The Pandemic Interpreter: Why are so many liberals mad at David Leonhardt?"](https://nymag.com/intelligencer/2022/02/david-leonhardt-the-pandemic-interpreter.html), _New York Magazine_, "The Intelligencer", 2022-Feb-24. [↩](#fn2)  
+<a id="fn2">2</a>: S Adler-Bell, ["The Pandemic Interpreter: Why are so many liberals mad at David Leonhardt?"](https://nymag.com/intelligencer/2022/02/david-leonhardt-the-pandemic-interpreter.html), _New York Magazine_, "The Intelligencer", 2022-Feb-24. [↩](#fn2a)  
 
 <a id="fn3">3</a>: H Branswell, ["10 lessons I’ve learned from the Covid-19 pandemic"](https://www.statnews.com/2021/12/28/10-lessons-ive-learned-from-the-covid-19-pandemic/), _STAT News_, 2021-Dec-28. [↩](#fn3a)  
 
