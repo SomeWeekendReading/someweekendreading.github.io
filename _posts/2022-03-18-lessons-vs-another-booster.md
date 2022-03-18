@@ -35,7 +35,7 @@ I hoped we could perhaps learn:
 - Compassion is among the cardinal virtues,  
 - Comforting those in pain is _important_,
 - Aid for the poor, care for the sick, and justice for the oppressed are among the most
-  important ways of exalting each other with atonment and generous forgiveness,  
+  important ways of exalting each other with atonement and generous forgiveness,  
 - ... and that perhaps those mutual grants of forgiveness could be life-changing.  
 
 Let's see what the punditocracy thinks we've learned.  
@@ -52,14 +52,15 @@ just vaccination, but COVID precautions in general <sup id="fn1a">[[1]](#fn1)</s
 
 While the difference shows up everywhere, from attitudes about vaccination to whether
 COVID-19 is even real, it shows up very strongly as shown here in opinions on masking
-strategy.  Conservatives _hate_ masking, almost as much as they hate the rest of us.  Now,
-to be sure, liberals are turning out a bit like Japanese, where masking is just an
+strategy.  Conservatives _hate_ masking, almost as much as they hate the rest of us.  
+
+Now, to be sure, liberals are turning out a bit like Japanese, where masking is just an
 ordinary courtesy done on an everyday basis by people who have even a simple cold.  The
 Japanese side of my family simply _cannot_ understand why the American right spits venom
 over masking.  Nor can I.  
 
 <img src="{{ site.baseurl }}/images/2022-03-18-lessons-vs-another-booster-nymag-1.jpg" width="400" height="317" alt="Adler-Bell @ NYMag: Why so many liberals are mad at Leonhardt" title="Adler-Bell @ NYMag: Why so many liberals are mad at Leonhardt" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Now, when Leonhardt begins to appeal for relaxation of COVID-19 precautions, I part
+But when Leonhardt begins to appeal for relaxation of COVID-19 precautions, I part
 company.  I don't really get on board with economic arguments about the "costs" of
 precautions, when the costs of non-precautions are human lives.  An _easily avoidable_
 human death is a morally shameful thing over which to argue economics.  
@@ -72,8 +73,8 @@ is a usual sort of thing among us liberals, and for approximately this reason:
 > anxiety and COVID-mitigation efforts in Blue America are not only ineffectual but doing
 > more harm than good.  
 
-It's that trade-off where we just indulge in a _little bit_ of human sacrifice for the
-sake of the moneyed interests that really hacks me off.  A daily death rate of more than
+It's that trade-off, where we just indulge in a _little bit_ of human sacrifice for the
+sake of the moneyed interests, that really hacks me off.  A daily death rate of more than
 2,000/day is not "time for return to normal".  That is _not_ an acceptable new normal, nor
 should it be to anyone with any more conscience than a predator.  It _is,_ however, a 9/11
 event _every day._ This is not victory over COVID-19, is simple and pointless surrender to
@@ -81,7 +82,7 @@ be massacred.  It is largely a surrender of the lives of the poor and the
 immunocompromised, especially in the developing nations. This may not afflict affluent
 consciences&hellip; but it _should._  
 
-It is, in Adler-Bells terms, "a self-satisfied state of necro-normalcy in which thousands
+It is, in Adler-Bell's terms, "a self-satisfied state of necro-normalcy in which thousands
 of lives are disposable".  It sets us up for the next wave, currently hinted at in the
 [cryptic SARS-CoV2 sequences in NYC wastewater]({{ site.baseurl }}/sars-cov2-cryptic/),
 against early surrender:   
@@ -248,7 +249,7 @@ something.
 > preventable. I wouldn't be able to sleep at night if I were responsible for that," Topol
 > said.  
 
-I'm sure Republicans sleep just fine.  Just like Dracula.  And Joe Manchin, for that matter.  
+I'm sure Republicans sleep just fine.  Like, you know, Dracula.  And Joe Manchin, for that matter.  
 
 
 ## Pfizer and Moderna booster applications  
@@ -337,11 +338,10 @@ least, until the &pi; variant, or whatever we call it, heaven help us.)
 ## The Weekend Conclusion  
 
 Sadly, we've failed to learn some important lessons of the pandemic, preferring to learn to
-tolerate right-wing political posturing and disinformation instead.  That's the bad news.  
+tolerate right-wing political posturing and disinformation instead.  _That's the bad news._  
 
 Happily, we've learned to make _awesomely_ high efficacy vaccines, and we're on course to
-boost either with the base vaccine or with an Omicron-specific vaccine.  That's the good
-news.  
+boost either with the base vaccine or with an Omicron-specific vaccine.  _That's the good news._  
 
 ---
 
