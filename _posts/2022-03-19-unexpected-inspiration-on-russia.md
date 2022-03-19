@@ -21,13 +21,13 @@ Ukraine.
 <iframe width="400" height="224" src="https://www.youtube.com/embed/4e1BndTE6Lg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <img src="{{ site.baseurl }}/images/2022-03-19-unexpected-inspiration-on-russia-atlantic-1.jpg" width="400" height="433" alt="Schwarzegger @ Atlantic: Message for my Russian friends" title="Schwarzegger @ Atlantic: Message for my Russian friends" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Umm&hellip; [_Arnold Schwarzenegger_](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger)
-as a source of political and even spiritual inspiration?  Really?!  
+as a source of political and even _spiritual_ inspiration?  Really?!  
 
 Yeah, really.  Honest, it surprised me too.  
 
 I never had much use for the hyper-masculine image of bodybuilders, or sportsball players
 of any sort.  And _Terminator_ &amp; _Conan_ were&hellip; well, not that great as movies.  And then he
-became Republican politician, so&hellip; he's sorta outside my regular feeding grounds, ya know?  
+became Republican politician, so he's sorta outside my regular feeding grounds, ya know?  
 
 But we must be prepared to accept wisdom from _any_ source.  We must be _especially_ eager to
 recognize wisdom when it comes apparently from the "other side", which turns out to be the
@@ -71,17 +71,14 @@ Some of the high points, of which there are surprisingly many in just 9min 16sec
 
 It takes a lot to bring tears to my eyes at the words of a former athlete turned actor in
 movies I don't like turned politician for a party I don't like.  But&hellip; give it up
-for Arnold, because these moments did it: 
-- looking into his eyes at 3:39 when he expresses compassion for soldiers by
-  asking them not to repeat the mistakes of his father, and  
-- at 8:38 when he says the protestors are his new heroes who have the strength of his
-  childhood hero.  
+for Arnold, because looking into his eyes at those two moments did it.  There's an awful
+lot of compassion for the pain of others, and a desire to help them do better.  This is as
+we all _should_ feel toward each other.  
 
 Seems to me like a _very_ good message.  I'd be fascinated to know what my Russian friends
 think of it.  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/x_P-0I6sAck" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-
 And that's not the first time he's hit the nail on the head.  Here's a video he recorded
 after the events of 2021-Jan-06, when American Nazi sympathizers attempted to disrupt the
 official counting of the Electoral College.  It's very personal: "I grew up in the ruins
@@ -94,8 +91,8 @@ attempting to overthrow a fair election.
 Ok, I changed my mind: this is a smart man, and a good man.  I'm happy to listen to him
 when he has something to say in his areas of expertise.  
 
-Well, maybe not body-building.  I mean, he's an _expert_, I'm just not interested.  But
-the other stuff, yeah.  Good guy.  (Not perfect, of course, what with a couple extramarital
+(Well, maybe not body-building.  I mean, he's an _expert_, I'm just not interested.  But
+the other stuff, yeah.  Good guy.  Not perfect, of course, what with a couple extramarital
 affairs.  Still, good for many purposes.)  
 
 I'm very, very happily surprised.  Feel free to make fun of me for not already knowing
