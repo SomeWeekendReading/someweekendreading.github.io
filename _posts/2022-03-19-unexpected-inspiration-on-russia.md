@@ -69,11 +69,11 @@ Some of the high points, of which there are surprisingly many in just 9min 16sec
     > Vlasov. You have the true heart of Russia.  My dear Russian friends, may God bless you
     > all." (8:38 - 9:16)  
 
-It takes a lot to bring tears to my eyes at the words of a former athlete turned actor in
-movies I don't like turned politician for a party I don't like.  But&hellip; give it up
-for Arnold, because looking into his eyes at those two moments did it.  There's an awful
-lot of compassion for the pain of others, and a desire to help them do better.  This is as
-we all _should_ feel toward each other.  
+It takes a lot to bring tears to my eyes at the words of a former athlete in a sport I
+don't like, turned actor in movies I don't like, turned politician for a party I don't
+like.  But&hellip; give it up for The Arnold, because looking into his eyes at those two
+moments did it.  There's an awful lot of compassion for the pain of others, and a desire
+to help them do better.  This is as we should _all_ feel toward each other.  
 
 Seems to me like a _very_ good message.  I'd be fascinated to know what my Russian friends
 think of it.  
@@ -82,8 +82,7 @@ think of it.
 And that's not the first time he's hit the nail on the head.  Here's a video he recorded
 after the events of 2021-Jan-06, when American Nazi sympathizers attempted to disrupt the
 official counting of the Electoral College.  It's very personal: "I grew up in the ruins
-of a country that suffered the loss of its democracy."  He correctly called Trump a liar
-attempting to overthrow a fair election.  
+of a country that suffered the loss of its democracy."  
 
 
 ## The Weekend Conclusion  
@@ -91,7 +90,7 @@ attempting to overthrow a fair election.
 Ok, I changed my mind: this is a smart man, and a good man.  I'm happy to listen to him
 when he has something to say in his areas of expertise.  
 
-(Well, maybe not body-building.  I mean, he's an _expert_, I'm just not interested.  But
+(Well, maybe not on body-building.  I mean, he's an _expert_, I'm just not interested.  But
 the other stuff, yeah.  Good guy.  Not perfect, of course, what with a couple extramarital
 affairs.  Still, good for many purposes.)  
 
