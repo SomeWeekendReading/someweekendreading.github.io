@@ -88,17 +88,18 @@ official counting of the Electoral College.  It's very personal: "I grew up in t
 of a country that suffered the loss of its democracy."  He correctly called Trump a liar
 attempting to overthrow a fair election.  
 
+
 ## The Weekend Conclusion  
 
 Ok, I changed my mind: this is a smart man, and a good man.  I'm happy to listen to him
 when he has something to say in his areas of expertise.  
 
 Well, maybe not body-building.  I mean, he's an _expert_, I'm just not interested.  But
-the other stuff, yeah.  Good guy.  Not perfect, of course, what with a couple extramarital
-affairs.  Still, good for many purposes.  
+the other stuff, yeah.  Good guy.  (Not perfect, of course, what with a couple extramarital
+affairs.  Still, good for many purposes.)  
 
 I'm very, very happily surprised.  Feel free to make fun of me for not already knowing
-this; I promise it's ok.  
+this. I promise it's ok.  
 
 ---
 
