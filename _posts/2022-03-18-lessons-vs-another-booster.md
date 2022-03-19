@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19&colon; Lessons Learned &amp; Another Booster
-tags:  COVID MathInTheNews PharmaAndBiotech Politics
+tags:  COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 ---
 
