@@ -20,13 +20,13 @@ Ukraine.
 <script async src="https://platform.twitter.com/widgets.js"></script>
 <iframe width="400" height="224" src="https://www.youtube.com/embed/4e1BndTE6Lg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <img src="{{ site.baseurl }}/images/2022-03-19-unexpected-inspiration-on-russia-atlantic-1.jpg" width="400" height="433" alt="Schwarzegger @ Atlantic: Message for my Russian friends" title="Schwarzegger @ Atlantic: Message for my Russian friends" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Umm&hellip; _Arnold Schwarzenegger_ as a source of political and spiritual inspiration?
-Really?!  
+Umm&hellip; [_Arnold Schwarzenegger_](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger)
+as a source of political and even spiritual inspiration?  Really?!  
 
-Yeah, really.  (Honest, it surprised me too.)  
+Yeah, really.  Honest, it surprised me too.  
 
 I never had much use for the hyper-masculine image of bodybuilders, or sportsball players
-of any sort.  And _Terminator_ was&hellip; well, not that great a movie.  And then he
+of any sort.  And _Terminator_ &amp; _Conan_ were&hellip; well, not that great as movies.  And then he
 became Republican politician, so&hellip; he's sorta outside my regular feeding grounds, ya know?  
 
 But we must be prepared to accept wisdom from _any_ source.  We must be _especially_ eager to
@@ -94,7 +94,8 @@ Ok, I changed my mind: this is a smart man, and a good man.  I'm happy to listen
 when he has something to say in his areas of expertise.  
 
 Well, maybe not body-building.  I mean, he's an _expert_, I'm just not interested.  But
-the other stuff, yeah.  Good guy.  
+the other stuff, yeah.  Good guy.  Not perfect, of course, what with a couple extramarital
+affairs.  Still, good for many purposes.  
 
 I'm very, very happily surprised.  Feel free to make fun of me for not already knowing
 this; I promise it's ok.  
