@@ -203,7 +203,7 @@ actors?  Anything we can do about them, now or in the future?)
 <iframe width="400" height="224" src="https://www.youtube.com/embed/oAEewFj_-dg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Finally, let's marinate in a few words of encouragement from the (Internet-)famous
 VlogBrothers, Hank Green and John Green.  Yes, they're "internet influencers", but I think
-I've largely overcome my aversion to that and forgiven them for it because they are
+I've largely overcome my aversion to that (and forgiven them for it), because they are
 relentlessly focused on making sense while making the world better ("reducing world suck",
 in their terms).  
 
@@ -255,7 +255,7 @@ front of each of us, now.
 
 And while we can't perhaps see the end of our work, and we can't quite make sense of it
 right now, and we can't do it without each other&hellip; we can still make progress.  This
-sentiment was expressed by the theologian Reihhold Nieburh, who first made words like
+sentiment was expressed by the theologian Reihhold Niebuhr, who first made words like
 "faith", "hope", and "charity" make sense to me:  
 
 > "Nothing worth doing is completed in our lifetime;  
