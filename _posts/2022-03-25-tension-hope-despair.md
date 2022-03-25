@@ -11,8 +11,8 @@ I feel I'm walking a knife-edge between hope and despair.  The news is not helpi
 ## On the Knife-Edge  
 
 <video width="400" height="224" controls style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-  <source src="{{ site.baseurl }}/images/between-hope-and-despair.webm">
-  Your browser does not support the video tag?!
+  <source src="{{ site.baseurl }}/images/between-hope-and-despair.mp4" type="video/mp4">
+  Your browser does not support the video tag with mp4?!
 </video>
 <img src="{{ site.baseurl }}/images/2022-03-25-tension-hope-despair-sollors-1.jpg" width="200" height="303" alt="Werner Sollors: The Temptation of Despair" title="Werner Sollors: The Temptation of Despair" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Among war in Ukraine, a continuing pandemic fraught with vaccine refusniks, and the
