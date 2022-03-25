@@ -14,7 +14,7 @@ I feel I'm walking a knife-edge between hope and despair.  The news is not helpi
   <source src="{{ site.baseurl }}/images/between-hope-and-despair.webm">
   Your browser does not support the video tag?!
 </video>
-<img src="{{ site.baseurl }}/images/2022-03-25-tension-hope-despair-sollors-1.jpg" width="200" height="302" alt="Werner Sollors: The Temptation of Despair" title="Werner Sollors: The Temptation of Despair" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-03-25-tension-hope-despair-sollors-1.jpg" width="200" height="303" alt="Werner Sollors: The Temptation of Despair" title="Werner Sollors: The Temptation of Despair" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Among war in Ukraine, a continuing pandemic fraught with vaccine refusniks, and the
 political pandemic of right-wing fascism, despair is a temptation. <sup id="fn1a">[[1]](#fn1)</sup>
 Although we've tried here, in this crummy little blog that nobody reads (CLBTNR), to find 
