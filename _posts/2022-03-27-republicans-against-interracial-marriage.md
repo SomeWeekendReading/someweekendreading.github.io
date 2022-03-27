@@ -11,9 +11,9 @@ A US Senator says he would allow states to ban interracial marriage.  _What?!_
 ## Apparently they're coming for my marriage now?  
 
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-slate-1.jpg" width="400" height="212" alt="Weissmann @ Slate: Sen Braun claims states should decide right to interracial marriage" title="Weissmann @ Slate: Sen Braun claims states should decide right to interracial marriage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-nyt-1.jpg" width="400" height="268" alt="Bouie @ NYT: How ARE we still debating interracial marriage?!" title="Bouie @ NYT: How ARE we still debating interracial marriage?!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-vf-1.jpg" width="400" height="231" alt="Levin @ Vanity Fair: Braun claims he didn't mean what he said multiple times" title="Levin @ Vanity Fair: Braun claims he didn't mean what he said multiple times" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-alternet-1.jpg" width="400" height="377" alt="Ellis @ Alternet: Braun constituents revolt" title="Ellis @ Alternet: Braun constituents revolt" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-nyt-1.jpg" width="400" height="268" alt="Bouie @ NYT: How ARE we still debating interracial marriage?!" title="Bouie @ NYT: How ARE we still debating interracial marriage?!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 In 1967, the US Supreme Court issued a decision called _Loving v Virginia:_ state-level bans
 on interracial marriage were ruled unconstitutional.  Marry how you like, regardless of
