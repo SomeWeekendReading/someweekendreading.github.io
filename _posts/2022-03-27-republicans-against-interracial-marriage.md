@@ -69,10 +69,10 @@ distinguish between a trans person and a child sex predator, accusing them all o
 "grooming" school-age children for sexual abuse.  
 
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-huffpo-1.jpg" width="400" height="164" alt="Papenfuss @ HuffPo: MTG warns Secy of Transportation and husband to stay out of girls restrooms" title="Papenfuss @ HuffPo: MTG warns Secy of Transportation and husband to stay out of girls restrooms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 (This is not uncommon among conservatives.  Yesterday Q-anon lunatic US Representative
 Marjorie Taylor Greene of Georgia warned US Transportation Secretary Pete Buttigeige and
-his husband to "stay out of our girl's bathrooms".  She not only can't tell the difference
+his husband to "stay out of our girl's bathrooms".  <sup id="fn6a">[[6]](#fn6)</sup>
+She not only can't tell the difference
 between a married gay couple vs pedophiles, but she somehow thinks they have an
 inexplicable interest in girls, underage ones at that.  This is a _florid_ display of
 ignorance and paranoia, regrettably typical of modern Republicans.)  
