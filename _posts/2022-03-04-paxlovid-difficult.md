@@ -286,7 +286,7 @@ anyway.)
 <a id="fn18">18</a>: T Murphy, ["EXPLAINER: Why Pfizer needs time to make COVID-19 treatment"](https://apnews.com/article/coronavirus-pandemic-science-business-health-medication-2f84fdd8eab845606d05f7f9d1fe3e0b), _AP News_, 2022-Mar-02. [↩](#fn18a)  
 
 <a id="fn19">19</a>: The _London Times_ in 1908 asked writers for essays on the subject of
-"What is Wrong with the World?"  Chesterton's reply was this letter:  
+"What is Wrong with the World?"  Chesterton's reply was allegedly this letter:  
 
 > Dear Sirs:  
 >  
@@ -295,7 +295,7 @@ anyway.)
 > Sincerely yours,  
 > G. K. Chesterton  
 
-There's apparently no actual evidence this happened, at least as told.  But anybody who's
+There's apparently no actual evidence this happened, at least not literally as told.  But anybody who's
 read more than a bit of Chesterton will find it utterly plausible.  
 
 <a href="{{ site.baseurl }}/images/chesterton-wrong-daily-news-1905-aug-16.jpg"><img src="{{ site.baseurl }}/images/chesterton-wrong-daily-news-1905-aug-16-thumb.jpg" width="400" height="110" alt="Chesterton @ Daily News 1905-Aug-16: What is wrong? I am wrong." title="Chesterton @ Daily News 1905-Aug-16: What is wrong? I am wrong." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
