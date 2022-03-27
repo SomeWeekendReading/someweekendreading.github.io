@@ -57,7 +57,7 @@ strategy.  Conservatives _hate_ masking, almost as much as they hate the rest of
 Now, to be sure, liberals are turning out a bit like Japanese, where masking is just an
 ordinary courtesy done on an everyday basis by people who have even a simple cold.  The
 Japanese side of my family simply _cannot_ understand why the American right spits venom
-over masking.  Nor can I.  
+over masking.  Nor, frankly, can I.  
 
 <img src="{{ site.baseurl }}/images/2022-03-18-lessons-vs-another-booster-nymag-1.jpg" width="400" height="317" alt="Adler-Bell @ NYMag: Why so many liberals are mad at Leonhardt" title="Adler-Bell @ NYMag: Why so many liberals are mad at Leonhardt" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But when Leonhardt begins to appeal for relaxation of COVID-19 precautions, I part

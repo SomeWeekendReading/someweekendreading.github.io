@@ -36,29 +36,29 @@ And of _course_ he wants states to legislate over every uterus, since he's oppos
 v Wade_ legalizing abortion.  
 
 In an attempt to be fair, there _has_ been some backlash in Indiana.  A little.  While I
-have family connections to Indiana, it's clear this a difficult place to be if one can
-attempt to shrug this off.  I mean, the guy said he's not racist, he just wants states to
+have family connections to Indiana, it's clear this a difficult place to be if the citizenry can
+attempt to shrug this off.  I mean, the guy said he's not racist, he _just_ wants states to
 be able to abolish interracial marriage, right?  
 
 Jamelle Bouie, whom [we have quoted favorably here before]({{ site.baseurl }}/vaccine-waste/#scare-headlines-from-the-mathematically-illiterate), has the right of the matter, at the _NYT:_
 why _are_ we still debating interracial marriage in 2022?!  Gotta say: Bouie kept his temper
-better than I've kept mine.  
+better than I've kept mine.  His summary:  
 
 > Senator Braun's mistake was not that he misunderstood the question; it's that he
 > understood it all too well. The world he and his colleagues are working toward is one in
 > which the national government defers the question of civil and political rights to the
 > states. And it is in the states, free from federal oversight, where people like Braun
 > can exercise real control over what you might do, how you might live and who you might
-> love. It's freedom for some and obedience for the rest.  
+> love. __It's freedom for some and obedience for the rest.__  
 
-States don't get to legislate civil rights.  _Nobody_ can legislate against rights!
+States don't get to legislate civil rights.  _Nobody_ gets to legislate against rights!
 Anything that can be controlled by a legislature is not a right: it's a _privilege_,
 subject to retraction by majority whim.  Rights are what _resists_ that kind of attack.  
 
 
 ## Ok, but that's just one weird guy, right?  
 
-No, it's not just some gormless guy who happened to blurt out his true thoughts in
+No, it's not _just_ some gormless twit who happened to blurt out his true thoughts in
 public.  It's "endemic", to use a word the right doesn't seem to grok either.  
 
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-mfp-1.jpg" width="400" height="245" alt="Pittman @ MFP: GOPer calls for murder of trans rights supporters" title="Pittman @ MFP: GOPer calls for murder of trans rights supporters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -93,8 +93,10 @@ beings, for that matter.
 ## The Weekend Conclusion  
 
 Look, if you're still a Republican, just face it: this is your party's brand now.
-They're fascist, racist, homophobic, sexist, anti-intellectual, and authoritarian.  Get
-out while you still can.  
+They're fascist, racist, homophobic, sexist, anti-intellectual, and authoritarians who
+tried to subvert a US presidential election.  
+
+Get out while you still can.  
 
 ---
 

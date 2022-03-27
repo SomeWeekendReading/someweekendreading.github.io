@@ -97,7 +97,7 @@ Now, what should we think about that?  I have numerous reservations:
   us worry about the general applicability of the results?  
 - __Unbalanced sample:__  The sample was quite  unbalanced, by an order of magnitude:
   1,072 ivermectin patients vs 40,536 remdesivir patients.  While this reflects current
-  practice (ivermectin kind of "underground" vs remdesivire standard of care in the early
+  practice (ivermectin kind of "underground" vs remdesivir standard of care in the early
   pandemic), it worries me.  
     <img src="{{ site.baseurl }}/images/2022-03-07-ivermectin-revenant-epid.jpg" width="400" height="126" alt="Groenwald &amp; van Smeden @ Epidemiology: Efficient sampling in case-control studies" title="Groenwald &amp; van Smeden @ Epidemiology: Efficient sampling in case-control studies" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
   - _Case/Control Sampling:_ It would have been more usual to do some sort of case-control
@@ -105,7 +105,7 @@ Now, what should we think about that?  I have numerous reservations:
     ivermectin cases, and then sampled the remdesivir cases to get a similar
     sized cohort so the sampling is closer to 1:1.  (For bonus points that make grizzled
     old statisticians smile at you, assess the stability of the result under repeated
-    bootstrap resampling of the remdesivire patients.)  
+    bootstrap resampling of the remdesivir patients.)  
   - _Effect on statistical significance:_ This would have balanced the sampling, but
     reduced the sample size from 41k to 2k.  Elimination of the bias would have cost
     statistical significance, and I wonder if that's why they didn't use this well-known
@@ -168,7 +168,7 @@ also appears to be an irrelevant effort, because:
 So, no: this does not make me change my mind.  I'm _not_ on the ivermectin bandwagon for
 anything other than treating parasite infestations.  
 
-(And somehow, I've written a summary that's longer than the publication itself!  Shame on
+(And somehow, I've written a "summary" that's longer than the publication itself!  Shame on
 me&hellip;)  
 
 ---

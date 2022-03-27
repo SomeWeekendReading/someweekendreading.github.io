@@ -231,7 +231,7 @@ Now if only we can also _try_ to deliver universal health care to all of humanit
 breed a more serious variant that starts wiping us out.  
 
 Oh, and let's not start a nuclear war, ok?  (Just in case Putin reads this.  Worth a shot,
-nanyway.)  
+anyway.)  
 
 ---
 
