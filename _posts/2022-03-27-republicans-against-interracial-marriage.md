@@ -14,13 +14,12 @@ A US Senator says he would allow states to ban interracial marriage.  _What?!_
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-vf-1.jpg" width="400" height="231" alt="Levin @ Vanity Fair: Braun claims he didn't mean what he said multiple times" title="Levin @ Vanity Fair: Braun claims he didn't mean what he said multiple times" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-alternet-1.jpg" width="400" height="377" alt="Ellis @ Alternet: Braun constituents revolt" title="Ellis @ Alternet: Braun constituents revolt" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-nyt-1.jpg" width="400" height="268" alt="Bouie @ NYT: How ARE we still debating interracial marriage?!" title="Bouie @ NYT: How ARE we still debating interracial marriage?!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 In 1967, the US Supreme Court issued a decision called _Loving v Virginia:_ state-level bans
 on interracial marriage were ruled unconstitutional.  Marry how you like, regardless of
 race.  Up until today, I was dismayed that my marriage would have been forbidden at the
 state level in recent times, within my personal memory.  
 
-Today it got worse.  Republican Senator Mike Braun of Indiana claimed, multiple times,that he felt that case was decided wrongly and states should be able to ban marriage on the basis of race. <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</sup>  
+Today it got worse.  Republican Senator Mike Braun of Indiana claimed, multiple times, he felt that case was decided wrongly and states should be able to ban marriage on the basis of race. <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</sup>  
 
 In the eternal fashion of politicians caught voicing their id, he claimed to have been
 either misquoted or to have misunderstood the question.  The quote seems pretty clear, and
@@ -29,7 +28,7 @@ forms&hellip; well, then he's not smart enough to tie his own shoes, let alone b
 US Senator.  
 
 He went on to claim _Griswold v Connecticut_ was decided wrongly: that states should be
-able to make birth control illegal!  He not only doesn't want my type of marriage to
+able to limit who has access to birth control!  He not only doesn't want my type of marriage to
 exist, he worries about condoms in the hands of the wrong people.  
 
 And of _course_ he wants states to legislate over every uterus, since he's opposed to _Roe
