@@ -116,7 +116,7 @@ out while you still can.
 
 <a id="fn2">2</a>: J Bouie, ["How Are We Still Debating Interracial Marriage in 2022?"](https://www.nytimes.com/2022/03/25/opinion/mike-braun-loving-virginia.html), _New York Times_, 2022-Mar-25. [↩](#fn2a)  
 
-<a id="fn3">3</a>: B Levin, ["GOP SENATOR MIKE BRAUN CLAIMS HE DIDN’T MEAN TO SAY STATES SHOULD BE ABLE TO BAN INTERRACIAL MARRIAGE, DESPITE SAYING IT MULTIPLE TIMES"](https://www.vanityfair.com/news/2022/03/mike-braun-supreme-court-interracial-marriage), 2022-Mar-23. [↩](#fn3a)  
+<a id="fn3">3</a>: B Levin, ["GOP SENATOR MIKE BRAUN CLAIMS HE DIDN’T MEAN TO SAY STATES SHOULD BE ABLE TO BAN INTERRACIAL MARRIAGE, DESPITE SAYING IT MULTIPLE TIMES"](https://www.vanityfair.com/news/2022/03/mike-braun-supreme-court-interracial-marriage), _Vanity Fair_, 2022-Mar-23. [↩](#fn3a)  
 
 <a id="fn4">4</a>: M Ellis, ["A 'disaster for Indiana': Mike Braun’s constituents revolt after GOP senator criticized legalization of interracial marriage"](https://www.alternet.org/2022/03/indiana-residents/), _Alternet_, 2022-Mar-24. [↩](#fn4a)  
 
