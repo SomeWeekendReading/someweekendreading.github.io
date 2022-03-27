@@ -62,6 +62,7 @@ No, it's not just some gormless guy who happened to blurt out his true thoughts 
 public.  It's "endemic", to use a word the right doesn't seem to grok either.  
 
 <img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-mfp-1.jpg" width="400" height="245" alt="Pittman @ MFP: GOPer calls for murder of trans rights supporters" title="Pittman @ MFP: GOPer calls for murder of trans rights supporters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-03-27-republicans-against-interracial-marriage-mfp-2.jpg" width="400" height="197" alt="Mississippi Republican Robert Foster: trans activists 'groom' children and should be shot" title="Mississippi Republican Robert Foster: trans activists 'groom' children and should be shot" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Here by way of immediate example the same day is a minor Republican, one Robert Foster of
 Mississippi, caught saying the quiet part out loud. <sup id="fn5a">[[5]](#fn5)</sup> He's
 already against civil rights for trans people.  He also doesn't seem to be able to
