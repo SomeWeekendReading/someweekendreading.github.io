@@ -64,7 +64,8 @@ postStats <- function(## Inputs
                       ##     2022-Mar-02: still expired; wrote author again with curl examples:
                       ## $ curl --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
                       ## $ curl --insecure --get https://api.countapi.xyz/get/www.someweekendreading.blog/.moderna-monkey-trial.
-                      sslVerify     = FALSE, # TRUE,
+                      ## Appears to be fixed as of 2022-Mar-27.
+                      sslVerify     = TRUE, #FALSE,
                       hitStartDate  = as.Date("2021-Jul-15", format = "%Y-%b-%d"),
                       postStartDate = as.Date("2020-Jul-01", format = "%Y-%b-%d"),
                       today         = Sys.Date(),      # Today is when hits get measured
