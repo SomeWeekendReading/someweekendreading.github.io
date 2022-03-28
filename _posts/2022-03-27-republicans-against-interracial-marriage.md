@@ -40,8 +40,8 @@ attempt to shrug this off.  I mean, the guy said he's not racist, he _just_ want
 be able to abolish interracial marriage, right?  
 
 Jamelle Bouie, whom [we have quoted favorably here before]({{ site.baseurl }}/vaccine-waste/#scare-headlines-from-the-mathematically-illiterate), has the right of the matter, at the _NYT:_
-why _are_ we still debating interracial marriage in 2022?!  Gotta say: Bouie kept his temper
-better than I've kept mine.  His summary:  
+why _are_ we still debating interracial marriage in 2022?!  (Gotta say: Bouie kept his temper
+better than I've kept mine.)  His summary:  
 
 > Senator Braun's mistake was not that he misunderstood the question; it's that he
 > understood it all too well. The world he and his colleagues are working toward is one in
@@ -92,7 +92,7 @@ beings, for that matter.
 ## The Weekend Conclusion  
 
 Look, if you're still a Republican, just face it: this is your party's brand now.
-They're fascist, racist, homophobic, sexist, anti-intellectual, and authoritarians who
+They're fascist, racist, homophobic, sexist, anti-intellectual authoritarians who
 tried to subvert a US presidential election.  
 
 Get out while you still can.  

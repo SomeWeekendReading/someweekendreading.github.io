@@ -160,7 +160,7 @@ _Savonarola lost._
 
 The original is preserved in Venice's _Biblioteca Marciana_ (Italian Manuscripts, Class I, 72 (5074) folios iv.-2r).  This translation from Latin was done by Shelagh Grier in 1986, but not widely published (a Hayloft Press pamphlet in a limited edition of 350).[↩](#fn1a)  
 
-<a id="fn2">2</a>: And look: if you have to read a 2,000 year old, 3-volume poem, _in Latin,_ to figure out how to get a girlfriend or boyfriend&hellip; _you're not doing it right!_  
+<a id="fn2">2</a>: And look: if you have to read a 2,000 year old, 3-volume poem, _in Latin,_ to figure out how to get a girlfriend or boyfriend&hellip; _you're not doing it right!_  (I can't really claim to know what 'right' means here, but I know that ain't it.)  
 
 I say this as a former young lonely nerd with low social skills and a penchant for Latin, who tried exactly this.  Trust me; didn't work.  
 
