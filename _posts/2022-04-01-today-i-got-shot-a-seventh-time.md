@@ -135,7 +135,7 @@ Zvi continues, observing that he will pass on the 2nd booster:
 > 3. If you’re at very high risk, maybe it makes sense.  
 > 4. Either decision is at worst a small mistake.  
 
-Probably skipping is reasonable for Zvi, especially since he's not eligible anyway.  
+Probably skipping is reasonable for Zvi, especially since he's young &amp; ineligible anyway.  
 
 I'm skeptical that one can see a wave coming in advance enough to time a booster, and even
 more so that other people wouldn't dogpile on the booster supply making appointments
@@ -154,7 +154,7 @@ probably a small error either way, given what we know now.
 <img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-globe-1.jpg" width="400" height="193" alt="Globe: US authorizes another booster for elders" title="Globe: US authorizes another booster for elders" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-globe-2.jpg" width="400" height="128" alt="Globe: Some critiques of timing of 2nd boosters" title="Globe: Some critiques of timing of 2nd boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The general  media reported this all over the place; as a representative example here's
-the _Reuters_ coverage. <sup id="fn3a">[[3]](#fn3)</sup> Alas, they omit or  manble most of
+the _Reuters_ coverage. <sup id="fn3a">[[3]](#fn3)</sup> Alas, they omit or  mangle most of
 the details of who's eligible when immunocompromised, what the immunocompromises are,
 which vaccines go to which age groups, and so on.  They got the general idea of "2nd
 boosters for the over 50 crowd" right, but pretty much stopped there.  That was typical of
@@ -218,7 +218,7 @@ way to do this perfectly, so no sense complaining.
 
 <img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-nyt-1.jpg" width="400" height="545" alt="NYT: Should you get another booster?" title="NYT: Should you get another booster?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So given all that, there's no shortage of people wanting advice on whether or not to get
-another booster.  Thus no shortage of media artcles offering said advice.  One such is
+another booster.  Thus no shortage of media articles offering said advice.  One such is
 Apoorva Mandavilli in the _New York Times_. <sup id="fn7a">[[7]](#fn7)</sup>  
 
 - She summarizes the situation, including the woefully low acceptance rate of first
@@ -289,7 +289,7 @@ think about how the Omicron/BA.2 wave is hitting them, and how it will hit us:
 
 Next, let's consult Topol in longer form at his blog
 [_Ground Truths_](https://erictopol.substack.com/) <sup id="fn8a">[[8]](#fn8), 
-and the epidemiologist Kataline Jetelina at her blog,
+and the epidemiologist Katelyn Jetelina at her blog,
 [_Your Local Epidemiologist_](https://yourlocalepidemiologist.substack.com/). <sup id="fn9a">[[9]](#fn9)</sup>
 They're both well worth your time.  
 
@@ -399,7 +399,7 @@ So Jetelina gives no specific advice, but seems broadly consistent with Topol.
 
 ## Of Course There Will be Problems&hellip;  
 
-<img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-nyt-2.jpg" width="400" height="533" alt="Leonhardt @ NYT: Two COVID Problems" title="Leonhardt @ NYTtt: Two COVID Problems" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-nyt-2.jpg" width="400" height="533" alt="Leonhardt @ NYT: Two COVID Problems" title="Leonhardt @ NYT: Two COVID Problems" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 As long as Republicans can throw a wrench into the works, there will be problems as
 documented today by Leonhardt at the _NYT_. <sup id="fn10a">[[10]](#fn10)</sup>
 Basically, we face a number of problems here:  
