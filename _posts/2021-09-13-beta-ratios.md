@@ -8,7 +8,8 @@ comments: true
 [Warning: Post contains full frontal nerdity.  Bug reports appreciated!] I finally got a
 copy of Pham-Gia's paper on the distribution of the ratio of 2 independent Beta-distributed
 random variables.  While I still have some childhood trauma around hypergeometric functions like
-${}\_{2}F\_{1}()$ and its scarier big brother ${}\_{3}F\_{2}()$&hellip; it's time to face my fears.  
+${}\_{2}F\_{1}()$ and its even scarier big brother ${}\_{3}F\_{2}()$&hellip; it's time to
+face my fears.  
 
 
 ## The three B's: Bernoulli, Binomial, and Beta  
