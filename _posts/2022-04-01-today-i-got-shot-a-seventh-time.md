@@ -466,7 +466,7 @@ reactogenicity department here, than with Pfizer/BioNTech.  But&hellip; _happily
 
 <a id="fn1">1</a>: [FDA Office of Media Affairs](mailto:fdaoma@fda.hhs.gov), ["Coronavirus (COVID-19) Update: FDA Authorizes Second Booster Dose of Two COVID-19 Vaccines for Older and Immunocompromised Individuals"](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-second-booster-dose-two-covid-19-vaccines-older-and), _FDA News Release_, 2022-Mar-29. [↩](#fn1a)  
 
-<a id="fn2">2</a>: [CDC Media Relations](https://www.cdc.gov/media), ["CDC Recommends Additional Boosters for Certain Individuals"](https://www.cdc.gov/media/releases/2022/s0328-covid-19-boosters.html), _CDC Newsroom Releases_, 2022-Mar-29. [↩](#fn2a)  
+<a id="fn2">2</a>: [CDC Media Relations](https://www.cdc.gov/media/), ["CDC Recommends Additional Boosters for Certain Individuals"](https://www.cdc.gov/media/releases/2022/s0328-covid-19-boosters.html), _CDC Newsroom Releases_, 2022-Mar-29. [↩](#fn2a)  
 
 <a id="fn3">3</a>: M Erman &amp; M Maddipatla, ["U.S. authorizes second COVID booster for Americans 50 and older"](https://www.reuters.com/world/us/fda-green-lights-second-booster-pfizerbiontech-moderna-covid-shot-older-2022-03-29/), _Reuters_, 2022-Mar-29. [↩](#fn3a)  
 
