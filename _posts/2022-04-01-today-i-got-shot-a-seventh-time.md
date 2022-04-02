@@ -294,7 +294,7 @@ Next, let's consult Topol in longer form at his blog
 [_Ground Truths_](https://erictopol.substack.com/) <sup id="fn8a">[[8]](#fn8), 
 and the epidemiologist Katelyn Jetelina at her blog,
 [_Your Local Epidemiologist_](https://yourlocalepidemiologist.substack.com/). <sup id="fn9a">[[9]](#fn9)</sup>
-They're both well worth your time.  
+They're both _well_ worth your time.  Really.  
 
 ### Eric Topol @ Ground Truths  
 
@@ -313,35 +313,32 @@ be at least some cross-immunity.  Since estimates now say almost 40% of American
 first wave of Omicron, they should have _some_ protection against BA.2.  
 
 But the other thing that will help _even better_ is a recent booster.  Topol shows a
-summary table from the preprint of a Qatari study <sup id="fn12a">[[12]](#fn12)</sup>:  
+summary table from the preprint of a Qatari study <sup id="fn12a">[[12]](#fn12)</sup>  
 
 <a href="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-ground-truths-2.jpg"><img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-ground-truths-2-thumb.jpg" width="400" height="312" alt="Qatari study: vaccine efficacies vs BA.1 and BA.2" title="Qatari study: vaccine efficacies vs BA.1 and BA.2" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-
 Look at the last 4 rows there: 3-shot efficacy vs hospitalization is 70% - 80%.  A recent fourth
 shot in a BA.2 wave would be even better.  
 
 In fact, the efficacy of a 2nd booster has been studied already a couple of times, all during the Israeli Omicron wave. <sup id="fn13a">[[13]](#fn13)</sup> <sup id="fn14a">[[14]](#fn14)</sup> <sup id="fn15a">[[15]](#fn15)</sup>
 They range from a small safety study of health-care workers, to a 1 million+ person study
 comparing 3rd vs 4th shots.  Their results are quite strikingly in favor of another
-booster.  For example, the Kaplan-Meier curves for 3 shots vs 2 shots (initial booster vs Delta)
+booster.  For example, the Kaplan-Meier curves for 3 shots vs 2 shots (1st booster vs Delta)
 and 4 shots vs 3 shots (2nd booster vs Omicron) are pretty similar, showing _almost_ as much of a
 boost from the second booster as from the first:  
-
 <a href="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-ground-truths-3.jpg"><img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-ground-truths-3-thumb.jpg" width="400" height="160" alt="Clalit Health: efficacy of first booster vs none and 2nd booster vs 1st" title="Clalit Health: efficacy of first booster vs none and 2nd booster vs 1st" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-
 Now, there are of course several serious issues here, the first couple of which are as
 pointed out above by Racaniello to Zvi:  
-1. The populations were not especially well matched (though they were partially matched).
+1. The populations were not especially well matched (though they were _partially_ matched).
    More to the point, those receiving the 4th shot were _volunteers_, not randomized!
-   This means the study is convolved with a confounder that will overstate the effect, as
-   the volunteers are likely more COVID-cautious in the first place.  
+   This means the study is convolved with a confounder that will _overstate_ the effect, as
+   volunteers are likely more COVID-cautious in the first place.  
 2. The base rate is low: we're talking again about a statistically significant and strong
-   effect of reduction of death, but in a death rate that was _already small._  It may,
+   effect of reduction of death, but for a death rate that was _already small._  It may,
    however, be important at the population level: all those elder deaths eventually add
    up!  
 3. The plot on the left was during Delta, while the plot on the right is during Omicron.
    This is likely why the effect is slightly less dramatic for Omicron: 78% reduction in
-   hospitalization vs 90% reduction.  
+   hospitalization vs 90% reduction.  Omicron is _nasty._  
    
 So those are about the same cautions we teased out above.  
 
@@ -360,18 +357,20 @@ leaning:
 > BA.2 wave where you live, or that it’s getting legs as you are trying to decide. Or if
 > you are traveling or have plans that would put you at increased risk.  
 
-(Though he does point out that if you've had 3 doses of vaccine and caught Omicron anyway
-due to just plain bad luck, you can skip the second booster.)  
+So for me, yeah&hellip; _boost._  Though he does point out that if you've had 3 doses of vaccine
+and caught Omicron anyway (really due to just plain bad luck), you can skip the second
+booster.  Or not, since the 2nd booster is low cost and low risk.  
 
 ### Katelyn Jetelina @ Your Local Epidemiologist  
 
 <img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-yle-1.jpg" width="400" height="130" alt="Jetelina @ Your Local Epidemiologist: Getting a 2nd booster" title="Jetelina @ Your Local Epidemiologist: Getting a 2nd booster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Jetelina opens by pointing out that fourth doses of mRNA vaccines have been underway not
-just in Israel, but also in the UK and Germany.  So this is by no means unusual.  
+just in Israel, but also in the UK and Germany.  So this is by no means unusual.  The US
+is, as regrettably usual, playing catch-up.  
 
 Oddly, [the FDA VRBPAC committee meeting next week was to debate second boosters](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-hold-advisory-committee-meeting-covid-19-vaccines-discuss-future), but
 specifically was told _there would be no votes on any particular application._  Since the
-FDA approved those applications this week, we now see why that caveat was there.  Still
+FDA approved those applications this week, we now see why that caveat was there.  Still&hellip;
 pretty odd, though.  
 
 Jetelina's main points:  
@@ -420,6 +419,7 @@ Basically, we face a number of problems here:
 The sheer _predictability_ of all this is the most tiresome part.  Can't we elect fewer
 Republicans and start _doing_ useful things again?  
 
+
 ## The Weekend Conclusion  
 
 Well, this was a bit of a lengthy trawl through the media and bits of the scientific
@@ -429,27 +429,27 @@ the opposite conclusion.)
 
 It looked to me, taking advice from Wachter &amp; Topol's quote of the Kaplonke paper in
 _Science_, as a past-mid-60s guy whose last shot was 5 months ago, that I should take the 2nd
-booster and it should be Moderna to offset my previous 3 doses of Pfizer.  
+booster.  And it should be Moderna, to offset my previous 3 doses of Pfizer.  
 
 A bit of poking around on the day after the FDA approval revealed that nobody was prepared
-to provide it yet.  Poking around the _next_ day revealed that all slots were taken, for
-that day and the next.  This was starting to remind me of the spring of 2021, with the
-vaccine chaos.  Still, I managed to snag a Moderna appointment on Friday (today).  
+to provide it yet (sigh).  Poking around the _next_ day revealed that all slots were taken, for
+that day and the next (sigh).  (This was starting to remind me of the spring of 2021, with the
+vaccine chaos.)  Still, I managed to snag a Moderna appointment on Friday (today).  
 
 <img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-injection.jpg" width="400" height="353" alt="Your humble Weekend Editor getting a 2nd booster (Moderna)" title="Your humble Weekend Editor getting a 2nd booster (Moderna)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-This afternoon I took a short sail in the Weekend Zeppelin (in reality a boring bus ride and
-train ride) to a local vaccine dispensary.  As a result, here is your humble Weekend
-Editor's portside dorsal manipulator tentacle, being injected with a 2nd booster.
-Moderna, this time.  (Wish I could ride in a real zeppelin, or 
-[one of the modern airships like the LMH-1](https://www.youtube.com/watch?v=_phicOPoQT8).  Parking might
-be more of a problem than usual, though.  That would _more_ than offset any vaccine
-reaction discomfort!)  
+
+This afternoon I took a short sail in the Weekend Zeppelin for the appointment. (In reality a boring bus ride and train ride.)  I arrived at a local vaccine dispensary for my appointment. Here is your humble Weekend Editor's portside dorsal manipulator tentacle, being injected with a 2nd booster.  Moderna, this time.  (You know, I wish I could ride in a real zeppelin, or [one of the modern airships like the LMH-1](https://www.youtube.com/watch?v=_phicOPoQT8).  Parking might be more of a problem than usual, though.  That would _more_ than offset any vaccine reaction discomfort!)  
 
 Tune in tomorrow for an [after-action report](https://en.wikipedia.org/wiki/After_action_report)
 of the side-effects.  Given the higher dose of Moderna, I expect a bit more in the
 reactogenicity department here, than with Pfizer/BioNTech.  But&hellip; _happily._  
 
-<!-- *** Rename slightly to reset counter before publication. -->
+### Addendun 2022-Apr-02  
+
+Really not bad: kind of sore in my deltoid, a little sore and feverish last night, but
+overall not bad.  
+
+I'm&hellip; vaguely disappoinnted.  
 
 ---
 
