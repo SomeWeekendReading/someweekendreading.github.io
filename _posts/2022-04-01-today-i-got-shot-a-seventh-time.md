@@ -11,15 +11,15 @@ Today I got my 7th vaccination shot in the last 12 months.  Happily.
 ## Nous n'avons pas attrapp&eacute; le poisson d'avril!  
 
 <img src="{{ site.baseurl }}/images/2021-04-01-foolishness-poisson.jpg" width="400" height="400" alt="Attrapons le poisson d'avril?  Mais, non!" title="Attrapons le poisson d'avril?  Mais, non!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Honest, this is not an April Fool's joke.  Not even of the delicious French variety which
-always involve fish for some reason.  
+Honest, this is not an April Fool's joke.  Not even of the delicious French variety (which
+always involve fish, for some reason).  
 
-In the last 12 months, I've gotten 2 shingles vaccine doses, 1 flu vaccine, and now
-another booster (the 4th COVID-19 vaccination), for a total of 7.  That's a _lot_ of vaccinations.
-I've really been making my immune system pay its rent, but now I can stand in the shadow
-of its protection.  
+In the last 12 months, I've gotten 2 shingles vaccine doses, 1 flu vaccine dose, and now
+another COVID-19 booster (the 4th COVID-19 vaccination), for a total of 7.  That's a _lot_
+of vaccinations. I've really been making my immune system pay its rent, but now I can
+stand in the shadow of its protection.  
 
-And that's A Good Thing.  
+And that's _A Good Thing._  
 
 Here's the story of the latest COVID-19 vaccine booster, and how I decided to offer up my
 personal deltoid to be injected (but not
@@ -30,7 +30,8 @@ generation goes).
 ## The Last Couple Days  in COVID-19 News  
 
 Let's start from the original sources, then work our way outward into the secondary media
-with their summaries and analyses.  
+with their summaries and analyses, and then some of the scientific literature underlying
+the decision process.  
 
 ### The Primary Sources  
 
@@ -58,7 +59,7 @@ it's sort of the opposite of what the companies applied for.
 It's also _slightly_ surprising and frustrating that this was done without review by the
 external committees (VRBPAC at the FDA and ACIP at the CDC).  But only slightly:  
 - On the one hand, we all understand the need to move quickly.  Having another layer of
-  evaluations when the situation is clear is not something we need.  And these vaccines
+  evaluations when the situation is clear is&hellip; _not_ something we need.  And these vaccines
   are indeed well-understood empirically, i.e., where they work and the side-effects.  So
   maybe external review wasn't strictly necessary.  
 - On the other hand &ndash; and I'm just venting my personal frustration here &ndash;
@@ -70,11 +71,12 @@ external committees (VRBPAC at the FDA and ACIP at the CDC).  But only slightly:
   
 So&hellip; ok.  The data nerd in me is a little frustrated.  And even I admit that the
 public peer review and critique can sometimes resemble a public flogging; it demonstrates
-committment for sure, but sometimes more painfully than necessary.  
+committment for sure, but rather more painfully than necessary.  
 
-We're happy with the end decision, since there seems to be relatively little occurrence of
-"antigenic original sin", and the Omicron-specific vaccines don't seem to be that much
-better.  We'll dig a little for data, but right now it seems more or less ok.  
+We're happy with the end decision to authorize another booster, since there seems to be
+relatively little occurrence of "antigenic original sin", and the Omicron-specific
+vaccines don't seem to be that much better (so far; we're not done yet, in that regard).
+We'll dig a little for data, but right now this all seems more or less ok.  
 
 [Zvi at _Don't Worry About the Vase_](https://thezvi.wordpress.com/2022/03/31/they-dont-know-about-second-booster/) is a bit more negative about the usual peer review meetings, as we would expect.  He also quotes [Vincent Racaniello](https://en.wikipedia.org/wiki/Vincent_Racaniello), professor of microbiology and immunology at Columbia, on the Israeli data that (apparently) went into the FDA/CDC decision.  After complaining that the boosted and unboosted cohorts were not matched for co-morbidities, Racaniello goes into the numbers:  
 
@@ -119,9 +121,10 @@ of effect, it's usually _time to pay attention._
 Now, if I may interpret Racaniello a bit, he seems to be making the point that this
 intervention successfully reduces a risk, but it was a risk that was _already small to
 begin with_.  Maybe your time would have been better spent reducing smoking, or treating
-obesity, or getting gun safety practices more widespread.  
+obesity, or getting gun safety practices more widespread?  (I've got a list somewhere
+here, of the usual liberal interventions.)  
 
-That might be.  But this looks like a pretty low cost, sure thing to me, as a person in
+That might be.  But this looks like a pretty low cost &amp; sure thing to me, as a person in
 that 60-69 age group, so I'm disposed to take it.  
 
 Zvi continues, observing that he will pass on the 2nd booster:  
@@ -137,14 +140,15 @@ Zvi continues, observing that he will pass on the 2nd booster:
 
 Probably skipping is reasonable for Zvi, especially since he's young &amp; ineligible anyway.  
 
-I'm skeptical that one can see a wave coming in advance enough to time a booster, and even
-more so that other people wouldn't dogpile on the booster supply making appointments
-impossible to get.  So while I'm older but in reasonable health, I want the sure thing of
-having the booster while the Omicron/BA.2 wave comes along _now._  I'll take that 5.78 fold
-reduction in risk of death for my age decile, thank you very much.  
+I'm skeptical that one can see a wave coming in advance enough to time a booster.  I'm
+even more skeptical that other people won't dogpile on the booster supply, making
+appointments impossible to get when the time comes.  So while I'm older but in reasonable
+health, I want the sure thing of having the booster _now_ while the Omicron/BA.2 wave comes
+along.  I'll take that 5.78-fold reduction in risk of death for my age decile, thank
+you very much.  
 
-But I agree that given the low risk level for someone already with 3 doses, it's a
-marginal decision.  Even if the decision (2nd boost/no 2nd boost) turns out wrong, it's
+But I agree with Zvi that, given the low risk level for someone with 3 doses already, it's a
+marginal decision.  Even if the decision (2nd boost _vs_ no 2nd boost) turns out wrong, it's
 probably a small error either way, given what we know now.  
 
 ### The General Media  
@@ -166,22 +170,23 @@ that will have to be addressed, but it is, alas, not a scientific problem.
 
 _STAT News_ had some slightly more detailed coverage. <sup id="fn4a">[[4]](#fn4)</sup>
 (Though, amusingly enough, their hyperlink to "underlying medical conditions" lead to
-apple.com.  I mean, yeah, it's an addiction, but not _that_ kind.)  They noted the lack of
+apple.com.  I mean, yeah, it's an addiction, but not _that_ kind of addiction!)  They noted the lack of
 VRBPAC and ACIP meetings will attract critics, and that the final age ranges are kind of
 opposite what the companies applied for.  They claimed Moderna applied for a larger age
 range to give the FDA "flexibility" in assigning age ranges, which I'd never heard
-before.  
+before (and view skeptically).  
 
 They also correctly, in my view, assess the risk of the oncoming Omicron/BA.2 wave as
-being a good reason to boost, though it might leave us more vulnerable come winter.  Kind
+being a good reason to boost _now_, though it might leave us more vulnerable come winter.  Kind
 of hard to say which way to dodge, here.  
 
 The venerable _Boston Globe_ offers more or less standard coverage.  <sup id="fn5a">[[5]](#fn5)</sup> 
 
-Interestingly, they quote some different Israeli data (as usual, mangled so that we don't
-know the age cohort beyond "over 60"), showing 92/328,000 deaths in the group with 4 doses vs 
-232/234,000 deaths in the group with 3 doses.  Even just a simple (as in na&iuml;ve) test of proportion
-shows that this is wildly statistically significant, with a 3.5-fold reduction in death rates:  
+Interestingly, the venerable _Globe_ quotes some different Israeli data (as usual, mangled
+so that we don't know the age cohort beyond "over 60", let alone know the source), showing
+92/328,000 deaths in the group with 4 doses vs 232/234,000 deaths in the group with 3
+doses.  Even just a simple (as in _na&iuml;ve_) statistical test of proportion shows that
+this is wildly statistically significant, with a 3.5-fold reduction in death rates:  
 
 ```R
 > prop.test(x = c(92, 232), n = c(328000, 234000))
@@ -204,7 +209,7 @@ sample estimates:
 Though, to take a point from Racaniello above, it is a reduction in a death rate that's
 already low.  We could do more statistical tests, but the point should be reasonably
 clear: the effect is real and large, but you can argue about whether it's worth the
-bother.  
+bother given the already-low death risk.  
 
 The venerable _Globe_ also reports on a number of Boston physicians questioning the timing
 of boosting, given the unknowns about when another wave might 
@@ -218,31 +223,29 @@ way to do this perfectly, so no sense complaining.
 
 <img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-nyt-1.jpg" width="400" height="545" alt="NYT: Should you get another booster?" title="NYT: Should you get another booster?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So given all that, there's no shortage of people wanting advice on whether or not to get
-another booster.  Thus no shortage of media articles offering said advice.  One such is
-Apoorva Mandavilli in the _New York Times_. <sup id="fn7a">[[7]](#fn7)</sup>  
+another booster.  Thus there is no shortage of media articles offering said advice.  One such is
+from Apoorva Mandavilli in the _New York Times_ <sup id="fn7a">[[7]](#fn7)</sup>:  
 
 - She summarizes the situation, including the woefully low acceptance rate of first
-  boosters.  
-- Then she notes that there's not exactly scientific consensus on a 2nd booster.  The
+  boosters so far in the US.  
+- Then she notes that there's not exactly a scientific consensus on 2nd boosters.  The
   Israeli study on which it's based was posted only last week, and is a preprint, i.e.,
   not yet peer reviewed. <sup id="fn11a">[[11]](#fn11)</sup>  (I also haven't waded
   through it personally yet, though there's no especial reason you should care about
   that.  We'll consult Eric Topol later on this subject, anyway.)  
 - The Israeli study is "decisive" in terms of mortality rate, but flawed: all the people
-  who got the 4th shot were volunteers (not randomized), and thus the 3-shot and 4-shot
-  cohorts are sort of compromised statistically.  The explanation here was pretty nice.  
+  who got the 4th shot were _volunteers_ (i.e., not randomized), and thus the 3-shot and 4-shot
+  cohorts are sort of compromised statistically.  Mandavilli's explanation here was pretty nice.  
 - She quotes Robert Wachter of the Department of Medicine at UCSF: 
   > As a healthy 64-year-old man whose third shot was seven months ago, I will get one
   > this week if I can.  
 
   Sounds good enough for me, as a reasonably healthy mid-60s type.  (But in true both-sider
-  fashion, she goes on to quote other experts with other opinions.)  
+  fashion, Mandavilli goes on to quote other experts with other opinions.)  
 - And, of course, we don't understand quantitatively the effects of prior COVID-19
-  disease, or antigenic original sin.  
+  disease, or [antigenic original sin](https://en.wikipedia.org/wiki/Original_antigenic_sin).  
   
-Next, lets consult Eric Topol of the Scripps Translational Research
-Institute](https://drerictopol.com/meet-eric-topol/). He's had a few things to say on
-Twitter, as well as on his blog [_Ground Truths_](https://erictopol.substack.com/):  
+Next, lets consult [Eric Topol of the Scripps Translational Research Institute](https://drerictopol.com/meet-eric-topol/). He's had a few things to say on Twitter, as well as on his blog [_Ground Truths_](https://erictopol.substack.com/):  
 
 First, there is definitely an Omicron/BA.2 wave coming; the only question is how big:  
 
@@ -273,7 +276,7 @@ mutual boosters gives a salubrious result:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 Third, the US is woefully under-boosted.  Compare the US to European countries, and then
-think about how the Omicron/BA.2 wave is hitting them, and how it will hit us:  
+think about how the Omicron/BA.2 wave is hitting them _vs_ how it will hit us:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
