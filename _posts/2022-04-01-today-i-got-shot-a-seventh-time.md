@@ -444,12 +444,19 @@ Tune in tomorrow for an [after-action report](https://en.wikipedia.org/wiki/Afte
 of the side-effects.  Given the higher dose of Moderna, I expect a bit more in the
 reactogenicity department here, than with Pfizer/BioNTech.  But&hellip; _happily._  
 
-### Addendun 2022-Apr-02  
+### Addendun 2022-Apr-02: After-Effects  
 
 Really not bad: kind of sore in my deltoid, a little sore and feverish last night, but
 overall not bad.  
 
-I'm&hellip; vaguely disappoinnted.  
+I'm&hellip; vaguely disappointed.  
+
+### Addendum 2022-Apr-05: After-After-Effects  
+
+Ok, it lasted longer and was a bit more intense than my reaction to Pfizer, but that was
+expected.  It's only today that I'm finally not completely exhausted.  
+
+An acceptable price to pay for better immunity.  
 
 ---
 
