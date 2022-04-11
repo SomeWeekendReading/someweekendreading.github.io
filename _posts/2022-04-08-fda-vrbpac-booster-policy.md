@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: FDA VRBPAC Meeting on Booster &amp; Vaccine Variant Policy
 tags:  COVID PharmaAndBiotech Politics
@@ -363,7 +363,7 @@ Milo said the consensus was they bought another 2-fold to 4-fold further protect
 against mortality with the 2nd boosters.  
 
 So, yeah: 2nd boosters for people over 60 seem to work.  Your humble Weekend Editor
-[got second-boosted last week]({{ site.baseurl }}today-i-got-shot-a-seventh-time/), so I'm 
+[got second-boosted last week]({{ site.baseurl }}/today-i-got-shot-a-seventh-time/), so I'm 
 looking forward to increased safety in the presence of Omicron.  
 
 You'd think, since I said this was "the main act", there would be more to say.  There's
