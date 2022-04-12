@@ -5,7 +5,7 @@ tags:  Politics Religion Sadness
 comments: true
 ---
 
-A US Senator says he would allow states to ban interracial marriage.  _What?!_  
+A Republican US Senator says he would allow states to ban interracial marriage.  _What?!_  
 
 
 ## Apparently they're coming for my marriage now?  
@@ -52,7 +52,7 @@ better than I've kept mine.)  His summary:
 
 States don't get to legislate civil rights.  _Nobody_ gets to legislate against rights!
 Anything that can be controlled by a legislature is not a right: it's a _privilege_,
-subject to retraction by majority whim.  Rights are what _resists_ that kind of attack.  
+subject to retraction by majority whim.  Rights are _resistant_ that kind of attack.  
 
 
 ## Ok, but that's just one weird guy, right?  
