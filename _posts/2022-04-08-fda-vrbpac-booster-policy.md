@@ -85,12 +85,12 @@ guides to see what's worth looking at.
 <a href="{{ site.baseurl }}/images/2022-04-08-fda-vrbpac-booster-policy-bedford-1.jpg"><img src="{{ site.baseurl }}/images/2022-04-08-fda-vrbpac-booster-policy-bedford-1-thumb.jpg" width="400" height="237" alt="Bedford @ Fred Hutchinson: SARS-CoV-2 cladogram &amp; strain abundances" title="Bedford @ Fred Hutchinson: SARS-CoV-2 cladogram &amp; strain abundances" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-04-08-fda-vrbpac-booster-policy-bedford-2.jpg"><img src="{{ site.baseurl }}/images/2022-04-08-fda-vrbpac-booster-policy-bedford-2-thumb.jpg" width="400" height="283" alt="Bedford @ Fred Hutchinson: SARS-CoV-2 mutates faster than influenza" title="Bedford @ Fred Hutchinson: SARS-CoV-2 mutates faster than influenza" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-04-08-fda-vrbpac-booster-policy-bedford-3.jpg"><img src="{{ site.baseurl }}/images/2022-04-08-fda-vrbpac-booster-policy-bedford-3-thumb.jpg" width="400" height="245" alt="Bedford @ Fred Hutchinson: Probability distribution for frequency of Omicron-like events" title="Bedford @ Fred Hutchinson: Probability distribution for frequency of Omicron-like events" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Trevor Bedford, of the Fred Hutchinson Cancer Center &amp; Howard Huges Medical Institute,
+Trevor Bedford, of the Fred Hutchinson Cancer Center &amp; Howard Hughes Medical Institute,
 had a summary of the evidence on SARS-CoV-2 evolution, as the human population becomes
 more immune via vaccination and prior strain infections.  The high points, as I saw it,
 were:  
 - The data from [nextstrain.org](https://www.nextstrain.org/) shows SARS-CoV-2 mutation is
-  extremely rapid and overwhelms previous strains.  A variant will drift for a while, but
+  extremely rapid and new strains overwhelm previous strains.  A variant will drift for a while, but
   then get bigfoot-stomped by a new variant.  The first slide reproduced here shows the
   cladogram ("viral family tree") showing how Delta and Omicron are unrelated.  Below that
   we see the abundance in patient samples:  
@@ -99,7 +99,7 @@ were:
   - Then Omicron/BA.1 even-biggerfoot-stomped it out beginning late 2021  
   - &hellip; and now Omicron/BA.2 strain is biggest-foot-stomping even that.  
 - We can compare this against various types of influenza, the previous record holder for
-  serious human-infecting virus with annoyingly high mutation rates.  In all cases,
+  serious human-infecting viruses with annoyingly high mutation rates.  In all 4 plots on this slide,
   they've plotted the number of amino acid (AA) substitutions per unit length in the spike
   protein for SARS-CoV2 and the equivalent for influenza.  At least 2 things stand out to
   me:  
@@ -108,7 +108,7 @@ were:
   - In the upper left plot, the cloud of orange points at the top is Omicron: Omicron
     stood out as having a _monster_ number of mutations, over and above the already-high
     mutation rate in SARS-CoV-2!  
-- Finally, with admittedly scant data, they estimated a Poisson distribution for the
+- Finally, with admittedly scant data, they estimated what appears to be a Poisson distribution for the
   probability of getting a new Omicron-like event every so many years.  The median was 1.5
   years, and the (possibly 95% probability?) credible upper limit was 10.5 years.  So
   while there's a lot of uncertainty there, we should _plan for this happening again, every
@@ -133,9 +133,9 @@ __The point:__
 - That might have been enough to justify a booster, but check out what happened to
   Omicron: VE decined in 2 months down to _indistinguishable from 0%!_  
   
-This is excellent evidence that 2 doses is just ineffective against Omicron, and the first
-booster was an excellent choice in retrospect.  It doesn't say anything about a 2nd
-booster, so we'll look at other data below for that.  
+This is excellent evidence that a 2-dose primary series is just ineffective against
+Omicron.  The first booster was an excellent choice, in retrospect.  (It doesn't say
+anything about a 2nd booster, so we'll look at other data below for that.)  
 
 ### Update on Epidemiology of SARS-CoV-2 Strains  
 
@@ -153,16 +153,16 @@ lot here, I came away with 3 impressions:
 - They measured the fraction of people with nucleocapsid antibodies to SARS-CoV-2.  This
   means, roughly, "not spike protein antibodies" so we know it's _not_ from vaccination.
   This is a reasonable measure of who's had prior infections.  In the 2nd slide shown
-  here, it's plotted versus teim, and stratified by age groups.
+  here, it's plotted versus time, and stratified by age groups.
   - It's lower among the older cohorts, as we'd expect from (a) higher vaccination rates
     (less likely to have been infected) and (b) higher death rates (less likely to have
     been around for post-infection sampling).  This is&hellip; an unpleasant truth.  
   - More to the point, the cohort most likely to be carriers (the young) are rising over
     time.  If 50% of the young have had COVID-19 already, then it's that much harder for a
     new wave to start due to prior infection immunity.  This is&hellip; a rather more
-    hopeful truth, that we're in
-    [the burned-over district](https://en.wikipedia.org/wiki/Burned-over_district) now 
-    and thus not subject to further SARS-CoV-2 evangelization.  
+    hopeful truth, that we're now in
+    [the burned-over district](https://en.wikipedia.org/wiki/Burned-over_district)
+    and thus less subject to further SARS-CoV-2 evangelization.  
 - Finally, consider the 3rd slide here: case rates and death rates versus time, stratified
   by vax status (unvax, primary only, and boosted).  
   - The plot on the left shows that Omicron did indeed cause a fair number of breakthrough
@@ -170,9 +170,10 @@ lot here, I came away with 3 impressions:
     unvaccinated.  
   - Even more sadly, consider the death rates on the right: the vaxed, and especially the
     boosted, barely budged in their death rates.  The unvaxed death rate soared.  
-  Omicron was a disaster for the unvaccinated, and _it did not need to happen!_  This is
-  the fruit of the poison tree of vaccine disinformation: misery and death.  "Get
-  vaccinated, or die" is more or less the message.  
+  Omicron was a disaster for the unvaccinated, and _it did not need to happen!_  This is the
+ [fruit of the poisonous tree (a position taken by irrational means)](https://en.wikipedia.org/wiki/Fruit_of_the_poisonous_tree)
+  of vaccine disinformation: misery and death.  "Get vaccinated, or die" is more or less
+  the message.  
 
 ### SARS-CoV-2 Antigenic Space  
 
