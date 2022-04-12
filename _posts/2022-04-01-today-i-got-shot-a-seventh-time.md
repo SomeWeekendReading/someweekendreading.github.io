@@ -101,7 +101,7 @@ We'll dig a little for data, but right now this all seems more or less ok.
 (__NB:__ "rst-booster" above should apparently be "first-booster".)  
 
 I'm not as negative as Racaniello here, despite his being very much a big cheese and me
-being very much a tr&egrave;s p'tit fromage.  However:  
+being very much a _tr&egrave;s p'tit fromage._  However:  
 
 - These effects are all _statistically significant_ by the hazard ratio test
   (as shown by the $p$-values).  So the effect is probably _real_, i.e., it would
@@ -122,7 +122,7 @@ Now, if I may interpret Racaniello a bit, he seems to be making the point that t
 intervention successfully reduces a risk, but it was a risk that was _already small to
 begin with_.  Maybe your time would have been better spent reducing smoking, or treating
 obesity, or getting gun safety practices more widespread?  (I've got a list somewhere
-here, of the usual liberal interventions.)  
+here, of all the usual liberal interventions I want.)  
 
 That might be.  But this looks like a pretty low cost &amp; sure thing to me, as a person in
 that 60-69 age group, so I'm disposed to take it.  
