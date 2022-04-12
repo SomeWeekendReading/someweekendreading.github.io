@@ -456,7 +456,7 @@ the adults are still nominally in charge in Washington.
 
 <a id="fn7">7</a>: J Beigel, ["SARS-CoV-2 Antigenic Space"](https://www.fda.gov/media/157470/download), Natl Inst Allergy &amp; Inf Dis, 2022-Apr-06. [↩](#fn7a)  
 
-<a id="fn8">8</a>: IHME Staff, ["IHME COVID-19 update "](https://www.fda.gov/media/157472/download), Inst for Health Metrics &amp; Eval @ Univ Washington, 2022-Jan-18. [↩](#fn8a)  
+<a id="fn8">8</a>: IHME Staff, ["IHME COVID-19 update"](https://www.fda.gov/media/157472/download), Inst for Health Metrics &amp; Eval @ Univ Washington, 2022-Jan-18. [↩](#fn8a)  
 
 <a id="fn9">9</a>: S Alroy-Preis &amp; R Milo, ["Protection by 4th dose of BNT162b2 against Omicron in Israel"](https://www.fda.gov/media/157492/download), Israeli MOH, Weizmann Institute, Gertner Institute, Hebrew Univ, Technion, 2022-Apr-01. [↩](#fn9a)  
 
