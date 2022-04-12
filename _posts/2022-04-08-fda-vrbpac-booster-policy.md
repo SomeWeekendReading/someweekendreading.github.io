@@ -327,7 +327,7 @@ here a "natural experiment":
 This is nice (600k people in each arm!), but of course it introduces problems from not
 being randomized.  Perhaps the population taking the 4th dose was just medically more
 cautious, or took more COVID-19 precautions generally?  That would mess up the result, and
-in a way we cannot resolve.  
+_in a way we cannot resolve._  
 
 Other ways to be messed up have happened to Israeli "natural experiments" before, such as
 [last year's exercise with Simpson's paradox we wrote about last August]({{ site.baseurl }}/covid-simpson/).
