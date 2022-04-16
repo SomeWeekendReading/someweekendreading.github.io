@@ -9,8 +9,8 @@ So, it's Passover.  What might late-stage capitalism have to say about that?
 
 ## Exploiting Passover  
 
-Yes, it's Passover.  (Also Good Friday, and a host of other religious observances.  I just
-want to talk today about Passover in particular.)  
+Yes, it's Passover.  (Also Good Friday, and part of Ramadan, and probably a host of other
+religious observances.  I just want to talk today about Passover in particular.)  
 
 Here in the land of late-stage capitalism and corporate oligarchies, no opportunity to
 extract profit may go unexploited.  Of course, Christmas is the most glaring example, but
