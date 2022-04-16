@@ -45,13 +45,12 @@ are more things in this picture that Jews _can't_ eat for Passover than they can
   the chicken is allowed, then the macroni is not.  
 
 Pretty clearly, they don't pay very well to hire competent people to put together their
-ads.  Possibly an intern, who inadvertently swapped the Easter &amp; Passover meal
-photos.  
+ads.  Possibly an intern inadvertently swapped the Easter &amp; Passover meal photos.  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/t1k6HmUY6Zk" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Now, as one who is personally religious:  
 - If they had swapped into an Easter advert a meal of brisket, gefilte fish, bitter
-  greens, and matzoh&hellip I would not be offended.  Amused, yes; but not offended.  No
+  greens, and matzoh&hellip; I would not be offended.  Amused, yes; but not offended.  No
   doubt that's because I feel secure in my society, seldom the victim of discrimination.
   It _does not do_ to swap roles with people who _have_ experienced discrimination.  
 - It's _important_ to respect spiritual traditions beyond one's own.  Respect for others
@@ -59,7 +58,7 @@ Now, as one who is personally religious:
   after the fact.  But apparently it doesn't drive profits in late-stage capitalism.  
 
 Take it from [the experts at Six13](https://www.youtube.com/user/Six13Sings): they know
-how to make religion _fun._  
+how to make religion _fun._  It's the perfect counterpoint, as a friend pointed out.  
 
 ---
 
