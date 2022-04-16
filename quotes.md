@@ -490,7 +490,7 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "I guess the trouble was that we didn't have any self-admitted proletarians. Everyone was a temporarily embarrassed capitalist." &mdash; [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck), "A Primer on the 30's", _Esquire_ (cited in [WikiQuote](https://en.wikiquote.org/wiki/John_Steinbeck)).  
 
-"It's no trick to make a log of money&hellip; if _all_ you wan to do is make a lot of money." &mdash; [_Citizen Kane_](https://en.wikipedia.org/wiki/Citizen_Kane), 1941 screenplay by [Herman Mankiewicz](https://en.wikipedia.org/wiki/Herman_J._Mankiewicz) and [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles), occasionally argued to be [the best film ever made](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).  
+"It's no trick to make a lot of money&hellip; if _all_ you wan to do is make a lot of money." &mdash; [_Citizen Kane_](https://en.wikipedia.org/wiki/Citizen_Kane), 1941 screenplay by [Herman Mankiewicz](https://en.wikipedia.org/wiki/Herman_J._Mankiewicz) and [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles), occasionally argued to be [the best film ever made](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).  
 
 
 ## Those of Rational &amp; Scientific Bent
@@ -558,7 +558,7 @@ for they are already enduring it."
 "If the box contains a diamond,  
 I desire to believe that the box contains a diamond;  
 If the box does not contain a diamond,  
-I desire to believe thatthe box does not contain a diamond;  
+I desire to believe that the box does not contain a diamond;  
 Let me not become attached to beliefs I may not want."  
 &mdash; [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski), on [the nature of truth and its relation to belief](https://plato.stanford.edu/entries/tarski-truth/)  
 
