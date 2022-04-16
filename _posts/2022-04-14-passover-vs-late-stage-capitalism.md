@@ -19,12 +19,14 @@ other holidays get the treatment as well.
 Sometimes the intent is benign: if you're a grocer and you know your customers will want
 to enjoy a traditional holiday meal, you might think of ways to sell it to them.  
 
-So far, so good.  But sometimes it can go hilariously wrong and cause deep offense if you
+So far, so good.  But sometimes it can go hilariously wrong, or even cause deep offense, if you
 don't take the time and care to _understand_ people's traditions.  
 
-Toay's example is from _Whole Foods_: they're owned by Amazon these days, but otherwise
+Toay's example is from Whole Foods: they're owned by Amazon these days, but otherwise they
 run a fine grocery store.  Very high quality produce, products selected with some care for
-health and environment, and so on.  A little on the spendy side, but we shop there a lot.
+health, nutrition, and environment, and so on.  A little on the spendy side, but we shop
+there a lot.  
+
 But&hellip; somebody _really_ screwed up this advertisement:  
 
 <blockquote class="twitter-tweet">
