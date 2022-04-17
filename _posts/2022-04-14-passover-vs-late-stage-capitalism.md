@@ -44,7 +44,7 @@ are more things in this picture that Jews _can't_ eat for Passover than they can
 - On Passover one eats matzoh, not bread!  So the bread rolls and probably the pie crusts
   are out.  (Can pie crusts even be made with matzoh?)  
 - Then there's macaroni &amp; cheese: you can't eat meat and milk in the same meal.  So if
-  the chicken is allowed, then the macroni is not.  
+  the chicken is allowed, then the macaroni is not.  
 
 Pretty clearly, they don't pay very well to hire competent people to put together their
 ads.  Possibly an intern inadvertently swapped the Easter &amp; Passover meal photos.  
