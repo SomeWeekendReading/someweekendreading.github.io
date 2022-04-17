@@ -32,8 +32,12 @@ doctoral top hat and a sword:
 I checked this out with a bunch of other people, who confirmed the story and showed
 pictures of their swords.  Smells pretty real to me.  
 
-All I got was a hood and then shown the door, releasing me from jail.  (And that felt
-pretty good at the time, but&hellip; _a sword!_)  
+I'm pretty sure it isn't given after passing the thesis defense.  Giving grad students the
+grilling of their lives and handing them an edged weapon afterwards seems like&hellip; a
+poor survival strategy.  
+
+All I got was a hood, a diploma, and then shown the door, releasing me from jail.  (And
+that felt pretty good at the time, but&hellip; _a sword!_)  
 
 ---
 
