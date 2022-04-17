@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Passover &amp; Late-Stage Capitalism
-tags: CorporateLifeAndItsDiscontents Food Politics Religion SomebodyAskedMe
+tags: CorporateLifeAndItsDiscontents Food Politics Religion SomebodyAskedMe &Gammad;&Tau;&Phi;
 comments: true
 ---
 
