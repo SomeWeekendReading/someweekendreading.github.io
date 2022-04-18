@@ -74,7 +74,7 @@ definitively closes the door on ivermectin as a COVID-19 therapeutic.
 
 Ivermectin is for worms.  
 
-For COVID-19, seek first vaccination, then if you still get sick seek paxlovid, molnupiravir, fluvoxamine, and monoclonal antibodies (one of the remaining ones still effective against the Omicron variant, like [bebtelovimab](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-new-monoclonal-antibody-treatment-covid-19-retains)).  
+For COVID-19, seek first vaccination!  Then, if you still get sick: seek paxlovid, molnupiravir, fluvoxamine, and monoclonal antibodies (one of the few remaining ones still effective against the Omicron variant, like [bebtelovimab](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-new-monoclonal-antibody-treatment-covid-19-retains)).  
 
 ---
 
