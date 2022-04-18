@@ -12,7 +12,8 @@ Today I found out that I missed out a bit by getting my PhD anywhere but Finland
 
 For some reason, news items of beautiful, largely senseless things in Finland keep finding
 their way to me.  I'm not even remotely of Finnish ancestry, so I really don't know why
-this happens.
+this happens.  Maybe so I can make my friends of Finnish ancestry happy?  (That would
+actually be a fairly _good_ reason!)  
 
 For example, [last December we wrote about a mad Finnish architect obsessed with creating
 beautiful, though ephemeral, snow sculptures]({{ site.baseurl }}/winter-beauty/).  
@@ -32,8 +33,8 @@ doctoral top hat and a sword:
 I checked this out with a bunch of other people, who confirmed the story and showed
 pictures of their swords.  Smells pretty real to me.  
 
-I'm pretty sure it isn't given after passing the thesis defense.  Giving grad students the
-grilling of their lives and handing them an edged weapon afterwards seems like&hellip; a
+I'm pretty sure it isn't given immediately after passing the thesis defense.  Giving grad students the
+grilling of their lives and then handing them an edged weapon seems like&hellip; a
 poor survival strategy.  
 
 All I got was a hood, a diploma, and then shown the door, releasing me from jail.  (And
