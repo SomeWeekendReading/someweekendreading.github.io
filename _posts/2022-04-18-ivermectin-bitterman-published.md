@@ -94,4 +94,4 @@ For COVID-19, seek first vaccination!  Then, if you still get sick: seek paxlovi
 
 <a id="fn1">1</a>: SA Siskind, ["Ivermectin: Much More Than You Wanted To Know"](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted), _Astral Codex Ten_ Blog, 2021-Nov-07. [↩](#fn1a)  
 
-<a id="fn2">2</a>: A Bitterman, CP Martins, and A Cices, ["Comparison of Trials Using Ivermectin for COVID-19 Between Regions With High and Low Prevalence of Strongyloidiasis: A Meta-analysis"](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173), _JAMA Netw Open_ 5:3, 2022-Mar-21, e223079. DOI:[10.1001/jamanetworkopen.2022.3079](https://dx.doi.org/10.1001/jamanetworkopen.2022.3079) [↩](#fn2a)  
+<a id="fn2">2</a>: A Bitterman, CP Martins, and A Cices, ["Comparison of Trials Using Ivermectin for COVID-19 Between Regions With High and Low Prevalence of Strongyloidiasis: A Meta-analysis"](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173), _JAMA Netw Open_ 5:3, 2022-Mar-21, e223079. DOI: [10.1001/jamanetworkopen.2022.3079](https://dx.doi.org/10.1001/jamanetworkopen.2022.3079) [↩](#fn2a)  
