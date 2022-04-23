@@ -124,7 +124,11 @@ for that belief.  What could it possibly be?
 
 Leonhardt proposes 2 features of the sadistic American healthcare system are at fault
 here:  
-1. _Extreme fragmentation:_ We just can't get our act together with centralized medical reporting, or even the ability to remind people to get a booster.  That's up to literally thousands and thousands of HMOs, hospitals, and individual practicese. Startlingly, most Americans _do not have a regular point of contact about healthcare._ In this situation, that's lethal  
+1. _Extreme fragmentation:_ We just can't get our act together with centralized medical
+   reporting, or even the ability to remind people to get a booster.  That's up to
+   literally thousands and thousands of HMOs, hospitals, and individual
+   practicese. Startlingly, most Americans _do not have a regular point of contact about
+   healthcare._ In this situation, that's lethal.  
 2. _Government communication:_ It's been _terrible._  Leonhardt notes that they speak in
   the "language of academia", with abundant cautions and notes for exceptions.  Now here
   at _Chez Weekend_ we speak the "language of academia" like natives, so that's ok by us.

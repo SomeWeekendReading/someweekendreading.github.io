@@ -398,7 +398,7 @@ questions that one would have hoped to have answered:
 
 At 3:30pm, the vote on [the question above](#the-question) came out _negative_: 3 Yes, 16
 No, 0 Abstain.  Interestingly, that's 19 votes out of the 18 committee members!  There was
-one accidental vote, apparentlly by a speaker; their choice was unclear, but it could not
+one accidental vote, apparently by a speaker; their choice was unclear, but it could not
 have changed the outcome.  (This will be a subject of gossip in the months to come: who
 barged in and voted without the right?)  
 

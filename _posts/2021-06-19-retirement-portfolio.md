@@ -29,7 +29,7 @@ questions are for another time; here we'll just estimate the capital requirement
 simple high-school algebra.  
 
 [Rick Ferri](https://www.bogleheads.org/wiki/Rick_Ferri) at 
-[the Boglheads discussion board](https://www.bogleheads.org) once suggested the following
+[the Bogleheads discussion board](https://www.bogleheads.org) once suggested the following
 model (which I've cast into slightly more formal mathematical terms).  Let:  
 
 $$

@@ -6,7 +6,7 @@ comments: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the evidence
-associationg putative ivermectin effects with worms, not COVID-19.  Seems like it's been
+associating putative ivermectin effects with worms, not COVID-19.  Seems like it's been
 finally published!  
 
 

@@ -45,7 +45,7 @@ __Blunt instrument summary:__
 - These variants show increased affinity for human, mouse, and rat ACE2 receptors
   ("expanded receptor tropism"), and share mutations in several places with the very
   infectious Omicron strain.  
-- They are also somewhat immune evasive, being largely resistant to the older monocloanl
+- They are also somewhat immune evasive, being largely resistant to the older monoclonal
   antibody infusions.  
 - Obviously, if this is a new variant forming up, it is of serious concern.  
 
@@ -150,7 +150,7 @@ __Conclusion:__ The rat reservoir is looking awfully suspicious.
 
 So what?  If these putative new variants leave humans alone, can we just leave them alone?  
 
-Maybe&hellip; but the evidence is that they probably _won't_ laeve humans alone!  
+Maybe&hellip; but the evidence is that they probably _won't_ leave humans alone!  
 
 #### Binding to animal ACE2 receptors  
 
@@ -246,7 +246,7 @@ we haven't vaccinated fast enough to stop this evil nonsense.
 Ok, so what have we learned in today's Weekend Journal Club?  
 
 1. The wastewater signal appears to correlate with the clinical levels of viral variants,
-   e.g., the rise of Alpha.  It also tells us there's a lot more going on,  
+   e.g., the rise of Alpha.  It also tells us there's a lot more going on,
    with new variants out there _somewhere_, but not showing up in clinical sequences!  
 2. The wastewater signal appears to highly correlated with, and probably
    related to, medical need.  
@@ -282,6 +282,7 @@ Omicron, and cryptic variants in animals near us.
 
 It might take a generation of annual boosters to stomp that out.  A generation is better
 than 20,000 years.  
+
 
 ## Addendum 2022-Feb-09: YLE weighs in on wastewater-based epidemiology  
 
