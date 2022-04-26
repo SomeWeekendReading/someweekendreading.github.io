@@ -17,7 +17,7 @@ target as paxlovid in late clinical trials.
 _Reuters_ reported yesterday <sup id="fn1a">[[1]](#fn1)</sup> that the Japanese
 pharmaceutical company Shionogi has some results from a COVID-19 antiviral therapy,
 currently in Phase 2/3.  Known variously by its internal id, generic name, and commercial
-name as [S-217622, ensitrelvir, or name Xocova](https://en.wikipedia.org/wiki/Ensitrelvir), 
+name as [S-217622, ensitrelvir, or Xocova](https://en.wikipedia.org/wiki/Ensitrelvir), 
 it apparently showed rapid clearance of virus.  It apparently shortened the time course of
 disease, but didn't alter symptoms much in the short run, which sounds odd.  
 
@@ -94,7 +94,7 @@ So why bother making another paxlovid?  At least 2 reasons:
 2. Paxlovid is actually 2 compounds: nirmatrelvir to block 3CLpro, and ritonavir to block
    the liver's efforts to degrade nirmatrelvir.  The ritonavir makes the effect last
    longer by prolonging the lifetime of nirmatrelvir in the blood.  BUT: this makes the
-   liver break down more or less every other drug more slowly too, causing annoying
+   liver break down more or less _every other drug_ more slowly too, causing annoying
    drug-drug interactions!  If &ndash; and it's a big, unchecked "if" &ndash; ensitrelvir
    can do without an adjuvant like ritonavir, then it __might evade those drug-drug
    interactions,__ physicians will prescribe it more easily, more people will get it and not

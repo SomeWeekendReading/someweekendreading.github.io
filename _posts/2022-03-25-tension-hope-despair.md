@@ -18,7 +18,7 @@ I feel I'm walking a knife-edge between hope and despair.  The news is not helpi
 Among war in Ukraine, a continuing pandemic fraught with vaccine refusniks, and the
 political pandemic of right-wing fascism, despair is a temptation. <sup id="fn1a">[[1]](#fn1)</sup>
 Although we've tried here, in this crummy little blog that nobody reads (CLBTNR), to find 
-[reassons for hope]({{ site.baseurl }}/pessimism-and-optimism/#the-good-news-6-reasons-to-hope),
+[reasons for hope]({{ site.baseurl }}/pessimism-and-optimism/#the-good-news-6-reasons-to-hope),
 experience underscores that this is 
 [a difficult enterprise requiring persistent efforts]({{ site.baseurl }}/spirit-of-complicated-people/).
 

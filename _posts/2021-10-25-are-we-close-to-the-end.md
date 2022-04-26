@@ -20,7 +20,7 @@ world. <sup id="fn1a">[[1]](#fn1)</sup>  Since we have contact with those animal
 _will be_ zo&ouml;notic transfer for approximately forever, until either humans or the
 virus change.  It'll likely be the virus, but I have no idea of the time scale.  
 
-As we saw in [the previous post on this crummy littel blog that nobody reads]({{ site.baseurl }}/natural-immunity-persistence/),
+As we saw in [the previous post on this crummy little blog that nobody reads]({{ site.baseurl }}/natural-immunity-persistence/),
 just hoping for 'natural' immunity means getting COVID-19 about every 18 months until
 dead.  So the only feasible pathway forward is vaccination with periodic boosters.  
 
