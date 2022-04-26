@@ -45,13 +45,13 @@ mnemonic.
 ## The inevitable Nimrod  
 
 <img src="{{ site.baseurl }}/images/2022-04-25-shionogi-3clpro-inhib-shionogi-2.jpg" width="400" height="204" alt="Shionogi: Fetal development reports are not relevant" title="Shionogi: Fetal development reports are not relevant" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Of course, it's not all roses.  Inevitably, somebody decided that there
+Of course, it's not all roses.  Inevitably, some Nimrod decided that there
 might be evidence of fetal skeletal abnormalities in pregnant people.  <sup id="fn4a">[[4]](#fn4)</sup>
-According to _Reuters_, that drove the stock price down 16%.  So the company pointed out
+According to _Reuters_, that drove the stock price down 16%.  So the company politely pointed out
 that:  
 - These abnormalities in _preclinical animal studies_ occurred only at doses much higher
   than would be used in humans, and  
-- Pregnancy is very easy to screen for ahead of therapy.  
+- Pregnancy is very easy to screen for ahead of therapy, in case it _does_ turn out to matter.  
 
 So&hellip; basically irrelevant as far as _actual_ humans are concerned.  
 
