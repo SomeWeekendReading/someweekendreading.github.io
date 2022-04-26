@@ -217,9 +217,9 @@ Hank Green "Is it all hopeless?":
 - "This is a hard moment.  And obviously different scales of bad for different people."  
 
 John Green "Motivation in Hard Times":  
-- "When times suck, it is hard to know when they will ever change"  
+- "When times suck, it is hard to know how they will ever change."  
 - Resentment, anger, and fear motivate you, but you don't end up feeling any better.  "It
-  burns bright, but it _does_ burn dirty."  
+  does burn bright, but it _also_ burns dirty."  
 - Speaking of his love for writing itself, for his readers, and for his publishers: "Love
   is the fuel that burns both bright and clean."  
 - "Love is&hellip; also forged in surviving and turning around the bad times, together."  

@@ -273,7 +273,7 @@ mandates to the Nazi medical experiment/torture acts of Nazi Germany, on Jan 21,
 to the _WaPo_ (_op. cit._).  Somehow, Republicans trust _that_ more than they trust vaccination!  
 
 Hence&hellip; a gloomy outlook here at Chez Weekend.  We cannot long survive with that
-sort of information sewage pumped at high pressure into the minds of half of US citizens.  
+sort of disinformation sewage pumped at high pressure into the minds of half of US citizens.  
 
 ### Reason 6: Racist violence from police  
 
@@ -290,7 +290,7 @@ cover up later.
 
 With their hysterical opposition to the  Black Lives Matter movement, cops sometimes like
 to counter that "Blue Lives Matter", meaning they think _they're_ the real victims here.  As
-a great many of them, for inscrutable reasons, also hew to a few bits of Irish culture, it was
+a great many of them, for largely inscrutable reasons, also hew to a few bits of Irish culture, it was
 inevitable that they would try to translate that into Irish Gaelic.  An example of this
 "wit" is shown on the back of the shirt worn by this poor unfortunate.  
 
@@ -319,7 +319,7 @@ use of the dictionary&hellip; he ended up _almost_ saying something idiomaticall
 I can't make up stuff this weird.  And I'm _good_ at weird.  
 
 The fact that I have to reach this far to find something funny is symptomatic of just how
-dark the times are.  We're being taken down by people who are not just violent racists,
+dark the times are.  We're being taken down by people who are not just violently authoritarian racists,
 but who are _this stupid,_ too.  
 
 And we haven't even _started_ in on climate change, which may kill billions in the
@@ -357,7 +357,7 @@ So his father started baseball teams.  And dance groups in the evening, with a  
 player in the mess hall.  And they produced musicals.  All of that, in a prison camp in
 their own country.  
 
-_That's_ resilience: the insistence on finding the bits of beauty amongst the misery.  
+_That's_ resilience: the insistence on finding or _creating_ bits of beauty amidst the misery.  
 
 Let us attempt resilience.  
 

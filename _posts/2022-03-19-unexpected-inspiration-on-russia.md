@@ -42,7 +42,7 @@ Some of the high points, of which there are surprisingly many in just 9min 16sec
   weightlifter
   [Yury Petrovich Vlasov (Юрий Петрович Власов)](https://en.wikipedia.org/wiki/Yury_Vlasov), 
   whom he met as a young boy.  They were introduced, somehow.  Yuri Petrovich treated him kindly and
-  respectfully, with a friendly smile.  This moment of kindness had an unforgettable impact.  
+  respectfully, with a friendly smile.  _A moment of kindness can have an unforgettable impact._  
   - Schwarzenegger admiringly put up a photo of Yuri Petrovich in his home in his parents'
     home in Austria, causing some friction with his father.  His father had been conscripted
     in the Nazi army in WWII, and was badly injured in Stalingrad.  He spent the rest of his
@@ -90,12 +90,12 @@ of a country that suffered the loss of its democracy."
 Ok, I changed my mind: this is a smart man, and a good man.  I'm happy to listen to him
 when he has something to say in his areas of expertise.  
 
-(Well, maybe not on body-building.  I mean, he's an _expert_, I'm just not interested.  But
+(Well, maybe not on body-building.  I mean, he's an _expert_ at that, I'm just not interested.  But
 the other stuff, yeah.  Good guy.  Not perfect, of course, what with a couple extramarital
 affairs.  Still, good for many purposes.)  
 
 I'm very, very happily surprised.  Feel free to make fun of me for not already knowing
-this. I promise it's ok.  
+this. I promise it's ok, making fun of me for good purposes.  
 
 ---
 
