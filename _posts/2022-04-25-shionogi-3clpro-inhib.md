@@ -105,7 +105,7 @@ Still, it won't be up for approval until later this year.
 <img src="{{ site.baseurl }}/images/2022-04-25-shionogi-3clpro-inhib-test-to-treat.jpg" width="400" height="502" alt="US COVID-19 Test-to-Treat Locator" title="US COVID-19 Test-to-Treat Locator" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 In the meantime, should you find yourself so unfortunate as to test positive for COVID-19
 or even have symptoms, see your doc immediately and ask about either paxlovid or a
-monoclonal antibody infusion of bebetelovimab (the one that still works against Omicron).  
+monoclonal antibody infusion of bebtelovimab (the one that still works against Omicron).  
 
 If you have trouble finding paxlovid or somebody willing to write a scrip for it, use the
 federal test-to-treat program: you show up, get tested, and if positive get prescribed.
