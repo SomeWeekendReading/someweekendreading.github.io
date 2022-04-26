@@ -70,7 +70,7 @@ genes, this makes a _polyprotein:_ several proteins strung together in a long st
 amino acids.  
 
 Since it can't function like that, it has to be snipped up into pieces that form the
-functional proteins.  That's the function of a protease (the "ase" ending indicates an
+individual functional proteins.  That's the function of a protease (the "ase" ending indicates an
 enzyme, i.e., a protein that acts in some other chemical reaction, here like snipping up a
 polyprotein).  The protease in question is
 [3C-like protease/3CLpro/Mpro](https://en.wikipedia.org/wiki/3C-like_protease): gum this
@@ -92,7 +92,7 @@ So why bother making another paxlovid?  At least 2 reasons:
    other.__  We see this all the time, for example with cholesterol lowering drugs or blood
    pressure lowering drugs.  Best to have a broad armamentarium.  
 2. Paxlovid is actually 2 compounds: nirmatrelvir to block 3CLpro, and ritonavir to block
-   the liver's efforts to degrade nirmatrelvir.  The ritonavir makes the effect last
+   the liver's efforts to degrade it.  The ritonavir makes the effect last
    longer by prolonging the lifetime of nirmatrelvir in the blood.  BUT: this makes the
    liver break down more or less _every other drug_ more slowly too, causing annoying
    drug-drug interactions!  If &ndash; and it's a big, unchecked "if" &ndash; ensitrelvir
