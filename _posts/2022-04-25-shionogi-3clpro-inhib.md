@@ -78,7 +78,7 @@ up, and ORF1ab can't make several proteins crucial to viral reproduction.
 
 <img src="{{ site.baseurl }}/images/2022-04-25-shionogi-3clpro-inhib-S-217622_structure.jpg" width="400" height="279" alt="Wikipedia: Structure of ensitrelvir/Xocova/S-217622" title="Wikipedia: Structure of ensitrelvir/Xocova/S-217622" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So Shionogi's scientists came up with ensitrelvir, shown here.  (Compare with the
-[structure of nirmatrelvir in paxlovid]({{ site.baseurl }}/how-to-discover-paxlovid).)  
+[structure of nirmatrelvir in paxlovid]({{ site.baseurl }}/how-to-discover-paxlovid/).)  
 
 It messes up the function of 3CLpro, so it can't cleave the output of ORF1ab, and several
 crucial viral proteins can't be made.  The nice bit is that there is no human 3CLpro, so
