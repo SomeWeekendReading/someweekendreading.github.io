@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today&colon; Weekend Editrix Shot For the 7th Time
+title: Weekend Editrix Shot For the 7th Time
 tags:  COVID Food PharmaAndBiotech
 comments: true
 ---
@@ -8,10 +8,11 @@ comments: true
 Today the Weekend Editrix got shot for the 7th time in the trailing 12 months, having gotten
 her 2nd booster for COVID-19.  
 
+
 ## 2nd boosters seem to work pretty well, so&hellip;  
 
 <img src="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-seventh-time-shot.jpg" width="400" height="374" alt="Your humble Weekend Editrix gets a 2nd booster for COVID-19 (4th shot)" title="Your humble Weekend Editrix gets a 2nd booster for COVID-19 (4th shot)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Your humble Weekend Editor 
+Your humble Weekend Editor
 [got his 2nd booster a few weeks ago]({{ site.baseurl }}/today-i-got-shot-a-seventh-time/).
 Today the Weekend Editrix, having returned from Japan and de-jet-lagged a bit, got hers.  
 
