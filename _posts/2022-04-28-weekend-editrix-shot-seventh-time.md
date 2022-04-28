@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today&colon; Weekend Editrix Shot For the 7th Time
-tags:  COVID PharmaAndBiotech
+tags:  COVID Food PharmaAndBiotech
 comments: true
 ---
 
