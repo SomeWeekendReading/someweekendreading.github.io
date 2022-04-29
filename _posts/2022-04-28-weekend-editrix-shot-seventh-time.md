@@ -16,7 +16,8 @@ Your humble Weekend Editor
 [got his 2nd booster a few weeks ago]({{ site.baseurl }}/today-i-got-shot-a-seventh-time/).
 Today the Weekend Editrix, having returned from Japan and de-jet-lagged a bit, got hers.  
 
-Herewith the now-canonical jab shot.  
+Herewith the now-canonical jab shot.  (And check out the first metacarpal on the
+pharmacist!  She's been doing this for _a good long while,_ now.)  
 
 Expecting innate immune system reactions tomorrow (fever, fatigue, etc.).  Also expecting
 very little chance of COVID-19 death as the future unrolls.  It's a good trade!  
@@ -27,8 +28,9 @@ very little chance of COVID-19 death as the future unrolls.  It's a good trade!
 <a href="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-conveyor-belt-sushi.jpg"><img src="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-conveyor-belt-sushi-thumb.jpg" width="400" height="249" alt="Conveyor belt sushi" title="Conveyor belt sushi" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-robot-waiter.jpg"><img src="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-robot-waiter-thumb.jpg" width="400" height="844" alt="Robot waiter, delivering a drink to our table" title="Robot waiter, delivering a drink to our table" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 In order to celebrate her boosting, and for that matter safe return from Japan, we went
-out for sushi.  In fact, [conveyor belt sushi](https://en.wikipedia.org/wiki/Conveyor_belt_sushi),
-with robot table service.  Any special orders arrive at your table via the high-speed
+out for sushi.  In fact,
+[_kaiten zushi_ (conveyor belt sushi)](https://en.wikipedia.org/wiki/Conveyor_belt_sushi),
+with robot table service for drinks.  Any special orders arrive at your table via the high-speed
 conveyor belt at the top; the lower speed conveyor belt shows you all sorts of goodies
 which you just grab as they go by.  A tablet above all this lets you make special orders
 or drinks; the drinks are delivered by robot.  You can also give the robot any waste, like
