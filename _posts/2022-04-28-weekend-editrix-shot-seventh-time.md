@@ -48,22 +48,22 @@ in that our worry is not unfounded.)  The staff were masked; the patrons largely
 
 Among other things:  
 - I made the tactical error of ordering a side dish sized bowl of ramen.  "Ramen in a
-  sushi place?!" you ask&hellip; and I accept the reprimand.  The broth was pretty good,
-  the noodles a little weird, and the soft-boiled egg and chashu a little cold in the
-  center.  Clearly assembled from pre-prepared ingredients.  Acceptable, though not worth
-  the effort to go there.  
+  sushi place?!" you ask incredulously&hellip; and I accept your justified reprimand.  The
+  broth was pretty good, the noodles a little weird, and the soft-boiled egg and chashu a
+  little cold in the center.  Clearly assembled from pre-prepared ingredients.
+  More or less acceptable, though not worth the effort.  
 - The Weekend Editrix judged the _hokkaido kaibashira_ (scallops from Hokkaido) to be very
   good indeed.  
-- The squid was pretty good, and all the rest was at least reasonably good and fun to pick
-  out.  
-- The _taiyaki_ dessert (vanilla ice cream plus sweet bean paste inside a fish-shaped pastry) was
-  a mistake.  The fish-shaped pastry is supposed to be _baked_ around the sweet bean paste in
-  something like a waffle iron; some clown decided to deep-fry it instead, with extra
-  grease.  Definitely a mistake.  
+- The squid was pretty good too.  And all the rest was at least _reasonably_ good, and fun
+  to pick out from the conveyor belt.  
+- The [_taiyaki_](https://en.wikipedia.org/wiki/Taiyaki) dessert (vanilla ice cream plus
+  sweet bean paste inside a fish-shaped pastry) was a mistake.  The fish-shaped pastry is
+  supposed to be _baked_ around the sweet bean paste in something like a waffle iron; some
+  clown decided to deep-fry it instead, with extra grease.  Definitely a mistake.  
   
 Oh, and you still have to tip, despite the lack of humans delivering food to your table.
 It apparently goes to the staff as a whole.  _Somebody_ cleans off the table, loads up the
-robot, puts together the sushi, fills the conveyor belt, etc.  
+robot, puts together the sushi, fills the conveyor belt, cleans the joint, etc.  
 
 Still, it was fun and we'll go back.  We're still working through the process of lowering
 our pandemic defenses.  
