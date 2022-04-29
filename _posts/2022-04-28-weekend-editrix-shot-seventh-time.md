@@ -27,7 +27,7 @@ very little chance of COVID-19 death as the future unrolls.  It's a good trade!
 
 <a href="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-conveyor-belt-sushi.jpg"><img src="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-conveyor-belt-sushi-thumb.jpg" width="400" height="249" alt="Conveyor belt sushi" title="Conveyor belt sushi" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-robot-waiter.jpg"><img src="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-sevent-time-robot-waiter-thumb.jpg" width="400" height="844" alt="Robot waiter, delivering a drink to our table" title="Robot waiter, delivering a drink to our table" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-In order to celebrate her boosting, and for that matter safe return from Japan, we went
+In order to celebrate her boostage (and, for that matter, her safe return from Japan) we went
 out for sushi.  In fact,
 [_kaiten zushi_ (conveyor belt sushi)](https://en.wikipedia.org/wiki/Conveyor_belt_sushi),
 with robot table service for drinks.  Any special orders arrive at your table via the high-speed
@@ -62,11 +62,11 @@ Among other things:
   clown decided to deep-fry it instead. With extra grease.  Definitely a mistake.  
   
 Oh, and you still have to tip, despite the lack of humans delivering food to your table.
-It apparently goes to the staff as a whole.  _Somebody_ cleans off the table, loads up the
+It apparently goes to the staff as a whole: _somebody_ cleans off the table, loads up the
 robot, puts together the sushi, fills the conveyor belt, cleans the joint, etc.  
 
-Still, it was fun and we'll go back.  We're still working through the process of lowering
-our pandemic defenses.  
+Still, it was fun and we'll definitely go back.  We're still working through the process
+of lowering our pandemic defenses.  
 
 ---
 
