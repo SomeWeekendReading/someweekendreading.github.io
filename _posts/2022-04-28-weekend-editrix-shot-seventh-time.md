@@ -54,8 +54,8 @@ Among other things:
   good indeed.  
 - The squid was pretty good, and all the rest was at least reasonably good and fun to pick
   out.  
-- The _taiyaki_ dessert (vanilla ice cream plus sweet bean paste inside a fish pastry) was
-  a mistake.  The fish-shaped pastry is supposed to be baked around the sweet bean paste in
+- The _taiyaki_ dessert (vanilla ice cream plus sweet bean paste inside a fish-shaped pastry) was
+  a mistake.  The fish-shaped pastry is supposed to be _baked_ around the sweet bean paste in
   something like a waffle iron; some clown decided to deep-fry it instead, with extra
   grease.  Definitely a mistake.  
   
