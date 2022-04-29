@@ -48,7 +48,7 @@ in that our worry is not unfounded.)  The staff were masked; the patrons largely
 
 Among other things:  
 - I made the tactical error of ordering a side dish sized bowl of ramen.  "Ramen in a
-  sushi place?!" you ask incredulously&hellip; and I accept your justified reprimand.  The
+  sushi place?!" you may ask incredulously&hellip; and I accept your justified reprimand.  The
   broth was pretty good, the noodles a little weird, and the soft-boiled egg and chashu a
   little cold in the center.  Clearly assembled from pre-prepared ingredients.
   More or less acceptable, though not worth the effort.  
@@ -59,7 +59,7 @@ Among other things:
 - The [_taiyaki_](https://en.wikipedia.org/wiki/Taiyaki) dessert (vanilla ice cream plus
   sweet bean paste inside a fish-shaped pastry) was a mistake.  The fish-shaped pastry is
   supposed to be _baked_ around the sweet bean paste in something like a waffle iron; some
-  clown decided to deep-fry it instead, with extra grease.  Definitely a mistake.  
+  clown decided to deep-fry it instead. With extra grease.  Definitely a mistake.  
   
 Oh, and you still have to tip, despite the lack of humans delivering food to your table.
 It apparently goes to the staff as a whole.  _Somebody_ cleans off the table, loads up the
