@@ -1209,3 +1209,4 @@ _Business Week_, 14-Nov-2003.
   unsavory choice for you."  
 - "Oh, I'm just braiding the tassels on the lunatic fringe."  
 - "Clutch those pearls any harder, you're gonna strangle yourself."  
+- "Guessing is easy&hellip; but _stupid._  Estimating is hard."  
