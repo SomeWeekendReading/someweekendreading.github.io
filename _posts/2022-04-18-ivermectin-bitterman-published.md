@@ -14,7 +14,7 @@ finally published!
 
 Remember last fall when we looked at claims ivermectin worked against COVID-19, but the
 effect was pretty hinky when we [looked at credible reviews?]({{ site.baseurl }}/ivermectin-takedowns/)
-One of the main findings from Scott Alexander <sup id="fn1a">[[1]](#fn1)</sup> was from
+One of the main findings from Scott Alexander's review <sup id="fn1a">[[1]](#fn1)</sup> was from
 Avi Bitterman, showing the studies that showed an effect were in parts of the world with
 worm infestations:  
 

@@ -19,7 +19,7 @@ relevant to the current variant.
 
 If this had worked, it would have been big news: a way to _stop the spread_ of the virus!  
 
-Alas, also possibly alack:  
+Alas, and also possibly alack:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
