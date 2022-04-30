@@ -6,7 +6,7 @@ comments: true
 ---
 
 Pfizer just read out a Phase 2/3 trial of paxlovid for preventing transmission of COVID-19
-to other members of a household when one member is infected.  Alas, nope.  
+to other members of a household when one member is infected.  Alas: nope.  
 
 
 ## Preventive paxlovid  
@@ -19,7 +19,7 @@ relevant to the current variant.
 
 If this had worked, it would have been big news: a way to _stop the spread_ of the virus!  
 
-Alas:  
+Alas, also possibly alack:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -35,7 +35,7 @@ Alas:
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-reuters-1.jpg" width="400" height="235" alt="Beasley @ Reuters: Pfizer trial of preventive paxlovid fails" title="Beasley @ Reuters: Pfizer trial of preventive paxlovid fails" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-pfizer-1.jpg" width="400" height="193" alt="Pfizer Media Relations: trial of preventive paxlovid fails" title="Pfizer Media Relations: trial of preventive paxlovid fails" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-clinical-trial.jpg" width="400" height="180" alt="Pfizer: Clinical trial NCT05047601 of paxlovid for post-exposure prevention of COVID-19" title="Pfizer: Clinical trial NCT05047601 of paxlovid for post-exposure prevention of COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Ok, but tweets are just talk, not evidence.  
+Ok, but tweets are just cheap talk, not evidence.  
 
 However, this tweet points us to a summary article at _Reuters_ <sup id="fn1a">[[1]](#fn1)</sup>, which
 has some more information (but still not much).  A bit of digging uncovered the same-day
@@ -102,9 +102,9 @@ reasons:
 > Shares of Pfizer, which fell 3% in regular trading, were down another 1% at \$48.53
 > after hours.  
 
-That's totally meaning-free, since Friday 2022-Apr-29 was a _terrible_ day in the US stock
+That's _totally meaning-free:_ Friday 2022-Apr-29 was a _terrible_ day in the US stock
 market, with the US total market index closing down 3.55%.  Pfizer stock didn't fall
-because anybody even noticed this trial's non-result; Pfizer stock fell because the 
+because anybody even noticed this trial's non-result; Pfizer stock fell because the
 _entire market fell dramatically_, and Pfizer was just along for the ride.  
 
 
