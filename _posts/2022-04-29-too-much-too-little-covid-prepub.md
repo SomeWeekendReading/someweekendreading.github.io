@@ -5,7 +5,7 @@ tags: COVID Politics
 comments: true
 ---
 
-Recently Republican judges in the US have ruled that they can overturn Biden policies
+Recently Trump-appointed judges in the US have ruled that they can overturn Biden policies
 because there is simultaneously too much COVID-19 _and_ too little COVID-19.  They're not
 even pretending to be rational any more.  
 
@@ -25,7 +25,7 @@ thus be suspected of knowing what he's talking about re social policy:
 
 So let's unpack for a moment what he's talking about.  Following
 [_The Hunting of the Snark_](https://en.wikipedia.org/wiki/The_Hunting_of_the_Snark),
-this is an agony in 2 fits.  
+this is "an agony in 2 fits":  
 
 ### Fit the First: Serious COVID-19 Risk as an Excuse to Block Migrants  
 
@@ -63,14 +63,14 @@ Recently a federal judge in Florida overturned federal mask mandates.
 Savage &amp; Murphy have a good explainer in the _NYT_. <sup id="fn2a">[[2]](#fn2)</sup>  
 - Judge Kathryn Kimball Mizelle was appointed by Trump, in spite of the fact that the
   American Bar Association declared her _not qualified_ due to lack of
-  experience. <sup id="fn3a">[[3]](#fn3)</sup>  
+  experience! <sup id="fn3a">[[3]](#fn3)</sup>  
 - She decided to go with her gut against the judgement of the CDC, declaring that COVID-19
   was not a serious threat any more.  
 - She also adhered to several conservative shibboleths, such as regulatory powers having
   to be specifically enumerated in law, not just "and other measures as the CDC deems
   important."  She would require Congress to use powers of prophecy to foresee future
   needs and explicitly list them in law. This is obvious nonsense on stilts, designed to
-  kneecap the government so it cannot even function in a meaningful way.  
+  kneecap the government so it cannot even function in any meaningful way.  
 
 Again, the gut feeling of a Republican judge trumped the CDC so a conservative policy
 could be forced onto the rest of us.  
