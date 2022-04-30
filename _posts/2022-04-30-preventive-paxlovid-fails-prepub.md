@@ -91,7 +91,8 @@ ourselves:
 
 That leaves us with 2 equations in 3 unknowns ($K_1$, $K_2$, and $K_3$), so we can't
 move further to checking statistical significance.  Guess we'll have to wait for the
-paper.  
+paper.  (C'mon, Pfizer folk: just 3 more integers in your press release, is that too much
+to ask?)  
   
 Reuters can't resist reporting the judgement of the stock market, for all the usual silly
 reasons:  
