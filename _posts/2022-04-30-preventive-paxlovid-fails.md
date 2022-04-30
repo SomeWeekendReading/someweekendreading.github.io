@@ -69,14 +69,14 @@ ourselves:
   paxlovid for 5 days.  
 - The randomization was 1:1:1, so the number in each arm was $N_i \sim 2957 / 3 = 986$.  
 - The number in each arm who got sick, $K_i$, was not reported in the press release.
-  Media relations people generally can't do math, so that's understandable if frustrating.  
+  (Media relations people generally can't do math, so that's understandable, if frustrating.)  
 - The risk ratios were 32% and 37%.  Let $N_1$ be the control arm, and $N_2$ and $N_3$ be
   the 5 day and 10 day paxlovid courses.  Then this means:  
   $$
   \left\{
 	\begin{align*}
-	  \frac{(K_2/N_2)}{(K_1/N_1)} &= 0.32 \\
-	  \frac{(K_3/N_3)}{(K_1/N_1)} &= 0.37
+	  \frac{K_2/N_2}{K_1/N_1} &= 0.32 \\
+	  \frac{K_3/N_3}{K_1/N_1} &= 0.37
 	\end{align*}
   \right.
   $$
@@ -103,7 +103,7 @@ reasons:
 > after hours.  
 
 That's _totally meaning-free:_ Friday 2022-Apr-29 was a _terrible_ day in the US stock
-market, with the US total market index closing down 3.55%.  Pfizer stock didn't fall
+market, with the US total stock market index closing down 3.55%.  Pfizer stock didn't fall
 because anybody even noticed this trial's non-result; Pfizer stock fell because the
 _entire market fell dramatically_, and Pfizer was just along for the ride.  
 
