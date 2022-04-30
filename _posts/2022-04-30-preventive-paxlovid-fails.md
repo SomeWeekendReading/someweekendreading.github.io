@@ -103,9 +103,9 @@ reasons:
 > after hours.  
 
 That's _totally meaning-free:_ Friday 2022-Apr-29 was a _terrible_ day in the US stock
-market, with the US total stock market index closing down 3.55%.  Pfizer stock didn't fall
-because anybody even noticed this trial's non-result; Pfizer stock fell because the
-_entire market fell dramatically_, and Pfizer was just along for the ride.  
+market, with the US total stock market index closing down 3.55% as shown here.  Pfizer
+stock didn't fall because anybody even noticed this trial's non-result; Pfizer stock fell
+because the _entire market fell dramatically_, and Pfizer was just along for the ride.  
 
 
 ## The Weekend Conclusion  
