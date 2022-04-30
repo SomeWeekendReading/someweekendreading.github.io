@@ -94,7 +94,7 @@ move further to checking statistical significance.  Guess we'll have to wait for
 paper.  (C'mon, Pfizer folk: just 3 more integers in your press release, is that too much
 to ask?)  
   
-Reuters can't resist reporting the judgement of the stock market, for all the usual silly
+Reuters can't resist reporting the judgment of the stock market, for all the usual silly
 reasons:  
 
 > Shares of Pfizer, which fell 3% in regular trading, were down another 1% at \$48.53
