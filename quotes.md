@@ -495,6 +495,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 ## Those of Rational &amp; Scientific Bent
 
+"The fact that $2 + 2 = 2 \times 2 = 2^2$ has caused more confusion in theoretial physics than any other fact." &mdash; [Jeffrey Goldstone](https://en.wikipedia.org/wiki/Jeffrey_Goldstone), an offhand remark in a lecture  
+
 "The first rule of [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) Club is you don't know you're in Dunning-Kruger Club."  &mdash; Dan Geravoin, [Twitter 2022-Mar-14](https://twitter.com/geravoin/status/1503444857183895553), in reference to [_Fight Club_](https://en.wikipedia.org/wiki/Fight_Club).  To which I can only add: this makes Dunning-Kruger Club the _opposite_ of a secret society: the members don't know they're members, but everybody _else_ does.  
 
 "Remember to always be praising people when they finally do the right thing, regardless of whether they first exhausted all alternatives." &mdash; Zvi Mowshowitz, [_Don't Worry About the Vase_](https://thezvi.wordpress.com/2021/07/08/covid-7-8-delta-takes-over/) blog, 2021-Jul-08.  

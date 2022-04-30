@@ -49,7 +49,7 @@ judgement.
 
 Conservatives are not serious people, just power-hungry.  
 
-### Fit the Second: Trivial COVID-19 Risk as an Excuse to Quash Mask Mandates  
+### Fit the Second: Trivial COVID-19 Risk as an Excuse to Block Mask Mandates  
 
 <img src="{{ site.baseurl }}/images/2022-04-29-too-much-too-little-covid-nyt-2.jpg" width="400" height="180" alt="Savage &amp; Murphy @ NYT: Lack of COVID danger as excuse to strike down mask mandates" title="Savage &amp; Murphy @ NYT: Lack of COVID danger as excuse to strike down mask mandates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
