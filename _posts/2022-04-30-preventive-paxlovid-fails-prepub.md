@@ -35,10 +35,10 @@ Alas:
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-reuters-1.jpg" width="400" height="235" alt="Beasley @ Reuters: Pfizer trial of preventive paxlovid fails" title="Beasley @ Reuters: Pfizer trial of preventive paxlovid fails" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-pfizer-1.jpg" width="400" height="193" alt="Pfizer Media Relations: trial of preventive paxlovid fails" title="Pfizer Media Relations: trial of preventive paxlovid fails" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-clinical-trial.jpg" width="400" height="180" alt="Pfizer: Clinical trial NCT05047601 of paxlovid for post-exposure prevention of COVID-19" title="Pfizer: Clinical trial NCT05047601 of paxlovid for post-exposure prevention of COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Ok, but tweets just talk, not evidence.  
+Ok, but tweets are just talk, not evidence.  
 
-That points us to a summary article at _Reuters_ <sup id="fn1a">[[1]](#fn1)</sup>, which
-has some more information, but still not much.  A bit of digging uncovered the same-day
+However, this tweet points us to a summary article at _Reuters_ <sup id="fn1a">[[1]](#fn1)</sup>, which
+has some more information (but still not much).  A bit of digging uncovered the same-day
 press release from Pfizer <sup id="fn2a">[[2]](#fn2)</sup>, which as a primary source is
 the best authority we're gonna get today.  Yes, it's just a press release, but they're
 still analyzing the rest of the data and the real scientific publication is yet to come.
@@ -62,20 +62,21 @@ They didn't say exactly what statistic they used to assess statistical significa
 some level, it just tells them that the 95% confidence interval on the risk ratio with
 respect to controls includes 0% efficacy.  
 
-There's not _quite_ enough data revealed in the press release to calculate this for
+There's not _quite_ enough data revealed in the press release to check this for
 ourselves:  
 - The number of participants was $N = 2957$.  
 - They were randomized into 3 arms: placebo for 10 days, paxlovid for 10 days, and
   paxlovid for 5 days.  
 - The randomization was 1:1:1, so the number in each arm was $N_i \sim 2957 / 3 = 986$.  
-- The number in each arm who got sick, $K_i$, was not reported.  
+- The number in each arm who got sick, $K_i$, was not reported in the press release.
+  Media relations people generally can't do math, so that's understandable if frustrating.  
 - The risk ratios were 32% and 37%.  Let $N_1$ be the control arm, and $N_2$ and $N_3$ be
   the 5 day and 10 day paxlovid courses.  Then this means:  
   $$
   \left\{
 	\begin{align*}
-	  \frac{(K_2/N_2)}{(K_0/N_0)} &= 0.32 \\
-	  \frac{(K_3/N_3)}{(K_0/N_0)} &= 0.37
+	  \frac{(K_2/N_2)}{(K_1/N_1)} &= 0.32 \\
+	  \frac{(K_3/N_3)}{(K_1/N_1)} &= 0.37
 	\end{align*}
   \right.
   $$
@@ -83,22 +84,28 @@ ourselves:
   $$
   \left\{
 	\begin{align*}
-	  \frac{K_2}{K_0} &= 0.32 \\
-	  \frac{K_3}{K_0} &= 0.37
+	  \frac{K_2}{K_1} &= 0.32 \\
+	  \frac{K_3}{K_1} &= 0.37
 	\end{align*}
   \right.
   $$
 
 That leaves us with 2 equations in 3 unknowns ($K_1$, $K_2$, and $K_3$), so we can't
-move further to checking statistical significance.  Guess we'll have to wait for the
-paper.  (C'mon, Pfizer folk: just 3 more integers in your press release, is that too much
+move further in checking statistical significance.  Guess we'll have to wait for the
+paper.  (C'mon, Pfizer folk: just 3 more small integers in your press release, is that too much
 to ask?)  
-  
-Reuters can't resist reporting the judgment of the stock market, for all the usual silly
+
+<img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-us-stock-market.jpg" width="400" height="269" alt="2022-Apr-29: US total stock market index fell 3.55%" title="2022-Apr-29: US total stock market index fell 3.55%" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+_Reuters_ can't resist reporting the judgment of the stock market, for all the usual silly
 reasons:  
 
 > Shares of Pfizer, which fell 3% in regular trading, were down another 1% at \$48.53
 > after hours.  
+
+That's totally meaning-free, since Friday 2022-Apr-29 was a _terrible_ day in the US stock
+market, with the US total market index closing down 3.55%.  Pfizer stock didn't fall
+because anybody even noticed this trial's non-result; Pfizer stock fell because the 
+_entire market fell dramatically_, and Pfizer was just along for the ride.  
 
 
 ## The Weekend Conclusion  
