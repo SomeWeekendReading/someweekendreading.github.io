@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Right Wing&colon; Too Much AND Too Little COVID-19?!
+title: Too Much AND Too Little COVID-19?!
 tags: COVID Politics
 comments: true
 ---
