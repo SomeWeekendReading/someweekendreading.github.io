@@ -16,7 +16,7 @@ vaccine refusal, and malign conservative disinformation.
 The choice of paper for today's [JournalClub]({{ site.baseurl }}/tags/#JournalClub) started
 with a tweet.  I don't use Twitter, nor do I tolerate much about it.  (I hear 
 [some unpleasant rich dudebro](https://en.wikipedia.org/wiki/Elon_Musk) bought it.  But I
-hated Twitter _before_ it was fashionable to hate Twitter.  Just a fashion-forward
+hated Twitter _before_ it was fashionable to hate Twitter!  Just a fashion-forward
 curmudgeon, that's me.)  Still, somebody saw it, pointed somebody else at it, who then
 pointed me at it.  
 
