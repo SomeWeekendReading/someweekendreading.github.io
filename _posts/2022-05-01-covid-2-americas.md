@@ -110,18 +110,18 @@ Now let's have a look at their figures, reproduced here.  (Click to embiggen.)
   - Previously, when 
     [we did regression of hospitalization and death rates on wastewater viral mRNA]({{ site.baseurl }}/wastewater-reredux/),
     we found that each wave was _sui generis._  These authors have found more or less the
-    same thing, and thus have divided up the study period into 5 periods.  
+    same thing, and thus have divided up the study period into 5 periods for separate analysis.  
   - Note that the first wave was before vaccines, and really before we understood much
     about how SARS-CoV2 is transmitted or how to treat it.  Nothing much could be done
     then.  That's when the Northeast looked pretty bad, mostly because we had more contact
-    with the outside world and just got it first.  
+    with the outside world and just _got it first._  
   - But after that, once the pandemic had spread to the South, they were consistently
     either the worst or second worst in terms of excess mortality.  
 - Figure 2 breaks down the time course of Figure 1 into total deaths by census region and
   5 periods.  Note that in each bar after the first, the red band for the South is the
   largest.  
-- Figure 3, to me, is the real meat of the matter.  It's all about the amount of excess
-  mortality (honestly reported COVID-19 deaths minus the Northeast) that is _avoidable_
+- Figure 3, to me, is the real meat of the matter.  It's all about the amount of
+  _avoidable mortality_ (honestly reported COVID-19 deaths minus the Northeast) that is _avoidable_
   via better policy.  
   - Period 1 was the start of the pandemic before we knew how it was
     transmitted, how to treat the infection, or had any vaccines.  They viewed none of the
@@ -135,17 +135,17 @@ Now let's have a look at their figures, reproduced here.  (Click to embiggen.)
   - Here it becomes really obvious: the South had _enormous_ levels of avoidable excess
     mortality!  
 
-While the authors wisely and delicately refrained from attributing this difference to anything in
-particular, we all cannot help but notice the rampant disinformation, denial that COVID-19
+While the authors wisely (and delicately) refrained from attributing this difference to anything in
+particular, surely we all cannot help but notice the rampant disinformation, denial that COVID-19
 is real, mask defiance, and vaccine refusal as possible causes.  
 - A follow-on analysis would use this "avoidable excess mortality" as a dependent
   variable in some sort of predictive regression model.  
 - The prediction covariates, the independent variables, would be degree of mask
   compliance, degree of vaccination, whether schools were shifted to remote learning, etc.  
 - An honest version of such a model would also include confounding factors like age
-  distribution, income, and education where the South is different.  Regressing on those
-  as well would (partially) control for their effects.  A LASSO model would help in
-  feature selection.  
+  distribution, income, and education where the South is "different".  Regressing on those
+  as well would (partially) control for their effects.  
+- A LASSO model would help in objective feature selection.  
 
 
 ## The Weekend Conclusion  
