@@ -152,7 +152,7 @@ is real, mask defiance, and vaccine refusal as possible causes.
 
 You might, with some reason, accuse me of being a proud New Englander.  The Northeast is
 my home, for 45+ years now.  I _am_ happy to live here.  As a card-carrying member of
-the classic liberal intellectual east coast elite, I'm not particularly happy about the
+the classic liberal intellectual East Coast elite, I'm not particularly happy about the
 South and its politics.  _But I do not want those people to die!_  
 
 Add up the butcher's bill: 316,234 avoidable deaths, 62% of which were in the South.
@@ -166,7 +166,9 @@ the excess mortality model's higher numbers than the deaths "officially" reporte
 The conservative policies of the South and other red areas of the US _killed their own
 citizens._  And then their _institutions lied about it,_ by under-reporting COVID-19 deaths.  
 
-I may not love the South, and Southerners may not love me.  But _nobody_ deserves that!  
+I may not love the South, and Southerners may not love me.  But _nobody_ deserves that!
+(_Hey, quiz question:_ if a political party murders your cohort and then lies to you about
+it, should you respect them and vote for them?)
 
 I love Southerners _enough_ that I want them to live, and not die.  
 
