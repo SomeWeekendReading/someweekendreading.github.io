@@ -22,7 +22,7 @@ pointed me at it.
 
 And here we are, as all the existentialists say.  
 
-(Or: And so it goes, in the [_malebolge_](https://en.wikipedia.org/wiki/Malebolge) of social media.)  
+(Or: "And so it goes", in the [_malebolge_](https://en.wikipedia.org/wiki/Malebolge) of social media.)  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -48,27 +48,30 @@ The tweet itself points us at a short article in _Medical Xpress_ <sup id="fn1a"
 which frankly reads more like a press release from the Georgetown University Medical
 Center.  I mean, it's not exactly _wrong,_ but it _is_ cheerleading.  
 
-Fortunately they planted enough clues to track down the article in 
-_PLoS ONE_ by a crew from Georgetown. <sup id="fn2a">[[2]](#fn2)</sup>  (__Disclosure:__ Once
-upon a time, I was a referee who peer-reviewed a couple papers in _PLoS ONE._  But it was
-only a couple times, and it was almost 2 decades ago.  Can you forgive me?)  
+Fortunately they planted enough clues (though not a URL!) to track down the article in 
+_PLoS ONE_ by a crew from Georgetown. <sup id="fn2a">[[2]](#fn2)</sup>  
+
+(__Disclosure:__ Once upon a time, I was a referee who peer-reviewed a couple papers in
+_PLoS ONE._ But it was only a couple times, and it was almost 2 decades ago.  Can you
+forgive me?)  
 
 Let's look through the paper!  
 
 
 ## A read-through of the paper  
 
-The general situation is, appropriately enough, summarized in the abstract:  
+The general situation is, appropriately enough, summarized in the abstract of the paper:  
 
 - Using _excess mortality_ (all-cause deaths observed, minus expected deaths from something
   like a 10 year trailing average) gets around the problems with delayed reports, death
   certificate shenanigans, and so on.  Whatever's different _this_ year from the trailing
-  10 year average is a suspicious factor for causative analysis.  
+  10 year average is a suspicious factor for causative analysis.  Like, maybe&hellip;
+  COVID-19?  
 - Their excess mortality model says there were 895,693 excess deaths attributable to COVID-19 from
   2020-Jan-03 through 2021-Sep-26.  
   - That's 26% more than the officially reported COVID-19 deaths, i.e.,
     _COVID-19 deaths are woefully under-reported._  
-  - The Northeast was most honest about reporting COVID-19 deaths (reports match excess
+  - The Northeast was most honest about reporting COVID-19 deaths (reports more or less match excess
     mortality), and the South was the worst (COVID-19 severely under-reported compared to
     excess mortality).  
 - Initially, there were a lot of deaths in the Northeast, but that was when the virus was
@@ -164,6 +167,8 @@ The conservative policies of the South and other red areas of the US _killed the
 citizens._  And then their _institutions lied about it,_ by under-reporting COVID-19 deaths.  
 
 I may not love the South, and Southerners may not love me.  But _nobody_ deserves that!  
+
+I love Southerners _enough_ that I want them to live, and not die.  
 
 ---
 
