@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No Maks + New Wave = ?
+title: No Masks + New Wave = ?
 tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
 ---
@@ -18,7 +18,7 @@ which is what we'll mine for today. <sup id="fn1a">[[1]](#fn1)</sup>
 
 We know pretty much who the major suspects should be, at least behind the scenes as 
 _les eminences grises_, funding and orchestrating the effort: Republicans, who oppose
-public health measures apparently because "government bad always everwhere", and the
+public health measures apparently because "government bad always everywhere", and the
 travel industry who prioritize their profits above all else, including traveller safety.  
 
 Is that what happened?  
@@ -49,13 +49,13 @@ expert opinion and do anything about it.
 
 The lawsuit, apparently partially funded by Manookian's organization, chose attorneys
 apparently by ideology rather than experience: one was a specialist in drone law, and the
-other represented an organization known for spreading disiformation about COVID-19
+other represented an organization known for spreading disinformation about COVID-19
 vaccines.  
 
 They specifically chose the plaintiffs by residency, for a chance to get into Judge
 Mizelle's court.  
 
-So everything's carefully crafted to line up the ideologues like dominos, ready to be
+So everything's carefully crafted to line up the ideologues like dominoes, ready to be
 tipped.  
 
 The Justice Department is appealing&hellip; _slowly._  
@@ -114,7 +114,7 @@ Ok, let's run a few numbers:
 		  &= 14.6 - 16.6
 	\end{align*}
   $$
-Now, it might be a bit naive to mulitply offhand multipliers like this times an $R_0$
+Now, it might be a bit naive to multiply offhand multipliers like this times an $R_0$
 which can be modified by behavior (masking, social distancing, and vaccination).  But very
 roughly speaking, the BA.2.12.1 Omicron variant of SARS-CoV2 looks to be among the very
 worst viruses known.  
@@ -170,10 +170,10 @@ Though, really, there's _no_ good time for right-wing political vendettas.
 
 <a id="fn2">2</a>: DC Weiss, ["Federal judicial nominee lacks enough experience, ABA says in letter explaining 'not qualified' rating"](https://www.abajournal.com/news/article/federal-judicial-nominee-lacks-enough-experience-aba-says-in-letter-explaining-not-qualified-rating), _ABA Journal_, 2020-Sep-10. [↩](#fn2a)  
 
-<a id="fn3">3</a>: RD Noel, ["Letter to Senate Judiciary Committee, Re: Nomination of Kathryn Kimball Mizelle to the United States District Court for the Middle District of Florida"](https://www.americanbar.org/content/dam/aba/administrative/government_affairs_office/2020-09-08chair-rating-letter-to-graham-and-feinstein-re-nomination-of-kathryn-kimball-mizelle.pdf?logActivity=true), _American Bar Association_ Standing Committee on the Federal Judiciary, 2020-Sep-08. [↩](#fn3a)  
+<a id="fn3">3</a>: RD Noel, ["Letter to Senate Judiciary Committee, Re: Nomination of Kathryn Kimball Mizelle to the United States District Court for the Middle District of Florida"](https://www.americanbar.org/content/dam/aba/administrative/government_affairs_office/2020-09-08chair-rating-letter-to-graham-and-feinstein-re-nomination-of-kathryn-kimball-mizelle.pdf), _American Bar Association_ Standing Committee on the Federal Judiciary, 2020-Sep-08. [↩](#fn3a)  
 
 <a id="fn4">4</a>: P Millett, ["Practice Pointer: Mootness and _Munsingwear_ Vacatur"](https://www.scotusblog.com/2008/06/practice-pointer-mootness-and-munsingwear-vacatur/), _SCOTUSBlog_, 2008-Jun-10. [↩](#fn4a)  
 
 <a id="fn5">5</a>: UC Health Staff, ["The Delta variant"](https://www.uchealth.org/services/infectious-diseases/coronavirus-covid-19/the-delta-variant-of-covid-19/), University of Colorado Health Services, undated. [↩](#fn5a)  
 
-<a id="fn6">6</a>: J Achenbach, ["Virus mutations aren’t slowing down. New omicron subvariant proves it."](https://www.washingtonpost.com/health/2022/05/01/coronavirus-more-mutations/), _Washington Post_, 2022-May-01. [↩](#fn6a)  
+<a id="fn6">6</a>: J Achenbach, ["Virus mutations aren't slowing down. New omicron subvariant proves it."](https://www.washingtonpost.com/health/2022/05/01/coronavirus-more-mutations/), _Washington Post_, 2022-May-01. [↩](#fn6a)  
