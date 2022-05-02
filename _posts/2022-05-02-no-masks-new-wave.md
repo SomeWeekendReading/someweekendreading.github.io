@@ -114,7 +114,8 @@ Ok, let's run a few numbers:
 		  &= 14.6 - 16.6
 	\end{align*}
   $$
-Now, it might be a bit naive to multiply offhand multipliers like this times an $R_0$
+
+Now, it might be a bit na&iuml;ve to multiply offhand multipliers like this times an $R_0$
 which can be modified by behavior (masking, social distancing, and vaccination).  But very
 roughly speaking, the BA.2.12.1 Omicron variant of SARS-CoV2 looks to be among the very
 worst viruses known.  
