@@ -128,7 +128,7 @@ By way of evidence, Topol points us to an explanatory article by Joel Achenbach 
 _WaPo_. <sup id="fn6a">[[6]](#fn6)</sup>  He quotes Tulane virologist Robert F. Garry as
 saying:  
 
-> "We know it’s probably not quite as infectious as measles yet, but it’s creeping up
+> "We know it's probably not quite as infectious as measles yet, but it's creeping up
 > there, for sure."  
 
 So the crude $R_0$ calculation above might be a crude estimate, but given that measles is around
@@ -141,8 +141,8 @@ still able to grab onto the ACE3 receptor for infecting a cell.
 
 ## The Weekend Conclusion  
 
-The newer Omicron variants like BA.2.12.1 are going to rip through the population.  The BA4
-and BA5 variants recently discovered in Africa may be worst than _that._  Whether the
+The newer Omicron variants like BA.2.12.1 are going to rip through the population.  The BA.4
+and BA.5 variants recently discovered in Africa may be worst than _that._  Whether the
 population has enough vaccine immunity through boosting or prior infection to keep out of
 serious disease remains to be seen, and is basically a gamble.  
 
