@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paxlovid for Prevention Fails
+title: Preventive Paxlovid Fails
 tags: COVID PharmaAndBiotech
 comments: true
 ---
