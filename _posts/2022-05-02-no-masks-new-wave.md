@@ -132,7 +132,7 @@ saying:
 > there, for sure."  
 
 So the crude $R_0$ calculation above might be a crude estimate, but given that measles is around
-$R_0 ~ 16 - 18$ and we predicted BA.2.12.1 $R_0 \sim 14 - 16$, it's not _that_ far off.  
+$R_0 \sim 16 - 18$ and we predicted BA.2.12.1 $R_0 \sim 14 - 16$, it's not _that_ far off.  
 
 The mutation in question appears to be S704L in the spike protein (at position 704 in the
 protein, substitute the amino acid serine with leucine).  In theory this makes the spike
