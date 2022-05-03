@@ -154,7 +154,7 @@ Though, really, there's _no_ good time for right-wing political vendettas.
 
 ## Addendum 2022-May-02 evening: Your Local Epidemiologist tells us about BA.2.12.1  
 
-<a href="{{ site.baseurl }}/images/2022-05-02-no-masks-new-wave-yle-1.png"><img src="{{ site.baseurl }}/images/2022-05-02-no-masks-new-wave-yle-1-thumb.png" width="400" height="425" alt="K Jetelina @ YLE: Omicron variants in US show BA.2.12.1 on the rise" title="K Jetelina @ YLE: Omicron variants in US show BA.2.12.1 on the rise" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-05-02-no-masks-new-wave-yle-1.png"><img src="{{ site.baseurl }}/images/2022-05-02-no-masks-new-wave-yle-1-thumb.jpg" width="400" height="425" alt="K Jetelina @ YLE: Omicron variants in US show BA.2.12.1 on the rise" title="K Jetelina @ YLE: Omicron variants in US show BA.2.12.1 on the rise" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Just today, Katelyn Jetelina at _Your Local Epidemiologist_ posted on the general state of
 _l'affair COVID._  <sup id="fn7a">[[7]](#fn7)</sup>  There's a lot to read there,
 especially about the rise of BA.4 and BA.5 in Africa.  However, her summary of the US
