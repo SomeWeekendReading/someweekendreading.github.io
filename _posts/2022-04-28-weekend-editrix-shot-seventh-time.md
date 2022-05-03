@@ -13,7 +13,7 @@ her 2nd booster for COVID-19.
 
 <img src="{{ site.baseurl }}/images/2022-04-28-weekend-editrix-shot-seventh-time-shot.jpg" width="400" height="374" alt="Your humble Weekend Editrix gets a 2nd booster for COVID-19 (4th shot)" title="Your humble Weekend Editrix gets a 2nd booster for COVID-19 (4th shot)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Your humble Weekend Editor
-[got his 2nd booster a few weeks ago]({{ site.baseurl }}/today-i-got-shot-a-seventh-time/).
+[got his 2nd booster a few weeks ago on April Fool's Day]({{ site.baseurl }}/today-i-got-shot-a-seventh-time/).
 Today the Weekend Editrix, having returned from Japan and de-jet-lagged a bit, got hers.  
 
 Herewith the now-canonical jab shot.  (And check out the first metacarpal on the
