@@ -137,7 +137,7 @@ $R_0 \sim 16 - 18$ and we predicted BA.2.12.1 $R_0 \sim 14 - 16$, it's not _that
 The mutation in question appears to be S704L in the spike protein (at amino acid position
 704 in the protein, substitute the serine (S) with a leucine (L)).  In theory this makes
 the spike protein more flexible, apparently thus less likely to bind to an antibody but
-still able to grab onto the ACE3 receptor for infecting a cell.  
+still able to grab onto the ACE2 receptor for infecting a cell.  
 
 ## The Weekend Conclusion  
 
