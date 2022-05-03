@@ -227,6 +227,6 @@ That's typical of a day in science.
 
 <a id="fn5">5</a>: GJ Robbie, _et al.,_ ["A Novel Investigational Fc-Modified Humanized Monoclonal Antibody, Motavizumab-YTE, Has an Extended Half-Life in Healthy Adults"](https://journals.asm.org/doi/10.1128/AAC.01285-13), _Antimicrob Agents Chemother_ 57:12, 6147-6153, 2013-Dec.  DOI: [10.1128/AAC.01285-13](https://doi.org/10.1128/AAC.01285-13). [↩](#fn5a)  
 
-<a id="fn6">6</a>: WF Dall'Acqua, _et al.,_ ["Properties of Human IgG1s Engineered for Enhanced Binding to the Neonatal Fc Receptor (FcRn)"](https://www.sciencedirect.com/science/article/pii/S0021925819463898#FN1), _Jnl Biol Chem_ 281:33, 23514-23524, 2006-Aug-18.  DOI: [10.1074/jbc.M604292200](https://doi.org/10.1074/jbc.M604292200). [↩](#fn6a)  
+<a id="fn6">6</a>: WF Dall'Acqua, _et al.,_ ["Properties of Human IgG1s Engineered for Enhanced Binding to the Neonatal Fc Receptor (FcRn)"](https://www.sciencedirect.com/science/article/pii/S0021925819463898), _Jnl Biol Chem_ 281:33, 23514-23524, 2006-Aug-18.  DOI: [10.1074/jbc.M604292200](https://doi.org/10.1074/jbc.M604292200). [↩](#fn6a)  
 
 <a id="fn7">7</a>: WF Dall'Acqua, _et al.,_ ["Increasing the Affinity of a Human IgG1 for the Neonatal Fc Receptor: Biological Consequences"](https://www.jimmunol.org/content/169/9/5171), _Jnl Immunol_ 169:9, 5171-5180, 2002-Nov-01.  DOI: [10.4049/jimmunol.169.9.5171](https://doi.org/10.4049/jimmunol.169.9.5171). [↩](#fn7a)  
