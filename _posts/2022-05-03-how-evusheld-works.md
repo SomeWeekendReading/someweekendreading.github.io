@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can Evusheld Possibly Work?!
-tags: COVID MathInTheNews PharmaAndBiotech Statistics
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
 comments: true
 ---
 
@@ -30,7 +30,7 @@ Vaccination is about \$30/dose, for comparison.
 
 But the puzzle to me was: given that infused antibodies last somewhere from days to
 weeks in your body since you're not making them, how can you get immunity for 6 months?
-Today we'll dive into that question, and get a partial answer.  
+Today we'll dive into that question, and get a (partial) answer.  
 
 
 ## The evidence it works  
@@ -61,7 +61,7 @@ trial results for Evusheld.
 We'll check their numbers for efficacy using our kludgey little binomial confidence
 interval [R](https://www.r-project.org/) script. <sup id="fn4a">[[4]](#fn4)</sup> They
 used a much more sophisticated Poisson regression method with robust variance, but didn't
-publish enough details for us to reproduce that exactly.  So we'll be looking for crude
+publish enough details for us to reproduce that exactly.  So we'll just be looking for crude
 agreement with our crude method, nothing more.  
 
 They report that their 2 antibodies were from the B cells of convalescent patients, with
@@ -81,6 +81,9 @@ efficacy against mild/moderate adverse events was broadly consistent with 0%:
         LCL         Eff         UCL 
 -0.11874715 -0.03278303  0.04547047 
 ```
+
+The treatment and control groups are pretty much identical as far as mild/moderate adverse
+events go.  That's good.  
 
 Next, let's look at symptomatic COVID-19 and death rates.  
 

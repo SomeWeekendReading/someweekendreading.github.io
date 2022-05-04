@@ -29,7 +29,7 @@ US Senator.
 
 He went on to claim _Griswold v Connecticut_ was decided wrongly: that states should be
 able to limit who has access to birth control!  He not only doesn't want my type of marriage to
-exist, he worries about condoms in the hands of the wrong people.  
+exist, he worries about condoms in the hands of the "wrong" people.  
 
 And of _course_ he wants states to legislate over every uterus, since he's opposed to _Roe
 v Wade_ legalizing abortion.  

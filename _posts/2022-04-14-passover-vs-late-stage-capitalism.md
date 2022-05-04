@@ -10,11 +10,12 @@ So, it's Passover.  What might late-stage capitalism have to say about that?
 ## Exploiting Passover  
 
 Yes, it's Passover.  (Also Good Friday, and part of Ramadan, and probably a host of other
-religious observances.  I just want to talk today about Passover in particular.)  
+religious observances.  It's a big weekend for monotheism!  I just want to talk today
+about Passover in particular.)  
 
 Here in the land of late-stage capitalism and corporate oligarchies, no opportunity to
 extract profit may go unexploited.  Of course, Christmas is the most glaring example, but
-other holidays get the treatment as well.  
+other holidays get The Treatment as well.  
 
 Sometimes the intent is benign: if you're a grocer and you know your customers will want
 to enjoy a traditional holiday meal, you might think of ways to sell it to them.  
@@ -47,7 +48,7 @@ are more things in this picture that Jews _can't_ eat for Passover than they can
   the chicken is allowed, then the macaroni is not.  
 
 Pretty clearly, they don't pay very well to hire competent people to put together their
-ads.  Possibly an intern inadvertently swapped the Easter &amp; Passover meal photos.  
+ads.  Possibly an intern inadvertently swapped the Easter &amp; Passover meal photos?  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/t1k6HmUY6Zk" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Now, as one who is personally religious:  

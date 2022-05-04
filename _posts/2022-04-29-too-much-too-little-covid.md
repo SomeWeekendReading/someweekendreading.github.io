@@ -5,14 +5,14 @@ tags: COVID Politics
 comments: true
 ---
 
-Recently Trump-appointed judges in the US have ruled that they can overturn Biden policies
+Recently 2 Trump-appointed judges in the US have ruled that they can overturn Biden policies
 because there is simultaneously too much COVID-19 _and_ too little COVID-19.  They're not
 even pretending to be rational any more.  
 
 
 ## Too much AND too little COVID-19?!  
 
-It came to my attention thus, from a chaired professor of social science at NYU, who might
+It came to my attention this way, from a chaired professor of social science at NYU, who might
 thus be suspected of knowing what he's talking about re social policy:  
 
 <blockquote class="twitter-tweet">
@@ -78,8 +78,8 @@ could be forced onto the rest of us.
 ## The Weekend Conclusion  
 
 These are not serious people.  They are, however, power-hungry.  They are willing to bend
-facts forward (Too much COVID-19? Close the borders!) and backward (Too little COVID-19?
-Off with their masks!) in favor of their policies, with no respect for truth whatsoever.  
+facts forward ("Too much COVID-19? Close the borders!") and backward ("Too little COVID-19?
+Off with their masks!") in favor of their policies, with no respect for truth whatsoever.  
 
 ---
 
