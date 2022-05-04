@@ -28,8 +28,8 @@ year forever, at a cost of \$1,000/dose.
 
 Vaccination is about \$30/dose, for comparison.  
 
-But the puzzle to me was: given that external antibodies last somewhere between days to
-weeks in your body since you're not making more, how can you get immunity for 6 months?
+But the puzzle to me was: given that infused antibodies last somewhere from days to
+weeks in your body since you're not making them, how can you get immunity for 6 months?
 Today we'll dive into that question, and get a partial answer.  
 
 
@@ -152,10 +152,10 @@ levels can be kept above that.  These are Figures 1D and 2B in the paper, shown 
    level.  
 2. Figure 2B tells us the lifetime of these antibodies.  It looks like the initial doses
    were around 1,000 - 10,000 &mu;g/ml, and declined to 500 - 1,000 &mu;g/ml after 2
-   months.  That is, absolutely monstrously effective levels were sustained for months.  
+   months.  That is, _absolutely monstrously effective levels_ were sustained for months.  
    
-Now I can begin to see that it makes sense this thing works: very high doses are
-tolerated, and the half-life is long enough to give 6 months of immunity.  
+Now I can begin to see that it makes sense that this thing works: very high doses are
+well tolerated, and the half-life is long enough to give 6 months of immunity.  
 
 
 ## Antibody engineering  
@@ -197,9 +197,9 @@ But there are still some questions that bother me:
   bebtelovimab, the antibody infusion still in use to treat COVID-19 Omicron, would it be
   better if we did the YTE substitution to it?  
 
-So we learned something&hellip; and we learned how little we know.  
+So we learned something&hellip; and we also learned how little we know.  
 
-That's typical of a day in science.  
+A typical day in science.  
 
 ---
 
