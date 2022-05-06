@@ -1,4 +1,4 @@
----
+e---
 layout: post
 title: How Can Evusheld Possibly Work?!
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
@@ -172,14 +172,14 @@ papers (actually more, I just ran out of energy at 3) from 2002 - 2013 on this
 subject. <sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup> <sup id="fn7a">[[7]](#fn7)</sup>  
 
 It appears there's a thing called the "YTE substitution", which in the usual protein
-mutation notations makes the triple substitution M252Y/S254T/T256E (hence YTE).  This was
+mutation notation makes the triple substitution M252Y/S254T/T256E (hence YTE).  This was
 found to extend dramatically the half-life of antibodies, by 2-4x.  Since these are
 somewhat older papers, they were of course done with antibodies that had nothing to do
 with SARS-CoV2.  The discovery with Evusheld was that the technique carried over to
 SARS-CoV2.  
 
 Everybody points back to the Dall'Acqua papers as the source of this magic.  But a quick
-read-through was maddening: although the results are _described_, they are not
+read-through was maddening: although the results were _described_, they were not
 _motivated_.  How in the world did anybody think to try that?!  I'm mystified.  
 
 
