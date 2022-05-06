@@ -1,4 +1,4 @@
-e---
+---
 layout: post
 title: How Can Evusheld Possibly Work?!
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
