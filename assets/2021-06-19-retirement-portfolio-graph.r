@@ -12,7 +12,7 @@ library("DiagrammeR")
 
 doit <- function(## Inputs
                  dataDir   = ".",                      #
-                 dataFile  = "graph.tsv",              #
+                 dataFile  = "2021-06-19-retirement-portfolio-graph.tsv",
                  colorBox  = c("Cash" = "red", "Bonds" = "orange", "REITs" = "yellow",
                                ## *** Cyan gets ignored?  Hex gets ignored too?
                                "WorldStock" = "#00ffff", "US Stock" = "green",
