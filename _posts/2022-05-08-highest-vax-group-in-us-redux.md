@@ -15,7 +15,8 @@ in the US was Native Americans, and how they did so in sensible culturally attun
 and how they were generous with vaccines to their neighbors and
 friends?  <sup id="fn1a">[[1]](#fn1)</sup>  
 
-(Yeah, I know.  It's ok: we've all had other things to think about since then.)  
+(Yeah, I know you probably don't remember.  It's ok: we've all had other things to think
+about since then.)  
 
 Via Eric Topol comes word that they're still winners:  
 
