@@ -51,6 +51,8 @@ _MMWR._ <sup id="fn3a">[[3]](#fn3)</sup>
 | _Arizona_   || 69.3%  || 86.1%  |  
 | _National_  || 75.4%  || 58.5%  |  
 
+<!-- *** Just mult vax % by total popln is wrong; need rural/urban poplns!
+
 We can test this statitically, by multiplying those proportions by the Arizona population
 (7.279 million) and the US population (329.5 million) to get counts, and then doing a
 Fisher exact test:  
@@ -78,6 +80,8 @@ odds ratio
 And, as you can see, the result is wicked statistically significant: $p \lt 2.2 \times 10^{-16}$
 is the smallest $p$-value [R](https://www.r-project.org/) will report (the actual value is
 even smaller).  So the effect is very real and extremely unlikely due to chance.  
+
+-->
 
 Another oddity: Santa Cruz county, which is rural but has little Native American
 population, had a vaccination rate of 146%!  This is because it borders Mexico, and lots
