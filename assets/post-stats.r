@@ -49,7 +49,7 @@ postStats <- function(## Inputs
                       year          = NA,
                       clearVars     = c("postData", "postDataSaved", "plotDone", "summaryDone"),
                       ## Most of the time, these defaults are what you want
-                      blogRoot      = "/Users/sgr/Documents/laboratory/someweekendreading.github.io",
+                      blogRoot      = "~/Documents/laboratory/someweekendreading.github.io",
                       postsDir      = file.path(blogRoot, "_posts"),
                       commentsDir   = file.path(blogRoot, "_data/comments"),
                       ## 2 capture groups: (1) for the post date, (2) for the post name in counters
