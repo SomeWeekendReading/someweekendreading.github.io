@@ -63,7 +63,7 @@ Arizona and the US, if we know the sizes of the urban/rural populations.
   - 0.102 * 7,276,316 =   742,184 AZ rural residents  
 
 |            || _Urban Popln_ || _Urban % Vax_ || _Rural Popln_ || _Rural % Vax_ |  
-| :--------: || :----------: || :---------: || :----------: || :----------: |  
+| ---------: || -----------: || ----------: || -----------: || -----------: |  
 | _Arizona_   ||   6,534,132  ||    69.3%    ||    742,184   ||     86.1%    |  
 | _National_  || 272,910,000  ||    75.4%    || 57,230,000   ||     58.5%    |  
 
