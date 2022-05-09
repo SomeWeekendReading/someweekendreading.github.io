@@ -121,7 +121,7 @@ of Mexicans, sensible folk that they are, crossed the border to get vaccinated b
 not counted as part of population.  
 
 Interestingly, you can see the US national urban/rural divide in Charles Gaba's data on
-vaccination and Trump voting at the county level.  <sup id="fn7a">[[7]](#fn7)</sup>  Last
+vaccination and Trump voting at the county level.  <sup id="fn8a">[[8]](#fn8)</sup>  Last
 February, [we wrote about his result as Reason #4 to be pessimistic]({{ site.baseurl }}/pessimism-and-optimism/#reason-4-republican-vaccine-defiance):
 
 ![Charles Gaba @ ACASignups: animation over time of vax status vs county Trump lean]({{ site.baseurl }}/images/2022-02-23-pessimisim-and-optimism-acasignups-gaba-red-blue-county-animation.gif "Charles Gaba @ ACASignups: animation over time of vax status vs county Trump lean")
