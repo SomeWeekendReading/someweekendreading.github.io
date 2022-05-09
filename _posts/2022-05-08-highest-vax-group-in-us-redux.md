@@ -84,9 +84,9 @@ Arizona   4527957   638993
 US      205774140 33479550
 ```
 
-Armed with that, we can test against the null hypothesis that the rows are pretty much the
-same and the alternative hypothesis that they are different.  We'll do both a fancy-pants Fisher
-exact test and an old-fashioned but reliable Pearson $\chi^2$ test:  
+Armed with that, we can test the null hypothesis that the rows are pretty much the same
+against the alternative hypothesis that they are different.  We'll do both a fancy-pants
+Fisher exact test and an old-fashioned but reliable Pearson $\chi^2$ test:  
 
 ```R
 > fisher.test(mx)
