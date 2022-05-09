@@ -51,6 +51,9 @@ _MMWR._ <sup id="fn3a">[[3]](#fn3)</sup>
 | _Arizona_   || 69.3%  || 86.1%  |  
 | _National_  || 75.4%  || 58.5%  |  
 
+
+## But is it REAL?!  
+
 We can test statistically whether the urban/rural vaccination counts are different between
 Arizona and the US.  First we'll have to convert the table above, which contains
 proportions, to actual counts of persons.
@@ -112,10 +115,20 @@ As you can see, both tests are statistically wicked significant: $p \lt 2.2 \tim
 coercion (the actual value is even smaller).  So Arizona is _quite_ different from the US,
 i.e., the effect is very real and extremely unlikely to be due to chance.  
 
+Yes, it's real.  
+
+
+## One more bit of weirditude  
+
 Another oddity: Santa Cruz county, which is rural but has little Native American
 population, had a vaccination rate of 146%!  This is because it borders Mexico, and lots
 of Mexicans, sensible folk that they are, crossed the border to get vaccinated but were
 not counted as part of population.  
+
+It's through this kind of weird junk that you know the data are real.  
+
+
+## County-level confirmation that most US rural areas resist vaccination  
 
 Interestingly, you can see the US national urban/rural divide in Charles Gaba's data on
 vaccination and Trump voting at the county level.  <sup id="fn8a">[[8]](#fn8)</sup>  Last
