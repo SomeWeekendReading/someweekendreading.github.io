@@ -171,4 +171,3 @@ sisters.  It's not only the right thing to do, it just plain makes practical sen
 <a id="fn7">7</a>: ASU Morrison Institute for Public Policy Staff, ["Revisiting the Urban-Rural Relationship in Arizona"](https://morrisoninstitute.asu.edu/sites/default/files/urban-rural_relationship.pdf), Arizona State University Morrison Institute for Public Policy, 2019-Nov, retrived 2020-May-08. __NB:__ Also an estimate dated to 2010. [↩](#fn7a)  
 
 <a id="fn8">8</a>: C Gaba, ["Updated: A Full Year Of U.S. COVID Vaccinations By Partisan Lean...Animated"](https://acasignups.net/22/02/22/updated-full-year-us-covid-vaccinations-partisan-leananimated), _ACA Signups_, 2022-Feb-02. [↩](#fn8a)  
-
