@@ -128,7 +128,7 @@ not counted as part of population.
 It's through this kind of weird junk that you know the data are real.  
 
 
-## County-level confirmation that most US rural areas resist vaccination  
+## County-level confirmation&colon; US rural vaccine resistance (mostly)  
 
 Interestingly, you can see the US national urban/rural divide in Charles Gaba's data on
 vaccination and Trump voting at the county level.  <sup id="fn8a">[[8]](#fn8)</sup>  Last
