@@ -46,77 +46,150 @@ least partial vaccination rates 2020-Dec-14 through 2022-Jan-31 were 86.1% in ru
 way 'round: 58.5% rural vs 75.4% urban according to the CDC's
 _MMWR._ <sup id="fn3a">[[3]](#fn3)</sup>  
 
-|            || _Urban_ || _Rural_ |  
-| :--------: || :----: || :----: |  
-| _Arizona_   || 69.3%  || 86.1%  |  
-| _National_  || 75.4%  || 58.5%  |  
 
-<!--
 ## But is it REAL?!  
 
 We can test statistically whether the urban/rural vaccination counts are different between
-Arizona and the US.  First we'll have to convert the table above, which contains
-proportions, to actual counts of persons.
+Arizona and the US, if we know the sizes of the urban/rural populations. 
 - _Statista Research Service_ says the US had 272.91 million people in urban areas and
-  57.23 million in rural areas.  <sup id="fn4a">[[4]](#fn4)</sup> Given the proportions in
-  the above table, that means there are in the US overall:  
-  - 0.754 * 272.91 million US urban vaccinees, and  
-  - 0.585 * 57.23 million US rural vaccines.  
+  57.23 million in rural areas.  <sup id="fn4a">[[4]](#fn4)</sup> 
 - According to the US Census Bureau, Arizona has a population of 7,276,316 (2021-Jul-01
   estimate). <sup id="fn5a">[[5]](#fn5)</sup>  According to 2 other sources, both
   estimating for 2010, the population of Arizona is 89.8% urban and 10.2%
-  rural. <sup id="fn6a">[[6]](#fn6)</sup> <sup id="fn7a">[[7]](#fn7)</sup>  Given the
-  proportions in the above table, that means there are in Arizona overall:  
-  - 0.693 * 0.898 * 7.276 million AZ urban vaccinees, and  
-  - 0.861 * 0.102 * 7.276 million AZ rural vaccinees.  
+  rural. <sup id="fn6a">[[6]](#fn6)</sup> <sup id="fn7a">[[7]](#fn7)</sup>  (It's probably 
+  even more urban by now, almost 12 years later, but let's just go with the hard data
+  for 2010.  Given the proportions in the above table, that means there are in Arizona overall:  
+  - 0.898 * 7,276,316 = 6,534,132 AZ urban residents
+  - 0.102 * 7,276,316 =   742,184 AZ rural residents  
 
-From that, we can build a 2x2 contingency table, i.e., a table like the one above but with
-actual counts of people, for analysis in [R](https://www.r-project.org/):  
+|            || _Urban Popln_ || _Urban % Vax_ || _Rural Popln_ || _Rural % Vax_ |  
+| :--------: || :----------: || :---------: || :----------: || :----------: |  
+| _Arizona_   ||   6,534,132  ||    69.3%    ||    742,184   ||     86.1%    |  
+| _National_  || 272,910,000  ||    75.4%    || 57,230,000   ||     58.5%    |  
 
-```R
-> usUrban <- 272.91e+06
-> usRural <-  57.23e+06
-> azPopln <-   7.276e+06
+Now we can ask 4 questions:  
 
-> mx <- matrix(round(c(0.693 * 0.898 * azPopln, 0.861 * 0.102 * azPopln, 0.754 * usUrban, 0.585 * usRural)), byrow = TRUE, nrow = 2, ncol = 2, dimnames = list(c("Arizona", "US"), c("Urban", "Rural"))); mx
-            Urban    Rural
-Arizona   4527957   638993
-US      205774140 33479550
-```
+1. __Q:__ In the US as a whole, do the urban/rural areas differ in vaccination rate
+   in a statistically significant way?  
+   __A:__ Yes, very significant.  It's real: the US urban population is more highly
+   vaccinated than the US rural population.  
+   ```R
+   > usUrbanPopln <- 272910000
+   > usRuralPopln <-  57230000
+   > usUrbanRural <- matrix(round(c(0.754      * usUrbanPopln, 0.585       * usRuralPopln, 
+                                   (1 - 0.754) * usUrbanPopln, (1 - 0.585) * usRuralPopln)),
+                                  byrow = TRUE, nrow = 2, ncol = 2, 
+                                  dimnames = list(c("Vax", "NonVax"), c("Urban", "Rural")))
+   > usUrbanRural
+              Urban    Rural
+   Vax    205774140 33479550
+   NonVax  67135860 23750450
+   > fisher.test(usUrbanRural) # Takes forever, due to large numbers
 
-Armed with that, we can test the null hypothesis that the rows are pretty much the same
-against the alternative hypothesis that they are different.  We'll do both a fancy-pants
-Fisher exact test and an old-fashioned but reliable Pearson $\chi^2$ test:  
+       Fisher's Exact Test for Count Data
 
-```R
-> fisher.test(mx)
+   data:  usUrbanRural
+   p-value < 2.2e-16
+   alternative hypothesis: true odds ratio is not equal to 1
+   95 percent confidence interval:
+    2.173049 2.175559
+   sample estimates:
+   odds ratio 
+     2.174356 
+   ```
 
-	Fisher's Exact Test for Count Data
+2. __Q:__ In Arizona, is urban/rural vaccination rate difference
+   statistically significant?  
+   __A:__ Yes, very significant.  It's real.  Also note the odds ratio goes the other way,
+   i.e., less than 1 here but greater than 1 for the US as a whole.  The urban/rural vax
+   rates differ in both the US and Arizona, but _in the opposite direction,_ favoring the
+   rural population in Arizona.  
+   ```R
+   > azUrbanPopln <- 6534132
+   > azRuralPopln <-  742184
+   > azUrbanRural <- matrix(round(c(0.693      * azUrbanPopln, 0.861       * azRuralPopln, 
+                                   (1 - 0.693) * azUrbanPopln, (1 - 0.861) * azRuralPopln)),
+                                  byrow = TRUE, nrow = 2, ncol = 2, 
+                                  dimnames = list(c("Vax", "NonVax"), c("Urban", "Rural")))
+   > azUrbanRural
+			Urban  Rural
+   Vax    4528153 639020
+   NonVax 2005979 103164
+   > fisher.test(azUrbanRural)
+   
+	   Fisher's Exact Test for Count Data
 
-data:  mx
-p-value < 2.2e-16
-alternative hypothesis: true odds ratio is not equal to 1
-95 percent confidence interval:
- 1.149884 1.155938
-sample estimates:
-odds ratio 
-  1.152893 
+   data:  azUrbanRural
+   p-value < 2.2e-16
+   alternative hypothesis: true odds ratio is not equal to 1
+   95 percent confidence interval:
+	0.3619715 0.3668886
+   sample estimates:
+   odds ratio 
+	0.3644273 
+   ```
 
-> chisq.test(mx)
+3. __Q:__ In urban areas, does the US differ from Arizona by vaccination rate in a
+   statistically significant way?  
+   __A:__ Yes, very significant.  It's real: the US urban population is a little more
+   vaccinated than the Arizona urban population.  
+   ```R
+   > urbanUSAZ <- matrix(round(c(0.754       * usUrbanPopln, 0.693       * azUrbanPopln,
+                                 (1 - 0.754) * usUrbanPopln, (1 - 0.693) * azUrbanPopln)),
+                         byrow = TRUE, nrow = 2, ncol = 2,
+                         dimnames = list(c("Vax", "NonVax"), c("UrbanUS", "UrbanAZ")))
+   > urbanUSAZ
+			UrbanUS UrbanAZ
+   Vax    205774140 4528153
+   NonVax  67135860 2005979
+   > fisher.test(urbanUSAZ)
 
-	Pearson's Chi-squared test with Yates' continuity correction
+	   Fisher's Exact Test for Count Data
 
-data:  mx
-X-squared = 11139, df = 1, p-value < 2.2e-16
-```
+   data:  urbanUSAZ
+   p-value < 2.2e-16
+   alternative hypothesis: true odds ratio is not equal to 1
+   95 percent confidence interval:
+	1.355549 1.360130
+   sample estimates:
+   odds ratio 
+	 1.357818 
+   ```
 
-As you can see, both tests are statistically wicked significant: $p \lt 2.2 \times
-10^{-16}$ is the smallest $p$-value [R](https://www.r-project.org/) will report without
-coercion (the actual value is even smaller).  So Arizona is _quite_ different from the US,
-i.e., the effect is very real and extremely unlikely to be due to chance.  
+4. __Q:__ In rural areas, does the US differ from Arizona by vaccination rate in a
+   statistically significant way?  
+   __A:__ Yes, very significant.  It's real.  Also note the odds ratio goes the other way,
+   i.e., less than 1 here but greater than 1 for the urban populations.  The US/AZ vax
+   rates differ in both cases, but _in the opposite way,_ favoring the Arizona rural population.  
+   ```R
+   > ruralUSAZ <- matrix(round(c(0.585       * usRuralPopln, 0.861       * azRuralPopln,
+                                 (1 - 0.585) * usRuralPopln, (1 - 0.861) * azRuralPopln)),
+                         byrow = TRUE, nrow = 2, ncol = 2,
+                         dimnames = list(c("Vax", "NonVax"), c("RuralUS", "RuralAZ")))
+   > ruralUSAZ
+		   RuralUS RuralAZ
+   Vax    33479550  639020
+   NonVax 23750450  103164
+   > fisher.test(ruralUSAZ)
 
-Yes, it's real.  
--->
+	   Fisher's Exact Test for Count Data
+
+   data:  ruralUSAZ
+   p-value < 2.2e-16
+   alternative hypothesis: true odds ratio is not equal to 1
+   95 percent confidence interval:
+	0.2260658 0.2291117
+   sample estimates:
+   odds ratio 
+	0.2275749 
+   ```
+
+So the following effects are real:  
+- In the US as a whole, urban areas are more vaccinated than rural areas.  
+- In Arizona, the opposite is true: rural areas are more vaccinated than urban.  
+- The main difference in Arizona rural vs US rural is the large influence of 
+  Navajo and Hopi tribal policies.  
+
 
 ## One more bit of weirditude  
 
