@@ -51,7 +51,7 @@ _MMWR._ <sup id="fn3a">[[3]](#fn3)</sup>
 | _Arizona_   || 69.3%  || 86.1%  |  
 | _National_  || 75.4%  || 58.5%  |  
 
-
+<!--
 ## But is it REAL?!  
 
 We can test statistically whether the urban/rural vaccination counts are different between
@@ -116,7 +116,7 @@ coercion (the actual value is even smaller).  So Arizona is _quite_ different fr
 i.e., the effect is very real and extremely unlikely to be due to chance.  
 
 Yes, it's real.  
-
+-->
 
 ## One more bit of weirditude  
 
