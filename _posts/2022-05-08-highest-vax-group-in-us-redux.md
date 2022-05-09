@@ -73,12 +73,9 @@ actual counts of people, for analysis in [R](https://www.r-project.org/):
 ```R
 > usUrban <- 272.91e+06
 > usRural <-  57.23e+06
-
 > azPopln <-   7.276e+06
-> azUrban <- 0.898 * azPopln
-> azRural <- (1 - 0.898) * azPopln
 
-> mx <- matrix(round(c(0.693 * azUrban, 0.861 * azRural, 0.754 * usUrban, 0.585 * usRural)), byrow = TRUE, nrow = 2, ncol = 2, dimnames = list(c("Arizona", "US"), c("Urban", "Rural"))); mx
+> mx <- matrix(round(c(0.693 * 0.898 * azPopln, 0.861 * 0.102 * azPopln, 0.754 * usUrban, 0.585 * usRural)), byrow = TRUE, nrow = 2, ncol = 2, dimnames = list(c("Arizona", "US"), c("Urban", "Rural"))); mx
             Urban    Rural
 Arizona   4527957   638993
 US      205774140 33479550
