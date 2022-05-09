@@ -107,7 +107,7 @@ data:  mx
 X-squared = 11139, df = 1, p-value < 2.2e-16
 ```
 
-As you can see, both tests are wicked statistically significant: $p \lt 2.2 \times
+As you can see, both tests are statistically wicked significant: $p \lt 2.2 \times
 10^{-16}$ is the smallest $p$-value [R](https://www.r-project.org/) will report without
 coercion (the actual value is even smaller).  So Arizona is _quite_ different from the US,
 i.e., the effect is very real and extremely unlikely to be due to chance.  
