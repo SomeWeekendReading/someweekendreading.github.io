@@ -44,7 +44,7 @@ So it is with an article today, which first came to our attention via Eric Topol
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-<img src="{{ site.baseurl }}/images/2022-05-10-unvax-compassion-aim-1.jpg" width="400" height="183" alt="Mohammed @ AIM: Compassion for the willfully vaccinated" title="Mohammed @ AIM: Compassion for the willfully vaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-05-10-unvax-compassion-aim-1.jpg" width="400" height="183" alt="Mohammed @ AIM: Compassion for the willfully unvaccinated" title="Mohammed @ AIM: Compassion for the willfully unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 He points us to an article by [Amira Mohammed](https://twitter.com/AmiraMohamedMD) in
 _Annals of Internal Medicine_, published today.  <sup id="fn1a">[[1]](#fn1)</sup>  It's
 very short, but every word is well-chosen and it's well worth your time.  
@@ -91,21 +91,24 @@ clearly beneficial vaccine.  Over time, her heart changed:
 > physician distrust and lack of medical care that these patients continued to suffer.  
 
 She realized that:  
-- Yes, people are ignorant.  But why does the structural racism in our society keep them
-  ignorant?  
-- Yes, people are victims of disinformation.  But why do we tolerate disinformation, when
-  the sources are clearly known?  
-- Yes, people are still distrustful because of the Tuskeegee experiment.  But why do we
+- Yes, people are ignorant.  _But why does the structural racism in our society keep them
+  ignorant?_  
+- Yes, people are victims of disinformation.  _But why do we tolerate disinformation, when
+  the sources are clearly known?_  
+- Yes, people are still distrustful because of the Tuskeegee experiment.  _But why do we
   refuse to take responsibility and blame for having done that experiment in the first
-  place?  
-- Yes, people heard famous singers and athletes voice vaccine suspicions.  But why were
+  place?_  
+- Yes, people heard famous singers and athletes voice vaccine suspicions.  _But why were
   the rest of us not giving voice to the truth in "churches, barbershops, and grocery
-  stores" to make sure they were exposed to the truth?  
+  stores" to make sure they were exposed to the truth?_  
 
 Yes, we have a strong bias against the willfully unvaccinated, and not entirely without
 reason.  _But:_ we need to guard against this becoming another pillar of racism, classism,
 and cultural prejudice.  We do that with culturally sensitive outreach and education, so
-people can take care of themselves properly.  
+people can take care of themselves properly.  Not taking the time to reach out to each
+community in a way they can understand and accept is in itself at least somewhat racist.  
+
+Part of Mohammed's conclusion:  
 
 > As my perspective shifted, I started to empathize with my patients again. My renewed
 > sense of compassion changed my approach to family discussions in the ICU. I no longer
@@ -118,7 +121,7 @@ people can take care of themselves properly.
 
 ## The Weekend Conclusion  
 
-I may not be able to get past my anger at the willfully vaccinated.  But I'm glad to see
+I may not be able to get past my anger at the willfully unvaccinated.  But I'm glad to see
 there are people in important healthcare positions like Amira Mohammed, who can.  
 
 Maybe some of her goodness will rub off on me someday.  
