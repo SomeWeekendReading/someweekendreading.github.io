@@ -45,9 +45,9 @@ So it is with an article today, which first came to our attention via Eric Topol
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 <img src="{{ site.baseurl }}/images/2022-05-10-unvax-compassion-aim-1.jpg" width="400" height="183" alt="Mohammed @ AIM: Compassion for the willfully vaccinated" title="Mohammed @ AIM: Compassion for the willfully vaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-He points us to an article by Amira Mohammed in _Annals of Internal Medicine_, published
-today.  <sup id="fn1a">[[1]](#fn1)</sup>  It's very short, but every word is well-chosen
-and it's well worth your time.  
+He points us to an article by [Amira Mohammed](https://twitter.com/AmiraMohamedMD) in
+_Annals of Internal Medicine_, published today.  <sup id="fn1a">[[1]](#fn1)</sup>  It's
+very short, but every word is well-chosen and it's well worth your time.  
 
 The article is short, but quite moving: she started out with tears of relief when the
 vaccines became available, moved on to anger at the willfully unvaccinated for endangering
