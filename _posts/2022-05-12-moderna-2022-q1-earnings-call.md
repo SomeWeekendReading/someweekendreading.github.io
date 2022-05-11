@@ -249,7 +249,7 @@ On the one hand, numbers like that make one want to think "if only I had investe
 them".  On the other hand, as an index investor who believes in efficient markets, I
 recognize that as wishful thinking about things nobody could have known.  And since
 Moderna is in the S&amp;P500, they're in the
-[world stock index fund](https://investor.vanguard.com/mutual-funds/profile/VTWAX) I use.
+[world stock index fund](https://investor.vanguard.com/etf/profile/VT) I use.
 (Granted, it's a _tiny_ slice of the world economy.  I probably own 1 screw in 1 doorknob
 on 1 of Moderna's facilities.  But yeah&hellip; yeah: that screw?  
 Mine. <sup id="fn3a">[[3]](#fn3)</sup>)  

@@ -19,6 +19,15 @@
   </div>
   {% endif %}
 
+  <!-- *** Use commentsClosed flag to close comments on old posts. -->
+  <!--       {% if page.commentsClosed == true %}      -->
+  <!--         Comments for this post are closed.      -->
+  <!--       {% else %}                                -->
+  <!--         <div id="respond" class="comment__new"> -->
+  <!--          {% include comment_form.html %}        -->
+  <!--         </div>                                  -->
+  <!--       {% endif %}                               -->
+
   <!-- New comment form -->
   <div id="respond" class="comment__new">
     {% include comment_form.html %}
