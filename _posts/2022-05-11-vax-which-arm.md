@@ -5,8 +5,8 @@ tags: COVID MathInTheNews PharmaAndBiotech &Gammad;&Tau;&Phi;
 comments: true
 ---
 
-A burning question for everybody who's gotten a booster, or wants one: same arm, or other
-arm?  
+A burning question for everybody who's gotten a booster, or wants one: the same arm, or
+the other arm?  
 
 
 ## Right or Left?  
