@@ -27,8 +27,8 @@ across the news because [somebody rubbed my nose in a tweet]({{ site.baseurl }}/
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 (Nothing against Meg Tirrell, who seems to be a fine reporter.  It's just Twitter that I
-want to avoid like the plague.  As if people actually avoided plagues anymore, a tradition
-now somewhat in question.)  
+want to avoid like the plague.  As if people actually avoided plagues anymore, a traditional
+expression now somewhat in question.)  
 
 __NB__ the content in 2 parts:  
 1. A general description of what Moderna folk think is required to have meaningful variant
@@ -251,7 +251,7 @@ recognize that as wishful thinking about things nobody could have known.  And si
 Moderna is in the S&amp;P500, they're in the
 [world stock index fund](https://investor.vanguard.com/etf/profile/VT) I use.
 (Granted, it's a _tiny_ slice of the world economy.  I probably own 1 screw in 1 doorknob
-on 1 of Moderna's facilities.  But yeah&hellip; yeah: that screw?  
+on 1 of Moderna's facilities.  But yeah&hellip; yeah: that screw?
 Mine. <sup id="fn3a">[[3]](#fn3)</sup>)  
 
 While it looks like they're making a ton of money, keep in mind this is for vaccinating
