@@ -3,6 +3,7 @@ layout: post
 title: Vaccine Mandate Origins in the US
 tags: COVID JournalClub Politics
 comments: true
+commentsClosed: true
 ---
 
 The history of why vaccine mandates are in fact constitutional in the United States has a

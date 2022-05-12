@@ -3,6 +3,7 @@ layout: post
 title: On the ratio of Beta-distributed random variables
 tags: CatBlogging Math Statistics TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 [Warning: Post contains full frontal nerdity.  Bug reports appreciated!] I finally got a

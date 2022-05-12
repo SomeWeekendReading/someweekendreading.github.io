@@ -3,6 +3,7 @@ layout: post
 title: The Madness of Vaccine Resistance
 tags: COVID Politics
 comments: true
+commentsClosed: true
 ---
 
 Have a quarter of us gone mad?  It would seem so&hellip;  

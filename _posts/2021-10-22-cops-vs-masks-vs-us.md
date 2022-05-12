@@ -3,6 +3,8 @@ layout: post
 title: Cops vs The Rest of Us&colon; Mask Edition
 tags: COVID Politics
 comments: true
+commentsClosed: true
+commentsClosed: true
 ---
 
 Two NYPD transit cops forcibly ejected a citizen from a Manhattan subway station.  His

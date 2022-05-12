@@ -3,6 +3,7 @@ layout: post
 title: Today I got shot (for the 6th time!)
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 Today I got shot.  Again.  For the _sixth_ time this year!  

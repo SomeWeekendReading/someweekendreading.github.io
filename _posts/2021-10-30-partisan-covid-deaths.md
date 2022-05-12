@@ -3,6 +3,7 @@ layout: post
 title: The Partisan Divide on COVID-19 Deaths
 tags: COVID JournalClub Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 COVID-19 death rates in the US are nakedly partisan.  So is mask resistance.  So is

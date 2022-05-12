@@ -3,6 +3,7 @@ layout: post
 title: Today the Weekend Editrix got shot (for the 6th time!)
 tags: CatBlogging COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 Today the Weekend Editrix got shot, also for the sixth time this year!  It was pretty

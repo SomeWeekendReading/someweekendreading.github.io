@@ -3,6 +3,7 @@ layout: post
 title: On 'Natural' Immunity Persistence vs COVID-19
 tags: COVID Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 What are the consequences of relying on 'natural' immunity after recovery from COVID-19?

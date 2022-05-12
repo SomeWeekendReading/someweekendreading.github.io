@@ -3,6 +3,7 @@ layout: post
 title: Some days I feel like this dog
 tags: TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Problem-solving skills are important.  

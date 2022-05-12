@@ -3,6 +3,7 @@ layout: post
 title: Today I got shot (a fifth time)
 tags: PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today I got shot for the _fifth_ time this year.  Again, not guns and not COVID, execrable

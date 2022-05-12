@@ -3,6 +3,7 @@ layout: post
 title: The Madness of Texas Abortion Vigilantes
 tags: Politics
 comments: true
+commentsClosed: true
 ---
 
 [Texas passed an abortion ban at 6 weeks](https://www.nytimes.com/2021/09/05/us/anti-abortion-movement-texas-law.html), 

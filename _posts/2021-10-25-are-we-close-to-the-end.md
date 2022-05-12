@@ -3,6 +3,7 @@ layout: post
 title: Are We Close to the End of the Pandemic?
 tags: COVID Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Well&hellip; _are_ we?  

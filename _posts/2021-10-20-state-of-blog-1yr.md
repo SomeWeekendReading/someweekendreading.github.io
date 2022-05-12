@@ -3,6 +3,7 @@ layout: post
 title: State of the Blog at 1 Year
 tags: About Statistics TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 This crummy little blog that nobody reads has been around for a little more than a year.

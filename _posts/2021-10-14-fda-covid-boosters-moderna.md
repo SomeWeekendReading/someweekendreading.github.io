@@ -3,6 +3,7 @@ layout: post
 title: FDA Considers COVID-19 Boosters for Moderna Spikevax
 tags: COVID Math MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today the FDA's Vaccines and Related Biological Products Advisory

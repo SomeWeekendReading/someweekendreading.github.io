@@ -3,6 +3,7 @@ layout: post
 title: On war memorials
 tags: Beauty NotableAndQuotable Politics Religion TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 Today marks 2 decades since [the 9/11 attacks](https://en.wikipedia.org/wiki/September_11_attacks)

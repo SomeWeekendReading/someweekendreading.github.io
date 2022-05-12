@@ -3,6 +3,7 @@ layout: post
 title: Work Nightmares&colon; A Fantasy of Fairness
 tags: CorporateLifeAndItsDiscontents &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Yes, discontent with the corporate system and rule by managers is a thing.  As are

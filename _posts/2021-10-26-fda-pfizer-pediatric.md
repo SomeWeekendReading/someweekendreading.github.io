@@ -3,6 +3,7 @@ layout: post
 title: FDA VRBPAC Considers Pfizer COVID-19 Vaccine for Kids 5 &ndash; 11
 tags: COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today the FDA's Vaccine and Related Biological Products Advisory Committee (VRBPAC) meets

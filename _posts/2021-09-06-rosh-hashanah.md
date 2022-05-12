@@ -3,6 +3,7 @@ layout: post
 title: Rosh Hashanah&colon; A Chance to Start Over on Labor Day
 tags: Politics Religion TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Today is [Labor Day in the US](https://en.wikipedia.org/wiki/Labor_Day). It's also 

@@ -3,6 +3,7 @@ layout: post
 title: COVID-19 Miscellany
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Do you want the good news first?  

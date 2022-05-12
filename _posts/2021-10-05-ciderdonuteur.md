@@ -3,6 +3,7 @@ layout: post
 title: The Man Who Wins New England Autumn
 tags: Beauty Food TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Today I learned of a hero, engaged in a Great Work that is clearly a service to all

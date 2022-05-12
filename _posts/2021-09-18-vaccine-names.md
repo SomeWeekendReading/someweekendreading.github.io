@@ -3,6 +3,7 @@ layout: post
 title: On the Naming of Vaccines
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: true
 ---
 
 Today I learned the commercial names of the COVID-19 vaccines.  One of them is a real

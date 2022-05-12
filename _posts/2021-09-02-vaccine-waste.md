@@ -3,6 +3,7 @@ layout: post
 title: Are we wasting too much COVID-19 vaccine?
 tags: COVID Food MathInTheNews PharmaAndBiotech R
 comments: true
+commentsClosed: true
 ---
 
 Today comes news that we've wasted about 15.1 million doses of COVID-19 doses here in the
