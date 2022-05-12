@@ -20,9 +20,13 @@
   {% endif %}
 
   <!-- New comment form -->
-  <div id="respond" class="comment__new">
-    {% include comment_form.html %}
-  </div>
+  {% if page.commentsClosed == true %}
+    Comments for this post are closed.
+  {% else %}
+    <div id="respond" class="comment__new">
+      {% include comment_form.html %}
+    </div>
+  {% endif %}
 </section>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
