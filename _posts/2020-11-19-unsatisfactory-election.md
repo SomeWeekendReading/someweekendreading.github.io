@@ -3,6 +3,7 @@ layout: post
 title: Well, that was somewhat&hellip; <em>unsatisfying</em>
 tags: Politics Sadness
 comments: true
+commentsClosed: true
 ---
 
 Today the AP finally called Georgia for Biden, after the hand recount.  But the Senate

@@ -3,6 +3,7 @@ layout: post
 title: On COVID vaccine protection persistence
 tags: COVID JournalClub MathInTheNews Statistics
 comments: true
+commentsClosed: true
 ---
 
 Everybody's worried about how long the protection from a COVID vaccine will last, whether

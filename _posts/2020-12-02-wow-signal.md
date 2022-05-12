@@ -3,6 +3,7 @@ layout: post
 title: Proposed source of the &quot;Wow!&quot; signal?
 tags: Physics Statistics
 comments: true
+commentsClosed: true
 ---
 
 The [sad news about Arecibo]({{ site.baseurl }}/alas-arecibo/) brings up

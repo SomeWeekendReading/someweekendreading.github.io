@@ -3,6 +3,7 @@ layout: post
 title: AstraZeneca/Oxford vaccine interim readout (and its discontents)
 tags: COVID MathInTheNews PharmaAndBiotech R SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the early readout this

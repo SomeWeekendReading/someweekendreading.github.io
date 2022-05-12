@@ -3,6 +3,7 @@ layout: post
 title: Moderna vaccine passes FDA external advisory committee!
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 Yesterday was _also_ a good day: the FDA's external advisory committee passed the

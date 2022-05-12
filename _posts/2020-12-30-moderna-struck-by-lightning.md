@@ -3,6 +3,7 @@ layout: post
 title: Serious adverse event frequency&colon; about like getting struck by lightning?
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Explaining to COVID vaccine clinical trial participants that the probability of a certain

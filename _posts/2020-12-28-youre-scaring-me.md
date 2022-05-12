@@ -3,6 +3,7 @@ layout: post
 title: You're scaring me
 tags: COVID MathInTheNews Politics Sadness
 comments: true
+commentsClosed: true
 ---
 
 You all are scaring me, with your science denying, mask refusing, socially close quarters,

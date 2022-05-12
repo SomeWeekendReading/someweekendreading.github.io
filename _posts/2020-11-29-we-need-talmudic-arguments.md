@@ -3,6 +3,7 @@ layout: post
 title: We need the Talmudic argument style&hellip; someday
 tags: Politics Religion SomebodyAskedMe TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the style of argument

@@ -3,6 +3,7 @@ layout: post
 title: Another beautiful vaccine&colon; a look into the Moderna FDA EUA submission package
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the contents of the

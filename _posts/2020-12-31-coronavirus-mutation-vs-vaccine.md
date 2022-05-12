@@ -3,6 +3,7 @@ layout: post
 title: The mutant coronavirus&colon; will the vaccines still work?
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) whether the COVID-19

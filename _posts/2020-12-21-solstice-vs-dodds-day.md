@@ -3,6 +3,7 @@ layout: post
 title: Winter solstice, Dodds's Day, and the Weekend Editrix's Day
 tags: Beauty Math Obscurantism Physics R TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 Today is the winter solstice, the shortest day of the year in the northern hemisphere.  It

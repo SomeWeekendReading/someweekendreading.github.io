@@ -3,6 +3,7 @@ layout: post
 title: A beautiful vaccine&colon; a look into the Pfizer/BioNTech FDA EUA submission package
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Ok, nobody asked me this time, because for once I got out ahead of them.  It seems Pfizer/BioNTech 

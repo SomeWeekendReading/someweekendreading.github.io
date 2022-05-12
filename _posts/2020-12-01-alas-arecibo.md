@@ -3,6 +3,7 @@ layout: post
 title: Alas, Arecibo
 tags: Physics Sadness
 comments: true
+commentsClosed: true
 ---
 
 Alas, for the [Arecibo Observatory/National Astronomy and Ionosphere Center](https://en.wikipedia.org/wiki/Arecibo_Observatory) is no more.  

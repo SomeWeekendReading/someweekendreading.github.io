@@ -3,6 +3,7 @@ layout: post
 title: My cat is a fin-de-si&egrave;cle French night club cat?!
 tags: CatBlogging TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Apparently the Weekend Publisher, occasionally also known as "my cat", is the reincarnation

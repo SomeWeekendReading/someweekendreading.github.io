@@ -3,6 +3,7 @@ layout: post
 title: Some sense about vaccines from Hank Green
 tags: COVID NotableAndQuotable Politics TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 [Hank Green](https://en.wikipedia.org/wiki/Hank_Green) (notable web producer, author, and

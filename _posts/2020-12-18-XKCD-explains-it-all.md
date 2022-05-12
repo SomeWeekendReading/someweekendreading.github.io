@@ -3,6 +3,7 @@ layout: post
 title: XKCD explains it all
 tags: COVID MathInTheNews PharmaAndBiotech Statistics TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe), the 

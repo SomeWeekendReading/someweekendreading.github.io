@@ -3,6 +3,7 @@ layout: post
 title: Santa and the cops
 tags: CatBlogging TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Here at Chez Weekend, there's a rumor circulating that on Christmas Eve, Santa got

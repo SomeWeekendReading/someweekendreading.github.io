@@ -3,6 +3,7 @@ layout: post
 title: Pfizer/BioNTech vaccine passes FDA external advisory committee!
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 Today is a _good day:_ the FDA's external advisory committee passed the Pfizer/BioNTech COVID-19
