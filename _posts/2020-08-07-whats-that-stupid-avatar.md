@@ -3,6 +3,7 @@ layout: post
 title: What's that stupid avatar?
 tags: About Math R SomebodyAskedMe &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe), "What's that stupid avatar

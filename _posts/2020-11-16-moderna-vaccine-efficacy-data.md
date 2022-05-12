@@ -3,6 +3,7 @@ layout: post
 title: Moderna/Lonza vaccine interim readout&colon; 95% efficacy!
 tags: COVID MathInTheNews PharmaAndBiotech R Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today the Moderna/Lonza vaccine trial vaccine trial gave its _first interim_ readout: 95%

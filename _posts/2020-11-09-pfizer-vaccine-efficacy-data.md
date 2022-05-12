@@ -3,6 +3,7 @@ layout: post
 title: Pfizer/BioNTech vaccine interim readout&colon; 90% efficacy!
 tags: COVID MathInTheNews PharmaAndBiotech R Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today the Pfizer/BioNTech vaccine trial gave its _first interim_ readout: 90% efficacy.

@@ -3,6 +3,7 @@ layout: post
 title: At autumn in New England, thoughts turn to...
 tags: Beauty Physics TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 At autumn in New England, thoughts turn to the extreme beauty of nature, the weather

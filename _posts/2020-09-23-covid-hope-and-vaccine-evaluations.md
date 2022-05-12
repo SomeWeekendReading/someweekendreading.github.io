@@ -3,6 +3,7 @@ layout: post
 title: COVID points of hope and evaluating a vaccine
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: true
 ---
 
 Looking for a glimmer of hope amid the COVID clouds?  Worried about whether a vaccine will

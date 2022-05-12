@@ -3,6 +3,7 @@ layout: post
 title: Today I voted
 tags: Politics
 comments: true
+commentsClosed: true
 ---
 
 Today I voted.  You should too, if you're an eligible US voter.  

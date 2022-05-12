@@ -3,6 +3,7 @@ layout: post
 title: Election Night of the Living Beta Binomials
 tags: MathInTheNews Politics Statistics TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 As you may have heard, the US is about to face an election more contentious than any since

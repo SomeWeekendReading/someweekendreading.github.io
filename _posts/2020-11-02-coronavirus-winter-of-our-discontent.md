@@ -3,6 +3,7 @@ layout: post
 title: Coronavirus &amp; Elections&colon; The Winter of Our Discontent
 tags: CatBlogging COVID MathInTheNews Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 The election is coming, with a possibility of right-wing violence and subversion.

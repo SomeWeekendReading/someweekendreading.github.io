@@ -3,6 +3,7 @@ layout: post
 title: What's in the Phase 1/2 readout of the Moderna/Lonza COVID vaccine?
 tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 Ok, so I finally tracked down the official Phase 1/2 readout of the Moderna/Lonza COVID

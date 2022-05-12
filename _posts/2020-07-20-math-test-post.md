@@ -3,6 +3,7 @@ layout: post
 title: Math test post
 tags: About Math Obscurantism
 comments: true
+commentsClosed: true
 ---
 
 Just seeing if I can make the math typesetting work.  Nothing to see here, kid... move

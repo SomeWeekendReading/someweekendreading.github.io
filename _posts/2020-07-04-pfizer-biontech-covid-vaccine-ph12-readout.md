@@ -3,6 +3,7 @@ layout: post
 title: What's in the Phase 1/2 readout of the Pfizer/BioNTech COVID vaccine?
 tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) what's in the Phase 1/2 readout of the Pfizer/BioNTech COVID vaccine.

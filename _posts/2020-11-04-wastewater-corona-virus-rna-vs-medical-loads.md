@@ -3,6 +3,7 @@ layout: post
 title: Wastewater coronavirus RNA vs medical loads
 tags: COVID MathInTheNews R Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Previously]({{ site.baseurl }}/coronavirus-winter-of-our-discontent/),

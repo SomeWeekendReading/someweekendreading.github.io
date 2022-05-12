@@ -3,6 +3,7 @@ layout: post
 title: Petrov Day &mdash; The Day the World Didn't End
 tags: CorporateLifeAndItsDiscontents NotableAndQuotable Politics
 comments: true
+commentsClosed: true
 ---
 
 Today we commemorate 1983-Sep-26: the day Stanislav Yevgrafovich Petrov prevented the end the

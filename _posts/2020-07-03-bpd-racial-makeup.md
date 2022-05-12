@@ -3,6 +3,7 @@ layout: post
 title: Is the racial makeup of the Boston Police Department unrepresentative?
 tags: MathInTheNews Politics R SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about [this article in the _Boston Globe_ by Vernal Coleman](https://www.bostonglobe.com/2020/06/30/metro/boston-police-once-resembled-community-force-has-grown-whiter-city-becomes-more-diverse/)
