@@ -3,6 +3,7 @@ layout: post
 title: Formal scientific publication of the Moderna COVID-19 vaccine Phase 3 trial
 tags: COVID MathInTheNews PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 On 2020-Dec-30, the formal scientific publication of the Moderna's COVID-19 Phase 3 trail

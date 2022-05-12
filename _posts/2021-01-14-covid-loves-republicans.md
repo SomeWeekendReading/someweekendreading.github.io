@@ -3,6 +3,7 @@ layout: post
 title: COVID-19 loves Republican politicians
 tags: COVID MathInTheNews Politics R Statistics
 comments: true
+commentsClosed: true
 ---
 
 Suppose you had 2 groups of politicians, but one of them thought a pandemic was "fake

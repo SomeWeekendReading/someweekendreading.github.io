@@ -3,6 +3,7 @@ layout: post
 title: COVID-19 Vaccines and Infertility&colon; Analyzing the Myth
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Politics SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about whether the COVID-19

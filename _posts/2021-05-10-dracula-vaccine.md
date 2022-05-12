@@ -3,6 +3,7 @@ layout: post
 title: Dracula and the vaccine
 tags: COVID &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Romania has one of the highest vaccine hesitancy rates in Europe, around 50%.  They're

@@ -3,6 +3,7 @@ layout: post
 title: Republicans vs Herd Immunity
 tags: COVID MathInTheNews Politics SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 If a large enough clade of US persons refuse COVID-19 vaccination, herd immunity may never

@@ -3,6 +3,7 @@ layout: post
 title: Really, Republicans?
 tags: Politics &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 [_Warning:_ US-centric, lefty political rant.  If you're from outside the US and want to

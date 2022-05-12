@@ -3,6 +3,7 @@ layout: post
 title: Pfizer/Moderna vaccine mRNA sequences posted on GitHub
 tags: COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Interestingly, some Stanford scientists saved a few drops of the Moderna vaccine, apparently ran

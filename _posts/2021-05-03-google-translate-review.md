@@ -3,6 +3,7 @@ layout: post
 title: Reviewing Google Translate for These Blog Posts
 tags: About Obscurantism
 comments: true
+commentsClosed: true
 ---
 
 A few weeks ago, we hooked up [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)

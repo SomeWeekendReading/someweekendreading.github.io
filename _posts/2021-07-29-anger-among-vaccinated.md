@@ -3,6 +3,7 @@ layout: post
 title: Anger Among the Vaccinated
 tags: COVID PharmaAndBiotech Politics SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why vaccinated people in the

@@ -3,6 +3,7 @@ layout: post
 title: Impeachment actions&colon; sine qua non
 tags: MathInTheNews Politics R
 comments: true
+commentsClosed: true
 ---
 
 So.  US politics: it seems The Creature is being impeached.  Again.  What can we do

@@ -3,6 +3,7 @@ layout: post
 title: Politics vs mask use &amp; vaccine uptake in the US
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Does political alignment in the US inform medically-relevant behaviors like mask use and vaccine

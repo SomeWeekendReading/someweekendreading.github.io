@@ -3,6 +3,7 @@ layout: post
 title: Immunity freedom day for the Weekend Editrix!
 tags: COVID 
 comments: true
+commentsClosed: true
 ---
 
 As of today, the esteemed Weekend Editrix is 2 weeks past her 2nd dose of the Pfizer

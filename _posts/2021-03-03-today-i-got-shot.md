@@ -3,6 +3,7 @@ layout: post
 title: Today I got shot
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: true
 ---
 
 Today I got shot.  No, not the bad way (though gun control _is_ a legitimate issue in the

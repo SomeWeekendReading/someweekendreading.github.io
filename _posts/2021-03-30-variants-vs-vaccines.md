@@ -3,6 +3,7 @@ layout: post
 title: Variants vs Vaccines
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 SARS-CoV-2 is mutating, in increasingly dangerous ways.  Can we keep up with booster

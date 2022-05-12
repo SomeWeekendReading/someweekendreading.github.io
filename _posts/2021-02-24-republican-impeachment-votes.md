@@ -3,6 +3,7 @@ layout: post
 title: Why did Republicans block a Trump impeachment guilty verdict?
 tags: MathInTheNews Politics R Statistics
 comments: true
+commentsClosed: true
 ---
 
 It's been a couple weeks, so we've all calmed down a little.  But still&hellip; _why_ did

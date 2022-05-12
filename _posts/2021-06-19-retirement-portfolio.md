@@ -3,6 +3,7 @@ layout: post
 title: The Weekend Retirement Portfolio
 tags: Investing Retirement R SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 After reading

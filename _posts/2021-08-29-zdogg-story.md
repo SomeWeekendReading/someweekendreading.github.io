@@ -3,6 +3,7 @@ layout: post
 title: ZDoggMD on telling COVID stories to motivate vaccination
 tags: COVID PharmaAndBiotech Statistics 
 comments: true
+commentsClosed: true
 ---
 
 I'm a data-driven guy who detests persuasian by emotional anecdotes.  But most people are,

@@ -3,6 +3,7 @@ layout: post
 title: Democrats take Senate &amp; Presidency; Republicans start insurrection &amp; terrorism
 tags: Politics Sadness
 comments: true
+commentsClosed: true
 ---
 
 Today was when the Electoral College was to have been certified in Congress, sealing the

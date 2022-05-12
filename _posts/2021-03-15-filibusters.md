@@ -3,6 +3,7 @@ layout: post
 title: US Senate&colon; does one party filibuster more?
 tags: MathInTheNews Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Sen McConnell claims the _Democrats_ abuse the filibuster!  (Because of course he does.)

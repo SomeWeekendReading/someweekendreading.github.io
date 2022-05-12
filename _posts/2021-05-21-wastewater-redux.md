@@ -3,6 +3,7 @@ layout: post
 title: Wastewater Revisited&colon; Metagenomic Viral RNA and Medical Loads
 tags: COVID MathInTheNews R Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Last November]({{ site.baseurl }}/wastewater-corona-virus-rna-vs-medical-loads/), we

@@ -3,6 +3,7 @@ layout: post
 title: Today I got shot (a third time)
 tags: PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today I got shot a third time!  No, not a COVID-19 booster (though that's getting pretty

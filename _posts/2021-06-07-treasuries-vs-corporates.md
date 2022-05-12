@@ -3,6 +3,7 @@ layout: post
 title: Stock Diversifiers&colon; Treasury vs Corporate Bonds?
 tags: Investing MathInTheNews Retirement R Statistics
 comments: true
+commentsClosed: true
 ---
 
 If you invest in US stocks, you certainly want to diversify with some bonds for risk

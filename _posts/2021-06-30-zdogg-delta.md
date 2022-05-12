@@ -3,6 +3,7 @@ layout: post
 title: ZDoggMD on the Delta Variant
 tags: COVID Politics SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) what I thought of ZDogg's

@@ -3,6 +3,7 @@ layout: post
 title: Johnson &amp; Johnson COVID-19 review by FDA external advisory committee
 tags: COVID PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today the J&amp;J COVID-19 vaccine gets reviewed by VRBPAC (Vaccines &amp; Related

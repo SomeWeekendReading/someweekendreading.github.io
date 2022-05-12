@@ -3,6 +3,7 @@ layout: post
 title: Today I got shot (a fourth time)
 tags: PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today I got shot for the fourth time this year.  No, not the COVID-19 booster (yet).  The

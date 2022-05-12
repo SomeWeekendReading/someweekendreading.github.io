@@ -3,6 +3,7 @@ layout: post
 title: COVID-19 vaccines&colon; the need for speed
 tags: COVID MathInTheNews Politics
 comments: true
+commentsClosed: true
 ---
 
 Vaccine rollouts worldwide, with very few exceptions, have been slow &amp; bungled.  But

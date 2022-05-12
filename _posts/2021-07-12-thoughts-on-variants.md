@@ -3,6 +3,7 @@ layout: post
 title: Thoughts on Variants &amp; Vaccines
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 The variants are starting to pile up.  Unless we vaccinate everybody faster, there are

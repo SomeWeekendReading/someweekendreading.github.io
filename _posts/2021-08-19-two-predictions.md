@@ -3,6 +3,7 @@ layout: post
 title: Two Predictions
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: true
 ---
 
 From time to time, we make predictions here.  Two of them were: high probability of

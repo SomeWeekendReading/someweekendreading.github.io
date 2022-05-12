@@ -3,6 +3,7 @@ layout: post
 title: Another study of clotting and COVID vaccines
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Another study has come out, comparing clotting risks of COVID-19 and various vaccines

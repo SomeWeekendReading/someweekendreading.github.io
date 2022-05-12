@@ -3,6 +3,7 @@ layout: post
 title: The adults are finally back in charge!
 tags: Politics
 comments: true
+commentsClosed: true
 ---
 
 Today was a good day: with the inauguration (and the constitutional mandate behind it) at

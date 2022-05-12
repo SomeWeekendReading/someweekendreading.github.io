@@ -3,6 +3,7 @@ layout: post
 title: COVID Vaccines&colon; Why Not Full Approval?
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) a couple days ago why the

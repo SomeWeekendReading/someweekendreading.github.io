@@ -3,6 +3,7 @@ layout: post
 title: Vaccinations vs Votes
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Back in April, we did some [statistical analysis showing Trumpy states tended to have dramatically lower vaccination rates]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/).  Is that still the case?  Regrettably, yes: more than ever.  

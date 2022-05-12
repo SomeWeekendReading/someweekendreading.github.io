@@ -3,6 +3,7 @@ layout: post
 title: Good news on vaccines vs variants!
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Some good news, for once: the Pfizer/BioNTech vaccine is now known to work quite well

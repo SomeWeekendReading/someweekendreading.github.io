@@ -3,6 +3,7 @@ layout: post
 title: April foolishness
 tags: TheDivineMadness  &Gammad;&Tau;&Phi; 
 comments: true
+commentsClosed: true
 ---
 
 Today is April Fool's Day.  _Attrapons le poisson d'avril!_  

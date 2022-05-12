@@ -3,6 +3,7 @@ layout: post
 title: The pandemic year in retrospect
 tags: COVID MathInTheNews Politics &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Time for perspective: we've been stuck in a pandemic for a year now.  What's the best

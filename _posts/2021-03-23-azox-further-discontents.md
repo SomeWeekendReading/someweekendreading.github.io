@@ -3,6 +3,7 @@ layout: post
 title: AstraZeneca/Oxford vaccine trial (and its further discontents!)
 tags: COVID PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the AstraZeneca press

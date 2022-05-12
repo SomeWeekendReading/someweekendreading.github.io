@@ -3,6 +3,7 @@ layout: post
 title: Today the Weekend Editrix got shot (again)
 tags: COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Today the Weekend Editrix got shot.  Again.  (The good way.)  

@@ -3,6 +3,7 @@ layout: post
 title: Reading the RNA in the Pfizer &amp; Moderna vaccines
 tags: COVID MathInTheNews PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Have you ever wondered if you could make sense of the RNA code in the Pfizer or Moderna

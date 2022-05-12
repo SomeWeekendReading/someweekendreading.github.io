@@ -3,6 +3,7 @@ layout: post
 title: The Highest-Vaccination Ethnic Group in the US
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 What ethnic group in the US do you think has the highest vaccination rate?  

@@ -3,6 +3,7 @@ layout: post
 title: Immunity freedom day!
 tags: COVID 
 comments: true
+commentsClosed: true
 ---
 
 As of today, your humble Weekend Editor is 2 weeks past the 2nd dose of the Pfizer

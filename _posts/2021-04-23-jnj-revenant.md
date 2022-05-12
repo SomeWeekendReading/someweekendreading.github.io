@@ -3,6 +3,7 @@ layout: post
 title: JnJ Revenant
 tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 Today the Advisory Committee on Immunization Practices (ACIP) today recommended restoring

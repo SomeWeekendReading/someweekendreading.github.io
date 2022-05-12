@@ -3,6 +3,7 @@ layout: post
 title: Proposed Darwin Award for vaccine policy
 tags: COVID Politics
 comments: true
+commentsClosed: true
 ---
 
 Sometimes politicians pursue policies so _breathtakingly_ out of touch with reality, you

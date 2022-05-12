@@ -3,6 +3,7 @@ layout: post
 title: Today I got shot (again)
 tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 Today I got shot (again).  In the good sense: the second dose of Pfizer/BioNTech COVID-19

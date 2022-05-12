@@ -3,6 +3,7 @@ layout: post
 title: US pauses JnJ vaccine on thromboses
 tags: COVID MathInTheNews PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Today the US regulatory agencies "paused" the use of the JnJ COVID-19 vaccine to

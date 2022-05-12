@@ -3,6 +3,7 @@ layout: post
 title: I guess I like Dolly Parton?!
 tags: COVID PharmaAndBiotech Politics SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 There is an apparently famous American country music singer named Dolly Parton.  I was

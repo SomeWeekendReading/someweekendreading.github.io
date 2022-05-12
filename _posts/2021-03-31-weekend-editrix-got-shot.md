@@ -3,6 +3,7 @@ layout: post
 title: Today the Weekend Editrix got shot
 tags: COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Today the Weekend Editrix got shot.  The good way: Pfizer/BioNTech PF-07302048/BNT162b2.  

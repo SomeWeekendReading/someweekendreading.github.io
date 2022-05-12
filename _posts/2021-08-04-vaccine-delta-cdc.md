@@ -3,6 +3,7 @@ layout: post
 title: Vaccine Efficacy, Delta Variant, and the CDC Changes
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Last week several bombs were dropped: COVID vaccine efficacy with the Delta variant,

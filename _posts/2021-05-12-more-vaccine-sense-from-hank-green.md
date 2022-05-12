@@ -3,6 +3,7 @@ layout: post
 title: More sense about vaccines from Hank Green
 tags: COVID NotableAndQuotable Politics TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 Hank Green once again has one or two true and useful words to say to young people about COVID-19

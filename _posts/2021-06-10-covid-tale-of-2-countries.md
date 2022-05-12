@@ -3,6 +3,7 @@ layout: post
 title: US COVID-19&colon; A Tale of Two Countries
 tags: COVID Politics
 comments: true
+commentsClosed: true
 ---
 
 As COVID-19 _gradually_ comes under control in the US, we are becoming 2 countries: one

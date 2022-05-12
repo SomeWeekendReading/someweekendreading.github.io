@@ -3,6 +3,7 @@ layout: post
 title: Well, that didn't take long
 tags: COVID Politics
 comments: true
+commentsClosed: true
 ---
 
 As we've seen before,

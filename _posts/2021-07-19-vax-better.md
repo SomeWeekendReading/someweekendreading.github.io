@@ -3,6 +3,7 @@ layout: post
 title: COVID-19 Vaccination is Better Than Natural Immunity
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Periodically I meet people who think "natural" immunity from having had COVID-19 is

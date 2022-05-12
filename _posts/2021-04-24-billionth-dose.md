@@ -3,6 +3,7 @@ layout: post
 title: The Billionth Dose
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 As of yesterday, we passed a remarkable milestone: the billionth COVID-19 vaccination dose

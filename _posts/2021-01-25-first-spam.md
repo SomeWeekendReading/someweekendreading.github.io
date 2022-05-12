@@ -3,6 +3,7 @@ layout: post
 title: Today this blog got its first spam
 tags: About CatBlogging &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Honestly, what sort of idiot tries to sell fake Viagra on an obscure, crummy little blog
