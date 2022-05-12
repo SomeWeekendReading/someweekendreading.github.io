@@ -12,7 +12,7 @@ multivalent Omicron boosters could be available in time for fall/winter 2022/202
 ## What's the Sitch?  
 
 As is apparently &ndash; and sadly &ndash; the now-ubiquitous custom, I first stumbled
-across the news because [somebody rubbed my nose in a tweet]({{ site.baseurl }}/#SomebodyAskedMe):  
+across the news because [somebody rubbed my nose in a tweet]({{ site.baseurl }}/tags#SomebodyAskedMe):  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -177,7 +177,7 @@ boosted.
 
 <a href="{{ site.baseurl }}/images/2022-05-12-moderna-q1-earnings-call-covid-1.jpg"><img src="{{ site.baseurl }}/images/2022-05-12-moderna-q1-earnings-call-covid-1-thumb.jpg" width="400" height="226" alt="Moderna Earnings Call: COVID-19 boosters in the endemic phase" title="Moderna Earnings Call: COVID-19 boosters in the endemic phase" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 They're also looking ahead hopefully, to the time when COVID-19 is endemic, rather than
-pandemic.  To their credit, they've done some thinking about just what the desireable
+pandemic.  To their credit, they've done some thinking about just what the desirable
 properties of variant-specific boosters should be.  (While I'd _prefer_ the FDA's VRBPAC
 committee to have done this, they were busy being slow or working on other things.)  
 
@@ -292,4 +292,4 @@ happens on Twitter.
 
 <a id="fn2">2</a>: C Richter (Moderna Investor Relations), ["First Quarter 2022 Financial Results"]({{ site.baseurl }}/assets/2022-05-12-moderna-2022-q1-earnings-call-moderna-slides.pdf), Moderna earnings call slides, 2022-May-04. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Go ahead and joke that I'm a screwy investor.  It's ok, I promise. I'll wait until you're done.  Maybe I'll spend my time looking at my successful portfoliio while you laugh. [↩](#fn3a)  
+<a id="fn3">3</a>: Go ahead and joke that I'm a screwy investor.  It's ok, I promise. I'll wait until you're done.  Maybe I'll spend my time looking at my successful portfolio while you laugh. [↩](#fn3a)  
