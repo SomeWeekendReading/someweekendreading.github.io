@@ -12,14 +12,14 @@ you.
 
 ## What's in my heart  
 
-<a href="{{ site.baseurl }}/images/weekend-editor-chest.jpg"><img src="{{ site.baseurl }}/images/weekend-editor-chest-thumb.jpg" width="400" height="380" alt="Weekend Editor's heart and lungs" title="Weekend Editor's heart and lungs" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-<a href="{{ site.baseurl }}/images/2022-05-13-in-your-heart-weekend-publisher.jpg"><img src="{{ site.baseurl }}/images/2022-05-13-in-your-heart-weekend-publisher-thumb.jpg" width="400" height="533" alt="Weekend Publisher: unconcerned" title="Weekend Publisher: unconcerned" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The claim that STEM types, or really just quantitative folk, are just coldly logical robots
 with no hearts is widespread.  A lot of it is just nerd-shaming that has been non-stop
 since grade school.  Some of it is just shame at their own inability to appreciate what we
 practice.  
 
-Occasionally, the better educated sort of critic (who is nonetheless bereft of critical
+<a href="{{ site.baseurl }}/images/weekend-editor-chest.jpg"><img src="{{ site.baseurl }}/images/weekend-editor-chest-thumb.jpg" width="400" height="380" alt="Weekend Editor's heart and lungs" title="Weekend Editor's heart and lungs" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-05-13-in-your-heart-weekend-publisher.jpg"><img src="{{ site.baseurl }}/images/2022-05-13-in-your-heart-weekend-publisher-thumb.jpg" width="400" height="533" alt="Weekend Publisher: unconcerned" title="Weekend Publisher: unconcerned" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+Occasionally, your better educated sort of critic (alas, nonetheless bereft of critical
 thinking skills) invokes the Romantic school of poetry.  Whereupon I can engage by asking
 their opinion of
 [Byron's _Manfred_](https://en.wikipedia.org/wiki/Manfred). <sup id="fn1a">[[1]](#fn1)</sup>
