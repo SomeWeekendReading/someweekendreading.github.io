@@ -25,7 +25,7 @@ their opinion of
 [Byron's _Manfred_](https://en.wikipedia.org/wiki/Manfred). <sup id="fn1a">[[1]](#fn1)</sup>
 (I tend to read _Manfred_ when I get deeply depressed.  If you see me doing that, gently
 distract me.)  This, of course, never helps, since they cannot fathom that I know Byron,
-Shelley, and Yeats reasonably well.  Also, Dante.  
+Shelley, and Yeats reasonably well.  (Also, minor-league fan of Dante.)  
 
 Also, an appeal to reason is no help with such creatures.  Having arrived at their
 erroneous position by a mechanism other than reason, they cannot be dislodged therefrom by
