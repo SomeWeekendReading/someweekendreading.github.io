@@ -31,7 +31,7 @@ Also, an appeal to reason is no help with such creatures.  Having arrived at the
 erroneous position by a mechanism other than reason, they cannot be dislodged therefrom by
 reason.  
 
-So I usually attempt ridicule.  
+So I occasionally attempt ridicule.  
 
 Here's what's _actually_ in my heart, much like 
 [the headshot previously requested]({{ site.baseurl }}/headshot).  (Click to embiggen.)  
