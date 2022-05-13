@@ -292,4 +292,4 @@ happens on Twitter.
 
 <a id="fn2">2</a>: C Richter (Moderna Investor Relations), ["First Quarter 2022 Financial Results"]({{ site.baseurl }}/assets/2022-05-12-moderna-2022-q1-earnings-call-moderna-slides.pdf), Moderna earnings call slides, 2022-May-04. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Go ahead and joke that I'm a screwy investor.  It's ok, I promise. I'll wait until you're done.  Maybe I'll spend my time looking at my successful portfolio while you laugh. [↩](#fn3a)  
+<a id="fn3">3</a>: Go ahead and joke that I'm a screwy investor.  It's ok, I promise. I'll wait until you're done.  Maybe I'll spend the time looking at my successful portfolio while waiting for you to finish laughing. [↩](#fn3a)  
