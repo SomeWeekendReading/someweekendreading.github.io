@@ -29,16 +29,22 @@ Also, an appeal to reason is no help with such creatures.  Having arrived at the
 erroneous position by a mechanism other than reason, they cannot be dislodged therefrom by
 reason.  
 
+<a href="{{ site.baseurl }}/images/weekend-editor-chest.jpg"><img src="{{ site.baseurl }}/images/weekend-editor-chest-thumb.jpg" width="400" height="380" alt="Weekend Editor's heart and lungs" title="Weekend Editor's heart and lungs" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-05-13-in-your-heart-weekend-publisher.jpg"><img src="{{ site.baseurl }}/images/2022-05-13-in-your-heart-weekend-publisher-thumb.jpg" width="400" height="533" alt="Weekend Publisher: unconcerned" title="Weekend Publisher: unconcerned" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So I usually attempt ridicule.  
 
-<a href="{{ site.baseurl }}/images/weekend-editor-chest.jpg"><img src="{{ site.baseurl }}/images/weekend-editor-chest-thumb.jpg" width="400" height="380" alt="Weekend Editor's heart and lungs" title="Weekend Editor's heart and lungs" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here's what's _actually_ in my heart, much like 
 [the headshot previously requested]({{ site.baseurl }}/headshot).  (Click to embiggen.)  
 
-As you can see, my heart is full of cardiac tissue, nerve tissue, vascular tissue, and
-blood.  Lest you think my opinion worthless, the radiologist opinion was:  
+As you can see, my heart is full of cardiac tissue, nerve tissue, vascular tissue, 
+blood, and miscellaneous other things (because nothing is ever allowed to be simple,
+especially biology).  
+
+Lest you deem my opinion worthless, the radiologist opinion was:  
 
 > Normal chest. The lungs are clear.  The heart size is within normal limits.  
+
+The Weekend Publisher, as you can see, is also unconcerned.  
 
 So there: _that's_ what's in my (normal-sized) heart!  
 
