@@ -34,7 +34,7 @@ reason.
 So I occasionally attempt ridicule.  
 
 Here's what's _actually_ in my heart, much like 
-[the headshot previously requested]({{ site.baseurl }}/headshot).  (Click to embiggen.)  
+[the headshot previously requested]({{ site.baseurl }}/headshot/).  (Click to embiggen.)  
 
 As you can see, my heart is full of cardiac tissue, nerve tissue, vascular tissue, 
 blood, and miscellaneous other things (because nothing is ever allowed to be simple,
