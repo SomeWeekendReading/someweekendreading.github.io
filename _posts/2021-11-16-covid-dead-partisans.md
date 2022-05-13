@@ -3,6 +3,7 @@ layout: post
 title: COVID-19 Continues to Kill Conservatives
 tags: COVID Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Charles Gaba has updated his county-level COVID-19 vax rates and death rates, versus

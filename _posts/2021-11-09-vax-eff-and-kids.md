@@ -3,6 +3,7 @@ layout: post
 title: On kids and vaccines&colon; ending the pandemic
 tags: COVID JournalClub Politics
 comments: true
+commentsClosed: true
 ---
 
 If you think we can end the pandemic without vaccinating kids because they tend not to get

@@ -3,6 +3,7 @@ layout: post
 title: When Was the Norse Settlement at L'Anse aux Meadows in Newfoundland?
 tags: JournalClub Math Physics Statistics
 comments: true
+commentsClosed: true
 ---
 
 Hey, let's think about something that's not COVID-19!  Like, for example: when _exactly_

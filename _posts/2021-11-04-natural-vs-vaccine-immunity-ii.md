@@ -3,6 +3,7 @@ layout: post
 title: Natural vs Vaccine Immunity, Redux
 tags: COVID PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Last summer, we saw some evidence that

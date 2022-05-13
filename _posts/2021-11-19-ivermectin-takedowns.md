@@ -3,6 +3,7 @@ layout: post
 title: A Couple Ivermectin Takedowns
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 The right-wing knuckleheadedness around ivermectin as a COVID-19 therapy continues to

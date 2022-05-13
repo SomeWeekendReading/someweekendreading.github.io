@@ -3,6 +3,7 @@ layout: post
 title: On New COVID-19 Therapeutics
 tags: COVID MathInTheNews PharmaAndBiotech R Statistics
 comments: true
+commentsClosed: true
 ---
 
 Vaccines are great, but now there are some exciting new treatments for COVID-19, in case

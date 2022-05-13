@@ -3,6 +3,7 @@ layout: post
 title: FDA AMDAC Considers Merck's Molnupiravir
 tags: COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today the FDA's Antimicrobial Drugs Advisory Committee (AMDAC) meets to decide whether or

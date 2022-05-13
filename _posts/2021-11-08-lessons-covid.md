@@ -3,6 +3,7 @@ layout: post
 title: Three Lessons from COVID
 tags: COVID Politics TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 COVID-19 has taught us some lessons about (a) how mind-numbingly stupid and corrupt we can
