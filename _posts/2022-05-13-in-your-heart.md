@@ -25,11 +25,11 @@ their opinion of
 [Byron's _Manfred_](https://en.wikipedia.org/wiki/Manfred). <sup id="fn1a">[[1]](#fn1)</sup>
 (I tend to read _Manfred_ when I get deeply depressed.  If you see me doing that, gently
 distract me.)  This, of course, never helps, since they cannot fathom that I know Byron,
-Shelley, and Yeats reasonably well.  (Also, minor-league fan of Dante.)  
+Shelley, and Yeats at least somewhat.  (Also, minor-league fan of Dante.)  
 
 Also, an appeal to reason is no help with such creatures.  Having arrived at their
 erroneous position by a mechanism other than reason, they cannot be dislodged therefrom by
-reason.  
+means of reason.  
 
 So I occasionally attempt ridicule.  
 
@@ -40,7 +40,7 @@ As you can see, my heart is full of cardiac tissue, nerve tissue, vascular tissu
 blood, and miscellaneous other things (because nothing is ever allowed to be simple,
 especially biology).  
 
-Lest you deem my opinion worthless, the radiologist opinion was:  
+Lest you deem my opinion worthless, the radiologist's opinion was:  
 
 > Normal chest. The lungs are clear.  The heart size is within normal limits.  
 
