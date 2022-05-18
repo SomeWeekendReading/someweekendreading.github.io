@@ -5,7 +5,7 @@ tags: COVID MathInTheNews PharmaAndBiotech Politics Sadness Statistics
 comments: true
 ---
 
-[_Tone warning:_ Angry post.]  We reached yesterday a grim milestone in the US, having at
+[_Tone warning:_ Angry post.]  We reached yesterday a grim and disgraceful milestone in the US, having at
 least 1 million COVID-19 dead.  And that's just the _official_ count.  
 
 
@@ -203,7 +203,7 @@ _no vaccines at all._ <sup id="fn7a">[[7]](#fn7)</sup>  The Eritreans at least h
 excuse of being continually in a state of near complete meltdown.  The North Koreans, on the other
 hand, have _refused_ donations of vaccines because they're continually in a state of near complete
 authoritarian insanity.  US conservative politics, with its fact-free idolatry of Trump
-and eerily similar authoritarianism, is beginning to resemble North Korean fact-free
+and his eerily similar authoritarianism, is beginning to resemble North Korean fact-free
 idolatry of Kim.  
 
 
