@@ -83,12 +83,12 @@ efficacy against mild/moderate adverse events was broadly consistent with 0%:
 ```
 
 The treatment and control groups are pretty much identical as far as mild/moderate adverse
-events go.  That's good.  
+events go.  That's good; at least evusheld doesn't make anything _worse._  
 
 Next, let's look at symptomatic COVID-19 and death rates.  
 
-At an early readout, when 30% of the patients had discovered the arm the trial to which
-they'd been assigned, they report:  
+At an early readout, when _30% of the patients had discovered the arm the trial to which
+they'd been assigned,_ they report:  
 - 8/3441 patients in the treatment group  
 - 17/1731 patients in the control group  
 
@@ -99,6 +99,9 @@ rounded to 2 significant figures:
       LCL       Eff       UCL 
 0.4649044 0.7632699 0.8952743 
 ```
+
+So I'm not worried about their efficacy as much as I'm worried how 30% of the patients
+_somehow_ discovered which arm of the _blinded_ trial in which they were enrolled!  
 
 <a href="{{ site.baseurl }}/images/2022-05-03-how-evusheld-works-nejm-2.jpg"><img src="{{ site.baseurl }}/images/2022-05-03-how-evusheld-works-nejm-2-thumb.jpg" width="400" height="206" alt="Levin, et al. @ NEJM: Kaplan-Meier curve of evusheld trial" title="Levin, et al. @ NEJM: Kaplan-Meier curve of evusheld trial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The Kaplan-Meier curve, shown here, gives impressive results in terms of the hazard
@@ -145,8 +148,8 @@ The second paper covers rather similar ground, so I won't drag you through all o
 
 <a href="{{ site.baseurl }}/images/2022-05-03-how-evusheld-works-scitranslmed-2.jpg"><img src="{{ site.baseurl }}/images/2022-05-03-how-evusheld-works-scitranslmed-2.jpg" width="400" height="260" alt="Loo, et al. @ SciTranslMed: % Neutralization vs ab concentration" title="Loo, et al. @ SciTranslMed: % Neutralization vs ab concentration" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-05-03-how-evusheld-works-scitranslmed-3.jpg"><img src="{{ site.baseurl }}/images/2022-05-03-how-evusheld-works-scitranslmed-3.jpg" width="400" height="234" alt="Loo, et al. @ Sci Transl Med: Ab half-lives" title="Loo, et al. @ Sci Transl Med: Ab half-lives" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-But there are 2 particular sub-figures I want to highlight, which tell us (a) what
-antibody levels seem to be sufficient to neutralize the virus, and (b) how long antibody
+But there are 2 particular sub-figures I want to highlight, which tell us (a) _what_
+antibody levels seem to be sufficient to neutralize the virus, and (b) _how long_ antibody
 levels can be kept above that.  These are Figures 1D and 2B in the paper, shown here.  
 1. Figure 1D tells us that the EC50 (concentration at which you get half the maximum
    effect) is 10 - 30 ng/ml, depending on which antibody you're discussing.  But by the
@@ -155,7 +158,8 @@ levels can be kept above that.  These are Figures 1D and 2B in the paper, shown 
    level.  
 2. Figure 2B tells us the lifetime of these antibodies.  It looks like the initial doses
    were around 1,000 - 10,000 &mu;g/ml, and declined to 500 - 1,000 &mu;g/ml after 2
-   months.  That is, _absolutely monstrously effective levels_ were sustained for months.  
+   months.  That is, _absolutely monstrously effective levels_ (starting at 1000x - 10,000x the 100%
+   kill dose seen above!) were sustained for months.  
    
 Now I can begin to see that it makes sense that this thing works: very high doses are
 well tolerated, and the half-life is long enough to give 6 months of immunity.  

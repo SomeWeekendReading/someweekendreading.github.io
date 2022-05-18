@@ -42,7 +42,7 @@ especially biology).
 
 Lest you deem my opinion worthless, the radiologist's opinion was:  
 
-> Normal chest. The lungs are clear.  The heart size is within normal limits.  
+> Normal chest. &hellip; The lungs are clear.  The heart size is within normal limits.  
 
 The Weekend Publisher, as you can see, is also unconcerned.  
 
