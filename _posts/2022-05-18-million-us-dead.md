@@ -34,12 +34,12 @@ _Our World in Data_ to choose which countries to include.)  Some curious facts t
 Now, you might argue that this should be scaled by population: since the US has more
 people than Japan, _of course_ there are more deaths in the US, right?  
 
-Not really.  Here's the cumulative deaths _per million_ for the same countries, from the
+Not really.  Here are the cumulative deaths _per million_ for the same countries, from the
 same source at _Our World in Data._  While you might argue it's not _quite_ as awful, 2
 brute force facts remain:  
 - The US is still the worst case.  
 - In comparison to Japan, where masking was never an issue, the US is _more than 10x worse._
-  The ability to follow public health policy is _a survival matter._  
+  Having sane public health policy and the ability to follow it is _a survival matter._  
 
 At the beginning of the pandemic, the Weekend Editrix had been contemplating a trip to
 Japan to visit family.  Had she taken that trip and gotten stuck in Japan, she'd have been
@@ -207,7 +207,7 @@ and his eerily similar authoritarianism, is beginning to resemble North Korean f
 idolatry of Kim.  
 
 
-## Some perspective  
+## Some perspectives  
 
 <img src="{{ site.baseurl }}/images/2022-05-18-million-us-dead-stat-1.jpg" width="400" height="177" alt="Parker @ STAT: 5 phases of pandemic to 1 million dead" title="Parker @ STAT: 5 phases of pandemic to 1 million dead" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2022-05-18-million-us-dead-stat-2.png"><img src="{{ site.baseurl }}/images/2022-05-18-million-us-dead-stat-2-thumb.jpg" width="400" height="426" alt="Parker @ STAT: Heatmap of mortality: time x states" title="Parker @ STAT: Heatmap of mortality: time x states" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -246,17 +246,16 @@ only in order to tempt you to read the whole piece):
     and boosted (very low death rate) populations.  
   - The dramatic, vivid, and obvious conclusion: the willfully unvaccinated are at fault
     for almost all deaths since mid-2021, when vaccines became widely available.
-    Remaining unvaccinated is volunteering to die, and bring down the rest of socieity
-    with you.  
+    Remaining unvaccinated is volunteering to die, and attempting to bring down the rest
+    of socieity with you.  
 	
 In other words: _it didn't have to be this bad, except that we were stupid._  
 
 There's a lot more in Parker's article, including a subtle point about age groups
 (COVID-19 didn't kill as many young people because young people die less frequently from
-_everything_, but _did_ become one of the leading causes
-of deaths among the young; rural areas resisted vaccination and thus had _loads_ more people
-dying as a consequence; poverty is a risk factor for _everything_; US health insurance is
-_terrible_; and so on).  
+_everything_, but it _did_ become one of the leading causes of deaths among the young;
+rural areas resisted vaccination and thus had _loads_ more people dying as a consequence;
+poverty is a risk factor for _everything_; US health insurance is _terrible_; and so on).  
 
 His conclusion (emphasis in original):  
 
@@ -286,9 +285,10 @@ vaccination is low, viral mutations will happen.  That's causing another wave in
 which will spread around the world soon.  
 
 Why?  Because the virus is evolving!  Shown here is the cladogram ("family tree", more or
-less) of the various more widespread SARS-CoV2 variants.  Time proceeds left to right.
-The root of the tree on the left is the original Wuhan strain.  The rest is mostly our
-fault for failing containment, public health, and vaccination.  
+less) of the various more widespread SARS-CoV2 variants.  (There are thousands more; these
+are the ones that got serious notice because they were widespread and threatening.)  Time
+proceeds left to right.  The root of the tree on the left is the original Wuhan strain.
+The rest is mostly our fault for failing containment, public health, and vaccination.  
 
 When you see a cladogram like this &ndash; frantically growing sideways to be very bushy,
 then all branches except one dying out &ndash; that's a sign of evolution in action.  The
