@@ -336,7 +336,7 @@ last paragraph have the last word here (with a bit of __emphasis__ from your hum
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: H Ritchie, _et al.,_ ["Coronavirus (COVID-19) Deaths"](https://ourworldindata.org/covid-deaths?country=USA~GBR~CAN~DEU~FRA~JPN), _Our World in Data_, updated 2022-05-18. [↩](#fn1a)  
+<a id="fn1">1</a>: H Ritchie, _et al.,_ ["Coronavirus (COVID-19) Deaths"](https://ourworldindata.org/covid-deaths?country=USA~GBR~CAN~DEU~FRA~JPN), _Our World in Data_, updated 2022-May-18. [↩](#fn1a)  
 
 <a id="fn2">2</a>: C Giattino, _et al.,_ ["Excess mortality during the Coronavirus pandemic (COVID-19)"](https://ourworldindata.org/excess-mortality-covid), _Our World in Data_, version of 2022-Apr-19. [↩](#fn2a)  
 
