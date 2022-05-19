@@ -25,7 +25,7 @@ government, no?).
 
 So far, so good.  But these inheritors of [_Til Eulenspiegel_](https://en.wikipedia.org/wiki/Till_Eulenspiegel) add is a web site with single-click ability to call 2 of those numbers simultaneously, and then drop out.  From the point of view of the hapless Russian bureaucrats, they called each other.  They will, in Frauenfelder's words, "waste precious government time asking each other what the hell is going on".  
 
-It's pure _schadenfreude_ (though without [the requisite pie, _apologia ad familiam Scalzi_](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)).  I'm also sure it's illegal, if only for the reason that somebody is always trying to make everything illegal.  
+It's pure _schadenfreude_ (though without [the requisite pie, _apologiae ad familiam Scalzi_](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)).  I'm also sure it's illegal, if only for the reason that somebody is always trying to make everything illegal.  
 
 But it _is_ hilarious.  
 
