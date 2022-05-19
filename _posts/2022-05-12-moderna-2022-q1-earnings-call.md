@@ -65,7 +65,7 @@ Hmpf.  We better look into that.
 ## The Moderna Earnings Call Slides  
 
 Way back
-[in 2022-Sep-02 we blogged about a Moderna earnings call]({{ site.baseurl }}/moderna-q2-earnings-call/).
+[in 2020-Sep-02 we blogged about a Moderna earnings call]({{ site.baseurl }}/moderna-q2-earnings-call/).
 Let's try that again, for the latest earnings call.  
 
 So I got hold of a copy of the Moderna slides for their 2022-Q1 earnings call, and
@@ -232,10 +232,10 @@ This seems like a small thing, but it really could be game-changing.
    ([The flu vaccine I took last fall]({{ site.baseurl }}/today-i-got-shot-a-fifth-time/#everybody-includes-me)
    was quadrivalent, i.e., hit 4 strains of influenza.)  
 3. RSV is usually not a big deal in adults, but hospitalizes infants.  The reason to
-   vaccinate adults is that they they can't infect the infants.  This would save some
+   vaccinate adults is so they they can't infect the infants.  This would save some
    number of lives of infants each year, if we could get such a multivalent vaccine
    accepted.  "Accepted" is apparently an even tougher hill to climb than "FDA approved", 
-   about which I have sighed a great deal in the last 2 years.  
+   over which all sensible people have sighed a great deal in the last 2 years.  
 
 
 ## The Weekend Conclusion  
@@ -268,7 +268,7 @@ decade or more.  Some of those targets are _hard!_
 
 Timelines: the June readout of the mRNA-1273.214 multivalent Omicron vaccine trial means
 the FDA really can't change strains and expect delivery of vaccines for fall; even flu has
-more time than that!  So Tirrell's tweet actually made sense; I guess sometimes that
+more time than that!  So Tirrell's tweet actually made sense.  I hear that sometimes
 happens on Twitter.  
 
 ---
