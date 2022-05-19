@@ -1,0 +1,52 @@
+---
+layout: post
+title: How to Waste the Russian Government's Time
+tags: CorporateLifeAndItsDiscontents Politics Sadness &Gammad;&Tau;&Phi;
+comments: true
+---
+
+I can't say I entirely approve of this.  But I _do_ understand the desire to inconvenience
+the Russian government given the Ukraine invasion, and the humor involved in the method.  
+
+
+## Fully Automated Luxury Something Something?  
+
+<img src="{{ site.baseurl }}/images/2022-05-19-wast-russian-govt-time-boing-1.jpg" width="400" height="136" alt="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" title="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+From _BoingBoing_ comes some bizarre news <sup id="fn1a">[[1]](#fn1)</sup>, even by the
+already amiably bizarre standards of _BoingBoing_.  
+
+Some wags use the amusing cognomen of "Obfuscated Dreams of Scheherezade", by which they
+apparently mean to spin amusing stories without being caught.  Fair enough.  
+
+They have (somehow) a database of thousands of phone numbers of Russian employees of the
+Duma, the Ministry of War and Economy (interesting that those 2 go together in Russia,
+no?), mid-level administrators, and high-level politicians.  
+
+So far, so good.  But what they add is a web site with single-click ability to call 2 of
+them simultaneously and then drop out.  From the point of view of the hapless Russian
+bureaucrats, they called each other.  They will, in Frauenfelder's words, "waste precious
+government time asking each what the hell is going on".  
+
+It's pure _schadenfreude_ (though without [the requisite pie, _apologia ad Scalzii_](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)).  I'm also sure it's illegal, if only for the reason that somebody is always trying to make everything illegal.  
+
+But it _is_ hilarious.  
+
+I won't link to it directly, but I will smile in their general direction.  
+
+---
+
+## Notes &amp; References  
+
+<!--
+<sup id="fn1a">[[1]](#fn1)</sup>
+
+<a id="fn1">1</a>: ***, ["***"](***), *** [↩](#fn1a)  
+
+<a href="{{ site.baseurl }}/images/***">
+  <img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+</a>
+
+<iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+-->
+
+<a id="fn1">1</a>: M Frauenfelder, ["This website lets you randomly connect two Russian bureaucrats by phone to waste their time"](https://boingboing.net/2022/05/18/this-website-lets-you-randomly-connect-two-russian-bureaucrats-by-phone-to-waste-their-timw.html), _Boing Boing_, 2022-May-18. [↩](#fn1a)  
