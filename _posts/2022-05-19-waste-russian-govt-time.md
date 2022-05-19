@@ -1,27 +1,21 @@
 ---
 layout: post
-title: How to Waste the Russian Government's Time
+title: How to Waste Russian Government Time
 tags: CorporateLifeAndItsDiscontents Politics Sadness &Gammad;&Tau;&Phi;
 comments: true
 ---
 
-I can't say I entirely approve of this.  But I _do_ understand the desire to inconvenience
-the Russian government given the Ukraine invasion, and the humor involved in the method.  
+I can't say I entirely approve of this.  But I _do_ understand the desire to inconvenience the Russian government given the Ukraine invasion, and the humor involved in the chosen method.  
 
 
-## Fully Automated Luxury Something Something?  
+## Fully Automated Luxury&hellip; Something Something?  
 
 <img src="{{ site.baseurl }}/images/2022-05-19-wast-russian-govt-time-boing-1.jpg" width="400" height="136" alt="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" title="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-From _BoingBoing_ comes some bizarre news <sup id="fn1a">[[1]](#fn1)</sup>, even by the
-already amiably bizarre standards of _BoingBoing_.  
+From _BoingBoing_ comes some bizarre news <sup id="fn1a">[[1]](#fn1)</sup>, even by the already amiably bizarre standards of _BoingBoing_.  
 
-Some wags use the amusing cognomen of "Obfuscated Dreams of Scheherezade", by which they
-apparently mean to spin amusing stories without being caught.  Fair enough.  
+Some wags use the amusing cognomen of "Obfuscated Dreams of Scheherezade", by which they apparently mean to spin amusing stories without being caught.  Fair enough.  
 
-They have (somehow!) a database of thousands of phone numbers of Russian employees of the
-Duma, mid-level administrators, high-level politicians, and the people at the Ministry of
-War and Economy (interesting that "war" and "economy" go together in the Russian
-government, no?).  So far, so good.  
+They have (somehow!) a database of thousands of phone numbers of Russian employees of the Duma, mid-level administrators, high-level politicians, and the people at the Ministry of War and Economy (interesting that "war" and "economy" go together in the Russian government, no?).  So far, so good.  
 
 But these inheritors of [_Til Eulenspiegel_](https://en.wikipedia.org/wiki/Till_Eulenspiegel) add is a web site with single-click ability to call 2 of those numbers simultaneously, and then drop out.  From the point of view of the hapless Russian bureaucrats, they called each other.  They will, in Frauenfelder's words, "waste precious government time asking each other what the hell is going on".  
 
@@ -29,7 +23,7 @@ It's pure _schadenfreude_ (though without [the requisite pie, _apologiae ad fami
 
 But it _is_ hilarious.  
 
-I won't link to it directly, but I will smile in their general direction.  
+I won't link to it directly, though I do smile in their general direction.  
 
 ---
 
@@ -47,4 +41,4 @@ I won't link to it directly, but I will smile in their general direction.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: M Frauenfelder, ["This website lets you randomly connect two Russian bureaucrats by phone to waste their time"](https://boingboing.net/2022/05/18/this-website-lets-you-randomly-connect-two-russian-bureaucrats-by-phone-to-waste-their-timw.html), _Boing Boing_, 2022-May-18. [↩](#fn1a)  
+<a id="fn1">1</a>: M Frauenfelder, ["This website lets you randomly connect two Russian bureaucrats by phone to waste their time"](https://boingboing.net/2022/05/18/this-website-lets-you-randomly-connect-two-russian-bureaucrats-by-phone-to-waste-their-timw.html), _BoingBoing_, 2022-May-18. [↩](#fn1a)  
