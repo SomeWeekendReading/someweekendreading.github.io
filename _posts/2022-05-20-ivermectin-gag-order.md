@@ -18,7 +18,7 @@ thoroughly dead, "demonstrably false", but somehow stupidly shambles along eatin
 anyway. <sup id="fn1a">[[1]](#fn1)</sup>  We've even debunked it here on this Crummy
 Little Blog That Nobody Reads (CLBTNR): [here]({{ site.baseurl }}/ivermectin-bitterman-published/),
 [here]({{ site.baseurl }}/ivermectin-revenant/), and
-[here]({{ site.baseurl }}localhost:4000/ivermectin-takedowns/).  
+[here]({{ site.baseurl }}/ivermectin-takedowns/).  
 
 But right-wingers are _still_ trying to make us pretend ivermectin and hydroxychloroquine
 are good for COVID-19, in their fascist fables of medicine.  Their latest outrage, pointed
