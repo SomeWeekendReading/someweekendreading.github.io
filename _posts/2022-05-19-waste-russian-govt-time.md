@@ -8,7 +8,7 @@ comments: true
 I can't say I entirely approve of this.  But I _do_ understand the desire to inconvenience the Russian government given the Ukraine invasion, and the humor involved in the chosen method.  
 
 
-## Fully Automated Luxury&hellip; Something Something?  
+## [Fully Automated Luxury&hellip; Something Something?](https://www.theatlantic.com/ideas/archive/2019/06/give-us-fully-automated-luxury-communism/592099/)  
 
 <img src="{{ site.baseurl }}/images/2022-05-19-wast-russian-govt-time-boing-1.jpg" width="400" height="136" alt="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" title="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 From _BoingBoing_ comes some bizarre news <sup id="fn1a">[[1]](#fn1)</sup>, even by the already amiably bizarre standards of _BoingBoing_.  
