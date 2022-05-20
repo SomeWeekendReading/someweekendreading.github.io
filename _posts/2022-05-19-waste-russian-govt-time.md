@@ -13,11 +13,11 @@ I can't say I entirely approve of this.  But I _do_ understand the desire to inc
 <img src="{{ site.baseurl }}/images/2022-05-19-wast-russian-govt-time-boing-1.jpg" width="400" height="136" alt="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" title="Frauenfelder @ BoingBoing: Fully automated Russian bureaucrat time-wasting" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 From _BoingBoing_ comes some bizarre news <sup id="fn1a">[[1]](#fn1)</sup>, even by the already amiably bizarre standards of _BoingBoing_.  
 
-Some wags use the amusing cognomen of "Obfuscated Dreams of Scheherezade", by which they apparently mean to spin amusing stories without being caught.  Fair enough.  
+Some wags use the amusing cognomen of ["Obfuscated Dreams of Scheherezade" (@ringringrussia on Twitter)](https://twitter.com/ringringrussia), by which they apparently mean to spin amusing stories without being caught.  Fair enough.  
 
 They have (somehow!) a database of thousands of phone numbers of Russian employees of the Duma, mid-level administrators, high-level politicians, and the people at the Ministry of War and Economy (interesting that "war" and "economy" go together in the Russian government, no?).  So far, so good.  
 
-But these latter-day followers of [_Till Eulenspiegel_](https://en.wikipedia.org/wiki/Till_Eulenspiegel) provide a web site with single-click ability to call 2 of those numbers simultaneously, and then drop out of the call.  From the point of view of the 2 hapless Russian bureaucrats, they have apparently called each other.  They will, in Frauenfelder's words, "waste precious government time asking each other what the hell is going on".  
+But these latter-day followers of [_Till Eulenspiegel_](https://en.wikipedia.org/wiki/Till_Eulenspiegel) provide a web site with single-click ability to call 2 of those numbers simultaneously, and then drop out of the call.  From the point of view of the 2 hapless Russian bureaucrats, they have apparently called each other.  They will then, in Frauenfelder's words, "waste precious government time asking each other what the hell is going on".  
 
 It's pure _schadenfreude_ (though without [the requisite pie, _apologiae ad familiam Scalzi_](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)).  I'm also sure it's illegal, if only for the reason that somebody is always trying to make everything illegal.  
 
