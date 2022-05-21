@@ -5,7 +5,7 @@ tags: COVID PharmaAndBiotech Politics
 comments: true
 ---
 
-Right-wing strategy: when [reality has a well-known liberal bias](https://en.wikipedia.org/?title=Reality_has_a_well_known_liberal_bias&redirect=no)&hellip; you can use legal gag orders to _force_ delusions upon people.  
+Right-wing strategy: when [reality has a well-known liberal bias](https://en.wikipedia.org/?title=Reality_has_a_well_known_liberal_bias&redirect=no)&hellip; you can use legal gag orders to _force_ your delusions upon people.  
 
 
 ## Ivermectin and Hydroxychloroquine: Zombie Ideas  
