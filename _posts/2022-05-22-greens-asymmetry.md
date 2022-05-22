@@ -46,8 +46,8 @@ Among those executed was one of the pre-eminent French scientists of the day,
 Antoine-Laurent Lavoisier on 1794-May-08.  Had he been able to hang on for a mere 3 months
 longer, Robespierre would have fallen, the Terror ended, and he could have lived.
 Lavoisier was a _big deal_ to world science of the time.  It took generations for a genius
-like Lavoisier to be born.  It took a lifetime for him to be superbly educated and make
-his many contributions.  It took seconds for a madman to order him executed.  As his
+like Lavoisier to be born, and a lifetime for him to be superbly educated to make
+his many contributions.  But it took only seconds for a madman to order him executed.  As his
 friend, the deity of French mathematics Joseph-Louis Lagrange put it:  
 
 > It took them only an instant to cut off that head, but France may not produce another
@@ -77,12 +77,12 @@ Genius builds over generations, but any fool can burn.
 <iframe width="400" height="224" src="https://www.youtube.com/embed/ct94encmT0A" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 But what is to be done?  
 
-For a momentary counterpoint, let's consult his brother Hank Green, just yesterday here
-in 2022.  While perhaps not a _direct_ response to his John's video 3 years ago, it is
-nonetheless _a propos._  
+For a momentary counterpoint, let's consult his brother Hank Green, just yesterday, here
+in 2022, the third year of the Great Pandemic.  While perhaps not a _direct_ response to
+his John's video 3 years ago, it is nonetheless _a propos._  
 
-He talks about a litter-strewn street where he lives.  People buy food at a convenience
-store and, predictably, litter.  This could be a screed about the general lack of social
+He talks about a litter-strewn street near his home.  People buy snacks at a convenience
+store and, predictably, litter.  This could have been a screed about the general lack of social
 responsibility, lack of respect for common spaces, or just general selfish stupidity.  And
 all that's there, to a degree; Hank feels appropriate anger.  
 
@@ -126,9 +126,10 @@ love for the image of Freud attempting to do good and ease pain, in a pain-fille
 > __who knew it was never enough but__  
 > __hoped to improve a little by living.__  
 
-Today we have so many dead to mourn.  We should speak of those who attempt to do good.
-Freud didn't fix the world, but tried to make it a _little_ better for each patient.  He
-tried to help them get free of their past, and be able to engage their future (emphasis added):  
+Today we have so many dead to mourn that we should speak frequently of those who attempted
+to do good.  Freud didn't fix the world, but tried to make it a _little_ better for each
+patient.  He tried to help them get free of their past, and be able to engage their future
+(emphasis added):  
 
 > He wasn't clever at all: he merely told  
 > the unhappy Present to recite the Past  
