@@ -66,7 +66,7 @@ As [Virgil](https://en.wikipedia.org/wiki/Virgil) put it in the [_Aeneid_](https
 > 
 > The descent to hell is easy;  
 > Night and day the door to black Dis is open.  
-> But to retrace the steps and escape to the air,  
+> But to retrace steps and escape into the air,  
 > That is the task, this is the hard work.  
 
 Genius builds over generations, but any fool can burn.  
