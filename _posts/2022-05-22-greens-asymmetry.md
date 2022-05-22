@@ -178,8 +178,8 @@ and affirm the truths of the Just (emphases added):
 ## The Weekend Conclusion  
 
 I'm not entirely sure how I can "show an affirming flame" as a point of light among the
-communications of the Just, in a way enough to overcome the right-wing fanatics who want
-to watch the world burn.  
+communications of the Just.  At least, not strongly enough to overcome the right-wing
+fanatics who want to watch the world burn.  
 
 But, like Hank picking up trash, I look for opportunities.  
 
