@@ -1046,8 +1046,8 @@ a difference."
 chair of the Ward Commission investigating corruption in public construction in
 Massachusetts in the 1980s, quoted in Mark L. Wolf's opinion piece, 
 ["A death foreshadowed"](http://archive.boston.com/news/globe/editorial_opinion/oped/articles/2006/07/23/a_death_foreshadowed/), 
-_Boston Globe_, Sunday July 23, 2006, p. E9.  Wolf is cheif judge of the US District
-Courts for the District of Massachusetts, and was one of the first successful prosecutors
+_Boston Globe_, Sunday July 23, 2006, p. E9.  Wolf was chief judge of the US District
+Courts for the District of Massachusetts, and one of the first successful prosecutors
 of public figures using the powers resulting from the Ward Commission's work.  
 
 "What cannot be said will be wept."
@@ -1203,8 +1203,9 @@ _Business Week_, 14-Nov-2003.
 - "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones
   too, but in a theology-dependent way.)"  
 - "[Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
-  is a shameful taste to acquire."  (__NB:__ Yeah, I know Scalzi did it.  But he did it
-  ironically, and brilliantly.  He's not what I mean here.)  
+  is a shameful taste to acquire."  (__NB:__ Yeah, I know
+  [Scalzi and family did it](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).
+  But they did it ironically, and brilliantly.  That's not what I mean here.)  
 - "Interpretation is an active choice that you _must_ make, lest the world make an
   unsavory choice for you."  
 - "Oh, I'm just braiding the tassels on the lunatic fringe."  

@@ -183,6 +183,9 @@ fanatics who want to watch the world burn.
 
 But, like Hank picking up trash, I look for opportunities.  
 
+> "Do your little bit of good where you are; it's those little bits of good put together
+> that overwhelm the world." &mdash; [Bishop Desmond Tutu](https://en.wikipedia.org/wiki/Desmond_Tutu)  
+
 ---
 
 ## Notes &amp; References  
