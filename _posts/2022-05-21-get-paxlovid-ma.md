@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sibylla Bostoniensis&colon; Getting Paxlovid in MA
-tags: COVID
+tags: COVID PharmaAndBiotech
 comments: true
 ---
 
@@ -24,8 +24,7 @@ Some of the high points:
   [accurate](https://www.someweekendreading.blog/weekend-editrix-exposed/).  
   - Practice using a test kit if you haven't done so before, and use it when you have any
     symptoms at all.  
-- Figure out how to get prescribed paxlovid, and how you're going to get to wherever to
-  get it.  
+- Figure out how to get prescribed paxlovid, and transportation to get it.  
   - Consider the [Test to Treat locator](https://covid-19-test-to-treat-locator-dhhs.hub.arcgis.com/),
     which will find the nearest place for you to go to get tested, evaluated, and
     prescribed if appropriate.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Pan-Coronavirus Vaccine Landscape
-tags: COVID BiotechAndPharma
+tags: COVID PharmaAndBiotech
 comments: true
 ---
 
