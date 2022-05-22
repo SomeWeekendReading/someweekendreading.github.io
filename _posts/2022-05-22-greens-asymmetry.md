@@ -113,7 +113,8 @@ Talmud reminds us in [_Pirkei Avot_ 2:16](https://www.sefaria.org/Pirkei_Avot.2.
 
 I couldn't help but associate this with another Auden poem, "In memory of Sigmund 
 Freud". <sup id="fn3a">[[3]](#fn3)</sup>  While I'm not a fan of Freud, I admire Auden's
-love for the image of Freud attempting to do good and ease pain, in a pain-filled world:  
+love for the image of Freud attempting to do good and ease pain, in a pain-filled world
+(emphasis added):  
 
 > When there are so many we shall have to mourn,  
 > when grief has been made so public, and exposed  
@@ -121,9 +122,9 @@ love for the image of Freud attempting to do good and ease pain, in a pain-fille
 > the frailty of our conscience and anguish,  
 >  
 > of whom shall we speak? For every day they die  
-> among us, those who were doing us some good,  
-> who knew it was never enough but  
-> hoped to improve a little by living.  
+> among us, __those who were doing us some good__,  
+> __who knew it was never enough but__  
+> __hoped to improve a little by living.__  
 
 Today we have so many dead to mourn.  We should speak of those who attempt to do good.
 Freud didn't fix the world, but tried to make it a _little_ better for each patient.  He
