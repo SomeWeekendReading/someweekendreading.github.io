@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hank &amp; John Green vs The Great Asymmetry  
+title: Hank Green, John Green, and the Great Asymmetry  
 tags: Beauty COVID Sadness
 comments: true
 ---
