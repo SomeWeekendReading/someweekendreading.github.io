@@ -5,9 +5,9 @@ tags: Beauty COVID Sadness
 comments: true
 ---
 
-Some vlogbrothers videos by Hank &amp; John Green on the despair of the times led to a WH Auden poem
-and an essay by Stephen Jay Gould on the ease of destruction vs the triviality of
-destruction.  Few can build; anybody can burn.  
+Videos by "vlogbrothers" Hank &amp; John Green on the despair of the times led to a WH
+Auden poem and an essay by Stephen Jay Gould on the ease of destruction vs the triviality
+of destruction.  And a quick stop to visit Virgil.  Few can build; anybody can burn.  
 
 
 ## Point: The Agony of Today  
