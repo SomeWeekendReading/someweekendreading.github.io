@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sibylla Bostoniensis&colon; Getting Paxlovid in MA
+title: Sibylla Bostoniensis&colon; Getting Paxlovid in Massachusetts
 tags: COVID PharmaAndBiotech
 comments: true
 ---
