@@ -66,4 +66,4 @@ This is potentially life-saving information for Mass folk.  Bookmark it.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Sidereia, ["Massachusetts: What you need to know about Test-to-Treat [COVID]"](https://siderea.dreamwidth.org/1761322.html), _Sibylla Bostoniensis_, 2022-May-21. [↩](#fn1a)  
+<a id="fn1">1</a>: Siderea, ["Massachusetts: What you need to know about Test-to-Treat [COVID]"](https://siderea.dreamwidth.org/1761322.html), _Sibylla Bostoniensis_, 2022-May-21. [↩](#fn1a)  
