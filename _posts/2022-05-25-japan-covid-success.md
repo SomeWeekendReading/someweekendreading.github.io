@@ -58,11 +58,11 @@ The lessons:
 - Study the situation carefully, so you know what's going on.  Then communicate truthful
   and useful information to citizens (e.g., transmission by aerosols, not surfaces).  
 - Communicate simply and memorably.  In Japan it was the _sanmitsu_: the 3 C's (closed
-  rooms, crowded conditions, and close contact; san means 3, and those phrases all begin
-  with "mi", so it was nicely alliterative).  _Sanmitsu_ (3密) is also a well-known phrase
+  rooms, crowded conditions, and close contact; san means 3, and those 3 phrases all begin
+  with "mi" in Japanese, so it was nicely alliterative).  _Sanmitsu_ (3密) is also a well-known phrase
   in Buddhism, referring to body/speech/mind of intelligent beings.  So it was all
   packaged properly by using a well-known phrase whose alliteration called to memory the
-  things to avoid.
+  things to avoid.  Well done!  
 - Vaccinate _quickly and thoroughly_, getting everybody, starting with the most
   vulnerable.  Then get boosters.  Check ventilation in public buildings.  
 - Have a well-funded, functional public health system.  Japan had many public health
@@ -72,12 +72,13 @@ The lessons:
 
   > People largely complied.  
 
-  They were not, as in the US, stupidly rebelling against their own interests.  
+  They were not, as in the US, stupidly rebelling against their own interests based on
+  superstition, disinformation, and inchoate rage like the American right wing.  
 
-So basically they did all the sensible things, communicated simply and truthfully, and the
-Japanese people understood &amp; mostly executed a good public health policy.  
+So basically they did all the sensible things, and communicated simply and truthfully.  The
+Japanese people understood &amp; mostly executed good public health policy.  
 
-We should go and do likewise.  
+We should go and do likewise in the future.  
 
 
 ## The Weekend Conclusion  
