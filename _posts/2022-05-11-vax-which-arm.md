@@ -48,7 +48,7 @@ Some of the high points:
 - Mice were injected in either the ipsilateral or contralateral footpad for initial and
   booster doses (those being painfully fancy-pants words meaning "same side" or "opposite
   side").  
-- Some things were pretty much the same either way, like magnitude and serum antibody
+- Some things were pretty much the same either way, like magnitude of serum antibody
   responses.  
 - But a couple things were different:  
   - Germinal centers (GCs) are places where your body responds to infection and generates
@@ -72,13 +72,14 @@ upon which we generally frown!)
 ## The Weekend Conclusion  
 
 Still, the results are pretty consistent with what we expect: it mostly doesn't matter
-until you look really closely.  So it's a nice little paper on a nice little issue.  In
-terms of actually catching COVID-19 vs not, it probably makes no difference.  
+until you look really closely.  And even then, maybe not.  So it's a nice little paper on
+a nice little issue.  In terms of actually catching COVID-19 vs not, it probably makes no
+difference.  
 
 The main thing that _does_ make a difference: get vaccinated, then get boosted.  
 
 All else is commentary, to quote 
-[Hillel in another (wonderful) context](https://en.wikipedia.org/wiki/Hillel_the_Elder).  
+[R Hillel in another (wonderful) context](https://en.wikipedia.org/wiki/Hillel_the_Elder).  
 
 ---
 
