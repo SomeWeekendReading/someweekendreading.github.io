@@ -72,7 +72,7 @@ As [Virgil](https://en.wikipedia.org/wiki/Virgil) put it in the [_Aeneid_](https
 Genius builds over generations, but any fool can burn.  
 
 
-## Counterpoint: We Are Not ENTIRELY Powerless  
+## Counterpoint: We Are Not _Entirely_ Powerless  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/ct94encmT0A" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 But what is to be done?  
