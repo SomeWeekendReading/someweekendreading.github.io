@@ -5,23 +5,24 @@ tags: Beauty COVID Sadness
 comments: true
 ---
 
-Videos by "vlogbrothers" Hank &amp; John Green on the despair of the times led to a WH
+Videos by "vlogbrothers" Hank &amp; John Green on the despair of the times led me to a WH
 Auden poem and an essay by Stephen Jay Gould on the ease of destruction vs the triviality
-of destruction.  And a quick stop to visit Virgil.  Few can build; anybody can burn.  
+of destruction.  Also, a quick stop to visit Virgil (not via _Inferno_).  Few can build;
+anybody can burn.  
 
 
 ## Point: The Agony of Today  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/-51ut7VMs48" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Way back in the before-times of 2019, John Green published a video letter to his brother
-about feeling uncertain and afraid.  Note that this was _before the pandemic_, but yet in
-a time when we could see inequality, systemic racism, and a persistent descent into
+about feeling uncertain and afraid.  Note that this was _before the pandemic_, but even in
+that time we could see the inequality, systemic racism, and persistent descent into
 fascism.  It was chilling then, and even more so now.  
 
 <img src="{{ site.baseurl }}/images/2022-05-22-greens-asymmetry-wh-auden.jpg" width="300" height="553" alt="WH Auden bio @ poets.org" title="WH Auden bio @ poets.org" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 John's title, "Uncertain and Afraid", is taken from a line in the WH Auden poem "September 1,
 1939" <sup id="fn1a">[[1]](#fn1)</sup> about the sense of foreboding at the enduring
-Depression, the prospect of fascism and the terrifying war hurtling predictably toward us:  
+Depression, the prospect of fascism, and the terrifying war hurtling predictably toward us:  
 
 > I sit in one of the dives  
 > On Fifty-second Street  
@@ -33,8 +34,8 @@ While we both agree this poem used to read like a relic of history preserved in
 amber, we both now recognize it 80+ years later as chillingly familiar and frighteningly
 applicable.  
 
-We'll get to John (and, for that matter, Hank's) resolution below.  But for the moment,
-let's just sit with the uncomfortable problem.  
+We'll get to John's (and, for that matter, Hank's) resolution below.  But for the moment,
+let's just sit with the uncomfortable feelings.  
 
 <img src="{{ site.baseurl }}/images/2022-05-22-greens-asymmetry-science-1.jpg" width="400" height="186" alt="Gould @ Science: The Great Asymmetry" title="Gould @ Science: The Great Asymmetry" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 They both reminded me of an old essay by Stephen Jay Gould, "The Great 
@@ -65,11 +66,13 @@ As [Virgil](https://en.wikipedia.org/wiki/Virgil) put it in the [_Aeneid_](https
 > hoc opus, hic labor est.  
 > 
 > The descent to hell is easy;  
-> Night and day the door to black Dis is open.  
+> Night and day the door of black Dis is open.  
 > But to retrace steps and escape into the air,  
 > That is the task, this is the hard work.  
 
 Genius builds over generations, but any fool can burn.  
+
+(Hey, that almost looks good in Latin: _Genius per saecula aedificat; quilibet ineptus urere potest._)
 
 
 ## Counterpoint: We Are Not _Entirely_ Powerless  
@@ -77,12 +80,12 @@ Genius builds over generations, but any fool can burn.
 <iframe width="400" height="224" src="https://www.youtube.com/embed/ct94encmT0A" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 But what is to be done?  
 
-For a momentary counterpoint, let's consult his brother Hank Green, just yesterday, here
-in 2022, the third year of the Great Pandemic.  While perhaps not a _direct_ response to
-his John's video 3 years ago, it is nonetheless _a propos._  
+For a momentary counterpoint, let's consult John's brother, Hank Green.  He wrote just
+yesterday, here in 2022, the third year of the Great Pandemic.  While perhaps not a
+_direct_ response to his John's video 3 years ago, it is nonetheless _&agrave; propos._  
 
 He talks about a litter-strewn street near his home.  People buy snacks at a convenience
-store and, predictably, litter.  This could have been a screed about the general lack of social
+store and, predictably, litter.  This could have been a screed about a lack of social
 responsibility, lack of respect for common spaces, or just general selfish stupidity.  And
 all that's there, to a degree; Hank feels appropriate anger.  
 
@@ -95,18 +98,20 @@ paradox:
 
 The lack, of course, is other people _picking up the trash._ If a couple people each pick
 up 2 pieces of trash a day, then their will dominates the situation and the street is
-clean after 2 weeks.  
+clean after 10 days (1 trash/day in - 4 trash/day out = -3 trash/day).  
 
 > A street with no litter is not one that never gets littered on.  It's a street where the
 > _rate_ of people dropping trash is lower than the _rate_ of people picking up trash.  
 
 So basically the person littering is only half the problem.  The other half is the rest of
-us, who _could_ clean up&hellip; but don't.  
+us, who _could_ clean up&hellip; but don't.  And it doesn't take a lot of us: just a few
+people picking up can overwhelm the few people who litter.  
 
 Real problems are, of course, more complex than picking up trash.  But we need to police
-our common space, cleaning up the messes of others _faster_ than they can generate new
-messes.  Sometimes even doing a _little_ thing helps.  You don't have to do it all, as the
-Talmud reminds us in [_Pirkei Avot_ 2:16](https://www.sefaria.org/Pirkei_Avot.2.16?ven=Mishnah_Yomit_by_Dr._Joshua_Kulp&vhe=Torat_Emet_357&lang=bi&with=all&lang2=en):
+our common space, cleaning up messes (including our own messes) _faster_ than new messes
+can be generated.  Sometimes even doing a _little_ thing helps.  You don't have to do it
+all, as the Talmud reminds us in
+[_Pirkei Avot_ 2:16](https://www.sefaria.org/Pirkei_Avot.2.16?ven=Mishnah_Yomit_by_Dr._Joshua_Kulp&vhe=Torat_Emet_357&lang=bi&with=all&lang2=en):  
 
 > It is not your duty to finish the work, but neither are you at liberty to neglect
 > it&hellip;  
