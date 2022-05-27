@@ -70,9 +70,7 @@ As [Virgil](https://en.wikipedia.org/wiki/Virgil) put it in the [_Aeneid_](https
 > But to retrace steps and escape into the air,  
 > That is the task, this is the hard work.  
 
-Genius builds over generations, but any fool can burn.  
-
-(Hey, that almost looks good in Latin: _Genius per saecula aedificat; quilibet ineptus urere potest._)
+Genius builds over generations, but any fool can burn. <sup id="fn3a">[[3]](#fn3)</sup>  
 
 
 ## Counterpoint: We Are Not _Entirely_ Powerless  
@@ -117,7 +115,7 @@ all, as the Talmud reminds us in
 > it&hellip;  
 
 I couldn't help but associate this with another Auden poem, "In memory of Sigmund 
-Freud". <sup id="fn3a">[[3]](#fn3)</sup>  While I'm not a fan of Freud, I admire Auden's
+Freud". <sup id="fn4a">[[4]](#fn4)</sup>  While I'm not a fan of Freud, I admire Auden's
 love for the image of Freud attempting to do good and ease pain, in a pain-filled world
 (emphasis added):  
 
@@ -212,4 +210,6 @@ But, like Hank picking up trash, I look for opportunities.
 
 <a id="fn2">2</a>: SJ Gould, ["The Great Asymmetry"](https://www.science.org/doi/10.1126/science.279.5352.812), _Science_ 279:5352, 812-813, 1998-Feb-06. [↩](#fn2a)  
 
-<a id="fn3">3</a>: WH Auden, ["In Memory of Sigmund Freud"](https://poets.org/poem/memory-sigmund-freud), from _Another Time_, Random House, 1940.  [↩](#fn3a)  
+<a id="fn3">3</a>: Hey, that almost looks good in Latin: _Genius per saecula aedificat; quilibet ineptus urere potest._ [↩](#fn3a)  
+
+<a id="fn4">4</a>: WH Auden, ["In Memory of Sigmund Freud"](https://poets.org/poem/memory-sigmund-freud), from _Another Time_, Random House, 1940.  [↩](#fn4a)  
