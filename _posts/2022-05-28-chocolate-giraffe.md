@@ -27,10 +27,10 @@ co-founder of [The Pastry Academy](https://thepastryacademy.com/) in Las Vegas, 
 The Bayesian posterior probability of silliness is of course much larger than the prior,
 given you know it's Las Vegas, right?  
 
-Now, I love _trompe l'&oelig;il_ food nonsense as well as the next
-guy.  <sup id="fn3a">[[3]](#fn3)</sup> But this 8.3ft (2.53m) tall chocolate giraffe is
-some next-level stuff.  Unlike nearly all of Instagram, the video is actually worth a
-quick watch if only to appreciate the excellence of his art.  
+Now, I love [_trompe l'&oelig;il_](https://en.wikipedia.org/wiki/Trompe-l%27%C5%93il) food
+nonsense as well as the next guy.  <sup id="fn3a">[[3]](#fn3)</sup> But this 8.3ft (2.53m)
+tall chocolate giraffe is some next-level stuff.  Unlike nearly all of Instagram, the
+video is actually worth a quick watch if only to appreciate the excellence of his art.  
 
 For me, it's a lot like watching the Olympics: while I am possibly the least
 sports-interested male in North America, the Olympics are interesting to watch people
@@ -58,9 +58,9 @@ attempt perfection.  <sup id="fn4a">[[4]](#fn4)</sup>
 
 <a id="fn3">3</a>: Ok, maybe a _little_ more.  But I'll hide that admission down here in the footnotes to guarantee not a soule will read it. [↩](#fn3a)  
 
-<a id="fn4">4</a>: The dark side of me thinks there's gotta be a Trojan horse version of
-this. They wheel in the chocolate giraffe, and during the applause Odysseus breaks out and
+<a id="fn4">4</a>: The dark side of me thinks there has to be a Trojan horse version of
+this. They wheel in the chocolate giraffe, but during the applause Odysseus breaks out and
 murders everyone with automatic weapons and high-capacity magazines.  
 
-Something in the news about that, except sadder in real life.  And enraging that
-Republicans make sure it _keeps happening._  [↩](#fn4a)  
+Something in the news about that. Except sadder in real life.  And enraging that
+Republicans make sure it _keeps happening._  Welcome to minority rule.  [↩](#fn4a)  
