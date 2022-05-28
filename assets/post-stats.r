@@ -236,6 +236,47 @@ postStats <- function(## Inputs
         hist(x = postData[, colName], col = "blue", breaks = histBreaks,
              xlab = colName, ylab = sprintf("Freq(%s)", colName),
              main = sprintf("%s Distribution", colName))
+
+      ## *** Estimate mean, plot resultant Poisson distribution on top of hist/barplot?
+      ## *** Account for binning in histogram vs barplot
+      ## *** Not really a good fit!
+      ##     Try lognormal? (Do normality test on log values first.)
+      ##     Try Gamma?
+      ##
+      ##     library("fitdistplus")
+      ##
+      ##     fitHits <- fitdist(data = postData[, "PostHits"], distr = "gamma", method = "mle")
+      ##     summary(fitHits); plot(fitHits)
+      ##     shapeHits <- coef(fitHits)[["shape"]]
+      ##     rateHits  <- coef(fitHits)[["rate"]]
+      ##
+      ##     *** mle does not converge; mme does; qme wants another arg; mge does not; mse does
+      ##         but mme and mse converge to very different values!
+      ##         And both converge badly:
+      ##         Loglikelihood:  -Inf   AIC:  Inf   BIC:  Inf
+      ##
+      ##     fitComm <- fitdist(data = postData[, "PostComments"], distr = "gamma", method = "mle")
+      ##     summary(fitComm)
+      ##     shapeComm <- fitComm$"estimate"[["shape"]]
+      ##     rateComm  <- fitComm$"estimate"[["rate"]]
+      tryCatch({
+#        colNameMean <- mean(postData[, colName])
+#        colNameSum  <- sum(postData[, colName])
+#        foo         <- data.frame("X" = postData[, colName],
+#                                  "Y" =  colNameSum * dpois(postData[, colName], lambda = colNameMean))
+#        foo         <- foo[order(foo$"X"), ]
+
+        fit <- fitdist(data = postData[, colName], distr = "gamma", method = "mle")
+        shapeHits  <- coef(fitHits)[["shape"]]
+        rateHits   <- coef(fitHits)[["rate"]]
+        colNamesum <- sum(postData[, colName])
+        foo        <- data.frame("X" = postData[, colName],
+                                 ## *** Figure out binning in histogram
+                                 "Y" = colNameSum * dgamma(postData[, colName], shape, rate))
+        foo        <- foo[order(foo$"X"), ]
+        lines(x = foo$"X", y = foo$"Y", lty = "solid", lwd = 2, col = "black")
+      }, error = function(e) { e })
+
     }                                                  #
 
     f <- if (is.null(plotFile)) NULL else file.path(destDir, plotFile)

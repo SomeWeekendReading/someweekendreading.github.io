@@ -8,7 +8,7 @@ comments: true
 What sort of progress is being made on pancoronavirus vaccines?  
 
 
-## Well, a LITTLE bit of progress, anyway?  
+## Well, a _little_ bit of progress, anyway?  
 
 We've written about efforts for a pan-coronavirus vaccine here a couple times before
 ([here](https://www.someweekendreading.blog/covid-misc/#research-on-a-pan-coronavirus-vaccine),
