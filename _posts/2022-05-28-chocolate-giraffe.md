@@ -62,7 +62,7 @@ attempt perfection.  <sup id="fn4a">[[4]](#fn4)</sup>
 
 <a id="fn2">2</a>: D Nealy, ["Check out this edible giraffe"](https://boingboing.net/2022/05/24/check-out-this-edible-giraffe.html), _BoingBoing_, 2022-May-24. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Ok, maybe a _little_ more.  But I'll hide that admission down here in the footnotes to guarantee not a soule will read it. [↩](#fn3a)  
+<a id="fn3">3</a>: Ok, maybe a _little_ more.  But I'll hide that admission down here in the footnotes to guarantee not a single soul will read it. [↩](#fn3a)  
 
 <a id="fn4">4</a>: The dark side of me thinks there has to be a Trojan horse version of
 this. They wheel in the chocolate giraffe, but during the applause Odysseus breaks out and
