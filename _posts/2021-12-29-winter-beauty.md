@@ -3,6 +3,7 @@ layout: post
 title: In Celebration of Mid-Winter Beauty
 tags: Beauty CatBlogging TheDivineMadness  &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Winter is just objectively the best time of year.  Do not attempt to correct me on this matter.  

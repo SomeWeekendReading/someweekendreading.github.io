@@ -3,6 +3,7 @@ layout: post
 title: Some Advice from 'Your Local Epidemiologist'
 tags: COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 YLE has some important advice for all of us about surviving Omicron.  

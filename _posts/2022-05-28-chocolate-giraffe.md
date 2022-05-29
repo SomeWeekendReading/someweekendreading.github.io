@@ -10,7 +10,9 @@ Have you ever eaten a giraffe?
 
 ## Of course not!  
 
-"[Never ever in my life have I](https://ell.stackexchange.com/questions/89344/never-in-my-life-did-i-vs-never-in-my-life-had-i) eaten a giraffe!", you may well protest.  Nor have I, despite my non-vegetarian ways.  But would it change your mind if the giraffe were to be made of chocolate?  
+"[Never ever in my life have I](https://ell.stackexchange.com/questions/89344/never-in-my-life-did-i-vs-never-in-my-life-had-i) eaten a giraffe!", you may well protest.  Nor have I, despite my non-vegetarian ways.  
+
+But would it change your mind if the giraffe were to be made of chocolate?  
 
 Thought so.  
 
@@ -29,8 +31,12 @@ given you know it's Las Vegas, right?
 
 Now, I love [_trompe l'&oelig;il_](https://en.wikipedia.org/wiki/Trompe-l%27%C5%93il) food
 nonsense as well as the next guy.  <sup id="fn3a">[[3]](#fn3)</sup> But this 8.3ft (2.53m)
-tall chocolate giraffe is some next-level stuff.  Unlike nearly all of Instagram, the
-video is actually worth a quick watch if only to appreciate the excellence of his art.  
+tall chocolate giraffe is some next-level stuff.  For one thing, "life-sized chocolate
+giraffe" is another of those phrases I never thought would be useful in actual practice.
+Yet, here we are.  
+
+Unlike nearly all of Instagram, the video is actually worth a quick watch if only to
+appreciate the excellence of his art.   
 
 For me, it's a lot like watching the Olympics: while I am possibly the least
 sports-interested male in North America, the Olympics are interesting to watch people

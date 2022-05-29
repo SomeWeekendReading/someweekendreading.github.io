@@ -3,6 +3,7 @@ layout: post
 title: Today the Webb Space Telescope Launched
 tags: Physics
 comments: true
+commentsClosed: true
 ---
 
 Today the Webb Space Telescope launched successfully.  Happy Christmas.  

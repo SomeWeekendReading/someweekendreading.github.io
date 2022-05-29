@@ -3,6 +3,7 @@ layout: post
 title: FDA Grants EUA to AstraZeneca's Evusheld for COVID-19 Prevention
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: true
 ---
 
 Guess what?  Yesterday, the FDA gave Emergency Use Authorization to another COVID-19 medication,

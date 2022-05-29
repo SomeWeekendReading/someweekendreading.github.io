@@ -3,6 +3,7 @@ layout: post
 title: Avoding Vaccination With More Creativity Than Common Sense
 tags: COVID Politics &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Remember last month, when we had the story about [people in Greece bribing doctors for fake vaccines, and doctors taking the money but giving real vaccines](https://www.someweekendreading.blog/lessons-covid/#lesson-2-vaccines-in-greece-and-how-doctors-respond)?  Even though that story has some believability challenges, it's no longer the weirdest vaccine story I've heard.  Move over, Greece: the Italians are on the job.  (And where _are_ the French surrealists, anyway?)  

@@ -3,6 +3,7 @@ layout: post
 title: Mea Culpa&colon; Efficacies Don't Average!
 tags: COVID Math MathInTheNews MeaCulpa PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 A couple days ago, commenting at

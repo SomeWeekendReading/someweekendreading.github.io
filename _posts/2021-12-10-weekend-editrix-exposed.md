@@ -3,6 +3,7 @@ layout: post
 title: The Weekend Editrix Exposed to COVID-19&colon; An Adventure with Bayes Rule in Medical Testing
 tags: COVID PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Last weekend, the Weekend Editrix was exposed to a person who tested positive for

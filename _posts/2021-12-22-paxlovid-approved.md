@@ -3,6 +3,7 @@ layout: post
 title: FDA Authorizes Paxlovid
 tags: COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 &hellip; aaaaand, today [the suspense is over](https://www.someweekendreading.blog/veni-veni-paxlovid/#addendum-2021-dec-21-rumor-has-fda-approval-this-week): the FDA has authorized paxlovid.  

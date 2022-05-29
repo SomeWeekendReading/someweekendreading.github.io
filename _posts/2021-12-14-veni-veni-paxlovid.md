@@ -3,6 +3,7 @@ layout: post
 title: Veni, veni paxlovid!
 tags: COVID MathInTheNews PharmaAndBiotech R Statistics
 comments: true
+commentsClosed: true
 ---
 
 Today Pfizer announced they've submitted the final data package to the FDA for their

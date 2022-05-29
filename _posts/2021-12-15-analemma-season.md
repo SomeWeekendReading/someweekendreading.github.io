@@ -3,6 +3,7 @@ layout: post
 title: Tis the Season&hellip; of the Analemma
 tags: Beauty Math Obscurantism Physics R TheDivineMadness
 comments: true
+commentsClosed: true
 ---
 
 It's that season again: the time of nerdly meditations on the analemma.  The shortest day
