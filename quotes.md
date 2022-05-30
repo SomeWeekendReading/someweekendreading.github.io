@@ -731,6 +731,7 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "However beautiful the strategy, you should occasionally look at the results." &mdash; attributed to [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)  
 
+"Laziness in doing stupid things can be a great virtue." &mdash; [James Hilton](https://en.wikipedia.org/wiki/James_Hilton_(novelist)), [_Lost Horizon_](https://en.wikipedia.org/wiki/Lost_Horizon), 1933.  
 
 ## The Statistical Ones  
 
