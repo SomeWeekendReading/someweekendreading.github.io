@@ -18,7 +18,7 @@ finally put a few more meetings on its calendar <sup id="fn1a">[[1]](#fn1)</sup>
 - _2022-Jun-28:_ [Discussion of modification of strains of SARS-CoV2 for vaccines going forward.](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-28-2022-meeting-announcement) Again, I sort of don't see the point: as Moderna pointed out ([and we blogged previously]({{ site.baseurl }}/moderna-2022-q1-earnings-call/), if they make any changes at all from what's in clinical trials now (classic + Omicron), there will be no time to manufacture the modified vaccine for winter.  Still, perhaps the science will be revealing.  
 
 So, progress.  Albeit slowly, and not exactly compatibly with manufacturing lead times for
-winter.  But at least it's progress.
+winter.  But at least it's progress.  
 
 ---
 
