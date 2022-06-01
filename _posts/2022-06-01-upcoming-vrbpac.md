@@ -11,7 +11,7 @@ Three meetings of the FDA's VRBPAC advisors on vaccines are coming up this month
 ## Upcoming meetings  
 
 The US FDA's Vaccines and Related Biological Products Advisory Committee (VRBPAC) has
-finally put a few more meetings on its calendar:  
+finally put a few more meetings on its calendar <sup id="fn1a">[[1]](#fn1)</sup>:  
 - _2022-Jun-07:_ [Discussion of Emergency Use Authorization (EUA) for the Novavax vaccine.](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-7-2022-meeting-announcement) I'm not quite sure what difference that will make at this point, but ok.  
 - _2022-Jun-14 &amp; 15:_ [Discussion to modify the Moderna EUA for 6-17 year olds, and
   the next day to consider 6 months to 5 years old](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-14-15-2022-meeting-announcement).  Many parents will be quite relieved!  
