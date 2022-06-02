@@ -6,8 +6,8 @@ comments: true
 ---
 
 An Israeli group has studied the use of paxlovid to treat COVID in a large group of
-age-stratified patients.  The results were interesting, and a bit different from what I'd
-expected.  
+age-stratified patients vs the SAR-CoV2 Omicron variant.  The results are interesting,
+and a bit different from what I'd expected.  
 
 
 ## Paxlovid in actual practice  
@@ -126,4 +126,4 @@ younger people?
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: R Arbel, _et al.,_ ["Oral Nirmatrelvir and Severe Covid-19 Outcomes During the Omicron Surge"](***), *** [↩](#fn1a)  
+<a id="fn1">1</a>: R Arbel, _et al.,_ ["Oral Nirmatrelvir and Severe Covid-19 Outcomes During the Omicron Surge"](https://www.researchsquare.com/article/rs-1705061/v1), _Research Square_ preprint, 2022-Jun-01.  DOI: [10.21203/rs.3.rs-1705061/v1](https://doi.org/10.21203/rs.3.rs-1705061/v1).  [↩](#fn1a)  
