@@ -17,7 +17,7 @@ We've spilled a lot of ink on this crummy little blog that nobody reads about th
 But as with many things in life, lab and trial results sometimes do not reflect the
 results you'd get in actual combat use.  For example, paxlovid was tested only on
 unvaccinated people; does it work as well on the vaccinated?  It was tested on older viral
-variants; how does it work with Delta (and, ideally, Omicron)? So it's always interesting
+variants; how does it work with Omicron? So it's always interesting
 to know if actual patients see the benefits we thought.   
 
 A study doing exactly that was first brought to our attention by the indispensable Eric
