@@ -13,7 +13,7 @@ and a bit different from what I'd expected.
 ## Paxlovid in actual practice  
 
 We've spilled a lot of ink on this crummy little blog that nobody reads about the
-[discovery and clinical trial results of paxlovid]({{ site.baseurl }}/veni-veni-paxlovid).
+[discovery and clinical trial results of paxlovid]({{ site.baseurl }}/veni-veni-paxlovid/).
 But as with many things in life, lab and trial results sometimes do not reflect the
 results you'd get in actual combat use.  For example, paxlovid was tested only on
 unvaccinated people; does it work as well on the vaccinated?  It was tested on older viral
