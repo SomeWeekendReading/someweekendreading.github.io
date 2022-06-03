@@ -151,7 +151,7 @@ results.
 
 Another _medR&chi;iv_ preprint landed last week, with a survey of New York City that
 attempts to answer this question. <sup id="fn4a">[[4]](#fn4)</sup>  Basically, they
-surveyed $N = 1,030$ NYC residents of age over 18 years, by either smartphone or
+surveyed $N = 1030$ NYC residents of age over 18 years, by either smartphone or
 interactive land-line phone calls.  I won't go into the details, but they were careful to
 create a _reasonably_ representative sample broken down by age, ethnicity, race, language
 spoken, borough of residence, and all the usual things.  
