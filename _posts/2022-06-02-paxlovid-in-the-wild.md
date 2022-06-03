@@ -64,7 +64,8 @@ each group got paxlovid, while the rest did not.
 I took the numbers from their abstract and formatted them in the table shown here.  
 - The group sizes all add up properly to the total number of patients, so no issue there.
   (Though I _did_ have to infer the number in each group not getting paxlovid by
-  subtraction.)  
+  subtraction.  Given censoring effects, this isn't _quite_ right, but the more subtle Cox
+  proportional hazards analysis they did is in fact the right thing.)  
 - Pretty clearly there's a dramatic benefit for those over 65: 3x less hospitalization %
   and 4x less death %.  
 - Also pretty clearly, there's _no_ such benefit for the 40-64 crowd: hospitalizations and
