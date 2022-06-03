@@ -83,10 +83,10 @@ Let's examine some of the quantitative results from the paper:
   vaccinated arm.  I checked using a statistical test called Fisher's Exact Test, and yes
   this is statistically significant (not likely to be a fluke).  However, all it means is
   that __the immune systems of unvaccinated people struggled harder to clear the infection,
-  making antibodies even relatively useless ones like nucleocapsid antibodies.__   (Recall
+  making antibodies &ndash; even relatively useless ones like nucleocapsid antibodies.__   (Recall
   the nucleocapsid protein is inside the viral envelope, hence more or less useless to
   your immune system until the virus is actually inside a cell.  The spike protein is
-  outside the viral envelope, so your immune system can stop the virus before it gets in.)  
+  outside the viral envelope, so your immune system can stop the virus _before_ it gets in.)  
 
 <a href="{{ site.baseurl }}/images/2022-05-18-million-us-dead-stat-3.jpg"><img src="{{ site.baseurl }}/images/2022-05-18-million-us-dead-stat-3-thumb.jpg" width="400" height="237" alt="Parker @ STAT: Vaccinated vs unvaccinated death rates, once vaccines were available" title="Parker @ STAT: Vaccinated vs unvaccinated death rates, once vaccines were available" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Vaccines do not lower your immunity.  They are designed to do the opposite, and they do a
