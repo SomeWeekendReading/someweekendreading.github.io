@@ -162,10 +162,9 @@ came down to verifying answers to a couple questions:
 - Do you know about paxlovid therapy for COVID-19?  
 
 Some topline results:  
-- 22.1% (CL: 17.9% - 26.2%) have had COVID in the last 2 weeks, or about 1.5 million
-  adults.  
+- 22.1% (CL: 17.9% - 26.2%) had COVID in the last 2 weeks, about 1.5 million adults.  
 - 55.9% (CL: 44.9% - 67.0%) were unaware of paxlovid, so they could not ask for it.  
-- Only 15.1% (CL: 7.1% - 23.1%) received paxlovid.  
+- 15.1% (CL: 7.1% - 23.1%) received paxlovid, a small fraction of the obvious need.  
 
 <a href="{{ site.baseurl }}/images/2022-06-03-covid-immunity-prevalence-medrxiv-3.jpg"><img src="{{ site.baseurl }}/images/2022-06-03-covid-immunity-prevalence-medrxiv-3-thumb.jpg" width="400" height="211" alt="Qasmieh, et al. @ medRxiv: Family size and presence of children as risk factors" title="Qasmieh, et al. @ medRxiv: Family size and presence of children as risk factors" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Interestingly, they call out 2 particular risk factors in Figure 1, shown here: living in
