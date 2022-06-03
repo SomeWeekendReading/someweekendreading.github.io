@@ -180,13 +180,13 @@ surprisingly, didn't seem to matter much, nor did which borough of residence in 
 ## The Weekend Conclusion  
 
 1. Anti-nucleocapsid antibodies are for a public health assay measuring population
-   infection rates.  They are meaningless about vaccinate and disease resistance.  You
+   infection rates.  They are meaningless about vaccination and disease resistance.  You
    should still get vaccinated.  
 2. Immunity from Omicron infection is pretty weak, and will not protect you from other
-   variants.  You should still get vaccinated.  
+   variants much at all.  You should still get vaccinated.  
 3. A lot more people have COVID-19 than we think, and about half don't know there is an
-   effective therapy which is being given out _very_ reluctantly anyway.  You should still
-   get vaccinated.  
+   effective therapy, which is being given out _very_ reluctantly anyway.  You don't want
+   to need paxlovid but not be able to get it.  You should still get vaccinated.  
    
 Did I mention you should still get vaccinated?  
 
