@@ -13,7 +13,7 @@ data to think about here, though we can't _completely_ answer those questions.
 ## Anti-nucleocapsid antibodies and vaccination  
 
 <img src="{{ site.baseurl }}/images/2022-06-03-covid-immunity-prevalence-medrxiv-1.jpg" width="400" height="219" alt="Follmann, et al. @ medrXiv: Anti-nucleocapsid antibodies in the vaccinated and unvaccinated" title="Follmann, et al. @ medrXiv: Anti-nucleocapsid antibodies in the vaccinated and unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-[Somebody asked me]({{ site.baseurl }}//tags#SomebodyAskedMe), indirectly via a friend,
+[Somebody asked me]({{ site.baseurl }}/tags#SomebodyAskedMe), indirectly via a friend,
 about a recent _medR&chi;iv_ preprint on anti-nucleocapsid antiobodies in vaccinated
 versus unvaccinated people. <sup id="fn1a">[[1]](#fn1)</sup>  A little
 r&eacute;cherch&eacute;, I thought, but it turned out the friend-of-a-friend's _real_
@@ -92,7 +92,7 @@ Let's examine some of the quantitative results from the paper:
 Vaccines do not lower your immunity.  They are designed to do the opposite, and they do a
 very good job of it.  Consider the death rate in the US in the most recent wave,
 stratified by vaccination status.  The plot shown here, from _STAT News_, is the one we
-used in [a blog post on the day the US crossed 1 million official deaths]({{ site.baseurl }}/million-us-dead).
+used in [a blog post on the day the US crossed 1 million official deaths]({{ site.baseurl }}/million-us-dead/).
 It shows _very clearly_ that very few of the deaths were among the vaccinated, and even
 fewer among the boosted.  This a stage of the pandemic in which _the unvaccinated are
 responsible for substantially all the deaths._  Remaining unvaccinated is volunteering to
@@ -207,7 +207,7 @@ Did I mention you should still get vaccinated?
 
 <a id="fn1">1</a>: D Follmann, _et al.,_ ["Anti-nucleocapsid antibodies following SARS-CoV-2 infection in the blinded phase of the mRNA-1273 Covid-19 vaccine efficacy clinical trial"](https://www.medrxiv.org/content/10.1101/2022.04.18.22271936v1), _medR&chi;iv_ preprint, 2022-Apr-19.  DOI: [10.1101/2022.04.18.22271936](https://doi.org/10.1101/2022.04.18.22271936). [↩](#fn1a)  
 
-<a id="fn2">2</a>: GenEngNews Staff, ["Omicron Infections, Without Vaccinations, Provide Little Immunity"](https://www.genengnews.com/news/omicron-infections-without-vaccinations-provide-little-immunity/#:~:text=New%20research%20shows%20that%20infection,only%20a%20weak%20immune%20response.), _Genetic Engineering &amp; Biotechnology News_, 2022-May-19. [↩](#fn2a)  
+<a id="fn2">2</a>: GenEngNews Staff, ["Omicron Infections, Without Vaccinations, Provide Little Immunity"](https://www.genengnews.com/news/omicron-infections-without-vaccinations-provide-little-immunity/), _Genetic Engineering &amp; Biotechnology News_, 2022-May-19. [↩](#fn2a)  
 
 <a id="fn3">3</a>: RK Suryawanshi, _et al.,_ ["Limited cross-variant immunity from SARS-CoV-2 Omicron without vaccination"](https://www.nature.com/articles/s41586-022-04865-0), _Nature_, 2022-May-18. DOI: [10.1038/s41586-022-04865-0](https://doi.org/10.1038/s41586-022-04865-0). [↩](#fn3a)  
 
