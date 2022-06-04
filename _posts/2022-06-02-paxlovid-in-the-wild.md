@@ -6,7 +6,7 @@ comments: true
 ---
 
 An Israeli group has studied the use of paxlovid to treat COVID in a large group of
-age-stratified patients vs the SAR-CoV2 Omicron variant.  The results are interesting,
+age-stratified patients vs the SARS-CoV2 Omicron variant.  The results are interesting,
 and a bit different from what I'd expected.  
 
 
