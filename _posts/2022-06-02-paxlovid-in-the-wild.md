@@ -59,7 +59,7 @@ use of "omicron" in their title.)
 
 <a href="{{ site.baseurl }}/images/2022-06-02-paxlovid-in-the-wild-israeli-3.jpg"><img src="{{ site.baseurl }}/images/2022-06-02-paxlovid-in-the-wild-israeli-3-thumb.jpg" width="400" height="104" alt="Arbel, et al.: Topline results of paxlovid study in Israel" title="Arbel, et al.: Topline results of paxlovid study in Israel" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Their abstract mentions 109,213 participants, which they stratified into 2 eligible
-populations of 42,819 age 65 or above, and 66,394 patients ages 40-64.  Then some in
+populations: 42,819 age 65 or above, and 66,394 patients ages 40-64.  Then some in
 each group got paxlovid, while the rest did not.  
 
 I took the numbers from their abstract and formatted them in the table shown here.  
