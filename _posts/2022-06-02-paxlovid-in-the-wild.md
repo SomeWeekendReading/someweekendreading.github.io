@@ -38,8 +38,8 @@ Topol:
 
 <img src="{{ site.baseurl }}/images/2022-06-02-paxlovid-in-the-wild-israeli-1.jpg" width="400" height="361" alt="Arbel, et al.: Paxlovid results in Israel" title="Arbel, et al.: Paxlovid results in Israel" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It's from an Israeli group associated with Clalit Health Services and Ben-Gurion
-university have done that study <sup id="fn1a">[[1]](#fn1)</sup>, now available as a
-pre-print pending peer review.  They have _actual_ universal health care with compatible
+University who did the study <sup id="fn1a">[[1]](#fn1)</sup>, now available as a
+pre-print pending peer review.  Israel has _actual_ universal health care with compatible
 EMR systems, so they can do research that here in the benighted US we simply cannot do.  
 
 Let's see what it says!  
