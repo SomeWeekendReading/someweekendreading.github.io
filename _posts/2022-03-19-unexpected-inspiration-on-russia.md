@@ -3,6 +3,7 @@ layout: post
 title: Some Unexpected Inspiration on Russia &amp; Ukraine
 tags: Beauty NotableAndQuotable Politics Sadness
 comments: true
+commentsClosed: true
 ---
 
 Today I came across an unexpected source of encouragement in the matter of Russia and

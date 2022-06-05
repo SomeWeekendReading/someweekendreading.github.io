@@ -3,6 +3,7 @@ layout: post
 title: US Republicans Against Interracial Marriage?!
 tags:  Politics Religion Sadness
 comments: true
+commentsClosed: true
 ---
 
 A Republican US Senator says he would allow states to ban interracial marriage.  _What?!_  

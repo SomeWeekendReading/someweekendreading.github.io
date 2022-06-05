@@ -3,6 +3,7 @@ layout: post
 title: Ukraine &amp; Russia&colon; A Lack of Thoughts
 tags:  MeaCulpa Sadness SomebodyAskedMe Politics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why I haven't said anything

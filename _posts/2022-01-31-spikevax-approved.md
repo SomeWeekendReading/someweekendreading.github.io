@@ -3,6 +3,7 @@ layout: post
 title: Moderna COVID-19 vaccine fully FDA-approved
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 Good news: the Moderna COVID-19 vaccine, aka 'Spikevax', is now fully FDA-approved!  

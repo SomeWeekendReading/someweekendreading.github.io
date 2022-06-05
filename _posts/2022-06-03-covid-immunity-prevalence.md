@@ -185,7 +185,8 @@ surprisingly, didn't seem to matter much, nor did which borough of residence in 
    variants much at all.  You should still get vaccinated.  
 3. A lot more people have COVID-19 than we think, and about half don't know there is an
    effective therapy, which is being given out _very_ reluctantly anyway.  You don't want
-   to need paxlovid but not be able to get it.  You should still get vaccinated.  
+   to be in a situation where you need paxlovid, but are unable to get it.  You should
+   still get vaccinated.  
    
 Did I mention you should still get vaccinated?  
 

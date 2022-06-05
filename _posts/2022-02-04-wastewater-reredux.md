@@ -3,6 +3,7 @@ layout: post
 title: Boston Wastewater Re-Re-Visited&colon; Sewage Viral RNA vs COVID-19 Cases and Deaths
 tags: COVID MathInTheNews R Statistics
 comments: true
+commentsClosed: true
 ---
 
 In [2020-November](https://www.someweekendreading.blog/wastewater-corona-virus-rna-vs-medical-loads/) and [2021-May](https://www.someweekendreading.blog/wastewater-redux/), we looked at the SARS-CoV2 mRNA in Boston wastewater.  It's relation to medical loads was erratic.  How's it look with another 9 months of data?  

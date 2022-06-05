@@ -3,6 +3,7 @@ layout: post
 title: On the Moderna Monkey Trial of Omicron-Specific Boosters
 tags: COVID MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about a report that

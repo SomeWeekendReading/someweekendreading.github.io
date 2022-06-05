@@ -3,6 +3,7 @@ layout: post
 title: Boston First Night&colon; Best Ice Sculpture
 tags: Beauty &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Against best pandemic advice, [First Night](https://www.firstnightboston.org/) happened

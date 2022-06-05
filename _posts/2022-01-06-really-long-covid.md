@@ -3,6 +3,7 @@ layout: post
 title: Reeeeeeally long COVID!
 tags: COVID JournalClub Statistics PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 How long can COVID-19 go on?  If you answered less than $O(10^4)$ years until everyone

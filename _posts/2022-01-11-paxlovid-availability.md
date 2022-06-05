@@ -3,6 +3,7 @@ layout: post
 title: Finding paxlovid
 tags: CatBlogging COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Paxlovid is a remarkable early therapeutic for people who've caught COVID-19.  But&hellip;

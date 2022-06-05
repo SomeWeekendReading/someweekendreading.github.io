@@ -3,6 +3,7 @@ layout: post
 title: FDA VRBPAC To Consider Pfizer COVID-19 Vaccine for Kids 6mo - 4yr
 tags: COVID PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 On Monday 2022-Feb-15 the FDA's VRBPAC will meet to consider Pfizer's COVID-19 vaccine for

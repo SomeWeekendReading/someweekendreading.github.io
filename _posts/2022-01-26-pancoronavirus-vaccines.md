@@ -3,6 +3,7 @@ layout: post
 title: Pan-Coronavirus Vaccines
 tags: CatBlogging COVID PharmaAndBiotech Statistics
 comments: true
+commentsClosed: true
 ---
 
 Last October, [we noted that NIAID had granted \$36 million for the development of a pan-coronavirus vaccine]({{ site.baseurl }}/covid-misc/#research-on-a-pan-coronavirus-vaccine).  Time for an report: how's that working out?  

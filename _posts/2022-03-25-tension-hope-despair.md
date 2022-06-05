@@ -3,6 +3,7 @@ layout: post
 title: On the Tension Between Hope and Despair
 tags:  COVID PharmaAndBiotech Politics Sadness
 comments: true
+commentsClosed: true
 ---
 
 I feel I'm walking a knife-edge between hope and despair.  The news is not helping.  

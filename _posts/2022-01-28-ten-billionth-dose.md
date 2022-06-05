@@ -3,6 +3,7 @@ layout: post
 title: The Ten Billionth Dose
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 There have now been around _10 billion_ COVID-19 vaccine doses given.  What should we make

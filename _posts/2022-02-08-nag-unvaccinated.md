@@ -3,6 +3,7 @@ layout: post
 title: On the Importance of Nagging the Unvaccinated
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 It's _important_ that we keep nagging people to get vaccinated, at escalating levels of

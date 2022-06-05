@@ -3,6 +3,7 @@ layout: post
 title: Pessimism and Optimism
 tags:  Beauty COVID Politics Sadness SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why I'm always so dour.

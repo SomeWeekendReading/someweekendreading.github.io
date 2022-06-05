@@ -3,6 +3,7 @@ layout: post
 title: The Shame of the Anti-Vaxxers
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 The shameful behavior of the anti-vaxxers has reached intolerable levels.  It's been

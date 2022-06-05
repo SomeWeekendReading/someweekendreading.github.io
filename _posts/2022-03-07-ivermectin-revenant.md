@@ -3,6 +3,7 @@ layout: post
 title: Ivermectin Revenant
 tags:  COVID JournalClub PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked]({{ site.baseurl }}/tags/#SomebodyAskedMe) about a recently published

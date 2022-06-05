@@ -3,6 +3,7 @@ layout: post
 title: Sustaining Spirit in Hard Times&colon; People are Complicated
 tags: Beauty COVID Obscurantism Politics Religion Sadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Times are difficult, here in the 3rd year of a global pandemic that drags on and on,

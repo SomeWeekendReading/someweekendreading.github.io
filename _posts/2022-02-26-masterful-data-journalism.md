@@ -3,6 +3,7 @@ layout: post
 title: Masterful Data Journalism on US Political Resistance to COVID-19 Vaccines
 tags:  COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 [Joss Fong at Vox](https://www.vox.com/authors/joss-fong) just put together an explainer

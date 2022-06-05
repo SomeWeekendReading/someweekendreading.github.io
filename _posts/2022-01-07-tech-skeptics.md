@@ -3,6 +3,7 @@ layout: post
 title: Tech Skepticism
 tags: Beauty NotableAndQuotable Obscurantism &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 It's fashionable lately to be skeptical about technology.  (Of everything, really.)

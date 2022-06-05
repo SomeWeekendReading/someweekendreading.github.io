@@ -3,6 +3,7 @@ layout: post
 title: On the Difficulty of Making Paxlovid
 tags:  COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) why we don't have enough

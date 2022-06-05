@@ -3,6 +3,7 @@ layout: post
 title: When You Say 'I Did My Own Research'&hellip; What Does That Sound Like to Actual Research Scientists?
 tags: COVID Politics
 comments: true
+commentsClosed: true
 ---
 
 Lots people say 'I did my own research' on subjects in which they are not sufficiently

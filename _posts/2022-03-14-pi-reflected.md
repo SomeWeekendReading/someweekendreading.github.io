@@ -3,6 +3,7 @@ layout: post
 title: Reflection on Pi Day
 tags:  Beauty Math &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: true
 ---
 
 Today is Pi Day (3/14), so we reflect upon &pi;.  

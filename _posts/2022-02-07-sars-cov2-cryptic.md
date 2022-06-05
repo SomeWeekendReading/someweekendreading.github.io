@@ -3,6 +3,7 @@ layout: post
 title: SARS-CoV2 Cryptic Sequences in NYC Wastewater&colon; Why Not to Sleep Well at Night
 tags: COVID JournalClub PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 As long as [we've got our heads in the sewers]({{ site.baseurl }}/wastewater-reredux/), what else is happening with wastewater SARS-CoV2 analyses?  It turns out, New York City rather alarmingly has some "cryptic sequences" not yet observed in humans.  This is how the virus is scheming to throw another wave at us.  

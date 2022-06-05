@@ -3,6 +3,7 @@ layout: post
 title: Shameful BioPharma Donations to Insurrectionists
 tags: PharmaAndBiotech Politics R
 comments: true
+commentsClosed: true
 ---
 
 Regrettably, it has come to light that my former industry has some bad actors who are

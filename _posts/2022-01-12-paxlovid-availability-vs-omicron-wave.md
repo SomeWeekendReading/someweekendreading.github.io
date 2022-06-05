@@ -3,6 +3,7 @@ layout: post
 title: Paxlovid Availability vs the Omicron Wave
 tags: COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 The Omicron wave is coming.  [Paxlovid is scarce]({{ site.baseurl }}/paxlovid-availability/).

@@ -3,6 +3,7 @@ layout: post
 title: COVID-19&colon; Lessons Learned &amp; Another Booster
 tags:  COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
+commentsClosed: true
 ---
 
 We would like to think we've learned a few things from our collective COVID-19 experience,

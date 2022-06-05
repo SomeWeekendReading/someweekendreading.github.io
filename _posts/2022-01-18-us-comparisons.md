@@ -3,6 +3,7 @@ layout: post
 title: Comparing the US COVID-19 Pandemic to Other Countries
 tags: COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 How's the US pandemic doing in comparison to other countries, particularly those that

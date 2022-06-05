@@ -3,6 +3,7 @@ layout: post
 title: Med-Chem Optimization of Paxlovid
 tags: COVID PharmaAndBiotech 
 comments: true
+commentsClosed: true
 ---
 
 Previously, [we wrote about how hard it currently is to find paxlovid]({{ site.baseurl }}/paxlovid-availability/),

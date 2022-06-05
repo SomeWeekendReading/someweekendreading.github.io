@@ -3,6 +3,7 @@ layout: post
 title: Republicans Still a Death Cult?!  
 tags:  COVID Politics Sadness
 comments: true
+commentsClosed: true
 ---
 
 Yesterday came simultaneous bits of evidence in the US that (a) COVID-19 death rates for

@@ -3,6 +3,7 @@ layout: post
 title: Rethinking NPIs and Vaccinations
 tags:  COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
+commentsClosed: true
 ---
 
 People are clamoring for an end to "restrictions", by which they mean masks and closures.

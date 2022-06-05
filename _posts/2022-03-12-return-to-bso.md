@@ -3,6 +3,7 @@ layout: post
 title: First Return to the BSO in Years
 tags:  Beauty
 comments: true
+commentsClosed: true
 ---
 
 Yesterday we went to the Boston Symphony Orchestra for the first time in, obviously,
