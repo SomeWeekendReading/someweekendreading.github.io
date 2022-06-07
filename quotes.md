@@ -783,6 +783,8 @@ at SSC 2003, Halifax (June 2003).
 
 ## The Religious Ones  
 
+"People make mistakes in life through believing too much, but they have a damned dull time if they believe too little." &mdash; [James Hilton](https://en.wikipedia.org/wiki/James_Hilton_(novelist)), [_Lost Horizon_](https://en.wikipedia.org/wiki/Lost_Horizon), 1933.  
+
 "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." &mdash; [Bishop Desmond Tutu](https://en.wikipedia.org/wiki/Desmond_Tutu)  
 
 "Nothing worth doing is completed in our lifetime;<br> 
