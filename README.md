@@ -11,7 +11,7 @@ here.  Probably lots of Jekyll/Github blunders!
 ## License  
 
 The following files, directories, and their contents are copyright by me.  You may not reuse
-anything therein without explicit permission:  
+anything therein without explicit permission (though admittedly, I'm likely to grant permission):  
 
 * \_data/  
 * \_posts/  
