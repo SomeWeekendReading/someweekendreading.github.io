@@ -144,11 +144,11 @@ relevant investments <sup id="fn7a">[[7]](#fn7)</sup>:
 > No waivers were issued for conflicts of interest for this meeting
 
 <img src="{{ site.baseurl }}/images/hmpf.png" width="400" height="160" alt="Hmpf." title="Hmpf." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-I've never before seen them say there were no conflicts of interest.  Or, more
-technically, no _waivers_ for such conflicts were issued, so if there is one then it's on
-the person with the conflict, not the FDA.  
+I've never before seen them say there were _no_ conflicts of interest.  Or, more
+technically, no _waivers_ for such conflicts were issued, so if there is one then I guess it's on
+the person with the conflict, not the FDA?  
 
-Hmpf.  
+Hmpf.  Maybe I'm too suspicious.  
 
 
 ## Our usual safari guides (via an unusual channel)  
@@ -480,5 +480,4 @@ This is a really weird timeline.  Can I get back to the one I used to know?
 
 <a id="fn12">12</a>: L Lee, ["FDA Review of Effectiveness and Safety of Novavax COVID-19 Vaccine in Adults &ge; 18 Years of Age Emergency Use Authorization Request"](https://www.fda.gov/media/159004/download), US FDA Office of Vaccines Research and Review, 2022-Jun-07. [↩](#fn12a)  
 
-<a id="fn13">13</a>: [Weekend Editor](mailto:SomeWeekendReadigEditor@gmail.com), ["R script for efficacy and confidence limits using a scaled binomial model"]({{ site.baseurl }}/assets/2021-11-12-covid-treatments-simple-efficacy-confidence-limits.r), [Some Weekend Reading]({{ site.baseurl }}) blog, 2021-Nov-12. [↩](#fn13a)  
-
+<a id="fn13">13</a>: [Weekend Editor](mailto:SomeWeekendReadigEditor@gmail.com), ["R script for efficacy and confidence limits using a scaled binomial model"]({{ site.baseurl }}/assets/2021-11-12-covid-treatments-simple-efficacy-confidence-limits.r), [Some Weekend Reading]({{ site.baseurl }}/) blog, 2021-Nov-12. [↩](#fn13a)  
