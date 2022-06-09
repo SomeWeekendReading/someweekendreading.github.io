@@ -11,9 +11,8 @@ _years._
 
 ## Back to the BSO  
 
-<a href="{{ site.baseurl }}/images/2022-03-12-return-to-bso-1.jpg"><img src="{{ site.baseurl }}/images/2022-03-12-return-to-bso-1.jpg" width="400" height="300" alt="BSO: Tanglewood Festival Chorus" title="BSO: Tanglewood Festival Chorus" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-<a href="{{ site.baseurl }}/images/2022-03-12-return-to-bso-2.jpg"><img src="{{
-site.baseurl }}/images/2022-03-12-return-to-bso-2.jpg" width="400" height="300" alt="BSO: The magnificent room" title="BSO: The magnificent room" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-03-12-return-to-bso-1.jpg"><img src="{{ site.baseurl }}/images/2022-03-12-return-to-bso-1-thumb.jpg" width="400" height="300" alt="BSO: Tanglewood Festival Chorus" title="BSO: Tanglewood Festival Chorus" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-03-12-return-to-bso-2.jpg"><img src="{{ site.baseurl }}/images/2022-03-12-return-to-bso-2-thumb.jpg" width="400" height="300" alt="BSO: The magnificent room" title="BSO: The magnificent room" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-03-12-return-to-bso-3.jpg"><img src="{{ site.baseurl }}/images/2022-03-12-return-to-bso-3-thumb.jpg" width="400" height="533" alt="BSO: Orchestral program" title="BSO: Orchestral program" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-03-12-return-to-bso-4.jpg"><img src="{{ site.baseurl }}/images/2022-03-12-return-to-bso-4-thumb.jpg" width="400" height="533" alt="BSO: Choral program" title="BSO: Choral program" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Obviously, we haven't been to much in the way of live music for some time now.  But in
