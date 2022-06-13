@@ -273,7 +273,7 @@ When politicians call hysterically to cut off the salary of Tony Fauci, their ba
 "patriots" issues death threats.  They feed into vaccine resistance, _which kills people._  
 
 With _absolutely no exaggeration whatsoever,_ this is beginning to resemble the repression
-of science under Hitler and Mussolini:  
+of science under mid-20th century Fascism:  
 
 > Historically, such regimes viewed scientists as enemies of the state. In his 1941 essay,
 > Science in the Totalitarian State [10], Waldemar Kaempffert outlines details using the
