@@ -8,6 +8,7 @@ comments: true
 Today the Moderna trial of a bivalent classic/Omicron COVID-19 vaccine read out.  Looks
 pretty good, so a regulatory filing with the FDA is pending.  
 
+
 ## Finally: An Omicron-specific vaccine  
 
 We've
