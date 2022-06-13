@@ -149,7 +149,7 @@ Nobody says the number of people in on the secret is fixed.  How might it reason
 
    where $t_e$ is the average age of conspirators at the start of the conspiracy and
    $\alpha$ and $\beta$ are Gompertz parameters to be estimated, typically about 
-   $\alpha = 10^-4$ and $\beta = 0.085$ for general human populations.  
+   $\alpha = 10^{-4}$ and $\beta = 0.085$ for general human populations.  
 
 3. __Conspirators are killed off or otherwise eliminated _faster_ than naturally:__  As
    Benjamin Franklin is alleged to have printed in _Poor Richard's Almanac_ in 1735:  
