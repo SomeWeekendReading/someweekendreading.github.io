@@ -199,9 +199,10 @@ by systematically murdering each other.  _Keeping a secret in a large group is h
 Grimes went to some effort to calibrate his model against 3 well-known real-world
 conspiracies that were actually revealed, to see if the parameter fits made any sense:  
 1. _The US National Security Agency's PRISM scandal:_ It's actually illegal for them to spy
-   on US citizens inside the US, but they did it anyway on the theory that their usually
+   on US citizens inside the US. But they did it anyway, on the theory that their usually
    excellent operational security could keep it secret, and keeping illegality
-   undiscovered was as good as being legal.  It was exposed by Edward Snowden.  
+   undiscovered was as good as being legal.  It was exposed by Edward Snowden.  (_Hint:_ if
+   the NSA's opsec was not up to the task, why is your conspiracy likely to do better?)  
 2. _The Tuskeegee syphilis experiment:_ From 1932 to about 1970, the US Public Health Service
    found a number of black men with syphilis, kept it secret from them, and withheld
    treatment "in order to study the disease".  This is one of the reasons, quite
