@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Lifetime of Conspiracies
-tags: COVID JournalClub Math MathInTheNews PharmaAndBiotech Politics Sadness Statistics
+tags: COVID JournalClub MathInTheNews PharmaAndBiotech Politics Sadness Statistics
 comments: true
 ---
 
