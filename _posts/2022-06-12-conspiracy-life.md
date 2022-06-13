@@ -114,8 +114,8 @@ be integrals:
 
 $$
 \begin{align*}
-\Pr(\mbox{conspiracy lasts until $t$} | p, N(t)) &= 1 - e^{-\int_0^t{dt \phi(t)}} \\
-                                                 &= 1 - e^{-\int_0^t{dt (1 - \psi(t)^{N(t)})}}
+\Pr(\mbox{conspiracy lasts until $t$} | p, N(t)) &= 1 - e^{-\int_0^t{dt' \phi(t')}} \\
+                                                 &= 1 - e^{-\int_0^t{dt' (1 - \psi(t')^{N(t')})}}
 \end{align*}
 $$
 
