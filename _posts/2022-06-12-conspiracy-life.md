@@ -5,10 +5,11 @@ tags: COVID JournalClub Math MathInTheNews PharmaAndBiotech Politics Sadness Sta
 comments: true
 ---
 
-The world is full of conspiracy theories, more than I can ever recall.  How reasonable is
-it to expect that a conspiracy can (a) depend on secrecy, (b) involve a large number of
-people, and (c) survive for more than a couple years?  Not very, according to a
-probabilistic model!  
+The world is full of conspiracy theories, more than I recall ever being the case in the
+past.  How reasonable is it to expect that a conspiracy can (a) depend on secrecy, (b)
+involve a large number of people, and (c) survive for more than a couple years?  Not very,
+according to a probabilistic model!  
+
 
 ## Anatomy of basic conspiracy failures  
 
@@ -150,8 +151,8 @@ Nobody says the number of people in on the secret is fixed.  How might it reason
    $\alpha$ and $\beta$ are Gompertz parameters to be estimated, typically about 
    $\alpha = 10^-4$ and $\beta = 0.085$ for general human populations.  
 
-3. __Conspirators are killed off or otherwise eliminated:__  As Benjamin Franklin is
-   alleged to have printed in _Poor Richard's Almanac_ in 1735:  
+3. __Conspirators are killed off or otherwise eliminated _faster_ than naturally:__  As
+   Benjamin Franklin is alleged to have printed in _Poor Richard's Almanac_ in 1735:  
 
    > Three may keep a secret if two are dead.  
 
@@ -197,19 +198,19 @@ by systematically murdering each other.  _Keeping a secret in a large group is h
 
 Grimes went to some effort to calibrate his model against 3 well-known real-world
 conspiracies that were actually revealed, to see if the parameter fits made any sense:  
-1. The US National Security Agency's PRISM scandal: It's actually illegal for them to spy
+1. _The US National Security Agency's PRISM scandal:_ It's actually illegal for them to spy
    on US citizens inside the US, but they did it anyway on the theory that their usually
    excellent operational security could keep it secret, and keeping illegality
    undiscovered was as good as being legal.  It was exposed by Edward Snowden.  
-2. The Tuskeegee syphilis experiment: From 1932 to about 1970, the US Public Health Service
+2. _The Tuskeegee syphilis experiment:_ From 1932 to about 1970, the US Public Health Service
    found a number of black men with syphilis, kept it secret from them, and withheld
    treatment "in order to study the disease".  This is one of the reasons, quite
    understandably, that American Blacks have a deep distrust of both government and the
    health care system.  It was exposed by Peter Buxtun in 1972.  
-3. The US Federal Bureau of Investigation used a number of pseudoscientific forensic tests
-   to determine criminality in many cases without any basis in reality.  Many were
-   detained for decades, and some even executed on the basis of these fraudulent tests.
-   It was eventually exposed in 1998 by Frederic Whitehurst.  
+3. _The US Federal Bureau of Investigation's use of a number of pseudoscientific forensic tests:_
+   They used these dubious 'tests' to determine criminality in many cases without any
+   basis in reality.  Many were detained for decades, and some even executed on the basis
+   of these fraudulent tests. It was eventually exposed in 1998 by Frederic Whitehurst.  
    
 Without going into the detail available in the paper, all the conspiracies fit the model
 with some reasonable parameter settings.  There are lots of ambiguities, such as deciding
@@ -263,7 +264,7 @@ But we also care for a darker, and more dangerous reason: there is increasing vi
 directed against scientists.  An article in _PLoS Biology_ by Peter Hotez details some of
 this <sup id="fn3a">[[3]](#fn3)</sup>, as a warning to our community.  
 
-> There is a troubling new expansion of antiscience aggression in the United States. It’s
+> There is a __troubling new expansion of antiscience aggression in the United States.__ It’s
 > arising from far-right extremism, including some elected members of the US Congress and
 > conservative news outlets that target prominent biological scientists fighting the
 > COVID-19 pandemic.  
@@ -293,17 +294,17 @@ blogs as _Your Local Epidemiologist_)
 It's become a grim, and increasingly dangerous time to be a scientist in the United
 States:  
 
-> As Nobel Laureate and Holocaust survivor Elie Wiesel once pointed out, neutrality or
-> silence favors the oppressor. We must take steps to protect our scientists and take
+> As Nobel Laureate and Holocaust survivor Elie Wiesel once pointed out, __neutrality or
+> silence favors the oppressor.__ We must take steps to protect our scientists and take
 > swift and positive action to counter the growing wave of far-right antiscience
-> aggression. Not taking action is a tacit endorsement, and a guarantee that the integrity
-> and productivity of science in the United States will be eroded or lose ground.  
+> aggression. __Not taking action is a tacit endorsement, and a guarantee that the integrity
+> and productivity of science in the United States will be eroded or lose ground.__  
 
 
 ## The Weekend Conclusion  
 
 Conspiracy thinking is a danger to one's self.  It is a danger to society.  As a
-scientist, it is a danger to me, personally.  
+scientist, it is now also a danger to me.  
 
 Conspiracies are _fragile_ with respect to being disclosed, but can do unimaginable damage
 until then.  
