@@ -202,7 +202,7 @@ conspiracies that were actually revealed, to see if the parameter fits made any 
    on US citizens inside the US. But they did it anyway, on the theory that their usually
    excellent operational security could keep it secret, and keeping illegality
    undiscovered was as good as being legal.  It was exposed by Edward Snowden.  (_Hint:_ if
-   the NSA's opsec was not up to the task, why is your conspiracy likely to do better?)  
+   the NSA's opsec was not up to task here, why is your conspiracy likely to do any better?)  
 2. _The Tuskeegee syphilis experiment:_ From 1932 to about 1970, the US Public Health Service
    found a number of black men with syphilis, kept it secret from them, and withheld
    treatment "in order to study the disease".  This is one of the reasons, quite
@@ -216,7 +216,7 @@ conspiracies that were actually revealed, to see if the parameter fits made any 
 Without going into the detail available in the paper, all the conspiracies fit the model
 with some reasonable parameter settings.  There are lots of ambiguities, such as deciding
 when the conspiracy started: in 1932 the Tuskeegee experiment may have been regarded as
-acceptable while it is abominable today; what's the "true" start date?  
+acceptable back then, whereas it is abominable today; what's the "true" start date?  
 
 Other conspiracies examined: that the moon landing was a hoax, that climate change is a
 hoax, that vaccines cause autism or don't work (recall this is 2016, _before_ COVID-19),
