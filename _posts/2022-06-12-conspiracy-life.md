@@ -203,14 +203,15 @@ conspiracies that were actually revealed, to see if the parameter fits made any 
    excellent operational security could keep it secret, and keeping illegality
    undiscovered was as good as being legal.  It was exposed by Edward Snowden.  (_Hint:_ if
    the NSA's opsec was not up to task here, why is your conspiracy likely to do any better?)  
-2. _The Tuskeegee syphilis experiment:_ From 1932 to about 1970, the US Public Health Service
+2. _The US Public Health Service's Tuskeegee syphilis experiment:_ From 1932 to about
+   1970, the US Public Health Service
    found a number of black men with syphilis, kept it secret from them, and withheld
    treatment "in order to study the disease".  This is one of the reasons, quite
    understandably, that American Blacks have a deep distrust of both government and the
    health care system.  It was exposed by Peter Buxtun in 1972.  
 3. _The US Federal Bureau of Investigation's use of a number of pseudoscientific forensic tests:_
    They used these dubious 'tests' to determine criminality in many cases without any
-   basis in reality.  Many were detained for decades, and some even executed on the basis
+   basis in reality.  Many were imprisoned for decades, and some even executed on the basis
    of these fraudulent tests. It was eventually exposed in 1998 by Frederic Whitehurst.  
    
 Without going into the detail available in the paper, all the conspiracies fit the model
@@ -221,7 +222,8 @@ acceptable back then, whereas it is abominable today; what's the "true" start da
 Other conspiracies examined: that the moon landing was a hoax, that climate change is a
 hoax, that vaccines cause autism or don't work (recall this is 2016, _before_ COVID-19),
 and that pharma companies are somehow holding back a cancer cure.  They can all be fit as
-well, with various parameter settings that are at least not beyond the bounds of reason.
+well, with various parameter settings that are at least not beyond the bounds of reason.  
+
 This holds _even though Grimes chose parameter settings maximally favorable to conspirators!_  
 
 
@@ -240,9 +242,8 @@ First, conspiracies are _fragile:_
 This includes only internal failures; the efforts of outside investigation just make
 things worse for would-be conspirators.  
 
-He is also well aware of the [backfire effect](https://en.wikipedia.org/wiki/Belief_perseverance),
-and how conspiracy-minded people when presented with evidence like this may just dig in
-deeper:  
+Second, Grimes is also well aware of the [backfire effect](https://en.wikipedia.org/wiki/Belief_perseverance),
+when conspiracy-minded people presented with evidence like this may just dig in deeper:  
 
 > The grim reality is that there appears to be __a cohort so ideologically invested in a
 > belief that for whom no reasoning will shift, their convictions impervious to the
@@ -251,7 +252,7 @@ deeper:
 > for the less invested such an intervention might indeed prove useful.  
 
 So, yeah: we can change a few minds, but some minds are irreparably damaged and therefore
-unreachable.  I have no good ideas about that.  
+unreachable.  I have no good ideas for what to do about that.  
 
 
 ## Why we care  
@@ -290,10 +291,11 @@ of science under mid-20th century Fascism:
 
 This intimidation is deep and broad.  For example, last February, Katelyn Jetelina (who
 blogs as _Your Local Epidemiologist_)
-[had to "take a break" for security reasons](https://yourlocalepidemiologist.substack.com/p/taking-a-short-break?s=r).  
+[had to "take a break" for security reasons](https://yourlocalepidemiologist.substack.com/p/taking-a-short-break?s=r).
+Death threats are _not_ part of the bargain we took when we became scientists!  
 
 It's become a grim, and increasingly dangerous time to be a scientist in the United
-States:  
+States.  Grimes concludes:  
 
 > As Nobel Laureate and Holocaust survivor Elie Wiesel once pointed out, __neutrality or
 > silence favors the oppressor.__ We must take steps to protect our scientists and take
