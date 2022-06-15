@@ -44,11 +44,12 @@ followed the French Revolution, the invention of the guillotine, and the terrify
 with which people were executed _en masse._  
 
 Among those executed was one of the pre-eminent French scientists of the day,
-Antoine-Laurent Lavoisier on 1794-May-08.  Had he been able to hang on for a mere 3 months
-longer, Robespierre would have fallen, the Terror ended, and he could have lived.
+Antoine-Laurent Lavoisier, on 1794-May-08.  Had he been able to hang on for a mere 3 months
+longer, Robespierre would have fallen, the Terror ended, and he might have lived.
 Lavoisier was a _big deal_ to world science of the time.  It took generations for a genius
-like Lavoisier to be born, and a lifetime for him to be superbly educated to make
-his many contributions.  But it took only seconds for a madman to order him executed.  As his
+like Lavoisier to be born, and a lifetime for him to be superbly educated and to make
+his many contributions.  But it took only minutes for a madman to order him executed, and
+seconds for a guillotine to carry out that sentence.  As his
 friend, the deity of French mathematics Joseph-Louis Lagrange put it:  
 
 > It took them only an instant to cut off that head, but France may not produce another
@@ -56,9 +57,7 @@ friend, the deity of French mathematics Joseph-Louis Lagrange put it:
 
 This is the "Great Asymmetry" of Gould's title: it is easier to destroy than to create.
 It is also the nightmare that haunts me daily: the descent into fascism is _much_ easier than the
-climb back out.  
-
-As [Virgil](https://en.wikipedia.org/wiki/Virgil) put it in the [_Aeneid_](https://en.wikipedia.org/wiki/Aeneid) (Book 6, v 126):  
+climb back out.  As [Virgil](https://en.wikipedia.org/wiki/Virgil) put it in the [_Aeneid_](https://en.wikipedia.org/wiki/Aeneid) (Book 6, v 126):  
 
 > &hellip; facilis descensus Averno;  
 > noctes atque dies patet atri ianua Ditis;  
@@ -70,7 +69,7 @@ As [Virgil](https://en.wikipedia.org/wiki/Virgil) put it in the [_Aeneid_](https
 > But to retrace steps and escape into the air,  
 > That is the task, this is the hard work.  
 
-Genius builds over generations, but any fool can burn. <sup id="fn3a">[[3]](#fn3)</sup>  
+Genius builds over generations that which any fool can burn. <sup id="fn3a">[[3]](#fn3)</sup>  
 
 
 ## Counterpoint: We Are Not _Entirely_ Powerless  
@@ -96,7 +95,8 @@ paradox:
 
 The lack, of course, is other people _picking up the trash._ If a couple people each pick
 up 2 pieces of trash a day, then their will dominates the situation and the street is
-clean after 10 days (1 trash/day in - 4 trash/day out = -3 trash/day).  
+clean after 10 days (1 trash/day in - 4 trash/day out = -3 trash/day, so a month's worth
+of trash is gone in 10 days).  
 
 > A street with no litter is not one that never gets littered on.  It's a street where the
 > _rate_ of people dropping trash is lower than the _rate_ of people picking up trash.  
