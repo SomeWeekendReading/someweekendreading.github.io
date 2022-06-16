@@ -1,14 +1,14 @@
 ---
 layout: post
 title: On the Lifetime of Conspiracies
-tags: COVID JournalClub MathInTheNews PharmaAndBiotech Politics Sadness Statistics
+tags: CatBlogging COVID JournalClub MathInTheNews PharmaAndBiotech Politics Sadness Statistics
 comments: true
 ---
 
 The world is full of conspiracy theories, more than I recall ever being the case in the
-past.  How reasonable is it to expect that a conspiracy can (a) depend on secrecy, (b)
-involve a large number of people, and (c) survive for more than a couple years?  Not very,
-according to a probabilistic model!  
+past, before social media.  How reasonable is it to expect that a conspiracy can (a)
+depend on secrecy, (b) involve a large number of people, and (c) survive for more than a
+couple years?  Not very, according to a probabilistic model!  
 
 
 ## Anatomy of basic conspiracy failures  
@@ -314,6 +314,167 @@ until then.
 
 Fight them.  Tooth and nail.  
 
+
+## Addendum 2022-Jun-16: Objections &amp; application to COVID-19  
+
+I had missed a couple things about this paper: (1) it came in for some harsh criticism,
+and (2) there's a recent follow-up applying it to COVID-19.  
+
+### Criticisms  
+
+Ok, the paper gets a fist in the face in lots of venues, but some of them are just comment
+sections in various places.  So we won't take those seriously.  A couple showed promise:  
+- One that I _thought_ would be worth taking seriously didn't actually understand the
+  model fitting: they thought the 3 examples (PRISM, Tuskeegee, and FBI forensics) were
+  the only 3 data points available to fit a global model.  The truth, of course, is that
+  the model is re-fit to each new conspiracy theory, from an estimate of the number of
+  conspirators required and a model of how they age.  So nothing to see there, and I won't
+  bother linking to those critics.
+- Another critic for which I had high hopes was a philosophy paper.  They skipped over the
+  math (never a good way to win my respect!) and claimed it had to "fail" on philosophical
+  grounds&hellip; at which point they disappeared behind a paywall.  I dislike paywalls
+  already, and I'm not going to shell out on the hope that the rest is not just more
+  drivel.  
+
+### Application to the COVID-19 pandemic conspiracy theories  
+
+<img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3.jpg" width="400" height="143" alt="Grimes @ PLoS ONE: Application of model to COVID-19 conspiracy theories" title="Grimes @ PLoS ONE: Application of model to COVID-19 conspiracy theories" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Now, on to the update, also by Grimes. <sup id="fn4a">[[4]](#fn4)</sup>  While much of our
+conspiracy-minded woes are self-inflicted, some are not, as Grimes points out:  
+
+> Much of this is organic, arising from already existent conspiracy theories. An EU
+> commission report, however, found ample evidence that Russian and Chinese state forces
+> in particular had amplified and propagated conspiracy theories about COVID-19 [31], a
+> finding echoed in American intelligence reports [32]. Such disinformation is typically
+> spread with the aim of undermining societal cohesion in rival nations and sowing seeds
+> of mistrust.  
+
+That's more or less of a piece with the similar Russian disinformation that disrupted
+Hillary Clinton's campaign, leading to the regrettable Trump years.  
+
+Here's what Grimes promises, up front in the abstract:  
+
+> In this article, an expanded model for a hypothetical en masse COVID conspiracy is
+> derived. Analysis suggests that even under ideal circumstances for conspirators,
+> commonly encountered conspiratorial claims are highly unlikely to endure, and would
+> quickly be exposed.  
+
+Let's see if he delivers on that.  
+
+<a href="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig2.png"><img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig2-thumb.jpg" width="400" height="293" alt="Grimes @ PLoS ONE, Fig 2: Power law model of growth of COVID-19 researchers" title="Grimes @ PLoS ONE, Fig 2: Power law model of growth of COVID-19 researchers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+All the models above from the original paper assume either a constant or shrinking pool of conspirators.
+Here, in order to sustain any of the florid delusions about COVID-19, we must accommodate a
+_growing_ number of conspirators, as all the COVID-19 researchers must be in on the
+secret!  So he models this by looking at the number of COVID-19 publications on a _weekly_
+basis, assuming a certain fraction of the authors are conspirators (he chose 3, as a
+conservative underestimate, i.e., favorable to keeping the secret).  It turns out a power
+law fits this tolerably well (see Figure 2, reproduced here), with exponent and initial
+publication conspirators $\alpha = 1.714, r_0 = 383$.  The number of conspirators would
+have to grow like:  
+
+$$
+N(t) = N_0 + r_0 (t - t_0)^\alpha
+$$
+
+where $N_0$, the number of initial non-publication conspirators, is fit separately to each
+conspiracy theory, as they all have different requirements.  But the model above for
+adding new conspirators as research progresses is the same for all of them.  
+
+This leads to a lovely mathematical model, involving transcendental eminences such as the
+[$\Gamma$ function](https://en.wikipedia.org/wiki/Gamma_function) and the 
+[exponential integral function](https://en.wikipedia.org/wiki/Exponential_integral).  I
+haven't re-derived it for myself, so I'm just going to trust the authors and the referees
+here.  
+
+He also uses a failure probability for each conspirator of $p = 7.69 \times 10^{-8}$/week,
+which is estimated from previous conspiracy models, scaled from per-year numbers down to
+per-week.  
+
+Some results:
+
+<a href="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig3.png"><img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig3-thumb.jpg" width="400" height="197" alt="Grimes @ PLoS ONE, Fig 3: Failure vs time for COVID as hoax/engineered" title="Grimes @ PLoS ONE, Fig 3: Failure vs time for COVID as hoax/engineered" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+1. _COVID-19 as a hoax or deliberately engineered pestilence:_ This requires a large
+   nucleus of conspirators, starting with the public health agencies and progressively
+   adding in researchers and drug companies.  As shown in Figure 3, reproduced here, we
+   see that the median failure time ranges from a bit over 170 weeks down to about 10
+   weeks, depending on how big the conspiracy is required to be.  
+<a href="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig4.png"><img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig4-thumb.jpg" width="400" height="195" alt="Grimes @ PLoS ONE, Fig 4: Failure vs time for COVID as a nefarious mass vax scheme" title="Grimes @ PLoS ONE, Fig 4: Failure vs time for COVID as a nefarious mass vax scheme" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+2. _COVID-19 as a pretext for a nefarious mass vaccination program:_ This is a massive
+   conspiracy, requiring at least the drug companies and possibly all the researches as
+   well to be conspirators.  (As a former drug company researcher at the beginning of the
+   pandemic, I assure you nobody cut me a big check to keep quiet!)  The result is shown
+   in Figure 4, reproduced here.  As you can see, the median time to failure is only about
+   10 weeks!  
+<a href="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig5.png"><img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig5-thumb.jpg" width="400" height="192" alt="Grimes @ PLoS ONE, Fig 5: Failure vs time for COVID as a cover-up for 5G cell tower hazards" title="Grimes @ PLoS ONE, Fig 5: Failure vs time for COVID as a cover-up for 5G cell tower hazards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+3. _COVID-19 as a coverup for the hazards of 5G cell towers:_  This would require a truly
+   "grand conspiracy", as Grimes calls it, of most of the telecom industry, public health
+   bodies, drug companies, and researchers.  As shown in Figure 5, reproduced here, the
+   mean time to failure is only 4 weeks!  
+
+<a href="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig6.png"><img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3-fig6-thumb.jpg" width="400" height="283" alt="Grimes @ PLoS ONE, Fig 6, robustness analysis: Median time to failure as a function of conspiracy size and probability of leakage" title="Grimes @ PLoS ONE, Fig 6, robustness analysis: Median time to failure as a function of conspiracy size and probability of leakage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+The times to 50% chance of failure for the conspiracies of various sizes are all collected
+in Table 3 of the paper. Grimes estimated them from numerics on the model equations,
+not just eyeballing the graphs as we did here.
+
+That's summarized graphically in Figure 5, shown here, using model parameters outrageously
+generous to those favoring conspiracies (i.e., more realistic models would be exposed even
+sooner).  
+- The vertical axis is the time to 50% chance of exposure. 
+- The horizontal axes are the probability of leakage per conspirator per week, and the
+  number of conspirators initially involved.  
+- The red surface shows how the time to exposure goes rapidly down as a function of both.  
+- The flat blue surface, for comparison, is at 1 year: about how long the
+  pandemic had been going a the time this paper was published.  
+  
+Basically, if your COVID-19 conspiracy needs to survive for more than 1 year, it had
+better be _tiny_ and have _very_ tight opsec to prevent leaks!  
+
+__Conclusion:__ All the conspiracies tested, when inclusive of the realistic set of
+required conspirators, have a median failure time of 1 - 3 months.  As we are
+now about 30 months into the pandemic (dating the start back to Nov/Dec 2019), those
+conspiracies are just about statistically impossible.  
+
+While this paper uncovers important truths, it remains to be seen if it will do us any
+good.  Using the results of this paper would be employing expertise to debug people whose
+primary symptom is _contempt_ for expertise.  As Grimes points out, the problem is less a
+problem of expertise and more a problem of psychology:  
+
+> Such refrains are unfortunately common in conspiratorial circles, with psychological
+> studies consistently show a significant proportion motivated by an egotistical drive,
+> and feeling of authority it induces [23, 60, 62]. With COVID-19, there is evidence that
+> acceptance of conspiracy theory on the topic stems in part from a psychological
+> disposition to reject information coming from experts and other authority figures
+> [63]. Frequently this confidence in their beliefs is inversely proportional to their
+> actual understanding. In one especially glaring example, anti-vaccine activists who
+> proclaimed to know the most about vaccination and autism actually scored lowest in their
+> knowledge of both subjects, despite rating their understanding as high [64]—a potent
+> example of the Dunning-Kruger phenomenon [65], the observation that those least
+> competent drastically overrate their understanding and ability. In many instances, the
+> mere conviction that conspiracy theorists know more than others is especially
+> intoxicating, and this motivation can be nigh on impossible to address [45].  
+
+So it's frustrating, but the problem is real, and requires action:  
+
+<img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-weekend-publisher-purrs.jpg" width="400" height="616" alt="Weekend Publisher to Grimes: I have purred in your general direction." title="Weekend Publisher to Grimes: I have purred in your general direction." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+> Ultimately however, a serious conversation about how we address the dominance of
+> medico-scientific conspiracy theories is urgently required. The COVID-19 crisis has laid
+> bare the weaknesses in our system, and our inability to respond robustly to
+> disinformation. Emerging evidence suggests that we can be immunised against certain
+> forms of falsehood, provided this intervention comes before exposure [66]. Such an
+> endeavour demands we embrace information hygiene as a society [56], encouraging people
+> to treat all information as potentially pathogenic before they accept or propagate
+> it. The potentially negative influence of social media companies on public understanding
+> of science and medicine demands immediate investigation and further research too
+> [56]. In the interim, it is vital that physicians and scientists begin to address the
+> odious influence of disinformation, before it undermines the vast strides we have made
+> in the centuries since the enlightenment. Our future well-being is dependent upon it.  
+
+Here at Chez Weekend, we agree.  
+
+Even the Weekend Publisher, shown above, has instructed me to inform the world that he has
+purred in the general direction of this sentiment.  (No, I don't know how he knows the
+general direction of a sentiment.  He's a _cat;_ inscrutability is part of the deal.)  
+
 ---
 
 ## Notes &amp; References  
@@ -335,3 +496,5 @@ Fight them.  Tooth and nail.
 <a id="fn2">2</a>: DR Grimes, ["Correction: On the Viability of Conspiratorial Beliefs"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151003), _PLoS ONE_ 11:3, e0151003, 2016-Mar-01.  DOI: [10.1371/journal.pone.0151003](https://doi.org/10.1371/journal.pone.0151003). [↩](#fn2a)  
 
 <a id="fn3">3</a>: PJ Hotez, ["Mounting antiscience aggression in the United States"](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001369), _PLoS Biology_ 19:7, e3001369.  DOI: [10.1371/journal.pbio.3001369](https://doi.org/10.1371/journal.pbio.3001369). [↩](#fn3a)  
+
+<a id="fn4">4</a>: DR Grimes, ["Medical disinformation and the unviable nature of COVID-19 conspiracy theories"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245900), _PLoS ONE_ 16:3, e0245900, 2021-Mar-12.  DOI: [10.1371/journal.pone.0245900](https://doi.org/10.1371/journal.pone.0245900). [↩](#fn4a)  
