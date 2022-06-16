@@ -330,11 +330,11 @@ sections in various places.  So we won't take those seriously.  A couple showed 
   the model is re-fit to each new conspiracy theory, from an estimate of the number of
   conspirators required and a model of how they age.  So nothing to see there, and I won't
   bother linking to those critics.
-- Another critic for which I had high hopes was a philosophy paper.  They skipped over the
+- Another critic for which I had high hopes was published in a philosophy paper.  They skipped over the
   math (never a good way to win my respect!) and claimed it had to "fail" on philosophical
   grounds&hellip; at which point they disappeared behind a paywall.  I dislike paywalls
-  already, and I'm not going to shell out on the hope that the rest is not just more
-  drivel.  
+  already, and I'm most certainly not going to shell out on the hope that the rest is not
+  just more drivel.  
 
 ### Application to the COVID-19 pandemic conspiracy theories  
 
@@ -352,12 +352,12 @@ conspiracy-minded woes are self-inflicted, some are not, as Grimes points out:
 That's more or less of a piece with the similar Russian disinformation that disrupted
 Hillary Clinton's campaign, leading to the regrettable Trump years.  
 
-Here's what Grimes promises, up front in the abstract:  
+Here's what Grimes promises, up front in the abstract (__emphasis__ added):  
 
 > In this article, an expanded model for a hypothetical en masse COVID conspiracy is
-> derived. Analysis suggests that even under ideal circumstances for conspirators,
+> derived. Analysis suggests that __even under ideal circumstances for conspirators,
 > commonly encountered conspiratorial claims are highly unlikely to endure, and would
-> quickly be exposed.  
+> quickly be exposed.__  
 
 Let's see if he delivers on that.  
 
@@ -380,8 +380,8 @@ where $N_0$, the number of initial non-publication conspirators, is fit separate
 conspiracy theory, as they all have different requirements.  But the model above for
 adding new conspirators as research progresses is the same for all of them.  
 
-This leads to a lovely mathematical model, involving transcendental eminences such as the
-[$\Gamma$ function](https://en.wikipedia.org/wiki/Gamma_function) and the 
+This leads to a lovely mathematical model, involving lovely little monsters of the
+transcendental function world such as the
 [exponential integral function](https://en.wikipedia.org/wiki/Exponential_integral).  I
 haven't re-derived it for myself, so I'm just going to trust the authors and the referees
 here.  
@@ -471,7 +471,7 @@ So it's frustrating, but the problem is real, and requires action:
 
 Here at Chez Weekend, we agree.  
 
-Even the Weekend Publisher, shown above, has instructed me to inform the world that he has
+Even the Weekend Publisher, shown here, has instructed me to inform the world that he has
 purred in the general direction of this sentiment.  (No, I don't know how he knows the
 general direction of a sentiment.  He's a _cat;_ inscrutability is part of the deal.)  
 
