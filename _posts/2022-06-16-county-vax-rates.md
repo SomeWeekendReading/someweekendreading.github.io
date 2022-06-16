@@ -51,9 +51,6 @@ minority of total voters):
 - The size of the circles indicates population of a county, so we see that there is a
   negative effect from rural counties as well.  
 
-
-
-
 ---
 
 ## Notes &amp; References  
