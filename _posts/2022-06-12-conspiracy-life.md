@@ -315,7 +315,7 @@ until then.
 Fight them.  Tooth and nail.  
 
 
-## Addendum 2022-Jun-16: Objections &amp; application to COVID-19  
+## Addendum 2022-Jun-16: Criticisms &amp; application to COVID-19 conspiracy theories  
 
 I had missed a couple things about this paper: (1) it came in for some harsh criticism,
 and (2) there's a recent follow-up applying it to COVID-19.  
