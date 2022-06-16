@@ -455,7 +455,6 @@ problem of expertise and more a problem of psychology:
 
 So it's frustrating, but the problem is real, and requires action:  
 
-<img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-weekend-publisher-purrs.jpg" width="400" height="616" alt="Weekend Publisher to Grimes: I have purred in your general direction." title="Weekend Publisher to Grimes: I have purred in your general direction." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 > Ultimately however, a serious conversation about how we address the dominance of
 > medico-scientific conspiracy theories is urgently required. The COVID-19 crisis has laid
 > bare the weaknesses in our system, and our inability to respond robustly to
@@ -463,9 +462,10 @@ So it's frustrating, but the problem is real, and requires action:
 > forms of falsehood, provided this intervention comes before exposure [66]. Such an
 > endeavour demands we embrace information hygiene as a society [56], encouraging people
 > to treat all information as potentially pathogenic before they accept or propagate
-> it. The potentially negative influence of social media companies on public understanding
-> of science and medicine demands immediate investigation and further research too
-> [56]. In the interim, it is vital that physicians and scientists begin to address the
+> it.  The potentially negative influence of social media companies on public understanding
+> of science and medicine demands immediate investigation and further research too  
+<img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-weekend-publisher-purrs.jpg" width="400" height="616" alt="Weekend Publisher to Grimes: I have purred in your general direction." title="Weekend Publisher to Grimes: I have purred in your general direction." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+> [56].  In the interim, it is vital that physicians and scientists begin to address the
 > odious influence of disinformation, before it undermines the vast strides we have made
 > in the centuries since the enlightenment. Our future well-being is dependent upon it.  
 
