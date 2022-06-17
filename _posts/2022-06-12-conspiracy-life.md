@@ -122,7 +122,8 @@ $$
 A few more things have to be done numerically, rather than analytically.  This also
 affects the cases below, where we vary $N(t)$ over time in various plausible ways.  In
 those cases, it's important to look at the figures in the correction, not the original
-paper.  
+paper.  While one could also vary $p$ with time, we'll follow Grimes's example and keep
+$p$ (and hence $\psi$) constant.  
 
 
 ## Various ways to count who's in on the conspiracy secret  
