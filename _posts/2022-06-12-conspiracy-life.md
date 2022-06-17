@@ -132,7 +132,7 @@ Nobody says the number of people in on the secret is fixed.  How might it reason
 
 1. __Fixed $N$:__ Ok, maybe it doesn't vary.  There are some number of people in on it at
    the beginning, and they stay that way for the rest of eternity, all of them providing
-   active coverup for the secret, for all time:  
+   active coverup of the secret, for all time:  
 
    $$
    N(t) = N_0
@@ -341,12 +341,13 @@ sections in various places.  So we won't take those seriously.  A couple showed 
 
 <img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-plosone-3.jpg" width="400" height="143" alt="Grimes @ PLoS ONE: Application of model to COVID-19 conspiracy theories" title="Grimes @ PLoS ONE: Application of model to COVID-19 conspiracy theories" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Now, on to the update, also by Grimes. <sup id="fn4a">[[4]](#fn4)</sup>  While much of our
-conspiracy-minded woes are self-inflicted, some are not, as Grimes points out:  
+conspiracy-minded woes are self-inflicted, some are not, as Grimes points out
+(__emphasis__ added):  
 
 > Much of this is organic, arising from already existent conspiracy theories. An EU
-> commission report, however, found ample evidence that Russian and Chinese state forces
+> commission report, however, found __ample evidence that Russian and Chinese state forces
 > in particular had amplified and propagated conspiracy theories about COVID-19 [31], a
-> finding echoed in American intelligence reports [32]. Such disinformation is typically
+> finding echoed in American intelligence reports [32].__ Such disinformation is typically
 > spread with the aim of undermining societal cohesion in rival nations and sowing seeds
 > of mistrust.  
 
@@ -431,7 +432,7 @@ Basically, if your COVID-19 conspiracy needs to survive for more than 1 year, it
 better be _tiny_ and have _very_ tight opsec to prevent leaks!  
 
 __Conclusion:__ All the conspiracies tested, when inclusive of the realistic set of
-required conspirators, have a median failure time of 1 - 3 months.  As we are
+required conspirators, have a __median failure time of 1 - 3 months.__  As we are
 now about 30 months into the pandemic (dating the start back to Nov/Dec 2019), those
 conspiracies are just about statistically impossible.  
 
