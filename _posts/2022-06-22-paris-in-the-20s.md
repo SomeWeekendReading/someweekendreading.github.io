@@ -14,7 +14,7 @@ recreate those experiences.
 ## Paris in the 1920s  
 
 There's apparently a hobby among video folk to engage in a little
-[&Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#%CF%9C%CE%A4%CE%A6) by
+[&Gammad;&Tau;&Phi;]({{ site.baseurl }}/tags/#%CF%9C%CE%A4%CE%A6), by
 remastering old film to modern frame rates so they don't look so jerky, colorizing them,
 and adding sound.  The results can be quite striking, since we can see people in the past
 moving like _people_, not the jerky, sped-up mannequins they otherwise resemble.
