@@ -3,6 +3,7 @@ layout: post
 title: 3 Philosophers in a Bar
 tags: CatBlogging MeaCulpa &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: false
 ---
 
 So [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),

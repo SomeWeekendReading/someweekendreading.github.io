@@ -3,6 +3,7 @@ layout: post
 title: The Pan-Coronavirus Vaccine Landscape
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: false
 ---
 
 What sort of progress is being made on pancoronavirus vaccines?  

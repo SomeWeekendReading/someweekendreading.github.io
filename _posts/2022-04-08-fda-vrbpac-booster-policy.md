@@ -3,6 +3,7 @@ layout: post
 title: FDA VRBPAC Meeting on Booster &amp; Vaccine Variant Policy
 tags:  COVID PharmaAndBiotech Politics
 comments: true
+commentsClosed: false
 ---
 
 This week the FDA'S Vaccines and Related Biological Products Advisory Committee (VRBPAC)

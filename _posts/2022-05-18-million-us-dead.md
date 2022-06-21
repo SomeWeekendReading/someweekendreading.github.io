@@ -3,6 +3,7 @@ layout: post
 title: COVID-19&colon; Officially 1 Million US Dead
 tags: COVID MathInTheNews PharmaAndBiotech Politics Sadness Statistics
 comments: true
+commentsClosed: false
 ---
 
 [_Tone warning:_ Angry post.]  We reached yesterday a grim and disgraceful milestone in the US, having at

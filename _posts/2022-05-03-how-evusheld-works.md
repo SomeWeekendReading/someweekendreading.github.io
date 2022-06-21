@@ -3,6 +3,7 @@ layout: post
 title: How Can Evusheld Possibly Work?!
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
 comments: true
+commentsClosed: false
 ---
 
 Evusheld is an antibody infusion which confers about 6 months of vaccine-like immunity to

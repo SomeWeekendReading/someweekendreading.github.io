@@ -3,6 +3,7 @@ layout: post
 title: Compassion for the Unvaccinated
 tags: COVID PharmaAndBiotech Sadness
 comments: true
+commentsClosed: false
 ---
 
 I have a hard time controlling my anger at the unvaccinated, the spreaders of

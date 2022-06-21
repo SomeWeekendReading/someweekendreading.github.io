@@ -3,6 +3,7 @@ layout: post
 title: It's Always Been 2 Americas for COVID-19
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Politics Sadness
 comments: true
+commentsClosed: false
 ---
 
 COVID-19 has brought to light a lot of disparities in the US.  Today's scientific paper is

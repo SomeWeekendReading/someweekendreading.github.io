@@ -3,6 +3,7 @@ layout: post
 title: On the Efficacy of COVID-19 Non-Pharmaceutical Interventions
 tags: COVID JournalClub MathInTheNews Politics R Statistics
 comments: true
+commentsClosed: false
 ---
 
 Non-pharmaceutical interventions (NPIs) have been controversial: people continue to object loudly and

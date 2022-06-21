@@ -3,6 +3,7 @@ layout: post
 title: Paxlovid in the Wild
 tags: COVID JournalClub Math PharmaAndBiotech
 comments: true
+commentsClosed: false
 ---
 
 An Israeli group has studied the use of paxlovid to treat COVID in a large group of

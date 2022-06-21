@@ -3,6 +3,7 @@ layout: post
 title: US Vaccination Rates&colon; How's Your County Doing?
 tags: COVID PharmaAndBiotech Politics SomebodyAskedMe Statistics
 comments: true
+commentsClosed: false
 ---
 
 How thorough are vaccination rates in the US?  And how geographically inhomogeneous?  

@@ -3,6 +3,7 @@ layout: post
 title: Upcoming FDA VRBPAC Meetings
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: false
 ---
 
 Three meetings of the FDA's VRBPAC advisors on vaccines are coming up this month.  

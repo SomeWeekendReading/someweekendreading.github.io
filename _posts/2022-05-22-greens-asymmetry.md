@@ -3,6 +3,7 @@ layout: post
 title: Hank Green, John Green, and the Great Asymmetry  
 tags: Beauty COVID Sadness
 comments: true
+commentsClosed: false
 ---
 
 Videos by "vlogbrothers" Hank &amp; John Green on the despair of the times led me to a WH

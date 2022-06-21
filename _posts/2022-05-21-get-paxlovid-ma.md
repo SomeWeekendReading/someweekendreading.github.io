@@ -3,6 +3,7 @@ layout: post
 title: Sibylla Bostoniensis&colon; Getting Paxlovid in Massachusetts
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: false
 ---
 
 Siderea at _Sibylla Bostoniensis_ today published a useful guide to getting prescribed

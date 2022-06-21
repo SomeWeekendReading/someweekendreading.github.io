@@ -3,6 +3,7 @@ layout: post
 title: Japan's COVID-19 Control&colon; A Great Success
 tags: COVID Politics
 comments: true
+commentsClosed: false
 ---
 
 Japan has done a quantitatively _great_ job protecting Japanese citizens from COVID-19.

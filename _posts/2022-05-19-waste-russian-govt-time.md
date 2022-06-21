@@ -3,6 +3,7 @@ layout: post
 title: How to Waste Russian Government Time
 tags: CorporateLifeAndItsDiscontents Politics Sadness &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: false
 ---
 
 I can't say I entirely approve of this.  But I _do_ understand the desire to inconvenience the Russian government given the Ukraine invasion, and the humor involved in the chosen method.  

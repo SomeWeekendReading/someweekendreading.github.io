@@ -3,6 +3,7 @@ layout: post
 title: Japan's Shionogi Ltd. Has Another COVID-19 Antiviral in Late-Stage Trials
 tags:  COVID PharmaAndBiotech
 comments: true
+commentsClosed: false
 ---
 
 Some good news: there's now _another_ COVID-19 antiviral drug candidate that has the same

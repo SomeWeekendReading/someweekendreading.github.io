@@ -3,6 +3,7 @@ layout: post
 title: Preventive Paxlovid Fails
 tags: COVID PharmaAndBiotech
 comments: true
+commentsClosed: false
 ---
 
 Pfizer just read out a Phase 2/3 trial of paxlovid for preventing transmission of COVID-19

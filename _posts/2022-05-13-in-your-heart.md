@@ -3,6 +3,7 @@ layout: post
 title: But What's in Your Heart?!
 tags: About Beauty CatBlogging Obscurantism SomebodyAskedMe &Gammad;&Tau;&Phi;
 comments: true
+commentsClosed: false
 ---
 
 A plaintive cry I hear with regrettable frequency from non-science/non-math types is that

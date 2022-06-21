@@ -3,6 +3,7 @@ layout: post
 title: Too Much AND Too Little COVID-19?!
 tags: COVID Politics
 comments: true
+commentsClosed: false
 ---
 
 Recently 2 Trump-appointed judges in the US have ruled that they can overturn Biden policies
