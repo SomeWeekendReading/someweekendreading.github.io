@@ -12,15 +12,16 @@ and [Dr. Seuss](https://en.wikipedia.org/wiki/Dr._Seuss) walk into a bar.
 
 ## Wait, what?  
 
-<img src="{{ site.baseurl }}/images/2020-07-01-about-weekend-publisher.jpg" width="400" height="400" alt="The Weekend Publisher's reaction to this 'joke'." title="The Weekend Publisher's reaction to this 'joke'." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2020-07-01-about-weekend-publisher.jpg" width="200" height="200" alt="The Weekend Publisher's reaction to this 'joke'." title="The Weekend Publisher's reaction to this 'joke'." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 That's it.  That's the whole joke.  
 
 Just sit with the image for a minute.  
 
-So sorry.  (Sorta.)  
+So sorry.  
 
-If it's any consolation, the Weekend Publisher didn't like it either, as you
-can see here.  A carnivorous predator has a very particular sense of humor.  
+Well, _sorta_ sorry.  If it's any consolation, the Weekend Publisher didn't like it
+either, as you can see here.  A carnivorous predator tends to have a very particular sense
+of humor.  
 
 ---
 
