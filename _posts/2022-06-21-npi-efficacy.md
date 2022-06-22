@@ -122,15 +122,15 @@ interventions worked better, saving more lives.
 
 The results seem to be:  
 - __School closures__ were effective and statistically significant in the 14-38 day period, and
-  negative but not quite statistically significant in the 0-14 day period.  
+  effective but not _quite_ statistically significant in the 0-14 day period.  
 - __Workplace closures__ were effective and statistically significant in the 0-14 day period,
-  and effective but not quite statistically significant in the 14-38 day period.  
-- __Travel restrictions__ were effective in both periods, but just barely not statistically
+  and effective but not _quite_ statistically significant in the 14-38 day period.  
+- __Travel restrictions__ were effective in both periods, but just _barely_ not statistically
   significant.  
 - No other intervention was statistically significant, and indeed all of them were sometimes
-  _ineffective_, i.e., increasing per capita death rates, in at least one period.  
+  _ineffective_, i.e., _increasing_ per capita death rates in at least one period.  
 
-(__NB:__ Mask usage was not tested, and cannot be analyzed from these data.)  
+(__NB:__ Mask usage, my favorite NPI, was not tested and cannot be analyzed from these data.)  
 
 Note that the interventions that mattered were both publicly measurable, and hence could
 be made mandatory and enforced.  The more voluntary, at-home interventions were not
