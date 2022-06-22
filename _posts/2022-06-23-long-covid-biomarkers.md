@@ -6,8 +6,8 @@ comments: true
 commentsClosed: false
 ---
 
-Some crazy people are suspicious that Long COVID-19 is a real thing.  So we're gratified here
-at Chez Weekend to find papers documenting what look like good biomarkers for it.  
+Some crazy people are suspicious that Long COVID-19 is not a real thing.  So we're gratified here
+at Chez Weekend to find papers documenting some biomarkers for it that look pretty good!  
 
 ## Long COVID skeptics  
 
@@ -93,8 +93,12 @@ still distinct from healthy patients).
 
 ## The Weekend Conclusion  
 
-Long COVID-19 is real.  It happens up to 30% of the time, so it's also frequent enough
-that it's a problem.  We need to find serious treatment for it!  
+Long COVID-19 is real.  The biomarkers look statistically significant and robust, and are
+related to the disease mechanisms (the viral proteins themselves).  It seldom gets any
+better than that.  
+
+Long COVID-19 happens up to 30% of the time, so it's also frequent enough that it's a
+problem.  We need to find serious treatment for it!  
 
 ---
 
