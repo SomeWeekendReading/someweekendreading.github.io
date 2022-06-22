@@ -3,7 +3,7 @@ layout: post
 title: Weekend Editrix Shot For the 7th Time
 tags:  COVID Food PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today the Weekend Editrix got shot for the 7th time in the trailing 12 months, having gotten

@@ -3,7 +3,7 @@ layout: post
 title: Today&colon; Shot for the 7th time
 tags:  COVID MathInTheNews PharmaAndBiotech Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today I got my 7th vaccination shot in the last 12 months.  Happily.  

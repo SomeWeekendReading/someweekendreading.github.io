@@ -3,7 +3,7 @@ layout: post
 title: Ivermectin vs Strongyloidiasis Paper Published
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the evidence

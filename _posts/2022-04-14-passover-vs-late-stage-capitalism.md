@@ -3,7 +3,7 @@ layout: post
 title: Passover &amp; Late-Stage Capitalism
 tags: CorporateLifeAndItsDiscontents Food Politics Religion SomebodyAskedMe &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 So, it's Passover.  What might late-stage capitalism have to say about that?

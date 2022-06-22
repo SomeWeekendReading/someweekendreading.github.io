@@ -3,7 +3,7 @@ layout: post
 title: The Perks of a PhD in Finland
 tags:  Beauty Obscurantism &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today I found out that I missed out a bit by getting my PhD anywhere but Finland.  
