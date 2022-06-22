@@ -32,8 +32,8 @@ know that's a fantasy.  But it's a fantasy that makes me want to heal the world
 going.  
 
 My father would have just been graduating from high school in those days.  It's a pleasant
-thought of an alternative universe, in which he'd been fortunate enough to take a
-_wanderjahr_ to experience Paris &amp; train his skills as an artist.  
+thought of an alternative universe, in which he'd have been fortunate enough to take a
+_wanderjahr_ to experience Paris &amp; train his considerable skills as an (amateur) artist.  
 
 ---
 
