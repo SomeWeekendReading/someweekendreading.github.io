@@ -73,7 +73,7 @@ of the flu, no worse.  (For reference, the Shingrix vaccine for shingles also ha
 10% of the population getting grade 3 adverse events.  So we're on track for something
 easily approvable and acceptable to patients.)  
 
-One of the reasons to read guys like Derek is that he tracked down the second Modernal
+One of the reasons to read guys like Derek is that he tracked down the second Moderna
 press release <sup id="fn5a">[[5](#fn5)]</sup>.  This has the very good news that their
 vaccine is stable for 12 hours at room temperature, 30 days at standard refrigerator
 temperature, and 6 months at standard freezer temperature.  Also, it doesn't require

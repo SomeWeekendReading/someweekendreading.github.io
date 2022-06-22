@@ -20,6 +20,7 @@ and adding sound.  The results can be quite striking, since we can see people in
 moving like _people_, not the jerky, sped-up mannequins they otherwise resemble.
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/mgVl6Yk4itw" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<iframe width="400" height="224" src="https://www.youtube.com/embed/tcuaQbBwK80" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 And so it is here, with a video of some 8 minutes summarizing what it would have been like
 to experience Paris in the 1920s.  The video is real; the colorization and added sound
 are plausible, but artificial.  
