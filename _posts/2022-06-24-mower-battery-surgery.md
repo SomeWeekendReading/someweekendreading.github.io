@@ -100,7 +100,8 @@ hazardous waste collection day in our town).
 </div>
 
 We were left with the empty battery case shown here.  The new cells fit perfectly, and we
-rewired them together.  
+rewired them together with some trepidation and triple-checking against the photograph of
+the original wiring.  
 
 Initially, the test lights on the top of the battery did not work, so that was somewhat of
 a worry.  However, after installing it in the mower and leaving it on the charger for a
