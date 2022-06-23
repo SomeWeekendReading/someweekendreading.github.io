@@ -35,8 +35,9 @@ The Patterson paper was a study of 144 patients = 29 normal + 26 mild/moderate C
 <a href="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-2.jpg"><img src="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-2-thumb.jpg" width="400" height="179" alt="Patterson, et al. @ Front Immunol: Persistent elevation of some monocytes in Long COVID" title="Patterson, et al. @ Front Immunol: Persistent elevation of some monocytes in Long COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 - Some populations of __monocytes (intermediate CD14+/CD16+ and non-classical CD14lo/CD16+)
   were elevated in PASC up to 15 months__ after the initial infection compared to healthy
-  controls ($p \lt 0.002$ and $p \lt 0.01$ by Kruskal-Wallis test).  That's what shown in
-  Fig 1 of the paper, reproduced here:
+  controls ($p \lt 0.002$ and $p \lt 0.01$ by
+  [Kruskal-Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance)).
+  That's what shown in Fig 1 of the paper, reproduced here:  
   - The black circles are the normals, the red squares are the severe COVID-19 patients,
     and the blue triangles are the Long COVID patients.  
   - We see that in both CD14+/CD16+ and CD14lo/CD16+ monocytes, there is an elevation with
