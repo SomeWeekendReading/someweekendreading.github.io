@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Career as a Lawnmower Battery Surgeon
+title: My Brief But Spectacular Career as a Lawnmower Battery Surgeon
 tags: CatBlogging Physics &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: false
@@ -57,7 +57,7 @@ Pauli &ndash;
 
 ## My career as a lawnmower battery surgeon  
 
-<img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-cells.jpg" width="400" height="321" alt="The replacements: 3 MightyMax 12v cells" title="The replacements: 3 MightyMax 12v cells" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-cells.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-cells.jpg" width="400" height="321" alt="The replacements: 3 MightyMax 12v cells" title="The replacements: 3 MightyMax 12v cells" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 First, we had to set about acquiring the transplant organs for our surgery.  A quick trip
 to Amazon, our preferred source for transplant organs, turned up the batteries shown
 here.  We acquired 3 cells, 12 volts each, alleged to be of dimensions compatible with the
@@ -95,8 +95,8 @@ videos warned. We then removed the defective cells and set them aside (a problem
 hazardous waste collection day in our town).  
 
 <div>
-<a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-7.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-7.jpg" width="200" height="266" alt="The empty battery case where the new cells will go" title="The empty battery case where the new cells will go" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-<a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-9.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-9.jpg" width="200" height="266" alt="The new cells in place" title="The new cells in place" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-9.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-9.jpg" width="200" height="266" alt="The new cells in place" title="The new cells in place" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-7.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-7.jpg" width="200" height="266" alt="The empty battery case where the new cells will go" title="The empty battery case where the new cells will go" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 </div>
 
 We were left with the empty battery case shown here.  The new cells fit perfectly, and we
@@ -106,17 +106,25 @@ Initially, the test lights on the top of the battery did not work, so that was s
 a worry.  However, after installing it in the mower and leaving it on the charger for a
 bit, that began working as well and showed a full charge.  
 
-The acid test was to mow the lawn, which test the rejuvenated battery passed with flying
+The acid test was to mow the lawn, which test the now-rejuvenated battery passed with flying
 colors.  
 
 
 ## The Weekend Conclusion  
 
+<a href="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-weekend-publisher-purrs.jpg"><img src="{{ site.baseurl }}/images/2022-06-12-conspiracy-life-weekend-publisher-purrs.jpg" width="200" height="308" alt="The Weekend Publisher approves" title="The Weekend Publisher approves" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The lawn mower now works like new, with plenty of oomph.  The surgery was a success!  And
 apparently Nature has forgiven me for being a theoretical physicist, as the
 [Pauli effect](https://en.wikipedia.org/wiki/Pauli_effect) did not put in an appearance.  
 
-Now to figure out how to dispose of the old cells&hellip;  
+Ok, so it wasn't rocket surgery.  But it _was_ battery surgery; I had to start somewhere.  
+
+As you can see from the photo: the Weekend Publisher, in his supervisory capacity over
+lawn maintenance and all other human activities, also approves.  Or, at least he purred at the
+yard while perched on the deck, which is something.  I'm not sure _what_ exactly, but _something._
+(Hey, don't mock me.  A cat's approval is hard to win!)  
+
+Now to figure out how to dispose of the old cells&hellip; properly &amp; legally.  
 
 ---
 
