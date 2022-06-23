@@ -9,13 +9,13 @@ commentsClosed: false
 Some crazy people are suspicious that Long COVID-19 is not a real thing.  So we're gratified here
 at Chez Weekend to find papers documenting some biomarkers for it that look pretty good!  
 
-## Long COVID skeptics  
+## Long COVID-19 skeptics  
 
 There's a certain kind of cruel conservative viewpoint encouraging suspicion that the
 suffering of "those people" is not real, or at least not as serious as claimed.  This
 particularly applies to conditions affecting non-whites (e.g., sickle cell anemia) or
 women (e.g., chronic fatigue syndrome).  Since they view COVID-19 as a preoccupation of
-the liberal, they are also suspicious that Long COVID (now called "post-acute sequelae of
+the liberal, they are also suspicious that Long COVID-19 (now called "post-acute sequelae of
 COVID-19", or PASC) is just "malingering."  
 
 <img src="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-1.jpg" width="400" height="313" alt="Patterson, et al. @ Front Immunol: Persistence of SARS-CoV2 S1 protein in CD16+ monocytesin Long COVID-19" title="Patterson, et al. @ Front Immunol: Persistence of SARS-CoV2 S1 protein in CD16+ monocytesin Long COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -31,18 +31,18 @@ seriously, since it seems to affect about 30% of COVID-19 patients according to 
 Patterson paper!  
 
 The Patterson paper was a study of 144 patients = 29 normal + 26 mild/moderate COVID-19 +
-24 severe COVID-19 and 64 with Long COVID/PASC.  By comparing these groups, they established:  
-<a href="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-2.jpg"><img src="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-2-thumb.jpg" width="400" height="179" alt="Patterson, et al. @ Front Immunol: Persistent elevation of some monocytes in Long COVID" title="Patterson, et al. @ Front Immunol: Persistent elevation of some monocytes in Long COVID" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+24 severe COVID-19 and 64 with Long COVID-19/PASC.  By comparing these groups, they established:  
+<a href="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-2.jpg"><img src="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-2-thumb.jpg" width="400" height="179" alt="Patterson, et al. @ Front Immunol: Persistent elevation of some monocytes in Long COVID-19" title="Patterson, et al. @ Front Immunol: Persistent elevation of some monocytes in Long COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 - Some populations of __monocytes (intermediate CD14+/CD16+ and non-classical CD14lo/CD16+)
   were elevated in PASC up to 15 months__ after the initial infection compared to healthy
   controls ($p \lt 0.002$ and $p \lt 0.01$ by
   [Kruskal-Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance)).
   That's what shown in Fig 1 of the paper, reproduced here:  
   - The black circles are the normals, the red squares are the severe COVID-19 patients,
-    and the blue triangles are the Long COVID patients.  
+    and the blue triangles are the Long COVID-19 patients.  
   - We see that in both CD14+/CD16+ and CD14lo/CD16+ monocytes, there is an elevation with
     respect to normals.  
-  - While it looks like there's a trend of elevation between severe and Long COVID, it's
+  - While it looks like there's a trend of elevation between severe and Long COVID-19, it's
     not statistically significant.  
   - Note that the classical monocytes, in the first column, express ACE2 while the other
     types of monocytes pretty much do not.  So SARS-CoV2 can attack the classical
