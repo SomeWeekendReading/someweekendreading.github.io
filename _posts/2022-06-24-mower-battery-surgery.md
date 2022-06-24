@@ -34,43 +34,44 @@ instead of 5, so that was _sort of_ ok.
 
 ## Battery surgery  
 
-But late last year, it gave out and would only last about 15 minutes between charges.  We
-either had to replace it, or buy a new mower.  Much searching and consultation with lawn
-and garden store folk revealed this to be hopeless.  I _almost_ pulled the trigger on
-buying a new lawn mower: I wanted to get one that used the same battery as the snowblower,
-but the company that made the snowblower apparently no longer makes a battery-compatible
-mower.  
+But late last year, that second battery gave out and would only last about 15 minutes
+between charges.  We either had to replace it, or buy a new mower.  Much searching and
+consultation with lawn and garden store folk revealed replacement to be hopeless.  I
+_almost_ pulled the trigger on buying a new lawn mower: I wanted to get one that used the
+same battery as the snowblower, but the company that made the snowblower apparently no
+longer makes a battery-compatible mower.  _Sheesh._  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/9lm4V2mGf4Q" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <iframe width="400" height="224" src="https://www.youtube.com/embed/YtpnhABs54A" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 It was then that I realized I can't possibly be the only person with this problem, and
 searched for what other people did.  That led to a plethora of YouTube videos, a couple of
-representatives of which are shown here.  The bottom line is: you can open the battery
-casing, remove the 3 expired 12 volt cells, and replace them.  I figured with a PhD in
-physics I should be able to figure out how to wire 3 cells in series without shocking
-myself by touching battery terminals in some inappropriate way.  (Then again, I was a
-_theoretical physicist_, so my lab skills can reasonably be questioned.  I'm not as bad as
-Pauli &ndash; 
-[the second Pauli exclusion principle: "a functioning device and Wolfgang Pauli may not occupy the same room"](https://en.wikipedia.org/wiki/Pauli_effect)
+representatives of which are shown here.  
+
+The bottom line is: you can open the battery casing, remove the 3 expired 12 volt cells,
+and replace _them._  I figured with a PhD in physics I should be able to figure out how to
+wire 3 cells in series without shocking myself by touching battery terminals in some
+inappropriate way.  (Then again, I was a _theoretical physicist_, so my lab skills can
+reasonably be questioned.  I'm not as bad as Pauli &ndash;
+[the second Pauli exclusion principle is: "a functioning device and Wolfgang Pauli may not occupy the same room"](https://en.wikipedia.org/wiki/Pauli_effect)
 &ndash; but then again I wasn't as good a theoretical physicist, either.)  
 
 
 ## My career as a lawnmower battery surgeon  
 
-<a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-cells.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-cells.jpg" width="400" height="321" alt="The replacements: 3 MightyMax 12v cells" title="The replacements: 3 MightyMax 12v cells" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-cells.jpg" width="400" height="321" alt="The replacements: 3 MightyMax 12v cells" title="The replacements: 3 MightyMax 12v cells" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 First, we had to set about acquiring the transplant organs for our surgery.  A quick trip
-to Amazon, our preferred source for transplant organs, turned up the batteries shown
-here.  We acquired 3 cells, 12 volts each, alleged to be of dimensions compatible with the
-battery casing.  
+to Amazon, our preferred source for transplant organs, turned up the 12 volt cells shown
+here.  We acquired 3 of them, 12 volts each, alleged to be of dimensions compatible with the
+battery casing and to tolerate deep discharges.  
 
 The total cost was about \$80, well below the cost of a replacement lawn
 mower.  They even came nearly fully charged, which was convenient &ndash; though it meant
 I wanted to handle them with some care!  
 
 <a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-1.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-1.jpg" width="100" height="133" alt="Surgical tools: pliers, torx driver, and WD-40 (with the removed torx screws shown as well" title="Surgical tools: pliers, torx driver, and WD-40 (with the removed torx screws shown as well" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Next, as all the best surgeons do, we laid our our surgical tools in a little
+Next, as all the best surgeons do, we laid out our our surgical tools in a little
 _mise-en-place_.  Shown here are the pliers, the T20 torx driver borrowed from my
-neighbor, and some WD-40 to open stubborn screws that have been in place for possibly a decade
+wonderful neighbor, and some WD-40 to open stubborn screws that have been in place for possibly a decade
 or more.  The 6 torx screws removed are also shown in this after-the-fact picture.  
 
 <div>
