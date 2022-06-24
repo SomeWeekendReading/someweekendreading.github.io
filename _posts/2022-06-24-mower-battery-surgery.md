@@ -23,7 +23,9 @@ sharpened a couple times.
 But it's no longer manufactured, technology having marched onward to better batteries and
 such.  I can live with that.  But more importantly, _the battery is no longer manufactured
 either!_  Now, batteries are a consumable: they last a few years, then start losing their
-ability to hold a charge, eventually becoming useless.  
+ability to hold a charge, eventually becoming useless.  (Ok, maybe with the exception of
+the [Ambri Liquid Metal Battery](https://ambri.com/), which is&hellip; _exceptional._
+More about that, on another occasion.)  
 
 So after about 5 years, we needed a new battery and had a terrible time finding one.
 Finally, we found one in a warehouse somewhere inconvenient.  That's not ideal: it had
