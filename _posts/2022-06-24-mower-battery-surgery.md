@@ -52,7 +52,7 @@ and replace _them._
 
 I figured with a PhD in physics I should maybe, just barely, be able to figure out how to
 wire 3 cells in series without shocking myself by touching battery terminals in some
-inappropriate way.  (Then again, I was a _theoretical physicist_, so my lab skills can
+inappropriate way.  (Then again, I was a _theoretical physicist_, so my lab skills may
 reasonably be questioned.  I'm not as bad as Pauli &ndash;
 [the second Pauli exclusion principle is: "a functioning device and Wolfgang Pauli may not occupy the same room"](https://en.wikipedia.org/wiki/Pauli_effect)
 &ndash; but then again I wasn't as good a theoretical physicist, either.)  
