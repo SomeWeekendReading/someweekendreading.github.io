@@ -39,7 +39,7 @@ between charges.  We either had to replace it, or buy a new mower.  Much searchi
 consultation with lawn and garden store folk revealed replacement to be hopeless.  I
 _almost_ pulled the trigger on buying a new lawn mower: I wanted to get one that used the
 same battery as the snowblower, but the company that made the snowblower apparently no
-longer makes a battery-compatible mower.  _Sheesh._  
+longer makes a battery-compatible lawn mower.  _Sheesh._  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/9lm4V2mGf4Q" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <iframe width="400" height="224" src="https://www.youtube.com/embed/YtpnhABs54A" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
@@ -48,7 +48,9 @@ searched for what other people did.  That led to a plethora of YouTube videos, a
 representatives of which are shown here.  
 
 The bottom line is: you can open the battery casing, remove the 3 expired 12 volt cells,
-and replace _them._  I figured with a PhD in physics I should be able to figure out how to
+and replace _them._  
+
+I figured with a PhD in physics I should maybe, just barely, be able to figure out how to
 wire 3 cells in series without shocking myself by touching battery terminals in some
 inappropriate way.  (Then again, I was a _theoretical physicist_, so my lab skills can
 reasonably be questioned.  I'm not as bad as Pauli &ndash;
