@@ -127,7 +127,7 @@ Ok, so it wasn't rocket surgery.  But it _was_ battery surgery; I had to start s
 
 As you can see from the photo: the Weekend Publisher, in his supervisory capacity over
 lawn maintenance and all other human activities, also approves.  Or, at least he purred at the
-yard while perched on the deck, which is something.  I'm not sure _what_ exactly, but _something._
+yard while perched on the deck, which is something.  I admit I'm not sure _what_ exactly, but _something._
 (Hey, don't mock me.  A cat's approval is hard to win!)  
 
 Now to figure out how to dispose of the old cells&hellip; properly &amp; legally.  
