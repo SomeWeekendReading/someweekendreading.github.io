@@ -6,7 +6,7 @@ comments: true
 commentsClosed: false
 ---
 
-My lawnmower needs a new battery, but they're no longer made.  So I made one of my own.  
+My lawnmower needed a new battery, but they're no longer made.  So I made one of my own.  
 
 
 ## An excellent lawnmower&hellip; and its discontents  
@@ -84,7 +84,7 @@ or more.  The 6 torx screws removed are also shown in this after-the-fact pictur
 
 Subsequently, we prepped the patient for surgery, as shown here.  Turning it over, we
 found the 6 torx screws and, with the aid of our friend Mr. WD-40, removed them.  As you
-can see from the swollen cells, it's entirely understandable that the battery is kaput.  
+can see from the swollen cells, it's entirely understandable that this battery was kaput.  
 
 <div>
 <a href="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-6.jpg"><img src="{{ site.baseurl }}/images/2022-06-24-mower-battery-surgery-6.jpg" width="200" height="150" alt="Battery/cell wiring configuration (hook it back up the same way!)" title="Battery/cell wiring configuration (hook it back up the same way!)" style="float: left; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
