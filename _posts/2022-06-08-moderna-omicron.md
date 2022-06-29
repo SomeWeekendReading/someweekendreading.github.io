@@ -22,7 +22,7 @@ a now-presumably-extinct variant from 2019-2020.
 However, today is a Very Good Day: we have some positive results on that front.  The
 primary source is of course the Moderna press release. <sup id="fn1a">[[1]](#fn1)</sup>
 Because we hate press releases, we'll supplement with coverage from the always-excellent 
-Matt Herpet at _STAT News_. <sup id="fn2a">[[2]](#fn2)</sup>  
+Matt Herper at _STAT News_. <sup id="fn2a">[[2]](#fn2)</sup>  
 
 The now-classic "Spikevax", whose name we love, was initially know by the id mRNA1273.  (I
 still have to suppress my reflex of immediately memorizing compound ids so I'll be able to
