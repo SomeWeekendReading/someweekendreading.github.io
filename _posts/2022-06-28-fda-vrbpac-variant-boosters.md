@@ -494,6 +494,13 @@ My opinion is that they should EUA them immediately, but then nobody has to care
 opinion of a crankly old scientist who's the proprietor of a Crummy Little Blog That
 Nobody Reads (CLBTNR). :-)  
 
+
+## Addendum 2022-Jun-29  
+
+Katelyn Jetelina at [_Your Local Epidemiologist_](https://yourlocalepidemiologist.substack.com/)
+has also [written a summary of the VRBPAC meeting](https://yourlocalepidemiologist.substack.com/p/clarity-for-fall-were-getting-an),
+coming to broadly similar conclusions.  And much greater brevity!  
+
 ---
 
 ## Notes &amp; References  
