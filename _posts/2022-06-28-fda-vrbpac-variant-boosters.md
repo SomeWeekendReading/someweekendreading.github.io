@@ -345,7 +345,7 @@ They begin with an _excellent_ summary of how dire the situation is:
   but&hellip;  
 - 2021 alone saw 2 variants (Alpha and Delta), both extremely different from the 2020
   classic version  
-- As if that were not enough, in the first 6 months of 2022 we've seen _6 distinct Omicron
+- As if that were not enough, in the first 6 months of 2022 we've seen _5 distinct Omicron
   subvariants_, each more infectious than the previous!  
   
 __Conclusion:__ The virus is mutating extremely rapidly, adapting to its new human hosts
@@ -477,13 +477,13 @@ Philadelphia &amp; Hank Bernstein of the Zucker School of Medicine.
 ## The Weekend Conclusion  
 
 1. Moderna's bivalent vaccine works, and works well.  If I have a choice, this is the one
-   I want to get in the fall.  It could probablyo be used as a complete drop-in
+   I want to get in the fall.  It could probably be used as a complete drop-in
    replacement for the original Moderna vaccine, though I haven't seen that discussed.  
 2. Pfizer monovalent vaccine also works, _provided_ you've previously had the classic
    vaccine.  Thus it's not a replacement for the original Pfizer vaccine, but a booster to
    be used afterwards, probably at the 4th dose.  (And there was no clarification why, in
    the table above, the GMT levels for Pfizer were an order of magnitude larger than
-   Mooderna's.  That gives me a statistical itch.)  
+   Moderna's.  That gives me a statistical itch.)  
 3. Novavax is weird, but some people are enthused.  I'll wait for that to shake out a bit
    more before having an opinion.  
 
@@ -491,7 +491,7 @@ So the VRBPAC recommended the FDA proceed with Omicron-specific boosters.  We'll
 they do about it.
 
 My opinion is that they should EUA them immediately, but then nobody has to care about the
-opinion of a crankly old scientist who's the proprietor of a Crummy Little Blog That
+opinion of a cranky old scientist who's the proprietor of a Crummy Little Blog That
 Nobody Reads (CLBTNR). :-)  
 
 
