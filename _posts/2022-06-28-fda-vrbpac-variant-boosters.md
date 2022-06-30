@@ -253,7 +253,7 @@ Here are a couple of their results:
   of models.  
   - The color bands indicate the 50%, 80%, 90%, and 95% confidence limits, respectively.  
   - They all predict a winter surge, with the double-pessimistic version being the worst.  
-  - There is however, a considerable band of uncertanty.  This is how you recognize good
+  - There is however, a considerable band of uncertainty.  This is how you recognize good
     modeling work: you're given not just a number, but a distribution of numbers with
     probabilities assigned.
 <a href="{{ site.baseurl }}/images/2022-06-28-fda-vrbpac-variant-boosters-lessler-17.jpg"><img src="{{ site.baseurl }}/images/2022-06-28-fda-vrbpac-variant-boosters-lessler-17-thumb.jpg" width="400" height="228" alt="Lessler @ VRBPAC: Ensemble predictions of probability of exceeding a level of hospitalizations" title="Lessler @ VRBPAC: Ensemble predictions of probability of exceeding a level of hospitalizations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -316,7 +316,7 @@ was actually slightly less of a problem than their original vaccine.
 <a href="{{ site.baseurl }}/images/2022-06-28-fda-vrbpac-variant-boosters-moderna-22.jpg"><img src="{{ site.baseurl }}/images/2022-06-28-fda-vrbpac-variant-boosters-moderna-22.jpg" width="400" height="224" alt="Moderna @ VRBPAC: It also works vs Omicron/BA.4-5, regardless of age or prior infection" title="Moderna @ VRBPAC: It also works vs Omicron/BA.4-5, regardless of age or prior infection" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Slides 11-13 and 22 of their presentation make this point dramatically.  
 - _Slide 11:_  Looking at the Omicron neutralizing ab ID50 GMTs, comparing the classic
-  vaccine vs the bivalent Omciron one, we see higher fold induction with the new vaccine
+  vaccine vs the bivalent Omicron one, we see higher fold induction with the new vaccine
   than the old one.  
 - _Slide 12:_ To compare those quantitatively, we see the ratio GMR between the old and
   new vaccines on Omicron samples was 1.75 (95% CL: 1.49 - 2.04).  Also looking at
@@ -370,7 +370,7 @@ Omicron/BA.1 strain, then dominant.  They tested it a couple of different ways:
 The goals were the same as before: antibody levels showing GMR superiority (95% lower
 confidence limit of GMR &gt; 1), and seroresponse noninferiority (95% lower confidence
 limit of SRR &gt; -5%, i.e., guarantee little if any seroresponse loss) on Omicron, and at
-least comparable repsonse on the reference strain.  
+least comparable response on the reference strain.  
 
 Now, that's a lot of different studies, which leads to a lot of different ways to compare
 the data!  Would you believe me if I said it looked like all the side analyses were
@@ -388,7 +388,7 @@ Slides 8 - 10 do the trick for getting the bottom line into our brains:
   non-inferiority, and that has clearly been done, with a GMR ~ 1.00.  (And they did
   finally add the 95% confidence limits that we missed above in the FDA report.  Good.)  
 - _Slide 10:_ All the above was for people who had previously gotten the classic Pfizer
-  vaccine.  What about immunologially na&iuml;ve people who got _only_ the Omicron
+  vaccine.  What about immunologically na&iuml;ve people who got _only_ the Omicron
   version?  This slide shows the somewhat annoying result: they got strong immunity to
   Omicron, but _not_ to the previous variants!  So basically in order to get the Pfizer
   monovalent vaccine to work well, you must have previously received the classic vaccine.
@@ -413,11 +413,11 @@ They made some interesting claims:
 - Their adjuvant causes "epitope spreading" and thus enhanced recognition of those
   conserved epitopes.  
   
-Therefore, they claim, their protien vaccine should be fine with Omicron.  
+Therefore, they claim, their protein vaccine should be fine with Omicron.  
 
 I'm not quite sure what to make of this, and apparently neither were the VRBPAC members.
 In any case, their vaccine is not yet approved since they've changed their manufacturing
-pipeline to make something slighlty different from what was in their clinical trials, so
+pipeline to make something slightly different from what was in their clinical trials, so
 that has to be ironed out first with a bridging study.  
 
 Weird, but useful if true.  
