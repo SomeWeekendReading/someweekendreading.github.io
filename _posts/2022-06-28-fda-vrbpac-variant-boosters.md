@@ -501,6 +501,17 @@ Katelyn Jetelina at [_Your Local Epidemiologist_](https://yourlocalepidemiologis
 has also [written a summary of the VRBPAC meeting](https://yourlocalepidemiologist.substack.com/p/clarity-for-fall-were-getting-an),
 coming to broadly similar conclusions.  And much greater brevity!  
 
+
+## Addendum 2022-Jul-02  
+
+_Reuters_ reports <sup id="fn19a">[[19]](#fn19)</sup> <sup id="fn20a">[[20]](#fn20)</sup> <sup id="fn21a">[[21]](#fn21)</sup>
+that the FDA (a) _will_ require Omicron/BA.4 and BA.5 content in fall boosters, but 
+(b) _will not_ require new clinical trials, regarding the existing Omicron trials above as
+sufficient.  
+
+Now we'll find out who's right about whether the manufacturing pipeline can turn on a dime
+and produce vaccines in time for fall!  
+
 ---
 
 ## Notes &amp; References  
@@ -552,3 +563,9 @@ coming to broadly similar conclusions.  And much greater brevity!
 <a id="fn17">17</a>: K Subbarao, ["Technical Advisory Group on COVID-19 Vaccine Composition (TAG-CO-VAC) Interim statement on current COVID-19 vaccine composition"](https://www.fda.gov/media/159493/download), _World Health Organization_, 2022-Jun-28. [↩](#fn17a)  
 
 <a id="fn18">18</a>: JP Weir, ["COVID-19 Vaccine Strain Composition"](https://www.fda.gov/media/159495/download), US FDA, 2022-Jun-28. [↩](#fn18a)  
+
+<a id="fn19">19</a>: M Erman &amp; M Mishra, ["US FDA wants COVID boosters targeting Omicron BA.4, BA.5 subvariants"](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-recommends-inclusion-ba4-ba5-subvariants-covid-boosters-2022-06-30/), _Reuters_, 2022-Jun-30. [↩](#fn19a)  
+
+<a id="fn20">20</a>: M Erman, ["FDA will not require clinical trial data to authorize redesigned COVID boosters -official"](https://www.reuters.com/legal/government/fda-will-not-require-clinical-trial-data-authorize-redesigned-covid-boosters-2022-06-30/), _Reuters_, 2022-Jun-30. [↩](#fn20a)  
+
+<a id="fn21">21</a>: M Erman, ["U.S. FDA to use existing Omicron booster data to review shots targeting new subvariants -official"](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-will-not-require-clinical-trial-data-authorize-redesigned-covid-boosters-2022-06-30/), _Reuters_, 2022-Jun-30. [↩](#fn21a)  
