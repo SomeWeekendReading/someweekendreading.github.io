@@ -81,7 +81,8 @@ That's American Republicans, right there.  Maybe the wooden heads require an
 application of termites?  
 
 Sorry, that's everything I got.  The times are dark, and apparently so am I, despite attempts to 
-["show an affirming flame"]({{ site.baseurl }}/greens-asymmetry/#the-weekend-conclusion).  
+["show an affirming flame"]({{ site.baseurl }}/greens-asymmetry/#the-weekend-conclusion),
+short of setting wooden heads afire.  
 
 ---
 
