@@ -48,11 +48,11 @@ _both_ his care-givers at home and available full-time.  I mean, look at the mag
 bastard: at least _he's_ happy, mostly.  
 
 And I'm somewhat happy about this Crummy Little Blog That Nobody Reads (CLBTNR) , though I
-wish it were somewhat more widely read, maybe commented.  At any rate, I'm happier with
-the blog than I thought I'd be: I thought I'd struggle to have something to say once a
-week, and that appears to have been no problem at all.  It's led to a minor change in
-mind-set: when I see a bit of interesting news, I think: Should I really believe that, and
-how would I persuade others to believe it or not?  
+wish it were somewhat more widely read, maybe commented or cited more often.  At any rate,
+I'm happier with the blog than I thought I'd be: I thought I'd struggle to have something
+to say once a week, and that appears to have been no problem at all.  It's led to a minor
+change in mind-set: when I see a bit of interesting news, I think: Should I really believe
+that, and how would I persuade others to "believe it or not"?  
 
 
 ## The Weekend Conclusion  
