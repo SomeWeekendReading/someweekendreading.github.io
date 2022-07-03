@@ -52,8 +52,8 @@ bastard: at least _he's_ happy, mostly.
 
 So, yeah: I really dunno.  
 
-I _do_ know we both desperately want a more normal life that the last couple years have
-been.  A life filled with less pandemic, less American fascism and Republicans, less war,
+I _do_ know we both desperately want a more normal life than the last couple years have
+been.  A life filled with less pandemic, less American fascism &amp; Republicans, less war,
 less steep economic inequality, less anti-intellectualism, &hellip; less of a lot of
 noxious things.  Less of society sliding back into the ignorant mud.  
 
@@ -73,7 +73,7 @@ In the words of one of my favorite historians, Barbara Tuchman in _The March of 
 That's American Republicans, right there.  Maybe the wooden heads require an
 application of termites?  
 
-Sorry, that's all I got.  The times are dark, and apparently so am I, despite attempts to 
+Sorry, that's everything I got.  The times are dark, and apparently so am I, despite attempts to 
 ["show an affirming flame"]({{ site.baseurl }}/greens-asymmetry/#the-weekend-conclusion).  
 
 ---
