@@ -27,7 +27,7 @@ Club Med a couple times a year.  Silly me.)
 I watched our retirement portfolio plunge in 2020, then soar&hellip; and now plunge again
 in 2022.  Yes, I held and rebalanced.  No, I didn't like it.  
 - The horizontal axis is time, going back about 20 years.  
-- The vertical axis is retirement portfolio value, as a percent of what became our
+- The vertical axis is retirement portfolio value, as a percent of what became our 
   eventual goal.  That is, retirement could happen when this reached 100%.  
 - Note the log scale on the vertical axis: exponential growth will appear as a straight
   line.  Oddly, that's what happened, despite gradual tempering of the asset allocation
@@ -46,6 +46,13 @@ in 2022.  Yes, I held and rebalanced.  No, I didn't like it.
 The cat is the only household member happy with this state of affairs, since it meant he got to have
 _both_ his care-givers at home and available full-time.  I mean, look at the magnificent
 bastard: at least _he's_ happy, mostly.  
+
+And I'm somewhat happy about this Crummy Little Blog That Nobody Reads (CLBTNR) , though I
+wish it were somewhat more widely read, maybe commented.  At any rate, I'm happier with
+the blog than I thought I'd be: I thought I'd struggle to have something to say once a
+week, and that appears to have been no problem at all.  It's led to a minor change in
+mind-set: when I see a bit of interesting news, I think: Should I really believe that, and
+how would I persuade others to believe it or not?  
 
 
 ## The Weekend Conclusion  
