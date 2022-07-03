@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retirement&colon; 2 Years In, And &hellip;
-tags: About CatBlogging CorporateLifeAndItsDiscontents COVID Investing Politics Religion Retirement
+tags: About CatBlogging CorporateLifeAndItsDiscontents COVID Investing Politics Retirement
 comments: true
 commentsClosed: false
 ---
