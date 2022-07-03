@@ -23,7 +23,7 @@ teaching statistics to undergrads &ndash; on the theory that they may one day en
 some evidence and should have some idea of what to do with it.  With adjournments to
 Club Med a couple times a year.  Silly me.)  
 
-<img src="{{ site.baseurl }}/images/2022-07-01-two-years-retired-portfolio-values-over-time.jpg" width="400" height="400" alt="Log-scale portfolio values over time" title="Log-scale portfolio values over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/2022-07-01-two-years-retired-portfolio-values-over-time.jpg"><img src="{{ site.baseurl }}/images/2022-07-01-two-years-retired-portfolio-values-over-time-thumb.jpg" width="400" height="400" alt="Log-scale portfolio values over time" title="Log-scale portfolio values over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 I watched our retirement portfolio plunge in 2020, then soar&hellip; and now plunge again
 in 2022.  Yes, I held and rebalanced.  No, I didn't like it.  
 - The horizontal axis is time, going back about 20 years.  
