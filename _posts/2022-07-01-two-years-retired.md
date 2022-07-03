@@ -19,13 +19,13 @@ tipped well to the people taking that risky job), and so on.  It was not&hellip;
 of the ways I'd imagined retirement.  
 
 (How did I imagine retirement?  Academic libraries, seminars.  Maybe an adjunct professor
-teaching stats to undergrads, on the theory that they may one day encounter some evidence
-and should have some theory of what to do with it.   With adjournments to Club Med a
-couple times a year.  Silly me.)  
+teaching statistics to undergrads &ndash; on the theory that they may one day encounter
+some evidence and should have some idea of what to do with it.  With adjournments to
+Club Med a couple times a year.  Silly me.)  
 
 <a href="{{ site.baseurl }}/images/2022-07-01-two-years-retired-portfolio-values-over-time.jpg"><img src="{{ site.baseurl }}/images/2022-07-01-two-years-retired-portfolio-values-over-time-thumb.jpg" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-I watched our portfolio plunge, then soar&hellip; and now plunge again.  Yes, I held and
-rebalanced.  No, I didn't like it.  
+I watched our retirement portfolio plunge in 2020, then soar&hellip; and now plunge again
+in 2022.  Yes, I held and rebalanced.  No, I didn't like it.  
 - The horizontal axis is time, going back about 20 years.  
 - The vertical axis is retirement portfolio value, as a percent of what became our
   eventual goal.  That is, retirement could happen when this reached 100%.  
@@ -42,7 +42,7 @@ rebalanced.  No, I didn't like it.
   _nerve-wracking._  Nobody's happy to see stuff like that, though most people bury their
   heads in the sand and refuse to look.  At least I'm trying to be truthful with myself here.  
 
-<a href="{{ site.baseurl }}/images/2022-07-01-two-years-retired-weekend-publisher.jpg"><img src="{{ site.baseurl }}/images/2022-07-01-two-years-retired-weekend-publisher-thumb.jpg" width="400" height="533" alt="The Weekend Publisher, having happily finished a  play session with his people" title="The Weekend Publisher, having happily finished a  play session with his people" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<img src="{{ site.baseurl }}/images/2022-07-01-two-years-retired-weekend-publisher.jpg" width="400" height="533" alt="The Weekend Publisher, having happily finished a  play session with his people" title="The Weekend Publisher, having happily finished a  play session with his people" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The cat is the only household member happy with this state of affairs, since it meant he got to have
 _both_ his care-givers at home and available full-time.  I mean, look at the magnificent
 bastard: at least _he's_ happy, mostly.  
@@ -61,10 +61,10 @@ I do know how to get vaccinated.  I do know how to vote.
 
 What I _don't_ know is how to get enough of my co-citizens to do either of those things in
 the proper direction.  I don't even _understand_ why they won't get vaccinated and won't
-vote more lefty.  Basically, I don't get the wooden-headedness that seems so much worse in
+vote more lefty.  Basically, I don't get the _wooden-headedness_ that seems so much worse in
 the US now than ever before in my life.  
 
-In short, in the words of one of my favorite historians, Barbara Tuchman in _The March of Folly_ <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>:  
+In the words of one of my favorite historians, Barbara Tuchman in _The March of Folly_ <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>:  
 
 > Wooden-headedness, the source of self-deception, is a factor that plays a remarkably
 > large role in government. It consists in assessing a situation in terms of preconceived
