@@ -21,7 +21,8 @@ of the ways I'd imagined retirement.
 (How did I imagine retirement?  Academic libraries, seminars.  Maybe an adjunct professor
 teaching statistics to undergrads &ndash; on the theory that they may one day encounter
 some evidence and should have some idea of what to do with it.  With adjournments to
-Club Med a couple times a year.  Silly me.)  
+Club Med a couple times a year.  And I had _sort of_ hoped to work on future President
+Elizabeth Warren's campaign.  Silly me.)  
 
 ### Investments  
 
