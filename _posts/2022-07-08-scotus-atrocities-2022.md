@@ -21,7 +21,7 @@ have <sup id="fn1a">[[1]](#fn1)</sup>:
 > thing about this hyperpartisan moment: Nearly every American, whatever their political
 > perspective, has a foreboding that the country they love is losing its way.  
 
-Now, I understand why liberals and independenets are traumatized: we're watching
+Now, I understand why liberals and independents are traumatized: we're watching
 knucklehead theocrats drag the country back into the pre-Enlightenment mud.  But why are
 the conservatives traumatized, when they're getting all the destruction for which they've
 lusted, these many years?  
@@ -103,7 +103,7 @@ Ok, but does that resonate personally: do I as a progressive liberal feel that w
 confronted with a list of this term's SCOTUS decisions?  To find out, we peruse the
 helpful list of major decisions this term by Liptak &amp; Kao at the
 _NYT_.  <sup id="fn4a">[[4]](#fn4)</sup>  Let's go over them and register a personal
-reaction to each one negative, neutral, good: aargh/meh/yay.  
+reaction to each one negative, neutral, good: AARGH/MEH/YAY.  
 
 1. __Climate change:__ _W Va v EPA_.  The court gutted regulatory agency ability to
    regulate much of anything, in particular broad regulations over the energy sector.
@@ -119,7 +119,7 @@ reaction to each one negative, neutral, good: aargh/meh/yay.
    I dunno here: I'm in favor of tribal independence, but don't understand the issue.  So,
    __MEH__.  Split decision, because of Gorsuch.  
 4. __School prayer:__ _Kennedy v Bremerton Sch Distr_.  A more than usually
-   knuckleheaded high school football coach wanted to pray in the middle of the footbal
+   knuckleheaded high school football coach wanted to pray in the middle of the football
    field after games.  He wished to do so in public.  He also wished to invite players
    "who wanted to join" to do so.  This was in spite of their being his subordinates utterly
    dependent on him, which impairs their ability to consent.  The court inexplicably
@@ -162,7 +162,7 @@ reaction to each one negative, neutral, good: aargh/meh/yay.
     power forever.  
 13. __Workplaces and COVID-19:__ _Natl Fed of Indep Bus v. Labor Dept_.  Supremes reject
     Biden's mandate of vaccination or testing at large employers.  Absolutely, suicidally
-    stupid.  Big, honkin' load __AARGH__.  Conservative bloc decision.  
+    stupid.  Big, honkin' loud __AARGH__.  Conservative bloc decision.  
 14. __Healthcare facilities and COVID-19:__  _Biden v Missouri_.  Upholds Biden mandate
     that healthcare facilities receiving federal money must not be stupid, and thus should
     vaccinate workers.  Solid __YAY__, though puzzling why this one differed from the
@@ -227,13 +227,13 @@ alternative hypothesis: two.sided
   it, and whether it was a bloc/split/unanimous decision.  
 - The second output is the crosstabulation, giving the count of cases with the given
   assessment by me on the rows and the decision type on the column.  
-  - As you can see, almost all my "AARGH" problems are due to conserviative bloc
+  - As you can see, almost all my "AARGH" problems are due to conservative bloc
     decisions.  
   - The single exception was _US v Zubaydah_, where it really was kind of split in a way I
     just don't understand.  
 - Finally, we performed a Fisher exact test: the null hypothesis is that my feelings are
   unrelated to the bloc/not-bloc nature of the decision; the alternative hypothesis is
-  that the _are_ releated.  The verdict, with a $p$-value of $p \sim 0.5\%$, is that they
+  that the _are_ related.  The verdict, with a $p$-value of $p \sim 0.5\%$, is that they
   are in fact related.  
   
 So, yeah: I'm steamed about those Team Evil bloc votes.
