@@ -61,10 +61,10 @@ effort by Republicans to pack the court with extremists.
 
 Their analysis is pretty clear:  
 
-> The conservatives answered by delivering the most far-reaching slew of rulings in modern
-> memory. It’s now abundantly clear that Trump’s appointees are in control of this court,
-> and they’re not searching for consensus. In fact, the divide between the court’s
-> Republican and Democratic appointees is deeper than it’s been in the modern era.  
+> The conservatives answered by delivering __the most far-reaching slew of rulings in modern
+> memory.__ It’s now abundantly clear that Trump’s appointees are in control of this court,
+> and they’re __not searching for consensus.__ In fact, the divide between the court’s
+> Republican and Democratic appointees is __deeper than it’s been in the modern era.__  
 
 Keep in mind that "modern era" means "since the American Civil War", so don't take a great
 deal of comfort from Republicans stopping just short of violent insurrection and civil
@@ -236,7 +236,9 @@ alternative hypothesis: two.sided
   that the _are_ related.  The verdict, with a $p$-value of $p \sim 0.5\%$, is that they
   are in fact related.  
   
-So, yeah: I'm steamed about those Team Evil bloc votes.
+So, yeah: I'm steamed about those Team Evil bloc votes.  (You can, of course, argue that
+this result is more about me than about any objective merits of policy.  That's fine; at
+least I know what I'm mad about and I'm consistent about that anger.)  
 
 Time to eliminate the filibuster, expand the court, and maybe impeach a few of the more
 problematic justices.  Thomas, with his compromised ethical position comes to mind: why
