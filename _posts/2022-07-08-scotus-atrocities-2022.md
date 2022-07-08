@@ -295,7 +295,7 @@ the Open Society <sup id="fn6a">[[6]](#fn6)</sup>, be
 
 <a id="fn2">2</a>: A Thomson-DeVeaux &amp; L Bronner, ["The Supreme Court's Partisan Divide Hasn't Been This Sharp In Generations"](https://fivethirtyeight.com/features/the-supreme-courts-partisan-divide-hasnt-been-this-sharp-in-generations/), _Five Thirty Eight_, 2022-Jul-05. [↩](#fn2a)  
 
-<a id="fn3">3</a>:  AD Martin &amp; KM Quinn, ["Dynamic Ideal Point Estimation via Markov Chain Monte Carlo for the U.S. Supreme Court, 1953–1999"](https://www.cambridge.org/core/product/identifier/S1047198700009931/type/journal_article), _Political Analysis_ 10:2, 134–153, 2002. DOI: [10.1093/pan/10.2.134](https://doi.org/10.1093/pan/10.2.134). ISSN 1047-1987.[↩](#fn3a)  
+<a id="fn3">3</a>:  AD Martin &amp; KM Quinn, ["Dynamic Ideal Point Estimation via Markov Chain Monte Carlo for the U.S. Supreme Court, 1953–1999"](https://www.cambridge.org/core/journals/political-analysis/article/dynamic-ideal-point-estimation-via-markov-chain-monte-carlo-for-the-us-supreme-court-19531999/2A57930D5D0C81216491B40CA2BA5D12), _Political Analysis_ 10:2, 134–153, 2002. DOI: [10.1093/pan/10.2.134](https://doi.org/10.1093/pan/10.2.134). ISSN 1047-1987.[↩](#fn3a)  
 
 <a id="fn4">4</a>: A Liptak &amp; J Kao, ["The Major Supreme Court Decisions in 2022"](https://www.nytimes.com/interactive/2022/06/21/us/major-supreme-court-cases-2022.html), _New York Times_, 2022-Jun-30. [↩](#fn4a)  
 
