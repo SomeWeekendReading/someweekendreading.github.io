@@ -255,8 +255,8 @@ special bonus points for recognizing and applying
 
 He describes his tribal identity at first humorously, and then:  
 
-> I'm white, I'm male, I just reached the 60-and-over demographic, I used to often vote
-> Republican but don't see how I can ever do that again, I don't think that the last
+> I'm white, I'm male, I just reached the 60-and-over demographic, __I used to often vote
+> Republican but don't see how I can ever do that again,__ I don't think that the last
 > election was stolen. And so on. That's where the arguing starts.  
 
 (Yeah, I grew up Republican, too.  But it's possible to get over that and get better.  I
