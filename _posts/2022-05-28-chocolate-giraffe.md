@@ -3,7 +3,7 @@ layout: post
 title: The Outer Limits of Chocolate Art
 tags: Beauty Food TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Have you ever eaten a giraffe?  

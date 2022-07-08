@@ -3,7 +3,7 @@ layout: post
 title: Which Arm Gets the Booster?
 tags: COVID MathInTheNews PharmaAndBiotech &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 A burning question for everybody who's gotten a booster, or wants one: the same arm, or

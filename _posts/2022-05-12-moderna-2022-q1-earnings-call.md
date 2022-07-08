@@ -3,7 +3,7 @@ layout: post
 title: What's in the Moderna 2022-Q1 Earnings Call?
 tags: COVID PharmaAndBiotech SomebodyAskedMe
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Apparently Moderna just had an earnings call, and there was some talk of whether

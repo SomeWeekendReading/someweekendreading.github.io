@@ -84,7 +84,7 @@ justices can be rated ideologically by a bit of math called the
 (__NB:__ Back in 2003, shortly after they published their paper using Markov Chain Monte
 Carlo regression <sup id="fn3a">[[3]](#fn3)</sup>, I had some brief correspondence with
 Kevin Quinn about the [MCMCpack package](https://cran.r-project.org/web/packages/MCMCpack/index.html)
-in [R](https://www.r--project.org/).  I was doing something similar in genomics at the time.
+in [R](https://www.r-project.org/).  I was doing something similar in genomics at the time.
 He came off as quite competent, collegial, and affable to me.  If you think that biases my
 opinion in Martin &amp; Quinn's favor, feel free to think that.)  
 

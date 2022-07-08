@@ -3,7 +3,7 @@ layout: post
 title: No Masks + New Wave = ?
 tags: COVID MathInTheNews PharmaAndBiotech Politics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Somehow we've stumbled into striking down mask mandates.  Who did that?  AND is it ok,

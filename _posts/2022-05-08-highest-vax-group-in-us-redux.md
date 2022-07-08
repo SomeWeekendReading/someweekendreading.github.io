@@ -3,7 +3,7 @@ layout: post
 title: The Highest-Vaccination Ethnic Group in the US, Redux
 tags: COVID MathInTheNews PharmaAndBiotech Politics R Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Remember last year when we noted the highest-vaccination ethnic group in the US?  They're
