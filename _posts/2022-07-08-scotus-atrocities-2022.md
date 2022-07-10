@@ -66,12 +66,11 @@ Their analysis is pretty clear:
 > and they’re __not searching for consensus.__ In fact, the divide between the court’s
 > Republican and Democratic appointees is __deeper than it’s been in the modern era.__  
 
-Keep in mind that "modern era" means "since the American Civil War", so don't take a great
-deal of comfort from Republicans stopping just short of violent insurrection and civil
-war.  
+(Keep in mind that "modern era" means "since the American Civil War", so don't take a great
+deal of comfort from Republicans stopping just short of violent insurrection and civil war.)  
 
 <a href="{{ site.baseurl }}/images/2022-07-08-scotus-atrocities-2022-538-2.jpg"><img src="{{ site.baseurl }}/images/2022-07-08-scotus-atrocities-2022-538-2-thumb.jpg" width="400" height="310" alt="Thomson-DeVeaux &amp; Bronner @ 538: SCOTUS decisions are now more nakedly partisan than since 1953" title="Thomson-DeVeaux &amp; Bronner @ 538: SCOTUS decisions are now more nakedly partisan than since 1953" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Cold, hard data supports this: Thomson-DeVeaux &amp; Bronner point out that historically,
+Cold, hard data support this: Thomson-DeVeaux &amp; Bronner point out that historically,
 about half of SCOTUS decisions are unanimous, and those exactly along partisan blocs are
 rarer.  No longer, as shown in this plot of the % decisions unanimous and partisan bloc
 over time since 1953.  This is clearly a SCOTUS in a pathological state.  
