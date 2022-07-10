@@ -7,7 +7,7 @@ commentsClosed: false
 ---
 
 The Supreme Court of the United States (SCOTUS) has a 6-3 conservative majority.  Have
-they gotten any different as a result?  
+the cases and decisions become any different as a result?  
 
 
 ## A general sense of foreboding  
@@ -26,7 +26,7 @@ knucklehead theocrats drag the country back into the pre-Enlightenment mud.  But
 the conservatives traumatized, when they're getting all the destruction for which they've
 lusted, these many years?  
 
-And it's not just a government problem, it's in the private sector, education, and healthcare, too:  
+And it's not just a government problem, it's also in the private sector, education, and healthcare:  
 
 > It isn’t just a government problem, though. Private-sector productivity has been
 > stagnant for decades, and corporations struggle with __bureaucracy and bloat__. Universities

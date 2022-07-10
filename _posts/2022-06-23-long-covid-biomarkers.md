@@ -20,7 +20,7 @@ COVID-19", or PASC) is just "malingering."
 
 <img src="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-front-immunol-1.jpg" width="400" height="313" alt="Patterson, et al. @ Front Immunol: Persistence of SARS-CoV2 S1 protein in CD16+ monocytesin Long COVID-19" title="Patterson, et al. @ Front Immunol: Persistence of SARS-CoV2 S1 protein in CD16+ monocytesin Long COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-06-23-long-covid-biomarkers-medrxiv-1.jpg" width="400" height="181" alt="Swank, et al. @ medR&chi;iv: Persistent circulating SARS-CoV2 spike in Long COVID-19" title="Swank, et al. @ medR&chi;iv: Persistent circulating SARS-CoV2 spike in Long COVID-19" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Well, no more: 2 recent papers (one is a
+Well, no more: 2 recent papers (the 2nd one is a
 preprint) <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup>
 have found some interesting biomarkers in patients with PASC that are causally related to
 the disease.  In short, viral protein fragments are circulating in their blood and
