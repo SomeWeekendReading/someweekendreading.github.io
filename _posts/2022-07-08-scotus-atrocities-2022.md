@@ -13,7 +13,7 @@ they gotten any different as a result?
 ## A general sense of foreboding  
 
 <img src="{{ site.baseurl }}/images/2022-07-08-scotus-atrocities-2022-wapo-1.jpg" width="400" height="205" alt="Ignatius @ WaPo: A general sense of foreboding in the US" title="Ignatius @ WaPo: A general sense of foreboding in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-David Ignatius writes at the _WaPo_ on the genereal sense of foreboding many Americans now
+David Ignatius writes at the _WaPo_ on the general sense of foreboding many Americans now
 have <sup id="fn1a">[[1]](#fn1)</sup>:  
 
 > What does our national portrait look like on this Independence Day? Many of us see an
@@ -187,7 +187,7 @@ the conservative bloc votes?
 We can look at that too, with a crosstabulation of YAY/MEH/AARGH assessments with whether
 the case was conservative bloc, split decision, or unanimous. (There can be no liberal
 bloc, since they're a decided minority.)  That leads to the following 3x3
-[crosstabluation](https://en.wikipedia.org/wiki/Contingency_table) and
+[crosstabulation](https://en.wikipedia.org/wiki/Contingency_table) and
 [Fisher exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test) in
 [R](https://www.r-project.org/):  
 

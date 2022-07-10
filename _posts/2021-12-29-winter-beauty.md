@@ -56,7 +56,7 @@ a more summerish sport pursued by Japanese rice farmers who are (a) intelligent 
 love the fact that nobody would have predicted either form of ephemeral art.  Both of them
 are beautiful&hellip; and hilarious.  
 
-Wigdren offered the explanation that he hopes his art will:  
+Widgren offered the explanation that he hopes his art will:  
 
 > &hellip;make people happy and encourage them to go out to hike in a beautiful nature.  
 
