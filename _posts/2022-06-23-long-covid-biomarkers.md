@@ -75,7 +75,7 @@ That's what's shown in their Figure 1, reproduced here:
   is the nucleocapsid protein (from _inside_ the viral envelope).  
 - The blue dots are COVID-19 patients who did _not_ exhibit PASC, while the red dots
   are PASC patients.  
-- The __full spike protein keeps popping, up well above the assay limit of detection,__ in the
+- The __full spike protein keeps popping up, well above the assay limit of detection,__ in the
   PASC patients.
 - Note that they do _not_ see circulating S1 subunit or nucleocapsid in the plasma, but
   _do_ see the full spike protein.  This is perhaps a better reason to support the
