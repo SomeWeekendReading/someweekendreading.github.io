@@ -178,11 +178,11 @@ __Summary:__
 
 ## The Weekend Conclusion  
 
-<img src="{{ site.baseurl }}/images/2022-07-12-most-infectious-disease-weekend-publisher.jpg" width="400" height="533" alt="The Weekend Publisher is somewhat disengaged" title="The Weekend Publisher is somewhat disengaged" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 We can't sign off on full agreement with Esterman at the quantitative level.  However, we
 _can_ agree with him on a qualitative basis, i.e., $R_0$ for Omicron/BA.5 is hella huge,
 whatever the particular value on which we converge.  
 
+<img src="{{ site.baseurl }}/images/2022-07-12-most-infectious-disease-weekend-publisher.jpg" width="400" height="533" alt="The Weekend Publisher is somewhat disengaged" title="The Weekend Publisher is somewhat disengaged" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It may or may not be as bad as measles, which is so far the most contagious viral disease
 known.  But it's surely very bad.  
 

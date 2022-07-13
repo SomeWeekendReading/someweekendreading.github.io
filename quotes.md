@@ -1215,3 +1215,6 @@ _Business Week_, 14-Nov-2003.
 - "Clutch those pearls any harder, you're gonna strangle yourself."  
 - "Guessing is easy&hellip; but _stupid._  Estimating is hard."  
 - "Assassin?  No&hellip; more like freelance [psychopomp](https://en.wikipedia.org/wiki/Psychopomp)."  
+- "When we're young, we want to change the world.  When we're old, we ruefully
+  appreciate  how resistant the world is to change."  
+- "Life is, annoyingly often enough, an _intelligant sapientes_ sort of situation."  
