@@ -84,7 +84,9 @@ and positive test rates.  (And the positive test rates are woefully underestimat
 most people don't report home tests.  The real numbers are likely much worse.)  
 
 This looks to me like another wave is forming up.  Feel free to call me on this in a
-couple of months if I'm wrong!  
+couple of months if I'm wrong!  (If it turns out I'm right, then never mind.  This Crummy
+Little Blog That Nobody Reads (CLBTNR) is firmly enmired in
+[Cassandra](https://en.wikipedia.org/wiki/Cassandra) Syndrome: often correct, never believed.)  
 
 
 ## What about COVID-19 Omicron/BA.4-5 transmission?  
@@ -104,7 +106,7 @@ It was also signal-boosted at _Sibylla Bostoniensis_ <sup id="fn3a">[[3]](#fn3)<
 Siderea in her role as "freelance psychopomp" to the "Greater-Boston Weirdo-American
 community".  (I _wish_ I could make up titles that cool!)  
 
-Here's the key paragraph:  
+Here's Esterman's key paragraph (__emphasis__ added):  
 
 > __How transmissible are BA.4/5?__  
 >  
@@ -114,21 +116,21 @@ Here's the key paragraph:
 >  
 > New mutations give the virus an advantage if they can increase transmissibility:  
 >  
-> - the original Wuhan strain has an R0 of 3.3  
-> - Delta has an R0 of 5.1  
-> - Omicron BA.1 has an R0 of 9.5  
+> - the original Wuhan strain has an __R0 of 3.3__  
+> - Delta has an __R0 of 5.1__  
+> - Omicron BA.1 has an __R0 of 9.5__  
 > - BA.2, which is the dominant subvariant in Australia at the moment, is 1.4 times more
->   transmissible than BA.1, and so has an R0 of about 13.3  
+>   transmissible than BA.1, and so has an __R0 of about 13.3__  
 > - a pre-print publication from South Africa suggests BA.4/5 has a growth advantage over
->   BA.2 similar to the growth advantage of BA.2 over BA.1. That would give it an R0 of 18.6.  
+>   BA.2 similar to the growth advantage of BA.2 over BA.1. That would give it an __R0 of 18.6.__  
 >  
-> This is similar to measles, which was until now was our most infectious viral disease.  
+> This is __similar to measles,__ which was until now was our most infectious viral disease.  
 
 $R_0 \sim 18.6$?!  That's&hellip; eye-popping.  We better check out his references to make
 sure that's what they really say.  Also, this seems like a good place to collect those
 references in one big bag, so we have an easy source to which to refer people.  
 
-So let's check each of those 6 points:  
+So let's check each of those 6 points emboldened above:  
 
 1. __Original Wuhan variant:__ The source cited here is from an Australian public
    health agency <sup id="fn4a">[[4]](#fn4)</sup>, though since it's only the appendix we
@@ -162,7 +164,7 @@ So let's check each of those 6 points:
    Ewen Callaway. <sup id="fn9a">[[9]](#fn9)</sup>  Neither of them quote an $R_0 \sim
    18.6$, or, for that matter, any other value.  The closest I can get is the statement
    that "&hellip; BA.5 had a daily growth advantage of &hellip; 0.12 (95% CI 0.09 - 0.15)
-   &hellip; relative to BA.2".  It's not especially obvious how Estermans got to the very
+   &hellip; relative to BA.2".  It's not especially obvious how Esterman got to the very
    specific reproduction number of 18.6.  
 6. __Measles:__ The measles comparison cites a meta-analysis by FM Guerra,
    _et al._ <sup id="fn10a">[[10]](#fn10)</sup>  It is unfortunately behind an execrable
