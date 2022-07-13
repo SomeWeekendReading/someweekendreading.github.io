@@ -222,7 +222,7 @@ His excuse is that he's a cat.  What's everybody else's excuse?
 
 <a id="fn4">4</a>: Unnamed Australian health agency staff, ["COVID-19 CDNA National Guidelines for Public Health Units, Appendix A - Current variants of concern"](https://www1.health.gov.au/internet/main/publishing.nsf/Content/7A8654A8CB144F5FCA2584F8001F91E2/%24File/App-A-Current-variants-concern.pdf), early 2022, retrieved 2022-Jul-12. [↩](#fn4a)  
 
-<a id="fn5">5</a>: Y Liu &amp; J Rockl&ouml;v, ["The reproductive number of the Delta variant of SARS-CoV-2 is far higher compared to the ancestral SARS-CoV-2 virus"](https://academic.oup.com/jtm/article/28/7/taab124/6346388?login=false), _J Travl Med_ 28:7, 2021-Oct-11, taab124.  DOI: [10.1093/jtm/taab124.](https://doi.org/10.1093/jtm/taab124.). [↩](#fn5a)  
+<a id="fn5">5</a>: Y Liu &amp; J Rockl&ouml;v, ["The reproductive number of the Delta variant of SARS-CoV-2 is far higher compared to the ancestral SARS-CoV-2 virus"](https://academic.oup.com/jtm/article/28/7/taab124/6346388?login=false), _J Travl Med_ 28:7, 2021-Oct-11, taab124.  DOI: [10.1093/jtm/taab124.](https://doi.org/10.1093/jtm/taab124). [↩](#fn5a)  
 
 <a id="fn6">6</a>: Y Liu &amp; Ja Rockl&ouml;v, ["The effective reproductive number of the Omicron variant of SARS-CoV-2 is several times relative to Delta"](https://academic.oup.com/jtm/article/29/3/taac037/6545354?login=false), _J Travel Med_ 29:3, 2022-Mar-09, taac037.  DOI: [10.1093/jtm/taac037](https://doi.org/10.1093/jtm/taac037). [↩](#fn6a)  
 
