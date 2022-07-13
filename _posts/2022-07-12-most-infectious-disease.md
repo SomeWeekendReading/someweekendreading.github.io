@@ -9,7 +9,7 @@ commentsClosed: false
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about how seriously we
 should take the COVID-19 Omicron/BA.4-5 variants, given that so many people are "done with
 COVID" and refuse to mask.  Response: basically, we should take it _very_ seriously; people
-without masks are being very silly.  Silly in a deadly fashion, irresonsible to the health
+without masks are being very silly.  Silly in a deadly fashion, irresponsible to the health
 of the rest of us.  To answer the titular question: yes, unfortunately, it appears so.  
 
 
@@ -19,7 +19,7 @@ In a word: no.
 
 <img src="{{ site.baseurl }}/images/2022-07-12-most-infections-disease-cdc-1.jpg" width="400" height="150" alt="US CDC COVID-19 Data Tracker" title="US CDC COVID-19 Data Tracker" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
-One might be excused for _thinking_ it's over, given the wildly incompentent media
+One might be excused for _thinking_ it's over, given the wildly incompetent media
 reports, the corporate pressure for "business as usual", the glacial government reaction
 times, and the social conformity pressure to pretend so by doffing masks.  (Hey, the 
 [Asch conformity experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
@@ -38,9 +38,9 @@ Let's have a look and see what it says.
 If you just na&iuml;vely open the CDC COVID Data Tracker and ask for all US data at the
 county level, you get by default the reassuring map shown here.  There's all that lovely,
 calming green in here in the fastness of New England, so here at Ch&acirc;teau Weekend we
-always like to see that.  Sure, Florida's a disaster, but they shoot themselves inthe feet
+always like to see that.  Sure, Florida's a disaster, but they shoot themselves in the feet
 with great regularity, so no surprise there.  The conservative red states of the south and
-west are somewhat similr.  California's a bit surprising to me, but perhaps not to people
+west are somewhat similar.  California's a bit surprising to me, but perhaps not to people
 who keep up with this sort of thing.  
 
 Generally speaking, this says community levels are currently manageable.  It's an
@@ -61,7 +61,7 @@ come!
 ### The forward-looking view: community transmission  
 
 <img src="{{ site.baseurl }}/images/2022-07-12-most-infectious-disease-cdc-4a.jpg" width="400" height="320" alt="US CDC COVID Data Tracker: Community transmission in drop-down, after scrolling" title="US CDC COVID Data Tracker: Community transmission in drop-down, after scrolling" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<a href="{{ site.baseurl }}/images/2022-07-12-most-infectious-disease-cdc-4.jpg"><img src="{{ site.baseurl }}/images/2022-07-12-most-infectious-disease-cdc-4-thumb.jpg" width="400" height="243" alt="US CDC COVID Data Tracker: Community transsmission levels, 2022-Jul-12" title="US CDC COVID Data Tracker: Community transsmission levels, 2022-Jul-12" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-07-12-most-infectious-disease-cdc-4.jpg"><img src="{{ site.baseurl }}/images/2022-07-12-most-infectious-disease-cdc-4-thumb.jpg" width="400" height="243" alt="US CDC COVID Data Tracker: Community transmission levels, 2022-Jul-12" title="US CDC COVID Data Tracker: Community transmission levels, 2022-Jul-12" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-07-12-most-infections-disease-cdc-5.jpg"><img src="{{ site.baseurl }}/images/2022-07-12-most-infections-disease-cdc-5.jpg" width="400" height="169" alt="US CDC COVID Data Tracker: community transmission definition" title="US CDC COVID Data Tracker: community transmission definition" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 There are other metrics one might prefer, to get a more forward-looking picture.  To their
@@ -79,7 +79,7 @@ The community transmission level is quite grim: almost everywhere in US territor
 high.  
 
 Another bonus point is that the definition of community transmission level is simpler than
-the above rules for community levels, i.e., just a combination of per-capita case rates
+the above rules for community levels, i.e., just a combination of _per capita_ case rates
 and positive test rates.  (And the positive test rates are woefully underestimated, since
 most people don't report home tests.  The real numbers are likely much worse.)  
 
@@ -150,7 +150,7 @@ So let's check each of those 6 points:
    13.3$, but they do say:  
    - Delta $R_0 \sim 3.2 - 8$ with a mean of 5.08, from the work above by Liu &amp; Rockl&ouml;v  
    - Omicron (presumably BA.1?) is approximately 3.2x more transmissible than Delta  
-   - Omicron/BA.2 is approximatley 1.4x more transmissible than Omicron/BA.1  
+   - Omicron/BA.2 is approximately 1.4x more transmissible than Omicron/BA.1  
    However, you can't just multiply $5.08 \times 3.2 \times 1.4$ to get an $R_0$ for
    Omicron/BA.2 from Delta.  (The transmissibility numbers refer to transmission rates among household
    contacts.)  Now, I haven't scrutinized every single sentence in this paper, but I read
