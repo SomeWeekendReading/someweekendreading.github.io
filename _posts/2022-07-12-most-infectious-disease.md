@@ -196,7 +196,7 @@ good chance to take the title from measles.
 I tried to explain this to the Weekend Publisher.  But as you can see here, he's like my
 acquaintances: too busy napping to pay attention.  
 
-His excuse is that he's a cat.  What's everybody else's excuse?  
+His excuse is that he's just a cat.  What's everybody else's excuse?  
 
 ---
 
@@ -224,7 +224,7 @@ His excuse is that he's a cat.  What's everybody else's excuse?
 
 <a id="fn5">5</a>: Y Liu &amp; J Rockl&ouml;v, ["The reproductive number of the Delta variant of SARS-CoV-2 is far higher compared to the ancestral SARS-CoV-2 virus"](https://academic.oup.com/jtm/article/28/7/taab124/6346388?login=false), _J Travl Med_ 28:7, 2021-Oct-11, taab124.  DOI: [10.1093/jtm/taab124.](https://doi.org/10.1093/jtm/taab124). [↩](#fn5a)  
 
-<a id="fn6">6</a>: Y Liu &amp; Ja Rockl&ouml;v, ["The effective reproductive number of the Omicron variant of SARS-CoV-2 is several times relative to Delta"](https://academic.oup.com/jtm/article/29/3/taac037/6545354?login=false), _J Travel Med_ 29:3, 2022-Mar-09, taac037.  DOI: [10.1093/jtm/taac037](https://doi.org/10.1093/jtm/taac037). [↩](#fn6a)  
+<a id="fn6">6</a>: Y Liu &amp; Ja Rockl&ouml;v, ["The effective reproductive number of the Omicron variant of SARS-CoV-2 is several times relative to Delta"](https://academic.oup.com/jtm/article/29/3/taac037/6545354?login=false), _J Travel Med_ 29:3, 2022-Mar-09, taac037.  DOI: [10.1093/jtm/taac037](https://doi.orgp/10.1093/jtm/taac037). [↩](#fn6a)  
 
 <a id="fn7">7</a>: Y Fan, _et al.,_ ["SARS-CoV-2 Omicron variant: recent progress and future perspectives"](https://www.nature.com/articles/s41392-022-00997-x), _Nature Sig Transd &amp; Targ Ther_ 7:141, 2022-Apr-13. DOI: [10.1038/s41392-022-00997-x](https://doi.org/10.1038/s41392-022-00997-x). [↩](#fn7a)  
 
