@@ -1214,3 +1214,4 @@ _Business Week_, 14-Nov-2003.
 - "Oh, I'm just braiding the tassels on the lunatic fringe."  
 - "Clutch those pearls any harder, you're gonna strangle yourself."  
 - "Guessing is easy&hellip; but _stupid._  Estimating is hard."  
+- "Assassin?  No&hellip; more like freelance [psychopomp](https://en.wikipedia.org/wiki/Psychopomp)."  
