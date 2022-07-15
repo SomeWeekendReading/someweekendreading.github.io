@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FDA VRBPAC&colon; Omicron-Specific COVID-19 Boosters?
-tags: COVIDMathInTheNews PharmaAndBiotech Politics Statistics
+tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 commentsClosed: false
 ---
