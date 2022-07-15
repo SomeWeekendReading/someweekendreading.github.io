@@ -37,7 +37,7 @@ orchard or farm store in New England.  And people have noticed, e.g.,
 _Boston Magazine_. <sup id="fn2a">[[2]](#fn2)</sup>
 
 Last year he cataloged the pleasures of 30 orchards and farm stands.  He has the attitude
-you migth expect toward packaged donuts at the grocery store, or apple cider donut
+you might expect toward packaged donuts at the grocery store, or apple cider donut
 flavored Oreos ("filling tastes like a candle"), or other abominations of that sort.
 (Don't even get me started about Dunkin'.) Clearly, his soul is pure.  
 
