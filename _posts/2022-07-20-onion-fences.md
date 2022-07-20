@@ -6,7 +6,7 @@ comments: true
 commentsClosed: false
 ---
 
-Two parables struck my eye this week: Chesterton's Fence and Levi's Onion in the Varnish.
+Two parables struck my eye this week: GK Chesterton's Fence, and Primo Levi's Onion in the Varnish.
 Do they counsel actions that are opposite, or the same?  
 
 
@@ -18,7 +18,8 @@ comparing one of my favorite parables (Chesterton's Fence) with another by Itali
 and writer Primo Levi (Onion in the Varnish).  They are both compelling stories, as
 parables must be.  
 
-But they appear to counsel opposite actions?!  Let's look into that.  
+But they appear to counsel opposite actions?!  Let's look into that.  Outta the way; we
+got books to read, here!  
 
 
 ## Chesterton's Fence  
@@ -97,8 +98,8 @@ huge vat of boiling linseed oil.  Yet they were adamant: onion, or no varnish.
 
 He asked elderly colleagues who had worked on varnishes in their youth.   He finally
 came upon Giacomasso Olindo at age 70, who had been involved with varnishes for 50 years.
-He said that the varnish recipes were of course ancient (as in _thousands of years_ old),
-and predated the widespread use of thermometers.  So the workers would throw in a couple
+He said that the varnish recipes were of course ancient (as in _thousands of years_ ancient!),
+and thus predated the widespread use of thermometers.  So the workers would throw in a couple
 onion slices to see if they would fry; if so, the linseed oil had reached the proper
 temperature and one could proceed.  
 
@@ -164,8 +165,8 @@ us about the long, hard work involved in doing that.  And, again unlike Chestert
 the moment you loosen your grip, less rational tradition will re-impose even your changes
 as an unquestionable recipe.  
 
-The onion in the varnish is an example of properly handling (and dismantling) a Chesterton
-fence.  
+The onion in the varnish is an example of properly handling (and, at least in this case,
+dismantling) a Chesterton fence.  
 
 So there are unintended consequences, and we should arm ourselves with deep understanding
 to avoid them.  But there is also an apparently irresistible gravitational pull in most
