@@ -104,29 +104,31 @@ onion slices to see if they would fry; if so, the linseed oil had reached the pr
 temperature and one could proceed.  
 
 Of course, in a 20th century factory with thermometers, the onion had degenerated to more
-of a superstitious joke than anything useful.  People had an extreme over-adherence to
-superstition that kept them putting in the onion, because they did not _know_ what the
+of a superstitious _id&eacute;e fixe_ than anything useful.  People had an extreme over-adherence to
+tradition that kept them putting in the onion, because they _did not know_ what the
 onion did.  
 
 It's a perfect example of the failure of the over-conservative mind: adhering to tradition
 as goal in itself, not because it was useful.  Of course you should stop throwing onions
 in varnish!  
 
-It gets better: he tells the tale of "livered varnishes", which due to some impurity or
+### Revenant Varnish Onions  
+
+It gets better: Levi next tells the tale of "livered varnishes", which due to some impurity or
 other had the wrong color and texture.  He looked at the assays of chromium oxide, and
 found that all the quality checks quoted 29.5%&hellip; _exactly._  Clearly somebody had
 forged the assay reports, or used a defective method, or an impure reagent to get
 "those so obviously suspicious but formally blameless results".  
 
-It also turned out the recipe card had said "2 or 3 drops" but was so stained and worn
+It also turned out the recipe card had said "2 or 3 drops" of chromate, but was so stained and worn
 that they were putting in "23 drops" of chromate in a batch.  This was undetected because
-the chromate assay was just wrong, always giving 29.5% as desired.  
+the chromate assay afterward was just wrong, always giving 29.5% as desired.  
 
 Levi figured out that adding ammonium chloride would fix the bad batches, and demonstrated
 this experimentally.  
 
 Problem solved?  Not really: his temporary fix became a permanent ingredient long after
-time it was needed, another "onion in the varnish" (__emphasis__ added):  
+the time it was needed, another "onion in the varnish" (__emphasis__ added):  
 
 > Since the storeroom contained several shipments of perilously basic chromate, which must
 > also be utilized because they had been accepted by the inspection and could not be
@@ -151,26 +153,29 @@ That's superstition, and we're better off without it.
 
 ## So are they opposites, or not?  
 
-At first glance, these stories appear to be in conflict: Chesterton appears to say don't
-challenge received culture until you understand it deeply, while Levi says to challenge
-all sorts of things because they may be obsolete and kept in place just to avoid
-thinking.  
+At first glance, these stories appear to be in conflict: 
+- Chesterton appears to say don't challenge received culture until you understand it
+  deeply, 
+- But Levi says to challenge all sorts of things because they may be obsolete and kept
+  in place just to avoid thinking.  
 
 It's frustrating: both are told with such endearing anecdotes, we want to embrace both.
 But we can't, if they're contradictory!  
 
 Burget wisely points out that the contradiction is superficial: both counsel getting a
-deep understanding of the situation before making changes.  Levi, unlike Chesterton, told
-us about the long, hard work involved in doing that.  And, again unlike Chesterton, that
-the moment you loosen your grip, less rational tradition will re-impose even your changes
-as an unquestionable recipe.  
+deep understanding of the situation _before_ making changes.  Levi, unlike Chesterton,
+told us about the long, hard work involved in doing that in 2 examples.  And, alas again
+unlike Chesterton, that the moment you loosen your grip, less rational tradition will
+re-impose your changes as an unquestionable recipe.  
 
 The onion in the varnish is an example of properly handling (and, at least in this case,
-dismantling) a Chesterton fence.  
+dismantling) a Chesterton fence.  The ammonium chloride story, on the other hand, is
+testament to people's insistence on re-building inexplicable Chesterton fences, probably
+built out of varnished onions.  
 
-So there are unintended consequences, and we should arm ourselves with deep understanding
-to avoid them.  But there is also an apparently irresistible gravitational pull in most
-people toward tradition, so even the most rational reform will be reduced to
+So there _are_ unintended consequences, and we should arm ourselves with deep situational
+understanding to avoid them.  But there is also an apparently irresistible gravitational
+pull in most people toward tradition. Even the most pragmatic reform will be reduced to
 unquestionable tradition eventually.  
 
 What things in my life are traditions that should be questioned, so they may be understood
