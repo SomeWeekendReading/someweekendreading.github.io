@@ -155,8 +155,8 @@ That's superstition, and we're better off without it.
 
 At first glance, these stories appear to be in conflict: 
 - Chesterton appears to say don't challenge received culture until you understand it
-  deeply, 
-- But Levi says to challenge all sorts of things because they may be obsolete and kept
+  deeply, but
+- Levi says to challenge all sorts of things because they may be obsolete and kept
   in place just to avoid thinking.  
 
 It's frustrating: both are told with such endearing anecdotes, we want to embrace both.
