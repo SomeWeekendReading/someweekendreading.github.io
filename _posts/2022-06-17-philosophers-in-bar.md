@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Philosophers in a Bar
+title: Three Philosophers in a Bar
 tags: CatBlogging MeaCulpa &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: false
@@ -20,9 +20,9 @@ Just sit with the image for a minute.
 
 So sorry.  
 
-Well, _sorta_ sorry.  If it's any consolation, the Weekend Publisher didn't like it
+(Well, _sorta_ sorry.  If it's any consolation, the Weekend Publisher didn't like it
 either, as you can see here.  A carnivorous predator tends to have a very particular sense
-of humor.  
+of humor.)  
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remastered Film&colon; Paris in the 1920s
-tags: Beauty TheDivineMadness &Gammad;&Tau;&Phi;
+tags: Beauty Religion TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: false
 ---

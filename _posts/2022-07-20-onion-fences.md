@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mysterious Fences vs Varnished Onions
+title: Mysterious Fences and Varnished Onions
 tags: CorporateLifeAndItsDiscontents JournalClub TheDivineMadness
 comments: true
 commentsClosed: false
@@ -30,10 +30,10 @@ that here at Chez Weekend we're fans of [GK Chesterton](https://en.wikipedia.org
 
 We especially admire some of his weirder novels like
 [_The Man Who Was Thursday_](https://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday).  (I
-mean, really: cops confronting terrorists in a park, whereupon there ensues a single-combat duel by
-exegesis on the nature of poetry?!  It gets weird, starting from _there._  Though, I have
-to admit, the denouement is a bit of rather lame apologetics.  Still, the bulk of the book
-is a good ride.)  
+mean, really: cops confronting terrorists in a park, whereupon there ensues a
+single-combat duel by competing exegeses of the nature of the relation between poetry and
+order?!  Then it gets weird, starting from _there._ Though, I have to admit, the denouement is
+a bit of rather lame apologetics.  Still, the bulk of the book is a good ride.)  
 
 <img src="{{ site.baseurl }}/images/2022-07-20-onion-fences-chesterton-the-thing.jpg" width="400" height="576" alt="GK Chesterton: The Thing" title="GK Chesterton: The Thing" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The story of [Chesterton's Fence](https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence)
@@ -52,8 +52,8 @@ comes from his 1929 book, _The Thing_ <sup id="fn2a">[[2]](#fn2)</sup> (__emphas
 he's going here.)  
 
 The moral seems clear, in line with the conservative bent of Chesterton that most makes me
-squirm.  He counsels respect for culture, history, and institutions.  We should be
-cautious and careful in the changes we make, lest the
+squirm.  He counsels respect for culture, history, and institutions (ok by me, so far as
+it goes).  We should be cautious and careful in the changes we make, lest the 
 [Law of Unintended Consequences](https://en.wikipedia.org/wiki/Unintended_consequences)
 bite us in our collective rear because we didn't understand what we were doing.  
 
@@ -87,16 +87,17 @@ perfect amount of highly refined snark.
 <img src="{{ site.baseurl }}/images/2022-07-20-onion-fences-levi-periodic-table.jpg" width="400" height="624" alt="Levi: The Periodic Table" title="Levi: The Periodic Table" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The counterpoint comes from Italian chemist and author, Primo Levi.  In
 _The Periodic Table_ <sup id="fn3a">[[3]](#fn3)</sup>, he offers a story from his time
-working for a manufacturer of varnish (in the chapter titled "Chromium"):  
-- The oil had to be boiled at a certain temperature, in order for certain reactions to
-  happen.  
-- More than a little inexplicably, the workers would at that point toss a raw onion, or slice
-  of an onion, into the mixture.  
+working for a manufacturer of varnish (in the chapter titled "Chromium", since he was
+working on rust-proofing varnishes &amp; paints containing chromium):  
+- The linseed oil had to be boiled at a certain temperature, in order for certain reactions to
+  happen in the varnish-to-be.  
+- More than a little inexplicably, the workers would at that point toss a raw onion, or a
+  couple slices of an onion, into the mixture.  
   
 This, of course, makes no sense.  The onion is not contributing anything measurable in a
-huge vat of boiling linseed oil.  Yet they were adamant: onion, or no varnish.  
+huge vat of boiling linseed oil.  Yet they were adamant: no onion, no varnish!  
 
-He asked elderly colleagues who had worked on varnishes in their youth.   He finally
+He asked elderly chemist colleagues who had worked on varnishes in their youth.   He finally
 came upon Giacomasso Olindo at age 70, who had been involved with varnishes for 50 years.
 He said that the varnish recipes were of course ancient (as in _thousands of years_ ancient!),
 and thus predated the widespread use of thermometers.  So the workers would throw in a couple
