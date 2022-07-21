@@ -39,7 +39,7 @@ Tohoku University. <sup id="fn1a">[[1]](#fn1)</sup>
 We needn't look very far to see why this is of import: consider as shown here the daily
 COVID-19 deaths in the US and Japan, per million people.  It's corrected for population
 size, so the 2 curves for the US and Japan show comparable risk rates in the 2 nations.
-This is not a theoretical here here at Chez Weekend: in early 2020, the Weekend Editrix
+This is not a theoretical issue here at Chez Weekend: in early 2020, the Weekend Editrix
 was considering a trip to Japan but cancelled due to the pandemic.  In retrospect, we
 should have done the opposite and evacuated both of us to Japan to be safer than in the
 US.  It turned out ok for us in the US, since we were capable of rigidly isolating for a
