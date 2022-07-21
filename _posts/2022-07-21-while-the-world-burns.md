@@ -7,7 +7,7 @@ commentsClosed: false
 ---
 
 Everybody (well, every non-Republican) in the US is mad at Democratic Senator Manchin for
-being the vote blocking any meaningful climate change at all.  Well&hellip; there are a
+being the vote blocking any meaningful climate change legislation at all.  Well&hellip; there are a
 few _other_ things to be mad about, right?  
 
 
