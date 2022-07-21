@@ -441,6 +441,28 @@ people refuse the vaccines made available for a year and a half now.
 
 This is a really weird timeline.  Can I get back to the one I used to know?  
 
+
+## Addendum 2022-Jul-20: CDC's ACIP Approves Novavax  
+
+On 2022-Jul-20, epidemiologist Katelyn Jetelina reports at _Your Local Epidemiologist_
+that the CDC's ACIP committee has _finally_ approved Novavax on
+2022-Jul-19! <sup id="fn1a">[[1]](#fn1)</sup>  
+
+While thats a good thing, I suppose, one wonders _why they took 42 days to do so?!_
+That's pretty relaxed, even by their standards.  
+
+Everybody was hoping this would lure in a few more vaccine resisters, but&hellip; I think
+they're pretty dug in with the anti-vax pit they've dug themselves.  True, Jetelina points
+to a CDC survey where 16% of the unvaccinated said they'd get Novavax, but a more recent
+one said 10%.  Now, figure there are 25% unvaccinated, so 10% of that is&hellip; 2.5% of
+the US population.  Epidemiologically, that's meaning-free.  
+
+The cold chain requirements are better, but in the developed nations we've solved that.
+Trying to get developing nations to take Novavax will definitely look like a class
+distinction that everybody will resent, whether that's true or not.  
+
+Something just isn't right here.  
+
 ---
 
 ## Notes &amp; References  
@@ -482,3 +504,5 @@ This is a really weird timeline.  Can I get back to the one I used to know?
 <a id="fn12">12</a>: L Lee, ["FDA Review of Effectiveness and Safety of Novavax COVID-19 Vaccine in Adults &ge; 18 Years of Age Emergency Use Authorization Request"](https://www.fda.gov/media/159004/download), US FDA Office of Vaccines Research and Review, 2022-Jun-07. [↩](#fn12a)  
 
 <a id="fn13">13</a>: [Weekend Editor](mailto:SomeWeekendReadigEditor@gmail.com), ["R script for efficacy and confidence limits using a scaled binomial model"]({{ site.baseurl }}/assets/2021-11-12-covid-treatments-simple-efficacy-confidence-limits.r), [Some Weekend Reading]({{ site.baseurl }}/) blog, 2021-Nov-12. [↩](#fn13a)  
+
+<a id="fn14">14</a>: K Jetelina, ["Novavax is here! Just not the silver bullet we need"](https://yourlocalepidemiologist.substack.com/p/novavax-is-here-just-not-the-silver), _Your Local Epidemiologist_ blog, 2022-Jul-20. [↩](#fn14a)  

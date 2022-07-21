@@ -78,8 +78,8 @@ he summarizes the issue of 'reformers' not appreciating their forebears:
 > fools; but if that be so, we can only say that folly appears to be a hereditary
 > disease.  
 
-I mean, you don't have to agree to admire the beauty of it, with just the perfect amount
-of highly refined snark.  
+I mean, you don't have to agree with it to admire the beauty of it, since it has just the
+perfect amount of highly refined snark.  
 
 
 ## Levi's Onion in the Varnish  
@@ -87,7 +87,7 @@ of highly refined snark.
 <img src="{{ site.baseurl }}/images/2022-07-20-onion-fences-levi-periodic-table.jpg" width="400" height="624" alt="Levi: The Periodic Table" title="Levi: The Periodic Table" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The counterpoint comes from Italian chemist and author, Primo Levi.  In
 _The Periodic Table_ <sup id="fn3a">[[3]](#fn3)</sup>, he offers a story from his time
-working for a manufacturer of varnish:  
+working for a manufacturer of varnish (in the chapter titled "Chromium"):  
 - The oil had to be boiled at a certain temperature, in order for certain reactions to
   happen.  
 - More than a little inexplicably, the workers would at that point toss a raw onion, or slice
@@ -117,7 +117,7 @@ in varnish!
 It gets better: Levi next tells the tale of "livered varnishes", which due to some impurity or
 other had the wrong color and texture.  He looked at the assays of chromium oxide, and
 found that all the quality checks quoted 29.5%&hellip; _exactly._  Clearly somebody had
-forged the assay reports, or used a defective method, or an impure reagent to get
+either forged the assay reports, or used a defective method, or had an impure reagent to get
 "those so obviously suspicious but formally blameless results".  
 
 It also turned out the recipe card had said "2 or 3 drops" of chromate, but was so stained and worn
