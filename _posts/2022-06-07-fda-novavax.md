@@ -446,7 +446,7 @@ This is a really weird timeline.  Can I get back to the one I used to know?
 
 On 2022-Jul-20, epidemiologist Katelyn Jetelina reports at _Your Local Epidemiologist_
 that the CDC's ACIP committee has _finally_ approved Novavax on
-2022-Jul-19! <sup id="fn1a">[[1]](#fn1)</sup>  
+2022-Jul-19! <sup id="fn14a">[[14]](#fn14)</sup>  
 
 While thats a good thing, I suppose, one wonders _why they took 42 days to do so?!_
 That's pretty relaxed, even by their standards.  
