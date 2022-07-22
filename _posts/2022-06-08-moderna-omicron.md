@@ -69,7 +69,7 @@ This is bitterly ironic: Moderna (and presumably Pfizer/BioNTech) have said ther
 enough time to switch now and expect vaccines available in the fall.  So I hope we
 manage not to trip over our own tongues, and go along with mRNA1273.214!  
 
-## The Weeekend Conclusion  
+## The Weekend Conclusion  
 
 So, yeah: pending seeing the actual technical docs, this sure looks like it's superior to
 the classic vaccine.  

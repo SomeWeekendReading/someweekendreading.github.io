@@ -26,7 +26,7 @@ thus be suspected of knowing what he's talking about re social policy:
 
 So let's unpack for a moment what he's talking about.  Following
 [_The Hunting of the Snark_](https://en.wikipedia.org/wiki/The_Hunting_of_the_Snark),
-this is "an agony in 2 fits":  
+this is [an agony in 2 fits](https://en.wikipedia.org/wiki/The_Hunting_of_the_Snark):  
 
 ### Fit the First: Serious COVID-19 Risk as an Excuse to Block Migrants  
 
