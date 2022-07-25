@@ -32,7 +32,7 @@ By evening, I was running 1.5&deg;C fever.  This morning, it was 2.1&deg;C and e
 
 <img src="{{ site.baseurl }}/images/2022-07-25-testing-positive-test-1.jpg" width="400" height="92" alt="Your humble Weekend Editor tests positive" title="Your humble Weekend Editor tests positive" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 With a sense of dread, I took the test, whose results you can see here.  Your humble
-Weekend Editor [definitely has COVID-19]({{ site.baseurl }}/weekend-editrix-exposed), at long last.  
+Weekend Editor [definitely has COVID-19]({{ site.baseurl }}/weekend-editrix-exposed/), at long last.  
 
 "Serves him right", some of you are probably thinking, "for hectoring us about
 vaccinations and masking for 2 1/2 years!"  
@@ -105,7 +105,7 @@ looking like a success story all around.  The new doctor appears to have a very 
 functional practice, and the nurse practitioner was as awesome as I'd hoped.  
 
 
-## [Veni, veni paxlovid!]({{ site.baseurl }}/veni-veni-paxlovid)  
+## [Veni, veni paxlovid!]({{ site.baseurl }}/veni-veni-paxlovid/)  
 
 <img src="{{ site.baseurl }}/images/2022-07-25-testing-positive-paxlovid-1.jpg" width="400" height="218" alt="Paxlovid: like opening a holiday present box" title="Paxlovid: like opening a holiday present box" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-07-25-testing-positive-paxlovid-2.jpg" width="400" height="300" alt="Paxlovid: the (very) fine print" title="Paxlovid: the (very) fine print" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
