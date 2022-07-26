@@ -132,9 +132,10 @@ enzyme which would ordinarily break down nirmatrelvir).
 Ok, it's now 3pm on the first day of testing positive.  That's close enough to "evening"
 for me.  First dose down!  
 - The ritonavir tab is nondescript white.  The nirmatrelvir tab, amusingly enough, is pink
-  with "3CL" embossed on it.  The other name for the main protease ("Mpro") which is the
-  target, is the 3C-like protease ("3CL-pro").  Not many drugs are embossed with the name
-  of the molecule they target!  
+  with "3CL" embossed on it.  The other name for the main protease ("Mpro") target, is the
+  3C-like protease ("3CL-pro").  Not many drugs are embossed with the name of the molecule
+  they target!  (On the other side of the pill, they embossed "PFE", the stock ticker
+  symbol for Pfizer.  Sigh.)  
 - The taste is&hellip; nothing I particularly want to remember.  I'm going to be having a
   metallic taste in my mouth for the next 5 days&hellip; and I'll be _grateful_ for that!  
   
