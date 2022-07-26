@@ -34,7 +34,7 @@ Even the insurance cooperated, for some arcane reason.
 &hellip; is 2 tabs nirmatrelvir + 1 tab ritonavir.  Compliments to the chefs.  
 
 You can see the hilarious (to me) embossing of "3CL" on the nirmatrelvir front side, and
-"PFE" on the back side.  No idea what's on the ritonavir, or why.  
+Pfizer's stock ticker symbol "PFE" on the back side.  No idea what's on the ritonavir, or why.  
 
 Also, you can see the packaging looking gnawed by a velociraptor.  This is because the
 packaging designers (a) have no understanding of what a lever arm is, and (b) no desire to
