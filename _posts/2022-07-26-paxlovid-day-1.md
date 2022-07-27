@@ -6,7 +6,7 @@ comments: true
 commentsClosed: false
 ---
 
-It's now 24hr into my course of paxlovid for COVID-19.  
+It's now 1 day into my course of paxlovid for COVID-19.  
 
 
 ## So far, so&hellip; meh?  
