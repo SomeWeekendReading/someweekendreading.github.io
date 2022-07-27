@@ -45,21 +45,28 @@ formally so she can renew prescriptions, but presumably also to review the paxlo
 
 For the latter purpose, the data this morning are: 
 - sore throat quite annoying at night,  
-- 1.0&deg;C fever, and  
-- diarrhea mostly resolved,  
+- 1.0&deg;C fever, 
+- diarrhea mostly resolved, and  
 - joint/muscle aches mostly resolved.  
 
 The sore throat and fever are the main things right now, so we'll see what aspirin can do
-about that, and what the new doctor is like.  
+about that, and what the new doctor is like.  Symptoms seem to abate rapidly after taking
+each dose of paxlovid, but that's likely psychosomatic, no?  
 
-...video call TBD; more later...  
+The video call was quite pleasant, basically going over medical history, renewing
+prescriptions, and checking out my paxlovid experience (none of which was unusual).  Also,
+turns out you can take Mucinex to control coughing while on paxlovid, so that's good.  
+
+Overall, the healthcare system did what I wanted here.  So far.  
 
 
 ## Spread within Ch&acirc;teau Weekend  
 
 Confusingly, though gratifyingly, the Weekend Editrix continues to test negative.  That
 may have something to do with the field of land mines she has laid at the base of the
-stairs, to keep me confined to the 2nd story of the house. <sup id="fn2a">[[2]](#fn2)</sup>  
+stairs, to keep me confined to the 2nd story of the house. <sup id="fn2a">[[2]](#fn2)</sup>
+She's busy wrestling with some gnarly dental treatment right now anyway; COVID-19 is the
+_last_ thing she needs!
 
 Still, we're hoping the COVID-19 saga here at Chez Weekend remains confined to your humble
 Weekend Editor.  
