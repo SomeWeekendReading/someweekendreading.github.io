@@ -40,7 +40,9 @@ Also, you can see the packaging looking gnawed by a velociraptor.  This is becau
 packaging designers (a) have no understanding of what a lever arm is, and (b) no desire to
 ask what that means for the finger joints of possibly older patients.  Or, perhaps they
 _do_ know these things and are just vicious people.  In any case, I _eventually_ got it
-open.  I may have said a bad word.  
+open.  
+
+I may have said a bad word.  
 
 But, bad word or no, I'm grateful to have it.  Though not so grateful to _need_ it.  
 
