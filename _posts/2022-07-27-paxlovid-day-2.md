@@ -94,5 +94,7 @@ tomato sauce, that sort of thing.
 Dinosaurs, given the opportunity, can be quite helpful.  Who knew?  [↩](#fn1a)  
 
 <a id="fn2">2</a>: The Weekend Publisher, of course, ignores this and shuttles happily
-back and forth.  We haven't been able to teach him pandemic discipline any more than the
+back and forth.  
+
+We haven't been able to teach him pandemic discipline any more than the
 unmasked nimrods on the MBTA shuttle bus who infected me last Saturday.[↩](#fn2a)  
