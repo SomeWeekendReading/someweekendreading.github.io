@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 &amp; Paxlovid&colon; Testing Positive &amp; Getting Prescribed
+title: COVID-19 &amp; Paxlovid&colon; Day 0, Testing Positive &amp; Getting Prescribed
 tags: COVID PharmaAndBiotech
 comments: true
 commentsClosed: false
