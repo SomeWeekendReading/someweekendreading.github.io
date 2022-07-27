@@ -44,9 +44,9 @@ On today's agenda is a teleconference with the new doctor, partly to establish c
 formally so she can renew prescriptions, but presumably also to review the paxlovid.  
 
 For the latter purpose, the data this morning are: 
-- diarrhea apparently over,  
 - sore throat quite annoying at night,  
 - 1.0&deg;C fever, and  
+- diarrhea mostly resolved,  
 - joint/muscle aches mostly resolved.  
 
 The sore throat and fever are the main things right now, so we'll see what aspirin can do
