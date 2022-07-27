@@ -11,16 +11,17 @@ It's now 2 days into my course of paxlovid for COVID-19.
 
 ## Another bit of a rough night  
 
-The first night was the nightmare of never-ending diarrhea.  (Where did it all _come_
+The first night on paxlovid was the nightmare of never-ending diarrhea.  (Where did it all _come_
 from?!  Must my intestines wind through
 [a Hilbert space of mind-boggling dimension](https://en.wikipedia.org/wiki/Hilbert_space),
-to hold that much?  Apparently so!  But none of my professors, when teaching Hilbert
-space, ever used this example.  I wonder why&hellip;)  
+to hold that much, ummm&hellip; _ordure?_  Apparently so!  But none of my professors, when
+teaching Hilbert space, ever used this example.  I wonder why&hellip;)  
 
-The second night was the sore throat from hell.  I had trouble swallowing even saliva,
-painful enough to stop getting to sleep.  I eventually discovered that if I lay very
-still, breathed shallowly, and _pretended_ to be asleep, saliva production would go down
-as if I _were_ asleep.  Then I wouldn't be jolted awake when I had to swallow.  
+The second night on paxlovid &ndash; last night &ndash; was the sore throat from hell.  I
+had trouble swallowing even saliva, painful enough to stop getting to sleep.  I eventually
+discovered that if I lay very still, breathed shallowly, and _pretended_ to be asleep,
+saliva production would go down as if I _were_ asleep.  Then I wouldn't be jolted awake
+when I had to swallow.  
 
 Again, not ideal.  But probably closer to ideal than hospitalization for COVID-19 would
 have been for me.  
