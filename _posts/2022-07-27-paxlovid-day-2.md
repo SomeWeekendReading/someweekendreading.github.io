@@ -52,7 +52,7 @@ For the latter purpose, the data this morning are:
 The sore throat and fever are the main things right now, so we'll see what aspirin can do
 about that, and what the new doctor is like.  
 
-...video call TBD...  
+...video call TBD; more later...  
 
 
 ## Spread within Ch&acirc;teau Weekend  
