@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Positive for COVID-19
+title: COVID-19 &amp; Paxlovid&colon; Testing Positive &amp; Getting Prescribed
 tags: COVID PharmaAndBiotech
 comments: true
 commentsClosed: false
