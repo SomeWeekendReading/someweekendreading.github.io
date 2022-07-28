@@ -56,7 +56,7 @@ each dose of paxlovid, but that's likely psychosomatic, no?
 
 The video call was quite pleasant, basically going over medical history, renewing
 prescriptions, and checking out my paxlovid experience (none of which was unusual).  Also,
-turns out you can take Mucinex to control coughing while on paxlovid, so that's good.  
+turns out one _can_ take Mucinex to control coughing while on paxlovid, so that's good.  
 
 Overall, the healthcare system did what I wanted here.  So far.  
 
@@ -92,7 +92,7 @@ Weekend Editor.
 velociraptor.  
 
 "Won't it just eat us?", I plaintively asked the neighbors.  Fortunately,
-they ignored me.  (On the other hand, they usually do that, so no new information there.)  
+they ignored me.  (On the other hand, _everybody_ usually does that, so no new information there.)  
 
 Though, really, they should have sold me on the idea of a fast predator with a mouthful of
 teeth serrated on the back side by explaining that it could open difficult containers for
