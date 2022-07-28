@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Philosophers in a Bar
+title: Three Philosophers Walk Into a Bar
 tags: CatBlogging MeaCulpa &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: false
