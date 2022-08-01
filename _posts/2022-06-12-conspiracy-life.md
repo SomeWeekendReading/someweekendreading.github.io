@@ -3,7 +3,7 @@ layout: post
 title: On the Lifetime of Conspiracies
 tags: CatBlogging COVID JournalClub Math MathInTheNews PharmaAndBiotech Politics Sadness Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 The world is full of conspiracy theories, more than I recall ever being the case in the

@@ -3,7 +3,7 @@ layout: post
 title: COVID-19&colon; Immunity Types and Real Prevalence
 tags: COVID JournalClub Math PharmaAndBiotech SomebodyAskedMe
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Two questions: what do we know about disease-induced vs vaccine-induced immunity, and what

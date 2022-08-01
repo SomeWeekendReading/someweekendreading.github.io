@@ -3,7 +3,7 @@ layout: post
 title: FDA VRBPAC Meeting&colon; Novavax COVID-19 Vaccine
 tags: COVID PharmaAndBiotech Politics Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today the FDA's Vaccines and Related Biological Products Advisory Committee (VRBPAC) met

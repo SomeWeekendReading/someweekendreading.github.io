@@ -3,7 +3,7 @@ layout: post
 title: Readout of Moderna Bivalent Classic/Omicron Vaccine
 tags: COVID PharmaAndBiotech Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today the Moderna trial of a bivalent classic/Omicron COVID-19 vaccine read out.  Looks

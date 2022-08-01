@@ -3,7 +3,7 @@ layout: post
 title: My Brief But Spectacular Career as a Lawnmower Battery Surgeon
 tags: CatBlogging Physics &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 My lawnmower needed a new battery, but they're no longer made.  So I made one of my own.  

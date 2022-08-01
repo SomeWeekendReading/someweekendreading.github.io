@@ -3,7 +3,7 @@ layout: post
 title: Remastered Film&colon; Paris in the 1920s
 tags: Beauty Religion TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Ever wonder how the past _really_ looked?  Not the jerky, off-speed, black &amp; white

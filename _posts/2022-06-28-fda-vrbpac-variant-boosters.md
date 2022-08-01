@@ -3,7 +3,7 @@ layout: post
 title: FDA VRBPAC&colon; Omicron-Specific COVID-19 Boosters?
 tags: COVID MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today the FDA's Vaccine and Related Biological Products Advisory Committee (VRBPAC) met to

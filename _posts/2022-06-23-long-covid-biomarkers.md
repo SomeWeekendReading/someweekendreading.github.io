@@ -3,7 +3,7 @@ layout: post
 title: On Biomarkers for Long COVID-19
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Some crazy people are suspicious that Long COVID-19 is not a real thing.  So we're gratified here

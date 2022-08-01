@@ -3,7 +3,7 @@ layout: post
 title: Three Philosophers Walk Into a Bar
 tags: CatBlogging MeaCulpa &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 So [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),
