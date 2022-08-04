@@ -264,7 +264,7 @@ say 7-10 days to tamp down on the rebounds:
     doctor who would prescribe Paxlovid, because "it doesn’t work&hellip;" 
   </p>&mdash; Jerome Adams (@JeromeAdamsMD) <a href="https://twitter.com/JeromeAdamsMD/status/1553526582245048321?ref_src=twsrc%5Etfw">July 30, 2022</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 
 Maybe we need to make sure we've done at least some of the provider education needed to
 counteract disinformation and rumor, so providers will actually prescribe it, first.  
@@ -292,8 +292,10 @@ After writing all this, I wondered if I should test again, given that I don't fe
 I mean, what are the odds that the universe is _that_ ironic?  
 
 As you can see here, the odds are excellent: it appears that your humble Weekend Editor is
-now the possessor of a case of COVID-19 rebound.  At least I know it's not paxlovid's fault; it's
-the damn virus.  
+now the possessor of a case of COVID-19 rebound.  Tired, achy, somewhat productive cough,
+runny nose, and about 1&deg;C fever.  So it's mild, I guess?  
+
+At least I know it's not paxlovid's fault; it's the damn virus.  
 
 
 ---
