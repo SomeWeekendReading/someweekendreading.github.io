@@ -295,7 +295,7 @@ As you can see here, the odds are excellent: it appears that your humble Weekend
 now the possessor of a case of COVID-19 rebound.  Tired, achy, somewhat productive cough,
 runny nose, and about 1&deg;C fever.  So it's mild, I guess?  
 
-At least I know it's not paxlovid's fault; it's the damn virus.  
+At least I know it's not paxlovid's fault.  It's the damn virus!  
 
 
 ---
