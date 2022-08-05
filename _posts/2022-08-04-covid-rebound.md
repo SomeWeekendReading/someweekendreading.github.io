@@ -75,7 +75,7 @@ high level of virus _and_ major symptoms is pretty rare, though it does happen.
 <a href="{{ site.baseurl }}/images/2022-08-04-covid-rebound-medrxiv-2.jpg"><img src="{{ site.baseurl }}/images/2022-08-04-covid-rebound-medrxiv-2-thumb.jpg" width="400" height="266" alt="Deo, et al. @ medRxiv: Result table for viral &amp; symptomatic rebounds" title="Deo, et al. @ medRxiv: Result table for viral &amp; symptomatic rebounds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Now, if you dig into the details a bit, you find that they didn't analyze the whole cohort
 of 567 patients for each rebound criterion. (I didn't dig into why.)  Buried a bit at the
-end is Table 1, giving us the numbers.  
+end is Table 1, reproduced here, giving us the numbers.  
 - For viral rebound, they studied 95 cases = 11 rebounders + 84 nonrebounders.  
 - For symptom rebound, they studied 247 cases = 66 rebounders + 181 nonrebounders.  
 
