@@ -120,7 +120,6 @@ subset of the entire trial population:
 
 So far, so good.  
 
-<a href="{{ site.baseurl }}/images/2022-08-04-covid-rebound-medrxiv-3.jpg"><img src="{{ site.baseurl }}/images/2022-08-04-covid-rebound-medrxiv-3-thumb.jpg" width="400" height="133" alt="Deo, et al. @ medRxiv: Double rebounds" title="Deo, et al. @ medRxiv: Double rebounds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Now, what about the patients who have _both_ a high level of virus rebound
 (&ge; 5.0 log 10 mRNA copies/mL) _and_ a change in symptoms?  That's what we want to know
 about: a viral load high enough to be a spreader, and symptoms strong enough to make the
@@ -133,6 +132,7 @@ criteria, multiple viral rebound thresholds, and not all patients had all viral 
 symptom measurements (so there was presumably a database join operation that is not
 explained), and&hellip; look, I just got tired and decided to take their word for it.  
 
+<a href="{{ site.baseurl }}/images/2022-08-04-covid-rebound-medrxiv-3.jpg"><img src="{{ site.baseurl }}/images/2022-08-04-covid-rebound-medrxiv-3-thumb.jpg" width="400" height="133" alt="Deo, et al. @ medRxiv: Double rebounds" title="Deo, et al. @ medRxiv: Double rebounds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The results are shown in Table 2, reproduced here.  
 
 Rather than undertake a deeper analysis here, let's just note that the counts are very
