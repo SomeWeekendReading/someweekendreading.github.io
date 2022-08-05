@@ -13,7 +13,7 @@ rebounds?
 ## On rebounds  
 
 Ok, I have to admit: I'm not entirely objective, here.  I have a _strong_ interest in
-_not_ getting COVID-19 in general, as the last couple years of blogging attest.  But given
+_not_ getting COVID-19 in general, as the last couple years of blogging here can attest.  But given
 that I just had a case of COVID-19 (because of stupid crowding on MBTA buses with people
 who refused to mask), and got treated with paxlovid, I have a very strong Bayesian
 posterior interest in not getting paxlovid rebound.  
@@ -23,15 +23,16 @@ feeling a little off like a summer cold.  Maybe it _is_ a summer cold, for the f
 in a couple years.  
 
 But it got me thinking: while there's a lot of _talk_ about "paxlovid rebound", there's
-always talk, because news reporters love "story" much more than they love truth.  Can we
-know the truth here?  We need to know the rate of rebound among patients who get COVID-19
-and are treated with paxlovid, vs those who get COVID-19 and are _not_ treated.  Ideally,
-we'd like those 2 populations to be matched for age, complicating conditions, severity of
-infection, and everything else.  This being a non-ideal world, we will likely not get
-that.  
+always talk, because news reporters love "story" much more than they love truth.  
+
+Can we know the truth here?  We need to know the rate of rebound among patients who get
+COVID-19 and are treated with paxlovid, vs those who get COVID-19 and are _not_ so treated.
+Ideally, we'd like those 2 populations to be matched for age, complicating conditions,
+severity of infection, and everything else.  (This being a non-ideal world, we will likely
+not get that.)  
 
 
-## &hellip; And now, there's data  
+## &hellip; and now, there's data!  
 
 Remember: we want to compare rebound rates in paxlovid-treated and -untreated COVID-19
 patient populations.  
@@ -46,8 +47,10 @@ creatively enough, turned out to be the placebo arm of another trial.
   (Though, frustratingly enough, we find later that only subsets were analyzed.)  
 - Anterior nasal swabs on days 0-14, 21, and 28.  
 - Daily scoring on 13 targeted symptoms every day, 0-28.  
-- Viral rebound defined as &ge; 0.5 log 10 viral RNA copies/mL increase above baseline.  
-- Symptom rebound by a 4-point total symptom score (i.e., likely a 4-point Liechert scale
+- Viral rebound defined as &ge; 0.5 log 10 viral RNA copies/mL increase above baseline.
+  (Though, frustratingly enough _again_, they also use severe viral rebound thresholds of
+  3.0 and 5.0 log 10 mRNA copies/mL.)  
+- Symptom rebound by a 4-point total symptom score (i.e., likely a 5-point Liechert scale
   0 - 4) increase above baseline.  
 
 I haven't reviewed every detail here, since I'm not a referee.  But overall, this looks
@@ -234,9 +237,11 @@ In prop.test(x = c(2, 4), n = c(173, 483)) :
 
 (The warning at the bottom is because there are so few rebound cases.)
 
-But, basically the answer is no: the difference is not statistically significant.  We
+But, basically the answer is no: the difference is _not_ statistically significant.  We
 should speak of "COVID-19 rebound", not "paxlovid rebound", because the rebound is a
-property of the virus, not the treatment.  
+property of COVID-19, not the treatment by paxlovid.  Rebounds happen.  If you look for
+rebounds, you will find rebounds.  But at not much difference in frequency with or without
+paxlovid.  
 
 (This is similar to claims I've heard about the paxlovid clinical trial: rebound cases
 were about the same in the treatment and control arms.  The problem there is they looked
