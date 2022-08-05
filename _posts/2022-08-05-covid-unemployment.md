@@ -142,7 +142,11 @@ and dismantling social safety nets) seems to be in full operation.
 
 ## The Weekend Conclusion  
 
-I am a grumpy old man, of firmly liberal beliefs.  Pehaps you noticed that already, though.  
+I am a grumpy old man, of firmly liberal beliefs.  Also, only very lightly informed on the
+subject of economics, so my opinions here are more of the knee-jerk variety that anything
+well thought out.  
+
+Perhaps you noticed that already, though.  
 
 ---
 
