@@ -40,6 +40,8 @@ sudden sweats, and fatigue.  And a RAT producing that _glaarrgh_ red T line.
 
 Back to books &amp; YouTube for now.
 
+### Books (passim)  
+
 <img src="{{ site.baseurl }}/images/2022-08-08-positive-thinking-anasazi.jpg" width="100" height="165" alt="Dean Ing, Anasazi" title="Dean Ing, Anasazi" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-08-08-positive-thinking-eternal-light.jpg" width="100" height="135" alt="Paul McAuley, Eternal Light" title="Paul McAuley, Eternal Light" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I'm re-reading some of my old SF paperbacks that happen to be covering most of the the
@@ -57,7 +59,7 @@ In a more serious vein, I've been working my way through
 [Sidney Coleman's _Lectures on Relativity_](https://www.goodreads.com/book/show/59143228-sidney-coleman-s-lectures-on-relativity).
 It's about as good as you'd expect, if you knew Coleman: almost _startlingly_ clear, with
 his lecture style that makes the world suddenly make sense.  It's like an ambush of
-clarity: you can't see it coming, but every time it clobbers you from behind it's pure joy
+clarity: you can't see it coming, but every time it clobbers you from behind, it's pure joy
 of insight.  
 
 I miss him.  I modeled a lot of my own teaching technique after him (and a couple others,
@@ -67,11 +69,13 @@ he was an excellent and hilarious experience in the classroom.  I wanted the fic
 because he made me happy, surely he must be happy doing so.  I guess it was a duty for
 him.  
 
-But I still respect dutifulness, and miss him anyway.  
+But I _respect_ dutifulness, and still miss him anyway.  
+
+### YouTubery  
 
 As far as YouTubers&hellip; Let me begin with how amused I am at the word "YouTuber".  It
 sounds like some arcane epithet to be hurled when one wishes to compare one's antagonist
-to a potato.  (Go ahead, think it through.  The rest of us will wait.)  
+to a potato.  (Go ahead, think it through.  The rest of us will wait.  Hint: "You&hellip; _tuber!_")  
 
 I've been feeling confined, helpless, and dependent with this idiot virus from the
 unmasked idiots who gave it to me on the idiotically crowded, slow MBTA shuttle bus.  So
