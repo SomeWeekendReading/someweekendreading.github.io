@@ -12,10 +12,10 @@ People are _always_ telling me to "think positive".  I hate it.
 ## Positive thinking?!  
 
 I _really_ hate being told that.  It's as though I'm being socially coerced to buy into
-some collective delusion that lets them ignore how terribly we're being exploited by the
+some collective delusion that lets NT's ignore how terribly we're all being exploited by the
 rich and their corporations.  Or how brutal we are to each other.  
 
-We [depressed, anxious folk are provably more realistic in our assessments of the world](https://en.wikipedia.org/wiki/Depressive_realism), don't you know?  
+We [depressed, anxious folk are more realistic in our assessments of the world](https://en.wikipedia.org/wiki/Depressive_realism), don't you know?  
 
 
 ## COVID-19 testing  
@@ -25,15 +25,15 @@ Still&hellip; it's time to test to see if I've cleared the rebound infection.  M
 on the 2nd floor?  
 
 <img src="{{ site.baseurl }}/images/2022-08-08-positive-thinking-test-1.jpg" width="400" height="111" alt="Your humble Weekend Editor is thinking positive" title="Your humble Weekend Editor is thinking positive" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Behold the fruits of positive thinking: I am indeed, still positive.  
+Behold the fruits of positive thinking: I am indeed, still positive.  _COVID-19 positive._  
 
 Ok, only a little bit.  But with RAT sensitivity, it means I'm still likely shedding
 virus.  And that's positive enough to warrant further confinement.  
 
-But&hellip; today is the 5th day of rebound COVID-19, with no 2nd course of paxlovid.
-Symptoms are fading: no fever, most of the aches &amp; pains faded, no long sessions of
-productive coughing.  Still some productive
-coughing/runny nose, and fatigues.  And a RAT producing that _glaarrgh_ red T line.  
+But&hellip; today is the 5th day of rebound COVID-19 (no 2nd course of paxlovid,
+irritatingly enough).  Symptoms are fading: no fever, most of the aches &amp; pains faded,
+no long sessions of productive coughing.  Still some productive coughing/runny nose,
+sudden sweats, and fatigue.  And a RAT producing that _glaarrgh_ red T line.  
 
 
 ## So what now?  
@@ -56,13 +56,18 @@ which.
 In a more serious vein, I've been working my way through
 [Sidney Coleman's _Lectures on Relativity_](https://www.goodreads.com/book/show/59143228-sidney-coleman-s-lectures-on-relativity).
 It's about as good as you'd expect, if you knew Coleman: almost _startlingly_ clear, with
-his lecture style that makes the world suddenly make sense.  I miss him.  I modeled a lot
-of my own teaching technique after him (and a couple others, but maybe 50% El Sid).  That
-picture of him on the cover, slouched in a recliner, is perfect.  I was
-really sad one day to learn that he didn't much like teaching, even though he was an
-excellent and hilarious experience in the classroom.  I wanted the fiction that because he
-made me happy, surely he must be happy doing so.  I guess it was a duty for him.  But I
-still respect dutifulness, and miss him anyway.  
+his lecture style that makes the world suddenly make sense.  It's like an ambush of
+clarity: you can't see it coming, but every time it clobbers you from behind it's pure joy
+of insight.  
+
+I miss him.  I modeled a lot of my own teaching technique after him (and a couple others,
+but maybe 50% El Sid).  That picture of him on the cover, slouched in a recliner, is
+perfect.  I was really sad one day to learn that he didn't much like teaching, even though
+he was an excellent and hilarious experience in the classroom.  I wanted the fiction that
+because he made me happy, surely he must be happy doing so.  I guess it was a duty for
+him.  
+
+But I still respect dutifulness, and miss him anyway.  
 
 As far as YouTubers&hellip; Let me begin with how amused I am at the word "YouTuber".  It
 sounds like some arcane epithet to be hurled when one wishes to compare one's antagonist
@@ -71,7 +76,7 @@ to a potato.  (Go ahead, think it through.  The rest of us will wait.)
 I've been feeling confined, helpless, and dependent with this idiot virus from the
 unmasked idiots who gave it to me on the idiotically crowded, slow MBTA shuttle bus.  So
 I've been fascinated with independence.  Hence the videos of people building off-grid
-cabins and rather more elaborate homes:  
+cabins and rather more elaborate off-grid workshops and homes:  
 <img src="{{ site.baseurl }}/images/2022-08-08-positive-thinking-bush-radical.jpg" width="400" height="154" alt="Bush Radical @ YouTube" title="Bush Radical @ YouTube" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-08-08-positive-thinking-girl-in-the-woods.jpg" width="400" height="150" alt="Girl in the Woods @ YouTube" title="Girl in the Woods @ YouTube" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - [_Bush Radical_](https://www.youtube.com/c/Bushradical) and 
@@ -83,7 +88,7 @@ cabins and rather more elaborate homes:
   revulsion.  But mostly, they show how to build rather nice little cabins to which you
   can retire to build a fire in a wood stove and get some writing done on a winter day.  
 
-  And they play with their dogs a lot, who seem insanely happy canines.  
+  And they play with their dogs a lot, who seem insanely happy canines, just a joy to behold.  
   
   When they cook over a wood fire or on the wood stove, they always "offer you the first
   bite", holding a forkful close to the camera lens.  Some of the "spend the night with me
@@ -112,6 +117,9 @@ cabins and rather more elaborate homes:
 So that's my somewhat deranged COVID-19 isolation time.  
 
 No more deranged than usual, really.  
+
+(Or possibly I'm too deranged to tell.  Feel free to debug my state of derangement in the
+comments, if you like.)  
 
 ---
 
