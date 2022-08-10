@@ -125,6 +125,22 @@ No more deranged than usual, really.
 (Or possibly I'm too deranged to tell.  Feel free to debug my state of derangement in the
 comments, if you like.)  
 
+
+## Addendum 2022-Aug-10: Project Kamp  
+
+Oh, I forgot to add to the YouTube stuff: [Project Kamp](https://www.youtube.com/c/ProjectKamp)!
+
+Some amiable Europeans, mostly Dutch, bought abandoned land in Portugal and are
+rehabilitating it.  A changing cast of characters come for a few months each, to
+experiment with solar arrays, vegan cooking, weather stations, soil moisture sensors, and
+so on all hooked up to a Raspberry Pi.  In the meantime, they live completely off-grid,
+make good friends with their neighbors, and just generally try to figure out ecologically
+sustainable living.  
+
+Also socially sustainable, since they like their neighbors.  So much so that they get
+invited to come harvest oranges that the neighbors don't have time to harverst.  The video
+of fresh, sun-warmed oranges is quite moving.  
+
 ---
 
 ## Notes &amp; References  
