@@ -128,6 +128,7 @@ comments, if you like.)
 
 ## Addendum 2022-Aug-10: Project Kamp  
 
+<img src="{{ site.baseurl }}/images/2022-08-08-positive-thinking-project-kamp.jpg" width="400" height="157" alt="Project Kamp @ YouTube" title="Project Kamp @ YouTube" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Oh, I forgot to add to the YouTube stuff: [Project Kamp](https://www.youtube.com/c/ProjectKamp)!
 
 Some amiable Europeans, mostly Dutch, bought abandoned land in Portugal and are
@@ -138,7 +139,7 @@ make good friends with their neighbors, and just generally try to figure out eco
 sustainable living.  
 
 Also socially sustainable, since they like their neighbors.  So much so that they get
-invited to come harvest oranges that the neighbors don't have time to harverst.  The video
+invited to come harvest oranges that the neighbors don't have time to harvest.  The video
 of fresh, sun-warmed oranges is quite moving.  
 
 ---
