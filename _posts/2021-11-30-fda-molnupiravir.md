@@ -45,8 +45,8 @@ Today is step 1.
 <img src="{{ site.baseurl }}/images/2021-11-30-fda-molnupiravir-meeting-matls.jpg" width="400" height="211" alt="FDA: AMDAC meeting announcement &amp; materials on molnupiravir" title="FDA: AMDAC meeting announcement &amp; materials on molnupiravir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube-nocookie.com/embed/fR9FNSJT64M" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 
-The FDA announcement of the AMBAC meeting <sup id="fn1a">[[1]](#fn1)</sup> has pointers to
-all the meeting's submitted documents and presentations that the AMBAC will consider.  For
+The FDA announcement of the AMDAC meeting <sup id="fn1a">[[1]](#fn1)</sup> has pointers to
+all the meeting's submitted documents and presentations that the AMDAC will consider.  For
 completists and obsessives, all 7 or 8 hours of the hearings are livestreamed, and can be
 watched on YouTube as seen here.  
 
@@ -297,7 +297,7 @@ details.
 
 ## Addendum 2021-Nov-30 evening:  
 
-<img src="{{ site.baseurl }}/images/2021-11-30-fda-molnupiravir-stat.jpg" width="400" height="220" alt="STAT: FDA AMBAC narrowly recommends EUA of molnupiravir" title="STAT: FDA AMBAC narrowly recommends EUA of molnupiravir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2021-11-30-fda-molnupiravir-stat.jpg" width="400" height="220" alt="STAT: FDA AMDAC narrowly recommends EUA of molnupiravir" title="STAT: FDA AMDAC narrowly recommends EUA of molnupiravir" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 _Now_ our safari guides at _STAT News_ check in! <sup id="fn8a">[[8]](#fn8)</sup>  Matthew
 Herper reports, as above, that AMDAC members were concerned about birth defects and that
 the efficacy was not as stellar as initially thought.  
