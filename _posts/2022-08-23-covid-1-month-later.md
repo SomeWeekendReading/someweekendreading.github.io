@@ -18,6 +18,7 @@ Weekend, testing positive 2 days later.  Surely it must all be over, right?  Rig
 
 Fat ladies are not, as yet, singing.  Or at least, they are singing _very_ softly.  
 
+<img src="{{ site.baseurl }}/images/2022-08-23-covid-1-month-later-test-1.jpg" width="400" height="82" alt="Your humble Weekend Editor is now persistently negative, as is the Weekend Editrix" title="Your humble Weekend Editor is now persistently negative, as is the Weekend Editrix" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Yes, we both test negative.  Yes, symptoms have largely abated.  But we're both weak as
 kittens, and get utterly, deathly tired &amp; achy &amp; crabby by mid-afternoon.  Not
 just "tired", but having actual difficulty cooking dinner because even standing up to eat feels
