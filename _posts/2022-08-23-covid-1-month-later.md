@@ -43,7 +43,8 @@ So yeah, we got problems.
 But at least a couple things are going well, or at least in the right direction:  
 
 <img src="{{ site.baseurl }}/images/2022-08-23-covid-1-month-later-reuters-1.jpg" width="400" height="218" alt="Reuters: FDA asks Pfizer to trial 2nd course of paxlovid for rebound infections" title="Reuters: FDA asks Pfizer to trial 2nd course of paxlovid for rebound infections" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-1. _Reuters_ reports that the FDA has asked Pfizer to run a clinical trial to test the
+1. _Reuters_ reports <sup id="fn2a">[[2]](#fn2)</sup> that the FDA has asked Pfizer to run
+   a clinical trial to test the
    utility of a 2nd course of paxlovid in people who get rebound infections.  As you'll recall from
    [our experience of rebound infection here at Chez Weekend]({{ site.baseurl }}/covid-rebound/),
    we strongly support this.  (Yes, it's _COVID-19 rebound_, not paxlovid rebound, since
@@ -73,7 +74,10 @@ But at least a couple things are going well, or at least in the right direction:
    following
    [the FDA guidance from this summer about which we blogged last June]({{ site.baseurl }}/fda-vrbpac-variant-boosters/),
    and have begun "at-risk" manufacturing so they'll be able to ship immediately upon
-   grant of EUA.  
+   grant of EUA.  (I checked
+   [the FDA advisory committee calendar](https://www.fda.gov/advisory-committees/advisory-committee-calendar),
+   and as of today see no VRBPAC meeting about EUA for Omicron-specific vaccines, either
+   Pfizer or Moderna.  Get on that, will ya, FDA folk? Thanks.)  
    
    It's described as bivalent, albeit in a peculiar way:  
 
