@@ -65,7 +65,6 @@ But at least a couple things are going well, or at least in the right direction:
 
    And frankly, we now know rebounds are pretty common, with our without paxlovid.  And
    here at Chez Weekend, we know they're no fun.  
-
 <img src="{{ site.baseurl }}/images/2022-08-23-covid-1-month-later-pfizer-1.jpg" width="400" height="418" alt="Pfizer &amp; BioNTech: FDA submission of multivalent vaccine for EUA" title="Pfizer &amp; BioNTech: FDA submission of multivalent vaccine for EUA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 2. Pfizer and BioNTech have submitted to the FDA the EUA application for their bivalent
    booster vaccine. <sup id="fn3a">[[3]](#fn3)</sup> (Yes, that's a press release.  And
