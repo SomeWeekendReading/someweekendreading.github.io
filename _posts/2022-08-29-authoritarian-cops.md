@@ -385,7 +385,7 @@ Well, I wrote a pretty angry little jeremiad there, didn't I?  Still&hellip; it 
 This morning I found an interview on _MSNBC_ with Representative David Cicilline (D-RI) on
 _Morning Joe_.  <sup id="fn12a">[[12]](#fn12)</sup> He's written a book called _House on
 Fire_ calling out the dangers Republicans are posing to US democracy through their
-authoritarianism and fascism.  
+authoritarianism and fascism.  And yes, he uses those exact words when speaking of Republicans.  
 
 Spot on.  
 
