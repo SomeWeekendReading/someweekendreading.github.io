@@ -37,7 +37,7 @@ But&hellip; things are getting better.  Slowly.
 The world is still in the grips of climate change causing droughts severe enough to make
 parts of even the developed world uninhabitable.  The incredibly stupid Russian invasion
 of Ukraine continues insensibly.  The world slouches toward fascism.  Trump is not yet
-indicted, let alone in prison.  
+indicted, let alone imprisoned.  
 
 So yeah, we got problems.  
 
