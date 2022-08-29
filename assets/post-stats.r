@@ -11,6 +11,17 @@ suppressPackageStartupMessages({                       # Ssshh!  Quiet in the li
   library("RCurl")                                     # For getURLContent()
 })                                                     #
 
+## *** Lognormal distribution for PostHits:
+## > foo     <- log(postData$"PostHits" + 1)
+## > meanlog <- mean(foo)
+## > sdlog   <- sd(foo)
+## > hist(postData$"PostHits", breaks = 20, col = "blue", main = "PostHits Distribution", xlab = "PostHits", ylab = "Probability Density", prob = TRUE)
+## > phs <- seq(from = 1, to = 1400, length.out = 1000)
+## > lines(x = phs, y = dlnorm(phs, meanlog = 4.628724, sdlog = 0.6010348), lty = "dashed", col = "red")
+##
+## *** Looks good, but how to assess fit quantitatively?  (KS test?)
+## *** How to choose lognormal vs gamma vs other?
+
 ##
 ## Collect stats on posts over time.
 ##
