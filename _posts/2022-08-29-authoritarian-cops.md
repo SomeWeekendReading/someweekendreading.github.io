@@ -375,6 +375,20 @@ An elegant summary, found on Twitter via RWK:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
+
+## Addendum 2022-Aug-29, after getting some sleep  
+
+<img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-msbc-1.jpg" width="200" height="298" alt="Cicilline: House on Fire" title="Cicilline: House on Fire" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<iframe width="400" height="224" src="https://www.youtube-nocookie.com/embed/K_5uYuiU7kE" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+Well, I wrote a pretty angry little jeremiad there, didn't I?  Still&hellip; it sums up how I feel about this political moment.  
+
+This morning I found an interview on _MSNBC_ with Representative David Cicilline (D-RI) on
+_Morning Joe_.  <sup id="fn12a">[[12]](#fn12)</sup> He's written a book called _House on
+Fire_ calling out the dangers Republicans are posing to US democracy through their
+authoritarianism and fascism.  
+
+Spot on.  
+
 ---
 
 ## Notes &amp; References  
@@ -412,3 +426,5 @@ An elegant summary, found on Twitter via RWK:
 <a id="fn10">10</a>: S Myrick, ["To transform Boston policing, test for authoritarianism"](https://www.bostonglobe.com/2022/08/05/opinion/transform-boston-policing-test-authoritarianism/), _Boston Globe_, 2022-Aug-05.  [↩](#fn10a)  
 
 <a id="fn11">11</a>: L O'Donnell, ["Interview with Charles Blow: Republicans are America's Problem"](https://www.youtube.com/watch?v=pETDdCIWGQc), _The Last Word_ on _MSNBC_, 2022-Aug-19. [↩](#fn11a)  
+
+<a id="fn12">12</a>: J Scarborough, M Brzezinski, ["House Member Sounds Alarm On Authoritarianism In New Book"](https://www.youtube.com/watch?v=K_5uYuiU7kE), _MSNBC_, _Morning Joe_, 2022-Aug-29. [↩](#fn12a)  
