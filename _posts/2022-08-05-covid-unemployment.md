@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 Unemployment&colon; How Bad?
+title: COVID-19&colon; How Bad Was the Unemployment?
 tags: CorporateLifeAndItsDiscontents COVID Politics Statistics
 comments: true
 commentsClosed: false

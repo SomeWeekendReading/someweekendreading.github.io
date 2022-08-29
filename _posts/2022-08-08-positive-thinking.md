@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Power of Positive Thinking
+title: COVID-19&colon; The Power of Positive Thinking
 tags: COVID PharmaAndBiotech
 comments: true
 commentsClosed: false
