@@ -384,8 +384,9 @@ Well, I wrote a pretty angry little jeremiad there, didn't I?  Still&hellip; it 
 
 This morning I found an interview on _MSNBC_ with Representative David Cicilline (D-RI) on
 _Morning Joe_.  <sup id="fn12a">[[12]](#fn12)</sup> He's written a book called _House on
-Fire_ calling out the dangers Republicans are posing to US democracy through their
-authoritarianism and fascism.  And yes, he uses those exact words when speaking of Republicans.  
+Fire_ <sup id="fn13a">[[13]](#fn13)</sup> calling out the dangers Republicans are posing
+to US democracy through their authoritarianism and fascism.  And yes, he uses those exact
+words when speaking of Republicans.  
 
 Spot on.  
 
@@ -428,3 +429,5 @@ Spot on.
 <a id="fn11">11</a>: L O'Donnell, ["Interview with Charles Blow: Republicans are America's Problem"](https://www.youtube.com/watch?v=pETDdCIWGQc), _The Last Word_ on _MSNBC_, 2022-Aug-19. [↩](#fn11a)  
 
 <a id="fn12">12</a>: J Scarborough, M Brzezinski, ["House Member Sounds Alarm On Authoritarianism In New Book"](https://www.youtube.com/watch?v=K_5uYuiU7kE), _MSNBC_, _Morning Joe_, 2022-Aug-29. [↩](#fn12a)  
+
+<a id="fn13">13</a>: D Cicilline, [_House on Fire_](https://www.amazon.com/House-Fire-Fighting-Democracy-Political/dp/1538722593), _Twelve Books_, to be released (tomorrow) 2022-Aug-30. [↩](#fn13a)  
