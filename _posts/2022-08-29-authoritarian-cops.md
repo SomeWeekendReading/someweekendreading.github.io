@@ -430,4 +430,4 @@ Spot on.
 
 <a id="fn12">12</a>: J Scarborough, M Brzezinski, ["House Member Sounds Alarm On Authoritarianism In New Book"](https://www.youtube.com/watch?v=K_5uYuiU7kE), _MSNBC_, _Morning Joe_, 2022-Aug-29. [↩](#fn12a)  
 
-<a id="fn13">13</a>: D Cicilline, [_House on Fire_](https://www.twelvebooks.com/titles/david-n-cicilline/house-on-fire/9781538722596/), _Twelve Books_, to be released (tomorrow) 2022-Aug-30. [↩](#fn13a)  
+<a id="fn13">13</a>: D Cicilline, [_House on Fire_](https://www.twelvebooks.com/titles/david-n-cicilline/house-on-fire/9781538722596/), _Twelve Books_, to be released 2022-Aug-30 (tomorrow). [↩](#fn13a)  
