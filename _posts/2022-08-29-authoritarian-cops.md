@@ -390,6 +390,53 @@ words when speaking of Republicans.
 
 Spot on.  
 
+
+## Addendum 2022-Aug-30: Godwin's Law  
+
+Back in 1990, attorney [Mike Godwin](https://en.wikipedia.org/wiki/Mike_Godwin), upon
+watching endless Usenet flame wars, proposed
+[Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law) as a possible antidote for
+the inevitable [_reductio ad Hitlerium_](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum):  
+
+> when a Hitler comparison is made, the thread is finished and whoever made the comparison
+> loses whatever debate is in progress.  
+
+He later pointed out that when discussing _actual_ Nazis and fascists, Godwin's Law does
+not apply. Here's what he had to say about Biden's characterization of the Trump wing of
+the Republican party as "semi-fascist":  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    People have asked me my opinion of President Biden&#39;s criticism of
+	&quot;semi-fascism.&quot; Well, I can&#39;t overstate my disapproval of the
+	inappropriate use of &quot;semi.&quot;
+  </p>&mdash; Mike Godwin (@sfmnemonic) <a href="https://twitter.com/sfmnemonic/status/1563797677082415105?ref_src=twsrc%5Etfw">August 28, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+Ok, good snark.  But what do _serious_ scholars of fascism think?  
+
+<img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-newsweek-1.jpg" width="400" height="257" alt="RO Paxton @ Newsweek: Fascism scholar says Trump is fascist" title="RO Paxton @ Newsweek: Fascism scholar says Trump is fascist" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+No less a scholar than [Robert Paxton](https://en.wikipedia.org/wiki/Robert_Paxton),
+professor of political science and history, has devoted his career to the study of fascism
+(in particular the Vichy government under Nazi occupation in France).  This is a serious,
+heavy-weight guy, to whose opinion I will listen respectfully.  Writing in _Newsweek_ just
+after the insurrection on 2021-Jan-06 <sup id="fn14a">[[14]](#fn14)</sup>, he writes that
+he'd hesitated to call Trump fascist until that point.  
+
+After Jan 6 though, no doubt remained: _Trumpists are fascists_ (__emphasis__ added):  
+
+> Trump's incitement of the invasion of the Capitol on January 6, 2020 removes my
+> objection to the fascist label. His open encouragement of civic violence to overturn an
+> election crosses a red line. __The label now seems not just acceptable but necessary.__  
+
+Nobody blinks an eye when Republicans call Democrats "socialists" or "communists", which
+is laughably untrue.  So why do Republicans throw a hissy fit when they get called
+"fascists", a description for which there is amply convincing evidence?  
+
+If you are a Republican, take note: it's time to vote out the fascists who have taken over
+your party.  Or, you can be complicit.  
+
 ---
 
 ## Notes &amp; References  
@@ -431,3 +478,5 @@ Spot on.
 <a id="fn12">12</a>: J Scarborough, M Brzezinski, ["House Member Sounds Alarm On Authoritarianism In New Book"](https://www.youtube.com/watch?v=K_5uYuiU7kE), _MSNBC_, _Morning Joe_, 2022-Aug-29. [↩](#fn12a)  
 
 <a id="fn13">13</a>: D Cicilline, [_House on Fire_](https://www.twelvebooks.com/titles/david-n-cicilline/house-on-fire/9781538722596/), _Twelve Books_, to be released 2022-Aug-30 (tomorrow). [↩](#fn13a)  
+
+<a id="fn14">14</a>: R Paxton, ["I've Hesitated to Call Donald Trump a Fascist. Until Now"](https://www.newsweek.com/robert-paxton-trump-fascist-1560652), _Newsweek_, 2021-Jan-11. [↩](#fn14a)  
