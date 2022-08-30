@@ -391,7 +391,7 @@ words when speaking of Republicans.
 Spot on.  
 
 
-## Addendum 2022-Aug-30: Godwin's Law  
+## Addendum 2022-Aug-30: Godwin's Law &amp; Serious Fascism Scholars  
 
 Back in 1990, attorney [Mike Godwin](https://en.wikipedia.org/wiki/Mike_Godwin), upon
 watching endless Usenet flame wars, proposed
@@ -417,14 +417,14 @@ the Republican party as "semi-fascist":
 Ok, good snark.  But what do _serious_ scholars of fascism think?  
 
 <img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-newsweek-1.jpg" width="400" height="257" alt="RO Paxton @ Newsweek: Fascism scholar says Trump is fascist" title="RO Paxton @ Newsweek: Fascism scholar says Trump is fascist" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-No less a scholar than [Robert Paxton](https://en.wikipedia.org/wiki/Robert_Paxton),
-professor of political science and history, has devoted his career to the study of fascism
+No less a personage than [Robert Paxton](https://en.wikipedia.org/wiki/Robert_Paxton),
+professor of political science and history at Columbia, has devoted his career to the study of fascism
 (in particular the Vichy government under Nazi occupation in France).  This is a serious,
 heavy-weight guy, to whose opinion I will listen respectfully.  Writing in _Newsweek_ just
 after the insurrection on 2021-Jan-06 <sup id="fn14a">[[14]](#fn14)</sup>, he writes that
 he'd hesitated to call Trump fascist until that point.  
 
-After Jan 6 though, no doubt remained: _Trumpists are fascists_ (__emphasis__ added):  
+After Jan 6 though, no doubt remained. _Trumpists are fascists_ (__emphasis__ added):  
 
 > Trump's incitement of the invasion of the Capitol on January 6, 2020 removes my
 > objection to the fascist label. His open encouragement of civic violence to overturn an
