@@ -243,10 +243,28 @@ postStats <- function(## Inputs
         barplot(height = table(postData[, colName]), col = "blue", space = 0,
                 xlab = colName, ylab = sprintf("Freq(%s)", colName),
                 main = sprintf("%s Distribution", colName))
-      else                                             # Else ordinary histogram
-        hist(x = postData[, colName], col = "blue", breaks = histBreaks,
-             xlab = colName, ylab = sprintf("Freq(%s)", colName),
+      else {                                           # Else ordinary histogram
+        hist(x = postData[, colName], col = "blue", breaks = histBreaks, prob = TRUE,
+             xlab = colName, ylab = sprintf("Prob(%s)", colName),
              main = sprintf("%s Distribution", colName))
+        ## Fit a lognormal distribution
+        foo     <- log(postData[, colName] + 1)
+        meanLog <- mean(foo)
+        sdLog   <- sd(foo)
+        vals    <- seq(from = 1, to = max(postData[, colName]), length.out = 1000)
+        lines(x = vals, y = dlnorm(vals, meanlog = meanLog, sdlog = sdLog),
+              lty = "solid", lwd = 2, col = "red")
+        legend("topright", bg = "antiquewhite", inset = 0.01,
+               pch    = c(22,      NA),
+               pt.bg  = c("blue",  NA),
+               pt.cex = c(2,       NA),
+               lty    = c(NA,      "solid"),
+               lwd    = c(NA,      2),
+               col    = c("black", "red"),
+               ## *** report mean(log) & sd(log) in legend as expressions
+               legend = c("Observations",
+                          "Lognormal distribution:"))
+      }
 
       ## *** Estimate mean, plot resultant Poisson distribution on top of hist/barplot?
       ## *** Account for binning in histogram vs barplot
