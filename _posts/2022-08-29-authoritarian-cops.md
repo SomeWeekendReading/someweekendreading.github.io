@@ -435,7 +435,7 @@ is laughably untrue.  So why do Republicans throw a hissy fit when they get call
 "fascists", a description for which there is amply convincing evidence?  
 
 If you are a Republican, take note: it's time to vote out the fascists who have taken over
-your party.  Or, you can be complicit.  
+your party.  Or, you can be complicit.  Choose wisely.  
 
 ---
 
