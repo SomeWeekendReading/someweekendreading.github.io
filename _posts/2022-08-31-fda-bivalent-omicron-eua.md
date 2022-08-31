@@ -100,6 +100,33 @@ COVID-19.
 
 But then&hellip; vax us up!  
 
+
+## Addendum 2022-Aug-31, afternoon  
+
+Eric Topol points out a paper that dropped on _medR&chi;iv_ today:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    Relevant to new BA.5 boosters for people with recent infection &lt; 2 months<br>
+    &quot;B-cell responses to booster vaccines are impeded by recent infection&quot;
+    <a href="https://t.co/DPVUaDpbOJ">https://t.co/DPVUaDpbOJ</a>
+    <a href="https://t.co/ukCiEzSIi2">pic.twitter.com/ukCiEzSIi2</a>
+  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1565007310551801856?ref_src=twsrc%5Etfw">August 31, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+So basically recent (&lt; 2 months) COVID-19 infection impairs B-cell responses induced by
+the new BA.5 booster.  
+
+That means your humble Weekend Editor &amp; Editrix need to wait a bit, as we just
+finished a regrettable COVID-19 infection.  We started testing negative (post-rebound) in
+late August, so we should get the new vaccine in late October or early November.  
+
+One presumes the upcoming CDC guidelines to be decided tomorrow will have summat to say on
+this subject.  
+
+Annoying, but good to know.  
+
 ---
 
 ## Notes &amp; References  
@@ -123,3 +150,5 @@ But then&hellip; vax us up!
 <a id="fn3">3</a>: PBS News Hour Staff, ["WATCH LIVE: FDA discusses new guidelines for updated COVID-19 boosters"](https://www.youtube.com/watch?v=r5ZA-wSq4F0), _PBS News Hour_ on _YouTube_, 2022-Aug-31. [↩](#fn3a)  
 
 <a id="fn4">4</a>: CDC Staff, ["Agenda of ACIP Meeting 2022-Sep-1-2"](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2022-09-01-02-508.pdf), _US Centers for Disease Control &amp; Prevention_, retrieved 2022-Aug-31. [↩](#fn4a)  
+
+<a id="fn5">5</a>: C Buckner, _et al.,_ ["Recent SARS-CoV-2 infection abrogates antibody and B-cell responses to booster vaccination"](https://www.medrxiv.org/content/10.1101/2022.08.30.22279344v1), _medR&chi;iv_, 2022-Aug-31.  DOI: [10.1101/2022.08.30.22279344](https://doi.org/10.1101/2022.08.30.22279344). [↩](#fn5a)  
