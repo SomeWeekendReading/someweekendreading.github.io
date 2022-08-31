@@ -103,7 +103,7 @@ But then&hellip; vax us up!
 
 ## Addendum 2022-Aug-31, afternoon  
 
-Eric Topol points out a paper that dropped on _medR&chi;iv_ today:  
+Eric Topol points out a paper that dropped on _medR&chi;iv_ today <sup id="fn5a">[[5]](#fn5)</sup>:  
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
