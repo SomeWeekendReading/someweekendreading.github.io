@@ -29,7 +29,7 @@ Branswell's tweet first alerted us:
 <img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-fda-1.jpg" width="400" height="341" alt="FDA: EUA of bivalent classic/Omicron COVID-19 vaccine boosters" title="FDA: EUA of bivalent classic/Omicron COVID-19 vaccine boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube.com/embed/r5ZA-wSq4F0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 She's pointing to Herper's summary article at _STAT News_. <sup id="fn1a">[[1]](#fn1)</sup>
-A little digging, of course, takes us to the original FDA press release. <sup id="fn2">[[2]](#fn2)</sup>,
+A little digging, of course, takes us to the original FDA press release. <sup id="fn2a">[[2]](#fn2)</sup>,
 confirming what Branswell &amp; Herper wrote.  Also, the _PBS News Hour_ has a longish (42m55s)
 interview with FDA Commissioner Robert Califf and CBER Director Peter Marks being
 interviewed by Lauren Gardner, Cheyenne Haslett, Fiona Rutherford, Ferdus Al-Faruque,
