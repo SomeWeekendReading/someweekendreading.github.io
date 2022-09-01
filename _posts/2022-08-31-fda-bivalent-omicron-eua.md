@@ -219,6 +219,31 @@ Some interesting highlights from her Twitter thread:
   vaccine, and the new bivalent classic + Omicron/BA.4-5 vaccine.  Result in mice:  
   - as good as the classic vaccine on classic variants, and  
   - as good as the BA.1-only vaccine on Omicron variants.  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-5.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-5-thumb.jpg" width="400" height="237" alt="Oliver @ CDC ACIP: Propose simplifications to vaccination series" title="Oliver @ CDC ACIP: Propose simplifications to vaccination series" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- Sara Oliver of the CDC is asking if the ACIP wants to simplify the vaccination series
+  recommended down to 2 primary shots and 1 bivalent booster.  Seems good to me,
+  effectiveness and simplicity are always in short supply.  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-6.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-6-thumb.jpg" width="400" height="237" alt="Oliver @ CDC ACIP: little to no evidence of antigenic original sin" title="Oliver @ CDC ACIP: little to no evidence of antigenic original sin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- Also, she presented evidence that there was no immune tolerance (ceasing to respond to
+  later boosters), and &ndash; a shown here &ndash; little evidence of antigenic original
+  sin where the immune system gets locked into the original response.  Bivalent boosters
+  seem to _improve_ the situation, if anything.  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-7.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-7-thumb.jpg" width="400" height="237" alt="Oliver @ CDC ACIP: Omicron-driven wave of reinfection is the unmet medical need" title="Oliver @ CDC ACIP: Omicron-driven wave of reinfection is the unmet medical need" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- To illustrate the unmet medical need in the face of Omicron, Oliver presented data on
+  reinfection of people who'd previously had COVID-19.  See the big bump in the curve
+  starting early 2022?  That's Omicron.  That's why we want an Omicron-specific booster,
+  to overdamp that wave.  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-8.jpg">
+  <img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-8-thumb.jpg" width="400" height="232" alt="Oliver @ CDC ACIP: Public more favorable to Omicron-updated booster than older boosters" title="Oliver @ CDC ACIP: Public more favorable to Omicron-updated booster than older boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- Vaccine uptake is always an issue, like a toothache that just _won't_ stop.  We
+  initially had poor uptake of vaccination because of misinformation.  Boosters were even
+  worse, with very few of those eligible in the US getting boosted, despite the evidence
+  (e.g., above) that boosting _dramatically_ lowers the risk of hospitalization and
+  death.  Why should we believe the bivalent boosters will be any different?  As shown
+  here, the CDC did a survey, finding 72% of subjects would "definitely" or "probably" get
+  an updated booster, which is way better than the old boosters did.  This seems pretty
+  mysterious in terms of logic, but if it's true we should pounce on it to get the
+  bivalent vaccine into people!  
 
 __NB:__ Will revise more later in the afternoon of 2022-09-01, as the discussion winds
 down and the voting happens.  
