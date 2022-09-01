@@ -127,6 +127,95 @@ this subject.
 
 Annoying, but good to know.  
 
+
+## Addendum 2022-Sep-01: CDC ACIP Meeting  
+
+Our trusty safari guide, Helen Branswell of _STAT News_, is live-tweeting the meeting of
+the CDC Advisory Committee on Immuization Practices to set practice recommendations for
+the bivalent classic/Omicron vaccines:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    1. <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a> is
+	meeting today to decide on whether to recommend use of the the bivalent Covid
+	vaccines. It was first posted as a 2-day meeting but they now expect it to be a 1-day
+	meeting.<br>
+
+    I will be live tweeting.<br>
+
+    The meeting is being streamed here: <a href="https://t.co/rsFDXVwBUY">https://t.co/rsFDXVwBUY</a> 
+  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1565339759068991494?ref_src=twsrc%5Etfw">September 1, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+I'm not gonna trawl through all the primary presentations myself, this time.
+(Post-COVID-19 brain fog, you know.)  So I'm gonna rely on Helen to be my guide to what's
+happening.  Seems like a good option.  
+
+Some interesting highlights from her Twitter thread:  
+
+- A few ACIP members _did not bother to show up,_ which is more than a mite peculiar.
+  Initially there was confusion because they didn't do the roll call in alphabetical
+  order, so it was hard to tell who was there.  But after a bit of back-n-forth, it looks
+  like Kevin Ault is the only missing one, so 14/15 voting members are present.  Good enough.  
+- We've given 12.6 billion &ndash; "billion" with a "b" &ndash; doses of COVID-19 vaccines
+  since late 2020.  (Yeah, that's a lot.  But: Thre are about 8 billion currently living
+  humans, so to get everybody double-vaxxed and double-boosted would be about 32 billion.)  
+- In the US, it's 609 million doses.  With a bit over 300 million people, that means lots
+  of people are unvaxxed, under-vaxxed, or not boosted.  This is why COVID-19 won't go
+  away.  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-1.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-1-thumb.jpg" width="400" height="235" alt="Scobie @ CDC ACIP: Unvaccinated continue to account for most hospitalizations" title="Scobie @ CDC ACIP: Unvaccinated continue to account for most hospitalizations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-2.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-2-thumb.jpg" width="400" height="236" alt="Scobie @ CDC ACIP: double vaxxed/double boosted have 14x lower death risk" title="Scobie @ CDC ACIP: double vaxxed/double boosted have 14x lower death risk" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- Here's a slide from Heather Scobie of the CDC, documenting that the unvaccinated have
+  been, and still are, the bulk of hospitalizations.  Also, a second slide from her
+  documenting that fully vaxxed and boosted adults have 14x lower death risk than the
+  unvaxxed, and that a 2nd booster is 3x better than just 1 booster.  This is unsurprising
+  to all except the unvaccinated/unboosted.  
+- Antigenic cartography is a pain in the neck to explain to non-statistics people.  
+  - It's pretty much like
+    [multidimensional scaling](https://en.wikipedia.org/wiki/Multidimensional_scaling),
+    except considerably more fancy-pants.  Getting this into biologist and medical brains is
+    harder than learning the actual math.  _Comme d'habitude._  
+  - But the basic conclusion is that BA.4/5 are _really_ different, both from ancestral
+    Wuhan and from other Omicron lineages.  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-3.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-3-thumb.jpg" width="400" height="235" alt="Link-Gelles: Rapid waning efficacy against any symptomatic infection, across age groups" title="Link-Gelles: Rapid waning efficacy against any symptomatic infection, across age groups" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- Here's a slide from Ruth Link-Gelles showing how rapidly vaccine efficacy wanes, and
+  that this is across all age groups.  I must emphasize, very clearly, that this is
+  efficacy _against any symptomatic infection._  Efficacy against severe disease,
+  hospitalization, and death is much, much better.  And that's what we should care about,
+  not just any old infection.  Your humble Weekend Editor got "just any old infection",
+  and thanks to 4 doses of vaccine + paxlovid, it was merely very annoying.  
+- Tom Shimabukuro reported on vaccine safety signals, which Helen says he's done "so often
+  he could probably do it in his sleep."  While we could all use a nap, what he said
+  instead of napping was:  
+  - No interesting safety signals went off, including myocarditis in kids
+    being kept at a very low level (like, 0 incidence for little guys 6 months to 4 years,
+    for both vaccines).  
+  - As usual, a little more reactogenicity for Moderna, because of the higher dose.  
+  - Nothing else out of the ordinary.  
+- They took only 10min for a lunch break, which tells you remote meetings from home can be
+  efficient in unexpected ways. :-)  And we'll just step carefully around the land mines
+  and avoid the public comment period, ok?  
+- For those concerned about the lack of human trials: (a) this is how we do flu vaccine
+  updates every year, and (b) Moderna is doing a _post hoc_ clincal trial anyway.
+  They've already done additional trials for Beta, Gamma, and Omicron/BA.1.  The trial for
+  this vaccine concluded enrollment yesterday: $N = 512$ subjects, probably going for
+  50-200 days, which means we'll see the results late this year or sometime next year.
+  (That's why we use the flu vaccine rules, to get out _ahead_ of the virus!)  
+- I'm obscurely pleased to note that Helen was _also_ confused about the spikes of BA.4 and
+  BA.5, as I was a couple days ago.  (Hey, it's not just me and my post-COVID-19 brain
+  fog!)  Basically they're
+  [identical spike proteins](https://www.nature.com/articles/s41591-022-01911-2#:~:text=The%20spike%20proteins%20of%20BA,Alpha%20variant%20and%20the%20BA),
+  so you get to claim a twofer with BA.4/5.  
+- Moderna claims something quite interesting for their bivalent vaccine, namely that the
+  __bivalent vaccine strictly dominates the classic vaccine in terms of antibody levels:__  
+  - Antibodies levels against the Omicron strain are _superior_ to those from the classic
+    vaccine, and  
+  - Antibodies against the classic Wuhan virus are _noninferior_ to the classic vaccine.  
+
+__NB:__ Will revise more later in the afternoon of 2022-09-01, as the discussion winds
+down and the voting happens.  
+
 ---
 
 ## Notes &amp; References  

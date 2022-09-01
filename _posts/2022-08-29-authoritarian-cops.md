@@ -430,12 +430,16 @@ After Jan 6 though, no doubt remained. _Trumpists are fascists_ (__emphasis__ ad
 > objection to the fascist label. His open encouragement of civic violence to overturn an
 > election crosses a red line. __The label now seems not just acceptable but necessary.__  
 
-Nobody blinks an eye when Republicans call Democrats "socialists" or "communists", which
-is laughably untrue.  So why do Republicans throw a hissy fit when they get called
+Nobody blinks an eye when Republicans call Democrats "socialists" or "communists", both of
+which are laughably untrue.  So why do Republicans throw a hissy fit when they get called
 "fascists", a description for which there is amply convincing evidence?  
 
 If you are a Republican, take note: it's time to vote out the fascists who have taken over
-your party.  Or, you can be complicit.  Choose wisely.  
+your party.  
+
+Or, you can be complicit.  
+
+Choose wisely.  
 
 ---
 
