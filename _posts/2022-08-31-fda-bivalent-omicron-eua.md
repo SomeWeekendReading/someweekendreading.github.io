@@ -202,6 +202,7 @@ Some interesting highlights from her Twitter thread:
   this vaccine concluded enrollment yesterday: $N = 512$ subjects, probably going for
   50-200 days, which means we'll see the results late this year or sometime next year.
   (That's why we use the flu vaccine rules, to get out _ahead_ of the virus!)  
+  - Later: Pfizer, of course, is also doing a similar clinical trial, currently ongoing.  
 - I'm obscurely pleased to note that Helen was _also_ confused about the spikes of BA.4 and
   BA.5, as I was a couple days ago.  (Hey, it's not just me and my post-COVID-19 brain
   fog!)  Basically they're
@@ -212,6 +213,12 @@ Some interesting highlights from her Twitter thread:
   - Antibodies levels against the Omicron strain are _superior_ to those from the classic
     vaccine, and  
   - Antibodies against the classic Wuhan virus are _noninferior_ to the classic vaccine.  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-4.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-4-thumb.jpg" width="400" height="227" alt="Swanson/Pfizer @ CDC ACIP: bivalent vaccine better on classic variants than Omicron-only, comparable on Omicron variants" title="Swanson/Pfizer @ CDC ACIP: bivalent vaccine better on classic variants than Omicron-only, comparable on Omicron variants" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- Here's a slide from Kena Swanson of Pfizer.  It looks at pseudovirus neutralization
+  titers, by fold decrease from BA.1.  It compares the classic vaccine, the Omicron/BA.1
+  vaccine, and the new bivalent classic + Omicron/BA.4-5 vaccine.  Result in mice:  
+  - as good as the classic vaccine on classic variants, and  
+  - as good as the BA.1-only vaccine on Omicron variants.  
 
 __NB:__ Will revise more later in the afternoon of 2022-09-01, as the discussion winds
 down and the voting happens.  
