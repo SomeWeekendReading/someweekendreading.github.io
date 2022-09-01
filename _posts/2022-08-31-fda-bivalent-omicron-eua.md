@@ -251,7 +251,7 @@ Some interesting highlights from her Twitter thread:
     eligible population.  Ranges are 95% "credible interval" (the Bayesian version of a
     confidence limit, and for our purposes more or less the same thing: uncertainty).  
   - So we're looking at saving 100k - 160k lives, 1 - 1.7 million hospitalizations, 24 -
-    48 million infections, and averting \$62 - 100 million dollars in _direct_ medical
+    48 million infections, and averting \$62 - 100 billion dollars in _direct_ medical
     costs.  Looks awfully good to me!  
 
 And, that's it: approval 13-1 with 1 absence, and a reasonable set of practice
