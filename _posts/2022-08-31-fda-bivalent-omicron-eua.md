@@ -244,8 +244,18 @@ Some interesting highlights from her Twitter thread:
   an updated booster, which is way better than the old boosters did.  This seems pretty
   mysterious in terms of logic, but if it's true we should pounce on it to get the
   bivalent vaccine into people!  
+<a href="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-9.jpg"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-cdc-9-thumb.jpg" width="400" height="233" alt="Oliver @ CDC ACIP: Benefits if uptake is like flu vaccine (left) or 80% of eligible (right)" title="Oliver @ CDC ACIP: Benefits if uptake is like flu vaccine (left) or 80% of eligible (right)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- CDC also analyzed the medical benefits, as shown in the slide here.  
+  - The pessimistic left column is if the bivalent booster uptake is about like annual flu
+    shots.  The more optimistic right column is if uptake gets to about 80% of the
+    eligible population.  Ranges are 95% "credible interval" (the Bayesian version of a
+    confidence limit, and for our purposes more or less the same thing: uncertainty).  
+  - So we're looking at saving 100k - 160k lives, 1 - 1.7 million hospitalizations, 24 -
+    48 million infections, and averting \$62 - 100 million dollars in _direct_ medical
+    costs.  Looks awfully good to me!  
+- ...  
 
-__NB:__ Will revise more later in the afternoon of 2022-09-01, as the discussion winds
+__NB:__ Will revise &amp; add more later in the afternoon (2022-09-01), as the discussion winds
 down and the voting happens.  
 
 ---
