@@ -150,7 +150,7 @@ the bivalent classic/Omicron vaccines:
 
 I'm not gonna trawl through all the primary presentations myself, this time.
 (Post-COVID-19 brain fog, you know.)  So I'm gonna rely on Helen to be my guide to what's
-happening.  Seems like a good option.  
+happening (it took her 62 tweets!).  Seems like a good option for my tired brain.  
 
 Some interesting highlights from her Twitter thread:  
 
@@ -253,10 +253,28 @@ Some interesting highlights from her Twitter thread:
   - So we're looking at saving 100k - 160k lives, 1 - 1.7 million hospitalizations, 24 -
     48 million infections, and averting \$62 - 100 million dollars in _direct_ medical
     costs.  Looks awfully good to me!  
-- ...  
 
-__NB:__ Will revise &amp; add more later in the afternoon (2022-09-01), as the discussion winds
-down and the voting happens.  
+And, that's it: approval 13-1 with 1 absence, and a reasonable set of practice
+guidelines for both vaccines:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    62. <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a>
+	votes 13 - 1 to recommend use of the Moderna bivalent Covid booster for people 18 and older. <br>
+
+    The only person who voted against was Pablo Sánchez. <a href="https://t.co/CgdHKOrrPN">pic.twitter.com/CgdHKOrrPN</a>
+  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1565456899151208451?ref_src=twsrc%5Etfw">September 1, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+Honestly, I was _really_ suprised they worried so much about a human trial,
+in spite of the fact that _this very committee_ handles flu vaccine updates every year in
+this same way.  I just don't get why that's not a compelling argument.  
+
+Stilll, we seem to have converged to the right place.  
+
+Here at Chez Weekend, we look forward to getting it in late October, once we're 60 days
+past our COVID-19 recovery!  
 
 ---
 
