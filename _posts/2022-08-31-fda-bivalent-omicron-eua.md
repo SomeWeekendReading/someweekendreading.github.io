@@ -290,8 +290,26 @@ the CDC itself:_
 > Walensky signed off on the recommendation made earlier in the day by the Advisory
 > Committee on Immunization Practices, that the newly formulated vaccines be used.  
 
+
+## Addendum 2022-Sep-01, later that evening: Official CDC statement  
+
+Ah: now the official media statement is up at the CDC web site. <sup id="fn8a">[[8]](#fn8)</sup>
+It says about what you think it might say:  
+
+> The following is attributable to Dr. Walensky:  
+>  
+> "The updated COVID-19 boosters are formulated to better protect against the most
+> recently circulating COVID-19 variant. They can help restore protection that has waned
+> since previous vaccination and were designed to provide broader protection against newer
+> variants. This recommendation followed a comprehensive scientific evaluation and robust
+> scientific discussion. If you are eligible, there is no bad time to get your COVID-19
+> booster and I strongly encourage you to receive it."  
+
+The main twist is that they expect "in the coming weeks" to recommend COVID-19 for other
+pediatric groups, too.  
+
 Here at Chez Weekend, we look forward to getting it in late October, once we're 60 days
-past our COVID-19 recovery!  
+past our (current) COVID-19 recovery!  
 
 ---
 
@@ -322,3 +340,5 @@ past our COVID-19 recovery!
 <a id="fn6">6</a>: Helen Branswell, ["CDC recommends updated Covid-19 boosters"](https://www.statnews.com/2022/09/01/cdc-advisory-panel-backs-updated-covid-19-boosters/), _STAT News_, 2022-Sep-01. [↩](#fn6a)  
 
 <a id="fn7">7</a>: H Branswell, M Herper, &amp; S Owermohle, ["Your questions on the new Covid vaccine boosters answered"](https://www.statnews.com/2022/09/01/your-questions-on-the-new-covid-vaccine-boosters-answered/), _STAT News_, 2022-Sep-01. [↩](#fn7a)  
+
+<a id="fn8">8</a>: CDC Media Relations, ["CDC Recommends the First Updated COVID-19 Booster"](https://www.cdc.gov/media/releases/2022/s0901-covid-19-booster.html), _CDC Media Statements_, 2022-Sep-01. [↩](#fn8a)  
