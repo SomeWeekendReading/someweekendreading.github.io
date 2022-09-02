@@ -131,7 +131,7 @@ Annoying, but good to know.
 ## Addendum 2022-Sep-01: CDC ACIP Meeting  
 
 Our trusty safari guide, Helen Branswell of _STAT News_, is live-tweeting the meeting of
-the CDC Advisory Committee on Immuization Practices to set practice recommendations for
+the CDC Advisory Committee on Immunization Practices to set practice recommendations for
 the bivalent classic/Omicron vaccines:  
 
 <blockquote class="twitter-tweet">
@@ -198,7 +198,7 @@ Some interesting highlights from her Twitter thread:
   efficient in unexpected ways. :-)  And we'll just step carefully around the land mines
   and avoid the public comment period, ok?  
 - For those concerned about the lack of human trials: (a) this is how we do flu vaccine
-  updates every year, and (b) Moderna is doing a _post hoc_ clincal trial anyway.
+  updates every year, and (b) Moderna is doing a _post hoc_ clinical trial anyway.
   They've already done additional trials for Beta, Gamma, and Omicron/BA.1.  The trial for
   this vaccine concluded enrollment yesterday: $N = 512$ subjects, probably going for
   50-200 days, which means we'll see the results late this year or sometime next year.
@@ -268,11 +268,11 @@ guidelines for both vaccines:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
-Honestly, I was _really_ suprised they worried so much about a human trial,
+Honestly, I was _really_ surprised they worried so much about a human trial,
 in spite of the fact that _this very committee_ handles flu vaccine updates every year in
 this same way.  I just don't get why that's not a compelling argument.  But the single
 "No" vote was from Pablo Sánchez, a professor of pediatrics at OSU, who really wanted a
-clinical trial no matter hat the cost of delay.  (It would take until at least late November.)
+clinical trial no matter what the cost of delay.  (It would take until at least late November.)
 
 Still, we seem to have converged to the right place.  
 
