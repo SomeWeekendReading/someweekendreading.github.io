@@ -149,7 +149,8 @@ the bivalent classic/Omicron vaccines:
 <script async src="https://platform.twitter.com/widgets.js"></script>
 
 I'm not gonna trawl through all the primary presentations myself, this time.
-(Post-COVID-19 brain fog, you know.)  So I'm gonna rely on Helen to be my guide to what's
+(Post-COVID-19 brain fog, you know.  But if you want to make your own deep dive, then top
+off your tanks and [go here to get the slide decks](https://www.cdc.gov/vaccines/acip/meetings/slides-2022-09-01-02.html).)  So I'm gonna rely on Helen to be my guide to what's
 happening (it took her 62 tweets!).  Seems like a good option for my tired brain.  
 
 Some interesting highlights from her Twitter thread:  
@@ -269,9 +270,25 @@ guidelines for both vaccines:
 
 Honestly, I was _really_ suprised they worried so much about a human trial,
 in spite of the fact that _this very committee_ handles flu vaccine updates every year in
-this same way.  I just don't get why that's not a compelling argument.  
+this same way.  I just don't get why that's not a compelling argument.  But the single
+"No" vote was from Pablo Sánchez, a professor of pediatrics at OSU, who really wanted a
+clinical trial no matter hat the cost of delay.  (It would take until at least late November.)
 
-Stilll, we seem to have converged to the right place.  
+Still, we seem to have converged to the right place.  
+
+<img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-stat-2.jpg" width="400" height="155" alt="Branswell @ STAT News: Summary of CDC ACIP meeting on Omicron bivalent COVID-19 vaccines" title="Branswell @ STAT News: Summary of CDC ACIP meeting on Omicron bivalent COVID-19 vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-stat-3.jpg" width="400" height="230" alt="Branswell, Herper, and Owermohle @ STAT News: FAQ on new boosters" title="Branswell, Herper, and Owermohle @ STAT News: FAQ on new boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Branswell then quickly summarized all this in an article that went up at
+_STAT News_. <sup id="fn6a">[[6]](#fn6)</sup>  CDC Director Rochelle Walensky has signed
+off on the committee's recommendation, so it is now A Done Deal.  In a weird turn of
+events, that happened so fast I can't find the statement on the CDC web site, though it is
+on some news sites.  Our safari guides at _STAT News_ are all over 
+it <sup id="fn7a">[[7]](#fn7)</sup>, reporting the CDC Director's statement _faster than
+the CDC itself:_  
+
+> On Thursday evening, Centers for Disease Control and Prevention Director Rochelle
+> Walensky signed off on the recommendation made earlier in the day by the Advisory
+> Committee on Immunization Practices, that the newly formulated vaccines be used.  
 
 Here at Chez Weekend, we look forward to getting it in late October, once we're 60 days
 past our COVID-19 recovery!  
@@ -301,3 +318,7 @@ past our COVID-19 recovery!
 <a id="fn4">4</a>: CDC Staff, ["Agenda of ACIP Meeting 2022-Sep-1-2"](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2022-09-01-02-508.pdf), _US Centers for Disease Control &amp; Prevention_, retrieved 2022-Aug-31. [↩](#fn4a)  
 
 <a id="fn5">5</a>: C Buckner, _et al.,_ ["Recent SARS-CoV-2 infection abrogates antibody and B-cell responses to booster vaccination"](https://www.medrxiv.org/content/10.1101/2022.08.30.22279344v1), _medR&chi;iv_, 2022-Aug-31.  DOI: [10.1101/2022.08.30.22279344](https://doi.org/10.1101/2022.08.30.22279344). [↩](#fn5a)  
+
+<a id="fn6">6</a>: Helen Branswell, ["CDC recommends updated Covid-19 boosters"](https://www.statnews.com/2022/09/01/cdc-advisory-panel-backs-updated-covid-19-boosters/), _STAT News_, 2022-Sep-01. [↩](#fn6a)  
+
+<a id="fn7">7</a>: H Branswell, M Herper, &amp; S Owermohle, ["Your questions on the new Covid vaccine boosters answered"](https://www.statnews.com/2022/09/01/your-questions-on-the-new-covid-vaccine-boosters-answered/), _STAT News_, 2022-Sep-01. [↩](#fn7a)  
