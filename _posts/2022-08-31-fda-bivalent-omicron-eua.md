@@ -311,6 +311,22 @@ pediatric groups, too.
 Here at Chez Weekend, we look forward to getting it in late October, once we're 60 days
 past our (current) COVID-19 recovery!  
 
+
+## Finally&hellip;  
+
+All my American readers of a certain age were thinking this.  But Branswell decided to
+just go ahead &amp; say the quiet part out loud in tweet #63:  
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    63. <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a>
+    is done! <a href="https://t.co/CeuyndzRdG">pic.twitter.com/CeuyndzRdG</a>
+  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1565459059809083392?ref_src=twsrc%5Etfw">September 1, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+Sums it up.  
+
 ---
 
 ## Notes &amp; References  
