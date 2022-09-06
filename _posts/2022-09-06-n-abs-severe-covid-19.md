@@ -7,7 +7,7 @@ commentsClosed: false
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) a couple months ago about the
-significance of high nucleocapside antibodies in unvaccinated people compared to the
+significance of high nucleocapsid antibodies in unvaccinated people compared to the
 vaccinated.  Now there's another paper exploring the meaning of N ab levels.  Let's see
 what it says!  
 
@@ -17,7 +17,7 @@ what it says!
 A couple months ago, on behalf of a friend, we looked into
 [nucleocapsid antibody levels and COVID-19 resistance]({{ site.baseurl }}/covid-immunity-prevalence/).
 A friend of a friend noted higher N abs in unvaccinated people, and opined that
-unvaccinted people had more diverse antibody types, which might be protective over
+unvaccinated people had more diverse antibody types, which might be protective over
 vaccination.  
 
 This was, of course, exactly backwards:  
@@ -40,7 +40,7 @@ passing peer review, on the subject of nucleocapsid antibodies and COVID-19 seve
 
 First, a distinction: they measured N _antigen_ levels, not antibody levels.  That is,
 they looked at the viral protein levels themselves.  The immune system forms antibodies in
-repsonse to antigens, so this is kind of a proxy for antibody levels.  (Or, maybe not:
+response to antigens, so this is kind of a proxy for antibody levels.  (Or, maybe not:
 maybe high N antigens just mean high viral load, which would mean severe infection.  Hard
 to say, but I lean toward the proxy-for-antibody levels interpretation.)  
 
@@ -58,7 +58,7 @@ Some background:
 
 - They assessed via logistic regression &ndash; one of my favorite methods! &ndash; the
   association between binarized N antigen levels (&lt; 1000 ng/l _vs_ &gt; 1000 ng/l)
-  and a variety of clinical meaurements, including:  
+  and a variety of clinical measurements, including:  
   -  worsening on an ordinal pulmonary scale at day 5 (lungs getting worse fast), and 
   - time to hospital discharge.  
 
@@ -76,7 +76,7 @@ The topline summary that they put in the abstract comes down to 3 things:
 
 - Pulmonary severity strongly associated with antigen levels, 3.1 fold (CL: 2.22 - 4.34).  
 - Antigen stronger if no spike antibodies (unvaccinated), 6.42 fold (CL: 5.37 - 7.66).  
-- High antigen means with longer time to hospital discharge, fold 0.54 (CL: 0.45 -  0.57).  
+- High antigen means with longer time to hospital discharge, 0.54 fold (CL: 0.45 -  0.57).  
 
 <a href="{{ site.baseurl }}/images/2022-09-06-n-abs-severe-covid-19-aim-2.jpg">
   <img src="{{ site.baseurl }}/images/2022-09-06-n-abs-severe-covid-19-aim-2-thumb.jpg" width="400" height="314" alt="ACTIV-3/TICO Study Group @ AIM: Rate of hospital discharge, low and high N antigen, by oxygenation status" title="ACTIV-3/TICO Study Group @ AIM: Rate of hospital discharge, low and high N antigen, by oxygenation status" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
