@@ -30,7 +30,7 @@ I can't wait for February 2023, and with it the full return of cognitive functio
 (Or, at least, as full as it ever was.  You're free to have an opinion about whether I was
 ever playing with a full deck to begin with.  I mean, I admit some of my cards were a bit
 frayed around the edges, and now that I think about it, it seems to be a Tarot
-deck&helliip; but it's a _full_ deck, ok?)  
+deck&hellip; but it's a _full_ deck, ok?)  
 
 
 ## Archive of COVID-19 Chez Weekend Posts  
