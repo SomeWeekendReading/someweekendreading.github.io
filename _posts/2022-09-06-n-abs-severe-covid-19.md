@@ -108,7 +108,7 @@ As the authors put it:
 Basically, high nucleocapsid antigen levels are bad news.  They leave in their wake high
 nucleocapsid antibodies, which is evidence of previous bad news.  
 
-Basically, get vaccinated so you can avoid these bad things!  
+So get vaccinated so you can avoid these bad things!  
 
 ---
 
