@@ -3,7 +3,7 @@ layout: post
 title: COVID-19 &amp; Paxlovid&colon; After Day 5
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today I took my last dose of paxlovid.  

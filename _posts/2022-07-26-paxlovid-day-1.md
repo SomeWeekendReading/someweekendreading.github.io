@@ -3,7 +3,7 @@ layout: post
 title: COVID-19 &amp; Paxlovid&colon; After Day 1
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 It's now 1 day into my course of paxlovid for COVID-19.  

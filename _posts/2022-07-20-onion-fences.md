@@ -3,7 +3,7 @@ layout: post
 title: Mysterious Fences and Varnished Onions
 tags: CorporateLifeAndItsDiscontents JournalClub TheDivineMadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Two parables struck my eye this week: GK Chesterton's Fence, and Primo Levi's Onion in the Varnish.

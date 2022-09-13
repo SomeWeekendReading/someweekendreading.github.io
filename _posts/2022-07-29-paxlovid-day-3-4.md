@@ -3,7 +3,7 @@ layout: post
 title: COVID-19 &amp; Paxlovid&colon; After Days 3-4
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Closing in on the 5th day of COVID, i.e., 4th day of paxlovid treatment.  

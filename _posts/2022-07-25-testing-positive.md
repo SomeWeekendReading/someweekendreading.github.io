@@ -3,7 +3,7 @@ layout: post
 title: COVID-19 &amp; Paxlovid&colon; Day 0, Testing Positive &amp; Getting Prescribed
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today your humble Weekend Editor finally tested positive for COVID-19.  _Sigh._  

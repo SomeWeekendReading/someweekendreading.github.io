@@ -3,7 +3,7 @@ layout: post
 title: Retirement&colon; 2 Years In, And &hellip;
 tags: About CatBlogging CorporateLifeAndItsDiscontents COVID Investing Politics Retirement
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 It seems I've been retired for 2 years now.  What can 2 years of perspective tell us?

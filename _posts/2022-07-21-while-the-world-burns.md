@@ -3,7 +3,7 @@ layout: post
 title: While the World Burns 
 tags: Politics Sadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Everybody (well, every non-Republican) in the US is mad at Democratic Senator Manchin for

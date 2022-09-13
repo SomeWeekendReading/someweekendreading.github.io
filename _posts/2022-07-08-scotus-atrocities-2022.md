@@ -3,7 +3,7 @@ layout: post
 title: SCOTUS Atrocities, 2022 Edition
 tags: Politics R Religion Sadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 The Supreme Court of the United States (SCOTUS) has a 6-3 conservative majority.  Have

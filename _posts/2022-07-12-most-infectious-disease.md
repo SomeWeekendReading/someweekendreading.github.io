@@ -3,7 +3,7 @@ layout: post
 title: Is COVID-19 Omicron/BA.4-5 the Most Infectious Viral Disease in Human History?
 tags: CatBlogging COVID JournalClub MathInTheNews Politics SomebodyAskedMe Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about how seriously we
