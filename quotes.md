@@ -1221,3 +1221,5 @@ _Business Week_, 14-Nov-2003.
   appreciate  how resistant the world is to change."  
 - "Life is, annoyingly often enough, an _intelligant sapientes_ sort of situation."  
 - "If you're gonna make me watch this disaster, we're gonna need a _whole_ lot more popcorn."  
+- "It's not that I object so much to you re-inventing the wheel, as much as I want you to
+  keep it being _round._"  
