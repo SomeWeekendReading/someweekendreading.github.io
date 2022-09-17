@@ -11,16 +11,8 @@ suppressPackageStartupMessages({                       # Ssshh!  Quiet in the li
   library("RCurl")                                     # For getURLContent()
 })                                                     #
 
-## *** Lognormal distribution for PostHits:
-## > foo     <- log(postData$"PostHits" + 1)
-## > meanlog <- mean(foo)
-## > sdlog   <- sd(foo)
-## > hist(postData$"PostHits", breaks = 20, col = "blue", main = "PostHits Distribution", xlab = "PostHits", ylab = "Probability Density", prob = TRUE)
-## > phs <- seq(from = 1, to = 1400, length.out = 1000)
-## > lines(x = phs, y = dlnorm(phs, meanlog = 4.628724, sdlog = 0.6010348), lty = "dashed", col = "red")
-##
-## *** Looks good, but how to assess fit quantitatively?  (KS test?)
-## *** How to choose lognormal vs gamma vs other?
+## *** Lognormal on PostHits looks good, but how to assess fit quantitatively?  (KS test?)
+## *** How to choose lognormal vs gamma vs Poisson vs other?
 
 ##
 ## Collect stats on posts over time.
@@ -94,7 +86,7 @@ postStats <- function(## Inputs
                       plotFile = if (is.null(txFile))  # If no transcript file
                                    NULL                # Then no plot file
                                  else                  # Else derive plot file from transcript file
-                                   sub("^(.*)\\.txt$", "\\1.png", txFile)) {
+                                   sub("^(.*)\\.txt$", "\\1-1.png", txFile)) {
 
   dateYear    <- function(d) { as.integer(format(d, format = "%Y"))                           }
   dateYearEnd <- function(d) { as.Date(sprintf("%d-12-31", dateYear(d)), format = "%Y-%m-%d") }
@@ -261,7 +253,7 @@ postStats <- function(## Inputs
                lty    = c(NA,      "solid"),
                lwd    = c(NA,      2),
                col    = c("black", "red"),
-               ## *** report mean(log) & sd(log) in legend as expressions
+               ## *** report mean(log(colName + 1)) & sd(log(colName + 1)) in legend as expressions
                legend = c("Observations",
                           "Lognormal distribution:"))
       }
@@ -342,7 +334,7 @@ postStats <- function(## Inputs
     cat(sprintf("\n  - Table of number of comments/post(rows) vs number of hits/post (cols):\n"))
     print(tbl)                                         # Table of comments x hits, for bicluster
 
-    f2  <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-2.png", f)
+    f2  <- if (is.null(f)) NULL else sub("^(.*)-1\\.png$", "\\1-2.png", f)
     withPNG(f2, plotWidth / 2, plotHeight / 2, FALSE, function() {
       legendFrac <- 0.20                               # How much space on left for color legend
       withPars(function() {                            # Save/restore graphics parameters
@@ -383,7 +375,7 @@ postStats <- function(## Inputs
     ## Spearman exact = FALSE to avoid warning: "Cannot compute exact p-value with ties"
     print(cor.test(postData$"PostHits", postData$"PostComments", method = "spearman", exact = FALSE))
 
-    f3 <- if (is.null(f)) NULL else sub("^(.*)\\.png$", "\\1-3.png", f)
+    f3 <- if (is.null(f)) NULL else sub("^(.*)\\-1.png$", "\\1-3.png", f)
     withPNG(f3, plotWidth / 2, plotHeight / 2, FALSE, function() {
       ys <- postData$"PostComments"                    # Regression of comments on hits in
       withPars(function() {                            #  scatterplot of comments vs hits
