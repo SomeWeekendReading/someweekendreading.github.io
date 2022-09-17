@@ -309,6 +309,8 @@ See the comment below from Jonathan, who got the Raganath paper from behind the 
 Comparing patients selected by similar criteria, rebound is 33x less likely with paxlovid
 than without!  Rebound is _definitely_ not paxlovid related, but rather COVID-related.  
 
+Even better.  
+
 ---
 
 ## Notes &amp; References  
