@@ -303,6 +303,12 @@ runny nose, and about 1&deg;C fever.  So it's mild, I guess?
 At least I know it's not paxlovid's fault.  It's the damn virus!  
 
 
+## Addendum 2022-Sep-16: A better result  
+
+See the comment below from Jonathan, who got the Raganath paper from behind the firewall.
+Comparing patients selected by similar criteria, rebound is 33x less likely with paxlovid
+than without!  Rebound is _definitely_ not paxlovid related, but rather COVID-related.  
+
 ---
 
 ## Notes &amp; References  
