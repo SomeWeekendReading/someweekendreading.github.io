@@ -167,9 +167,9 @@ season.
 
 For now, that's what we'll be doing, here at Chez Weekend.  
 
-As you can see here, the Weekend Publisher is so anxious for us to get boosted, he's
-sleeping on a bed of nails.  (Well, actually slightly spiky/scratchy plastic mesh to which he's
-taken a liking.  Weird little dude.)  
+As you can see here, the Weekend Publisher is so anxious for us all to get bivalent-boosted, he's
+sleeping on a bed of nails.  (Well, actually just slightly spiky/scratchy plastic mesh to which he's
+taken a liking for inscrutable reasons of his own.  Weird little dude.)  
 
 ---
 
