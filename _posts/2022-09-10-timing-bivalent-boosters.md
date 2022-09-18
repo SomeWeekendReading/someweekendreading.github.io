@@ -154,6 +154,8 @@ __Summary:__
 
 ## The Weekend Conclusion  
 
+
+<a href="{{ site.baseurl }}/images/2022-09-10-timing-bivalent-boosters-weekend-publisher-bed-of-nails.jpg"><img src="{{ site.baseurl }}/images/2022-09-10-timing-bivalent-boosters-weekend-publisher-bed-of-nails-thumb.jpg" width="400" height="300" alt="Weekend Publisher on a bed of nails, waiting for you to get bivalent-boosted" title="Weekend Publisher on a bed of nails, waiting for you to get bivalent-boosted" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 We started showing infection on 2022-Jul-25, so call it the beginning of August.  Waiting
 2-3 months for booster means the beginning of Octember or maybe Novober.  
 
