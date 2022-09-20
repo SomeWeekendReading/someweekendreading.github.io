@@ -81,7 +81,8 @@ _accurate_ in any way, just whether or not they're the _same._
 
 Just so you'll know it's not me spitballing the test here, we'll follow the guidance
 offered  by the Office of Evaluation Services of the General Services Administration of
-the US government.  Not perfect, but a source many (must) take seriously.  
+the US government.  <sup id="fn2a">[[2]](#fn2)</sup> Not perfect, but a source many (must)
+take seriously.  
 
 The recommendation is a _&chi;_-square test, which looks at the sums of squares of
 differences of the counts and asks how probable it is to see differences as large as we
