@@ -79,6 +79,7 @@ precisely, we'll do pairwise comparison of each of Zvi's snapshots with Patrick'
 won't bother comparing Zvi's 2 snapshots.)  We're not asking if any of these are
 _accurate_ in any way, just whether or not they're the _same._  
 
+<img src="{{ site.baseurl }}/images/2022-09-20-twitter-poll-repro-gsa-1.jpg" width="400" height="95" alt="OES/GSA: Guidance on multinomial tests" title="OES/GSA: Guidance on multinomial tests" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Just so you'll know it's not me spitballing the test here, we'll follow the guidance
 offered  by the Office of Evaluation Services of the General Services Administration of
 the US government.  <sup id="fn2a">[[2]](#fn2)</sup> Not perfect, but a source many (must)
@@ -182,7 +183,7 @@ gives your posterior over the _vector_ of $p_i$ parameters is the
 Almost nobody does this.  (Ok, [Ed Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes),
 because he was Just That Way. But I can't think of anybody else.)  I've only done it once
 in my career.  I was happy with the mathematical purity.  But I was sad for pragmatic
-reasons: I don't think I ever adequately explained it to the client so they would do what
+reasons: I don't think I ever adequately explained it well enough to the client so they would do what
 their experiment told them to do.  They just glazed over at "all the math stuff".
 Sometimes there are limits to what you can do relate to social engineering more than
 anything else.  
