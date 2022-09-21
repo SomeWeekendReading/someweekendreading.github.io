@@ -73,7 +73,7 @@ we make that quantitative?
 
 Yes, we can.  
 
-These are 3 results drawn from a multinomial distribution (like binomial, but in this case
+These are 3 results drawn from a [multinomial distribution](https://en.wikipedia.org/wiki/Multinomial_distribution) (like binomial, but in this case
 with 3 outcomes). We want to know if they're all from the same distribution or not.  (More
 precisely, we'll do pairwise comparison of each of Zvi's snapshots with Patrick's, but
 won't bother comparing Zvi's 2 snapshots.)  We're not asking if any of these are
@@ -84,7 +84,7 @@ offered  by the Office of Evaluation Services of the General Services Administra
 the US government.  <sup id="fn2a">[[2]](#fn2)</sup> Not perfect, but a source many (must)
 take seriously.  
 
-The recommendation is a _&chi;_-square test, which looks at the sums of squares of
+The recommendation is a $\chi^2$ test, which looks at the sums of squares of
 differences of the counts and asks how probable it is to see differences as large as we
 do.  This is a two-way test, as we're asking if 2 samples are random draws from the same
 underlying (unknown) distribution.  
@@ -110,8 +110,8 @@ X-squared = 20.244, df = 2, p-value = 4.018e-05
 ```
 
 Now that's interesting!  _Both_ $p$-values are very statistically significant, in spite of
-the very small differences in observed proportions.  We can check this by doing a Fisher
-exact test, and we get similar results.  
+the very small differences in observed proportions.  We can check this by doing a
+[Fisher exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test), and we get similar results.  
 
 How can that be?  Well, Patrick's survey has 38x and 16x more samples than Zvi's
 snapshots, respectively. When you have a giant pile of data, it's easy to make small
@@ -171,12 +171,13 @@ different that nobody should update much on that fact.
 For those of you about to poo-poo this analysis because it is frequentist &ndash; and you
 know who you are :-) &ndash; there is a Bayesian version.  
 
-In the case of binomially distributed data, the Bayesian conjugate distribution that gives your
-posterior over the $p$ parameter is a Beta distribution.  
+In the case of [binomially distributed](https://en.wikipedia.org/wiki/Binomial_distribution)
+data, the Bayesian conjugate distribution that gives your posterior over the $p$ parameter is a 
+[Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution).  
 
 For multinomially distributed data like this, the Bayesian conjugate distribution that
-gives your posterior over the _vector_ of $p_i$ parameters is the Dirichlet
-distribution.  
+gives your posterior over the _vector_ of $p_i$ parameters is the
+[Dirichlet distribution](https://en.wikipedia.org/wiki/Dirichlet_distribution).  
 
 Almost nobody does this.  (Ok, [Ed Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes),
 because he was Just That Way. But I can't think of anybody else.)  I've only done it once
@@ -185,6 +186,11 @@ reasons: I don't think I ever adequately explained it to the client so they woul
 their experiment told them to do.  They just glazed over at "all the math stuff".
 Sometimes there are limits to what you can do relate to social engineering more than
 anything else.  
+
+There are even more alternatives in the non-parametric space, with varying degrees of
+fancy pants: [Kolmogorov-Smirnov test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test),
+[Kulback-Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence),
+and so on.  We'll content ourselves with the multinomial test above.  
 
 
 ## The Weekend Conclusion  
