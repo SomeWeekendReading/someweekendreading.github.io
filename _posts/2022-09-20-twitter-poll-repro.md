@@ -52,7 +52,7 @@ Amusingly:
   >role of Socrates. Classic blunder.  
 
   &hellip; which is just about perfect.  (It happens I have a friend who is a professor of
-  the classics, specializing in Greek, who thinks it's perfect too.)  
+  the classics, specializing in ancient Greek, who thinks it's perfect too.)  
 
 - They also went full meta, with a Twitter poll on the merits of Twitter polls.  I'm sure
   [Doug Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) would approve.
