@@ -76,6 +76,8 @@ As soon as we've cleared the 2-3 month interval from our summer COVID-19, we're 
 the bivalent booster here at Ch&acirc;teau Weekend.  Let's hope the BA.4-5 spike mRNA is
 homologous enough to BA.4.6 to grant further immunity!  
 
+Happy autumnal equinox, I guess&hellip;  
+
 ---
 
 ## Notes &amp; References  
