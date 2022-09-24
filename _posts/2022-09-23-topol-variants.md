@@ -30,7 +30,8 @@ He's quoting the nowcast data from the US Centers for Disease Control and Preven
 COVID-19 Data Tracker. <sup id="fn1a">[[1]](#fn1)</sup>  We're looking at the variants of
 concern (VoC's) as of the first week of 2022-Sep, reproduced here.  
 
-Now, there's a lot to say about these data.  However, for me (and apparently for Topol) is
+Now, there's a lot to say about these data.  However, for me (and apparently for Topol)
+the important bit is
 the recent change in proportions of infections by the various variants:
 - When you look back at mid-summer in the US, the main variants were Omicron/BA.4 and
   Omicron/BA.5.  Really, mostly BA.5 &ndash; probably the variant that we caught here at
