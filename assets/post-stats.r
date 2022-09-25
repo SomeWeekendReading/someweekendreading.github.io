@@ -9,10 +9,8 @@ suppressPackageStartupMessages({                       # Ssshh!  Quiet in the li
 
   library("plyr")                                      # For ldply()
   library("RCurl")                                     # For getURLContent()
+  library("fitdistrplus")                              # For fitdist()
 })                                                     #
-
-## *** Lognormal on PostHits looks good, but how to assess fit quantitatively?  (KS test?)
-## *** How to choose lognormal vs gamma vs Poisson vs other?
 
 ##
 ## Collect stats on posts over time.
@@ -239,65 +237,67 @@ postStats <- function(## Inputs
         hist(x = postData[, colName], col = "blue", breaks = histBreaks, prob = TRUE,
              xlab = colName, ylab = sprintf("Prob(%s)", colName),
              main = sprintf("%s Distribution", colName))
-        ## Fit a lognormal distribution
-        foo     <- log(postData[, colName] + 1)
-        meanLog <- mean(foo)
-        sdLog   <- sd(foo)
-        vals    <- seq(from = 1, to = max(postData[, colName]), length.out = 1000)
-        lines(x = vals, y = dlnorm(vals, meanlog = meanLog, sdlog = sdLog),
-              lty = "solid", lwd = 2, col = "red")
+        ## Distributions: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html
+        ## Pick fit with lowest BIC
+
+        ## Fit a lognormal distribution (best so far, by BIC and visually)
+        fitlnorm <<- fitdist(data = postData[, colName] + 1, distr = "lnorm", method = "mle")
+        vals     <- seq(from = 1, to = max(postData[, colName]), length.out = 1000) # NB: not ints!
+        lines(x = vals, y = dlnorm(vals,               #
+                                   meanlog = coef(fitlnorm)[["meanlog"]],
+                                   sdlog   = coef(fitlnorm)[["sdlog"]]),
+              lty = "solid", lwd = 2, col = "red")     #
+
+        fitgamma <<- fitdist(data = postData[, colName], distr = "gamma", method = "mle")
+        lines(x = vals, y = dgamma(vals,               #
+                                   shape = coef(fitgamma)[["shape"]],
+                                   rate  = coef(fitgamma)[["rate"]]),
+              lty = "solid", lwd = 2, col = "green")   #
+
+        fitweibull <<- fitdist(data = postData[, colName], distr = "weibull", method = "mle")
+        lines(x = vals, y = dweibull(vals,             #
+                                     shape = coef(fitweibull)[["shape"]],
+                                     scale = coef(fitweibull)[["scale"]]),
+              lty = "solid", lwd = 2, col = "gray")    #
+
+        ## *** negbinomial gets ok logLik & BIC, but plots as spikes (discrete distr).  Round vals?
+        fitnbinom <<- fitdist(data = postData[, colName], distr = "nbinom", method = "mle")
+#        lines(x = vals, y = dnbinom(vals,              #
+#                                    size = coef(fitnbinom)[["size"]],
+#                                    mu   = coef(fitnbinom)[["mu"]]),
+#              lty = "solid", lwd = 2, col = "black")   #
+
+        ## *** Poisson gets TERRIBLE fit graphically, but higher logLik & lower BIC?!  Also round vals?
+        fitpois <<- fitdist(data = postData[, colName], distr = "pois", method = "mle")
+#        lines(x = vals, y = dpois(round(vals), lambda  = coef(fitpois)[["lambda"]]),
+#              lty = "solid", lwd = 2, col = "black")    #
+
+        ## *** These need starting values to estimate parameters
+        ## fitbeta   <<- fitdist(data = postData[, colName], distr = "beta", method = "mle")
+        ## fitbinom  <<- fitdist(data = postData[, colName], distr = "binom", method = "mle")
+        ## fitchisq  <<- fitdist(data = postData[, colName], distr = "chisq", method = "mle")
+        ## fitf      <<- fitdist(data = postData[, colName], distr = "f", method = "mle")
+
         legend("topright", bg = "antiquewhite", inset = 0.01,
-               pch    = c(22,      NA),
-               pt.bg  = c("blue",  NA),
-               pt.cex = c(2,       NA),
-               lty    = c(NA,      "solid"),
-               lwd    = c(NA,      2),
-               col    = c("black", "red"),
-               ## *** report mean(log(colName + 1)) & sd(log(colName + 1)) in legend as expressions
-               legend = c("Observations",
-                          "Lognormal distribution:"))
-      }
+               pch    = c(22,      NA,      NA,      NA),
+               pt.bg  = c("blue",  NA,      NA,      NA),
+               pt.cex = c(2,       NA,      NA,      NA),
+               lty    = c(NA,      "solid", "solid", "solid"),
+               lwd    = c(NA,      2,       2,       2),
+               col    = c("black", "red",   "green", "gray"),
+               ## *** report parameters in legend as expressions
+               legend = c("Observations",              #
+                          sprintf("Lognormal distribution: BIC = %.1f", fitlnorm$"bic"),
+                          sprintf("Gamma distribution:     BIC = %.1f", fitgamma$"bic"),
+                          sprintf("Weibull distribution:      BIC = %.1f", fitweibull$"bic")))
 
-      ## *** Estimate mean, plot resultant Poisson distribution on top of hist/barplot?
-      ## *** Account for binning in histogram vs barplot
-      ## *** Not really a good fit!
-      ##     Try lognormal? (Do normality test on log values first.)
-      ##     Try Gamma?
-      ##
-      ##     library("fitdistplus")
-      ##
-      ##     fitHits <- fitdist(data = postData[, "PostHits"], distr = "gamma", method = "mle")
-      ##     summary(fitHits); plot(fitHits)
-      ##     shapeHits <- coef(fitHits)[["shape"]]
-      ##     rateHits  <- coef(fitHits)[["rate"]]
-      ##
-      ##     *** mle does not converge; mme does; qme wants another arg; mge does not; mse does
-      ##         but mme and mse converge to very different values!
-      ##         And both converge badly:
-      ##         Loglikelihood:  -Inf   AIC:  Inf   BIC:  Inf
-      ##
-      ##     fitComm <- fitdist(data = postData[, "PostComments"], distr = "gamma", method = "mle")
-      ##     summary(fitComm)
-      ##     shapeComm <- fitComm$"estimate"[["shape"]]
-      ##     rateComm  <- fitComm$"estimate"[["rate"]]
-      tryCatch({
-#        colNameMean <- mean(postData[, colName])
-#        colNameSum  <- sum(postData[, colName])
-#        foo         <- data.frame("X" = postData[, colName],
-#                                  "Y" =  colNameSum * dpois(postData[, colName], lambda = colNameMean))
-#        foo         <- foo[order(foo$"X"), ]
-
-        fit <- fitdist(data = postData[, colName], distr = "gamma", method = "mle")
-        shapeHits  <- coef(fitHits)[["shape"]]
-        rateHits   <- coef(fitHits)[["rate"]]
-        colNamesum <- sum(postData[, colName])
-        foo        <- data.frame("X" = postData[, colName],
-                                 ## *** Figure out binning in histogram
-                                 "Y" = colNameSum * dgamma(postData[, colName], shape, rate))
-        foo        <- foo[order(foo$"X"), ]
-        lines(x = foo$"X", y = foo$"Y", lty = "solid", lwd = 2, col = "black")
-      }, error = function(e) { e })
-
+        bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull"),
+                           BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic"))
+        bics <- bics[order(bics$"BIC"), ]              #
+        cat(sprintf("\n* Bayes information criteria for distribution of %s:\n", colName))
+        print(bics)                                    #
+        cat("\n")                                      #
+      }                                                #
     }                                                  #
 
     f <- if (is.null(plotFile)) NULL else file.path(destDir, plotFile)
