@@ -234,15 +234,15 @@ postStats <- function(## Inputs
                 xlab = colName, ylab = sprintf("Freq(%s)", colName),
                 main = sprintf("%s Distribution", colName))
       else {                                           # Else ordinary histogram
+
         hist(x = postData[, colName], col = "blue", breaks = histBreaks, prob = TRUE,
              xlab = colName, ylab = sprintf("Prob(%s)", colName),
              main = sprintf("%s Distribution", colName))
+        vals <- round(seq(from = 1, to = max(postData[, colName]), length.out = 1000)) # NB: ints!
+
         ## Distributions: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html
         ## Pick fit with lowest BIC
-
-        ## Fit a lognormal distribution (best so far, by BIC and visually)
         fitlnorm <<- fitdist(data = postData[, colName] + 1, distr = "lnorm", method = "mle")
-        vals     <- seq(from = 1, to = max(postData[, colName]), length.out = 1000) # NB: not ints!
         lines(x = vals, y = dlnorm(vals,               #
                                    meanlog = coef(fitlnorm)[["meanlog"]],
                                    sdlog   = coef(fitlnorm)[["sdlog"]]),
@@ -254,49 +254,51 @@ postStats <- function(## Inputs
                                    rate  = coef(fitgamma)[["rate"]]),
               lty = "solid", lwd = 2, col = "green")   #
 
+        fitnbinom <<- fitdist(data = postData[, colName], distr = "nbinom", method = "mle")
+        lines(x = vals, y = dnbinom(vals,              #
+                                    size = coef(fitnbinom)[["size"]],
+                                    mu   = coef(fitnbinom)[["mu"]]),
+              lty = "solid", lwd = 2, col = "black")   #
+
         fitweibull <<- fitdist(data = postData[, colName], distr = "weibull", method = "mle")
         lines(x = vals, y = dweibull(vals,             #
                                      shape = coef(fitweibull)[["shape"]],
                                      scale = coef(fitweibull)[["scale"]]),
               lty = "solid", lwd = 2, col = "gray")    #
 
-        ## *** negbinomial gets ok logLik & BIC, but plots as spikes (discrete distr).  Round vals?
-        fitnbinom <<- fitdist(data = postData[, colName], distr = "nbinom", method = "mle")
-#        lines(x = vals, y = dnbinom(vals,              #
-#                                    size = coef(fitnbinom)[["size"]],
-#                                    mu   = coef(fitnbinom)[["mu"]]),
-#              lty = "solid", lwd = 2, col = "black")   #
-
-        ## *** Poisson gets TERRIBLE fit graphically, but higher logLik & lower BIC?!  Also round vals?
         fitpois <<- fitdist(data = postData[, colName], distr = "pois", method = "mle")
-#        lines(x = vals, y = dpois(round(vals), lambda  = coef(fitpois)[["lambda"]]),
-#              lty = "solid", lwd = 2, col = "black")    #
+        lines(x = vals, y = dpois(vals, lambda  = coef(fitpois)[["lambda"]]),
+              lty = "solid", lwd = 2, col = "orange")  #
 
         ## *** These need starting values to estimate parameters
-        ## fitbeta   <<- fitdist(data = postData[, colName], distr = "beta", method = "mle")
-        ## fitbinom  <<- fitdist(data = postData[, colName], distr = "binom", method = "mle")
-        ## fitchisq  <<- fitdist(data = postData[, colName], distr = "chisq", method = "mle")
-        ## fitf      <<- fitdist(data = postData[, colName], distr = "f", method = "mle")
+        ## fitbeta   <<- fitdist(data = postData[, "PostHits"], distr = "beta", method = "mle")
+        ## fitbinom  <<- fitdist(data = postData[, "PostHits"], distr = "binom", method = "mle")
+        ## fitchisq  <<- fitdist(data = postData[, "PostHits"], distr = "chisq", method = "mle")
+        ## fitf      <<- fitdist(data = postData[, "PostHits"], distr = "f", method = "mle")
 
         legend("topright", bg = "antiquewhite", inset = 0.01,
-               pch    = c(22,      NA,      NA,      NA),
-               pt.bg  = c("blue",  NA,      NA,      NA),
-               pt.cex = c(2,       NA,      NA,      NA),
-               lty    = c(NA,      "solid", "solid", "solid"),
-               lwd    = c(NA,      2,       2,       2),
-               col    = c("black", "red",   "green", "gray"),
+               pch    = c(22,      NA,      NA,      NA,      NA,      NA),
+               pt.bg  = c("blue",  NA,      NA,      NA,      NA,      NA),
+               pt.cex = c(2,       NA,      NA,      NA,      NA,      NA),
+               lty    = c(NA,      "solid", "solid", "solid", "solid", "solid"),
+               lwd    = c(NA,      2,       2,       2,       2,       2),
+               col    = c("black", "red",   "green", "black",  "gray", "orange"),
                ## *** report parameters in legend as expressions
                legend = c("Observations",              #
-                          sprintf("Lognormal distribution: BIC = %.1f", fitlnorm$"bic"),
-                          sprintf("Gamma distribution:     BIC = %.1f", fitgamma$"bic"),
-                          sprintf("Weibull distribution:      BIC = %.1f", fitweibull$"bic")))
+                          sprintf("Lognormal    BIC =  %7.1f", fitlnorm$"bic"),
+                          sprintf("Gamma        BIC =  %7.1f", fitgamma$"bic"),
+                          sprintf("Negbinomial BIC =  %7.1f", fitnbinom$"bic"),
+                          sprintf("Weibull         BIC =  %7.1f", fitweibull$"bic"),
+                          sprintf("Poisson        BIC = %7.1f", fitpois$"bic")))
 
-        bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull"),
-                           BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic"))
-        bics <- bics[order(bics$"BIC"), ]              #
+        bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull", "Negbinomial", "Poisson"),
+                           BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic",
+                                            fitnbinom$"bic", fitpois$"bic"))
+        bics <- bics[order(bics$"BIC"), ]              # Sort so best is at top of table
         cat(sprintf("\n* Bayes information criteria for distribution of %s:\n", colName))
-        print(bics)                                    #
+        print(bics)                                    # Show table to transcript
         cat("\n")                                      #
+
       }                                                #
     }                                                  #
 
