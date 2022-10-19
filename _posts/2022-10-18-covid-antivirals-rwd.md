@@ -15,7 +15,7 @@ while now.  What's the real-world experience on efficacy?
 Molnupiravir has, since the beginning, had a bit of an odor about it.  The clinical trial
 had a couple fishy things going on, like the fact that the initial and completion cohorts
 had _vastly_ different efficacies.  It doesn't hit the news much, but when 
-[we worked out the details on this Crummy Little Blog That Nobody Reads]({{ site.baseurl }}/efficacies-dont-average),
+[we worked out the details on this Crummy Little Blog That Nobody Reads]({{ site.baseurl }}/efficacies-dont-average/) <sup id="fn1a">[[1]](#fn1)</sup>,
 we found the completion cohort had _negative_ efficacy!  So everybody wants good data on
 molnupiravir's efficacy, to remove the uncertainty and let us use it properly if it really
 works.  
