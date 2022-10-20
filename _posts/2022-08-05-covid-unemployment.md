@@ -3,7 +3,7 @@ layout: post
 title: COVID-19&colon; How Bad Was the Unemployment?
 tags: CorporateLifeAndItsDiscontents COVID Politics Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Let's see how job losses and rebounds (not COVID-19 rebounds, this time) look for the

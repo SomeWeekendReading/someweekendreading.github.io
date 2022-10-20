@@ -3,7 +3,7 @@ layout: post
 title: COVID-19&colon; One Month Later 
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 It's been a month since we were exposed to COVID-19 here at Ch&acirc;teau

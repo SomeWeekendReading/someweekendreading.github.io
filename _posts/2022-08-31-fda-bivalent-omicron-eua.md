@@ -3,7 +3,7 @@ layout: post
 title: US FDA Grants Emergency Use Authorization for Bivalent Classic/Omicron COVID-19 Vaccines
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today the FDA granted Emergency Use Authorization (EUA) to both Pfizer and Moderna's

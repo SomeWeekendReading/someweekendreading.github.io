@@ -3,7 +3,7 @@ layout: post
 title: On Authoritarian Cops in the US
 tags: Politics Sadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Cops in the US are a hot mess of authoritarianism, viewing themselves as an occupying

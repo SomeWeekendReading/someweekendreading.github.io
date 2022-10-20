@@ -3,7 +3,7 @@ layout: post
 title: COVID-19 &amp; Paxlovid&colon; After Day 8
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today is day 8 of my COVID-19 + paxlovid personal experience, i.e., 3 days past the last

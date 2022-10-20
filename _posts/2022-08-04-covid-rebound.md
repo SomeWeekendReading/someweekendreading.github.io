@@ -3,7 +3,7 @@ layout: post
 title: COVID-19&colon; Paxlovid Rebound, or COVID-19 Rebound?
 tags: COVID JournalClub MathInTheNews PharmaAndBiotech R Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Is "paxlovid rebound" because of paxlovid, or because there are just a lot of COVID-19

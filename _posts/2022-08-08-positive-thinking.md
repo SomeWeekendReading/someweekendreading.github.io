@@ -3,7 +3,7 @@ layout: post
 title: COVID-19&colon; The Power of Positive Thinking
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 People are _always_ telling me to "think positive".  I hate it.
