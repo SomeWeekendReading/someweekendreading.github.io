@@ -110,7 +110,7 @@ The study outcomes were death, COVID-19 related hospitalization, in-hospital dis
 progression, and ICU admission.  Then the usual statistical armamentarium: Cox regression,
 hazard ratios, logistic regression, and odds ratios.  
 
-<a href="{{ site.baseurl }}/images/2022-10-18-covid-antivirals-rwd-lancet-3.jpg"><img src="{{ site.baseurl }}/images/2022-10-18-covid-antivirals-rwd-lancet-3-thumb.jpg" width="400" height="51" alt="Wong, et al. @ Lancet: Summary of hazard ratios" title="Wong, et al. @ Lancet: Summary of hazard ratios" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2022-10-18-covid-antivirals-rwd-lancet-3.jpg"><img src="{{ site.baseurl }}/images/2022-10-18-covid-antivirals-rwd-lancet-3-thumb.jpg" width="400" height="92" alt="Wong, et al. @ Lancet: Summary of hazard ratios" title="Wong, et al. @ Lancet: Summary of hazard ratios" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2022-10-18-covid-antivirals-rwd-lancet-4.jpg"><img src="{{ site.baseurl }}/images/2022-10-18-covid-antivirals-rwd-lancet-4-thumb.jpg" width="400" height="469" alt="Wong, et al. @ Lanceet: KM curves" title="Wong, et al. @ Lanceet: KM curves" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 They've somewhat buried their results in a paragraph or so of word salad.  But sifting
 through it, we can make the table we see here.  
