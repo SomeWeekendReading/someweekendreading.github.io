@@ -59,14 +59,13 @@ All very nice.  A triumph of drug development, really, illustrating How It Is Do
 
 <a href="{{ site.baseurl }}/images/2022-06-02-paxlovid-in-the-wild-israeli-2.png"><img src="{{ site.baseurl }}/images/2022-06-02-paxlovid-in-the-wild-israeli-2-thumb.jpg" width="400" height="648" alt="Arbel, et al.: Paxlovid vs no treatment, KM curves for hospitalization and death, by age" title="Arbel, et al.: Paxlovid vs no treatment, KM curves for hospitalization and death, by age" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Previously on this CLBTNR we wrote about [an Israeli study of where paxlovid has a huge
-benefit and were it doesn't]({{ site.baseurl }}/paxlovid-in-the-wild#the-weekend-conclusion).
+benefit and were it doesn't]({{ site.baseurl }}/paxlovid-in-the-wild/#the-weekend-conclusion).
 <sup id="fn2a">[[2]](#fn2)</sup>  The conclusion we drew was:  
 
 > 1. For ages 65+: Paxlovid had a dramatic positive effect in reducing hospitalization and death rates.  
 > 2. For ages 40-64: Paxlovid had not much effect at all on either hospitalization or death rates.  
 
 <img src="{{ site.baseurl }}/images/2022-10-24-in-the-wild-peer-reviewed-nejm-1.jpg" width="400" height="213" alt="Arbel et al. @ NEJM: Paxlovid in the time of Omicron" title="Arbel et al. @ NEJM: Paxlovid in the time of Omicron" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-
 Now, that was based on a preprint, before peer review.  So we were _extremely_ pleased to
 see that the paper held up under peer review and was published in the prestigious _New
 England Journal of Medicine_ last month. <sup id="fn3a">[[3]](#fn3)</sup>  
@@ -124,6 +123,6 @@ and press concentrating only on the very minor bad events.
 
 <a id="fn1">1</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Med-Chem Optimization of Paxlovid"]({{ site.baseurl }}/how-to-discover-paxlovid/),  [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2022-Jan-19. [↩](#fn1a)  
 
-<a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Paxlovid in the Wild"]({{ site.baseurl }}/paxlovid-in-the-wild), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2022-Jun-02. [↩](#fn2a)  
+<a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Paxlovid in the Wild"]({{ site.baseurl }}/paxlovid-in-the-wild/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2022-Jun-02. [↩](#fn2a)  
 
 <a id="fn3">3</a>: R Arbel, _et al.,_ ["Nirmatrelvir Use and Severe Covid-19 Outcomes during the Omicron Surge"](https://www.nejm.org/doi/full/10.1056/NEJMoa2204919), _New Engl Jnl Med_, 387:790-798, 2022-Sep-01.  DOI: [10.1056/NEJMoa2204919](https://doi.org/10.1056/NEJMoa2204919). [↩](#fn3a)  
