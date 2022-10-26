@@ -370,6 +370,9 @@ in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)
 "Dignity does not consist of possessing honors, but in deserving them." 
 &mdash; [Aristotle](https://en.wikipedia.org/wiki/Aristotle)  
 
+"Honor and shame from no condition rise. Act well your part: there all the honor lies."
+&ndash; [Alexander Pope](https://en.wikipedia.org/wiki/Alexander_Pope)  
+
 "I will follow the right side even to the fire, but excluding the fire if I can." 
 &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)  
 
