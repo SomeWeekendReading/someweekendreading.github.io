@@ -1230,3 +1230,5 @@ _Business Week_, 14-Nov-2003.
 - "If you're gonna make me watch this disaster, we're gonna need a _whole_ lot more popcorn."  
 - "It's not that I object so much to you re-inventing the wheel, as much as I want you to
   keep it being _round._"  
+- "For most sociopaths, 'guilt' is a difficult and largely irrelevant abstraction.  It
+  strongly condemns our era in history that this is a relevant observation."  

@@ -47,10 +47,20 @@
             <span title="Tags"><a href="{{ site.baseurl }}/tags/"><i class="material-icons-two-tone">local_offer</i></a></span>
             <span title="Quotes"><a href="{{ site.baseurl }}/quotes/"><i class="material-icons-two-tone">format_quote</i></a></span>
             <span title="Email"><a href="mailto:{{ site.footer-links.email }}" target="_blank"><i class="material-icons-two-tone">email</i></a></span>
-            <!-- *** 2022-Jul-29 not working: puts in wide blank/dash?! But link is correct... -->
-	    <!-- &#xF0544; is mdi-twitter or twitter or mdi:twitter -->
-	    <!-- hex icon-sized blank, mdi-twitter shows dash in wide field, twitter blank wide field -->
-            <span title="Twitter"><a href="https://twitter.com/weekend_editor" target="_blank"><i class="material-icons-two-tone">twitter</i></a></span>
+            <span title="Twitter">
+              <a href="https://twitter.com/weekend_editor" target="_blank">
+		<!-- *** 2022-Jul-29 not working: puts in wide blank/dash?! But link is correct... -->
+		<!-- &#xF0544; is mdi-twitter or twitter or mdi:twitter -->
+		<!-- hex icon-sized blank, mdi-twitter dash in wide field, twitter blank wide field -->
+		<!-- <i class="material-icons-two-tone">twitter</i> -->
+		<!-- Apparently not in Google Material Design Icons; get it from elsewhere: -->
+		<!-- https://icon-sets.iconify.design/icon-park-twotone/twitter/  -->
+		<!-- *** size could be a tick larger? Script could move to head element? -->
+		<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
+                <iconify-icon icon="icon-park-twotone:twitter"></iconify-icon>
+              </a>
+            </span>
+	    
             <span title="RSS Feed (XML)"><a href="{{ site.baseurl }}/feed.xml" target="_blank"><i class="material-icons-two-tone">rss_feed</i></a></span>
             <span title="Sitemap (XML)"><a href="{{ site.baseurl }}/sitemap.xml" target="_blank"><i class="material-icons-two-tone">account_tree</i></a></span>
           </nav>
