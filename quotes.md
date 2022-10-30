@@ -788,6 +788,8 @@ at SSC 2003, Halifax (June 2003).
 
 ## The Religious Ones  
 
+"Action springs not from thought, but from a readiness for responsibility." &ndash; [Dietrich Bonh&ouml;ffer](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer), ["After Ten Years"](https://www.ushmm.org/information/exhibitions/online-exhibitions/special-focus/dietrich-bonhoeffer/after-ten-years)  
+
 "Don't wait for the Last Judgment. It takes place every day." -- [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), [_La Chute_ (_The Fall_)](https://en.wikipedia.org/wiki/The_Fall_(Camus_novel)).  
 
 "People make mistakes in life through believing too much, but they have a damned dull time if they believe too little." &mdash; [James Hilton](https://en.wikipedia.org/wiki/James_Hilton_(novelist)), [_Lost Horizon_](https://en.wikipedia.org/wiki/Lost_Horizon), 1933.  
