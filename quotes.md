@@ -498,9 +498,14 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 ## Those of Rational &amp; Scientific Bent
 
+"What can I know?   (epistemology) <br>
+ What should I do?  (moral philosophy) <br>
+ What is beautiful? (aesthetics) <br>
+ What?              (metaphysics)" &ndash; Jan, [Slightly advanced decision theory 102: Four reasons not to be a (naive) utility maximizer](https://www.lesswrong.com/posts/xGPXDNGYebD3rgCoa/slightly-advanced-decision-theory-102-four-reasons-not-to-be), _Less Wrong_, 2021-Nov-23.  
+
 "&hellip; there are an infinite number of ways that things can GO wrong but a manageable number of ways that things can BE wrong, so investing in early detection is critical." &ndash; [Dennis Doughty](https://www.linkedin.com/in/dennis-doughty-17a24), [Twitter 2022-Sep-17](https://twitter.com/DennisDoughty/status/1571159565110050818)  
 
-"The fact that $2 + 2 = 2 \times 2 = 2^2$ has caused more confusion in theoretial physics than any other fact." &mdash; [Jeffrey Goldstone](https://en.wikipedia.org/wiki/Jeffrey_Goldstone), an offhand remark in a lecture  
+"The fact that $2 + 2 = 2 \times 2 = 2^2$ has caused more confusion in theoretial physics than any other fact." &mdash; [Jeffrey Goldstone](https://en.wikipedia.org/wiki/Jeffrey_Goldstone), an offhand remark in a physics lecture at MIT  
 
 "The first rule of [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) Club is you don't know you're in Dunning-Kruger Club."  &mdash; Dan Geravoin, [Twitter 2022-Mar-14](https://twitter.com/geravoin/status/1503444857183895553), in reference to [_Fight Club_](https://en.wikipedia.org/wiki/Fight_Club).  To which I can only add: this makes Dunning-Kruger Club the _opposite_ of a secret society: the members don't know they're members, but everybody _else_ does.  
 
@@ -584,12 +589,9 @@ questions, but a mysterious answer was a contradiction in terms."
 [ET Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes) in 
 [Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
 
-"We used to think that if we knew one, we knew two, because one and one are two. We are
-finding that we must learn a great deal more about 'and'." &mdash; Sir Arthur Eddington,
-quoted in A. L. Mackay, _The Harvest of a Quiet Eye_, 1977.  
+"We used to think that if we knew one, we knew two, because one and one are two. We are finding that we must learn a great deal more about 'and'." &mdash; [Sir Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington), quoted in A. L. Mackay, _The Harvest of a Quiet Eye_, 1977.  
 
-"Not only is the universe stranger than we imagine, it is stranger than we can imagine."
-&mdash; Sir Arthur Eddington.  (But see also: "Not only is the universe stranger than we suspect; it is stranger than we can suspect." &mdash; J. B. S. Haldane)  
+"Not only is the universe stranger than we imagine, it is stranger than we can imagine." &mdash; [Sir Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington).  (But see also: "Not only is the universe stranger than we suspect; it is stranger than we can suspect." &mdash; [JBS Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane))  
 
 "We are all agreed that your theory is crazy. The question that divides us is whether it is
 crazy enough to have a chance of being correct." 
@@ -737,6 +739,9 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 "However beautiful the strategy, you should occasionally look at the results." &mdash; attributed to [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)  
 
 "Laziness in doing stupid things can be a great virtue." &mdash; [James Hilton](https://en.wikipedia.org/wiki/James_Hilton_(novelist)), [_Lost Horizon_](https://en.wikipedia.org/wiki/Lost_Horizon), 1933.  
+
+"On the one side spiritual freedom and truth, reason and culture, evolution and progress stand under the bright banner of science; on the other side, under the black flag of hierarchy, stand spiritual slavery and falsehood, irrationality and barbarism, superstition and retrogression" &ndash; [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel), 1874.  Translated & quoted by [SJ Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould), ["The Great Asymmetry"](https://www.science.org/doi/10.1126/science.279.5352.812), _Science_ 279:5352, 812-813 1998-Feb-06. The original is EH Haeckel, [_Anthropogenie: Keimes-und Stammes-Geschichte des Menschen_](https://wellcomecollection.org/works/r5g9xrng) (Engelmann, Leipzig, 1874), pp. xiii-xiv.  
+
 
 ## The Statistical Ones  
 
