@@ -14,9 +14,11 @@ Sometimes there's nothing to do but confess one's own ignorance.
 In the last couple days, while hiding in bed avoiding my fear of a fascist turn in the
 upcoming mid-terms, a couple things have _really_ confused me:  
 
-1. Have you ever noticed that, when you look up
+1. Have you ever noticed that when you look up
    ["ineffable"](https://en.wikipedia.org/wiki/Ineffability) in the dictionary, they
-   explain it by just _using more words?_  
+   explain it by just _using more words?_  That seems wrong, somehow.  Wittgenstein had right:
+   [_Wovon man nicht sprechen kann, darüber muss man schweigen,_](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus#Proposition_7)
+   indeed!
 2. Indeed, I will never understand economics:  
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
