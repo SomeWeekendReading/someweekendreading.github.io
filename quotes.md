@@ -1109,7 +1109,7 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 
 "You know, my father said resilience is not all just teeth-gritting determination.  It’s also the strength to find and see beauty in an ugly situation." &mdash; [George Takei](https://en.wikipedia.org/wiki/George_Takei), on internment in a US concentration camp as a Japanese-American in WWII.  Quoted in KK Ottersen, ["George Takei: 'I maintain that without optimism, we've already failed'"](https://www.washingtonpost.com/magazine/2022/02/15/george-takei-star-trek-activist-racism-japanese/), _Washington Post_, 2022-Feb-15.  
 
-"&hellip; [deontology](https://en.wikipedia.org/wiki/Deontology) is just [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) for superstitious children who can't do math." &ndash; [Geffrey Miller](https://twitter.com/primalpoly/status/1565421629202505730) (Not originally intended religiously, but easily adapted therunto.)  
+"&hellip; [deontology](https://en.wikipedia.org/wiki/Deontology) is just [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) for superstitious children who can't do math." &ndash; [Geoffrey Miller](https://twitter.com/primalpoly/status/1565421629202505730) (Not originally intended religiously, but easily adapted therunto.)  
 
 
 ## The One Who Is Voltaire  
