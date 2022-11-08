@@ -128,6 +128,25 @@ already performed.  Reminder: you vote too. And no Republicans. Not for any imag
 office, not under any conceivable circumstance.  They've turned fascist, so you need to
 turn your back on them.  
 
+
+## Addendum 2022-Nov-08: The Side Effects  
+
+(Wouldn't "The Side Effects" be a great band name?)  
+
+I was pretty sore, tired, achy, and grumpy last evening.  Sleep was challenging, with 2
+sore arms at the same time.  This morning was significantly better.  Now, at about 27
+hours after the vaccination, I'm starting to feel tired-but-ok.  
+
+_Definitely_ worth the lowered risk of, oh&hellip; say&hellip; _dying_ this winter!  
+
+And now the Weekend Editrix has her appointment for later this month.  Regrettably, it's a
+couple weeks out, since this is frustratingly hard to schedule!  One thing we could do to
+increase vaccine uptake is to remove all the BS from getting appointments, but I have
+little hope anybody will be interested in that.  
+
+Yes, I am a Grumpy Old Man.  It says so, right at the top of each page of my blog, so it
+must be true.  
+
 ---
 
 ## Notes &amp; References  
@@ -144,4 +163,4 @@ turn your back on them.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: No.  C'mon&hellip; just _no._  
+<a id="fn1">1</a>: No.  C'mon, just&hellip; _no._  

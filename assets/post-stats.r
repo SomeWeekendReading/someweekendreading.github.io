@@ -241,7 +241,16 @@ postStats <- function(## Inputs
         vals <- round(seq(from = 1, to = max(postData[, colName]), length.out = 1000)) # NB: ints!
 
         ## Distributions: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html
+        ## We want a distribution which is (a) univariate, (b) unimodal, (c) bdd below @ 0, and
+        ## (d) has a heavy right tail.
         ## Pick fit with lowest BIC
+        ##
+        ## Other choices to try:
+        ##  beta, binom, cauchy, chisq, exp, f, geom, hyper, norm, t, unif
+        ## Rule out based on (c) and (d): cauchy, norm, t, unif; geom is special case of negbinom
+        ## Rule out exp based on observed shape
+        ## That leaves: beta, binom, chisq, f, hyper
+        ##
         fitlnorm <<- fitdist(data = postData[, colName] + 1, distr = "lnorm", method = "mle")
         lines(x = vals, y = dlnorm(vals,               #
                                    meanlog = coef(fitlnorm)[["meanlog"]],
