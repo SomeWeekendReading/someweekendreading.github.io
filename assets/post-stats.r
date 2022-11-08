@@ -249,41 +249,49 @@ postStats <- function(## Inputs
         ##  beta, binom, cauchy, chisq, exp, f, geom, hyper, norm, t, unif
         ## Rule out based on (c) and (d): cauchy, norm, t, unif; geom is special case of negbinom
         ## Rule out exp based on observed shape
-        ## That leaves: beta, binom, chisq, f, hyper
+        ## Rule out beta, because values have to be in [0, 1].
+        ## Rule out binomial: needs starting guess, and for large numbers it's essentially poisson
+        ##  anyway, so asymptotically this has been tested.  (Confirmed numerically.)
+        ## That leaves: chisq, f, hyper
         ##
+
+        ## *** These need starting values to estimate parameters
+        ## fitchisq  <<- fitdist(data = postData[, "PostHits"], distr = "chisq", method = "mle")
+        ## fitf      <<- fitdist(data = postData[, "PostHits"], distr = "f",     method = "mle")
+        ## fithyper  <<- fitdist(data = postData[, "PostHits"], distr = "hyper", method = "mle")
+
         fitlnorm <<- fitdist(data = postData[, colName] + 1, distr = "lnorm", method = "mle")
+        cat(sprintf("\n- Lognormal:\n")); print(coef(fitlnorm))
         lines(x = vals, y = dlnorm(vals,               #
                                    meanlog = coef(fitlnorm)[["meanlog"]],
                                    sdlog   = coef(fitlnorm)[["sdlog"]]),
               lty = "solid", lwd = 2, col = "red")     #
 
         fitgamma <<- fitdist(data = postData[, colName], distr = "gamma", method = "mle")
+        cat(sprintf("\n- Gamma:\n")); print(coef(fitgamma))
         lines(x = vals, y = dgamma(vals,               #
                                    shape = coef(fitgamma)[["shape"]],
                                    rate  = coef(fitgamma)[["rate"]]),
               lty = "solid", lwd = 2, col = "green")   #
 
         fitnbinom <<- fitdist(data = postData[, colName], distr = "nbinom", method = "mle")
+        cat(sprintf("\n- Negbinomial:\n")); print(coef(fitnbinom))
         lines(x = vals, y = dnbinom(vals,              #
                                     size = coef(fitnbinom)[["size"]],
                                     mu   = coef(fitnbinom)[["mu"]]),
               lty = "solid", lwd = 2, col = "black")   #
 
         fitweibull <<- fitdist(data = postData[, colName], distr = "weibull", method = "mle")
+        cat(sprintf("\n- Weibull:\n")); print(coef(fitweibull))
         lines(x = vals, y = dweibull(vals,             #
                                      shape = coef(fitweibull)[["shape"]],
                                      scale = coef(fitweibull)[["scale"]]),
               lty = "solid", lwd = 2, col = "gray")    #
 
         fitpois <<- fitdist(data = postData[, colName], distr = "pois", method = "mle")
+        cat(sprintf("\n- Poisson:\n")); print(coef(fitpois))
         lines(x = vals, y = dpois(vals, lambda  = coef(fitpois)[["lambda"]]),
               lty = "solid", lwd = 2, col = "orange")  #
-
-        ## *** These need starting values to estimate parameters
-        ## fitbeta   <<- fitdist(data = postData[, "PostHits"], distr = "beta", method = "mle")
-        ## fitbinom  <<- fitdist(data = postData[, "PostHits"], distr = "binom", method = "mle")
-        ## fitchisq  <<- fitdist(data = postData[, "PostHits"], distr = "chisq", method = "mle")
-        ## fitf      <<- fitdist(data = postData[, "PostHits"], distr = "f", method = "mle")
 
         legend("topright", bg = "antiquewhite", inset = 0.01,
                pch    = c(22,      NA,      NA,      NA,      NA,      NA),
@@ -294,11 +302,11 @@ postStats <- function(## Inputs
                col    = c("black", "red",   "green", "black",  "gray", "orange"),
                ## *** report parameters in legend as expressions
                legend = c("Observations",              #
-                          sprintf("Lognormal    BIC =  %7.1f", fitlnorm$"bic"),
-                          sprintf("Gamma        BIC =  %7.1f", fitgamma$"bic"),
-                          sprintf("Negbinomial BIC =  %7.1f", fitnbinom$"bic"),
+                          sprintf("Lognormal    BIC =  %7.1f",    fitlnorm$"bic"),
+                          sprintf("Gamma        BIC =  %7.1f",    fitgamma$"bic"),
+                          sprintf("Negbinomial BIC =  %7.1f",     fitnbinom$"bic"),
                           sprintf("Weibull         BIC =  %7.1f", fitweibull$"bic"),
-                          sprintf("Poisson        BIC = %7.1f", fitpois$"bic")))
+                          sprintf("Poisson        BIC = %7.1f",   fitpois$"bic")))
 
         bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull", "Negbinomial", "Poisson"),
                            BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic",
