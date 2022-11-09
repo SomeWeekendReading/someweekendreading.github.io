@@ -15,10 +15,12 @@ The 2022 Nobel Prize in Physiology or Medicine went to Svante P&auml;&auml;bo.
 final.)  
 
 <a href="{{ site.baseurl }}/images/2022-11-09-paabo-nobel-iscb-1.jpg"><img src="{{ site.baseurl }}/images/2022-11-09-paabo-nobel-iscb-1-thumb.jpg" width="400" height="282" alt="Svante P&auml;&auml;bo and friend" title="Svante P&auml;&auml;bo and friend" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
 Today I learned, in the newsletter from the International Society for Computational
-Biology, that Svante P&auml;&auml;bo was awarded the Nobel Prize in Physiology or
-Medicine.  He's shown here with an old friend.  (Yes, it was more than a month ago.  I
-don't follow the awards closely.)  
+Biology and then from the Nobel Assembly itself, that Svante P&auml;&auml;bo was awarded
+the Nobel Prize in Physiology or Medicine. <sup id="fn1a">[[1]](#fn1)</sup> He's shown
+here with an old friend.  (Yes, it was more than a month ago.  I don't follow the awards
+closely.)  
 
 For what?  You mean, beyond the name?  I mean, the guy's got not just one, not just two,
 but _two consecutive umlauts in his name!_  
