@@ -123,7 +123,7 @@ the side effects, because it will mean my immune system is earning its keep and 
 safe for the coming winter wave.
 
 Oh, and that's another reason I voted early: the US midterm election is tomorrow, and I
-didn't want to be feeling to yucky to bestir myself from the couch.  So: civic duty
+didn't want to be feeling too yucky to bestir myself from the couch.  So: civic duty
 already performed.  Reminder: you vote too. And no Republicans. Not for any imaginable
 office, not under any conceivable circumstance.  They've turned fascist, so you need to
 turn your back on them.  
