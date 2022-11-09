@@ -251,7 +251,8 @@ postStats <- function(## Inputs
         ## Rule out exp based on observed shape
         ## Rule out beta, because values have to be in [0, 1].
         ## Rule out binomial: needs starting guess, and for large numbers it's essentially poisson
-        ##  anyway, so asymptotically this has been tested.  (Confirmed numerically.)
+        ##  anyway, so asymptotically this has been tested.  (Confirmed numerically; the curves are
+        ##  right on top of each other, but the binomial parameters are absurd, like N ~ 10^4.)
         ## That leaves: chisq, f, hyper
         ##
 
