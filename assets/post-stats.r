@@ -241,25 +241,29 @@ postStats <- function(## Inputs
         vals <- round(seq(from = 1, to = max(postData[, colName]), length.out = 1000)) # NB: ints!
 
         ## Distributions: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html
-        ## We want a distribution which is (a) univariate, (b) unimodal, (c) bdd below @ 0, and
-        ## (d) has a heavy right tail.
-        ## Pick fit with lowest BIC
+        ## We want a distribution which is:
+        ## (a) univariate,
+        ## (b) unimodal,
+        ## (c) bdd below @ 0, and
+        ## (d) has a heavy right tail
         ##
-        ## Other choices to try:
+        ## lnorm, gamma, negbinomial, weibull, poisson all look sort of like candidates
+        ##
+        ## Other choices to try, from the common univariate distributions available in R:
         ##  beta, binom, cauchy, chisq, exp, f, geom, hyper, norm, t, unif
-        ## Rule out based on (c) and (d): cauchy, norm, t, unif; geom is special case of negbinom
+        ##
+        ## Rule out based on (c) and (d): cauchy, norm, t, unif;
+        ## Rule out geom as it is special case of negbinom
         ## Rule out exp based on observed shape
-        ## Rule out beta, because values have to be in [0, 1].
+        ## Rule out beta, because values have to be in [0, 1]
         ## Rule out binomial: needs starting guess, and for large numbers it's essentially poisson
         ##  anyway, so asymptotically this has been tested.  (Confirmed numerically; the curves are
         ##  right on top of each other, but the binomial parameters are absurd, like N ~ 10^4.)
-        ## That leaves: chisq, f, hyper
         ##
-
-        ## *** These need starting values to estimate parameters
-        ## fitchisq  <<- fitdist(data = postData[, "PostHits"], distr = "chisq", method = "mle")
-        ## fitf      <<- fitdist(data = postData[, "PostHits"], distr = "f",     method = "mle")
-        ## fithyper  <<- fitdist(data = postData[, "PostHits"], distr = "hyper", method = "mle")
+        ## So we have 8 candidates: lnorm, gamma, negbinomial, weibull, poisson
+        ## to which we've added chisq, f, hyper
+        ##
+        ## Pick distribution(s) fitted with lowest BIC
 
         fitlnorm <<- fitdist(data = postData[, colName] + 1, distr = "lnorm", method = "mle")
         cat(sprintf("\n- Lognormal:\n")); print(coef(fitlnorm))
@@ -289,29 +293,57 @@ postStats <- function(## Inputs
                                      scale = coef(fitweibull)[["scale"]]),
               lty = "solid", lwd = 2, col = "gray")    #
 
+        fitf     <<- fitdist(data = postData[, "PostHits"], distr = "f",     method = "mle",
+                             ## Again, a random stab in the dark at the number of degress of freedom
+                             ##  both being the number of posts.  It converges to df1 being a bit more,
+                             ##  and pushes df2 down to between 0 and 1.
+                             ## However, if you cut the initial guesses, the outcome changes wildly.
+                             ##  So it's much more sensitive to my weird guesses at initial conditions
+                             ##  than chisquare!
+                             start = list("df1" = nrow(postData), "df2" = nrow(postData)))
+        cat(sprintf("\n- F:\n")); print(coef(fitf))
+        lines(x = vals, y = df(vals, df1 = coef(fitf)[["df1"]], df2 = coef(fitf)[["df2"]]),
+              lty = "solid", lwd = 2, col = "yellow")    #
+
+        fitchisq <<- fitdist(data = postData[, "PostHits"], distr = "chisq", method = "mle",
+                             ## Just took a guess @ number of degrees of freedom = number of posts.
+                             ##   It ends up fitting to a lot less than that.  Just for robustness
+                             ##   testing, tried HALF the number of posts; converged to same answer.
+                             ## Ignoring the non-centrality parameter; should figre it out!  Took a
+                             ##   couple guesses, e.g., mean number of hits.  Never converged.
+                             ## *** NB: special case of Gamma; why doesn't it do as well?
+                             start = list("df" = nrow(postData)))
+        cat(sprintf("\n- Chi squared:\n")); print(coef(fitchisq))
+        lines(x = vals, y = dchisq(vals, df = coef(fitchisq)[["df"]]),
+              lty = "solid", lwd = 2, col = "blue")    #
+
         fitpois <<- fitdist(data = postData[, colName], distr = "pois", method = "mle")
         cat(sprintf("\n- Poisson:\n")); print(coef(fitpois))
         lines(x = vals, y = dpois(vals, lambda  = coef(fitpois)[["lambda"]]),
               lty = "solid", lwd = 2, col = "orange")  #
 
         legend("topright", bg = "antiquewhite", inset = 0.01,
-               pch    = c(22,      NA,      NA,      NA,      NA,      NA),
-               pt.bg  = c("blue",  NA,      NA,      NA,      NA,      NA),
-               pt.cex = c(2,       NA,      NA,      NA,      NA,      NA),
-               lty    = c(NA,      "solid", "solid", "solid", "solid", "solid"),
-               lwd    = c(NA,      2,       2,       2,       2,       2),
-               col    = c("black", "red",   "green", "black",  "gray", "orange"),
+               pch    = c(22,      NA,      NA,      NA,      NA,      NA,       NA, NA),
+               pt.bg  = c("blue",  NA,      NA,      NA,      NA,      NA,       NA, NA),
+               pt.cex = c(2,       NA,      NA,      NA,      NA,      NA,       NA, NA),
+               lty    = c(NA,      "solid", "solid", "solid", "solid", "solid",  "solid", "solid"),
+               lwd    = c(NA,      2,       2,       2,       2,       2,        2, 2),
+               col    = c("black", "red",   "green", "black",  "gray", "yellow", "blue", "orange"),
                ## *** report parameters in legend as expressions
                legend = c("Observations",              #
-                          sprintf("Lognormal    BIC =  %7.1f",    fitlnorm$"bic"),
-                          sprintf("Gamma        BIC =  %7.1f",    fitgamma$"bic"),
-                          sprintf("Negbinomial BIC =  %7.1f",     fitnbinom$"bic"),
-                          sprintf("Weibull         BIC =  %7.1f", fitweibull$"bic"),
-                          sprintf("Poisson        BIC = %7.1f",   fitpois$"bic")))
+                          sprintf("Lognormal    BIC =  %7.1f",        fitlnorm$"bic"),
+                          sprintf("Gamma        BIC =  %7.1f",        fitgamma$"bic"),
+                          sprintf("Negbinomial BIC =  %7.1f",         fitnbinom$"bic"),
+                          sprintf("Weibull         BIC =  %7.1f",     fitweibull$"bic"),
+                          sprintf("F                   BIC =  %7.1f", fitf$"bic"),
+                          sprintf("Chi squared BIC =   %7.1f",        fitchisq$"bic"),
+                          sprintf("Poisson        BIC = %7.1f",       fitpois$"bic")))
 
-        bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull", "Negbinomial", "Poisson"),
+        bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull", "Negbinomial", "Poisson",
+                                            "Chi Squared", "F"),
                            BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic",
-                                            fitnbinom$"bic", fitpois$"bic"))
+                                            fitnbinom$"bic", fitpois$"bic", fitchisq$"bic",
+                                            fitf$"bic"))
         bics <- bics[order(bics$"BIC"), ]              # Sort so best is at top of table
         cat(sprintf("\n* Bayes information criteria for distribution of %s:\n", colName))
         print(bics)                                    # Show table to transcript

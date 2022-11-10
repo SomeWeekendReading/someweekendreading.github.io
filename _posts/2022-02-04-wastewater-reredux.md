@@ -301,7 +301,7 @@ Now let's interpret:
   lower.  We'd _expect_ to see higher RNA/death correlation within a single wave, _q.v._  
 - Death rates are significantly, though more weakly, correlated with case rates at
   $R \sim 0.21$.  This
-  also makes sense: you only get reported as a COVID-19 deat if you have COVID-19!  But,
+  also makes sense: you only get reported as a COVID-19 death if you have COVID-19!  But,
   again since medicine, viral variants and vaccination change, the chances of dying have
   been going down and that explains the lower correlation of cases with death.  
 - Also, looking at the lower left corner, we see that death correlates with RNA at low
