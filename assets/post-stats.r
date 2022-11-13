@@ -241,20 +241,23 @@ postStats <- function(## Inputs
         vals <- round(seq(from = 1, to = max(postData[, colName]), length.out = 1000)) # NB: ints!
 
         ## Distributions: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html
+        ##
         ## We want a distribution which is:
         ## (a) univariate,
         ## (b) unimodal,
         ## (c) bdd below @ 0, and
         ## (d) has a heavy right tail
         ##
-        ## lnorm, gamma, negbinomial, weibull, poisson all look sort of like candidates
+        ## lnorm, gamma, negbinomial, weibull, poisson all look sort of like candidates and
+        ## initial tomfoolery with fitdist() reveals they converge to an estimate pretty readily.
         ##
         ## Other choices to try, from the common univariate distributions available in R:
         ##  beta, binom, cauchy, chisq, exp, f, geom, hyper, norm, t, unif
         ##
-        ## Rule out based on (c) and (d): cauchy, norm, t, unif;
+        ## Rule out based on (a): unif
+        ## Rule out based on (c) and (d): cauchy, norm, t
         ## Rule out geom as it is special case of negbinom
-        ## Rule out exp based on observed shape
+        ## Rule out exp based on observed shape (no decrease to left of peak)
         ## Rule out beta, because values have to be in [0, 1]
         ## Rule out binomial: needs starting guess, and for large numbers it's essentially poisson
         ##  anyway, so asymptotically this has been tested.  (Confirmed numerically; the curves are
@@ -264,6 +267,22 @@ postStats <- function(## Inputs
         ## to which we've added chisq, f, hyper
         ##
         ## Pick distribution(s) fitted with lowest BIC
+
+        ## *** get hyper to converge by choosing "sensible" initial values
+        ## Just thrashing here, attempting to guess parameter values:
+        ##
+        ## Must have k in 0..(m+n).
+        ##
+        ## Range of x is 0..k.  So k = max(postData[,"PostHits"]).
+        ##
+        ## p = m / (m + n)
+        ## E[x]   = k p
+        ## Var[x] = k p (1 - p) * (m+n-k)/(m+n-1)
+        ##
+        ## p <- 1/2                                # Arbitrary; implies m = n
+        ## k <- mean(postData[, "PostHits"]) / p   # Gets mean right
+        ##
+        ## fithyper <<- fitdist(data = postData[, "PostHits"], distr = "hyper", method = "mle", start = list("m" = k/2, "n" = k/2, "k" = 2 * k))
 
         fitlnorm <<- fitdist(data = postData[, colName] + 1, distr = "lnorm", method = "mle")
         cat(sprintf("\n- Lognormal:\n")); print(coef(fitlnorm))
@@ -293,7 +312,7 @@ postStats <- function(## Inputs
                                      scale = coef(fitweibull)[["scale"]]),
               lty = "solid", lwd = 2, col = "gray")    #
 
-        fitf     <<- fitdist(data = postData[, "PostHits"], distr = "f",     method = "mle",
+        fitf     <<- fitdist(data = postData[, colName], distr = "f",     method = "mle",
                              ## Again, a random stab in the dark at the number of degress of freedom
                              ##  both being the number of posts.  It converges to df1 being a bit more,
                              ##  and pushes df2 down to between 0 and 1.
@@ -305,7 +324,7 @@ postStats <- function(## Inputs
         lines(x = vals, y = df(vals, df1 = coef(fitf)[["df1"]], df2 = coef(fitf)[["df2"]]),
               lty = "solid", lwd = 2, col = "yellow")    #
 
-        fitchisq <<- fitdist(data = postData[, "PostHits"], distr = "chisq", method = "mle",
+        fitchisq <<- fitdist(data = postData[, colName], distr = "chisq", method = "mle",
                              ## Just took a guess @ number of degrees of freedom = number of posts.
                              ##   It ends up fitting to a lot less than that.  Just for robustness
                              ##   testing, tried HALF the number of posts; converged to same answer.
