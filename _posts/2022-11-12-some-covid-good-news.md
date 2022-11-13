@@ -11,7 +11,7 @@ We just _may_ be turning the corner.
 
 ## Excess Mortality  
 
-The indispensible [Eric Topol](https://en.wikipedia.org/wiki/Eric_Topol) draws our
+The indispensable [Eric Topol](https://en.wikipedia.org/wiki/Eric_Topol) draws our
 attention to the global excess mortality situation:  
 
 <a href="https://twitter.com/EricTopol/status/1591574800925097985"><img src="{{ site.baseurl }}/images/2022-11-12-some-covid-good-news-topol-1.jpg" width="600" height="650" alt="Eric Topol @ Twitter: Global excess mortality" title="Eric Topol @ Twitter: Global excess mortality"></a>
@@ -56,6 +56,6 @@ if only we can get better at not getting sick&hellip; and not getting long COVID
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Nope. BTW, not experimenting with screenshotting tweets and linking
-the image back to Twitter, instad of using Twitter's mechanism.  In case, you know&hellip; Twitter
+<a id="fn1">1</a>: Nope. BTW, now experimenting with screenshotting tweets and linking
+the image back to Twitter, instead of using Twitter's mechanism.  In case, you know&hellip; Twitter
 is eaten by, say, an Elongated Muskrat.  Or something.  
