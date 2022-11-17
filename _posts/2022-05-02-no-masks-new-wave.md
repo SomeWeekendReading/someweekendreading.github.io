@@ -91,17 +91,7 @@ public transportation and airplanes are useful.
 
 Also, consider the coming wave of viral mutations, as explained by Eric Topol of Scripps:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    As the mutations march on, with BA.2.12.1 25% more transmissible than BA.2, which was
-	30%+ more transmissible than Omicron BA.1, which was 50% more transmissible than
-	Delta, let&#39;s just pretend we&#39;re finished
-    <a href="https://t.co/mFxh9DbFg9">https://t.co/mFxh9DbFg9</a> by 
-    <a href="https://twitter.com/JoelAchenbach?ref_src=twsrc%5Etfw">@JoelAchenbach</a> 
-  </p>&mdash; Eric Topol (@EricTopol) 
-  <a href="https://twitter.com/EricTopol/status/1520906090048724992?ref_src=twsrc%5Etfw">May 1, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1520906090048724992"><img src="{{ site.baseurl }}/images/2022-05-02-no-masks-new-wave-twitter-1.jpg" width="550" height="735" alt="Topol @ Twitter: mutations march on, but we pretend to be done" title="Topol @ Twitter: mutations march on, but we pretend to be done"></a>
 
 Ok, let's run a few numbers:  
 - The Delta variant of SARS-CoV2 has $R_0 \sim 6 - 7$.  <sup id="fn5a">[[5]](#fn5)</sup>

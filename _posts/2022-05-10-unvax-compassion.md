@@ -38,12 +38,7 @@ problems instead of _public health_ problems.
 
 So it is with an article today, which first came to our attention via Eric Topol:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Bias against the willfully unvaccinated robbing compassion, an important essay by <a href="https://twitter.com/AmiraMohamedMD?ref_src=twsrc%5Etfw">@AmiraMohamedMD</a> <a href="https://twitter.com/AnnalsofIM?ref_src=twsrc%5Etfw">@AnnalsofIM</a> <a href="https://t.co/ljF9NQ3h43">https://t.co/ljF9NQ3h43</a> <a href="https://t.co/Ukw2abkSwb">pic.twitter.com/Ukw2abkSwb</a>
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1523811228597964800?ref_src=twsrc%5Etfw">May 9, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1523811228597964800"><img src="{{ site.baseurl }}/images/2022-05-10-unvax-compassion-twitter-1.jpg" width="550" height="597" alt="Topol @ Twitter: Annals of IM article on compassion for the unvaccinated" title="Topol @ Twitter: Annals of IM article on compassion for the unvaccinated"></a>
 
 <img src="{{ site.baseurl }}/images/2022-05-10-unvax-compassion-aim-1.jpg" width="400" height="183" alt="Mohammed @ AIM: Compassion for the willfully unvaccinated" title="Mohammed @ AIM: Compassion for the willfully unvaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 He points us to an article by [Amira Mohammed](https://twitter.com/AmiraMohamedMD) in

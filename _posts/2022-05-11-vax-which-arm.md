@@ -27,16 +27,7 @@ Somebody's done a study!
 
 Delthia Ricks first brought it to our attention:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    In the lab: Scientists are settling a question every boosted person has asked: Does it
-	matter in which arm you get your shot? Here are results from animal studies—booster
-	shots in the same limb as the 1st shot yielded stronger adaptive immunity in mice
-    <a href="https://t.co/yhY34HuA4x">https://t.co/yhY34HuA4x</a>
-    <a href="https://t.co/0GDWNETCl0">pic.twitter.com/0GDWNETCl0</a>
-  </p>&mdash; delthia ricks 🔬 (@DelthiaRicks) <a href="https://twitter.com/DelthiaRicks/status/1523800521009614849?ref_src=twsrc%5Etfw">May 9, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/DelthiaRicks/status/1523800521009614849"><img src="{{ site.baseurl }}/images/2022-05-11-vax-which-arm-twitter-1.jpg" width="550" height="616" alt="Ricks @ Twitter: Which arm gets the vax?" title="Ricks @ Twitter: Which arm gets the vax?"></a>
 
 <img src="{{ site.baseurl }}/images/2022-05-11-vax-which-arm-medexpress-1.jpg" width="400" height="194" alt="Yirka @ Medical Xpress: Same arm is better" title="Yirka @ Medical Xpress: Same arm is better" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-05-11-vax-which-arm-sci-immunol-1.jpg" width="400" height="211" alt="Kuraoka et al. @ Sci Immunol: Recall of B cell memory better with same arm" title="Kuraoka et al. @ Sci Immunol: Recall of B cell memory better with same arm" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -80,7 +71,7 @@ difference.
 The main thing that _does_ make a difference: get vaccinated, then get boosted.  
 
 All else is commentary, to quote 
-[R Hillel in another (wonderful) context](https://en.wikipedia.org/wiki/Hillel_the_Elder).  
+[R Hillel in another (wonderful) context](https://en.wikipedia.org/wiki/Hillel_the_Elder#The_Golden_Rule).  
 
 ---
 

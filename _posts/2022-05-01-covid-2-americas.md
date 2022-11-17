@@ -25,17 +25,7 @@ And so, here we are, as all the existentialists say.
 
 (Or: "And so it goes", in the [_malebolge_](https://en.wikipedia.org/wiki/Malebolge) of social media.)  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    <a href="https://twitter.com/hashtag/Covid?src=hash&amp;ref_src=twsrc%5Etfw">#Covid</a>
-	death rates have been higher in the South—the Old Confederacy—due to behavioral
-	differences, a new study has found. Shunning masks &amp; vaccines resulted in &gt;316k
-	deaths could have been avoided nationwide. 62% of the avoidable deaths were in the
-	South <a href="https://t.co/LLow2AnMbK">https://t.co/LLow2AnMbK</a> 
-    <a href="https://t.co/2v6tOo874O">pic.twitter.com/2v6tOo874O</a> 
-  </p>&mdash; delthia ricks 🔬 (@DelthiaRicks) <a href="https://twitter.com/DelthiaRicks/status/1520317953245392896?ref_src=twsrc%5Etfw">April 30, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/DelthiaRicks/status/1520317953245392896"><img src="{{ site.baseurl }}/images/2022-05-01-covid-2-americas-twitter-1.jpg" width="550" height="832" alt="Ricks @ Twitter: COVID-19 death rates higher in the old Confederacy states" title="Ricks @ Twitter: COVID-19 death rates higher in the old Confederacy states"></a>
 
 That certainly _sounds_ interesting, and indeed in line with some of our own work
 [on state-level voting patterns and vaccine uptake](https://www.someweekendreading.blog/politics-vs-mask-and-vaccine-use/#statistical-hypothesis-testing)

@@ -9,6 +9,7 @@ commentsClosed: true
 Remember last year when we noted the highest-vaccination ethnic group in the US?  They're
 still winning, and it shows in the statistics.  
 
+
 ## COVID-19 Vaccination and Native Americans
 
 Remember last July, when we noted with approval that the highest-vaccination ethnic group
@@ -19,14 +20,9 @@ friends?  <sup id="fn1a">[[1]](#fn1)</sup>
 (Yeah, I know you probably don't remember.  It's ok: we've all had other things to think
 about since then.)  
 
-Via Eric Topol comes word that they're still winners:  
+Via Eric Topol and the Associated Press comes word that they're still winners:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Arizona was the only state last year where vaccination rates in rural counties topped those in urban counties, according to the CDC. Public health experts say vaccine outreach and a community-first spirit among Native Americans is what made difference. <a href="https://t.co/hmPtphmbWt">https://t.co/hmPtphmbWt</a>
-  </p>&mdash; The Associated Press (@AP) <a href="https://twitter.com/AP/status/1522992600411623424?ref_src=twsrc%5Etfw">May 7, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/AP/status/1522992600411623424"><img src="{{ site.baseurl }}/images/2022-05-08-highest-vax-group-in-us-redux-twitter-1.jpg" width="550" height="334" alt="AP News @ Twitter: AZ has more rural than urban vaccinees, due to sensible Hopi &amp; Navajo." title="AP News @ Twitter: AZ has more rural than urban vaccinees, due to sensible Hopi &amp; Navajo."></a>
 
 <img src="{{ site.baseurl }}/images/2022-05-08-highest-vax-group-in-us-redux-ap-1.jpg" width="400" height="173" alt="Tang @ AP: Native Americans boost rural vaccinations in Arizona" title="Tang @ AP: Native Americans boost rural vaccinations in Arizona" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 He refers us to an article by Terry Tang at _AP News_. <sup id="fn2a">[[2]](#fn2)</sup>

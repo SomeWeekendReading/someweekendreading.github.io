@@ -15,17 +15,7 @@ multivalent Omicron boosters could be available in time for fall/winter 2022/202
 As is apparently &ndash; and sadly &ndash; the now-ubiquitous custom, I first stumbled
 across the news because [somebody rubbed my nose in a tweet]({{ site.baseurl }}/tags#SomebodyAskedMe):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Desired features of northern hemisphere fall/winter ‘22-23 booster, per Moderna:<br>
-    -improve durability of protective neutralizing antibodies vs omicron to 6+ mos<br>
-    -retain high, durable protection vs delta &amp; ancestral strains<br>
-    -broaden cross-protective immunity
-    <a href="https://t.co/BzW74mnME2">https://t.co/BzW74mnME2</a> 
-    <a href="https://t.co/kv9rNkkWch">pic.twitter.com/kv9rNkkWch</a>
-  </p>&mdash; Meg Tirrell (@megtirrell) <a href="https://twitter.com/megtirrell/status/1521827455652274177?ref_src=twsrc%5Etfw">May 4, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/megtirrell/status/1521827455652274177"><img src="{{ site.baseurl }}/images/2022-05-12-moderna-2022-q1-earnings-call.jpg" width="550" height="841" alt="Tirrell @ Twitter: Moderna on multivalent vaccine strains and goals" title="Tirrell @ Twitter: Moderna on multivalent vaccine strains and goals"></a>
 
 (Nothing against Meg Tirrell, who seems to be a fine reporter.  It's just Twitter that I
 want to avoid like the plague.  As if people actually avoided plagues anymore, a traditional

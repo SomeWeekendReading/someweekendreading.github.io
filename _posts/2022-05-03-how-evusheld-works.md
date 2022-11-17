@@ -38,18 +38,7 @@ Today we'll dive into that question, and get a (partial) answer.
 
 First, Eric Topol of Scripps tells us it seems to work pretty well:
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    🆕<a href="https://twitter.com/NEJM?ref_src=twsrc%5Etfw">@NEJM</a><br>
-
-    The large Evusheld (1-dose, intramuscular, combination monoclonal antibody) randomized,
-	placebo-controlled Covid prevention trial<br>77% reduction of symptomatic infection;
-	⬆️83% at 6 months; all 7 severe cases/deaths in placebo group; works vs BA.2
-    <a href="https://t.co/uwDl99TyYi">https://t.co/uwDl99TyYi</a> 
-    <a href="https://t.co/nLT3yKqIgH">pic.twitter.com/nLT3yKqIgH</a> 
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1516884411488227329?ref_src=twsrc%5Etfw">April 20, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1516884411488227329"><img src="{{ site.baseurl }}/images/2022-05-03-how-evusheld-works-twitter-1.jpg" width="550" height="706" alt="Topol @ Twitter: NEJM article on how well evusheled works" title="Topol @ Twitter: NEJM article on how well evusheled works"></a>
 
 By way of evidence, Topol points us at 2 articles in the _New England Journal of Medicine_
 <sup id="fn2a">[[2]](#fn2)</sup> and _Science Translational Medicine_ <sup id="fn3a">[[3]](#fn3)</sup>, 
