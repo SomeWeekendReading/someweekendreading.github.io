@@ -16,14 +16,9 @@ From the indispensable Eric Topol, of
 comes some timely if unwelcome news about variants and convergent evolution of the
 COVID-19 causing virus SARS-CoV2:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Here <a href="https://twitter.com/SolidEvidence?ref_src=twsrc%5Etfw">@SolidEvidence</a>
-    has mapped out their evolutionary path with a convergence of several mutations 
-    <a href="https://t.co/XEfxyTn0n0">pic.twitter.com/XEfxyTn0n0</a> 
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1573314055569559553?ref_src=twsrc%5Etfw">September 23, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1573314055569559553">
+  <img src="{{ site.baseurl }}/images/2022-09-23-topol-variants-twitter-1.jpg" width="550" height="1075" alt="Topol @ Twitter: SARS-COV2 evolutionary path with convergence of several mutations" title="Topol @ Twitter: SARS-COV2 evolutionary path with convergence of several mutations">
+</a>
 
 <a href="{{ site.baseurl }}/images/2022-09-23-topol-variants-cdc-1.jpg"><img src="{{ site.baseurl }}/images/2022-09-23-topol-variants-cdc-1-thumb.jpg" width="400" height="303" alt="US CDC COVID-19 Data Tracker: Variants as of 2022-Sep-23" title="US CDC COVID-19 Data Tracker: Variants as of 2022-Sep-23" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 He's quoting the nowcast data from the US Centers for Disease Control and Prevention's

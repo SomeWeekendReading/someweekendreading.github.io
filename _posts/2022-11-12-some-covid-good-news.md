@@ -14,7 +14,7 @@ We just _may_ be turning the corner.
 The indispensable [Eric Topol](https://en.wikipedia.org/wiki/Eric_Topol) draws our
 attention to the global excess mortality situation:  
 
-<a href="https://twitter.com/EricTopol/status/1591574800925097985"><img src="{{ site.baseurl }}/images/2022-11-12-some-covid-good-news-topol-1.jpg" width="600" height="650" alt="Eric Topol @ Twitter: Global excess mortality" title="Eric Topol @ Twitter: Global excess mortality"></a>
+<a href="https://twitter.com/EricTopol/status/1591574800925097985"><img src="{{ site.baseurl }}/images/2022-11-12-some-covid-good-news-topol-1.jpg" width="550" height="596" alt="Eric Topol @ Twitter: Global excess mortality" title="Eric Topol @ Twitter: Global excess mortality"></a>
 
 First, let's talk about
 [excess mortality](https://ourworldindata.org/excess-mortality-covid#what-is-excess-mortality).

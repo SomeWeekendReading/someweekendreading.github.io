@@ -15,15 +15,7 @@ bivalent COVID-19 vaccines for classic and Omicron/BA.4/5 variants.
 The redoubtable Helen Branswell and Matthew Herper of _STAT News_ are on the case.
 Branswell's tweet first alerted us:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    .<a href="https://twitter.com/US_FDA?ref_src=twsrc%5Etfw">@US_FDA</a> has issued EUAs
-	for the updated Pfizer and Moderna Covid boosters, the bivalent shots containing an
-	Omicron strain. <a href="https://twitter.com/matthewherper?ref_src=twsrc%5Etfw">@matthewherper</a>
-	reports. <a href="https://t.co/MgcyuqYTE0">https://t.co/MgcyuqYTE0</a> 
-  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1564976001217695747?ref_src=twsrc%5Etfw">August 31, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1564976001217695747"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-twitter-1.jpg" width="550" height="661" alt="Branswell @ Twitter: FDA EUA's bivalent vaccines" title="Branswell @ Twitter: FDA EUA's bivalent vaccines"></a>
 
 <img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-stat-1.jpg" width="400" height="188" alt="Herper @ STAT News: FDA EUA's bivalent classic/Omicron COVID-19 vaccine boosters" title="Herper @ STAT News: FDA EUA's bivalent classic/Omicron COVID-19 vaccine boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-fda-1.jpg" width="400" height="341" alt="FDA: EUA of bivalent classic/Omicron COVID-19 vaccine boosters" title="FDA: EUA of bivalent classic/Omicron COVID-19 vaccine boosters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -103,17 +95,10 @@ But then&hellip; vax us up!
 
 ## Addendum 2022-Aug-31, afternoon  
 
-Eric Topol points out a preprint that dropped on _medR&chi;iv_ today <sup id="fn5a">[[5]](#fn5)</sup>:  
+The indispensable Eric Topol points out a preprint that dropped on _medR&chi;iv_
+today <sup id="fn5a">[[5]](#fn5)</sup>:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Relevant to new BA.5 boosters for people with recent infection &lt; 2 months<br>
-    &quot;B-cell responses to booster vaccines are impeded by recent infection&quot;
-    <a href="https://t.co/DPVUaDpbOJ">https://t.co/DPVUaDpbOJ</a>
-    <a href="https://t.co/ukCiEzSIi2">pic.twitter.com/ukCiEzSIi2</a>
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1565007310551801856?ref_src=twsrc%5Etfw">August 31, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1565007310551801856"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-twitter-2.jpg" width="550" height="664" alt="Topol @ Twitter: Recent infection impairs vaccine response" title="Topol @ Twitter: Recent infection impairs vaccine response"></a>
 
 So basically recent (&lt; 2 months) COVID-19 infection impairs B-cell responses induced by
 the new BA.5 booster.  
@@ -134,19 +119,7 @@ Our trusty safari guide, Helen Branswell of _STAT News_, is live-tweeting the me
 the CDC Advisory Committee on Immunization Practices to set practice recommendations for
 the bivalent classic/Omicron vaccines:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    1. <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a> is
-	meeting today to decide on whether to recommend use of the the bivalent Covid
-	vaccines. It was first posted as a 2-day meeting but they now expect it to be a 1-day
-	meeting.<br>
-
-    I will be live tweeting.<br>
-
-    The meeting is being streamed here: <a href="https://t.co/rsFDXVwBUY">https://t.co/rsFDXVwBUY</a> 
-  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1565339759068991494?ref_src=twsrc%5Etfw">September 1, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1565339759068991494"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-twitter-3.jpg" width="550" height="527" alt="Branswell @ Twitter: CDC ACIP meeting" title="Branswell @ Twitter: CDC ACIP meeting"></a>
 
 I'm not gonna trawl through all the primary presentations myself, this time.
 (Post-COVID-19 brain fog, you know.  But if you want to make your own deep dive, then top
@@ -258,15 +231,7 @@ Some interesting highlights from her Twitter thread:
 And, that's it: approval 13-1 with 1 absence, and a reasonable set of practice
 guidelines for both vaccines:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    62. <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a>
-	votes 13 - 1 to recommend use of the Moderna bivalent Covid booster for people 18 and older. <br>
-
-    The only person who voted against was Pablo Sánchez. <a href="https://t.co/CgdHKOrrPN">pic.twitter.com/CgdHKOrrPN</a>
-  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1565456899151208451?ref_src=twsrc%5Etfw">September 1, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1565456899151208451"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-twitter-4.jpg" width="550" height="970" alt="Branswell @ Twitter: CDC ACIP votes on bivalent vaccines" title="Branswell @ Twitter: CDC ACIP votes on bivalent vaccines"></a>
 
 Honestly, I was _really_ surprised they worried so much about a human trial,
 in spite of the fact that _this very committee_ handles flu vaccine updates every year in
@@ -317,13 +282,7 @@ past our (current) COVID-19 recovery!
 All my American readers of a certain age were thinking this.  But Branswell decided to
 just go ahead &amp; say the quiet part out loud in tweet #63:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    63. <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a>
-    is done! <a href="https://t.co/CeuyndzRdG">pic.twitter.com/CeuyndzRdG</a>
-  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1565459059809083392?ref_src=twsrc%5Etfw">September 1, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1565459059809083392"><img src="{{ site.baseurl }}/images/2022-08-31-fda-bivalent-omicron-eua-twitter-5.jpg" width="550" height="1036" alt="Branswell @ Twitter: That's all, folks?!" title="Branswell @ Twitter: That's all, folks?!"></a>
 
 Sums it up.  
 

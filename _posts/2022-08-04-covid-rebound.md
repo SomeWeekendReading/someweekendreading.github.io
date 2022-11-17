@@ -262,14 +262,7 @@ say 7-10 days to tamp down on the rebounds:
   indicates, we have even more severe problems pounding the facts into MD skulls
   about how well paxlovid works:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Bob, it's not a "risk" - it's real life. I spoke to several people in Florida recently
-    (not calling out Florida specifically - just telling a story), who couldn’t find a single
-    doctor who would prescribe Paxlovid, because "it doesn’t work&hellip;" 
-  </p>&mdash; Jerome Adams (@JeromeAdamsMD) <a href="https://twitter.com/JeromeAdamsMD/status/1553526582245048321?ref_src=twsrc%5Etfw">July 30, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/JeromeAdamsMD/status/1553526582245048321"><img src="{{ site.baseurl }}/images/2022-08-04-covid-rebound-twitter-1.jpg" width="550" height="448" alt="Wachter &amp; Adams @ Twitter: Docs not prescribing paxlovid due to misinformation" title="Wachter &amp; Adams @ Twitter: Docs not prescribing paxlovid due to misinformation"></a>
 
 Maybe we need to make sure we've done at least some of the provider education needed to
 counteract disinformation and rumor, so providers will actually prescribe it, first.  

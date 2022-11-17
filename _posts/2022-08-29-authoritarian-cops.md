@@ -208,16 +208,9 @@ some news items from just this month:
   Here's one person re-Tweeting it, to preserve the evidence (__NB:__ disturbing video of
   3 cops holding down a handcuffed prisoner, beating his head against concrete):  
 
-  <blockquote class="twitter-tweet">
-    <p lang="en" dir="ltr">
-      This just went down in Mulberry, AR, unfortunately, due to DMCA rules i had to mute
-      the video (metallic was playing in the background) the people filming screamed at the
-      cops towards the end they pretty much told them to shut up. will link the OP in the
-      next tweet.
-      <a href="https://t.co/cF3797sV0e">pic.twitter.com/cF3797sV0e</a>
-    </p>&mdash; 🥀_Imposter_🕸️ (@Imposter_Edits) <a href="https://twitter.com/Imposter_Edits/status/1561473046833233920?ref_src=twsrc%5Etfw">August 21, 2022</a>
-  </blockquote>
- <script async src="https://platform.twitter.com/widgets.js"></script>
+  <a href="https://twitter.com/Imposter_Edits/status/1561473046833233920">
+	<img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-twitter-1.jpg" width="550" height="860" alt="Twitter: cops beating handcuffed prisoner" title="Twitter: cops beating handcuffed prisoner">
+  </a>
 
   Note at the end of the video how quickly the "subject stopped resisting" once the cops
   figured out they were on video.  
@@ -347,13 +340,7 @@ When many people say things like that, you can dismiss it as just some political
 But when people whose _profession_ is to determine threats against American democracy say
 things like that&hellip; then it may be time to start paying attention:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    I agree. And I was the CIA Director <a href="https://t.co/LRAHDDyy4n">https://t.co/LRAHDDyy4n</a>
-  </p>&mdash; Gen Michael Hayden (@GenMhayden) 
-  <a href="https://twitter.com/GenMhayden/status/1560027626626072577?ref_src=twsrc%5Etfw">August 17, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/GenMhayden/status/1560027626626072577"><img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-twitter-2.jpg" width="550" height="231" alt="Gen Michael Hayden @ Twitter: Fmr CIA director agrees authoritarian cops are threat to US" title="Gen Michael Hayden @ Twitter: Fmr CIA director agrees authoritarian cops are threat to US"></a>
 
 Now, look: I have little sympathy for the US Central Intelligence Agency or for those who
 rise high in its ranks.  They tend to hit the Machiavelli and Nietzsche way too hard,
@@ -365,15 +352,7 @@ political office, not for any conceivable reason.
 
 An elegant summary, found on Twitter via RWK:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The <a href="https://twitter.com/GOP?ref_src=twsrc%5Etfw">@gop</a> are playing g
-    games. Everyone vote. Action is American. Engagement is democracy.
-    <a href="https://t.co/M0amvBwfKf">https://t.co/M0amvBwfKf</a>
-    <a href="https://t.co/WNibvGnUry">pic.twitter.com/WNibvGnUry</a>
-  </p>&mdash; MacGregorGarlic (@MacGregorGarlic) <a href="https://twitter.com/MacGregorGarlic/status/1561738610344435714?ref_src=twsrc%5Etfw">August 22, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/MacGregorGarlic/status/1561738610344435714"><img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-twitter-3.jpg" width="550" height="934" alt="Twitter: High voter turnout kills the GOP" title="Twitter: High voter turnout kills the GOP"></a>
 
 
 ## Addendum 2022-Aug-29, after getting some sleep  
@@ -405,14 +384,7 @@ He later pointed out that when discussing _actual_ Nazis and fascists, Godwin's 
 not apply. Here's what he had to say about Biden's characterization of the Trump wing of
 the Republican party as "semi-fascist":  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    People have asked me my opinion of President Biden&#39;s criticism of
-	&quot;semi-fascism.&quot; Well, I can&#39;t overstate my disapproval of the
-	inappropriate use of &quot;semi.&quot;
-  </p>&mdash; Mike Godwin (@sfmnemonic) <a href="https://twitter.com/sfmnemonic/status/1563797677082415105?ref_src=twsrc%5Etfw">August 28, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/sfmnemonic/status/1563797677082415105"><img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-twitter-4.jpg" width="550" height="279" alt="Godwin @ Twitter: Disapprove of 'semi' in 'semi-fascist' to describe Trump" title="Godwin @ Twitter: Disapprove of 'semi' in 'semi-fascist' to describe Trump"></a>
 
 Ok, good snark.  But what do _serious_ scholars of fascism think?  
 

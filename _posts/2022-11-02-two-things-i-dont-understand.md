@@ -14,19 +14,18 @@ Sometimes there's nothing to do but confess one's own ignorance.
 In the last couple days, while hiding in bed avoiding my fear of a fascist turn in the
 upcoming mid-terms, a couple things have _really_ confused me:  
 
+
 1. Have you ever noticed that when you look up
    ["ineffable"](https://en.wikipedia.org/wiki/Ineffability) in the dictionary, they
    explain it by just _using more words?_  That seems wrong, somehow.  Wittgenstein had right:
    [_Wovon man nicht sprechen kann, darüber muss man schweigen,_](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus#Proposition_7)
-   indeed!
+   indeed!  
 2. Indeed, I will never understand economics:  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Stg long as I live I will never understand economics
-    <a href="https://t.co/7OHub5hMqN">pic.twitter.com/7OHub5hMqN</a>
-  </p>&mdash; That Sheila Strewth 🏳️‍⚧️ (@StrewthQueen) <a href="https://twitter.com/StrewthQueen/status/1587686455580557312?ref_src=twsrc%5Etfw">November 2, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+
+<img src="{{ site.baseurl }}/images/2022-11-02-two-things-i-dont-understand-twitter-1.jpg" width="550" height="319" alt="Lions break free; interest rate rises" title="Lions break free; interest rate rises">
+
+(Quoted from Twitter, now mysteriously removed from all sources that Google can find.
+Looks like some Australian mogul got mad about being made to look like a fool?)  
 
 ---
 
