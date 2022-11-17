@@ -14,21 +14,9 @@ What can we learn from them (about this, and so many other things)?
 
 Via Eric Topol:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    How did Japan manage the pandemic far better than the US and many other peer
-	countries?<a href="https://t.co/OUooDGH5yp">https://t.co/OUooDGH5yp</a>
-    <a href="https://twitter.com/Nature?ref_src=twsrc%5Etfw">@Nature</a> by Hitoshi
-	Oshitani<br>
-
-    the 3Cs (closed environments, crowds, close-contact); lockdowns are
-	prohibited, clear messaging<br>
-
-    &quot;But we are nowhere near back to normal&quot; 
-    <a href="https://t.co/DML3ddtiyx">pic.twitter.com/DML3ddtiyx</a> 
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1528912791477792768?ref_src=twsrc%5Etfw">May 24, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1528912791477792768">
+  <img src="{{ site.baseurl }}/images/2022-05-25-japan-covid-success-twitter-1.jpg" width="550" height="667" alt="Topol @ Twitter: how Japan managed pandemic success" title="Topol @ Twitter: how Japan managed pandemic success">
+</a>
 
 <img src="{{ site.baseurl }}/images/2022-05-25-japan-covid-success-nature-1.jpg" width="400" height="245" alt="Oshitani @ Nature: COVID-19 lessons from Japan" title="Oshitani @ Nature: COVID-19 lessons from Japan" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 He alterted us to a quick article in _Nature_ by Japanese virologist Hitoshi Oshitani of

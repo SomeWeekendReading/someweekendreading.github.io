@@ -157,18 +157,7 @@ Hmpf.  Maybe I'm too suspicious.
 No liveblog at _STATNews_ today, but Helen Branswell is live-tweeting, if you want
 to follow along for another perspective:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    1. <a href="https://twitter.com/hashtag/VRBPAC?src=hash&amp;ref_src=twsrc%5Etfw">#VRBPAC</a>
-	is meeting today to review Novavax&#39;s submission for an EUA for its Covid vaccine. Often 
-    <a href="https://twitter.com/matthewherper?ref_src=twsrc%5Etfw">@matthewherper</a> &amp;
-	I live blog VRBPAC meetings but not today. I&#39;ll try to live tweet.<br>
-
-    Gonna be an interesting day. <br>If you want to watch the meeting: 
-    <a href="https://t.co/DPR3XqbOrH">https://t.co/DPR3XqbOrH</a> 
-  </p>&mdash; Helen Branswell 🇺🇦 (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1534153958041739266?ref_src=twsrc%5Etfw">June 7, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1534153958041739266"><img src="{{ site.baseurl }}/images/2022-06-07-fda-novavax-twitter-1.jpg" width="550" height="747" alt="Branswell @ Twitter: FDA VRBPAC meeting on Novavax" title="Branswell @ Twitter: FDA VRBPAC meeting on Novavax"></a>
 
 
 ## Setting the stage  

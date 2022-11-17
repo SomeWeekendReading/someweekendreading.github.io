@@ -25,17 +25,7 @@ So it's always interesting to know if actual patients see the benefits we though
 A study doing exactly that was first brought to our attention by the indispensable Eric
 Topol:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    A new real-world effectiveness report of Paxlovid during the Omicron wave: in people
-	age 65+ an 81% reduction in death and 67% reduction in hospitalizations
-    <a href="https://t.co/ZNohKWmTK6">https://t.co/ZNohKWmTK6</a>
-    <a href="https://twitter.com/ArbelRonen?ref_src=twsrc%5Etfw">@ArbelRonen</a> 
-    <a href="https://twitter.com/ClalitHealth?ref_src=twsrc%5Etfw">@ClalitHealth</a> and
-	colleagues <a href="https://t.co/MbakbgkbAJ">pic.twitter.com/MbakbgkbAJ</a> 
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1532089787493937152?ref_src=twsrc%5Etfw">June 1, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1532089787493937152"><img src="{{ site.baseurl }}/images/2022-06-02-paxlovid-in-the-wild-twitter-1.jpg" width="550" height="748" alt="Topol @ Twitter: Israeli pre-print on efficacy of paxlovid in the wild" title="Topol @ Twitter: Israeli pre-print on efficacy of paxlovid in the wild"></a>
 
 <img src="{{ site.baseurl }}/images/2022-06-02-paxlovid-in-the-wild-israeli-1.jpg" width="400" height="361" alt="Arbel, et al.: Paxlovid results in Israel" title="Arbel, et al.: Paxlovid results in Israel" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It's from an Israeli group associated with Clalit Health Services and Ben-Gurion

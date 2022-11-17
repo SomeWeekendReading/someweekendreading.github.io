@@ -26,15 +26,7 @@ are good for COVID-19, in their fascist fables of medicine.  Their latest outrag
 out by Missouri activist Lindsey Simmons, is a _gag order explicitly forbidding
 pharmacists from discussing specifically ivermectin and hydroxychloroquine:_  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Specifically, "a pharmacist shall not contact the prescribing physician or the patient
-	to dispute the efficacy of ivermectin or hydroxychloroquine sulfate tablets for human
-	use..." unless the doctor or patient specifically asks. 
-    <a href="https://t.co/Ez7xPtFJGU">pic.twitter.com/Ez7xPtFJGU</a> 
-  </p>&mdash; Lindsey Simmons (@LynzforCongress) <a href="https://twitter.com/LynzforCongress/status/1524751321395511296?ref_src=twsrc%5Etfw">May 12, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/LynzforCongress/status/1524751321395511296"><img src="{{ site.baseurl }}/images/2022-05-20-ivermectin-gag-order-twitter-1.jpg" width="550" height="923" alt="Simmons @ Twitter: Missouri ivermectin gag order on pharmacists" title="Simmons @ Twitter: Missouri ivermectin gag order on pharmacists"></a>
 
 <a href="{{ site.baseurl }}/images/2022-05-20-ivermectin-gag-order-hb2149-1.jpg"><img src="{{ site.baseurl }}/images/2022-05-20-ivermectin-gag-order-hb2149-1-thumb.jpg" width="400" height="300" alt="MO HB2149: Gag order on pharmacists in re ivermectin and hydroxychloroquine" title="MO HB2149: Gag order on pharmacists in re ivermectin and hydroxychloroquine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 She's referring to bill HB 2149 <sup id="fn2a">[[2]](#fn2)</sup> whose text, upon checking,

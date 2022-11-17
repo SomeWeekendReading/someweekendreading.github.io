@@ -16,16 +16,9 @@ performed, in terms of live saved for the complaints they've caused?
 
 From Delthia Ricks comes a heads-up to a study on NPI's vs COVID-19 world-wide:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Pandemic assessment: Closing schools &amp; workplaces were among the most effective
-    strategies to mitigate Covid deaths in the 1st wave&#39;s early days. That&#39;s the
-    conclusion of a new study of 130 countries. Lives were saved despite loud complaints in
-    the US <a href="https://t.co/qGkoSwX1CE">https://t.co/qGkoSwX1CE</a> 
-    <a href="https://t.co/ivovrKrarL">pic.twitter.com/ivovrKrarL</a> 
-  </p>&mdash; delthia ricks 🔬 (@DelthiaRicks) <a href="https://twitter.com/DelthiaRicks/status/1538428174828175366?ref_src=twsrc%5Etfw">June 19, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/DelthiaRicks/status/1538428174828175366">
+  <img src="{{ site.baseurl }}/images/2022-06-21-npi-efficacy-twitter-1.jpg" width="550" height="623" alt="Ricks @ Twitter: Pandemic assessment of efficacy of school closing" title="Ricks @ Twitter: Pandemic assessment of efficacy of school closing">
+</a>
 
 <img src="{{ site.baseurl }}/images/2022-06-21-npi-efficiency-bmcph-1.jpg" width="400" height="195" alt="Stokes, et al. @ BMC Pub Health: Efficacy of NPIs on COVI-19 in 130 countries" title="Stokes, et al. @ BMC Pub Health: Efficacy of NPIs on COVI-19 in 130 countries" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 She's referring to a worldwide study of NPI effectiveness during the pandemic by
