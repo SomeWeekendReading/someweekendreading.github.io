@@ -88,16 +88,7 @@ Just to make it perfect, when he was quoted he wasn't mad about being portrayed 
 dimwit questions.  No, he was concerned that people would confuse his use of BLM for the
 Bureau of Land Management and think he was talking to Black Lives Matter:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Exceedingly devious how you hid the context with an ellipses in your tweet. The
-    hearing was about the BUREAU OF LAND MANAGEMENT &amp; climate change.<br><br>
-    BLM stands for the BUREAU OF LAND MANAGEMENT. 
-    <a href="https://twitter.com/hashtag/FakeNews?src=hash&amp;ref_src=twsrc%5Etfw">#FakeNews</a>
-    <a href="https://t.co/WyIio5BQJM">https://t.co/WyIio5BQJM</a> 
-  </p>&mdash; Louie Gohmert (@replouiegohmert) <a href="https://twitter.com/replouiegohmert/status/1402658794182676483?ref_src=twsrc%5Etfw">June 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/replouiegohmert/status/1402658794182676483"><img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-twitter-1.jpg" width="550" height="863" alt="Gohmert @ Twitter: Worried you'll confuse the Bureau of Land Management with Black Lives Matter" title="Gohmert @ Twitter: Worried you'll confuse the Bureau of Land Management with Black Lives Matter"></a>
 
 Yeah, that's the main worry when people quote you about trying to use the Forest Service
 to move the moon: being confused with anti-racists.  (Me, I _want_ people to think I'm
@@ -136,14 +127,7 @@ plot to confiscate your guns and your Bibles <sup id="fn3a">[[3]](#fn3)</sup>:
 > for. They could then go door-to-door to take your guns. They could then go door-to-door
 > to take your Bibles."  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Madison Cawthorn says today that Biden’s plan to send people door to door to offer
-	vaccines is really a plot to confiscate people’s bibles and guns. 
-    <a href="https://t.co/h6CPdJwv9t">pic.twitter.com/h6CPdJwv9t</a> 
-  </p>&mdash; Ron Filipkowski (@RonFilipkowski) <a href="https://twitter.com/RonFilipkowski/status/1413595082238873607?ref_src=twsrc%5Etfw">July 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/RonFilipkowski/status/1413595082238873607"><img src="{{ site.baseurl }}/images/2021-07-12-really-republicans-twitter-2.jpg" width="550" height="567" alt="Filipkowski @ Twitter: Rep Cawthorn says vaccine advocates will confiscate Bibles and guns" title="Filipkowski @ Twitter: Rep Cawthorn says vaccine advocates will confiscate Bibles and guns"></a>
 
 Yeah.  Anything _but_ saving people's lives with vaccinations!  
 

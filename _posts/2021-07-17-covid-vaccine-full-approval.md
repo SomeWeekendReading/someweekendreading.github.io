@@ -22,42 +22,22 @@ intellectual anti-intellectual pose.  But Republicans, generally, adore him.  So
 important that even he is now saying vaccine resistance seems to be deliberate,
 self-inflicted sabotage:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    It was always a pandemic of the unvaccinated. <br><br>
-    What it is becoming now, at least in the United States, is a *preventable* pandemic of the *willfully* unvaccinated. <a href="https://t.co/sSzS3MurkD">https://t.co/sSzS3MurkD</a>
-  </p>&mdash; David Frum (@davidfrum) <a href="https://twitter.com/davidfrum/status/1416057187282079744?ref_src=twsrc%5Etfw">July 16, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/davidfrum/status/1416057187282079744"><img src="{{ site.baseurl }}/images/2021-07-17-covid-vaccine-full-approval-twitter-1.jpg" width="550" height="742" alt="Frum @ Twitter: Pandemic of the unvaccinated&hellip; willfully unvaccinated" title="Frum @ Twitter: Pandemic of the unvaccinated&hellip; willfully unvaccinated"></a>
 
 _Preventable.  Willful._  Remember that, and do better.  
 
 Others are just plain crazy.  They myth of the tracking/birth control chip just won't die:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    &quot;A fifth of Americans believe that it is &#39;very true&#39; or &#39;probably true&#39; that <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://twitter.com/hashtag/vaccines?src=hash&amp;ref_src=twsrc%5Etfw">#vaccines</a> contain microchips as part of a covert government-led population control plan.&quot;<br><br>
-    Did somebody put LSD in the U.S. water supply? <a href="https://t.co/KhMa53KJnz">https://t.co/KhMa53KJnz</a>
-  </p>&mdash; Laurie Garrett (@Laurie_Garrett) <a href="https://twitter.com/Laurie_Garrett/status/1416111930272583680?ref_src=twsrc%5Etfw">July 16, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Laurie_Garrett/status/1416111930272583680"><img src="{{ site.baseurl }}/images/2021-07-17-covid-vaccine-full-approval-twitter-2.jpg" width="550" height="495" alt="Garrett @ Twitter: 1/5 of Americans think it's 'probably true' that vaccines contain chips for tracking/birth control" title="Garrett @ Twitter: 1/5 of Americans think it's 'probably true' that vaccines contain chips for tracking/birth control"></a>
 
 Really?  A tracking chip for _birth control?_ I know Republicans seem to hate birth
-control and seemingly avoid learning anything about it, but we already know how to do birth control.
+control and avoid learning anything about it, but we already know how to do birth control.
 And _this isn't how it works._  Also, as we've 
 [previously written on this crummy little blog]({{ site.baseurl }}/variants-vs-vaccines#what-about-vaccine-resistance), 
 [actual tracking chips for pets](https://www.someweekendreading.blog/variants-vs-vaccines/) don't
 work that way either:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    For a bit more context: microchip needle on the left, vaccine needle in the right. 
-    I promise you'd notice if the government were secretly microchipping you. 
-    <a href="https://t.co/uwxRJnB8oA">https://t.co/uwxRJnB8oA</a> <a href="https://t.co/oYeoMip3to">pic.twitter.com/oYeoMip3to</a>
-  </p>
-  &mdash; Dr Pip 👩🏻‍⚕️🐈 (@vetpip) <a href="https://twitter.com/vetpip/status/1328740921832255488?ref_src=twsrc%5Etfw">November 17, 2020</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/vetpip/status/1328740921832255488"><img src="{{ site.baseurl }}/images/2021-07-17-covid-vaccine-full-approval-twitter-3.jpg" width="550" height="***" alt="Dr Pip @ Twitter: What ACTUAL tracking chips look like" title="Dr Pip @ Twitter: What ACTUAL tracking chips look like"></a>
 
 
 ## The "Experimental" Excuse  

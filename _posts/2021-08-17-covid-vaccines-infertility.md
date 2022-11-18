@@ -224,19 +224,9 @@ have been deleted as of 2021-09-08 9:00pm;
 [Snopes](https://www.snopes.com/fact-check/ivermectin-sterility-in-men/) says it isn't
 credible):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    I want this to be true. <a href="https://t.co/iQkCXay0Pp">https://t.co/iQkCXay0Pp</a>
-  </p>&mdash; Jeff Fecke (@jkfecke) <a href="https://twitter.com/jkfecke/status/1435064881779298306?ref_src=twsrc%5Etfw">September 7, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/jkfecke/status/1435064881779298306"><img src="{{ site.baseurl }}/images/2021-08-17-covid-vaccines-infertility-twitter-1.jpg" width="550" height="266" alt="Fecke @ Twitter: Ivermectin and male infertility" title="Fecke @ Twitter: Ivermectin and male infertility"></a>
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Ah, crap. Snopes has determined this was a bust. <a href="https://t.co/2zy2TskUMj">https://t.co/2zy2TskUMj</a>
-  </p>&mdash; T.J. Eckman (@jeek) <a href="https://twitter.com/jeek/status/1435714323024855046?ref_src=twsrc%5Etfw">September 8, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/jeek/status/1435714323024855046"><img src="{{ site.baseurl }}/images/2021-08-17-covid-vaccines-infertility-twitter-2.jpg" width="550" height="576" alt="Eckman @ Twitter: Snopes debunks ivermectin &amp; male infertility" title="Eckman @ Twitter: Snopes debunks ivermectin &amp; male infertility"></a>
 
 Ah, well.  It's _so_ hard to resist a slice of
 [schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).  

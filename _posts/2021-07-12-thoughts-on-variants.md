@@ -37,49 +37,17 @@ Just so you can see how unequal it all is, look at the map.  Ashish Jha is the h
 Brown University School of Public Health.  Note well his comparison of the different paths
 to "success" taken by the very few states that are in good shape:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    As of today,<br><br>
-    4 &quot;green&quot; states on <a href="https://twitter.com/CovidActNow?ref_src=twsrc%5Etfw">@CovidActNow</a> map<br><br>
-    3 New England states &amp; South Dakota!<br><br>
-    Why green? Because they have very low numbers of infections<br><br>
-    How? Largely from population immunity<br><br>
-    Lets compare VT and SD -- two states that took different paths to get here<br><br>
-    Thread <a href="https://t.co/63k0OHyeiX">pic.twitter.com/63k0OHyeiX</a>
-  </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1413181040680701963?ref_src=twsrc%5Etfw">July 8, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1413181040680701963"><img src="{{ site.baseurl }}/images/2021-07-12-thoughts-on-variants-twitter-1.jpg" width="550" height="961" alt="Jha @ Twitter: New England &amp; South Dakota I" title="Jha @ Twitter: New England &amp; South Dakota I"></a>
 
 Now here at Chez Weekend, we're safely ensconced in highly vaccinated New England.  But
 what about South Dakota?  What did they do?  
 
-<blockquote class="twitter-tweet" data-conversation="none">
-  <p lang="en" dir="ltr">
-    Vermont and South Dakota are actually very similar<br><br>
-    Both have slightly older, white, rural populations<br><br>
-    Have comparable median incomes<br><br>
-    Both have Republican governors<br><br>
-    And these days, they look super similar on infections<br><br>
-    Here they are over past 2 months<br><br>2/5 <a href="https://t.co/cMGunE4I3a">pic.twitter.com/cMGunE4I3a</a>
-  </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1413181043700555784?ref_src=twsrc%5Etfw">July 8, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1413181043700555784"><img src="{{ site.baseurl }}/images/2021-07-12-thoughts-on-variants-twitter-2.jpg" width="550" height="854" alt="Jha @ Twitter: New England &amp; South Dakota II: looking a bit alike?" title="Jha @ Twitter: New England &amp; South Dakota II: looking a bit alike?"></a>
 
 Ok, so South Dakota looks pretty similar to Vermont and Massachusetts.  What's different?
 How they _got_ there:  
 
-<blockquote class="twitter-tweet" data-conversation="none">
-  <p lang="en" dir="ltr">
-    But here&#39;s where they diverge<br><br>
-    Vermont has vaccinated (1+ shot) nearly 75% of its population <br><br>
-    SD? 50%<br><br>
-    Vermont has a high degree of immunity through vaccinations<br><br>
-    So how does SD have high population immunity?<br><br>
-    Prior infections<br><br>
-    Here&#39;s how pandemic has played out in both states <a href="https://t.co/wYQpEeJ0kk">pic.twitter.com/wYQpEeJ0kk</a>
-  </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1413181047366426627?ref_src=twsrc%5Etfw">July 8, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1413181047366426627"><img src="{{ site.baseurl }}/images/2021-07-12-thoughts-on-variants-twitter-3.jpg" width="550" height="925" alt="Jha @ Twitter: New England &amp; South Dakota III: diverge on vax rate and infections" title="Jha @ Twitter: New England &amp; South Dakota III: diverge on vax rate and infections"></a>
 
 South Dakota just gave up, and let people get sick and die.  The survivors are more
 immune.  And you can see it in the death rates of South Dakota vs Vermont, showing the
@@ -97,16 +65,7 @@ variants, including the scary Delta variant (B.1.617.2).  [Eric Topol, the head 
 Research Translational Institute](https://drerictopol.com/meet-eric-topol/), summarized it
 for us in a nice little table:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    <a href="https://twitter.com/hashtag/VaccinesWork?src=hash&amp;ref_src=twsrc%5Etfw">#VaccinesWork</a> vs Delta<br>
-    A summary table I put together for vaccine protection from the Delta variant from publications and preprints.<br>
-    5 vaccines—neutralizing antibodies well above threshold (lab studies) <br>
-    3 vaccines—clinical effectiveness<br>
-    will update as more data becomes available <a href="https://t.co/A56ekP1Rsi">pic.twitter.com/A56ekP1Rsi</a>
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1413968623815647235?ref_src=twsrc%5Etfw">July 10, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1413968623815647235"><img src="{{ site.baseurl }}/images/2021-07-12-thoughts-on-variants-twitter-4.jpg" width="550" height="642" alt="Topol @ Twitter: Clinical efficacy of COVID-19 vaccines" title="Topol @ Twitter: Clinical efficacy of COVID-19 vaccines"></a>
 
 Basically all of them seem to work using _in vitro_ studies in the lab.  For the J&amp;J and
 Indian vaccines we don't yet have clinical data on Delta.  But for Pfizer/BioNTech,
