@@ -26,18 +26,7 @@ Today some examples of the latter slithered into my awareness.
 Ashish Jha, Dean of the Brown University School of Public Health, has an interesting
 question for us today:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    So frustrating<br><br>
-
-    Why do these &quot;mix-ups&quot; keep happening to Ivermectin studies?<br><br>
-
-    I&#39;m sure it&#39;s just a coincidence that so many of these studies
-	highly touted on Twitter and Facebook end up getting retracted 
-    <a href="https://t.co/0ulyE7pTA0">https://t.co/0ulyE7pTA0</a> 
-  </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1456988402000310277?ref_src=twsrc%5Etfw">November 6, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1456988402000310277"><img src="{{ site.baseurl }}/images/2021-11-08-lessons-covid-twitter-1.jpg" width="550" height="552" alt="Jha @ Twitter: ivermecting always screwed up" title="Jha @ Twitter: ivermecting always screwed up"></a>
 
 Yes, that is an _excellent_ question.  Ivermectin, and before it hydroxychloroquine, were
 the "miracle medications" that the Trumpsters swore up and down were a safe, easy, and
@@ -78,17 +67,7 @@ story, but it's also possibly just a _story._)
 
 From Greece comes word of an interesting moral quandry:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    In Greece, antivaxxers have been paying doctors 400 euros to give them shots of
-	bacteriostatic water instead of th 
-    <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>
-	vaccine.<br><br>
-
-    Except the doctors have been pocketing the money and giving them the
-	real shot anyway: <a href="https://t.co/cAX9fbmDW6">https://t.co/cAX9fbmDW6</a> 
-  </p>&mdash; Kellen Squire (@SquireForYou) <a href="https://twitter.com/SquireForYou/status/1457121009362952198?ref_src=twsrc%5Etfw">November 6, 2021</a>
-</blockquote> <script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/SquireForYou/status/1457121009362952198"><img src="{{ site.baseurl }}/images/2021-11-08-lessons-covid-twitter-2.jpg" width="550" height="484" alt="Squire @ Twitter: Greeks bribed for fake vax, got real thing" title="Squire @ Twitter: Greeks bribed for fake vax, got real thing"></a>
 
 <img src="{{ site.baseurl }}/images/2021-11-08-lessons-covid-greece.jpg" width="400" height="340" alt="Greece: Drs take 400 euro bribes to vaccinate with water, give real vaccine instead" title="Greece: Drs take 400 euro bribes to vaccinate with water, give real vaccine instead" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Apparently vaccine defiance has reached a fever pitch in Greece: instead of taking a free,
@@ -131,19 +110,9 @@ Instead of responding constructively to COVID-19, some of us engage in mask resi
 defiance, corrupt studies &amp; conspiracy thinking around ivermectin, and a general
 pretense that this isn't a big deal (at least not for right-wing manly men):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    For people who tell me the average mortality rate for COVID is less than 2%, so what’s
-	the big deal, I have two questions:<br><br>
+<a href="https://twitter.com/prchovanec/status/1457371471576277005"><img src="{{ site.baseurl }}/images/2021-11-08-lessons-covid-twitter-3.jpg" width="550" height="438" alt="Chovanec @ Twitter: 2% fatality?  Do the math!" title="Chovanec @ Twitter: 2% fatality?  Do the math!"></a>
 
-    1) What is 2% of 330 million Americans? (6.6 million)<br><br>
-
-    2) What percentage of Americans died in World War II? (0.32%) In the Civil War? (2.5%) 
-  </p>&mdash; Patrick Chovanec (@prchovanec) <a href="https://twitter.com/prchovanec/status/1457371471576277005?ref_src=twsrc%5Etfw">November 7, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
-
-I remind you that the American Civil War was _also_ fought because the conservative and
+I remind you that the American Civil War was _also_ fought because the conservative, racist, and
 more or less fascist American South wanted a culture war to resist moral change (in that
 case, so they could remain _slavers_).  
 
@@ -190,14 +159,7 @@ right up.
 
 Result:  
 
-<blockquote class="twitter-tweet"> 
-  <p lang="en" dir="ltr"> 
-    Japan has zero daily COVID-19 deaths for first time in 15 months - media 
-    <a href="https://t.co/APzo79nQbq">https://t.co/APzo79nQbq</a> 
-    <a href="https://t.co/MbNGhuh5pq">pic.twitter.com/MbNGhuh5pq</a> 
-  </p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1457597562286968833?ref_src=twsrc%5Etfw">November 8, 2021</a> 
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Reuters/status/1457597562286968833"><img src="{{ site.baseurl }}/images/2021-11-08-covid-lessons-twitter-4.jpg" width="550" height="543" alt="Reuters @ Twitter: Japan has ZERO COVID-19 daily deaths, first time in 15 months" title="Reuters @ Twitter: Japan has ZERO COVID-19 daily deaths, first time in 15 months"></a>
 
 Wouldn't you rather live in a society like that?  Wouldn't you rather _behave_ in a way that
 we collectively _make_ our society be like that?  

@@ -128,18 +128,7 @@ are misdesigned, misinterpreted, or just outright fraudulent.  A couple weeks ag
 the skeptical frustration of Ashish Jha, head of the Brown University School of Public
 Health:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    So frustrating<br><br>
-
-    Why do these &quot;mix-ups&quot; keep happening to Ivermectin studies?<br><br>
-
-    I&#39;m sure it&#39;s just a coincidence that so many of these studies
-	highly touted on Twitter and Facebook end up getting retracted 
-    <a href="https://t.co/0ulyE7pTA0">https://t.co/0ulyE7pTA0</a> 
-  </p>&mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1456988402000310277?ref_src=twsrc%5Etfw">November 6, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1456988402000310277"><img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-twitter-1.jpg" width="550" height="557" alt="Jha @ Twitter: 'Mix-ups' keep happening with ivermectin studies!" title="Jha @ Twitter: 'Mix-ups' keep happening with ivermectin studies!"></a>
 
 That was just one study.  At [ivmmeta.com](https://ivmmeta.com/), they've done a
 meta-analysis (combining mulitple other studies to get better statistical significance) of

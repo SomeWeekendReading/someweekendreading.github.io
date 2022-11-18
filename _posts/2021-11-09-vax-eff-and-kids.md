@@ -58,13 +58,7 @@ pandemic?
 Yes, according to a paper I saw because of tweets from the estimable Eric Topol and
 Bernard Lee:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    "Conclusion: Children aged &lt; 12y may be critical hidden spreaders, which indicates
-	an urgent need of vaccination for this particular population."  
-  </p>&mdash; Bernard Lee (@bernardclee) <a href="https://twitter.com/bernardclee/status/1457815116347437058?ref_src=twsrc%5Etfw">November 8, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/bernardclee/status/1457815116347437058"><img src="{{ site.baseurl }}/images/2021-11-09-vax-eff-and-kids-twitter-1.jpg" width="550" height="671" alt="Lee &amp; Topol @ Twitter: Kids are hidden spreaders" title="Lee &amp; Topol @ Twitter: Kids are hidden spreaders"></a>
 
 Hmm.  That looks like a contagion graph of a COVID-19 outbreak, 246 cases, driven
 originally from 2 kids who spread it to about 75 other kids and then to adults.  That
