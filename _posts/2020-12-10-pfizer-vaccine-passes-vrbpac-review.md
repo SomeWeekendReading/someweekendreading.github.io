@@ -119,6 +119,7 @@ adequately represented: 26% Latino, 10% Black).
 Why do we have to be so crazy?  Given we have to be so crazy, why do we also have to be so
 _damn stupid?!_  
 
+
 ## Conclusion: today is a good day  
 
 It's highly likely vaccinations can begin in earnest next week.  Moderna is following
@@ -130,21 +131,10 @@ appears most of the "no" votes as well as the abstention were over the issue of 
 olds vs age 18 and over.  The younger ones were added later in the trial, and there's less
 safety data for them.  That will be cleared up next year with pediatric trials.)  
 
+
 ## Added 2020-Dec-11: HHS Secretary Azar says FDA informed Pfizer it _will grant EUA_  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    NEW: HHS Azar says FDA will proceed with emergency use authorization for
-	Pfizer-BioNTech COVID-19 coronavirus vaccine and vaccinations could come as soon as
-	Monday or Tuesday of next week. <a href="https://t.co/v1dsjMAvCK">https://t.co/v1dsjMAvCK</a> 
-    <a href="https://t.co/48CGRJRTVs">pic.twitter.com/48CGRJRTVs</a>
-  </p>
-  &mdash; Good Morning America (@GMA) 
-  <a href="https://twitter.com/GMA/status/1337370945779064832?ref_src=twsrc%5Etfw">
-    December 11, 2020
-  </a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>  
+<a href="https://twitter.com/GMA/status/1337370945779064832"><img src="{{ site.baseurl }}/images/2020-12-10-pfizer-vaccine-passes-vrbpac-review-twitter-1.jpg" width="550" height="615" alt="Good Morning America @ Twitter: FDA to proceed immediately with EUA" title="Good Morning America @ Twitter: FDA to proceed immediately with EUA"></a>
 
 Appearing on _Good Morning America_ with George Stephanopoulos early this morning, HHS
 Secretary Azar confirms that the FDA has informed Pfizer this morning that it has granted

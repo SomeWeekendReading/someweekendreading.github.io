@@ -15,15 +15,7 @@ Republicans love to diss?
 From _Morning Consult_ comes this comparison of vaccination rates (vaccinated, planned,
 uncertain (how can anybody be _uncertain?!_), and unwilling):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The United States has a lower vaccination rate than any other country tracked besides
-    Russia. <a href="https://t.co/86cWoe9o07">https://t.co/86cWoe9o07</a> 
-    <a href="https://t.co/GHopSXSXJH">pic.twitter.com/GHopSXSXJH</a>
-  </p>
-  &mdash; Morning Consult (@MorningConsult) <a href="https://twitter.com/MorningConsult/status/1483092748425220096?ref_src=twsrc%5Etfw">January 17, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/MorningConsult/status/1483092748425220096"><img src="{{ site.baseurl }}/images/2022-01-18-us-comparisons-twitter-1.jpg" width="550" height="794" alt="Morning Consult @ Twitter: US has lower vax rate than others except Russia" title="Morning Consult @ Twitter: US has lower vax rate than others except Russia"></a>
 
 Well, it's always good to see that the US is keeping up with the Russians&hellip; except
 that this is _not in a good way!_  

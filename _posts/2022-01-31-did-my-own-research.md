@@ -25,13 +25,7 @@ epidemics.
 
 As you may have noticed, [this last weekend we had a blizzard here in New England](https://www.bostonglobe.com/2022/01/30/metro/more-than-50000-remain-without-power-mass-following-saturdays-blizzard/).  While I was out renewing my snowblower pilot's license, Shah was imagining what the covidiots who say 'I did my own research' might have to say on the subject of blizzards:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    1/Welp, I spent last night continuing my research into the <a href="https://twitter.com/hashtag/blizzard2022?src=hash&amp;ref_src=twsrc%5Etfw">#blizzard2022</a> <a href="https://twitter.com/hashtag/hoax?src=hash&amp;ref_src=twsrc%5Etfw">#hoax</a>. <br><br>
-    Thankfully, <a href="https://twitter.com/Twitter?ref_src=twsrc%5Etfw">@Twitter</a> and Facebook have helpful algorithms that pointed me in the direction of *real* experts who helped me round out my thinking.
-  </p>&mdash; Nirav D. Shah (@nirav_mainecdc) <a href="https://twitter.com/nirav_mainecdc/status/1487455146208600066?ref_src=twsrc%5Etfw">January 29, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/nirav_mainecdc/status/1487455146208600066"><img src="{{ site.baseurl }}/images/2022-01-31-did-my-own-research-twitter-1.jpg" width="550" height="379" alt="Shah @ Twitter: Blizzard hoax" title="Shah @ Twitter: Blizzard hoax"></a>
 
 > 2/I studied poignant, analytical memes from leading thinkers in finance, technology, and art sales.  
 >  
@@ -159,15 +153,7 @@ It has come to my attention that a fellow Mainiac wanted to thank Nirav Shah for
 done for public health in Maine, and did so in what I can only assume is the typical Maine
 fashion:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Thank you for this very funny thread. I appreciate what you have done for our state. <br>
-    
-    Meanwhile in Brooksville: <a href="https://t.co/rUfDmZDEoW">pic.twitter.com/rUfDmZDEoW</a>
-
-  </p>&mdash; lydia osgood (@LCosgood) <a href="https://twitter.com/LCosgood/status/1487474011047092224?ref_src=twsrc%5Etfw">January 29, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/LCosgood/status/1487474011047092224"><img src="{{ site.baseurl }}/images/2022-01-31-did-my-own-research-twitter-2.jpg" width="550" height="971" alt="Osgood @ Twitter: New England snow divers" title="Osgood @ Twitter: New England snow divers"></a>
 
 I mean&hellip; [I love winter too]({{ site.baseurl }}/winter-beauty/), but I stand all amazed at the true professionals.  
 

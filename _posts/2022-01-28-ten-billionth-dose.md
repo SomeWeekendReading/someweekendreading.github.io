@@ -22,14 +22,7 @@ quantities somewhere north of a billion but south of a trillion.
 
 In April of 2021, [we noted that the COVID-19 vaccination campaign had given out its billionth dose]({{ site.baseurl }}/billionth-dose/).  Today, [Eric Topol of the Scripps Research Translational Institute](https://drerictopol.com/meet-eric-topol/), quoting the always-excellent _Our World in Data_, reminds us that we mark another order of magnitude progress in the almost exactly 8 months since then:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    10 billion doses in 1 year is really a stunning human achievement<br>
-    Yet still much work to do in 2022
-    <a href="https://t.co/qgVbjQalDT">pic.twitter.com/qgVbjQalDT</a>
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1486771400660512770?ref_src=twsrc%5Etfw">January 27, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1486771400660512770"><img src="{{ site.baseurl }}/images/2022-01-28-ten-billionth-dose-twitter-1.jpg" width="550" height="677" alt="Topol @ Twitter: 10 bilion doses in 1 year!" title="Topol @ Twitter: 10 bilion doses in 1 year!"></a>
 
 (Free advice: don't bother reading the Twitter replies.)  
 

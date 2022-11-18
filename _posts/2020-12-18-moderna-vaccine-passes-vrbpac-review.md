@@ -190,17 +190,8 @@ problems from Pfizer.  However, there are 2 inconvenient facts:
   Pfizer, and  
 - Pfizer itself says they have no manufacturing problems, and literally have millions of
   doses in (no doubt very cold) warehouses, awaiting instructions and payment:  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
 
-    Pfizer is not having any production issues with our COVID-19 vaccine, and no shipments
-    containing the vaccine are on hold or delayed. The company’s statement can be found
-    here: <a href="https://t.co/72sSOWrnil">https://t.co/72sSOWrnil</a> 
-	<a href="https://t.co/1LoPYmSyWb">pic.twitter.com/1LoPYmSyWb</a>
-  </p>
-  &mdash; AlbertBourla (@AlbertBourla) <a href="https://twitter.com/AlbertBourla/status/1339620715805495299?ref_src=twsrc%5Etfw">December 17, 2020</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/AlbertBourla/status/1339620715805495299"><img src="{{ site.baseurl }}/images/2020-12-18-moderna-vaccine-passes-vrbpac-review-twitter-1.jpg" width="550" height="599" alt="Bourla @ Twitter: Pfizer is not experiencing production issues with COVID-19 vaccine" title="Bourla @ Twitter: Pfizer is not experiencing production issues with COVID-19 vaccine"></a>
 
 Of course, [facts have a well-known liberal bias](https://www.nytimes.com/2017/12/08/opinion/facts-have-a-well-known-liberal-bias.html).  
 

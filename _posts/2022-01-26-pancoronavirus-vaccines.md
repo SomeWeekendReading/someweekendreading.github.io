@@ -69,14 +69,7 @@ humble blog says right up top that it is devoted to occasional tart thoughts, le
 at one.  Gerry Doyle of _Reuters_, for example, reminds us that _we can do much better_,
 using the example of Singapore:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    singapore is massively vaccinated and is seeing case numbers go up too, but you know what
-    isn&#39;t going up? the tiny bit of this pie that isn&#39;t green 
-    <a href="https://t.co/ns0F0pPewW">pic.twitter.com/ns0F0pPewW</a>
-  </p>&mdash; Gerry Doyle (@mgerrydoyle) <a href="https://twitter.com/mgerrydoyle/status/1486220926400462850?ref_src=twsrc%5Etfw">January 26, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/mgerrydoyle/status/1486220926400462850"><img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-twitter-1.jpg" width="550" height="701" alt="Doyle @ Twitter: Singapore vax rates &amp; case rates" title="Doyle @ Twitter: Singapore vax rates &amp; case rates"></a>
 
 The green part of the pie chart is people who got asymptomatic or mildly symptomatic
 COVID, vs everything else that can go badly wrong in the miniscule rest of the pie chart.
@@ -88,13 +81,8 @@ Yeah, I know: the US is not Singapore.  Before you trot out some American-except
 hyper-patriot nonsense, let me point out that I completely understand public health
 campaigns must be culturally sensitive.  Consider, for example, France and Germany, 2 of
 my favorite countries outside the US:  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Both our countries have reputations to uphold.
-    <a href="https://t.co/nDp8GCSLvr">https://t.co/nDp8GCSLvr</a>
-  </p>&mdash; Bruno Tertrais (@BrunoTertrais) <a href="https://twitter.com/BrunoTertrais/status/1486069786916364290?ref_src=twsrc%5Etfw">January 25, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+
+<a href="https://twitter.com/BrunoTertrais/status/1486069786916364290"><img src="{{ site.baseurl }}/images/2022-01-26-pancoronavirus-vaccines-twitter-2.jpg" width="550" height="637" alt="Tertrais @ Twitter: Upholding national traditions!" title="Tertrais @ Twitter: Upholding national traditions!"></a>
 
 - On the left, in German: "Impfen hilft, auch allen die du liebst", or "Vaccination helps,
   also everyone you love".  

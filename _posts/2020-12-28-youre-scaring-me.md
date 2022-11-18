@@ -96,22 +96,8 @@ data in France.  It appears the age 20-29 cohort lost control in July and got in
 for them, but it's their own fault and they're young anyway so they won't face severe
 consequences, right?  Wrong: they of course infected everyone else over  period of time,
 and caused many needless deaths among their elders.  Why kill grandma?  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    A fascinating graph, showing the dynamics of the second wave in France. <br><br>
 
-    Things were fine in July, but the 20-29 year olds starting relaxing.<br><br>
-
-    Over time, they contaminated older generations until infection rates were high for all. <br><br>
-
-
-    How will the reverse movement proceed? 
-    <a href="https://t.co/KkgilUuVh0">pic.twitter.com/KkgilUuVh0</a>
-  </p>
-&mdash; Olivier Blanchard (@ojblanchard1) 
-<a href="https://twitter.com/ojblanchard1/status/1331952292883533824?ref_src=twsrc%5Etfw">November 26, 2020</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" ></script>
+<a href="https://twitter.com/ojblanchard1/status/1331952292883533824"><img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-twitter-1.jpg" width="550" height="768" alt="Blanchard @ Twitter: Dynamics of 2nd wave in France" title="Blanchard @ Twitter: Dynamics of 2nd wave in France"></a>
 
 A similar sentiment from 
 [Tedros Adhanom Ghebreyesus ("Dr Tedros")](https://en.wikipedia.org/wiki/Tedros_Adhanom),
@@ -122,17 +108,7 @@ covidiots in the Twitter responses (not reproduced here, because they're too inf
 
 _How can something this obvious be denied by people competent to operate a keyboard?!_ In matters of public health, especially infectious diseases, we _are_ in fact all in it together.  Our death rates can only be controlled by collective action, not individual action.  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	No one is safe until everyone is safe. 
-	<a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> 
-	<a href="https://twitter.com/washingtonpost?ref_src=twsrc%5Etfw">@washingtonpost</a> 
-	<a href="https://t.co/myjnuVWTRi">pic.twitter.com/myjnuVWTRi</a>
-  </p>
-&mdash; Tedros Adhanom Ghebreyesus (@DrTedros) 
-<a href="https://twitter.com/DrTedros/status/1333124557071323136?ref_src=twsrc%5Etfw">November 29, 2020</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" ></script>
+<a href="https://twitter.com/DrTedros/status/1333124557071323136"><img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-twitter-2.jpg" width="550" height="777" alt="Dr Tedros @ Twitter: No one is safe until everyone is safe" title="Dr Tedros @ Twitter: No one is safe until everyone is safe"></a>
 
 
 ## Oy, vey: why _do_ we even bother?  
@@ -211,13 +187,8 @@ Listen to [Gandalf](https://en.wikipedia.org/wiki/Gandalf), as
 [Helen Branswell](https://en.wikipedia.org/wiki/Helen_Branswell) helpfully advises below.
 (Or [Magneto](https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)), if that's how you roll.)
 Either way: get vaccinated, and stay safe until then.  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Listen to Gandalf. <a href="https://t.co/cxUpty7Png">https://t.co/cxUpty7Png</a>
-  </p>
-&mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1339621989330407425?ref_src=twsrc%5Etfw">December 17, 2020</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" ></script>
+
+<a href="https://twitter.com/HelenBranswell/status/1339621989330407425"><img src="{{ site.baseurl }}/images/2020-12-28-youre-scaring-me-twitter-3.jpg" width="550" height="875" alt="Branswell @ Twitter: Listen to Gandalf!" title="Branswell @ Twitter: Listen to Gandalf!"></a>
 
 ---
 

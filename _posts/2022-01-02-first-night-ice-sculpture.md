@@ -21,24 +21,12 @@ There are usually a lot of very beautiful ice sculptures.  A prominent theme see
 don't mess with librarians.  In front of the main entrance to the Boston Public Library
 was an ice sculpture of a spider crab _reading a book:_  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The hottest spot at First Night is a mobile vaccination clinic and the second hottest
-    is obviously this spider crab made of ice reading a book 
-    <a href="https://t.co/4strLx9W3y">pic.twitter.com/4strLx9W3y</a> 
-  </p>&mdash; Laura Koenig (@2nickels) <a href="https://twitter.com/2nickels/status/1476971215759753220?ref_src=twsrc%5Etfw">December 31, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/2nickels/status/1476971215759753220"><img src="{{ site.baseurl }}/images/2022-01-02-first-night-ice-sculpture-twitter-1.jpg" width="550" height="709" alt="Koenig @ Twitter: First Night vax clinic &amp; spider crab reading book" title="Koenig @ Twitter: First Night vax clinic &amp; spider crab reading book"></a>
 
 While I'm immensely proud the hottest spot was a vaccination van, I did particularly like
 the librarians' response to the question of how we know this is not a deer tick:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    That would be ridiculous, deer ticks can&#39;t read
-  </p>&mdash; Laura Koenig (@2nickels) <a href="https://twitter.com/2nickels/status/1476973322428719108?ref_src=twsrc%5Etfw">December 31, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/2nickels/status/1476973322428719108"><img src="{{ site.baseurl }}/images/2022-01-02-first-night-ice-sculpture-twitter-2.jpg" width="550" height="327" alt="Koenig @ Twitter: Deer ticks can't read!" title="Koenig @ Twitter: Deer ticks can't read!"></a>
 
 Like I told you: don't mess with librarians!  
 
