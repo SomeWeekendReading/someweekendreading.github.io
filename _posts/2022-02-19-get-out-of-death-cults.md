@@ -16,16 +16,7 @@ school that takes COVID-19 protections.  This is 'death cult' levels of badness.
 Yesterday [Eric Topol](https://drerictopol.com/) pointed to a result from the CDC's data
 tracker on COVID-19 death rates by vax status <sup id="fn1a">[[1]](#fn1)</sup>:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    All ages 18+, US update for vaccination and booster protection from death during Omicron wave<br>
-    2-shot vaccination 85% reduction of death<br>
-    3-shot (w/booster) 96% reduction of death
-    <a href="https://t.co/HGyjNwCm0v">https://t.co/HGyjNwCm0v</a> 
-    <a href="https://t.co/QCjd0kLGs4">pic.twitter.com/QCjd0kLGs4</a> 
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1494774855614357508?ref_src=twsrc%5Etfw">February 18, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1494774855614357508"><img src="{{ site.baseurl }}/images/2022-02-19-get-out-of-death-cults-twitter-1.jpg" width="550" height="620" alt="Topol @ Twitter: Death rate reductions by vax status" title="Topol @ Twitter: Death rate reductions by vax status"></a>
 
 Now, in case that's too small to read on your screen:  
 - the black curve is unvaccinated
@@ -58,14 +49,7 @@ You might think that this sort of thing would cause a unified push to vaccinate 
 the lives of people.  Not so, as reported 2 days ago by CSPAN Capitol Hill reporter 
 [Craig Caplan](https://www.linkedin.com/in/craig-caplan-405679/):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    44-49: Senate defeats Cruz (R-TX) amendment to end federal funding to schools and
-    child care centers that enforce COVID-19 vaccine mandates. 
-    <a href="https://t.co/dyXEqzKwGs">pic.twitter.com/dyXEqzKwGs</a> 
-  </p>&mdash; Craig Caplan (@CraigCaplan) <a href="https://twitter.com/CraigCaplan/status/1494449849130962946?ref_src=twsrc%5Etfw">February 17, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/CraigCaplan/status/1494449849130962946"><img src="{{ site.baseurl }}/images/2022-02-19-get-out-of-death-cults-twitter-2.jpg" width="550" height="591" alt="Caplan @ Twitter: Sen Cruz tries to end federal funding to schools w/COVID-19 vax mandates" title="Caplan @ Twitter: Sen Cruz tries to end federal funding to schools w/COVID-19 vax mandates"></a>
 
 Basically:  
 - The public health data says we should get vaxed, boosted, masked, and distanced to

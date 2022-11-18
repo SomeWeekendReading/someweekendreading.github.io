@@ -12,13 +12,8 @@ Ukraine.
 
 ## Arnold?!  Wait&hellip; really?  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    I love the Russian people. That is why I have to tell you the truth. Please watch and share. 
-    <a href="https://t.co/6gyVRhgpFV">pic.twitter.com/6gyVRhgpFV</a>
-  </p>&mdash; Arnold (@Schwarzenegger) <a href="https://twitter.com/Schwarzenegger/status/1504426844199669762?ref_src=twsrc%5Etfw">March 17, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Schwarzenegger/status/1504426844199669762"><img src="{{ site.baseurl }}/images/2022-03-19-unexpected-inspiration-on-russia-twitter-1.jpg" width="550" height="764" alt="Schwarzenegger @ Twitter: Telling truth to the Russian people" title="Schwarzenegger @ Twitter: Telling truth to the Russian people"></a>
+
 <iframe width="400" height="224" src="https://www.youtube.com/embed/4e1BndTE6Lg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 <img src="{{ site.baseurl }}/images/2022-03-19-unexpected-inspiration-on-russia-atlantic-1.jpg" width="400" height="433" alt="Schwarzegger @ Atlantic: Message for my Russian friends" title="Schwarzegger @ Atlantic: Message for my Russian friends" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Umm&hellip; [_Arnold Schwarzenegger_](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger)

@@ -13,12 +13,7 @@ Today is Pi Day (3/14), so we reflect upon &pi;.
 
 Of course we mean this literally:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Happy Pi Day! <a href="https://t.co/5T5uzwVwSR">pic.twitter.com/5T5uzwVwSR</a>
-  </p>&mdash; World of Engineering (@engineers_feed) <a href="https://twitter.com/engineers_feed/status/1503241522325573632?ref_src=twsrc%5Etfw">March 14, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/engineers_feed/status/1503241522325573632"><img src="{{ site.baseurl }}/images/2022-03-14-pi-reflected-twitter-1.jpg" width="550" height="750" alt="World of Engineering @ Twitter: Reflections on Pi Day" title="World of Engineering @ Twitter: Reflections on Pi Day"></a>
 
 ---
 

@@ -88,14 +88,7 @@ of lives are disposable".  It sets us up for the next wave, currently hinted at 
 [cryptic SARS-CoV2 sequences in NYC wastewater]({{ site.baseurl }}/sars-cov2-cryptic/),
 against early surrender:   
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The Leonhardt Retreat Signal has consistently appeared two months ahead of the next
-    wave. I am now concerned about late March 2022.
-    <a href="https://t.co/demkphysNN">pic.twitter.com/demkphysNN</a>
-  </p>&mdash; Aaron Miller (@amillerphd) <a href="https://twitter.com/amillerphd/status/1487871195722747911?ref_src=twsrc%5Etfw">January 30, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/amillerphd/status/1487871195722747911"><img src="{{ site.baseurl }}/images/2022-03-18-lessons-vs-another-booster-twitter-1.jpg" width="550" height="786" alt="Miller @ Twitter: Leonhardt Retreat Signal" title="Miller @ Twitter: Leonhardt Retreat Signal"></a>
 
 To be fair: I have to acknowledge, and gratefully, that Leonhardt does often work very
 hard to be clear, and even _pretty_ hard to find hopeful news, even about COVID-19.  I'm

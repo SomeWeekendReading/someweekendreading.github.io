@@ -39,19 +39,7 @@ said:
 Since then, the CDC's _Mortality and Morbidity Weekly Report_ (sort of an in-house CDC
 journal) has highlighted how useful wastewater metagenomics is <sup id="fn2a">[[2]](#fn2)</sup>:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    New <a href="https://twitter.com/CDCMMWR?ref_src=twsrc%5Etfw">@CDCMMWR</a> shows how 
-    untreated wastewater is used to detect 
-    <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> 
-    infection trends in communities. The National Wastewater Surveillance System serves as an 
-    early detection system for tracking the spread of the virus that causes COVID-19. 
-    <a href="https://t.co/0RXAncRZdw">https://t.co/0RXAncRZdw</a> 
-    <a href="https://t.co/ehgNR55gu7">pic.twitter.com/ehgNR55gu7</a>
-  </p>
-  &mdash; CDC (@CDCgov) <a href="https://twitter.com/CDCgov/status/1436074326437019651?ref_src=twsrc%5Etfw">September 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/CDCgov/status/1436074326437019651"><img src="{{ site.baseurl }}/images/2022-02-04-wastewater-reredux-twitter-1.jpg" width="550" height="619" alt="CDC @ Twitter: How wastewater reveals infection trends" title="CDC @ Twitter: How wastewater reveals infection trends"></a>
 
 <img src="{{ site.baseurl }}/images/2022-02-04-wastewater-reredux-globe.jpg" width="400" height="73" alt="Boston Globe: survival chances improve" title="Boston Globe: survival chances improve" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The last two times we tried this ([2020-November](https://www.someweekendreading.blog/wastewater-corona-virus-rna-vs-medical-loads/) and [2021-May](https://www.someweekendreading.blog/wastewater-redux/)),

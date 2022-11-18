@@ -119,14 +119,7 @@ Robustness is not free, after all.
 
 ## Some things are hard to make, others slow, and some both  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Pfizer's new COVID-19 pill can take months to make.  Company officials say they plan to expand production this year.<br><br>
-
-    Why does it take so long? <a href="https://twitter.com/thpmurphy?ref_src=twsrc%5Etfw">@thpmurphy</a> explains: <a href="https://t.co/MqPgaWxmIi">https://t.co/MqPgaWxmIi</a> <a href="https://t.co/8NNuynIkL5">pic.twitter.com/8NNuynIkL5</a>
-  </p>&mdash; The Associated Press (@AP) <a href="https://twitter.com/AP/status/1499126568697970689?ref_src=twsrc%5Etfw">March 2, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/AP/status/1499126568697970689"><img src="{{ site.baseurl }}/images/2022-03-04-paxlovid-difficult-twitter-1.jpg" width="550" height="644" alt="AP News @ Twitter: Paxlovid can take months to make" title="AP News @ Twitter: Paxlovid can take months to make"></a>
 
 I don't, and won't, read Twitter.  The short attention span takes of the uninformed are
 not useful to _anybody,_ and that's most of what Twitter is about.  Sure, there are a few

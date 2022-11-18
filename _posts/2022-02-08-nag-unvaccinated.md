@@ -269,14 +269,7 @@ We'll leave the last word to Cheryl Rofer, another retired physics &amp; chemist
 She specialized in nuclear stuff and national security, so she knows a thing or two about
 response to threats.  And, alas, the public's myopic and attention-span-impaired attitude:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    For all those removing mask mandates, I repeat a graphic I&#39;ve been using since March 2020.
-    We keep doing this over and over and over.
-    <a href="https://t.co/LjYpukLi0G">pic.twitter.com/LjYpukLi0G</a>
-  </p>&mdash; Cheryl Rofer (@CherylRofer) <a href="https://twitter.com/CherylRofer/status/1490894042040877056?ref_src=twsrc%5Etfw">February 8, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/CherylRofer/status/1490894042040877056"><img src="{{ site.baseurl }}/images/2022-02-08-nag-unvaccinated-twitter-1.jpg" width="550" height="747" alt="Rofer @ Twitter: Popular attitudes about mask mandates" title="Rofer @ Twitter: Popular attitudes about mask mandates"></a>
 
 &hellip; back to dying needlessly.  
 
