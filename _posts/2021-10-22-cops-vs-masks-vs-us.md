@@ -42,18 +42,7 @@ Indeed, there's a whole Twitter account devoted to this:
 The @Copwatch\_CPU folks published video taken by a commuter documenting the affair from
 another viewpoint:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Maskless <a href="https://twitter.com/NYPDTransit?ref_src=twsrc%5Etfw">@NYPDTransit</a> 
-    District 4 NYPD Officers kicked a guy out of the 
-    <a href="https://twitter.com/MTA?ref_src=twsrc%5Etfw">@MTA</a> for pointing out to the
-	officers that they needed to put on their required mask while in the Subway system. <br><br>
-
-    In a video recorded by a commuter named Victoria Hall on 10-19-21 8:30am at 8 Street N R Line 
-    <a href="https://t.co/mqABCt8hdU">pic.twitter.com/mqABCt8hdU</a> 
-  </p> &mdash; Exposing Dirty Cops In NYC (@Copwatch_CPU) <a href="https://twitter.com/Copwatch_CPU/status/1450552892532928515?ref_src=twsrc%5Etfw">October 19, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Copwatch_CPU/status/1450552892532928515"><img src="{{ site.baseurl }}/images/2021-10-22-cops-vs-masks-vs-us-twitter-1.jpg" width="550" height="889" alt="Exposing Dirty Cops in NYC @ Twitter: Cops muscle guy out of subway for pointing out cops are violating mask mandate" title="Exposing Dirty Cops in NYC @ Twitter: Cops muscle guy out of subway for pointing out cops are violating mask mandate"></a>
 
 <img src="{{ site.baseurl }}/images/2021-10-22-cops-vs-masks-vs-us-pharyngula.jpg" width="400" height="240" alt="PZ Myers: Bad cops fail at risk assessment (and citizenship)" title="PZ Myers: Bad cops fail at risk assessment (and citizenship)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Reaction was swift, and universally negative.  For example,

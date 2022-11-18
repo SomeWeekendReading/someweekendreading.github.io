@@ -18,19 +18,7 @@ Be not afraid: it's mostly good news.  _Mostly._
 First up, the FDA calendar is _full_ over the next 3 weeks.  They're meeting about boosters
 for the other vaccines, mix-n-match booster combinations, and the first kiddo vax:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    NEW: The FDA&#39;s independent advisory committee has announced 3 upcoming meetings
-    for vaccine discussions:<br>
-    - October 14: Moderna booster<br>
-    - October 15: J&amp;J booster<br>
-    - October 15: Mix-and-match boosters<br>
-    - October 26: Pfizer vaccine for kids 5-11
-    <a href="https://t.co/UzEICgkRut">https://t.co/UzEICgkRut</a> 
-  </p>
-  &mdash; Benjy Renton (@bhrenton) <a href="https://twitter.com/bhrenton/status/1444006414289145868?ref_src=twsrc%5Etfw">October 1, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/bhrenton/status/1444006414289145868"><img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-twitter-1.jpg" width="550" height="739" alt="Renton @ Twitter: The FDA's busy calendar" title="Renton @ Twitter: The FDA's busy calendar"></a>
 
 That's a lot, and we won't be putting in the huge effort to live-blog all of them 
 [as we did previously for the Pfizer booster hearings]({{ site.baseurl }}/fda-covid-boosters/).
@@ -96,18 +84,7 @@ vaccinated, and so on.  The media has been fueling this with their usual mathema
 incompetent headlines.  Here's an example, with a correction helpfully supplied on
 Twitter:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    &quot;Bridges was among about 150 employees who were fired or resigned rather than
-    comply...About 25,000 other employees at the hospital system
-    complied.&quot;<br><br>
-
-    Alternative headline: &quot;99.4% of hospital workers vaccinated following
-    mandate&quot;. But sure, a whole article on one of the 0.6% 🙄👆 
-  </p> 
-  &mdash; Al (@albertjschulman) <a href="https://twitter.com/albertjschulman/status/1444831332685725702?ref_src=twsrc%5Etfw">October 4, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/albertjschulman/status/1444831332685725702"><img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-twitter-2.jpg" width="550" height="713" alt="Schulman &amp; Reuters @ Twitter: Ignore vax refuseniks; real news is mandates work" title="Schulman &amp; Reuters @ Twitter: Ignore vax refuseniks; real news is mandates work"></a>
 
 _Reuters_ wants to tell you all about the defiance of vaccines, telling irrelevant
 personal stories in loving detail.  But the _real_ story is that 99.4% of the employees at
@@ -116,16 +93,7 @@ waste of your time at best, and flagrantly deceptive at worst.
 
 There are many similar results. For example, consider the [Swiss Guard](https://en.wikipedia.org/wiki/Swiss_Guard):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The media continues to report breathlessly on the small number of holdouts when the
-	vast majority of people are getting vaccinated. As of 2019 the Swiss guard had 135
-	members. So we’re talking about like 98% compliance. It’s media malpractice to frame
-	it this way. Mandates work. <a href="https://t.co/LQa7EsEqNt">https://t.co/LQa7EsEqNt</a> 
-  </p>
-  &mdash; Jean-Michel Connard  (@torriangray) <a href="https://twitter.com/torriangray/status/1445143572466962448?ref_src=twsrc%5Etfw">October 4, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/torriangray/status/1445143572466962448"><img src="{{ site.baseurl }}/images/2021-10-04-covid-misc-twitter-3.jpg" width="550" height="470" alt="Connard @ Twitter: Breathless reports on vax holdours are misleading &amp; useless: 98% compliance in Swiss Guard" title="Connard @ Twitter: Breathless reports on vax holdours are misleading &amp; useless: 98% compliance in Swiss Guard"></a>
 
 Mandates work.  _That's_ the story.  
 

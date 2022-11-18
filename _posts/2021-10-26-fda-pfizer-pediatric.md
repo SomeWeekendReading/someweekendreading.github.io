@@ -453,14 +453,7 @@ Today the CDC's ACIP committee met about Pfizer's Comirnaty vaccine against COVI
 5 &ndash; 11 year olds.  It was approved unanimously, 14-0.  <sup id="fn18a">[[18]](#fn18)</sup>
 Helen Branswell documented the meeting in a massive 50-tweet thread on Twitter:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    50. The final tweet of this thread. Read my story on the 
-    <a href="https://twitter.com/hashtag/ACIP?src=hash&amp;ref_src=twsrc%5Etfw">#ACIP</a> vote
-    here. Thanks for spending the afternoon with me. <a href="https://t.co/sppzfHr0KV">https://t.co/sppzfHr0KV</a> 
-  </p>&mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1455646772223782912?ref_src=twsrc%5Etfw">November 2, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1455646772223782912"><img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-twitter-1.jpg" width="550" height="780" alt="Branswell @ Twitter: 50-tweet thread on ACIP meeting approving kid's vax" title="Branswell @ Twitter: 50-tweet thread on ACIP meeting approving kid's vax"></a>
 
 <img src="{{ site.baseurl }}/images/2021-10-26-fda-pfizer-pediatric-cdc-pfizer-1.jpg" width="400" height="224" alt="Pfizer at CDC ACIP: Kaplan-Meier curves" title="Pfizer at CDC ACIP: Kaplan-Meier curves" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I won't go over the presentations, as it appears there is no new data.  If you're

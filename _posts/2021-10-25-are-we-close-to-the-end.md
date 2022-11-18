@@ -99,19 +99,7 @@ From the _NYT_ article:
 Think about that: "people's willingness to be vaccinated" is the only barrier.  As
 Dr. Tedros Adhanom Ghebreyesus of the WHO put it:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    &quot;One of the questions I am asked most often is: when will this pandemic end?
-	<br><br>
-	
-	My answer is that the
-    <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>
-	pandemic will end when the world chooses to end it. It is in our hands&quot;
-    - <a href="https://twitter.com/DrTedros?ref_src=twsrc%5Etfw">@DrTedros</a>
-      <a href="https://twitter.com/hashtag/WHS2021?src=hash&amp;ref_src=twsrc%5Etfw">#WHS2021</a>
-  </p>&mdash; World Health Organization (WHO) (@WHO) <a href="https://twitter.com/WHO/status/1452383047547039747?ref_src=twsrc%5Etfw">October 24, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/WHO/status/1452383047547039747"><img src="{{ site.baseurl }}/images/2021-10-25-are-we-close-to-the-end-twitter-1.jpg" width="550" height="522" alt="WHO/DrTedros @ Twitter: Pandemic ends when we take appropriate actions to end it" title="WHO/DrTedros @ Twitter: Pandemic ends when we take appropriate actions to end it"></a>
 
 
 ## The Weekend Conclusion  

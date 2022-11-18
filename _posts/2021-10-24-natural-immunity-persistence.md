@@ -35,15 +35,7 @@ So&hellip; alternative (a), periodic boosters, is the likely future.
 That's why I was struck by this (__NB:__ "MI" = myocardial infarction, basically a heart attack;
 "PE" = pulmonary embolism, clotting in the lung that's often instantly fatal):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	Not good news for antivaxxers. <br><br>Those who plan on never getting the vaccine
-	should expect to get COVID every 1.5 years for the rest of their lives. Which,
-	incidentally, may not be very long on average, considering the increased risk of MI, PE
-	and stroke with every infection. <a href="https://t.co/keXUzsMlZg">pic.twitter.com/keXUzsMlZg</a>
-  </p>&mdash; Justin Pearson (@Jeffersoniandoc) <a href="https://twitter.com/Jeffersoniandoc/status/1450936440548827136?ref_src=twsrc%5Etfw">October 20, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Jeffersoniandoc/status/1450936440548827136"><img src="{{ site.baseurl }}/images/2021-10-14-natural-immunity-persistence-twitter-1.jpg" width="550" height="882" alt="Pearson @ Twitter: If plan on not getting the vax, plan on getting COVID-19 every 1.5 years for the rest of your (short) life" title="Pearson @ Twitter: If plan on not getting the vax, plan on getting COVID-19 every 1.5 years for the rest of your (short) life"></a>
 
 The disturbing thing, of course, is in the delusional replies that crawled out of the woodwork:  
 - vaccinees have taken the [Mark of the Beast](https://en.wikipedia.org/wiki/Number_of_the_beast),
