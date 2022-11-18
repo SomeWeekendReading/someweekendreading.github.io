@@ -45,21 +45,11 @@ Now we know that this is also true of death rates.
 Gaba went on to summarize this result in a simple bar chart, for those who find mulitple
 time courses too confusing:  
 
-<blockquote class="twitter-tweet" data-conversation="none">
-  <p lang="en" dir="ltr">
-    It&#39;s been even higher more recently: Since 6/30/21, the death rate in the reddest tenth is SIX TIMES higher than in the bluest tenth: <a href="https://t.co/RXx9N6B7tB">https://t.co/RXx9N6B7tB</a> <a href="https://t.co/t1BJOwNdSX">pic.twitter.com/t1BJOwNdSX</a>
-  </p>&mdash; Charles Ghoul-ba 👻 (@charles_gaba) <a href="https://twitter.com/charles_gaba/status/1454648431620800513?ref_src=twsrc%5Etfw">October 31, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/charles_gaba/status/1454648431620800513"><img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-twitter-1.jpg" width="550" height="683" alt="Gaba @ Twitter: Steep partisan tilt in deaths among conservatives" title="Gaba @ Twitter: Steep partisan tilt in deaths among conservatives"></a>
 
-The Twitter commentariat was even more put out about this than me:  
+The Twitter commentariat was even more put out about this than me (which is _saying_ something):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Seems like one of the largest ritual human sacrifices in history, possibly the largest.<a href="https://t.co/GjXNDYcW5w">https://t.co/GjXNDYcW5w</a> <a href="https://t.co/eEyzPynlKg">pic.twitter.com/eEyzPynlKg</a>
-  </p>&mdash; Kurt Andersen (@KBAndersen) <a href="https://twitter.com/KBAndersen/status/1454535495132778497?ref_src=twsrc%5Etfw">October 30, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/KBAndersen/status/1454535495132778497"><img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-twitter-2.jpg" width="550" height="792" alt="Anderson @ Twitter: Largest human sacrifice in history?!" title="Anderson @ Twitter: Largest human sacrifice in history?!"></a>
 
 Now you know why you're so often hearing the phrase "GOP death cult": when your tribal
 identity pushes you to actions that kill you and your fellow tribe members, it's time to
@@ -142,12 +132,7 @@ expensive, and didn't work all that much.)
 The thing about conspiracy theories is, they are generally false.  Believing them about
 life-or-death matters _can get you killed._  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The difference between data, information, knowledge, insight, wisdom and conspiracy theory. <a href="https://t.co/cdJgkhIuv0">pic.twitter.com/cdJgkhIuv0</a>
-  </p>&mdash; Hugo Drochon (@HDrochon) <a href="https://twitter.com/HDrochon/status/1294260219850129420?ref_src=twsrc%5Etfw">August 14, 2020</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HDrochon/status/1294260219850129420"><img src="{{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-twitter-3.jpg" width="550" height="770" alt="Drochon @ Twitter: data/information/knowledge/insight/wisdom/conspiracy theory" title="Drochon @ Twitter: data/information/knowledge/insight/wisdom/conspiracy theory"></a>
 
 (__NB:__ Drochon says he doesn't remember the original source, just a "friend on FB".  But
 hey, if _you're_ the source, drop us a line and we'll happily credit you!)  
