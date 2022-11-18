@@ -46,16 +46,7 @@ Still&hellip; maybe I can just overcome these mild misgivings and take the boost
 
 People have heads full of the most _bizarre_ misinformation and confusion.  For example:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    A patient in the ER just asked me for a booster shot.<br><br>Unfortunately she was
-    very confused. Because her oxygen was low. Because she had severe Covid. Because she
-    never had her first vaccine dose.<br><br>
-
-    Our top priority must remain vaccinating those who haven’t yet gotten their shots.
-  </p>&mdash; Craig Spencer MD MPH (@Craig_A_Spencer) <a href="https://twitter.com/Craig_A_Spencer/status/1441763147619057665?ref_src=twsrc%5Etfw">September 25, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Craig_A_Spencer/status/1441763147619057665"><img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-twitter-1.jpg" width="550" height="394" alt="Dying unvaxed pt asks for booster" title="Dying unvaxed pt asks for booster"></a>
 
 It's important to realize that we're not _all_ like that.  It's very, very concentrated on
 the right.  Republicans are doing this to themselves, and the media is helping them along
@@ -107,16 +98,7 @@ governor, essentially to keep re-adjuticating his election.  Compare the results
 COVID cases: if correlation were causation, you'd think COVID-19 caused recall votes.  (In
 fact, the underlying variable causing both is of course Republicanism.)  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    What a visual of pandemic politicization!<br><br>
-
-    On the left, red is "no" (ie keep Newsom) and blue is "yes" (recall). 
-    The right is COVID cases per capita. 
-    <a href="https://t.co/7tcKn2k2V0">https://t.co/7tcKn2k2V0</a> 
-  </p>&mdash; Nicholas Grossman (@NGrossman81) <a href="https://twitter.com/NGrossman81/status/1438181098215837699?ref_src=twsrc%5Etfw">September 15, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/NGrossman81/status/1438181098215837699"><img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-twitter-2.jpg" width="550" height="672" alt="Grossman @ Twitter: California Republican recall counties are high per-capita COVID-19 counties" title="Grossman @ Twitter: California Republican recall counties are high per-capita COVID-19 counties"></a>
 
 __Mind: boggled.__  
 
@@ -177,15 +159,7 @@ But I'm in the booster-approved group of people over 65. So here's the now-regre
   
 Alas, we are too late for about 688,000 Americans and about 4.55 million worldwide:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    If you can get to DC to see this powerful installation, please do. The flags will be
-	displayed until Oct 3. For those who can’t make it, I hope my photos give you a sense
-	of its power. Think about those lost. Hold their memory close. Let prevent more
-	Americans from dying.END <a href="https://t.co/NxVT2w5EH2">pic.twitter.com/NxVT2w5EH2</a> 
-  </p>&mdash; Andy Kim (@AndyKimNJ) <a href="https://twitter.com/AndyKimNJ/status/1440374802460536843?ref_src=twsrc%5Etfw">September 21, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/AndyKimNJ/status/1440374802460536843"><img src="{{ site.baseurl }}/images/2021-09-27-today-i-got-shot-a-sixth-time-twitter-3.jpg" width="550" height="1291" alt="Kim @ Twitter: DC exhibit of flags for COVID-19 victims" title="Kim @ Twitter: DC exhibit of flags for COVID-19 victims"></a>
 
 So if &mdash; for some exceptionally obscure reason &mdash; you wish to do me a favor,
 then go out and get vaccinated.  You can make an old man happy by telling me about in the

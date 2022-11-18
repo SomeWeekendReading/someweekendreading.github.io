@@ -87,14 +87,7 @@ sophistication.  Just&hellip; "hey, we use the spike to vaccinate you".  I love 
 
 Hence, our celebratory pictures of [Spike](https://en.wikipedia.org/wiki/Spike_(Buffy_the_Vampire_Slayer)) and a [VAX](https://en.wikipedia.org/wiki/VAX).  Surely this was their intended meaning, no? <sup id="fn2a">[[2]](#fn2)</sup>  I mean, it's the _obvious_ place to have gotten that name, right?  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Canada has given Moderna full approval for Spikevax, its first anywhere. Full approval
-    still pending from <a href="https://twitter.com/US_FDA?ref_src=twsrc%5Etfw">@US_FDA</a>.
-    <a href="https://t.co/qfKBQth2Q4">https://t.co/qfKBQth2Q4</a>
-  </p>&mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1438546837116436485?ref_src=twsrc%5Etfw">September 16, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1438546837116436485"><img src="{{ site.baseurl }}/images/2021-09-18-vaccine-names-twitter-1.jpg" width="550" height="278" alt="Branswell @ Twitter: Canada gives full approval for Moderna, using name Spikevax" title="Branswell @ Twitter: Canada gives full approval for Moderna, using name Spikevax"></a>
 
 Now I want a Moderna booster, even though I got Pfizer originally.  Just for the name.  
 

@@ -68,15 +68,7 @@ it was necessary.)
 Consider this from [Adam Sternbergh](http://www.adamsternbergh.com/about), a novelist and
 _NYT_ editor, who apparently runs special projects at the _Times_, among many other things:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    can&#39;t stop staring in disbelief at this map of current global covid hot spots — the
-    U.S., the wealthiest country in the world, where vaccines are freely available, has the
-    highest per capita case rate right now of any country except Mongolia 
-    <a href="https://t.co/Sy2iL4JX3s">pic.twitter.com/Sy2iL4JX3s</a>
-  </p>&mdash; Adam Sternbergh (@sternbergh) <a href="https://twitter.com/sternbergh/status/1433932512313626627?ref_src=twsrc%5Etfw">September 3, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/sternbergh/status/1433932512313626627"><img src="{{ site.baseurl }}/images/2021-09-07-vaccine-madness-twitter-1.jpg" width="550" height="605" alt="Sternbergh @ Twitter: US is a global COVID-19 hot spot" title="Sternbergh @ Twitter: US is a global COVID-19 hot spot"></a>
 
 Yes, it's really that bad: we're wealthy, vaccines are abundant and freely available to
 anybody with the wit to ask for one&hellip; and we're 2nd worst in per-capita COVID-19
@@ -86,14 +78,7 @@ suicidal, or psychopathically anti-social?
 
 And it's not uniformly distributed, as a property of Americans in general:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    of course it&#39;s also worth looking at where the cases are in the U.S. right now,
-	because they&#39;re not evenly distributed<br><br>short version: high vax rate = low
-	case rate and vice versa <a href="https://t.co/KYDgAR5Cp7">pic.twitter.com/KYDgAR5Cp7</a> 
-  </p>&mdash; Adam Sternbergh (@sternbergh) <a href="https://twitter.com/sternbergh/status/1433933689092706306?ref_src=twsrc%5Etfw">September 3, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/sternbergh/status/1433933689092706306"><img src="{{ site.baseurl }}/images/2021-09-07-vaccine-madness-twitter-2.jpg" width="550" height="1010" alt="Sternbergh @ Twitter: COVID-19 in US concentrated in conservative southern Confederacy states" title="Sternbergh @ Twitter: COVID-19 in US concentrated in conservative southern Confederacy states"></a>
 
 It's concentrated in South in the former Confederacy states, with some echoes from the
 inter-mountain West.  In other words, the reddest, Trumpiest states.  

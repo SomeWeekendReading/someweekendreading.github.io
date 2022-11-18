@@ -410,15 +410,7 @@ just _maybe_&hellip;
 
 ### Second Vote  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    <a href="https://twitter.com/hashtag/VRBPAC?src=hash&amp;ref_src=twsrc%5Etfw">#VRBPAC</a> 
-    votes unanimously to support recommending authorizing Pfizer boosters for people 65 and 
-    older, and people at high risk because of exposures (HCWs) or comorbid conditions. 
-    <a href="https://t.co/t3VtRt4BIz">pic.twitter.com/t3VtRt4BIz</a>
-  </p>&mdash; Helen Branswell (@HelenBranswell) <a href="https://twitter.com/HelenBranswell/status/1438961816969916423?ref_src=twsrc%5Etfw">September 17, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/HelenBranswell/status/1438961816969916423"><img src="{{ site.baseurl }}/images/2021-09-17-fda-covid-boosters-twitter-1.jpg" width="550" height="599" alt="Branswell @ Twitter: FDA VRBPAC voting question on Pfizer boosters" title="Branswell @ Twitter: FDA VRBPAC voting question on Pfizer boosters"></a>
 
 Right, so now they've rephrased the question, to be whether there should be boosters for
 those over 65 and those at high risk of COVID-19 (presumably the immunocompromised and

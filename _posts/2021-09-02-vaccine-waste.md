@@ -17,15 +17,7 @@ Today I saw a rather nice tweet pointing to a scary-sounding headline about vacc
 wastage, and then quite sagely pointing out that this seems to be _less_ than historical
 vaccination campaigns:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    this is a good example of how big numbers can be misleading if they aren’t in
-	context. here, the denominator is around 435 million doses, so 15 mil is 3.5% of the
-	total. typical vaccine waste in a campaign ranges from 5% for a single dose vial to
-	40% for a 20-dose vial. <a href="https://t.co/7Kb4AXBaq3">https://t.co/7Kb4AXBaq3</a>
-  </p>&mdash; b-boy bouiebaisse (@jbouie) <a href="https://twitter.com/jbouie/status/1433244920173764616?ref_src=twsrc%5Etfw">September 2, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/jbouie/status/1433244920173764616"><img src="{{ site.baseurl }}/images/2021-09-02-vaccine-waste-twitter-1.jpg" width="550" height="501" alt="Bouie @ Twitter: Always figure out the scale before you boggle at the number" title="Bouie @ Twitter: Always figure out the scale before you boggle at the number"></a>
 
 <img src="{{ site.baseurl }}/images/Cioppino.jpg" width="200" height="150" alt="Cioppino, a delicoius San Francisco variant on bouillabaisse" title = "Cioppino, a delicoius San Francisco variant on bouillabaisse" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I dunno much about this guy, "b-boy bouiebaisse".  However, I _do_ love

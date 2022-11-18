@@ -38,25 +38,9 @@ Or [here, last July:]({{ site.baseurl }}/politics-vs-mask-and-vaccine-use/#what-
 > 60%. It might be time to raise this estimate, as it’s beginning to dawn even on the
 > mainstream media: 
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The U.S. is preparing for the possibility that a booster shot will be needed between
-	nine to 12 months after people are initially vaccinated against COVID-19, a White
-	House official said <a href="https://www.cbsnews.com/news/moderna-covid-vaccine-booster-shots/">https://www.cbsnews.com/news/moderna-covid-vaccine-booster-shots/</a> 
-    <a href="https://t.co/e0CM8TgF2j">pic.twitter.com/e0CM8TgF2j</a> 
-  </p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1382978318534868992?ref_src=twsrc%5Etfw">April 16, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Reuters/status/1382978318534868992"><img src="{{ site.baseurl }}/images/2021-08-19-two-predictions-twitter-1.jpg" width="550" height="599" alt="Reuters @ Twitter: Preparing for boosters" title="Reuters @ Twitter: Preparing for boosters"></a>
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	Moderna plans to have third vaccine booster shot ready by fall. Pfizer announced plans
-	for a 3rd shot a few days ago. Moderna&#39;s vax is more than 90% effective 6 months
-	after the 2nd shot. What remains unclear is how long immunity lasts 
-	<a href="https://t.co/ExonaUxTcZ">https://t.co/ExonaUxTcZ</a>
-  </p>&mdash; delthia ricks 🔬 (@DelthiaRicks) <a href="https://twitter.com/DelthiaRicks/status/1383498543348867075?ref_src=twsrc%5Etfw">April 17, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/DelthiaRicks/status/1383498543348867075"><img src="{{ site.baseurl }}/images/2021-08-19-two-predictions-twitter-2.jpg" width="550" height="324" alt="Ricks @ Twitter: Moderna &amp; Pfizer ready for 3rd shot boosters" title="Ricks @ Twitter: Moderna &amp; Pfizer ready for 3rd shot boosters"></a>
 
 <img src="{{ site.baseurl }}/images/2021-08-19-two-predictions-cdc.jpg" width="400" height="251" alt="CDC: COVID-19 Booster Shots" title="CDC: COVID-19 Booster Shots" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This week the CDC confirmed <sup id="fn1a">[[1]](#fn1)</sup> that this will indeed be the
