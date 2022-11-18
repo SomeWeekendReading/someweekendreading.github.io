@@ -31,14 +31,7 @@ there a lot.
 
 But&hellip; somebody _really_ screwed up this advertisement:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	Hi Whole Foods!<br>I love that you&#39;re putting your own spin on Passover, but
-	offering ham as part of the holiday meal...is perhaps a skosh too much. 
-	<a href="https://t.co/lc2kfHfcov">pic.twitter.com/lc2kfHfcov</a>
-  </p>&mdash; 🌻 Emily Brandwin 🌻 (@CIAspygirl) <a href="https://twitter.com/CIAspygirl/status/1514020871794429952?ref_src=twsrc%5Etfw">April 12, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/CIAspygirl/status/1514020871794429952"><img src="{{ site.baseurl }}/images/2022-04-14-passover-vs-late-stage-capitalism-twitter-1.jpg" width="550" height="596" alt="Brandwin @ Twitter: Whole Foods confused about Passover" title="Brandwin @ Twitter: Whole Foods confused about Passover"></a>
 
 Ok, I'm a little leery of her cognomen "CIAspygirl", but she has the right of it.  There
 are more things in this picture that Jews _can't_ eat for Passover than they can:  

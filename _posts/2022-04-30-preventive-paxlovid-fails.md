@@ -22,16 +22,7 @@ If this had worked, it would have been big news: a way to _stop the spread_ of t
 
 Alas, and also possibly alack:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Pfizer Inc on Friday said a large trial found that its COVID-19 oral antiviral
-    treatment Paxlovid was not effective at preventing coronavirus infection in people
-    living with someone infected with the virus.
-    <a href="https://t.co/qRDEX4LlJ1">https://t.co/qRDEX4LlJ1</a>
-  </p>&mdash; Reuters Health (@Reuters_Health) 
-  <a href="https://twitter.com/Reuters_Health/status/1520285595062476800?ref_src=twsrc%5Etfw">April 30, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Reuters_Health/status/1520285595062476800"><img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-twitter-1.jpg" width="550" height="701" alt="Reuters Health @ Twitter: Failure of preventive paxlovid clinical trial" title="Reuters Health @ Twitter: Failure of preventive paxlovid clinical trial"></a>
 
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-reuters-1.jpg" width="400" height="235" alt="Beasley @ Reuters: Pfizer trial of preventive paxlovid fails" title="Beasley @ Reuters: Pfizer trial of preventive paxlovid fails" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-04-30-preventive-paxlovid-fails-pfizer-1.jpg" width="400" height="193" alt="Pfizer Media Relations: trial of preventive paxlovid fails" title="Pfizer Media Relations: trial of preventive paxlovid fails" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">

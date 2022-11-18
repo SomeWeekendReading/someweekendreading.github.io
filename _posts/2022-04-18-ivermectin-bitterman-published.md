@@ -19,13 +19,7 @@ One of the main findings from Scott Alexander's review <sup id="fn1a">[[1]](#fn1
 Avi Bitterman, showing the studies that showed an effect were in parts of the world with
 worm infestations:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Fully baked analysis here: 
-    <a href="https://t.co/BWPJxtVjVK">pic.twitter.com/BWPJxtVjVK</a>
-  </p>&mdash; Avi Bitterman, MD (@AviBittMD) <a href="https://twitter.com/AviBittMD/status/1461076939192602628?ref_src=twsrc%5Etfw">November 17, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/AviBittMD/status/1461076939192602628"><img src="{{ site.baseurl }}/images/2022-04-18-ivermectin-bitterman-published-twitter-1.jpg" width="550" height="685" alt="Bitterman @ Twitter: Ivermectin effect explained by worms" title="Bitterman @ Twitter: Ivermectin effect explained by worms"></a>
 
 Basically, worm infestations make everything more terrible, including COVID-19; removing
 the worms if present makes surviving COVID-19 more likely.  But _if you don't have worms,_

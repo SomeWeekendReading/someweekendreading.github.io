@@ -30,13 +30,8 @@ And so it is today.
 
 We have vaccines.  They _work._  Boosters are available.  They _work even better._  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    If you’re wondering what difference a booster makes. 
-    <a href="https://t.co/QZ1VokzR4T">pic.twitter.com/QZ1VokzR4T</a>
-  </p>&mdash; Chise 🧬🧫🦠💉 (@sailorrooscout) <a href="https://twitter.com/sailorrooscout/status/1501582937946533895?ref_src=twsrc%5Etfw">March 9, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/sailorrooscout/status/1501582937946533895"><img src="{{ site.baseurl }}/images/2022-03-25-tension-hope-despair-twitter-1.jpg" width="550" height="737" alt="Chise @ Twitter: Benefit of boosters" title="Chise @ Twitter: Benefit of boosters"></a>
+
 Why do we continue to doubt this?  I came across this report from the Arizona Department
 of Health Services, documenting _dramatic_ reductions in infection, hospitalization, and
 death comparing unvaccinated vs vaccinated &amp; boosted people.  The data comes directly
@@ -157,13 +152,8 @@ a "death cult", remember this evidence.
 
 Of course, with Republicans speaking lovingly of Putin and Russia, it's fitting to mention
 that a _truly_ efficient right-wing police force looks something like this:  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    This is insane.
-    <a href="https://t.co/HykAOdZs2Z">pic.twitter.com/HykAOdZs2Z</a>
-  </p>&mdash; Mark D. Levine (@MarkLevineNYC) <a href="https://twitter.com/MarkLevineNYC/status/1503101806964006928?ref_src=twsrc%5Etfw">March 13, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+
+<a href="https://twitter.com/MarkLevineNYC/status/1503101806964006928"><img src="{{ site.baseurl }}/images/2022-03-25-tension-hope-despair-twitter-2.jpg" width="550" height="530" alt="Levine @ Twitter: Russian police kidnapping protestors" title="Levine @ Twitter: Russian police kidnapping protestors"></a>
 
 (The first woman held up a sign which said in Russian: "two words".  Nothing more.
 Apparently that's current Russian street slang for "no war", and it got her arrested

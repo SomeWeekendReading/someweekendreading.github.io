@@ -250,43 +250,19 @@ Next, lets consult [Eric Topol of the Scripps Translational Research Institute](
 
 First, there is definitely an Omicron/BA.2 wave coming; the only question is how big:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    BA.2 wave in the US ?<br>
-    —The good part is that we&#39;re starting from a very low case burden, unlike previous waves<br>
-    —There are 8 states + Puerto Rico w/ double digit increase % in the past 2 weeks (not including home tests)<br>
-    —We will have a wave. The only question is how big it&#39;ll be 
-    <a href="https://t.co/vs7wTdd0h3">pic.twitter.com/vs7wTdd0h3</a>
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1508200109451874304?ref_src=twsrc%5Etfw">March 27, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1508200109451874304"><img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-twitter-1.jpg" width="550" height="674" alt="Topol @ Twitter: BA.2 wave in the US" title="Topol @ Twitter: BA.2 wave in the US"></a>
 
 Second, there's some evidence that mixing the Pfizer/BioNTech and Moderna vaccines as
 mutual boosters gives a salubrious result:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    New <a href="https://twitter.com/ScienceTM?ref_src=twsrc%5Etfw">@ScienceTM</a> <br>
-    The mRNA vaccines are not interchangeable.<br>
-    If you got Moderna vaccines, think about getting a Pfizer booster or if you got Pfizers, 
-    a Moderna booster
-    <a href="https://t.co/gI3ZvL0nf8">https://t.co/gI3ZvL0nf8</a> 
-    <a href="https://t.co/9GiuvLLH1O">pic.twitter.com/9GiuvLLH1O</a>
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1508949980727287809?ref_src=twsrc%5Etfw">March 29, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1508949980727287809"><img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-twitter-2.jpg" width="550" height="742" alt="Topol @ Twitter: Mixing vaccines is better" title="Topol @ Twitter: Mixing vaccines is better"></a>
 
 Third, the US is woefully under-boosted.  Compare the US to European countries, and then
 think about how the Omicron/BA.2 wave is hitting them _vs_ how it will hit us:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Our best defense vs BA.2 deaths and hospitalizations is booster shots. 
-    Look where the US stands compared with these countries. 
-    <a href="https://t.co/WT1qkdld47">pic.twitter.com/WT1qkdld47</a>
-  </p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1508140796716847107?ref_src=twsrc%5Etfw">March 27, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1508140796716847107">
+  <img src="{{ site.baseurl }}/images/2022-04-01-today-i-got-shot-a-seventh-time-twitter-3.jpg" width="550" height="1002" alt="Topol @ Twitter: Best BA.2 defense is boosters" title="Topol @ Twitter: Best BA.2 defense is boosters">
+</a>
 
 
 ## Consulting Experts in Longer Form

@@ -16,13 +16,7 @@ even pretending to be rational any more.
 It came to my attention this way, from a chaired professor of social science at NYU, who might
 thus be suspected of knowing what he's talking about re social policy:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    So to be clear, conservative judges have ruled that: 1) COVID is no longer a great threat so the CDC has no right to mandate masks on airplanes and 2) COVID is such a grave hazard that the US must deny entry to migrants to protect American public health. <a href="https://t.co/JxzsN9uWcI">https://t.co/JxzsN9uWcI</a>
-  </p>&mdash; Eric Klinenberg (@EricKlinenberg) 
-  <a href="https://twitter.com/EricKlinenberg/status/1519289376760606721?ref_src=twsrc%5Etfw">April 27, 2022</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricKlinenberg/status/1519289376760606721"><img src="{{ site.baseurl }}/images/2022-04-29-too-much-too-little-covid-twitter-1.jpg" width="550" height="707" alt="Klinenberg @ Twitter: Too much COVID-19 or too little?" title="Klinenberg @ Twitter: Too much COVID-19 or too little?"></a>
 
 So let's unpack for a moment what he's talking about.  Following
 [_The Hunting of the Snark_](https://en.wikipedia.org/wiki/The_Hunting_of_the_Snark),

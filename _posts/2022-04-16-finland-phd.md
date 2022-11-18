@@ -22,14 +22,7 @@ beautiful, though ephemeral, snow sculptures]({{ site.baseurl }}/winter-beauty/)
 Today, it came to my attention that when you get a PhD in Finland, they give you a
 doctoral top hat and a sword:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    When you get a PhD in Finland, you receive a doctoral top hat and sword, tailored to
-    your discipline. Both will be used in your conferment ceremony (pictured). 
-    <a href="https://t.co/rqQzUsiCg2">pic.twitter.com/rqQzUsiCg2</a>
-  </p>&mdash; Dr. Anna Hughes (@AnnaGHughes) <a href="https://twitter.com/AnnaGHughes/status/998599892657324033?ref_src=twsrc%5Etfw">May 21, 2018</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/AnnaGHughes/status/998599892657324033"><img src="{{ site.baseurl }}/images/2022-04-16-finland-phd-twitter-1.jpg" width="550" height="613" alt="Hughes @ Twitter: PhD in Finland = top hat + sword" title="Hughes @ Twitter: PhD in Finland = top hat + sword"></a>
 
 I checked this out with a bunch of other people, who confirmed the story and showed
 pictures of their swords.  Smells pretty real to me.  
