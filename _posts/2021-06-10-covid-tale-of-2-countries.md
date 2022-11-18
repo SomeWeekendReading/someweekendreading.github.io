@@ -66,40 +66,20 @@ from community figures they trust.  We're doing that.  But there's a cadre of ha
 louts who just _won't_ take care of themselves, nor give a care for the welfare of
 everyone _else_ who'd rather not breed new viral variants:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Plummeting vaccination rates have turned what officials hoped would be the “last mile”
-    of the coronavirus immunization campaign into a marathon, threatening President Biden’s
-    goal of getting shots to at least 70 percent of adults by July 4. <a href="https://t.co/MDsw2Vssh7">https://t.co/MDsw2Vssh7</a> 
-  </p>
-  &mdash; The Washington Post (@washingtonpost) <a href="https://twitter.com/washingtonpost/status/1401987358707240968?ref_src=twsrc%5Etfw">June 7, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/washingtonpost/status/1401987358707240968"><img src="{{ site.baseurl }}/images/2021-06-10-covid-tale-of-2-countries-twitter-1.jpg" width="550" height="711" alt="WaPo @ Twitter: Disappointing decline in vax rates" title="WaPo @ Twitter: Disappointing decline in vax rates"></a>
 
 And, of course, that's not uniformly distributed.  It's concentrated in the American
 South, land of Christian fundamentalism, hard-core Republicans, and low education.  I am
 _so_ tired of being told I have to cut them a break!  But the evidence is that they prefer
 their local superstitions and _want_ COVID-19 not to stop:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Lots of factors involved in South’s vax lag — GOP resistance, black suspicion of medical system, rural isolation, poor access to health care. Other thoughts: education is predictor of vax willingness — Deep South has low educ levels. Also area w/ low social trust. <a href="https://t.co/RzBknysWnr">https://t.co/RzBknysWnr</a>
-  </p>
-  &mdash; Richard Skinner (@richardmskinner) <a href="https://twitter.com/richardmskinner/status/1402825104908771332?ref_src=twsrc%5Etfw">June 10, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/richardmskinner/status/1402825104908771332">
+  <img src="{{ site.baseurl }}/images/2021-06-10-covid-tale-of-2-countries-twitter-2.jpg" width="550" height="442" alt="Skinner @ Twitter: Factors in the south's vaccine defiance" title="Skinner @ Twitter: Factors in the south's vaccine defiance">
+</a>
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The partisan divide in States&#39; success in mass vaccination across the US is truly
-    startling. <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>
-    is an equal-opportunity infector, but unused 
-    <a href="https://twitter.com/hashtag/vaccines?src=hash&amp;ref_src=twsrc%5Etfw">#vaccines</a>
-   can&#39;t be equal-opportunity protectors.<a href="https://t.co/dzjxbQpBMY">https://t.co/dzjxbQpBMY</a> 
-  </p>
-  &mdash; Laurie Garrett (@Laurie_Garrett) <a href="https://twitter.com/Laurie_Garrett/status/1402839113699676160?ref_src=twsrc%5Etfw">June 10, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Laurie_Garrett/status/1402839113699676160">
+  <img src="{{ site.baseurl }}/images/2021-06-10-covid-tale-of-2-countries-twitter-3.jpg" width="550" height="325" alt="Garrett @ Twitter: Startling partisan divide in infections" title="Garrett @ Twitter: Startling partisan divide in infections">
+</a>
 
 <iframe width="373" height="210" src="https://www.youtube.com/embed/JsA72dLablY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 It's gotten very, very bad.  The usual go-to example of psychotic delusion in Congress is
@@ -138,14 +118,9 @@ vaccination rates, as probably a high estimate of what's required.
 So the news that Seattle, at least, has achieved something near that is definitely good
 news.  We should all hope to follow them, and _fast_:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Seattle has become the first major U.S. city to hit the COVID-19 milestone of getting 70% of people aged 12 and up fully vaccinated, according to Mayor Jenny Durkan. She says the city and its partners will now start efforts to support Seattle’s reopening. <a href="https://t.co/Ot4aT1yadg">https://t.co/Ot4aT1yadg</a>
-  </p>
-  &mdash; The Associated Press (@AP) 
-  <a href="https://twitter.com/AP/status/1402766891727343618?ref_src=twsrc%5Etfw">June 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/AP/status/1402766891727343618">
+  <img src="{{ site.baseurl }}/images/2021-06-10-covid-tale-of-2-countries-twitter-4.jpg" width="550" height="707" alt="AP @ Twitter: Seattle reaches 70% vax rate" title="AP @ Twitter: Seattle reaches 70% vax rate">
+</a>
 
 Some of the rather more rational people in the US are beginning to realize what this
 means.  For example, [Zvi Mowshowitz](https://en.wikipedia.org/wiki/Zvi_Mowshowitz) has
@@ -160,33 +135,17 @@ more dangerous American South any time soon.
 
 In the meantime, perhaps we should adapt our attitudes and at least _attempt_ grace:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    An observation: Right now is not easy, no matter who you are. The last 16 months were tough. And the sadness, anger, &amp; fatigue are finally oozing to the surface.<br><br>
-
-    So please, let’s default to having grace for each other.<br><br>
-
-    We sure could all use it.
-  </p> 
-  &mdash; Megan Ranney MD MPH 🗽 (@meganranney) 
-  <a href="https://twitter.com/meganranney/status/1402811659077533700?ref_src=twsrc%5Etfw">June 10, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/meganranney/status/1402811659077533700">
+  <img src="{{ site.baseurl }}/images/2021-06-10-covid-tale-of-2-countries-twitter-5.jpg" width="550" height="368" alt="Ranney @ Twitter: Attempting to treat each other with good grace" title="Ranney @ Twitter: Attempting to treat each other with good grace">
+</a>
 
 It's of course in our interest to have the entire world vaccinated, since as
 epidemiologists say: "None of us are safe until all of us are safe."  But sometimes, we
 can just decide to be generous:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    President Biden will announce Thursday that the U.S. has purchased 500 million doses
-    of Pfizer&#39;s coronavirus vaccine to donate to countries that cannot afford to buy
-    enough shots. <a href="https://t.co/w4sgeDgnAa">https://t.co/w4sgeDgnAa</a> 
-  </p>
-  &mdash; NPR Politics (@nprpolitics) 
-  <a href="https://twitter.com/nprpolitics/status/1402753644378918913?ref_src=twsrc%5Etfw">June 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/nprpolitics/status/1402753644378918913">
+  <img src="{{ site.baseurl }}/images/2021-06-10-covid-tale-of-2-countries-twitter-6.jpg" width="550" height="701" alt="NPR Politics @ Twitter: Biden announces US donation of 500 million Pfizer doses" title="NPR Politics @ Twitter: Biden announces US donation of 500 million Pfizer doses">
+</a>
 
 
 ## The Weekend Conclusion  
