@@ -31,8 +31,16 @@ the tweet.  Crude, but effective:
 - Page loads are way faster  
 - If Twitter goes, the screen shots stay here  
 - But&hellip; I have to use some storage for screenshots.  
-
 It's a fair trade.  
+
+Feel free to tell me if I've missed any, but my friend grep and his crew think I got them all:  
+```sh
+    $ grep "twitter-tweet" _posts/*.md | tr -d "[:blank:]"| sort | uniq | wc -l
+       0
+
+    $ ls -l ./images/ | grep ".*twitter.*" | wc -l
+     133
+```
 
 ---
 
