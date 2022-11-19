@@ -134,16 +134,9 @@ debased US political reactions would be&hellip; It's already _almost_ that bad, 
 people refusing to mask up are assumed to be Republicans, and that widely viewed as an
 occasion for shame:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    I ordered pizza the other day. When the delivery guy arrived, I went to the door. My
-	15 yo daughter told me to "mask up!" "Why? I’m fully vaccinated" I asked. "We don’t
-	want to freak out the delivery guy, but, more importantly, we don’t want him to think
-	we are Republicans."
-  </p>
-  &mdash; DoctorTitanium (@Phormio2013) <a href="https://twitter.com/Phormio2013/status/1369256097899552772?ref_src=twsrc%5Etfw">March 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Phormio2013/status/1369256097899552772">
+  <img src="{{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-twitter-1.jpg" width="550" height="928" alt="DoctorTitanium @ Twitter: Battle of cultural norms" title="DoctorTitanium @ Twitter: Battle of cultural norms">
+</a>
 
 
 ##  Eagerly awaiting vaccination  
@@ -161,17 +154,10 @@ the song
 (Mostly because my elder siblings were listening to popular music
 at the time when I were nought but a wee sprout.)  So&hellip; "Mr. Biden, bring my vaccine":  
 
+<a href="https://twitter.com/RandyRainbow/status/1369294406126305283">
+  <img src="{{ site.baseurl }}/images/2021-03-10-republicans-vs-herd-immunity-twitter-2.jpg" width="550" height="553" alt="Randy Rainbow @ Twitter: Mr Biden, Bring My Vaccine" title="Randy Rainbow @ Twitter: Mr Biden, Bring My Vaccine">
+</a>
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    One year in quarantine got me like...
-    <a href="https://twitter.com/hashtag/MrBiden?src=hash&amp;ref_src=twsrc%5Etfw">#MrBiden</a>
-    <a href="https://twitter.com/hashtag/BringMyVaccine?src=hash&amp;ref_src=twsrc%5Etfw">#BringMyVaccine</a>
- 🏻 <a href="https://t.co/QKYaEhhtay">pic.twitter.com/QKYaEhhtay</a>
-  </p>
-&mdash; Randy Rainbow (@RandyRainbow) <a href="https://twitter.com/RandyRainbow/status/1369294406126305283?ref_src=twsrc%5Etfw">March 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
 
 ## Addendum 2021-Mar-14 (Pi Day!)
 

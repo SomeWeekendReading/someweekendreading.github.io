@@ -38,16 +38,9 @@ need evidence before the FDA will look at it.  In fact, word on the street &mdas
 assuming you travel the appropriate streets &mdash; is that this trial has reached its
 required event count and will read out in the next few days:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Sounds like the big US/international trial for the Oxford-AstraZeneca vaccine has its
-	events (likely final): <a href="https://t.co/79tArvAIGr">https://t.co/79tArvAIGr</a>
-	If so, there could be a press release soon (perhaps just days away).<br><br>
-    My 🧵 on what I&#39;ll be keeping in mind: <a
-	href="https://t.co/5JFmnZ7Emi">https://t.co/5JFmnZ7Emi</a> 
-  </p>&mdash; Hilda Bastian, PhD (@hildabast) <a href="https://twitter.com/hildabast/status/1371566142221807617?ref_src=twsrc%5Etfw">March 15, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/hildabast/status/1371566142221807617">
+  <img src="{{ site.baseurl }}/images/2021-03-17-azox-vaccine-thrombo-twitter-1.jpg" width="550" height="509" alt="Bastian @ Twitter: AZ/OX trial reached its event count" title="Bastian @ Twitter: AZ/OX trial reached its event count">
+</a>
 
 So when I heard that some European countries were stopping the use of AZ/OX pending an
 assessment of serious adverse events (occasionally fatal blood clots) I thought, "What

@@ -26,14 +26,9 @@ Yep.  Kid knows what's goin' on.
 Of course, for visual thinkers, this police dashcam video is perhaps the best summary of
 2020 and its sequelae.  (Go ahead and watch the short video.  Really.  I'll wait.)  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Police dashcam in Arkansas captures a strange sight 
-    <a href="https://t.co/OkW7ArJt4B">pic.twitter.com/OkW7ArJt4B</a>
-  </p>
-  &mdash; Fifty Shades of Whey (@davenewworld_2) <a href="https://twitter.com/davenewworld_2/status/1373415649947611136?ref_src=twsrc%5Etfw">March 20, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/davenewworld_2/status/1373415649947611136">
+  <img src="{{ site.baseurl }}/images/2021-03-22-pandemic-in-retrospect-twitter-1.jpg" width="550" height="531" alt="50 Shades of Whey @ Twitter: police dashcam summarizes plague year" title="50 Shades of Whey @ Twitter: police dashcam summarizes plague year">
+</a>
 
 ["Fire bad.  Tree pretty."](https://www.youtube.com/watch?v=769qie9npes)  We should note
 that, unlike COVID-19,  apparently nobody was hurt in that incident.  
@@ -73,19 +68,9 @@ responding to
 [FiveThirtyEight](https://fivethirtyeight.com/)), both experienced, fiercely intelligent,
 and worth a listen:  
 
-
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Absolutely what Nate said<br><br>
-	None of us expected vaccines this good<br><br>
-	In an August conversation with Tony Fauci -- we both said we&#39;d be thrilled with a 60-70%
-	effective vaccine<br><br>
-    Their arrival by December, our ability to make so many so
-	quickly is the unexpected pandemic life saver <a href="https://t.co/Zi5l2HHeRu">https://t.co/Zi5l2HHeRu</a> 
-  </p>
-  &mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1373457628215525377?ref_src=twsrc%5Etfw">March 21, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1373457628215525377">
+  <img src="{{ site.baseurl }}/images/2021-03-22-pandemic-in-retrospect-twitter-2.jpg" width="550" height="564" alt="Jha @ Twitter: Nobody expected vaccines this good!" title="Jha @ Twitter: Nobody expected vaccines this good!">
+</a>
 
 It's hard to understate how much the mRNA vaccines in particular are going to change the
 face of vaccination forever.  It's quick to generate a candidate, no more than the usual
@@ -130,18 +115,9 @@ time.
 
 Nobody is safe until everybody is safe:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	For nearly 2 weeks, we&#39;ve been stuck at 50K new cases daily<br><br>
-    in that time, we&#39;ve vaccinated an additional 20M Americans<br><br>So why flat?<br><br>
-    Its a race between vaccinations and variants<br><br>
-    And we&#39;re running even<br><br>
-    Opening up too fast helps the variants<br><br>
-    I want vaccinations to win <a href="https://t.co/UD8cR3OXXb">pic.twitter.com/UD8cR3OXXb</a>
-  </p>
-  &mdash; Ashish K. Jha, MD, MPH (@ashishkjha) <a href="https://twitter.com/ashishkjha/status/1373610236221734912?ref_src=twsrc%5Etfw">March 21, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1373610236221734912">
+  <img src="{{ site.baseurl }}/images/2021-03-22-pandemic-in-retrospect-twitter-3.jpg" width="550" height="858" alt="Jha @ Twitter: Race between variants and vaccinations" title="Jha @ Twitter: Race between variants and vaccinations">
+</a>
 
 Yeah, I want vaccines to win too, as does anybody else who's not a knucklehead.  So quit
 opening up, weark masks, distance yourself from others, and _get vaccinated_.
@@ -154,14 +130,9 @@ Your humble Weekend Editor has a weakeness for good donuts.  (Well, good pastry
 generally.)  So we were frustrated here at Chez Weekend to note the following offer of
 free donuts to vaccinated people:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Krispy Kreme will you give you a free doughnut every day this year — if you&#39;ve
-	been vaccinated <a href="https://t.co/ZLkGUa8QGH">https://t.co/ZLkGUa8QGH</a> 
-  </p>
-  &mdash; CBS News (@CBSNews) <a href="https://twitter.com/CBSNews/status/1374005427596312580?ref_src=twsrc%5Etfw">March 22, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/CBSNews/status/1374005427596312580">
+  <img src="{{ site.baseurl }}/images/2021-03-22-pandemic-in-retrospect-twitter-4.jpg" width="550" height="637" alt="CBS News @ Twitter: Krispy Kreme giving a free donut every day to vaccinees" title="CBS News @ Twitter: Krispy Kreme giving a free donut every day to vaccinees">
+</a>
 
 Alas, the Krispy Kreme nearest Chez Weekend is 2 states away.  So optimism is in
 order&hellip; just not in our immediate vicinity.  But should you find yourself in

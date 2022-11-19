@@ -370,13 +370,9 @@ Hilda Bastian has a Twitter thread in which she goes through the tables in the s
 documents, reaching the same conclusions we did from the VRBPAC slide presentation.  It's
 worth reading, just for confirmation:  
 
-<blockquote class="twitter-tweet">
- <p lang="en" dir="ltr">
-   Away we go. J&amp;J ENSEMBLE trial evaluation has landed - 8am again - thanks, FDA! ....1/n<a href="https://t.co/Poy7N72Rnt">https://t.co/Poy7N72Rnt</a>
- </p>
- &mdash; Hilda Bastian, PhD (@hildabast) <a href="https://twitter.com/hildabast/status/1364561482185199625?ref_src=twsrc%5Etfw">February 24, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/hildabast/status/1364561482185199625">
+  <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-twitter-1.jpg" width="550" height="652" alt="Bast @ Twitter: Thread of JnJ ENSEMBLE trial" title="Bast @ Twitter: Thread of JnJ ENSEMBLE trial">
+</a>
 
 
 ## VRBPAC Verdict  
@@ -489,19 +485,9 @@ would be an excellent capstone to a career; he has both, and is thus someone to 
 should listen carefully).  He summarizes the results across 5 vaccines &amp; vaccine candidates
 in a simple table:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Am often asked about different vaccines and their efficacy<br><br>
-    Each trials tracks, reports efficacy differently<br><br>
-    Currently, we have preliminary results for Novavax and J&amp;J<br><br>
-    But what numbers matter? What should you look for? <br><br>
-    Here&#39;s one set of data to track. In a simple table 
-    <a href="https://t.co/9m2OBgqcla">pic.twitter.com/9m2OBgqcla</a>
-  </p>
-  &mdash; Ashish K. Jha, MD, MPH (@ashishkjha)
-  <a href="https://twitter.com/ashishkjha/status/1356079020878786561?ref_src=twsrc%5Etfw">February 1, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ashishkjha/status/1356079020878786561">
+  <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-twitter-2.jpg" width="550" height="812" alt="Jha @ Twitter: Nobody in vax arms of trial was hospitalized or died" title="Jha @ Twitter: Nobody in vax arms of trial was hospitalized or died">
+</a>
 
 __Summary:__ There are 2 conclusions that he makes blunt-trauma-obvious here:
 - _Column 2:_ The vaccines have all been tested on _large_ populations: $\geq O(10^4)$ trial
@@ -544,17 +530,9 @@ parts of the US or in the developing world.
 
 Shipping is in progress today; deliveries begin tomorrow:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	BREAKING: The first <a href="https://twitter.com/UPS?ref_src=twsrc%5Etfw">@UPS</a>
-    truck carrying the Johnson &amp; Johnson vaccine just arrived at the Worldport hub in
-    Louisville. More trucks carrying the vaccine will arrive throughout the day. Deliveries
-    start TOMORROW.  
-    <a href="https://t.co/Aud092wQ24">pic.twitter.com/Aud092wQ24</a>
-  </p>
-  &mdash; Pete Muntean (@petemuntean) <a href="https://twitter.com/petemuntean/status/1366442688296456192?ref_src=twsrc%5Etfw">March 1, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/petemuntean/status/1366442688296456192">
+  <img src="{{ site.baseurl }}/images/2021-02-26-jnj-vaccine-vrbpac-review-twitter-3.jpg" width="550" height="595" alt="Muntean @ Twitter: Trucks carrying vax" title="Muntean @ Twitter: Trucks carrying vax">
+</a>
 
 ---
 

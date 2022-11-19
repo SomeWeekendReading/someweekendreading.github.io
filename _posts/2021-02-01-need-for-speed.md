@@ -23,21 +23,10 @@ So why are we bungling it world-wide?
 Remember [about a month ago, we reported on this blog]({{ site.baseurl }}/youre-scaring-me/#not-just-your-body-your-choice-you-live-with-the-rest-of-us) 
 that there was evidence of COVID fatigue in France among the 20-somethings leading to
 massive infections and deaths in the elderly?  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    A fascinating graph, showing the dynamics of the second wave in France. <br><br>
 
-    Things were fine in July, but the 20-29 year olds starting relaxing.<br><br>
-
-    Over time, they contaminated older generations until infection rates were high for all. <br><br>
-
-    How will the reverse movement proceed? 
-    <a href="https://t.co/KkgilUuVh0">pic.twitter.com/KkgilUuVh0</a>
-  </p>
-&mdash; Olivier Blanchard (@ojblanchard1) 
-<a href="https://twitter.com/ojblanchard1/status/1331952292883533824">November 26, 2020</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ojblanchard1/status/1331952292883533824">
+  <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-twitter-1.jpg" width="550" height="767" alt="Blanchard @ Twitter: Dynamics of 2nd wave in France" title="Blanchard @ Twitter: Dynamics of 2nd wave in France">
+</a>
 
 [<img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-france-age-group-infections.jpg" width="400" height="246" alt="Guillaume Pressiat: age group cross-infections in France" title="Guillaume Pressiat: age group cross-infections in France" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>](https://guillaumepressiat.github.io/blog/2021/01/covidview-si-dep-echarts4r)
 Now [Guillaume Pressiat, writing on his blog alt-R native](https://guillaumepressiat.github.io/blog/2021/01/covidview-si-dep-echarts4r)
@@ -78,14 +67,10 @@ do; second, it's also the only sensible thing to keep the vaccinated population 
 
 That's why this tweet a few weeks ago from Amy Maxmen, who reports for _Nature_, was so
 disheartening:  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Map worth 1000 words <a href="https://t.co/JGUIC4793F">pic.twitter.com/JGUIC4793F</a>
-  </p>
-&mdash; Amy Maxmen, PhD (@amymaxmen) 
-<a href="https://twitter.com/amymaxmen/status/1351201063366496259">January 18, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+
+<a href="https://twitter.com/amymaxmen/status/1351201063366496259">
+  <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-twitter-2.jpg" width="550" height="567" alt="Maxmen @ Twitter: Map of vaccine availability times" title="Maxmen @ Twitter: Map of vaccine availability times">
+</a>
 
 We're replicating the structural discrimination of colonialism, and creating reservoirs of
 unvaccinated people where the virus can continue to mutate.  This is both wrong
@@ -101,27 +86,13 @@ many sorts of structural discrimination against the Palestinians.  But at least 
 instance, they know rapid vaccination leads to declines in infection, hospitalization, and
 death rates.  _This is how it's done._  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Data from Israel&#39;s 2nd largest health provider Maccabi: significant (60%) decrease in infections up to 23 days after 1st pfizer vaccine dose. Also marked drop in hospitalizations. Their initial analysis is attached. <a href="https://twitter.com/KalksteinNir">@KalksteinNir</a> <a href="https://t.co/mPGy9pvOXc">pic.twitter.com/mPGy9pvOXc</a>
-  </p>
-&mdash; נדב איל Nadav Eyal (@Nadav_Eyal) <a href="https://twitter.com/Nadav_Eyal/status/1353050986533670914">January 23, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>  
+<a href="https://twitter.com/Nadav_Eyal/status/1353050986533670914">
+  <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-twitter-3.jpg" width="550" height="623" alt="Eyal @ Twitter: Vax efficacy from Israeli Maccabi Health" title="Eyal @ Twitter: Vax efficacy from Israeli Maccabi Health">
+</a>
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Israel: We say with caution, the magic has started<br><br>
-    Note blue lines, of 60+ years old (first to vaccinate), in the past 2 weeks:<br><br>
-    ~35% drop in cases<br>
-    ~30% drop in hospitalizations<br>
-    ~20% drop in critically ill<br><br>
-    Stronger than in younger people &amp; not seen in previous lockdown<br><br>
-    &gt;&gt;&gt; <a href="https://t.co/vzYFbVZ98K">pic.twitter.com/vzYFbVZ98K</a>
-  </p>
-&mdash; Eran Segal (@segal_eran) <a href="https://twitter.com/segal_eran/status/1356313705684869121?ref_src=twsrc%5Etfw">February 1, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>  
+<a href="https://twitter.com/segal_eran/status/1356313705684869121">
+  <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-twitter-4.jpg" width="550" height="915" alt="Segal @ Twitter: Vaccines working in Israel" title="Segal @ Twitter: Vaccines working in Israel">
+</a>
 
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-nyt.jpg" width="400" height="622" alt="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" title="NYT: Oregon health care workers in snow traffic jam vaccinate other drivers" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 <img src="{{ site.baseurl }}/images/2021-02-01-need-for-speed-seattle.jpg" width="400" height="465" alt="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" title="Seattle Univ and Univ Washington distribute vaccines at night after freezer failure" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
