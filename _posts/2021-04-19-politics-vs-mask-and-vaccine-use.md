@@ -188,25 +188,14 @@ and that
 Personally, I was putting the probability of the need for boosters this fall at about
 60%.  It might be time to raise this estimate, as it's beginning to dawn even on the
 mainstream media:  
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    The U.S. is preparing for the possibility that a booster shot will be needed between
-	nine to 12 months after people are initially vaccinated against COVID-19, a White
-	House official said <a href="https://www.cbsnews.com/news/moderna-covid-vaccine-booster-shots/">https://www.cbsnews.com/news/moderna-covid-vaccine-booster-shots/</a> 
-    <a href="https://t.co/e0CM8TgF2j">pic.twitter.com/e0CM8TgF2j</a> 
-  </p>&mdash; Reuters (@Reuters) <a href="https://twitter.com/Reuters/status/1382978318534868992?ref_src=twsrc%5Etfw">April 16, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-	Moderna plans to have third vaccine booster shot ready by fall. Pfizer announced plans
-	for a 3rd shot a few days ago. Moderna&#39;s vax is more than 90% effective 6 months
-	after the 2nd shot. What remains unclear is how long immunity lasts 
-	<a href="https://t.co/ExonaUxTcZ">https://t.co/ExonaUxTcZ</a>
-  </p>&mdash; delthia ricks 🔬 (@DelthiaRicks) <a href="https://twitter.com/DelthiaRicks/status/1383498543348867075?ref_src=twsrc%5Etfw">April 17, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/Reuters/status/1382978318534868992">
+  <img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-twitter-1.jpg" width="550" height="598" alt="Reuters @ Twitter: US preparing fro boosters" title="Reuters @ Twitter: US preparing fro boosters">
+</a>
+
+<a href="https://twitter.com/DelthiaRicks/status/1383498543348867075">
+  <img src="{{ site.baseurl }}/images/2021-04-19-politics-vs-mask-and-vaccine-use-twitter-2.jpg" width="550" height="321" alt="Ricks @ Twitter: Moderna &amp; Pfizer ready boosters for fall" title="Ricks @ Twitter: Moderna &amp; Pfizer ready boosters for fall">
+</a>
 
 One could wish for the times to be less fraught with self-inflicted wounds from stupidity.
 But again&hellip; here we are.  

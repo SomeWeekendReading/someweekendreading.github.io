@@ -248,20 +248,9 @@ and thus bumps up the thrombosis probability by 10x.  The conclusion that the ri
 less than the risk of COVID death is still approximately true, I think &mdash; but it
 makes the halt to examine subpopulations _slightly_ more understandable.  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    About risk:<br><br>
-
-    For now a lot depends on the denominator you choose.<br>
-
-    ⁰You can say 6 out of more than 6 million vaccines, so 1 in a million⁰.<br>
-
-    Or if you use female vaccinees aged 18-50 and vaccinated more than 2 weeks ago, it’s
-    more like 6 out of 700,000, so closer to 1 in 100,000
-  </p>
-  &mdash; Kai Kupferschmidt (@kakape) <a href="https://twitter.com/kakape/status/1382446239573229568?ref_src=twsrc%5Etfw">April 14, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/kakape/status/1382446239573229568">
+  <img src="{{ site.baseurl }}/images/2021-04-13-jnj-thrombosis-pause-twitter-1.jpg" width="550" height="593" alt="Kupferschmidt @ Twitter: Risk depends on the denominator!" title="Kupferschmidt @ Twitter: Risk depends on the denominator!">
+</a>
 
 ---
 

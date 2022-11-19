@@ -129,15 +129,9 @@ One enterprising vet has helpfully provided pictures of the hypodermic needles u
 experience) vs the needles used for vaccinations.  The latter is a 22-25 gauge needle that
 you can barely feel; the former is by comparison giant:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    For a bit more context: microchip needle on the left, vaccine needle in the right. 
-    I promise you'd notice if the government were secretly microchipping you. 
-    <a href="https://t.co/uwxRJnB8oA">https://t.co/uwxRJnB8oA</a> <a href="https://t.co/oYeoMip3to">pic.twitter.com/oYeoMip3to</a>
-  </p>
-  &mdash; Dr Pip 👩🏻‍⚕️🐈 (@vetpip) <a href="https://twitter.com/vetpip/status/1328740921832255488?ref_src=twsrc%5Etfw">November 17, 2020</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/vetpip/status/1328740921832255488">
+  <img src="{{ site.baseurl }}/images/2021-03-30-variants-vs-vaccines-twitter-1.jpg" width="550" height="1371" alt="Dr Pip @ Twitter: What ACTUAL tracking chips look like" title="Dr Pip @ Twitter: What ACTUAL tracking chips look like">
+</a>
 
 The social engineering question is: how do we stop people from filling their heads with
 crap like this?  Clearly, whatever we've been doing so far isn't really working well enough!  

@@ -28,29 +28,12 @@ capacity due to their weak uptake.
 It didn't take long for it to dawn on people in Democratic areas searching for vaccine
 appointments that there was the seed of a _strategy_ here:  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    &quot;I just googled ‘Trump landslides in Ohio,’ then I looked at the nearest county
-	and the biggest city in that county, and I found an appointment. The whole thing took
-	me three minutes.&quot; <a href="https://t.co/38jJOk6UJF">https://t.co/38jJOk6UJF</a>
-	via <a href="https://twitter.com/thedailybeast?ref_src=twsrc%5Etfw">@thedailybeast</a> 
-  </p>
-  &mdash; (((Steve Chapman))) (@SteveChapman13) <a href="https://twitter.com/SteveChapman13/status/1377325594749374465?ref_src=twsrc%5Etfw">March 31, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/JamieMcCarty/status/1377310573625401348">
+  <img src="{{ site.baseurl }}/images/2021-04-02-that-didnt-take-long-twitter-1.jpg" width="550" height="321" alt="McCarty @ Twitter: Google Trump landslides to find vaccines" title="McCarty @ Twitter: Google Trump landslides to find vaccines">
+</a>
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    You can see the geographic disparities in how easy it is to get a vaccine by looking
-	at maps on <a href="https://t.co/6t2ahtTZni">https://t.co/6t2ahtTZni</a> of pharmacy
-	appointments.<br><br>
-    Here are some examples - PA/IL/GA. Barely any vaccine appointments in Democratic metro
-	areas but a ton in Republican rural areas. 
-    <a href="https://t.co/jcJSZwmuf4">pic.twitter.com/jcJSZwmuf4</a> 
-  </p> 
-  &mdash; Ryan Matsumoto (@ryanmatsumoto1) <a href="https://twitter.com/ryanmatsumoto1/status/1377249938308882439?ref_src=twsrc%5Etfw">March 31, 2021</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/ryanmatsumoto1/status/1377249938308882439">
+  <img src="{{ site.baseurl }}/images/2021-04-02-that-didnt-take-long-twitter-2.jpg" width="550" height="1109" alt="Matsumoto @ Twitter: Examples of unused vaccine in Trumpy areas" title="Matsumoto @ Twitter: Examples of unused vaccine in Trumpy areas">
+</a>
 
 Well, if you're not gonna use it, somebody else will.  
-

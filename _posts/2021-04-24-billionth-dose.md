@@ -24,20 +24,9 @@ sources so you can check things out for a bit of mini-peer-review).
 
 He points out that yesterday we passed an interesting milestone (base 10, anyway):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    A striking human and biomedical achievement<br>
-    Look forward to 10X and reaching as many as possible of the 7.9 billion people who
-    will benefit from protection 
-    <a href="https://t.co/8kKvC1gFH9">https://t.co/8kKvC1gFH9</a> 
-    <a href="https://twitter.com/ArmstrongDrew?ref_src=twsrc%5Etfw">@ArmstrongDrew</a> 
-    <a href="https://twitter.com/business?ref_src=twsrc%5Etfw">@business</a> 
-    <a href="https://t.co/sGcY2IW2fl">pic.twitter.com/sGcY2IW2fl</a>  
-  </p>
-  &mdash; Eric Topol (@EricTopol) 
-  <a href="https://twitter.com/EricTopol/status/1386002974422433795?ref_src=twsrc%5Etfw">April 24, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/EricTopol/status/1386002974422433795">
+  <img src="{{ site.baseurl }}/images/2021-04-24-billionth-dose-twitter-1.jpg" width="550" height="715" alt="Topol @ Twitter: A billion doses!" title="Topol @ Twitter: A billion doses!">
+</a>
 
 ## Not so fast!  How meaningful is that?  
 
@@ -69,19 +58,19 @@ protocol.
 ## But for whom?  
 
 And we haven't exactly been vaccinating "people in general", mostly the rich countries.
-As Philip Schellekens, a senior economic advisor at the World Bank, points out:  
+As Philip Schellekens, a senior economic advisor at the World Bank, points out in a
+tweet (now apparently deleted?):  
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    Many countries have started vaccination. But let’s keep in mind that the distribution
+<blockquote>
+  <p>
+    Many countries have started vaccination. But let's keep in mind that the distribution
     of this 1 billion doses remains highly unequal relative to global needs. <br><br>
+	
     Details: <a href="https://t.co/wvtoUmMveK">https://t.co/wvtoUmMveK</a> 
     <a href="https://t.co/tSY9hHSCtq">pic.twitter.com/tSY9hHSCtq</a>
   </p>
-  &mdash; Philip Schellekens (@fibke) 
-  <a href="https://twitter.com/fibke/status/1385963041863442436?ref_src=twsrc%5Etfw">April 24, 2021</a>
+  &mdash; Philip Schellekens (@fibke) <a href="https://twitter.com/fibke/status/1385963041863442436">April 24, 2021</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js"></script>
 
 
 ## We're not anywhere near done yet  
