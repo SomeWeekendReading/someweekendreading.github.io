@@ -55,7 +55,7 @@ After 25 days, I tested definitively negative.  The Weekend Editrix didn't get a
 and thus also tested negative.  As
 [we worked through the Bayesian probabilities last December]({{ site.baseurl }}/weekend-editrix-exposed/),
 we were then 89.4% sure we were negative.  So why did we both feel week as kittens, and falling-down tired?  Ah, good ol' post-COVID-19 syndrome!  
-13. [2022-Aug-23: COVID-19: One Month Later](https://www.someweekendreading.blog/covid-1-month-later/): One month post exposure, we both test negative and continue to be nearly incapacitated. Fortunately, there was news that the FDA asked Pfizer to run a clinical trial on longer doses of paxlovid, particularly with rebounds.  So at least this (probably) won't happen in the future to everybody else!  
+13. [2022-Aug-23: COVID-19: One Month Later](https://www.someweekendreading.blog/covid-1-month-later/): One month post exposure, we both test negative but continue to be nearly incapacitated (partly; especially in afternoons). Fortunately, there was news that the FDA asked Pfizer to run a clinical trial on longer doses of paxlovid, particularly with rebounds.  So at least this won't happen in the future to everybody else!  Possibly.  
 
 
 ## The Weekend Conclusion  
