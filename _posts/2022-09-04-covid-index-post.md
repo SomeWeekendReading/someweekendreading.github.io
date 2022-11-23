@@ -50,7 +50,11 @@ as we could blog it through the fatigue and brain fog:
 9. [2022-Aug-09: COVID-19: Day 15](https://www.someweekendreading.blog/covid-day-15/): Still testing positive.  Worse, the Weekend Editrix had been testing negative but feeling awful.  So she went to the doctor and&hellip; tested positive.  At least she got paxlovid, too. I was slightly jealous that she got more of the metallic/quinine taste side-effect than I did.  
 10. [2022-Aug-11: COVID-19: Day 17](https://www.someweekendreading.blog/covid-day-17/): Still (slightly) positive.  The Weekend Editrix continues paxlovid.  Having both of us be sick simultaneously is _way_ less fun than just one of us.  
 11. [2022-Aug-15: COVID-19: Day 21](https://www.someweekendreading.blog/covid-day-21/): Felt better, and had a negative-looking test, so went ahead with some dental surgery. Yes, "dental surgery" as my first day out in 3 weeks.  But&hellip; upon returing home a few hours later, the test had turned (slightly positive). I had warned the dental surgeon beforehand, so he took appropriate precautions. The Weekend Editrix's symptoms continued to fade.  
-12. [2022-Aug-19: COVID-19: Day 25](https://www.someweekendreading.blog/covid-day-25/): After 25 days, I tested definitively negative.  The Weekend Editrix didn't get a rebound, and thus also tested negative.  As we worked through the Bayesian probabilities last December, we were then 89.4% sure we were negative.  So why did we both feel week as kittens, and falling-down tired?  Ah, good ol' post-COVID-19 syndrome!  
+12. [2022-Aug-19: COVID-19: Day 25](https://www.someweekendreading.blog/covid-day-25/):
+After 25 days, I tested definitively negative.  The Weekend Editrix didn't get a rebound,
+and thus also tested negative.  As
+[we worked through the Bayesian probabilities last December]({{ site.baseurl }}/weekend-editrix-exposed/),
+we were then 89.4% sure we were negative.  So why did we both feel week as kittens, and falling-down tired?  Ah, good ol' post-COVID-19 syndrome!  
 13. [2022-Aug-23: COVID-19: One Month Later](https://www.someweekendreading.blog/covid-1-month-later/): One month post exposure, we both test negative and continue to be nearly incapacitated. Fortunately, there was news that the FDA asked Pfizer to run a clinical trial on longer doses of paxlovid, particularly with rebounds.  So at least this (probably) won't happen in the future to everybody else!  
 
 
