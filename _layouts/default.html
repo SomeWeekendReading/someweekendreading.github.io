@@ -5,7 +5,6 @@
 
     {% include meta.html    %}
     {% include mathjax.html %}
-    {% include mathstodon-verification.html %}
     
     {% if site.tags != "" %}
       {% include collecttags.html %}
@@ -61,6 +60,9 @@
                 <iconify-icon icon="icon-park-twotone:twitter"></iconify-icon>
               </a>
             </span>
+
+	    <!-- *** Mastodon icon here -->
+	    <a rel="me" href="https://mathstodon.xyz/@weekend_editor">Mastodon</a>
 	    
             <span title="RSS Feed (XML)"><a href="{{ site.baseurl }}/feed.xml" target="_blank"><i class="material-icons-two-tone">rss_feed</i></a></span>
             <span title="Sitemap (XML)"><a href="{{ site.baseurl }}/sitemap.xml" target="_blank"><i class="material-icons-two-tone">account_tree</i></a></span>
