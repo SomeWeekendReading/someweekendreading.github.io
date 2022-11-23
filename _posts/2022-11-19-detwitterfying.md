@@ -24,13 +24,15 @@ It would be ironic but useless to refer to Twitter threads about this, so here's
 article that covers the nontechnical ground. <sup id="fn1a">[[1]](#fn1)</sup>  
 
 in the roughly 2.5 years of this blog's existence, it has embedded tweets many times,
-using Twitter's own code.  When that disappears, so do those references!  
+using Twitter's own embed code.  When Twitter disappears, so do those references!  
 
-So I've spent the last 2-3 days screenshotting those tweets, and hyperlinking the image to
-the tweet.  Crude, but effective:  
+So I've spent the last 2-3 days screenshotting the $O(10^2)$ tweets quoted, and
+hyperlinking the resulting image to the actual tweet, while it lasts.  Crude, but effective:  
 - Page loads are way faster  
-- If Twitter goes, the screen shots stay here  
-- But&hellip; I have to use some storage for screenshots.  
+- Clicks still go through to the tweet and its surrounding conversation  
+- If Twitter goes, the screen shots stay here, because I host it now  
+- But&hellip; I have to use up some storage for those screenshots.  
+
 It's a fair trade.  
 
 Feel free to tell me if I've missed any, but my friend grep and his crew think I got them all:  
