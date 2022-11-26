@@ -267,7 +267,7 @@ all.  Strong incentive to get boosted with the bivalent booster!
 
 ### More optimistic reports from the vaccine makers  
 
-Pfizer <sup id="fn13a">[[13]](#fn13)</sup> and Moderna <sup id="fn1a">[[1]](#fn1)</sup>
+Pfizer <sup id="fn13a">[[13]](#fn13)</sup> and Moderna <sup id="fn14a">[[14]](#fn14)</sup>
 of course have a sunnier view of things, as one might expect:  
 - Pfizer notes that the antibody levels vs BQ.1.1 go up 4.8 fold after the bivalent
   booster, but fail to point out that the level is still lower than for BA.5 or even the
