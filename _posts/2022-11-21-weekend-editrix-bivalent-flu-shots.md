@@ -33,7 +33,6 @@ that works on all SARS-CoV2 variants through Omicron/BA.5:
   <img src="{{ site.baseurl }}/images/2022-11-21-weekend-editrix-bivalent-flu-shots-twitter-1.jpg" width="550" height="652" alt="Topol @ Twitter: Broadly neutralizing antibody may point way to variant-proof vaccine" title="Topol @ Twitter: Broadly neutralizing antibody may point way to variant-proof vaccine" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 </a>
 
-
 <img src="{{ site.baseurl }}/images/2022-11-21-weekend-editrix-bivalent-flu-shots-sciadv-1.jpg" width="400" height="212" alt="Kumar, et al. @ Sci Adv: A broadly neutralizing SARS-CoV2 antibody" title="Kumar, et al. @ Sci Adv: A broadly neutralizing SARS-CoV2 antibody" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 He's pointing us to a _Science Advances_ paper <sup id="fn1a">[[1]](#fn1)</sup>.  The
 practical upshot is:  
