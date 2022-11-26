@@ -275,8 +275,9 @@ of course have a sunnier view of things, as one might expect:
   noting it was 5x lower than for BA.4/5.  This further cemented our prejucide here at
   Chez Weekend about the general uselessness of corporate press releases.  
 
-The venerable _Globe_ wisely quoted Dan Barouch (the lab head behind the Miller paper <sup>[14]</sup>,
-and director of the Center for Virology and Vaccine Research at BIDMC):  
+The venerable _Globe_ wisely quoted Dan Barouch (the lab head behind the Miller
+paper <sup>[[10]](#fn10)</sup>, and director of the Center for Virology and Vaccine
+Research at BIDMC):  
 
 > "The current vaccines are likely not going to provide substantial and sustained
 > protection against infection, even with boosters," Barouch said. "But these vaccines
