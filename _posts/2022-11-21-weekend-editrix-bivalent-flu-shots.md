@@ -120,7 +120,7 @@ infusions.  So what's on the horizon for vaccinations?
 <img src="{{ site.baseurl }}/images/2022-11-21-weekend-editrix-bivalent-flu-shots-latimes-1.jpg" width="400" height="540" alt="Purtill @ LATimes: Experimental COVID-19 vaccination with S and N antigens" title="Purtill @ LATimes: Experimental COVID-19 vaccination with S and N antigens" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2022-11-21-weekend-editrix-bivalent-flu-shots-scitranslmed-1.jpg" width="400" height="235" alt="Hajnik, et al. @ SciTranslMed: Spike/nucleocapsid mRNA vax for variant protection" title="Hajnik, et al. @ SciTranslMed: Spike/nucleocapsid mRNA vax for variant protection" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Some months ago on this Crummy Little Blog That Nobody Reads,
-[we dissed the use of the viral nucleocapsid (N) protein]({{ site.baseurl }}/n-abs-severe-covid-19).
+[we dissed the use of the viral nucleocapsid (N) protein]({{ site.baseurl }}/n-abs-severe-covid-19/).
 It's basically a terrible single target, since it's
 inside the viral capsule and thus not visible until _after_ infecting a cell.  As a
 biomarker, it tends to indicate patients who had _severe_ disease, not diverse immunity.
