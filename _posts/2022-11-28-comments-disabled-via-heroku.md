@@ -31,6 +31,9 @@ on my own.  (It was kinda gnarly getting Heroku to work, even _with_ a tutorial!
 pending that tutorial appearing somewhere in the Staticman community, comments will likely
 cease working sometime today.  
 
+You can of course contact me via the email link at the top of every page. (Click on the
+envelope icon.)  
+
 Sorry for the interruption.  
 
 ---
@@ -42,7 +45,7 @@ Sorry for the interruption.
 
 <a id="fn1">1</a>: ***, ["***"](***), *** [↩](#fn1a)  
 
-<a href="{{ site.baseurl }}/images/***">
+<a href="{{ site.baseurl }}/images/***"> 
   <img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 </a>
 
