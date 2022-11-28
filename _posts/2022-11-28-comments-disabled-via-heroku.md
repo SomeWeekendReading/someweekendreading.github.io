@@ -34,7 +34,7 @@ cease working sometime today.
 You can of course contact me via the email link at the top of every page. (Click on the
 envelope icon.)  
 
-Sorry for the interruption.  
+Sorry for the interruption!  
 
 ---
 
@@ -55,3 +55,5 @@ Sorry for the interruption.
 
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
+
+<a id="fn1">1</a>: Nope.  
