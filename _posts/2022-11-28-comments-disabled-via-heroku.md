@@ -19,7 +19,7 @@ repository.
 It handles comments (by definition dynamic content) via
 [Staticman](https://staticman.net/).  Staticman is used, obviously, for providing dynamic
 content to static sites.  It handled comments via a remote process running on
-[Heroku](https://heroku.com/apps) which turned your submitted comments into pull requests
+[Heroku](https://heroku.com/) which turned your submitted comments into pull requests
 at the Github repository, which I would either delete (spam) or merge (the rest of you).  
 
 Alas, Heroku has terminated the free level of its service, and I don't want to pay them.
