@@ -354,7 +354,7 @@ postStats <- function(## Inputs
                           sprintf("Gamma        BIC =  %7.1f",        fitgamma$"bic"),
                           sprintf("Negbinomial BIC =  %7.1f",         fitnbinom$"bic"),
                           sprintf("Weibull         BIC =  %7.1f",     fitweibull$"bic"),
-                          sprintf("F                   BIC =  %7.1f", fitf$"bic"),
+                          sprintf("F                  BIC  =  %7.1f", fitf$"bic"),
                           sprintf("Chi squared BIC =   %7.1f",        fitchisq$"bic"),
                           sprintf("Poisson        BIC = %7.1f",       fitpois$"bic")))
 
