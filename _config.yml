@@ -103,9 +103,12 @@ exclude:
 ##  ${bridge_app_name}: the name you chose in Heroku for your bridge API
 ##  comments: the so-called property, this defines the key in staticman.yml where the configuration
 ##  is found
+##
+## heroku original
 ## staticman_url: https://staticman-someweekendreading.herokuapp.com/v2/entry/SomeWeekendReading/someweekendreading.github.io/master/comments
-staticman_url: https://someweekendreadingblogcommentservice.onrender.com/v3/entry/github/SomeWeekendReading/staticman/gh-pages/comments
-## staticman_url: https://someweekendreadingblogcommentservice.onrender.com/v3/entry/github/SomeWeekendReading/someweekendreading.github.io/master/comments
+##
+## Using v3 on Render.com
+staticman_url: https://someweekendreadingblogcommentservice.onrender.com/v3/entry/github/SomeWeekendReading/someweekendreading.github.io/master/comments
 
 ## Configuration info for reCaptcha: the exact same site key and *encrypted* secret that you
 ## used in staticman.yml I personally don't think the secret needs to be included in the
