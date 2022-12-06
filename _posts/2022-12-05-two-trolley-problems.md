@@ -17,7 +17,8 @@ would you?  Unlike most American television, it's actually worth your time.  Tha
 young millennial friend for recommending it to me, and _insisting._)  
 
 The [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem) was invented in a 1967
-paper by philosopher [Philippa Foot](https://en.wikipedia.org/wiki/Philippa_Foot).   She
+paper <sup id="fn1a">[[1]](#fn1)</sup> by philosopher
+[Philippa Foot](https://en.wikipedia.org/wiki/Philippa_Foot).   She
 was discussing something called the "doctrine of double effect", or how to assess the
 morality of actions that have both good and bad results.  The Wikipedia summary:  
 
