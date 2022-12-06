@@ -89,4 +89,4 @@ spammers.)
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: P Foote, in Virtues and Vices (Oxford: Basil Blackwell, 1978) [""The Problem of Abortion and the Doctrine of the Double Effect""](https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf), in  _Virtues and Vices_ (Oxford: Basil Blackwell, 1978).  Originally appeared in the _Oxford Review_, Number 5, 1967. [↩](#fn1a)  
+<a id="fn1">1</a>: P Foote, ["The Problem of Abortion and the Doctrine of the Double Effect"](https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf), in  _Virtues and Vices_ (Oxford: Basil Blackwell, 1978).  Originally appeared in the _Oxford Review_, Number 5, 1967. [↩](#fn1a)  
