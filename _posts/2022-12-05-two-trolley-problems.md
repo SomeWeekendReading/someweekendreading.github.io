@@ -66,7 +66,7 @@ forcing us into doing something horrible.
 
 &hellip; while sometimes enjoying the surreal variations.  
 
-(__NB:__ Comments still disabled; working on it.  Perhaps it'll defer the endless Russian
+(__NB:__ Comments still disabled; working on it.  Perhaps it'll deter the endless Russian
 spammers.)  
 
 ---

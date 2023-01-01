@@ -285,87 +285,97 @@ postStats <- function(## Inputs
         ## fithyper <<- fitdist(data = postData[, "PostHits"], distr = "hyper", method = "mle", start = list("m" = k/2, "n" = k/2, "k" = 2 * k))
 
         fitlnorm <<- fitdist(data = postData[, colName] + 1, distr = "lnorm", method = "mle")
-        cat(sprintf("\n- Lognormal:\n")); print(coef(fitlnorm))
+        cat(sprintf("\n- Lognormal:\n")); print(fitlnorm)
         lines(x = vals, y = dlnorm(vals,               #
                                    meanlog = coef(fitlnorm)[["meanlog"]],
                                    sdlog   = coef(fitlnorm)[["sdlog"]]),
               lty = "solid", lwd = 2, col = "red")     #
 
-        fitgamma <<- fitdist(data = postData[, colName], distr = "gamma", method = "mle")
-        cat(sprintf("\n- Gamma:\n")); print(coef(fitgamma))
-        lines(x = vals, y = dgamma(vals,               #
-                                   shape = coef(fitgamma)[["shape"]],
-                                   rate  = coef(fitgamma)[["rate"]]),
-              lty = "solid", lwd = 2, col = "green")   #
+#        fitgamma <<- fitdist(data = postData[, colName], distr = "gamma", method = "mle")
+#        cat(sprintf("\n- Gamma:\n")); print(coef(fitgamma))
+#        lines(x = vals, y = dgamma(vals,               #
+#                                   shape = coef(fitgamma)[["shape"]],
+#                                   rate  = coef(fitgamma)[["rate"]]),
+#              lty = "solid", lwd = 2, col = "green")   #
 
-        fitnbinom <<- fitdist(data = postData[, colName], distr = "nbinom", method = "mle")
-        cat(sprintf("\n- Negbinomial:\n")); print(coef(fitnbinom))
-        lines(x = vals, y = dnbinom(vals,              #
-                                    size = coef(fitnbinom)[["size"]],
-                                    mu   = coef(fitnbinom)[["mu"]]),
-              lty = "solid", lwd = 2, col = "black")   #
+#        fitnbinom <<- fitdist(data = postData[, colName], distr = "nbinom", method = "mle")
+#        cat(sprintf("\n- Negbinomial:\n")); print(coef(fitnbinom))
+#        lines(x = vals, y = dnbinom(vals,              #
+#                                    size = coef(fitnbinom)[["size"]],
+#                                    mu   = coef(fitnbinom)[["mu"]]),
+#              lty = "solid", lwd = 2, col = "black")   #
 
-        fitweibull <<- fitdist(data = postData[, colName], distr = "weibull", method = "mle")
-        cat(sprintf("\n- Weibull:\n")); print(coef(fitweibull))
-        lines(x = vals, y = dweibull(vals,             #
-                                     shape = coef(fitweibull)[["shape"]],
-                                     scale = coef(fitweibull)[["scale"]]),
-              lty = "solid", lwd = 2, col = "gray")    #
+#        fitweibull <<- fitdist(data = postData[, colName], distr = "weibull", method = "mle")
+#        cat(sprintf("\n- Weibull:\n")); print(coef(fitweibull))
+#        lines(x = vals, y = dweibull(vals,             #
+#                                     shape = coef(fitweibull)[["shape"]],
+#                                     scale = coef(fitweibull)[["scale"]]),
+#              lty = "solid", lwd = 2, col = "gray")    #
 
-        fitf     <<- fitdist(data = postData[, colName], distr = "f",     method = "mle",
-                             ## Again, a random stab in the dark at the number of degress of freedom
-                             ##  both being the number of posts.  It converges to df1 being a bit more,
-                             ##  and pushes df2 down to between 0 and 1.
-                             ## However, if you cut the initial guesses, the outcome changes wildly.
-                             ##  So it's much more sensitive to my weird guesses at initial conditions
-                             ##  than chisquare!
-                             start = list("df1" = nrow(postData), "df2" = nrow(postData)))
-        cat(sprintf("\n- F:\n")); print(coef(fitf))
-        lines(x = vals, y = df(vals, df1 = coef(fitf)[["df1"]], df2 = coef(fitf)[["df2"]]),
-              lty = "solid", lwd = 2, col = "yellow")    #
+#        fitf     <<- fitdist(data = postData[, colName], distr = "f",     method = "mle",
+#                             ## Again, a random stab in the dark at the number of degress of freedom
+#                             ##  both being the number of posts.  It converges to df1 being a bit more,
+#                             ##  and pushes df2 down to between 0 and 1.
+#                             ## However, if you cut the initial guesses, the outcome changes wildly.
+#                             ##  So it's much more sensitive to my weird guesses at initial conditions
+#                             ##  than chisquare!
+#                             start = list("df1" = nrow(postData), "df2" = nrow(postData)))
+#        cat(sprintf("\n- F:\n")); print(coef(fitf))
+#        lines(x = vals, y = df(vals, df1 = coef(fitf)[["df1"]], df2 = coef(fitf)[["df2"]]),
+#              lty = "solid", lwd = 2, col = "yellow")    #
 
-        fitchisq <<- fitdist(data = postData[, colName], distr = "chisq", method = "mle",
-                             ## Just took a guess @ number of degrees of freedom = number of posts.
-                             ##   It ends up fitting to a lot less than that.  Just for robustness
-                             ##   testing, tried HALF the number of posts; converged to same answer.
-                             ## Ignoring the non-centrality parameter; should figre it out!  Took a
-                             ##   couple guesses, e.g., mean number of hits.  Never converged.
-                             ## *** NB: special case of Gamma; why doesn't it do as well?
-                             start = list("df" = nrow(postData)))
-        cat(sprintf("\n- Chi squared:\n")); print(coef(fitchisq))
-        lines(x = vals, y = dchisq(vals, df = coef(fitchisq)[["df"]]),
-              lty = "solid", lwd = 2, col = "blue")    #
+#       fitchisq <<- fitdist(data = postData[, colName], distr = "chisq", method = "mle",
+#                             ## Just took a guess @ number of degrees of freedom = number of posts.
+#                             ##   It ends up fitting to a lot less than that.  Just for robustness
+#                             ##   testing, tried HALF the number of posts; converged to same answer.
+#                             ## Ignoring the non-centrality parameter; should figre it out!  Took a
+#                             ##   couple guesses, e.g., mean number of hits.  Never converged.
+#                             ## *** NB: special case of Gamma; why doesn't it do as well?
+#                             start = list("df" = nrow(postData)))
+#        cat(sprintf("\n- Chi squared:\n")); print(coef(fitchisq))
+#        lines(x = vals, y = dchisq(vals, df = coef(fitchisq)[["df"]]),
+#              lty = "solid", lwd = 2, col = "blue")    #
 
-        fitpois <<- fitdist(data = postData[, colName], distr = "pois", method = "mle")
-        cat(sprintf("\n- Poisson:\n")); print(coef(fitpois))
-        lines(x = vals, y = dpois(vals, lambda  = coef(fitpois)[["lambda"]]),
-              lty = "solid", lwd = 2, col = "orange")  #
+#        fitpois <<- fitdist(data = postData[, colName], distr = "pois", method = "mle")
+#        cat(sprintf("\n- Poisson:\n")); print(coef(fitpois))
+#        lines(x = vals, y = dpois(vals, lambda  = coef(fitpois)[["lambda"]]),
+#              lty = "solid", lwd = 2, col = "orange")  #
+
+#        legend("topright", bg = "antiquewhite", inset = 0.01,
+#               pch    = c(22,      NA,      NA,      NA,      NA,      NA,       NA, NA),
+#               pt.bg  = c("blue",  NA,      NA,      NA,      NA,      NA,       NA, NA),
+#               pt.cex = c(2,       NA,      NA,      NA,      NA,      NA,       NA, NA),
+#               lty    = c(NA,      "solid", "solid", "solid", "solid", "solid",  "solid", "solid"),
+#               lwd    = c(NA,      2,       2,       2,       2,       2,        2, 2),
+#               col    = c("black", "red",   "green", "black",  "gray", "yellow", "blue", "orange"),
+#               ## *** report parameters in legend as expressions
+#               legend = c("Observations",              #
+#                          sprintf("Lognormal    BIC =  %7.1f",        fitlnorm$"bic"),
+#                          sprintf("Gamma        BIC =  %7.1f",        fitgamma$"bic"),
+#                          sprintf("Negbinomial BIC =  %7.1f",         fitnbinom$"bic"),
+#                          sprintf("Weibull         BIC =  %7.1f",     fitweibull$"bic"),
+#                          sprintf("F                  BIC  =  %7.1f", fitf$"bic"),
+#                          sprintf("Chi squared BIC =   %7.1f",        fitchisq$"bic"),
+#                          sprintf("Poisson        BIC = %7.1f",       fitpois$"bic")))
 
         legend("topright", bg = "antiquewhite", inset = 0.01,
-               pch    = c(22,      NA,      NA,      NA,      NA,      NA,       NA, NA),
-               pt.bg  = c("blue",  NA,      NA,      NA,      NA,      NA,       NA, NA),
-               pt.cex = c(2,       NA,      NA,      NA,      NA,      NA,       NA, NA),
-               lty    = c(NA,      "solid", "solid", "solid", "solid", "solid",  "solid", "solid"),
-               lwd    = c(NA,      2,       2,       2,       2,       2,        2, 2),
-               col    = c("black", "red",   "green", "black",  "gray", "yellow", "blue", "orange"),
-               ## *** report parameters in legend as expressions
-               legend = c("Observations",              #
-                          sprintf("Lognormal    BIC =  %7.1f",        fitlnorm$"bic"),
-                          sprintf("Gamma        BIC =  %7.1f",        fitgamma$"bic"),
-                          sprintf("Negbinomial BIC =  %7.1f",         fitnbinom$"bic"),
-                          sprintf("Weibull         BIC =  %7.1f",     fitweibull$"bic"),
-                          sprintf("F                  BIC  =  %7.1f", fitf$"bic"),
-                          sprintf("Chi squared BIC =   %7.1f",        fitchisq$"bic"),
-                          sprintf("Poisson        BIC = %7.1f",       fitpois$"bic")))
+               pch    = c(22,      NA),
+               pt.bg  = c("blue",  NA),
+               pt.cex = c(2,       NA),
+               lty    = c(NA,      "solid"),
+               lwd    = c(NA,      2),
+               col    = c("black", "red"),
+               legend = c("Observations", sprintf("Lognormal    BIC =  %7.1f", fitlnorm$"bic")))
 
-        bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull", "Negbinomial", "Poisson",
-                                            "Chi Squared", "F"),
-                           BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic",
-                                            fitnbinom$"bic", fitpois$"bic", fitchisq$"bic",
-                                            fitf$"bic"))
-        bics <- bics[order(bics$"BIC"), ]              # Sort so best is at top of table
-        cat(sprintf("\n* Bayes information criteria for distribution of %s:\n", colName))
-        print(bics)                                    # Show table to transcript
+#       bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull", "Negbinomial", "Poisson",
+#                                            "Chi Squared", "F"),
+#                           BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic",
+#                                            fitnbinom$"bic", fitpois$"bic", fitchisq$"bic",
+#                                            fitf$"bic"))
+#        bics <- bics[order(bics$"BIC"), ]              # Sort so best is at top of table
+#        cat(sprintf("\n* Bayes information criteria for distribution of %s:\n", colName))
+#        print(bics)                                    # Show table to transcript
+
         cat("\n")                                      #
 
       }                                                #
