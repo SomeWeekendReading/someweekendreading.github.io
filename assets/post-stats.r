@@ -291,6 +291,16 @@ postStats <- function(## Inputs
                                    sdlog   = coef(fitlnorm)[["sdlog"]]),
               lty = "solid", lwd = 2, col = "red")     #
 
+        legend("topright", bg = "antiquewhite", inset = 0.01,
+               pch    = c(22,      NA),
+               pt.bg  = c("blue",  NA),
+               pt.cex = c(2,       NA),
+               lty    = c(NA,      "solid"),
+               lwd    = c(NA,      2),
+               col    = c("black", "red"),
+               ## *** Put logmean and sdmean (with sd's) in legend too, or in a separate legend
+               legend = c("Observations", sprintf("Lognormal BIC = %7.1f", fitlnorm$"bic")))
+
 #        fitgamma <<- fitdist(data = postData[, colName], distr = "gamma", method = "mle")
 #        cat(sprintf("\n- Gamma:\n")); print(coef(fitgamma))
 #        lines(x = vals, y = dgamma(vals,               #
@@ -348,7 +358,6 @@ postStats <- function(## Inputs
 #               lty    = c(NA,      "solid", "solid", "solid", "solid", "solid",  "solid", "solid"),
 #               lwd    = c(NA,      2,       2,       2,       2,       2,        2, 2),
 #               col    = c("black", "red",   "green", "black",  "gray", "yellow", "blue", "orange"),
-#               ## *** report parameters in legend as expressions
 #               legend = c("Observations",              #
 #                          sprintf("Lognormal    BIC =  %7.1f",        fitlnorm$"bic"),
 #                          sprintf("Gamma        BIC =  %7.1f",        fitgamma$"bic"),
@@ -357,16 +366,7 @@ postStats <- function(## Inputs
 #                          sprintf("F                  BIC  =  %7.1f", fitf$"bic"),
 #                          sprintf("Chi squared BIC =   %7.1f",        fitchisq$"bic"),
 #                          sprintf("Poisson        BIC = %7.1f",       fitpois$"bic")))
-
-        legend("topright", bg = "antiquewhite", inset = 0.01,
-               pch    = c(22,      NA),
-               pt.bg  = c("blue",  NA),
-               pt.cex = c(2,       NA),
-               lty    = c(NA,      "solid"),
-               lwd    = c(NA,      2),
-               col    = c("black", "red"),
-               legend = c("Observations", sprintf("Lognormal    BIC =  %7.1f", fitlnorm$"bic")))
-
+#
 #       bics <- data.frame(Distribution = c("Lognormal", "Gamma", "Weibull", "Negbinomial", "Poisson",
 #                                            "Chi Squared", "F"),
 #                           BIC          = c(fitlnorm$"bic", fitgamma$"bic", fitweibull$"bic",
