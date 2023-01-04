@@ -3,7 +3,7 @@ layout: post
 title: On COVID-19 Antivirals&colon; Real-World Experience
 tags: COVID JournalClub PharmaAndBiotech Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Our newest COVID-19 antiviral medicines, molnupiravir and paxlovid, have been out for a

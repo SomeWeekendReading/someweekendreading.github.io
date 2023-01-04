@@ -3,7 +3,7 @@ layout: post
 title: Nucleocapsid Abs &amp; Severe COVID-19
 tags: COVID JournalClub PharmaAndBiotech SomebodyAskedMe Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) a couple months ago about the

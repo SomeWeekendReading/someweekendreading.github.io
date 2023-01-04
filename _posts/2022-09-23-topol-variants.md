@@ -3,7 +3,7 @@ layout: post
 title: New SARS-CoV2 Variants&hellip; Again!
 tags: COVID JournalClub PharmaAndBiotech Sadness SomebodyAskedMe
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Tired of COVID-19?  Me too.  But&hellip; apparently the SARS-CoV2 virus is not yet tired of _us!_

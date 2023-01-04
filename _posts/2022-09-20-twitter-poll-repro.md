@@ -3,7 +3,7 @@ layout: post
 title: On the Reproducibility of Twitter Polls
 tags: COVID MathInTheNews R Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Everybody knows Twitter polls are&hellip; _questionable._  But are they _reproducible?_  

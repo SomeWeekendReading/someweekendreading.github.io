@@ -3,7 +3,7 @@ layout: post
 title: COVID-19 Chez Weekend&colon; Index of Posts
 tags: COVID PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 This is an index to all the Weekend Reading blog posts about our experience of the two of

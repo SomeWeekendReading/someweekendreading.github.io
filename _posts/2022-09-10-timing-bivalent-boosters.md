@@ -3,7 +3,7 @@ layout: post
 title: On Timing the Next Bivalent Booster for Omicron COVID-19
 tags: CatBlogging COVID JournalClub PharmaAndBiotech SomebodyAskedMe
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 [Somebody asked me]() when we'd be getting the new bivalent COVID-19 boosters.  (Not _if_

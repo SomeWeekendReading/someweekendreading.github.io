@@ -3,7 +3,7 @@ layout: post
 title: Paxlovid in the Wild Redux
 tags: COVID JournalClub Math PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 What do we know about the people for whom paxlovid works really well?  
