@@ -3,7 +3,7 @@ layout: post
 title: Today I Got Shot&hellip; For the 12th Time
 tags: COVID PharmaAndBiotech Politics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today I got my 12th vaccination since 2020!  Really.  

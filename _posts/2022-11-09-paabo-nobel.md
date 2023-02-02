@@ -3,7 +3,7 @@ layout: post
 title: Svante P&auml;&auml;bo Nobel Prize
 tags: NotableAndQuotable PharmaAndBiotech Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 The 2022 Nobel Prize in Physiology or Medicine went to Svante P&auml;&auml;bo.  

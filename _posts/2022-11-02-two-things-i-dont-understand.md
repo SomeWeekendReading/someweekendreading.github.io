@@ -3,7 +3,7 @@ layout: post
 title: Two Things I Don't Understand
 tags: MeaCulpa Obscurantism &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Sometimes there's nothing to do but confess one's own ignorance.  

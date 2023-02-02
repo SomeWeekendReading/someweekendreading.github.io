@@ -3,7 +3,7 @@ layout: post
 title: The Weekend Editrix's Flu &amp; Bivalent Booster Adventures (And Why She Went Through Them)
 tags: COVID JournalClub PharmaAndBiotech
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today the Weekend Editrix got her annual flu vax and COVID-19 bivalent booster.  Let's

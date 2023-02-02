@@ -3,7 +3,7 @@ layout: post
 title: Japan at the 2022 World Cup&colon; A Classy Act
 tags: TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Apparently there has been some unusual fan conduct at the World Cup?  

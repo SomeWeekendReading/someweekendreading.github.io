@@ -3,7 +3,7 @@ layout: post
 title: De-twitter-fying This Blog
 tags: About Obscurantism Sadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 It seems Twitter is dying.  Time to armor plate this blog so quote tweets survive.  

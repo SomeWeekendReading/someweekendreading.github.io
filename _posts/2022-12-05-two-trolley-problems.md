@@ -3,7 +3,7 @@ layout: post
 title: Two Trolley Problems
 tags: Math Obscurantism Statistics TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today I found 2 interesting takes on the Trolley Problem.  

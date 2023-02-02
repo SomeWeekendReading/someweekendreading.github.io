@@ -3,7 +3,7 @@ layout: post
 title: Some Good News About COVID-19
 tags: COVID MathInTheNews Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 We just _may_ be turning the corner.  

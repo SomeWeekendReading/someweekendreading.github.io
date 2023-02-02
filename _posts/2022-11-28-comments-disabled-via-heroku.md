@@ -3,7 +3,7 @@ layout: post
 title: Blog Comments Temporarily Disabled
 tags: About MeaCulpa Obscurantism Sadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Comments on this Crummy Little Blog That Nobody Reads (CLBTNR) are temporarily disabled, due to
