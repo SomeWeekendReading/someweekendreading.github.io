@@ -29,7 +29,7 @@ myself sufficiently to be prescribed anti-depressants again.  I've finally climb
 enough to be at the lower end of the clinically effective dose window, so now it's 4-6
 weeks to see if there's an anti-depressant effect.  So&hellip; February - April, _again._  
 
-Also?  Dental surgery&hellip; is not as much fun as it sounds.  
+Also: dental surgery?  Not as much fun as it sounds.  
 
 I'm sort of hoping this coming spring will be _really_ good if we can pass by both
 [Scylla _and_ Charybdis](https://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis).  
@@ -98,7 +98,7 @@ advance, but the main slide decks appear only at the last minute on the morning 
 meeting, because people always want to tweak until the last minute.  _C'est la vie._  
 
 There is also on that page a link to the YouTube video capturing the whole meeting, in
-case you want to sit through a day-long video.  
+case you want to sit through a day-long video.  (What's _wrong_ with you?)  
 
 ### Meeting Discussion Topics &amp; Voting Question  
 
@@ -208,7 +208,7 @@ She makes a number of timely points:
   - The vaccinated are far more fortunate.  
   - But those most fortunate are those with the latest bivalent booster.  
   
-  So getting the bivalent booster is a sensible move for people who do not wish to die
+  So getting the bivalent booster is a sensible move for anyone wishing not to die
   needlessly, which should include everyone who can medically tolerate the bivalent
   booster.  
 
@@ -317,9 +317,10 @@ if we can understand why they said that, and whether we agree:
   1.843864 1.413043 1.082901 
   ```
   - So basically we get $RR = 1.41$ with confidence limits of $(1.08, 1.84)$.  This
-    compares favorably with the reported result shown on slide 11 of $RR = 1.47$ (CL: $1.11 - 1.95$).
-    (At least, within the limits of the very crude statistic we're using for comparison!)  
-  - So we believe their result!  
+    compares reasonably favorably with the reported result shown on slide 11 of
+	$RR = 1.47$ (CL: $1.11 - 1.95$). (At least, within the limits of the very crude
+    statistic we're using for comparison!)  
+  - So we believe their result.  
 
 On the other hand, a number of things about this result are hinky:  
 - In the discussion, it turned up that other databases with similar data don't see this
@@ -520,8 +521,8 @@ make a more traditional protein-based vaccine, which takes a bit more time to de
 the first place and to adapt to new strains.  They have not yet made a bivalent vaccine.  
 
 My guess is their main _raison d'&ecirc;tre_ is to be an alternative for people still
-superstitiously suspicious of mRNA vaccines.  Well, anything that gets them vaccinated, so
-they live and not die, says me.  
+superstitiously suspicious of mRNA vaccines.  (Well, anything that gets them vaccinated, so
+they live and not die, says me.)  
 
 Right out of the gate, they say their existing vaccine has lower response to BQ.1.1 and
 XBB.1 variants, due to mutations in otherwise-conserved epitopes on the spike protein.
@@ -609,7 +610,7 @@ That Nobody Reads, they've
 My personal guess is that a lot of this is due to 2 reasons:
 - The natural extreme caution of medical regulatory bodies, where they want to be _sure_
   they're not hurting anybody, and _probably_ doing some good.  
-- The superstitious fear of COVID-19 vaccinations among about 1/4 of the US population.
+- The superstitious fear of COVID-19 vaccinations among about 1/5 of the US population.
   They again want to be _sure_ they can point to hard evidence for their decisions, since
   being hauled in front of a Congressional committee headed by intellectual giants like
   Marjorie Taylor Green would drive anybody into detailed, defensive documentation.  
