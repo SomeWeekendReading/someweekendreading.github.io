@@ -98,7 +98,7 @@ advance, but the main slide decks appear only at the last minute on the morning 
 meeting, because people always want to tweak until the last minute.  _C'est la vie._  
 
 There is also on that page a link to the YouTube video capturing the whole meeting, in
-case you want to sit through a day-long video.  (What's _wrong_ with you?)  
+case you want to sit through a day-long video.  (In which case: what's _wrong_ with you?!)  
 
 ### Meeting Discussion Topics &amp; Voting Question  
 
