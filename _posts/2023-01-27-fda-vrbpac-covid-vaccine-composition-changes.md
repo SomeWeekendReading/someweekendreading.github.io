@@ -86,7 +86,7 @@ primary source material (or, for that matter, the rest of this blog post).
 
 ## Primary data sources  
 
-<img src="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-fda-1.jpg" width="400" height="200" alt="FDA VRBPAC Announcment &amp; Meeting Materials: 2023-Jan-26" title="FDA VRBPAC Announcment &amp; Meeting Materials: 2023-Jan-26" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-fda-1.jpg" width="400" height="200" alt="FDA VRBPAC Announcement &amp; Meeting Materials: 2023-Jan-26" title="FDA VRBPAC Announcement &amp; Meeting Materials: 2023-Jan-26" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube.com/embed/ZjULNuSYfd0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 As per usual, the FDA's VRBPAC meeting announcement <sup id="fn5a">[[5]](#fn5)</sup>
 contains pointers (bottom of the page) to all the presentations (as well as administrative
@@ -103,7 +103,6 @@ case you want to sit through a day-long video.
 ### Meeting Discussion Topics &amp; Voting Question  
 
 <a href="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-fda-2.jpg"><img src="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-fda-2-thumb.jpg" width="400" height="320" alt="FDA VRBPAC: Meeting Discussion Topics" title="FDA VRBPAC: Meeting Discussion Topics" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-
 The meeting discussion topics <sup id="fn6a">[[6]](#fn6)</sup> are pretty clear:  
 1. Whether we can __simplify the current kludge of multiple different vaccines and schedules.__
    Right now you have to receive 2 doses against the Wuhan strain, which is for all
@@ -238,7 +237,6 @@ important to know what the efficacy number _means!_
 <a href="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-cdc-9.jpg"><img src="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-cdc-9-thumb.jpg" width="400" height="233" alt="Link-Gelles @ CDC: Pediatric (in)efficacy vs symptomatic infection of monovalent Pfizer" title="Link-Gelles @ CDC: Pediatric (in)efficacy vs symptomatic infection of monovalent Pfizer" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Do the monovalent vaccines work, or work well enough, in pediatric applications?  Either
 just barely, or maybe not even that:  
-
 - Her first result is that we have miserable booster uptake in the US, and in fact very
   low uptake of the primary series in young folk: 3.3% in &lt; 2yr and 5.1% in &lt; 5yr.  
 - Add to that the fact that the VE of monovalent vaccines vs symptomatic infection is just
@@ -424,7 +422,7 @@ wrong: I'm probably a bigger fan of
 [multidimensional scaling](https://en.wikipedia.org/wiki/Multidimensional_scaling)
 and [singular value decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 than the next guy!  But there comes a time when your client just _refuses_ to try to
-understand what you're saying, and it's time to say it another way.  
+understand what you're saying, and it's time to try saying it another way.  
 
 <a href="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-nih-4.jpg"><img src="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-nih-4-thumb.jpg" width="400" height="227" alt="Beigel @ NIH: Vaccine efficacy correlates with neutralizing Ab titer" title="Beigel @ NIH: Vaccine efficacy correlates with neutralizing Ab titer" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Periodically, people complain about using neutralizing antibody titers as a proxy for
@@ -436,7 +434,7 @@ of infection in various cohorts) and their corresponding antibody levels.  Imper
 antibodies may be in a physical world modeling sense, they are at least strongly
 _correlated_ with vaccine efficacy.  (A point against Beigel: he doesn't report an $R^2$
 or show the regression details, just draws in some presumed regression lines of
-attractively positive slope.  C'mon, man.)  
+attractively positive slope.  C'mon, man!)  
 
 So&hellip; certainly not perfect, but maybe good enough to be getting on with?  
 
@@ -465,7 +463,6 @@ the bivalent vaccines work, and are safe.  We now have that documented very, ver
 thoroughly.  
 
 <a href="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-moderna-2.jpg"><img src="{{ site.baseurl }}/images/2023-01-27-fda-vrbpac-covid-vaccine-composition-changes-moderna-2-thumb.jpg" width="400" height="224" alt="Moderna: Non-inferiority of BA.1 bivalent vs original vaccine in 3 viral lineages" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-
 Consider, for example, their slide 22, shown here.  It shows Kaplan-Meier curves, with the
 incidence of COVID-19 on the vertical axis (lower is better) and time since vaccination on
 the horizontal axis.  The original vaccine is shown in blue, and the (old) BA.1 + Wuhan
@@ -524,7 +521,7 @@ the first place and to adapt to new strains.  They have not yet made a bivalent 
 
 My guess is their main _raison d'&ecirc;tre_ is to be an alternative for people still
 superstitiously suspicious of mRNA vaccines.  Well, anything that gets them vaccinated, so
-they live and not die, I say.  
+they live and not die, says me.  
 
 Right out of the gate, they say their existing vaccine has lower response to BQ.1.1 and
 XBB.1 variants, due to mutations in otherwise-conserved epitopes on the spike protein.
@@ -600,8 +597,6 @@ Not everybody on the VRBPAC liked the idea of annual boosters going forward; som
 to see more data in the future before committing to this.  But it makes sense to your
 humble Weekend Editor that we should prepare _now_ for that eventuality.  The CDC's ACIP
 (Advisory Committee on Immunization Practice) will have something to say about that.  
-
-
 
 
 ## The Weekend Conclusion  
@@ -681,7 +676,7 @@ See &sect; 3.3.1: 55.5% (CL: 52.5% - 58.8%) of patients still experienced "brain
 
 <a id="fn12">12</a>: R Link-Gelles, ["COVID-19 Vaccine effectiveness updates"](https://www.fda.gov/media/164816/download), US Centers for Disease Control and Prevention, 2023-Jan-26. [↩](#fn12a)  
 
-<a id="fn13">13</a>: To Shimabukuro &amp; N Klein, ["COVID-19 mRNA bivalent booster vaccine safety"](https://www.fda.gov/media/164811/download), National Center for Emerging and Zoonotic Infectious Diseases of the CDC, 2023-Jan-26. [↩](#fn13a)  
+<a id="fn13">13</a>: T Shimabukuro &amp; N Klein, ["COVID-19 mRNA bivalent booster vaccine safety"](https://www.fda.gov/media/164811/download), National Center for Emerging and Zoonotic Infectious Diseases of the CDC, 2023-Jan-26. [↩](#fn13a)  
 
 <a id="fn14">14</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for efficacy confidence limits by scaled binomial ratio"]({{ site.baseurl }}/assets/2021-11-12-covid-treatments-simple-efficacy-confidence-limits.r), [_Some Weekend Reading_ blog]({{ site.baseurl }}/), 2021-Nov-12. [↩](#fn14a)  
 
