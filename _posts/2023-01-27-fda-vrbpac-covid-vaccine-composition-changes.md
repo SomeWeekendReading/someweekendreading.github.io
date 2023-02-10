@@ -3,7 +3,7 @@ layout: post
 title: FDA VRBPAC&colon; COVID-19 Vaccine Composition Going Forward
 tags: COVID JournalClub PharmaAndBiotech Politics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 The FDA VRBPAC (Vaccines and Related Biological Products Advisory Committee) met this week
