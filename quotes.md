@@ -367,11 +367,12 @@ in private." &mdash; [Cornel West](https://en.wikipedia.org/wiki/Cornel_West)
 
 "Nemo enim fere saltat sobrius, nisi forte insanit." (No one dances sober, unless insane.) &mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), [_Pro Murena vi.13_](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext:1999.02.0010%3atext=Mur.%3achapter=6%3asection=13), 64BCE.  He was discussing the ramifications of a political insult from Cato, who called a consul a "dancer".  
 
-"Dignity does not consist of possessing honors, but in deserving them." 
+"Dignity does not consist in possessing honors, but in the consciousness that we deserve them." 
 &mdash; [Aristotle](https://en.wikipedia.org/wiki/Aristotle)  
 
 "Honor and shame from no condition rise. Act well your part: there all the honor lies."
-&ndash; [Alexander Pope](https://en.wikipedia.org/wiki/Alexander_Pope)  
+&ndash; [Alexander Pope](https://en.wikipedia.org/wiki/Alexander_Pope), _An Essay on Man_,
+Epistle IV: "Greatness"  
 
 "I will follow the right side even to the fire, but excluding the fire if I can." 
 &mdash; [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)  
