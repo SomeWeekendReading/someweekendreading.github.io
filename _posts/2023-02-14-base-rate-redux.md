@@ -78,9 +78,9 @@ you through the process using Israel hospitalization data as of mid-2021.
 
 If you want to conclude something about vaccine efficacy, you _have_ to do the Bayesian
 calculation above.  (And
-[stratify by age groups]({{ site.baseurl }}/covid-simpson#still-not-good-enough-stratify-by-age),
+[stratify by age groups]({{ site.baseurl }}/covid-simpson/#still-not-good-enough-stratify-by-age),
 with
-[confidence intervals]({{ site.baseurl }}/covid-simpson#addendum-2021-sep-02-vaccine-efficacy-confidence-intervals),
+[confidence intervals]({{ site.baseurl }}/covid-simpson/#addendum-2021-sep-02-vaccine-efficacy-confidence-intervals),
 as we also showed in that same blog post.)  
 
 
