@@ -136,7 +136,7 @@ Recommended.)
 
 <a id="fn1">1</a>: Wikipedia contributors, ["Base rate fallacy"](https://en.wikipedia.org/wiki/Base_rate_fallacy), _Wikipedia_, retrieved 2023-Feb-14.[↩](#fn1a)  
 
-<a id="fn2">2</a>: Z Weinersmith, ["Weekend activity: Murdering people with statistics"](https://www.smbc-comics.com/comic/odds-2), _Saturday Morning Breakfasst Cereal_, 2023-Jan. [↩](#fn2a)  
+<a id="fn2">2</a>: Z Weinersmith, ["Weekend activity: Murdering people with statistics"](https://www.smbc-comics.com/comic/odds-2), _Saturday Morning Breakfasst Cereal_, 2022-Dec-24. [↩](#fn2a)  
 
 <a id="fn3">3</a>: Wikipedia contributors, ["Simpson's paradox"](https://en.wikipedia.org/wiki/Simpson's_paradox), _Wikipedia_, retrieved 2023-Feb-14.[↩](#fn3a)  
 
