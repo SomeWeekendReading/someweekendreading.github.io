@@ -63,8 +63,8 @@ The next step is to be elsewhere.
 good too.)  
 
 __NB:__ None of this is to take away from the _technical_ achievement of ChatGPS, and the
-scientists &amp; engineers behind it.  This is clearly a work of high-quality craft, by
-high-quality people.  It's just that "make plausible BS with no allegiance to truth" is
+scientists &amp; engineers behind it.  This is clearly a work of high-quality craft, from
+high-quality craftspeople.  It's just that "make plausible BS with no allegiance to truth" is
 kind of a&hellip; _peculiar_ goal if you're trying to make something useful.  (But totally
 understandable if you're in the pay of fascist propagandists?  I _really_ hope that's not
 the case!)  
@@ -77,7 +77,7 @@ We desperately need a well-trained
 that can identify such generated texts, and tag them so people know better than to take
 them at face value.  Probably should be done as a browser plug-in, so you see
 "WARNING: AI-GENERATED BS" in large, friendly red letters when you encounter some on the
-web.  (Imagine what it would do to a real-time text feed of politicians.)  
+web.  (Imagine what it would do to a real-time text feed of politicians speaking.)  
 
 The _last_ thing we need is highly automatable, high quality BS to deceive the public in a
 time of rising fascism.  
@@ -102,4 +102,4 @@ time of rising fascism.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Apparently, he also writes [fanfiction](https://archiveofourown.org/users/BlakeStacey/).  So, you know, there's that.  (Hey, guilty pleasures are still pleasures.  Don't judge me.  Or him.) [↩](#fn1a)  
+<a id="fn1">1</a>: Apparently, he also writes [fanfiction](https://archiveofourown.org/users/BlakeStacey/).  So, you know, there's that. (Hey, guilty pleasures are still pleasures.  Don't judge me.  Or him.  At least, not for _that._) [↩](#fn1a)  
