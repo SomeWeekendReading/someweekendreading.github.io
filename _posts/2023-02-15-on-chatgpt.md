@@ -45,7 +45,8 @@ hallucination, absolutely bereft of existence.
 ## So&hellip; what?  
 
 What do you call a person who is very good at sounding persuasive and plausible, but
-absolutely bereft of fidelty to fact?  A BS artist.
+absolutely bereft of fidelity to fact?  A BS artist.  (Yes, the aversive conditioning of
+my mis-spent childhood to this day prevent me from violating the "swearing" taboo.)  
 
 And I was thinking that this was a good description of ChatGPT.  Then, via
 [PZMyers on Mastodon](https://octodon.social/@pzmyers) I saw this perfect summary of the
@@ -75,7 +76,7 @@ We desperately need a well-trained
 [supervised classifier](https://en.wikipedia.org/wiki/Supervised_learning)
 that can identify such generated texts, and tag them so people know better than to take
 them at face value.  Probably should be done as a browser plug-in, so you see
-"WARNING: AI-GENERATED BS" in large, friendly red letters when you encouter some on the
+"WARNING: AI-GENERATED BS" in large, friendly red letters when you encounter some on the
 web.  (Imagine what it would do to a real-time text feed of politicians.)  
 
 The _last_ thing we need is highly automatable, high quality BS to deceive the public in a
