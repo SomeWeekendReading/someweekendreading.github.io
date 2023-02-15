@@ -3,7 +3,7 @@ layout: post
 title: Tripitaka Koreana
 tags: Beauty NotableAndQuotable Obscurantism Religion Sadness TheDivineMadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Today I learned about the Tripitaka Koreana: likely the most successful large data transfer over

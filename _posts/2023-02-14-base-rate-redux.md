@@ -3,7 +3,7 @@ layout: post
 title: On the Base Rate Fallacy, Redux
 tags: COVID MathInTheNews PharmaAndBiotech Politics R Sadness Statistics
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 Will we ever _not_ be trapped by the base rate fallacy?  
