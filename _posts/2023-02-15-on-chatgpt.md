@@ -24,29 +24,28 @@ thing called [ChatGPT](https://www.chatgptonline.net/):
 - The "Chat" version above is a web-interfaced version of GPT-3.5 (as of today), where you
   can make a free account and ask it questions.  
   
-The responses are _amazing,_ for both good and bad meanings of that word.  
+The responses are _amazing,_ for both good and bad meanings of that word:  
+- On the one hand, they are _very_ persuasive.  You'd really think a person, or person-like
+  thing, generated the text.  It's good enough that people actually propose using it as a
+  substitute for search engines like Google.  
+- On the other hand, that is a _terrible_ idea!  It is optimized for plausibility, not for
+  truth.  The generated text is riddled with errors and what are described as
+  "hallucinations".  But they're all so plausible, _you can't tell which is which._  
 
-On the one hand, they are _very_ persuasive.  You'd really think a person, or person-like
-thing, generated the text.  It's good enough that people actually propose using it as a
-substitute for search engines like Google.  
-
-On the other hand, that is a _terrible_ idea!  It is optimized for plausibility, not for
-truth.  The generated text is riddled with errors and what are described as
-"hallucinations".  But they're all so plausible, _you can't tell which is which._  
-
-When I asked it a technical question, it made a very plausible sounding argument, complete
-with citations to the literature.  I was really impressed: the papers it cited were by
-famous scientists working in the correct area, in important journals, with title that were
-spot-on relevant to my interests.  So why hadn't I, as a scientist familiar with the area,
-already read those papers?  __Because they were all fake!__  Every single one was an
-hallucination, absolutely bereft of existence.  
+When I asked it a technical question, it made a very plausible-sounding argument, complete
+with citations to the relevant scientific literature.  I was really impressed: the papers
+it cited were by famous scientists working in the correct area, published in important journals,
+with titles that were spot-on relevant to my interests.  So why hadn't I, as a scientist
+familiar with the area, already read those papers?  __Because they were all fake!__ Every
+single one was an hallucination, absolutely bereft of existence.  
 
 
 ## So&hellip; what?  
 
 What do you call a person who is very good at sounding persuasive and plausible, but
 absolutely bereft of fidelity to fact?  A BS artist.  (Yes, the aversive conditioning of
-my mis-spent childhood to this day prevent me from violating the "swearing" taboo.)  
+my mis-spent childhood to this day prevent me from violating the "swearing" taboo that my
+elders learned more than a century ago, and imposed on me.)  
 
 And I was thinking that this was a good description of ChatGPT.  Then, via
 [PZMyers on Mastodon](https://octodon.social/@pzmyers) I saw this perfect summary of the

@@ -11,6 +11,12 @@ Will we ever _not_ be trapped by the base rate fallacy?
 
 ## The base rate fallacy  
 
+<!-- 
+  Pr(~V|H) =  5/(5+10) = 0.33 
+  Pr(V |H) = 10/(5+10) = 0.67
+  Pr(~V)   = 10 / (10 + ***1) = ***2
+  Pr( V)   = ***1 / (10 + ***1) = ***3
+-->
 <a href="{{ site.baseurl }}/images/2023-02-14-base-rate-redux-wikipedia-1.jpg"><img src="{{ site.baseurl }}/images/2023-02-14-base-rate-redux-wikipedia-1-thumb.jpg" width="400" height="188" alt="Marc Rumilly @ Wikipedia: Base rate fallacy on vax/unvax hospitalization rates" title="Marc Rumilly @ Wikipedia: Base rate fallacy on vax/unvax hospitalization rates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 There's this fallacy, a common bug in the way people think, called the base rate 
 fallacy. <sup id="fn1a">[[1]](#fn1)</sup>  
