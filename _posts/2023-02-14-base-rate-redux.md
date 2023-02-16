@@ -55,6 +55,9 @@ thing you can observe (what percent of hospitalized people are vaccinated) into 
 you want to know (what percent of vaccinated people are hospitalized).  The former is
 observable, but nonsensical input to policy.  The latter is the only thing that matters.  
 
+(See the [Addendum below](#addendum-2023-feb-16-wikipedia-example-math-details) for the
+particulars of the Wikipedia example pictured above.)  
+
 
 ## Previously, on some crummy little blog that nobody reads&hellip;  
 
