@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Base Rate Fallacy, Redux
-tags: COVID MathInTheNews PharmaAndBiotech Politics R Sadness Statistics
+tags: COVID MathInTheNews PharmaAndBiotech Politics R Sadness SomebodyAskedMe Statistics
 comments: true
 commentsClosed: true
 ---
@@ -11,12 +11,6 @@ Will we ever _not_ be trapped by the base rate fallacy?
 
 ## The base rate fallacy  
 
-<!-- 
-  Pr(~V|H) =  5/(5+10) = 0.33 
-  Pr(V |H) = 10/(5+10) = 0.67
-  Pr(~V)   = 10 / (10 + ***1) = ***2
-  Pr( V)   = ***1 / (10 + ***1) = ***3
--->
 <a href="{{ site.baseurl }}/images/2023-02-14-base-rate-redux-wikipedia-1.jpg"><img src="{{ site.baseurl }}/images/2023-02-14-base-rate-redux-wikipedia-1-thumb.jpg" width="400" height="188" alt="Marc Rumilly @ Wikipedia: Base rate fallacy on vax/unvax hospitalization rates" title="Marc Rumilly @ Wikipedia: Base rate fallacy on vax/unvax hospitalization rates" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 There's this fallacy, a common bug in the way people think, called the base rate 
 fallacy. <sup id="fn1a">[[1]](#fn1)</sup>  
@@ -65,21 +59,22 @@ observable, but nonsensical input to policy.  The latter is the only thing that 
 ## Previously, on some crummy little blog that nobody reads&hellip;  
 
 Now, most [NTs](https://en.wikipedia.org/wiki/Neurodiversity#Neurotypical) are gonna see
-those equations and say "oh, just another nerd thing I can skip"&hellip; again.  
+those equations and say "oh, just another nerd thing I can skip"&hellip; again.  I mean,
+it was just some Wikipedia example, right?  
 
-However, [previously on this CLBTNR]({{ site.baseurl }}/covid-simpson/), we documented
+Well&hellip; [previously on this CLBTNR]({{ site.baseurl }}/covid-simpson/), we documented
 real-life examples of this, in terms of Simpson's paradox <sup id="fn3a">[[3]](#fn3)</sup>, 
 the base rate fallacy, and Bayesian thinking in COVID-19 hospitalization data in
 mid-2021.  
 
-There we worked through the real-life details in the Israeli hospitalization data.  In a
+There we worked through the real-life example presented by the Israeli hospitalization data.  In a
 population that's about 20% unvaccinated versus about 80% vaccinated, it would be
 _astounding_ if most of the hospitalized people weren't vaccinated.  That's because there
 are 4x as many vaccinated as unvaccinated.  It turned out that the vaccinated were a bit
 _more than 3x less likely to be hospitalized_ than the unvaccinated, which is what
 mattered!  
 
-So if you want to see actual combat usage of the equations above, that blog post will walk
+So if you want to see actual combat usage of these ideas, the blog post linked above will walk
 you through the process using Israel hospitalization data as of mid-2021.  
 
 If you want to conclude something about vaccine efficacy, you _have_ to do the Bayesian
@@ -119,6 +114,72 @@ Isn't it time we all "got it", too?
 (If you find all this confusing, Gary Cornell wrote an explainer for general audiences,
 about a year and a half ago, published in _Slate._ <sup id="fn4a">[[4]](#fn4)</sup>
 Recommended.)  
+
+
+## Addendum 2023-Feb-16: Wikipedia example, math details  
+
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) to work through the details
+of the Wikipedia example pictured above.  Ok, sure, let's do that.  
+
+First step is just to count the dots:  
+- The number of unvaccinated people (green dots) is $N_{\sim V} = 10$.  
+- The number of unvaccinated people who are also hospitalized (green dots inside black circle)
+  is $N_{\sim VH} = 5$.  
+- The number of vaccinated people (red dots) is $N_{V} = 100$.  
+- The number of vaccinated people who are also hospitalized (red dots inside black circle)
+  is $N_{VH} = 10$.  
+  
+The conditional probabilities about which our putative na&iuml;ve observer is making such
+a fuss are:  
+$$
+\left\{
+  \begin{align*}
+     \Pr(V \vert H)      &= \frac{10}{5 + 10} = \frac{2}{3} \sim 66.7\% \\
+     \Pr(\sim V \vert H) &= \frac{5}{5 + 10} = \frac{1}{3} \sim 33.3\%
+  \end{align*}
+\right.
+$$
+
+It looks (to the na&iuml;ve) as though vaccinated are twice as likely to be hospitalized?!
+Let's do better than that blunder!  
+
+The overall probabilities of being hospitalized and the probability of being vaccinated
+are:  
+$$
+\left\{
+  \begin{align*}
+    \Pr(H) &= \frac{5 + 10}{10 + 100} = \frac{15}{110}  = \frac{3}{22}  \sim 13.6\% \\
+    \Pr(V) &= \frac{100}{10 + 100}    = \frac{100}{110} = \frac{10}{11} \sim 90.9\%
+  \end{align*}
+\right.
+$$
+
+Now let's work out the conditional probaliity of being hospitalized given vaccinated, and
+hospitalized given unvaccinated:  
+$$
+\left\{
+  \begin{align*}
+    \Pr(H \vert V)      &= \frac{\Pr(V \vert H) \Pr(H)}{\Pr(V)}            = \frac{(2/3) (3/22)}{(10/11)} = \frac{1}{10} = 10\% \\
+    \Pr(H \vert \sim V) &= \frac{\Pr(\sim V \vert H ) \Pr(H)}{\Pr(\sim V)} = \frac{(1/3) (3/22)}{(1/11)}  = \frac{1}{2} = 50\%
+  \end{align*}
+\right.
+$$
+
+We can verify this directly, using our counts of dots:  
+$$
+\left\{
+  \begin{align*}
+    \Pr(H \vert V)      &= \frac{10}{100} = 10\% \\
+    \Pr(H \vert \sim V) &= \frac{5}{10} = 50\%
+  \end{align*}
+\right.
+$$
+
+So we have it aright, finally: _the unvaccinated are 5x more likely to be hospitalized (10% vs 50%)!_  
+
+__Moral:__ Leaping to public policy choices from ignorantly measuring the wrong thing is a
+very bad idea.  Here, it would have led to _exactly the opposite_ policy for saving
+lives.  
 
 ---
 
