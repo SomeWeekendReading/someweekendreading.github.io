@@ -172,8 +172,8 @@ We can verify this directly, using our counts of dots:
 $$
 \left\{
   \begin{align*}
-    \Pr(H \vert V)      &= \frac{10}{100} = 10\% \\
-    \Pr(H \vert \sim V) &= \frac{5}{10} = 50\%
+    \Pr(H \vert V)      &= \frac{N_{VH}}{N_V} = \frac{10}{100} = 10\% \\
+    \Pr(H \vert \sim V) &= \frac{N_{\sim VH}}{N_{\sim V}} = \frac{5}{10} = 50\%
   \end{align*}
 \right.
 $$
