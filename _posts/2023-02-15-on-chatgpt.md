@@ -61,6 +61,8 @@ The next step is to be elsewhere.
 "[mansplaining](https://en.wikipedia.org/wiki/Mansplaining) as a service", which is pretty
 good too.)  
 
+And don't even get me started on [SolidGoldMagikarp](https://www.lesswrong.com/posts/jbi9kxhb4iCQyWG9Y/explaining-solidgoldmagikarp-by-looking-at-it-from-random)!  
+
 __NB:__ None of this is to take away from the _technical_ achievement of ChatGPS, and the
 scientists &amp; engineers behind it.  This is clearly a work of high-quality craft, from
 high-quality craftspeople.  It's just that "make plausible BS with no allegiance to truth" is
