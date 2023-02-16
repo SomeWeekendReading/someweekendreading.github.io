@@ -157,7 +157,7 @@ $$
 \right.
 $$
 
-Now let's work out the conditional probaliity of being hospitalized given vaccinated, and
+Now let's work out the conditional probability of being hospitalized given vaccinated, and
 hospitalized given unvaccinated:  
 $$
 \left\{
@@ -178,7 +178,7 @@ $$
 \right.
 $$
 
-So we have it aright, finally: _the unvaccinated are 5x more likely to be hospitalized (10% vs 50%)!_  
+The right of it, finally: _unvaccinated are 5x more likely to be hospitalized (10% vs 50%)!_  
 
 __Moral:__ Leaping to public policy choices from ignorantly measuring the wrong thing is a
 very bad idea.  Here, it would have led to _exactly the opposite_ policy for saving
@@ -206,7 +206,7 @@ lives.
 
 <a id="fn1">1</a>: Wikipedia contributors, ["Base rate fallacy"](https://en.wikipedia.org/wiki/Base_rate_fallacy), _Wikipedia_, retrieved 2023-Feb-14.[↩](#fn1a)  
 
-<a id="fn2">2</a>: Z Weinersmith, ["Weekend activity: Murdering people with statistics"](https://www.smbc-comics.com/comic/odds-2), _Saturday Morning Breakfasst Cereal_, 2022-Dec-24. [↩](#fn2a)  
+<a id="fn2">2</a>: Z Weinersmith, ["Weekend activity: Murdering people with statistics"](https://www.smbc-comics.com/comic/odds-2), _Saturday Morning Breakfast Cereal_, 2022-Dec-24. [↩](#fn2a)  
 
 <a id="fn3">3</a>: Wikipedia contributors, ["Simpson's paradox"](https://en.wikipedia.org/wiki/Simpson's_paradox), _Wikipedia_, retrieved 2023-Feb-14.[↩](#fn3a)  
 
