@@ -178,7 +178,7 @@ $$
 \right.
 $$
 
-The right of it, finally: _unvaccinated are 5x more likely to be hospitalized (10% vs 50%)!_  
+The right of it, finally: _vaccinated are 5x less likely to be hospitalized (10% vs 50%)!_  
 
 __Moral:__ Leaping to public policy choices from ignorantly measuring the wrong thing is a
 very bad idea.  Here, it would have led to _exactly the opposite_ policy for saving
