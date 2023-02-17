@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Base Rate Fallacy, Redux
-tags: COVID MathInTheNews PharmaAndBiotech Politics R Sadness SomebodyAskedMe Statistics
+tags: COVID MathInTheNews PharmaAndBiotech Sadness SomebodyAskedMe Statistics
 comments: true
 commentsClosed: true
 ---
