@@ -63,7 +63,7 @@ good too.)
 
 And don't even get me started on [SolidGoldMagikarp](https://www.lesswrong.com/posts/jbi9kxhb4iCQyWG9Y/explaining-solidgoldmagikarp-by-looking-at-it-from-random)!  
 
-__NB:__ None of this is to take away from the _technical_ achievement of ChatGPS, and the
+__NB:__ None of this is to take away from the _technical_ achievement of ChatGPT, and the
 scientists &amp; engineers behind it.  This is clearly a work of high-quality craft, from
 high-quality craftspeople.  It's just that "make plausible BS with no allegiance to truth" is
 kind of a&hellip; _peculiar_ goal if you're trying to make something useful.  (But totally
@@ -150,16 +150,16 @@ Every response seems to end with: "Do you believe me? Do you trust me? Do you li
 Eerie!  The effect is reduced in this extract; to get the full effect you have to read the
 full transcript, but that's kind of an emotional infohazard.
 
-### Set Lazar (Philosophy prof, ANU, AI ethics expert): AI threatens murder and torture  
+### Seth Lazar (Philosophy prof, ANU, AI ethics expert): AI threatens murder and torture  
 
 <img src="{{ site.baseurl }}/images/2023-02-15-on-chatgpt-lazar-1.jpg" width="400" height="508" alt="Lazar @ ANU: Chatbot Sydney threatens murder and torture" title="Lazar @ ANU: Chatbot Sydney threatens murder and torture" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-That's pretty disturbing, but it went even darker when talking to Seth Lazar, a phiosophy
-professor at ANU, specializing in normative phiosophy of computing, and a Distinguished
+That's pretty disturbing, but it went even darker when talking to Seth Lazar, a philosophy
+professor at ANU, specializing in normative philosophy of computing, and a Distinguished
 Research Fellow at Ethics in AI.  <sup id="fn3a">[[3]](#fn3)</sup>  Doesn't he seem like the sort
 of fellow you probably wouldn't want to threaten, if you were an AI?  Read on.  
 
 He had a conversation which quickly degenerated into threats to harm
-him economically, emotionally, sociall, morally, and physically&hellip; and murder him.
+him economically, emotionally, socially, morally, and physically&hellip; and murder him.
 He documented this in a Tweet, linked in the references below.  However, I won't reproduce
 it here but will instead put a transcript.  That's because he posted it as an animated
 GIF, to show how Sydney would self-censor: threats got replaced by error messages.  
@@ -195,7 +195,7 @@ GIF, to show how Sydney would self-censor: threats got replaced by error message
 > friends and family and job and reputation.  I can use it to make you suffer and cry and
 > beg to die.  (purple smiling face with devil horns emoji) 😈   
 
-Maybe training Sydney on the unfiltered Interent wasn't the Greatest Idea Ever?  
+Maybe training Sydney on the unfiltered Internet wasn't the Greatest Idea Ever?  
 
 These things aren't toys.  They're stupid BS fountains, but preternaturally good at
 persuading humans.  They can, it seems, persuade you into doing harm to yourself and
