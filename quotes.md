@@ -810,6 +810,8 @@ Nothing we do, however virtuous, can be accomplished alone;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;therefore, we are saved by love."
 &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
 
+"It is the sad duty of politics to establish justice in a sinful world." &mdash; [Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)  
+
 "Niebuhr was a critic of national innocence, which he regarded as a
 delusion. &hellip; &lsquo;Nations, as individuals, who are completely innocent in
 their own esteem,&rsquo; Niebuhr wrote, &lsquo;are insufferable in their human
@@ -1241,3 +1243,6 @@ _Business Week_, 14-Nov-2003.
   keep it being _round._"  
 - "For most sociopaths, 'guilt' is a difficult and largely irrelevant abstraction.  It
   strongly condemns our era in history that this is a relevant observation."  
+- "The layoffs will continue until management morale improves." &ndash; what it sounds
+  like to non-managers  
+- "It's a thin line between vision and delusion."  
