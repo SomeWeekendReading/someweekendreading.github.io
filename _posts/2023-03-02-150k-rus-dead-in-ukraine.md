@@ -115,14 +115,13 @@ seem to converge to starting out the invasion with about 3,000 Russian tanks:
   out and Russia is left only with whatever reinforcements they've brought in over the
   last year.  At 20 - 90 new tanks/month for 12 months, that's __240 - 1080 tanks left.__  
 - If you believe the underestimate from visually confirmed tanks via _Oryx_ above, then
-  they started out with 3000 tanks, lost about 1800, so 1200 remain.  Add in the
-  reinforcements they've undoubtedly shipped for the last 12 months, and you get something like
-  __1440 - 2280 tanks left.__  
-  
+  they started out with about 3000 tanks, lost about 1800, so about 1200 of the originals
+  remain.  Add in the reinforcements they've undoubtedly shipped for the last 12 months,
+  and you get something like __1440 - 2280 tanks left.__  
 
 At a burn rate (net of continuing reinforcements) of 60 - 290 tanks/month, that means the
 Russians run out of tanks in:  
-- (240/290) &mdash; (1080/60) months = __1 &mdash; 18 months__ (Ukrainian MoD data)
+- (&nbsp;240/290) &mdash; (1080/60) months = __1 &mdash; 18 months__ (Ukrainian MoD data)
 - (1440/290) &mdash; (2280/60) months = __5 &mdash; 38 months__ (Oryx data)
 
 (Yes, I got those intervals by the very crude method of dividing high and low tank
