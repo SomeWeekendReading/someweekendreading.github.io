@@ -157,7 +157,7 @@ But it looks like around 9 months, maybe up to 18 months, and then Russia runs o
 tanks.  
 
 Now, Russian analysts in the Kremlin know this, and know it much more reliably than some
-dumb guy with a keyboard at Ch&aacute;teau Weekend using business publications to estimate
+dumb guy with a keyboard at Ch&acirc;teau Weekend using business publications to estimate
 force levels!  
 - Are they telling Putin this stuff already, or will it come as a surprise?  
 - Will Putin escalate, potentially to nuclear threats, if he (reasonably) feels cornered by
