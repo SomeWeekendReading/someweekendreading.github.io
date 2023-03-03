@@ -32,11 +32,11 @@ convicts sent for _en masse._
 To be fair, this would be better from a statistical point of view if we also had Ukrainian
 casualty figures, preferably from the Ukrainians themselves as a reliable source.  But, of
 course, there would be intense Russian scrutiny of those numbers to estimate the
-effictiveness of their tactics.  And nobody wants to help the invaders do better at
+effectiveness of their tactics.  And nobody wants to help the invaders do better at
 invasion.  
 
 So, one-sided as it is, these seem to be about the best data we'll get unless there's a UN
-investigation post-war, or a war crimes investigation, or somethint of that order.  
+investigation post-war, or a war crimes investigation, or something of that order.  
 
 
 ## The grim facts  
@@ -49,12 +49,12 @@ Shown here is their report: now over 150,000 confirmed Russian casualties.  Yest
 alone, 715 deaths.  
 
 This is utterly crazy.  Not just in the moral or legal sense, though it is definitely
-crazy thre.  It's crazy in the pragmatic sense to lose 700 lives/day _just holding in place,_
+crazy there.  It's crazy in the pragmatic sense to lose 700 lives/day _just holding in place,_
 not taking any new territory.  
 
 ### Tanks  
 
-Take a look at another eye-popping fact: 3397 tanks lost in aboutt 12 months of fighting.
+Take a look at another eye-popping fact: 3397 tanks lost in about 12 months of fighting.
 That works out to 3397 tanks / 12 months = 283 tanks lost / month.  Well, ok&hellip; but
 is that a lot, or a little?  What's the scale here?  (Scientists, especially statistically
 literate ones, always have to ask that.  Every.  Single. Time.)  
@@ -75,7 +75,7 @@ rates.
    (though I see no evidence of that, so either they're telling the truth or they're very
    good propagandists).  Then their rate of 283 tanks/month may be an overcount.  
    
-   So we should believe somewhere in the range of 150 - 280 tanks/month, and I'm personaly
+   So we should believe somewhere in the range of 150 - 280 tanks/month, and I'm personally
    inclined toward the upper end of that range.  
    
 2. _The Economist_ thinks there's basically 1 single operational tank production facility in
@@ -88,7 +88,7 @@ rates.
    without semiconductors that are harder to get in Russia (so very elementary/short-range
    sights, for example).  
    
-   Doubtful maintenance & refurbishing, lack of modern electronics, and obsolte tanks at
+   Doubtful maintenance & refurbishing, lack of modern electronics, and obsolete tanks at
    the start are a bit of a handicap. Still, _The Economist_ thinks they might squeeze out
    90 refurbished tanks/month.  
    
@@ -156,7 +156,7 @@ But it looks like around 9 months, maybe up to 18 months, and then Russia runs o
 tanks.  
 
 Now, Russian analysts in the Kremlin know this, and know it much more reliably than some
-dumb guy with a keyboard at Ch&aacute;teau Weekend using business publications to estmate
+dumb guy with a keyboard at Ch&aacute;teau Weekend using business publications to estimate
 force levels!  
 - Are they telling Putin this stuff already, or will it come as a surprise?  
 - Will Putin escalate, potentially to nuclear threats, if he (reasonably) feels cornered by
