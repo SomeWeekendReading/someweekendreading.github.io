@@ -3,7 +3,7 @@ layout: post
 title: Another Grim Anniversary
 tags: Politics Sadness
 comments: true
-commentsClosed: false
+commentsClosed: true
 ---
 
 As if the world weren't bad enough, today there's evidence that Russian casualties in
@@ -57,7 +57,7 @@ not taking any new territory.
 Take a look at another eye-popping fact: 3397 tanks lost in about 12 months of fighting.
 That works out to 3397 tanks / 12 months = 283 tanks lost / month.  Well, ok&hellip; but
 is that a lot, or a little?  What's the scale here?  (Scientists, especially statistically
-literate ones, always have to ask that.  Every.  Single. Time.)  
+literate ones, _always_ have to ask that.  Every.  Single. Time.)  
 
 <img src="{{ site.baseurl }}/images/2023-03-02-150k-rus-dead-in-ukraine-bi-1.jpg" width="400" height="486" alt="Zitser @ BI: Russia produces 20 tanks/month" title="Zitser @ BI: Russia produces 20 tanks/month" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 A good summary source here is an article in _Business Insider_ by Joshua
@@ -81,26 +81,26 @@ rates.
 2. _The Economist_ thinks there's basically 1 single operational tank production facility in
    Russia, whose output is 20 tanks/month.  
    
-   On the other hand, they grant that the Russians have a large number of older, somewhat
-   obsolete tanks in storage that may possibly be refurbished.  However, the usual Russian
-   "storage" maintenance means many of those tanks will be a total loss (due to poor
-   maintenance, weather exposure, or looters).  Even the refurbished ones will have to do
-   without semiconductors that are harder to get in Russia (so very elementary/short-range
-   sights, for example).  
+   On the other hand, they grant that the Russians have a large number &ndash; $O(10^4)$ &ndash;
+   of older, somewhat obsolete tanks in storage that may possibly be refurbished.
+   However, the usual Russian "storage" means many of those tanks will be a
+   total loss (due to poor maintenance, weather exposure, looters, or all those).  Even the
+   refurbished ones will have to do without semiconductors that are harder to get in
+   Russia (so very elementary/short-range sights, for example, thereby reducing range of fire).  
    
    Doubtful maintenance & refurbishing, lack of modern electronics, and obsolete tanks at
-   the start are a bit of a handicap. Still, _The Economist_ thinks they might squeeze out
+   the start are&hellip; a _bit_ of a handicap! Still, _The Economist_ thinks they might squeeze out
    90 refurbished tanks/month.  
    
    Let's go with 90 tanks/month total, instead of 20 new tanks + 90 refurbished, to
    account for the difficulties of repairing old tanks with scarce materials.  
    
-So that all adds up to losing 150 - 280 tanks/month while producing _maybe_ 90 tanks/month,
-for a net deficit of 60 - 290 tanks/month lost irreplaceably.  Also, they usually
-lose the tank crew, and training a new tank crew (even on old equipment) takes a long
-time.  
+That all adds up to losing 150 - 280 tanks/month, while producing _maybe_ 90 tanks/month,
+for a net deficit of 60 - 290 tanks/month lost permanently without replacement.  (Also,
+they usually lose the tank crew when the tank is destroyed, and training a new tank crew
+&ndash; even on an older tank &ndash; takes a long time.)  
 
-So they're bleeding tanks at a rate of 60 - 290 tanks/month.  
+So they're __bleeding tanks at a rate of 60 - 290 tanks/month.__  
 
 <img src="{{ site.baseurl }}/images/2023-03-02-150k-rus-dead-in-ukraine-bi-2.jpg" width="400" height="376" alt="Baker @ BI: Russian tanks in Ukraine" title="Baker @ BI: Russian tanks in Ukraine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Again, we have to ask: is that a lot, or a little?  How many tanks do they have in
@@ -112,10 +112,10 @@ While there are of course no official numbers known outside the Kremlin, the est
 seem to converge to starting out the invasion with about 3,000 Russian tanks:
 - If you believe the overestimate from the Ukraine MoD data above, all of those are wiped
   out and Russia is left only with whatever reinforcements they've brought in over the
-  last year.  At 20 - 90 new tanks/month, that's __240 - 1080 tanks left.__  
+  last year.  At 20 - 90 new tanks/month for 12 months, that's __240 - 1080 tanks left.__  
 - If you believe the underestimate from visually confirmed tanks via _Oryx_ above, then
   they started out with 3000 tanks, lost about 1800, so 1200 remain.  Add in the
-  reinforcements they've undoubtedly shipped, and you get something like
+  reinforcements they've undoubtedly shipped for the last 12 months, and you get something like
   __1440 - 2280 tanks left.__  
   
 
@@ -125,18 +125,19 @@ Russians run out of tanks in:
 - (1440/290) &mdash; (2280/60) months = __5 &mdash; 38 months__ (Oryx data)
 
 (Yes, I got those intervals by the very crude method of dividing high and low tank
-estimates by low and high tank loss estimates.  This is Not The Way.  I _should_ model
+estimates by low and high tank loss estimates, respectively.  This is Not The Way.  I _should_ model
 each set of numbers by a shifted binomial distribution, then employ
 [the methods of ratio distributions which say the ratio is approximately lognormally distributed](https://en.wikipedia.org/wiki/Ratio_distribution#Binomial_distribution).
 But in my currently post-COVID-19-brain-fog-addled brain, I just can't summon up the oomph
 to flog the damn recalcitrant neurons any harder than this.  Better in the future as I heal, I
-promise&hellip; but you _are_ permitted and encouraged to hold this one example of bad
-behavior against me to make sure I do better.)  
+promise&hellip; but you _are_ permitted &ndash; and encouraged &ndash; to hold this one example of bad
+behavior against me to make sure I do better in the future.)  
 
 Well, that's a couple of wide ranges.  We expect the Oryx data to lead us to believe it
 will take longer, since they have much lower tank destruction estimates.  They want
 independent visual confirmation on every tank destroyed.  So I'm gonna go with the
-Ukrainian data here, and __estimate about 9 months until Russia runs out of tanks in Ukraine.__  
+Ukrainian data here, and __(crudely!) estimate about 9 months until Russia runs out of
+tanks in Ukraine.__  
 
 It could be faster, if Ukrainians are able to deploy Challenger, Leopard-2, and maybe even
 Abrams tanks from the west.  Each of those should be able to hunt Russian tanks pretty
