@@ -14,20 +14,21 @@ Ukraine have topped 150,000 dead.
 
 <img src="{{ site.baseurl }}/images/2023-03-02-150k-rus-dead-in-ukraine-DoU-1.jpg" width="400" height="306" alt="Twitter: Defense of Ukraine" title="Twitter: Defense of Ukraine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Here at Chez Weekend, we &ndash; along with 1.8 million others &ndash; have been following
-the Twitter account Defense of Ukraine, which is official reporting from the Ukrainian
-Ministry of Defense.  
+the Twitter account [Defense of Ukraine](https://twitter.com/DefenceU), which is official
+reporting from the Ukrainian Ministry of Defense.  
 
 Now, you could argue that since this is a Ukrainian source, we're susceptible to being
 propagandized here.  On the one hand, sure; but on the other hand _nobody_ believes a
 single word of what the Russians say.  The Ukrainian MoD has said a couple times that
 these body counts are the result of actual counts in the field, so the true number is
-probably higher.  OSInt sources seem to believe that, based on spot-checking where
-feasible.  They're at least _consistent_ with outside sources, while the Russian sources
-appear to be, at best, orthogonal to the truth.  
+probably higher.  [OSInt](https://en.wikipedia.org/wiki/Open-source_intelligence) sources
+seem to believe that, based on spot-checking where feasible.  They're at least
+_consistent_ with outside sources, while the Russian sources appear to be, at best,
+orthogonal to the truth.  
 
 We also tend to believe the high Russian casualty numbers because many other news sources
 confirm Russian use of human wave tactics involving badly equipped, badly trained former
-convicts sent for _en masse._  
+convicts sent forth _en masse,_ without combined-arms tactics.  
 
 To be fair, this would be better from a statistical point of view if we also had Ukrainian
 casualty figures, preferably from the Ukrainians themselves as a reliable source.  But, of
