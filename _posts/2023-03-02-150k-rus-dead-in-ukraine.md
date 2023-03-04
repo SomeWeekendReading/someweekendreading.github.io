@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another Grim Anniversary
-tags: Politics Sadness
+tags: MathInTheNews Politics Sadness
 comments: true
 commentsClosed: true
 ---
