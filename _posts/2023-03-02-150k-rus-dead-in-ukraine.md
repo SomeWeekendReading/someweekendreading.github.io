@@ -56,9 +56,10 @@ not taking any new territory.
 ### Tanks  
 
 Take a look at another eye-popping fact: 3397 tanks lost in about 12 months of fighting.
-That works out to 3397 tanks / 12 months = 283 tanks lost / month.  Well, ok&hellip; but
-is that a lot, or a little?  What's the scale here?  (Scientists, especially statistically
-literate ones, _always_ have to ask that.  Every.  Single. Time.)  
+That works out to 3397 tanks / 12 months = 283 tanks lost / month.  (Not quite 1 tank/day,
+but _almost._) Well, ok&hellip; but is that a lot, or a little?  What's the scale here?
+(Scientists, especially statistically literate ones, _always_ have to ask that.  Every.
+Single. Time.)  
 
 <img src="{{ site.baseurl }}/images/2023-03-02-150k-rus-dead-in-ukraine-bi-1.jpg" width="400" height="486" alt="Zitser @ BI: Russia produces 20 tanks/month" title="Zitser @ BI: Russia produces 20 tanks/month" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 A good summary source here is an article in _Business Insider_ by Joshua
@@ -74,7 +75,7 @@ rates.
 
    You might want to assume the Ukrainians are exaggerating for propaganda purposes
    (though I see no evidence of that, so either they're telling the truth or they're very
-   good propagandists).  Then their rate of 283 tanks/month may be an overcount.  
+   skilled propagandists).  Then their rate of 283 tanks/month may be an overcount.  
    
    So we should believe somewhere in the range of 150 - 280 tanks/month, and I'm personally
    inclined toward the upper end of that range.  
@@ -125,9 +126,10 @@ Russians run out of tanks in:
 - (1440/290) &mdash; (2280/60) months = __5 &mdash; 38 months__ (Oryx data)
 
 (Yes, I got those intervals by the very crude method of dividing high and low tank
-estimates by low and high tank loss estimates, respectively.  This is Not The Way.  I _should_ model
-each set of numbers by a shifted binomial distribution, then employ
+estimates by low and high tank loss rate estimates, respectively.  This is Not The Way.  I
+_should_ model each set of numbers by a shifted binomial distribution, then employ
 [the methods of ratio distributions which say the ratio is approximately lognormally distributed](https://en.wikipedia.org/wiki/Ratio_distribution#Binomial_distribution).
+(The math here is similar to estimating the statistical significance of a vaccine efficacy!)
 But in my currently post-COVID-19-brain-fog-addled brain, I just can't summon up the oomph
 to flog the damn recalcitrant neurons any harder than this.  Better in the future as I heal, I
 promise&hellip; but you _are_ permitted &ndash; and encouraged &ndash; to hold this one example of bad

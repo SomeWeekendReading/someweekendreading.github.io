@@ -15,7 +15,7 @@ Will we ever _not_ be trapped by the base rate fallacy?
 There's this fallacy, a common bug in the way people think, called the base rate 
 fallacy. <sup id="fn1a">[[1]](#fn1)</sup>  
 
-Consider their illustrative example:  
+Consider Wikipedia's illustrative example:  
 - If you just look in the black circle on the left, you would conclude more of the
   hospitalized people were vaccinated than unvaccinated.  Na&iuml;ve observers conclude,
   incorrectly, that vaccines don't work.  
