@@ -1246,3 +1246,6 @@ _Business Week_, 14-Nov-2003.
 - "The layoffs will continue until management morale improves." &ndash; what it sounds
   like to non-managers  
 - "It's a thin line between vision and delusion."  
+- "Stupidity is always a capital crime when Nature is the judge.  We can and should do
+  better than Nature."  
+- "If you find yourself in a race to the bottom, let the other guy win."  
