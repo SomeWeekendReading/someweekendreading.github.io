@@ -1249,3 +1249,4 @@ _Business Week_, 14-Nov-2003.
 - "Stupidity is always a capital crime when Nature is the judge.  We can and should do
   better than Nature."  
 - "If you find yourself in a race to the bottom, let the other guy win."  
+- "Once you identify the side with the Nazis, pick the other side."  
