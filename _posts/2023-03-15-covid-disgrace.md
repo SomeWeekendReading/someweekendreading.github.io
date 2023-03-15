@@ -332,8 +332,8 @@ Do you remember how the unvaccinated took to calling themselves "purebloods"?
 your DNA making your "blood impure" (racist dog-whistle), and the "pureblood" magical
 families of the _Harry Potter_ novels.  Do they _just not get_ the fact that the purebloods were
 the _bad guys_ in those books?  They were the racists of the magical world,
-the analog of Nazis demanding racial purity.  (A good heuristic: once you identify the
-Nazis, pick the other side.)  
+the analog of Nazis demanding racial purity.  (A good heuristic:
+[once you identify the Nazis, pick the other side]({{ site.baseurl }}/quotes/#:~:text=Once%20you%20identify%20the%20side%20with%20the%20Nazis,pick%20the%20other%20side).)  
 
 Apparently in Idaho this extends to not wanting to "mix blood" (another racist trope) of
 the vaccinated and unvaccinated.  If you have the stomach to wade through the intellectual
@@ -415,7 +415,7 @@ reading and summarizing.  But even so, it took me almost 2 weeks to get it up.
 
 Much of my mind is not yet healed.  While I know on some level that it takes 7-9 months
 for "brain fog" to clear up <sup id="fn12a">[[12]](#fn12)</sup> <sup id="fn13a">[[13]](#fn13)</sup>,
-it's nonetheless difficult wait.  Being able to use my mind effectively has been a _huge_
+it's nonetheless a difficult wait.  Being able to use my mind effectively has been a _huge_
 part of my identity ever since childhood; COVID-19 has thus far taken that away from me.  
 
 I _hope_ that since 7 months have elapsed, I should be returning to normal.  But I have
