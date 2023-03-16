@@ -469,7 +469,7 @@ So yeah, it's kinda personal with me.
 
 <a id="fn11">11</a>: AC Gilbert, ["Some unvaccinated TikTokers are calling themselves 'pureblood,' in latest concerning trend"](https://www.usatoday.com/story/news/health/2021/09/16/unvaccinated-tiktokers-calling-themselves-pureblood-dark-trend/8360383002/), _USA Today_, 2021-Sep-16. [↩](#fn11a)  
 
-<a id="fn12">12</a>: G Kmetz, ["HB 645: AN ACT REVISING LAWS RELATED TO THE DONATION OF BLOOD AND TISSUES; PROHIBITING CERTAIN DONATIONS OF BLOOD AND TISSUES; PROVIDING A PENALTY; REVISING IMMUNITY PROVISIONS RELATED TO BLOOD AND TISSUE BANKS; CREATING AN EXEMPTION FROM THE PROHIBITION ON DISCRIMINATION BASED ON VACCINE STATUS FOR THE SCREENING AND TESTING OF BLOOD AND TISSUES; AMENDING SECTIONS 49-2-312 AND 50-33-104, MCA; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE."](https://leg.mt.gov/bills/2023/billhtml/HB0645.htm), _Montana Legislature_, 2023.  [↩](#fn12a)  
+<a id="fn12">12</a>: G Kmetz, ["(Montana) HB 645: AN ACT REVISING LAWS RELATED TO THE DONATION OF BLOOD AND TISSUES; PROHIBITING CERTAIN DONATIONS OF BLOOD AND TISSUES; PROVIDING A PENALTY; REVISING IMMUNITY PROVISIONS RELATED TO BLOOD AND TISSUE BANKS; CREATING AN EXEMPTION FROM THE PROHIBITION ON DISCRIMINATION BASED ON VACCINE STATUS FOR THE SCREENING AND TESTING OF BLOOD AND TISSUES; AMENDING SECTIONS 49-2-312 AND 50-33-104, MCA; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE."](https://leg.mt.gov/bills/2023/billhtml/HB0645.htm), _Montana Legislature_, 2023.  [↩](#fn12a)  
 
 <a id="fn13">13</a>: D Emery, ["Did London Times Editorialize Against Being 'Bullied into Health' in 1800s?"](https://www.snopes.com/fact-check/london-times-bullied-into-health/), _Snopes_, 2023-Jan-15. [↩](#fn13a)  
 
