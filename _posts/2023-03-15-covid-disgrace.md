@@ -118,17 +118,17 @@ long COVID-19.)
   avoidable but for our refusal to face facts and act accordingly.  
 - Now Long COVID is impairing the lives of something on the close order of several million
   Americans(exact number unknown).  
-  o Often it's hard to get doctors even to take you seriously!  
-  o From one sufferer:  
+  - Often it's hard to get doctors even to take you seriously!  
+  - From one sufferer:  
     > After having COVID the first time and recovering fine, I assumed that having it
     > again wouldn't be a problem, because I had been OK during my first infection.  And I
     > couldn't have been more wrong.  
 - David Putrino, neuroscientist and physical therapist, is director of rehab innovation at
   the Mount Sinai Health System in New York:  
-  o The heartbreaking stories of people crippled, financially broken, and feeling like
+  - The heartbreaking stories of people crippled, financially broken, and feeling like
     their lives are coming to an end are quite common.  
-  o His clinic alone has seen over 3,000 Long COVID patients in the last 3 years.  
-  o In an article in _The Lancet_, he reports ~200 symptoms associated, affecting
+  - His clinic alone has seen over 3,000 Long COVID patients in the last 3 years.  
+  - In an article in _The Lancet_, he reports ~200 symptoms associated, affecting
     virtually _every organ system_.  It's a portfolio of conditions caused by an underlying
     acute viral infection.  
 	> All we can do right now is symptom management. &hellip; But we're not curing
@@ -142,7 +142,7 @@ long COVID-19.)
 	> We need the public to understand that dying is not your only risk of serious
     > life-changing effects from having an acute COVID infection.  And we need the
     > __government to support a lot more in the way of infection prevention__.  
-  o An (uncited) article in _Nature Reviews Microbiology_ estimates that there are about
+  - An (uncited) article in _Nature Reviews Microbiology_ estimates that there are about
     65 million people world-wide with Long COVID.  If we estimate the US at 4.25% of world
     population, that works out to 65 million * 0.0425 = 2,762,500 Long COVID cases in the
     US.  
@@ -240,15 +240,19 @@ Or, in the words of _Forbes:_
 > Stop the genocide? Foreign non-governmental entities unleashing biological weapons? Holy
 > [space-laser-operating](https://www.someweekendreading.blog/really-republicans/#the-3-republican-stooges)-lizard-alien-living-on-a-flat-Earth-with-a-5G-transmitter.  
 
+<img src="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-rcobgyn-1.jpg" width="400" height="268" alt="Alexander @ Royal Coll OB/GYN: COVID-19 vaccination reduces stillbirth by 15%" title="Alexander @ Royal Coll OB/GYN: COVID-19 vaccination reduces stillbirth by 15%" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-nature-1.jpg" width="400" height="341" alt="Prasad, et al. @ Nature: Outcomes of COVID-19 vaccination in pregnancy" title="Prasad, et al. @ Nature: Outcomes of COVID-19 vaccination in pregnancy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Apparently that's not weird enough for Sansone, because he also claimed:  
 
 > If you got this shot, you go home and hug your pregnant wife—she can have a miscarriage
 > through skin contact.  
 
 So&hellip; he thinks we vaccinated people are somehow shedding paraproteins or something
-that puts unvaccinated people in danger, e.g., of miscarriage?  Quite the opposite is
-true: vaccination _lowers_ the risk of miscarriage, because getting COVID-19 while
-pregnant is a _terrible_ idea.  
+that puts unvaccinated people in danger, e.g., of miscarriage?  
+
+Quite the opposite is true: vaccination _lowers_ the risk of miscarriage by
+15% <sup id="fn7a">[[7]](#fn7)</sup> <sup id="fn8a">[[8]](#fn8)</sup> (getting COVID-19 
+while pregnant is a _terrible_ idea).  
 
 <a href="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-WINK-2.png"><img src="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-WINK-2-thumb.jpg" width="400" height="225" alt="Hudak &amp; Wirtz @ WINK News: Close-up of partial text of COVID-19 vaccine ban resolution" title="Hudak &amp; Wirtz @ WINK News: Close-up of partial text of COVID-19 vaccine ban resolution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 It gets worse.  If you look at the close-up WINK News obtained of some of the text of the
@@ -272,7 +276,7 @@ I'm desperately hunting for some
 here, so let's dig into this guy Joe Sansone a bit and see if he's maybe a bit better than
 all this looks.  
 
-From his _Psychology Today_ profile <sup id="fn7a">[[7]](#fn7)</sup> we see that he's a
+From his _Psychology Today_ profile <sup id="fn9a">[[9]](#fn9)</sup> we see that he's a
 licensed psychotherapist, practicing in Florida.  A few queasy feelings bubble to the top
 when we see that he strongly emphasizes hypnosis as his main therapeutic mode, that
 all sessions are in person, not by telehealth, and he prefers cash or credit card payments
@@ -325,10 +329,10 @@ Ladies and gentlemen, your modern Republican party.
 <img src="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-montanan-1.jpg" width="400" height="196" alt="Girten @ Daily Montanan: Bill to ban blood donation by vaccinated" title="Girten @ Daily Montanan: Bill to ban blood donation by vaccinated" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I've now forgotten who showed me this; that's good, because I'm pretty sure I don't want
 to repeat the journey.  It appears the Montana legislature has introduced House Bill 645,
-to prevent vaccinated people from donating blood. <sup id="fn8a">[[8]](#fn8)</sup>  
+to prevent vaccinated people from donating blood. <sup id="fn10a">[[10]](#fn10)</sup>  
 
 Do you remember how the unvaccinated took to calling themselves "purebloods"?
-<sup id="fn9a">[[9]](#fn9)</sup> It's a weird mash-up of the canard that mRNA vaccines alter
+<sup id="fn11a">[[11]](#fn11)</sup> It's a weird mash-up of the canard that mRNA vaccines alter
 your DNA making your "blood impure" (racist dog-whistle), and the "pureblood" magical
 families of the _Harry Potter_ novels.  Do they _just not get_ the fact that the purebloods were
 the _bad guys_ in those books?  They were the racists of the magical world,
@@ -337,7 +341,7 @@ the analog of Nazis demanding racial purity.  (A good heuristic:
 
 Apparently in Idaho this extends to not wanting to "mix blood" (another racist trope) of
 the vaccinated and unvaccinated.  If you have the stomach to wade through the intellectual
-sewage, I recovered the text of the bill <sup id="fn10a">[[10]](#fn10)</sup> &ndash; and
+sewage, I recovered the text of the bill <sup id="fn12a">[[12]](#fn12)</sup> &ndash; and
 it's about as bad as you think.  
 
 ### Extreme anti-vaxxers propose masking&hellip; _around vaccinated people!_  
@@ -376,7 +380,7 @@ Here he's showing us extracts from the _Times of London_ from 1848 - 1854:
 <img src="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-snopes-2.jpg" width="400" height="139" alt="Emery @ Snopes: Rating: correct" title="Emery @ Snopes: Rating: correct" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 That seems worth fact-checking, since it's such a body-slam to compare vaccine resistance
 to the resistance against clean water, sewage processing, and just _washing._  So, we
-checked this in _Snopes_ <sup id="fn11a">[[11]](#fn11)</sup> and got a thumbs up: yes,
+checked this in _Snopes_ <sup id="fn13a">[[13]](#fn13)</sup> and got a thumbs up: yes,
 this really was a thing.  
 
 It appears in the last nearly 2 centuries, conservative thinking has not evolved a bit.
@@ -414,7 +418,7 @@ I started this post on 2023-Mar-03.  It doesn't contain any mathematical analysi
 reading and summarizing.  But even so, it took me almost 2 weeks to get it up.  
 
 Much of my mind is not yet healed.  While I know on some level that it takes 7-9 months
-for "brain fog" to clear up <sup id="fn12a">[[12]](#fn12)</sup> <sup id="fn13a">[[13]](#fn13)</sup>,
+for "brain fog" to clear up <sup id="fn14a">[[14]](#fn14)</sup> <sup id="fn15a">[[15]](#fn15)</sup>,
 it's nonetheless a difficult wait.  Being able to use my mind effectively has been a _huge_
 part of my identity ever since childhood; COVID-19 has thus far taken that away from me.  
 
@@ -455,18 +459,22 @@ So yeah, it's kinda personal with me.
 
 <a id="fn6">6</a>: M Hudak &amp; T Wirtz, ["Lee County GOP passes ‘Ban the Jab’ resolution to ban COVID vaccines in Florida"](https://winknews.com/2023/02/21/ban-the-jab-proposed-resolution-vote-tuesday-evening/), _WINK News_ (southwest Florida news station), 2023-Feb-21. [↩](#fn6a)  
 
-<a id="fn7">7</a>: J Sansone &amp; Staff of _Psychology Today_, ["Joseph Sansone"](https://www.psychologytoday.com/us/therapists/joseph-sansone-bonita-springs-fl/426823), _Psychology Today_, downloaded 2023-Mar-04. [↩](#fn7a)  
+<a id="fn7">7</a>: C Alexander, ["COVID-19 vaccination associated with 15% reduction in stillbirths in pregnant women"](https://www.rcog.org.uk/news/covid-19-vaccination-associated-with-15-reduction-in-stillbirths-in-pregnant-women/), Press releases of _Royal College of Obstetricians &amp; Gynaecologists_, 2022-May-10. [↩](#fn7a)  
 
-<a id="fn8">8</a>: N Girten, ["Bill banning vaccinated blood donations would ‘decimate’ blood supply, opponents say"](https://dailymontanan.com/2023/02/27/bill-banning-vaccinated-blood-donations-would-decimate-blood-supply-opponents-say/), _Daily Montanan_, 2023-Feb-27. [↩](#fn8a)  
+<a id="fn8">8</a>: S Prasad, _et al.,_ ["Systematic review and meta-analysis of the effectiveness and perinatal outcomes of COVID-19 vaccination in pregnancy"](https://www.nature.com/articles/s41467-022-30052-w), _Nature Communications_, 13:2414, 2022-May-10. [↩](#fn8a)  
 
-<a id="fn9">9</a>: AC Gilbert, ["Some unvaccinated TikTokers are calling themselves 'pureblood,' in latest concerning trend"](https://www.usatoday.com/story/news/health/2021/09/16/unvaccinated-tiktokers-calling-themselves-pureblood-dark-trend/8360383002/), _USA Today_, 2021-Sep-16. [↩](#fn9a)  
+<a id="fn9">9</a>: J Sansone &amp; Staff of _Psychology Today_, ["Joseph Sansone"](https://www.psychologytoday.com/us/therapists/joseph-sansone-bonita-springs-fl/426823), _Psychology Today_, downloaded 2023-Mar-04. [↩](#fn9a)  
 
-<a id="fn10">10</a>: G Kmetz, ["HB 645: AN ACT REVISING LAWS RELATED TO THE DONATION OF BLOOD AND TISSUES; PROHIBITING CERTAIN DONATIONS OF BLOOD AND TISSUES; PROVIDING A PENALTY; REVISING IMMUNITY PROVISIONS RELATED TO BLOOD AND TISSUE BANKS; CREATING AN EXEMPTION FROM THE PROHIBITION ON DISCRIMINATION BASED ON VACCINE STATUS FOR THE SCREENING AND TESTING OF BLOOD AND TISSUES; AMENDING SECTIONS 49-2-312 AND 50-33-104, MCA; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE."](https://leg.mt.gov/bills/2023/billhtml/HB0645.htm), _Montana Legislature_, 2023.  [↩](#fn10a)  
+<a id="fn10">10</a>: N Girten, ["Bill banning vaccinated blood donations would ‘decimate’ blood supply, opponents say"](https://dailymontanan.com/2023/02/27/bill-banning-vaccinated-blood-donations-would-decimate-blood-supply-opponents-say/), _Daily Montanan_, 2023-Feb-27. [↩](#fn10a)  
 
-<a id="fn11">11</a>: D Emery, ["Did London Times Editorialize Against Being 'Bullied into Health' in 1800s?"](https://www.snopes.com/fact-check/london-times-bullied-into-health/), _Snopes_, 2023-Jan-15. [↩](#fn11a)  
+<a id="fn11">11</a>: AC Gilbert, ["Some unvaccinated TikTokers are calling themselves 'pureblood,' in latest concerning trend"](https://www.usatoday.com/story/news/health/2021/09/16/unvaccinated-tiktokers-calling-themselves-pureblood-dark-trend/8360383002/), _USA Today_, 2021-Sep-16. [↩](#fn11a)  
 
-<a id="fn12">12</a>: H Davis, _et al.,_ ["Characterizing long COVID in an international cohort: 7 months of symptoms and their impact"](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00299-6/fulltext), _The Lancet_, 2021-Jul1-15.  DOI: [10.1016/j.eclinm.2021.101019](https://doi.org/10.1016/j.eclinm.2021.101019).  
+<a id="fn12">12</a>: G Kmetz, ["HB 645: AN ACT REVISING LAWS RELATED TO THE DONATION OF BLOOD AND TISSUES; PROHIBITING CERTAIN DONATIONS OF BLOOD AND TISSUES; PROVIDING A PENALTY; REVISING IMMUNITY PROVISIONS RELATED TO BLOOD AND TISSUE BANKS; CREATING AN EXEMPTION FROM THE PROHIBITION ON DISCRIMINATION BASED ON VACCINE STATUS FOR THE SCREENING AND TESTING OF BLOOD AND TISSUES; AMENDING SECTIONS 49-2-312 AND 50-33-104, MCA; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE."](https://leg.mt.gov/bills/2023/billhtml/HB0645.htm), _Montana Legislature_, 2023.  [↩](#fn12a)  
 
-See &sect; 3.3.1: 55.5% (CL: 52.5% - 58.8%) of patients still experienced "brain fog" in month 7, so that's close enough for me to the median time to recovery.  So, to my mind I say: see you in 2023-Feb.  It's very frustrating to hear people say "COVID's over, man!" when the consequences to me personally are somewhat high. [↩](#fn12a)  
+<a id="fn13">13</a>: D Emery, ["Did London Times Editorialize Against Being 'Bullied into Health' in 1800s?"](https://www.snopes.com/fact-check/london-times-bullied-into-health/), _Snopes_, 2023-Jan-15. [↩](#fn13a)  
 
-<a id="fn13">13</a>: C Callan, _et al.,_ ["‘I can’t cope with multiple inputs’: a qualitative study of the lived experience of ‘brain fog’ after COVID-19"](https://bmjopen.bmj.com/content/12/2/e056366), _BMJ Open_, 2022-Feb-11.  DOI: [10.1136/bmjopen-2021-056366](https://doi.org/10.1136/bmjopen-2021-056366). [↩](#fn13a)  
+<a id="fn14">14</a>: H Davis, _et al.,_ ["Characterizing long COVID in an international cohort: 7 months of symptoms and their impact"](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00299-6/fulltext), _The Lancet_, 2021-Jul1-15.  DOI: [10.1016/j.eclinm.2021.101019](https://doi.org/10.1016/j.eclinm.2021.101019).  
+
+See &sect; 3.3.1: 55.5% (CL: 52.5% - 58.8%) of patients still experienced "brain fog" in month 7, so that's close enough for me to the median time to recovery.  So, to my mind I say: see you in 2023-Feb.  It's very frustrating to hear people say "COVID's over, man!" when the consequences to me personally are somewhat high. [↩](#fn14a)  
+
+<a id="fn15">15</a>: C Callan, _et al.,_ ["‘I can’t cope with multiple inputs’: a qualitative study of the lived experience of ‘brain fog’ after COVID-19"](https://bmjopen.bmj.com/content/12/2/e056366), _BMJ Open_, 2022-Feb-11.  DOI: [10.1136/bmjopen-2021-056366](https://doi.org/10.1136/bmjopen-2021-056366). [↩](#fn15a)  

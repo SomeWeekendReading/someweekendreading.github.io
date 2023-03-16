@@ -56,7 +56,7 @@ not taking any new territory.
 ### Tanks  
 
 Take a look at another eye-popping fact: 3397 tanks lost in about 12 months of fighting.
-That works out to 3397 tanks / 12 months = 283 tanks lost / month.  (Not quite 1 tank/day,
+That works out to 3397 tanks / 12 months = 283 tanks lost / month.  (Not quite 10 tanks/day,
 but _almost._) Well, ok&hellip; but is that a lot, or a little?  What's the scale here?
 (Scientists, especially statistically literate ones, _always_ have to ask that.  Every.
 Single. Time.)  
@@ -150,7 +150,7 @@ well.
 
 __Disclosure:__ My military knowledge and experience is negligible.  I've read a bit, and
 I've consulted (very) occasionally for military customers some decades ago, but that's
-it.  In other words, I know nothing.  
+it.  In other words, to a very good approximation I know nothing.  
 
 Also, still working through persistent post-COVID-19 brain fog and waiting for
 anti-depressants to kick in.  So down-rate your estimate of my credibility accordingly.  
@@ -170,7 +170,7 @@ statement, and withdraw to Russia.
 
 When I were just a wee tad, I had great faith in human rationality: if only I could nail
 down all the details mathematically, and speak clearly &amp; forcefully to the decision
-makers, surely they would do the rational thing.  Now that I'm a grizzled old scientist,
+makers, surely they would do the rational thing, right?  Now that I'm a grizzled old scientist,
 bearing the scars of many battles with irrational corporate managements, I no longer have
 much faith in human rationality.  
 
