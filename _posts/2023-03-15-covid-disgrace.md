@@ -148,8 +148,7 @@ long COVID-19.)
     US.  
 
 __Conclusions:__  
-- The Omicron lineage is the _terroir du jour_, in particular XBB.1.5 at this particular
-  time.  
+- The Omicron lineage is the _terroir du jour_, namely XBB.1.5 at this particular time.  
 - Long COVID is a severe danger which imposes disability for _years_, and currently
   afflicts about 6 million world-wide and about 2.7 million in the US (rough estimates).  
 
@@ -244,8 +243,8 @@ Or, in the words of _Forbes:_
 <img src="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-nature-1.jpg" width="400" height="341" alt="Prasad, et al. @ Nature: Outcomes of COVID-19 vaccination in pregnancy" title="Prasad, et al. @ Nature: Outcomes of COVID-19 vaccination in pregnancy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Apparently that's not weird enough for Sansone, because he also claimed:  
 
-> If you got this shot, you go home and hug your pregnant wife—she can have a miscarriage
-> through skin contact.  
+> If you got this shot, you go home and hug your pregnant wife—she __can have a miscarriage
+> through skin contact.__  
 
 So&hellip; he thinks we vaccinated people are somehow shedding paraproteins or something
 that puts unvaccinated people in danger, e.g., of miscarriage?  
@@ -311,7 +310,7 @@ weight to the mainstream view.
 > cosmos".[1] It has also been defined as "development beyond conventional, personal or
 > individual levels".[2]  
 
-Ok, that's the last straw for real this time.  I'm a religious person myself, but one
+Ok, that's _really_ the last straw.  I'm a religious person myself, but one
 simply _does not_ mix religion with psychotherapy.  While my religion can inform me on
 _why_ I need to practice with compassion and generosity, it does not override the science
 behind _how_ I choose to do my work.  I'm happy to explore the possibility of a spiritual
@@ -422,7 +421,7 @@ for "brain fog" to clear up <sup id="fn14a">[[14]](#fn14)</sup> <sup id="fn15a">
 it's nonetheless a difficult wait.  Being able to use my mind effectively has been a _huge_
 part of my identity ever since childhood; COVID-19 has thus far taken that away from me.  
 
-I _hope_ that since 7 months have elapsed, I should be returning to normal.  But I have
+I _hope_ that since 7 months have elapsed, I should be returning to normal soon.  But I have
 daily fears that I might not.  
 
 So yeah, it's kinda personal with me.  
