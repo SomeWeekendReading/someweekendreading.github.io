@@ -93,8 +93,8 @@ ladies and gentlemen, is How It Is Done.
 I'm never gonna lift weights, so don't expect to read about that here on this CLBTNR.  But
 I do aspire to be able to lift spirits, even just a little bit like he does.  
 
-I hope I've misjudged Schwarzenegger for the last time.  I'll expect the very best from
-him, from now on.  And will, accordingly, listen respectfully.  
+I hope I've misjudged Schwarzenegger for the last time, and will not repeat that error.
+I'll expect the very best from him, from now on.  And will, accordingly, listen respectfully.  
 
 ---
 
