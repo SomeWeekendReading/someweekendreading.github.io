@@ -16,13 +16,13 @@ Almost exactly year ago on this Crummy Little Blog That Nobody Reads (CLBTNR),
 Schwarzenegger had posted a YouTube video making shocking amounts of sense about the
 Russian invasion of Ukraine (later an article in _The Atlantic_), and another about
 fascism in the US.  He spoke of his love for the Russian people, Russian colleagues he'd
-known, the enormous price his father paid for being on the fascist side in WWII, and
-pleading with the Russian people:  
+known, the enormous price his father paid for being on the fascist side in WWII. He
+pleaded with the Russian people:  
 
 > "I don't want you to be broken like my father."  
 
-I also admitted that I had scant patience for jocks of any sort, due to a lot of
-jocks-vs-nerds abuse growing up that taught me gyms were places of pain, abuse, and cruelty:  
+I also admitted back then that I had scant patience for jocks of any sort, due to a lot of
+jocks-vs-nerds abuse growing up. They taught that me gyms were places of pain, abuse, and cruelty:  
 
 > It takes a lot to bring tears to my eyes at the words of a former athlete in a sport I
 > don’t like, turned actor in movies I don’t like, turned politician for a party I don’t
@@ -39,9 +39,9 @@ this is a smart and good man who deserves to be known as such.
 ## So what's he done this time?  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/jsETTn7DehI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-- He speaks of his visit to Auschwitz, and the horror of that experience.  He asked the
+- He spoke of his visit to Auschwitz, and the horror of that experience.  He asked the
   question all good people ask themselves: how do we stop this from ever happening again?  
-- Like any good facilitator of repentance, he speaks kindly and respectfully to those
+- Like any good facilitator of repentance, he spoke kindly and respectfully to those
   might already "have stumbled into the wrong direction", toward fascism and conspiracy
   theories: "I want to speak to you before you find your regrets at the end of that path."
   His father's path "ended in misery".   
@@ -85,7 +85,7 @@ bodybuilding (of no interest to me, to say the least).  But just listen to the
 encouraging &amp; uplifting _tone_ in which he talks to random people who are struggling:  
 
 > We have the power to make this place positive. That’s our new daily challenge. Who are
-> we pumping up today? Find me someone who needs a boost - let’s lift them up together.  
+> we pumping up today? Find me someone who needs a boost - __let’s lift them up together.__  
 
 "Let's lift them up together."  Respect.  Compassion.  Encouragement.  Community.  That,
 ladies and gentlemen, is How It Is Done.  
