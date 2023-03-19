@@ -1250,3 +1250,4 @@ _Business Week_, 14-Nov-2003.
   better than Nature."  
 - "If you find yourself in a race to the bottom, let the other guy win."  
 - "Once you identify the side with the Nazis, pick the other side."  
+- "Assigned Midwesterner at birth, New Englander by choice."  
