@@ -8,7 +8,7 @@ commentsClosed: true
 
 How has the US performed _vis &agrave; vis_ COVID-19?  Are we learning to do better?  
 
-Alas&hellip; no.  No, we're not.  
+Alas&hellip; no.  No, we are not.  
 
 As evidence, consider below (1) the state of public health measures world-wide,
 (2) what the virus seems to be doing, and finally (3) what our _crazy_ reactions have been.  
@@ -22,7 +22,7 @@ The first question that interests me is: are we still living as long as before,
 world-wide, or has COVID-19 made an appreciable impact on human longevity?  Staying alive
 is, after all, one of the coarsest-grain measures of well-being.  
 
-Alas, the evidence is, apparently not:  
+Alas, the evidence is that apparently we are _not:_  
 
 <a href="https://twitter.com/CrabbBrendan/status/1632589642087436289"><img src="{{ site.baseurl }}/images/2023-03-15-covid-disgrace-crabb-1.jpg" width="550" height="941" alt="Crabb @ Twitter: World-wide decline in expected lifespans" title="Crabb @ Twitter: World-wide decline in expected lifespans" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
@@ -215,8 +215,8 @@ passed a resolution giving the governor &mdash; the fascist Ron Desantis &mdash;
 to _ban COVID-19 vaccines!_  
 
 We checked PZ's sources, and yes, he's unfortunately correct: both
-_Forbes_ <sup id="fn5a">[[5]](#fn5)</sup> &hellip; and the Florida local station WINK
-News <sup id="fn6a">[[6]](#fn6)</sup> &hellip; confirm this wretched "Ban the Jab" resolution.  
+_Forbes_ <sup id="fn5a">[[5]](#fn5)</sup> and the Florida local station WINK
+News <sup id="fn6a">[[6]](#fn6)</sup> confirm this wretched "Ban the Jab" resolution.  
 
 Now, let's be fair: this is a resolution, not a binding law.  And it's the product of the
 Republican party at the Lee County level, not in general.  But it does take the
@@ -310,11 +310,11 @@ weight to the mainstream view.
 > cosmos".[1] It has also been defined as "development beyond conventional, personal or
 > individual levels".[2]  
 
-Ok, that's _really_ the last straw.  I'm a religious person myself, but one
-simply _does not_ mix religion with psychotherapy.  While my religion can inform me on
-_why_ I need to practice with compassion and generosity, it does not override the science
-behind _how_ I choose to do my work.  I'm happy to explore the possibility of a spiritual
-side to humanity, but therapy is _medical treatment_, not spiritual advice.  
+Ok, that's _really_ the last straw.  I'm a religious person myself, but one simply _does
+not_ mix religion with medical therapy or psychotherapy.  While my religion can inform me
+on _why_ I need to practice with compassion and generosity, it does not override the
+science behind _how_ I choose to do my work.  I'm happy to explore the possibility of a
+spiritual side to humanity, but therapy is _medical treatment_, not spiritual advice.  
 
 __Conclusion:__ This resolution is full of lunatic conspiracy theories, written by a
 person who practices psychotherapy emphasizing hypnosis and cash payments, with a degree
@@ -362,7 +362,7 @@ Oh, [good grief, as Charlie Brown used to say](https://twitter.com/SchulzMuseum/
 As if there isn't enough _real_ crap in the world to worry about: Russian genocide in
 Ukraine, fascism revenant world-wide, Republicans trying to slash Social
 Security/Medicare/Medicaid, banning books from schools, arresting drag performers, and a
-litany of woes.  
+litany of other woes.  
 
 Notice that all the delusional, coercive, and cruel things above come from red states in
 the US.  They're so hungry for paranoia, they have to _make up_ things to fear.  
@@ -387,7 +387,7 @@ They resisted public health then, and they still do.  The thing about "public he
 that you can't omit the "public" &ndash; it really has to be a collective endeavor, or it
 won't work.  
 
-Right-wing allergy to anything "collective" is sometimes lethal.  
+The right-wing allergy to anything "collective" is sometimes lethal.  
 
 Now, you might reasonably accuse me of indulging a taste for
 [schadenfreude pie (homage &agrave; Scalzi)](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)

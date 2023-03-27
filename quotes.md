@@ -945,7 +945,12 @@ History of England_, chapter 10.
 young people are always wrong about what is wrong with him. The practical form it takes is
 this: that, while the old man may stand by some stupid custom, the young man always
 attacks it with some theory that turns out to be equally stupid."
-&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+&mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), 
+_Illustrated London News_, 1922-Jun-03.  
+
+"The reformer is always right about what is wrong. He is generally wrong about what is
+right." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+_Illustrated London News_, 1922-Oct-28.  
 
 "Above all, the prophets remind us of the moral state of a people: _Few are guilty, but all
 are responsible._ If we admit that the individual is in some measure conditioned or
