@@ -223,7 +223,7 @@ John Green "Motivation in Hard Times":
 ## The Weekend Conclusion  
 
 Let's finish with a few more theological thoughts from [the quotes page]({{ site.baseurl }}/quotes/)
-of this CLBTNB.  
+of this CLBTNR.  
 
 The first is a brilliant _misquote_ of the Talmud, somewhat mangling the sources but with
 such a brilliant result I cannot but think the authors would agree:  
