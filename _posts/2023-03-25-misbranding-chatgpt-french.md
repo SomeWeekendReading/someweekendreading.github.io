@@ -21,10 +21,10 @@ People.)
 >          ["The Naming of Cats"](https://en.wikipedia.org/wiki/The_Naming_of_Cats),
 >          [__Old Possum's Book of Practical Cats__](https://en.wikipedia.org/wiki/Old_Possum%27s_Book_of_Practical_Cats), 1939.  
 
-名は体を表す (na wa tai o arawasu = names reveal the inner nature of things)?  Well, not
+名は体を表す? (na wa tai o arawasu = names reveal the inner nature of things)  Well, not
 really.  But&hellip;  
 
-Nobody ever lets me name things.  And for good reason! The last time I was allowed to name
+See, nobody ever lets me name things.  And for good reason! The last time I was allowed to name
 something, I came up with "bprsvd": Bayesian Probit Regression with Singular Value
 Decompositions.  (Don't bother googling; it was used once and then sank without a trace.)  
 
