@@ -33,8 +33,8 @@ lifetime ago in my semi-rural origins.  As evidence, consider this news picture:
   Hospital.  
 
 <a href="{{ site.baseurl }}/images/2023-03-28-some-progress-emhoff-varadkar.jpg"><img src="{{ site.baseurl }}/images/2023-03-28-some-progress-emhoff-varadkar-thumb.jpg" width="400" height="200" alt="Doug Emhoff and Leo Varadkar: Separated at birth?" title="Doug Emhoff and Leo Varadkar: Separated at birth?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-So we have an Indian/Afro-Caribbean American woman, a Jewish man, an Indian Irish man, and
-his same-sex husband.  I guess we _have_ made progress, especially since this photo was
+So we have an Indian/Afro-Caribbean American woman, a Jewish American man, an Indian Irish man, and
+his same-sex Irish husband.  I guess we _have_ made progress, especially since this photo was
 _not_ considered remarkable enough to be front-page news.  
 
 Interestingly, people have remarked upon the resemblance between Doug Emhoff and Leo
