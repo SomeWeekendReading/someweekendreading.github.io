@@ -34,7 +34,7 @@ Greek, who always came up with bogus names.  Nobody can pronounce, spell, or rem
 those names, so really what good are they?  
 
 At least with drug names, in the US there are always 2 names (homage &agrave; Eliot and
-his 3 cat names): the commercial name owned by the developing company and a generic name
+his triply-named cats): the commercial name owned by the developing company and a generic name
 assigned by the US FDA.  
 - For example, the cancer drug Velcade has a more or less nonsensical name (because it
   induced with high "velocity" an apoptotic "cascade").  
@@ -136,10 +136,10 @@ verifiably and to some degree apocryphally:
   understanding, for the most part, what made the company unique compared to other
   workstation vendors.  Also, some strategies were clearly the result of internal
   department politics and not any real thought.  To wit, the following slogan which
-  appeared in all the trade rags before any of the rest of us saw it:  
+  appeared in all the trade rags before any of the rest of us saw it (__emphasis__ added):  
 
   > The future of computing is here.  
-  > Is your company ready to step in it?  
+  > Is your company ready to __step in it?__  
 
   For the benefit of non-native speakers of English, to "step in it" is slightly rural
   slang for when you walk carelessly in a pasture and step in the, umm&hellip;
@@ -182,8 +182,7 @@ verifiably and to some degree apocryphally:
     Atruth, though: "banshee" is the anglicized spelling of Gaelic 
     [_baen sidhe_](https://en.wikipedia.org/wiki/Banshee  ), a woman
     of the Shee (a sort of fae folk).  They were said to have the nasty habit of hanging
-    in trees outside your house and screaming all night long to presage a death in your
-    family.  
+    in trees outside your house and _screaming all night long to presage a death in your family._  
     
     Needless to say, naming a product "you're gonna die here" was&hellip; unwise.  
 

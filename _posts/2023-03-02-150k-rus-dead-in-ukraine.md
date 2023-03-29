@@ -129,7 +129,8 @@ Russians run out of tanks in:
 estimates by low and high tank loss rate estimates, respectively.  This is Not The Way.  I
 _should_ model each set of numbers by a shifted binomial distribution, then employ
 [the methods of ratio distributions which say the ratio is approximately lognormally distributed](https://en.wikipedia.org/wiki/Ratio_distribution#Binomial_distribution).
-(The math here is similar to estimating the statistical significance of a vaccine efficacy!)
+(The math here is similar to estimating
+[the probability distribution of a vaccine efficacy]({{ site.baseurl }}/beta-ratios/)!)
 But in my currently post-COVID-19-brain-fog-addled brain, I just can't summon up the oomph
 to flog the damn recalcitrant neurons any harder than this.  Better in the future as I heal, I
 promise&hellip; but you _are_ permitted &ndash; and encouraged &ndash; to hold this one example of bad
