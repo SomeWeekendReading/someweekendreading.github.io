@@ -51,6 +51,35 @@ nihilism and fascism on the right.
 
 _Comme d'habitude._  
 
+
+## Addendum 2023-Mar-29: Partions of India and the UK  
+
+<img src="{{ site.baseurl }}/images/2023-03-28-some-progress-cnn-1.jpg" width="400" height="122" alt="Mogul @ CNN: PMs of South Asian descent in Britain, Scotland, and Ireland" title="Mogul @ CNN: PMs of South Asian descent in Britain, Scotland, and Ireland" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I think it was [Charlie Stross](https://wandering.shop/@cstross) who pointed out a couple
+of days ago that Ireland, Scotland, and Britain are now all led by Prime Ministers of
+South Asian descent (i.e., near ancestors from India and Pakistan).  Fact-checking that,
+we find _CNN_ in agreement <sup id="fn1a">[[1]](#fn1)</sup>:  
+- [Humza Yousaf](https://en.wikipedia.org/wiki/Humza_Yousaf), of Pakstani descent, is the
+  Prime Minister of Scotland.  
+- [Leo Varadkar](https://en.wikipedia.org/wiki/Leo_Varadkar), of Indian descent, is the
+  Prime Minister of Ireland.  
+- [Rishi Sunak](https://en.wikipedia.org/wiki/Rishi_Sunak), of descent from a Hindu family
+  in East Africa, is the Prime Minister of Britain.  
+
+Now that Brexit is grinding hard in Britain, talk of Scottish independence is rising
+again.  It makes some sense, as England is reliably further right-wing than Scotland, and
+Scotland _wants_ to be part of the European Union.  
+
+The irony here runs deep:  
+- At the end of the British Raj in the mid-20th century, Brits presided over the partition
+  of India into modern-day India, Pakistan, and what eventually became Bangladesh.  
+- Now in the early-mid 21st century if Scotland wants independence to join the EU (or
+  Northern Ireland wants to join the EU by joining Ireland), then it will be people of
+  Indian and Pakistani descent presiding over the partion of the United Kingdom.  
+  
+I wonder if Indian, Pakistani, and Bangladeshi newspapers will spell _schadenfreude_
+correctly?  
+
 ---
 
 ## Notes &amp; References  
@@ -71,4 +100,4 @@ _Comme d'habitude._
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Oh, c'mon.  
+<a id="fn1">1</a>: R Mogul, ["‘Historic moment’: Politicians of South Asian descent set to lead Scotland, Britain and Ireland with Yousaf victory"](https://www.cnn.com/2023/03/28/asia/humza-yousaf-scotland-politicians-south-asian-descent-intl-hnk/index.html), _CNN_, 2023-Mar-28. [↩](#fn1a)  
