@@ -7,7 +7,7 @@ commentsClosed: true
 ---
 
 [Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about the naming of
-ChatGPT.  (Content warning: Remarkably stupid joke, totally skippable by Very Serious
+ChatGPT.  (__Content warning:__ Remarkably stupid joke, totally skippable by Very Serious
 People.)  
 
 
