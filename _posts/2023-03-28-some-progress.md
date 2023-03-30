@@ -76,7 +76,10 @@ The irony here runs deep:
 - Now in the early-mid 21st century if Scotland wants independence to join the EU (or
   Northern Ireland wants to join the EU by joining Ireland), then it will be people of
   Indian and Pakistani descent presiding over the partion of the United Kingdom.  
-  
+
+Justice doesn't get any more poetic than that, even if the judge were to be
+[WB Yeats](https://en.wikipedia.org/wiki/W._B._Yeats).  
+
 I wonder if Indian, Pakistani, and Bangladeshi newspapers will spell _schadenfreude_
 correctly?  
 

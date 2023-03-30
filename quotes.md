@@ -1184,15 +1184,15 @@ _Business Week_, 14-Nov-2003.
 ## [Your Humble Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com "Email the Weekend Editor")  
 
 - "Conversation is when you and I revise our mutual understanding of the world. (Assuming you're not a fundamentalist, so we _have_ a mutual understanding of the world to begin with&hellip;)"  
-- "Freedom is the mastery of form."  
+- "Freedom is the mastery of form: you have to play scales before you can play jazz."  
 - "&lsquo;This sentence is true&rsquo; &ndash; why wasn't [Epimenides](https://en.wikipedia.org/wiki/Epimenides_paradox) as outraged by this as the other one?"  
 - "Serendipity is wherever you find it."  
-- "You can't plan serendipity -- give _chance_ a chance!"  
+- "You can't plan serendipity &ndash; give _chance_ a chance!"  
 - "I once tried a meta-search engine, but all it gave me was serendipity."  
 - "Don't tell me I didn't tell you I wasn't going to tell you I told you so!"  
 - "Never give a predator a second bite."  
 - "Are you going to break the rules, or are the rules going to break you?"  
-- "People are so intent on bashing each others brains out with authoritative quotes from impressively ancient tomes that they often forget to read those lovely old books to find out what's actually in them."  
+- "People are so intent on bashing each others brains out with authoritative quotes from impressively ancient tomes that they often forget to _read_ those lovely old books to find out what's actually in them."  
 - "If you're always at your best, then your range is too narrow."  
 - "Learn to love good, then live as you please." (Possibly inspired by Augustine's homily on John, above?)  
 - "Doubt is what keeps you from believing stupid stuff; fear is what keeps you from _doing_ stupid stuff."  
@@ -1200,7 +1200,7 @@ _Business Week_, 14-Nov-2003.
 - "Certainty is just an excuse not to listen to new evidence."  
 - "Just because you see an example of something being done badly doesn't mean it cannot also be done well."  
 - "Scientists talk about nature; cranks talk about themselves."  
-- "It never pays to humiliate an opponent.  Defeat, disarm, divert, coopt, compromise, befriend, &hellip; never humiliate."  
+- "It never pays to humiliate an opponent.  Defeat, disarm, divert, coopt, compromise, befriend, &hellip; _never_ humiliate."  
 - "If you're gonna lose your grip on reality, let go with _both_ hands.  No half measures!"  
 - "If you can't find a solution, at least you can admire the problem."  
 - "An archetype is what you get when you factor-analyze a real person."  
@@ -1211,37 +1211,29 @@ _Business Week_, 14-Nov-2003.
 - "If you find you've shot yourself in the foot, it's time to pause and reflect, not reload.  That's Bayes Rule!"  
 - "When you begin to see the light at the end of the tunnel&hellip; remember you're still in the tunnel."  
 - "There is no evolutionary premium on elegance.  Life is a kludge.  Biology is a carefully selected set of race conditions that make no sense, except how they work together for survival."  
-- "Trust is never something you can demand.  You have to earn it.  If you want to be trusted, then act trustworthily."  
+- "Trust is never something you can demand.  You have to earn it.  If you want to be trusted, then act trustworthily.  People will notice that."  
 - "I believe in [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).  If I keep seeing examples of confirmation bias everywhere, is _that_ an example of confirmation bias?"  
 - "'It was obvious in retrospect': of course it was &ndash; _everything_ should be obvious in retrospect, because any damn fool can predict the past."  
 - "It may not be a wonderful thing, but it is a thing that makes you wonder."  
 - "Self-inflicted wounds are the slowest to heal."  
-- "You should be _happy_ to find out you're wrong, because you're about to learn
-  something."  
+- "You should be _happy_ to find out you're wrong, because you're about to learn something."  
 - "Hey, Bayes Rule is _a priori_ plausible, isn't it?"  
+- "Hey, what happens if I want to update my beliefs about Bayes Rule?"  
 - "The whole _point_ of civilization is to be less brutal than nature.  Just because something is 'natural' doesn't absolve us of the responsibility to do better when we can."  
 - "Everyone _interesting_ is mad; of this there is no question.  The better question is whether or not their madness is [the divine madness]({{ site.baseurl }}/tags/#TheDivineMadness)."  
-- "Let sleeping dogs bury their own dead."  (Combining "let sleeping dogs lie" and "let
-  the dead past bury its own dead".)  
+- "Let sleeping dogs bury their own dead."  (Combining "let sleeping dogs lie" and "let the dead past bury its own dead".)  
 - "This isn't rocket surgery." (Combining "rocket science" and "brain surgery".)  
-- On corporate managers and politicians: "Pay less attention to what they _say_, and more
-  to what they _do_."  
+- On corporate managers and politicians: "Pay less attention to what they _say_, and more to what they _do_."  
 - "When you're in a hurry, all data are short-term."  
 - "I probably won't follow your orders, but I may follow your example."  
-- "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones
-  too, but in a theology-dependent way.)"  
-- "[Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
-  is a shameful taste to acquire."  (__NB:__ Yeah, I know
-  [Scalzi and family did it](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).
-  But they did it ironically, and brilliantly.  That's not what I mean here.)  
-- "Interpretation is an active choice that you _must_ make, lest the world make an
-  unsavory choice for you."  
+- "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones too, but in a theology-dependent way.)"  
+- "[Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/) is a shameful taste to acquire."  (__NB:__ Yeah, I know [Scalzi and family did it](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).  But they did it ironically, and brilliantly.  That's not what I mean here.)  
+- "Interpretation is an active choice that you _must_ make, lest the world make an unsavory choice for you."  
 - "Oh, I'm just braiding the tassels on the lunatic fringe."  
 - "Clutch those pearls any harder, you're gonna strangle yourself."  
 - "Guessing is easy&hellip; but _stupid._  Estimating is hard."  
 - "Assassin?  No&hellip; more like freelance [psychopomp](https://en.wikipedia.org/wiki/Psychopomp)."  
-- "When we're young, we want to change the world.  When we're old, we ruefully
-  appreciate  how resistant the world is to change."  
+- "When we're young, we want to change the world.  When we're old, we ruefully appreciate  how resistant the world is to change."  
 - "Life is, annoyingly often enough, an _intelligant sapientes_ sort of situation."  
 - "If you're gonna make me watch this disaster, we're gonna need a _whole_ lot more popcorn."  
 - "It's not that I object so much to you re-inventing the wheel, as much as I want you to
