@@ -527,7 +527,7 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "The scientist does not study nature because it is useful; he studies it because he
 delights in it, and he delights in it because it is beautiful." 
-&mdash; [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)  
+&mdash; [Henri Poincar&eacute;](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)  
 
 "Physics is very muddled again at the moment; it is much too hard for me anyway, and I wish
 I were a movie comedian or something like that and had never heard anything about physics!"
@@ -762,7 +762,7 @@ ability to read and write." &mdash; [H.G. Wells](https://en.wikipedia.org/wiki/H
 "If people aren't given well-founded methods ..., they'll just use dubious ones
 instead."  &mdash; [Jonathan Tawn](https://www.lancaster.ac.uk/maths/people/jon-tawn), professor of  statistics at Lancaster University & medalist of the Royal Statistical Society, on extreme value theory  
 
-"Extreme Value Theory is too expensive to ignore." &mdash; Valérie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](http://risknews.de/fileadmin/eLibrary/EVT-Paper-Roehrl-Chavez-Demoulin.pdf), 8-Jan-2004.  
+"Extreme Value Theory is too expensive to ignore." &mdash; Val&eacute;rie Chavez-Demoulin & Armin Roehrl, ["Extreme Value Theory can save your neck"](http://risknews.de/fileadmin/eLibrary/EVT-Paper-Roehrl-Chavez-Demoulin.pdf), 8-Jan-2004.  
 
 "Statistics don't work on people whose sense of superiority depends on not understanding
 statistics." &mdash; Who?  
@@ -790,6 +790,21 @@ enlightenment." &mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 &mdash; [Robert Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)), 
 one of the invetors of [R](https://en.wikipedia.org/wiki/R_(programming_language)), 
 at SSC 2003, Halifax (June 2003).  
+
+"Sans les math&eacute;matiques on ne p&eacute;n&egrave;tre point au fond de la
+philosophie. Sans la philosophie on ne p&eacute;n&egrave;tre point au fond des
+math&eacute;matiques. Sans les deux on ne p&eacute;n&egrave;tre au fond de rien."  
+
+(Without math, one doesn't get the bottom of science.  Without science, one doesn't get to
+the bottom of math.  Without both, one doesn't get to teh bottom of anything.) &mdash;
+attr to [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz),
+but earliest source is Joseph Florentin Bonnel,
+[_Essai sur les d&eacute;finitions g&eacute;om&eacute;triques_](http://books.google.com/books?id=x2QLAAAAYAAJ&pg=PA12&lpg=PA12&dq=Leibniz%20%22Sans%20les%20math%C3%A9matiques%20on%20ne%20p%C3%A9n%C3%A8tre%20point%20au%20fond%20de%20la%20philosophie.%22&source=bl&ots=Rvqlj8UxCM&sig=0G3kWU3vVRvp860ci1g0Mv-Xa2o&hl=en&sa=X&ei=RFm8U5eTAenMsQSGt4BY&ved=0CFYQ6AEwCA#v=onepage&q=Leibniz%20%22Sans%20les%20math%C3%A9matiques%20on%20ne%20p%C3%A9n%C3%A8tre%20point%20au%20fond%20de%20la%20philosophie.%22&f=false)
+where it's attributed to Leibniz in _Nouveaux Essais sur l'entendement humain_
+([cop 1](http://www.olimon.org/uan/leibniz-essais.pdf),
+[cop 2](http://archive.org/stream/nouveauxessaissu00leib/nouveauxessaissu00leib_djvu.txt)).
+Nothing quite matching this is in there, so probably Bonnel paraphrased something by
+Leibniz.  
 
 
 ## The Religious Ones  
@@ -833,7 +848,7 @@ perhaps one of the 20th century's greatest theologians
 "Reality is that which, when you stop believing in it, doesn't go away." 
 &mdash; [Phillip K Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  
 
-"When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist." &mdash; Dom Hélder Pessoa Câmara, archbishop of Recife and apostle of social justice  
+"When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist." &mdash; Dom H&eacute;lder Pessoa Câmara, archbishop of Recife and apostle of social justice  
 
 "Truth, like gold, is to be obtained not by its growth, but by washing away from it all
 that is not gold." &mdash; Leo Nikolaevich Tolstoy  
@@ -1129,7 +1144,7 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 - "The English gain two hours a day more than we do, by eating their syllables." &mdash; quoted in [Erin McKean, "The Word", Boston Globe Ideas section, 2010-Oct-31](http://www.boston.com/bostonglobe/ideas/articles/2010/10/31/pithy/)  
 - "No snowflake in an avalanche ever feels responsible."  
 - "Doubt is not a pleasant condition, but certainty is absurd."  
-- "Il est dangereux d’avoir raison dans des choses où des hommes accrédités ont tort." (It is dangerous to be right on matters where the authorities are wrong.)  
+- "Il est dangereux d’avoir raison dans des choses où des hommes accr&eacute;dit&eacute;s ont tort." (It is dangerous to be right on matters where the authorities are wrong.)  
 - "A witty saying proves nothing."  (To which your Weekend Editor adds: including this one.)  
 - "Dans ce pays-ci, il est bon de tuer de temps en temps un amiral pour encourager les autres."  (In this country, it is good to kill an admiral from time to time, to encourage the others.)  
 - "If there were only one religion in England there would be danger of despotism; if there were two they would cut each other's throats. But there are thirty, and they live in peace and happiness."  
