@@ -795,24 +795,25 @@ at SSC 2003, Halifax (June 2003).
 Sans la philosophie on ne p&eacute;n&egrave;tre point au fond des math&eacute;matiques.  
 Sans les deux on ne p&eacute;n&egrave;tre au fond de rien."  
 
-("Without math, one doesn't get the bottom of science.  Without science, one doesn't get to
-the bottom of math.  Without both, one doesn't get to teh bottom of anything.")  
+("Without math, one doesn't get the bottom of science.  
+Without science, one doesn't get to the bottom of math.  
+Without both, one doesn't get to the bottom of anything.")  
 
 &mdash; attributed to
 [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz).  
 
-[The earliest source found](https://philosophy.stackexchange.com/questions/12709/where-did-leibniz-write-sans-les-math%C3%A9matiques-on-ne-p%C3%A9n%C3%A8tre-point)
-appears to be the 1834 edition of Bordas-Demoulin's
-[_Le Cart&eacute;sianisme_](https://archive.org/stream/lecartsianisme01borduoft#page/n166/mode/1up),
-but without attribution.  
-
-The earliest _attributed_ source found is Joseph Florentin Bonnel,
-[_Essai sur les d&eacute;finitions g&eacute;om&eacute;triques_](http://books.google.com/books?id=x2QLAAAAYAAJ&pg=PA12&lpg=PA12&dq=Leibniz%20%22Sans%20les%20math%C3%A9matiques%20on%20ne%20p%C3%A9n%C3%A8tre%20point%20au%20fond%20de%20la%20philosophie.%22&source=bl&ots=Rvqlj8UxCM&sig=0G3kWU3vVRvp860ci1g0Mv-Xa2o&hl=en&sa=X&ei=RFm8U5eTAenMsQSGt4BY&ved=0CFYQ6AEwCA#v=onepage&q=Leibniz%20%22Sans%20les%20math%C3%A9matiques%20on%20ne%20p%C3%A9n%C3%A8tre%20point%20au%20fond%20de%20la%20philosophie.%22&f=false)
-which points to Leibniz in _Nouveaux Essais sur l'entendement humain_
-([cop 1](http://www.olimon.org/uan/leibniz-essais.pdf),
-[cop 2](http://archive.org/stream/nouveauxessaissu00leib/nouveauxessaissu00leib_djvu.txt)).
-Nothing quite matching this quote is in there, so probably it's a paraphrase of Leibniz whose
-source is now lost.  
+> ([The earliest source found](https://philosophy.stackexchange.com/questions/12709/where-did-leibniz-write-sans-les-math%C3%A9matiques-on-ne-p%C3%A9n%C3%A8tre-point)
+> appears to be the 1834 edition of Bordas-Demoulin's
+> [_Le Cart&eacute;sianisme_](https://archive.org/stream/lecartsianisme01borduoft#page/n166/mode/1up),
+> but without attribution.  
+>  
+> The earliest _attributed_ source found is Joseph Florentin Bonnel,
+> [_Essai sur les d&eacute;finitions g&eacute;om&eacute;triques_](http://books.google.com/books?id=x2QLAAAAYAAJ&pg=PA12&lpg=PA12&dq=Leibniz%20%22Sans%20les%20math%C3%A9matiques%20on%20ne%20p%C3%A9n%C3%A8tre%20point%20au%20fond%20de%20la%20philosophie.%22&source=bl&ots=Rvqlj8UxCM&sig=0G3kWU3vVRvp860ci1g0Mv-Xa2o&hl=en&sa=X&ei=RFm8U5eTAenMsQSGt4BY&ved=0CFYQ6AEwCA#v=onepage&q=Leibniz%20%22Sans%20les%20math%C3%A9matiques%20on%20ne%20p%C3%A9n%C3%A8tre%20point%20au%20fond%20de%20la%20philosophie.%22&f=false)
+> which points to Leibniz in _Nouveaux Essais sur l'entendement humain_
+> ([cop 1](http://www.olimon.org/uan/leibniz-essais.pdf),
+> [cop 2](http://archive.org/stream/nouveauxessaissu00leib/nouveauxessaissu00leib_djvu.txt)).
+> Nothing quite matching this quote is in there, so probably it's a paraphrase of Leibniz whose
+> source is now lost.)  
 
 
 ## The Religious Ones  
