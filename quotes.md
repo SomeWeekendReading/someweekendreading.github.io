@@ -791,9 +791,9 @@ enlightenment." &mdash; [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 one of the invetors of [R](https://en.wikipedia.org/wiki/R_(programming_language)), 
 at SSC 2003, Halifax (June 2003).  
 
-"Sans les math&eacute;matiques on ne p&eacute;n&egrave;tre point au fond de la
-philosophie. Sans la philosophie on ne p&eacute;n&egrave;tre point au fond des
-math&eacute;matiques. Sans les deux on ne p&eacute;n&egrave;tre au fond de rien."  
+"Sans les math&eacute;matiques on ne p&eacute;n&egrave;tre point au fond de la philosophie.  
+Sans la philosophie on ne p&eacute;n&egrave;tre point au fond des math&eacute;matiques.  
+Sans les deux on ne p&eacute;n&egrave;tre au fond de rien."  
 
 ("Without math, one doesn't get the bottom of science.  Without science, one doesn't get to
 the bottom of math.  Without both, one doesn't get to teh bottom of anything.")  
