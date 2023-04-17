@@ -281,6 +281,80 @@ through the data.  Here are the things that stood out a little bit for me:
    discussed previously, modeling "when they run out of tanks" is hard, since they're now
    apparently shipping WW2-era T-54's to Ukraine.)  
 
+
+## Addendum 2023-Apr-17: When will Russian casualties hit 200,000?  
+
+People were speculating when the Ukrainian-reported Russian casualties would hit 200,000.
+So I updated the data to be current as of 2023-Apr-16 (85 days of data), and asked the
+regression model.  Here's what that looks like, asking the model to predict when casualties
+are 200,000 using the root-finder uniroot() in [R](https://www.r-project.org/):  
+
+```R
+> uniroot(function(dn) { predict(mdl7, newdata = data.frame("x" = dn)) - 200000 }, interval = c(85, 150))
+$root
+[1] 105.1125
+
+$f.root
+1 
+0 
+
+$iter
+[1] 1
+
+$init.it
+[1] NA
+
+$estim.prec
+[1] 44.88746
+```
+
+The model would have us believe that happens on or about day number 105, where day 1 is
+2023-Jan-22.  If we assemble a table of predicted death counts and their 95% prediction
+intervals, we get this:  
+
+```R
+> foo <- data.frame(DayNum = 100:110, Date = as.Date("2023-01-22") + 99:109, predict(mdl7, newdata = data.frame(x = 100:110), interval = "prediction")); colnames(foo)[3:5] <- c("Soldiers", "LCL", "UCL"); foo
+
+   DayNum       Date Soldiers      LCL      UCL
+1     100 2023-05-01 196141.4 194189.5 198093.3
+2     101 2023-05-02 196896.1 194942.2 198850.1
+3     102 2023-05-03 197650.9 195694.8 199606.9
+4     103 2023-05-04 198405.6 196447.4 200363.7
+5     104 2023-05-05 199160.3 197200.0 201120.6
+6     105 2023-05-06 199915.1 197952.6 201877.5
+7     106 2023-05-07 200669.8 198705.1 202634.4
+8     107 2023-05-08 201424.5 199457.6 203391.4
+9     108 2023-05-09 202179.3 200210.1 204148.4
+10    109 2023-05-10 202934.0 200962.5 204905.5
+11    110 2023-05-11 203688.7 201714.9 205662.5
+```
+
+So that says the mean estimate of the Russian casualty count reaches 200,000 on
+2023-May-07.  The 95% prediction interval on that day is 198705 - 202634.
+
+If you want to be 97.5% sure the estimate exceeds 200,000 on a given day, then you don't
+use the mean estimate, you use the lower confidence limit (LCL).  That exceeds 200,000 on
+2023-May-09.  
+
+Of course, international media sources using their own independent data-gathering methods,
+have long since been asserting that Russian casualties are above 200,000; some of the
+references below have made that claim as far back as early February (probably drawing on
+the same data source, or even quoting each other).
+<sup id="fn6a">[[6]](#fn6)</sup>    <sup id="fn7a">[[7]](#fny)</sup>
+<sup id="fn8a">[[8]](#fn8)</sup>    <sup id="fn9a">[[9]](#fn9)</sup>
+<sup id="fn10a">[[10]](#fn10)</sup> <sup id="fn11a">[[11]](#fn11)</sup>
+<sup id="fn12a">[[12]](#fn12)</sup> <sup id="fn13a">[[13]](#fn13)</sup>
+<sup id="fn14a">[[14]](#fn14)</sup> <sup id="fn15a">[[15]](#fn15)</sup>
+
+Even Wikipedia's dozen or so sources put the Russian losses at around 200,000 last
+February.  <sup id="fn16a">[[16]](#fn16)</sup>
+
+So the uncertainties are quite wide.  But at least the Ukrainian MoD isn't the _most_
+optimistic, which would nudge us toward not believing their data.  The fact that they're
+_more_ conservative than news outlets and _less_ conservative than the more stringent OSInt
+efforts like Oryx leads us to believe the Ukrainian MoD a bit more.  
+
+
 ---
 
 ## Notes &amp; References  
@@ -318,3 +392,25 @@ There is also [a textual transcript of running this]({{ site.baseurl }}/assets/2
 You might have to rename the script, create a data directory, and put the .tsv file in it with the appropriate name to make this work.  Ask if there's a problem.  Here at Ch&acirc;teau Weekend, we are peer-review-friendly. [↩](#fn4a)  
 
 <a id="fn5">5</a>: KA Sheldrick, _et al.,_ ["Plausibility of Claimed Covid-19 Vaccine Efficacies by Age: A Simulation Study"](https://pubmed.ncbi.nlm.nih.gov/35723559/), _Am J Ther_ 29:5 (2022-Sep-Oct), e495-e499. DOI: [10.1097/MJT.0000000000001528](https://doi.org/10.1097/MJT.0000000000001528). [↩](#fn5a)  
+
+<a id="fn6">6</a>: AN Simmons &amp; NA Youssef, ["Russia’s Casualties in Ukraine Near 200,000"](https://www.wsj.com/articles/russias-casualties-in-ukraine-near-200-000-11675509981), _Wall Street Journal_, 2023-Feb-04. [↩](#fn6a)  
+
+<a id="fn7">7</a>: R Du Cann, ["Russians dead or wounded near 200,000 as shocking new report shows Putin’s losses"](https://www.express.co.uk/news/world/1757498/russian-army-losses-putin-spt), _Daily Express_, 2023-Apr-12. [↩](#fn7a)  
+
+<a id="fn8">8</a>: H Cooper, E Schmitt, T Gibbons-Neff, ["Soaring Death Toll Gives Grim Insight Into Russian Tactics"](https://www.nytimes.com/2023/02/02/us/politics/ukraine-russia-casualties.html), _New York Times_, 2023-Feb-02. [↩](#fn8a)  
+
+<a id="fn9">9</a>: D Axe, ["It’s Possible 270,000 Russians Have Been Killed Or Wounded In Ukraine"](https://www.forbes.com/sites/davidaxe/2023/02/07/its-possible-270000-russians-have-been-killed-or-wounded-in-ukraine/?sh=725c78e22eec), _Forbes_, 2023-Feb-07. [↩](#fn9a)  
+
+<a id="fn10">10</a>: S Dasgupta, ["Nearly 200,000 Russian troops have been killed in Ukraine, US officials say"](https://www.independent.co.uk/news/world/europe/ukraine-war-russia-death-toll-b2274969.html), _The Independent_, 2023-Feb-03. [↩](#fn10a)  
+
+<a id="fn11">11</a>: N Cecil, ["Putin’s troops in Ukraine hit by 200,000 casualties and 60,000 deaths, says UK"](https://www.standard.co.uk/news/world/vladimir-putin-invasion-ukraine-war-army-killed-wounded-b1061016.html), _The Evening Standard_, 2023-Feb-17. [↩](#fn11a)  
+
+<a id="fn12">12</a>: K Nicholson, ["Putin's Invasion Has Led To 200,000 Russian Casualties And A High Death Toll, UK Says"](https://www.huffingtonpost.co.uk/entry/russia-casualty-death-rate-ukraine-war_uk_63ef593ee4b0808b91c6430e), _Huffington Post_, 2023-Feb-17. [↩](#fn12a)  
+
+<a id="fn13">13</a>: J Mueller, ["Russian deaths in Ukraine surpass all its war fatalities since WWII combined: study"](https://thehill.com/policy/international/3877727-russian-deaths-in-ukraine-surpass-all-its-war-fatalities-since-wwii-combined-study/), _The Hill_, 2023-Feb-28. [↩](#fn13a)  
+
+<a id="fn14">14</a>: C Panella &amp; J Epstein, ["More of Russia's soldiers have died in Ukraine — a war Putin thought would be over in days — than in all its wars since World War II combined, new analysis finds"](https://www.businessinsider.com/more-russian-soldiers-died-ukraine-than-all-wars-since-wwii-2023-2), _Business Insider_, 2023-Feb-28. [↩](#fn14a)  
+
+<a id="fn15">15</a>: J Epstein, ["More than twice as many Russian troops as Ukrainians have been killed in Putin's war, leaked estimates show"](https://www.businessinsider.com/russians-ukrainians-killed-putins-war-leaked-documents-2023-4), _Business Insider_, 2023-Apr-10. [↩](#fn15a)  
+
+<a id="fn16">16</a>: Wikipedia Editors, ["Casualties of the Russo-Ukrainian War (2022 Russian Invasion of Ukraine)"](https://en.wikipedia.org/wiki/Casualties_of_the_Russo-Ukrainian_War#2022_Russian_invasion_of_Ukraine), _Wikipedia_, estimates of 200k dead in 2023-Feb retrieved 2023-Apr-16. [↩](#fn16a)  

@@ -20,6 +20,14 @@ library("PerformanceAnalytics")                        # For chart.Correlation()
 ## Some of it, frankly, is to look for artifacts that might indicate fudged data.  The incentives
 ## are high, and the authorities who know better are secretive.  Hence, this crude effort.
 ##
+## Prediction for the day of 200,000 Russian casualties:
+##
+## > foo <- data.frame(DayNum = 104:106, Date = as.Date("2023-01-22") + 103:105, predict(mdl7, newdata = data.frame(x = 104:106), interval = "confidence")); colnames(foo)[3:5] <- c("Soldiers", "LCL", "UCL"); foo
+##   DayNum       Date Soldiers      LCL      UCL
+## 1    104 2023-05-05 199338.6 198806.1 199871.2
+## 2    105 2023-05-06 200095.7 199555.7 200635.8
+## 3    106 2023-05-07 200852.8 200305.3 201400.4
+##
 
 doit <- function(## Inputs
                  dataDir  = "./data",
@@ -121,13 +129,14 @@ doit <- function(## Inputs
                                                        col1, col2),
                                         regressionColor = "black")
         print(summary(mdl))                            #
+        cat("\n")                                      #
+        mdl                                            # Return the model
       }, pty = "m",                                    # Maximal plotting area
          bg  = "white",                                # Silly bkgnd for web
          ps  = 16,                                     # Larger type size for file capture
          mar = c(3, 3, 2, 1),                          # Pull in on margins
          mgp = c(1.7, 0.5, 0.0))                       # Axis title, labels, ticks
     })                                                 # Restore params & end file capture
-    cat("\n")                                          #
   }                                                    #
 
   correlationBicluster <- function(mx, resultsDir, biclFile, legendFrac = 0.10) {

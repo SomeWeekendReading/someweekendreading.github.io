@@ -114,7 +114,7 @@ They _do_ have noses of their own, you know.
 humor is juvenile in French, but not especially transgressive the way it would be in
 English.  Just as well.)  
 
-That pretty much sums it up.  (One of my favorite Oz quips from _Buffy_.)  
+That pretty much sums it up.  (One of my favorite Oz quips from _Buffy_, S2E13, "Surprise".)  
 
 
 ## The museum of questionable marketing strategies  
