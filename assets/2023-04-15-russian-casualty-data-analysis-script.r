@@ -20,13 +20,42 @@ library("PerformanceAnalytics")                        # For chart.Correlation()
 ## Some of it, frankly, is to look for artifacts that might indicate fudged data.  The incentives
 ## are high, and the authorities who know better are secretive.  Hence, this crude effort.
 ##
+
+##
 ## Prediction for the day of 200,000 Russian casualties:
 ##
-## > foo <- data.frame(DayNum = 104:106, Date = as.Date("2023-01-22") + 103:105, predict(mdl7, newdata = data.frame(x = 104:106), interval = "confidence")); colnames(foo)[3:5] <- c("Soldiers", "LCL", "UCL"); foo
-##   DayNum       Date Soldiers      LCL      UCL
-## 1    104 2023-05-05 199338.6 198806.1 199871.2
-## 2    105 2023-05-06 200095.7 199555.7 200635.8
-## 3    106 2023-05-07 200852.8 200305.3 201400.4
+## > uniroot(function(dn) { predict(mdl7, newdata = data.frame("x" = dn)) - 200000 })
+## $root
+## [1] 105.1125
+##
+## $f.root
+## 1
+## 0
+##
+## $iter
+## [1] 1
+##
+## $init.it
+## [1] NA
+##
+## $estim.prec
+## [1] 44.88746
+##
+## Build a more human-friendly result, with prediction intervals:
+##
+## > foo <- data.frame(DayNum = 100:110, Date = as.Date("2023-01-22") + 99:109, predict(mdl7, newdata = data.frame(x = 100:110), interval = "prediction")); colnames(foo)[3:5] <- c("Soldiers", "LCL", "UCL"); foo
+##    DayNum       Date Soldiers      LCL      UCL
+## 1     100 2023-05-01 196141.4 194189.5 198093.3
+## 2     101 2023-05-02 196896.1 194942.2 198850.1
+## 3     102 2023-05-03 197650.9 195694.8 199606.9
+## 4     103 2023-05-04 198405.6 196447.4 200363.7
+## 5     104 2023-05-05 199160.3 197200.0 201120.6
+## 6     105 2023-05-06 199915.1 197952.6 201877.5
+## 7     106 2023-05-07 200669.8 198705.1 202634.4
+## 8     107 2023-05-08 201424.5 199457.6 203391.4
+## 9     108 2023-05-09 202179.3 200210.1 204148.4
+## 10    109 2023-05-10 202934.0 200962.5 204905.5
+## 11    110 2023-05-11 203688.7 201714.9 205662.5
 ##
 
 doit <- function(## Inputs
