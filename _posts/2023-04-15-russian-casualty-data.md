@@ -15,8 +15,8 @@ rate.
 
 ## How long since the last post?  
 
-Yes, a long time.  Yes, still post-COVID-19 brain fog. Yes, Antidepressant is still
-frustratingly weak and/or vague.  Yes, I still want to avoid talking about it, as though
+Yes, a long time.  Yes, still post-COVID-19 brain fog. Yes, antidepressant is still
+frustratingly weak and/or vague.  Yes, still wanna avoid talking about it, as though
 it were shameful.  
 
 Sorry.  

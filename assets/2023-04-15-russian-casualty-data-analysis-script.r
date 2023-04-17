@@ -1,5 +1,5 @@
-## Created on Wednesday, April 12, 2023 at 1:52pm EDT by sgr on Kryfthanima.Local.
-## Copyright (c) 2023, nobody-in-particular.  All rights reserved.  As if you care.
+## Created on Wednesday, April 12, 2023 at 1:52pm EDT by WeekendEditor on WeekendEditorMachine.
+## Copyright (c) 2023, SomeWeekendReading.blog.  All rights reserved.  As if you care.
 
 sourceTools <- function(lib) { source(file.path("~/Documents/laboratory/tools", lib)) }
 sourceTools("graphics-tools.r")                        # Miscellaneous graphics hacks
