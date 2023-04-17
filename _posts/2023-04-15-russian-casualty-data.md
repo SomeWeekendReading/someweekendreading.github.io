@@ -340,7 +340,7 @@ Of course, international media sources using their own independent data-gatherin
 have long since been asserting that Russian casualties are above 200,000; some of the
 references below have made that claim as far back as early February (probably drawing on
 the same data source, or even quoting each other).
-<sup id="fn6a">[[6]](#fn6)</sup>    <sup id="fn7a">[[7]](#fny)</sup>
+<sup id="fn6a">[[6]](#fn6)</sup>    <sup id="fn7a">[[7]](#fn7)</sup>
 <sup id="fn8a">[[8]](#fn8)</sup>    <sup id="fn9a">[[9]](#fn9)</sup>
 <sup id="fn10a">[[10]](#fn10)</sup> <sup id="fn11a">[[11]](#fn11)</sup>
 <sup id="fn12a">[[12]](#fn12)</sup> <sup id="fn13a">[[13]](#fn13)</sup>
