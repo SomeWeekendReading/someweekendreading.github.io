@@ -132,7 +132,7 @@ Previously, we had antibody infusions for treatment like bebtelovimab and
 long-persistence antibodies like Evusheld for prevention.  Those are both great, and
 probably saved the life of a family member.  
 
-However, none of those work in the era of Omicron.
+However, none of those work any more, in the era of Omicron.  
 
 In a bit of (occasional) news, AstraZeneca now has a new antibody
 <sup id="fn12a">[[12]](#fn12)</sup> which appears to be effective.  AZD3152 is not approved yet,
@@ -168,6 +168,7 @@ but if we really have a default toward acceptance, this might be a sort-of-ok wa
 this.  
 
 <a href="https://twitter.com/HelenBranswell/status/1648710726113013762"><img src="{{ site.baseurl }}/images/2023-04-20-today-i-got-shot-6th-stat-2.jpg" width="550" height="753" alt="H Branswell @ STAT: Twitter thread on CDC ACIP meeting on boosters" title="H Branswell @ STAT: Twitter thread on CDC ACIP meeting on boosters" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
 Now, given that the FDA has already approved this without a VRBPAC, we're not gonna go
 through the whole CDC ACIP meeting.
 
