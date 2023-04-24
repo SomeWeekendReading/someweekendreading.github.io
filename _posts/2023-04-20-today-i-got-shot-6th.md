@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-Today I got my 6th COVID-19 vaccination.  Here's why.  
+Today I got my 6th COVID-19 vaccination.  Here's why, in case you're interested.  
 
 
 ## What happened this week in the US COVID-19 vaccine world?
@@ -286,4 +286,4 @@ influenza + 2 shingles + 1 TDaP + 1 pneumonia, in case you want the complete sco
 
 <a id="fn13">13</a>: CDC Staff, ["Final - April 18, 2023 MEETING OF THE ADVISORY COMMITTEE ON IMMUNIZATION PRACTICES (ACIP), Centers for Disease Control and Prevention Atlanta, Georgia 30329 April 19, 2023"](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-04-19-508.pdf.pdf), _CDC Meeting Announcements_, 2023-Apr-18. [↩](#fn13a)  
 
-<a id="fn14">14</a>: [CDC Media Relations](https://www.cdc.gov/media), ["CDC simplifies COVID-19 vaccine recommendations, allows older adults and immunocompromised adults to get second dose of the updated vaccine"](https://www.cdc.gov/media/releases/2023/s0419-covid-vaccines.html), _CDC Newsroom Releases_, 2023-Apr-19. [↩](#fn14a)  
+<a id="fn14">14</a>: [CDC Media Relations](https://www.cdc.gov/media/), ["CDC simplifies COVID-19 vaccine recommendations, allows older adults and immunocompromised adults to get second dose of the updated vaccine"](https://www.cdc.gov/media/releases/2023/s0419-covid-vaccines.html), _CDC Newsroom Releases_, 2023-Apr-19. [↩](#fn14a)  
