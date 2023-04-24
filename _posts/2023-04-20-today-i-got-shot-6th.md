@@ -274,7 +274,7 @@ influenza + 2 shingles + 1 TDaP + 1 pneumonia, in case you want the complete sco
 
 <a id="fn7">7</a>: R Stein, ["FDA says some adults can get a second boost of the bivalent COVID-19 shot"](https://www.npr.org/sections/health-shots/2023/03/29/1166629853/the-fda-may-soon-authorize-a-spring-round-of-covid-19-boosters-for-some-people), _National Public Radio_, 2023-Apr-18. [↩](#fn7a)  
 
-<a id="8">8</a>: FDA Staff, ["Advisory Committee Calendar"](https://www.fda.gov/advisory-committees/advisory-committee-calendar), snapsotted 2023-04-20.  Shows all meetings that occured so far in 2023-Apr.  NB the absence of any VRBPAC meeting.  [↩](#fn8a)  
+<a id="fn8">8</a>: FDA Staff, ["Advisory Committee Calendar"](https://www.fda.gov/advisory-committees/advisory-committee-calendar), snapshotted 2023-04-20.  Shows all meetings that occurred so far in 2023-Apr.  NB the absence of any VRBPAC meeting.  [↩](#fn8a)  
 
 <a id="fn9">9</a>: H Branswell, ["FDA offers radio silence on question of spring Covid boosters, as other countries push ahead"](https://www.statnews.com/2023/03/16/fda-offers-radio-silence-on-question-of-spring-covid-boosters-as-other-countries-push-ahead/), _STAT News_, 2023-Mar-16. [↩](#fn9a)  
 
