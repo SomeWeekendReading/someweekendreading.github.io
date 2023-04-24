@@ -88,10 +88,10 @@ Right.  Let's figure out what the little dude was talking about.  (_Talking?!_)
 - "Chat" is the easy part: just means "cat" in French. We might be on the right track!  
   - We infer from the fact that the Weekend Publisher is a little fried on this subject
     that it's being used as a noun of direct address.  
-  - In other words, somebody's talking to a cat.  (Now, up until today, I would have
+  - In other words, somebody's talking to a cat.  Now, up until today, I would have
     regarded talking to cats as somewhat eccentric.  Nevertheless, here we are talking to
     cats now.  Invoke [St Bayes](https://en.wikipedia.org/wiki/Bayes%27_theorem) and
-    adjust your priors accordingly.)  
+    adjust your priors accordingly.  
 - In English, we pronounce the individual letters of "GPT" as: "gee", "pee", "tee".  
   - If we do that with the French pronunciation of letters, we get: "zhay", "pay", "tay".  
 
@@ -104,7 +104,7 @@ The link goes to Google Translate, which Explains It All to those innocent of sp
 French.  
 
 Go ahead and have a look.  I'll wait.  I promise this page will still be here when
-you get back.  No, I'm not gonna tell you; I just can't use language like that.  
+you get back.  No, I'm not gonna tell you; I just&hellip: can't use language like that.  
 
 Yep.  I _knew_ something about ChatGPT didn't smell quite right, and now I totally see why
 the world's French-speaking cats are somewhat annoyed at being told this over and over.
@@ -204,7 +204,7 @@ verifiably and to some degree apocryphally:
     
     True story: in the 1970s, my elderly aunt drove one.  Now, if you look up "little old
     lady" in the dictionary, there's probably a picture of her there.  Yes, she was little
-    and old, but she was very much a lady: kind, extremely polite, funny, helpful, well-mannered
+    and old, but she was very much a lady: kind, _extremely_ polite, funny, helpful, well-mannered
     and dignified in the way one would expect.  (Can you tell I was dazzled with her as
     a child? She was an actually _sane_ family member, so always a useful example.)  
     
