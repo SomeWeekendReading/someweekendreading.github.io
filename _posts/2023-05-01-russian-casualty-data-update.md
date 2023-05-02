@@ -107,7 +107,7 @@ __Results:__
    using data through 2023-Apr-15, was for 2023-May-07, so there are slightly more deaths
    than previously expected.  
 2. The 95% confidence limit on the number of casualties on that day is 197614 - 203459 (but
-   ignore the spurious number of significant figures).  
+   ignore the spurious number of significant figures; basically plus or minus about 3k).  
 3. If you want to be 97.5% sure the Russian casualties will exceed 200k, then the date for
    that is __2023-May-09.__  
 
