@@ -130,10 +130,10 @@ Three things are worth noting here:
    acausal (unaware of time and cause) linear model to predict a causal (time series,
    where things happen in a certain order) to predict.  This is, at some level, wrong.
    Probably if I were to take this seriously, I should go get out my old copy of Box,
-   Jenkins, and Reinsel <sup id="fn1a">[[1]](#fn1)</sup> (or even something more modern
+   Jenkins, and Reinsel <sup id="fn4a">[[4]](#fn4)</sup> (or even something more modern
    like Hyndman and Athanasopoulos <sup id="fn5a">[[5]](#fn5)</sup>) and read about time
    series forecasting.  Both of them are sitting on my shelf, but
-   [_Vīta brevis, ars longa, occāsiō praeceps, experīmentum perīculōsum, iūdicium difficile_](htttps://en.wikipedia.org/wiki/Ars_longa,_vita_brevis),
+   [_Vīta brevis, ars longa, occāsiō praeceps, experīmentum perīculōsum, iūdicium difficile_](https://en.wikipedia.org/wiki/Ars_longa,_vita_brevis),
    as Hippocrates is supposed to have said (ok, in Greek, but I only know it in Latin).  
 
 
@@ -184,4 +184,4 @@ You might have to rename the script, create a data directory, and put the .tsv f
 
 <a id="fn4">4</a>: G Box, _et al.,_ ["Time Series Analysis: Forecasting and Control (5th ed)"](https://www.amazon.com/Time-Analysis-Forecasting-Probability-Statistics/dp/1118675029/), Wiley, 2015.  Mine is the older 3rd edition of 1994. [↩](#fn4a)  
 
-<a id="fn5">5</a>: R Hyndman &amp; G Athanasopoulos, ["Forecasting: Principles and Practice"](https://www.amazon.com/Forecasting-principles-practice-Rob-Hyndman/dp/0987507117/), [Open Access Textbooks](http://OTexts.com/fpp2/), 2018. [↩](#fn5a)  
+<a id="fn5">5</a>: R Hyndman &amp; G Athanasopoulos, ["Forecasting: Principles and Practice"](https://www.amazon.com/Forecasting-principles-practice-Rob-Hyndman/dp/0987507117/), [Open Access Textbooks](https://OTexts.com/fpp2/), 2018. [↩](#fn5a)  
