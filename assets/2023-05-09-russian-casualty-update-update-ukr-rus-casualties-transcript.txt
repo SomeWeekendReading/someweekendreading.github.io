@@ -1,0 +1,389 @@
+
+* Analysis of Russian Casualties in Ukraine on Tue May 09 11:27:42 2023
+  - input data directory: ./data
+  - results directory:    ./results
+  - transcript to:        ./results/ukr-rus-casualties-transcript.txt
+
+Archival of script and data:
+----------------------------
+
+* Archived analysis script(s) to ./results:
+  - ./data/russian-casualties-in-ukraine.tsv
+  - ./ukr-rus-casualties.r
+
+Loading and QC of data:
+-----------------------
+
+* Loading and QCing data from spreadsheet
+  - Input file: ./data/russian-casualties-in-ukraine.tsv
+  - Got a 107-row dataframe of 15 columns: 
+    DayNum, Date, Soldiers, Tanks, ArmoredCombatVehicles, Artillery, MultipleLaunchRocketSystems, AirDefenceSystems, MilitaryJets, Helicopters, Drones, CruiseMissiles, WarshipsAndBoats, VehiclesAndFuelTanks, SpecialEquipment
+  - 106 rows had complete data
+  - Checking column types:
+    o DayNum and Date have appropriate sequence values
+    o All other columns are nondecreasing positive integers
+
+Analysis of data:
+-----------------
+
+* Summarizing argument of uselessness of WarshipsAndBoats to ./results/warshipsAndBoats-useless.png.
+
+* Range of correlations:
+[1] 0.8243576 1.0000000
+
+* Doing multivariate correlation chart to ./results/correlation-chart.png
+
+* Biclustering the correlation matrix to ./results/bicluster.png
+* Analyzing CruiseMissiles vs Helicopters
+  - Regression plot to ./results/regress-CruiseMissiles-on-Helicopters.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-44.116 -15.974   7.618  16.884  29.659 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -2708.670    135.314  -20.02   <2e-16 ***
+x              12.408      0.468   26.51   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 18.55 on 104 degrees of freedom
+Multiple R-squared:  0.8711,	Adjusted R-squared:  0.8699 
+F-statistic:   703 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing CruiseMissiles vs MilitaryJets
+  - Regression plot to ./results/regress-CruiseMissiles-on-MilitaryJets.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-44.603 -13.081  -1.578  11.419  37.903 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -1687.8833    78.3979  -21.53   <2e-16 ***
+x               8.4982     0.2595   32.74   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 15.36 on 104 degrees of freedom
+Multiple R-squared:  0.9116,	Adjusted R-squared:  0.9107 
+F-statistic:  1072 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing Helicopters vs MilitaryJets
+  - Regression plot to ./results/regress-Helicopters-on-MilitaryJets.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-2.28580 -0.71821 -0.02689  0.74799  1.47950 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  91.4910     4.1984   21.79   <2e-16 ***
+x             0.6543     0.0139   47.08   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8227 on 104 degrees of freedom
+Multiple R-squared:  0.9552,	Adjusted R-squared:  0.9548 
+F-statistic:  2216 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing CruiseMissiles vs DayNum
+  - Regression plot to ./results/regress-CruiseMissiles-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-57.574 -17.184   2.652  20.324  36.538 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 799.14543    4.56253  175.15   <2e-16 ***
+x             1.48575    0.07388   20.11   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 23.37 on 104 degrees of freedom
+Multiple R-squared:  0.7955,	Adjusted R-squared:  0.7935 
+F-statistic: 404.5 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing MilitaryJets vs DayNum
+  - Regression plot to ./results/regress-MilitaryJets-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.8375 -1.0732  0.3165  1.2093  2.9737 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 2.925e+02  3.498e-01  836.04   <2e-16 ***
+x           1.780e-01  5.665e-03   31.43   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.792 on 104 degrees of freedom
+Multiple R-squared:  0.9047,	Adjusted R-squared:  0.9038 
+F-statistic: 987.6 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing Helicopters vs DayNum
+  - Regression plot to ./results/regress-Helicopters-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.8994 -0.2517  0.1790  0.5796  1.4019 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 2.827e+02  2.085e-01 1355.53   <2e-16 ***
+x           1.205e-01  3.376e-03   35.68   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.068 on 104 degrees of freedom
+Multiple R-squared:  0.9245,	Adjusted R-squared:  0.9238 
+F-statistic:  1273 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing Soldiers vs DayNum
+  - Regression plot to ./results/regress-Soldiers-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3284.2 -1291.6   100.2  1027.9  2976.4 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 1.220e+05  3.149e+02   387.5   <2e-16 ***
+x           7.123e+02  5.099e+00   139.7   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1613 on 104 degrees of freedom
+Multiple R-squared:  0.9947,	Adjusted R-squared:  0.9946 
+F-statistic: 1.951e+04 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing Tanks vs DayNum
+  - Regression plot to ./results/regress-Tanks-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-59.279 -19.522  -3.377  18.233  60.240 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 3.160e+03  5.739e+00  550.55   <2e-16 ***
+x           5.863e+00  9.292e-02   63.09   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 29.39 on 104 degrees of freedom
+Multiple R-squared:  0.9745,	Adjusted R-squared:  0.9743 
+F-statistic:  3981 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing ArmoredCombatVehicles vs DayNum
+  - Regression plot to ./results/regress-ArmoredCombatVehicles-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-47.380 -14.908  -3.751  11.973  59.017 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 6.285e+03  4.676e+00  1344.1   <2e-16 ***
+x           9.428e+00  7.571e-02   124.5   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 23.95 on 104 degrees of freedom
+Multiple R-squared:  0.9933,	Adjusted R-squared:  0.9933 
+F-statistic: 1.551e+04 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing Artillery vs DayNum
+  - Regression plot to ./results/regress-Artillery-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-33.997 -11.369   0.171   7.790  40.482 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 2.099e+03  3.132e+00   670.3   <2e-16 ***
+x           8.208e+00  5.071e-02   161.8   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 16.04 on 104 degrees of freedom
+Multiple R-squared:  0.996,	Adjusted R-squared:  0.996 
+F-statistic: 2.619e+04 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing MultipleLaunchRocketSystems vs DayNum
+  - Regression plot to ./results/regress-MultipleLaunchRocketSystems-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.0401 -4.3569  0.0385  2.8477 10.9564 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 442.55002    0.98453  449.50   <2e-16 ***
+x             1.08324    0.01594   67.95   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 5.042 on 104 degrees of freedom
+Multiple R-squared:  0.978,	Adjusted R-squared:  0.9778 
+F-statistic:  4617 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing AirDefenceSystems vs DayNum
+  - Regression plot to ./results/regress-AirDefenceSystems-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.2533 -2.8822 -0.0945  2.0766  8.0753 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 216.26845    0.63709  339.46   <2e-16 ***
+x             0.83317    0.01032   80.77   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.263 on 104 degrees of freedom
+Multiple R-squared:  0.9843,	Adjusted R-squared:  0.9842 
+F-statistic:  6523 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing Drones vs DayNum
+  - Regression plot to ./results/regress-Drones-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-46.819 -24.051  -8.487  21.336 120.307 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 1.848e+03  6.088e+00   303.6   <2e-16 ***
+x           6.033e+00  9.858e-02    61.2   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 31.18 on 104 degrees of freedom
+Multiple R-squared:  0.973,	Adjusted R-squared:  0.9727 
+F-statistic:  3746 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing VehiclesAndFuelTanks vs DayNum
+  - Regression plot to ./results/regress-VehiclesAndFuelTanks-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-28.69 -18.27 -11.28  19.52  84.12 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 4.933e+03  4.902e+00  1006.3   <2e-16 ***
+x           8.822e+00  7.937e-02   111.1   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 25.1 on 104 degrees of freedom
+Multiple R-squared:  0.9917,	Adjusted R-squared:  0.9916 
+F-statistic: 1.235e+04 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+* Analyzing SpecialEquipment vs DayNum
+  - Regression plot to ./results/regress-SpecialEquipment-on-DayNum.png.
+Call:
+lm(formula = y ~ x, data = data.frame(x = xs, y = ys))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-19.0919  -5.3853   0.9368   5.8729  21.5022 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 172.1394     1.8961   90.78   <2e-16 ***
+x             1.7791     0.0307   57.95   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 9.711 on 104 degrees of freedom
+Multiple R-squared:   0.97,	Adjusted R-squared:  0.9697 
+F-statistic:  3358 on 1 and 104 DF,  p-value: < 2.2e-16
+
+
+
+Call:
+lm(formula = DayNum ~ Soldiers, data = ukrRusCasualties)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.1065 -1.4239 -0.2101  1.8040  4.8695 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -1.701e+02  1.617e+00  -105.2   <2e-16 ***
+Soldiers     1.396e-03  9.998e-06   139.7   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.258 on 104 degrees of freedom
+Multiple R-squared:  0.9947,	Adjusted R-squared:  0.9946 
+F-statistic: 1.951e+04 on 1 and 104 DF,  p-value: < 2.2e-16
+
+         fit        lwr        upr
+1 2023-05-11 2023-05-06 2023-05-15
+
+
+* Analysis of Russian Casualties in Ukraine completed Tue May 09 11:27:46 2023 (4.0 sec elapsed).
