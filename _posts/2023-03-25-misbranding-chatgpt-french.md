@@ -26,7 +26,8 @@ really.  But&hellip;
 
 See, nobody ever lets me name things.  And for good reason! The last time I was allowed to name
 something, I came up with "bprsvd": Bayesian Probit Regression with Singular Value
-Decompositions.  (Don't bother googling; it was used once and then sank without a trace.)  
+Decompositions.  (Don't bother googling; it was used once and then sank without a trace.
+Any putative Google hits are almost certainly something else.)  
 
 So I've always been curious about how things get named, and who checks those names.  In
 pharma, we always had this crazy naming consultants with big books of stems in Latin &amp;
@@ -104,7 +105,7 @@ The link goes to Google Translate, which Explains It All to those innocent of sp
 French.  
 
 Go ahead and have a look.  I'll wait.  I promise this page will still be here when
-you get back.  No, I'm not gonna tell you; I just&hellip: can't use language like that.  
+you get back.  No, I'm not gonna tell you; I just&hellip; can't use language like that.  
 
 Yep.  I _knew_ something about ChatGPT didn't smell quite right, and now I totally see why
 the world's French-speaking cats are somewhat annoyed at being told this over and over.
