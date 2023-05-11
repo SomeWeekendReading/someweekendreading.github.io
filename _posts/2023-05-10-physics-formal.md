@@ -7,7 +7,7 @@ commentsClosed: true
 ---
 
 You know how world political, business, and financial leaders fetishize suits?  Physicists
-do not.  
+do not do that.  
 
 
 ## Zelensky Among the Suits  
@@ -20,7 +20,7 @@ cares what I think.
 
 However, it played out interestingly in a meeting with world leaders:  
 
-<a href="https://twitter.com/CburgesCliff/status/1655822888174510081"><img src="{{ site.baseurl }}/images/2023-05-10-physics-formal-zelensky.jpg" width="550" height="667" alt="Zelensky among the suits." title="Zelensky among the suits." style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://twitter.com/CburgesCliff/status/1655822888174510081/"><img src="{{ site.baseurl }}/images/2023-05-10-physics-formal-zelensky.jpg" width="550" height="667" alt="Zelensky among the suits." title="Zelensky among the suits." style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 ["One of these things is not like the other ones"](https://en.wikipedia.org/wiki/One_of_These_Things_(Is_Not_Like_the_Others)), eh?  
 
@@ -36,13 +36,13 @@ Other captions suggested have been:
 - Linux sysadmin forced into a meeting with management. Can confirm: seen it, but never
   done it myself as I'm not a sysadmin.  
 
-I mean, he's wearing the _clean_ t-shirt and the formal, darker jeans that haven't faded.
-Do you really expect more?  
+I mean, he's wearing the _clean_ t-shirt and the formal, darker jeans that haven't faded
+too much yet.  Do you really expect more?  
 
 
 ## The Weekend Conclusion  
 
-One of these guys is facing reality more head-on than the others.  
+One of these guys is facing reality quite a bit more head-on than the others.  
 
 ---
 
