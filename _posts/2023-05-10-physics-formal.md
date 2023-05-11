@@ -36,7 +36,7 @@ Other captions suggested have been:
 - Linux sysadmin forced into a meeting with management. Can confirm: seen it, but never
   done it myself as I'm not a sysadmin.  
 
-I mean, he's wearing the _clean_ t-shirt and the formal, darker jeans that haven't faded
+I mean, he's wearing the _clean_ t-shirt and the formal, darker jeans that _haven't_ faded
 too much yet.  Do you really expect more?  
 
 
