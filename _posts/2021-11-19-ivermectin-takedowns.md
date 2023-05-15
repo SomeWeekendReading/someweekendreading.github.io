@@ -195,7 +195,7 @@ use a more or less objective set of rules like
 
 The authors of ivmmeta.com do neither.  They just include whatever they want, and tell us
 to trust their judgement because they've read all the studies carefully.  Given the amount
-of fradulent studies on ivermectin, this makes _absolutely no sense whatsoever!_  
+of fraudulent studies on ivermectin, this makes _absolutely no sense whatsoever!_  
 
 It introduces the potential for investigator bias that contaminates everything.  
 
@@ -236,7 +236,7 @@ Finding this much fraud and incompetence in one place would be enough for me to 
 out _everything_.  That's because the rest have a pretty good chance of being fraudulent
 or incompetent, just in a way I didn't find out.  But then, I'm a cranky old statistician.  
 
-Scott is younger man who has more faith in humanity than me.  So he persisted.  After
+But Scott is younger man who has more faith in humanity than me.  So he persisted.  After
 removing 2/3 of the studies for incompetence or fraud, that cuts the forest plot down to
 this:  
 
@@ -281,7 +281,7 @@ Recall that ivermectin is for de-worming animals and people.
 
 Basically:  
 - Having intestinal worms makes everything worse, including COVID-19.  Ivermectin gets rid
-  of those worms, so you'll do better _if you were already parasitized by worms to begin with._  
+  of those worms, so ivermectin helps _only if you were already parasitized by worms to begin with._  
 - Many of the treatments for COVID-19 involve anti-inflammatories, mostly corticosteroids
   like dexamethasone.  Those shut down some parts of the immune system that fight worms,
   letting the worms run riot in your gut while you're sick of COVID-19.  Worm
@@ -290,7 +290,7 @@ Basically:
 - Worms have a variety of ways of turning down your immune system so they can parasitize
   you at their leisure; it's likely some of those also reduce vaccine efficacy and
   response to SARS-CoV2 infection.  Ivermectin makes vaccination or response to infection
-  better, _provided you're being harassed by intestinal worms in the first place._  
+  better, _provided you're already being harassed by intestinal worms in the first place._  
 
 <img src="{{ site.baseurl }}/images/2021-11-19-ivermectin-takedowns-bitterman-thumb.jpg" width="400" height="247" alt="Bitterman: ivermectin risk ratio vs % of population at risk for worms" title="Bitterman: ivermectin risk ratio vs % of population at risk for worms" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The final nail in the coffin&hellip; well, let's be honest: it's really more of a railroad
@@ -304,7 +304,8 @@ all-causes mortality in an ivermectin COVID-19 trial, with low values being favo
 ivermectin.  
 
 Each gray circle is a study, diameter indicating the size.  Note this very, very
-carefully: _all the studies reporting ivermectin effect were in regions at risk for worm infestations._
+carefully: _all the studies reporting ivermectin effect were in regions at risk for worm
+infestations, and were small studies._
 
 
 ## The Weekend Conclusion  
