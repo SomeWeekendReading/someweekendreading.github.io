@@ -21,7 +21,8 @@ for women: getting properly diagnosed with
 [Chronic Fatigue Syndrome](https://en.wikipedia.org/wiki/Chronic_fatigue_syndrome) is exceptionally
 difficult, not to mention the historical abusive diagnoses like
 ["hysteria"](https://en.wikipedia.org/wiki/Hysteria) that women have had to face.  Mental
-health disorders, such as depression and anxiety, face similar public shaming.  
+health disorders, such as depression and anxiety, face similar public shaming, independent
+of gender.  
 
 So don't be surprised if you try this on someone and get an angry reaction.  COVID-19
 brain fog is _real_ (even if it's not as drastic as the Long COVID-19 experienced by some
