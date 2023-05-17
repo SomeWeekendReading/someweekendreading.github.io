@@ -1244,7 +1244,6 @@ _Business Week_, 14-Nov-2003.
 - "The whole _point_ of civilization is to be less brutal than nature.  Just because something is 'natural' doesn't absolve us of the responsibility to do better when we can."  
 - "Everyone _interesting_ is mad; of this there is no question.  The better question is whether or not their madness is [the divine madness]({{ site.baseurl }}/tags/#TheDivineMadness)."  
 - "Let sleeping dogs bury their own dead."  (Combining "let sleeping dogs lie" and "let the dead past bury its own dead".)  
-- "This isn't rocket surgery." (Combining "rocket science" and "brain surgery".)  
 - On corporate managers and politicians: "Pay less attention to what they _say_, and more to what they _do_."  
 - "When you're in a hurry, all data are short-term."  
 - "I probably won't follow your orders, but I may follow your example."  
