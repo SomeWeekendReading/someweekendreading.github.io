@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-Today the world reached another grim milestone in Russia's invasion of Ukraine.  
+Today the world reached yet another grim milestone in Russia's invasion of Ukraine.  
 
 
 ## The Milestone (Or, In This Case, Gravestone)  
