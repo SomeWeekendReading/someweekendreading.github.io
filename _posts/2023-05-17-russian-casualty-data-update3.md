@@ -173,11 +173,11 @@ this time perpetrated against themselves &ndash; the worst sort of own goal.
 
 (__NB:__ Regrettably self-referential today.  Not a new pattern, we may all hope.)  
 
-<a id="fn1">1</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Another Grim Anniversary"]({{ site.baseurl }}/150k-rus-dead-in-ukraine), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2023-Mar-02. [↩](#fn1a)  
+<a id="fn1">1</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Another Grim Anniversary"]({{ site.baseurl }}/150k-rus-dead-in-ukraine/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2023-Mar-02. [↩](#fn1a)  
 
-<a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Do the Ukrainian Reports of Russian Casualties Make Sense?"]({{ site.baseurl }}/russian-casualty-data), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2023-Apr-15. [↩](#fn2a)  
+<a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Do the Ukrainian Reports of Russian Casualties Make Sense?"]({{ site.baseurl }}/russian-casualty-data/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2023-Apr-15. [↩](#fn2a)  
 
-<a id="fn3">3</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Update: Ukrainian Estimates of Russian Casualties"]({{ site.baseurl }}/russian-casualty-data-update), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2023-May-01. [↩](#fn3a)  
+<a id="fn3">3</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Update: Ukrainian Estimates of Russian Casualties"]({{ site.baseurl }}/russian-casualty-data-update/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2023-May-01. [↩](#fn3a)  
 
 <a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Updated Update: Ukrainian Estimates of Russian Casualties"]({{ site.baseurl }}/russian-casualty-update-update/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2023-May-09. [↩](#fn4a)  
 
