@@ -1269,3 +1269,4 @@ _Business Week_, 14-Nov-2003.
 - "If you find yourself in a race to the bottom, let the other guy win."  
 - "Once you identify the side with the Nazis, pick the other side."  
 - "Assigned Midwesterner at birth, New Englander by choice."  
+- "If your life is a tug-of-war, you can have more effect if you pull the rope sideways." (After a remark apparently due to Robin Hanson.)  
