@@ -154,9 +154,10 @@ his propaganda job with the Russian government:
 
 <a href="https://twitter.com/JuliaDavisNews/status/1661742464116604929"><img src="{{ site.baseurl }}/images/2023-05-25-tacitus-ukraine-twitter-1.jpg" width="550" height="679" alt="Davis @ Twitter: Dolgove fired" title="Davis @ Twitter: Dolgove fired" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
-Prigozhin, however, continues.  (At least, until he ascends a tall building with op enable
-windows, in a fit of nostalgia for his boyhood defenestration lessons.  That seems to
-be the way of things in modern Russia.)  
+Prigozhin, however, continues.  
+
+At least, until he ascends a tall building with openable windows, in a fit of nostalgia
+for his boyhood defenestration lessons.  That seems to be the way of things in modern Russia.  
 
 ---
 
