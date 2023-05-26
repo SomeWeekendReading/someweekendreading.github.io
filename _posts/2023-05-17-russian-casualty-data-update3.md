@@ -186,7 +186,7 @@ this time perpetrated against themselves &ndash; the worst sort of own goal.
 There is also [a textual transcript of running this]({{ site.baseurl }}/assets/2023-05-17-russian-casualty-data-update3-ukr-rus-casualties-transcript.txt), so you can check that it says what I told you.  
 
 We've also archived an updated${}^3$
-[a .zip file of the original images uploaded by the Ukrainian MoD]({{ site.baseurl }}/assets/2023-05-17-russian-casualty-data-update3-russian-casualty-data-images.zip),
+[.zip file of the original images uploaded by the Ukrainian MoD]({{ site.baseurl }}/assets/2023-05-17-russian-casualty-data-update3-russian-casualty-data-images.zip),
 and an updated${}^3$ [.tsv format spreadsheet we constructed from that for analysis]({{ site.baseurl }}/assets/2023-05-17-russian-casualty-data-update3-russian-casualties-in-ukraine.tsv).  
 
 __NB:__ There are also some subroutine files for graphics and analysis pipeline building
