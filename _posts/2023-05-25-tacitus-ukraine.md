@@ -7,8 +7,8 @@ commentsClosed: true
 ---
 
 One of the (few) advantages to having been steeped in old books during youth is you begin
-to realize how often we do the same dumb stuff over and over.  This seems to be especially
-true in politics, economics, and war.  
+to realize how often we do the same dumb stuff, over and over, for _centuries._ This seems
+to be especially true in law, politics, economics, and war.  
 
 
 ## Ukraine: In the wake of the Russians  
@@ -16,13 +16,15 @@ true in politics, economics, and war.
 <img src="{{ site.baseurl }}/images/2023-05-25-tacitus-ukraine-pz-1.jpg" width="400" height="116" alt="PZ @ Pharyngula: State of Ukraine (and Russia itself)" title="PZ @ Pharyngula: State of Ukraine (and Russia itself)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Via [PZ @ Pharyngula](https://freethoughtblogs.com/pharyngula/2023/05/25/hows-that-war-in-ukraine-going-anyway/) <sup id="fn1a">[[1]](#fn1)</sup>
 comes a snarky-but-thoughtful essay on what the effect of Russian conquest has been on
-civilian infrastructure in Ukraine.  Summary: it's very, very bad.  
+civilian infrastructure in Ukraine.  
+
+Summary: it's very, very bad.  
 
 <img src="{{ site.baseurl }}/images/2023-05-25-tacitus-ukraine-wapo-1.jpg" width="400" height="132" alt="Ilyushina @ WaPo: Prigozhin says war has backfired, possible Russian revolution" title="Ilyushina @ WaPo: Prigozhin says war has backfired, possible Russian revolution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Of particular interest, though, was a link to a _WaPo_ article <sup id="fn2a">[[2]](#fn2)</sup> that
 tells us all is not entirely well back in Russia.  
 
-But first consider the sources:  
+But first, consider the sources:  
 - Ilyushina is working off an interview done by Konstantin Dolgov, a "political operative
   and pro-war blogger" in Russia.  
 - Dolgov was interviewing [Yevgeniy Prigozhin](https://en.wikipedia.org/wiki/Yevgeny_Prigozhin),
@@ -68,10 +70,10 @@ schools, hospitals, caf&eacute;s, and that sort of thing.  In other words: _civi
 not military targets.  The Russians have become justly infamous for attacking schools,
 concert halls, art galleries, apartment blocks, and churches.  Given the availability of
 precision weapons to Russia, this is not an accident: destruction of power plants, water
-processing, dams, housing, and such are a matter of _Russian policy._  This particular
-policy is also a war crime.  
+processing, dams, housing, and such are a matter of _Russian policy._  (This particular
+policy is also a war crime.)  
 
-I can't help but think (no, really: I _can't help_ but think this) of some of the tags of
+I can't help but think (no, really: I _can't help_ but think about this!) of some of the tags of
 Latin that were hammered into my skull at an age when I was too young to defend myself:  
 
 > &hellip; ubi solitudinem faciunt, pacem appellant. (&hellip; where they make a desert,
@@ -143,6 +145,18 @@ in 1849:
 > the more they are the same.)  
 
 (__NB:__ Tom Toro [sells signed prints of this cartoon in his Etsy shop.](https://www.etsy.com/listing/682771837/signed-print-of-my-cartoon-those-who).)  
+
+
+## Addendum 2023-May-26  
+
+Sources on Twitter, linked back to Dolgov's Telegram channel, say he has been fired from
+his propaganda job with the Russian government:  
+
+<a href="https://twitter.com/JuliaDavisNews/status/1661742464116604929"><img src="{{ site.baseurl }}/images/2023-05-25-tacitus-ukraine-twitter-1.jpg" width="550" height="679" alt="Davis @ Twitter: Dolgove fired" title="Davis @ Twitter: Dolgove fired" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
+Prigozhin, however, continues.  (At least, until he ascends a tall building with op enable
+windows, in a fit of nostalgia for his boyhood defenestration lessons.  That seems to
+be the way of things in modern Russia.)  
 
 ---
 
