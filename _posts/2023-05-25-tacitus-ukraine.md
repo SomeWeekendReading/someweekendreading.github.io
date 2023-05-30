@@ -22,12 +22,12 @@ Summary: it's very, very bad.
 
 <img src="{{ site.baseurl }}/images/2023-05-25-tacitus-ukraine-wapo-1.jpg" width="400" height="132" alt="Ilyushina @ WaPo: Prigozhin says war has backfired, possible Russian revolution" title="Ilyushina @ WaPo: Prigozhin says war has backfired, possible Russian revolution" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Of particular interest, though, was a link to a _WaPo_ article <sup id="fn2a">[[2]](#fn2)</sup> that
-tells us all is not entirely well back in Russia.  
+tells us all is not entirely well back in Russia, either.  
 
 But first, consider the sources:  
 - Ilyushina is working off an interview done by Konstantin Dolgov, a "political operative
   and pro-war blogger" in Russia.  
-- Dolgov was interviewing [Yevgeniy Prigozhin](https://en.wikipedia.org/wiki/Yevgeny_Prigozhin),
+- Dolgov, in turn, was interviewing [Yevgeniy Prigozhin](https://en.wikipedia.org/wiki/Yevgeny_Prigozhin),
   an oligarch who is the leader of the notorious Wagner Group of mercenaries known for the
   most brutal tactics (e.g., "human waves" of convicts recruited from prisons without
   training) being used not just in Ukraine, but around the world.  
@@ -74,7 +74,7 @@ processing, dams, housing, and such are a matter of _Russian policy._  (This par
 policy is also a war crime.)  
 
 I can't help but think (no, really: I _can't help_ but think about this!) of some of the tags of
-Latin that were hammered into my skull at an age when I was too young to defend myself:  
+Latin that were hammered into my skull at an age when I was too young to defend myself adequately:  
 
 > &hellip; ubi solitudinem faciunt, pacem appellant. (&hellip; where they make a desert,
 > they call it peace.)  
