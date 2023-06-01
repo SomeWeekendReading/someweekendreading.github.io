@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-You know how world political, business, and financial leaders fetishize suits?  Physicists
+You know how world political, business, and financial leaders fetishize suits for men?  Physicists
 do not do that.  
 
 

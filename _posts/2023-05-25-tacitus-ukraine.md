@@ -89,7 +89,8 @@ word "desert" seems reasonable.
 But a bit of historical context drives the point home even better!  
 - This is a quote from a book by the Roman historian Tacitus, more formally known as
   [Publius Tacitus (or Gaius Cornelius Tacitus)](https://en.wikipedia.org/wiki/Tacitus).  
-- He was writing a hagiographic biography of his father in law,
+- He was writing a [hagiographic biography](https://en.wikipedia.org/wiki/Agricola_(book))
+  of his father in law,
   [Gnaeus Iulius Agricola](https://en.wikipedia.org/wiki/Gnaeus_Julius_Agricola).  
 - Agricola was a major-league Roman general, involved in the conquest of Brittania and the
   subsequent _not-quite_ conquest of [Scotland/Caledonia](https://en.wikipedia.org/wiki/Caledonia).
@@ -101,7 +102,7 @@ But a bit of historical context drives the point home even better!
   describing what it was like to be beaten in battle by the Romans (though the Romans
   never really managed to hold territory in the Scottish north).
 
-Calgacus said, approximately, that the Romans come in, slaughter, rape, steal everything.
+Calgacus said, approximately, that the Romans come in, slaughter, rape, and steal everything.
 Then they smash anything left and kill everybody.  Once they're standing on top of a pile
 of smoking rubble, they call _that_ peace.  
 
@@ -121,8 +122,8 @@ I am an amateur in these matters.)  This makes me suspicious that it's a folk th
 classicists, but it's so good it's hard to resist.  
 
 So there you have it: Russians running the fascist game plan as old as the Romans.  Smash
-everything, kill everybody, then stand proudly atop the fuming rubble and declare it to
-be success.  
+everything, kill everybody, then stand proudly atop the rubble amid the fumes, and declare it to
+be success and "peace".  
 
 
 ## The Weekend Conclusion  

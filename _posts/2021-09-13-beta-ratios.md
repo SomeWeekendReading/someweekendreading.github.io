@@ -600,7 +600,7 @@ $$
 $$
 
 where the lower limit of the integral vanishes if $d > -1$ (as assumed here), has a constant from 
-${}\{3}F\_{2}(0)$ if $d = -1$, and has a pole if $d < -1$.  
+${}\_{3}F\_{2}(0)$ if $d = -1$, and has a pole if $d < -1$.  
 
 We've recognized in the series the _generalized_ hypergeometric function
 ${}\_{3}F\_{2}()$.  The subscripts remind us that there are 3 Pochammer symbols in the
