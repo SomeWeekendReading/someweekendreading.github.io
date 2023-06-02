@@ -261,4 +261,4 @@ It's _still_ true that nobody will let me name anything.  Now you have some idea
 
 <a id="fn1">1</a>: I did _not_ flounce! &ndash; Weekend Publisher <sup id="fn2a">[[2]](#fn2)</sup>[↩](#fn1a)  
 
-<a id="fn2">2</a>: Tai-tois!  C'&eacute;tait totalement un "flounce".  Ne lance pas dans une dispute de note de bas de page avec moi! &ndash; Weekend Editor [↩](#fn2a)  
+<a id="fn2">2</a>: Tais-toi!  C'&eacute;tait totalement un "flounce".  Ne lance pas dans une dispute de note de bas de page avec moi! &ndash; Weekend Editor [↩](#fn2a)  
