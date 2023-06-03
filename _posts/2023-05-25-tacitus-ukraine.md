@@ -103,11 +103,11 @@ But a bit of historical context drives the point home even better!
   never really managed to hold territory in the Scottish north).
 
 Calgacus said, approximately, that the Romans come in, slaughter, rape, and steal everything.
-Then they smash anything left and kill everybody.  Once they're standing on top of a pile
+Then they smash anything left and kill everybody.  Once they're standing atop a pile
 of smoking rubble, they call _that_ peace.  
 
 <a href="{{ site.baseurl }}/images/2023-05-25-tacitus-ukraine-fasces.jpg"><img src="{{ site.baseurl }}/images/2023-05-25-tacitus-ukraine-fasces-thumb.jpg" width="200" height="364" alt="Roman fasces" title="Roman fasces" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-There is much to admire in ancient Rome.  There is also, alas, much that is despicable.
+There is much to admire in ancient Rome.  There is also, alas, much to despise.
 These are, after all, the people who used the
 [_fasces_](https://en.wikipedia.org/wiki/Fasces) to represent state power: the bundle of
 rods for corporal punishment (caning/bastinado) and the axe for capital punishment
