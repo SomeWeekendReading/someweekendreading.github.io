@@ -139,7 +139,7 @@ forgive ourselves.
 <a id="fn1">1</a>: Z Sottile, ["Centuries after they were convicted, Connecticut formally pardons men and women charged with witchcraft"](https://www.cnn.com/2023/05/29/us/connecticut-witch-trial-exoneration-trnd/index.html), _CNN_, 2023-May-29. [↩](#fn1a)  
 
 <a id="fn2">2</a>: J O'Leary, ["SENATOR ANWAR LEADS SENATE APPROVAL OF RESOLUTION
-ABSOLVING THOSE ACCUSED AND CONVICTED OF WITCHCRAFT IN 1600S"](http://www.senatedo ems.ct.gov/anwar-news/4943-anwar-230525), Press Releases of CT State Senator Saud Anwar, 2023-May-25.  [↩](#fn2a)  
+ABSOLVING THOSE ACCUSED AND CONVICTED OF WITCHCRAFT IN 1600S"](http://www.senatedems.ct.gov/anwar-news/4943-anwar-230525), Press Releases of CT State Senator Saud Anwar, 2023-May-25.  [↩](#fn2a)  
 
 <a id="fn3">3</a>: S Anwar, ["RESOLUTION EXONERATING THE WOMEN AND MEN CONVICTED FOR WITCHCRAFT IN COLONIAL CONNECTICUT"](https://www.cga.ct.gov/asp/CGABillStatus/cgabillstatus.asp?selBillType=Bill&bill_num=SJ00005&which_year=2023), _CT General Assembly Bill Status_, retrieved 2023-Jun-06.  __NB:__ You may have to pause your VPN temporarily to access this page.  [↩](#fn3a)  
 
@@ -153,6 +153,7 @@ populated rural states, about 50% of the Senate represents only about 20% of the
 This helps explain why the Senate is so _maddeningly_ conservative.  
 
 Though not, perhaps, so maddeningly conservative as to preserve witchcraft convictions for
-nearly 4 centuries.  (But only because the US Senate is only 234 years old as of today.) [↩](#fn4a)   
+nearly 4 centuries.  Because, after all, the US Senate is only 234 years old as of today!
+Give them some time. [↩](#fn4a)    
 
 <a id="fn5">5</a>: A Avery, ["Senate Joint Resolution No. 26: Resolution Concerning Certain Convictions in Colonial Connecticut"](https://www.cga.ct.gov/2008/JUDdata/tmy/2008SJ-00026-R000320-Adelaide%20J.%20Avery-TMY.PDF), _CT General Assembly Bill Status_, retrieved 2023-Jun-06. [↩](#fn5a)  
