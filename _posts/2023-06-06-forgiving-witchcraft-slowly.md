@@ -12,11 +12,13 @@ just stubborn?  (Or maybe not very bright?)
 
 ## Connecticut and Witchcraft  
 
-Here in New England, we're famous for many things.  One of the campy (on the surface) but
-actually regrettable ones is the series of witch trials in the mid 1600s to the early
-1700s.  They're entertainingly weird, when viewed from a safe distance of nearly 4
-centuries.  But when you think about the authoritarian moral panic and the torture it
-inflicted on women (and a few men), it's just sad and shameful.  
+Here in New England, we're famous for many things.  
+
+One of the campy (on the surface) but actually regrettable ones is the series of witch
+trials in the mid 1600s to the early 1700s.  They're entertainingly weird, when viewed
+from a safe distance of nearly 4 centuries.  But when you think about the authoritarian
+moral panic and the torture it inflicted on women (and a few men), it's just sad and
+shameful.  
 
 You'd think we'd learn, but today's moral panic over trans people is disappointingly
 similar.  
