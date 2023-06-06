@@ -18,21 +18,26 @@ One of the campy (on the surface) but actually regrettable ones is the series of
 trials in the mid 1600s to the early 1700s.  They're entertainingly weird, when viewed
 from a safe distance of nearly 4 centuries.  But when you think about the authoritarian
 moral panic and the torture it inflicted on women (and a few men), it's just sad and
-shameful.  
+shameful.  (Cue [Arthur Miller](https://en.wikipedia.org/wiki/Arthur_Miller), who wrote
+[_The Crucible_](https://en.wikipedia.org/wiki/The_Crucible) during the political witch
+trials of the McCarthy era, when Republicans saw communist conspiracies everywhere.)  
 
 You'd think we'd learn, but today's moral panic over trans people is disappointingly
 similar.  
 
 <img src="{{ site.baseurl }}/images/2023-06-06-forgiving-witchcraft-slowly-cnn-1.jpg" width="400" height="209" alt="Sottile @ CNN: Connecticut formally pardons witchcraft convictions centuries later" title="Sottile @ CNN: Connecticut formally pardons witchcraft convictions centuries later" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2023-06-06-forgiving-witchcraft-slowly-bbc-1.jpg" width="400" height="537" alt="Debusmann @ BBC: Connecticut witch exoneration" title="Debusmann @ BBC: Connecticut witch exoneration" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2023-06-06-forgiving-witchcraft-slowly-ct-sen-anwar.jpg" width="400" height="150" alt="O'Leary @ Ofc of Ct Sen Anwar: Pardoning witchcraft" title="O'Leary @ Ofc of Ct Sen Anwar: Pardoning witchcraft" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-So it's&hellip; _interesting_ in some ways&hellip; to see the Connecticut legislature has
+So it's&hellip; _interesting_ (in some ways)&hellip; to see the Connecticut legislature has
 pardoned, or at least apologized for, the persecutions and killings of that time.  It's
-apparently important enough to make _CNN_ <sup id="fn1a">[[1]](#fn1)</sup> and a press
-release from a CT state senator claiming to lead that approval <sup id="fn2a">[[2]](#fn2)</sup>.
+apparently important enough to make both _CNN_ <sup id="fn1a">[[1]](#fn1)</sup> and 
+the _BBC_ <sup id="fn2a">[[2]](#fn2)</sup> take notice, as well as a press release from
+the CT state senator claiming to have led that effort <sup id="fn3a">[[3]](#fn3)</sup>.  
 
 It is admirably brief (7 lines) and to the point, as legislation goes.  No reasonably literate
-person can claim not to understand the point (the witchcraft trials were wrong) and the
-effect (not much).  The legislation reads, in its entirety <sup id="fn3a">[[3]](#fn3)</sup>:  
+person can claim not to understand the point (witchcraft trials = wrong) and the
+modern-day effect of the apology/pardon (not much).  The legislation/resolution reads, in its
+entirety <sup id="fn4a">[[4]](#fn4)</sup>:  
 
 > Resolved by this Assembly:  
 >  
@@ -44,16 +49,17 @@ effect (not much).  The legislation reads, in its entirety <sup id="fn3a">[[3]](
 > 6 be undone or changed, no disgrace or cause for distress should attach to  
 > 7 the heirs of those persons.  
 
-_CNN_ mentions the feelings of relief and some cautions about alienating people from a
-14th generation lineal descendant of one of the victims.  14 generations is a long time;
-systemic violence does lasting damage!  
+_CNN_ mentions the feelings of relief &ndash; and some cautions &ndash; about alienating
+people from a _14th generation lineal descendant_ of one of the victims.  14 generations
+is a long time; systemic violence does lasting damage!  
 
 
 ## But&hellip; I Have Some Questions  
 
-That's&hellip; OK, I guess?  I mean, I don't see how any reasonable person can object to
+That's&hellip; ok, I guess?  I mean, I don't see how any reasonable person can object to
 this.  It may not be the _best_ use of legislative time, but it's certainly not a _bad_
-use of time to admit mistakes, even old ones.  
+use of time to admit mistakes, even old ones.  And it's not like this takes a _lot_ of
+legislative time for debate, or so one would think.  
 
 But&hellip; I Have Some Questions.  (_Comme d'habitude._)  
 
@@ -68,13 +74,13 @@ But&hellip; I Have Some Questions.  (_Comme d'habitude._)
 
    Surely nobody from the late 1600s would be still in office in the mid 1700s.  After
    all, the word ["senator" in Latin means "old man"](https://en.wikipedia.org/wiki/Senate_of_the_Roman_Kingdom#:~:text=The%20word%20senate%20derives%20from,as%20%22Council%20of%20Elders%22.),
-   so the originals would have died off. <sup id="fn4a">[[4]](#fn4)</sup>  
+   so the originals would have died off. <sup id="fn5a">[[5]](#fn5)</sup>  
 
 2. This isn't the first time they tried this.  Not even the first time in the 21st
    century!  
 
    <a href="{{ site.baseurl }}/images/2023-06-06-forgiving-witchcraft-slowly-ct-res-26-2008.jpg"><img src="{{ site.baseurl }}/images/2023-06-06-forgiving-witchcraft-slowly-ct-res-26-2008-thumb.jpg" width="400" height="264" alt="CT Jt Res 26, 2008: Illustration of hanged witches" title="CT Jt Res 26, 2008: Illustration of hanged witches" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-   In 2008, Joint Resolution 26 was proposed <sup id="fn5a">[[5]](#fn5)</sup>, illustrated
+   In 2008, Joint Resolution 26 was proposed <sup id="fn6a">[[6]](#fn6)</sup>, illustrated
    as shown here with the great charm one expects of legislators, to accomplish more or
    less the same thing.  
 
@@ -103,10 +109,29 @@ But&hellip; I Have Some Questions.  (_Comme d'habitude._)
        this issue&hellip; _what were they thinking?_  
 
      - Who's the lone holdout who actively voted "no"?  
-	 
-	   What were _they_ thinking, or is it a
+     
+       What were _they_ thinking, or is it a
        [category error](https://en.wikipedia.org/wiki/Category_mistake)
        to use the verb "thinking" for this process?  
+
+       The _BBC_ article says this was CT Senator Rob Sampson, who:  
+       
+       > &hellip; said that he believed it was wrong to "dictate what was right or wrong
+       > about periods in the past that we have no knowledge of".  
+       >  
+       > "I don't want to see bills that rightfully or wrongfully attempt to paint America
+       > as a bad place with a bad history," he was quoted as saying by the Associated
+       > Press.  
+       >  
+       > "I want us to focus on where we're going, which is a brighter and better future."  
+
+       Or, in other words, he's worried about _image_, and can't be bothered to think about
+       the reality of the wrong done to the victims.  The "rightfully or wrongfully" part
+       says he's not even especially inconvenienced by concepts like _truth._ 
+
+       Perhaps his constituents will take note of this: if he thinks thus about small
+       issues, how flexible about truth will he be on big issues, where there are actual
+       consequences and lobbyists vying for his vote?  
 
 It's a simple thing, but there are always so _many_ questions&hellip;  
 
@@ -140,12 +165,13 @@ forgive ourselves.
 
 <a id="fn1">1</a>: Z Sottile, ["Centuries after they were convicted, Connecticut formally pardons men and women charged with witchcraft"](https://www.cnn.com/2023/05/29/us/connecticut-witch-trial-exoneration-trnd/index.html), _CNN_, 2023-May-29. [↩](#fn1a)  
 
-<a id="fn2">2</a>: J O'Leary, ["SENATOR ANWAR LEADS SENATE APPROVAL OF RESOLUTION
-ABSOLVING THOSE ACCUSED AND CONVICTED OF WITCHCRAFT IN 1600S"](http://www.senatedems.ct.gov/anwar-news/4943-anwar-230525), Press Releases of CT State Senator Saud Anwar, 2023-May-25.  [↩](#fn2a)  
+<a id="fn2">2</a>: B Debusmann, ["Connecticut 'witches' exonerated by Senate lawmakers"](https://www.bbc.com/news/world-us-canada-65724066), _BBC_, 2023-May-27. [↩](#fn2a)  
 
-<a id="fn3">3</a>: S Anwar, ["RESOLUTION EXONERATING THE WOMEN AND MEN CONVICTED FOR WITCHCRAFT IN COLONIAL CONNECTICUT"](https://www.cga.ct.gov/asp/CGABillStatus/cgabillstatus.asp?selBillType=Bill&bill_num=SJ00005&which_year=2023), _CT General Assembly Bill Status_, retrieved 2023-Jun-06.  __NB:__ You may have to pause your VPN temporarily to access this page.  [↩](#fn3a)  
+<a id="fn3">3</a>: J O'Leary, ["SENATOR ANWAR LEADS SENATE APPROVAL OF RESOLUTION ABSOLVING THOSE ACCUSED AND CONVICTED OF WITCHCRAFT IN 1600S"](http://www.senatedems.ct.gov/anwar-news/4943-anwar-230525), Press Releases of CT State Senator Saud Anwar, 2023-May-25.  [↩](#fn3a)  
 
-<a id="fn4">4</a>: Today's US Senate is more of an anomaly, with so many Old White Men.
+<a id="fn4">4</a>: S Anwar, ["RESOLUTION EXONERATING THE WOMEN AND MEN CONVICTED FOR WITCHCRAFT IN COLONIAL CONNECTICUT"](https://www.cga.ct.gov/asp/CGABillStatus/cgabillstatus.asp?selBillType=Bill&bill_num=SJ00005&which_year=2023), _CT General Assembly Bill Status_, retrieved 2023-Jun-06.  __NB:__ You may have to pause your VPN temporarily to access this page.  [↩](#fn4a)  
+
+<a id="fn5">5</a>: Today's US Senate is more of an anomaly, with so many Old White Men.
 And yes, I say this from the perspective being personally an Old White Man.  Yes, I think
 I'm reasonably smart; but no, there is no particular reason for you to agree unless I
 demonstrate it to your satisfaction.  
@@ -156,6 +182,6 @@ This helps explain why the Senate is so _maddeningly_ conservative.
 
 Though not, perhaps, so maddeningly conservative as to preserve witchcraft convictions for
 nearly 4 centuries.  Because, after all, the US Senate is only 234 years old as of today!
-Give them some time. [↩](#fn4a)    
+Give them some time. [↩](#fn5a)    
 
-<a id="fn5">5</a>: A Avery, ["Senate Joint Resolution No. 26: Resolution Concerning Certain Convictions in Colonial Connecticut"](https://www.cga.ct.gov/2008/JUDdata/tmy/2008SJ-00026-R000320-Adelaide%20J.%20Avery-TMY.PDF), _CT General Assembly Bill Status_, retrieved 2023-Jun-06.  __NB:__ Again, you might have to pause your VPN to get to this.  [↩](#fn5a)  
+<a id="fn6">6</a>: A Avery, ["Senate Joint Resolution No. 26: Resolution Concerning Certain Convictions in Colonial Connecticut"](https://www.cga.ct.gov/2008/JUDdata/tmy/2008SJ-00026-R000320-Adelaide%20J.%20Avery-TMY.PDF), _CT General Assembly Bill Status_, retrieved 2023-Jun-06.  __NB:__ Again, you might have to pause your VPN to get to this.  [↩](#fn6a)  
