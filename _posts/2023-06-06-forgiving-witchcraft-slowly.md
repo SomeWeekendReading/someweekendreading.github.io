@@ -158,4 +158,4 @@ Though not, perhaps, so maddeningly conservative as to preserve witchcraft convi
 nearly 4 centuries.  Because, after all, the US Senate is only 234 years old as of today!
 Give them some time. [↩](#fn4a)    
 
-<a id="fn5">5</a>: A Avery, ["Senate Joint Resolution No. 26: Resolution Concerning Certain Convictions in Colonial Connecticut"](https://www.cga.ct.gov/2008/JUDdata/tmy/2008SJ-00026-R000320-Adelaide%20J.%20Avery-TMY.PDF), _CT General Assembly Bill Status_, retrieved 2023-Jun-06. [↩](#fn5a)  
+<a id="fn5">5</a>: A Avery, ["Senate Joint Resolution No. 26: Resolution Concerning Certain Convictions in Colonial Connecticut"](https://www.cga.ct.gov/2008/JUDdata/tmy/2008SJ-00026-R000320-Adelaide%20J.%20Avery-TMY.PDF), _CT General Assembly Bill Status_, retrieved 2023-Jun-06.  __NB:__ Again, you might have to pause your VPN to get to this.  [↩](#fn5a)  
