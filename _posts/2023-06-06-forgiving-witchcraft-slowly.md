@@ -14,13 +14,14 @@ just stubborn?  (Or maybe not very bright?)
 
 Here in New England, we're famous for many things.  
 
-One of the campy (on the surface) but actually regrettable ones is the series of witch
-trials in the mid 1600s to the early 1700s.  They're entertainingly weird, when viewed
-from a safe distance of nearly 4 centuries.  But when you think about the authoritarian
-moral panic and the torture it inflicted on women (and a few men), it's just sad and
-shameful.  (Cue [Arthur Miller](https://en.wikipedia.org/wiki/Arthur_Miller), who wrote
-[_The Crucible_](https://en.wikipedia.org/wiki/The_Crucible) during the political witch
-trials of the McCarthy era, when Republicans saw communist conspiracies everywhere.)  
+One of those things that's campy on the surface, but actually regrettable upon reflection,
+is the series of witch trials in the mid 1600s to maybe 1700.  They're entertainingly
+weird, when viewed from a safe distance of nearly 4 centuries.  But when you think about
+the authoritarian moral panic and the literal torture and state-sanctioned murder it
+inflicted on women (and a few men), it's just sad and shameful.  (Cue
+[Arthur Miller](https://en.wikipedia.org/wiki/Arthur_Miller), who wrote
+[_The Crucible_](https://en.wikipedia.org/wiki/The_Crucible) during the "political witch trials"
+in America of the McCarthy era, when Republicans saw communist conspiracies everywhere.)  
 
 You'd think we'd learn, but today's moral panic over trans people is disappointingly
 similar.  
@@ -50,7 +51,7 @@ entirety <sup id="fn4a">[[4]](#fn4)</sup>:
 > 7 the heirs of those persons.  
 
 _CNN_ mentions the feelings of relief &ndash; and some cautions &ndash; about alienating
-people from a _14th generation lineal descendant_ of one of the victims.  14 generations
+people, as reported by a _14th generation lineal descendant_ of one of the victims.  14 generations
 is a long time; systemic violence does lasting damage!  
 
 
@@ -73,7 +74,7 @@ But&hellip; I Have Some Questions.  (_Comme d'habitude._)
    the government &ndash; and themselves &ndash; from the errors of their elders?  
 
    Surely nobody from the late 1600s would be still in office in the mid 1700s.  After
-   all, the word ["senator" in Latin means "old man"](https://en.wikipedia.org/wiki/Senate_of_the_Roman_Kingdom#:~:text=The%20word%20senate%20derives%20from,as%20%22Council%20of%20Elders%22.),
+   all, the word ["senator" comes from the Latin _senex, senatoris_ meaning "old man"](https://en.wikipedia.org/wiki/Senate_of_the_Roman_Kingdom#:~:text=The%20word%20senate%20derives%20from,as%20%22Council%20of%20Elders%22.),
    so the originals would have died off. <sup id="fn5a">[[5]](#fn5)</sup>  
 
 2. This isn't the first time they tried this.  Not even the first time in the 21st
