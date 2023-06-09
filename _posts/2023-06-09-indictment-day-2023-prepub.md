@@ -12,10 +12,10 @@ Indictment Day for Donald Trump.
 
 ## Indictment Day  
 
-Today the [@IndictmentsOnly account at Twitter](https://twitter.com/indictmentsonly)
+Today the [@IndictmentsOnly account at Twitter](https://twitter.com/indictmentsonly/)
 proved its usefulness:  
 
-<a href="https://twitter.com/indictmentsonly/status/1666954703752556544"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-indictmentsonly-1.jpg" width="550" height="692" alt="IndictmentsOnly @ Twitter: Trump indicted for federal crimes on classified documents" title="IndictmentsOnly @ Twitter: Trump indicted for federal crimes on classified documents" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://twitter.com/indictmentsonly/status/1666954703752556544/"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-indictmentsonly-1.jpg" width="550" height="692" alt="IndictmentsOnly @ Twitter: Trump indicted for federal crimes on classified documents" title="IndictmentsOnly @ Twitter: Trump indicted for federal crimes on classified documents" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 Yes, others related to Trump have been indicted (George Santos &ndash; who is sort of a
 House avatar of Trump's constant lying &ndash;, Trump aide Walt Nauta, former Trump lawyer
@@ -136,12 +136,12 @@ Trump and classified documents, has previously pointed out that
 gave US nuclear secrets to Moscow and thus were executed in June 1953 for approximately
 the same crime as Trump.  Here's what he had to say yesterday:  
 
-<a href="https://twitter.com/BeschlossDC/status/1666980687767822336"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-beschloss-1.jpg" width="550" height="242" alt="Beschloss @ Twitter: The president has no more basic job than national security" title="Beschloss @ Twitter: The president has no more basic job than national security" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-<a href="https://twitter.com/BeschlossDC/status/1667122676287012864"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-beschloss-2.jpg" width="550" height="318" alt="Beschloss @ Twitter: What we need to know from Trump" title="Beschloss @ Twitter: What we need to know from Trump" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://twitter.com/BeschlossDC/status/1666980687767822336/"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-beschloss-1.jpg" width="550" height="242" alt="Beschloss @ Twitter: The president has no more basic job than national security" title="Beschloss @ Twitter: The president has no more basic job than national security" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://twitter.com/BeschlossDC/status/1667122676287012864/"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-beschloss-2.jpg" width="550" height="318" alt="Beschloss @ Twitter: What we need to know from Trump" title="Beschloss @ Twitter: What we need to know from Trump" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 Respected Harvard law professor Laurence Tribe had this to say:  
 
-<a href="https://twitter.com/tribelaw/status/1667010688517038080"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-tribe-1.jpg" width="550" height="509" alt="Tribe @ Twitter: The Republic strikes back" title="Tribe @ Twitter: The Republic strikes back" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://twitter.com/tribelaw/status/1667010688517038080/"><img src="{{ site.baseurl }}/images/2023-06-09-indictment-day-2023-tribe-1.jpg" width="550" height="509" alt="Tribe @ Twitter: The Republic strikes back" title="Tribe @ Twitter: The Republic strikes back" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 Who knew Tribe was a _Star Wars_ fan who liked
 [title inversions](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)?  
