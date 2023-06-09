@@ -1270,3 +1270,17 @@ _Business Week_, 14-Nov-2003.
 - "Once you identify the side with the Nazis, pick the other side."  
 - "Assigned Midwesterner at birth, New Englander by choice."  
 - "If your life is a tug-of-war, you can have more effect if you pull the rope sideways." (After a remark apparently due to Robin Hanson.)  
+- "Any sufficiently brilliant misunderstanding is indistinguishable from creativity.
+  So don't fear misunderstanding people; fear _boring_ them." &ndash; This thought was a
+  torment when the Muse mugged me in
+  [Symphony Hall](https://en.wikipedia.org/wiki/Symphony_Hall,_Boston) on 2023-Jun-09, while the
+  [Boston Pops](https://en.wikipedia.org/wiki/Boston_Pops_Orchestra) played
+  [Nikolai Rimsky-Korsakov](https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov)'s
+  [_Capriccio Espagnol_](https://en.wikipedia.org/wiki/Capriccio_Espagnol).  
+
+  Apparently Rimsky-Korsakov, a Russian, never set foot in Spain?  He just listend to
+  their music, liked the stuff, and probably thought "Hey, I could do some of that!"  He
+  also probably misunderstood some of the finer points of late 1800s Spanish music. (E.g.,
+  marking the violin parts in the 4th movement "_quasi guitara_" &ndash; "sorta like a guitar".)
+
+  Nobody cares, because any putative misunderstandings here are brilliant.  

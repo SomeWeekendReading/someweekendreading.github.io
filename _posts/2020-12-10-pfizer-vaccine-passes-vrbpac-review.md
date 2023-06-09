@@ -132,7 +132,7 @@ olds vs age 18 and over.  The younger ones were added later in the trial, and th
 safety data for them.  That will be cleared up next year with pediatric trials.)  
 
 
-## Added 2020-Dec-11: HHS Secretary Azar says FDA informed Pfizer it _will grant EUA_  
+## Addendum 2020-Dec-11: HHS Secretary Azar says FDA informed Pfizer it _will grant EUA_  
 
 <a href="https://twitter.com/GMA/status/1337370945779064832"><img src="{{ site.baseurl }}/images/2020-12-10-pfizer-vaccine-passes-vrbpac-review-twitter-1.jpg" width="550" height="615" alt="Good Morning America @ Twitter: FDA to proceed immediately with EUA" title="Good Morning America @ Twitter: FDA to proceed immediately with EUA"></a>
 
@@ -150,7 +150,7 @@ FDA itself <sup id="fn7a">[[7]](#fn7)</sup>, which said in part:
 > Following yesterday’s positive advisory committee meeting outcome regarding the Pfizer-BioNTech COVID-19 vaccine, the __U.S. Food and Drug Administration has informed the sponsor that it will rapidly work toward finalization and issuance of an emergency use authorization.__ The agency has also notified the U.S. Centers for Disease Control and Prevention and Operation Warp Speed, so they can execute their plans for timely vaccine distribution.  
 
 
-## Added 2020-Dec-12: the Republican clown car pulls up &amp; excretes Trump  
+## Addendum 2020-Dec-12: the Republican clown car pulls up &amp; excretes Trump  
 
 <img src="{{ site.baseurl }}/images/2020-12-10-pfizer-vaccine-passes-vrbpack-review-trump-performative-cruelty.jpg" width="400" height="267" alt="Trump: performative cruelty" title="Trump: performative cruelty" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 In one of his trademark acts of performative cruelty &amp; ignorance, Trump intervened in
