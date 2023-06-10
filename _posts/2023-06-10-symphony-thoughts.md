@@ -163,7 +163,8 @@ gloomy thinking:
   [Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), pursue
   private interests to our extinction as a species, as seems the case now?
 - What if this isn't just woolgathering of a depressed nerd with post-COVID-19 cognitive
-  impairment, and is the realism of depressed people?  
+  impairment, and is instead the
+  [realism of depressed people](https://en.wikipedia.org/wiki/Depressive_realism)?  
 
 And most importantly: _what if this is what it feels like to be in the last generation of
 humanity?_  While I have religious hopes, imagining the ruins of Symphony Hall as one of
