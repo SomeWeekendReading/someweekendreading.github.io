@@ -170,10 +170,12 @@ world?  Some related gloomy thoughts:
   impairment, and is instead 
   [depressive realism](https://en.wikipedia.org/wiki/Depressive_realism)?  
 
-And most importantly: _what if this is what it feels like to be in the last generation of
-humanity?_  While I have religious hopes, imagining the ruins of Symphony Hall as one of
-the few remnants of 200,000 years of human striving made me unbearably sad, to the point of
-discreet tears.  
+And most importantly: 
+
+- _What if this is what it feels like to be in the last generation of humanity?_ While I
+   have religious hopes, imagining the ruins of Symphony Hall as one of the few remnants
+   of 200,000 years of human striving made me unbearably sad, to the point of discreet
+   tears.  
 
 Now, fortunately I got control before my depression could drive me over a cliff in
 public.  
@@ -186,17 +188,21 @@ The fact that they only played an excerpt is unfortunate, as I vaguely recall a 
 performance (at the proper tempo) is about 15 minutes or so.  
 
 So why was Rick Steves the right guy here?  Because he's an expert on travel, and
-especially how to respect and appreciate other cultures.  This was a time of
-["musical exoticism"](https://en.wikipedia.org/wiki/Exoticism#:~:text=The%20influences%20of,fantasies%20of%20opulence.),
+especially how to respect and appreciate other cultures.  This was a time of ["musical
+exoticism"](https://en.wikipedia.org/wiki/Exoticism#:~:text=The%20influences%20of,fantasies%20of%20opulence.),
 in which foreign patterns of harmony, rhythm, and style held great currency.  (And by
 "foreign" we mean something a bit narrow by modern standards, i.e., just within Europe.
-Who can say what they'd have thought of a Japanese geisha's singing, a multitonal piece
-from China or on a Arabian oud, complex African drumming and dancing, or a Neanderthal
-flute?)  
+Who can say what they'd have thought of a Japanese geisha playing a koto, a multitonal
+piece from China or something played on a Arabian oud, complex African drumming and
+dancing, or a Neanderthal flute?  Or, for that matter, something _atonal_ from
+Sch&ouml;nberg?  Pretty sure _I_ couldn't cope with at least some of those!)  
 
 The Rimsky-Korsakov piece is a perfect example: Russian composer, music along Spanish
 themes.  The kicker: according to Steves, Rimsky-Korsakov _never set foot in Spain!_
-Approximate quote: "He just liked the stuff, and thought he'd try to make some himself."  
+Approximate quote: "He just sorta liked the stuff, and thought he'd try making some
+himself."  
+
+_That_ really grabbed my interest!  
 
 Now, you can look at this from a couple different directions:  
 - Some will say it's an arrogant act of cultural appropriation.
@@ -213,16 +219,17 @@ like a creative innovation.
 As I pondered that, I came up with a way to say this in a nutshell.  Drawing upon a long
 history of Deep Nerdery, it's a riff on
 [Clarke's 3rd Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws#:~:text=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic),
-that "Any sufficiently advanced technology is indistinguishable from magic":  
+which says that "Any sufficiently advanced technology is indistinguishable from magic":  
 
 >[Any sufficiently brilliant misunderstanding is indistinguishable from creativity.  So don’t fear misunderstanding people; fear __boring__ them.]({{ site.baseurl }}/quotes/#:~:text=Any%20sufficiently%20brilliant%20misunderstanding%20is%20indistinguishable%20from%20creativity.%20So%20don%E2%80%99t%20fear%20misunderstanding%20people%3B%20fear%20boring%20them.)  
 
 
 ## The Weekend Conclusion  
 
-<img src="{{ site.baseurl }}/images/Cognitive_Hazard_by_Arenamontanus.png" width="233" height="240" alt="Cognitive Hazard: from Wikimedia" title="Cognitive Hazard: from Wikimedia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-So, the world may be ending.  _Humanity_ may be ending.  I can't fix that.  
+So, the world may be ending.  _Humanity_ may be ending.  I can't fix that.  (If _you_ can,
+please do so.  I'll make you chocolates.)  
 
+<img src="{{ site.baseurl }}/images/Cognitive_Hazard_by_Arenamontanus.png" width="233" height="240" alt="Cognitive Hazard: from Wikimedia" title="Cognitive Hazard: from Wikimedia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But in the meantime, be respectful of all cultures.  Don't be afraid of misunderstanding;
 instead be creative around any mistakes, and be _interesting._  
 
