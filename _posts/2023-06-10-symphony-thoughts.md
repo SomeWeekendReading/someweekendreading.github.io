@@ -43,8 +43,8 @@ it's mostly [Boston Symphony Orchestra](https://en.wikipedia.org/wiki/Boston_Sym
 players, though not always each of the first-chair players.  There's some complicated
 relationship &ndash; which I've never bothered to figure out &ndash; with the part of the
 orchestra who decamp westward in summer to
-[Tanglewood](https://en.wikipedia.org/wiki/Tanglewood).  <a id="liberace-smartassery">The
-music they play is "pop with a bit of classics" or "classical music with the boring parts left out"</a>, as
+[Tanglewood](https://en.wikipedia.org/wiki/Tanglewood).  <a id="liberace-smartassery"></a>The
+music they play is "pop with a bit of classics" or "classical music with the boring parts left out", as
 [Liberace](https://en.wikipedia.org/wiki/Liberace#:~:text=%22pop%20with%20a%20bit%20of%20classics%22%20or%20as%20he%20called%20it%20%22classical%20music%20with%20the%20boring%20parts%20left%20out%22)
 used to say.  (Please excuse me for a minute while I go wash my mouth out with soap for
 making that comparison&hellip;)  
