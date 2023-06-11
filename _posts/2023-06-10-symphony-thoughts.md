@@ -145,9 +145,13 @@ leave out "the boring parts", as alluded to above with the
 
 Due to a ticketing complexity, the Weekend Editrix was sitting with the family of the
 people who invited us, and I was alone several meters to her left (as is true politically,
-as well).  That led to some woolgathering, looking at the historic sculptures mostly drawn
-from Greek and Roman myth, with deep colored lighting in the darkness.  Mostly it was
-gloomy thinking:  
+as well).  
+
+That led to some woolgathering, looking at the historic sculptures mostly drawn
+from Greek and Roman myth, with deep colored lighting in the darkness.  These are all
+modern artifacts _in imitatione_ of ancient, now-dead civilizations.  Our civilization
+will also die.  Will it be because of general human extinction, given the state of the
+world?  Some related gloomy thoughts:  
 - What if climate change crashes our agriculture and we can't raise enough food?  
 - What if rising seas inundate our coastal cities (one of which is my personal home)?  
 - What if the global-scale wildfires make the air practically unbreathable in many places,
@@ -163,8 +167,8 @@ gloomy thinking:
   [Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), pursue
   private interests to our extinction as a species, as seems the case now?
 - What if this isn't just woolgathering of a depressed nerd with post-COVID-19 cognitive
-  impairment, and is instead the
-  [realism of depressed people](https://en.wikipedia.org/wiki/Depressive_realism)?  
+  impairment, and is instead 
+  [depressive realism](https://en.wikipedia.org/wiki/Depressive_realism)?  
 
 And most importantly: _what if this is what it feels like to be in the last generation of
 humanity?_  While I have religious hopes, imagining the ruins of Symphony Hall as one of
