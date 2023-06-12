@@ -1,0 +1,35 @@
+
+* Indictments on Mon Jun 12 15:42:53 2023
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./administrative-indictments.txt
+   Party President NIndicted YrsInOffice NIndictedPerYr
+1      R     Trump       215           4       53.75000
+2      R     Nixon        76           6       12.66667
+3      R    Reagan        26           8        3.25000
+4      R     Bush2        16           8        2.00000
+7      R      Ford         1           2        0.50000
+5      D   Clinton         2           8        0.25000
+6      R     Bush1         1           4        0.25000
+8      D    Carter         1           4        0.25000
+9      D     Obama         0           8        0.00000
+10     D     Biden         0           3        0.00000
+
+	Welch Two Sample t-test
+
+data:  NIndictedPerYr by Party
+t = -1.3978, df = 5.0007, p-value = 0.1105
+alternative hypothesis: true difference in means between group D and group R is less than 0
+95 percent confidence interval:
+     -Inf 5.273595
+sample estimates:
+mean in group D mean in group R 
+        0.12500        12.06944 
+
+Cohen's d |        95% CI
+-------------------------
+-0.72     | [-2.01, 0.61]
+
+- Estimated using pooled SD.
+
+* Indictments completed Mon Jun 12 15:42:56 2023 (2.5 sec elapsed).

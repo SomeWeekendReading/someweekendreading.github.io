@@ -35,7 +35,7 @@ accompany their family to the Boston Pops, we figured it was a good time.
 
 ### Rick Steves and Arnold Schwarzenegger  
 
-(__NB:__ here and further below, most pictures will expand to larger versions when you
+(__NB:__ Here and further below, most pictures will expand to larger versions when you
 click upon them.)  
 
 The [Boston Pops](https://en.wikipedia.org/wiki/Boston_Pops_Orchestra) is a bit unusual:
