@@ -102,11 +102,11 @@ figure who went from an athlete in a sport I don't like to an actor in movies I 
 like, and so on.  We've mentioned him favorably, more than once, on this Crummy Little
 Blog That Nobody Reads (CLBTNR):  
 - I first began realizing my mistake when I heard
-  [his _amazingly_ sympathetic and compassionate thoughts on Ukraine &amp; Russia](({{ site.baseurl }}/unexpected-inspiration-on-russia/)).  
+  [his _amazingly_ sympathetic and compassionate thoughts on Ukraine &amp; Russia]({{ site.baseurl }}/unexpected-inspiration-on-russia/).  
 - Then I heard
-  [his forgiving and encouraging plea for those caught up in fascism to return to civilized society](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger).  
+  [his forgiving and encouraging plea for those caught up in fascism to return to civilized society]({{ site.baseurl }}/schwarzenegger-again/).  
 - Then I watched him be kind and encouraging to others,
-  [_even on Twitter._](https://twitter.com/Schwarzenegger)  
+  [_even on Twitter._](https://twitter.com/Schwarzenegger/with_replies)  
 - Then I started watching his [_FUBAR_ series on Netflix](https://www.netflix.com/title/81397077),
   and underneath all the regrettable violence of action movies was a deeply respectable
   struggle to be a good father.  
@@ -151,7 +151,10 @@ That led to some woolgathering, looking at the historic sculptures mostly drawn
 from Greek and Roman myth, with deep colored lighting in the darkness.  These are all
 modern artifacts _in imitatione_ of ancient, now-dead civilizations.  Our civilization
 will also die.  Will it be because of general human extinction, given the state of the
-world?  Some related gloomy thoughts:  
+world?  
+
+Some related gloomy thoughts:  
+
 - What if climate change crashes our agriculture and we can't raise enough food?  
 - What if rising seas inundate our coastal cities (one of which is my personal home)?  
 - What if the global-scale wildfires make the air practically unbreathable in many places,
