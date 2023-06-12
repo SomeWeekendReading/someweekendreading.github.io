@@ -230,14 +230,14 @@ which says that "Any sufficiently advanced technology is indistinguishable from 
 ## The Weekend Conclusion  
 
 So, the world may be ending.  _Humanity_ may be ending.  I can't fix that.  (If _you_ can,
-please do so.  I'll make you chocolates.)  
+please do so.  I'll make you chocolates?)  
 
 <img src="{{ site.baseurl }}/images/Cognitive_Hazard_by_Arenamontanus.png" width="233" height="240" alt="Cognitive Hazard: from Wikimedia" title="Cognitive Hazard: from Wikimedia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-But in the meantime, be respectful of all cultures.  Don't be afraid of misunderstanding;
-instead be creative around any mistakes, and be _interesting._  
+But in the meantime, at least try to be respectful the cultures of others.  Don't be
+afraid of misunderstanding; instead be creative with your mistakes, and be _interesting._  
 
-Also, thinking at the symphony has its cognitive hazards, but not all cognitive hazards
-are bad.  Sometimes they just warn you to pay attention.  
+Also, thinking alone at the symphony has its cognitive hazards.  But not all cognitive hazards
+are bad: sometimes they just warn you to pay attention.  
 
 So pay attention&hellip; if you want to take advice from a guy who spent part of a concert not
 paying attention.  
