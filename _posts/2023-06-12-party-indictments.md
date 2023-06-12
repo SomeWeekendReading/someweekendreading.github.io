@@ -148,7 +148,7 @@ might attain statistical significance at measuring very, very tiny differences t
 import.  So with an effect size statistic, we seek to know if the (marginally) significant
 effect is "big enough to matter".  
 
-For a difference of means, the canonical thing there is [Cohen's _d_](https://en.wikipedia.org/wiki/Effect_size#cohen-s-d:~:text=large.%5B22%5D-,Cohen%27s%20d,-%5Bedit%5D) statistic.  In the case where variances are equal, it's basically a _Z_ statistic: compare the mean difference to the standard deviation.  In the unequal variance case, it's a bit gnarlier, using a pooled variance, but essentially the same idea.  
+For a difference of means, the canonical thing is [Cohen's _d_](https://en.wikipedia.org/wiki/Effect_size#Cohen.27s_d) statistic.  In the case where variances are equal, it's basically a $Z$-transform: compare the mean difference to the standard deviation.  In the unequal variance case, it's a bit gnarlier, using a pooled variance, but essentially the same idea.  
 
 <img src="{{ site.baseurl }}/images/2023-06-12-party-indictments-cohens-d.jpg" width="200" height="203" alt="Sawilosky &amp; Cohen, via Wikipedia: how to interpret Cohen's d effect size statistic" title="Sawilosky &amp; Cohen, via Wikipedia: how to interpret Cohen's d effect size statistic" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
