@@ -145,7 +145,7 @@ in 1849:
 > Plus &ccedil;a change, plus &ccedil;\'est la m&ecirc;me chose.  (The more things change,
 > the more they are the same.)  
 
-(__NB:__ Tom Toro [sells signed prints of this cartoon in his Etsy shop.](https://www.etsy.com/listing/682771837/signed-print-of-my-cartoon-those-who).)  
+(__NB:__ Tom Toro [sells signed prints of this cartoon in his Etsy shop](https://www.etsy.com/listing/682771837/signed-print-of-my-cartoon-those-who).)  
 
 
 ## Addendum 2023-May-26  

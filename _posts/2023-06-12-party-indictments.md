@@ -29,7 +29,8 @@ way.  On the other hand, there are only $N = 10$ data points here, so it's dicey
 - If it does come out significant, it's utterly _damning_; 
 - if it comes out marginally significant, it's just because we've reduced the data to 10
   points;  
-- if it comes out not at all significant, then Republicans are in the clear.  
+- if it comes out not at all significant, then Republicans are in the clear, and we gotta
+  go clean up our prejudice against them.  (Hey, it _could_ happen&hellip;)  
 
 It makes some degree of sense to look at executive branch criminal indictments by
 presidential party, since the President gets to appoint many of the executive branch
@@ -43,9 +44,10 @@ so, is it by a lot on some reasonable scale, or just a little bit (effect size)?
 
 ## The Answer  
 
-In spite of our annoyingly persistent mild cognitive impairment, depression, and now what
-feels like bronchitis, we want to return to our mathematical roots here on this Crummy
-Little Blog That Nobody Reads (CLBTNR).  
+In spite of our
+[annoyingly persistent mild cognitive impairment]({{ site.baseurl }}/post-covid-brain-fog-portrait/),
+depression, and now what feels like bronchitis, we want to return to our mathematical
+roots here on this Crummy Little Blog That Nobody Reads (CLBTNR).  
 
 So, of course, we wrote an [R](https://www.r-project.org/) script. <sup id="fn2a">[[2]](#fn2)</sup>
 You can peer review it, and the transcript that it writes, at your leisure.  If you want
@@ -255,7 +257,7 @@ surgery.  We could, for example, argue that Ford and Bush1 were "old-school" pol
 <img src="{{ site.baseurl }}/images/dope-slap.png" width="329" height="195" alt="The Car Talk 'dope-slap'" title="The Car Talk 'dope-slap'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
 1. You still won't achieve statistical significance, because now you're down to just $N = 8$
    data points.  
-2. Also, you're excising inconvenient data to torture the data into telling you what you
+2. Also, you're excising inconveniences to torture the data into telling you what you
    want to hear.  This deserves a sound
    [_Car Talk_ dope slap](https://www.bostonglobe.com/ideas/2015/04/25/car-talk-lives-dictionary/6Ah5sXEGHIbGmR9FDkj5nK/story.html)
    with a rolled-up newspaper, and a firm "No!  Bad analyst!  Bad, bad!"  
