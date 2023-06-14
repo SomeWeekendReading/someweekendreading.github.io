@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Arraignment Day 2023
-title: Indictment Day 2023
 tags: Beauty CorporateLifeAndItsDiscontents Politics Sadness
 commentsClosed: true
 ---
