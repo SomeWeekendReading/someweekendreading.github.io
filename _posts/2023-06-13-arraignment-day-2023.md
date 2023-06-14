@@ -30,6 +30,18 @@ Tell me again about how we don't have 2 tiers of justice in the US.
 
 Well, it's slow.  But it's progress.  Of a sort.  
 
+
+## The Weekend Conclusion  
+
+Your handy US progress meter:  
+
+- __Indictment Day__, when the US Department of Justice decides there's a criminal case
+    against Trump ready to try.  [Done 2023-Jun-08]({{ site.baseurl }}/indictment-day-2023)!  
+- __Arraignment Day,__ when Trump will have to appear in court to enter a plea.  Done today!  
+- __Conviction Day,__ when some semblance of law and order will be restored to the US.
+- __Sentencing Day,__ when we can all breathe a sigh of relief and look forward to hearing 
+   _nothing about the imprisoned Donald Trump ever again_ (until, perhaps, a funeral announcement).  
+
 ---
 
 ## Notes &amp; References  
