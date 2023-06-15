@@ -17,20 +17,20 @@ Let's look at the way things are _supposed_ to work (and often _do_ work, very a
 - You, after many long years, finally codify your Grand Unified Theory of Pastry into a
   simple 10-pager that lets mundanes in on your particular _gnosis_.  
 - You send this off to a prominent journal in your field, the
-  _Journal of Modern [Psycho-Ceramics](https://en.wiktionary.org/wiki/psychoceramics)._  
-- The editor of _Jnl Mod PC_, the eminent
+  _Journal of Post-Modern [Psycho-Ceramics](https://en.wiktionary.org/wiki/psychoceramics)._  
+ The editor of _Jnl PoMo P-C_, the eminent
   [Josiah Stinkney Carberry](https://en.wikipedia.org/wiki/Josiah_S._Carberry) gives it a
   quick once-over, and thinks it might be worth looking into.  So your paper goes into
   their tracking system and then out to a panel of peer reviewers.  
-- The peer reviewers are a panel of several other scholars in your field.  They each
-  independently, and ideally without knowing you are the author, review the paper.  They
-  assess it:
+- The peer reviewers are a panel of several other scholars in your field, just as crazy as
+  you.  They each independently, and ideally without knowing you are the author, review
+  the paper.  They assess it:  
   - Does this even make sense?  
   - Is it right, or at least very likely right?  
   - Is it timely, i.e., solving a problem about which other scholars even care?  
   - Is it reasonably clear?  
-  - Is it relevant to the readership of _Jnl Mod P-C_?  
-- If that comes up mostly "yes", then your paper is published!  
+  - Is it relevant to the readership of _Jnl PoMo P-C_?  
+- If that comes up mostly "yes", then your paper is published.  Done!  
 - Otherwise, the editor guesses whether there's any hope of making it better:  
   - If not, your paper is finally rejected, with the unspoken suggestion that you never
     darken their door ever again.  
@@ -39,17 +39,18 @@ Let's look at the way things are _supposed_ to work (and often _do_ work, very a
 	[_Journal of Irreproducible Results_](https://en.wikipedia.org/wiki/Journal_of_Irreproducible_Results).  
   - If it's kinda ok but just needs some improvement, you get it back with "suggested"
     changes, some of which come from the reviewers.  
-	
+- You look the situation over, and either give up or "revise &amp; resubmit."  
+
 This is supposed to result in scientific literature that is up-to-date, accurate,
 understandable, and relevant.  You can have various opinions about this.  
 
 ## Today's example  
 
 Now, you might understand that here at Ch&acirc;teau Weekend we have a somewhat jaundiced
-view of these Large Language Model gizmos, and their tendency to
-hallucinate. <sup id="fn1a">[[1]](#fn1)</sup> (Best take heard since then: even when
-they're right, it's by accident since they have no notion of truth.  So
-they're _always_ hallucinating, nonstop.)  
+view of these Large Language Model gizmos, and their tendency to hallucinate, resulting in
+convincing, bogus text. <sup id="fn1a">[[1]](#fn1)</sup> (Best take heard since then: even
+when they're right, it's by accident since they have no notion of truth.  So they're
+_always_ hallucinating, nonstop.)  
 
 Today's example comes from a [LinkedIn](https://www.linkedin.com/) post by an academic named
 Robin Bawens <sup id="fn2a">[[2]](#fn2)</sup>:  
@@ -61,7 +62,7 @@ out for peer review.
 
 So far, so good.  
 
-But one of the reviewers rejected the paper, "suggesting" Bauwens familiarizse himself
+But one of the reviewers rejected the paper, "suggesting" Bauwens familiarize himself
 with several other papers before trying again.  This _can_ be meant helpfully, or it can
 be snarky as in "You're too ignorant to publish here, so let me send you on a wild-goose
 chase by way of tutorial."  
