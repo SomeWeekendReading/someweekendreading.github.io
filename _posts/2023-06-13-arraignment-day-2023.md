@@ -11,17 +11,20 @@ Arraignment Day for Donald Trump.
 
 ## The Details?  
 
-Well, not so much.  Arraignments are usually pretty straightforward affairs, more or less
-bookkeeping.  Trump showed up _in propria persona_, pled not guilty, and left.  
+Following on the heels of [Indictment Day]({{ site.baseurl }}/indictment-day-2023/), the
+next step happened today.
+
+Details?  Well, not so much.  Arraignments are usually pretty straightforward affairs,
+more or less bookkeeping.  Trump showed up _in propria persona_, pled not guilty, and left.  
 
 Of course there was weirdness:  
 - Trump didn't have to get a mugshot.  They used a public photo instead.  
-  - However, his co-defendant in these matters, Mr. Nauta, _did_ have to do so.  
+  - _However,_ his co-defendant in these matters, Mr. Nauta, _did_ have to do so.  
 - Trump was not remanded into custody.  Instead, he repaired to a local Cuban
   restaurant, center of the _very_ conservative, _very_ Republican, elders of the Cuban
   exile community in Miami, and threw a little party.  Then he departed on his private jet
   for his private club in New Jersey.  
-  - However, other people who have concealed/passed on classified docs go directly to jail, even
+  - _However,_ other people who have concealed/passed on classified docs go directly to jail, even
     before indictment, let alone arraignment.  Perhaps they "threw a little party" in
     their cells.  I guess a cell is _very slightly_ like a private club?  
 
