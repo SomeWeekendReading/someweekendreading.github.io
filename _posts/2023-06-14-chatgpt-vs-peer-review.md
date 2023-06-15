@@ -46,8 +46,9 @@ understandable, and relevant.  You can have various opinions about this.
 ## Today's example  
 
 Now, you might understand that here at Ch&acirc;teau Weekend we have a somewhat jaundiced
-view of these Large Language Model gizmos, and their tendency to hallucinate.  (Best take
-heard: even when they're right, it's by accident since they have no notion of truth.  So
+view of these Large Language Model gizmos, and their tendency to
+hallucinate. <sup id="fn1a">[[1]](#fn1)</sup> (Best take heard since then: even when
+they're right, it's by accident since they have no notion of truth.  So
 they're _always_ hallucinating, nonstop.)  
 
 Today's example comes from a [LinkedIn](https://www.linkedin.com/) post by an academic named
@@ -82,6 +83,7 @@ Ever-so-slightly gratifyingly, Bauwens reports that when he showed this to the j
 editor, that aberrant peer reviewer was dropped:  
 
 <img src="{{ site.baseurl }}/images/2023-06-15-chatgpt-vs-peer-review-baudens-2.jpg" width="550" height="133" alt="Bauwens @ LinkedIn: Cheating reviewer dropped" title="Bauwens @ LinkedIn: Cheating reviewer dropped" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
 It's actually too bad the cheating reviewer wasn't outed by name, for public shaming.
 Academics (a) should know better about LLMs, given their students are faking homework with
 them, and (b) should fulfill their review duties honestly in the first place.  
