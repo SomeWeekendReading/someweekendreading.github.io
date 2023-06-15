@@ -13,7 +13,7 @@ well as you probably think.
 
 ## How Publishing an Academic Paper Works (or, Is Supposed To Work!)  
 
-Let's look at the way things are _supposed_ to work (and often work, very approximately):  
+Let's look at the way things are _supposed_ to work (and often _do_ work, very approximately):  
 - You, after many long years, finally codify your Grand Unified Theory of Pastry into a
   simple 10-pager that lets mundanes in on your particular _gnosis_.  
 - You send this off to a prominent journal in your field, the
