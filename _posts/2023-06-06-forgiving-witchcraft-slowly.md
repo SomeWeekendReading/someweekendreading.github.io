@@ -65,7 +65,7 @@ legislative time for debate, or so one would think.
 But&hellip; I Have Some Questions.  (_Comme d'habitude._)  
 
 1. I realize that "What took you so long?!" is kind of a snarky question.  But, c'mon,
-   really: 14 generations and nearly 4 centuries means A Really Long Time.  
+   really: 14 generations and nearly 4 centuries means A _Really_ Long Time.  
    
    I understand why the legislatures of the late 1600s or so didn't want to correct the
    mistakes, because they were the ones who made the mistakes.  Nobody _likes_ that.  
