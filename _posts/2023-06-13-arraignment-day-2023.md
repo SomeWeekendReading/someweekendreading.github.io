@@ -43,7 +43,8 @@ Your handy US progress meter:
 - __Conviction Day,__ when some semblance of law and order will be restored to the US.  
 - __Sentencing Day,__ when we can all breathe a sigh of relief and look forward to hearing 
    _nothing about the imprisoned Donald Trump ever again._ (Until, perhaps, an obituary.
-   As to the obituary, we look forward to relying upon the advice of Clarence Darrow.).  
+   As to the obituary, we look forward to relying upon
+   [the advice of Clarence Darrow]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CI%20have%20never%20killed%20anyone%2C%20but%20I%20have%20read%20some%20obituary%20notices%20with%20great%20satisfaction.%E2%80%9D%20%E2%80%94%20Clarence%20Darrow).).  
 
 ---
 
