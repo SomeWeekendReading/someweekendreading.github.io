@@ -42,7 +42,7 @@ Your handy US progress meter:
 - __Arraignment Day,__ when Trump will have to appear in court to enter a plea.  Done today!  
 - __Conviction Day,__ when some semblance of law and order will be restored to the US.  
 - __Sentencing Day,__ when we can all breathe a sigh of relief and look forward to hearing 
-   _nothing about the imprisoned Donald Trump ever again_ (until, perhaps, an obituary.
+   _nothing about the imprisoned Donald Trump ever again._ (Until, perhaps, an obituary.
    As to the obituary, we look forward to relying upon the advice of Clarence Darrow.).  
 
 ---

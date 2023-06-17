@@ -20,6 +20,8 @@ __Categories:__ [The Surreal Ones](#the-surreal-ones), [The Political Ones &amp;
 "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read."
 &mdash; [Groucho Marx](https://en.wikipedia.org/wiki/Groucho_marx)  
 
+"I have never killed anyone, but I have read some obituary notices with great satisfaction." &mdash; [Clarence Darrow](https://en.wikipedia.org/wiki/Clarence_Darrow)  
+
 [Yogi Berra](https://en.wikipedia.org/wiki/Yogi_berra):  
 - "When you get to a fork in the road, take it."  
 - "You can observe a lot by watching."  
