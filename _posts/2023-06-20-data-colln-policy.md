@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Data Collection Policies
+title: Personal Data Collection &amp; Cookie Policies
 tags: CatBlogging CorporateLifeAndItsDiscontents MeaCulpa Politics TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: true
@@ -14,13 +14,11 @@ collection and cookie policies.  You only _think_ you don't care about that.
 
 It has been pointed out to me that this CLBTNR:  
 
-1. Has no officially stated policy on personal data collection, in accord with
-the European GDPR 
-([General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation))!  
-2. Also has no policy on cookies, in accord with the [EU Cookie Directive](https://en.wikipedia.org/wiki/HTTP_cookie#EU_cookie_directive)!  
+1. has no officially stated policy on personal data collection, in accord with the European GDPR ([General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)), and  
+2. has no policy on cookies, in accord with the [EU Cookie Directive](https://en.wikipedia.org/wiki/HTTP_cookie#EU_cookie_directive).  
 
 As a Europhile, your humble Weekend Editor declares [_mea culpa_]({{ site.baseurl }}/tags/#MeaCulpa)
-in recognition of this fault.  
+in recognition of this fault!  
 
 Therefore, we declare our Official Personal Data Collection &amp; Cookie Policies on this CLBTNR
 to be <sup id="fn1a">[[1]](#fn1)</sup>:  
