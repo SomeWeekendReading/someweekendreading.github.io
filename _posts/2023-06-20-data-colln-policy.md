@@ -15,7 +15,7 @@ collection and cookie policies.  You only _think_ you don't care about that.
 It has been pointed out to me that this CLBTNR:  
 
 1. has no officially stated policy on personal data collection, in accord with the European GDPR ([General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)), and  
-2. has no policy on cookies, in accord with the [EU Cookie Directive](https://en.wikipedia.org/wiki/HTTP_cookie#EU_cookie_directive).  
+2. neither does it have an officially stated policy on cookies, in accord with the [EU Cookie Directive](https://en.wikipedia.org/wiki/HTTP_cookie#EU_cookie_directive).  
 
 As a Europhile, your humble Weekend Editor declares [_mea culpa_]({{ site.baseurl }}/tags/#MeaCulpa)
 in recognition of this fault!  
