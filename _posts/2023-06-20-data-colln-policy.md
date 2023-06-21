@@ -26,7 +26,7 @@ to be <sup id="fn1a">[[1]](#fn1)</sup>:
 1. We comply with the GDPR by _not collecting personal information._ <sup id="fn2a">[[2]](#fn2)</sup>  
 2. We comply with the EU Cookie Directive by _not using cookies._  
 
-There.  Everybody happy now?  
+There.  That was easy!  Everybody happy now?  
 
 
 ## The Weekend Conclusion  
