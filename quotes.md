@@ -1288,3 +1288,5 @@ _Business Week_, 14-Nov-2003.
   marking the violin parts in the 4th movement "_quasi guitara_" &ndash; "sorta like a guitar".)
 
   Nobody cares, because any putative misunderstandings here are brilliant.  
+- "Being non-racist means: 'I won't make things worse.'  Being anti-racist means
+  'I'll help fix the problems that are already here.'"  
