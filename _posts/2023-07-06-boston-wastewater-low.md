@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 mRNA in Boston Wastewater
-tags: COVID MathInTheNews Politics
+tags: COVID JournalClub MathInTheNews Politics
 comments: true
 commentsClosed: true
 ---
