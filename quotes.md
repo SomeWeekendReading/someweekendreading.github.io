@@ -1290,3 +1290,5 @@ _Business Week_, 14-Nov-2003.
   Nobody cares, because any putative misunderstandings here are brilliant.  
 - "Being non-racist means: 'I won't make things worse.'  Being anti-racist means
   'I'll help fix the problems that are already here.'"  
+- "Billionaires have such devotion to capitalism that they want to ensure your means to an
+  end will definitely end up mean."  
