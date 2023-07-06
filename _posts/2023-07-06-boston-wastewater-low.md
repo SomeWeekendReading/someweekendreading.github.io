@@ -83,7 +83,8 @@ positive values mean it's a risk factor; negative values mean it's a protective 
   density.  Something about the middle of the pandemic made those even riskier than they
   usually were.  
 
-__Conclusion:__ Not all pandemic waves are the same!  
+__Conclusion:__ Not all pandemic waves are the same!  Not medically, and not
+demographically.  
 
 
 ## What's the State of Boston's COVID-19 mRNA Levels Now?  
