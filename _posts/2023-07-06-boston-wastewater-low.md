@@ -130,7 +130,7 @@ in exchange for the opportunity to teach them.  I'm less sanguine about COVID-19
 ## The Weekend Conclusion  
 
 COVID-19 is not over, no matter what your friends tell you.  Here at Ch&acirc;teau Weekend
-we note with sadness that some less cautious friends of our shave recently caught COVID-19
+we note with sadness that some less cautious friends of ours have recently caught COVID-19
 _for the fourth time_, despite being fully vaccinated.  Risk exposure is not without its
 consequences.  
 
