@@ -251,7 +251,7 @@ reproduce it yourself I'd be happy to email you a magic sword or two.
 Email/Twitter/Mastodon links are at the top of each page.[↩](#fn2a)  
 
 <a id="fn3">3</a>: Yes, one could attempt to achieve significance by means of dataset
-surgery.  We could, for example, argue that Ford and Bush1 were "old-school" politicians
+surgery.  We could, for example, argue that Ford and Bush1 were "old-school" Republicans
 (but that the famously corrupt Nixon was not).  This is a bad idea on 2 grounds:  
 
 <img src="{{ site.baseurl }}/images/dope-slap.png" width="329" height="195" alt="The Car Talk 'dope-slap'" title="The Car Talk 'dope-slap'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
