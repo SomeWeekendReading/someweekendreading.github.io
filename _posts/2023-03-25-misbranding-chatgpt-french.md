@@ -246,8 +246,8 @@ Yes, it's [Bastille Day](https://en.wikipedia.org/wiki/Bastille_Day).  No, this 
 nothing to do with that.  I hope.  
 
 <img src="{{ site.baseurl }}/images/cat-rocket.gif" width="220" height="210" alt="4 cats, 1 rocket-powered, as captured in infrared" title="4 cats, 1 rocket-powered, as captured in infrared" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">It has come to my attention that the apparently-renowned cat-citizen-scientist on
-Mastodon, [@alice@lgbtqia.space](https://mathstodon.xyz/@alice@lgbtqia.space) has 
-[captured documentary evidence](https://lgbtqia.space/@alice/110586124538215952) of this 
+Mastodon, [@alice@lgbtqia.space](https://mathstodon.xyz/@alice@lgbtqia.space), has 
+[captured solid documentary evidence](https://lgbtqia.space/@alice/110586124538215952) of this 
 sort of phenomenon.  
 
 Herewith her infrared camera experiment, showing that 1 in 4 cats is rocket-powered, and
