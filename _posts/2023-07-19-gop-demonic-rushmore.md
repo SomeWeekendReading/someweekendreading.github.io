@@ -96,7 +96,7 @@ gonna happen. (Hey: the righties get their paranoid fantasies, so let me have my
 fantasy.)  
 
 <img src="{{ site.baseurl }}/images/2023-07-19-gop-demonic-rushmore-donell.jpg" width="100" height="130" alt="Joe Donnell, SD Repub Rep: Rushmore is Freemason shrine and demonic portal of communism" title="Joe Donnell, SD Repub Rep: Rushmore is Freemason shrine and demonic portal of communism" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-What makes me so squeamish?  Buckle up, Buttercup.  
+What makes me so squeamish?  Buckle up, Buttercup!  
 
 One
 [Joe Donnell of the South Dakota legislature](https://sdlegislature.gov/Legislators/Profile/4442/Detail),
@@ -136,7 +136,7 @@ But just _look_ at all the boxes he ticks in just a few words:
 - Deep fear imagery ("the enemy" is Hebrew Bible code for the devil, as well as invocation
   of concepts like "demon" and "witch").  
 - Of course nothing would be complete without the usual conservative bugaboos: Freemasons
-  and communists must be behind it all, somehow.  
+  and communists must be behind it all&hellip; _somehow._  
 
 Reportedly, Donnell is apparently a member of the Sisseton Wahpeton Oyate tribe, which
 makes his Christian fundamentalism and superstition an interesting twist.  
@@ -149,12 +149,12 @@ ain't _that._
 
 Ladies and gentlemen, your modern Republican party.  
 
-If you're somehow still a Republican and reasonably sane, remember that _this is how you
-look to the entire rest of the world._ Get out now, with as much of your sanity still
-intact as you can manage.  I promise it doesn't hurt.  
+If you're somehow still a Republican and simultaneously reasonably sane, remember that
+_this is how you look to the entire rest of the world._ Get out now, with as much of your
+sanity still intact as you can manage.  I promise it doesn't hurt.  
 
 <img src="{{ site.baseurl }}/images/2023-07-19-gop-demonic-rushmore-weekend-publisher-barfy.jpg" width="400" height="300" alt="The Weekend Publisher, hanging over the table edge, looking barfy" title="The Weekend Publisher, hanging over the table edge, looking barfy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-I just couldn't stand the idea of leaving the taste of that kind of powerful idiot in our
+Also, I just couldn't stand the idea of leaving the taste of that kind of powerful idiot in our
 minds.  So I consulted the Weekend Publisher, a.k.a. "my cat", about what to do.  He
 didn't say much (not even
 [in French, as he sometimes does]({{ site.baseurl }}/misbranding-chatgpt-french/)).  He
