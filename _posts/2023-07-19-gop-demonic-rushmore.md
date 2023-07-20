@@ -160,7 +160,7 @@ didn't say much (not even
 [in French, as he sometimes does]({{ site.baseurl }}/misbranding-chatgpt-french/)).  He
 just leaned over the edge of the table and looked kind of barfy.  
 
-That does sort of sum up the situation, doesn't it?  
+Barfy: that does sort of sum up the situation, doesn't it?  
 
 Now, I have to admit: he's not the brightest cat.  But even with a brain the size of a
 walnut, he knows better than to have anything to do with Republicans.  
