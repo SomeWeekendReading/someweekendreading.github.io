@@ -63,7 +63,8 @@ resentments and emotions of conservatives.  One of the best modern examples of H
 
 <img src="{{ site.baseurl }}/images/2022-08-29-authoritarian-cops-adorno-1.jpg" width="200" height="297" alt="TW Adorno, The Authoritarian Personality" title="TW Adorno, The Authoritarian Personality" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Back to the 90s: I was surprised that the study of "the authoritarian personality" had a
-rich literature.  That's not surprising, given the concerns of WWII where everyone wanted
+rich literature.  That should not have been surprising, given the concerns of WWII where
+everyone wanted
 to now, more or less, "what the hell just happened?!" That was the study of Adorno, _et
 al._'s groundbreaking study _The Authoritarian Personality_. <sup id="fn2a">[[2]](#fn2)</sup>  
 
