@@ -123,7 +123,7 @@ Let's just pull the condom over our brains and have a look at the man's own word
 > things that are happening in the Black Hills, what we’re dealing with is communism. It’s
 > the ideology and all the demonic entities and spirits behind that.  
 
-It is unclear what he thinks are the connections between Freemasons, portals, demons, and
+It is unclear what he thinks are the connections between Freemasons, portals, demons,
 communism, and witchcraft.  I'm pretty sure I don't want to hear any further
 'clarification', if I can avoid it.  
 

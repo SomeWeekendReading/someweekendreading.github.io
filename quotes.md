@@ -1293,4 +1293,4 @@ _Business Week_, 14-Nov-2003.
 - "Billionaires have such devotion to capitalism that they want to ensure your means to an
   end will definitely end up mean."  
 - "The best kind of dignity is when you care about what you do, not what other people
-  think of it."  
+  think about it."  
