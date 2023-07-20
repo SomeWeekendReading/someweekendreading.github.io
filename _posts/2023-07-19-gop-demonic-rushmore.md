@@ -158,7 +158,7 @@ Also, I just couldn't stand the idea of leaving the taste of that kind of powerf
 minds.  So I consulted the Weekend Publisher, a.k.a. "my cat", about what to do.  He
 didn't say much (not even
 [in French, as he sometimes does]({{ site.baseurl }}/misbranding-chatgpt-french/)).  He
-just leaned over the edge of the table and looked kind of barfy.  
+answered in interpretive mime, by just leaning over the edge of the table and looking kinda barfy.  
 
 Barfy: that does sort of sum up the situation, doesn't it?  
 
