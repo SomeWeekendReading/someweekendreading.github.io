@@ -130,7 +130,7 @@ communism, and witchcraft.  I'm pretty sure I don't want to hear any further
 But just _look_ at all the boxes he ticks in just a few words:
 - Fetishization of a patriotic symbol (Mt Rushmore).  
 - Extreme, but highly suspect religiousity ("altar" imagery and personal revelations from
-  G-d, not just for himself, but which he wishes to impose upon others).   
+  G-d, not just for himself, but revelations he wishes to impose upon others).   
 - Invocation of weird superstitious thinking ([Ley lines](https://en.wikipedia.org/wiki/Ley_line),
   and magical "portals").  
 - Deep fear imagery ("the enemy" is Hebrew Bible code for the devil, as well as invocation
