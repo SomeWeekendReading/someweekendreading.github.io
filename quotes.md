@@ -1254,7 +1254,7 @@ _Business Week_, 14-Nov-2003.
 - "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones too, but in a theology-dependent way.)"  
 - "[Schadenfreude pie](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/) is a shameful taste to acquire."  (__NB:__ Yeah, I know [Scalzi and family did it](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/).  But they did it ironically, and brilliantly.  That's not what I mean here.)  
 - "Interpretation is an active choice that you _must_ make, lest the world make an unsavory choice for you."  
-- "Oh, I'm just braiding the tassels on the lunatic fringe."  
+- "Who, me?  Oh, I'm just braiding the tassels on the lunatic fringe."  
 - "Clutch those pearls any harder, you're gonna strangle yourself."  
 - "Guessing is easy&hellip; but _stupid._  Estimating is hard."  
 - "Assassin?  No&hellip; more like freelance [psychopomp](https://en.wikipedia.org/wiki/Psychopomp)."  
@@ -1269,7 +1269,7 @@ _Business Week_, 14-Nov-2003.
   like to non-managers  
 - "It's a thin line between vision and delusion."  
 - "Stupidity is always a capital crime when Nature is the judge.  We can and should do
-  better than Nature."  
+  better than Nature.  _And_ be more merciful."  
 - "If you find yourself in a race to the bottom, let the other guy win."  
 - "Once you identify the side with the Nazis, pick the other side."  
 - "Assigned Midwesterner at birth, New Englander by choice."  
@@ -1289,8 +1289,10 @@ _Business Week_, 14-Nov-2003.
 
   Nobody cares, because any putative misunderstandings here are brilliant.  
 - "Being non-racist means: 'I won't make things worse.'  Being anti-racist means
-  'I'll help fix the problems that are already here.'"  
+  'I'll help _fix_ the problems that are already here.'"  
 - "Billionaires have such devotion to capitalism that they want to ensure your means to an
   end will definitely end up mean."  
 - "The best kind of dignity is when you care about what you do, not what other people
   think about it."  
+- "One of the most important lessons learned in getting a PhD is to be less impressed with
+  PhDs."  
