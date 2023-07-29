@@ -1296,3 +1296,5 @@ _Business Week_, 14-Nov-2003.
   think about it."  
 - "One of the most important lessons learned in getting a PhD is to be less impressed with
   PhDs."  
+- "It used to be you could say 'Nazis are bad', and the only consequence would be people's
+  annoyance with you for stating the obvious."  
