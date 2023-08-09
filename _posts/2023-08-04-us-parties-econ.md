@@ -125,8 +125,9 @@ _definitely_ better.
 
 Let's get some Bayesian confidence limits ("credibility limits" to the _cognoscenti_) on
 that figure of 96.3% of jobs created during Democratic administrations.  If we assume the
-prior is uniform-distributed, then the posterior is Beta-distributed as we've done many
-times before on this Crummy Little Blog That Nobody Reads (CLBTNR).  (See, e.g., the
+prior distribution of $p$ is uniform, then the posterior distribution of $p$ is Beta,
+as we've done many times before on this Crummy Little Blog That Nobody Reads (CLBTNR).
+(See, e.g., the
 [2022-Nov-30 post on sizes of factions in the 2020 election]({{ site.baseurl }}/who-voted/#:~:text=assume%20an%20uninformative%20uniform%20prior%20for).)  
 
 ```R
@@ -181,7 +182,7 @@ And it's not by just a little, but by a lot, as we see in the table!
 
 Some of this, of course, is period-dependent: Biden managed to hoist us out of COVID-19 by
 getting us (mostly) vaccinated.  The real test will be upon his re-election, what the next
-for years bear.  
+four years bear.  
 
 __Conclusion:__ In job creation, both total number and monthly rates, Democrats are way
 better than Republicans, and Biden is even better than other Democrats.  Whether Biden's
@@ -454,8 +455,32 @@ Vought, are "trying&hellip; to identify the pockets of independence and seize th
 classic example of what's called autocratic capture.  All power is concentrated in the
 dictator, and personal loyalty to the dictator is the only virtue.  
 
+<img src="{{ site.baseurl }}/images/2023-08-04-us-parties-econ-rolling-stone-1.jpg" width="400" height="231" alt="Suebsaeng &amp; Rawnsley @ Rolling Stone: Trump's revenge plans" title="Suebsaeng &amp; Rawnsley @ Rolling Stone: Trump's revenge plans" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Thought it was bad last time?  He just thinks he wasn't autocratic enough last time, and
-promises to be a more efficient fascist this time.  
+promises to be a more efficient fascist this time.  Consider the following
+multiply-sourced information from senior political reporters at
+_Rolling Stone_ <sup id="fn5a">[[5 (yeah, I know; read the footnote]](#fn5)</sup>, and
+tell me you're not terrified of literal iron-fisted fascist rule:  
+
+> Rosters full of MAGAfied lawyers are being assembled. Plans are being laid for an entire
+> new office of the Justice Department dedicated to “election integrity.” An assembly line
+> is being prepared of revenge-focused “special counsels” and “special prosecutors.”
+> Gameplans for making Smith’s life hell, starting in Jan. 2025, have already been
+> discussed with Trump himself. And a fresh wave of pardons is under consideration for
+> Trump associates, election deniers, and — the former president boasts — for Jan. 6
+> rioters.  
+> &hellip;  
+> Sources familiar with the situation tell Rolling Stone that Trump and his close
+> ideological allies — working at an assortment of MAGA-prone think tanks, advocacy
+> organizations, and legal groups — are formulating plans for a wide slate of “special
+> prosecutors.” In this vision, such prosecutors would go after the usual targets: Smith,
+> Smith’s team, President Joe Biden, Biden’s family, Attorney General Merrick Garland, FBI
+> director Christopher Wray. But they’d also go after smaller targets, from members of the
+> Biden 2020 campaign to more obscure government offices.  
+> &hellip;  
+> Putting it another way: “What we’re trying to do is identify the pockets of independence
+> and seize them,” Russ Vought, a former top Trump official who heads the Center for
+> Renewing America, told The New York Times in a story published last month.  
 
 <img src="{{ site.baseurl }}/images/2023-08-04-us-parties-econ-hill-1.jpg" width="400" height="128" alt="Manchester @ The Hill: DeSantis and 'slitting throats on day one'" title="Manchester @ The Hill: DeSantis and 'slitting throats on day one'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 DeSantis, running for dictator in second place, has blurted out so many fascist talking
@@ -466,7 +491,7 @@ way.
 
 While autocratic capture of power centers is one aspect of fascism, veiled and eventually
 explicit calls to violence are another.  In a recent campaign vow reported in
-_The Hill_ <sup id="fn5a">[[5]](#fn5)</sup>, he vowed to "start slitting throats on day
+_The Hill_ <sup id="fn6a">[[6]](#fn6)</sup>, he vowed to "start slitting throats on day
 one" as a way of thinning out Federal agencies.  Asked to "clarify", he said by way of
 example that it would be a mistake to put a former military officer in charge of Defense,
 because "&hellip; they may have to slit some throats" and it would be harder if they were
@@ -481,7 +506,7 @@ That's&hellip; not much of an alternative!
 The data we've seen today makes the appeal that if (a) you don't want to live under a
 dictator and (b) you'd like a prosperous economy, then the voting choice is quite obvious.
 Rosenberg, McLean, and Taylor have put together a presentation called
-_With Democrats Things Get Better_ <sup id="fn6a">[[6]](#fn6)</sup> that makes this point
+_With Democrats Things Get Better_ <sup id="fn7a">[[7]](#fn7)</sup> that makes this point
 and most of the other ones in this post to other Democratic campaign staff.  It's worth a
 watch.  
 
@@ -513,6 +538,10 @@ watch.
 
 <a id="fn4">4</a>: L Barr&oacute;n-L&oacute;pez &amp; T Conciatori, ["Trump plans to massively expand executive power if elected, report says"](https://www.pbs.org/newshour/show/trump-plans-to-massively-expand-executive-power-if-elected-report-says), _PBS News Hour_, 2023-Jul-19. [↩](#fn4a)  
 
-<a id="fn5">5</a>: J Manchester, ["DeSantis vows to ‘start slitting throats on day one’"](https://thehill.com/homenews/campaign/4135422-desantis-vows-to-start-slitting-throats-on-day-one/), _The Hill_, 2023-Aug-03. [↩](#fn5a)  
+<a id="fn5">5</a>: A Suebsaeng &amp; A Rawnsley, ["Jack Smith Has an Indictment. Trump Has a Massive Plan for Revenge"](https://www.rollingstone.com/politics/politics-features/donald-trump-jack-smith-indictment-jan6-justice-department-1234800968/), _Rolling Stone_, 2023-Aug-04.  
 
-<a id="fn6">6</a>: S Rosenberg, G McLean, C Taylor, ["With Democrats Things Get Better"](https://simonwdc.substack.com/p/with-democrats-things-get-better-957), presentation recorded at _Hopium Chronicles_ blog, 2023-Jul-20. [↩](#fn6a)  
+I _still_ can't get used to the idea of _Rolling Stone_ as a source of cutting-edge political reporting.  But ever since the Great Recession and their report on Goldman Sachs, that's been the case.  [↩](#fn5a)  
+
+<a id="fn6">6</a>: J Manchester, ["DeSantis vows to ‘start slitting throats on day one’"](https://thehill.com/homenews/campaign/4135422-desantis-vows-to-start-slitting-throats-on-day-one/), _The Hill_, 2023-Aug-03. [↩](#fn6a)  
+
+<a id="fn7">7</a>: S Rosenberg, G McLean, C Taylor, ["With Democrats Things Get Better"](https://simonwdc.substack.com/p/with-democrats-things-get-better-957), presentation recorded at _Hopium Chronicles_ blog, 2023-Jul-20. [↩](#fn7a)  
