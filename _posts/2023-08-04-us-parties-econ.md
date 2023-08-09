@@ -459,7 +459,7 @@ dictator, and personal loyalty to the dictator is the only virtue.
 Thought it was bad last time?  He just thinks he wasn't autocratic enough last time, and
 promises to be a more efficient fascist this time.  Consider the following
 multiply-sourced information from senior political reporters at
-_Rolling Stone_ <sup id="fn5a">[[5 (yeah, I know; read the footnote]](#fn5)</sup>, and
+_Rolling Stone_ <sup id="fn5a">[[5 (yeah, I know; read the footnote)]](#fn5)</sup>, and
 tell me you're not terrified of literal iron-fisted fascist rule:  
 
 > Rosters full of MAGAfied lawyers are being assembled. Plans are being laid for an entire
