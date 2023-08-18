@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robert Reich on Trump's Fasism
+title: Robert Reich on Trump's Fascism
 tags: Politics Sadness
 comments: true
 commentsClosed: true
