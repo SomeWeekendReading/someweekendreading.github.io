@@ -1276,7 +1276,7 @@ _Business Week_, 14-Nov-2003.
 - "Assigned Midwesterner at birth, New Englander by choice."  
 - "If your life is a tug-of-war, you can have more effect if you pull the rope sideways." (After a remark apparently due to Robin Hanson.)  
 - "Any sufficiently brilliant misunderstanding is indistinguishable from creativity.
-  So don't fear misunderstanding people; fear _boring_ them." &ndash; This thought was a
+  So don't fear people _misunderstanding_ you; fear _boring_ them." &ndash; This thought was a
   torment when [the Muse mugged me]({{ site.baseurl}}/symphony-thoughts/) in
   [Symphony Hall](https://en.wikipedia.org/wiki/Symphony_Hall,_Boston) on 2023-Jun-09, while the
   [Boston Pops](https://en.wikipedia.org/wiki/Boston_Pops_Orchestra) played
