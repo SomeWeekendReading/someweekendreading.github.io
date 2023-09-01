@@ -1239,7 +1239,7 @@ _Business Week_, 14-Nov-2003.
 - "There is no evolutionary premium on elegance.  Life is a kludge.  Biology is a carefully selected set of race conditions that make no sense, except how they work together for survival."  
 - "Trust is never something you can demand.  You have to earn it.  If you want to be trusted, then act trustworthily.  People will notice that."  
 - "I believe in [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).  If I keep seeing examples of confirmation bias everywhere, is _that_ an example of confirmation bias?"  
-- "'It was obvious in retrospect': of course it was &ndash; _everything_ should be obvious in retrospect, because any damn fool can predict the past."  
+- "Don't tell me 'it was obvious in retrospect'.  Of course it was &ndash; _everything_ should be obvious in retrospect, because any damn fool can predict the past."  
 - "It may not be a wonderful thing, but it is a thing that makes you wonder."  
 - "Self-inflicted wounds are the slowest to heal."  
 - "You should be _happy_ to find out you're wrong, because you're about to learn something."  
@@ -1247,9 +1247,11 @@ _Business Week_, 14-Nov-2003.
 - "Hey, what happens if I want to update my beliefs about Bayes Rule?"  
 - "Would peer review survive peer review?"  
 - "The whole _point_ of civilization is to be less brutal than nature.  Just because something is 'natural' doesn't absolve us of the responsibility to do better when we can."  
+- "Stupidity is always a capital crime when Nature is the judge.  We can and should do
+  better than Nature.  _And_ be more merciful."  
 - "Everyone _interesting_ is mad; of this there is no question.  The better question is whether or not their madness is [the divine madness]({{ site.baseurl }}/tags/#TheDivineMadness)."  
 - "Let sleeping dogs bury their own dead."  (Combining "let sleeping dogs lie" and "let the dead past bury its own dead".)  
-- On corporate managers and politicians: "Pay less attention to what they _say_, and more to what they _do_."  
+- On corporate managers and politicians: "Pay less attention to what they _say_, and more attention to what they _do_."  
 - "When you're in a hurry, all data are short-term."  
 - "I probably won't follow your orders, but I may follow your example."  
 - "Every nonfatal mistake is an opportunity to learn better.  (Maybe even the fatal ones too, but in a theology-dependent way.)"  
@@ -1260,7 +1262,7 @@ _Business Week_, 14-Nov-2003.
 - "Guessing is easy&hellip; but _stupid._  Estimating is hard."  
 - "Assassin?  No&hellip; more like freelance [psychopomp](https://en.wikipedia.org/wiki/Psychopomp)."  
 - "When we're young, we want to change the world.  When we're old, we ruefully appreciate  how resistant the world is to change."  
-- "Life is, annoyingly often enough, an _intelligant sapientes_ sort of situation."  
+- "Life is, annoyingly often enough, an _intelligant sapientes_ sort of situation."  (IYKYK?)  
 - "If you're gonna make me watch this disaster, we're gonna need a _whole_ lot more popcorn."  
 - "It's not that I object so much to you re-inventing the wheel, as much as I want you to
   keep it being _round._"  
@@ -1269,8 +1271,6 @@ _Business Week_, 14-Nov-2003.
 - "The layoffs will continue until management morale improves." &ndash; what it sounds
   like to non-managers  
 - "It's a thin line between vision and delusion."  
-- "Stupidity is always a capital crime when Nature is the judge.  We can and should do
-  better than Nature.  _And_ be more merciful."  
 - "If you find yourself in a race to the bottom, let the other guy win."  
 - "Once you identify the side with the Nazis, pick the other side."  
 - "Assigned Midwesterner at birth, New Englander by choice."  
@@ -1295,7 +1295,15 @@ _Business Week_, 14-Nov-2003.
   end will definitely end up mean."  
 - "The best kind of dignity is when you care about what you do, not what other people
   think about it."  
-- "One of the most important lessons learned in getting a PhD is to be less impressed with
-  PhDs."  
+- "The most important lesson I learned in getting a PhD is to be less impressed with PhDs.
+  The second most important lesson was that working on something so steadily and
+  relentlessly that people think you have the patience of a _houseplant_ sometimes
+  pays off.  Well&hellip; sometimes."  
 - "It used to be you could say 'Nazis are bad', and the only consequence would be people's
   annoyance with you for stating the obvious."  
+- "I may be only in my 60s, but I've got at least a century of trauma locked up in here.
+  After decades of psychotherapy, most of it's now safely crammed behind a thick vault door with
+  the skull and crossbones logo of the Pandora Vault Company.  The warning on the door (of
+  _course_ there's a warning on the door!) says, 'Do Not Open Until __Never__'.  I _don't_
+  need any 'recreational' pharmaceuticals making me wonder what happens if I open that
+  door.  Clear?  Your mileage may vary, but that's mine."  

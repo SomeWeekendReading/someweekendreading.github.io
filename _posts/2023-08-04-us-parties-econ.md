@@ -1,4 +1,4 @@
----
+e---
 layout: post
 title: US Political Parties &amp; Economic Results
 tags: Investing MathInTheNews Politics R Statistics
@@ -24,7 +24,7 @@ that this makes his data biased, but:
   ["Once you identify the side with the Nazis, pick the other side."]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9COnce%20you%20identify%20the%20side%20with%20the%20Nazis%2C%20pick%20the%20other%20side.%E2%80%9D)  
   <a href="{{ site.baseurl }}/images/2023-08-04-us-parties-econ-bpp-1.png"><img src="{{ site.baseurl }}/images/2023-08-04-us-parties-econ-bpp-1-thumb.jpg" width="400" height="196" alt="Chinn @ EconBrowser: Billion Prices Project and BLS CPI" title="Chinn @ EconBrowser: Billion Prices Project and BLS CPI" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 - Rosenberg's data comes from the US government's Bureau of Labor Statistics (BLS), which frankly
-  is beyond question as a policy source.  
+  is beyond question as a data source on policy results.  
 
   Even the conservative knotheads who think the BLS "games" inflation statistics had to
   back down when the independent MIT &amp; Harvard
@@ -153,7 +153,7 @@ Then, after 49 million observations of job creation, we ask how we should update
 beliefs.  Bayes Rule leads us to the posterior Beta distribution shown here.  
 
 We conclude that the probability a given job was created under Democrats is 96.327%.  How
-certain are we about that?  The 95% confidence limit here is 96.321% &ndash; 96.332,
+certain are we about that?  The 95% confidence limit here is 96.321% &ndash; 96.332%,
 so&hellip; pretty darn certain.  
 
 __Conclusion:__ Almost all the job growth in the last 35 years has been under Democratic
