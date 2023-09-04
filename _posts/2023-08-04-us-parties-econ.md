@@ -1,4 +1,4 @@
-e---
+---
 layout: post
 title: US Political Parties &amp; Economic Results
 tags: Investing MathInTheNews Politics R Statistics
