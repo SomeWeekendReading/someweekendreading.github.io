@@ -1307,3 +1307,4 @@ _Business Week_, 14-Nov-2003.
   _course_ there's a warning on the door!) says, 'Do Not Open Until __Never__'.  I _don't_
   need any 'recreational' pharmaceuticals making me wonder what happens if I open that
   door.  Clear?  Your mileage may vary, but that's mine."  
+- "There's no diplomatic immunity from the laws of physics."  
