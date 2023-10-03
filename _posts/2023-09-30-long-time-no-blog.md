@@ -260,10 +260,10 @@ disturbed of persons would agree with me that these are the high points:
     and ask, "What did you _think_ would happen when you steal food from a cat 8 times
     your weight, right in front of him?!"  
 	
-	As HG Wells, said, "Civilization is in a race between education and CATastrophe."  Let's
-    hope the little guy learns some cat manners fast enough to avoid being murdered.  The
-    Cat HR Department is firmly against firing, but wishy-washy on the subject of
-    murder.  Because&hellip; _cats._  
+	__Cat Diplomacy Report:__ As HG Wells, said, "Civilization is in a race between
+    education and CATastrophe."  Let's hope the little guy learns some cat manners fast
+    enough to avoid being murdered.  The Cat HR Department is firmly against firing, but
+    wishy-washy on the subject of murder.  Because&hellip; _cats._  
 
 ## Dishonorable Mention  
 
