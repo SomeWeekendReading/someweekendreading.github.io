@@ -1216,7 +1216,7 @@ _Business Week_, 14-Nov-2003.
 - "You can't plan serendipity &ndash; give _chance_ a chance!"  
 - "I once tried a meta-search engine, but all it gave me was serendipity."  
 - "Don't tell me I didn't tell you I wasn't going to tell you I told you so!"  
-- "Never give a predator a second bite."  
+- "Never give a predator a second bite."  (But see the alleged Kentucky aphorism: "There's no education in the second kick of the mule.")  
 - "Are you going to break the rules, or are the rules going to break you?"  
 - "People are so intent on bashing each others brains out with authoritative quotes from impressively ancient tomes that they often forget to _read_ those lovely old books to find out what's actually in them."  
 - "If you're always at your best, then your range is too narrow."  

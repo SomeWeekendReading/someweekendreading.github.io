@@ -340,7 +340,7 @@ it's on streaming video somewhere.
 Most of the plot, while excellent, is irrelevant here.  The relevant bit: a man wakes up
 with no memory.  He has a glass hand with no fingers, which is also a computer.  The hand
 tells him he has to find the remaining fingers to restore its memory, and thus learn what's
-going on.  Indeed, there are all sorts of incomprehensible things happening around him,
+going on.  Indeed, there are all sorts of incomprehensibly creepy things happening around him,
 some dangerous.  (Murderous time-traveling aliens, you know.)  So finding those fingers
 is a _high priority._  
 
