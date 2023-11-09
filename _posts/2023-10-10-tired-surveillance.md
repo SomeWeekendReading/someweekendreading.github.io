@@ -149,15 +149,16 @@ Some reasons:
   flags them for prompt hostile scrutiny.  Surely it will quickly do the same with these
   stunts.  They _may_ work once, if you can get the appropriate software spec and version
   numbers&hellip; _somehow_.  
-- __Future legal issues:__ Suppose it does one, at least once.  Further suppose it's hard
+- __Future legal issues:__ Suppose it does work, at least once.  Further suppose it's hard
   to update the surveillance software to compensate.  How long do you think it will be
   before the rich and powerful institutions and people using surveillance will cause their
-  pet legislators to make it _highly illegal_ to do this?  As in, "felony" illegal."
+  pet legislators to make it _highly illegal_ to do this?  As in, "felony illegal."
   
-  Personally, I'd wager it would not take more than around a small number of months.  
-  
+  Personally, I'd wager it would not take more than a small number of months.  A _single digit_
+  small number.  
+
   So even under the most optimistic scenarios about this sort of thing working, the clock
-  is immediately set to ticking before it becomes very difficult to try.  
+  is immediately set to ticking to tell us when this becomes very difficult to try.  
 
 So in the (very) short term, you might be inconspicuous to cameras but 
 _conspicuous to people._  In the longer term, you will be just plain conspicuous to everything.  
@@ -169,7 +170,7 @@ So this is not yet a workable response to surveillance, entertaining though it i
 are too many ways for software to catch up, or to flag it when seen as is done now with
 masking.  
 
-But need _something:_ Constant surveillance in the US of Muslims after 9/11 changed
+But need _something:_ constant surveillance in the US of Muslims after 9/11 changed
 people's behavior, in a chilling way that is incompatible with democracy.  
 
 Albert Fox Cahn, executive director of the [Surveillance Technology Oversight Project (S.T.O.P.)](https://www.stopspying.org/)
@@ -181,15 +182,15 @@ different feelings about the local police and the IRS.  He says:
 (I've misplaced the source for this one.  If you know, please tell me so I can add a
 footnote!)  
 
-Need policy solutions and regulation with very sharp teeth ready to bite those who abuse
+We need policy solutions and regulation with very sharp teeth ready to bite those who abuse
 surveillance, such as: 
 - biometric privacy laws, 
 - "no match/no record", 
 - limits on law enforcement, etc. 
 
-At this moment in history in the US, Cincy Cohn, executive director of EFF, says: 
-> we've reached a kind of a moment in our society where we actually don't think law could
-> ever be on oour side  
+At this moment in history in the US, Cindy Cohn, executive director of EFF, says: 
+> We've reached a kind of a moment in our society where we actually don't think law could
+> ever be on oour side.  
 
 <img src="{{ site.baseurl }}/images/be-seeing-you.gif" width="200" height="150" alt="'Be seeing you' from 'The Prisoner', as a greeting in a highly surveilled dystopia" title="'Be seeing you' from 'The Prisoner', as a greeting in a highly surveilled dystopia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 At least in the European Union, surveillance data can only be used to investigate

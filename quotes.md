@@ -510,6 +510,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "&hellip; there are an infinite number of ways that things can GO wrong but a manageable number of ways that things can BE wrong, so investing in early detection is critical." &ndash; [Dennis Doughty](https://www.linkedin.com/in/dennis-doughty-17a24), [Twitter 2022-Sep-17](https://twitter.com/DennisDoughty/status/1571159565110050818)  
 
+"Logic is not necessarily an instrument for finding truth; on the contrary, truth is necessarily an instrument for using logic." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
+
 "The fact that $2 + 2 = 2 \times 2 = 2^2$ has caused more confusion in theoretial physics than any other fact." &mdash; [Jeffrey Goldstone](https://en.wikipedia.org/wiki/Jeffrey_Goldstone), an offhand remark in a physics lecture at MIT  
 
 "The first rule of [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) Club is you don't know you're in Dunning-Kruger Club."  &mdash; Dan Geravoin, [Twitter 2022-Mar-14](https://twitter.com/geravoin/status/1503444857183895553), in reference to [_Fight Club_](https://en.wikipedia.org/wiki/Fight_Club).  To which I can only add: this makes Dunning-Kruger Club the _opposite_ of a secret society: the members don't know they're members, but everybody _else_ does.  
