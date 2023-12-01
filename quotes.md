@@ -158,6 +158,10 @@ _The Origins of Totalitarianism_, 1973, p. 350.
 clamorous to be led to safety) by an endless series of hobgoblins, most of them
 imaginary." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
 
+"Democracy is the theory that the common people know what they want and deserve to get it
+good and hard." &ndash; [H.L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken),
+[_A Little Book In C Major_](https://archive.org/details/littlebookcmajor00mencrich), 1916.  
+
 "An idealist is one who, on noticing that roses smell better than a cabbage, concludes that
 it will also make better soup." &mdash; [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)  
 
@@ -828,6 +832,8 @@ Without both, one doesn't get to the bottom of anything.")
 
 "People make mistakes in life through believing too much, but they have a damned dull time if they believe too little." &mdash; [James Hilton](https://en.wikipedia.org/wiki/James_Hilton_(novelist)), [_Lost Horizon_](https://en.wikipedia.org/wiki/Lost_Horizon), 1933.  
 
+"A little credulity helps one on through life very smoothly." &mdash; [Elizabeth Cleghorn Gaskell _n&eacute;e Stevenson](https://en.wikipedia.org/wiki/Elizabeth_Gaskell) ([biographer of Charlotte Bront&eumlaut;](https://en.wikipedia.org/wiki/The_Life_of_Charlotte_Bront%C3%AB)), [_Cranford_](https://en.wikipedia.org/wiki/Cranford_(novel))  
+
 "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." &mdash; [Bishop Desmond Tutu](https://en.wikipedia.org/wiki/Desmond_Tutu)  
 
 "Nothing worth doing is completed in our lifetime;<br>
@@ -1310,3 +1316,4 @@ _Business Week_, 14-Nov-2003.
   need any 'recreational' pharmaceuticals making me wonder what happens if I open that
   door.  Clear?  Your mileage may vary, but that's mine."  
 - "There's no diplomatic immunity from the laws of physics."  
+- "Picture yourself having aphantasia."  
