@@ -350,11 +350,12 @@ nasty, brutish, and short."
 &mdash; [Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes), 
 [_Leviathan_](https://en.wikipedia.org/wiki/Leviathan_%28book%29)  
 
-[George Santayana](https://en.wikipedia.org/wiki/George_Santayana):
+[George Santayana](https://en.wikipedia.org/wiki/George_Santayana) (1863 - 1952):  
 - "Fanaticism consists in redoubling your efforts when you have forgotten your aim." &mdash; _Life of Reason_ (1905) Vol I, "Introduction"  
 - "The truth is cruel, but it can be loved, and it makes free those who have loved it." &mdash; _Little Essays_ (1920) "Ideal Immortality"  
 - "Skepticism is the chastity of the intellect, and it is shameful to surrender it too soon or to the first comer." &mdash; _Skepticism and Animal Faith_ (1923)  
-- "Those who cannot learn from history are doomed to repeat it."  
+- "Those who cannot remember the past are condemned to repeat it". &mdash; _The Life of
+  Reason_ (1905).  
 
 "Those who profess to favor freedom, yet depreciate agitation, are men who want crops
 without plowing up the ground.  They want rain without thunder and lightning. They want the
@@ -825,6 +826,8 @@ Without both, one doesn't get to the bottom of anything.")
 
 
 ## The Religious Ones  
+
+"Mit der Dummheit k&auml;mpfen G&ouml;tter selbst vergebens" &ndash; [Friedrich Schiller](https://en.wikipedia.org/wiki/Friedrich_Schiller), _The Maid of Orlean_, III 6 Talbot.  ("Against stupidity, the G-ds themselves contend in vain.")  So&hellip; maybe avoid being stupid as much as we can?  
 
 "Action springs not from thought, but from a readiness for responsibility." &ndash; [Dietrich Bonh&ouml;ffer](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer), ["After Ten Years"](https://www.ushmm.org/information/exhibitions/online-exhibitions/special-focus/dietrich-bonhoeffer/after-ten-years)  
 
@@ -1317,3 +1320,5 @@ _Business Week_, 14-Nov-2003.
   door.  Clear?  Your mileage may vary, but that's mine."  
 - "There's no diplomatic immunity from the laws of physics."  
 - "Picture yourself having aphantasia."  
+- "Ragnarok 'n roll.  No, I don't want to know what it would sound like."  
+- "People put a lot of energy into moral outrage.  But not much Helmholtz free energy, because it never does useful work."  
