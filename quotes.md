@@ -1324,3 +1324,4 @@ _Business Week_, 14-Nov-2003.
 - "Picture yourself having aphantasia."  
 - "Ragnarok 'n roll.  No, I don't want to know what it would sound like."  
 - "People put a lot of energy into moral outrage.  But not much Helmholtz free energy, because it never does useful work."  
+- "Not your problem?  Then my solution's not your business."  
