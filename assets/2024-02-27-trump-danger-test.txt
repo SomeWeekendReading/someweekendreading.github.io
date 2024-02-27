@@ -1,0 +1,52 @@
+
+* Trump DA Threats on Tue Feb 27 16:33:34 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-02-27-trump-danger-test.txt
+
+Building dataframe of data:
+---------------------------
+
+* Threat data for years 2022 - 2023, and subset directed at DA:
+
+  Year NThreats NDAThreats pDAThreat MedpDAThreat LCLpDAThreat UCLpDAThreat
+1 2022      483          1    0.0021       0.0035       0.0005       0.0115
+2 2023      577         89    0.1542       0.1550       0.1271       0.1860
+  Color
+1  blue
+2   red
+
+Test of proportion that threats went up::
+-----------------------------------------
+
+
+	2-sample test for equality of proportions with continuity correction
+
+data:  threatData$NDAThreats out of threatData$NThreats
+X-squared = 76.416, df = 1, p-value < 2.2e-16
+alternative hypothesis: less
+95 percent confidence interval:
+ -1.0000000 -0.1253086
+sample estimates:
+     prop 1      prop 2 
+0.002070393 0.154246101 
+
+* Actual p = 1.1e-18
+
+
+Test of strength of effect (difference of proportions) with Cohen's h::
+-----------------------------------------------------------------------
+
+* Scale of Cohen's h: 0.2 ~ small, 0.5 ~ medium, 0.8 ~ large
+
+Cohen's h |       95% CI
+------------------------
+0.72      | [0.60, 0.84]
+
+Uniform prior, Beta posterior distribution for probability of DA threat::
+-------------------------------------------------------------------------
+
+
+* Plot written to ../images/2024-02-27-trump-danger-test.png
+
+* Trump DA Threats completed Tue Feb 27 16:33:34 2024 (0.1 sec elapsed).

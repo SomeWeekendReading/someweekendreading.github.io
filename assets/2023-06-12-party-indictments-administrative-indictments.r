@@ -1,9 +1,9 @@
 ## Created on Monday, June 12, 2023 at 10:05am EDT by WeekendEditor on WeekendEditorMachine.
 ## Copyright (c) 2023, SomeWeekendReading.blog.  All rights reserved.  As if you care.
 
-library("effectsize")                                    # For cohens_d()
-source("../tools/pipeline-tools.r")                      # Random pipeline stuff
-source("../tools/graphics-tools.r")                      # Random graphics stuff
+library("effectsize")                                  # For cohens_d()
+source("../tools/pipeline-tools.r")                    # Random pipeline stuff
+source("../tools/graphics-tools.r")                    # Random graphics stuff
 
 ##
 ## Does administration party in the US presage the number of criminal indictments
