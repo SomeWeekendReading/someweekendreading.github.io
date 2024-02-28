@@ -149,6 +149,8 @@ Here's what we found from his affidavit, giving the frequencies of threats in 20
 threats, and the number of threats _specifically_ against the DA, his employees, and their
 families. 
 
+We've marshalled his report into a table; for now just concentrate on the first 3 columns:  
+
 ```
 Year NThreats NDAThreats pDAThreat MedpDAThreat LCLpDAThreat UCLpDAThreat
 2022      483          1    0.0021       0.0035       0.0005       0.0115
