@@ -179,7 +179,7 @@ how it's distributed.
 - _After_ seeing some data (a "posterior"), we find from
   [Bayes Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) that $p$ should be
   distributed according to a [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution), 
-  with parameters calculable from the counts (number of threats, number of those that
+  with parameters calculable from the counts ($N$ = number of threats, $k$ = number of those that
   are DA-specific) by some trivial arithmetic:  $ p \sim B(k + 1, N - k +1)$.
   
 <a href="{{ site.baseurl }}/images/2024-02-27-trump-danger-test.png"><img src="{{ site.baseurl }}/images/2024-02-27-trump-danger-test-thumb.jpg" width="400" height="400" alt="Uniform prior, posterior Beta distributions for probability that a threat is a DA threat" title="Uniform prior, posterior Beta distributions for probability that a threat is a DA threat" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -228,10 +228,8 @@ sample estimates:
 
 The reported $p$-value of $2.2 \times 10^{-16}$ is just the smallest the R user interface
 will report without embarrassment.  If you dig inside the test report, the actual value is 
-$1.1 \times 10^{-18}$.  
-
-Either way, this is _ridiculously_ statistically significant: the effect is real, and
-there is no doubt that the DA threats went up after Trump came along.  
+$1.1 \times 10^{-18}$.  Either way, this is _ridiculously_ statistically significant: the
+effect is real, and there is no doubt that the DA threats went up after Trump came along.  
 
 Statistical significance tells us whether an effect is _real_, and it is.  But to see
 whether it went up by a little or a lot, we need a parallel strength of effect analysis.
@@ -245,7 +243,7 @@ Cohen's h |       95% CI
 ```
 
 The interpretive rule here is that $h \sim 0.2$ is a small effect, $h \sim 0.5$ is a
-medium effect, and $h \sim 0.8$ is a large effect.  At 0.72, we're either a very solid
+medium effect, and $h \sim 0.8$ is a large effect.  At $h \sim 0.72$, we're either a very solid
 medium effect size, or just on the verge of a large effect size.
 
 The effect is both real (statistically significant) and rather large.
@@ -253,11 +251,11 @@ The effect is both real (statistically significant) and rather large.
 ## The Weekend Conclusion  
 
 There's extensive, and damning, evidence of threats of kidnapping, torture, and murder
-against judges, clerks, attornesy, and jurors.
+against judges, clerks, attorneys, and jurors.
 
 The numbers show unequivocally and objectively that the rate of DA-specific threats went
 up dramatically.  The difference statistically significant, i.e., real.  Objective effect
-size statistics also show that it is a pretty large effect.
+size statistics also show that it is a pretty large effect, i.e., actually _dangerous._  
 
 Trump should be gagged.  
 
@@ -292,4 +290,6 @@ incarcerated pending trial.  <sup id="fn5a">[[5]](#fn5)</sup>
 
 <a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for analyzing Trump's probability of threatening a DA"]({{ site.baseurl }}/assets/2024-02-27-trump-danger-test.r), _Some Weekend Reading_ blog, 2024-Feb-27.  There is also [a transcript]({{ site.baseurl }}/assets/2024-02-27-trump-danger-test.txt) of running this, for you to compare to make sure we're being honest about what it reports. [↩](#fn4a)  
 
-<a id="fn5">5</a>: Not a fan of [Cato the Elder](https://en.wikipedia.org/wiki/Cato_the_Elder), but I'm beginning to understand his frustration with political foot-dragging to avoid dealing with a clear and present danger to the republic.[↩](#fn5a)  
+<a id="fn5">5</a>: Not a fan of [Cato the Elder](https://en.wikipedia.org/wiki/Cato_the_Elder), but I'm beginning to understand his frustration with political foot-dragging to avoid dealing with a clear and present danger to the republic.  
+
+So&hellip; _Cetero censeo Trump incarceratam esse!_[↩](#fn5a)  
