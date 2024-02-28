@@ -39,7 +39,7 @@ utterly disillusioned with, and ashamed of, their fascist turn.  Yes, this is
 _schadenfreude_.  Yes, it is not a good look.  No, I cannot resist.  
 
 In particular, I tend to watch the YouTube highlights of the previous night's news
-programs: Stephanie Ruhle, Lawrence O'Donnell, Jen Psaki, Rachel Maddow, Joy Reid, Ari
+programs on MSNBC: Stephanie Ruhle, Lawrence O'Donnell, Jen Psaki, Rachel Maddow, Joy Reid, Ari
 Melber, Joe Scarborough/Mika Brzezinski, and others.  
 
 
@@ -58,12 +58,12 @@ This results in death threats, people moving to secret places, and having to hir
 bodyguards.  
 
 O'Donnell's talking about an affidavit near the end of a recent court filing, which we'll get to
-[below](#the-evidence-statistical-significance--strength-of-effect). But first, let's a
-trawl through the rest of the filing.  
+[below](#the-evidence-statistical-significance--strength-of-effect). But first, let's have
+a trawl through the rest of the filing.  
 
 <img src="{{ site.baseurl }}/images/2024-02-27-trump-danger-test-filing.jpg" width="400" height="494" alt="NY DA Alvin Bragg: Notice of intent to file motion for protective gag order" title="NY DA Alvin Bragg: Notice of intent to file motion for protective gag order" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Bragg's filing <sup id="fn2a">[[2]](#fn2)</sup> makes for interesting, if voluminous (331
-pages!), reading.  The gist, of course, is simple:  
+pages!), reading.  The gist, of course, is simple (__emphasis__ in the original):  
 
 > __Defendant has a long history of publicly attacking individuals involved in legal
 > proceedings against him, including witnesses, jurors, judges, and prosecutors; and
@@ -72,7 +72,7 @@ pages!), reading.  The gist, of course, is simple:
 > __Defendant’s history of attacks create a reasonable likelihood of witness intimidation,
 > juror interference, and harassment of other participants in this criminal proceeding.__ (p 22)  
 
-He then provides ample, even damning, evidece that Trump's spray of bile leads to his
+He then provides ample, even damning, evidence that Trump's spray of bile leads to his
 followers making credible attempts at _murder_.  
 
 That's the first 35 pages.  
@@ -146,7 +146,7 @@ it! <sup id="fn4a">[[4]](#fn4)</sup>
 
 Here's what we found from his affidavit, giving the frequencies of threats in 2022
 (pre-Trump) and 2023 (after Trump proceedings began).  He tells us the total number of
-threats, and the number of threats _specifically_ against the DA, his employess, and their
+threats, and the number of threats _specifically_ against the DA, his employees, and their
 families. 
 
 ```
@@ -176,9 +176,9 @@ how it's distributed.
   i.e., we're indifferent and think $p$ could be anything in $[0, 1]$.  
 - _After_ seeing some data (a "posterior"), we find from
   [Bayes Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) that $p$ should be
-  distrubted according to a [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution), 
-  with parameters calculatable from the counts (number of threats, number of those that
-  are DA-specific) calculatable by some trivial arithmetic:  $ p \sim B(k + 1, N - k +1)$.
+  distributed according to a [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution), 
+  with parameters calculable from the counts (number of threats, number of those that
+  are DA-specific) by some trivial arithmetic:  $ p \sim B(k + 1, N - k +1)$.
   
 <a href="{{ site.baseurl }}/images/2024-02-27-trump-danger-test.png"><img src="{{ site.baseurl }}/images/2024-02-27-trump-danger-test-thumb.jpg" width="400" height="400" alt="Uniform prior, posterior Beta distributions for probability that a threat is a DA threat" title="Uniform prior, posterior Beta distributions for probability that a threat is a DA threat" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Those distributions are shown here.  (Columns 5-7 of the table above report the median and
@@ -186,7 +186,7 @@ the 95% credibility intervals, as discussed here and shown on the plot.)
 
 - The blue curve shows what we should think about $\Pr(p)$ pre-Trump.  
 
-  The 1 case in 483 threats gives us a pretty low value, as chown by the blue curve saying
+  The 1 case in 483 threats gives us a pretty low value, as shown by the blue curve saying
   most of the evidence indicates a low probability near 0.  In fact, the posterior median estimate
   is $p \sim 0.4\%$, with a 95% credibility interval/confidence limit of 0.1% &ndash; 1.1%.  
 
