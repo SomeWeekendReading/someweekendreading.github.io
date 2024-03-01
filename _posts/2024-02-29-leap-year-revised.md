@@ -20,27 +20,30 @@ the time it goes once around the sun.  These are celestial bodies, not gears (Hi
 Ptolemy and their [epicycles and deferents](https://en.wikipedia.org/wiki/Deferent_and_epicycle) 
 notwithstanding!).  
 
-Why should we care?  Consider your average Neolithic farmer in northern Europe.  The
-growing season is short, and the ancestral grain strains didn't grow as fast as modern
-ones.  If you plant to early, your crops freeze and die.  If you plant to late, fall comes
-before maturity and your crops freeze and die.  Shortly after that, you and everyone you
-know and love also starve and die, since you have no food.  
+Why should we care?  
 
-So it becomes a matter of some urgency to grab your local priest by the scruff of the neck
-and demand to know "What day is it?!"  
+Consider your average Neolithic farmer in northern Europe.  The growing season is short,
+and the ancestral grain strains didn't grow as fast as modern ones.  If you plant to
+early, your crops freeze and die.  If you plant too late, fall comes before maturity and
+your crops freeze and die.  Shortly after that, you and everyone you know and love 
+will starve and die, since you had no harvest.  
+
+So it becomes a matter of some urgency to grab your local priest by the scruff of the neck,
+shake extra hard, and demand: "What day is it?!"  
 
 Something similar happened in ancient Egypt, where predicting when the Nile would flood
 was the thing you needed to know to avoid starvation (though probably not freezing).  
 
-(In the New World, things were a bit different, but the Mayans, for example, still had to
+(In the New World, things were a bit different.  The Mayans, for example, still had to
 predict when the rainy season would come.  They had
-[rather more complex calendars](https://en.wikipedia.org/wiki/Maya_calendar),
+rather more [complex](https://en.wikipedia.org/wiki/Aztec_calendar) kinds of
+[calendars](https://en.wikipedia.org/wiki/Maya_calendar),
 involving both a 260 day and 365 day calendar with big stone sculptures that could be
-rotated like gears.  They're&hellip; doing &hellip; something else, so we'll save them for another
-time.)  
+rotated like gears.  They're doing &hellip; well, something _interesting_ but something
+_else,_ so we'll save them for another time.)  
 
 So you need an accurate calendar not just for religious observations by priests, and not
-just for fuss-budget astronomy nerds, but to know when to plant crops so you _don't die._  
+just for fuss-budget astronomy nerds, but also to know when to plant crops so you _don't die._  
 
 
 ## Some Calendars from Mediterranean Antiquity and Europe  
@@ -48,23 +51,23 @@ just for fuss-budget astronomy nerds, but to know when to plant crops so you _do
 The Egyptians figured out the length of the year and could time the Nile floods, so
 everybody could raise grain successfully.  Their polytheistic religious system assigned
 lots of functions to different gods, but it more or less worked.  Eventually, they figured
-out their calendar was a bit off, and so [Egyptians introduced a leap day every 4
-years](https://en.wikipedia.org/wiki/Egyptian_calendar#:~:text=The%20introduction%20of%20a%20leap%20day%20to%20the%20Egyptian%20calendar%20made%20it%20equivalent%20to%20the%20reformed%20Julian%20calendar).
+out their calendar was a bit off, and so
+[Egyptians introduced a leap day every 4 years](https://en.wikipedia.org/wiki/Egyptian_calendar#:~:text=The%20introduction%20of%20a%20leap%20day%20to%20the%20Egyptian%20calendar%20made%20it%20equivalent%20to%20the%20reformed%20Julian%20calendar).
 There were interactions with a lunar calendar, but it was mostly solar.  
 
 The Romans inherited this.  <sup id="fn1a">[[1]](#fn1)</sup>  The Roman _kalends_ were
 primarily solar.  Indeed, my favorite way to say "when Hell freezes over"
 <sup id="fn2a">[[2]](#fn2)</sup> is _ad Kalendas Graecas_, i.e., "when the Greeks count time by
-the kalends", i.e., _never._  
+the kalends", or pretty much _never._  
 
 Alas, Roman politicians &ndash; much like the modern species &ndash; couldn't resist
 monkeying about with the calendar to lengthen the terms of office of their friends and
 shorten those of their enemies.
 
 Eventually Gaius Julius Caesar in 45BCE stepped in and said, "My dudes!  No more _kalends_
-monkey-business.  Years are 365 days and every 4th year we add one more day to
+monkey-business.  Years are now 365 days and every 4th year we add one more day to
 Februarius.  Anybody who disagrees gets stabbed."  (Ok, maybe he didn't say the _stabbed_
-thing out loud.  But when the _imperator_ speaks, that's always implied.)  
+thing out loud.  But when the _dux imperator_ speaks, the stabby bit is taken as read.)  
 
 That gets us the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar), with a
 mean year length (averaged over the 4 year period) of 365.25 days.  
@@ -74,13 +77,13 @@ mean year length (averaged over the 4 year period) of 365.25 days.
 
 Well, it's mostly good enough to be getting on with&hellip; _for a while_.
 
-The true length of the year is
-[365.2421897 days](https://en.wikipedia.org/wiki/Tropical_year#:~:text=Mean%20tropical%20year%20current%20value%5B,synch%20with%20the%20seasons%20(see%20below).).  
-
-So we're overestimating the true length of each year by:  
+The true length of the year is [365.2421897 days](https://en.wikipedia.org/wiki/Tropical_year#:~:text=Mean%20tropical%20year%20current%20value%5B,synch%20with%20the%20seasons%20(see%20below).).  So we're overestimating the true length of each year by:  
 
 $$ 
-365.25\:\mathrm{days} - 365.2421897\:\mathrm{ days} = 0.0078103\:\mathrm{ days} = 674.81\:\mathrm{ sec}
+\begin{align*}
+365.25\:\mathrm{days} - 365.2421897\:\mathrm{ days} &= 0.0078103\:\mathrm{ days} \\
+                                                    &= 674.81\:\mathrm{ sec}
+\end{align*}
 $$
 
 ... or about 11 minutes and change each year.  In about 128 years, we'll be off by a whole
@@ -88,11 +91,14 @@ day.  In about 896 years, we'll be off by a week.  If you plant your crops in no
 Europe a week off from the correct time, you're at the edge where your crops will fail
 and&hellip; wait for it&hellip; you and everyone you know and love will starve and die.  
 
-And so it was in the year 1582CE.  Something had to be done, and in the system of that time
-Pope Gregory XIII apparently felt he was the one to do it.  He convened some scholars, who
-labored mightily and gave birth to the
-[Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar), in which a year is
-365 days with 1 extra day for a leap year:  
+And so it was in the year 1582CE.  That's 1582 + 45 = 1627 years from the start of the
+Julian calendar, so we're off by 12.71 days.  People are planting crops too late in the
+year to get a good harvest!  
+
+Something had to be done, and in the system of that time Pope Gregory XIII apparently felt
+he was the one to do it.  He convened some scholars, who labored mightily and gave birth
+to the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar).  This is
+still our calendar, in which a year is 365 days with sometimes 1 extra day for a leap year:  
 - Normally a year is not a leap year,  
 - Unless it's divisible by 4, in which case it is,  
 - Unless it's divisible by 100, in which case it's not,  
@@ -101,13 +107,19 @@ labored mightily and gave birth to the
 This bit of whimsical gimcrackery leads to a year length of:
 
 $$
-365\:\mathrm{days} + \frac{1}{4}\:\mathrm{day} - \frac{1}{100}\:\mathrm{day} + \frac{1}{400}\:\mathrm{day} = 365.2425 \:\mathrm{days}
+\begin{align*}
+365\:\mathrm{days} + \frac{1}{4}\:\mathrm{day} - \frac{1}{100}\:\mathrm{day} + \frac{1}{400}\:\mathrm{day} &= 365 + \frac{97}{400} \:\mathrm{days} \\
+                           &= 365.2425 \:\mathrm{days}
+\end{align*}
 $$
 
-So now each year we're off by:  
+So now each year we're off a bit, _over_ estimating the length of the year by:  
 
 $$
-365.2425\:\mathrm{days} - 365.2421897\:\mathrm{days} = 0.0003103\:\mathrm{days} = 26.81\:\mathrm{sec}
+\begin{align*}
+365.2425\:\mathrm{days} - 365.2421897\:\mathrm{days} &= 0.0003103\:\mathrm{days} \\
+                                                     &= 26.81\:\mathrm{sec}
+\end{align*}
 $$
 
 That means the Gregorian calendar has reduced the error rate per year with respect to the
@@ -125,10 +137,10 @@ mailing list, back in the day.  <sup id="fn3a">[[3]](#fn3)</sup>
 
 If you look at the above equations, it's pretty easy to intuit that any set of rules
 about what years include or do not include a leap day will result in a _rational_ number
-of days; we could have written:  
+of days; we could have written the rational version above and stopped there:  
 
 $$
-365\:\mathrm{days} + \frac{1}{4}\:\mathrm{day} - \frac{1}{100}\:\mathrm{day} + \frac{1}{400}\:\mathrm{day} = 365 + 97/400 \:\mathrm{days}
+365\:\mathrm{days} + \frac{1}{4}\:\mathrm{day} - \frac{1}{100}\:\mathrm{day} + \frac{1}{400}\:\mathrm{day} = 365 + \frac{97}{400} \:\mathrm{days}
 $$
 
 So what's the best rational approximation to the mean solar year length?  We observe
@@ -152,10 +164,15 @@ a clue to truncate just before that, since the corrections will be tiny.  This g
 the 4th convergent of:  
 
 $$
-365 + \frac{1}{4 + \frac{1}{7 + \frac{1}{1 + \frac{1}{3}}}} = \frac{46751}{128} = 365 + \frac{31}{128} = 365.2421875
+\begin{align*}
+365 + \frac{1}{4 + \frac{1}{7 + \frac{1}{1 + \frac{1}{3}}}} &= 365 + \frac{31}{128} \\
+                                                            &= 365 + \frac{1}{4} - \frac{1}{128} \\
+                                                            &= 365.2421875
+\end{align*}
 $$
 
-This gives us an error each year of only a fraction of a second per year!  
+This gives us an error each year  (_under_ estimation, this time) of only a fraction of a
+second per year!  
 
 $$
 365.2421897\:\mathrm{days} - 365.2421875\:\mathrm{days} = 0.0000022\:\mathrm{days} = 0.19\:\mathrm{sec}
@@ -181,10 +198,12 @@ Tribe where we do mental arithmetic in binary, all is simple. <sup id="fn4a">[[4
 
 Goucher goes on to explore the nightmare of a sadistic deity who wants to make it hard to
 determine when a leap year occurs.  The mean year length would be $365 + \Phi$ days, where 
-$\Phi = (\sqrt{5} + 1) / 2 = 1.618033\cdots$ is the Golden Ratio.  
+$\Phi = (\sqrt{5} + 1) / 2 = 1.618033\cdots$ is the
+[Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio).  
 
-$\Phi$ has a continued fraction of all 1's, so it converges slowly.  The sequence of leap
-years would be the Golden String, closely related to Fibonacci numbers.  
+$\Phi$ has a continued fraction of all 1's, so it converges slowly with no natural cutoff
+point.  The sequence of leap years would be the Golden String, closely related to
+Fibonacci numbers.  
 
 
 ## The Weekend Conclusion  
@@ -220,6 +239,8 @@ No, we almost certainly will not.
 
 So feel free to tell that Dante voice in your head to shut up and come back at a more semantically appropriate time.  [↩](#fn2a)  
 
-<a id="fn3">3</a>: AP Goucher, ["Calendars and continued fractions"]({{ site.baseurl }}/assets/2024-02-29-leap-year-revised-goucher.txt), Math-Fun mailing list, 2011-Jan-25. [↩](#fn3a)  
+<a id="fn3">3</a>: AP Goucher, ["Calendars and continued fractions"]({{ site.baseurl }}/assets/2024-02-29-leap-year-revised-goucher.txt), Math-Fun mailing list, 2011-Jan-25. 
+<!-- See also his blog, https://cp4space.hatsya.com/2012/09/12/lunisolar-calendars/ -->
+[↩](#fn3a)  
 
 <a id="fn4">4</a>: Yes, I am aware that I am not _quite_ making the case to the non-members of the Nerd Tribe, here. [↩](#fn4a)  
