@@ -116,7 +116,7 @@ calendar will avoid similar trouble for maybe 25,000 years.
 
 ## Can We Do Better?  
 
-Most people would say "good enough" and move on.  But for those of is in the Nerd Tribe,
+Most people would say "good enough" and move on.  But for those of us in the Nerd Tribe,
 well&hellip; we want to know what's _optimal_, i.e., what's the _best_ we could do.  
 
 I first encountered this analysis in a post by Adam P Goucher, on the venerable Math-Fun
@@ -151,7 +151,7 @@ a clue to truncate just before that, since the corrections will be tiny.  This g
 the 4th convergent of:  
 
 $$
-365 + \frac{1}{4 + \frac{1}{7 + \frac{1}{1 + \frac{1}{3}}}} = \frac{46751}{128} = 365.2421875
+365 + \frac{1}{4 + \frac{1}{7 + \frac{1}{1 + \frac{1}{3}}}} = \frac{46751}{128} = 365 + \frac{31}{128} = 365.2421875
 $$
 
 This gives us an error each year of only a fraction of a second per year!  
