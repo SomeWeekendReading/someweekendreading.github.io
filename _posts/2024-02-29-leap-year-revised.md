@@ -178,7 +178,7 @@ Tribe where we do mental arithmetic in binary, all is simple. <sup id="fn4a">[[4
 
 Goucher goes on to explore the nightmare of a sadistic deity who wants to make it hard to
 determine when a leap year occurs.  The mean year length would be $365 + \Phi$ days, where 
-$\Phi = (\sqrt(5) + 1) / 2 = 1.618033\cdots$ is the Golden Ratio.  
+$\Phi = (\sqrt{5} + 1) / 2 = 1.618033\cdots$ is the Golden Ratio.  
 
 $\Phi$ has a continued fraction of all 1's, so it converges slowly.  The sequence of leap
 years would be the Golden String, closely related to Fibonacci numbers.  
