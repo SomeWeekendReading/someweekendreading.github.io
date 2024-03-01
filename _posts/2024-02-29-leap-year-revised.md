@@ -63,7 +63,8 @@ shorten those of their enemies.
 
 Eventually Gaius Julius Caesar in 45BCE stepped in and said, "My dudes!  No more _kalends_
 monkey-business.  Years are 365 days and every 4th year we add one more day to
-Februarius.  Anybody who disagrees gets stabbed."
+Februarius.  Anybody who disagrees gets stabbed."  (Ok, maybe he didn't say the _stabbed_
+thing out loud.  But when the _imperator_ speaks, that's always implied.)  
 
 That gets us the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar), with a
 mean year length (averaged over the 4 year period) of 365.25 days.  
