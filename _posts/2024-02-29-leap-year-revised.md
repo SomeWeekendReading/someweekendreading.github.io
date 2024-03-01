@@ -35,7 +35,7 @@ was the thing you needed to know to avoid starvation (though probably not freezi
 (In the New World, things were a bit different, but the Mayans, for example, still had to
 predict when the rainy season would come.  They had
 [rather more complex calendars](https://en.wikipedia.org/wiki/Maya_calendar),
-involving both a 270 day and 365 day calendar with big stone sculptures that could be
+involving both a 260 day and 365 day calendar with big stone sculptures that could be
 rotated like gears.  They're&hellip; doing &hellip; something else, so we'll save them for another
 time.)  
 
