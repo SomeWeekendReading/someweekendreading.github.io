@@ -104,7 +104,10 @@ still our calendar, in which a year is 365 days with sometimes 1 extra day for a
 - Unless it's divisible by 100, in which case it's not,  
 - Unless it's divisible by 400, in which case it is.  
 
-This bit of whimsical gimcrackery leads to a year length of:
+It set the calendar 10 days forward, to re-establish the spring equinox for planting and
+Easter calculations, so that [Thursday 4 October 1582 was followed by Friday 15 October 1582](https://en.wikipedia.org/wiki/Gregorian_calendar#:~:text=To%20reinstate%20the%20association%2C%20the%20reform%20advanced%20the%20date%20by%2010%20days%3A%5Bc%5D%20Thursday%204%20October%201582%20was%20followed%20by%20Friday%2015%20October%201582.%5B3%5D).  
+
+This bit of whimsical gimcrackery leads to a year length of:  
 
 $$
 \begin{align*}
