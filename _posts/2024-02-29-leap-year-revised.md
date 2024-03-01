@@ -12,7 +12,7 @@ calendar we use in any sense optimal?
 
 ## Why Leap Years?  
 
-<img src="{{ site.baseurl }}/images/2024-02-29-leap-year-revised-epicycle.jpg" width="400" height="345" alt="Epicycles and deferents in Ptolomean systems, or how plantary orbits look from the surface of the Earth" title="Epicycles and deferents in Ptolomean systems, or how plantary orbits look from the surface of the Earth" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2024-02-29-leap-year-revised-epicycle.jpg" width="400" height="345" alt="Epicycles and deferents in Ptolomean systems, or how planetary orbits look from the surface of the Earth" title="Epicycles and deferents in Ptolomean systems, or how planetary orbits look from the surface of the Earth" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The thing is, the mean solar year, determined astronomically, is 365.2421897 days.  It may
 perhaps come to your attention that this is not an integer.  This is because there is no
 particular reason the earth should rotate on its axis an integer number of times during
