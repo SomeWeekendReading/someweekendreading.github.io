@@ -167,6 +167,8 @@ year, and the following leap year rules:
 - Unless it's divisible by 4, in which case it is,  
 - Unless it's divisible by 128, in which case it's not.
 
+The next year in which this calendar differs from the present Gregorian calendar is 2048.  
+
 This rule system is simpler than the Gregorian (3 rules instead of 4) and has a shorter
 period (128 years instead of 400), and is about 141 times more accurate (0.19 sec/yr vs
 26.81 sec/yr).  
