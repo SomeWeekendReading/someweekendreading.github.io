@@ -1,0 +1,79 @@
+Date: Tue, 25 Jan 2011 18:43:15 -0000
+From: "Adam P. Goucher" <XXXXXX@XXXXXXX>
+To: "Adam P. Goucher" <XXXXXX@XXXXXXX>
+Subject: [math-fun] Calendars and continued fractions
+Message-ID: <XXXXXXXXXXXXX>
+Content-Type: text/plain; format=flowed; charset="iso-8859-1";
+       reply-type=original
+
+Dear all:
+
+In 45 BC, Julius Caesar reformed the Roman calendar to closely
+adhere to the tropical year. The Julian calendar has a leap year every
+four years, and thus has an average year length of:
+
+1461/4 = 365.25 days.
+
+This is not a particularly accurate approximation to the actual tropical
+year, which is 365.2421897 days. Our current calendar, the Gregorian
+calendar, has the following rules:
+
+* If 400 | N, then N is a leap year, otherwise;
+* If 100 | N, then N is not a leap year, otherwise;
+* If 4 | N, then N is a leap year, otherwise;
+* N is not a leap year.
+
+It is not too difficult to ascertain that this leads to a mean year of:
+
+146097/400 = 365.2425 days.
+
+This is much better than the Julian calendar, but far from perfect. What
+we actually desire is a *best rational approximation* to the length of
+the mean tropical year. Calculating the continued fraction expansion of
+the mean tropical year yields the following:
+
+365; 4, 7, 1, 3, 27, ...
+
+The large value 27 means that it is wise to truncate immediately before
+it, and we obtain the following approximation:
+
+365; 4, 7, 1, 3 = 46751/128 = 365.2421875.
+
+This is impressively close to the mean tropical year, and corresponds
+to the following rule system:
+
+* If 128 | N, then N is not a leap year, otherwise;
+* If 4 | N, then N is a leap year, otherwise;
+* N is not a leap year.
+
+This system is simpler than the Gregorian calendar, has a shorter
+period, and is 140 times more accurate. Additionally, a period of
+128 years is a power of two, and therefore it is trivial to determine
+the number of days in the year based on the year's binary expansion.
+
+The next discrepancy between my calendar and the Gregorian
+calendar occurs in the year 2048, which is a leap year in the
+Gregorian calendar but not in mine.
+
+We have now identified the fact that best rational approximations
+form good calendars. What if a sadistic deity wanted to create a
+solar system to make it intentionally difficult for the inhabitants to
+design an accurate calendar? Obviously, we would want a number
+that has poor rational approximations. The basis is again continued
+fractions, but a value of Phi = 1.618033... would be optimal for this
+purpose. It has a continued fraction of 1; 1, 1, 1, 1, ..., with the
+best rational approximations equal to ratios of consecutive Fibonacci
+numbers.
+
+Let's presume we had a mean tropical year of 364+Phi days, so a
+year can have 365 or 366 days, in the ratio 1 : Phi. When should the
+'leap years' occur? This is rather interesting, and corresponds to the
+Golden String:
+
+L R L L R L R L L R L L R L R L L R L R ...
+
+(L = leap year, R = regular year)
+
+Sincerely,
+
+       Adam P. Goucher
