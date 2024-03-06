@@ -34,12 +34,12 @@ shake extra hard, and demand: "What day is it?!"
 Something similar happened in ancient Egypt, where predicting when the Nile would flood
 was the thing you needed to know to avoid starvation (though probably not freezing).  
 
-(In the New World, things were a bit different.  The Mayans, for example, still had to
+(In the New World, things were a bit different.  The Mayans and Aztecs, for example, still had to
 predict when the rainy season would come.  They had
 rather more [complex](https://en.wikipedia.org/wiki/Aztec_calendar) kinds of
 [calendars](https://en.wikipedia.org/wiki/Maya_calendar),
 involving both a 260 day and 365 day calendar with big stone sculptures that could be
-rotated like gears.  They're doing &hellip; well, something _interesting_ but something
+rotated like gears.  They're doing &hellip; well, something _interesting_&hellip; but also something
 _else,_ so we'll save them for another time.)  
 
 So you need an accurate calendar not just for religious observations by priests, and not
@@ -50,15 +50,15 @@ just for fuss-budget astronomy nerds, but also to know when to plant crops so yo
 
 The Egyptians figured out the length of the year and could time the Nile floods, so
 everybody could raise grain successfully.  Their polytheistic religious system assigned
-lots of functions to different gods, but it more or less worked.  Eventually, they figured
-out their calendar was a bit off, and so
+lots of political and economic functions to different gods, but it more or less worked.
+Eventually, they figured out their calendar was a bit off, and so
 [Egyptians introduced a leap day every 4 years](https://en.wikipedia.org/wiki/Egyptian_calendar#:~:text=The%20introduction%20of%20a%20leap%20day%20to%20the%20Egyptian%20calendar%20made%20it%20equivalent%20to%20the%20reformed%20Julian%20calendar).
 There were interactions with a lunar calendar, but it was mostly solar.  
 
 The Romans inherited this.  <sup id="fn1a">[[1]](#fn1)</sup>  The Roman _kalends_ were
 primarily solar.  Indeed, my favorite way to say "when Hell freezes over"
-<sup id="fn2a">[[2]](#fn2)</sup> is _ad Kalendas Graecas_, i.e., "when the Greeks count time by
-the kalends", or pretty much _never._  
+<sup id="fn2a">[[2]](#fn2)</sup> is to mutter _ad Kalendas Graecas_, i.e., "when the
+Greeks count time by the kalends", or pretty much _never._  
 
 Alas, Roman politicians &ndash; much like the modern species &ndash; couldn't resist
 monkeying about with the calendar to lengthen the terms of office of their friends and
@@ -146,9 +146,15 @@ $$
 365\:\mathrm{days} + \frac{1}{4}\:\mathrm{day} - \frac{1}{100}\:\mathrm{day} + \frac{1}{400}\:\mathrm{day} = 365 + \frac{97}{400} \:\mathrm{days}
 $$
 
-So what's the best rational approximation to the mean solar year length?  We observe
-365.2421897 days, but the rest is some real number with unobserved decimal places out the
-wazoo.  
+So what's the "best" rational approximation to the mean solar year length?  "Best" needs
+some technical definition, since for a rational of arbitrarily large denominator we can
+make arbitrarily accurate approximations.  So pretty much what we mean here is smallest
+error for a given numbe of digits in the denominator (or smaller, after dividing out
+common factors).  
+
+We observe the year length is 365.2421897 days, but the rest is some real number with
+unobserved decimal places out the wazoo.  We could convert _that_ finite decimal to a
+rational, observe 0 error, and be done.  But can we do it with a smaller denominator?  
 
 [Dirichlet's Approximation Theorem](https://en.wikipedia.org/wiki/Dirichlet%27s_approximation_theorem)
 says (approximately) the best approximation to a real number by a rational with a given
@@ -162,9 +168,9 @@ $$
 365.2421897 = 365 + \frac{1}{4 + \frac{1}{7 + \frac{1}{1 + \frac{1}{3 + \frac{1}{27 + \cdots}}}}}
 $$
 
-The 5th continuand has a value of 27, which is much larger than its predecessors.  This is
-a clue to truncate just before that, since the corrections will be tiny.  This gives us
-the 4th convergent of:  
+The 5th continuand is 27, which is rather larger than its predecessors.  This is a clue to
+truncate just before that, since the corrections will be tiny.  This gives us the 4th
+convergent of:  
 
 $$
 \begin{align*}
@@ -187,7 +193,8 @@ year, and the following leap year rules:
 - Unless it's divisible by 4, in which case it is,  
 - Unless it's divisible by 128, in which case it's not.
 
-The next year in which this calendar differs from the present Gregorian calendar is 2048.  
+The next year in which this calendar differs from the present Gregorian calendar is
+2048 = 128 * 16.  
 
 This rule system is simpler than the Gregorian (3 rules instead of 4) and has a shorter
 period (128 years instead of 400), and is about 141 times more accurate (0.19 sec/yr vs
@@ -214,6 +221,8 @@ Fibonacci numbers.
 Yes, we can do better than the Gregorian calendar.  
 
 No, we almost certainly will not.  
+
+[(_Cetero censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
 
