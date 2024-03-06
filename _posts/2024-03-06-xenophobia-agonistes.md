@@ -81,7 +81,7 @@ somewhat aggravated-looking, gentleman shown here.  His aggravation is well-earn
   sources.  
 
 You _do not_ get to ask Native Americans if they're here "legally".  Their claims to being
-here "legally" are almost certainly superior to yours.  
+here "legally" are almost certainly superior to your own.  
 
 
 ## The Weekend Conclusion  
