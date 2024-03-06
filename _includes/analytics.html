@@ -18,8 +18,11 @@
 <!-- https://javascript.plainenglish.io/how-to-count-page-views-with-the-count-api-afc9369c1f8f -->
 <!-- https://countapi.xyz/ -->
 <!-- Potential bug: escape might generate disallowed chars, like &#39; ? -->
+
+<!-- RIP countapi.xyz
 <script async src='https://api.countapi.xyz/hit/www.someweekendreading.blog/{{ page.url | escape | replace: "/", "." }}?callback=visitCount'></script>
 <script>
   // *** url_encode would work: "{{ page.url | url_encode }}", but % is not allowed
   function visitCount(response) { document.getElementById('visits').innerText = response.value; }
 </script>
+-->

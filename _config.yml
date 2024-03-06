@@ -67,8 +67,8 @@ permalink: /:title/
 ## The release of Jekyll Now that you're using
 ## To update jekyll (and a bunch of other stuff) do: $ bundle update
 ## Do I need the github-pages gem?
-## 2022-Dec-06: version is 4.3.1
-version: v4.3.1
+## 2024-Mar-06: version is 4.3.3
+version: v4.3.3
 
 ## Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
