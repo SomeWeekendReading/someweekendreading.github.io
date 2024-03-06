@@ -42,6 +42,7 @@ was still president, could have much relevance.  But&hellip; it's a _doozy._
 
 <img src="{{ site.baseurl }}/images/2024-03-06-xenophobia-agonistes-az-captimes-1.jpg" width="400" height="268" alt="Giles &amp; Pineda @ AZ Cap Times: Trump demonstrators harass dark-skinned legislators and staff" title="Giles &amp; Pineda @ AZ Cap Times: Trump demonstrators harass dark-skinned legislators and staff" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2024-03-06-xenophobia-agonistes-raw-story-1.jpg" width="400" height="156" alt="Brigham @ RawStory: Trump supporters tell Navajo lawmaker to get out of the country" title="Brigham @ RawStory: Trump supporters tell Navajo lawmaker to get out of the country" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2024-03-06-xenophobia-agonistes-the-hill-1.jpg" width="400" height="169" alt="Thomsen @ The Hill: Trump supporters harass AZ lawmakers by race" title="Thomsen @ The Hill: Trump supporters harass AZ lawmakers by race" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2024-03-06-xenophobia-agonistes-snopes-1.jpg" width="400" height="246" alt="Palma @ Snopes: Yes, AZ Trumpers harassed a Navajo legislator as an illegal alien" title="Palma @ Snopes: Yes, AZ Trumpers harassed a Navajo legislator as an illegal alien" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It seems that on 2018-Jan-25, Trump knuckleheads were demonstrating against immigration.
 They didn't have too fine a grasp of "legal" vs "illegal" immigration, since apparently
@@ -59,9 +60,11 @@ descent, yelling "Get out, go back home!"  They pointed at her white colleague a
 "No, you can stay."  
 
 This was first reported in the _Arizona Capitol Times_ <sup id="fn1a">[[1]](#fn1)</sup>,
-but then picked up nationally by _Raw Story_ <sup id="fn2a">[[2]](#fn2)</sup>.  It's
-_such_ a bizarre story that inevitably _Snopes_ weighed in <sup id="fn3a">[[3]](#fn3)</sup>
-to fact-check it, and gave it a "TRUE" rating.  
+but then picked up nationally by _Raw Story_ <sup id="fn2a">[[2]](#fn2)</sup> and 
+_The Hill_. <sup id="fn3a">[[3]](#fn3)</sup>  It's
+_such_ a bizarre story that inevitably _Snopes_ weighed in <sup id="fn4a">[[4]](#fn4)</sup>
+to fact-check it, and gave it a "TRUE" rating.  At that point, with 3 news sources and
+Snopes backing the fact-check, it's a pretty solid story.  Not only that, there's video.  
 
 <a href="{{ site.baseurl }}/images/2024-03-06-xenophobia-agonistes-descheenie-1.jpg"><img src="{{ site.baseurl }}/images/2024-03-06-xenophobia-agonistes-descheenie-1.jpg" width="400" height="258" alt="AZ state rep Eric Descheenie" title="AZ state rep Eric Descheenie" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 What makes it just about the perfect example of finely-tuned, weapons-grade stupidity is
@@ -113,5 +116,6 @@ hell-bent on destruction.
 
 <a id="fn2">2</a>: B Brigham, ["'Get out of the country!': Navajo lawmaker harassed by Arizona Trump supporters accusing him of being here 'illegally'"](https://www.rawstory.com/2018/01/get-country-navajo-lawmaker-harassed-arizona-trump-supporters-accusing-illegally/), _Raw Story_, 2018-Jan-27. [↩](#fn2a)  
 
-<a id="fn3">3</a>: B Palma, ["Did Armed Trump Supporters Ask a Navajo Legislator If He's 'Legal'?"](https://www.snopes.com/fact-check/trump-supporters-navajo-legislator-legal/), 
-_Snopes_, 2018-Feb-02. [↩](#fn3a)  
+<a id="fn3">3</a>: J Thomsen, ["Arizona state lawmakers claim Trump supporters questioned them on their appearance"](https://thehill.com/homenews/state-watch/371150-arizona-state-lawmakers-claim-trump-supporters-questioned-them-on-their/), _The Hill_, 2018-Jan-28. [↩](#fn3a)  
+
+<a id="fn4">4</a>: B Palma, ["Did Armed Trump Supporters Ask a Navajo Legislator If He's 'Legal'?"](https://www.snopes.com/fact-check/trump-supporters-navajo-legislator-legal/), _Snopes_, 2018-Feb-02. [↩](#fn4a)  
