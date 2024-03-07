@@ -222,7 +222,7 @@ Yes, we can do better than the Gregorian calendar.
 
 No, we almost certainly will not.  
 
-[(_Cetero censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+[(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
 

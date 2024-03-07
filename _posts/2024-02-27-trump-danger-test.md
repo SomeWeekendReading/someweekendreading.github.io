@@ -259,7 +259,7 @@ size statistics also show that it is a pretty large effect, i.e., actually _dang
 
 Trump should be gagged.  
 
-[_Cetero censeo_](https://en.wiktionary.org/wiki/ceterum_censeo), Trump should be
+[_Ceterum censeo_](https://en.wiktionary.org/wiki/ceterum_censeo), Trump should be
 incarcerated pending trial.  <sup id="fn5a">[[5]](#fn5)</sup>
 
 ---

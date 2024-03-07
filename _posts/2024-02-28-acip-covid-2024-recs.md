@@ -411,7 +411,7 @@ dense as a sack of bricks.  But, as all the existentialists say, here we are.
 
 So go get boosted if you're old enough.  
 
-[(_Cetero censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+[(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
 
