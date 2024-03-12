@@ -93,7 +93,7 @@ this time, let's look at the October booster photos shown here.
 The injection looks like every other injection in this series.  Afterwards, we got
 celebratory cider donuts, freshly made at Wilson Farms.  Longtime readers, both of you,
 will recall that cider donuts have been an obsession of this Crummy Little Blog That
-Nobody Reads [since the beginning with M. Ciderdonuteur]({{ site.baseurl }}/ciderdonuteur).  
+Nobody Reads [since the beginning with M. Ciderdonuteur]({{ site.baseurl }}/ciderdonuteur/).  
 
 (Or really, pastry in general, to be honest.)  
 
