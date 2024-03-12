@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US CDC ACIP Meeting&colon; COVID-19 Vaccine Reccomendations
+title: US CDC ACIP Meeting&colon; COVID-19 Vaccine Recommendations
 tags: CatBlogging COVID JournalClub MathInTheNews PharmaAndBiotech Politics Statistics
 comments: true
 commentsClosed: true
