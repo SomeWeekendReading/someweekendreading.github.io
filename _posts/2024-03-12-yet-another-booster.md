@@ -100,6 +100,10 @@ Nobody Reads [since the beginning with M. Ciderdonuteur]({{ site.baseurl }}/cide
 
 ## The Weekend Conclusion  
 
+Ok, so today I'm a little tired and sore.  Fine.  It's to be expected, and I'm happy to
+pay that tiny little price for future security.  Think of it as an insurance premium to
+avoid medical disaster later.  
+
 This week in my religious community I was obsessing about Psalm 118.  Like many Davidic
 Psalms, it starts out cataloging the woes of the writer, and then pivots crucially to a
 position of hope.  The operative phrase here is that you "should live and not die".
