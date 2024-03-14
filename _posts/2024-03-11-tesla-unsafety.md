@@ -61,9 +61,11 @@ Several things came together in lethal fashion:
 - The laminate glass is almost impossible to break, especially without tools, in a cramped
   space, and underwater.  
   
-Once we make the fatal mistake of using a touch screen, the initial error is not only
-inevitable, it had already happened a couple of times to Chao.  After that, everything
-else cascaded to make it impossible to escape and impossible to be rescued in time.  
+Once we make the fatal mistake of using a touch screen, that initial error is is the root
+of an inevitable cascade of further errors.  It is not only inevitable, it had already
+happened a couple of times to Chao going inadvertently into reverse.  After that,
+everything else cascaded to make it impossible to escape and impossible to be rescued in
+time.  
 
 
 ## What Did Tesla Think Should Have Happened?  
