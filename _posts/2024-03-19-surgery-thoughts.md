@@ -181,7 +181,7 @@ at this point I can cope with that.  Not my preference, but it's reality.  And r
 the only thing with which any of us _can_ engage.  Or, as it says on my 
 [quotes page:]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9COptimists%20refuse%20to%20acknowledge%20reality.%20Idealists%20remind%20us%20that%20it%20isn%E2%80%99t%20fixed.%E2%80%9D%20%E2%80%94%20Susan%20Neiman%2C%20%E2%80%9CChange%20Germans%20Can%E2%80%99t%20Believe%20In%E2%80%9D%2C%20New%20York%20Times%2C%202008%2DJul%2D26.)
 > "Optimists refuse to acknowledge reality. Idealists remind us that it isn’t fixed." —
-> Susan Neiman, ["Change Germans Can’t Believe In"](http://www.nytimes.com/2008/07/26/opinion/26neiman.html?_r=1&oref=slogin&pagewanted=print), _New York Times_, 2008-Jul-26.  
+> Susan Neiman, ["Change Germans Can’t Believe In"](https://www.nytimes.com/2008/07/26/opinion/26neiman.html?_r=1&oref=slogin&pagewanted=print), _New York Times_, 2008-Jul-26.  
 
 Time to be an idealist, in that sense.  Whether I like reality or not, it's what's there.
 And it can, to a degree, be molded.  
