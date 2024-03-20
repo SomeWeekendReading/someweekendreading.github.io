@@ -48,7 +48,7 @@ The details of what was being operated upon are both boring and personal, so I'l
 you that.  Just take it as read that I was an anxious, nervous old nerd.  I wasn't worried
 about the surgery itself (short of catastrophic failure, which was unlikely, but I did make
 sure our estate plan was up to date). I _was_ worried about the recovery, which the
-surgeon warned me would be painful the first week, and quite tedioously annoying for a month.  
+surgeon warned me would be painful the first week, and quite tediously annoying for a month.  
 
 So how did the hospital folk react to an anxious, nervous old nerd who was keeping it
 together with sheer determination?  They dealt masterfully, is what happened:  
