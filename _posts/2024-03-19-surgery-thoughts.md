@@ -60,18 +60,18 @@ together with sheer determination?  They dealt masterfully, is what happened:
   [getting our most recent COVID-19 boosters]({{ site.baseurl }}/yet-another-booster/),
   and so on.  
   
-  _The net result:_ I felt I was among my own tribe, and it would be ok to surrender control
-  of my body to these sensible people.  
+  _The net result:_ I felt I was among my own tribe, and it would be ok to surrender
+  temporary control of my body to these sensible people.  
 - __Surgeon:__ Gotta admit, I haven't had good feelings about surgeons in general.
   They've tended to be a headstrong group, so sure of their personal knowledge that
-  anything from me, a "mere PhD" could be safely ignored.  I have vivid memories of lots
-  of struggles during my research career.  
+  anything from me, a "mere PhD", could be safely ignored.  I have vivid memories of lots
+  of such struggles during my research career.  
   
   I'm happy to report that my surgeon was _not_ of that ilk, but rather the opposite.
   Every single time I said a single word &ndash; and I mean _every_ time &ndash; he put
   down what he was doing, made eye contact, listened, and demonstrated that he understood.
   He even joked how cute it would be to name the individual cysts being removed.  (I noted
-  that my spouse has already named them.  Yes, it was cute the first time, but
+  that my spouse had already named them.  Yes, it was cute the first time, but
   fractionally less cute each time thereafter.)  
 
   _The net result:_ I felt like I was entrusting my life with someone who wasn't just
@@ -109,7 +109,7 @@ together with sheer determination?  They dealt masterfully, is what happened:
   last 2 functioning neurons in my brain told me so.  That was some comfort.   
 - __Recovery nurse:__ I thought general anaesthesia would just be a slice of time that
   didn't exist for me.  I didn't expect to dream, but I did.  It seemed very meaningful at
-  the time, but mostly I just remember feeling cold.  And then, as I was waking, the clear
+  the time, but now I mostly just remember feeling cold.  And then, as I was waking, the clear
   thought: "Ok, I guess have to go back into the world now, but why does it have to be _this_
   world?"  (I also recall a flip-book of different worlds, 1 page each.  Quite
   fascinating.)  Really not sure at whom that question could be directed, or what the
@@ -141,7 +141,8 @@ together with sheer determination?  They dealt masterfully, is what happened:
     makes cops so trigger-happy and afraid for their lives (pure cop-superstition).  I
     admitted as how it was a perfectly reasonable drug in the right time &amp; place, with
     the right supervision.  Not sure why she smiled at that, but apparently it was either
-    amusing or she was being exceptionally indulgent.  
+    amusing or she was being exceptionally indulgent.  (Or maybe, under the influence, I
+    was being altogether silly.)  
 	
 	The verdict: It made me woozy, with erratic eye tracking and doubtful balance.  It
     didn't seem to affect pain too much, just made me care about it a bit less.  It may
@@ -156,8 +157,8 @@ together with sheer determination?  They dealt masterfully, is what happened:
     arm's length relationship.  A _short_ relationship.  I've spent too many years working
     on drugs to set even a single foot down the other path.  
   - [_Cephalexin:_](https://www.drugs.com/keflex.html) Now _this_ is potentially my new
-    best friend.  It's an antibiotic, and I am adamantly opposed to post-operative
-    infections.  So we are allies in this regard.  
+    best friend, at least for the next few days.  It's an antibiotic, and I am adamantly
+    opposed to post-operative infections.  So we are allies in this regard.  x
 	
 	The verdict: No overt side effects observed.  It smells a bit bad, but then so do I on
     occasion.  This will do.  
@@ -203,7 +204,7 @@ The circumstances of the encounter, though&hellip; well, that could have been be
 the whole, I prefer not having my body cut open.  But when that _must_ happen, it's good
 to have kind people handle the matter.  
 
-And, as always for now: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+And, as always, for the near-term future: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
 
