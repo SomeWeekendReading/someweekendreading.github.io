@@ -206,6 +206,15 @@ to have kind people handle the matter.
 
 And, as always, for the near-term future: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+## Addendum 2024-Mar-20: Cephalexin smell
+
+<img src="{{ site.baseurl }}/images/2024-03-19-surgery-thoughts-cephalexin.jpg" width="400" height="455" alt="Wikipedia: molecular structure of the antibiotic cephalexin" title="Wikipedia: molecular structure of the antibiotic cephalexin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Yup, it seems the smell of the cephalexin is well known.  As you can see from this 
+[molecular structure diagram from Wikipedia](https://en.wikipedia.org/wiki/Cefalexin), the
+culprit is the sulfur atom (yellow in the ball-and-stick representation).  That leads to
+the generation of hydrogen sulfide (H2S), which gives rotten eggs their smell.
+And&hellip; intestinal gas.  So _that's_ why my spouse has been being so polite&hellip;  
+
 ---
 
 ## Notes &amp; References  
