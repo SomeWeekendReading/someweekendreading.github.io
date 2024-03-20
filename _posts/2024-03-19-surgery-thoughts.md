@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts On Surgery
-tags: About Beauty MathInTheNews TheDivineMadness
+tags: About Beauty CatBlogging MathInTheNews TheDivineMadness
 comments: true
 commentsClosed: true
 ---
@@ -191,13 +191,13 @@ And it can, to a degree, be molded.
 
 These were people doing good in the world
 ([_tikkun olam_](https://en.wikipedia.org/wiki/Tikkun_olam),
-[_pikuach nefesh_](https://en.wikipedia.org/wiki/Pikuach_nefesh), 
+[_pikuach nefesh_](https://en.wikipedia.org/wiki/Pikuach_nefesh), and
 [_imitatio dei_](https://en.wikipedia.org/wiki/Imitation_of_God)), with good skill levels,
-with good empathy, and good emotional care for those
-entrusted to them.  They are good people, and I'm glad to have encountered them.  (Yes,
-this opinion may have been colored by the anxiolytic effect of some drugs on an anxious
-and depressed old nerd.  If that disinhibition made me more likely to recognize the good
-in others, then I can live with that as a revealed preference.)  
+with good empathy, and good emotional care for those entrusted to them.  They are good
+people, and I'm glad to have encountered them.  (Yes, this opinion may have been colored
+by the anxiolytic effect of some drugs on an anxious and depressed old nerd.  If that
+disinhibition made me more likely to recognize the good in others, then I can live with
+that as a revealed preference.)  
 
 The circumstances of the encounter, though&hellip; well, that could have been better. On
 the whole, I prefer not having my body cut open.  But when that _must_ happen, it's good
