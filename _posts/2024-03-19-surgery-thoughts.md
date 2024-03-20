@@ -46,7 +46,7 @@ places!
 
 The details of what was being operated upon are both boring and personal, so I'll spare
 you that.  Just take it as read that I was an anxious, nervous old nerd.  I wasn't worried
-about he surgery itself (short of catastrophic failure, which was unlikely, but I did make
+about the surgery itself (short of catastrophic failure, which was unlikely, but I did make
 sure our estate plan was up to date). I _was_ worried about the recovery, which the
 surgeon warned me would be painful the first week, and quite tedioously annoying for a month.  
 
