@@ -1,0 +1,44 @@
+
+* Republicans & Shutdowns on Fri Mar 22 16:20:34 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-03-21-springtime-for-shutdown.txt
+
+Building dataframe of data:
+---------------------------
+
+
+* Using already-loaded value of shutdownData.
+
+Assessing statistical significance:
+-----------------------------------
+
+* Using test of proportion:
+  - Yates correction: FALSE
+  - Alternative: probability of Republicans in shutdown > 0.5
+
+      Branch NShutdowns NRepublican     p   FDR
+1      House          6           6 0.007 0.021
+2     Senate          6           4 0.207 0.310
+3 Presidency          6           2 0.793 0.793
+
+Assessing strength of effect:
+-----------------------------
+
+* Computing Cohen's h for strength of effect
+  - Range of h is -pi to +pi
+  - anything with absolute value over 0.8 is a large effect.
+
+      Branch NShutdowns NRepublican     p   FDR AbsCohenh
+1      House          6           6 0.007 0.021     1.571
+2     Senate          6           4 0.207 0.310     0.340
+3 Presidency          6           2 0.793 0.793     0.340
+
+Bayesian Posterior Beta Distributions:
+--------------------------------------
+
+* Bayesian Beta posterior plot to ./2024-03-21-springtime-for-shutdown.png.
+
+* Saved to ./2024-03-21-springtime-for-shutdown-results.tsv.
+
+* Republicans & Shutdowns completed Fri Mar 22 16:20:34 2024 (0.1 sec elapsed).
