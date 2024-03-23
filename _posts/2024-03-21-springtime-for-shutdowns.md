@@ -241,8 +241,8 @@ We'll be content with the median here.)
 <img src="{{ site.baseurl }}/images/2024-03-21-springtime-for-shutdowns-results-median-posteriors.jpg" width="400" height="128" alt="Median posteriors: probability a branch is Republican when we see a shutdown" title="Median posteriors: probability a branch is Republican when we see a shutdown" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The resulting distributions for $p$, the probability a branch will be Republican when we
 see a shutdown, are shown here.  
-- As you can see, the curves for the Senate (green, peaks around 2/3, as 1st equation above) and
-  Presidency (blue, peaks around 1/3, as 1st equation above) are sort of 
+- As you can see, the curves for the Senate (green, peaks around 2/3, as in 1st equation above) and
+  Presidency (blue, peaks around 1/3, as in 1st equation above) are sort of 
   around the middle value of 50%.  That was our null hypothesis, that either party could
   be at fault.  This is just another way of saying that the partisanship of the Senate and
   the Presidency aren't especially predictable by shutdowns.  
