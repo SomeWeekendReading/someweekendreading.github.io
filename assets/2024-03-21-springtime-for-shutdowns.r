@@ -10,7 +10,7 @@ source("../../tools/graphics-tools.r")                 # Random graphics stuff
 ## Is Republican partisanship associated with US federal government shutdowns, 1995-2024?
 ##
 
-## > rm("shutdownDarta", "shutdownSignif", "shutdownStrength", "shutdownBayes"); doit()
+## > rm("shutdownData", "shutdownSignif", "shutdownStrength", "shutdownBayes"); doit()
 doit <- function(dataStr = "Date	House	Senate	Presidency	Days
 1995-Nov	R	R	D	5
 1995-Dec	R	R	D	21
@@ -97,10 +97,9 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
           k                  <- branch[[1, "NRepublican"]]
           dbeta(ps, k + 1, n - k + 1)                  #
         })                                             #
-        rownames(foo) <- foo[, "Branch"]               #
-        foo <- t(subset(foo, select = -Branch))        #
-        bdf <<- cbind(ps, foo); rownames(bdf) <- 1 : nrow(bdf)
-        bdf <<- bdf[, c("ps", names(colors))]           #
+        rownames(foo) <- foo[, "Branch"]; foo <- t(subset(foo, select = -Branch))
+        bdf <- cbind(ps, foo); rownames(bdf) <- 1 : nrow(bdf)
+        bdf <- bdf[, c("ps", names(colors))]           # Ensures column order is colors order
 
         matplot(x = bdf[, 1], y = bdf[, -1],           #
                 type = "l", lty = "solid", lwd = 2, col = colors,

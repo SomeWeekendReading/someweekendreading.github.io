@@ -1,5 +1,5 @@
 
-* Republicans & Shutdowns on Fri Mar 22 20:21:03 2024
+* Republicans & Shutdowns on Fri Mar 22 22:04:17 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-03-21-springtime-for-shutdown.txt
@@ -53,4 +53,4 @@ Bayesian Posterior Beta Distributions:
 
 * Saved to ./2024-03-21-springtime-for-shutdown-results.tsv.
 
-* Republicans & Shutdowns completed Fri Mar 22 20:21:03 2024 (0.1 sec elapsed).
+* Republicans & Shutdowns completed Fri Mar 22 22:04:18 2024 (0.1 sec elapsed).
