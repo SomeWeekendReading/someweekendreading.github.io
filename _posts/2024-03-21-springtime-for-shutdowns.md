@@ -23,7 +23,7 @@ schools, fail to feed children, cut off pensions for the elderly, block military
 promotions, or any other way to throw sand in the gears to attempt to force the
 Republican agenda.  
 
-Since they can't get a majority, blackmail is a perfectly acceptable tool.  That's why
+Since they can't get a majority, blackmail is a perfectly acceptable alternative tool.  That's why
 we've had 3 government shutdown crises in just the first 3 months of 2024.
 
 Is Republican partisanship at cause, or not?  
@@ -93,10 +93,14 @@ Democrats.  The question of significance is whether the observed probability abo
 different _enough_ from 50% that we should take notice.  Could this have happened by
 chance in only 6 events, or is it a really thing?
 
-The relevant test here is the test of proportion.  We did exactly that, testing the
-hypothesis that the observed probability was &gt; 50% (a 1-sided test).  Since there were
-only 6 data points, we also turned off the Yates continuity correction (though I'm happy
-to take guidance on that subject, as well as everything else).  
+The relevant test here is the
+[test of proportion](https://en.wikipedia.org/wiki/Population_proportion).
+We did exactly that, using the [R](https://www.r-project.org/)
+function [`prop.test()`](https://search.r-project.org/CRAN/refmans/rstatix/html/prop_test.html)
+to test the hypothesis that the observed probability was &gt; 50% (a 1-sided test).
+Since there were only 6 data points, we also turned off the Yates
+continuity correction (though I'm happy to take guidance on that subject, as well as
+everything else).  
 
 <img src="{{ site.baseurl }}/images/2024-03-21-springtime-for-shutdowns-results-signif.jpg" width="400" height="124" alt="Results of test of proportion: Republicans strongly implicated in House, but not in Senate or Presidency" title="Results of test of proportion: Republicans strongly implicated in House, but not in Senate or Presidency" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The results are as shown here.  
@@ -122,7 +126,9 @@ The results are as shown here.
   
   We've chosen a very standard
   [Benjamini-H&ouml;chberg correction](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure),
-  which changes a $p$-value in to a False Discovery Rate.  Basically, if you sort the list
+  which changes a $p$-value in to a
+  [False Discovery Rate](https://en.wikipedia.org/wiki/False_discovery_rate).
+  Basically, if you sort the list
   of results by increasing FDR (as shown in the table) and then cut it off somewhere, the
   FDR tells you the fraction of results above the line that are likely to be false
   discoveries.  
@@ -315,7 +321,7 @@ Mel Brooks, in his comic genius illustrated here from _The Producers_
 ([1967](https://en.wikipedia.org/wiki/The_Producers_(1967_film)),
 [2005](https://en.wikipedia.org/wiki/The_Producers_(2005_film))), did not foresee
 that we would be _this_ stupid to let fascists blackmail us about whether the US
-government is allowed to operate.  
+government is even allowed to operate.  
 
 Look: our US problem with shutdowns and debt defaults is a real problem.  The evidence
 unequivocally points at Republicans, particularly in the House, as the root of the
@@ -326,6 +332,41 @@ or abstain from voting: that's half a vote for fascism &amp; Trump.
 You really _must_ vote for Biden and for Democrats in both houses of Congress.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+
+
+## Addendum 2024-Mar-23: Averted, For Now?  
+
+<img src="{{ site.baseurl }}/images/2024-03-21-springtime-for-shutdowns-nyt-1.jpg" width="400" height="172" alt="Edmondson @ NYT: Congress passes budget, 6mo into fiscal year" title="Edmondson @ NYT: Congress passes budget, 6mo into fiscal year" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+According to the _NYT_ <sup id="fn4a">[[4]](#fn4)</sup>, the House managed to pass a
+budget 286 (101R + 185D) to 134, and then immediately adjourn for 2 weeks.  Note that only
+a minority of Republicans voted for this, relying on Democrats to do the work for them.  
+
+This left the Senate with the obligation to meet at night on an emergency basis, and
+either pass the House budget with no changes (since the House was now gone for 2 weeks),
+or sink the government.  It passed the Senate 74 to 24, i.e., 24 Senate Republicans would
+rather sink the government.  It took almost 12 hours in the Senate to get even that much
+agreement, since the nihilist faction was so determined to load it up with poison pills.  
+
+This is also, as far as I know, the only time a budget has been passed this late: 6 months
+into the fiscal year.  
+
+Technically, there _was_ a shutdown: at midnight, the OMB began a shutdown, but stopped a
+few hours _after midnight_ when the Senate passed the budget at 2am.  So technically the US
+government was dead for a few hours, but was resuscitated in the middle of the night.  
+
+In reaction, Rep Marjorie Taylor Greene (R-GA) began filing the motions to oust her own
+party's speaker.  Basically:  
+1. They wanted a border control bill.  
+2. Then they refused to pass the most conservative border control bill in a generation.  
+3. Then, because there was no border bill, they wanted to defund _all_ of government.  
+4. Then, because the funding bill squeaked by, they want to oust their _own_ Speaker.
+   Apparently they can show how much they hate government by destroying their own
+   governmental appointees.  
+
+No, it doesn't make sense.  Don't even try to make sense of it; you might hurt yourself.  
+
+These are the _dangerously stupid_ people we have to remove systematically from every
+elected office.  
 
 ---
 
@@ -352,3 +393,5 @@ You really _must_ vote for Biden and for Democrats in both houses of Congress.
 <a id="fn2">2</a>: Wikipedia Editors, ["Appropriations bill (United States)"](https://en.wikipedia.org/wiki/Appropriations_bill_(United_States)), _Wikipedia.org_, retrieved 2024-Mar-21. [↩](#fn2a)  
 
 <a id="fn3">3</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script to assess significance and strength of Republican association with US government shutdowns"]({{ site.baseurl }}/assets/2024-03-21-springtime-for-shutdowns.r), _Some Weekend Reading_ blog, 2024-Mar-21.  There is also [a transcript of running this]({{ site.baseurl }}/assets/2024-03-21-springtime-for-shutdown.txt), for you to check that it says what we say it says.[↩](#fn3a)  
+
+<a id="fn4">4</a>: C Edmondson, ["Congress Passes Spending Bill in Wee Hours to Fend Off Shutdown"](https://www.nytimes.com/2024/03/22/us/politics/congress-spending-bill-government-shutdown.html), _New York Times_, 2024-Mar-22. [↩](#fn4a)  
