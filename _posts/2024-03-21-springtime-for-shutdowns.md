@@ -215,11 +215,18 @@ Now let's pretend to be Bayesians for a moment:
   The simple answer is $p \sim k/N$, though there are elaborations.  One elaboration is to
   consider a Bayesian approach: before seeing any data, we model $p$ as a random draw from
   a uniform prior distribution; after seeing $k$ and $N$ we should then model $p$ as a
-  draw from a Beta distribution:  
+  draw from a $\mathrm{Beta}\left(k + 1, N - k + 1\right)$ distribution:  
   
   $$
-  \Pr(p | N, k) \sim \mathrm{Beta}\left(k + 1, N - k + 1\right)
+  \Pr(p | N, k) = \frac{p^{k} (1 - p)^{N - k}}{B(k + 1, N - k + 1)}
   $$
+  
+where the normalization is
+$B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).  
+
+(It should be pretty clear that the uniform distribution is $\mathrm{Beta}(1, 1)$, i.e.,
+when $N = k = 0$, i.e., no observational data).  
+  
 
 If we really need a point estimate of $p$, we can take the median of the posterior Beta
 distribution.  (For technical reasons, there's a popular method of taking the _mode_,
