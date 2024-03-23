@@ -82,6 +82,7 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
   doBeta <- function(shutdownStrength, plotFile, resultsFile,
                      npoints = 1000,
                      colors  = c("House" = "red", "Senate" = "green", "Presidency" = "blue")) {
+    cat(sprintf("* Doing Baysian posterior Beta distribution analysis."))
     ## Let p = probability of a shutdown for a party.
     ## Start with a uniform prior on p, which happens to be B(1, 1).
     ## After observing N shutdowns, of which k were with the party, we have B(N - k + 1, k + 1).
@@ -119,6 +120,7 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
                                                       NRepublican + 1,
                                                       NShutdowns - NRepublican + 1),
                                                 digits = 3))
+    print(shutdownBayes)                               # Show augmented results
     f <- file.path(".", resultsFile)                   #
     saveDataframe(shutdownBayes, resultsFile)          #
     cat(sprintf("\n* Saved to %s.\n", f))              #
