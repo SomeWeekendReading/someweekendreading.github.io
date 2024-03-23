@@ -215,7 +215,9 @@ Now let's pretend to be Bayesians for a moment:
   The simple answer is $p \sim k/N$, though there are elaborations.  One elaboration is to
   consider a Bayesian approach: before seeing any data, we model $p$ as a random draw from
   a uniform prior distribution; after seeing $k$ and $N$ we should then model $p$ as a
-  draw from a $\mathrm{Beta}\left(k + 1, N - k + 1\right)$ distribution:  
+  draw from a
+  [Beta distribution of the first kind](https://en.wikipedia.org/wiki/Beta_distribution)
+  $\mathrm{Beta}\left(k + 1, N - k + 1\right)$:  
   
   $$
   \Pr(p | N, k) = \frac{p^{k} (1 - p)^{N - k}}{B(k + 1, N - k + 1)}
