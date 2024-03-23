@@ -209,6 +209,7 @@ Now let's pretend to be Bayesians for a moment:
   $$
   \Pr(k | N, p) = \binom{N}{k} p^k (1-p)^{(N-k)}
   $$
+  
 <!-- *** ref Heckerman?  https://arxiv.org/abs/2002.00269 -->
 - Now suppose you observe $N$ flips of this coin, of which $k$ turn out heads/Republican.
   What should you believe about $p$, the probability a flip comes up heads/Republican?
@@ -227,8 +228,8 @@ where the normalization is
 $B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).  
 
 (It should be pretty clear that the uniform distribution is $\mathrm{Beta}(1, 1)$, i.e.,
-when $N = k = 0$, i.e., no observational data).  
-  
+when $N = k = 0$, which is the case of no observational data.  Hence our choice of a
+uniform prior, since it too is a Beta function.)  
 
 If we really need a point estimate of $p$, we can take the median of the posterior Beta
 distribution.  (For technical reasons, there's a popular method of taking the _mode_,
