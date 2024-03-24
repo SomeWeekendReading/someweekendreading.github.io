@@ -6,7 +6,8 @@ comments: true
 commentsClosed: true
 ---
 
-It's springtime!  That means Republicans want to shut down the federal government.  Or does it?  
+It's springtime!  That means Republicans in the US want to shut down the federal
+government.  Or does it?  Let's look at some data, and find out.  
 
 
 ## US Government Shutdowns  
@@ -14,7 +15,7 @@ It's springtime!  That means Republicans want to shut down the federal governmen
 One of the peculiarities of US government is that it must periodically have its budget
 passed by Congress and signed by the President.  Without this, parts of the government
 begin to shut down, right up to and including defense, diplomacy, and&hellip;
-_everything._ <sup id="fn1a">[[1]](#fn1)</sup>  All such appropriations bills must, by
+_everything._ <sup id="fn1a">[[1]](#fn1)</sup> All such appropriations bills must, by
 constitutional fiat, start in the House.  <sup id="fn2a">[[2]](#fn2)</sup>  
 
 Given a cabal of Republican extremists in the House, such a must-pass bill is an irresistible
@@ -292,7 +293,7 @@ Ok, let's estimate that, over the last 30 years when shutdowns have become a mor
 thing.  This goes back to the Gingrich speakership.  One might argue it should go back to
 the Reagan presidency, when Republican madness became more pathological.  But as we've
 seen, the House is the pressure point for shutdowns, and Gingrich was when the infection
-spread there.  
+spread to the House.  
 
 For the last 30 years (1994-2024), there have been 15 congressional terms:
 [11 Republican and 4 Democratic](https://en.wikipedia.org/wiki/Party_divisions_of_United_States_Congresses).
@@ -311,7 +312,7 @@ $$
 $$
 
 _Summary:_ Should you be rash enough to vote for a Republican House candidate, you are
-abetting a 54.5% probability of a shutdown.  
+abetting a 54.5% probability of a government shutdown during that Congressional term.  
 
 Don't do that.  
 
