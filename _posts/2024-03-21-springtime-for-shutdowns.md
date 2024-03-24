@@ -6,8 +6,8 @@ comments: true
 commentsClosed: true
 ---
 
-It's spring in the US.  That means, Republicans want to shut down the federal government.
-Or does it?  
+It's springtime!  That means Republicans want to shut down the federal government.  Or does it?  
+
 
 ## US Government Shutdowns  
 
@@ -17,14 +17,14 @@ begin to shut down, right up to and including defense, diplomacy, and&hellip;
 _everything._ <sup id="fn1a">[[1]](#fn1)</sup>  All such appropriations bills must, by
 constitutional fiat, start in the House.  <sup id="fn2a">[[2]](#fn2)</sup>  
 
-Given a cabal of Republican extremists, such a must-pass bill is an irresistible
+Given a cabal of Republican extremists in the House, such a must-pass bill is an irresistible
 opportunity for blackmail.  They'll give Ukraine to Russia, default on debt, shut down
 schools, fail to feed children, cut off pensions for the elderly, block military
 promotions, or any other way to throw sand in the gears to attempt to force the
 Republican agenda.  
 
 Since they can't get a majority, blackmail is a perfectly acceptable alternative tool.  That's why
-we've had 3 government shutdown crises in just the first 3 months of 2024.
+we've had 3 government crises around almost-shutdowns in just the first 3 months of 2024.
 
 Is Republican partisanship at cause, or not?  
 
@@ -37,31 +37,35 @@ the Bad Social Media Site) of the partisanship associated with the last 30 years
 shutdowns.  They started to be a regular thing in the 90s, with Republican hysteria over
 Clinton, and have never left.  
 
-The usual rules of social media apply:
+The usual rules of engagement for social media apply:
 - You probably don't want to touch X/Twitter.  
 - Under _no circumstances_ should you read the replies.  I looked (briefly), so you don't
   have to.  They're mostly along the lines of "fake news", "lying media", "shutdowns are
-  good", and outright denial of the data as is now traditional among Republicans.  (I was
-  alive during this interval, and can personally confirm the data from direct experience.)  
+  good", and outright denial of the data, as is now traditional among Republicans.  (I was
+  alive during this time interval, and can personally confirm the data from direct experience.
+  As if anyone could really doubt it in the first place.)  
 
 <a href="https://twitter.com/SteveRattner/status/1770110205637882291"><img src="{{ site.baseurl }}/images/2024-03-21-springtime-for-shutdowns-rattner-1.jpg" width="550" height="901" alt="Rattner @ Twitter: Partisanship of House, Senate, and Presidency during shutdowns" title="Rattner @ Twitter: Partisanship of House, Senate, and Presidency during shutdowns" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 <img src="{{ site.baseurl }}/images/2024-03-21-springtime-for-shutdowns-data.jpg" width="400" height="244" alt="Rattner's data on government branch partisanship for 30 years of shutdowns" title="Rattner's data on government branch partisanship for 30 years of shutdowns" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Hey, that's some data, right there!  
+Applied statistician voice: Hey, that's some _data_, right there!  
 
 We've got 30 years of data on the partisanship of each branch of the US government during
-a shutdown, summarized in the table shown here.  
+a shutdown, summarized in a nice neat table, shown here.  
 
-Can we make something of those data?  
+Can we make anything of that?  
 
-Why, yes.  Yes, we can.  And will.  
+Why, yes.  Yes, we can.  
+
+And will.  
+
 
 ## Some Slightly Objective Thinking About the Data  
 
 The obvious conclusion being invited here is that shutdowns are associated with Republican
 dominance, particularly in the House.  The House part is understandable, given the
 constitutional specification.  But should we believe the bias here that accuses
-Republicans of having shutdowns as part of their brand?  
+Republicans of having shutdowns as part of the Republican brand?  
 
 There are, as always, 2 questions:  
 1. _Statistical Significance:_ Is the effect real, i.e., will it reproduce in the future?  
@@ -80,27 +84,27 @@ Republican, during each of the 6 shutdowns over the last 30 years:
 $$
 \left\{
   \begin{align*}
-    \Pr\left(\mbox{Republican House}      |\mbox{Shutdown}\right) &= 100\% \\
-    \Pr\left(\mbox{Republican Senate}     |\mbox{Shutdown}\right) &= \:\: 67\% \\
-    \Pr\left(\mbox{Republican Presidency} |\mbox{Shutdown}\right) &= \:\: 33\%
+    \Pr\left(\mbox{Republican House}      |\mbox{Shutdown}\right) &= 6 / 6 = 100\% \\
+    \Pr\left(\mbox{Republican Senate}     |\mbox{Shutdown}\right) &= 4 / 6 = \:\: 67\% \\
+    \Pr\left(\mbox{Republican Presidency} |\mbox{Shutdown}\right) &= 2 / 6 = \:\: 33\%
   \end{align*}
 \right.
 $$
 
 Let's start with a Null Hypothesis that the probability of a branch being Republican
-should be 50% absent anything else happening, i.e., it's about equal for Republicans and
-Democrats.  The question of significance is whether the observed probability above is
-different _enough_ from 50% that we should take notice.  Could this have happened by
-chance in only 6 events, or is it a really thing?
+during a shutdown should be 50% absent anything else happening, i.e., it's about equal
+blame for Republicans and Democrats to cause shutdowns.  The question of significance is
+whether the observed probability above is different _enough_ from 50% that we should take
+notice.  Could this have happened by chance in only 6 events, or is it really a thing?
 
 The relevant test here is the
 [test of proportion](https://en.wikipedia.org/wiki/Population_proportion).
 We did exactly that, using the [R](https://www.r-project.org/)
 function [`prop.test()`](https://search.r-project.org/CRAN/refmans/rstatix/html/prop_test.html)
-to test the hypothesis that the observed probability was &gt; 50% (a 1-sided test).
-Since there were only 6 data points, we also turned off the Yates
-continuity correction (though I'm happy to take guidance on that subject, as well as
-everything else).  
+to test the hypothesis that the observed probability of Republicans presiding over a
+shutdown was &gt; 50% (a 1-sided test).  Since there were only 6 data points, we also
+turned off the Yates continuity correction (though I'm happy to take guidance on that
+subject, as well as anything else).  
 
 <img src="{{ site.baseurl }}/images/2024-03-21-springtime-for-shutdowns-results-signif.jpg" width="400" height="124" alt="Results of test of proportion: Republicans strongly implicated in House, but not in Senate or Presidency" title="Results of test of proportion: Republicans strongly implicated in House, but not in Senate or Presidency" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The results are as shown here.  
@@ -114,19 +118,20 @@ The results are as shown here.
   But, as you can see, the House Republicans are up to the job: $p \sim 0.007$ is
   significant: there is only a 0.7% chance of seeing results like this by chance. 
   
-  The results for the Senate and the Presidency, on the other hand, can be assigned to chance.  
+  The results for the Senate and the Presidency, on the other hand, can be comfortably
+  assigned to chance.  Republicans in the House matter, not so much elsewhere.  
   
 - Second, consider the column FDR.  
 
-  That's present because we tested 3 hypothesis (House, Senate, Presidency) rather than
-  just 1, using only 1 dataset.  _Cognoscenti_ will recognize that we are in (mild) need
-  of a
+  That's present because we tested 3 hypothesis (Republican dominance in the House,
+  Senate, and Presidency) rather than just 1, using only 1 dataset.  _Cognoscenti_ will
+  recognize that we are in (mild) need of a
   [Multiple Hypothesis Test Correction](https://en.wikipedia.org/wiki/Multiple_comparisons_problem),
   which accounts for the fact that we're making just one dataset do triple duty here.  
   
   We've chosen a very standard
   [Benjamini-H&ouml;chberg correction](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure),
-  which changes a $p$-value in to a
+  which corrects a $p$-value into a
   [False Discovery Rate](https://en.wikipedia.org/wiki/False_discovery_rate).
   Basically, if you sort the list
   of results by increasing FDR (as shown in the table) and then cut it off somewhere, the
@@ -141,7 +146,7 @@ _Summary:_
 
 1. The association between shutdowns and Republican control of the House is
    statistically significant by test of proportion, with $p \sim 0.7\%$ and FDR $\sim 2.1\%$.
-   That is, we're pretty sure there's a relationship between Republicans controlling the
+   That is, we're pretty darn sure there's a relationship between Republicans controlling the
    House and a government shutdown.  
 2. There is no similar association with Republican control of the Senate or Presidency.
    Given the constitutional requirement that funding bills start in the House, this is
@@ -230,8 +235,8 @@ Now let's pretend to be Bayesians for a moment:
   \Pr(p | N, k) = \frac{p^{k} (1 - p)^{N - k}}{B(k + 1, N - k + 1)}
   $$
   
-where the normalization is
-$B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).  
+  where the normalization is
+  $B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).  
 
 (It should be pretty clear that the uniform distribution is $\mathrm{Beta}(1, 1)$, i.e.,
 when $N = k = 0$, which is the case of no observational data.  Hence our choice of a
