@@ -24,10 +24,11 @@ schools, fail to feed children, cut off pensions for the elderly, block military
 promotions, or any other way to throw sand in the gears to attempt to force the
 Republican agenda.  
 
-Since they can't get a majority, blackmail is a perfectly acceptable alternative tool.  That's why
-we've had 3 government crises around almost-shutdowns in just the first 3 months of 2024.
+Since they can't get a majority, blackmail is a perfectly acceptable alternative tool to
+them.  That's why we've had 3 government crises around almost-shutdowns in just the first
+3 months of 2024.
 
-Is Republican partisanship at cause, or not?  
+Is Republican partisanship fundamentally associated with shutdowns, or not?  
 
 
 ## Some Data on Shutdown Partisanship  
@@ -239,9 +240,9 @@ Now let's pretend to be Bayesians for a moment:
   where the normalization is
   $B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).  
 
-(It should be pretty clear that the uniform distribution is $\mathrm{Beta}(1, 1)$, i.e.,
-when $N = k = 0$, which is the case of no observational data.  Hence our choice of a
-uniform prior, since it too is a Beta function.)  
+  (It should be pretty clear that the uniform distribution is $\mathrm{Beta}(1, 1)$, i.e.,
+  when $N = k = 0$, which is the case of no observational data.  Hence our choice of a
+  uniform prior, since it too is a Beta function.)  
 
 If we really need a point estimate of $p$, we can take the median of the posterior Beta
 distribution.  (For technical reasons, there's a popular method of taking the _mode_,
