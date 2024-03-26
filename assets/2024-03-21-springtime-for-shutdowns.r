@@ -71,11 +71,11 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
     cat(sprintf(paste("* Computing Cohen's h for strength of effect",
                       "  - Range of h is -pi to +pi",
                       "  - anything with absolute value over 0.8 is a large effect.\n\n",
-                      sep = "\n")))
+                      sep = "\n")))                    #
     shutdownStrength <- transform(shutdownSignif,      #
                                   AbsCohenh = round(abs(ES.h(NRepublican / NShutdowns, 0.5)),
                                                     digits = 3))
-    print(shutdownStrength)
+    print(shutdownStrength)                            #
     shutdownStrength                                   #
   }                                                    #
 
@@ -107,6 +107,7 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
                 main = "Posterior Beta Densities: Shutdowns Given Republicans in Each Branch")
         legend("topleft", bg = "antiquewhite", inset = 0.01,
                lty = "solid", lwd = 2, col = colors, legend = names(colors))
+
       }, pty = "m",                                    # Maximal plotting area
          bg  = "white",                                # White background
          mar = c(3, 3, 2, 1),                          # Pull in on margins a bit
@@ -139,8 +140,6 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
 
     heraldPhase("Bayesian Posterior Beta Distributions")
     maybeAssign("shutdownBayes", function() { doBeta(shutdownStrength, plotFile, resultsFile) })
-
-    ## *** Save shutdownBayes?
 
   })                                                   # Done
 }                                                      #
