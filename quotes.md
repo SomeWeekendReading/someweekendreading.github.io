@@ -829,6 +829,8 @@ Without both, one doesn't get to the bottom of anything.")
 
 ## The Religious Ones  
 
+"I heard what was said of the universe, heard it and heard it of several thousand years; it is middling well as far as it goes &ndash; but is that all?" &mdash; [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman), _The Complete Writings of Walt Whitman: Leaves of grass_ (ed. 1902), ["Song of Myself", Section 41, ll. 3-6](https://poets.org/poem/song-myself-41#:~:text=I%20heard%20what%20was%20said%20of%20the%20universe%2C%0AHeard%20it%20and%20heard%20it%20of%20several%20thousand%20years%3B%0AIt%20is%20middling%20well%20as%20far%20as%20it%20goes%E2%80%94but%20is%20that%20all%3F).  
+
 "Mit der Dummheit k&auml;mpfen G&ouml;tter selbst vergebens" &ndash; [Friedrich Schiller](https://en.wikipedia.org/wiki/Friedrich_Schiller), _The Maid of Orlean_, III 6 Talbot.  ("Against stupidity, the G-ds themselves contend in vain.")  So&hellip; maybe avoid being stupid as much as we can?  
 
 "Action springs not from thought, but from a readiness for responsibility." &ndash; [Dietrich Bonh&ouml;ffer](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer), ["After Ten Years"](https://www.ushmm.org/information/exhibitions/online-exhibitions/special-focus/dietrich-bonhoeffer/after-ten-years)  
