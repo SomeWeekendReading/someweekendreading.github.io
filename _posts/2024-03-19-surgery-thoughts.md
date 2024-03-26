@@ -158,7 +158,7 @@ together with sheer determination?  They dealt masterfully, is what happened:
     on drugs to set even a single foot down the other path.  
   - [_Cephalexin:_](https://www.drugs.com/keflex.html) Now _this_ is potentially my new
     best friend, at least for the next few days.  It's an antibiotic, and I am adamantly
-    opposed to post-operative infections.  So we are allies in this regard.  x
+    opposed to post-operative infections.  So we are allies in this regard.  
 	
 	The verdict: No overt side effects observed.  It smells a bit bad, but then so do I on
     occasion.  This will do.  
