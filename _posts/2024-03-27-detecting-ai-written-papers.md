@@ -114,7 +114,7 @@ justify objectively what seems clear by eye!
 
 Once the paper is submitted for peer review, I'm sure some reviewer will suggest as much.
 I know I would.  (Though I'd do it helpfully, suggesting some particular examples and
-pointing them at [R](https://www.r-projecct.org/) packages to do it.)  
+pointing them at [R](https://www.r-project.org/) packages to do it.)  
 
 <a href="{{ site.baseurl }}/images/2024-03-27-detecting-ai-written-papers-arxiv-6.jpg"><img src="{{ site.baseurl }}/images/2024-03-27-detecting-ai-written-papers-arxiv-6-thumb.jpg" width="400" height="210" alt="A Gray @ arXiv: Frequency change of disjunctive combined terms over time" title="A Gray @ arXiv: Frequency change of disjunctive combined terms over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2024-03-27-detecting-ai-written-papers-arxiv-7.jpg"><img src="{{ site.baseurl }}/images/2024-03-27-detecting-ai-written-papers-arxiv-7-thumb.jpg" width="400" height="210" alt="A Gray @ arXiv: Frequency change of disjunctive combined terms, including counts, over time" title="A Gray @ arXiv: Frequency change of disjunctive combined terms, including counts, over time" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
