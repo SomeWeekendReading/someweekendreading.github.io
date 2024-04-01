@@ -214,15 +214,16 @@ _8 individual &uuml;ber-wealthy individuals,_ according to Oxfam in 2017.
 
 [David Brin](https://en.wikipedia.org/wiki/David_Brin) suggests the problem is worse,
 since many assets have no clear owner.  All traces disappear into a maze of shell
-corporations to conceal ownership and evade taxes.  He proposes that anything with no
-clear title of ownership can be escheated to a government; holders can avoid this penalty
+corporations to conceal ownership and evade taxes.  He proposes a
+["world ownership treaty"](https://davidbrin.blogspot.com/2013/12/the-chief-threat-to-our-great.html#:~:text=%3D%3D%20A%20transparency%20alternative%20%3D%3D),
+that anything with no
+clear ownership can be escheated to a government; holders can avoid this penalty
 simply by openly declaring their ownership.  
 
 > Crises are now normal in this global economic system that depletes natural and social
 > capital, energy and time in the name of economic growth at all costs.  
 
 <img src="{{ site.baseurl }}/images/2024-04-01-unaffordable-rich-ssc-1.jpg" width="400" height="109" alt="Scott Alexander (Siskind) @ SlateStarCodex: Meditations on Moloch" title="Scott Alexander (Siskind) @ SlateStarCodex: Meditations on Moloch" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2024-04-01-unaffordable-rich-ssc-2.jpg" width="400" height="111" alt="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" title="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube.com/embed/6ZpaWOLjWx0?si=ew2vn3ElEyE2fIaV" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 If you fetishize economic growth over all else, you are taking Moloch's bargain, in the style of
 [Scott Alexander's masterful essay, "Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
@@ -235,6 +236,7 @@ here is from Fritz Lang's masterful 1927 movie, _Metropolis._ It portrays an upp
 na&iuml;f discovering the hellish life of workers who are human sacrifices to production
 quotas, personified by Moloch as a direct economic comparison.  
 
+<img src="{{ site.baseurl }}/images/2024-04-01-unaffordable-rich-ssc-2.jpg" width="400" height="111" alt="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" title="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 For a counter to Scott's Moloch essay, see his essay,
 [The Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/) <sup id="fn5a">[[5]](#fn5)</sup>:
 once in a great while, just very occasionally, emergent phenomena conspire to let us rise
