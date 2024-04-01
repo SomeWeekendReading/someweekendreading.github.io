@@ -88,7 +88,7 @@ Two other conclusions were pretty stark:
   there is no record of vaccination).  At this point, remaining unvaccinated is just a
   death wish, and we desperately need to educate elders about this to get them
   vaccinated.  
-  - __NB:__ There is a nuance here, since we'r observing that
+  - __NB:__ There is a nuance here, since we're observing that
     $\Pr(\mathrm{Unvaccinated} \| \mathrm{Hospitalized})$ is high, since we're looking only at
     the hospitalized population.  
   - The real risk of course is the Bayesian dual,
