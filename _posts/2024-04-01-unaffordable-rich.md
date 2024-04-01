@@ -225,18 +225,20 @@ simply by openly declaring their ownership.
 <img src="{{ site.baseurl }}/images/2024-04-01-unaffordable-rich-ssc-2.jpg" width="400" height="111" alt="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" title="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube.com/embed/6ZpaWOLjWx0?si=ew2vn3ElEyE2fIaV" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 If you fetishize economic growth over all else, you are taking Moloch's bargain, in the style of
-[Scott Alexander's masterful essay](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
-<sup id="fn4a">[[4]](#fn4)</sup>
+[Scott Alexander's masterful essay, "Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
+<sup id="fn4a">[[4]](#fn4)</sup>  
+
 Moloch is not one of The Good Guys: he was a Canaanite deity, whose bargain was: he gives
-you military victory, power, and wealth in exchange for sacrificint everything else you
-love, in this case by burning your children to death in a red-hot metal idol.  For a
-counter to Scott's Moloch essay, see his essay,
+you military victory, power, and wealth in exchange for sacrificing everything else you
+love, in this case by burning your children to death in a red-hot metal idol.  The video
+here is from Fritz Lang's masterful 1927 movie, _Metropolis._ It portrays an upper-class
+na&iuml;f discovering the hellish life of workers who are human sacrifices to production
+quotas, personified by Moloch as a direct economic comparison.  
+
+For a counter to Scott's Moloch essay, see his essay,
 [The Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/) <sup id="fn5a">[[5]](#fn5)</sup>:
 once in a great while, just very occasionally, emergent phenomena conspire to let us rise
-above our social Darwinist origins to pursue social justice.  (The video here is from
-Fritz Lang's masterful 1927 movie, _Metropolis._ It protrays an upper-class na&iuml;f
-discovering the hellish life of workers who are human sacrifices to production quotas,
-personified by Moloch.)  
+above our social Darwinist origins to pursue social justice.  
 
 It used to be that corporate leaders were capable of pursuing multiple goals: profit for
 the shareholders, of course, but also the needs of their workforce, their customers, their
