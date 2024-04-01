@@ -225,7 +225,7 @@ simply by openly declaring their ownership.
 <img src="{{ site.baseurl }}/images/2024-04-01-unaffordable-rich-ssc-2.jpg" width="400" height="111" alt="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" title="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <iframe width="400" height="224" src="https://www.youtube.com/embed/6ZpaWOLjWx0?si=ew2vn3ElEyE2fIaV" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 If you fetishize economic growth over all else, you are taking Moloch's bargain, in the style of
-[Scott Alexander's masterful essay](https://slatestarcodex.com/2014/07/30/meditations-on-moloch).
+[Scott Alexander's masterful essay](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
 <sup id="fn4a">[[4]](#fn4)</sup>
 Moloch is not one of The Good Guys: he was a Canaanite deity, whose bargain was: he gives
 you military victory, power, and wealth in exchange for sacrificint everything else you
@@ -277,7 +277,7 @@ sure.  But it's _not_ unattainable if one remains employed and saves at a reason
 in a tax-sheltered retirement plan (IRA, Roth IRA, 401(k), Roth 401(k)) over a career.  
 
 Indeed, right here on this Crummy Little Blog That Nobody Reads, we wrote
-[a piece on Stanley &amp; Danko's _Millionaire Next Door_]({{ site.baseurl }}/bayes-mnd). <sup id="fn6a">[[6]](#fn6)</sup>
+[a piece on Stanley &amp; Danko's _Millionaire Next Door_]({{ site.baseurl }}/bayes-mnd/). <sup id="fn6a">[[6]](#fn6)</sup>
 We pointed out that it's very difficult indeed to join the top 1% in wealth, but it's not
 terribly difficult to have a pretty good shot at the top 10%, or 20% worst case.  
 
@@ -289,8 +289,8 @@ noticeable for them, except that everything else around them gets better.
 
 ## The Weekend Conclusion  
 
-["Eat the rich"](https://en.wikipedia.org/wiki/Eat_the_rich) is a popular slogan among the
-young in the West now.  Better slogans might be: "tax the rich", and "expose the rich" to
+["Eat the rich"](https://en.wikipedia.org/wiki/Eat_the_rich) is a popular slogan among
+young folks in the West now.  Better slogans might be: "tax the rich", and "expose the rich" to
 public scrutiny of what they own.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
@@ -327,4 +327,4 @@ NB: Wilkinson &amp; Pickett are authors of [_Why More Equal Societies Almost Alw
 
 <a id="fn5">5</a>: SA Siskind, ["The Goddess of Everything Else"](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/), [_Slate Star Codex_](https://slatestarcodex.com/) blog, 2015-Aug-17.  Scott's current blog is [_Astral Codex Ten_](https://www.astralcodexten.com/). [↩](#fn5a)  
 
-<a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Bayes Rule vs The Millionaire Next Door"]({{ site.baseurl }}/bayes-mnd), _Some Weekend Reading_ blog, 2021-Jun-01. [↩](#fn6a)  
+<a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Bayes Rule vs The Millionaire Next Door"]({{ site.baseurl }}/bayes-mnd/), _Some Weekend Reading_ blog, 2021-Jun-01. [↩](#fn6a)  
