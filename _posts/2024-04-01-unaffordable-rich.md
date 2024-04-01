@@ -221,9 +221,22 @@ simply by openly declaring their ownership.
 > Crises are now normal in this global economic system that depletes natural and social
 > capital, energy and time in the name of economic growth at all costs.  
 
-If you fetishize economic growth over all else, you are taking
-[Moloch's bargain](https://slatestarcodex.com/2014/07/30/meditations-on-moloch), 
-in the style of Scott Alexander's masterful essay.  Moloch is not one of The Good Guys.  
+<img src="{{ site.baseurl }}/images/2024-04-01-unaffordable-rich-ssc-1.jpg" width="400" height="109" alt="Scott Alexander (Siskind) @ SlateStarCodex: Meditations on Moloch" title="Scott Alexander (Siskind) @ SlateStarCodex: Meditations on Moloch" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2024-04-01-unaffordable-rich-ssc-2.jpg" width="400" height="111" alt="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" title="Scott Alexander (Siskind) @ SlateStarCodex: The Goddess of Everything Else" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<iframe width="400" height="224" src="https://www.youtube.com/embed/6ZpaWOLjWx0?si=ew2vn3ElEyE2fIaV" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+If you fetishize economic growth over all else, you are taking Moloch's bargain, in the style of
+[Scott Alexander's masterful essay](https://slatestarcodex.com/2014/07/30/meditations-on-moloch).
+<sup id="fn4a">[[4]](#fn4)</sup>
+Moloch is not one of The Good Guys: he was a Canaanite deity, whose bargain was: he gives
+you military victory, power, and wealth in exchange for sacrificint everything else you
+love, in this case by burning your children to death in a red-hot metal idol.  For a
+counter to Scott's Moloch essay, see his essay,
+[The Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/) <sup id="fn5a">[[5]](#fn5)</sup>:
+once in a great while, just very occasionally, emergent phenomena conspire to let us rise
+above our social Darwinist origins to pursue social justice.  (The video here is from
+Fritz Lang's masterful 1927 movie, _Metropolis._ It protrays an upper-class na&iuml;f
+discovering the hellish life of workers who are human sacrifices to production quotas,
+personified by Moloch.)  
 
 It used to be that corporate leaders were capable of pursuing multiple goals: profit for
 the shareholders, of course, but also the needs of their workforce, their customers, their
@@ -264,7 +277,7 @@ sure.  But it's _not_ unattainable if one remains employed and saves at a reason
 in a tax-sheltered retirement plan (IRA, Roth IRA, 401(k), Roth 401(k)) over a career.  
 
 Indeed, right here on this Crummy Little Blog That Nobody Reads, we wrote
-[a piece on Stanley &amp; Danko's _Millionaire Next Door_]({{ site.baseurl }}/bayes-mnd). <sup id="fn4a">[[4]](#fn4)</sup>
+[a piece on Stanley &amp; Danko's _Millionaire Next Door_]({{ site.baseurl }}/bayes-mnd). <sup id="fn6a">[[6]](#fn6)</sup>
 We pointed out that it's very difficult indeed to join the top 1% in wealth, but it's not
 terribly difficult to have a pretty good shot at the top 10%, or 20% worst case.  
 
@@ -310,4 +323,8 @@ NB: Wilkinson &amp; Pickett are authors of [_Why More Equal Societies Almost Alw
 
 <a id="fn3">3</a>: R Costanza, ["To build a better world, stop chasing economic growth"](https://www.nature.com/articles/d41586-023-04029-8), _Nature_ 624, pp. 519-521, 2023-Dec-20. DOI: [10.1038/d41586-023-04029-8](https://doi.org/10.1038/d41586-023-04029-8).  [↩](#fn3a)  
 
-<a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Bayes Rule vs The Millionaire Next Door"]({{ site.baseurl }}/bayes-mnd), _Some Weekend Reading_ blog, 2021-Jun-01. [↩](#fn4a)  
+<a id="fn4">4</a>: SA Siskind, ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), [_Slate Star Codex_](https://slatestarcodex.com/) blog, 2014-Jul-30.  Scott's current blog is [_Astral Codex Ten_](https://www.astralcodexten.com/). [↩](#fn4a)  
+
+<a id="fn5">5</a>: SA Siskind, ["The Goddess of Everything Else"](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/), [_Slate Star Codex_](https://slatestarcodex.com/) blog, 2015-Aug-17.  Scott's current blog is [_Astral Codex Ten_](https://www.astralcodexten.com/). [↩](#fn5a)  
+
+<a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Bayes Rule vs The Millionaire Next Door"]({{ site.baseurl }}/bayes-mnd), _Some Weekend Reading_ blog, 2021-Jun-01. [↩](#fn6a)  
