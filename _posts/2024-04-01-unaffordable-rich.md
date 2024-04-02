@@ -163,7 +163,7 @@ The medicines Wilkinson &amp; Pickett prescribe for our illness are:
 - __It might be wise to experiment with a _consumption tax:_ a levy paied on income minus
   savings.__  If you save &amp; invest a lot, you don't pay much; if you spend a lot, then
   you get taxed.  This would reduce some of the status-signalling expenditure,
-  particularly on the part of the wealthy.  
+  particularly on the part of the wealthy, though really for all of us.  
 - __Global legislation is needed on corporate governance, to ensure that especially the
   large corporations are run fairly and transparently.__  The ratio of top to bottom pay
   rates of more than 200:1 is just not sustainable, since it concentrates wealth in the
