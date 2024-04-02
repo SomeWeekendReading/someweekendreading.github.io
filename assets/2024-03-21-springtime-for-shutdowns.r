@@ -22,6 +22,7 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
                  dataFile     = "2024-03-21-springtime-for-shutdown-data.tsv",
                  resultsFile  = "2024-03-21-springtime-for-shutdown-results.tsv",
                  plotFile     = "2024-03-21-springtime-for-shutdown.png",
+                 plotFile2    = "2024-03-21-springtime-for-shutdown-2.png",
                  txFile       = "2024-03-21-springtime-for-shutdown.txt") {
 
   makeData <- function(dataStr, dataFile) {            # Convert string to dataframe
@@ -127,6 +128,32 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
     shutdownBayes                                      # Return augmented dataframe
   }                                                    #
 
+  doBeta2 <- function(RepTerms, RepShutdowns, DemTerms, DemShutdowns, plotFile2,
+                      nPoints = 1000,
+                      colors  = c("Republican" = "red", "Democratic" = "blue")) {
+    f <- file.path(".", plotFile2)                     #
+    withPNG(f, 700, 700, FALSE, function() {           # Capture graphics to file
+      withPars(function(){                             # Save/restore graphics parameters
+        bdf <- transform(data.frame(ps = seq(from = 0.0, to = 1.0, length.out = nPoints)),
+                         Republican = dbeta(ps, RepShutdowns + 1, RepTerms - RepShutdowns + 1),
+                         Democratic = dbeta(ps, DemShutdowns + 1, DemTerms - DemShutdowns + 1))
+        bdf <- bdf[, c("ps", names(colors))]           # Put cols in right order
+        matplot(x = bdf[, 1], y = bdf[, -1],
+                type = "l", lty = "solid", lwd = 2, col = colors,
+                xlab = "p", ylab = "Pr(pShutdown | Party)",
+                main = "Posterior Beta Density: Shutdown Probability by Party")
+        legend("topright", bg = "antiquewhite", inset = 0.01,
+               lty = "solid", lwd = 2, col = colors, legend = names(colors))
+
+      }, pty = "m",                                    # Maximal plotting area
+         bg  = "white",                                # White background
+         mar = c(3, 3, 2, 1),                          # Pull in on margins a bit
+         mgp = c(1.7, 0.5, 0),                         # Axis title, labels, ticks
+         ps  = 16)                                     # Larger type size for file capture
+    })                                                 #
+    cat(sprintf("\n* Bayesian Beta postieror of p shutdowns to %s.", f))
+  }
+
   withTranscript(inDir = ".", resultsDir = ".", transcriptFile = txFile,
                  name = "Republicans & Shutdowns", function() {
     heraldPhase("Building dataframe of data")          # Read from input string
@@ -140,6 +167,9 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
 
     heraldPhase("Bayesian Posterior Beta Distributions")
     maybeAssign("shutdownBayes", function() { doBeta(shutdownStrength, plotFile, resultsFile) })
+
+    ## Addendum: posterior beta of probability of shutdown for each party in House
+    doBeta2(11, 6, 6, 0, plotFile2)
 
   })                                                   # Done
 }                                                      #
