@@ -145,7 +145,7 @@ But the picture is damning:
 - Look in the lower left, at all those well-developed European countries.  Very good on
   economic inequality control, and also very good in terms of social health and
   environment.  
-- Also look at Japan middling performance on economic inequality, but superb performance
+- Also look at Japan: middling performance on economic inequality, but superb performance
   on environmental and social health.  Japanese culture is a very peculiar beast: the
   _ethos_ of "we're all in this together" is _very_ strong with them.  So while there's
   certainly _room_ to be culturally exceptional, it's clear Japan does this and the US
