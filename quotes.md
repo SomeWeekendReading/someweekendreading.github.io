@@ -266,7 +266,7 @@ they may more perfectly respect it." &mdash; [G. K. Chesterton](https://en.wikip
 
 "All that we want for Government is a man not criminal and insane..." 
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), 
-[_The Napoleon of Notting Hill_](https://en.wikipedia.org/wiki/The_Napoleon_of_Notting_Hill), p. 44.  
+[_The Napoleon of Notting Hill,_](https://en.wikipedia.org/wiki/The_Napoleon_of_Notting_Hill) p. 44.  
 
 "The whole modern world has divided itself into Conservatives and Progressives. The
 business of Progressives is to go on making mistakes. The business of the Conservatives is
@@ -950,7 +950,7 @@ idealism is only a hobby." &mdash; [G. K. Chesterton](https://en.wikipedia.org/w
 
 "The Church endeavoured to institute a machinery of pardon; the State has only a machinery of punishment.  The State can only free society from the criminal; the Church sought to free the criminal from the crime." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [letter to the _Daily News_ 1905-Aug-16](https://www.jordanmposs.com/blog/2019/2/27/whats-wrong-chesterton).  
 
-"...there is a law written in the darkest of the Books of Life, and it is this: If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are[Pg 24] in frightful danger of seeing it for the first time." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [_The Napoleon of Notting Hill_](https://en.wikipedia.org/wiki/The_Napoleon_of_Notting_Hill), p. 23-24.  
+"...there is a law written in the darkest of the Books of Life, and it is this: If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are [Pg 24] in frightful danger of seeing it for the first time." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), [_The Napoleon of Notting Hill_](https://en.wikipedia.org/wiki/The_Napoleon_of_Notting_Hill), p. 23-24.  
 
 "All science, even the divine science, is a sublime detective story. Only it is not set to detect why a man is dead; but the darker secret of why he is alive."
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
