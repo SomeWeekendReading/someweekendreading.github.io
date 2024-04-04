@@ -55,7 +55,7 @@ when we see $N$ terms of congress over which there were $k$ shutdowns.
 $$
 \begin{align*}
   p_{\mbox{Shutdown} | \mbox{House Republican}} &\sim \mbox{Beta}(6 + 1, 11 - 6 + 1) \\
-  p_{\mbox{Shutdown} | \mbox{House Democratic}} &\sim \mbox{Beta}(0 + 1, 6 - 0 + 1)
+  p_{\mbox{Shutdown} | \mbox{House Democratic}} &\sim \mbox{Beta}(0 + 1, \:\:6 - 0 + 1)
 \end{align*}
 $$
 
@@ -66,13 +66,13 @@ shown here.
 - The red curve is for when Republicans control the House.  It is the distribution for
   $p$, the probability of a shutdown under their control, inferred from the data.  
   - The point estimate above was 54.5%, and that's where the red curve peaks.  
-  - The width of the red curve gives us some idea about confidence limits, in this case
-    saying we're pretty sure $p$ is in [0.35, 0.75].  
+  - The width of the red curve gives us some idea about confidence limits.  Using the Beta
+    quantile function, the 95% confidence limits say  we're pretty sure $p$ is in [0.276, 0.789].  
 - The blue curve is for when the Democrats control the House.  It is also the distribution for
   $p$, the probability of a shutdown under their control, inferred from the data.  
   - The point estimate above was 0%, and indeed that's where the blue curve peaks.  
-  - The shape of the blue curve tells us we're pretty sure $p$ is in [0.00, 0.25].  
-  
+  - The shape of the blue curve tells us we're pretty sure $p$ is in [0.003, 0.409].  
+
 Basically, the red and blue curves show us that, even when we take into account
 uncertainty from the only 15 terms of data, we're quite sure Republicans just make more
 trouble with shutdowns.  

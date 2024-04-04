@@ -152,6 +152,16 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
          ps  = 16)                                     # Larger type size for file capture
     })                                                 #
     cat(sprintf("\n* Bayesian Beta postieror of p shutdowns to %s.", f))
+    cat(sprintf("\n  - Republican quantiles: \n"))
+    qs <- c(0.025, 0.500, 0.975)
+    repQuantiles <- qbeta(qs, RepShutdowns + 1, RepTerms - RepShutdowns + 1)
+    names(repQuantiles) <- qs
+    print(repQuantiles)
+    cat(sprintf("\n  - Democratic quantiles: \n"))
+    demQuantiles <- qbeta(qs, DemShutdowns + 1, DemTerms - DemShutdowns + 1)
+    names(demQuantiles) <- qs
+    print(demQuantiles)
+    cat("\n")
   }
 
   withTranscript(inDir = ".", resultsDir = ".", transcriptFile = txFile,
@@ -169,7 +179,8 @@ doit <- function(dataStr = "Date	House	Senate	Presidency	Days
     maybeAssign("shutdownBayes", function() { doBeta(shutdownStrength, plotFile, resultsFile) })
 
     ## Addendum: posterior beta of probability of shutdown for each party in House
-    doBeta2(11, 6, 6, 0, plotFile2)
+    heraldPhase("Coda: Posterior Beta Distributions for Probability of Shutdown")
+    doBeta2(11, 6, 6, 0, plotFile2)                    #
 
   })                                                   # Done
 }                                                      #

@@ -1,5 +1,5 @@
 
-* Republicans & Shutdowns on Tue Apr 02 19:49:08 2024
+* Republicans & Shutdowns on Thu Apr 04 12:06:31 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-03-21-springtime-for-shutdown.txt
@@ -28,5 +28,18 @@ Bayesian Posterior Beta Distributions:
 
 * Using already-loaded value of shutdownBayes.
 
+Coda: Posterior Beta Distributions for Probability of Shutdown:
+---------------------------------------------------------------
+
+
 * Bayesian Beta postieror of p shutdowns to ./2024-03-21-springtime-for-shutdown-2.png.
-* Republicans & Shutdowns completed Tue Apr 02 19:49:08 2024 (0.0 sec elapsed).
+  - Republican quantiles: 
+    0.025       0.5     0.975 
+0.2766697 0.5404928 0.7890554 
+
+  - Democratic quantiles: 
+      0.025         0.5       0.975 
+0.003610297 0.094276336 0.409616397 
+
+
+* Republicans & Shutdowns completed Thu Apr 04 12:06:31 2024 (0.0 sec elapsed).
