@@ -25,7 +25,9 @@ something of a meat-grinder, fed by continual human sacrifice of aspirants.  You
 work so hard, move around the world so often, and generally have such monomaniacal
 devotion that it's hard to maintain good mental health, let alone start a family.  
 
-I'm here to say: yes, that's exactly the way things are.  
+I'm here to say: yes, that's exactly the way things are.  Even so many years ago when I
+toyed with that path.  I got out earlier than her, just after my PhD.  But yes, it was
+giving up on a dream:  
 - Ever since childhood, I wanted to be a professor.  Specifically, a physics professor.  I
   wanted to _understand._  
 - As an undergrad, I discovered I _love_ teaching.  All kinds of things, too, not just
@@ -35,16 +37,20 @@ I'm here to say: yes, that's exactly the way things are.
   them, if only for a few seconds.  
 - Sometimes the things I learned just made me gasp at their beauty, like the first time I
   really understood
-  [the Wigner-Eckart Theorem](https://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem).  
+  [the Wigner-Eckart Theorem](https://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem).
+  I wanted more of that.  _Lots_ more of that.  
 - My professors, but undergrad and grad school, were people I deeply admired.  They were
   widely read in literature and history.  They were (mostly) kind, and funny, and smart.
+  When I talked to them, I got a lively sense of _presence_, that somebody was at home here,
+  and they also wanted to _understand._  
 
-They seemed to be the embodiments of Huxley's admonition:  
-> "Try to learn something about everything and everything about something." &ndash;
-> [Thomas Henry Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley), _Nature_
-> Vol. XLVI (30 October 1902), p. 658.  
+  They seemed to be the embodiments of Huxley's admonition:  
+  > "Try to learn something about everything and everything about something." &ndash;
+  > [Thomas Henry Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley), _Nature_
+  > Vol. XLVI (30 October 1902), p. 658.  
 
-I wanted more than anything to build a life like that for myself.  
+I wanted more than anything to build a life like that for myself.  And I wanted to use
+that life to uplift everyone else.  
 
 But it was not to be.  When I finished my PhD, the job market was bad even for academic
 job markets, which are usually pretty horrible anyway.  Sure, I had this PhD from a
@@ -54,7 +60,7 @@ prestigious institution.  But that didn't matter much:
 - When I looked at tenure rates, the institutions I wanted were tenuring about 1 in 14 of
   their junior faculty.  That meant almost certain failure: although I'm pretty smart,
   all my competitors were equally smart, and all willing to work 80 hours a week for
-  years&hellip; and 1 in 14 was the _best odds_ of success.  
+  years&hellip; and 1 in 14 was the _best_ chance of success.  
   
 So&hellip; I turned my back on my childhood dream and took an industrial job.  I had the
 connections to get a nice gig doing symbolic AI, and then worked into selling myself for
@@ -74,7 +80,7 @@ put an end to that.  (Hence the birth of this Crummy Little Blog That Nobody Rea
 
 But&hellip; Sabine has it right.  The process is a long, uphill climb.  The result is
 partly determined by chance and the state of the job market and research funding at one
-particular moment.  It's not fair, it's not good, but it's all we've got.  
+particular moment.  It's not fair and it's not good, but it's all we've got.  
 
 
 ## The Weekend Conclusion  
