@@ -56,7 +56,7 @@ But it was not to be.  When I finished my PhD, the job market was bad even for a
 job markets, which are usually pretty horrible anyway.  Sure, I had this PhD from a
 prestigious institution.  But that didn't matter much:  
 - I knew people who'd done that, _and_ a couple prestigious postdocs (yet another several
-  years of apprenticeship), but couldn't even get tenure-track interviews.  
+  years of low-paying apprenticeship), but couldn't even get tenure-track interviews.  
 - When I looked at tenure rates, the institutions I wanted were tenuring about 1 in 14 of
   their junior faculty.  That meant almost certain failure: although I'm pretty smart,
   all my competitors were equally smart, and all willing to work 80 hours a week for
