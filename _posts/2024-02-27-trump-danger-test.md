@@ -292,4 +292,4 @@ incarcerated pending trial.  <sup id="fn5a">[[5]](#fn5)</sup>
 
 <a id="fn5">5</a>: Not a fan of [Cato the Elder](https://en.wikipedia.org/wiki/Cato_the_Elder), but I'm beginning to understand his frustration with political foot-dragging to avoid dealing with a clear and present danger to the republic.  
 
-So&hellip; _Ceterum censeo Trump incarceranam esse!_[↩](#fn5a)  
+So&hellip; _Ceterum censeo Trump incarcerandam esse!_[↩](#fn5a)  
