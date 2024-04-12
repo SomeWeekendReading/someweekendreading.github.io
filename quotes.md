@@ -756,6 +756,8 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "On the one side spiritual freedom and truth, reason and culture, evolution and progress stand under the bright banner of science; on the other side, under the black flag of hierarchy, stand spiritual slavery and falsehood, irrationality and barbarism, superstition and retrogression" &ndash; [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel), 1874.  Translated & quoted by [SJ Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould), ["The Great Asymmetry"](https://www.science.org/doi/10.1126/science.279.5352.812), _Science_ 279:5352, 812-813 1998-Feb-06. The original is EH Haeckel, [_Anthropogenie: Keimes-und Stammes-Geschichte des Menschen_](https://wellcomecollection.org/works/r5g9xrng) (Engelmann, Leipzig, 1874), pp. xiii-xiv.  
 
+"Pure math is beautiful (and occasionally useful) and applied math is useful (and occasionally beautiful). But there's no reason to study fake applied math that is neither beautiful or useful." &ndash; [John D. Cook](https://www.johndcook.com/blog/about-2/), ["Precise Answers to Useless Questions"](https://www.johndcook.com/blog/2024/04/12/precise-answers-to-useless-questions/), 2024-Apr-12.  
+
 
 ## The Statistical Ones  
 
