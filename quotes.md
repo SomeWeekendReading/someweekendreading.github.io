@@ -768,6 +768,9 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 "The best thing about being a statistician is that you get to play in everyone's
 backyard."  &mdash; [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)  
 
+"There is no point in being precise when you don't know what you're talking about."
+&mdash; [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)  
+
 "To understand God's thoughts we must study statistics, for these are the measures of
 His purpose." &mdash; [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) (1820-1910)  
 
