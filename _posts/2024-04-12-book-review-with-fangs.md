@@ -343,13 +343,13 @@ like this.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: S Mochizuki, ["Inter-universal Teichmuller Theory I: Construction of Hodge Theaters"](http://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20I.pdf), 2012. [↩](#fn1a)  
+<a id="fn1">1</a>: S Mochizuki, ["Inter-universal Teichmuller Theory I: Construction of Hodge Theaters"](https://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20I.pdf), 2012. [↩](#fn1a)  
 
-<a id="fn2">2</a>: S Mochizuki, ["Inter-universal Teichmuller Theory II: Hodge–Arakelov-theoretic Evaluation"](http://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20II.pdf), 2012. [↩](#fn2a)  
+<a id="fn2">2</a>: S Mochizuki, ["Inter-universal Teichmuller Theory II: Hodge–Arakelov-theoretic Evaluation"](https://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20II.pdf), 2012. [↩](#fn2a)  
 
-<a id="fn3">3</a>: S Mochizuki, ["Inter-universal Teichmuller Theory III: Canonical Splittings of the Log-theta-lattice"](http://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20III.pdf), 2012. [↩](#fn3a)  
+<a id="fn3">3</a>: S Mochizuki, ["Inter-universal Teichmuller Theory III: Canonical Splittings of the Log-theta-lattice"](https://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20III.pdf), 2012. [↩](#fn3a)  
 
-<a id="fn4">4</a>: S Mochizuki, ["Inter-universal Teichmuller Theory IV: Log-volume Computations and Set-theoretic Foundations"](http://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20IV.pdf), 2012. [↩](#fn4a)  
+<a id="fn4">4</a>: S Mochizuki, ["Inter-universal Teichmuller Theory IV: Log-volume Computations and Set-theoretic Foundations"](https://www.kurims.kyoto-u.ac.jp/~motizuki/Inter-universal%20Teichmuller%20Theory%20IV.pdf), 2012. [↩](#fn4a)  
 
 <a id="fn5">5</a>: F Kato, [_Mathematics That Bridges Universes: The Shock of IUT Theory_](https://www.google.com/books/edition/%E5%AE%87%E5%AE%99%E3%81%A8%E5%AE%87%E5%AE%99%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E6%95%B0%E5%AD%A6/gaMJxQEACAAJ?hl=en), (JP) Zbl Zbl 07530203 Tokyo: Kadokawa Shoten (ISBN 978-4-04-400417-0/pbk), 304 pp., 2019.  
 
