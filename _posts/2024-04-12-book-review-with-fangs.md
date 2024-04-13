@@ -285,7 +285,7 @@ In explaining Mochizuki's refusal to talk to groups outside Japan:
 I don't suppose it would help to say Westerners, via Wittgenstein, also know about the
 unspeakable?  
 
-> [“Wovon man nicht sprechen kann, darüber muß man schweigen.”](http://localhost:4000/quotes/#:~:text=%E2%80%9CWovon%20man%20nicht%20sprechen%20kann%2C%20dar%C3%BCber%20mu%C3%9F%20man%20schweigen.%E2%80%9D%20(Whereof%20one%20cannot%20speak%2C%20thereof%20must%20one%20remain%20silent.)%20%E2%80%94%20Ludwig%20Wittgenstein%2C%20Tractatus%2C%20Proposition%207%20(at%20which%20point%20the%20Tractatus%20ends)) (Whereof one cannot speak, thereof must one remain silent.) — Ludwig Wittgenstein, _Tractatus_, Proposition 7 (at which point the _Tractatus_ ends)  
+> [“Wovon man nicht sprechen kann, darüber muß man schweigen.”]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CWovon%20man%20nicht%20sprechen%20kann%2C%20dar%C3%BCber%20mu%C3%9F%20man%20schweigen.%E2%80%9D%20(Whereof%20one%20cannot%20speak%2C%20thereof%20must%20one%20remain%20silent.)%20%E2%80%94%20Ludwig%20Wittgenstein%2C%20Tractatus%2C%20Proposition%207%20(at%20which%20point%20the%20Tractatus%20ends)) (Whereof one cannot speak, thereof must one remain silent.) — Ludwig Wittgenstein, _Tractatus_, Proposition 7 (at which point the _Tractatus_ ends)  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/HZpVIi3IWhs?si=DcLsa9NCvuKK9Olc" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 Just to make his frustration _very_ clear, Nishimura closes with this music video.
