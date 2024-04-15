@@ -171,7 +171,7 @@ And that's more or less where things stand: most mathematicians think the proof 
 in at least one specific place, while some others defend it but with explanations that the
 rest cannot understand.  _This does not normally happen._  
 
-#### Some _Weirdness_ Crops Up__
+#### Some _Weirdness_ Crops Up  
 
 Why did I refer to Mochizuki as a "rebel" mathematician?
 
