@@ -761,6 +761,8 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 ## The Statistical Ones  
 
+"In our theories, we rightly search for unification, but real life is both complicated and short, and we make no mockery of honest ad hockery." &mdash; [IJ Good](https://en.wikipedia.org/wiki/I._J._Good), [_The Estimation of Probabilities: An Essay on Modern Bayesian Methods_](https://www.google.com/books/edition/The_Estimation_of_Probabilities/wxLvAAAAMAAJ?hl=en), Research Monograph No. 30, MIT Press, ISBN 978-0-262-57015-2, 1965.  
+
 "Essentially, all models are wrong, but some are useful." &mdash; [George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box), [_Empirical Model-Building and Response Surfaces_](https://pdfs.semanticscholar.org/5d09/0074d5fa968d852e4468820cb683040d075a.pdf), 1987.  
 
 "&hellip; all generalizations suck." &mdash; [David Brin](https://en.wikipedia.org/wiki/David_Brin), ["Scholarship vs Science"](http://davidbrin.blogspot.com/2005/08/scholarship-vs-science.html), August 2005. (Including this one?)  

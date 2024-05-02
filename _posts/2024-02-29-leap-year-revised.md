@@ -149,7 +149,7 @@ $$
 So what's the "best" rational approximation to the mean solar year length?  "Best" needs
 some technical definition, since for a rational of arbitrarily large denominator we can
 make arbitrarily accurate approximations.  So pretty much what we mean here is smallest
-error for a given numbe of digits in the denominator (or smaller, after dividing out
+error for a given number of digits in the denominator (or smaller, after dividing out
 common factors).  
 
 We observe the year length is 365.2421897 days, but the rest is some real number with
