@@ -135,12 +135,14 @@ Voting Republican is _bad._
 
 <img src="{{ site.baseurl }}/images/2024-05-07-tax-the-rich-cats-on-the-lookout.jpg" width="400" height="300" alt="The Weekend Publisher and Assistant Weekend Publisher, on the lookout for 'Things To Come'" title="The Weekend Publisher and Assistant Weekend Publisher, on the lookout for 'Things To Come'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The Weekend Publisher and the Assistant Weekend Publisher are on the watch for
-[_Things to Come_](https://en.wikipedia.org/wiki/Things_to_Come).  
-- We can tax the rich, as the US did in the great leveling in the mid-20th
+[_Things to Come_](https://en.wikipedia.org/wiki/Things_to_Come):  
+- We can tax the rich, as the US did in "the great leveling" in the mid-20th
   century <sup id="fn5a">[[5]](#fn5)</sup>.  
-- Or we can "eat the rich", as in the French Revolution.  
+- Or we can "eat the rich", as happened in the French Revolution.  
 
-It _will_ be one or the other.  We can still choose which, for a little while longer.
+It _will_ be one or the other.  
+
+We can still choose which, for a little while longer.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
