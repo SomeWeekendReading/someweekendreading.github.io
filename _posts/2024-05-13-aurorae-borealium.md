@@ -50,7 +50,7 @@ right_ to record it.  The Sun is ejecting flares of X-rays and some huge streams
 sun-stuff in spiral waves that will soon reach Earth and tell us all kinds of things about
 solar physics.  
 
-Oh, and if we're lucky it'll take down our comsats and electrical power distribution
+Oh, and if we're lucky it'll _only_ take down our comsats and electrical power distribution
 grid.  (Back in the 60s, people used to worry about accidental nuclear launches.
 Fortunately, all that stuff is (a) smaller now, and (b) hardened appropriately.)  
 
