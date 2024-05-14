@@ -34,7 +34,7 @@ push-back against the corporate power of late-stage capitalism.
 ## Today's R-to-R Champion(s)  
 
 But&hellip; sometimes people take things to extremes.  Actually, almost always.  There's
-always one in every crowd.  
+always one in every crowd, right?  
 
 It's not that I disapprove of what you're about to see.  I'm just taken aback by the sheer
 _madness_ of the entire thing.  Sure, he has a right to repair his stuff&hellip; it's just
@@ -45,20 +45,19 @@ repair&hellip; well, _something_&hellip; that he's soldering connections back in
 _inside the packaging of an integrated circuit:_  
 <a href="https://social.chinwag.org/@hkz/112424403781587922"><img src="{{ site.baseurl }}/images/2024-05-14-rtr-madness-ex-1.jpg" width="550" height="1098" alt="HKZ @ Mastodon: Soldering INSIDE a chip" title="HKZ @ Mastodon: Soldering INSIDE a chip" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
-Now _that,_ my brothers and sisters, is _devotion._  It is not sanity, but it is
-devotion.  
+Now _that,_ my brothers and sisters, is _devotion._  It is _not_ sanity.  But it _is_ devotion.  
 
 This much I can understand.  After all: there's always one in every crowd, no?  
 
 But what if there's more than one?  Could there be _other_ people, with brains equally
 scrambled?  Surely not, I thought.  But then I had the rashness to look, and was
-disabused of that notion by a second examples in the replies to the above:  
+disabused of that notion by a second example in the replies to the above:  
 <a href="https://social.chinwag.org/@emanuel@schleuss.online/112427286948158072"><img src="{{ site.baseurl }}/images/2024-05-14-rtr-madness-ex-2.jpg" width="550" height="898" alt="Schleussinger @ Mastodon: ALSO soldering INSIDE a chip" title="Schleussinger @ Mastodon: ALSO soldering INSIDE a chip" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 After a bit of hunting, I discovered what is apparently a whole subculture of people who
 are taking their desire to repair to levels best described as pure madness.  They open the
 packaging of integrated circuits and&hellip; make stuff work again.  This is like
-open-heart surgery&hellip; with a soldering iron.  
+open-heart surgery, but with a soldering iron.  
 
 I do not wish to be a member of their tribe.  But I do admire them.  From a safe distance.  
 
