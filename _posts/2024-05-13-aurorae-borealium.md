@@ -148,6 +148,18 @@ the world's beauty.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2024-May-14: Portland Head Light in Maine  
+
+Here's a beautiful photo tweeted by photographer Benjamin Williamson (@photographmaine),
+taken at Cape Elizabeth Maine, at the Portland Head Light:  
+
+<a href="https://twitter.com/photographmaine/status/1790359369751593003"><img src="{{ site.baseurl }}/images/2024-05-13-aurorae-borealium-twitter-3.jpg" width="550" height="1012" alt="Williamson @ Twitter: Aurora borealis 2023-May-10 at Portland Head Light in Cape Elizabeth, Main, USA" title="Williamson @ Twitter: Aurora borealis 2023-May-10 at Portland Head Light in Cape Elizabeth, Main, USA" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
+Being a little bit further north helps a little.  
+
+Being a professional photographer helps a lot!  
+
 ---
 
 ## Notes &amp; References  
