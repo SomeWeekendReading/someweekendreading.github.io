@@ -79,7 +79,7 @@ concern, so great as to cause them to use a couch&hellip; _unconventionally._
 I applied through the CVS web site, logged into my account, entered a few particulars, and
 chose a vaccination appointment later the same day.  
 
-I got there, checked in electronically, and they were read for me even like 15min before
+I got there, checked in electronically, and they were ready for me even like 15min before
 my appointment.  So I got my Moderna booster pretty straightforwardly.  
 
 But, unlike all the other times, I didn't get a photo.  The pharmacist was so fast I

@@ -18,7 +18,7 @@ Ejections in which it spews huge amounts of solar plasma off into space.  That's
 happened this last week.  Here you can see an image of the Sun (not in visible light,
 obviously) on 2024-May-09.  The giant bright spot in the lower right is a giant sunspot,
 about $O(10^5)$ km across &ndash; about 15x the diameter of Earth.  That's our new friend,
-sunspot AR13664.  
+sunspot AR3664.  
 
 You can look at the relevant images yourself, playing around with the time and the
 wavelength window at
