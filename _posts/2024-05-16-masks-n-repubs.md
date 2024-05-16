@@ -19,7 +19,7 @@ about vaccine resistance and mask defiance in the red states of the
 US.  <sup id="fn1a">[[1]](#fn1)</sup> There was quite a bit of data analysis in that post, relating
 vaccine resistance to Trump voting, and so on.  I was particularly struck by the gentleman
 shown here, wearing a fishnet mask at CPAC as the very embodiment of the term for the
-particular stupidity of "malicious compliance".  
+particular variety of stupidity of "malicious compliance" with public health.  
 
 Never mind that the data of the time showed _mask requirements worked_ at reducing
 COVID-19; the conservative mind is apparently unburdened by reason.  
