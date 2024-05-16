@@ -39,8 +39,8 @@ utterly disillusioned with, and ashamed of, their fascist turn.  Yes, this is
 _schadenfreude_.  Yes, it is not a good look.  No, I cannot resist.  
 
 In particular, I tend to watch the YouTube highlights of the previous night's news
-programs on MSNBC: Stephanie Ruhle, Lawrence O'Donnell, Jen Psaki, Rachel Maddow, Joy Reid, Ari
-Melber, Joe Scarborough/Mika Brzezinski, and others.  
+programs on MSNBC: Stephanie Ruhle, Alex Wagner, Lawrence O'Donnell, Jen Psaki, Rachel
+Maddow, Joy Reid, Ari Melber, Joe Scarborough/Mika Brzezinski, and others.  
 
 
 ## About That Gag Order&hellip;  
