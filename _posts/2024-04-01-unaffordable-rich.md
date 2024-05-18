@@ -160,7 +160,7 @@ The medicines Wilkinson &amp; Pickett prescribe for our illness are:
   the [Panama Papers](https://www.icij.org/investigations/panama-papers)), and
   corporations do "inverse mergers" to get their headquarters in tax-favorable places
   unrelated to their actual businesses.  
-- __It might be wise to experiment with a _consumption tax:_ a levy paied on income minus
+- __It might be wise to experiment with a _consumption tax:_ a levy paid on income minus
   savings.__  If you save &amp; invest a lot, you don't pay much; if you spend a lot, then
   you get taxed.  This would reduce some of the status-signalling expenditure,
   particularly on the part of the wealthy, though really for all of us.  

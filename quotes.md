@@ -513,6 +513,12 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
  What is beautiful? (aesthetics) <br>
  What?              (metaphysics)" &ndash; Jan, [Slightly advanced decision theory 102: Four reasons not to be a (naive) utility maximizer](https://www.lesswrong.com/posts/xGPXDNGYebD3rgCoa/slightly-advanced-decision-theory-102-four-reasons-not-to-be), _Less Wrong_, 2021-Nov-23.  
 
+"The pursuit of philosophy is founded on the belief that knowledge is good, even if what
+is known is painful." &ndash; [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russel), 
+["Philosophy for Laymen"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2273.1946.tb00005.x),
+collected in [_Unpopular Essays_](https://archive.org/details/in.ernet.dli.2015.462628/page/n5/mode/2up),
+pp. 35-49.  
+
 "&hellip; there are an infinite number of ways that things can GO wrong but a manageable number of ways that things can BE wrong, so investing in early detection is critical." &ndash; [Dennis Doughty](https://www.linkedin.com/in/dennis-doughty-17a24), [Twitter 2022-Sep-17](https://twitter.com/DennisDoughty/status/1571159565110050818)  
 
 "Logic is not necessarily an instrument for finding truth; on the contrary, truth is necessarily an instrument for using logic." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
