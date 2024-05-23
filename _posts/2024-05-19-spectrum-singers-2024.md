@@ -365,7 +365,7 @@ followed by the more exalted response to ordinary music ("music of the house"):
 > Soft stillness and the night  
 > Become the touches of sweet harmony.  
 
-[And so to bed](https://en.wikipedia.org/wiki/And_So_To_Bed): with that, Paul Ehrlich
+[And so to bed](https://en.wikipedia.org/wiki/And_So_To_Bed): with that, John Ehrlich
 steps down as music director of the Spectrum Singers.  
 
 
