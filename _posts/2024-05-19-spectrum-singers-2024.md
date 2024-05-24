@@ -33,7 +33,7 @@ Traditionally the venue for Spectrum Singers is
 [First Church Congregational, in Cambridge](https://www.firstchurchcambridge.org/).
 (Other musical organizations performing there are the [Boston Early Music Festival](https://bemf.org/),
 the [Cantata Singers](https://www.cantatasingers.org/), the 
-[Seraphim Singers](https://seraphimsingers.org/), and others.  
+[Seraphim Singers](https://www.seraphimsingers.org/), and others.  
 
 Congregational churches (now UCC) have a deep history in New England, and indeed are the
 denomination of my youth.  While this congregation goes back to 1633, the current building
@@ -112,7 +112,7 @@ survived World War II and numerous lesser &ndash; but even more pointlessly brut
 conflicts, we tend to underestimate that.  People wondered how it could even be possible
 to return to normalcy, in a world where "normal" seemed to have been utterly mutilated.   
 
-Still, [as we previously wrote on this CLBTNR]({{ site.baseurl }}/greens-asymmetry),
+Still, [as we previously wrote on this CLBTNR]({{ site.baseurl }}/greens-asymmetry/),
 artists responded in sometimes encouraging ways, as with WH Auden's "September 1, 1939".
 Perhaps, like these composers, we need to learn to "show an affirming flame" in these
 fascism-darkened times.  
@@ -335,7 +335,7 @@ Yes, it's hard to perceive the divine:
 > Let no such man be trusted.  
 
 That's very much in line with
-[a sentiment of Sappho we've quoted before on this CLBTNR]({{ site.baseurl }}/long-time-no-blog#dishonorable-mention).
+[a sentiment of Sappho we've quoted before on this CLBTNR]({{ site.baseurl }}/long-time-no-blog/#dishonorable-mention).
 When Senator Tuberville of Alabama criticized the crew of a US Navy ship for having a poetry night,
 [Sappho #65, "To One Who Loved Not Poetry,"](https://sacred-texts.com/cla/usappho/sph66.htm)
 was just about the only thing to say to barbarians who reject poetry:  
