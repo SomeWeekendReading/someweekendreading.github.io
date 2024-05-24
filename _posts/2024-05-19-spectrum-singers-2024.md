@@ -85,14 +85,14 @@ Yes, it's a small thing.  It still amuses me, though, in a frugal New Englander 
 proud of the music, don't worry about the rest.  Good job there, with unpretentious tickets.  
 
 Now, the program, on the other hand&hellip; you can't call your concert "Time, Space,
-Peace, Music, God" and _not_ be a little bit pretentious!  I don't quite recognize the
-astrophotography, and the program itself carefully avoids giving credit.  
+Peace, Music, God" and _not_ be a little bit pretentious!  (I don't quite recognize the
+astrophotography, and the program itself carefully avoids giving credit.)  
 
-But&hellip; when you look over the pieces, they are also cosmic, almost 
-[in the old-style Russian sense](https://en.wikipedia.org/wiki/Russian_cosmism) of seeing
-the divine in the ordinary and the human.  
+But&hellip; when you look over the pieces, they are also cosmic, almost
+[in the sense of old-style Russian Cosmism](https://en.wikipedia.org/wiki/Russian_cosmism),
+seeing the divine in the ordinary and the human.  
 
-None of the composers would agree that this inspired them, and musicologists would just
+None of the composers would agree that was their inspiration, and musicologists would just
 laugh at the comparison.  Still, it seemed to me that finding the extraordinary in the
 ordinary is a useful skill.  Almost anything is interesting, if examined closely enough.
 (And that may well be the theme of this Crummy Little Blog That Nobody Reads (CLBTNR).)  
@@ -211,8 +211,9 @@ actually makes a Schoenberg with the harmony-dissonance-harmony journey worth ta
 
 <a href="{{ site.baseurl }}/images/2024-05-19-spectrum-singers-2024-vaughan-williams-1.jpg"><img src="{{ site.baseurl }}/images/2024-05-19-spectrum-singers-2024-vaughan-williams-1-thumb.jpg" width="400" height="300" alt="Playing Ralph Vaughan Williams's 'Toward the Unknown Region'" title="Playing Ralph Vaughan Williams's 'Toward the Unknown Region'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 After the harmonically bruising experience of Schoenberg, we need some healing balm.  I
-remarked to a friend who is in the Spectrum Singers, that there's a _reason_ Vaughan Williams
-pieces immediately followed Schoenberg and Ives.  
+remarked to a friend who is in the Spectrum Singers, that there's a _reason_
+[Ralph Vaughan Williams](https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams) pieces
+immediately followed Schoenberg and Ives.  
 
 This piece is based on [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)'s poem
 ["Towards the Unknown Region"](https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Whispers_of_Heavenly_Death/Darest_Thou_Now_O_Soul),
@@ -269,9 +270,10 @@ loon &ndash; but it was [the Divine Madness]({{ site.baseurl }}/tags/#TheDivineM
 
 <a href="{{ site.baseurl }}/images/2024-05-19-spectrum-singers-2024-ives.jpg"><img src="{{ site.baseurl }}/images/2024-05-19-spectrum-singers-2024-ives-thumb.jpg" width="400" height="300" alt="Playing Charles Ives's 'Psalm 90'" title="Playing Charles Ives's 'Psalm 90'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
-Ok, Ives next.  Again, this is a composer whose music does not move me, but his source
-material is excellent, in the choice of Psalm 90.  Generally, I love the Psalms, especially
-the central Davidic ones that start with despair and end with hope.  
+Ok, [Charles Ives](https://en.wikipedia.org/wiki/Charles_Ives) next.  Again, this is a
+composer whose music does not move me, but his source material is excellent, in the choice
+of Psalm 90.  Generally, I love the Psalms, especially the central Davidic ones that start
+with despair and end with hope.  
 
 Ehrlich says in his program notes that this piece may be the only one with which Ives was
 ever fully satisfied:  
@@ -311,7 +313,7 @@ is apparently quite personal:
 And of course, more Vaughan Williams was a welcome balm after the dissonance.  
 
 The text is from Shakespeare, _The Merchant of Venice_, Act V, Scene 1.  It is difficult
-to appreciate what would later be called the "music of the sphere" that has a divine
+to appreciate what would later be called the "music of the spheres" that has a divine
 nature, while we are mortal beings:  
 
 > Such harmony is in immortal souls;  
@@ -334,7 +336,7 @@ Yes, it's hard to perceive the divine:
 
 That's very much in line with
 [a sentiment of Sappho we've quoted before on this CLBTNR]({{ site.baseurl }}/long-time-no-blog#dishonorable-mention).
-When Sen Tuberville of Alabama criticized the crew of a US Navy ship for having a poetry night,
+When Senator Tuberville of Alabama criticized the crew of a US Navy ship for having a poetry night,
 [Sappho #65, "To One Who Loved Not Poetry,"](https://sacred-texts.com/cla/usappho/sph66.htm)
 was just about the only thing to say to barbarians who reject poetry:  
 
