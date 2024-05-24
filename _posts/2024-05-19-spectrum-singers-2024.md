@@ -47,7 +47,7 @@ It is architecturally reminiscent of a cathedral, with transept and nave as show
 - You can see some medallions in the spandrels at the top of the arches.  The marginal vision
   of my now-ancient eyes makes them difficult to make out in detail.  But some glaring at them
   after the concert seems to have revealed that one was a capital &Alpha;/&Omega; motif and
-  the other a capital &Chi;. Given the congregational history, they of course makes sense
+  the other a capital &Chi;. Given the Congregational history, they of course makes sense
   as Christological symbols.  
 
 So it's basically a beautiful old building: about 150 years as a physical construct, and
@@ -130,7 +130,7 @@ What can one say about [Arnold Schoenberg](https://en.wikipedia.org/wiki/Arnold_
 You either love his music or hate it, and I am not numbered among those who love it.
 Dissonance is not my main drag.  12-tone is annoyingly incomprehensible.  (With probably 1
 exception: mathemusician (self-yclept) Vi Hart's magisterial and hilarious tutorial
-video. <sup id="fn2a">[[2]](#fn2)</sup>)  
+video, shown here. <sup id="fn2a">[[2]](#fn2)</sup>)  
 
 Yes, this betrays me as remarkably unsophisticated.  (Just to seal your low opinion of my low
 taste, I don't care for jazz, either.)  In Japanese, I am a ダサい 野蛮人 (_dasai yabanjin_, 
