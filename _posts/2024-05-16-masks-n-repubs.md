@@ -65,7 +65,7 @@ It's a trifecta.
 
 Just to sweeten the pot, they also wanted to increase toll road late fees by 50%, allow
 billboard companies to cut down more roadside trees, and automatically charge 16 & 17 year
-old kids as adults in criminal cases (but not to lower the age of majority).  
+old kids as adults in criminal cases (but _not_ lower the age of majority).  
 
 It appears that the modern Republican party is not satisfied with a kowtow to big
 corporations and the economic aristocrats who own them.  Now they must go further with
@@ -85,7 +85,7 @@ Never vote Republican.  Not ever.  Not for any conceivable office.  Not under an
 <a id="fn1">1</a>: ***, ["***"](***), *** DOI: [***](***). [↩](#fn1a)  
 
 <a href="{{ site.baseurl }}/images/***">
-  <img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+  <img src="{{ site.baseurl }}/images/***" width="400" height="***" alt="***" title="***" style="float: pright; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 </a>
 
 <a href="***">

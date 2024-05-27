@@ -100,7 +100,7 @@ ordinary is a useful skill.  Almost anything is interesting, if examined closely
 The pieces in the program shown here, while definitely not all to my personal taste,
 nonetheless are consumed with beauty and loss, followed by the hope for better days,
 better lives, and better spirits.  They're each&hellip; _odd._  Schoenberg chose to write a
-dissonant piece for a text about forming piece.  Whitman was&hellip; well, just being
+dissonant piece for a text about forming peace.  Whitman was&hellip; well, just being
 Whitman is enough, isn't it?  Vaughan Williams was a welcome balm for the brain, after the
 more dissonant pieces preceding him.  
 
@@ -155,8 +155,8 @@ into my skull.  However &ndash; and this is really saying something &ndash; the 
 completely redeemed the experience for me.  
 
 Meyer's poem, in Bernie's skillful translation, echoed the frustration, dread, and anxiety
-felt by all of us without power, who watch those with power stumble determinedly toward
-fascism and cruelty:  
+felt by all of us _without_ power, when we watch those _with_ power stumble clumsily but
+determinedly toward fascism and cruelty:  
 
 > Yet survives belief eternal  
 > that the weak shall not forever  
@@ -197,7 +197,7 @@ _The Great Divorce_ (and his lecture, "On Transposition"), I make exceptions.  T
 really mind-changing for me.  
 
 In _The Great Divorce_ (chapter 11) there is a scene where a man has a lizard on his
-shoulder, representing his sinful nature.  An angel offers to kill it with a burning hands
+shoulder, representing his sinful nature.  An angel offers to kill it with burning hands
 (reminiscent, at least, of a flaming sword).  In the end, he does this.  The man becomes
 more perfected, and the lizard becomes a horse which he rides into deeper heaven.  
 
@@ -205,7 +205,7 @@ The moral, apparently, is that our sins are energy _in need of redirection._
 
 _That_ is the sort of weapon I would cheerfully help to forge.  And only that: the flaming
 sword becomes less of a weapon to hurt, and more of a scalpel to heal.  The thought of it
-actually makes a Schoenberg with the harmony-dissonance-harmony journey worth taking.  
+actually makes Schoenberg's harmony-dissonance-harmony journey worth taking.  
 
 ### Vaughan Williams: _Towards the Unknown Region_ (1906)  
 
@@ -250,7 +250,7 @@ late for Republicans repenting of democracy, e.g., Washington Republican officia
 Victorians, that hit like a bombshell.  
 
 Whitman, for me, is all about facing death ("&hellip; to die is different from what any one
-supposed, and luckier", as he put it elsewhere in _Leaves of Grass_).  "Toward(s!) the
+supposes, and luckier", as he put it elsewhere in _Leaves of Grass_).  "Toward(s!) the
 Unknown Region" is about being brave enough to step confidently into the dark.  As an old
 man who thinks more about personal death than I used to, the ending still brings tears to my eyes:  
 
