@@ -94,6 +94,8 @@ YouTube, 2020-Dec-10.
 coordination were founded: the United Nations and Starfleet." &mdash; Ozy Brennan
 [Petrov Day Ritual, Coronavirus Edition](https://thingofthings.wordpress.com/2020/09/18/petrov-day-ritual-coronavirus-edition/)  
 
+"An adventure is only an inconvenience rightly considered. An inconvenience is only an adventure wrongly considered. " &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton), ["On Running After One's Hat"](https://www.gutenberg.org/cache/epub/11505/pg11505-images.html#chap04), [_All Things Considered_](https://www.gutenberg.org/ebooks/11505), 1908.  
+
 
 ## The Political Ones &amp; The Economic Dismals  
 
