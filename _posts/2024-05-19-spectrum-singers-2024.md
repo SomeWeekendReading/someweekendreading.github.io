@@ -385,7 +385,7 @@ transcendence of a mortal world, into Whitman's "different and luckier" realm:
 
 > Poor anxious penitence, is quick dissolv'd;  
 > Its discords, quench'd by meeting harmonies,   
-> Die in the large and charitable air.  
+> Die in the __large and charitable air.__  
 > &hellip;  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is life to come,  
 > Which martyr'd men have made more glorious       
