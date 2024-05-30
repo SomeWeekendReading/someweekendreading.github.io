@@ -37,6 +37,10 @@ _This comic ran 7 years ago._
 It's taken forever for justice to grow a spine, and we may hope upon sentencing that it
 will stick.  
 
+While I'm tempted to _schadenfreude_, this is nonetheless a sad day.  We are beginning to
+excise this tumor on the American body politic, but it's sad we let it get this far.  Our
+real test will be whether the Republicans in the US accept the verdict, as they should.  
+
 We look forward to Sentencing Day, when we hope for imprisonment, as this CLBTNR's closing
 remark has said for some time now:  [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
