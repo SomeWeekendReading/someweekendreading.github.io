@@ -25,6 +25,10 @@ include prison time (especially for the blatant lack of remorse, 10+ incidents o
 contempt, threats to the court staff, their families, and witnesses), and whether he will
 be allowed to remain free pending his inevitable appeal.  
 
+Obviously, here at Ch&acirc;teau Weekend, we'd prefer him to be incarcerated immediately,
+and for substantially the rest of his life, given the seriousness of the other charges.
+_Especially_ the Florida classified documents charges.  
+
 
 ## The Weekend Conclusion  
 
