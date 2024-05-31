@@ -13,6 +13,7 @@ counts.
 ## Conviction Day  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/Rt6OxyS3oi0?si=aTTGPthdrem4j34o" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<a href="{{ site.baseurl }}/images/2024-05-30-trump-guilty-nyc-nyt-1.jpg"><img src="{{ site.baseurl }}/images/2024-05-30-trump-guilty-nyc-nyt-1-thumb.jpg" width="400" height="357" alt="NYT Front Page: Trump Guilty On All Counts" title="NYT Front Page: Trump Guilty On All Counts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Previously we've celebrated on this Crummy Little Blog That Nobody Reads (CLBTNR) Trump's
 Indictment Day and Arraignment Day, in various courts.  Today we hit a new milestone: in
 Trump's trial for fraudulently covering up hush money payments to a porn star as a
