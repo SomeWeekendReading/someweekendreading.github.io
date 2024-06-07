@@ -14,13 +14,14 @@ the science content.
 ## VRBPAC Meeting Announcement  
 
 People act as if COVID-19 is "over".  The virus begs to differ.  We're looking at summer
-and winter waves into the indefinite future.  People will die of COVID-19, or like your
-humble Weekend Editor will have Long COVID brain fog.  
+and winter waves into the indefinite future.  People will die of COVID-19, or &ndash; like your
+humble Weekend Editor &ndash; will have Long COVID brain fog and other problems.  
 
 Fortunately, our regulatory bodies are not ignoring this and are on the case for updated
 booster vaccines.  Getting the public, even the non-knucklehead public who are not
-conspiracy theorist, to take the vaccines is another matter.  We can solve the vaccine
-design problem; thus far we have not solved the public vaccine uptake problem.  
+conspiracy theorists, to take the vaccines&hellip; well, that's another matter.  We can
+solve the vaccine design problem; thus far we have not solved the public vaccine uptake
+problem.  
 
 Today we look at the latest meeting of the FDA VRBPAC, to consider the strain composition
 of the vaccine for this fall.  
@@ -31,7 +32,7 @@ of the vaccine for this fall.
 We start, of course, with periodic monitoring of the FDA's advisory committee
 calendar. <sup id="fn1a">[[1]](#fn1)</sup>  
 
-There we see, postponed from 2024-May-16 to allow more data collection, the VRBPAC meeting
+There we see, postponed from 2024-May-16 to allow for more data collection, the VRBPAC meeting
 today on vaccine strain composition. <sup id="fn2a">[[2]](#fn2)</sup> 
 
 At the bottom of that page are links to all the presentation materials, as well as a
@@ -43,7 +44,8 @@ and hear all the discussion.
 
 The usual boilerplate was boiled and plated thusly:  
 - There were 24 members, including temporary members, of which it appears 17 were in
-  attendance.  <sup id="fn4a">[[4]](#fn4)</sup>
+  attendance.  <sup id="fn4a">[[4]](#fn4)</sup>  (Though, as you'll see below, there were
+  16 votes counted.)  
 - Interestingly, there were no conflicts of interest reported for
   waivers! <sup id="fn5a">[[5]](#fn5)</sup>  
 
