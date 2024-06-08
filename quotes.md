@@ -1345,3 +1345,4 @@ _Business Week_, 14-Nov-2003.
 - "Some days I can't even have a 'thought' without 'ugh'."  
 - "If you're going to be compared to a donut, you should emulate the French cruller:
   light, airy, and deliciously twisted."  
+- "Is it possible to pretend to be unpretentious?"  
