@@ -844,6 +844,10 @@ Without both, one doesn't get to the bottom of anything.")
 
 ## The Religious Ones  
 
+"Pride does not go before a fall. Pride is a fall, in the instant understanding of all the
+intelligent who see it." &ndash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
+_Illustrated London News_, 1914-Aug-22.  
+
 "I heard what was said of the universe, heard it and heard it of several thousand years; it is middling well as far as it goes &ndash; but is that all?" &mdash; [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman), _The Complete Writings of Walt Whitman: Leaves of grass_ (ed. 1902), ["Song of Myself", Section 41, ll. 3-6](https://poets.org/poem/song-myself-41#:~:text=I%20heard%20what%20was%20said%20of%20the%20universe%2C%0AHeard%20it%20and%20heard%20it%20of%20several%20thousand%20years%3B%0AIt%20is%20middling%20well%20as%20far%20as%20it%20goes%E2%80%94but%20is%20that%20all%3F).  
 
 "Mit der Dummheit k&auml;mpfen G&ouml;tter selbst vergebens" &ndash; [Friedrich Schiller](https://en.wikipedia.org/wiki/Friedrich_Schiller), _The Maid of Orlean_, III 6 Talbot.  ("Against stupidity, the G-ds themselves contend in vain.")  So&hellip; maybe avoid being stupid as much as we can?  
@@ -1175,6 +1179,8 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 
 "&hellip; [deontology](https://en.wikipedia.org/wiki/Deontology) is just [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) for superstitious children who can't do math." &ndash; [Geoffrey Miller](https://twitter.com/primalpoly/status/1565421629202505730) (Not originally intended religiously, but easily adapted therunto.)  
 
+"Satire is meant to ridicule power. If you are laughing at people who are hurting, it's not satire, it's bullying." &ndash; attributed to [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett); apparently _falsely attributed_, though it's a good bet he'd have agreed  
+
 
 ## The One Who Is Voltaire  
 
@@ -1346,3 +1352,5 @@ _Business Week_, 14-Nov-2003.
 - "If you're going to be compared to a donut, you should emulate the French cruller:
   light, airy, and deliciously twisted."  
 - "Is it possible to pretend to be unpretentious?"  
+- "The world is big.  There's more stuff you don't know anything about that the stuff you
+  already know.  _Expect surprises!_"  
