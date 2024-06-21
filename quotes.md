@@ -609,6 +609,8 @@ questions, but a mysterious answer was a contradiction in terms."
 [ET Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes) in 
 [Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)  
 
+"you are trying to solve the wrong problem using the wrong methods based on a wrong model of the world derived from poor thinking and unfortunately all of your mistakes have failed to cancel out" &ndash; [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky), responding to a critic [proposing a dumb AI alignment idea on Twitter](https://x.com/ESYudkowsky/status/1613622386150211584?lang=en)  
+
 "We used to think that if we knew one, we knew two, because one and one are two. We are finding that we must learn a great deal more about 'and'." &mdash; [Sir Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington), quoted in A. L. Mackay, _The Harvest of a Quiet Eye_, 1977.  
 
 "Not only is the universe stranger than we imagine, it is stranger than we can imagine." &mdash; [Sir Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington).  (But see also: "Not only is the universe stranger than we suspect; it is stranger than we can suspect." &mdash; [JBS Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane))  

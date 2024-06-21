@@ -232,10 +232,10 @@ rates of infection, and the importance of the JN.1 lineage:
   means "close in terms of how mouse immune systems respond".  
   - The point: JN.1, KP.2, and KP.3 are all close in terms of immune response.  
   - Therefore, the _biologically_ murine immune response confirms the _sequence_ based
-    phylogenetic tree above.  So there's hope a JN.1 vaccine would work nicely for KN.2 and
-    KN.3.  
+    phylogenetic tree above.  So there's hope a JN.1 vaccine would work nicely for KP.2 and
+    KP.3.  
 <a href="{{ site.baseurl }}/images/2024-06-05-fda-vrbpac-covid-vaccine-composition-fall-2024-FDA-9g.jpg"><img src="{{ site.baseurl }}/images/2024-06-05-fda-vrbpac-covid-vaccine-composition-fall-2024-FDA-9g-thumb.jpg" width="400" height="218" alt="Thornburg, CDC: Clinical odds ratios with XBB and JN lineages" title="Thornburg, CDC: Clinical odds ratios with XBB and JN lineages" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-- Finally, we have to ask if this is really worth it.  If JN.1, KN.2, and KN.3 were
+- Finally, we have to ask if this is really worth it.  If JN.1, KP.2, and KP.3 were
   remarkably _milder_ than the previous strains, we might not bother.  That's the point
   here, looking at odds ratios for the need of various hospital interventions like oxygen,
   between XBB infections and JN infections.  Note that all the odds ratios are _not_
@@ -466,6 +466,82 @@ an RSV vaccination, though I don't know if those are annual or not.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2024-Jun-13: FDA Overrides VRBPAC, Specifies KP.2 Strain  
+
+Usually, the FDA takes the advice of its advisory committees.  After all, why convene a
+panel of subject-matter experts and then _not_ take their advice?  
+
+<img src="{{ site.baseurl }}/images/2024-06-05-fda-vrbpac-covid-vaccine-composition-fall-2024-pipeline-1.jpg" width="400" height="181" alt="Lowe @ In the Pipeline: FDA tension with advisory committees" title="Lowe @ In the Pipeline: FDA tension with advisory committees" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Usually, as Derek Lowe points out at _In the Pipeline_ <sup id="fn16a">[[16]](#fn16)</sup>,
+this is when the ad board votes "no", and the FDA insists on "yes", presumably because
+they need to be seen _Doing Something About the Problem._ Aducanumab for Alzheimer's
+appears to be a recent example.  The reverse, where the ad board says "no" but the FDA
+insists on "yes" is so rare I can't think of a recent example.  
+
+The FDA/advisory committee relationship is fraught with tension.  And that's as it should
+be: if there were no tension, everyone would be in agreement, and there would be no need
+for advice.  
+
+Today we have a weird case. 
+
+The VRBPAC approved using the JN.1 strain in the fall COVID-19 vaccine, after some
+discussion about KP.2/3 variants being deemed genetically and immunologically so close it
+would make no difference.  The _only_ thing the VRBPAC could vote on was "JN.1, yes or
+no".  Voting for KP.2 or KP.3 was _not permitted._ (See the Voting Question above, and the
+chair ruling multivalent discussion "out of order".)  
+
+<img src="{{ site.baseurl }}/images/2024-06-05-fda-vrbpac-covid-vaccine-composition-fall-2024-FDA-15.jpg" width="400" height="294" alt="FDA: we're going with KP.2 anyway" title="FDA: we're going with KP.2 anyway" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Today the FDA decided to go with KP.2 _anyway_ <sup id="fn17a">[[17]](#fn17)</sup>,
+despite not permitting its advisory committee to say that.  My bet is there was
+considerable behind-the-scenes persuasion putting pressure on them to allow KP.2, since
+the VRBPAC was effectively muzzled in this regard.  
+
+So&hellip; is this a good thing or a bad thing?  
+
+First, it's just a _thing:_ as we pointed out above, occasional friction with an ad board
+is a healthy sign, as long as it's not being overridden all the time.  
+
+Second, it's (likely) a _small_ thing: see the evidence above that there are very small
+antigenic mutations between JN.1 and KP.2/3 and the immunologic response in mice
+vaccinated against JN.1 was still pretty good.  
+
+Third, it's a _mixed,_ small thing:  
+- On the negative side, Novavax will still have to go with JN.1.  They're a protein
+  vaccine, and we can't pivot those as quickly as mRNA vaccines.  This is inevitable, and
+  is in some sense a good thing since it highlights a good feature of the mRNA vaccines.  
+- On the positive side, there's a _slight_ improvement in response to KP.2/3, and there
+  _may_ be improved response to whatever likely descendant of KP.2/3 is cursing us in the
+  fall.  
+  
+  On the whole, I'd have preferred to have had the FDA give the VRBPAC a voting question
+  flexible enough to include KP.2/3 and multivalent formulations, instead of "JN.1: yes or
+  no".  But as all the existentialists say, "Nevertheless, here we are."  This sounds
+  to me like it's somewhere from "sort of ok" to "pretty good", and I'm happy with that.  
+
+Fourth, it's an _important,_ mixed, small thing:  
+
+<a href="https://x.com/Truth_in_Number/status/1724638364425388502"><img src="{{ site.baseurl }}/images/2024-06-05-fda-vrbpac-covid-vaccine-composition-fall-2024-twitter-1.jpg" width="550" height="574" alt="Truth in Numbers (Daniel) @ Twitter: European excess deaths vs vaccine doses per person" title="Truth in Numbers (Daniel) @ Twitter: European excess deaths vs vaccine doses per person" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+- A statistician looked at some data on European death rates and vaccination rates,
+  collected by _The Economist_ and placed on GitHub for public review.  
+- The vertical axis is "excess deaths", i.e., death rates in 2021 and 2022 _over and above_
+  what would be expected in a non-pandemic year.  These are deaths reasonably attributable
+  to COVID-19.  
+- The horizontal axis is the number of vaccine doses per person.  Higher is better, i.e.,
+  up to date on immunizations.  Only in a country with functional electronic medical
+  records is this possible; it cannot be done in the US because of our crippled healthcare
+  systems.  
+- The regression line shows an $R^2 \sim 0.64$, i.e., the number of vaccine doses explains
+  about 64% of the variance in the excess deaths.  And the variance is a _decrease_ in
+  excess death rates with more vaccination and boosting.  
+  
+__Conclusion:__ Once again, more vaccination means less death.  
+
+If the FDA's switch to the now-latest-and-greatest KP.2 strain for the fall causes even
+_slightly_ more uptake of the booster by the public, then fewer people will die.  
+
+You should live, and not die (as it says in a very old book).  
+
 ---
 
 ## Notes &amp; References  
@@ -515,3 +591,7 @@ an RSV vaccination, though I don't know if those are annual or not.
 <a id="fn14">14</a>: R Walker, ["Novavax Data in Support of 2024-2025 Vaccine Update"](https://www.fda.gov/media/179143/download), US Food &amp; Drug Administration web site, downloaded 2024-Jun-05. [↩](#fn14a)  
 
 <a id="fn15">15</a>: JP Weir, ["FDA Considerations and Recommendations for the 2024-2025 COVID-19 Vaccine Formula Composition"](https://www.fda.gov/media/179145/download), US Food &amp; Drug Administration web site, downloaded 2024-Jun-05. [↩](#fn15a)  
+
+<a id="fn16">16</a>: D Lowe, ["Those Darn FDA Advisory Committees"](https://www.science.org/content/blog-post/those-darn-fda-advisory-committees), [_In the Pipeline_](https://www.science.org/blogs/pipeline) blog at [_Science_](https://www.science.org/), 2024-Jun-17. [↩](#fn16a)  
+
+<a id="fn17">17</a>: FDA Staff, ["Updated COVID-19 Vaccines for Use in the United States Beginning in Fall 2024, FDA Updates Advice to Manufacturers of COVID-19 Vaccines (2024-2025 Formula): If Feasible Use KP.2 Strain of JN.1-Lineage"](https://www.fda.gov/vaccines-blood-biologics/updated-covid-19-vaccines-use-united-states-beginning-fall-2024), US Food &amp; Drug Administration web site, downloaded 2024-Jun-13. [↩](#fn17a)  
