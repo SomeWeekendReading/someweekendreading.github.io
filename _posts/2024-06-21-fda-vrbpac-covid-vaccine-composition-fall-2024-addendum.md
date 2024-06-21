@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Addendum: FDA VRBPAC&colon; COVID-19 Vaccine Composition for Fall 2024
+title: Addendum to FDA VRBPAC&colon; COVID-19 Vaccine Composition for Fall 2024
 tags: COVID JournalClub PharmaAndBiotech Politics
 comments: true
 commentsClosed: true
