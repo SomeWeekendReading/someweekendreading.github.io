@@ -434,7 +434,7 @@ the monovalent vaccine:
 - The main adverse events are anaphylaxis and myocarditis, but those are so rare you
   really need large studies to see them with any statistical significance.  
   - _Weekend Editorial:_  Because the effect size is so small!  
-  - KP.2 is probably too specific, and JN.1 is a safer bet?  
+- KP.2 is probably too specific, and JN.1 is a safer bet?  
 - Pragmatism: "If we make a good recommendation that people are simply _not_ going to follow, that's
   harmful to vaccination in general."  
 
