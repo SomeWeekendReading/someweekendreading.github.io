@@ -85,7 +85,7 @@ together with sheer determination?  They dealt masterfully, is what happened:
   
   _The net result:_ Not much of a sportsball guy myself, but it was nice to
   know I would be in the care of a warm and friendly man.  
-- __OR nurse 2:__ This was a short, cheerfully expressive black woman, with a mild
+- __OR nurse 2:__ This was a short, cheerfully expressive Black woman, with a mild
   tendency to dance.  I absolutely love listening to
   people's accents, and guessing their history.  It turns out she's from Haiti, and so the
   rest of our (short) conversation was in French.  It quickly became apparent that my very
