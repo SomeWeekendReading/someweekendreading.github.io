@@ -65,7 +65,7 @@ You want American democracy back?  Vote for Democrats, up and down the ticket.
 The only bright spot (well, dim spot of light in the darkness?) is that Trump is due to be
 sentenced in 2 weeks.
 
-Our adaptation of Cato the Elder is never more apt than now: [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+Our adaptation of Cato the Elder is never more apt than now: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
 
