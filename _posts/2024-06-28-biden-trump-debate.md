@@ -13,6 +13,8 @@ So, Biden/Trump debate, eh?
 
 Look, I didn't watch it.  
 
+I took a long hot bath and went to bed.  
+
 I've had it up to _here_ with Trump's lies, dishonesty, sociopathy, narcissism, and
 neo-Nazism.  Biden wasn't my first choice last time around, either (nor my second, but
 he's what the system produced).  And he's been a reasonably effective president,
