@@ -11,7 +11,7 @@ So, Biden/Trump debate, eh?
 
 ## My Debate Strategy  
 
-Look, I didn't watch it.
+Look, I didn't watch it.  
 
 I've had it up to _here_ with Trump's lies, dishonesty, sociopathy, narcissism, and
 neo-Nazism.  Biden wasn't my first choice last time around, either (nor my second, but
@@ -63,9 +63,9 @@ You want American democracy back?  Vote for Democrats, up and down the ticket.
 ## The Weekend Conclusion  
 
 The only bright spot (well, dim spot of light in the darkness?) is that Trump is due to be
-sentenced in 2 weeks.
+sentenced in 2 weeks.  
 
-Our adaptation of Cato the Elder is never more apt than now: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+Our adaptation of Cato the Elder is never more apt than now: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion), i.e., "I also think Trump must be incarcerated."  
 
 ---
 
