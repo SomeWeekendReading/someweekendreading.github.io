@@ -21,8 +21,8 @@ he's what the system produced).  And he's been a reasonably effective president,
 especially given a Congress full of authoritarian idiots.  
 
 But I just can't bring myself to marinate in the word salad that is the inevitable result
-of good presidential debates, and this was in no way a good one.  It's always a gamble,
-and I see no point in gambling of almost any sort, let alone important things like this.  
+of even _good_ presidential debates, and this was in no way a good one.  It's always a gamble,
+and I see no point in gambling of almost any sort, let alone on important things like this.  
 
 People spend their lives getting good at facts or good at words.  I'm one of the former,
 having spent my life in various mathematical and logical or math/logic-adjacent
@@ -42,7 +42,7 @@ degenerated in to the usual shouty nonsense.
 Fine.  Whatever.  
 
 The choice is still clear:  
-- Biden, while old, is still sharp, still understand the operation of government, and
+- Biden, while old, is still sharp, still understands the operation of government, and
   still surrounds himself with competent people and has a humane agenda.  
 - Trump, while old, is still an incomprehensible and incompetent sociopathic neo-Nazi who
   surrounds himself with what appear to be _competent_ sociopathic neo-Nazis.  
@@ -50,14 +50,14 @@ The choice is still clear:
 This is not a hard choice.  Vote for Biden.  Vote for Democrats up and down the ticket.  
 
 When we have a Democratic presidency and Congress, we can start repairing the damage.  The
-most severe damage is recent, but W did his share and a lot goes all the way back to
+most severe damage is recent, but W did his share, and a lot goes all the way back to
 Reagan that we need to fix.  
 
 That's the only way to get reasonable economic policy, lots of green energy, coastal
 desalination plants, high speed rail, huge expansions of housing and mass transit,
-unionization, gun control, voting rights, civil rights, progressive taxation to fund
-Social Security and Medicare&hellip; and all the things that used to mean American
-democracy.  
+unionization, gun control, voting rights, civil rights, Roe v Wade encoded in law,
+something like Glass-Steagall, progressive taxation to fund Social Security and
+Medicare&hellip; and all the things that used to mean American democracy.  
 
 You want American democracy back?  Vote for Democrats, up and down the ticket.  
 
