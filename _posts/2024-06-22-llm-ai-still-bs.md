@@ -346,7 +346,7 @@ Of course now, more than ever: [_Ceterum censeo, Trump incarcerandam esse._]({{ 
 
 <a id="fn10">10</a>: MT Hicks, J Humphries, and J Slater, ["ChatGPT is bullsh\*t"](https://link.springer.com/article/10.1007/s10676-024-09775-5), _Ethics &amp; Info Tech_ 26:38, 2024-Jun-08.  DOI: [10.1007/s10676-024-09775-5](https://doi.org/10.1007/s10676-024-09775-5). [↩](#fn10a)  
 
-<a id="fn11">11</a>: K Balevic, ["Goldman Sachs says the return on investment for AI might be disappointing"](https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6?amp), _Business Insider_, 2024-Jun-29. [↩](#fn11a)  
+<a id="fn11">11</a>: K Balevic, ["Goldman Sachs says the return on investment for AI might be disappointing"](https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6), _Business Insider_, 2024-Jun-29. [↩](#fn11a)  
 
 <a id="fn12">12</a>: Yes, this means I've just compared LLM AIs to a parasitic worm; that's as intended.  Yes, it also means I've compared humans to snails; that's not as intended, it's just that every analogy has its breaking point. 
 
