@@ -8,7 +8,8 @@ commentsClosed: true
 
 [Somebody asked me]({{ site.baseurl}}/tags/#SomebodyAskedMe), in the course of a family
 video call, what I thought about the latest AI Large Language Models (LLMs) and how they're being
-used for _everything._ Have they improved from their previous BS conditions?  Ahem!  
+used for _everything._ Have they improved from their previous BS conditions?  Ahem.
+Uh&hellip; _no._  
 
 
 ## The Weekend Prior  
@@ -180,9 +181,10 @@ That siren song was recently put sharply into perspective for me:
 <a href="https://mathstodon.xyz/@jenniferplusplus@hachyderm.io/112678572080009019"><img src="{{ site.baseurl }}/images/2024-06-22-llm-ai-still-bs-mastodon-3.jpg" width="550" height="362" alt="'JenniferPlusPlus @ Mastodon: AI hype as negging" title="'JenniferPlusPlus @ Mastodon: AI hype as negging" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 'Negging' is a particularly odious tactic used by unscrupulous sorts to seduce sexual
-partners by preying upon their insecurities.  Similarly here, AI marketing is negging for
-the 'brogrammers' who view themselves as cutting edge, don't want to be left behind, and
-have no history with this kind of manipulation to help them resist.  
+partners by preying upon their insecurities (pointing out "negatives").  Similarly here,
+AI marketing is negging for the 'brogrammers' who view themselves as cutting edge, don't
+want to be left behind, and have no history with this kind of manipulation to help them
+resist it.  
 
 Disturbing, but it seems apt.  
 
@@ -258,20 +260,23 @@ Apparently we've spent about a billion, and are on track to spend a trillion, fo
 that are persuasive, but lie like Donald Trump.  (My comparison, not theirs.  But it seems
 apt, no?)  
 
-Worst of all, we're sacrificing our power grids and our fresh water capacity to feed these
-monsters, in return for _nothing useful:_  
+Worst of all, we're sacrificing our power grids, our fresh water capacity, the careers
+of creative freelancers to feed these monsters, and the factual integrity of our
+scientific literature in return for _nothing useful:_  
 <a href="https://bsky.app/profile/coreybrickley.bsky.social/post/3kvyga5yxgg2q"><img src="{{ site.baseurl }}/images/2024-06-22-llm-ai-still-bs-mastodon-4.jpg" width="550" height="752" alt="Brickley @ Mastodon: The costs of AI stupidity" title="Brickley @ Mastodon: The costs of AI stupidity" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 
 ## The Weekend Conclusion  
 
-Look, it's not hard: these things are unfit for any purpose.  Even if your purpose is to
-generate a fantasy, do you really want your fantasies shaped by something scraped off the
-bottom of the Internet?  Wouldn't it be healthier to train your own imagination?  
+Look, it's not hard: these things are _unfit for any purpose._  
+
+Even if your purpose is just to generate a fantasy, do you really want your fantasies
+shaped by something scraped off the bottom of the Internet?  Wouldn't it be healthier to
+train your own imagination?  
 
 This whole affair is an instance of [Brandolini's Law](https://en.wikipedia.org/wiki/Brandolini%27s_law):  
 
-> The amount of energy needed to refute bull**t is an order of magnitude bigger than that
+> The amount of energy needed to refute bullsh*t is an order of magnitude bigger than that
 > needed to produce it.  
 
 <img src="{{ site.baseurl }}/images/2024-06-22-llm-ai-still-bs-wikipedia-1.jpg" width="100" height="197" alt="Wikipedia: parasitic worm Leucochloridium paradoxum" title="Wikipedia: parasitic worm Leucochloridium paradoxum" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -291,15 +296,15 @@ picture, both the Weekend Publisher and the Assistant Weekend Publisher are mild
 alarmed, disturbing their natural cat aplomb.  
 
 We're only _mildly_ alarmed, because we have boundless faith in the ability of corporate
-managers to screw it up into a state of relative harmlessness.  The radioactivity from the
-blast may destroy their company, but probably not humanity.  
+managers to screw it up into a state of relative harmlessness.  The radioactivity inside
+the blast radius may destroy their company, but probably not humanity.  
 
 At least, until some idiot makes an ASI.  For preventing that, you need to understand
-[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky).  It's hard for your
-humble Weekend Editor to understand why so many people so stubbornly resist understanding
-that.  
+[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky).  (It's hard for your
+humble Weekend Editor to understand why so many people so stubbornly _resist_ understanding
+that.)  
 
-But now, more than ever: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+Of course now, more than ever: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
 
@@ -345,5 +350,5 @@ But now, more than ever: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.b
 
 <a id="fn12">12</a>: Yes, this means I've just compared LLM AIs to a parasitic worm; that's as intended.  Yes, it also means I've compared humans to snails; that's not as intended, it's just that every analogy has its breaking point. 
 
-Also: yes, I know the difference between _metonym_ and _synedoche_; no, I will not get
+Also: yes, I also know the difference between _metonym_ and _synedoche_; no, I will not get
 twisted into knots over it. [↩](#fn12a)
