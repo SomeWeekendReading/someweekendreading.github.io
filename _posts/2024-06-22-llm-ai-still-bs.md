@@ -342,7 +342,7 @@ Of course now, more than ever: [_Ceterum censeo, Trump incarcerandam esse._]({{ 
 
 <a id="fn8">8</a>: T Hunter, ["Using AI to spot edible mushrooms could kill you"](https://www.washingtonpost.com/technology/2024/03/18/ai-mushroom-id-accuracy/), _Washington Post_, 2024-Mar-18. A [non-paywalled version at the Wayback Machine](https://web.archive.org/web/20240330174800/https://www.washingtonpost.com/technology/2024/03/18/ai-mushroom-id-accuracy/) is available. [↩](#fn8a)  
 
-<a id="fn9">9</a>: "Ludic" (Nik Suresh), ["I Will F\*\*\*ing Piledrive You If You Mention AI Again"](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/), Ludic's _Lucidity_ blog, 2024-Jun-19. [↩](#fn9a)  
+<a id="fn9">9</a>: Nik Suresh (a.k.a. "Ludic"), ["I Will F\*\*\*ing Piledrive You If You Mention AI Again"](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/), Ludic's _Lucidity_ blog, 2024-Jun-19. [↩](#fn9a)  
 
 <a id="fn10">10</a>: MT Hicks, J Humphries, and J Slater, ["ChatGPT is bullsh\*t"](https://link.springer.com/article/10.1007/s10676-024-09775-5), _Ethics &amp; Info Tech_ 26:38, 2024-Jun-08.  DOI: [10.1007/s10676-024-09775-5](https://doi.org/10.1007/s10676-024-09775-5). [↩](#fn10a)  
 
