@@ -112,7 +112,7 @@ It took a bit of digging, and it wasn't about Teslas, or cars at all.  It was ab
 Navy destroyer, The USS John S. McCain, as summarized here in an article on _Pro Publica_
 after 2 years of research. <sup id="fn3a">[[3]](#fn3)</sup>  
 
-Now, a naval destroyer is a bit of a step up in size from a car, even if the care is a
+Now, a naval destroyer is a bit of a step up in size from a car, even if the car is a
 "land barge" SUV.  But the fault is similar: a desire to use the latest tech had the
 McCain's throttle and rudder control done by touch screen.  Apparently the software wasn't
 exactly beloved by the sailors, but more importantly there's no physical feedback from a
