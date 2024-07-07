@@ -376,7 +376,7 @@ These are the _dangerously stupid_ people we have to remove systematically from 
 elected office.  
 
 
-## Addendum 2024-Apr-02: A Baysian Coda  
+## Addendum 2024-Apr-02: A Bayesian Coda  
 
 We've [added a post]({{ site.baseurl }}/springtime-for-shutdowns-2/) showing the posterior
 Beta distribution for the probability of shutdown when each party controls the House.  
