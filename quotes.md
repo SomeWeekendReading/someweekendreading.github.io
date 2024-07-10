@@ -907,7 +907,7 @@ it, unless it agrees with your own reason and your own common sense." &mdash; Bu
 whether you hold your peace, through love hold your peace; whether you cry out,
 through love cry out; whether you correct, through love correct; whether you spare,
 through love do you spare: let the root of love be within, of this root can nothing
-spring but what is good. &mdash; 
+spring but what is good." &mdash; 
 [St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo),
 [Homily 7 on 1 John](https://www.newadvent.org/fathers/170207.htm)  
 
