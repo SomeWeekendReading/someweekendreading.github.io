@@ -1,0 +1,64 @@
+
+* PURPOSE1 HIV Prevention on Sun Jul 14 12:54:11 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-07-11-hiv-prev-news.txt
+
+Building summary data:
+----------------------
+
+* PURPOSE1 data as reported:
+          Arm    N  K Infp100py
+1 lenacapavir 2134  0      0.00
+2     Descovy 2136 39      2.02
+3     Truvada 1068 16      1.69
+
+* PURPOSE1 summary data for analysis:
+          Arm    N  K
+1 lenacapavir 2134  0
+2        PReP 3204 55
+
+Naive efficacy/CL vs PReP controls::
+------------------------------------
+
+* Efficacy (%) over PReP, where 0% means comparable to PReP:
+   LCL    Eff    UCL 
+ 89.53 100.00 100.00 
+
+Frequentist tests of significance and strength:
+-----------------------------------------------
+
+* Significance test of proportion:
+  - Yates correction: TRUE
+  - Alternative: probability of infection same in both arms
+
+	2-sample test for equality of proportions with continuity correction
+
+data:  c(purpose1Summary[1, 3], purpose1Summary[2, 3]) out of c(purpose1Summary[1, 2], purpose1Summary[2, 2])
+X-squared = 35.349, df = 1, p-value = 2.755e-09
+alternative hypothesis: two.sided
+95 percent confidence interval:
+ -0.02205396 -0.01227813
+sample estimates:
+    prop 1     prop 2 
+0.00000000 0.01716604 
+
+* Computing Cohen's h for strength of effect
+  - Range of h is -pi to +pi
+  - anything with absolute value over 0.8 is a large effect.
+  - Result: |h| = 0.263
+
+Plotting posterior Beta distributions for probability of infection:
+-------------------------------------------------------------------
+
+* Doing Baysian posterior Beta distribution analysis.
+
+* Posterior quantiles:
+              0.025     0.5   0.975
+lenacapavir 0.00001 0.00032 0.00173
+PReP        0.01322 0.01737 0.02228
+
+
+* Bayesian Beta posterior plot to ./2024-07-11-hiv-prev-news.png.
+
+* PURPOSE1 HIV Prevention completed Sun Jul 14 12:54:11 2024 (0.0 sec elapsed).
