@@ -115,7 +115,7 @@ always be 100%.  However, we can use statistics to get a 95% confidence interval
 Here we used the relatively naive binomial confidence intervals calculated by
 `ciBinomial()` in R package `gsDesign`.  (A sophisticated method would use
 [the Bayesian posterior Beta ratios for which we did the math some years ago]({{ site.baseurl }}/beta-ratios/),
-but have not written the R package to implement it.)  
+but have not written the R package to implement it numerically.)  
 
 __Conclusion:__ The efficacy of lenacapavir in comparison to PReP was 100%, with 95%
 confidence limits of 89.53% &ndash; 100.0%.  
@@ -171,7 +171,12 @@ Now let's think a bit like Bayesians:
 - Assume our prior beliefs about $p_i$ are uninformative, i.e., $p_i \sim \mbox{Uniform}(0, 1)$.  
 - Then a bit of Bayesian algebra tells us that _after_ observing a trial with $N_i$ people
   and $k_i$ infections, our posterior on $p_i$ should be a $\mbox{Beta}(k_i + 1, N_i - k_i + 1)$
-  distribution.  
+  distribution:  
+  
+  $$
+  \Pr(p_i | N_i, k_i) = \frac{p_i^{k_i} (1 - p_i)^{N_i - k_i + 1}}{B(k_i + 1, N_i - k_i + 1)}
+  $$
+  
 - Armed with that posterior, we can do all sorts of things: 
   - A plot will reveal our posterior beliefs and uncertainties about the $p_i$'s.
   - And of course we can calculate quantiles.  
@@ -338,6 +343,8 @@ __NB:__ This is clinical trial [NCT04994509](https://clinicaltrials.gov/study/NC
 
 <a id="fn7">7</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script for preliminary analysis of PURPOSE1 trial"]({{ site.baseurl }}/assets/2024-07-11-hiv-prev-news.r), _Some Weekend Reading_ blog, 2024-Jul-11.  
 
-There is also [a transcript of running this]({{ site.baseurl }}/assets/2024-07-11-hiv-prev-news.txt) available, so you can check the outputs. Some utility scripts are also used, which are available from your humble Weekend Editor upon request. [↩](#fn7a)  
+There is also [a transcript of running this]({{ site.baseurl }}/assets/2024-07-11-hiv-prev-news.txt) available, so you can check the outputs.  
+
+Some utility scripts are also used, which are available from your humble Weekend Editor upon request. [↩](#fn7a)  
 
 <a id="fn8">8</a>: Gilead Staff, ["Access Planning in High-Incidence, Resource-Limited Countries for Lenacapavir for HIV Prevention"](https://www.gilead.com/news-and-press/company-statements/access-planning-in-high-incidence-resource-limited-countries-for-lenacapavir-for-hiv-prevention), 2024-Jun-20. [↩](#fn8a)  
