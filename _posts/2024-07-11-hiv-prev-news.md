@@ -153,7 +153,8 @@ convention, a value of 0.2 is "small", 0.5 is "medium", and 0.8 is a "large" eff
 
 __Conclusion:__ We find $\left|h\right| = 0.263$.  It's not a big effect.  But also keep
 in mind that the infection rate under PReP is only 1.7% vs lenacapavir's 0% &ndash;
-there's only so much room for improvement, _anyway!_  
+there's only so much room for improvement, _anyway!_  This results achieves the maximum
+effect possible by observing 0 infections in the treatment arm.  
 
 So we have a real effect which is as large as possible, given the very good efficacy of
 PReP by itself.
