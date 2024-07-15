@@ -22,7 +22,8 @@ PReP medications.  There are 2 problems with the existing PReP meds:
    games to apply social pressure in _exactly the wrong direction!_  
 2. _Not 100% efficacy:_ They're not perfect.  Maybe 99% prevention <sup id="fn1a">[[1]](#fn1)</sup>,
    but not 100%.  There are fewer bullets in the gun, but it's still Russian roulette.
-   Once you know the game is Russian Roulette, the only correct strategy is not to play.  
+   Once you know the game is Russian Roulette, the only correct strategy is to put down
+   the gun and walk away.  
 
 We can't fix human nature, so the hunt is on for the other one: better meds with 100%
 efficacy &amp; fewer chances for people to screw up taking their meds.  
@@ -41,13 +42,13 @@ It's a capsid inhibitor that interferes with the HIV viral capsid subunits requi
 assemble and release the virus.  It's even already approved as part of some HIV therapies,
 so the safety issues have been well studied.  
 
-What's interesting is that it's being studied as an improvement on PReP for _prevention:_
+What's interesting is that it's now being studied as an improvement on PReP for _prevention:_
 both whether it has better efficacy than PReP, and whether we can get better patient compliance.
 
 The initially counterintuitive aspect here is that lenacapavir is an _injectable,_ whereas PReP
-regimens are _oral_ (just pills, basically).  You almost always prefer oral to injectable
+regimens are _oral_ (just pills, basically).  You should almost always prefer oral to injectable
 to get good patient compliance, because people hate shots but hate pills slightly less.
-However, lenacapavir only require injections _twice a year,_ so it can overcome the stupid
+However, lenacapavir only requires injections _twice a year,_ so it can overcome the stupid
 social stigma attached to taking PReP pills _daily._  Clever!  
 
 <img src="{{ site.baseurl }}/images/2024-07-11-hiv-prev-news-gilead-1.jpg" width="400" height="193" alt="Gilead: press release on early data from trial of lenacapavir vs other PReP meds for HIV prevention" title="Gilead: press release on early data from trial of lenacapavir vs other PReP meds for HIV prevention" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -68,7 +69,7 @@ where the serious money gets put down before submission to regulatory bodies for
 approval.  
 
 This trial is called PURPOSE 1, and is exclusively for women in sub-Saharan Africa.  Yes,
-sub-Saharan Africans are only 10% of world population, but they're nearly 2/3 of people
+sub-Saharan Africans are only 10% of world population, but they're also nearly 2/3 of people
 living with HIV, according to NPR.  Also, teen girls and young women get infected at a
 rate of about 4000/week!  So it's a _very_ good test population for a trial about
 preventing transmission.  There are other "PURPOSE" trials <sup id="fn6a">[[6]](#fn6)</sup>,
@@ -82,7 +83,7 @@ still in progress, with similar names:
 After wading through the word salad so beloved by corporate PR folk and reporters, we can
 finally glean some actual relevant evidence about the preliminary data on PURPOSE 1.  It's
 described as double-blind, though I have a hard time with that: surely patients and
-clinicians can tell if they're taking a pill vs getting an injection, so how can that be
+clinicians can _tell_ if they're taking a pill vs getting an injection, so how can that be
 blind?  
 
 <img src="{{ site.baseurl }}/images/2024-07-11-hiv-prev-news-gilead-3.jpg" width="400" height="96" alt="Gilead: Patient counts and infection counts in the 3 arms of the PURPOSE 1 trial" title="Gilead: Patient counts and infection counts in the 3 arms of the PURPOSE 1 trial" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -92,14 +93,15 @@ care controls).  The exact numbers, taken from the press release, are in the tab
 here.  
 
 Gilead points out the difference in infections per 100 person-years, and asserts
-$p \lt 10^{-4}$ without showing their work or even citing the test.  (This is why we
+$p \le 10^{-4}$ without showing their work or even citing the test.  (This is why we
 despise corporate press releases, because they make claims without any hope of enabling
-peer review!)  
+peer review!  Or even any hope of figuring out what they're talking about, for that matter.)  
 
 Of course, lacking censorship data about when patients dropped out, we can't say anything
-definitive like the trial authors will eventually do.  But we _can_ do a few approximate
-things, just with the patient counts above.  So we wrote a little
-[R](https://www.r-project.org/) script <sup id="fn7a">[[7]](#fn7)</sup> to do exactly that! 
+definitive like the trial authors will eventually have to do.  But we _can_ do a few approximate
+things, just with the patient counts above, and check that this more or less makes sense.
+So we wrote a little [R](https://www.r-project.org/)
+script <sup id="fn7a">[[7]](#fn7)</sup> to do exactly that!  
 
 ### Efficacy Compared to PReP Controls
 
@@ -170,7 +172,9 @@ Now let's think a bit like Bayesians:
   \Pr(k_i | N_i, p_i) = {N_i \choose k_i} p_i^k (1 - p_i)^{N - k}
   $$
 
-- Assume our prior beliefs about $p_i$ are uninformative, i.e., $p_i \sim \mbox{Uniform}(0, 1)$.  
+- Assume our prior beliefs about $p_i$ are uninformative, i.e., $p_i \sim \mbox{Uniform}(0, 1)$.
+  Not entirely coincidentally, we note that this uniform distribution is also a $\mbox{Beta}(1, 1)$
+  distribution.  
 - Then a bit of Bayesian algebra tells us that _after_ observing a trial with $N_i$ people
   and $k_i$ infections, our posterior on $p_i$ should be a $\mbox{Beta}(k_i + 1, N_i - k_i + 1)$
   distribution:  
@@ -184,13 +188,15 @@ Now let's think a bit like Bayesians:
   - And of course we can calculate quantiles.  
     - Hardcore Bayesians, when pressed to give a point estimate, will pick the _mode_ of
       this distribution, hence a MAP estimator (Maximum A posteriori Probability).  That
-      has a couple nice properties under transformations.  
-	- However, your humble Weekend Editor hates modes, and prefers medians.  Especially if
-      we're not going to do any further transformations!  So, a _median_ A posteriori
-      Probability, or "mAP estimator" might be a silly name for it.  (Nobody uses this
-      name!)  
+      has a couple nice properties under transformations.  (E.g., the mode of the
+      tranformed distribution is the transform of the mode.  This is not true of either
+      the median or the mean.)  
+	- However, your humble Weekend Editor hates modes, and _vastly_ prefers medians.
+      Especially if we're not going to do any further transformations!  So, a _median_ A
+      posteriori Probability, or "mAP estimator" might be a silly name for it.  (Don't
+      bother learning it; nobody uses this name!)  
 	  
-We find the infection mAP estimators to be:  
+We find the infection mAP estimators and their 95% credibility intervals to be:  
 - __lenacapavir:__ 0.032% (CL: 0.001% &ndash; 0.173%)  
 - __PReP:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.74%&nbsp;&nbsp; (CL: 1.32% &ndash; 2.23%)  
 
@@ -209,8 +215,7 @@ The plot here shows the posterior distributions:
 - The blue curve is for lenacapavir.  
   - Note that even though 0 infections were observed, we still have a _finite_, but small,
     infection probability.  This is what Bayes methods do: they pull our prior belief of
-    uniform probability into piling up all the probability near 0, though with a bit of a
-    tail.  
+    uniform probability into a pile up against 0, though with a teensy bit of a right tail.  
   - Still, it's _really tiny:_ 0.032% is the median, with a credible interval of 0.001%
     &ndash; 0.173%.  
   - The vertical blue dashed line shows the median value of 0.032%.  
