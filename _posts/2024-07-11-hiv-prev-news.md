@@ -192,7 +192,7 @@ Now let's think a bit like Bayesians:
 	  
 We find the infection mAP estimators to be:  
 - __lenacapavir:__ 0.032% (CL: 0.001% &ndash; 0.173%)  
-- __PReP:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.74% (CL: 1.32% &ndash; 2.23%)  
+- __PReP:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.74%&nbsp;&nbsp; (CL: 1.32% &ndash; 2.23%)  
 
 (The Bayesian analysis gives a worst-case &ndash; upper end of the CL &ndash; infection
 rate of 0.173% for lenacapavir.  The corresponding frequentist heuristic for when no
