@@ -118,7 +118,8 @@ Here we used the relatively naive binomial confidence intervals calculated by
 but have not written the R package to implement it numerically.)  
 
 __Conclusion:__ The efficacy of lenacapavir in comparison to PReP was 100%, with 95%
-confidence limits of 89.53% &ndash; 100.0%.  
+confidence limits of 89.53% &ndash; 100.0%.  That is, we've removed 89% &ndash; 100% of
+the remaining risk incurred by the PReP patients.  
 
 Quite good!  
 
@@ -161,7 +162,7 @@ PReP by itself.
 ### Bayesian Posteriors on the Probability of Infection in Each Arm  
 
 Now let's think a bit like Bayesians:  
-- We assume, in each arm, the number of infections $k_i$ is binomially distributed with
+- We assume, in each arm $i$, the number of infections $k_i$ is binomially distributed with
   some unknown parameter $p_i$ representing the probability of infection under that arm:  
   
   $$
