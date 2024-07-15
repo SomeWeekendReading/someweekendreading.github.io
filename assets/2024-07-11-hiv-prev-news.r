@@ -39,7 +39,7 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
     purpose1Summary                                    # Return the summary data
   }                                                    #
 
-  efficacyAndCL <- function(Ntrt, Ktrt, Ncnt, Kcnt) {    # Treatment efficacy & 95% conf limit
+  efficacyAndCL <- function(Ntrt, Ktrt, Ncnt, Kcnt) {  # Treatment efficacy & 95% conf limit
     ## Simple-minded efficacy computation, with confidence limits using a scaled binomial model.
     ## (To be eventually replaced by my super-duper Beta ratios stuff with Gauss hypergeometric magic!)
     ##
@@ -47,10 +47,10 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
     ## Ktrt = number of sick in treatment arm
     ## Ncnt = number of subjects in control arm
     ## Kcnt = number of sick in control arm
-    eff   <- 1 - (Ktrt / Ntrt) / (Kcnt / Ncnt)           # Point estimate, then confidence limits
+    eff   <- 1 - (Ktrt / Ntrt) / (Kcnt / Ncnt)         # Point estimate, then confidence limits
     effCL <- rev(1 - ciBinomial(Ktrt, Kcnt, Ntrt, Ncnt, scale = "RR"))
-    c(LCL = effCL[[1]], Eff = eff, UCL = effCL[[2]])     # Return 3-vector of LCL, estimate, and UCL
-  }                                                      #
+    c(LCL = effCL[[1]], Eff = eff, UCL = effCL[[2]])   # Return 3-vector of LCL, estimate, and UCL
+  }                                                    #
 
   efficacyOverPReP <- function(purpose1Summary) {      # Compare lenacapavir vs PReP as control
     ## Scaled binomial model of efficacy and its confidence interval, compared to PReP
@@ -143,10 +143,14 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
     bayesProbs                                         # Return the median posterior probabilities
   }                                                    #  of infection, for each arm
 
-  doRuleOf3 <- function(purpose1Summary) {             # Heuristic for when ZERO events observed
+  doRuleOf3 <- function(purpose1Summary, bayesProbs) { # Heuristic for when ZERO events observed
     ## https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Rule_of_three_%E2%80%94_for_when_no_successes_are_observed
-    cat(sprintf("\n\n* The Rule of 3 suggests a lenacapavir infection CL of [0.000, %.5f].\n",
-                3.0 / purpose1Summary[1, 2]))          #
+    cat(sprintf(paste("\n\n* Frequentist heuristic for lenacapavir infection CL",
+                      "  - Rule of 3: [0.0000000, %.7f]",
+                      "  - Bayes:     [%.7f, %.7f].\n",
+                      sep = "\n"),
+                3.0 / purpose1Summary[1, 2],           #
+                bayesProbs[1, 1], bayesProbs[1, 3]))
     TRUE                                               # Flag that it was done
   }                                                    #
 
@@ -165,7 +169,7 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
 
     heraldPhase("Plotting posterior Beta distributions for probability of infection")
     maybeAssign("bayesProbs", function() { doBeta(purpose1Summary, plotFile) })
-    maybeAssign("rule3Done",  function() { doRuleOf3(purpose1Summary) })
+    maybeAssign("rule3Done",  function() { doRuleOf3(purpose1Summary, bayesProbs) })
 
   })                                                   # Done!
 }                                                      #
