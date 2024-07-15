@@ -99,7 +99,7 @@ peer review!)
 Of course, lacking censorship data about when patients dropped out, we can't say anything
 definitive like the trial authors will eventually do.  But we _can_ do a few approximate
 things, just with the patient counts above.  So we wrote a little
-[R](https://www.r-project.org/) to do exactly that! <sup id="fn7a">[[7]](#fn7)</sup>
+[R](https://www.r-project.org/) script <sup id="fn7a">[[7]](#fn7)</sup> to do exactly that! 
 
 ### Efficacy Compared to PReP Controls
 
@@ -192,6 +192,12 @@ Now let's think a bit like Bayesians:
 We find the infection mAP estimators to be:  
 - __lenacapavir:__ 0.032% (CL: 0.001% &ndash; 0.173%)  
 - __PReP:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.74% (CL: 1.32% &ndash; 2.23%)  
+
+(The Bayesian analysis gives a worst-case &ndash; upper end of the CL &ndash; infection
+rate of 0.173% for lenacapavir.  The corresponding frequentist heuristic for when no
+events are observed, the venerable [Rule of 3](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Rule_of_three_%E2%80%94_for_when_no_successes_are_observed),
+gives a comparable worst case of 0.141%.  Both say there's a _worst case_ chance of just
+over 1 in a thousand of infection, which is both consistent and a very good result.)  
 
 <a href="{{ site.baseurl }}/assets/2024-07-11-hiv-prev-news.png"><img src="{{ site.baseurl }}/assets/2024-07-11-hiv-prev-news-thumb.jpg" width="400" height="400" alt="Bayesian posterior Beta distributions for p in each arm" title="Bayesian posterior Beta distributions for p in each arm" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The plot here shows the posterior distributions:  

@@ -13,7 +13,7 @@ library("gsDesign")                                    # For ciBinomial()
 ##
 
 ## > doit()
-## > rm("purpose1Summary"); rm("efficacyCL"); rm("signf"); rm("stren"); rm("bayesProbs"); doit()
+## > rm("purpose1Summary"); rm("efficacyCL"); rm("signf"); rm("stren"); rm("bayesProbs"); rm("rule3Done"); doit()
 doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy", "Truvada"),
                                            N         = c(2134,          2136,      1068),
                                            K         = c(   0,            39,        16),
@@ -138,10 +138,17 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
          mgp = c(1.7, 0.5, 0),                         # Axis title, labels, ticks
          ps  = 16)                                     # Larger type size for file capture
     })                                                 #
-    cat(sprintf("\n\n* Bayesian Beta posterior plot to %s.\n", f))
+    cat(sprintf("\n\n* Bayesian Beta posterior plot to %s.", f))
 
     bayesProbs                                         # Return the median posterior probabilities
   }                                                    #  of infection, for each arm
+
+  doRuleOf3 <- function(purpose1Summary) {             # Heuristic for when no events observed
+    ## https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Rule_of_three_%E2%80%94_for_when_no_successes_are_observed
+    cat(sprintf("\n\n* The Rule of 3 suggests a lenacapavir infection CL of [0.000, %.5f].\n",
+                3.0 / purpose1Summary[1, 2]))          #
+    TRUE                                               # Flag that it was done
+  }                                                    #
 
   withTranscript(inDir = ".", resultsDir = ".", transcriptFile = txFile,
                  name = "PURPOSE1 HIV Prevention", function() {
@@ -158,6 +165,7 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
 
     heraldPhase("Plotting posterior Beta distributions for probability of infection")
     maybeAssign("bayesProbs", function() { doBeta(purpose1Summary, plotFile) })
+    maybeAssign("rule3Done",  function() { doRuleOf3(purpose1Summary) })
 
   })                                                   # Done!
 }                                                      #
