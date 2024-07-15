@@ -143,7 +143,7 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
     bayesProbs                                         # Return the median posterior probabilities
   }                                                    #  of infection, for each arm
 
-  doRuleOf3 <- function(purpose1Summary) {             # Heuristic for when no events observed
+  doRuleOf3 <- function(purpose1Summary) {             # Heuristic for when ZERO events observed
     ## https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Rule_of_three_%E2%80%94_for_when_no_successes_are_observed
     cat(sprintf("\n\n* The Rule of 3 suggests a lenacapavir infection CL of [0.000, %.5f].\n",
                 3.0 / purpose1Summary[1, 2]))          #

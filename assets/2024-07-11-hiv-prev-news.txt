@@ -1,5 +1,5 @@
 
-* PURPOSE1 HIV Prevention on Mon Jul 15 09:30:44 2024
+* PURPOSE1 HIV Prevention on Mon Jul 15 13:35:31 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-07-11-hiv-prev-news.txt
@@ -63,4 +63,4 @@ PReP        0.01322 0.01737 0.02228
 
 * The Rule of 3 suggests a lenacapavir infection CL of [0.000, 0.00141].
 
-* PURPOSE1 HIV Prevention completed Mon Jul 15 09:30:44 2024 (0.0 sec elapsed).
+* PURPOSE1 HIV Prevention completed Mon Jul 15 13:35:31 2024 (0.0 sec elapsed).
