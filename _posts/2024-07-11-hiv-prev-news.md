@@ -191,7 +191,7 @@ Now let's think a bit like Bayesians:
 	  
 We find the infection mAP estimators to be:  
 - __lenacapavir:__ 0.032% (CL: 0.001% &ndash; 0.173%)  
-- __PReP:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.74% (CL: 1.32% &ndash; 2.23%)  
+- __PReP:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.74% (CL: 1.32% &ndash; 2.23%)  
 
 <a href="{{ site.baseurl }}/assets/2024-07-11-hiv-prev-news.png"><img src="{{ site.baseurl }}/assets/2024-07-11-hiv-prev-news-thumb.jpg" width="400" height="400" alt="Bayesian posterior Beta distributions for p in each arm" title="Bayesian posterior Beta distributions for p in each arm" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The plot here shows the posterior distributions:  
