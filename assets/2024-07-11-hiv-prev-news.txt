@@ -1,5 +1,5 @@
 
-* PURPOSE1 HIV Prevention on Mon Jul 15 14:00:28 2024
+* PURPOSE1 HIV Prevention on Mon Jul 15 14:03:34 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-07-11-hiv-prev-news.txt
@@ -65,4 +65,4 @@ PReP        0.01322 0.01737 0.02228
   - Rule of 3: [0.0000000, 0.0014058]
   - Bayes:     [0.0000119, 0.0017263].
 
-* PURPOSE1 HIV Prevention completed Mon Jul 15 14:00:28 2024 (0.0 sec elapsed).
+* PURPOSE1 HIV Prevention completed Mon Jul 15 14:03:34 2024 (0.0 sec elapsed).
