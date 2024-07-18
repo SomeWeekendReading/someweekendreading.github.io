@@ -81,6 +81,6 @@ In the meantime: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: [SomeWeekendReadingEditor@gmail.com](Weekend Editor), ["Anti-Surveillance Fashion Tips"]({{ site.baseurl }}/tired-surveillance/), [_Some Weekend Reading_]({{ site.baseurl }}) blog, 2023-Oct-10. [↩](#fn1a)  
+<a id="fn1">1</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Anti-Surveillance Fashion Tips"]({{ site.baseurl }}/tired-surveillance/), [_Some Weekend Reading_]({{ site.baseurl }}) blog, 2023-Oct-10. [↩](#fn1a)  
 
 <a id="fn2">2</a>: P Bandara, ["This Clothing Line Tricks AI Cameras Without Covering Your Face"](https://petapixel.com/2023/01/20/this-clothing-line-tricks-ai-cameras-without-covering-your-face/), _PetaPixel_, 2023-Jan-20. [↩](#fn2a)  
