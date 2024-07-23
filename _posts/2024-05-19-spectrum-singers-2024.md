@@ -70,7 +70,7 @@ are end goals in ourselves.
 
 [Charles Ives](https://en.wikipedia.org/wiki/Charles_Ives), for example, was also an
 actuary (Math Tribe! Math Tribe!  Math Tribe!) and invented a lot of the business
-practices in modern insurance, such as insurance for estate planing. Given his love of
+practices in modern insurance, such as insurance for estate planning. Given his love of
 dissonance in music, it seems only apt that his spouse was named Harmony.  
 
 <img src="{{ site.baseurl }}/images/2024-05-19-spectrum-singers-2024-ticket.jpg" width="400" height="237" alt="You can't say they spent much money on printing the tickets..." title="You can't say they spent much money on printing the tickets..." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
