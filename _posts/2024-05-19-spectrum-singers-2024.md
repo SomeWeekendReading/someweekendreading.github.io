@@ -383,7 +383,7 @@ A choir that does that, of course, inevitably brings us to George Eliot's poem "
 Invisible" <sup id="fn6a">[[6]](#fn6)</sup>, with its use of a choral metaphor as
 transcendence of a mortal world, into Whitman's "different and luckier" realm:   
 
-> Poor anxious penitence, is quick dissolv'd;  
+> __Poor anxious penitence,__ is quick dissolv'd;  
 > Its discords, quench'd by meeting harmonies,   
 > Die in the __large and charitable air.__  
 > &hellip;  
@@ -399,7 +399,8 @@ transcendence of a mortal world, into Whitman's "different and luckier" realm:
 > So shall I join the choir invisible  
 > Whose music is the gladness of the world.
 
-The world is difficult.  Maybe we can be "large and charitable", even in a difficult world.  
+The world is difficult.  May our "poor anxious penitence" be in the "large and charitable
+air", even in a difficult world.   
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
