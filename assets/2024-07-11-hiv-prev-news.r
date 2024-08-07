@@ -147,8 +147,8 @@ doit <- function(purpose1     = data.frame(Arm       = c("lenacapavir", "Descovy
     ## https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Rule_of_three_%E2%80%94_for_when_no_successes_are_observed
     cat(sprintf(paste("\n\n* Frequentist heuristic for lenacapavir infection CL",
                       "  - Rule of 3: [0.0000000, %.7f]",
-                      "  - Bayes:     [%.7f, %.7f].\n",
-                      sep = "\n"),
+                      "  - Bayes:     [%.7f, %.7f].\n",#
+                      sep = "\n"),                     #
                 3.0 / purpose1Summary[1, 2],           #
                 bayesProbs[1, 1], bayesProbs[1, 3]))
     TRUE                                               # Flag that it was done

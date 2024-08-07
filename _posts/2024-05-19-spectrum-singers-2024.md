@@ -18,7 +18,7 @@ The [Spectrum Singers](https://www.spectrumsingers.org/) is a very high-quality 
 group, well known in Cambridge for many years.  They're occasionally described as "hip
 classical", or invoking the word "spectrum" to describe the broad range of the choral
 repertoire they explore &ndash; from early music to the 20th century.  (Though, barbarian
-that I am, I always mis-hear it as "Spectral Singers" and think about a choir of ghosts.)  
+that I am, I always mis-hear it as "Spectral Singers" and imagine a choir of ghosts.)  
 
 Recently John Ehrlich, their music director for the last 44 years, decided to retire.  In
 various talks, he's described his motivation as making sure Spectrum Singers didn't become
@@ -33,7 +33,7 @@ Traditionally the venue for Spectrum Singers is
 [First Church Congregational, in Cambridge](https://www.firstchurchcambridge.org/).
 (Other musical organizations performing there are the [Boston Early Music Festival](https://bemf.org/),
 the [Cantata Singers](https://www.cantatasingers.org/), the 
-[Seraphim Singers](https://www.seraphimsingers.org/), and others.  
+[Seraphim Singers](https://www.seraphimsingers.org/), and others.)  
 
 Congregational churches (now UCC) have a deep history in New England, and indeed are the
 denomination of my youth.  While this congregation goes back to 1633, the current building
@@ -106,7 +106,7 @@ more dissonant pieces preceding him.
 
 All these composers were alive at approximately the same time, at least overlapping to
 some degree, writing 1907 - 1938.  It always surprises me to be reminded the degree to
-which World War I absolutely shocked and scarred the world.  (Indeed, in 1923 Schoenberg
+which World War I absolutely shocked and even scarred the world.  (Indeed, in 1923 Schoenberg
 wrote to a friend that he no longer thought world peace could be possible.)  Today, having
 survived World War II and numerous lesser &ndash; but even more pointlessly brutal &ndash;
 conflicts, we tend to underestimate that.  People wondered how it could even be possible
