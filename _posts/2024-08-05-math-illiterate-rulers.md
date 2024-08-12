@@ -43,10 +43,10 @@ logic to craft arguments that _sound_ correct in order to hoodwink others into s
 a preferred conclusion.  
 
 People with some intellectual ability seem to me to sort into 2 tribes: 
-- Math/Models/Things Tribe: those who do mathematics, models, and comparison with the
+- _Math/Models/Things Tribe:_ those who do mathematics, models, and comparison with the
   objective world of things,  
   _vs_  
-- Word/Story Tribe: those who get very good at _words_ and their use to persuade, inform,
+- _Words/Stories Tribe:_ those who get very good at _words_ and their use to persuade, inform,
   or command _people_ instead of things.  
 
 Guess which tribe thinks it has a right to rule?  
@@ -61,7 +61,7 @@ And so it is today, when my face was more or less rubbed in 3 examples.
 
 ### Statistical Significance in Court  
 
-It appears Justice Sotomayor, for whom I generally have admiration, said something that is
+It appears Justice Sotomayor, for whom I generally have 'significant' admiration, said something that is
 either na&iuml;ve on the surface, or in need of interpretation to find the deeper meaning:  
 
 <a href="https://x.com/DataSciFact/status/1820523965380440455"><img src="{{ site.baseurl }}/images/2024-08-05-math-illiterate-rulers-twitter-1.jpg" width="550" height="208" alt="Justice Sotomayor disses statistical significance" title="Justice Sotomayor disses statistical significance" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -71,7 +71,7 @@ since it's what tells you if your observations are _real_ or not, i.e., whether 
 artifact of noise.  
 
 <img src="{{ site.baseurl }}/images/2024-08-05-math-illiterate-rulers-rss-1.jpg" width="400" height="152" alt="Ziliak @ Significance: significance in courts" title="Ziliak @ Significance: significance in courts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-So let's dig in a bit.  The source, other than court documents, appears to be an case
+So let's dig into this a bit.  The source, other than court documents, appears to be an case
 study article in _Significance_, a journal of the Royal Statistical
 Society.  <sup id="fn1a">[[1]](#fn1)</sup>  
 
@@ -156,7 +156,7 @@ Brrr!
 [Bayes Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem) is an absolutely essential
 way for reasoning about conditional probabilities (which is to say: about almost
 _everything_, when you get down to it).  For example, 
-[as we previously wrote on how to interpret home COVID-19 tests]({{ site.baseurl }}/weekend-editric-exposed/),
+[as we previously wrote on how to interpret home COVID-19 tests]({{ site.baseurl }}/weekend-editrix-exposed/),
 we'd like to know the probability we don't have COVID-19 if we test negative.  
 - This is the Negative Predictive value, or $\Pr(\mbox{No COVID} \| \mbox{Test Negative})$.  
 - However, all the reported data on the test is for engineering the test, like the False
