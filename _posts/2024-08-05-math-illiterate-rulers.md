@@ -13,9 +13,14 @@ up, Buttercup: it's worse than you think.
 ## Lawyers Are Not Good Thinkers?!  
 
 During a period of youthful idealism, many years ago, I fell in love with formal logic.
-And I mean, in _love._  I had that same idealism that 
+And I mean, in _love._  I had that same idealism that
 [led Leibniz to hope for "calculemus"](https://en.wikiquote.org/wiki/Gottfried_Leibniz#:~:text=quando%20orientur%20controversiae%2C%20non%20magis%20disputatione%20opus%20erit%20inter%20duos%20philosophos%2C%20quam%20inter%20duos%20computistas.%20Sufficiet%20enim%20calamos%20in%20manus%20sumere%20sedereque%20ad%20abacos%2C%20et%20sibi%20mutuo%20(accito%20si%20placet%20amico)%20dicere%3A%20calculemus)
 as a path to world peace.
+(Yes, I knew about
+[G&ouml;del's Incompleteness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
+and what that did to
+[Russell &amp; Whitehead's _Principia Mathematica_](https://en.wikipedia.org/wiki/Principia_Mathematica);
+I meant we should get as close as possible to that limit.)
 To get a formal understanding of certain ritual prayers in my religious community, I even
 went so far as to learn [denotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics),
 hoping it would help. (It did not help.  Opened a lot of other doors, but not _that_ one.)  
@@ -185,7 +190,9 @@ To be fair, this decision and related decisions have all been rehashed, and prob
 both US and European courts is safe again.  
 
 But consider: a judge just said "well, that doesn't apply to me" and hoped that the
-natural world would obey!  Fortunately, the natural world has a way of slapping back.  
+natural world would obey!  
+
+Fortunately, the natural world has a way of slapping back.  
 
 ### Counting Votes with&hellip; _Fractions_  
 
@@ -237,7 +244,7 @@ $$
 
 You can round down to the nearest integer human and get 137, but more in the spirit of the
 law would be to round up to 138 to ensure that _at least 2/3 votes are cast in favor._
-Either way, the measure should fall.  
+Either way, the measure should fall with only 136 votes.  
 
 But&hellip; that is most definitely not what they did!  Being members of the Word Tribe,
 mathematically phobic at best and illiterate at worst, they sought support from their
@@ -264,7 +271,7 @@ The title is a joke about the
 [_Hypostasis of the Archons_, or the _Reality of the Rulers_](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons)
 from Codex II of the Nag Hammadi library.  
 
-Alas, it is a joke few will perceive and even fewer appreciate.  Still: this big of
+Alas, it is a joke few will perceive and even fewer appreciate.  Still: this bit of
 Gnostic writing is useful, as an example of what happens when people go _very_ far down
 the rabbit hole and think their words and stories capture reality.  It reads, frankly,
 like religious visions on acid.  There _might_ be something there, but it's hard to tell
