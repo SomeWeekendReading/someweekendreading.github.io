@@ -117,11 +117,13 @@ mathematical training.  They are confusing 3 entirely separate statistical domai
    [Cohen's $h$](https://en.wikipedia.org/wiki/Cohen%27s_h).  It is also the subject of a
    good many pragmatic measures.  For example: during my days analyzing gene expression
    data, we used:
+
    - a $p$-value for a ratio with controls to assess statistical _significance_ of a
      gene's expression going up or down, and  
    - the _fold induction_ ratio, i.e., the expression ratio with respect to controls to
      measure strength of effect.  
-   It was typical to demand $p \lt 0.05$ for significance and a fold ratio of 2 (up or
+
+   It was typical to demand $p \lt 0.05$ for significance and a fold ratio &ge; 2 (up or
    down) as a minimum strength of effect.  
 
 3. _Causality:_ This is the hardest thing of all to measure!  Just finding $A$ and $B$ are
