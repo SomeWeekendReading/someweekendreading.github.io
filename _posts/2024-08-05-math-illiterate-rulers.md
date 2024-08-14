@@ -258,10 +258,10 @@ peers and superiors &ndash; Word Tribe approval.
   
 Which value of 2/3 is "right for you"?  C'mon, this is not a place for relative truths:
 you can't assert "my truth about 2/3".  (Actually, asserting "my truth" is almost always
-nonsense: truth is what _is_, independent of who realizes it or even whether that truth is
-knowable in the first place.)  
+nonsense: truth is what _is_, independent of who realizes it. Or even whether that truth is
+knowable in the first place, as G&ouml;del taught all of us.)  
 
-Sooner or later, such devotion to words and stories instead of reality leads to
+Sooner or later, such devotion to words and stories _instead of reality_ leads to
 nonsensical acts like asking for a legal ruling on the value of 2/3.  
 
 Do not do that.  
