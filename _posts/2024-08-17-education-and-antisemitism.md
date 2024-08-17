@@ -15,9 +15,9 @@ depends."
 Back when I was just a wee child, I never thought much about antisemitism.  That's partly
 because in a small, semi-rural midwestern town there were only a few Jews, all of whom
 were culturally indistinguishable from everybody else.  Also, in those days, it was
-permissible to think that antisemitism was mostly an issue of the past, largely settle in
+permissible to think that antisemitism was mostly an issue of the past, largely settled in
 World War II with the defeat of the Nazis.  In my na&iuml;vet&eacute; I thought
-antisemitism an thing largely of the past or of the stubbornly uneducated.  
+antisemitism a thing largely of the past, or of the stubbornly uneducated.  
 
 It was much in the same sense as we thought of racism: in a mostly-white small town,
 racism was not a daily issue for whites, and could be regarded as having been settled by
@@ -25,19 +25,19 @@ the Civil War.
 
 We were, of course, wrong about both.  Racism, post the Civil Rights Act and the Voting
 Rights Act, was no longer a _de jure_ matter, but it was most certainly and
-viciously present. 
+viciously still present. 
 
-So too with antisemitism.  And, right on time, the Republicans are spouting some deeply
+So too with antisemitism.  And, right on time, the Republicans are now spouting some deeply
 antisemitic rhetoric.
 
-So we might ask the usual questions we liberals ask: isn't just a little bit more
+So one might ask the usual question we liberals ask: isn't just a little bit more
 information, a little bit more education, the answer to our problems?  We _always_ ask
 this, but sadly trip over multiple obstacles:  
 - The [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
   means that the ignorant are full of unearned confidence in their opinions, often
   feeling no need for further information.  
 - The [Backfire effect](https://en.wikipedia.org/wiki/Belief_perseverance) often means
-  people are _threatened_ by information that might change their beliefs, and instead dig
+  people are _threatened_ by information that might change their beliefs, and respond by digging
   in deeper and tighter in their ignorant positions.  
   
 So it might go either way: does education help or hurt the anti-antisemitism project?  
@@ -50,7 +50,7 @@ The inspiration for today's post comes from an article in
 _Research &amp; Politics_  <sup id="fn1a">[[1]](#fn1)</sup> that discusses exactly this.  
 
 They study a level of antisemitism in a sample of people, by responses to a survey that
-gauge how often (bad) stereotypes about Jews are confirmed.  However, there's a twist:
+gauges how often (bad) stereotypes about Jews are confirmed.  However, there's a twist:
 1. They do this world-wide in over 100 countries, stratifying the antisemitism results by
    country.  
 2. Then they  note for each country whether it had endorsed UN resolutions
@@ -102,19 +102,23 @@ Let's state our Null Hypothesis (since the authors failed to do so!).  In an ide
 Now, what do we _actually_ see?  
 - This is the situation we see on the right.  In countries whose cultures do _not_ encourage
   antisemitism, education works.  
-- However, it is _not_ the situation we see on the left, in the countries with antisemitic
+- However, it is _not_ the situation we see on the left, in the countries with more antisemitic
   cultures.  While the blue curve does fall (ignorance of the issues decreases), the green
   curve is flat (disagreement with antisemitism not influenced by education), and the red
-  curve _rises_ (more education leads to more antisemitism).  
+  curve _rises_ (more education leads to more agreement with antisemitism).  
 
 In other words, _education in an antisemitic culture __confirms__ the antisemitic beliefs of
 those being educated._  
+
+Also, in no case do the curves move a _lot,_ i.e., best case we have 50% of the highly
+educated citizens of less antisemitic countries disagreeing with antisemitism (green
+curve, rightmost graph).  
 
 
 ## The Weekend Conclusion  
 
 It's enough to make me despair.  (Though, to be honest, given the state of the world, that
-doesn't take much.)  
+doesn't take much nowadays.)  
 
 <a href="{{ site.baseurl }}/images/teach-arabic-numerals.jpg"><img src="{{ site.baseurl }}/images/teach-arabic-numerals.jpg" width="400" height="343" alt="Humorous tweet about ignorant American prejudices about 'Arabic numerals'" title="Humorous tweet about ignorant American prejudices about 'Arabic numerals'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 And it's not as though we're immune to this effect in the Western, developed, somewhat
