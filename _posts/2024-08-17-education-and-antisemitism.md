@@ -125,10 +125,10 @@ showing the allergic reaction Americans had to the phrase "Arabic numerals" to d
 
 And lest anyone think this sort of conclusion-jumping is only on the right (though maybe
 it's _mostly_ on the right?), a similar prejudice was expressed against the "creation
-theories" of the French priest Lema&icirc;tre.  That phrasing is full of bait to make one
+theories" of the French Catholic priest Lema&icirc;tre.  That phrasing is full of bait to make one
 suspect the usual conservative religious creation theory crap; in fact
 [Georges Lema&icirc;tre](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre),
-while genuinely a French priest, was also a physicist involved in the application of
+while genuinely a French Catholic priest, was also a physicist involved in the application of
 General Relativity to the theory of an expanding universe and ultimately the Big Bang.  It
 doesn't get any more respectable than that.  So the suspicion was just my tribe's deep,
 and well-earned suspicion of religious nuts messing with education.  
