@@ -80,7 +80,7 @@ can get away with that.  _Sigh._
 So, we have little recourse than to trust, provisionally, the analysis they did and which
 they described in a barrage of word salad that I decline to attempt to decrypt.  
 
-<a href="{{ site.baseurl }}/images/2024-08-17-education-and-antisemitism-rp-2.jpg"><img src="{{ site.baseurl }}/images/2024-08-17-education-and-antisemitism-rp-2-thumb.jpg" width="400" height="134*" alt="Figure 1: Stereotype endorsement by education and country support for statements against antisemitism" title="Figure 1: Stereotype endorsement by education and country support for statements against antisemitism" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2024-08-17-education-and-antisemitism-rp-2.jpg"><img src="{{ site.baseurl }}/images/2024-08-17-education-and-antisemitism-rp-2-thumb.jpg" width="400" height="134" alt="Figure 1: Stereotype endorsement by education and country support for statements against antisemitism" title="Figure 1: Stereotype endorsement by education and country support for statements against antisemitism" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here's their Figure 1, showing their main result:  
 - The leftmost graph is for countries that rejected both resolutions (the most antisemitic
   nations), the middle for those that supported only one, and the right for the countries
