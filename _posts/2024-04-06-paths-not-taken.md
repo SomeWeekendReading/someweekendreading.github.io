@@ -31,8 +31,8 @@ giving up on a dream:
 - Ever since childhood, I wanted to be a professor.  Specifically, a physics professor.  I
   wanted to _understand._  
 - As an undergrad, I discovered I _love_ teaching.  All kinds of things, too, not just
-  physics.  The thrill of viewing each student as puzzle, their minds to be unlocked by
-  the right sort of explanation is amazing.  There's nothing better than the thrill of
+  physics.  The thrill of viewing each student as a puzzle, their minds to be unlocked by
+  the right sort of explanation, is amazing.  There's nothing better than the thrill of
   watching their eyes get big, they inhale, and suddenly the universe opens itself to
   them, if only for a few seconds.  
 - Sometimes the things I learned just made me gasp at their beauty, like the first time I
@@ -65,7 +65,7 @@ prestigious institution.  But that didn't matter much:
 So&hellip; I turned my back on my childhood dream and took an industrial job.  I had the
 connections to get a nice gig doing symbolic AI, and then worked into selling myself for
 additional skills in applied math, then statistics, then machine learning.  I ended up
-doing that in the service of cancer drug discovery, so I at least did some good in the
+doing that in the service of cancer drug discovery, so at least I did some good in the
 world.  
 
 I discovered my love of teaching could be channeled into the presentations I gave, so
@@ -80,13 +80,13 @@ put an end to that.  (Hence the birth of this Crummy Little Blog That Nobody Rea
 
 But&hellip; Sabine has it right.  The process is a long, uphill climb.  The result is
 partly determined by chance and the state of the job market and research funding at one
-particular moment.  It's not fair and it's not good, but it's all we've got.  
+particular moment.  It's not fair and it's not good&hellip; and it's all we've got.  
 
 
 ## The Weekend Conclusion  
 
-I guess things worked out.  It's not the life I wanted, but I'm not in control of the
-process that selects the people who become professors.  What I got instead is good enough.  
+I guess things worked out.  It's wasn't the life I wanted, but I'm not in control of the
+process that selects the people who become professors.  What I got instead was mostly good enough.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 

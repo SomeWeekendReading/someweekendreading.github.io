@@ -180,16 +180,15 @@ shown here.  Several things are clear:
   with some prompt engineering.  Whether "prompt engineering" is equivalent to
   "understanding the course material" is another matter.  
 - The aqua colored bars are for unaided student input, and they are the clear winners.
-  o Indeed, a $t$-test for difference of mean between GPT-4 with prompt engineering
-  (81.1%, standard error of mean 0.8%) and students (91.9%, standard error of mean 0.4%)
-  was absurdly significant at the level $p \sim 2.5 \times 10^{-10}$.  
-  
-  They did not calculate a size of effect measure like
-  [Cohen's $d$](https://en.wikipedia.org/wiki/Effect_size#Cohen's_d) &ndash; or
-  [Cohen's $h$](https://en.wikipedia.org/wiki/Cohen%27s_h),
-  since these are proportions &ndash; and we don't _quite_ have the information to do it
-  for them.  But looking at the figure shows clear separation with no overlap, i.e., a big
-  effect.)  
+  - Indeed, a $t$-test for difference of mean between GPT-4 with prompt engineering
+    (81.1%, standard error of mean 0.8%) and students (91.9%, standard error of mean 0.4%)
+    was absurdly significant at the level $p \sim 2.5 \times 10^{-10}$.  
+  - They did not calculate a size of effect measure like
+    [Cohen's $d$](https://en.wikipedia.org/wiki/Effect_size#Cohen's_d) &ndash; or
+    [Cohen's $h$](https://en.wikipedia.org/wiki/Cohen%27s_h),
+    since these are proportions &ndash; and we don't _quite_ have the information to do it
+    for them.  But looking at the figure shows clear separation with no overlap, i.e., a big
+    effect.)  
   
 The usual assertion one hears bruited about is that AI helpers make everybody a better
 performer.  Contrary to that, we see that for experienced performers are actually better
