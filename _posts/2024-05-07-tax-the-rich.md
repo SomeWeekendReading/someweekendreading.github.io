@@ -74,7 +74,7 @@ civilization and possible extinction, or taxation of the wealthy to get the reso
 save all of us?  
 
 <img src="{{ site.baseurl }}/images/2024-05-07-tax-the-rich-luddite.jpg" width="400" height="619" alt="Merchant: Blood in the Machine, a labor history of the Luddites and modern Big Tech" title="Merchant: Blood in the Machine, a labor history of the Luddites and modern Big Tech" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Just so you'll know we're not complete slouches here at Ch&aacute;eau Weekend, we've been
+Just so you'll know we're not complete slouches here at Ch&acirc;teau Weekend, we've been
 reading with an intent to write a book review of Brian Merchant's book on the history of
 the Industrial Revolution's changes to British clothmaking, the sadly maligned Luddites,
 and the application of all this to modern Big Tech. <sup id="fn4a">[[4]](#fn4)</sup>  

@@ -768,6 +768,8 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "Pure math is beautiful (and occasionally useful) and applied math is useful (and occasionally beautiful). But there's no reason to study fake applied math that is neither beautiful or useful." &ndash; [John D. Cook](https://www.johndcook.com/blog/about-2/), ["Precise Answers to Useless Questions"](https://www.johndcook.com/blog/2024/04/12/precise-answers-to-useless-questions/), 2024-Apr-12.  
 
+"The true and best way of learning any Art, is not to see a great many Examples done by another Person, but to possess ones self first of the Principles of it, and then to make them familiar, by exercising ones self in the Practice. For it is Practice alone, that makes a Man perfect in any thing." &ndash; [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) (18 August 1685 – 29 December 1731), [_New Principles of Linear Perspective_](https://archive.ph/20160411100727/http://sapienzadigitallibrary.uniroma1.it/identifier/RMSSA_00000061) (1715, 1749).  Just so you'll take him seriously: he invented Taylor series.  
+
 
 ## The Statistical Ones  
 

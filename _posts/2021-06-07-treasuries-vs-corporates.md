@@ -311,7 +311,7 @@ Here's what it looks like:
 
 Well&hellip; what a long strange trip it's been!  
 
-- We looked at data on return from a total stock market index fund, an interdiate-term
+- We looked at data on return from a total stock market index fund, an intermediate-term
   Treasury bond index fund, and an intermediate-term corporate bond index fund.  
 - Using the (largely synthetic) data going back to 1871, we found that the evidence was
   _mostly_ statistically significant pointing to Treasuries as a better stock

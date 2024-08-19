@@ -109,7 +109,7 @@ highly persuasive, but not committed to fact in anyway, DOES NOT WORK and SHOULD
 USED.  Excellent advice, that.  
 
 In case you are not persuaded by social media (good for you!), Prof. Williams has provided
-both a video of a seminar, shown here, evocatively titled "On bullsh\*t Engines", and a
+both a video of a seminar, shown here, evocatively titled "On Bullsh\*t Engines", and a
 more formally peer reviewed article published in _American Scientist_. <sup id="fn6a">[[6]](#fn6)</sup>  
 
 A pointed example from the video (4:03), on AI-generated guides to foraging for edible
@@ -223,7 +223,7 @@ Almost all the current AI hype is from grifters, and the summary should be:
 > Thought Leader Jail until they've learned their lesson&hellip;  
 
 I spent decades in applied statistics and machine learning.  And yes, that's how we
-generally see the managers yattering about things of which they know nothing.  
+generally see the managers yattering on subjects about which they know nothing.  
 
 <img src="{{ site.baseurl }}/images/2024-06-22-llm-ai-still-bs-ethics-info-tech-1.jpg" width="400" height="232" alt="Hicks et al. @ Ethics &amp; Info Tech: ChatGPT is BS" title="Hicks et al. @ Ethics &amp; Info Tech: ChatGPT is BS" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Now, for those of you whose taste runs to somewhat less profanity and somewhat more peer
