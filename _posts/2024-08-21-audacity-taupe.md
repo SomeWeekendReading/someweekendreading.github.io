@@ -51,7 +51,8 @@ wiseacreage for today:
    _absolutely will not_ acknowledge the authority of a Black man.  Including his choice
    of clothing, conservative though it may have been.  
 
-Now, I don't know if it's just chance or the wry humor of a campaign genius, but Harris,
+Women, of course, are _always_ criticized for their appearance and clothing.  Now, I don't
+know if it's just chance or the wry humor of a campaign genius, but Harris,
 possibly relating to Obama in echo of this, wore a tan suit to the Convention:  
 
 <a href="https://x.com/Timodc/status/1825703477739221216"><img src="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-harris-1.jpg" width="550" height="530" alt="Harris at Democratic Convention, in a tan suit" title="Harris at Democratic Convention, in a tan suit" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
