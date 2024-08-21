@@ -58,7 +58,7 @@ possibly relating to Obama in echo of this, wore a tan suit to the Convention:
 <a href="https://x.com/Timodc/status/1825703477739221216"><img src="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-harris-1.jpg" width="550" height="530" alt="Harris at Democratic Convention, in a tan suit" title="Harris at Democratic Convention, in a tan suit" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 The best summaries are riffs on Obama's "Yes, we can!" and "The Audacity of Hope" were:  
-- "Yes, we tan!"  
+- "Yes, we tan!", and  
 - "The Audacity of Taupe"  
 
 Perfect.  10/10.  No notes.  
@@ -68,13 +68,28 @@ Perfect.  10/10.  No notes.
 
 ## The Weekend Conclusion  
 
-<a href="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg"><img src="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg" width="400" height="533" alt="The Two Gentlmen: perfectly comfortable with taupe" title="The Two Gentlmen: perfectly comfortable with taupe" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg"><img src="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg" width="400" height="533" alt="The Two Gentlemen: perfectly comfortable with taupe" title="The Two Gentlemen: perfectly comfortable with taupe" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 ["Il nous faut de l'audace, encore l'audace, toujours l'audace!"]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CIl%20nous%20faut%20de%20l%E2%80%99audace%2C%20encore%20l%E2%80%99audace%2C%20toujours%20l%E2%80%99audace!%E2%80%9D)  
 
 As is clear from this picture of the Weekend Publisher (bottom) and the Assistant Weekend
 Publisher (top), the Two Gentlemen are perfectly comfortable with taupe, even to the
 extent of nominating it as one of their favorite lounging spots.  
+
+However, unlike the Two Gentlemen, we cannot simply rest comfortably.  It is incumbent on
+us (eligible American voters, anyway), in the words last night of Michelle Obama, to "do
+something about it".  The something we should all do is:  
+
+- Check our voter registrations, probably weekly if you're in a red state or even a red
+  county.  
+- Vote, preferably early.  If by mail, _drop off your ballot_ with your local elections
+  clerk.  There was too much skulduggery in the Post Office delaying mailed ballots last
+  time.  
+- Vote Democratic, all up and down the ticket.  We need a trifecta (Presidency, Senate,
+  and House) in order to do anything.  Republicans will block _everything_ otherwise.  
+- Emphatically _do not fail to vote_ and _do not vote 3rd party_.  The only "message"
+  you're sending is "I don't care", and giving half a vote for Trump and fascism.  Don't
+  do that.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
