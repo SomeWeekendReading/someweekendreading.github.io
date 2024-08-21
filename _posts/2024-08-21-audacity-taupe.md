@@ -68,7 +68,13 @@ Perfect.  10/10.  No notes.
 
 ## The Weekend Conclusion  
 
+<a href="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg"><img src="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg" width="400" height="533" alt="The Two Gentlmen: perfectly comfortable with taupe" title="The Two Gentlmen: perfectly comfortable with taupe" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
 ["Il nous faut de l'audace, encore l'audace, toujours l'audace!"]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CIl%20nous%20faut%20de%20l%E2%80%99audace%2C%20encore%20l%E2%80%99audace%2C%20toujours%20l%E2%80%99audace!%E2%80%9D)  
+
+As is clear from this picture of the Weekend Publisher (bottom) and the Assistant Weekend
+Publisher (top), the Two Gentlemen are perfectly comfortable with taupe, even to the
+extent of nominating it as one of their favorite lounging spots.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
