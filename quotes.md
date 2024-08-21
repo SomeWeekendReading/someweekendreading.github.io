@@ -505,9 +505,9 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "I guess the trouble was that we didn't have any self-admitted proletarians. Everyone was a temporarily embarrassed capitalist." &mdash; [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck), "A Primer on the 30's", _Esquire_ (cited in [WikiQuote](https://en.wikiquote.org/wiki/John_Steinbeck)).  
 
-"It's no trick to make a lot of money&hellip; if _all_ you wan to do is make a lot of money." &mdash; [_Citizen Kane_](https://en.wikipedia.org/wiki/Citizen_Kane), 1941 screenplay by [Herman Mankiewicz](https://en.wikipedia.org/wiki/Herman_J._Mankiewicz) and [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles), occasionally argued to be [the best film ever made](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).  
+"It's no trick to make a lot of money&hellip; if _all_ you want to do is make a lot of money." &mdash; [_Citizen Kane_](https://en.wikipedia.org/wiki/Citizen_Kane), 1941 screenplay by [Herman Mankiewicz](https://en.wikipedia.org/wiki/Herman_J._Mankiewicz) and [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles), occasionally argued to be [the best film ever made](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).  
 
-"Il nous faut de l'audace, encore l'audace, toujours l'audace!" (We must dare, dare again, and always dare.) &mdash; [Georges Jacques Danton](https://en.wikipedia.org/wiki/Georges_Danton), L'Assembl&eacute;e legislatif, Paris, 1792-Sep-02.  (Yes, it was the French Revolution.  He was still right, at least about this.)  
+"Il nous faut de l'audace, encore l'audace, toujours l'audace!" (We must dare, dare again, and always dare.) &mdash; [Georges Jacques Danton](https://en.wikipedia.org/wiki/Georges_Danton), L'Assembl&eacute;e legislative, Paris, 1792-Sep-02.  (Yes, it was the French Revolution.  He was still right.  At least about this.)  
 
 
 ## Those of Rational &amp; Scientific Bent
