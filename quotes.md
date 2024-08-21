@@ -507,7 +507,7 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "It's no trick to make a lot of money&hellip; if _all_ you wan to do is make a lot of money." &mdash; [_Citizen Kane_](https://en.wikipedia.org/wiki/Citizen_Kane), 1941 screenplay by [Herman Mankiewicz](https://en.wikipedia.org/wiki/Herman_J._Mankiewicz) and [Orson Welles](https://en.wikipedia.org/wiki/Orson_Welles), occasionally argued to be [the best film ever made](https://en.wikipedia.org/wiki/List_of_films_considered_the_best).  
 
-"Il nous faut de l'audace, encore l'audace, toujours l'audace!" (We must dare, dare again, and always dare.) &mdash; [Georges Jacques Danton](https://en.wikipedia.org/wiki/Georges_Danton), L'Assembl&eacute;e legislatif, Paris, 1792-Sep-02.  (Yes, it was the French Revolution.  He was still right.)  
+"Il nous faut de l'audace, encore l'audace, toujours l'audace!" (We must dare, dare again, and always dare.) &mdash; [Georges Jacques Danton](https://en.wikipedia.org/wiki/Georges_Danton), L'Assembl&eacute;e legislatif, Paris, 1792-Sep-02.  (Yes, it was the French Revolution.  He was still right, at least about this.)  
 
 
 ## Those of Rational &amp; Scientific Bent
