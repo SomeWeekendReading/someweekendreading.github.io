@@ -209,8 +209,7 @@ curiosity."  &mdash; attributed to
 [Walter Lipmann](https://en.wikipedia.org/wiki/Walter_Lippmann), in Anna Mundow, "The
 Interview: with Geoffrey Nunberg", _Boston Globe_, 30-July-2006, Ideas Section, p. D7.  
 
-"Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; whilst you find a rock."
-&mdash; attributed to Charles Maurice de Talleyrand-P&eacute;rigord, but also to Will Rogers  
+"Diplomacy is the art of saying &lsquo;Nice doggie&rsquo; whilst you find a rock." &mdash; attributed to [Charles-Maurice de Talleyrand-P&eacute;rigord](https://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-P%C3%A9rigord), but also to [Will Rogers](https://en.wikipedia.org/wiki/Will_Rogers)  
 
 "One of the biggest changes in politics in my lifetime is that the delusional is no
 longer marginal." &mdash; [Bill Moyers](https://en.wikipedia.org/wiki/Bill_Moyers)  
@@ -227,7 +226,7 @@ not [the cat](https://www.heinleinsociety.org/concordance/P_HC.htm#petroniusthea
 
 "Times are bad. Children no longer obey their parents, and everyone is writing a book."
 &mdash; [Marcus Tullius Cicero](https://en.wikipedia.org/wiki/Cicero), Roman 
-statesman/orator/writer (106-43 BCE)  NB: Rome ruled for another 5 centuries  
+statesman/orator/writer (106-43 BCE)  NB: Rome ruled for another 3 centuries  
 
 "The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true." &mdash; [James Branch Cabell](https://en.wikipedia.org/wiki/James_Branch_Cabell) in [_The Silver Stallion: A Comedy of Redemption_](https://www.google.com/books/edition/The_Silver_Stallion/x0h0M6HHfHwC?hl=en&gbpv=1&printsec=frontcover) (1926), Book Four: Coth at Porutsa, Chapter 26: The Realist in Defeat.  
 
@@ -330,13 +329,7 @@ ready to live in the world that logically follows these people's fondest desires
 &mdash; [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi),
 [_Whatever_ on 2010-Mar-22](http://whatever.scalzi.com/2010/03/22/reader-request-week-2010-1-christianity-and-me/).  
 
-"&hellip; almost everyone thinks he's the good guy, and if you take your stand on
-the slope of Mount Righteous Cause, it has proven as slippery as greased glass.   But
-social dominators will run to take their chances on that slippery slope.  
-&mdash; psychologist [Bob Altemeyer](https://en.wikipedia.org/wiki/Robert_Altemeyer), 
-in his popular-level summary of his work on 
-[Right Wing Authoritarianism](https://en.wikipedia.org/wiki/Right_Wing_Authoritarianism), 
-[_The Authoritarians_](https://theauthoritarians.org/), p. 163.  
+"&hellip; almost everyone thinks he's the good guy, and if you take your stand on the slope of Mount Righteous Cause, it has proven as slippery as greased glass.   But social dominators will run to take their chances on that slippery slope.  &mdash; psychologist [Bob Altemeyer](https://en.wikipedia.org/wiki/Robert_Altemeyer), in his popular-level summary of his work on [Right Wing Authoritarianism](https://en.wikipedia.org/wiki/Right_Wing_Authoritarianism), [_The Authoritarians_](https://theauthoritarians.org/), p. 163.  
 
 "A man is incapable of comprehending any argument which interferes with his revenue."
 &mdash; [Ren&eacute; Descartes](https://en.wikipedia.org/wiki/Rene_Descartes) (But see also:
@@ -527,7 +520,7 @@ pp. 35-49.
 
 "Logic is not necessarily an instrument for finding truth; on the contrary, truth is necessarily an instrument for using logic." &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)  
 
-"The fact that $2 + 2 = 2 \times 2 = 2^2$ has caused more confusion in theoretial physics than any other fact." &mdash; [Jeffrey Goldstone](https://en.wikipedia.org/wiki/Jeffrey_Goldstone), an offhand remark in a physics lecture at MIT  
+"The fact that $2 + 2 = 2 \times 2 = 2^2$ has caused more confusion in theoretial physics than any other fact." &mdash; [Jeffrey Goldstone](https://en.wikipedia.org/wiki/Jeffrey_Goldstone), an offhand remark in a physics lecture at MIT, from memory sometime in the early 1980s  
 
 "The first rule of [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) Club is you don't know you're in Dunning-Kruger Club."  &mdash; Dan Geravoin, [Twitter 2022-Mar-14](https://twitter.com/geravoin/status/1503444857183895553), in reference to [_Fight Club_](https://en.wikipedia.org/wiki/Fight_Club).  To which I can only add: this makes Dunning-Kruger Club the _opposite_ of a secret society: the members don't know they're members, but everybody _else_ does.  
 
@@ -560,6 +553,8 @@ I were a movie comedian or something like that and had never heard anything abou
 "I do not like it, and I am sorry I ever had anything to do with it." 
 &mdash; [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), 
 on quantum mechanics (talk about _misplaced_ regrets!).  
+
+"Quantum mechanics is a description of what's going on when you're not looking." &ndash; MIT physicist [Ken Johnson](https://en.wikipedia.org/wiki/Kenneth_Alan_Johnson), in a graduate class on quantum mechanics, upon reflection about a question on the interpretation of measurement.  From memory, sometime around 1977 or 1978.  
 
 "A method is more important than a discovery, since the right method will lead to new and
 even more important discoveries." &mdash; [Lev Landau](https://en.wikipedia.org/wiki/Lev_Landau)  
