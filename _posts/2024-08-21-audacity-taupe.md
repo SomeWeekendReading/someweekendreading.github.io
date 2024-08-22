@@ -70,8 +70,6 @@ Perfect.  10/10.  No notes.
 
 <a href="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg"><img src="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-the-two-gentlemen.jpg" width="400" height="533" alt="The Two Gentlemen: perfectly comfortable with taupe" title="The Two Gentlemen: perfectly comfortable with taupe" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
-["Il nous faut de l'audace, encore l'audace, toujours l'audace!"]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CIl%20nous%20faut%20de%20l%E2%80%99audace%2C%20encore%20l%E2%80%99audace%2C%20toujours%20l%E2%80%99audace!%E2%80%9D)  
-
 As is clear from this picture of the Weekend Publisher (bottom) and the Assistant Weekend
 Publisher (top), the Two Gentlemen are perfectly comfortable with taupe, even to the
 extent of nominating it as one of their favorite lounging spots.  
@@ -90,6 +88,8 @@ something about it".  The something we should all do is:
 - Emphatically _do not fail to vote_ and _do not vote 3rd party_.  The only "message"
   you're sending is "I don't care", and giving half a vote for Trump and fascism.  Don't
   do that.  
+
+["Il nous faut de l'audace, encore l'audace, toujours l'audace!"]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CIl%20nous%20faut%20de%20l%E2%80%99audace%2C%20encore%20l%E2%80%99audace%2C%20toujours%20l%E2%80%99audace!%E2%80%9D)  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
@@ -114,4 +114,4 @@ something about it".  The something we should all do is:
 -->
 
 
-<a id="fn1">1</a>: BH Obama, ["The Audacity of Hope"](https://en.wikipedia.org/wiki/The_Audacity_of_Hope), Crown/Three Rivers Press, 2006-Oct-17. ISBN: [978-0-307-23769-9](https://en.wikipedia.org/wiki/Special:BookSources/978-0-307-23769-9). [↩](#fn1a)  
+<a id="fn1">1</a>: BH Obama, ["The Audacity of Hope"](https://en.wikipedia.org/wiki/The_Audacity_of_Hope), Crown/Three Rivers Press, 2006-Oct-17. ISBN: [978-0-307-23769-9](https://isbnsearch.org/isbn/9780307237699). [↩](#fn1a)  
