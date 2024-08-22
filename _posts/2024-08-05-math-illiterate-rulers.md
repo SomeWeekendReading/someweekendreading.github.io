@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Innumeracy of the Rulers
-tags: CatBlogging CorporateLifeAndItsDiscontents MathInTheNews Politics Statistics
+tags: CatBlogging CorporateLifeAndItsDiscontents MathInTheNews Politics SomebodyAskedMe Statistics
 comments: true
 commentsClosed: true
 ---
