@@ -57,7 +57,7 @@ possibly relating to Obama in echo of this, wore a tan suit to the Convention:
 
 <a href="https://x.com/Timodc/status/1825703477739221216"><img src="{{ site.baseurl }}/images/2024-08-21-audacity-taupe-harris-1.jpg" width="550" height="530" alt="Harris at Democratic Convention, in a tan suit" title="Harris at Democratic Convention, in a tan suit" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
-The best summaries are riffs on Obama's "Yes, we can!" and "The Audacity of Hope" were:  
+The best summaries were riffs on Obama's "Yes, we can!" and "The Audacity of Hope":  
 - "Yes, we tan!", and  
 - "The Audacity of Taupe"  
 

@@ -302,6 +302,30 @@ As [George Santayana](https://en.wikipedia.org/wiki/George_Santayana) urged:
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2024-Aug-21: Enfield's book  
+
+<img src="{{ site.baseurl }}/images/2024-08-05-math-illiterate-rulers-enfield-1.jpg" width="200" height="293" alt="NJ Enfield @ MIT Press: Language vs Reality" title="NJ Enfield @ MIT Press: Language vs Reality" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) if I'd seen this post made
+[Hacker News at Y Combinator](https://news.ycombinator.com/item?id=41228696).  No, I very
+much had not.  (Gotta get the page view counter working again so I can detect reader
+surges!)  
+
+Notably, they cited a book by Nick Enfield on this subect. <sup id="fn4a">[[4]](#fn4)</sup>
+
+I haven't read Enfield's book, but as far as I can tell from the reviews it makes pretty
+much the same point, but with more data (and somewhat less bile) than I did above.
+Basically, language is _not_ about precise description and conveyance of information, or
+at least not completely.  Rather, it is mostly about social coordination, i.e., getting
+people to do things.  (Though it _sounds_ from the reviews as though he's buying into the
+[Sapir-Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity), which is a
+slightly dicey choice.)  
+
+Still, yeah: people involved in social coordination and power over others prioritize
+language over logic, mathematics, and science.  It _could_ be a reasonable division of
+labor, if the putative leaders would at least _listen_ when we nerds tell them what's
+possible or advisable.  
+
 ---
 
 ## Notes &amp; References  
@@ -331,3 +355,5 @@ __NB:__ _Understanding Uncertainty_ is, unfortunately, no longer updated as of 2
 <a id="fn3">3</a>: MA Bragg, ["Truro zoning decision hinges on single vote"](https://www.capecodtimes.com/story/news/politics/government/2009/04/30/truro-zoning-decision-hinges-on/52012503007/), _Cape Cod Times_, 2009-Apr-30. 
 
 Yes, this story is from 15 years ago.  No, I still have not forgiven them.  Stupidity like this leaves a welt upon my soul. Those heal only slowly, with much harrumphing.  Another 15 or 20 years oughta do it.[↩](#fn3a)  
+
+<a id="fn4">4</a>: NJ Enfield, ["Language Vs. Reality: Why Language Is Good for Lawyers and Bad for Scientists"](https://mitpress.mit.edu/9780262548465/language-vs-reality/), _MIT Press_, 2022-Mar-09. ISBN: [9780262046619](https://isbnsearch.org/isbn/9780262046619). [↩](#fn4a)  
