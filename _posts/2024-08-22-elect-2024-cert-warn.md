@@ -124,7 +124,7 @@ confidence limits on the likely number of these law-defying counties:
 ```
 
 So we'd expect about 162 counties to attempt this in the median, with 95% confidence
-between 138 and 186.  That's&hellip; a _lot_ of leaks in the bottom of the boat to have to
+between 139 and 186.  That's&hellip; a _lot_ of leaks in the bottom of the boat to have to
 patch under time pressure and in the face of resistance in court!  
 
 But why would anyone want to _do_ that?  
