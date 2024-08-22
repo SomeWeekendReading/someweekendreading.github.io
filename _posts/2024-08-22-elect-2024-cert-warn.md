@@ -108,11 +108,11 @@ $p$, the probability that a given county will attempt to obstruct.
     attempt to block a Democratic win.  
   - Then $p = 0.10$.  
 
-The number of counties $n$ attempting overthrow would be a binomially distributed random
+The number of counties $k$ attempting overthrow would be a binomially distributed random
 variable:  
 
 $$
-\Pr(n | N, p) = \binom{N}{n} p^n (1-p)^{N-n}
+\Pr(k | N, p) = \binom{N}{k} p^k (1-p)^{N-k}
 $$
 
 A bit of fiddling about in [R](https://www.r-project.org/) tells us the median and the 95%
