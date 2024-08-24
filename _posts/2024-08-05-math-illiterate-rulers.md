@@ -60,14 +60,15 @@ Of course we want people to be able to use language properly and clearly, or els
 constantly [_ibis_/_redibis_-ing each other](https://en.wikipedia.org/wiki/Ibis_redibis_nunquam_per_bella_peribis)
 until it was just sad slapstick.  But I am continually amazed at people who think
 words are somehow the way reality works, e.g., that they can out-talk physics and
-make the world to work differently, as if reciting a magickal spell.  
+make the world work differently, as if reciting a magickal spell.  
 
 And so it is today, when my face was more or less rubbed in 3 examples.  
 
 ### Statistical Significance in Court  
 
-It appears Justice Sotomayor, for whom I generally have 'significant' admiration, said something that is
-either na&iuml;ve on the surface, or in need of interpretation to find the deeper meaning:  
+It appears US Supreme Court Justice Sotomayor, for whom I generally have 'significant'
+admiration, said something that is either na&iuml;ve on the surface, or in need of
+interpretation to find the deeper meaning:  
 
 <a href="https://x.com/DataSciFact/status/1820523965380440455"><img src="{{ site.baseurl }}/images/2024-08-05-math-illiterate-rulers-twitter-1.jpg" width="550" height="208" alt="Justice Sotomayor disses statistical significance" title="Justice Sotomayor disses statistical significance" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
@@ -204,7 +205,7 @@ on the outer Cape, just below the tip of Cape Cod.  It's a charming place for
 tourists, and for all I know, also a lovely place to live.  It was the subject of satire
 in the SF comedy [Men in Black II](https://en.wikipedia.org/wiki/Men_in_Black_II), in
 which we learn that everyone working at the Post Office is either a space alien or someone who
-specializes in dealing with them.  
+specializes in dealing with space aliens.  
 
 But keep in mind what's _behind_ the satire: that this is such a deeply tolerant place
 that even space aliens can have good jobs and be good community members.  Go ahead and
@@ -273,11 +274,11 @@ The title is a joke about the
 [_Hypostasis of the Archons_, or the _Reality of the Rulers_](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons)
 from Codex II of the Nag Hammadi library.  
 
-Alas, it is a joke few will perceive and even fewer appreciate.  Still: this bit of
+Alas, it is a joke few will even perceive, and even fewer appreciate.  Still: this bit of
 Gnostic writing is useful, as an example of what happens when people go _very_ far down
-the rabbit hole and think their words and stories capture reality.  It reads, frankly,
-like religious visions on acid.  There _might_ be something there, but it's hard to tell
-past all the deflections and mysticism.  
+the rabbit hole and think their words and stories capture reality, or even _control_
+reality.  It reads, frankly, like religious visions on acid.  There _might_ be something
+there, but it's hard to tell past all the deflections and mysticism.  
 
 You _could_ just say what you actually mean, even if it takes you several tries.  That's
 always an option, assuming you have a meaning in the first place.  
