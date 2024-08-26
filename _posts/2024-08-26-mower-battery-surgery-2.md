@@ -68,7 +68,7 @@ Next, we created our little [_mise en place_](https://en.wikipedia.org/wiki/Mise
   years ago, to remind us where the various internal organs are located.  
 
 <a href="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-screws-in-position.jpg"><img src="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-screws-in-position-thumb.jpg" width="400" height="533" alt="The removed screws, laid out in a geometry to remind us of where to put them back later." title="The removed screws, laid out in a geometry to remind us of where to put them back later." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-To quote [Sergeant Oddball in the movie _Kelly's Heroes_ (brilliantly portrayed by Donald Sutherland)](https://www.imdb.com/title/tt0065938/characters/nm0000661#:~:text=Oddball%20%3A%20These%20engines%20are%20the%20fastest%20in%20any%20tanks%20in%20the%20European%20Theater%20of%20Operations%2C%20forwards%20or%20backwards.%20You%20see%2C%20man%2C%20we%20like%20to%20feel%20we%20can%20get%20out%20of%20trouble%2C%20quicker%20than%20we%20got%20into%20it.),
+To quote [Sergeant Oddball in the 1970 movie _Kelly's Heroes_ (brilliantly portrayed by Donald Sutherland)](https://www.imdb.com/title/tt0065938/characters/nm0000661#:~:text=Oddball%20%3A%20These%20engines%20are%20the%20fastest%20in%20any%20tanks%20in%20the%20European%20Theater%20of%20Operations%2C%20forwards%20or%20backwards.%20You%20see%2C%20man%2C%20we%20like%20to%20feel%20we%20can%20get%20out%20of%20trouble%2C%20quicker%20than%20we%20got%20into%20it.),
 who had his mechanic modify his WWII tank to have more speeds in reverse gear than in forward gear:  
 > __Oddball:__ These engines are the fastest in any tanks in the European Theater of
 > Operations, forwards or backwards. You see, man, we like to feel we can get out of
@@ -78,7 +78,7 @@ And so it is here: having removed the screws, I want to remember how to put them
 So here they are carefully arranged to tell me if they go on the front, back, or sides.
 Note the screws are of different lengths and thus not equivalent, so this matters.  
 
-(Yes, I do have to do this.  Ask me how I know.)  
+(Yes, I really do have to do this.  Ask me how I know.)  
 
 <a href="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-open-the-hood.jpg"><img src="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-open-the-hood.jpg" width="400" height="533" alt="The scene when we pop the hood on the battery: 3 swollen cells, begging to be replaced." title="The scene when we pop the hood on the battery: 3 swollen cells, begging to be replaced." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here's the scene when we have removed the screws on the bottom, _carefully_ rotated the
@@ -94,7 +94,7 @@ outside terminals in the back.  Then the inside terminals in the back connect to
 wire and a white wire.  Best not mess that up!  
 
 The tiny PC board at the top is to drive some LEDs that are (sorta) charge indicators.
-Not very accurate, but ok&hellip; _ish._  
+Not very accurate, but ok&hellip; _ish._  See below, where we use it as a continuity test.  
 
 <a href="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-front-cell-orientation-wiring.jpg"><img src="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-front-cell-orientation-wiring.jpg" width="400" height="300" alt="Orientation &amp; wiring of the front cell." title="Orientation &amp; wiring of the front cell." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-rear-cells-orientation-wiring.jpg"><img src="{{ site.baseurl }}/images/2024-08-26-mower-battery-surgery-2-rear-cells-orientation-wiring.jpg" width="400" height="300" alt="Orientation &amp; wiring of the back 2 cells; note the annoying pin." title="Orientation &amp; wiring of the back 2 cells; note the annoying pin.." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
