@@ -200,7 +200,7 @@ Fortunately, the natural world has a way of slapping back.
 ### Counting Votes with&hellip; _Fractions_  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/4HgUh5bOgbM?si=BXQeXZ1CGKgXHdny" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-[Truro, Massachusetts](https://en.wikipedia.org/wiki/Truro,_Massachusetts) is a small town
+[Truro, Massachusetts in the US](https://en.wikipedia.org/wiki/Truro,_Massachusetts) is a small town
 on the outer Cape, just below the tip of Cape Cod.  It's a charming place for
 tourists, and for all I know, also a lovely place to live.  It was the subject of satire
 in the SF comedy [Men in Black II](https://en.wikipedia.org/wiki/Men_in_Black_II), in
