@@ -247,6 +247,7 @@ But their conclusion is simply, ChatGPT is bullsh\*t:
 > pointed out, they are not trying to convey information at all. They are bullsh\*tting.  
 >  
 > &hellip;  
+>  
 > &hellip; the inaccuracies show that it is bullsh\*tting, even when it’s right.  Calling
 > these inaccuracies ‘bullsh\*t’ rather than ‘hallucinations’ isn’t just more accurate (as
 > we’ve argued); it’s good science and technology communication in an area that sorely
