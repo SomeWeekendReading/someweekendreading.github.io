@@ -189,7 +189,7 @@ _Again._
 
 <a id="fn2">2</a>: M Cohen, ["What Happens When Election Officials Refuse to Certify Results?"](https://www.democracydocket.com/analysis/what-happens-when-election-officials-refuse-to-certify-results/), _Democracy Docket_, 2024-Aug-01. [↩](#fn2a)  
 
-<a id="fn3">3</a>: _Democracy Docket_ Staff, ["What Happens If Election Officials Refuse to Certify Results?"](https://www.youtube.com/watch?v=_CR08Tp7_Fg), _YouTube_, 2024-Aug-22.[↩](#fn3a)  
+<a id="fn3">3</a>: S Feldman, ["What Happens If Election Officials Refuse to Certify Results?"](https://www.youtube.com/watch?v=_CR08Tp7_Fg), _Democracy Docket_ on_YouTube_, 2024-Aug-22.[↩](#fn3a)  
 
 <a id="fn4">4</a>: _Wikipedia_ Editors, ["List of United States counties and county
 equivalents"](https://en.wikipedia.org/wiki/List_of_United_States_counties_and_county_equivalents#:~:text=In%20total%2C%20the%2050%20states,United%20States%20as%20county%20equivalents.), _Wikipedia_, retrieved 2024-Aug-22. [↩](#fn4a)  
