@@ -225,7 +225,7 @@ voting on some zoning nicety whose exact details do not matter.  What does matte
 The town clerk, whom I mercifully will not name, got out her calculator and noted that:  
 
 $$
-206 * 0.66 = 135.96 \le 136
+206 \times 0.66 = 135.96 \le 136
 $$
 
 &hellip; so 136 votes was enough to pass the 2/3 threshold.  
@@ -233,7 +233,7 @@ $$
 But "an anonymous caller" pointed out that using 4 decimal places, the outcome changes:  
 
 $$
-206 * 0.6666 = 137.3196 \gt 136
+206 \times 0.6666 = 137.3196 \gt 136
 $$
 
 &hellip; so the 136 votes were _not_ enough to pass the 2/3 threshold.  
@@ -242,7 +242,7 @@ At the risk of being pedantic, I will point out that exact rational arithmetic i
 here:  
 
 $$
-206 * \frac{2}{3} = 137\frac{1}{3}
+206 \times \frac{2}{3} = 137\frac{1}{3}
 $$
 
 You can round down to the nearest integer human and get 137, but more in the spirit of the
@@ -271,7 +271,7 @@ Do not do that.
 ## The Weekend Conclusion  
 
 The title is a joke about the
-[_Hypostasis of the Archons_, or the _Reality of the Rulers_](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons)
+[_Hypostasis of the Archons_ (or the _Reality of the Rulers_)](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons)
 from Codex II of the Nag Hammadi library.  
 
 Alas, it is a joke few will even perceive, and even fewer appreciate.  Still: this bit of
