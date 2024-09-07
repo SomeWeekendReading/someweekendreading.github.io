@@ -1,0 +1,78 @@
+
+* EC Diff vs Age Diff on Fri Sep 06 23:31:03 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-09-06-politics-age-gaps-transcript.txt
+
+Reading dataset:
+----------------
+
+* Reading data from ./2024-09-06-politics-age-gaps-data.tsv
+  - All cases: 15 rows, 11 cols
+  - Complete cases: 14 rows, 11 cols
+  Election.Year D.Candidate D.birth.year D.age D.EC.Votes R.Candidate
+2          2020       Biden         1942    78        306       Trump
+3          2016  Clinton HR         1947    69        227       Trump
+4          2012       Obama         1961    51        332      Romney
+5          2008       Obama         1961    47        365      McCain
+  R.birth.year R.age R.EC.Votes D.EC.Diff Age.Diff
+2         1946    74        232        74        4
+3         1946    70        304       -77       -1
+4         1947    65        206       126      -14
+5         1936    72        173       192      -25
+
+Doing plot & regression for data since 1992 only:
+-------------------------------------------------
+
+
+* Plotting data from 1992 to 2020 to ./2024-09-06-politics-age-gaps-since-1992-2020.png.
+
+Call:
+lm(formula = AbsECDiff ~ AbsAgeDiff, data = fitData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-39.271 -18.090   1.404  16.311  40.125 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   29.480     15.529   1.898 0.106402    
+AbsAgeDiff     7.395      1.017   7.269 0.000345 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 28.04 on 6 degrees of freedom
+Multiple R-squared:  0.898,	Adjusted R-squared:  0.881 
+F-statistic: 52.84 on 1 and 6 DF,  p-value: 0.0003448
+
+                2.5 %    97.5 %
+(Intercept) -8.517304 67.477146
+AbsAgeDiff   4.906045  9.884607
+
+Doing plot & regression for all data:
+-------------------------------------
+
+
+* Plotting data from 1968 to 2020 to ./2024-09-06-politics-age-gaps-since-1968-2020.png.
+
+Call:
+lm(formula = AbsECDiff ~ AbsAgeDiff, data = fitData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-131.09  -90.04  -60.29   31.91  330.26 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)
+(Intercept)  103.656     67.237   1.542    0.149
+AbsAgeDiff     7.676      4.925   1.559    0.145
+
+Residual standard error: 147.2 on 12 degrees of freedom
+Multiple R-squared:  0.1683,	Adjusted R-squared:  0.09904 
+F-statistic: 2.429 on 1 and 12 DF,  p-value: 0.1451
+
+                 2.5 %    97.5 %
+(Intercept) -42.841228 250.15248
+AbsAgeDiff   -3.055107  18.40764
+
+* EC Diff vs Age Diff completed Fri Sep 06 23:31:03 2024 (0.1 sec elapsed).
