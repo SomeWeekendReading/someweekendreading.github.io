@@ -310,7 +310,7 @@ Basically, we just want to _live._
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 
-## Addendum 2024-Sep-09: Just from Carter Onwards?  
+## Addendum 2024-Sep-09: Just From Carter Onwards?  
 
 After brief but pleasant email exchange with Munger on period dependence, I decided to try
 just from 1976-2020.  This is because, after Nixon, the American political parties changed
