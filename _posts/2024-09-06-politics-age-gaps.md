@@ -294,7 +294,7 @@ Munger concludes (__emphasis__ mine):
 > far, the evidence points to __an unmet demand for younger politicians appealing to younger
 > voters.__  
 
-The data are slim, but somehow feel like a persuasive summary of the _zeitgeist:_ our
+The data are slim, but somehow they feel like a persuasive summary of the _zeitgeist:_ our
 younger (also browner, queerer, poorer) co-citizens want to shove the conservative legacy
 of their elders out of the way.  They want what I want: the good things available other
 developed nations like universal health care, strict federal gun control, accessible &amp;
