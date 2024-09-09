@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-The US is undemocratic in a variety of ways, favoring older voters and very old
+The US is undemocratic in a variety of ways, favoring older voters and _very_ old
 politicians among them.  That _might_ be about to change.  
 
 
@@ -98,7 +98,7 @@ blog is that of a _grumpy_ old retired scientist?  Some days are grumpier than o
 US slide into fascism and racism makes me&hellip; _grumpy._)  
 
 I was reading the venerable blog [_Crooked Timber_](https://en.wikipedia.org/wiki/Crooked_Timber)
-(Kant: ["Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden"](https://quotefancy.com/quote/831961/Immanuel-Kant-Aus-so-krummen-Holze-als-woraus-der-Mensch-gemacht-ist-kann-nichts-ganz)),
+(Kant: ["Aus so krummem Holze, als woraus der Mensch gemacht ist, kann nichts ganz Gerades gezimmert werden"](https://crookedtimber.org/2006/08/25/aus-krummem-holze/)),
 and came across an intriguing article by Kevin Munger. <sup id="fn1a">[[1]](#fn1)</sup>
 He's a political scientist at the European University Institute, in Firenze.  Apparently
 his research interest involves a quantitative view of generational changes in politics,
@@ -113,8 +113,8 @@ arguably, a soft spot in my head).  His thesis seems to be that:
 4. Thus there is a lot of voting pressure that would move in favor of younger candidates
    if any could get through the systemic age blocks in our politics.  
    
-Thus Harris is interesting, as a "younger" candidate who became the nominee by default in
-a way that got around all the age blocks.  
+Thus Harris is interesting, as a "younger" candidate (at age 60!) who became the nominee
+by default, in a way that got around all the age blocks.  
    
 I'm sympathetic (even as an aging Boomer), but what's the evidence?  
 
@@ -123,16 +123,18 @@ Munger gathered data on presidential candidate ages, and their Electoral College
 1992-2020.  Here he's plotted the EC vote difference versus the age difference.  It looks
 very much like there are 2 clusters, in which a large age difference leads to a large EC
 vote difference.  However,  
-- he hasn't labeled the points by whether the winner was the older or younger candidate, and  
+- he hasn't labeled the points by whether the winner was the older or younger candidate
+  (or the Republican _vs_ the Democrat), and  
 - with only 8 data points one cannot be certain of very much at all!  
 
-<a href="{{ site.baseurl }}/images/2024-09-06-politics-age-gaps-data-1.jpg"><img src="{{ site.baseurl }}/images/2024-09-06-politics-age-gaps-data-1-thumb.jpg" width="400" height="200" alt="US presidential candidates, their ages, and their Electoral College votes, 1968-2020" title="US presidential candidates, their ages, and their Electoral College votes, 1968-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 You know what's coming next, right?  
 
 We're gonna gather data independently, annotate by who was the winner, test the age gap/EC
 vote gap hypothesis, and see if it extends to a longer time period.  The latter is the
-most important: lots of things look true briefly, but are of no predictive value.
+most important: lots of things look true briefly, but are of no predictive value since
+they are artifacts of a limited period of time.  
 
+<a href="{{ site.baseurl }}/images/2024-09-06-politics-age-gaps-data-1.jpg"><img src="{{ site.baseurl }}/images/2024-09-06-politics-age-gaps-data-1-thumb.jpg" width="400" height="200" alt="US presidential candidates, their ages, and their Electoral College votes, 1968-2020" title="US presidential candidates, their ages, and their Electoral College votes, 1968-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So we gathered data from Wikipedia about the ages of
 [US presidential candidates](https://en.wikipedia.org/wiki/List_of_United_States_presidential_candidates),
 and 
@@ -164,13 +166,13 @@ $$
 \left|\mbox{EC Vote Diff}\right| = \beta \left|\mbox{Candidate Age Diff}\right| + \alpha
 $$
 
-This isn't quite the full story, since it assumes normally distributed errors around the
+This isn't quite the correct story, since it assumes normally distributed errors around the
 fitted line, while both variables are bounded below at 0 (because they're absolute
 values).  There are ways to deal with this, but let's see if being a bit na&iuml;ve will
 get us anywhere.  
 
 <a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1992-2020.png"><img src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1992-2020-thumb.jpg" width="400" height="400" alt="Electoral College vote difference vs candidate age difference, 1992-2020" title="Electoral College vote difference vs candidate age difference, 1992-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Here's how the result looks, using 1992 - 2020 as Munger did:  
+Here's the result, using 1992 - 2020 data, as Munger did:  
 - The horizontal axis is the absolute value of the age difference of the candidates at the
   time of the election.  
 - The vertical axis is the absolute value of the difference in their Electoral College
@@ -208,7 +210,7 @@ Here we see that the effect goes away.  The model is not statistically significa
 band, the prediction 95% confidence interval, covers almost everything, indicating we
 really can't predict _anything._  
 
-In professional statistician language: we got nuthin'.  
+In professional statistician's language: we got nuthin'.  
 
 We note a few enticing details:  
 - The effect is ruined by 4 Republican victories by Reagan, Nixon, and the elder Bush.
@@ -252,7 +254,7 @@ scale.
 
 ## Funding &amp; Demographic Differences  
 
-Back to Munger: whether or not the EC vote difference is a product of age differences,
+Back to Munger: whether or not the EC vote difference is a result of age differences,
 there _have_ been other material changes in the election with the advent of Harris.  
 
 <a href="{{ site.baseurl }}/images/2024-09-06-politics-age-gaps-ct-2.jpg"><img src="{{ site.baseurl }}/images/2024-09-06-politics-age-gaps-ct-2-thumb.jpg" width="400" height="317" alt="Munger @ Crooked Timber: Age distribution of Biden and Harris donors, from NYT" title="Munger @ Crooked Timber: Age distribution of Biden and Harris donors, from NYT" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -327,7 +329,7 @@ Basically, we just want to _live._
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: [K Munger](http://www.kevinmunger.com/), ["The (Electoral) Politics of Age Gaps"](https://crookedtimber.org/2024/08/28/the-electoral-politics-of-age-gaps/), the venerable _Crooked Timber_ blog, 2024-Aug-28. [↩](#fn1a)  
+<a id="fn1">1</a>: [K Munger](http://www.kevinmunger.com/), ["The (Electoral) Politics of Age Gaps"](https://crookedtimber.org/2024/08/28/the-electoral-politics-of-age-gaps/), the venerable [_Crooked Timber_](https://crookedtimber.org/) blog, 2024-Aug-28. [↩](#fn1a)  
 
 <a id="fn2">2</a>: [K Munger](http://www.kevinmunger.com/), [_Generation Gap: Why the Baby Boomers Still Dominate American Politics and Culture_](https://www.amazon.com/Generation-Gap-Dominate-American-Politics/dp/B08ZK7YV47/), Columbia University Press, 2022. ISBN-13: [978-0231200875](https://isbnsearch.org/isbn/9780231200875). [↩](#fn2a)  
 
