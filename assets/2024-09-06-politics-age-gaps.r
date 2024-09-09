@@ -137,5 +137,10 @@ doit <- function(inDir         = ".",
     heraldPhase("Doing plot & regression for all data")# Use all data
     maybeAssign("plotDone2", function() { doPlot(resultsDir, ecAgeData, plotFile) })
 
+    heraldPhase("Doing plot & regression for data since 1976 only")
+    maybeAssign("plotDone3", function() {              # Use just 1992 - date
+      doPlot(resultsDir, subset(ecAgeData, subset = Election.Year >= 1976), plotFile)
+    })                                                 #
+
   })                                                   # Done!
 }                                                      #

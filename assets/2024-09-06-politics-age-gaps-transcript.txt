@@ -1,5 +1,5 @@
 
-* EC Diff vs Age Diff on Fri Sep 06 23:31:03 2024
+* EC Diff vs Age Diff on Mon Sep 09 09:12:58 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-09-06-politics-age-gaps-transcript.txt
@@ -75,4 +75,32 @@ F-statistic: 2.429 on 1 and 12 DF,  p-value: 0.1451
 (Intercept) -42.841228 250.15248
 AbsAgeDiff   -3.055107  18.40764
 
-* EC Diff vs Age Diff completed Fri Sep 06 23:31:03 2024 (0.1 sec elapsed).
+Doing plot & regression for data since 1976 only:
+-------------------------------------------------
+
+
+* Plotting data from 1976 to 2020 to ./2024-09-06-politics-age-gaps-since-1976-2020.png.
+
+Call:
+lm(formula = AbsECDiff ~ AbsAgeDiff, data = fitData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-103.19  -64.44  -50.31   21.46  262.96 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)  
+(Intercept)   63.307     61.075   1.037    0.324  
+AbsAgeDiff     8.808      4.211   2.091    0.063 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 118.8 on 10 degrees of freedom
+Multiple R-squared:  0.3043,	Adjusted R-squared:  0.2347 
+F-statistic: 4.374 on 1 and 10 DF,  p-value: 0.06297
+
+                  2.5 %   97.5 %
+(Intercept) -72.7770500 199.3901
+AbsAgeDiff   -0.5754264  18.1910
+
+* EC Diff vs Age Diff completed Mon Sep 09 09:12:58 2024 (0.1 sec elapsed).

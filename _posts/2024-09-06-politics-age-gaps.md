@@ -309,6 +309,39 @@ Basically, we just want to _live._
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2024-Sep-09: Just from Carter Onwards?  
+
+After brief but pleasant email exchange with Munger on period dependence, I decided to try
+just from 1976-2020.  This is because, after Nixon, the American political parties changed
+fairly dramatically.  
+- Before that, primaries were mostly a way of taking the electorate's temperature in a
+  non-binding way.  Party conventions were a time for the party bosses to get together,
+  choose a nominee in the proverbial smoke-filled back room, and then direct the delegates
+  under their control to cast show ballots accordingly.  
+- After that, the primaries became binding.  (Mostly: there are still vestiges of the old
+  system with "super-delegates", who are party officials and elected politicians who still
+  get to cast votes not bound by the primaries.)  I remember seeing in 1976 the anger and
+  angst of Kennedy delegates at the Democratic convention, over being "robots" who would
+  have to nominate Carter.  
+
+So let's remove Nixon. (And who doesn't wanna do _that?!_)  
+
+<a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1976-2020.png"><img src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1976-2020-thumb.jpg" width="400" height="400" alt="Electoral College vote difference vs candidate age difference, 1976-2020" title="Electoral College vote difference vs candidate age difference, 1976-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+Here's the result with just data from 1976-2020.  
+
+It helps to remove Nixon, but only a _little_ bit: marginally not statistically
+significant with $p \sim 6.3\%$, and only marginal strength of effect in terms of variance
+explained with Pearson $R^2 \sim 23\%$.  
+
+It removes the 1972 Nixon blowout where he won, as I recall, every state but Massachusetts
+and 1 faithless elector vote in Virginia.  However, it also removes the Nixon 1968 data
+point, which was low age difference, low Electoral College vote difference, and pretty
+much on the model prediction line.  
+
+What still kills the model are the GHW Bush blowout and the 2 Reagan blowouts.  It's pretty
+hard (for me, at least) to come up with an excuse to remove those from the data.  
+
 ---
 
 ## Notes &amp; References  
