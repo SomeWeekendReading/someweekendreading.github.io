@@ -6,7 +6,8 @@ comments: true
 commentsClosed: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) what I thought would happend at the debate tonight.  Not gonna watch it.
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) what I thought would happen
+at the debate tonight.  Not gonna watch it.  
 
 
 ## Not Gonna Watch It?!  
