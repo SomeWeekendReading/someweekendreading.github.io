@@ -171,8 +171,33 @@ fitted line, while both variables are bounded below at 0 (because they're absolu
 values).  There are ways to deal with this, but let's see if being a bit na&iuml;ve will
 get us anywhere.  
 
-<a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1992-2020.png"><img src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1992-2020-thumb.jpg" width="400" height="400" alt="Electoral College vote difference vs candidate age difference, 1992-2020" title="Electoral College vote difference vs candidate age difference, 1992-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here's the result, using 1992 - 2020 data, as Munger did:  
+
+```R
+Call:
+lm(formula = AbsECDiff ~ AbsAgeDiff, data = fitData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-39.271 -18.090   1.404  16.311  40.125 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   29.480     15.529   1.898 0.106402    
+AbsAgeDiff     7.395      1.017   7.269 0.000345 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 28.04 on 6 degrees of freedom
+Multiple R-squared:  0.898,	Adjusted R-squared:  0.881 
+F-statistic: 52.84 on 1 and 6 DF,  p-value: 0.0003448
+
+                2.5 %    97.5 %
+(Intercept) -8.517304 67.477146
+AbsAgeDiff   4.906045  9.884607
+```
+
+<a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1992-2020.png"><img src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1992-2020-thumb.jpg" width="400" height="400" alt="Electoral College vote difference vs candidate age difference, 1992-2020" title="Electoral College vote difference vs candidate age difference, 1992-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 - The horizontal axis is the absolute value of the age difference of the candidates at the
   time of the election.  
 - The vertical axis is the absolute value of the difference in their Electoral College
@@ -202,8 +227,31 @@ However:
 - All the effect is due to Obama and the earlier Clinton elections.  Without those, the
   effect goes away.  
 
-<a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1968-2020.png"><img src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1968-2020-thumb.jpg" width="400" height="400" alt="Electoral College vote difference vs candidate age difference, 1968-2020" title="Electoral College vote difference vs candidate age difference, 1968-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So now let's look at it with a somewhat longer baseline, from 1968 - 2020.  
+
+```R
+Call:
+lm(formula = AbsECDiff ~ AbsAgeDiff, data = fitData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-131.09  -90.04  -60.29   31.91  330.26 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)
+(Intercept)  103.656     67.237   1.542    0.149
+AbsAgeDiff     7.676      4.925   1.559    0.145
+
+Residual standard error: 147.2 on 12 degrees of freedom
+Multiple R-squared:  0.1683,	Adjusted R-squared:  0.09904 
+F-statistic: 2.429 on 1 and 12 DF,  p-value: 0.1451
+
+                 2.5 %    97.5 %
+(Intercept) -42.841228 250.15248
+AbsAgeDiff   -3.055107  18.40764
+```
+
+<a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1968-2020.png"><img src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1968-2020-thumb.jpg" width="400" height="400" alt="Electoral College vote difference vs candidate age difference, 1968-2020" title="Electoral College vote difference vs candidate age difference, 1968-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 Here we see that the effect goes away.  The model is not statistically significant 
 ($p \sim 0.145$), nor does it predict much of the variance ($R^2 \sim 9.9\%$).  The gray
@@ -325,13 +373,41 @@ fairly dramatically.
   angst of Kennedy delegates at the Democratic convention, over being "robots" who would
   have to nominate Carter.  
 
-So let's remove Nixon. (And who doesn't wanna do _that?!_)  
+So let's remove Nixon. (And who doesn't wanna do _that?!_)  Here's the result with just
+data from 1976-2020:  
 
-<a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1976-2020.png"><img src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1976-2020-thumb.jpg" width="400" height="400" alt="Electoral College vote difference vs candidate age difference, 1976-2020" title="Electoral College vote difference vs candidate age difference, 1976-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Here's the result with just data from 1976-2020.  
+```R
+Call:
+lm(formula = AbsECDiff ~ AbsAgeDiff, data = fitData)
 
-It helps to remove Nixon, but only a _little_ bit: marginally not statistically
-significant with $p \sim 6.3\%$, and only marginal strength of effect in terms of variance
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-103.19  -64.44  -50.31   21.46  262.96 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)  
+(Intercept)   63.307     61.075   1.037    0.324  
+AbsAgeDiff     8.808      4.211   2.091    0.063 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 118.8 on 10 degrees of freedom
+Multiple R-squared:  0.3043,	Adjusted R-squared:  0.2347 
+F-statistic: 4.374 on 1 and 10 DF,  p-value: 0.06297
+
+                  2.5 %   97.5 %
+(Intercept) -72.7770500 199.3901
+AbsAgeDiff   -0.5754264  18.1910
+```
+
+<a href="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1976-2020.png"><img
+src="{{ site.baseurl }}/assets/2024-09-06-politics-age-gaps-since-1976-2020-thumb.jpg"
+width="400" height="400" alt="Electoral College vote difference vs candidate age
+difference, 1976-2020" title="Electoral College vote difference vs candidate age
+difference, 1976-2020" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid
+#000000;"></a> It helps to remove Nixon, but only a _little_ bit: marginally not
+statistically significant with $p \sim 6.3\%$, and only marginal strength of effect in
+terms of variance
 explained with Pearson $R^2 \sim 23\%$.  
 
 It removes the 1972 Nixon blowout where he won, as I recall, every state but Massachusetts
