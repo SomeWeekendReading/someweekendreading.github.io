@@ -26,6 +26,15 @@ Yes, it probably is.  Still not watching.  Two reasons:
    insult wordplay is an actual form of reasonable discourse, which is why his sentences
    are so laden with insulting adjectives.  This is _not_ a skill an adult should have.)  
 
+Also, the media is going to subject Harris's every word and breath to microscopic and
+hostile scrutiny.  Trump will be judged a success if he simply manages not to vomit.  Or
+at least vomits in a way the media find artistic, or rhythmic, or at a rhetorically
+crucial moment.  I _really_ don't need to hear that kind of "analysis".  
+
+It's simple: once you figure out which side the Nazis are on, _pick the other side!_  Vote
+for Democrats up and down the ticket; no Republicans, not for any imaginable office, not
+under any conceivable circumstance.  
+
 
 ## The Weekend Conclusion  
 
