@@ -53,9 +53,9 @@ when they're right, it's by accident since they have no notion of truth.  So the
 _always_ hallucinating, nonstop.)  
 
 Today's example comes from a [LinkedIn](https://www.linkedin.com/) post by an academic named
-Robin Bawens <sup id="fn2a">[[2]](#fn2)</sup>:  
+Robin Bauwens <sup id="fn2a">[[2]](#fn2)</sup>:  
 
-<a href="https://www.linkedin.com/feed/update/urn:li:share:7046083155149103105/"><img src="{{ site.baseurl }}/images/2023-06-15-chatgpt-vs-peer-review-baudens-1.jpg" width="550" height="630" alt="Bawens @ LinkedIn: Abuse of GPT in peer review" title="Bawens @ LinkedIn: Abuse of GPT in peer review" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:share:7046083155149103105/"><img src="{{ site.baseurl }}/images/2023-06-15-chatgpt-vs-peer-review-baudens-1.jpg" width="550" height="630" alt="Bauwens @ LinkedIn: Abuse of GPT in peer review" title="Bauwens @ LinkedIn: Abuse of GPT in peer review" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
 Yeesh&hellip;  let's unpack this.  So Bauwens submitted a paper, which the journal sent
 out for peer review.  
@@ -67,14 +67,14 @@ with several other papers before trying again.  This _can_ be meant helpfully, o
 be snarky as in "You're too ignorant to publish here, so let me send you on a wild-goose
 chase by way of tutorial."  
 
-I this case, it was even worse: the references, of course, did not exist!  This is
+In this case, it was even worse: the references, of course, did not exist!  This is
 [exactly what we documented before](http://localhost:4000/on-chatgpt/#:~:text=When%20I%20asked,bereft%20of%20existence.),
 with regard to hallucinated references.  Since then, we've heard from academics frustrated
 with people requesting papers they never wrote.  One particularly clever wag pointed out
 that given how LLMs work, hallucinations are _normal_ and it would be astounding if it
 came up with _real_ references!  
 
-So, suspicious that this might be what the reviewer did, Bawens wisely checked.  The
+So, suspicious that this might be what the reviewer did, Bauwens wisely checked.  The
 suggested tutorial references were all fabrications of GPT-2.  
 
 The reviewer had, in fact, not reviewed the paper.  He'd fed it to something like ChatGPT
