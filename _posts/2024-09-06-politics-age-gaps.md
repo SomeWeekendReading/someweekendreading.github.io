@@ -287,7 +287,7 @@ There _could_ be some genetics in play, but really the obvious answers apply:
 - Women are more likely to dye hair to erase gray.  
 - Also women are more likely to moisturize, and that probably shows.  
 
-True to his sense of humor, though, Walz saw this and says he only _looks_ old, it's the
+True to his sense of humor, though, Walz saw this and said he only _looks_ old, it's the
 stress from decades of supervising a high school lunchroom:  
 
 <a href="https://x.com/Tim_Walz/status/1816108360158138598"><img src="{{ site.baseurl }}/images/2024-09-06-politics-age-gaps-walz-1.jpg" width="550" height="310" alt="Walz @ X/Twitter: Only looks hold because he taught high school &amp; supervised lunchroom for 20 years" title="Walz @ X/Twitter: Only looks hold because he taught high school &amp; supervised lunchroom for 20 years" style="margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
