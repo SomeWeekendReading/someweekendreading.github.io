@@ -62,6 +62,27 @@ The heart of the matter, for US eligible voters:
     Maybe don't enable that?  
 - And, as always, ya gotta respect the classics: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2024-Sep-27: Ow! Ow!  You're making me wag my tail too hard!  
+
+<iframe width="400" height="224" src="https://www.youtube.com/embed/kDZ_Zpx-P8w?si=zV_lDaokQgEFAIvr" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+
+Ok, look.  Tim.  Buddy.  You gotta take it down a notch here.  I already like you.  You
+don't have to push my buttons _this_ hard!  
+
+That subtle dig about JD Vance being unable to order donuts? <sup id="fn1a">[[1]](#fn1)</sup>
+When you said "Look at me &ndash; I have no problem picking out doughnuts"&hellip; that
+was _tight,_ man.  Well done.  
+
+But when you shouted "Sold!" to the guy describing an apple cider donut cut in half
+and filled with Whoopie Pie cream filling&hellip;  Dude, it's _maddening_ that I
+can't figure out where to get such a thing in Boston.  Now I'm gonna have to look up
+recipes for cream fillings.  
+
+You do realize, don't you, that Candidate for Vice President is not typically this full of
+_joie de vivre_?  Good job there, breaking the stereotypes: I didn't know a VP candidate
+could be smart, competent, and _fun._  
+
 ---
 
 ## Notes &amp; References  
@@ -82,4 +103,4 @@ The heart of the matter, for US eligible voters:
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-Nope.  
+<a id="fn1">1</a>: M Hartmann, ["J.D. Vance Blames Staff for Disastrous Doughnut-Shop Visit"](https://nymag.com/intelligencer/article/jd-vance-blames-staff-viral-donut-shop-visit.html), _New York Magazine_, 2024-Aug-28. [↩](#fn1a)  
