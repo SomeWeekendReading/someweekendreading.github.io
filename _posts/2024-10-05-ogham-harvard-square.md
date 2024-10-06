@@ -12,7 +12,7 @@ A couple days ago, I saw something weird in Harvard Square.  Nothing weird about
 ## A Most Peculiar Sign!  
 
 <a href="{{ site.baseurl }}/images/2024-10-05-ogham-harvard-square.jpg"><img src="{{ site.baseurl }}/images/2024-10-05-ogham-harvard-square-thumb.jpg" width="400" height="533" alt="Harvard Square: a very peculiar sign!" title="Harvard Square: a very peculiar sign!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-A couple days ago, I was walking through Harvard Square in the general vicinity of
+I was walking through Harvard Square in the general vicinity of
 [Car Talk Plaza, near the former site of the venerable offices of Dewey, Cheatham, and Howe](https://www.atlasobscura.com/places/thomas-magliozzi-plaque).
 I was just minding my own business when one of my background processes reached out the
 back of my head, grabbed my ponytail, yanked me around and said, "Lookithat!"  
@@ -51,7 +51,7 @@ bar is used to represent the corner edge of the stone.
 It appears that so far, whoever's doing this has got it mostly right, with only a couple
 minor errors:  
 1. The begin/end markers are missing.  
-2. Instead of writing horizontally, it should either be written vertically or best of all
+2. Instead of writing horizontally, it should either be written vertically, or, best of all,
    wrapped around the vertical edge of the sign.  
 
 Still, not bad.  
