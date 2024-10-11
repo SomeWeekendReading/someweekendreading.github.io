@@ -56,14 +56,14 @@ minor errors:
 
 Still, not bad.  
 
-<img src="{{ site.baseurl }}/images/2024-10-05-ogham-harvard-square-analaigh.jpg" width="400" height="350" alt="Verifying the Ogham spells out 'analaigh'." title="Verifying the Ogham spells out 'analaigh'." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2024-10-05-ogham-harvard-square-analaigh.jpg" width="400" height="350" alt="Verifying the Ogham spells out 'anal&aacute;igh'." title="Verifying the Ogham spells out 'anal&aacute;igh'." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Now let's work out what it _says_, if anything.  According to the tables of letters, it
-spells out "analaigh".  We can check that with the
+spells out "anal&aacute;igh".  We can check that with the
 [Ogham transliterator at Ogham.co](https://ogham.co/?q=analaigh), and it agrees with my
 reading, as shown here.  
 
 Ok, fine&hellip; but what's that?  Wiktionary reliably informs us that
-["analaigh" is a word in (modern) Irish/Gaelige for the verb "breathe"](https://en.wiktionary.org/wiki/an%C3%A1laigh).
+["anal&aacute;igh" is a word in (modern) Irish/Gaelige for the verb "breathe"](https://en.wiktionary.org/wiki/an%C3%A1laigh).
 (Though usually the second a has an acute accent, as in &aacute;.)  
 
 That _almost_ makes sense, since the yoga studio is named "BR&Emacr;ATHE", albeit with
