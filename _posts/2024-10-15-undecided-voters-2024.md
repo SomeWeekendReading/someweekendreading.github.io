@@ -38,7 +38,7 @@ Look, it's not hard:
   stupid this way, either.  
   
 So, look: just vote for Democrats this time.  There will come a time for more nuanced
-partisanship.  But that time is not now.  
+partisanship, and hectoring the elected to do better.  But that time is not now.  
 
 
 ## The Weekend Conclusion  
