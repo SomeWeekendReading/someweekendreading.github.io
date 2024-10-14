@@ -11,14 +11,14 @@ So&hellip; if you're a US voter, are you _undecided_ about the election?!
 
 ## Really?!  
 
-Ok, this is a screed.  
+Ok, I admit it: this is a screed.  
 
 <a href="{{ site.baseurl }}/images/2024-10-14-undecided-voters-wiley.png"><img src="{{ site.baseurl }}/images/2024-10-14-undecided-voters-wiley-thumb.jpg" width="400" height="149" alt="Cartoon by Wiley Miller: up or down, undecided is a trap" title="Cartoon by Wiley Miller: up or down, undecided is a trap" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 I was wondering who these much-vaunted "undecided" voters could be, when someone called to
 my attention this cartoon from yesterday by [Wiley Miller](https://en.wikipedia.org/wiki/Wiley_Miller).  
 - You can push the up button, and the elevator will take you up.  
 - You can push the down button, and the elevator will take you down.  
-- Or you can push the "undecided" button&hellip; the trap door opens, and who knows what
+- Or you can push the "undecided" button&hellip; then the trap door opens, and who knows what
   becomes of you?  
   
 This is like my feelings about US "undecided" voters, _especially_ if they are among the
@@ -28,26 +28,28 @@ Look, it's not hard:
 - __If you want democracy,__ then vote Harris/Walz at the top of the ticket, and Democrats
   all the way down to ensure a functional Senate and House, not filled with Republican
   nihilists.  
-- __If you want fascism,__ then I despise you, but your choice is clear.  
-- __If you fail to vote,__ the only "message" you're sending is "I don't care and you can
-  ignore me and my interests".  That's a stupid message, so don't do that.  
-- __If you vote 3rd party,__ the only "message" you're sending is "I am bad at math."
-  Yes, it would be better if we had a proportional representation system, or
-  rank-preference voting, or something other than first-past-the post.  But FPTP is what's
-  _here_, what's _real_, and what's the only thing for you to deal with.  So don't be
-  stupid this way, either.  
+- __If you want fascism,__ then I despise you.  But your choice is clear.  
+- __If you fail to vote,__ the only message you're sending is "I don't care and you can
+  ignore me &amp; my interests".  That's a stupid message, so don't do that.  
+- __If you vote 3rd party,__ the only message you're sending is "I am bad at math."
+  Yes, it would be better if we had better candidates.  Yes, it would be better if we had
+  a proportional representation system, or rank-preference voting, or something other than
+  first-past-the post.  But FPTP is what's _here_, what's _real_, and what's the only
+  thing for you to deal with.  So don't be stupid this way, either.  
   
-So, look: just vote for Democrats this time.  There will come a time for more nuanced
-partisanship, and hectoring the elected to do better.  But that time is not now.  
+So, look: just vote for Democrats this time.  
+
+There will soon come a time for more nuanced partisanship, and hectoring our electeds to do
+better.  But that time is not now.  
 
 
 ## The Weekend Conclusion  
 
-Glaaah.  I want this _over._  
+Glaaah.  I want this to be _over._  
 
 But "over" in the right way: Harris/Walz elected, having gotten past all the mischief
-points where Trump will surely try to blow up the system again, Trump back in court for
-sentencing and incarceration.  
+points where Trump will surely try to blow up the system again, and Trump back in court
+for sentencing &amp; incarceration.   
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
