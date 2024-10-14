@@ -13,7 +13,7 @@ So&hellip; if you're a US voter, are you _undecided_ about the election?!
 
 Ok, this is a screed.  
 
-<a href="{{ site.baseurl }}/images/2024-10-15-undecided-voters-wiley.png"><img src="{{ site.baseurl }}/images/2024-10-15-undecided-voters-wiley-thumb.jpg" width="400" height="149" alt="Cartoon by Wiley Miller: up or down, undecided is a trap" title="Cartoon by Wiley Miller: up or down, undecided is a trap" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2024-10-14-undecided-voters-wiley.png"><img src="{{ site.baseurl }}/images/2024-10-14-undecided-voters-wiley-thumb.jpg" width="400" height="149" alt="Cartoon by Wiley Miller: up or down, undecided is a trap" title="Cartoon by Wiley Miller: up or down, undecided is a trap" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 I was wondering who these much-vaunted "undecided" voters could be, when someone called to
 my attention this cartoon from yesterday by [Wiley Miller](https://en.wikipedia.org/wiki/Wiley_Miller).  
 - You can push the up button, and the elevator will take you up.  
