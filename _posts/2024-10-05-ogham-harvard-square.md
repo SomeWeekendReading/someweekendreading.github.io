@@ -23,7 +23,9 @@ to the yoga studio at the top.  See that mass of vertical lines, stricken throug
 horizontal line?  _That_ is what triggered my background process.  
 
 I stared at it for a bit, puzzled.  (This is perfectly normal behavior in Harvard Square.)
-Then _another_ background process slapped me around and said "Oh!  Oh!  I know this one!"  
+Then _another_ background process slapped me around and said "Ooh!  Ooh!  I know this one!"
+(Yes, it spoke in the voice of [Gunther Toody](https://en.wikipedia.org/wiki/Car_54,_Where_Are_You%3F).
+Yes, I am old.)  
 
 Beginning around 300 - 400 CE in Ireland, there was a style of writing used for Old Irish
 and Pictish, called ["Ogham"](https://en.wikipedia.org/wiki/Ogham).  The modern
