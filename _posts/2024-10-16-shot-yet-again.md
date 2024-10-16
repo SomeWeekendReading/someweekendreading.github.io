@@ -15,9 +15,11 @@ By my count, and according to the state vaccine registry, this is my 9th COVID-1
 vaccination.  You might, only slightly unreasonably, wonder "Why so many times?"  Surely,
 COVID-19 has gone away, right?  
 
-<a href="{{ site.baseurl }}/images/2024-10-16-shot-yet-again-pmc-infections.jpg"><img src="{{ site.baseurl }}/images/2024-10-16-shot-yet-again-pmc-infections-thumb.jpg" width="400" height="219" alt="Pandemic Mitigation Collab: infections vs time as of 2024-Oct-16" title="Pandemic Mitigation Collab: infections vs time as of 2024-Oct-16" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 No, _COVID-19 has most definitely not gone away!_  Consider the data shown here, from the
 Pandemic Mitigation Collaborative <sup id="fn1a">[[1]](#fn1)</sup>:  
+
+<a href="{{ site.baseurl }}/images/2024-10-16-shot-yet-again-pmc-infections.jpg"><img src="{{ site.baseurl }}/images/2024-10-16-shot-yet-again-pmc-infections-thumb.jpg" width="400" height="219" alt="Pandemic Mitigation Collab: infections vs time as of 2024-Oct-16" title="Pandemic Mitigation Collab: infections vs time as of 2024-Oct-16" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+
 - The horizontal axis is just time, starting in 2020-Jan-01, just when the pandemic
   started.  
 - The vertical axes on the left and right are _slightly_ different, but they both amount
@@ -30,7 +32,7 @@ Now, let's see what this graph tells us:
   initial pandemic peak?  See how it grinds on much longer?  _That's_ the state of
   COVID-19 today, with _more_ infections over _longer_ periods of time.
 - See the purple part at the furthest right, where it's rising higher than the initial
-  peak?  That's what's happening _now_, and predicted for the next couple months.  
+  peak?  That's what's happening _now_ (and predicted for the next couple months).  
 
 What part of that plot says to you that COVID-19 has "gone away"?  None of it, that's
 what.  
@@ -55,9 +57,9 @@ this winter.
 
 ## Fall Vaccinations
 
-So, here we are.  Last fall I got vaccines for COVID-19, flu and RSV.  RSV is not (yet) an
-annual vaccine, so no need to repeat that.  Last spring I got a COVID-19 booster.  This
-fall, I'm getting COVID-19 and flu shots.  
+So, here we are.  Last fall it was vaccines for COVID-19, flu and RSV.  RSV is not (yet) an
+annual vaccine, so no need to repeat that.  Last spring it was got a COVID-19 booster.  This
+fall, it's a COVID-19 booster and a flu shot.  
 
 Last summer, we live-blogged the FDA VRBPAC meeting at which the strains in the virus were
 decided.  <sup id="fn2a">[[2]](#fn2)</sup>  The VRBPAC recommended a monovalent vaccine on
@@ -98,7 +100,7 @@ disease specialist Dr. Scott Roberts, the article tells us:
 > &hellip;  
 > __If you do test positive for COVID, antivirals such as Paxlovid are recommended.__  
 
-So the cross-immunity between strains should be pretty good, and here at Ch&aacute;teau
+So the cross-immunity between strains should be pretty good, and here at Ch&acirc;teau
 Weekend we're all in for that.  
 
 <img src="{{ site.baseurl }}/images/2024-10-15-shot-yet-again-shotshot.jpg" width="400" height="427" alt="My left arm is my COVID vaccinatin' arm." title="My left arm is my COVID vaccinatin' arm." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
