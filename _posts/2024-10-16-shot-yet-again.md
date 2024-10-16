@@ -106,8 +106,8 @@ Weekend we're all in for that.
 <img src="{{ site.baseurl }}/images/2024-10-15-shot-yet-again-shotshot.jpg" width="400" height="427" alt="My left arm is my COVID vaccinatin' arm." title="My left arm is my COVID vaccinatin' arm." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 So here we are, mid-October, getting boosted.  
 
-As evidence, we present this picture of our left dorsal manipulator tentacle, a.k.a. "my
-flabby arm" complete with old-man hair, being injected with the Moderna 2024-2025 booster by a
+As evidence, we present this picture of our left dorsal manipulator tentacle (a.k.a. "my
+flabby arm" complete with old-man hair) being injected with the Moderna 2024-2025 booster by a
 very gentle, pleasant, and agreeable pharmacist.  
 
 She also gave me the high-dose flu vaccine for seniors &ndash; the one you youngsters are
