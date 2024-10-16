@@ -132,7 +132,8 @@ other matters.  In this case, the important matter of test piloting some new cha
 living room. (Initial feedback is that they seem to have pronounced themselves satisfied.)  
 
 Renewed immunity for the winter season and holidays is good.  Go thou and do likewise!  You
-should live, and not die.  
+should live, and not die.  Stand by for an update tomorrow on the side effects,
+anticipated to be mild.  
 
 Now&hellip; if only in the US we could get political immunity against Trump and Republican
 fascism&hellip; _then_ I would begin to hope tenatively for an American future again.  
