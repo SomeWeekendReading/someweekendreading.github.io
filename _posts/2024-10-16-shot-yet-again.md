@@ -161,7 +161,7 @@ fascism&hellip; _then_ I would begin to hope tenatively for an American future a
 
 <a id="fn1">1</a>: Pandemic Mitigation Collaborative, ["Dashboard for COVID-19 Forecasting Model"](https://pmc19.com/data/index.php), Pandemic Mitigation Collaboration web site, downloaded 2024-Oct-16. [↩](#fn1a)  
 
-<a id="fn2">2</a>: [Weekend Editor](SomeWeekendReadingEditor@gmail.com), ["FDA VRBPAC: COVID-19 Vaccine Composition for Fall 2024"]({{ site.baseurl }}/fda-vrbpac-covid-vaccine-composition-fall-2024/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2024-Jun-05. [↩](#fn2a)  
+<a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["FDA VRBPAC: COVID-19 Vaccine Composition for Fall 2024"]({{ site.baseurl }}/fda-vrbpac-covid-vaccine-composition-fall-2024/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2024-Jun-05. [↩](#fn2a)  
 
 <a id="fn3">3</a>: CDC Staff, ["COVID-19 Variant Update"](https://www.idsociety.org/covid-19-real-time-learning-network/diagnostics/covid-19-variant-update/#/+/0/publishedDate_na_dt/desc/), CDC and IDSA web site, downloaded 2024-Oct-16. [↩](#fn3a)  
 
