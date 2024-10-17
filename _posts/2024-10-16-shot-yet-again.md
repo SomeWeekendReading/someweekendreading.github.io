@@ -142,14 +142,14 @@ fascism&hellip; _then_ I would begin to hope tenatively for an American future a
 
 ## Addendum 2024-Oct-17: The Usual Suspects  
 
-Side effects are about as expected: 0.5&deg;, very tired, achy muscles and joints, sore
+Side effects are about as expected: 0.5&deg;C, very tired, achy muscles and joints, sore
 shoulders.  (Though, to be fair: some of the achy muscles are from a physical therapy
 appointment yesterday to deal with an injury.)  
 
 Overall, quite tolerable.  Happy to see my innate immune system yapping like a guard dog,
 while my acquired immune system meditates upon the spike protein and polishes its grenade
-launcher.  (Well, _antibody_ launcher.  But that's sorta like a grenade, immunologically
-speaking.)  
+launcher.  (Well, _antibody_ launcher.  But that's _sorta_ like a grenade, immunologically
+speaking?)  
 
 All is well, it seems.  
 
