@@ -153,6 +153,8 @@ speaking?)
 
 All is well, it seems.  
 
+Also, a neologism: fluid vaccine = flu + COVID vaccine.  That is all.  
+
 ---
 
 ## Notes &amp; References  
