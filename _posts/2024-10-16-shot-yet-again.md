@@ -26,7 +26,7 @@ Pandemic Mitigation Collaborative <sup id="fn1a">[[1]](#fn1)</sup>:
   to the number of infections as calculated by a couple methods.  
 
 Now, let's see what this graph tells us:  
-- See the little peak all the way over at the left, in the sprint of 2020?  That was the
+- See the little peak all the way over at the left, in the spring of 2020?  That was the
   start of the pandemic.  Remember how scared we all were then?  Hold that thought.  
 - See the peak at the right, for this last summer?  See how much higher it is than the
   initial pandemic peak?  See how it grinds on much longer?  _That's_ the state of
@@ -119,7 +119,7 @@ course!  But if it makes me get vaccinated, at least it's a _useful_ superstitio
 The Weekend Editrix will be similarly vaccinated next week, due to her work meeting
 schedule.  (Yes, she's now retired from her work.  But her replacement then went out on
 disability, so they called her back.  Alas, they called her back to her work, but _not_
-her pay, because charitable non-profits are like that, always asking for _pro bono_ work.)  
+her pay. Charitable non-profits are like that, always asking for _pro bono_ work.)  
 
 
 ## The Weekend Conclusion  
@@ -153,7 +153,7 @@ speaking?)
 
 All is well, it seems.  
 
-Also, a neologism: fluid vaccine = flu + COVID vaccine.  That is all.  
+Also, a neologism: fluid vaccine = flu vaccine + COVID vaccine.  That is all.  
 
 ---
 
