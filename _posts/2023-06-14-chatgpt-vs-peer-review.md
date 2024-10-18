@@ -17,9 +17,9 @@ Let's look at the way things are _supposed_ to work (and often _do_ work, very a
 - You, after many long years, finally codify your Grand Unified Theory of Pastry into a
   simple 10-pager that lets mundanes in on your particular _gnosis_.  
 - You send this off to a prominent journal in your field, the
-  _Journal of Post-Modern [Psycho-Ceramics](https://en.wiktionary.org/wiki/psychoceramics).
+  _Journal of Post-Modern [Psycho-Ceramics](https://en.wiktionary.org/wiki/psychoceramics)_.
   The editor of _Jnl PoMo P-C_, the eminent
-  [Josiah Stinkney Carberry](https://en.wikipedia.org/wiki/Josiah_S._Carberry) gives it a
+  [Josiah Stinkney Carberry](https://en.wikipedia.org/wiki/Josiah_S._Carberry), gives it a
   quick once-over, and thinks it might be worth looking into.  So your paper goes into
   their tracking system and then out to a panel of peer reviewers.  
 - The peer reviewers are a panel of several other scholars in your field, just as crazy as
