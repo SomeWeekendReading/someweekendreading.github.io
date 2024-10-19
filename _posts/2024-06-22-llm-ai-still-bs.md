@@ -157,7 +157,7 @@ mushrooms <sup id="fn8a">[[8]](#fn8)</sup> (which seems to be everybody's favori
 The current case appears to be an implication by Google that a high-level chess player
 admitted to "using an engine", i.e., cheating.  He admitted no such thing, and apparently
 no such thing happened.  The first liability suit was for $100 million; though it failed
-on procedural grounds the victim with without a doubt take a second shot.  The allegation
+on procedural grounds the victim will without a doubt take a second shot.  The allegation
 of cheating happened repeatedly, until the _Atlantic_ reporter called them for a comment,
 at which point it was quickly hidden in typical craven corporate fashion.  
 

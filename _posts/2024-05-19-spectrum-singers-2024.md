@@ -436,4 +436,4 @@ air", even in a difficult world.
 
 <a id="fn6">6</a>: George Eliot, ["The Choir Invisible"](https://poets.org/poem/choir-invisible), collected in _The Poems of George Eliot_, 1867.  
 
-Mary Ann Evans wrote pseudonymously as George Eliot, due to the sexism of her day. [↩](#fn6a)  
+__NB:__ Mary Ann Evans wrote pseudonymously as George Eliot, due to the sexism of her day. [↩](#fn6a)  
