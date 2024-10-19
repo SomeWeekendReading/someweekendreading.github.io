@@ -20,8 +20,7 @@ Pandemic Mitigation Collaborative <sup id="fn1a">[[1]](#fn1)</sup>:
 
 <a href="{{ site.baseurl }}/images/2024-10-16-shot-yet-again-pmc-infections.jpg"><img src="{{ site.baseurl }}/images/2024-10-16-shot-yet-again-pmc-infections-thumb.jpg" width="400" height="219" alt="Pandemic Mitigation Collab: infections vs time as of 2024-Oct-16" title="Pandemic Mitigation Collab: infections vs time as of 2024-Oct-16" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 
-- The horizontal axis is just time, starting in 2020-Jan-01, just when the pandemic
-  started.  
+- The horizontal axis is just time, starting in 2020-Jan-01, when the pandemic started.  
 - The vertical axes on the left and right are _slightly_ different, but they both amount
   to the number of infections as calculated by a couple methods.  
 
