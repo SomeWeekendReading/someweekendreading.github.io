@@ -39,7 +39,7 @@ giving up on a dream:
   really understood
   [the Wigner-Eckart Theorem](https://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem).
   I wanted more of that.  _Lots_ more of that.  
-- My professors, but undergrad and grad school, were people I deeply admired.  They were
+- My professors, both undergrad and grad school, were people I deeply admired.  They were
   widely read in literature and history.  They were (mostly) kind, and funny, and smart.
   When I talked to them, I got a lively sense of _presence_, that somebody was at home here,
   and they also wanted to _understand._  
