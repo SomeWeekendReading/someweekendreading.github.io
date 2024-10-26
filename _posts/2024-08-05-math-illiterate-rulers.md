@@ -39,8 +39,9 @@ who where in various law schools in Boston.  I asked a friend at Harvard Law whe
 lawyers studied logic.  He _laughed_ at me (though not in a mean way).  He then explained,
 in a way seared into my brain so deeply I remember it today, 45 years later:  
 
-> Once in class, I pointed out to someone a flaw in their reasoning, saying 'That's __post
-> hoc.__' He said 'Thank you', thinking it was a compliment.  
+> Once in class, I pointed out to someone a flaw in their reasoning, saying 'That's
+> [__post hoc.__](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)' He said 'Thank
+> you', thinking it was a compliment.  
 
 So, umm&hellip; no.  No, they are _not_ concerned about needing logic to guide their
 thinking.  They seem, if anything, more concerned with _sophistry:_ the art of abusing
