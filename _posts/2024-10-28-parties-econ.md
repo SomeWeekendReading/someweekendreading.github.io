@@ -560,12 +560,12 @@ This is the annual percent change, using the series normalized to be 100 in 1967
 
 __NB:__ This is just the reported nominal level, not corrected for inflation. [↩](#fn5a)  
 
-<a id="fn6">6</a>: TotalReturns Staff, ["VFINX Total Real Return Time Series"](https://totalrealreturns.com/s/VFINX?start=1977-01-01), [TotalReturns.com](https://totalreturns.com/) web site, downloaded 2024-Oct-24.  
+<a id="fn6">6</a>: TotalRealReturns Staff, ["VFINX Total Real Return Time Series"](https://totalrealreturns.com/s/VFINX?start=1977-01-01), [TotalRealReturns.com](https://totalrealreturns.com/) web site, downloaded 2024-Oct-24.  
 
 __NB:__ The returns used here turned on both distribution reinvestments and inflation
 correction to get a total real return series.[↩](#fn6a)  
 
-<a id="fn7">7</a>: TotalReturns Staff, ["VTSMX Total Real Return Time Series"](https://totalrealreturns.com/n/VTSMX?start=1977-01-01), [TotalReturns.com](https://totalreturns.com/) web site, downloaded 2024-Oct-24.  
+<a id="fn7">7</a>: TotalRealReturns Staff, ["VTSMX Total Real Return Time Series"](https://totalrealreturns.com/n/VTSMX?start=1977-01-01), [TotalRealReturns.com](https://totalrealreturns.com/) web site, downloaded 2024-Oct-24.  
 
 __NB:__ The returns used here turned on both distribution reinvestments and inflation
 correction to get a total real return series.[↩](#fn7a)  
