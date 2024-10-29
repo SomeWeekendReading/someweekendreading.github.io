@@ -352,7 +352,7 @@ complexity.  There are 2 problems that stand between us and doing The Right Thin
    wrestled with it for a few hours and grew frustrated.  Something I should learn
    eventually, perhaps.  
 2. We absolutely do _not_ have enough data for crossvalidation.  This means that LASSO
-   regulation can't really happen, since the value of the penalty factor $\lambda$ is
+   regulation can't really happen, since the value of the $L^1$ penalty factor $\lambda$ is
    determined by crossvalidation.  
    
 So we're left with doing a couple forms of regression, measuring significance and strength
@@ -461,7 +461,7 @@ is on the edge, but as we remarked above it may be more driven by demographics t
 politics and policies.)  
 
 
-## The Self-Peer Review Corner  
+## The Peer Review Corner, Self-Critique Version  
 
 Look, we tried really hard here.  We're _tired_ of listening to people argue about
 politics, when surely some questions can be settled objectively by appeal to data.  
