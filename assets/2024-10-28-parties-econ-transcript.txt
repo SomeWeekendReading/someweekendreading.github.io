@@ -1,0 +1,664 @@
+
+* Parties vs Econ on Mon Oct 28 14:33:21 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-10-28-parties-econ-transcript.txt
+
+Loading data:
+-------------
+
+* Loading data from ./2024-10-28-parties-econ.tsv
+ - Found 48 columns and 11 rows:
+  Year President PartyPresident PartyHouse PartySenate Inflation U6 LFPR  GDP
+1 1977    Carter              D          D           D       6.5 NA 62.2   NA
+2 1978    Carter              D          D           D       7.7 NA 63.2 13.0
+3 1979    Carter              D          D           D      11.3 NA 63.7 11.7
+4 1980    Carter              D          D           D      13.5 NA 63.8  8.8
+5 1981    Reagan              R          D           R      10.4 NA 63.9 12.2
+6 1982    Reagan              R          D           R       6.1 NA 64.0  4.3
+   VFINX VTSMX
+1     NA    NA
+2     NA    NA
+3  -2.24    NA
+4  13.65    NA
+5 -16.05    NA
+6  14.86    NA
+...
+   Year President PartyPresident PartyHouse PartySenate Inflation   U6 LFPR
+43 2019     Trump              R          D           R       1.8  7.2 63.1
+44 2020     Trump              R          D           R       1.2 13.7 61.8
+45 2021     Biden              D          D           D       4.7  9.4 61.7
+46 2022     Biden              D          D           D       8.0  6.9 62.2
+47 2023     Biden              D          R           D       4.1  6.9 62.6
+48 2024     Biden              D          R           D        NA   NA   NA
+    GDP  VFINX  VTSMX
+43  4.3  28.40  27.71
+44 -0.9  17.14  19.24
+45 10.9  20.07  17.34
+46  9.8 -23.21 -24.48
+47  6.6  22.03  21.79
+48   NA     NA     NA
+
+Consolidating data:
+-------------------
+
+* Averaging & compounding data by 2-year congressional terms
+  - Now have 24 rows x 12 columns
+
+* Adding Better/Worse indicator variables
+  - Now have 24 rows x 18 columns
+
+* Saving consolidated data to ./2024-10-28-parties-econ-consolidated.tsv
+* Crosstabulation of political predictors:
+  - President vs House:
+        D  R Totals
+D       5  7     12
+R       8  4     12
+Totals 13 11     24
+
+  - President vs Senate:
+        D  R Totals
+D       8  4     12
+R       5  7     12
+Totals 13 11     24
+
+  - House vs Senate:
+        D  R Totals
+D       9  4     13
+R       4  7     11
+Totals 13 11     24
+
+* Biclustering econ correlations to ./2024-10-28-parties-econ-consolidated-bicluster.png.
+  - Correlation matrix (pairwise complete observations):
+         U6  LFPR   GDP VFINX VTSMX
+U6     1.00 -0.23 -0.59  0.28  0.32
+LFPR  -0.23  1.00 -0.09 -0.01 -0.06
+GDP   -0.59 -0.09  1.00 -0.16 -0.16
+VFINX  0.28 -0.01 -0.16  1.00  0.99
+VTSMX  0.32 -0.06 -0.16  0.99  1.00
+
+Fitting data:
+-------------
+
+
+* GDPIndic being predicted:
+  - Interactions included: TRUE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients: (1 not defined because of singularities)
+                                          Estimate Std. Error z value Pr(>|z|)
+(Intercept)                                -1.0986     1.1547  -0.951    0.341
+PartyPresidentR                             1.0986     1.5275   0.719    0.472
+PartyHouseR                                19.6647  4612.2021   0.004    0.997
+PartySenateR                               -0.4055  7988.5685   0.000    1.000
+PartyPresidentR:PartyHouseR                -1.0986  7988.5683   0.000    1.000
+PartyPresidentR:PartySenateR               -0.6931  7988.5683   0.000    1.000
+PartyHouseR:PartySenateR                  -18.1606  6522.6389  -0.003    0.998
+PartyPresidentR:PartyHouseR:PartySenateR        NA         NA      NA       NA
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 30.316  on 21  degrees of freedom
+Residual deviance: 23.907  on 15  degrees of freedom
+AIC: 37.907
+
+Number of Fisher Scoring iterations: 17
+
+
+  - Prediction results: p ~ 0.0569657
+   DepVar      pHat
+3  Better 0.2500000
+4  Better 0.2500000
+5  Better 0.2500000
+22  Worse 0.2500000
+2  Better 0.2500000
+9  Better 0.2500000
+17  Worse 0.2500000
+23 Better 0.2500000
+14 Better 0.3333333
+15 Better 0.3333333
+21  Worse 0.3333333
+6  Better 0.5000000
+7  Better 0.5000000
+8   Worse 0.5000000
+16  Worse 0.5000000
+10  Worse 0.5000000
+11 Better 0.5000000
+12 Better 0.5000000
+20  Worse 0.5000000
+13  Worse 1.0000000
+18  Worse 1.0000000
+19  Worse 1.0000000
+
+* InflationIndic being predicted:
+  - Interactions included: TRUE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients: (1 not defined because of singularities)
+                                           Estimate Std. Error z value Pr(>|z|)
+(Intercept)                                  0.4055     0.9129   0.444    0.657
+PartyPresidentR                             19.1606  5377.0066   0.004    0.997
+PartyHouseR                                -19.9715  7604.2355  -0.003    0.998
+PartySenateR                               -38.4390 15208.4711  -0.003    0.998
+PartyPresidentR:PartyHouseR                -19.1606 14226.2220  -0.001    0.999
+PartyPresidentR:PartySenateR                18.8729 14226.2220   0.001    0.999
+PartyHouseR:PartySenateR                    38.4390 12023.3521   0.003    0.997
+PartyPresidentR:PartyHouseR:PartySenateR         NA         NA      NA       NA
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 31.492  on 22  degrees of freedom
+Residual deviance: 16.094  on 16  degrees of freedom
+AIC: 30.094
+
+Number of Fisher Scoring iterations: 18
+
+
+  - Prediction results: p ~ 0.00149673
+   DepVar         pHat
+18 Better 3.181005e-09
+19 Better 3.181005e-09
+10 Better 3.181005e-09
+11 Better 3.181005e-09
+12 Better 3.181005e-09
+20 Better 3.181005e-09
+13 Better 3.181006e-09
+14 Better 3.333333e-01
+15  Worse 3.333333e-01
+21 Better 3.333333e-01
+3   Worse 5.000000e-01
+4   Worse 5.000000e-01
+5  Better 5.000000e-01
+22 Better 5.000000e-01
+1   Worse 6.000000e-01
+2   Worse 6.000000e-01
+9  Better 6.000000e-01
+17 Better 6.000000e-01
+23  Worse 6.000000e-01
+6   Worse 1.000000e+00
+7   Worse 1.000000e+00
+8   Worse 1.000000e+00
+16  Worse 1.000000e+00
+
+* LFPRIndic being predicted:
+  - Interactions included: TRUE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients: (1 not defined because of singularities)
+                                           Estimate Std. Error z value Pr(>|z|)
+(Intercept)                              -1.163e-15  1.000e+00   0.000    1.000
+PartyPresidentR                           1.169e-15  1.414e+00   0.000    1.000
+PartyHouseR                               1.857e+01  4.612e+03   0.004    0.997
+PartySenateR                             -1.504e+00  7.989e+03   0.000    1.000
+PartyPresidentR:PartyHouseR              -1.443e-08  7.989e+03   0.000    1.000
+PartyPresidentR:PartySenateR              4.055e-01  7.989e+03   0.000    1.000
+PartyHouseR:PartySenateR                 -1.816e+01  6.523e+03  -0.003    0.998
+PartyPresidentR:PartyHouseR:PartySenateR         NA         NA      NA       NA
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 30.316  on 21  degrees of freedom
+Residual deviance: 23.907  on 15  degrees of freedom
+AIC: 37.907
+
+Number of Fisher Scoring iterations: 17
+
+
+  - Prediction results: p ~ 0.0569657
+   DepVar      pHat
+10 Better 0.2500000
+11 Better 0.2500000
+12 Better 0.2500000
+20  Worse 0.2500000
+3  Better 0.2500000
+4  Better 0.2500000
+5  Better 0.2500000
+22  Worse 0.2500000
+14  Worse 0.3333333
+15 Better 0.3333333
+21 Better 0.3333333
+2  Better 0.5000000
+9  Better 0.5000000
+17  Worse 0.5000000
+23  Worse 0.5000000
+6  Better 0.5000000
+7  Better 0.5000000
+8   Worse 0.5000000
+16  Worse 0.5000000
+13  Worse 1.0000000
+18  Worse 1.0000000
+19  Worse 1.0000000
+
+* U6Indic being predicted:
+  - Interactions included: TRUE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients: (1 not defined because of singularities)
+                                           Estimate Std. Error z value Pr(>|z|)
+(Intercept)                               2.097e-15  1.414e+00   0.000    1.000
+PartyPresidentR                           2.057e+01  1.773e+04   0.001    0.999
+PartyHouseR                              -2.057e+01  1.254e+04  -0.002    0.999
+PartySenateR                              2.126e+01  3.471e+04   0.001    1.000
+PartyPresidentR:PartyHouseR               2.057e+01  2.803e+04   0.001    0.999
+PartyPresidentR:PartySenateR             -2.126e+01  2.401e+04  -0.001    0.999
+PartyHouseR:PartySenateR                 -2.126e+01  3.071e+04  -0.001    0.999
+PartyPresidentR:PartyHouseR:PartySenateR         NA         NA      NA       NA
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 17.3232  on 12  degrees of freedom
+Residual deviance:  6.5917  on  6  degrees of freedom
+AIC: 20.592
+
+Number of Fisher Scoring iterations: 19
+
+
+  - Prediction results: p ~ 0.0111543
+   DepVar         pHat
+18 Better 1.170226e-09
+19 Better 1.170226e-09
+11 Better 1.170226e-09
+12 Better 1.170226e-09
+20 Better 1.170226e-09
+14  Worse 3.333333e-01
+15 Better 3.333333e-01
+21 Better 3.333333e-01
+17  Worse 5.000000e-01
+23 Better 5.000000e-01
+13  Worse 1.000000e+00
+16  Worse 1.000000e+00
+22  Worse 1.000000e+00
+
+* VFINXIndic being predicted:
+  - Interactions included: TRUE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients: (1 not defined because of singularities)
+                                           Estimate Std. Error z value Pr(>|z|)
+(Intercept)                               1.099e+00  1.155e+00   0.951    0.341
+PartyPresidentR                          -4.017e-15  1.633e+00   0.000    1.000
+PartyHouseR                              -1.099e+00  1.826e+00  -0.602    0.547
+PartySenateR                              1.477e+01  2.400e+03   0.006    0.995
+PartyPresidentR:PartyHouseR               1.657e+01  2.400e+03   0.007    0.994
+PartyPresidentR:PartySenateR             -1.587e+01  2.400e+03  -0.007    0.995
+PartyHouseR:PartySenateR                 -1.477e+01  2.400e+03  -0.006    0.995
+PartyPresidentR:PartyHouseR:PartySenateR         NA         NA      NA       NA
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 28.841  on 21  degrees of freedom
+Residual deviance: 26.679  on 15  degrees of freedom
+AIC: 40.679
+
+Number of Fisher Scoring iterations: 15
+
+
+  - Prediction results: p ~ 0.239867
+   DepVar      pHat
+3   Worse 0.5000000
+4   Worse 0.5000000
+5  Better 0.5000000
+22 Better 0.5000000
+18  Worse 0.5000000
+19 Better 0.5000000
+10 Better 0.5000000
+11 Better 0.5000000
+12  Worse 0.5000000
+20  Worse 0.5000000
+14 Better 0.6666667
+15  Worse 0.6666667
+21  Worse 0.6666667
+6   Worse 0.7500000
+7   Worse 0.7500000
+8  Better 0.7500000
+16  Worse 0.7500000
+2   Worse 0.7500000
+9   Worse 0.7500000
+17 Better 0.7500000
+23  Worse 0.7500000
+13  Worse 0.9999999
+
+* VTSMXIndic being predicted:
+  - Interactions included: TRUE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients: (1 not defined because of singularities)
+                                           Estimate Std. Error z value Pr(>|z|)
+(Intercept)                                  0.6931     1.2247   0.566    0.571
+PartyPresidentR                             17.8729  6522.6387   0.003    0.998
+PartyHouseR                                 -0.6931     1.8708  -0.371    0.711
+PartySenateR                               -19.2592 11297.5417  -0.002    0.999
+PartyPresidentR:PartyHouseR                  0.6931  9224.4042   0.000    1.000
+PartyPresidentR:PartySenateR               -17.8729  6522.6390  -0.003    0.998
+PartyHouseR:PartySenateR                    19.2592 11297.5415   0.002    0.999
+PartyPresidentR:PartyHouseR:PartySenateR         NA         NA      NA       NA
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 20.190  on 14  degrees of freedom
+Residual deviance: 15.956  on  8  degrees of freedom
+AIC: 29.956
+
+Number of Fisher Scoring iterations: 17
+
+
+  - Prediction results: p ~ 0.150198
+   DepVar         pHat
+22 Better 8.646869e-09
+10 Better 5.000000e-01
+11 Better 5.000000e-01
+12  Worse 5.000000e-01
+20  Worse 5.000000e-01
+18  Worse 5.000000e-01
+19 Better 5.000000e-01
+9   Worse 6.666667e-01
+17 Better 6.666667e-01
+23  Worse 6.666667e-01
+14 Better 6.666667e-01
+15  Worse 6.666667e-01
+21  Worse 6.666667e-01
+16  Worse 1.000000e+00
+13  Worse 1.000000e+00
+
+* Regression Akaike Information Criterion and Mann-Whitney rank p-values:
+          DepVar      AIC           p
+2 InflationIndic 30.09438 0.001496729
+4        U6Indic 20.59167 0.011154276
+1       GDPIndic 37.90680 0.056965652
+3      LFPRIndic 37.90680 0.056965652
+6     VTSMXIndic 29.95594 0.150197855
+5     VFINXIndic 40.67939 0.239867394
+
+* GDPIndic being predicted:
+  - Interactions included: FALSE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                Estimate Std. Error z value Pr(>|z|)
+(Intercept)      -0.4751     0.8729  -0.544    0.586
+PartyPresidentR   0.4011     0.9971   0.402    0.688
+PartyHouseR       2.0630     1.2726   1.621    0.105
+PartySenateR     -1.7829     1.2464  -1.430    0.153
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 30.316  on 21  degrees of freedom
+Residual deviance: 26.224  on 18  degrees of freedom
+AIC: 34.224
+
+Number of Fisher Scoring iterations: 4
+
+
+  - Prediction results: p ~ 0.101755
+   DepVar      pHat
+3  Better 0.1350702
+4  Better 0.1350702
+5  Better 0.1350702
+22  Worse 0.1350702
+2  Better 0.3834201
+9  Better 0.3834201
+17  Worse 0.3834201
+23 Better 0.3834201
+10  Worse 0.4514185
+11 Better 0.4514185
+12 Better 0.4514185
+20  Worse 0.4514185
+6  Better 0.4815097
+7  Better 0.4815097
+8   Worse 0.4815097
+16  Worse 0.4815097
+14 Better 0.5513484
+15 Better 0.5513484
+21  Worse 0.5513484
+18  Worse 0.8303229
+19  Worse 0.8303229
+13  Worse 0.8796351
+
+* InflationIndic being predicted:
+  - Interactions included: FALSE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                Estimate Std. Error z value Pr(>|z|)  
+(Intercept)       0.2184     0.8565   0.255   0.7988  
+PartyPresidentR   2.0991     1.4882   1.411   0.1584  
+PartyHouseR      -2.6306     1.3315  -1.976   0.0482 *
+PartySenateR     -1.7129     1.4930  -1.147   0.2513  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 31.492  on 22  degrees of freedom
+Residual deviance: 19.794  on 19  degrees of freedom
+AIC: 27.794
+
+Number of Fisher Scoring iterations: 5
+
+
+  - Prediction results: p ~ 0.00282021
+   DepVar       pHat
+10 Better 0.01590559
+11 Better 0.01590559
+12 Better 0.01590559
+20 Better 0.01590559
+18 Better 0.08224747
+19 Better 0.08224747
+14 Better 0.11650654
+15  Worse 0.11650654
+21 Better 0.11650654
+13 Better 0.42236310
+1   Worse 0.55437654
+2   Worse 0.55437654
+9  Better 0.55437654
+17 Better 0.55437654
+23  Worse 0.55437654
+3   Worse 0.64671451
+4   Worse 0.64671451
+5  Better 0.64671451
+22 Better 0.64671451
+6   Worse 0.91031481
+7   Worse 0.91031481
+8   Worse 0.91031481
+16  Worse 0.91031481
+
+* LFPRIndic being predicted:
+  - Interactions included: FALSE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                Estimate Std. Error z value Pr(>|z|)  
+(Intercept)      0.06863    0.86049   0.080   0.9364  
+PartyPresidentR  0.34649    1.00822   0.344   0.7311  
+PartyHouseR      1.48841    1.26788   1.174   0.2404  
+PartySenateR    -2.31134    1.25661  -1.839   0.0659 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 30.316  on 21  degrees of freedom
+Residual deviance: 25.688  on 18  degrees of freedom
+AIC: 33.688
+
+Number of Fisher Scoring iterations: 4
+
+
+  - Prediction results: p ~ 0.0569657
+   DepVar      pHat
+3  Better 0.1305365
+4  Better 0.1305365
+5  Better 0.1305365
+22  Worse 0.1305365
+10 Better 0.3198857
+11 Better 0.3198857
+12 Better 0.3198857
+20  Worse 0.3198857
+14  Worse 0.3994370
+15 Better 0.3994370
+21 Better 0.3994370
+2  Better 0.5171502
+9  Better 0.5171502
+17  Worse 0.5171502
+23  Worse 0.5171502
+6  Better 0.6023133
+7  Better 0.6023133
+8   Worse 0.6023133
+16  Worse 0.6023133
+18  Worse 0.8259281
+19  Worse 0.8259281
+13  Worse 0.8702899
+
+* U6Indic being predicted:
+  - Interactions included: FALSE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                  Estimate Std. Error z value Pr(>|z|)
+(Intercept)      3.000e-15  1.414e+00   0.000    1.000
+PartyPresidentR  4.021e+01  1.411e+04   0.003    0.998
+PartyHouseR     -2.070e+01  9.501e+03  -0.002    0.998
+PartySenateR    -2.020e+01  1.043e+04  -0.002    0.998
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 17.3232  on 12  degrees of freedom
+Residual deviance:  6.5917  on  9  degrees of freedom
+AIC: 14.592
+
+Number of Fisher Scoring iterations: 20
+
+
+  - Prediction results: p ~ 0.011621
+   DepVar         pHat
+11 Better 2.220446e-16
+12 Better 2.220446e-16
+20 Better 2.220446e-16
+18 Better 1.018808e-09
+19 Better 1.018808e-09
+14  Worse 3.333333e-01
+15 Better 3.333333e-01
+21 Better 3.333333e-01
+17  Worse 5.000000e-01
+23 Better 5.000000e-01
+13  Worse 1.000000e+00
+22  Worse 1.000000e+00
+16  Worse 1.000000e+00
+
+* VFINXIndic being predicted:
+  - Interactions included: FALSE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                Estimate Std. Error z value Pr(>|z|)
+(Intercept)       0.6840     0.8919   0.767    0.443
+PartyPresidentR   0.5552     1.0205   0.544    0.586
+PartyHouseR       0.2286     1.0695   0.214    0.831
+PartySenateR     -0.9982     1.0626  -0.939    0.348
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 28.841  on 21  degrees of freedom
+Residual deviance: 27.748  on 18  degrees of freedom
+AIC: 35.748
+
+Number of Fisher Scoring iterations: 4
+
+
+  - Prediction results: p ~ 0.33309
+   DepVar      pHat
+10 Better 0.4786013
+11 Better 0.4786013
+12  Worse 0.4786013
+20  Worse 0.4786013
+3   Worse 0.5599451
+4   Worse 0.5599451
+5  Better 0.5599451
+22 Better 0.5599451
+14 Better 0.6152715
+15  Worse 0.6152715
+21  Worse 0.6152715
+2   Worse 0.6646331
+9   Worse 0.6646331
+17 Better 0.6646331
+23  Worse 0.6646331
+18  Worse 0.7135312
+19 Better 0.7135312
+6   Worse 0.7754218
+7   Worse 0.7754218
+8  Better 0.7754218
+16  Worse 0.7754218
+13  Worse 0.8127181
+
+* VTSMXIndic being predicted:
+  - Interactions included: FALSE
+
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                Estimate Std. Error z value Pr(>|z|)
+(Intercept)       0.3897     1.0380   0.375    0.707
+PartyPresidentR   0.8776     1.2240   0.717    0.473
+PartyHouseR       0.8221     1.4226   0.578    0.563
+PartySenateR     -1.5447     1.4429  -1.071    0.284
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 20.190  on 14  degrees of freedom
+Residual deviance: 18.695  on 11  degrees of freedom
+AIC: 26.695
+
+Number of Fisher Scoring iterations: 4
+
+
+  - Prediction results: p ~ 0.337447
+   DepVar      pHat
+10 Better 0.4175382
+11 Better 0.4175382
+12  Worse 0.4175382
+20  Worse 0.4175382
+22 Better 0.4311006
+9   Worse 0.5962057
+17 Better 0.5962057
+23  Worse 0.5962057
+14 Better 0.6329155
+15  Worse 0.6329155
+21  Worse 0.6329155
+18  Worse 0.7706150
+19 Better 0.7706150
+16  Worse 0.7802823
+13  Worse 0.8898706
+
+* Regression Akaike Information Criterion and Mann-Whitney rank p-values:
+          DepVar      AIC           p
+2 InflationIndic 27.79392 0.002820207
+4        U6Indic 14.59167 0.011620980
+3      LFPRIndic 33.68798 0.056965652
+1       GDPIndic 34.22406 0.101754654
+5     VFINXIndic 35.74819 0.333089723
+6     VTSMXIndic 26.69536 0.337446932
+
+* Parties vs Econ completed Mon Oct 28 14:33:22 2024 (0.7 sec elapsed).

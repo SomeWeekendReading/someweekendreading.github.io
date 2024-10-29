@@ -1,0 +1,25 @@
+CongrTerm	Years	President	PartyPresident	PartyHouse	PartySenate	Inflation	U6	LFPR	GDP	VFINX	VTSMX	InflationIndic	U6Indic	LFPRIndic	GDPIndic	VFINXIndic	VTSMXIndic
+95	1977-1978	Carter	D	D	D	7.1	NA	62.7	NA	NA	NA	Worse	NA	NA	NA	NA	NA
+96	1979-1980	Carter	D	D	D	12.4	NA	63.8	10.2	5.4	NA	Worse	NA	Better	Better	Worse	NA
+97	1981-1982	Reagan	R	D	R	8.2	NA	64	8.2	-1.8	NA	Worse	NA	Better	Better	Worse	NA
+98	1983-1984	Reagan	R	D	R	3.7	NA	64.2	9.9	6.1	NA	Worse	NA	Better	Better	Worse	NA
+99	1985-1986	Reagan	R	D	R	2.7	NA	65	6.5	13	NA	Better	NA	Better	Better	Better	NA
+100	1987-1988	Reagan	R	D	D	3.9	NA	65.8	6.9	4.7	NA	Worse	NA	Better	Better	Worse	NA
+101	1989-1990	Bush	R	D	D	5.1	NA	66.4	6.7	5.7	NA	Worse	NA	Better	Better	Worse	NA
+102	1991-1992	Bush	R	D	D	3.6	NA	66.3	4.6	15.7	NA	Worse	NA	Worse	Worse	Better	NA
+103	1993-1994	Clinton	D	D	D	2.8	NA	66.4	5.7	3.2	2.5	Better	NA	Better	Better	Worse	Worse
+104	1995-1996	Clinton	D	R	R	2.8	9.9	66.7	5.2	26.3	23.8	Better	NA	Better	Worse	Better	Better
+105	1997-1998	Clinton	D	R	R	1.9	8.4	67.1	5.9	28.7	24.5	Better	Better	Better	Better	Better	Better
+106	1999-2000	Clinton	D	R	R	2.8	7.2	67.1	6.3	1.8	2.6	Better	Better	Better	Better	Worse	Worse
+107	2001-2002	Lesser Bush	R	R	D	2.2	8.9	66.7	3.2	-18.9	-17.7	Better	Worse	Worse	Worse	Worse	Worse
+108	2003-2004	Lesser Bush	R	R	R	2.5	9.8	66.1	5.7	16.3	19.2	Better	Worse	Worse	Better	Better	Better
+109	2005-2006	Lesser Bush	R	R	R	3.3	8.6	66.1	6.3	6.9	7.4	Worse	Better	Better	Better	Worse	Worse
+110	2007-2008	Lesser Bush	R	D	D	3.3	9.4	66	3.4	-20.2	-20.2	Worse	Worse	Worse	Worse	Worse	Worse
+111	2009-2010	Obama	D	D	D	0.6	16.5	65.1	0.9	18.1	20.2	Better	Worse	Worse	Worse	Better	Better
+112	2011-2012	Obama	D	R	D	2.6	15.3	63.9	3.9	6.2	5.8	Better	Better	Worse	Worse	Worse	Worse
+113	2013-2014	Obama	D	R	D	1.5	12.9	63.1	4.1	21.1	21.1	Better	Better	Worse	Worse	Better	Better
+114	2015-2016	Obama	D	R	R	0.7	10.1	62.8	3.3	4.9	4.8	Better	Better	Worse	Worse	Worse	Worse
+115	2017-2018	Trump	R	R	R	2.2	8.1	62.9	4.8	5.6	5	Better	Better	Better	Worse	Worse	Worse
+116	2019-2020	Trump	R	D	R	1.5	10.4	62.5	1.7	22.6	23.4	Better	Worse	Worse	Worse	Better	Better
+117	2021-2022	Biden	D	D	D	6.3	8.2	62	10.3	-4	-5.9	Worse	Better	Worse	Better	Worse	Worse
+118	2023-2024	Biden	D	R	D	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
