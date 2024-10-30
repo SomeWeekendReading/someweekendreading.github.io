@@ -1,5 +1,5 @@
 
-* Parties vs Econ on Wed Oct 30 14:37:45 2024
+* Parties vs Econ on Wed Oct 30 19:40:19 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-10-28-parties-econ-transcript.txt
@@ -70,12 +70,12 @@ Totals 13 11     24
 
 * Biclustering econ correlations to ./2024-10-28-parties-econ-consolidated-bicluster.png.
   - Correlation matrix (pairwise complete observations):
-         U6  LFPR   GDP VFINX VTSMX
-U6     1.00 -0.23 -0.59  0.28  0.32
-LFPR  -0.23  1.00 -0.09 -0.01 -0.06
-GDP   -0.59 -0.09  1.00 -0.16 -0.16
-VFINX  0.28 -0.01 -0.16  1.00  0.99
-VTSMX  0.32 -0.06 -0.16  0.99  1.00
+       LFPR   GDP    U6 VFINX VTSMX
+LFPR   1.00 -0.09 -0.23 -0.01 -0.06
+GDP   -0.09  1.00 -0.59 -0.16 -0.16
+U6    -0.23 -0.59  1.00  0.28  0.32
+VFINX -0.01 -0.16  0.28  1.00  0.99
+VTSMX -0.06 -0.16  0.32  0.99  1.00
 
 Fitting data:
 -------------
@@ -661,4 +661,4 @@ Number of Fisher Scoring iterations: 4
 5     VFINXIndic 35.74819 0.333089723
 6     VTSMXIndic 26.69536 0.337446932
 
-* Parties vs Econ completed Wed Oct 30 14:37:45 2024 (0.4 sec elapsed).
+* Parties vs Econ completed Wed Oct 30 19:40:19 2024 (0.5 sec elapsed).
