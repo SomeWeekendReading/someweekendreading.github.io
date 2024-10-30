@@ -7,7 +7,9 @@ commentsClosed: true
 ---
 
 Does it matter, economically speaking, which US party holds the Presidency, Senate, and
-House?  Maybe not the way you think!  
+House?  Maybe not the way you think!  The last 50 years of evidence implies Republicans
+are associated with _worse_ inflation and unemployment.  It is _false_ that Republicans are
+better on the economy.  That myth needs to die.  
 
 
 ## Conventional Wisdom  
