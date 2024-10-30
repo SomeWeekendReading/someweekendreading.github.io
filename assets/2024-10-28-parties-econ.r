@@ -213,29 +213,36 @@ doit <- function(## Inputs
     print(corMx)                                       #
     withPNG(f2, 1000, 1000, FALSE, function() {        #
       withPars(function() {                            #
-        ## *** See package corrplot, function corrplot()?  (But no dendrogram.)
         corrRange  <- range(corMx)                     # Range of correlations (inside [-1, +1])
         colors     <- makeSaturableHeatmapColorsBWR(nColors, corrRange[[1]], corrRange[[2]],
                                                     minSat = -1, midSat = 0, maxSat = +1)
         maxLabLen  <- max(nchar(rownames(corMx)))      #
+
+#        rowDendrogram <- as.dendrogram(hclust(dist(corMx)))
+#        rowInd        <- order.dendrogram(rowDendrogram)
+#        colDendrogram <- as.dendrogram(hclust(dist(t(corMx))))
+#        colInd        <- order.dendrogram(colDendrogram)
         heatmap(corMx,                                 #
+#                Rowv = rowDendrogram, Colv = colDendrogram,
                 symm = TRUE, revC = TRUE, scale = "none", col = colors,
                 margins = 0.90 * c(maxLabLen, maxLabLen),
                 main = "Economic Measures: Pearson Correlations",
                 add.expr = {                           #
-                  n <- nrow(corMx)
-                  sapply(1 : n, function(r) {
-                    sapply(1 : n, function(c) {
-                      ## *** print the correlations to 2 decimal places in each box?
-                      ## Using n - c + 1 respects revC = TRUE.
-                      ## Need to use rowInd, colInd from return value to respect dendrogram,
-                      ##  but don't have value yet here, where we're in the right coordinate system?
-                      ## Might have to compute dendrogams first, pass in as arg, to make it useable here?
-                      ## text(r, c, labels = sprintf("%.2f", round(corMx[r, n - c + 1], digits = 2)))
 
-                      ##text(r, c, labels = sprintf("%s,%s", rownames(corMx)[r], colnames(corMx)[n - c + 1]))
-                    })
-                  })
+#                  n <- nrow(corMx)
+#                  sapply(1 : n, function(r) {
+#                    sapply(1 : n, function(c) {
+#                      ## *** print the correlations to 2 decimal places in each box?
+#                      ## Using n - c + 1 respects revC = TRUE.
+#                      ## Need to use rowInd, colInd from return value to respect dendrogram,
+#                      ##  but don't have value yet here, where we're in the right coordinate system?
+#                      ## Might have to compute dendrogams first, pass in as arg, to make it useable here?
+#                      ## text(r, c, labels = sprintf("%.2f", round(corMx[r, n - c + 1], digits = 2)))
+#                      text(rowInd[[r]], colInd[[c]],
+#                           labels = sprintf("%s,%s", rownames(corMx)[r], colnames(corMx)[c]))
+#                    })
+#                  })
+
                   box(which = "plot")                  # Draw a box around the whole plot
                 })                                     #
         par(omd = c(0.02, legendFrac, 0, 1), pty = "m", new = TRUE)

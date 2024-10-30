@@ -1,5 +1,5 @@
 
-* Parties vs Econ on Wed Oct 30 14:03:07 2024
+* Parties vs Econ on Wed Oct 30 14:37:45 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-10-28-parties-econ-transcript.txt
@@ -661,4 +661,4 @@ Number of Fisher Scoring iterations: 4
 5     VFINXIndic 35.74819 0.333089723
 6     VTSMXIndic 26.69536 0.337446932
 
-* Parties vs Econ completed Wed Oct 30 14:03:08 2024 (0.9 sec elapsed).
+* Parties vs Econ completed Wed Oct 30 14:37:45 2024 (0.4 sec elapsed).
