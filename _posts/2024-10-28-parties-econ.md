@@ -432,14 +432,14 @@ Here's the summary table showing the AIC and prediction $p$-value for all the ec
 variables, in the 4-parameter and 8-parameter models:  
 
 ```
-        DepVar |  AIC-4   p-4  AIC-8   p-8
-------------------------------------------
-InflationIndic |  27.79 0.003  30.09 0.001
-       U6Indic |  14.59 0.012  20.59 0.011
-     LFPRIndic |  33.69 0.057  37.91 0.057
-      GDPIndic |  34.22 0.102  37.91 0.057
-    VFINXIndic |  35.75 0.333  40.68 0.240
-    VTSMXIndic |  26.70 0.337  29.96 0.150
+        DepVar |  AIC-4   p-4 |  AIC-8   p-8
+--------------------------------------------
+InflationIndic |  27.79 0.003 |  30.09 0.001
+       U6Indic |  14.59 0.012 |  20.59 0.011
+     LFPRIndic |  33.69 0.057 |  37.91 0.057
+      GDPIndic |  34.22 0.102 |  37.91 0.057
+    VFINXIndic |  35.75 0.333 |  40.68 0.240
+    VTSMXIndic |  26.70 0.337 |  29.96 0.150
 ```
 
 Note in the comparison between the simple 4-parameter model and the more complex
@@ -497,9 +497,10 @@ We investigated using the partisanship of the US Presidency, House, and Senate t
 whether several economic variables would get better or worse according to precisely
 specified criteria (about which we are happy to entertain rebuttals).  
 
-We verified that the crosstabultions of the political variables indicated the data were
+We verified that the crosstabulations of the political variables indicated the data were
 spread out to cover all the cases.  We verified that the correlation matrix of the
-economic variables, when biclustered, more or less made sense.  
+economic variables, when biclustered, more or less made sense.  ("More or less": I still
+don't get why unemployment is positively correlated with stock returns.)  
 
 A 4-parameter model of the form:  
 
@@ -511,10 +512,9 @@ managed to predict (in a rank-order, Mann-Whitney $p$-value sense) the better/wo
 outcomes of inflation (CPI-U) and unemployment (U6).  It just barely missed predicting the
 trend in the Labor Force Participation Rate.  
 
-In those cases, increased Republican control of the government raised the probability of
-worse economic outcomes.  
+In those cases, _increased Republican control of the government raised the probability of worse economic outcomes._  
 
-__Conclusion:__ Republicans are not "good for the economy", but rather the opposite.  This
+__Conclusion:__ Republicans are not "good for the economy", but rather the opposite.  That
 myth needs to die, now.  
 
 _Note added in proof:_ a spelling corrector suggested changing "crosstabulations" to
