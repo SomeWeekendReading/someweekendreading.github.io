@@ -341,12 +341,13 @@ $$
 $$
 
 This is, frankly, likely to be a bit of hubris on my part.  Nobody should be estimating an
-8-parameter model on just 14-24 data points!  
+8-parameter regression model on just 14-24 data points!  
 
 The right thing to do, for some value of "right", would be to use
-[`glmnet()`](https://glmnet.stanford.edu/articles/glmnet.html), let it pick subsets of
-variable (and interactions) by LASSO, and let it do crossvalidation to choose the model
-complexity.  There are 2 problems that stand between us and doing The Right Thing:  
+[`glmnet()`](https://glmnet.stanford.edu/articles/glmnet.html), let it 
+do feature selection to choose variables (and interactions) and regularization of model
+complexity with LASSO and crossvalidation, and let it do crossvalidation to choose the
+model complexity.  There are 2 problems that stand between us and doing The Right Thing:  
 1. `glmnet()` is at best awkward with predictors that are categorical variables.
    Apparently one has to mess with `model.matrix()` and do manual dummy-coding.  I
    wrestled with it for a few hours and grew frustrated.  Something I should learn
@@ -368,7 +369,7 @@ _somehow_, and just recognizing that we'll almost certainly over-train.
   It will _not_, however, tell us a significance cutoff threshold.  That's ok, we're not
   crossvalidating due to lack of data anyway.  
 - To assess the strength of the model, we'll run each regression model on its own training
-  data (A cardinal sin!  Or at least an ordinal sin...).  That will give us a probability
+  data (A cardinal sin!  Or at least an _ordinal_ sin?).  That will give us a probability
   of "Worse" for each congressional term.  We'll sort by that probability, and then do a 
   [Mann-Whitney rank test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)
   to see if the Worse/Better outcomes are statistically significantly sorted.  
@@ -421,7 +422,8 @@ each congressional term like this:
 Note that the "Better" out comes are enriched at the top of the list with tiny
 probabilities for being "Worse".  Then there's a steep jump up in that probability, and
 the "Worse" examples start appearing.  Indeed, the Mann-Whitney rank statistic here has
-$p \sim 0.0116$, which is quite good.  
+$p \sim 0.0116$, which is quite good.  Low values of `pHat` near 0 predict better,
+middling values are mixed, and large values near 1 predict worse.  
 
 If you look through the transcript, you'll see that the regressions were either
 non-predictive, or if predictive had no coefficients that were individually statistically
@@ -453,7 +455,7 @@ Note in the comparison between the simple 4-parameter model and the more complex
 
 This indicates that the 8-parameter model, while it pretends to have slightly better
 prediction $p$-values, is almost certainly achieving that by over-fitting.  (If only we
-had enough data to crossvalidate, so we could tell!)  
+had enough data to LASSO and crossvalidate, so we could tell!)  
 
 So we conclude that the 4-parameter model makes acceptably good predictions of the
 Better/Worse trend in Inflation, U6, and not much else.  (Labor Force Participation Rate
@@ -511,9 +513,9 @@ $$
 \log{\frac{\Pr(\mbox{Worse})}{\Pr(\mbox{Better})}} = \beta_1 \mbox{PartyPresident} + \beta_2 \mbox{PartyHouse} + \beta_3 \mbox{PartySenate} + \alpha
 $$
 
-managed to predict (in a Mann-Whitney sense) the better/worse outcomes of inflation
-(CPI-U) and unemployment (U6).  It just barely missed predicting the trend in the Labor
-Force Participation Rate.  
+managed to predict (in a rank-order, Mann-Whitney $p$-value sense) the better/worse
+outcomes of inflation (CPI-U) and unemployment (U6).  It just barely missed predicting the
+trend in the Labor Force Participation Rate.  
 
 In those cases, increased Republican control of the government raised the probability of
 worse economic outcomes.  
