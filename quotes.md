@@ -1203,7 +1203,7 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 - "I am very fond of truth, but not at all of martyrdom."  
 - "Anything that is too stupid to be spoken is sung."  (To which your Weekend Editor adds: hence, the origin of American musical theatre.)  
 - "Appreciation is a wonderful thing: It makes what is excellent in others belong to us as well."  
-- "I advise you to go on living solely to enrage those who are paying you annuities."  
+- "I advise you to go on living solely to enrage those who are paying you annuities." &ndash; from a 1754-Apr-23 letter to Mme du Deffand  
 - "It is one of the superstitions of the human mind to have imagined that virginity could be a virtue."  
 - "So far from believing in nothing, I can believe in witchcraft and am confident that with incantations (and arsenic) it is possible to poison a flock of sheep!" (upon accusation of atheism)  
 - "I die adoring God, loving my friends, not hating my enemies, and detesting superstition."  (Whereupon he did _not_ die, at least not for some months more.)  
