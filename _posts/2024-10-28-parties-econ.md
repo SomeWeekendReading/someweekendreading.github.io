@@ -273,7 +273,7 @@ think would hold do not, in fact, hold.  That's because potentially each correla
 computed over the intersection of 2 time series that might be over different years.)  
 
 <a href="{{ site.baseurl }}/assets/2024-10-28-parties-econ-consolidated-bicluster.png"><img src="{{ site.baseurl }}/assets/2024-10-28-parties-econ-consolidated-bicluster-thumb.jpg" width="400" height="400" alt="Economic outcome variables: correlation matrix bicluster" title="Economic outcome variables: correlation matrix bicluster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-The correlations and the bicluster indicate:  
+The biclustered correlations indicate:  
 - VFINX and VTSMX are basically the same thing (lower right corner).  All my angst about
   including small-caps as a "realistic" investment vehicle are unlikely to matter.  
 - Oddly, U6 has a mild positive correlation with the stock market variables VFINX and
