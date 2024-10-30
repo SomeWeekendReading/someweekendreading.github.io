@@ -270,7 +270,8 @@ That gets us the maximum of correlation information, but sometimes a few identit
 think would hold do not, in fact, hold.  That's because potentially each correlation is
 computed over the intersection of 2 time series that might be over different years.)  
 
-<a href="{{ site.baseurl }}/images/2024-10-28-parties-econ-consolidated-correlation.jpg"><img src="{{ site.baseurl }}/images/2024-10-28-parties-econ-consolidated-correlation-thumb.jpg" width="400" height="220" alt="Economic variables: correlation matrix, ordered the same way as the bicluster image below" title="Economic variables: correlation matrix, ordered the same way as the bicluster image below" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<!-- *** A better way is to print the correlation in the box in the bicluster image? -->
+<img src="{{ site.baseurl }}/images/2024-10-28-parties-econ-consolidated-correlation.jpg" width="400" height="220" alt="Economic variables: correlation matrix, ordered the same way as the bicluster image below" title="Economic variables: correlation matrix, ordered the same way as the bicluster image below" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/assets/2024-10-28-parties-econ-consolidated-bicluster.png"><img src="{{ site.baseurl }}/assets/2024-10-28-parties-econ-consolidated-bicluster-thumb.jpg" width="400" height="400" alt="Economic outcome variables: correlation matrix bicluster" title="Economic outcome variables: correlation matrix bicluster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The correlations and the bicluster indicate:  
 - VFINX and VTSMX are basically the same thing (lower right corner).  All my angst about
