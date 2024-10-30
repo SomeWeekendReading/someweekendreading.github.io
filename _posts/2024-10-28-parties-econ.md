@@ -269,15 +269,8 @@ pairwise complete observations here, and not all the time series are the same le
 That gets us the maximum of correlation information, but sometimes a few identities you'd
 think would hold do not, in fact, hold.  That's because potentially each correlation is
 computed over the intersection of 2 time series that might be over different years.)  
-```
-         U6  LFPR   GDP VFINX VTSMX
-U6     1.00 -0.23 -0.59  0.28  0.32
-LFPR  -0.23  1.00 -0.09 -0.01 -0.06
-GDP   -0.59 -0.09  1.00 -0.16 -0.16
-VFINX  0.28 -0.01 -0.16  1.00  0.99
-VTSMX  0.32 -0.06 -0.16  0.99  1.00
-```
 
+<a href="{{ site.baseurl }}/images/2024-10-28-parties-econ-consolidated-correlation.jpg"><img src="{{ site.baseurl }}/images/2024-10-28-parties-econ-consolidated-correlation-thumb.jpg" width="400" height="220" alt="Economic variables: correlation matrix, ordered the same way as the bicluster image below" title="Economic variables: correlation matrix, ordered the same way as the bicluster image below" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/assets/2024-10-28-parties-econ-consolidated-bicluster.png"><img src="{{ site.baseurl }}/assets/2024-10-28-parties-econ-consolidated-bicluster-thumb.jpg" width="400" height="400" alt="Economic outcome variables: correlation matrix bicluster" title="Economic outcome variables: correlation matrix bicluster" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The correlations and the bicluster indicate:  
 - VFINX and VTSMX are basically the same thing (lower right corner).  All my angst about
