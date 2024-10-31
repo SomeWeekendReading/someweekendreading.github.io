@@ -40,6 +40,7 @@ professionals.
 In the words of the absurdist 
 [playwright Samuel Becket, "I try. I fail.  I try again.  I fail better."]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CI%20try.%20I%20fail.%20I%20try%20again.%20I%20fail%20better.%E2%80%9D%20%E2%80%94%20Samuel%20Beckett))  
 
+(__TL;DR:__ The conclusion is [stated briefly at the end](#the-weekend-conclusion).)  
 
 ## The Available Data  
 
@@ -180,9 +181,11 @@ for 2 years, but annualized, can require a bit of care.  Here's what we did:
   over 2 years and took the geometric mean to annualize the result.  That is, given 2
   inflation rates $i_1$ and $i_2$ expressed as percentages, we computed the annualized
   compounded rate $i$ by:  
+
 $$
 i = 100 \times \left(\sqrt{( 1 + i_1/100)(1 + i_2/100)} - 1\right)
 $$
+
 - U6 and LFPR don't compound, so we averaged them over the 2 years of the congressional
   term.  
 - For GDP, we computed a growth rate for each year over the previous.  We then compounded
@@ -195,9 +198,9 @@ $$
 
 <a href="{{ site.baseurl }}/images/2024-10-28-parties-econ-data-congressional-term.jpg"><img src="{{ site.baseurl }}/images/2024-10-28-parties-econ-data-congressional-term-thumb.jpg" width="400" height="206" alt="Omnibus dataset, by congressional term: partisan control of 3 branches of US federal government and various economic outcomes" title="Omnibus dataset, by congressional term: partisan control of 3 branches of US federal government and various economic outcomes" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The resulting consolidated dataset for congressional terms <sup id="fn9a">[[9]](#fn9)</sup>
-is shown here in its entirety.  Note that there are only 24 congressional terms in our
-time window, and:  
-- The 2023-2024 term is useless for us, as we do not have year-end economic data.  
+is shown here in its entirety, because that emphasizes the point that the available data
+is quite limited.  Note that there are only 24 congressional terms in our time window, and:  
+- The 2023-2024 term is useless for us, as we do not have year-end economic data for 2024.  
 - U6 is available only for 14 terms.  
 - VTSMX is only available for 15 terms.  
 - VFINX is only available for 22 terms.  
@@ -479,13 +482,13 @@ But&hellip; there are numerous faults in this work:
   goes back to its inception in 1992.  The
   [Bogleheads asset class returns spreadsheet](https://www.bogleheads.org/wiki/Simba%27s_backtesting_spreadsheet)
   would have fixed that, but it has gotten complex since I last used it and I didn't want
-  to wade through learning how to use it.  
+  to wade through learning how to use it all over again.  
 - Probably I should have used the inflation data to deflate the GDP each year, and _then_
   taken the percent growth.  I'm not sure how the GDP series is calculated, so I don't
-  know if this was already done.  
+  know if this was already done, or not.  
 - It would have been worthwhile to investigate a time lag between a partisan change and
   the resulting economic variables getting better/worse.  Sometimes the lags are said to
-  be a couple years.  
+  be a couple years.  Or sometimes a president inherits a mess from his predecessor.  
 - I should have figured out how to get `glmnet()` to work on categorical predictors.  Even
   though I don't have the data to power LASSO and crossvalidation, at least I'd know what
   to do next time.  

@@ -207,10 +207,10 @@ doit <- function(## Inputs
     ## Bicluster of econ outcome vars (continuous, not indicators) correlation
     f2 <- file.path(resultsDir, biclFile)              #
     cat(sprintf("\n* Biclustering econ correlations to %s.", f2))
-    corMx <- round(cor(subset(partyEconDataConsolidated, select = c(U6, LFPR, GDP, VFINX, VTSMX)),
-                       use = "pairwise.complete.obs"), digits = 2)
     withPNG(f2, 1000, 1000, FALSE, function() {        #
       withPars(function() {                            #
+        corMx <- round(cor(subset(partyEconDataConsolidated, select = c(U6, LFPR, GDP, VFINX, VTSMX)),
+                           use = "pairwise.complete.obs"), digits = 2)
         corrRange  <- range(corMx)                     # Range of correlations (inside [-1, +1])
         colors     <- makeSaturableHeatmapColorsBWR(nColors, corrRange[[1]], corrRange[[2]],
                                                     minSat = -1, midSat = 0, maxSat = +1)
@@ -224,7 +224,7 @@ doit <- function(## Inputs
         colDendrogram <- reorder(as.dendrogram(hclust(dist(t(corMx)))), colMeans(abs(corMx)))
         colInd        <- order.dendrogram(colDendrogram)
         cat(sprintf("\n  - Correlation matrix (pairwise complete observations):\n"))
-        print(corMx[rowInd, colInd])                   #
+        print(corMx[rowInd, colInd])                   # Same order as dendrograms will force in plot
         heatmap(corMx,                                 #
                 Rowv = rowDendrogram, Colv = colDendrogram,
                 symm = TRUE, revC = TRUE, scale = "none", col = colors,
