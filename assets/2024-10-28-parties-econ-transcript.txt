@@ -1,5 +1,5 @@
 
-* Parties vs Econ on Wed Oct 30 19:55:00 2024
+* Parties vs Econ on Thu Oct 31 14:28:14 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-10-28-parties-econ-transcript.txt
@@ -56,17 +56,35 @@ D       5  7     12
 R       8  4     12
 Totals 13 11     24
 
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  tbl
+X-squared = 0.67133, df = 1, p-value = 0.4126
+
+
   - President vs Senate:
         D  R Totals
 D       8  4     12
 R       5  7     12
 Totals 13 11     24
 
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  tbl
+X-squared = 0.67133, df = 1, p-value = 0.4126
+
+
   - House vs Senate:
         D  R Totals
 D       9  4     13
 R       4  7     11
 Totals 13 11     24
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  tbl
+X-squared = 1.4377, df = 1, p-value = 0.2305
+
 
 * Biclustering econ correlations to ./2024-10-28-parties-econ-consolidated-bicluster.png.
   - Correlation matrix (pairwise complete observations):
@@ -661,4 +679,4 @@ Number of Fisher Scoring iterations: 4
 5     VFINXIndic 35.74819 0.333089723
 6     VTSMXIndic 26.69536 0.337446932
 
-* Parties vs Econ completed Wed Oct 30 19:55:00 2024 (0.5 sec elapsed).
+* Parties vs Econ completed Thu Oct 31 14:28:15 2024 (0.9 sec elapsed).

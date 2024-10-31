@@ -193,16 +193,25 @@ doit <- function(## Inputs
     cat(sprintf("\n\n* Saving consolidated data to %s", f))
     saveDataframe(partyEconDataConsolidated, f)        #
 
+    ## https://stats.stackexchange.com/questions/108007/correlations-with-unordered-categorical-variables
+    ## chi-squared as a test of significant association
+    ## Cramer's V as a test of strength of association
+    ## https://rstudio-pubs-static.s3.amazonaws.com/558925_38b86f0530c9480fad4d029a4e4aea68.html#cramers-v
     cat(sprintf("\n* Crosstabulation of political predictors:"))
     cat(sprintf("\n  - President vs House:\n"))
-    print(tableRowColTotals(table(partyEconDataConsolidated$"PartyPresident",
-                                  partyEconDataConsolidated$"PartyHouse")))
+    tbl <- table(partyEconDataConsolidated$"PartyPresident", partyEconDataConsolidated$"PartyHouse")
+    print(tableRowColTotals(tbl))
+    print(chisq.test(tbl))
+
     cat(sprintf("\n  - President vs Senate:\n"))
-    print(tableRowColTotals(table(partyEconDataConsolidated$"PartyPresident",
-                                  partyEconDataConsolidated$"PartySenate")))
+    tbl <- table(partyEconDataConsolidated$"PartyPresident", partyEconDataConsolidated$"PartySenate")
+    print(tableRowColTotals(tbl))
+    print(chisq.test(tbl))
+
     cat(sprintf("\n  - House vs Senate:\n"))
-    print(tableRowColTotals(table(partyEconDataConsolidated$"PartyHouse",
-                                  partyEconDataConsolidated$"PartySenate")))
+    tbl <- table(partyEconDataConsolidated$"PartyHouse", partyEconDataConsolidated$"PartySenate")
+    print(tableRowColTotals(tbl))
+    print(chisq.test(tbl))
 
     ## Bicluster of econ outcome vars (continuous, not indicators) correlation
     f2 <- file.path(resultsDir, biclFile)              #

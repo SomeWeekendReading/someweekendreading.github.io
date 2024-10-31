@@ -242,7 +242,7 @@ variable!
 
 First, let's look at some crosstabulations of the political variables.  
 
-Party of the President (rows) _vs_ the party of the House (columns):  
+Party of the President (rows) _vs_ the party of the House (columns), $\chi^2 p \sim 41\%$:  
 ```
         D  R | Totals
 D       5  7 |    12
@@ -251,7 +251,7 @@ R       8  4 |    12
 Totals 13 11 |    24
 ```
 
-Party of the President (rows) _vs_ the party of the Senate (columns):  
+Party of the President (rows) _vs_ the party of the Senate (columns), $\chi^2 p \sim 41\%$:  
 ```
         D  R | Totals
 D       8  4 |     12
@@ -260,7 +260,7 @@ R       5  7 |     12
 Totals 13 11 |     24
 ```
 
-Party of the House (rows) _vs_ party of the Senate (columns):  
+Party of the House (rows) _vs_ party of the Senate (columns), $\chi^2 p \sim 23\%$:  
 ```
         D  R | Totals
 D       9  4 |     13
