@@ -240,7 +240,9 @@ variable!
 
 ## An Exploratory Look  
 
-First, let's look at some crosstabulations of the political variables.  
+First, let's look at some crosstabulations of the political variables.  A large $p$-value
+from a $\chi^2$ test will indicate that the variables are somewhat independent, which is
+good for our use of them as predictors.  
 
 Party of the President (rows) _vs_ the party of the House (columns), $\chi^2 p \sim 41\%$:  
 ```
