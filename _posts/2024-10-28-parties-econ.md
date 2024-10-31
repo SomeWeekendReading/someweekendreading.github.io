@@ -183,15 +183,15 @@ for 2 years, but annualized, can require a bit of care.  Here's what we did:
   If we have 2 interest/inflation rates $I_1$ and $I_2$ expressed as decimals between 0
   and 1, then the annualized compound rate would be $I$ given by:  
   
-$$
-(1 + I)^2 = (1 + I_1) (1 + I_2)
-$$
+  $$
+  (1 + I)^2 = (1 + I_1) (1 + I_2)
+  $$
 
   But if somebody's gone and scaled them by 100 to express them as percentages for normal
   people, $i = 100 I$, then we have to fiddle about a bit de-scaling and re-scaling by
-  100:  
+  100:   
 
-$$ i = 100 \times \left(\sqrt{( 1 + i_1/100)(1 + i_2/100)} - 1\right) $$
+  $$ i = 100 \times \left(\sqrt{( 1 + i_1/100)(1 + i_2/100)} - 1\right) $$
 
 - U6 and LFPR don't compound, so we averaged them over the 2 years of the congressional
   term.  
