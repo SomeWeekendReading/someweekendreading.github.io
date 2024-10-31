@@ -178,9 +178,17 @@ constant across a congressional term (modulo the episode with Jeffords to which 
 above), so combining them is easy.  But combining the economic variables to obtain a value
 for 2 years, but annualized, can require a bit of care.  Here's what we did:  
 - Inflation is a rate of a single quantity that compounds over years.  So we compounded it
-  over 2 years and took the geometric mean to annualize the result.  That is, given 2
-  inflation rates $i_1$ and $i_2$ expressed as percentages, we computed the annualized
-  compounded rate $i$ by:  
+  over 2 years and took the geometric mean to annualize the result.  
+  
+  If we have 2 interest/inflation rates $I_1$ and $I_2$ expressed as decimals between 0
+  and 1, then the annualized compound rate would be $I$ given by:  
+  
+$$
+(1 + I)^2 = (1 + I_1) (1 + I_2)
+$$
+
+  But if somebody's gone and multiplied them by 100 to express them as percentages for the
+  NT audience, then we have to fiddle about a bit de-scaling and re-scaling by 100:  
 
 $$
 i = 100 \times \left(\sqrt{( 1 + i_1/100)(1 + i_2/100)} - 1\right)
