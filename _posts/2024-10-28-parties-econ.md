@@ -188,7 +188,7 @@ $$
 $$
 
   But if somebody's gone and multiplied them by 100 to express them as percentages for the
-  NT audience, then we have to fiddle about a bit de-scaling and re-scaling by 100:  
+  NT audience, $i = 100 I$, then we have to fiddle about a bit de-scaling and re-scaling by 100:  
 
 $$
 i = 100 \times \left(\sqrt{( 1 + i_1/100)(1 + i_2/100)} - 1\right)
