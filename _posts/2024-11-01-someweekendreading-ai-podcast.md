@@ -74,8 +74,9 @@ Rashly, I fed it this very CLBTNR.  All of it.  Here's the summary it generated:
 Ok, I guess that's not exactly _wrong_&hellip;  
 
 <audio src="/assets/2024-11-01-someweekendreading-ai-podcast.mp3" controls preload style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></audio>
-Here's the 13 minute 'podcast' of 2 AI-generated characters attempting to discuss this
-CLBTNR.  
+[the original is a giant .wav file](https://notebooklm.google.com/notebook/60201bb3-b079-48f8-87b6-976c34835aa2/audio),
+but I've downloaded it for archival purposes and converted it to a much smaller .mp3 file.
+Here's the 13 minute 'podcast' of 2 AI-generated characters attempting to discuss this CLBTNR.  
 
 A number of things are, of course, just _wrong:_  
 - I didn't get vaccinated in March of 2020; there were no COVID-19 vaccines in March
