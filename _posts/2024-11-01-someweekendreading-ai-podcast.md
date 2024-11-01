@@ -102,8 +102,8 @@ be almost aggressively inoffensive.
 
 Again, look at the tuba picture above: exactly _who_ needs this and who would be rash
 enough to trust the output?  Even Google says it lies to us, so you have to fact-check
-every dang thing it says.  Surely it's less work to summarize yourself, rather than listen
-to over-persuasive voices that occasionally lie convincingly?  
+every dang thing it says.  Surely it's less work to summarize the material for yourself,
+rather than listen to over-persuasive voices that occasionally lie convincingly?  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
