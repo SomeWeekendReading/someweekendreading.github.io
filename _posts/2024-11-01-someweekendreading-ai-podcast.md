@@ -81,7 +81,7 @@ Here's the 13 minute 'podcast' of 2 AI-generated characters attempting to discus
 A number of things are, of course, just _wrong:_  
 - I didn't get vaccinated in March of 2020; there were no COVID-19 vaccines in March
   of 2020.  That was a year later.  
-- The blog didn't start in March of 2020 either.  Formally, it started in July 2020.
+- The blog didn't start in February of 2020 either.  Formally, it started in July 2020.
   ("Formally" in the sense that the first upload was in September, but back-dated to the
   first day of retirement.)  
   
