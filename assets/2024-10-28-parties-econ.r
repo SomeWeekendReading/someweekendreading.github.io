@@ -198,20 +198,17 @@ doit <- function(## Inputs
     ## Cramer's V as a test of strength of association
     ## https://rstudio-pubs-static.s3.amazonaws.com/558925_38b86f0530c9480fad4d029a4e4aea68.html#cramers-v
     cat(sprintf("\n* Crosstabulation of political predictors:"))
-    cat(sprintf("\n  - President vs House:\n"))
+    cat(sprintf("\n  - President vs House:\n"))        #
     tbl <- table(partyEconDataConsolidated$"PartyPresident", partyEconDataConsolidated$"PartyHouse")
-    print(tableRowColTotals(tbl))
-    print(chisq.test(tbl))
+    print(tableRowColTotals(tbl)); print(chisq.test(tbl))
 
-    cat(sprintf("\n  - President vs Senate:\n"))
+    cat(sprintf("\n  - President vs Senate:\n"))       #
     tbl <- table(partyEconDataConsolidated$"PartyPresident", partyEconDataConsolidated$"PartySenate")
-    print(tableRowColTotals(tbl))
-    print(chisq.test(tbl))
+    print(tableRowColTotals(tbl)); print(chisq.test(tbl))
 
-    cat(sprintf("\n  - House vs Senate:\n"))
+    cat(sprintf("\n  - House vs Senate:\n"))           #
     tbl <- table(partyEconDataConsolidated$"PartyHouse", partyEconDataConsolidated$"PartySenate")
-    print(tableRowColTotals(tbl))
-    print(chisq.test(tbl))
+    print(tableRowColTotals(tbl)); print(chisq.test(tbl))
 
     ## Bicluster of econ outcome vars (continuous, not indicators) correlation
     f2 <- file.path(resultsDir, biclFile)              #
@@ -220,10 +217,6 @@ doit <- function(## Inputs
       withPars(function() {                            #
         corMx <- round(cor(subset(partyEconDataConsolidated, select = c(U6, LFPR, GDP, VFINX, VTSMX)),
                            use = "pairwise.complete.obs"), digits = 2)
-        corrRange  <- range(corMx)                     # Range of correlations (inside [-1, +1])
-        colors     <- makeSaturableHeatmapColorsBWR(nColors, corrRange[[1]], corrRange[[2]],
-                                                    minSat = -1, midSat = 0, maxSat = +1)
-        maxLabLen  <- max(nchar(rownames(corMx)))      #
 
         ## Need to compute dendrograms OUTSIDE heatmap(), so rowInd/colInd can be used in the add.expr{}.
         ## Absolute value in rowMeans in reorder means U6 and GDP, anticorrelated, form a sub-block.
@@ -234,6 +227,12 @@ doit <- function(## Inputs
         colInd        <- order.dendrogram(colDendrogram)
         cat(sprintf("\n  - Correlation matrix (pairwise complete observations):\n"))
         print(corMx[rowInd, colInd])                   # Same order as dendrograms will force in plot
+
+        corrRange  <- range(corMx)                     # Range of correlations (inside [-1, +1])
+        colors     <- makeSaturableHeatmapColorsBWR(nColors, corrRange[[1]], corrRange[[2]],
+                                                    minSat = -1, midSat = 0, maxSat = +1)
+        maxLabLen  <- max(nchar(rownames(corMx)))      #
+
         heatmap(corMx,                                 #
                 Rowv = rowDendrogram, Colv = colDendrogram,
                 symm = TRUE, revC = TRUE, scale = "none", col = colors,
