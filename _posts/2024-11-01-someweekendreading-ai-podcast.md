@@ -92,7 +92,8 @@ spot-on perfect.
 I mean, I'm as vain as the next person, so their generally positive view of this CLBTNR
 made me feel sorta good&hellip; until I slapped myself silly with the fact that there's
 _nothing there_ that can even understand, let alone have a respectable opinion.  I might
-as well feel good about a dice roll.  
+as well feel good about my dishwasher.  (It _is_ a good dishwasher, _for washing dishes._
+But I don't ask it for opinions on what I read or write.)  
 
 
 ## The Weekend Conclusion  
@@ -127,7 +128,9 @@ rather than listen to over-persuasive voices that occasionally lie convincingly?
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Scott Alexander Siskind, ["Links For November 2024"](https://www.astralcodexten.com/p/links-for-november-2024#:~:text=17%3A%20Nostalgebraist,Existential%20Meltdown.), _Astral Codex Ten_ blog, 2024-Nov-01.  Item #17 is the relevant bit, in case the link doesn't take you there directly. [↩](#fn1a)  
+<a id="fn1">1</a>: Scott Alexander Siskind, ["Links For November 2024"](https://www.astralcodexten.com/p/links-for-november-2024#:~:text=17%3A%20Nostalgebraist,Existential%20Meltdown.), _Astral Codex Ten_ blog, 2024-Nov-01.  
+
+Item #17 is the relevant bit, in case the link doesn't take you there directly. [↩](#fn1a)  
 
 <a id="fn2">2</a>: 'Nostalgebraist', ["In the Other Uncanny Valley: AI Voice News at Google"](https://www.tumblr.com/nostalgebraist/762931781730271232/in-other-uncanny-valley-ai-voice-news-google), _Nostalgebraist Tumblr_ blog, 2024-Sep-29. [↩](#fn2a)  
 

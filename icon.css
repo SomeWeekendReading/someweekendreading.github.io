@@ -1,0 +1,27 @@
+/* fallback */
+@font-face {
+  font-family: 'Material Icons Two Tone';
+  font-style: normal;
+  font-weight: 400;
+/*  src: url(https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0NjbrHg.woff2) format('woff2'); */
+  src: url({{ site.baseurl }}/assets/Material_Icons,Material_Icons_Outlined,Material_Icons_Round,Material_Icons_Sharp,Material_Icons_Two_Tone/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf) format('otf');
+}
+body {
+  --google-font-color-materialiconstwotone:none;
+}
+
+.material-icons-two-tone {
+  font-family: 'Material Icons Two Tone';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
