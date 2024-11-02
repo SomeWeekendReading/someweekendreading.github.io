@@ -108,6 +108,14 @@ rather than listen to over-persuasive voices that occasionally lie convincingly?
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+## Addendum 2024-Nov-02: Le Mot Juste  
+
+Pablo, responding by email, came up with the perfect description:  
+
+> Feels like Muzak in spoken form.  
+
+Le mot juste, c'est celui l&agrave;!  
+
 ---
 
 ## Notes &amp; References  
