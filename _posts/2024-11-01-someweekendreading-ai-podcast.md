@@ -42,7 +42,7 @@ Nostaglebraist, after feeding it 2 of his novels, has this to say about the resu
 >  
 > &hellip; Painfully basic when it's not actually inaccurate.  
 
-That's about what we would expect: expertly inoffensive, and having at best a casual
+That's about what we would expect: expertly inoffensive, but having at best a casual
 relationship with truth.  
 
 It's not as though Google didn't warn us; in _tiny_ type at the bottom of the Notebook LM
@@ -83,7 +83,7 @@ A number of things are, of course, just _wrong:_
   of 2020.  That was a year later in 2021.  
 - The blog didn't start in February of 2020, either.  Formally, it started in July 2020.
   ("Formally": in the sense that the first upload was in September, but back-dated to the
-  first day of retirement.)  
+  first day of retirement in July.)  
   
 Much of the rest is not wrong _per se,_ just vapid, superficial, and inconsequential.  But
 the imitation of cringe-inducing mainstream media talk radio or podcasting&hellip; that's
@@ -140,6 +140,6 @@ Le mot juste, c'est celui l&agrave;!
 
 Item #17 is the relevant bit, in case the link doesn't take you there directly. [↩](#fn1a)  
 
-<a id="fn2">2</a>: 'Nostalgebraist', ["In the Other Uncanny Valley: AI Voice News at Google"](https://www.tumblr.com/nostalgebraist/762931781730271232/in-other-uncanny-valley-ai-voice-news-google), _Nostalgebraist Tumblr_ blog, 2024-Sep-29. [↩](#fn2a)  
+<a id="fn2">2</a>: 'Nostalgebraist', ["In the Other Uncanny Valley: AI Voice News at Google"](https://www.tumblr.com/nostalgebraist/762931781730271232/in-other-uncanny-valley-ai-voice-news-google), _trees are harlequins, words are harlequins_ (Nostalgebraist Tumblr blog), 2024-Sep-29. [↩](#fn2a)  
 
 <a id="fn3">3</a>: Google Staff, ["Notebook LM"](https://notebooklm.google.com/), Google services, downloaded 2024-Nov-01. [↩](#fn3a)  
