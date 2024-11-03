@@ -1,5 +1,5 @@
 
-* Parties vs Econ on Thu Oct 31 14:28:14 2024
+* Parties vs Econ on Sun Nov 03 10:37:55 2024
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2024-10-28-parties-econ-transcript.txt
@@ -126,29 +126,29 @@ Number of Fisher Scoring iterations: 17
 
 
   - Prediction results: p ~ 0.0569657
-   DepVar      pHat
-3  Better 0.2500000
-4  Better 0.2500000
-5  Better 0.2500000
-22  Worse 0.2500000
-2  Better 0.2500000
-9  Better 0.2500000
-17  Worse 0.2500000
-23 Better 0.2500000
-14 Better 0.3333333
-15 Better 0.3333333
-21  Worse 0.3333333
-6  Better 0.5000000
-7  Better 0.5000000
-8   Worse 0.5000000
-16  Worse 0.5000000
-10  Worse 0.5000000
-11 Better 0.5000000
-12 Better 0.5000000
-20  Worse 0.5000000
-13  Worse 1.0000000
-18  Worse 1.0000000
-19  Worse 1.0000000
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+3  1981-1982              R          D           R Better 0.2500000
+4  1983-1984              R          D           R Better 0.2500000
+5  1985-1986              R          D           R Better 0.2500000
+22 2019-2020              R          D           R  Worse 0.2500000
+2  1979-1980              D          D           D Better 0.2500000
+9  1993-1994              D          D           D Better 0.2500000
+17 2009-2010              D          D           D  Worse 0.2500000
+23 2021-2022              D          D           D Better 0.2500000
+14 2003-2004              R          R           R Better 0.3333333
+15 2005-2006              R          R           R Better 0.3333333
+21 2017-2018              R          R           R  Worse 0.3333333
+6  1987-1988              R          D           D Better 0.5000000
+7  1989-1990              R          D           D Better 0.5000000
+8  1991-1992              R          D           D  Worse 0.5000000
+16 2007-2008              R          D           D  Worse 0.5000000
+10 1995-1996              D          R           R  Worse 0.5000000
+11 1997-1998              D          R           R Better 0.5000000
+12 1999-2000              D          R           R Better 0.5000000
+20 2015-2016              D          R           R  Worse 0.5000000
+13 2001-2002              R          R           D  Worse 1.0000000
+18 2011-2012              D          R           D  Worse 1.0000000
+19 2013-2014              D          R           D  Worse 1.0000000
 
 * InflationIndic being predicted:
   - Interactions included: TRUE
@@ -177,30 +177,30 @@ Number of Fisher Scoring iterations: 18
 
 
   - Prediction results: p ~ 0.00149673
-   DepVar         pHat
-18 Better 3.181005e-09
-19 Better 3.181005e-09
-10 Better 3.181005e-09
-11 Better 3.181005e-09
-12 Better 3.181005e-09
-20 Better 3.181005e-09
-13 Better 3.181006e-09
-14 Better 3.333333e-01
-15  Worse 3.333333e-01
-21 Better 3.333333e-01
-3   Worse 5.000000e-01
-4   Worse 5.000000e-01
-5  Better 5.000000e-01
-22 Better 5.000000e-01
-1   Worse 6.000000e-01
-2   Worse 6.000000e-01
-9  Better 6.000000e-01
-17 Better 6.000000e-01
-23  Worse 6.000000e-01
-6   Worse 1.000000e+00
-7   Worse 1.000000e+00
-8   Worse 1.000000e+00
-16  Worse 1.000000e+00
+       Years PartyPresident PartyHouse PartySenate DepVar         pHat
+18 2011-2012              D          R           D Better 3.181005e-09
+19 2013-2014              D          R           D Better 3.181005e-09
+10 1995-1996              D          R           R Better 3.181005e-09
+11 1997-1998              D          R           R Better 3.181005e-09
+12 1999-2000              D          R           R Better 3.181005e-09
+20 2015-2016              D          R           R Better 3.181005e-09
+13 2001-2002              R          R           D Better 3.181006e-09
+14 2003-2004              R          R           R Better 3.333333e-01
+15 2005-2006              R          R           R  Worse 3.333333e-01
+21 2017-2018              R          R           R Better 3.333333e-01
+3  1981-1982              R          D           R  Worse 5.000000e-01
+4  1983-1984              R          D           R  Worse 5.000000e-01
+5  1985-1986              R          D           R Better 5.000000e-01
+22 2019-2020              R          D           R Better 5.000000e-01
+1  1977-1978              D          D           D  Worse 6.000000e-01
+2  1979-1980              D          D           D  Worse 6.000000e-01
+9  1993-1994              D          D           D Better 6.000000e-01
+17 2009-2010              D          D           D Better 6.000000e-01
+23 2021-2022              D          D           D  Worse 6.000000e-01
+6  1987-1988              R          D           D  Worse 1.000000e+00
+7  1989-1990              R          D           D  Worse 1.000000e+00
+8  1991-1992              R          D           D  Worse 1.000000e+00
+16 2007-2008              R          D           D  Worse 1.000000e+00
 
 * LFPRIndic being predicted:
   - Interactions included: TRUE
@@ -229,29 +229,29 @@ Number of Fisher Scoring iterations: 17
 
 
   - Prediction results: p ~ 0.0569657
-   DepVar      pHat
-10 Better 0.2500000
-11 Better 0.2500000
-12 Better 0.2500000
-20  Worse 0.2500000
-3  Better 0.2500000
-4  Better 0.2500000
-5  Better 0.2500000
-22  Worse 0.2500000
-14  Worse 0.3333333
-15 Better 0.3333333
-21 Better 0.3333333
-2  Better 0.5000000
-9  Better 0.5000000
-17  Worse 0.5000000
-23  Worse 0.5000000
-6  Better 0.5000000
-7  Better 0.5000000
-8   Worse 0.5000000
-16  Worse 0.5000000
-13  Worse 1.0000000
-18  Worse 1.0000000
-19  Worse 1.0000000
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+10 1995-1996              D          R           R Better 0.2500000
+11 1997-1998              D          R           R Better 0.2500000
+12 1999-2000              D          R           R Better 0.2500000
+20 2015-2016              D          R           R  Worse 0.2500000
+3  1981-1982              R          D           R Better 0.2500000
+4  1983-1984              R          D           R Better 0.2500000
+5  1985-1986              R          D           R Better 0.2500000
+22 2019-2020              R          D           R  Worse 0.2500000
+14 2003-2004              R          R           R  Worse 0.3333333
+15 2005-2006              R          R           R Better 0.3333333
+21 2017-2018              R          R           R Better 0.3333333
+2  1979-1980              D          D           D Better 0.5000000
+9  1993-1994              D          D           D Better 0.5000000
+17 2009-2010              D          D           D  Worse 0.5000000
+23 2021-2022              D          D           D  Worse 0.5000000
+6  1987-1988              R          D           D Better 0.5000000
+7  1989-1990              R          D           D Better 0.5000000
+8  1991-1992              R          D           D  Worse 0.5000000
+16 2007-2008              R          D           D  Worse 0.5000000
+13 2001-2002              R          R           D  Worse 1.0000000
+18 2011-2012              D          R           D  Worse 1.0000000
+19 2013-2014              D          R           D  Worse 1.0000000
 
 * U6Indic being predicted:
   - Interactions included: TRUE
@@ -280,20 +280,20 @@ Number of Fisher Scoring iterations: 19
 
 
   - Prediction results: p ~ 0.0111543
-   DepVar         pHat
-18 Better 1.170226e-09
-19 Better 1.170226e-09
-11 Better 1.170226e-09
-12 Better 1.170226e-09
-20 Better 1.170226e-09
-14  Worse 3.333333e-01
-15 Better 3.333333e-01
-21 Better 3.333333e-01
-17  Worse 5.000000e-01
-23 Better 5.000000e-01
-13  Worse 1.000000e+00
-16  Worse 1.000000e+00
-22  Worse 1.000000e+00
+       Years PartyPresident PartyHouse PartySenate DepVar         pHat
+18 2011-2012              D          R           D Better 1.170226e-09
+19 2013-2014              D          R           D Better 1.170226e-09
+11 1997-1998              D          R           R Better 1.170226e-09
+12 1999-2000              D          R           R Better 1.170226e-09
+20 2015-2016              D          R           R Better 1.170226e-09
+14 2003-2004              R          R           R  Worse 3.333333e-01
+15 2005-2006              R          R           R Better 3.333333e-01
+21 2017-2018              R          R           R Better 3.333333e-01
+17 2009-2010              D          D           D  Worse 5.000000e-01
+23 2021-2022              D          D           D Better 5.000000e-01
+13 2001-2002              R          R           D  Worse 1.000000e+00
+16 2007-2008              R          D           D  Worse 1.000000e+00
+22 2019-2020              R          D           R  Worse 1.000000e+00
 
 * VFINXIndic being predicted:
   - Interactions included: TRUE
@@ -322,29 +322,29 @@ Number of Fisher Scoring iterations: 15
 
 
   - Prediction results: p ~ 0.239867
-   DepVar      pHat
-3   Worse 0.5000000
-4   Worse 0.5000000
-5  Better 0.5000000
-22 Better 0.5000000
-18  Worse 0.5000000
-19 Better 0.5000000
-10 Better 0.5000000
-11 Better 0.5000000
-12  Worse 0.5000000
-20  Worse 0.5000000
-14 Better 0.6666667
-15  Worse 0.6666667
-21  Worse 0.6666667
-6   Worse 0.7500000
-7   Worse 0.7500000
-8  Better 0.7500000
-16  Worse 0.7500000
-2   Worse 0.7500000
-9   Worse 0.7500000
-17 Better 0.7500000
-23  Worse 0.7500000
-13  Worse 0.9999999
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+3  1981-1982              R          D           R  Worse 0.5000000
+4  1983-1984              R          D           R  Worse 0.5000000
+5  1985-1986              R          D           R Better 0.5000000
+22 2019-2020              R          D           R Better 0.5000000
+18 2011-2012              D          R           D  Worse 0.5000000
+19 2013-2014              D          R           D Better 0.5000000
+10 1995-1996              D          R           R Better 0.5000000
+11 1997-1998              D          R           R Better 0.5000000
+12 1999-2000              D          R           R  Worse 0.5000000
+20 2015-2016              D          R           R  Worse 0.5000000
+14 2003-2004              R          R           R Better 0.6666667
+15 2005-2006              R          R           R  Worse 0.6666667
+21 2017-2018              R          R           R  Worse 0.6666667
+6  1987-1988              R          D           D  Worse 0.7500000
+7  1989-1990              R          D           D  Worse 0.7500000
+8  1991-1992              R          D           D Better 0.7500000
+16 2007-2008              R          D           D  Worse 0.7500000
+2  1979-1980              D          D           D  Worse 0.7500000
+9  1993-1994              D          D           D  Worse 0.7500000
+17 2009-2010              D          D           D Better 0.7500000
+23 2021-2022              D          D           D  Worse 0.7500000
+13 2001-2002              R          R           D  Worse 0.9999999
 
 * VTSMXIndic being predicted:
   - Interactions included: TRUE
@@ -373,22 +373,22 @@ Number of Fisher Scoring iterations: 17
 
 
   - Prediction results: p ~ 0.150198
-   DepVar         pHat
-22 Better 8.646869e-09
-10 Better 5.000000e-01
-11 Better 5.000000e-01
-12  Worse 5.000000e-01
-20  Worse 5.000000e-01
-18  Worse 5.000000e-01
-19 Better 5.000000e-01
-9   Worse 6.666667e-01
-17 Better 6.666667e-01
-23  Worse 6.666667e-01
-14 Better 6.666667e-01
-15  Worse 6.666667e-01
-21  Worse 6.666667e-01
-16  Worse 1.000000e+00
-13  Worse 1.000000e+00
+       Years PartyPresident PartyHouse PartySenate DepVar         pHat
+22 2019-2020              R          D           R Better 8.646869e-09
+10 1995-1996              D          R           R Better 5.000000e-01
+11 1997-1998              D          R           R Better 5.000000e-01
+12 1999-2000              D          R           R  Worse 5.000000e-01
+20 2015-2016              D          R           R  Worse 5.000000e-01
+18 2011-2012              D          R           D  Worse 5.000000e-01
+19 2013-2014              D          R           D Better 5.000000e-01
+9  1993-1994              D          D           D  Worse 6.666667e-01
+17 2009-2010              D          D           D Better 6.666667e-01
+23 2021-2022              D          D           D  Worse 6.666667e-01
+14 2003-2004              R          R           R Better 6.666667e-01
+15 2005-2006              R          R           R  Worse 6.666667e-01
+21 2017-2018              R          R           R  Worse 6.666667e-01
+16 2007-2008              R          D           D  Worse 1.000000e+00
+13 2001-2002              R          R           D  Worse 1.000000e+00
 
 * Regression Akaike Information Criterion and Mann-Whitney rank p-values:
           DepVar      AIC           p
@@ -422,29 +422,29 @@ Number of Fisher Scoring iterations: 4
 
 
   - Prediction results: p ~ 0.101755
-   DepVar      pHat
-3  Better 0.1350702
-4  Better 0.1350702
-5  Better 0.1350702
-22  Worse 0.1350702
-2  Better 0.3834201
-9  Better 0.3834201
-17  Worse 0.3834201
-23 Better 0.3834201
-10  Worse 0.4514185
-11 Better 0.4514185
-12 Better 0.4514185
-20  Worse 0.4514185
-6  Better 0.4815097
-7  Better 0.4815097
-8   Worse 0.4815097
-16  Worse 0.4815097
-14 Better 0.5513484
-15 Better 0.5513484
-21  Worse 0.5513484
-18  Worse 0.8303229
-19  Worse 0.8303229
-13  Worse 0.8796351
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+3  1981-1982              R          D           R Better 0.1350702
+4  1983-1984              R          D           R Better 0.1350702
+5  1985-1986              R          D           R Better 0.1350702
+22 2019-2020              R          D           R  Worse 0.1350702
+2  1979-1980              D          D           D Better 0.3834201
+9  1993-1994              D          D           D Better 0.3834201
+17 2009-2010              D          D           D  Worse 0.3834201
+23 2021-2022              D          D           D Better 0.3834201
+10 1995-1996              D          R           R  Worse 0.4514185
+11 1997-1998              D          R           R Better 0.4514185
+12 1999-2000              D          R           R Better 0.4514185
+20 2015-2016              D          R           R  Worse 0.4514185
+6  1987-1988              R          D           D Better 0.4815097
+7  1989-1990              R          D           D Better 0.4815097
+8  1991-1992              R          D           D  Worse 0.4815097
+16 2007-2008              R          D           D  Worse 0.4815097
+14 2003-2004              R          R           R Better 0.5513484
+15 2005-2006              R          R           R Better 0.5513484
+21 2017-2018              R          R           R  Worse 0.5513484
+18 2011-2012              D          R           D  Worse 0.8303229
+19 2013-2014              D          R           D  Worse 0.8303229
+13 2001-2002              R          R           D  Worse 0.8796351
 
 * InflationIndic being predicted:
   - Interactions included: FALSE
@@ -471,30 +471,30 @@ Number of Fisher Scoring iterations: 5
 
 
   - Prediction results: p ~ 0.00282021
-   DepVar       pHat
-10 Better 0.01590559
-11 Better 0.01590559
-12 Better 0.01590559
-20 Better 0.01590559
-18 Better 0.08224747
-19 Better 0.08224747
-14 Better 0.11650654
-15  Worse 0.11650654
-21 Better 0.11650654
-13 Better 0.42236310
-1   Worse 0.55437654
-2   Worse 0.55437654
-9  Better 0.55437654
-17 Better 0.55437654
-23  Worse 0.55437654
-3   Worse 0.64671451
-4   Worse 0.64671451
-5  Better 0.64671451
-22 Better 0.64671451
-6   Worse 0.91031481
-7   Worse 0.91031481
-8   Worse 0.91031481
-16  Worse 0.91031481
+       Years PartyPresident PartyHouse PartySenate DepVar       pHat
+10 1995-1996              D          R           R Better 0.01590559
+11 1997-1998              D          R           R Better 0.01590559
+12 1999-2000              D          R           R Better 0.01590559
+20 2015-2016              D          R           R Better 0.01590559
+18 2011-2012              D          R           D Better 0.08224747
+19 2013-2014              D          R           D Better 0.08224747
+14 2003-2004              R          R           R Better 0.11650654
+15 2005-2006              R          R           R  Worse 0.11650654
+21 2017-2018              R          R           R Better 0.11650654
+13 2001-2002              R          R           D Better 0.42236310
+1  1977-1978              D          D           D  Worse 0.55437654
+2  1979-1980              D          D           D  Worse 0.55437654
+9  1993-1994              D          D           D Better 0.55437654
+17 2009-2010              D          D           D Better 0.55437654
+23 2021-2022              D          D           D  Worse 0.55437654
+3  1981-1982              R          D           R  Worse 0.64671451
+4  1983-1984              R          D           R  Worse 0.64671451
+5  1985-1986              R          D           R Better 0.64671451
+22 2019-2020              R          D           R Better 0.64671451
+6  1987-1988              R          D           D  Worse 0.91031481
+7  1989-1990              R          D           D  Worse 0.91031481
+8  1991-1992              R          D           D  Worse 0.91031481
+16 2007-2008              R          D           D  Worse 0.91031481
 
 * LFPRIndic being predicted:
   - Interactions included: FALSE
@@ -521,29 +521,29 @@ Number of Fisher Scoring iterations: 4
 
 
   - Prediction results: p ~ 0.0569657
-   DepVar      pHat
-3  Better 0.1305365
-4  Better 0.1305365
-5  Better 0.1305365
-22  Worse 0.1305365
-10 Better 0.3198857
-11 Better 0.3198857
-12 Better 0.3198857
-20  Worse 0.3198857
-14  Worse 0.3994370
-15 Better 0.3994370
-21 Better 0.3994370
-2  Better 0.5171502
-9  Better 0.5171502
-17  Worse 0.5171502
-23  Worse 0.5171502
-6  Better 0.6023133
-7  Better 0.6023133
-8   Worse 0.6023133
-16  Worse 0.6023133
-18  Worse 0.8259281
-19  Worse 0.8259281
-13  Worse 0.8702899
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+3  1981-1982              R          D           R Better 0.1305365
+4  1983-1984              R          D           R Better 0.1305365
+5  1985-1986              R          D           R Better 0.1305365
+22 2019-2020              R          D           R  Worse 0.1305365
+10 1995-1996              D          R           R Better 0.3198857
+11 1997-1998              D          R           R Better 0.3198857
+12 1999-2000              D          R           R Better 0.3198857
+20 2015-2016              D          R           R  Worse 0.3198857
+14 2003-2004              R          R           R  Worse 0.3994370
+15 2005-2006              R          R           R Better 0.3994370
+21 2017-2018              R          R           R Better 0.3994370
+2  1979-1980              D          D           D Better 0.5171502
+9  1993-1994              D          D           D Better 0.5171502
+17 2009-2010              D          D           D  Worse 0.5171502
+23 2021-2022              D          D           D  Worse 0.5171502
+6  1987-1988              R          D           D Better 0.6023133
+7  1989-1990              R          D           D Better 0.6023133
+8  1991-1992              R          D           D  Worse 0.6023133
+16 2007-2008              R          D           D  Worse 0.6023133
+18 2011-2012              D          R           D  Worse 0.8259281
+19 2013-2014              D          R           D  Worse 0.8259281
+13 2001-2002              R          R           D  Worse 0.8702899
 
 * U6Indic being predicted:
   - Interactions included: FALSE
@@ -568,20 +568,20 @@ Number of Fisher Scoring iterations: 20
 
 
   - Prediction results: p ~ 0.011621
-   DepVar         pHat
-11 Better 2.220446e-16
-12 Better 2.220446e-16
-20 Better 2.220446e-16
-18 Better 1.018808e-09
-19 Better 1.018808e-09
-14  Worse 3.333333e-01
-15 Better 3.333333e-01
-21 Better 3.333333e-01
-17  Worse 5.000000e-01
-23 Better 5.000000e-01
-13  Worse 1.000000e+00
-22  Worse 1.000000e+00
-16  Worse 1.000000e+00
+       Years PartyPresident PartyHouse PartySenate DepVar         pHat
+11 1997-1998              D          R           R Better 2.220446e-16
+12 1999-2000              D          R           R Better 2.220446e-16
+20 2015-2016              D          R           R Better 2.220446e-16
+18 2011-2012              D          R           D Better 1.018808e-09
+19 2013-2014              D          R           D Better 1.018808e-09
+14 2003-2004              R          R           R  Worse 3.333333e-01
+15 2005-2006              R          R           R Better 3.333333e-01
+21 2017-2018              R          R           R Better 3.333333e-01
+17 2009-2010              D          D           D  Worse 5.000000e-01
+23 2021-2022              D          D           D Better 5.000000e-01
+13 2001-2002              R          R           D  Worse 1.000000e+00
+22 2019-2020              R          D           R  Worse 1.000000e+00
+16 2007-2008              R          D           D  Worse 1.000000e+00
 
 * VFINXIndic being predicted:
   - Interactions included: FALSE
@@ -606,29 +606,29 @@ Number of Fisher Scoring iterations: 4
 
 
   - Prediction results: p ~ 0.33309
-   DepVar      pHat
-10 Better 0.4786013
-11 Better 0.4786013
-12  Worse 0.4786013
-20  Worse 0.4786013
-3   Worse 0.5599451
-4   Worse 0.5599451
-5  Better 0.5599451
-22 Better 0.5599451
-14 Better 0.6152715
-15  Worse 0.6152715
-21  Worse 0.6152715
-2   Worse 0.6646331
-9   Worse 0.6646331
-17 Better 0.6646331
-23  Worse 0.6646331
-18  Worse 0.7135312
-19 Better 0.7135312
-6   Worse 0.7754218
-7   Worse 0.7754218
-8  Better 0.7754218
-16  Worse 0.7754218
-13  Worse 0.8127181
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+10 1995-1996              D          R           R Better 0.4786013
+11 1997-1998              D          R           R Better 0.4786013
+12 1999-2000              D          R           R  Worse 0.4786013
+20 2015-2016              D          R           R  Worse 0.4786013
+3  1981-1982              R          D           R  Worse 0.5599451
+4  1983-1984              R          D           R  Worse 0.5599451
+5  1985-1986              R          D           R Better 0.5599451
+22 2019-2020              R          D           R Better 0.5599451
+14 2003-2004              R          R           R Better 0.6152715
+15 2005-2006              R          R           R  Worse 0.6152715
+21 2017-2018              R          R           R  Worse 0.6152715
+2  1979-1980              D          D           D  Worse 0.6646331
+9  1993-1994              D          D           D  Worse 0.6646331
+17 2009-2010              D          D           D Better 0.6646331
+23 2021-2022              D          D           D  Worse 0.6646331
+18 2011-2012              D          R           D  Worse 0.7135312
+19 2013-2014              D          R           D Better 0.7135312
+6  1987-1988              R          D           D  Worse 0.7754218
+7  1989-1990              R          D           D  Worse 0.7754218
+8  1991-1992              R          D           D Better 0.7754218
+16 2007-2008              R          D           D  Worse 0.7754218
+13 2001-2002              R          R           D  Worse 0.8127181
 
 * VTSMXIndic being predicted:
   - Interactions included: FALSE
@@ -653,22 +653,22 @@ Number of Fisher Scoring iterations: 4
 
 
   - Prediction results: p ~ 0.337447
-   DepVar      pHat
-10 Better 0.4175382
-11 Better 0.4175382
-12  Worse 0.4175382
-20  Worse 0.4175382
-22 Better 0.4311006
-9   Worse 0.5962057
-17 Better 0.5962057
-23  Worse 0.5962057
-14 Better 0.6329155
-15  Worse 0.6329155
-21  Worse 0.6329155
-18  Worse 0.7706150
-19 Better 0.7706150
-16  Worse 0.7802823
-13  Worse 0.8898706
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+10 1995-1996              D          R           R Better 0.4175382
+11 1997-1998              D          R           R Better 0.4175382
+12 1999-2000              D          R           R  Worse 0.4175382
+20 2015-2016              D          R           R  Worse 0.4175382
+22 2019-2020              R          D           R Better 0.4311006
+9  1993-1994              D          D           D  Worse 0.5962057
+17 2009-2010              D          D           D Better 0.5962057
+23 2021-2022              D          D           D  Worse 0.5962057
+14 2003-2004              R          R           R Better 0.6329155
+15 2005-2006              R          R           R  Worse 0.6329155
+21 2017-2018              R          R           R  Worse 0.6329155
+18 2011-2012              D          R           D  Worse 0.7706150
+19 2013-2014              D          R           D Better 0.7706150
+16 2007-2008              R          D           D  Worse 0.7802823
+13 2001-2002              R          R           D  Worse 0.8898706
 
 * Regression Akaike Information Criterion and Mann-Whitney rank p-values:
           DepVar      AIC           p
@@ -679,4 +679,4 @@ Number of Fisher Scoring iterations: 4
 5     VFINXIndic 35.74819 0.333089723
 6     VTSMXIndic 26.69536 0.337446932
 
-* Parties vs Econ completed Thu Oct 31 14:28:15 2024 (0.9 sec elapsed).
+* Parties vs Econ completed Sun Nov 03 10:37:56 2024 (1.4 sec elapsed).

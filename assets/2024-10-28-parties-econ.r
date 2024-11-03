@@ -305,7 +305,7 @@ doit <- function(## Inputs
 
     tbl <- ddply(depVars, "DepVar", function(depVar) { # Predict each dependent variable in turn
       depVar  <- as.character(depVar)                  #
-      foo     <- subset(partyEconDataConsolidated, select = c(indepVars, depVar))
+      foo     <- subset(partyEconDataConsolidated, select = c(indepVars, depVar, "Years"))
       foo     <- subset(foo, subset = complete.cases(foo)) # *** Normally bad; here pure function of time
       formula <- as.formula(sprintf("%s ~ %s", depVar, rhs))
       mdl     <- glm(formula, family = binomial(link = logit), data = foo)
@@ -316,8 +316,12 @@ doit <- function(## Inputs
 
       ## For each dependent variable, predict probability of "Worse".
       ## Report as (sorta) strength the Mann-Whitney rank test p-value for separating Better/Worse
-      results <- data.frame(DepVar = foo[, depVar],    # Predict, get Mann-Whitney p-value
-                            pHat   = predict.glm(mdl, newdata = foo, type = "response"))
+      results <- data.frame(Years          = foo[, "Years"],
+                            PartyPresident = foo[, "PartyPresident"],
+                            PartyHouse     = foo[, "PartyHouse"],
+                            PartySenate    = foo[, "PartySenate"],
+                            DepVar         = foo[, depVar],
+                            pHat           = predict.glm(mdl, newdata = foo, type = "response"))
       tst <- wilcox.test(as.formula(pHat ~ DepVar), data = results, exact = FALSE) # ties!
       cat(sprintf("\n  - Prediction results: p ~ %g\n", tst$"p.value"))
       print(results[order(results$"pHat"), ])          # Sort on prediction value pHat
