@@ -409,20 +409,20 @@ When we run the fitted model on the training data (!) it assigns a probability o
 each congressional term like this:  
 
 ```
-       U6         pHat
-11 Better 2.220446e-16
-12 Better 2.220446e-16
-20 Better 2.220446e-16
-18 Better 1.018808e-09
-19 Better 1.018808e-09
-14  Worse 3.333333e-01
-15 Better 3.333333e-01
-21 Better 3.333333e-01
-17  Worse 5.000000e-01
-23 Better 5.000000e-01
-13  Worse 1.000000e+00
-22  Worse 1.000000e+00
-16  Worse 1.000000e+00
+       Years PartyPresident PartyHouse PartySenate DepVar         pHat
+11 1997-1998              D          R           R Better 2.220446e-16
+12 1999-2000              D          R           R Better 2.220446e-16
+20 2015-2016              D          R           R Better 2.220446e-16
+18 2011-2012              D          R           D Better 1.018808e-09
+19 2013-2014              D          R           D Better 1.018808e-09
+14 2003-2004              R          R           R  Worse 3.333333e-01
+15 2005-2006              R          R           R Better 3.333333e-01
+21 2017-2018              R          R           R Better 3.333333e-01
+17 2009-2010              D          D           D  Worse 5.000000e-01
+23 2021-2022              D          D           D Better 5.000000e-01
+13 2001-2002              R          R           D  Worse 1.000000e+00
+22 2019-2020              R          D           R  Worse 1.000000e+00
+16 2007-2008              R          D           D  Worse 1.000000e+00
 ```
 
 Note that the "Better" out comes are enriched at the top of the list with tiny
