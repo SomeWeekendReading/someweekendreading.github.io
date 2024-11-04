@@ -767,6 +767,8 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "The true and best way of learning any Art, is not to see a great many Examples done by another Person, but to possess ones self first of the Principles of it, and then to make them familiar, by exercising ones self in the Practice. For it is Practice alone, that makes a Man perfect in any thing." &ndash; [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) (18 August 1685 – 29 December 1731), [_New Principles of Linear Perspective_](https://archive.ph/20160411100727/http://sapienzadigitallibrary.uniroma1.it/identifier/RMSSA_00000061) (1715, 1749).  Just so you'll take him seriously: he invented Taylor series.  
 
+"In so far as a scientific statement speaks about reality, it must be falsifiable; and in so far as it is not falsifiable, it does not speak about reality." &ndash; [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper), [_The Logic of Scientific Discovery_](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), 1959.  
+
 
 ## The Statistical Ones  
 
