@@ -4,7 +4,8 @@
   font-style: normal;
   font-weight: 400;
 /*  src: url(https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0NjbrHg.woff2) format('woff2'); */
-  src: url({{ site.baseurl }}/assets/Material_Icons,Material_Icons_Outlined,Material_Icons_Round,Material_Icons_Sharp,Material_Icons_Two_Tone/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf) format('otf');
+  /* {{ site.baseurl }} wasn't getting expanded? */
+  src: url(https://www.someweekendreading.blog/assets/Material_Icons,Material_Icons_Outlined,Material_Icons_Round,Material_Icons_Sharp,Material_Icons_Two_Tone/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf) format('otf');
 }
 body {
   --google-font-color-materialiconstwotone:none;
