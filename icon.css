@@ -8,7 +8,7 @@
   /* Downloaded original .woff2 file from above and renamed it. Works Firefox & Safari, NOT Chrome?! */
   /* Took off  format('woff2'); but that didn't help.  Still doesn't work in Chrome.  */
   /* Works in iPad/iPhone Chrome, but not desktop Chrome? */
-  src: url('assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.woff2') format('woff2');
+  src: url('/assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.woff2') format('woff2');
 }
 body {
   --google-font-color-materialiconstwotone:none;
