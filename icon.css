@@ -8,7 +8,8 @@
   /* https://www.someweekendreading.blog doesn't work in all browsers, either? */
   /* adding double quotes or single quotes didn't help. */
   /* Relative URL, relative to this .css file, not the page that referenced it doesn't work either. */
-  src: url('/assets/Material_Icons,Material_Icons_Outlined,Material_Icons_Round,Material_Icons_Sharp,Material_Icons_Two_Tone/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf') format('otf');
+  /* Doesn't work with leading / either. */
+  src: url('/assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf') format('otf');
 }
 body {
   --google-font-color-materialiconstwotone:none;
