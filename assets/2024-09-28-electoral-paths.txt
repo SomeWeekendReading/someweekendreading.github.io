@@ -1,0 +1,54 @@
+
+* Electoral Paths and Powersets on Sun Nov 03 10:44:28 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-09-28-electoral-paths.txt
+
+Building swing state subset data:
+---------------------------------
+
+* Making basic powerset list
+  - Found the 7 states have 128 subsets, as expected.
+
+* Making dataframe
+  - Found 128 rows, as expected:
+    Name Card ECVotes FormulaName ImmedSubsets
+121 None    0       0        None         <NA>
+122   NV    1       6          NV         None
+128   WI    1      10          WI         None
+1     AZ    1      11          AZ         None
+97    MI    1      15          MI         None
+65    GA    1      16          GA         None
+...
+                   Name Card ECVotes    FormulaName
+38    AZ,MI,NC,NV,PA,WI    6      77   AZMINCNVPAWI
+22    AZ,GA,NC,NV,PA,WI    6      78   AZGANCNVPAWI
+70    GA,MI,NC,NV,PA,WI    6      82   GAMINCNVPAWI
+6     AZ,GA,MI,NC,NV,PA    6      83   AZGAMINCNVPA
+10    AZ,GA,MI,NC,PA,WI    6      87   AZGAMINCPAWI
+7  AZ,GA,MI,NC,NV,PA,WI    7      93 AZGAMINCNVPAWI
+                                                                                 ImmedSubsets
+38                          AZMINCNVPA,AZMINCNVWI,AZMINCPAWI,AZMINVPAWI,AZNCNVPAWI,MINCNVPAWI
+22                          AZGANCNVPA,AZGANCNVWI,AZGANCPAWI,AZGANVPAWI,AZNCNVPAWI,GANCNVPAWI
+70                          GAMINCNVPA,GAMINCNVWI,GAMINCPAWI,GAMINVPAWI,GANCNVPAWI,MINCNVPAWI
+6                           AZGAMINCNV,AZGAMINCPA,AZGAMINVPA,AZGANCNVPA,AZMINCNVPA,GAMINCNVPA
+10                          AZGAMINCPA,AZGAMINCWI,AZGAMIPAWI,AZGANCPAWI,AZMINCPAWI,GAMINCPAWI
+7  AZGAMINCNVPA,AZGAMINCNVWI,AZGAMINCPAWI,AZGAMINVPAWI,AZGANCNVPAWI,AZMINCNVPAWI,GAMINCNVPAWI
+
+  - Frequencies of subset cardinalities:
+ 0  1  2  3  4  5  6  7 
+ 1  7 21 35 35 21  7  1 
+    o Barplot of frequencies to ./2024-09-28-electoral-paths-barplot.png  - Saved to ./2024-09-28-electoral-paths.tsv
+
+Building DAG:
+-------------
+
+* Making powerset DAG of swing states, starting with 0 EC votes.
+Plotting DAGs:
+--------------
+
+
+* Plotting dag to ./2024-09-28-electoral-paths-1.png
+* Plotting dag to ./2024-09-28-electoral-paths-2.png
+* Plotting dag to ./2024-09-28-electoral-paths-3.png
+* Electoral Paths and Powersets completed Sun Nov 03 10:44:29 2024 (1.2 sec elapsed).
