@@ -6,7 +6,7 @@
 /*  src: url(https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0NjbrHg.woff2) format('woff2'); */
   /* Relative URL, relative to THIS CSS FILE. */
   /* Downloaded original .woff2 file from above and renamed it. Works Firefox & Safari, NOT Chrome. */
-  src: url(assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.woff2) format('woff2');
+  src: url('assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.woff2') format('woff2');
 }
 body {
   --google-font-color-materialiconstwotone:none;
