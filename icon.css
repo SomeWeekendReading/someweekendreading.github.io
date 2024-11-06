@@ -6,7 +6,9 @@
 /*  src: url(https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0NjbrHg.woff2) format('woff2'); */
   /* {{ site.baseurl }} wasn't getting expanded? */
   /* https://www.someweekendreading.blog doesn't work in all browsers, either? */
-  src: url('{{ site.baseurl }}/assets/Material_Icons,Material_Icons_Outlined,Material_Icons_Round,Material_Icons_Sharp,Material_Icons_Two_Tone/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf') format('otf');
+  /* adding double quotes or single quotes didn't help. */
+  /* Try relative URL, relative to this .css file, not the page that referenced it. */
+  src: url('assets/Material_Icons,Material_Icons_Outlined,Material_Icons_Round,Material_Icons_Sharp,Material_Icons_Two_Tone/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf') format('otf');
 }
 body {
   --google-font-color-materialiconstwotone:none;
