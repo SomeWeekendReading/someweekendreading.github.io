@@ -8,7 +8,7 @@
   /* https://stackoverflow.com/questions/68522755/opentypefont-not-displayed-on-firefox-and-safari */
   /* Have to use 'opentype' instead of 'otf'. */
   /* Working everywhere BUT Chrome; suggestion is to remove format('opentype') */
-  src: url("/assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf");
+  src: url("assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf");
 }
 body {
   --google-font-color-materialiconstwotone:none;
