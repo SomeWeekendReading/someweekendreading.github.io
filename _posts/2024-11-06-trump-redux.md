@@ -22,6 +22,7 @@ don't know how to gather the energy to live through this.
 > Her hardest hue to hold.  
 > Her early leaf’s a flower;  
 > But only so an hour.  
+>  
 > Then leaf subsides to leaf.  
 > So Eden sank to grief,  
 > So dawn goes down to day.  
