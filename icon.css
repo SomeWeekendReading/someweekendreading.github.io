@@ -10,8 +10,8 @@
   /* Working everywhere BUT Chrome; suggestion is to remove format('opentype') */
   /* Tried converting .otf to .woff2 via https://cloudconvert.com/otf-to-woff2 */
   /* But THAT removes the gray fill? */
-  src: url(assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.woff2) format('woff2');
-  /* src: url("assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.otf"); */
+  /* Downloaded original .woff2 file from above and renamed it. Works Firefox & Safari, not Chrome. */
+  src: url(assets/Material_Icons/Material_Icons_Two_Tone/MaterialIconsTwoTone-Regular.woff2);
 }
 body {
   --google-font-color-materialiconstwotone:none;
