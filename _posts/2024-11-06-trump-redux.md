@@ -36,7 +36,6 @@ As [EB White](https://en.wikipedia.org/wiki/E._B._White) wrote in an essay in
 > Democracy is the recurrent suspicion that more than half of the people are right more
 > than half of the time.  
 
-This is the other half of the time.  Half of us are proudly ignorant and venomously
-racist.  
+This is the _other_ half of the time: half of us are proudly ignorant and venomously racist.  
 
 I don't quite see, yet, how the rest of us can survive that.  
