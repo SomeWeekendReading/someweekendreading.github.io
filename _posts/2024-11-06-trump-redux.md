@@ -28,3 +28,15 @@ don't know how to gather the energy to live through this.
 > So dawn goes down to day.  
 > Nothing gold can stay.  
 >  &mdash; [Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost), ["Nothing Gold Can Stay"](https://poets.org/poem/nothing-gold-can-stay)  
+
+As [EB White](https://en.wikipedia.org/wiki/E._B._White) wrote in an essay in
+[_The New Yorker_](https://www.newyorker.com/) on 1944-Jul-03 (later collected into
+[_On Democracy_](https://www.harpercollins.com/products/on-democracy-e-b-white) in 1947):  
+
+> Democracy is the recurrent suspicion that more than half of the people are right more
+> than half of the time.  
+
+This is the other half of the time.  Half of us are proudly ignorant and venomously
+racist.  
+
+I don't quite see, yet, how the rest of us can survive that.  
