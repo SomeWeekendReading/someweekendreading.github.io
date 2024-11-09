@@ -113,7 +113,8 @@ $b = \Pr(B|A)$, and $b' = \Pr(B|\neg A)$.  The previous equation becomes:
 $$
 a = \frac{ba}{ba + b'(1-a)}
 $$
-<!-- 
+
+n<!-- 
   a(ba + b'(1-a))          &= ba \\
   ba^2 + b'a - b'a^2 - ba  &= 0  \\
   (b - b')a^2 + (b' - b)a  &= 0  \\
@@ -122,7 +123,7 @@ $$
 which, after a moment's thought, can be rearranged as:  
 
 $$
-  (b - b')a(a-1) &= 0
+(b - b')a(a-1) = 0
 $$
 
 So for a solution, either:
