@@ -80,9 +80,9 @@ $$
 \end{align*}
 $$
 
-That is, there is no change in your belief about $A$; you still think it's
-impossible! <sup id="fn3a">[[3]](#fn3)</sup>  You have absolutely failed to learn a single
-thing from the new evidence $B$.  
+That is, there is no change in your belief about $A$; you still think it's impossible!
+You have absolutely failed to learn a single thing from the new evidence $B$.  (__NB:__ If
+also $\Pr(B | \neg A) = 0$, then we have a 0/0 problem.  I wonder what that's all about?)  
 
 Of course, the same sort of thing happens if you flip the sign on $A$, believing it
 absolutely certain: $\Pr(A) = 1$, then $\Pr(\neg A) = 0$ and we get the same intransigent
@@ -185,5 +185,3 @@ Okay, maybe set theory?  Nope, [Russell's Paradox](https://en.wikipedia.org/wiki
 Foundations are best approached cautiously, and seldom by amateurs.  [↩](#fn1a)  
 
 <a id="fn2">2</a>: R Altemeyer, [_The Authoritarians_](https://theauthoritarians.org/), 2006. __NB:__ This book, as well as much supplementary material, is available on Altemeyer's web site, as well as in print form. [↩](#fn2a)  
-
-<a id="fn3">3</a>: __NB:__ if $\Pr(B|\neg A) = 0$ also, then we have a 0/0 problem.  I wonder what that's all about? [↩](#fn3a)  
