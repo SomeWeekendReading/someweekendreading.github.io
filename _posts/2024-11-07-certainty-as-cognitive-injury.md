@@ -100,23 +100,29 @@ learning anything further from experience.
 
 Now let's see if there are any _other_ fixpoints to Bayes Rule. Without loss of
 generality, concentrate on $\Pr(A)$ over $\Pr(\neg A) = 1 - \Pr(A)$.  A fixpoint is when
-$\Pr(A|B) = \Pr(A)$, i.e., evidence B won't budge you.  ("Nobody likes an un-budger", as Buffy
+$\Pr(A) = \Pr(A|B)$, i.e., evidence B won't budge you.  ("Nobody likes an un-budger", as Buffy
 used to say.)  
 
 $$
-\Pr(A) = \frac{\Pr(B|A)\cdot \Pr(A)}{\Pr(B|A)\cdot\Pr(A) + \Pr(B|\neg A)\cdot(1 - \Pr(A))}
+\Pr(A) = \Pr(A|B) = \frac{\Pr(B|A)\cdot \Pr(A)}{\Pr(B|A)\cdot\Pr(A) + \Pr(B|\neg A)\cdot\Pr(\neg A)}
 $$
 
 Let's investigate that equation in a slightly more compact notation.  Let $a = \Pr(A)$,
 $b = \Pr(B|A)$, and $b' = \Pr(B|\neg A)$.  The previous equation becomes:  
 
 $$
-\begin{align*}
-  a(ba + b'(1-a)) &= ba \\
-  ba^2 + b'a - ba - b'a^2 &= 0 \\
-  (b - b')a^2 + (b' - b)  a &= 0 \\
+a = \frac{ba}{ba + b'(1-a)}
+$$
+<!-- 
+  a(ba + b'(1-a))          &= ba \\
+  ba^2 + b'a - b'a^2 - ba  &= 0  \\
+  (b - b')a^2 + (b' - b)a  &= 0  \\
+-->
+
+which, after a moment's thought, can be rearranged as:  
+
+$$
   (b - b')a(a-1) &= 0
-\end{align*}
 $$
 
 So for a solution, either:
