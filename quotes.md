@@ -1198,7 +1198,7 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 - "A witty saying proves nothing."  (To which your Weekend Editor adds: including this one.)  
 - "Dans ce pays-ci, il est bon de tuer de temps en temps un amiral pour encourager les autres."  (In this country, it is good to kill an admiral from time to time, to encourage the others.)  
 - "If there were only one religion in England there would be danger of despotism; if there were two they would cut each other's throats. But there are thirty, and they live in peace and happiness."  
-- "Those who can make you believe absurdities can make you commit atrocities."  
+- "Those who can make you believe absurdities can make you commit atrocities."  (A loose translation from the original, in _Questions sur les miracles_, 1765: "Certainement qui est en droit de vous rendre absurde est en droit de vous rendre injuste.")  
 - "Every man is guilty of the good he didn't do."  
 - "What is tolerance?  It is the consequence of humanity.  We are all formed of frailty and error; let us pardon reciprocally each other's folly &ndash; that is the first law of nature."  
 - "Think for yourselves and let others enjoy the privilege to do so too."  
