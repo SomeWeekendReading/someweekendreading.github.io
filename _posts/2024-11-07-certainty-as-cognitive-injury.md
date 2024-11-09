@@ -186,4 +186,4 @@ Foundations are best approached cautiously, and seldom by amateurs.  [↩](#fn1a
 
 <a id="fn2">2</a>: R Altemeyer, [_The Authoritarians_](https://theauthoritarians.org/), 2006. __NB:__ This book, as well as much supplementary material, is available on Altemeyer's web site, as well as in print form. [↩](#fn2a)  
 
-<a id="fn3">3</a>: __NB:__ if $\Pr(B|\neg A) = 0$ also, then we have a 0/0 problem.  What's that all about? [↩](#fn3a)  
+<a id="fn3">3</a>: __NB:__ if $\Pr(B|\neg A) = 0$ also, then we have a 0/0 problem.  I wonder what that's all about? [↩](#fn3a)  
