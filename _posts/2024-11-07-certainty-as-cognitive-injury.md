@@ -89,7 +89,7 @@ absolutely certain: $\Pr(A) = 1$, then $\Pr(\neg A) = 0$ and we get the same int
 refusal to budge from your prior on $A$:
 
 $$
-Pr(A|B) = Pr(B|A) / (Pr(B|A) + 0) = 1
+\Pr(A|B) = \Pr(B|A) / (\Pr(B|A) + 0) = 1
 $$
 
 So 0 and 1 are Bayesian fixpoints!  If you start out absolutely certain, then _no amount of
@@ -144,15 +144,16 @@ you are absolutely incapable of further learning about it.
 Being _absolutely certain_ about something means you can never, ever hope to learn from
 new evidence on that topic.  
 
-That sounds to me like a _bad_ idea.  
+I'm gonna go out on a limb here, and say: that sounds to me like a _bad_ idea.  
 
-I will, however, make an exception for some things.  For example, the Assistant Weekend
+I will, however, make exceptions for some things!  For example, the Assistant Weekend
 Publisher, shown here, is _absolutely certain_ that he is safe and loved in the arms of
 the Weekend Editrix.  
 
 I will happily go along with _that._  
 
-Some things, after all, are holy.  I'm just very choosy about _which_ things.  
+Some things, after all, are sacred.  I'm just very choosy about _which_ things are allowed
+into that category.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
