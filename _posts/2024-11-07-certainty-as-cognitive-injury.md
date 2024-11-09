@@ -150,7 +150,8 @@ I will, however, make exceptions for some things!  For example, the Assistant We
 Publisher, shown here, is _absolutely certain_ that he is safe and loved in the arms of
 the Weekend Editrix.  
 
-I will happily go along with _that._  
+I will happily go along with _that._  (Though, I admit, he is a _cat._  The feline
+standards of rationality are allowed to be different from those for humans.)  
 
 Some things, after all, are sacred.  I'm just very choosy about _which_ things are allowed
 into that category.  
