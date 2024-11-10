@@ -118,7 +118,7 @@ from [Paris 1780-May-12](https://www.masshist.org/digitaladams/archive/doc?id=L1
 
 "Those who seek power are not worthy to hold it." &mdash; [Plato](https://en.wikipedia.org/wiki/Plato), though more of a 'folk quotation' than a real one.  The general sentiment is expressed with different wording in [_Republic_](https://en.wikipedia.org/wiki/Republic_(Plato)) I 347B-E.  
 
-"One of the penatlies for refusing to paricipate in politics is that you end up being governed by your inferiors." &ndash; [Plato](https://en.wikipedia.org/wiki/Plato), [_Republic_](https://en.wikipedia.org/wiki/Republic_(Plato)), Book 1, 347c.  
+"One of the penalties for refusing to paricipate in politics is that you end up being governed by your inferiors." &ndash; [Plato](https://en.wikipedia.org/wiki/Plato), [_Republic_](https://en.wikipedia.org/wiki/Republic_(Plato)), Book 1, 347c.  
 
 "A little patience, and we shall see the reign of witches pass over, their spells
 dissolve, and the people, recovering their true sight, restore their government to its
