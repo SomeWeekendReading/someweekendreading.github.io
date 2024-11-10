@@ -29,6 +29,12 @@ don't know how to gather the energy to live through this.
 > Nothing gold can stay.  
 >  &mdash; [Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost), ["Nothing Gold Can Stay"](https://poets.org/poem/nothing-gold-can-stay)  
 
+For those who somehow thought this election not important enough to vote, we invite your
+consideration:  
+
+> "One of the penatlies for refusing to paricipate in politics is that you end up being
+> governed by your inferiors." &ndash; Plato, __Republic__, Book 1, 347c.  
+
 As [EB White](https://en.wikipedia.org/wiki/E._B._White) wrote in an essay in
 [_The New Yorker_](https://www.newyorker.com/) on 1944-Jul-03 (later collected into
 [_On Democracy_](https://www.harpercollins.com/products/on-democracy-e-b-white) in 1947):  

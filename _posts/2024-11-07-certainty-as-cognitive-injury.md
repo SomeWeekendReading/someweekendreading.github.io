@@ -130,8 +130,8 @@ So for a solution, either:
 - $b \neq b'$ and $a = 0$ or $a = 1$, i.e., the fixpoints $\Pr(A) = 0$ and $\Pr(A) = 1$ we
   found above, or   
 - $b = b'$ & $a$ is whatever, any probability in [0, 1].  That means
-  $\Pr(B|A) = \Pr(B|\neg A)$, which says $B$ is independent of $A$.  Fine, we can ignore
-  irrelevant evidence.  
+  $\Pr(B|A) = \Pr(B|\neg A)$, which says $B$ is independent of $A$.  (Fine, we can ignore
+  irrelevant evidence.)  
 
 __Conclusions:__  
 
