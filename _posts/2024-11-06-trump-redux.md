@@ -32,7 +32,7 @@ don't know how to gather the energy to live through this.
 For those who somehow thought this election not important enough to vote, we invite your
 consideration:  
 
-> ["One of the penalties for refusing to paricipate in politics is that you end up being governed by your inferiors." &ndash; Plato, __Republic__, Book 1, 347c.](https://www.someweekendreading.blog/quotes/#:~:text=%E2%80%9COne%20of%20the%20penalties%20for%20refusing%20to%20paricipate%20in%20politics%20is%20that%20you%20end%20up%20being%20governed%20by%20your%20inferiors.%E2%80%9D%20%E2%80%93%20Plato%2C%20Republic%2C%20Book%201%2C%20347c.)  
+> ["One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors." &ndash; Plato, __Republic__, Book 1, 347c.]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9COne%20of%20the%20penalties%20for%20refusing%20to%20participate%20in%20politics%20is%20that%20you%20end%20up%20being%20governed%20by%20your%20inferiors.%E2%80%9D%20%E2%80%93%20Plato%2C%20Republic%2C%20Book%201%2C%20347c.)  
 
 As [EB White](https://en.wikipedia.org/wiki/E._B._White) wrote in an essay in
 [_The New Yorker_](https://www.newyorker.com/) on 1944-Jul-03 (later collected into
