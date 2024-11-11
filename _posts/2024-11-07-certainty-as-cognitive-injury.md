@@ -17,8 +17,8 @@ your humble Weekend Editor is a member of a religious community.  It's probably 
 obvious _which_ community, but the signs should be there.  
 
 On occasion, I hear people say things like, "I know beyond a shadow of a doubt
-that&hellip;" And it almost doesn't matter how they end that sentence, because I can't
-hear them over the screaming inside my head.  I don't know _any_ religious propositions
+that&hellip;" &hellip;and it almost doesn't matter how they end that sentence, because I can't
+hear it over the screaming inside my head.  I don't know _any_ religious propositions
 "beyond a shadow of a doubt".  I _hope_ some things are true, and find it _useful_ to behave
 as though they were for the effects that has on me.  
 
