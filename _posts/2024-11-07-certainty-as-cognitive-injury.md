@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Certainty as Cognitive Injury
-tags: CatBlogging MathInTheNews Obscurantism Politics Religion Sadness
+tags: CatBlogging Math Obscurantism Politics Religion Sadness
 comments: true
 commentsClosed: true
 ---
