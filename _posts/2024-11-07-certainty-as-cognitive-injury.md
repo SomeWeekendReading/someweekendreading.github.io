@@ -80,9 +80,10 @@ $$
 \end{align*}
 $$
 
-That is, there is no change in your belief about $A$; you still think it's impossible!
-You have absolutely failed to learn a single thing from the new evidence $B$.  (__NB:__ If
-also $\Pr(B | \neg A) = 0$, then we have a 0/0 problem.  I wonder what that's all about?)  
+That is, $\Pr(A|B) = \Pr(A) = 0$: there is no change in your belief about $A$; you still
+think it's impossible! You have absolutely failed to learn a single thing from the new
+evidence $B$.  (__NB:__ If  also $\Pr(B | \neg A) = 0$, then we have a 0/0 problem.  I
+wonder what that's all about?)  
 
 Of course, the same sort of thing happens if you flip the sign on $A$, believing it
 absolutely certain: $\Pr(A) = 1$, then $\Pr(\neg A) = 0$ and we get the same intransigent
@@ -189,7 +190,7 @@ into that category.
 
 So I retreated to more basic matters: maybe I could be certain "beyond a shadow of a doubt" about arithmetic?  Surely the integers are trustworthy!  Then I stumbled upon [Gottlob Frege and his _Die Grundlagen der Arithmetik_](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic), which called into question even _that_ foundation.  
 
-Okay, maybe set theory?  Nope, [Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox).  While resolvable, that nonetheless cautioned me one final time against believing just about _anything_ "beyond a shadow of a doubt".  
+Okay, maybe set theory?  Nope, [Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox).  While resolvable (sort of), that nonetheless cautioned me one final time against believing just about _anything_ "beyond a shadow of a doubt".  
 
 Foundations are best approached cautiously, and seldom by amateurs.  [↩](#fn1a)  
 
