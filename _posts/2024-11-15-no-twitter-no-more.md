@@ -13,9 +13,10 @@ No Twitter.  No more.
 
 <img src="{{ site.baseurl }}/images/icon-two-tone-twitter-not.png" width="400" height="400" alt="No Twitter, no more." title="No Twitter, no more." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2024-11-15-no-twitter-no-more-twitter.jpg" width="400" height="365" alt="No Twitter, No More" title="No Twitter, No More" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Readers with an eye for detail, should there be any, will have noticed a change to the
-icons in the navigation bar at the top of every page.  The Twitter link is now as shown
-here, with the universal slash-circle "No" drawn over it in red.  
+Here on this Crummy Little Blog that Nobody Reads (CLBTNR), readers with an eye for detail &ndash;
+should there be any &ndash; will have noticed a change to the icons in the navigation bar
+at the top of every page.  The Twitter link is now as shown here, with the universal
+slash-circle "No" drawn over it in red.  
 
 It now hyperlinks to nowhere.  
 

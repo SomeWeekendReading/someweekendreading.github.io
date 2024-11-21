@@ -164,6 +164,10 @@ standards of rationality are allowed to be different from those for humans.)
 Some things, after all, are sacred.  I'm just very choosy about _which_ things are allowed
 into that category.  
 
+As [Voltaire _also_ said:]({{ site.baseurl }}/quotes/#the-one-who-is-voltaire:~:text=Doubt%20is%20not%20a%20pleasant%20condition%2C%20but%20certainty%20is%20absurd.)  
+
+> Doubt is not a pleasant condition, but certainty is absurd.  
+
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
