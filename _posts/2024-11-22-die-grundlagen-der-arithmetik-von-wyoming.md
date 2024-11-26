@@ -283,8 +283,7 @@ please be a little tolerant, ok?
 
 <a id="fn6">6</a>: Wikipedia Editors, ["2022 United States House of Representatives elections"](https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections#:~:text=of%20the%20Clerk-,Per%20state,-%5Bedit%5D), _Wikipedia_, downloaded 2024-Nov-22. [↩](#fn6a)  
 
-<a id="fn7">7</a>: [WeekendEditor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script to analyze the Wyoming Rule data"]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyomin
-g-rule.r), _Some Weekend Reading_ blog, 2024-Nov-22.  
+<a id="fn7">7</a>: [WeekendEditor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script to analyze the Wyoming Rule data"]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.r), _Some Weekend Reading_ blog, 2024-Nov-22.  
 
 - There is also [a text transcript of running this script]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.txt), so you can check it said what I say it said.  
 - The data on district populations, percent of nation, percent of Electoral College, and so
