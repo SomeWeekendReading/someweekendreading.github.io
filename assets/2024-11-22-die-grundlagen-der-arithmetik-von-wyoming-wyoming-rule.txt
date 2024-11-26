@@ -1,0 +1,47 @@
+
+* Wyoming Rule on Fri Nov 22 12:36:45 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.txt
+
+Loading data:
+-------------
+
+* Loading data from ./2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.tsv
+* Loading partisanship data from ./2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule-delegates.tsv
+  - Found 50 rows x 17 cols
+  - Column names:
+    State, Popln.2020, X..US..2020., House.Seats, House.Seats.., Popln.EC.Vote, Popln.Seat, X..EC..2020., WR.House.Seats, WR.House.Seats.., Popln.ECWRVote, Popln.WR.Seat, X..WR.EC, House.Seats.Change, Republican, Democratic, Partisanship
+  - Total current seats: 435
+  - Wyoming Rule seates: 575
+* Saved to ./2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule-omnibus.tsv
+
+* New seats by state partisanship, and statistical (non-)significance:
+  Partisanship Change.Total Change.Mean Change.StdDev
+1         Blue           73        3.04          3.75
+2          Red           67        2.58          2.91
+
+	Welch Two Sample t-test
+
+data:  House.Seats.Change by Partisanship
+t = 0.48671, df = 43.406, p-value = 0.6289
+alternative hypothesis: true difference in means between group Blue and group Red is not equal to 0
+95 percent confidence interval:
+ -1.460393  2.389880
+sample estimates:
+mean in group Blue  mean in group Red 
+          3.041667           2.576923 
+
+
+  - Boxplot to ./2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule-boxplot.png.
+
+* Assign new delegates in proportion to state delegation's D-R ratio:
+Republican Democratic 
+        75         65 
+
+
+* Gerrymandering: Assign new delegates to state delegation's majority:
+Republican Democratic 
+        67         73 
+
+* Wyoming Rule completed Fri Nov 22 12:36:45 2024 (0.1 sec elapsed).
