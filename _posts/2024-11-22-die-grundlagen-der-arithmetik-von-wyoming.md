@@ -190,7 +190,7 @@ The results are _sorta_ like that, but more equivocal:
        Welch Two Sample t-test
 
    data:  House.Seats.Change by Partisanship
-   t = 0.48671, df = 43.406, __p-value = 0.6289__
+   t = 0.48671, df = 43.406, p-value = 0.6289
    alternative hypothesis: true difference in means between group Blue and group Red is not equal to 0
    95 percent confidence interval:
     -1.460393  2.389880
