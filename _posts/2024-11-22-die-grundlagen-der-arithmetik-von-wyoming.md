@@ -6,9 +6,10 @@ comments: true
 commentsClosed: true
 ---
 
-The 'Wyoming Rule' is a proposal to make the US House of Representatives more
-representative of people, not territory.  How might the arithmetic work out for which
-party gets more seats?  
+Over dinner a few days ago, [we were talking about]({{ site.baseurl }}/tags/#SomebodyAskedMe)
+about whether the Wyoming Rule would fix some of the bias in the Electoral College.  The
+'Wyoming Rule' is a proposal to make the US House of Representatives more representative
+of people, not territory.  How might the arithmetic work out for which party gets more seats?  
 
 
 ## Some Anti-Democracy Aspects of US Government  
@@ -189,7 +190,7 @@ The results are _sorta_ like that, but more equivocal:
        Welch Two Sample t-test
 
    data:  House.Seats.Change by Partisanship
-   t = 0.48671, df = 43.406, p-value = 0.6289
+   t = 0.48671, df = 43.406, __p-value = 0.6289__
    alternative hypothesis: true difference in means between group Blue and group Red is not equal to 0
    95 percent confidence interval:
     -1.460393  2.389880
@@ -285,12 +286,13 @@ please be a little tolerant, ok?
 
 <a id="fn7">7</a>: [WeekendEditor](mailto:SomeWeekendReadingEditor@gmail.com), ["R script to analyze the Wyoming Rule data"]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.r), _Some Weekend Reading_ blog, 2024-Nov-22.  
 
-- There is also [a text transcript of running this script]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.txt), so you can check it said what I say it said.  
+- There is also [a text transcript of running this]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.txt), 
+  so you can check that it says what I say it said.  
 - The data on district populations, percent of nation, percent of Electoral College, and so
   on is available both as
   [a tab-separated text file]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.tsv)
   and as [a binary spreadsheet in Apple .numbers format]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule.numbers).  
 - The data on district partisanship is also available as [a tab-separated text file]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule-delegates.tsv).  
 - The most useful data to consult, however, is the omnibus dataset which combines both of
-  those, by doing an inner join operation on the state name.  It is also avilable as
+  those, by doing an inner join operation on the state name.  It is also available as
   [a tab-separated text file]({{ site.baseurl }}/assets/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-wyoming-rule-omnibus.tsv).  [↩](#fn7a)  
