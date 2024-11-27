@@ -215,7 +215,7 @@ those seats will be allocated.  Let's consider 2 cases:
 
 1. Suppose politicians are unable to resist gerrymandering &ndash; which seems like the
    safest of safe bets &ndash; and they allocate all the new seats to the majority party
-   in their delegation.  Then we end up allocating only about 5 more seats to Democrats:  
+   in their delegation.  Then we end up allocating only 6 more seats to Democrats:  
    ```
   Republican Democratic 
           67         73 
