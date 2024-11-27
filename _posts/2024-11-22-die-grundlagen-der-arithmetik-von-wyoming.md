@@ -225,7 +225,7 @@ those seats will be allocated.  Let's consider 2 cases:
    Republicans:  
    ```
    Republican Democratic 
-           67         73 
+		   75         65 
    ```
 
 Personally, I think dangling the catnip of more seats in front of the parties will drive
