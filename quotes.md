@@ -1211,6 +1211,7 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 - "It is one of the superstitions of the human mind to have imagined that virginity could be a virtue."  
 - "So far from believing in nothing, I can believe in witchcraft and am confident that with incantations (and arsenic) it is possible to poison a flock of sheep!" (upon accusation of atheism)  
 - "I die adoring God, loving my friends, not hating my enemies, and detesting superstition."  (Whereupon he did _not_ die, at least not for some months more.)  
+- "This newcomer will never dethrone the majestic harpsichord. The piano-forte is an ironmonger's invention compared with the harpsichord."  
 
 
 ## The Index Invested Ones  
