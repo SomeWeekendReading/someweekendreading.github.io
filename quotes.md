@@ -771,6 +771,8 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "In so far as a scientific statement speaks about reality, it must be falsifiable; and in so far as it is not falsifiable, it does not speak about reality." &ndash; [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper), [_The Logic of Scientific Discovery_](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), 1959.  
 
+"May you be your only victim." &ndash; health physicist [Phil Broughton](https://www.funraniumlabs.com/about-2/), 2024-Dec-02.  Speaking of playing with too-powerful lasers in a too-ignorant fashion, but doing so outside his personal circle of responsibility.  
+
 
 ## The Statistical Ones  
 
@@ -863,7 +865,7 @@ _Illustrated London News_, 1914-Aug-22.
 
 "People make mistakes in life through believing too much, but they have a damned dull time if they believe too little." &mdash; [James Hilton](https://en.wikipedia.org/wiki/James_Hilton_(novelist)), [_Lost Horizon_](https://en.wikipedia.org/wiki/Lost_Horizon), 1933.  
 
-"A little credulity helps one on through life very smoothly." &mdash; [Elizabeth Cleghorn Gaskell _n&eacute;e Stevenson](https://en.wikipedia.org/wiki/Elizabeth_Gaskell) ([biographer of Charlotte Bront&eumlaut;](https://en.wikipedia.org/wiki/The_Life_of_Charlotte_Bront%C3%AB)), [_Cranford_](https://en.wikipedia.org/wiki/Cranford_(novel))  
+"A little credulity helps one on through life very smoothly." &mdash; [Elizabeth Cleghorn Gaskell _n&eacute;e_ Stevenson](https://en.wikipedia.org/wiki/Elizabeth_Gaskell) ([biographer of Charlotte Bront&eumlaut;](https://en.wikipedia.org/wiki/The_Life_of_Charlotte_Bront%C3%AB)), [_Cranford_](https://en.wikipedia.org/wiki/Cranford_(novel))  
 
 "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." &mdash; [Bishop Desmond Tutu](https://en.wikipedia.org/wiki/Desmond_Tutu)  
 
