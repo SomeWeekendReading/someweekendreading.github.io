@@ -865,7 +865,7 @@ _Illustrated London News_, 1914-Aug-22.
 
 "People make mistakes in life through believing too much, but they have a damned dull time if they believe too little." &mdash; [James Hilton](https://en.wikipedia.org/wiki/James_Hilton_(novelist)), [_Lost Horizon_](https://en.wikipedia.org/wiki/Lost_Horizon), 1933.  
 
-"A little credulity helps one on through life very smoothly." &mdash; [Elizabeth Cleghorn Gaskell _n&eacute;e_ Stevenson](https://en.wikipedia.org/wiki/Elizabeth_Gaskell) ([biographer of Charlotte Bront&eumlaut;](https://en.wikipedia.org/wiki/The_Life_of_Charlotte_Bront%C3%AB)), [_Cranford_](https://en.wikipedia.org/wiki/Cranford_(novel))  
+"A little credulity helps one on through life very smoothly." &mdash; [Elizabeth Cleghorn Gaskell _n&eacute;e_ Stevenson](https://en.wikipedia.org/wiki/Elizabeth_Gaskell) ([biographer of Charlotte Bront&euml;](https://en.wikipedia.org/wiki/The_Life_of_Charlotte_Bront%C3%AB)), [_Cranford_](https://en.wikipedia.org/wiki/Cranford_(novel))  
 
 "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." &mdash; [Bishop Desmond Tutu](https://en.wikipedia.org/wiki/Desmond_Tutu)  
 
