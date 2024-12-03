@@ -771,7 +771,7 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "In so far as a scientific statement speaks about reality, it must be falsifiable; and in so far as it is not falsifiable, it does not speak about reality." &ndash; [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper), [_The Logic of Scientific Discovery_](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), 1959.  
 
-"May you be your only victim." &ndash; health physicist [Phil Broughton](https://www.funraniumlabs.com/about-2/), [BlueSky](https://bsky.app/profile/funranium.bsky.social/post/3lcdt22pzbk22), 2024-Dec-02.  Speaking of playing with too-powerful lasers in a too-ignorant fashion, but doing so outside his personal circle of responsibility.  
+"May you be your only victim." &ndash; health physicist [Phil Broughton](https://www.funraniumlabs.com/about-2/), [BlueSky](https://bsky.app/profile/funranium.bsky.social/post/3lcdt22pzbk22), 2024-Dec-02, speaking of playing with too-powerful lasers in a too-ignorant fashion, but doing so outside his personal circle of responsibility.  
 
 
 ## The Statistical Ones  
