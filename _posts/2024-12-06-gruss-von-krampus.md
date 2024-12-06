@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-It's that special time of year again, for&hellip; Krampusnacht!  
+It's that special time of year again&hellip; Krampusnacht!  
 
 
 ## Who?  
