@@ -1,0 +1,126 @@
+
+* Parties vs Econ on Thu Dec 05 18:03:10 2024
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2024-12-05-parties-deficit.txt
+
+Loading data:
+-------------
+
+* Loading deficit data from ./2024-12-05-parties-deficit-FYFSD-1977-2023.csv
+  - Found 47 rows x 2 columns: DATE, FYFSD
+  - Consolidating to congressinal terms by adding
+    o Now have 23 rows x 4 columns: CongrTerm, Years, FYFSD, FYFSDIndic
+
+* Loading deficit data as a % of GDP from ./2024-12-05-parties-deficit-FYFSGDA188S-1977-2023.csv
+  - Found 47 rows x 2 columns: DATE, FYFSGDA188S
+  - Consolidating to congressinal terms by adding
+    o Now have 23 rows x 4 columns: CongrTerm, Years, FYFSGDA188S, FYFSGDA188SIndic
+
+* Loading previous party &c consolidated data from ./2024-10-28-parties-econ-consolidated.tsv
+  - Found 24 rows x 6 columns: CongrTerm, Years, President, PartyPresident, PartyHouse, PartySenate
+  - Joining datasets on congressinoal term
+    o Now have 23 rows x 10 columns: CongrTerm, Years, President, PartyPresident, PartyHouse, PartySenate, FYFSD, FYFSDIndic, FYFSGDA188S, FYFSGDA188SIndic
+
+* Saved consolidated data to ./2024-12-05-parties-deficit-1977-2023-consolidated.tsv.
+
+* FYFSDIndic being predicted:
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                 Estimate Std. Error z value Pr(>|z|)  
+(Intercept)      0.396021   0.941318   0.421   0.6740  
+PartyPresidentR  2.577359   1.337714   1.927   0.0540 .
+PartyHouseR     -2.570177   1.475261  -1.742   0.0815 .
+PartySenateR    -0.009574   1.540517  -0.006   0.9950  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 29.767  on 21  degrees of freedom
+Residual deviance: 17.846  on 18  degrees of freedom
+AIC: 25.846
+
+Number of Fisher Scoring iterations: 5
+
+
+  - Prediction results: p ~ 0.00449717
+       Years PartyPresident PartyHouse PartySenate DepVar      pHat
+5  1995-1996              D          R           R Better 0.1012211
+6  1997-1998              D          R           R Better 0.1012211
+7  1999-2000              D          R           R Better 0.1012211
+15 2015-2016              D          R           R Better 0.1012211
+13 2011-2012              D          R           D Better 0.1020954
+14 2013-2014              D          R           D Better 0.1020954
+9  2003-2004              R          R           R  Worse 0.5971560
+10 2005-2006              R          R           R Better 0.5971560
+16 2017-2018              R          R           R  Worse 0.5971560
+20 1979-1980              D          D           D  Worse 0.5977312
+4  1993-1994              D          D           D Better 0.5977312
+12 2009-2010              D          D           D  Worse 0.5977312
+18 2021-2022              D          D           D  Worse 0.5977312
+8  2001-2002              R          R           D  Worse 0.5994569
+21 1981-1982              R          D           R  Worse 0.9509119
+22 1983-1984              R          D           R  Worse 0.9509119
+23 1985-1986              R          D           R  Worse 0.9509119
+17 2019-2020              R          D           R  Worse 0.9509119
+1  1987-1988              R          D           D Better 0.9513569
+2  1989-1990              R          D           D  Worse 0.9513569
+3  1991-1992              R          D           D  Worse 0.9513569
+11 2007-2008              R          D           D  Worse 0.9513569
+
+* FYFSGDA188SIndic being predicted:
+Call:
+glm(formula = formula, family = binomial(link = logit), data = foo)
+
+Coefficients:
+                Estimate Std. Error z value Pr(>|z|)  
+(Intercept)     -2.01936    1.22494  -1.649   0.0992 .
+PartyPresidentR  2.80601    1.28211   2.189   0.0286 *
+PartyHouseR     -0.33920    1.17607  -0.288   0.7730  
+PartySenateR     0.04027    1.16236   0.035   0.9724  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 29.767  on 21  degrees of freedom
+Residual deviance: 21.690  on 18  degrees of freedom
+AIC: 29.69
+
+Number of Fisher Scoring iterations: 4
+
+
+  - Prediction results: p ~ 0.0148857
+       Years PartyPresident PartyHouse PartySenate DepVar       pHat
+13 2011-2012              D          R           D Better 0.08638853
+14 2013-2014              D          R           D Better 0.08638853
+5  1995-1996              D          R           R Better 0.08962004
+6  1997-1998              D          R           R Better 0.08962004
+7  1999-2000              D          R           R Better 0.08962004
+15 2015-2016              D          R           R Better 0.08962004
+20 1979-1980              D          D           D Better 0.11718570
+4  1993-1994              D          D           D Better 0.11718570
+12 2009-2010              D          D           D  Worse 0.11718570
+18 2021-2022              D          D           D Better 0.11718570
+8  2001-2002              R          R           D  Worse 0.61003387
+9  2003-2004              R          R           R  Worse 0.61956964
+10 2005-2006              R          R           R Better 0.61956964
+16 2017-2018              R          R           R  Worse 0.61956964
+1  1987-1988              R          D           D Better 0.68711157
+2  1989-1990              R          D           D  Worse 0.68711157
+3  1991-1992              R          D           D  Worse 0.68711157
+11 2007-2008              R          D           D Better 0.68711157
+21 1981-1982              R          D           R  Worse 0.69570273
+22 1983-1984              R          D           R  Worse 0.69570273
+23 1985-1986              R          D           R Better 0.69570273
+17 2019-2020              R          D           R  Worse 0.69570273
+
+* Regression Akaike Information Criterion and Mann-Whitney rank p-values:
+            DepVar      AIC           p
+1       FYFSDIndic 25.84600 0.004497165
+2 FYFSGDA188SIndic 29.68985 0.014885746
+
+* Parties vs Econ completed Thu Dec 05 18:03:10 2024 (0.1 sec elapsed).

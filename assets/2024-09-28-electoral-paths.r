@@ -1,5 +1,5 @@
 ## Created on Sunday, September 22, 2024 at 7:52am EDT by Weekend Editor on Weekend-Editor-Machine.
-## UnCopyright (c) 2024, Some Weekend Reading blog.  All rights reversed.  As if you care.
+## UnCopyright (u) 2024, Some Weekend Reading blog.  All rights reversed.  As if you care.
 
 toolsDir <- "../../tools"                              # Random tools
 source(file.path(toolsDir, "pipeline-tools.r"))        # Random pipeline stuff

@@ -1,5 +1,5 @@
-## Created on Tuesday, November 12, 2024 at 9:22pm CDT by sgr on Kryfthanima.Local.
-## Copyright (c) 2024, nobody-in-particular.  All rights reserved.  As if you care.
+## Created on Tuesday, November 12, 2024 at 9:22pm EST by Weekend Editor on Weekend Editor Machine.
+## UnCopyright (u) 2024, Some Weekend Reading Blog.  All rights reversed.  As if you care.
 
 toolsDir <- "../../tools"                              # My box of magic swords
 source(file.path(toolsDir, "graphics-tools.r"))        # Random graphics things

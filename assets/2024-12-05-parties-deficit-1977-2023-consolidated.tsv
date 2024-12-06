@@ -1,0 +1,24 @@
+CongrTerm	Years	President	PartyPresident	PartyHouse	PartySenate	FYFSD	FYFSDIndic	FYFSGDA188S	FYFSGDA188SIndic
+95	1977-1978	Carter	D	D	D	-112844	NA	-5.0943	NA
+96	1979-1980	Carter	D	D	D	-114556	Worse	-4.13399	Better
+97	1981-1982	Reagan	R	D	R	-206945	Worse	-6.28963	Worse
+98	1983-1984	Reagan	R	D	R	-393169	Worse	-10.30921	Worse
+99	1985-1986	Reagan	R	D	R	-433535	Worse	-9.72371	Better
+100	1987-1988	Reagan	R	D	D	-304908	Better	-6.04733	Better
+101	1989-1990	Bush	R	D	D	-373675	Worse	-6.41231	Worse
+102	1991-1992	Bush	R	D	D	-559559	Worse	-8.82462	Worse
+103	1993-1994	Clinton	D	D	D	-458237	Better	-6.50698	Better
+104	1995-1996	Clinton	D	R	R	-271383	Better	-3.47676	Better
+105	1997-1998	Clinton	D	R	R	47386	Better	0.5092	Better
+106	1999-2000	Clinton	D	R	R	361851	Better	3.60878	Better
+107	2001-2002	Lesser Bush	R	R	D	-29522	Worse	-0.23163	Worse
+108	2003-2004	Lesser Bush	R	R	R	-790312	Worse	-6.67408	Worse
+109	2005-2006	Lesser Bush	R	R	R	-566527	Better	-4.23783	Better
+110	2007-2008	Lesser Bush	R	D	D	-619254	Worse	-4.21491	Better
+111	2009-2010	Obama	D	D	D	-2707061	Worse	-18.35851	Worse
+112	2011-2012	Obama	D	R	D	-2376172	Better	-14.95436	Better
+113	2013-2014	Obama	D	R	D	-1164568	Better	-6.78017	Better
+114	2015-2016	Obama	D	R	R	-1026610	Better	-5.52477	Better
+115	2017-2018	Trump	R	R	R	-1444524	Worse	-7.16463	Worse
+116	2019-2020	Trump	R	D	R	-4116044	Worse	-19.23544	Worse
+117	2021-2022	Biden	D	D	D	-4151270	Worse	-17.01025	Better

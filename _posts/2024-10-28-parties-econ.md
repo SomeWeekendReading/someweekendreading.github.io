@@ -15,9 +15,9 @@ better on the economy.  That myth needs to die.
 ## Conventional Wisdom  
 
 Conventional wisdom in the US is that Democrats are always better on social issues, but
-Republicans are always better on the economy.  I actually don't quite know the basis for
-this.  It's probably just assuming that Republicans are either rich or in deep with a big
-corporation, and thus should know a thing or two about making money.  
+Republicans are always better on the economy &amp; defense.  I actually don't quite know the basis for
+this.  It's probably just assuming that Republicans are either rich or in deep with big
+corporations, and thus should know a thing or two about making money.  
 
 However, as I vaguely recall economics Nobelist
 [Paul Krugman](https://en.wikipedia.org/wiki/Paul_Krugman) saying, making money is one

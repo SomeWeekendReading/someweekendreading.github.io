@@ -1,5 +1,5 @@
 ## Created on Thursday, October 24, 2024 at 10:45am EDT by WeekendEditor on WeekendEditorMachine.
-## UnCopyright (c) 2024, nobody-in-particular.  All rights reversed.  As if you care.
+## UnCopyright (u) 2024, Some Weekend Reading Blog.  All rights reversed.  As if you care.
 
 toolsDir <- "../../tools"                              # Random tools
 source(file.path(toolsDir, "pipeline-tools.r"))        # Random pipeline stuff
@@ -98,10 +98,10 @@ doit <- function(## Inputs
               ## These should not change within a congressional term. (Possible, though:
               ## one year there was a senate change because Jeffords changed parties.  We
               ## coded that as a Dem term because almost all the time was AFTER the switch to Dems.)
-              stopifnot(ctdf[1, "President"]      == ctdf[1, "President"])
-              stopifnot(ctdf[1, "PartyPresident"] == ctdf[1, "PartyPresident"])
-              stopifnot(ctdf[1, "PartyHouse"]     == ctdf[1, "PartyHouse"])
-              stopifnot(ctdf[1, "PartySenate"]    == ctdf[1, "PartySenate"])
+              stopifnot(ctdf[1, "President"]      == ctdf[2, "President"])
+              stopifnot(ctdf[1, "PartyPresident"] == ctdf[2, "PartyPresident"])
+              stopifnot(ctdf[1, "PartyHouse"]     == ctdf[2, "PartyHouse"])
+              stopifnot(ctdf[1, "PartySenate"]    == ctdf[2, "PartySenate"])
 
               data.frame(                              #
                   ## Years is hypenated 2 years of this congressional term
