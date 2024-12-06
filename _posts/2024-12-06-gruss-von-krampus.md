@@ -32,8 +32,9 @@ children, and Krampus&hellip; well, he has business with the bad children:
   tongue.  (Sometimes ridiculously long, as in he can pick up children with his tongue.)  
 - He carries chains and manacles, either to represent the binding of the Devil or with
   which to bind bad children.  
+- One foot is a cloven hoof, while the other is mysteriously not.  
 - He carries birch rods with which to whip _moderately_ bad children.  
-- He also has a basket or a bag, for children who are more spectacularly talented at being
+- He also has a basket or a bag, for children who are more _spectacularly_ talented at being
   bad.  He's said to stuff them in the basket, kidnapping them either to be drowned, or
   eaten, or taken to Hell.  (Or, in some versions to Spain.  No idea why Hell and Spain
   should be so linked?)  
