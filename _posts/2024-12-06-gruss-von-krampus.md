@@ -58,13 +58,14 @@ without deportation to Spain (or even warmer places).
 
 ## The Weekend Conclusion  
 
-<img src="{{ site.baseurl }}/images/2024-12-06-gruss-von-krampus-2.jpg" width="300" height="300" alt="Cute Krampus says 'You.  In the bag.'  Artist appears to be Jo Rioux https://jorioux.com/" title="Cute Krampus says 'You.  In the bag.'  Artist appears to be Jo Rioux https://jorioux.com/" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2024-12-06-gruss-von-krampus-2.jpg" width="200" height="200" alt="Cute Krampus says 'You.  In the bag.'  Artist appears to be Jo Rioux https://jorioux.com/" title="Cute Krampus says 'You.  In the bag.'  Artist appears to be Jo Rioux https://jorioux.com/" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Speaking of deportation, perhaps the esteemed Mr. Krampus could come evaluate Mr. Trump
-for suitability to be put  in his basket?  I mean, they're both all about deportation, and as
-long as we're fantasizing&hellip;  
+for suitability to be put  in his basket?  
 
-Might be a problem getting Spain to take him, though.  The other destination would
-probably be more appropriate for him, anyway.  
+I mean, they're both all about deportation, and as long as we're fantasizing&hellip;  
+
+Might be a problem getting Spain to take Trump, though.  The other destination would
+probably be more appropriate for Trump, anyway.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
