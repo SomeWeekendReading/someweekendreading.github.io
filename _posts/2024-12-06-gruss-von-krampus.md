@@ -23,7 +23,7 @@ dark counterpart.  Like the Babylonian exile exposed Jews to Zoroastrianism whic
 profile of the Satan <sup id="fn1a">[[1]](#fn1)</sup>, we seem fascinated with good/evil
 counterparts instead of just concerning ourselves with good.  
 
-<a href="{{ site.baseurl }}/images/2024-12-06-gruss-von-krampus.jpg"><img src="{{ site.baseurl }}/images/2024-12-06-gruss-von-krampus-thumb.jpg" width="400" height="635" alt="Krampus stuffing a presumably bad child into his basket for transport to&hellip; elsewhere?" title="Krampus stuffing a presumably bad child into his basket for transport to&hellip; elsewhere?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2024-12-06-gruss-von-krampus.jpg"><img src="{{ site.baseurl }}/images/2024-12-06-gruss-von-krampus-thumb.jpg" width="400" height="635" alt="Krampus stuffing a presumably bad child into his basket for transport to&hellip; elsewhere?  The 'good little sister' seems oddly unconcerned at this turn of events!" title="Krampus stuffing a presumably bad child into his basket for transport to&hellip; elsewhere?  The 'good little sister' seems oddly unconcerned at this turn of events!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 And so it is, even with the gentle St Nicholas and his cartoonish successor Santa Claus.
 In Alpine folklore, he is accompanied by (not "opposed by"; they always come together) a
 figure called Krampus. <sup id="fn2a">[[2]](#fn2)</sup>  St Nicholas blesses the good
