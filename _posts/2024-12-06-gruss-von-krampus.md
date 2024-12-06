@@ -61,7 +61,7 @@ without deportation to Spain (or even warmer places).
 ## The Weekend Conclusion  
 
 Speaking of deportation, perhaps the esteemed Mr. Krampus could come evaluate Mr. Trump
-for suitability to be put  in his basket?  I mean, they're both about deportation, and as
+for suitability to be put  in his basket?  I mean, they're both all about deportation, and as
 long as we're fantasizing&hellip;  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
