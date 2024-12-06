@@ -46,7 +46,7 @@ supposed to be a fun thing to do with kids, complete with parades.
 
 People dress up as Krampus and scare children, in what I'm sure the children think is a
 totally fun prank.  Occasionally after attempting to birch a child, parents feel inspired
-to punch out a Krampus cosplayer, which I'm sure is also totally fun trip to local hospitals.  
+to punch out a Krampus cosplayer, which I'm sure is also a totally fun trip to a local hospital.  
 
 _Krampusnacht_, or Krampus Night, is December 5th.  St Nicholas and Krampus visit houses
 with children for gentle congratulations &amp; blessings from St Nicholas&hellip; or rather
@@ -61,6 +61,9 @@ without deportation to Spain (or even warmer places).
 Speaking of deportation, perhaps the esteemed Mr. Krampus could come evaluate Mr. Trump
 for suitability to be put  in his basket?  I mean, they're both all about deportation, and as
 long as we're fantasizing&hellip;  
+
+Might be a problem getting Spain to take him, though.  The other destination would
+probably be more appropriate for him, anyway.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
