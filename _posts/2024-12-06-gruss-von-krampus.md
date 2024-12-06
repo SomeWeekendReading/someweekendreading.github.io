@@ -37,10 +37,8 @@ children, and Krampus&hellip; well, he has business with the bad children:
 - He also has a basket or a bag, for children who are more _spectacularly_ talented at being
   bad.  He's said to stuff them in the basket, kidnapping them either to be drowned, or
   eaten, or taken to Hell.  (Or, in some versions to Spain.  No idea why Hell and Spain
-  should be so linked?)  
-
-(I wonder if the American phrase "going to hell in a handbasket" is related to Krampus and
-his basket?)  
+  should be so linked? I also wonder if the American phrase "going to hell in a
+  handbasket" is related to Krampus and his basket?)  
 
 Thus the traditions of the more remote Alpine places, where conformity with suspicions by
 the distant medieval church could be regarded as rather more optional.  Today, it's
