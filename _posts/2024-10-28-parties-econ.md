@@ -534,6 +534,20 @@ _Note added in proof:_ a spelling corrector suggested changing "crosstabulations
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2024-12-05: Do the Deficit, Too!  
+
+We did [a similar analysis on the budget deficit]({{ site.baseurl }}/parties-deficit/),
+both in dollar form and as a percent of GDP, which see.  
+
+The results say:  
+- Republican presidents are unambiguously bad for the deficit, i.e., the annual deficit
+  goes up under them.  
+- Using raw numbers for the deficit weakly implicate Democrats in the House, but the
+  effecdt goes away when you use deficit as a percent of GDP.  So probably nothing there.  
+  
+But Republican presidents?  _Certainly_ a bad idea, if you're a deficit hawk!  
+
 ---
 
 ## Notes &amp; References  

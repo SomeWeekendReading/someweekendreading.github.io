@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trump Redux
-tags: Politics &Gammad;&Tau;&Phi;
+tags: Politics Sadness &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: true
 ---
