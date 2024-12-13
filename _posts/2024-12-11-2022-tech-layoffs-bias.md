@@ -151,8 +151,7 @@ It appears this is, sadly, correct.
 
 You can argue with the figures: choose different layoff numbers, different numbers of tech
 workers, or even the gender of those laid off.  But most sources seem to be in this
-general ballpark, supporting the conclusion that women were laid off disproportionately
-more often than men.  
+general ballpark, supporting the conclusion that __women were laid off disproportionately more often than men.__  
 
 By a factor of 8.8x.  
 
