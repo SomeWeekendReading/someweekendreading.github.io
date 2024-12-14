@@ -270,7 +270,7 @@ __The moral argument__ against lottery tickets is less mathematical, bu also com
 
   Lotteries do _not_ do this.  Investing in the general welfare of all humanity does do
   this.  One way is by choices of a good occupation, a good spiritual life, and a good
-  community &amp; life.  Another is by investing in the progress of all humanity, as the
+  community &amp; family life.  Another is by investing in the progress of all humanity, as the
   portfolio above.   
 
 <a href="{{ site.baseurl }}/images/2024-12-14-against-lotteries-publishers.jpg"><img src="{{ site.baseurl }}/images/2024-12-14-against-lotteries-publishers-thumb.jpg" width="400" height="533" alt="The Weekend Publisher (R) and the Assistant Weekend Publisher (L) agree: ignore lottery tickers for more interesting opportunities." title="The Weekend Publisher (R) and the Assistant Weekend Publisher (L) agree: ignore lottery tickers for more interesting opportunities." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
