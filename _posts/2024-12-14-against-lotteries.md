@@ -211,9 +211,14 @@ and world stock alluded to above:
 | World Stocks | | 55%        | | _VT_  |
 
 Using [Portfolio Visualizer](https://www.portfoliovisualizer.com/optimize-portfolio?s=y&sl=3ev9z1khD9aPOfLgw4ayF8),
-I am reliably informed that using 2023-2024 data the Sharpe ratio is $S = 0.93$.  Now, to
-be sure, it was a pretty good year!  But it's almost _a million times better_ than the
-lottery ticket, in terms of return over the safe asset per unit of risk taken!  
+I am reliably informed that using 2023-2024 data the Sharpe ratio is:  
+
+$$
+S = 0.93
+$$
+
+Now, to be sure, it was a pretty good year!  But it's almost _a million times better_ than
+the lottery ticket, in terms of return over the safe asset per unit of risk taken!  
 
 The lottery ticket is a terrible, terrible choice.  The alternatives are easily
 available.  You can much more sensibly invest, as shown here, in human economic activity
