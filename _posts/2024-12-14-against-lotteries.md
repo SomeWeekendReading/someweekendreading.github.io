@@ -204,8 +204,6 @@ careful approach and estimate error bars, it would be statistically indistinguis
 For comparison purposes, let's consider the portfolio of world bonds, world real estate,
 and world stock alluded to above:  
 
-<!-- *** Why doesn't this table render?! -->  
-
 | __Asset Class__  | | __Allocation__ | | __ETF__   |
 |:-------------|-|-----------:|-|:-----:|
 | World Bonds  | | 40%        | | _BNDW_ |
