@@ -197,9 +197,10 @@ $$
 $$
 
 This is tiny!  In it's offering you a few parts per million of "extra" return in exchange
-for each additional percent of risk, which is absurd.  Also, if we were to take a more
-careful approach and estimate error bars, it would be statistically indistinguishable from
-0 or negative values.  
+for each additional percent of risk, which is absurd.  The source of the absurdly small
+$S$ here is the ginormous standard deviation.  (Also, if we were to take a more careful
+approach and estimate error bars on $S$, it would be statistically indistinguishable from
+0 or even negative values.)  
 
 For comparison purposes, let's consider the portfolio of world bonds, world real estate,
 and world stock alluded to above:  
