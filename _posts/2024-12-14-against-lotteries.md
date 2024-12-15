@@ -62,7 +62,7 @@ $$
 \end{align*}
 $$
 
-(As a check on our work, we note that the variance of the Bernoulli distribution is
+(As a check on our work, we note that the Bernoulli distribution's variance is
 $p(1-p)$, so our answer for $\sigma^2$ should be just a scaled version of that, which is
 what we have.)  
 
@@ -104,7 +104,10 @@ whether the extra return is worth the extra risk.
 For this, there's something called the [Sharpe Ratio](https://en.wikipedia.org/wiki/Sharpe_ratio):  
 
 $$
-S = \frac{E[R] - R_0}{\sigma[R]}
+\begin{align*}
+  S &= \frac{E[R] - R_0}{\sigma[R]} \\
+    &= \frac{p\rho - 1 - R_0}{\sqrt{p(1-p)} \rho}
+\end{align*}
 $$
 
 - The numerator tells us how much _more_ return we're getting over the safe alternative.
@@ -240,7 +243,7 @@ deviation, but either use a non-normal distribution, or are parametric in nature
 a totally different Bayesian approach.  
 
 We've used all of those at one time or another, but here chose the Sharpe ratio because we
-understand what it means and it is widely used and readily interpretable.  
+understand what it means, it is widely used, and readily interpretable.  
 
 
 ## The Weekend Conclusion  
@@ -260,7 +263,7 @@ $$
 
 __The economic argument__ against lottery tickets is 3-fold:  
 - The expected return is almost always negative.  
-- When the expected return is positive, it is often less than safe investments.  
+- When the expected return is positive, it is still often less than safe investments.  
 - When the expected return exceeds safe investments, the Sharpe ratio is _miserable_
   compared to easily assembled investment portfolios.  That is, you're getting offered
   miserably small amounts of profit for taking enormous risks.  
