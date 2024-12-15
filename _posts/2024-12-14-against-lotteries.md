@@ -6,8 +6,10 @@ comments: true
 commentsClosed: true
 ---
 
-Generally, lottery tickets are meant to lose money for you on average.  So speaking only of
-money, you shouldn't buy them.  But once in a long while, they have a positive expected
+Years ago, [somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) (an office mate,
+actually) about lottery tickets when the return was positive.  Generally, lottery tickets
+are meant to lose money for you on average.  So speaking only of money, you shouldn't buy
+them.  But once in a long while, they have a positive expected
 return.  Should you buy one of _those?_  Still no.   
 
 
