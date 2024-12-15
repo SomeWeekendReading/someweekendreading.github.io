@@ -62,7 +62,7 @@ $$
 \end{align*}
 $$
 
-(As a check on our work, we note that the Bernoulli distribution's variance is
+(As a check on our work: we note that the Bernoulli distribution's variance is
 $p(1-p)$, so our answer for $\sigma^2$ should be just a scaled version of that, which is
 what we have.)  
 
@@ -133,7 +133,7 @@ So there are 3 hurdles to clear before we should consider a lottery ticket inves
 
 Let's examine a concrete example.  We're going to look at the 
 [Massachusetts Mega-Millions lottery](https://www.masslottery.com/games/draw-and-instants/mega-millions),
-chosen more for convenience and our Massachusetts chauvinism, than anything else.  
+chosen more for convenience and our Massachusetts chauvinism, than anything else.
 We'll assume the jackpot is never shared, i.e., there is always 1 winner (not actually the
 case).  Furthermore, we'll simplify it down to just the maximum jackpot, ignoring all the
 smaller returns.  (Those are present mostly to tease you into thinking you're making
@@ -202,20 +202,14 @@ $$
 
 This is tiny!  In it's offering you a few parts per million of "extra" return in exchange
 for each additional percent of risk, which is absurd.  The source of the absurdly small
-$S$ here is the ginormous standard deviation.  (Also, if we were to take a more careful
+$S$ here is the ginormous standard deviation $\sigma$.  (Also, if we were to take a more careful
 approach and estimate error bars on $S$, it would be statistically indistinguishable from
 0 or even negative values.)  
 
+<img src="{{ site.baseurl }}/images/2024-12-14-against-lotteries-portfolio.jpg" width="400" height="200" alt="A simple, conservative ETF portfolio of world bonds, world real estate, and world stocks" title="A simple, conservative ETF portfolio of world bonds, world real estate, and world stocks" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 For comparison purposes, let's consider the portfolio of world bonds, world real estate,
-and world stock alluded to above:  
-
-| __Asset Class__  | | __Allocation__ | | __ETF__   |
-|:-------------|-|-----------:|-|:-----:|
-| World Bonds  | | 40%        | | _BNDW_ |
-| World REITs  | |  5%        | | _REET_ |
-| World Stocks | | 55%        | | _VT_  |
-
-Using [Portfolio Visualizer](https://www.portfoliovisualizer.com/optimize-portfolio?s=y&sl=3ev9z1khD9aPOfLgw4ayF8),
+and world stock alluded to above.  Using
+[Portfolio Visualizer](https://www.portfoliovisualizer.com/optimize-portfolio?s=y&sl=3ev9z1khD9aPOfLgw4ayF8),
 I am reliably informed that using 2023-2024 data the Sharpe ratio is:  
 
 $$
