@@ -133,12 +133,13 @@ So there are 3 hurdles to clear before we should consider a lottery ticket inves
 
 Let's examine a concrete example.  We're going to look at the 
 [Massachusetts Mega-Millions lottery](https://www.masslottery.com/games/draw-and-instants/mega-millions),
-chosen more for convenience and our Massachusetts chauvinism, than anything else.  Furthermore, we'll
-simplify it down to just the maximum jackpot, ignoring all the smaller returns.  (Those
-are present mostly to tease you into thinking you're making progress, not to be an actual
-reward.  They complicate the analysis, without being illuminating.  Games, like
-investments, that are made complicated by the seller are not made complicated to be in
-your favor!)  
+chosen more for convenience and our Massachusetts chauvinism, than anything else.  
+We'll assume the jackpot is never shared, i.e., there is always 1 winner (not actually the
+case).  Furthermore, we'll simplify it down to just the maximum jackpot, ignoring all the
+smaller returns.  (Those are present mostly to tease you into thinking you're making
+progress, not to be an actual reward.  They complicate the analysis, without being
+illuminating.  Games, like investments, that are made complicated by the seller are not
+made complicated to be in your favor!)  
 
 Their web site as of 2024-Dec-14 gives us the following parameters:  
 - The cost of a ticket is \$2.  
