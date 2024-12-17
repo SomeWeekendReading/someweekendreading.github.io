@@ -27,8 +27,8 @@ the simplest of all possible distributions:
 $$
 \left\{
   \begin{align*}
-    \Pr\left(\mbox{heads}\right) &= p \\
-    \Pr\left(\mbox{tails}\right) &= 1 - p
+    \Pr\left(\mbox{flip = heads}\right) &= p \\
+    \Pr\left(\mbox{flip = tails}\right) &= 1 - p
   \end{align*}
 \right.
 $$
@@ -38,11 +38,12 @@ return is then the payoff divided by $P_0$.  Let $\rho = P/P_0$, i.e., the ratio
 jackpot to the ticket price.  Of course $\rho \gt 1$.  Then the distribution of returns $R$ is:  
 
 $$
-\Pr(R) = 
-\begin{cases}
-  \frac{P - P_0}{P_0} &= \rho - 1\ &\mbox{with probability}\ p \\
-  -\frac{P_0}{P_0}    &= -1\       &\mbox{with probability}\ 1-p
-\end{cases}
+\left\{
+  \begin{align*}
+    \Pr\left(R = \frac{P - P_0}{P_0} = \rho - 1\right) &= p \\
+    \Pr\left(R = -\frac{P_0}{P_0}    = -1\right)       &= 1 - p
+  \end{align*}
+\right.
 $$
 
 That's the distribution, so let's get the mean and variance (worked out pedantically, so
@@ -218,8 +219,9 @@ $$
 S = 0.93
 $$
 
-Now, to be sure, it was a pretty good year!  But it's almost _a million times better_ than
-the lottery ticket, in terms of return over the safe asset per unit of risk taken!  
+Now, to be sure, it was a pretty good year!  (A more typical value would be 0.4 - 0.5.)
+But it's almost _a million times better_ than the lottery ticket, in terms of return over
+the safe asset per unit of risk taken!  
 
 The lottery ticket is a terrible, terrible choice.  The alternatives are easily
 available.  You can much more sensibly invest, as shown here, in human economic activity
