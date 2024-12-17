@@ -40,10 +40,19 @@ jackpot to the ticket price.  Of course $\rho \gt 1$.  Then the distribution of 
 $$
 \left\{
   \begin{align*}
-    \Pr\left(R = \frac{P - P_0}{P_0} = \rho - 1\right) &= p \\
-    \Pr\left(R = -\frac{P_0}{P_0}    = -1\right)       &= 1 - p
+    \Pr\left(R =  \frac{P - P_0}{P_0} = \rho - 1\right) &= p \\
+    \Pr\left(R = -\frac{P_0}{P_0}     = -1\right)       &= 1 - p
   \end{align*}
 \right.
+$$
+
+$$
+\begin{align*}
+x& = y_1-y_2+y_3-y_5+y_8-\dots
+&& \text{by 3.21}\\
+& = y’\circ y^* && \text{by 4.1}\\
+& = y(0) y’ && \text {by Axiom 1.}
+\end{align*}
 $$
 
 That's the distribution, so let's get the mean and variance (worked out pedantically, so
