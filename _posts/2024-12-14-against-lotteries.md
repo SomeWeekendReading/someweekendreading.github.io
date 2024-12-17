@@ -27,8 +27,8 @@ the simplest of all possible distributions:
 $$
 \left\{
   \begin{align*}
-    \Pr\left(\mbox{flip &= heads}\right) &= p \\
-    \Pr\left(\mbox{flip &= tails}\right) &= 1 - p
+    \Pr\left(\mbox{flip = heads}\right) &= p \\
+    \Pr\left(\mbox{flip = tails}\right) &= 1 - p
   \end{align*}
 \right.
 $$
@@ -40,8 +40,8 @@ jackpot to the ticket price.  Of course $\rho \gt 1$.  Then the distribution of 
 $$
 \left\{
   \begin{align*}
-    \Pr\left(R &= \frac{P - P_0}{P_0} &= \rho - 1\right) &= p \\
-    \Pr\left(R &= -\frac{P_0}{P_0}    &= -1\right)       &= 1 - p
+    \Pr\left(R = \frac{P - P_0}{P_0} = \rho - 1\right) &= p \\
+    \Pr\left(R = -\frac{P_0}{P_0}    = -1\right)       &= 1 - p
   \end{align*}
 \right.
 $$
