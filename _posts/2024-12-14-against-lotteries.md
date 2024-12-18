@@ -274,9 +274,9 @@ __The moral argument__ against lottery tickets is less mathematical, bu also com
   > It is not your duty to finish the work, but neither are you at liberty to neglect
   > it&hellip; &ndash;  [Pirkei Avot 2:16](https://www.sefaria.org/Pirkei_Avot.2.16?ven=Mishnah_Yomit_by_Dr._Joshua_Kulp&vhe=Torat_Emet_357&lang=bi&with=all&lang2=en) (Talmud).  
 
-  Lotteries do _not_ do this.  Investing in the general welfare of all humanity does do
-  this.  One way is by choices of a good occupation, a good spiritual life, and a good
-  community &amp; family life.  Another is by investing in the progress of all humanity, as the
+  Lotteries do _not_ do this.  Investing in the general welfare of all humanity _does_ do
+  this.  One way we can do this is by choice of a good occupation, a good spiritual life, and a good
+  community &amp; family life.  Another way is by investing in the progress of all humanity, as the
   portfolio above.   
 
 <a href="{{ site.baseurl }}/images/2024-12-14-against-lotteries-publishers.jpg"><img src="{{ site.baseurl }}/images/2024-12-14-against-lotteries-publishers-thumb.jpg" width="400" height="533" alt="The Weekend Publisher (R) and the Assistant Weekend Publisher (L) agree: ignore lottery tickers for more interesting opportunities." title="The Weekend Publisher (R) and the Assistant Weekend Publisher (L) agree: ignore lottery tickers for more interesting opportunities." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>

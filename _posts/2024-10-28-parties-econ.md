@@ -543,8 +543,8 @@ both in dollar form and as a percent of GDP, which see.
 The results say:  
 - Republican presidents are unambiguously bad for the deficit, i.e., the annual deficit
   goes up under them.  
-- Using raw numbers for the deficit weakly implicate Democrats in the House, but the
-  effecdt goes away when you use deficit as a percent of GDP.  So probably nothing there.  
+- Using raw numbers for the deficit weakly implicates Democrats in the House, but the
+  effect goes away when you use deficit as a percent of GDP.  So probably nothing there.  
   
 But Republican presidents?  _Certainly_ a bad idea, if you're a deficit hawk!  
 

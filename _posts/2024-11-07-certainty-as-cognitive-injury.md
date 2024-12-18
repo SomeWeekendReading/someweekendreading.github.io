@@ -168,6 +168,20 @@ As [Voltaire _also_ said:]({{ site.baseurl }}/quotes/#the-one-who-is-voltaire:~:
 
 > Doubt is not a pleasant condition, but certainty is absurd.  
 
+Or, if like so many conservatives, you're suspicious of Voltaire, we can let Bronowski
+have the last word (__emphasis__ mine):  
+
+> "It is said that science will dehumanize people and turn them into numbers. That is
+> false: tragically false. Look for yourself. This is the concentration camp and
+> crematorium at Auschwitz. This is where people were turned into numbers. Into this pond
+> were flushed the ashes of four million people. And that was not done by gas. It was done
+> by arrogance. It was done by dogma. It was done by ignorance. __When people believe that
+> they have absolute knowledge, with no test in reality — this is how they behave.__ This is
+> what men do when they aspire to the knowledge of gods&hellip; In the end, the words were said
+> by Oliver Cromwell: 'I beseech you, in the bowels of Christ: Think it possible you may
+> be mistaken.'" &ndash; [Jacob Bronowski](https://en.wikipedia.org/wiki/Jacob_Bronowski),
+> [_The Ascent of Man_](https://en.wikipedia.org/wiki/The_Ascent_of_Man) <sup id="fn3a">[[3]](#fn3)</sup>  
+
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
@@ -199,3 +213,5 @@ Okay, maybe set theory?  Nope, [Russell's Paradox](https://en.wikipedia.org/wiki
 Foundations are best approached cautiously, and seldom by amateurs.  [↩](#fn1a)  
 
 <a id="fn2">2</a>: R Altemeyer, [_The Authoritarians_](https://theauthoritarians.org/), 2006. __NB:__ This book, as well as much supplementary material, is available on Altemeyer's web site, as well as in print form. [↩](#fn2a)  
+
+<a id="fn3">3</a>: J Bronowski, _The Ascent of Man_, reprinted edition, London: British Broadcasting Corporation. pp. 374–375.  ISBN: [978-0-563-10498-8](https://en.wikipedia.org/wiki/Special:BookSources/978-0-563-10498-8). [↩](#fn3a)  

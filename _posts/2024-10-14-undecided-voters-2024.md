@@ -31,10 +31,10 @@ Look, it's not hard:
 - __If you want fascism,__ then I despise you.  But your choice is clear.  
 - __If you fail to vote,__ the only message you're sending is "I don't care and you can
   ignore me &amp; my interests".  That's a stupid message, so don't do that.  
-- __If you vote 3rd party,__ the only message you're sending is "I am bad at math."
-  Yes, it would be better if we had better candidates.  Yes, it would be better if we had
-  a proportional representation system, or rank-preference voting, or something other than
-  first-past-the post.  But FPTP is what's _here_, what's _real_, and what's the only
+- __If you vote 3rd party,__ the only message you're sending is "I am bad at math." Yes,
+  it would be better if we had better candidates.  Yes, it would be better if we had a
+  proportional representation system, or rank-preference voting, or something other than
+  first-past-the post.  But FPTP is what's _here_, what's _real_, and is what's the only
   thing for you to deal with.  So don't be stupid this way, either.  
   
 So, look: just vote for Democrats this time.  
