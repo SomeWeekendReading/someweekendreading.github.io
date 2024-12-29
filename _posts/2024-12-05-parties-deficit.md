@@ -267,8 +267,8 @@ matter much.
 The fit of the raw deficit is slightly better quality (lower AIC), and slightly more
 Mann-Whitney significant in predicting.  On the other hand, the deficit/GDP model includes
 important information about the growth of the economy over the period studied.  Also, the
-Presidency regression coefficient when using GDP is statistically significant, whereas
-none of the coefficients are when just using GDP.  
+Presidency regression coefficient when using GDP to scale the deficit is statistically
+significant, whereas none of the coefficients are when just using just the deficit.  
 
 In either case, they agree that Republican Presidents are bad.  They differ as to whether
 Democrats in the House matter or not.  Neither model cares about the Senate.  
