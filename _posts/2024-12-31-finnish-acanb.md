@@ -60,7 +60,7 @@ He is probably thinking something like:
 
 > "I note with some amusement that you have placed 2 small wooden sculptures of elephants
 > upon my tail.  I have no doubt that you have your own inscrutable reasons for this.  I
-> am being patient with this, because you are my very good friends and I love you.
+> am being patient with you, because you are my very good friends and I love you.
 > However, it is an effort.  But you are worth it."  
 
 More cops like this, please?  
