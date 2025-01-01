@@ -220,7 +220,7 @@ S = 0.93
 $$
 
 Now, to be sure, it was a pretty good year!  (A more typical value would be 0.4 - 0.5.)
-But it's almost _a million times better_ than the lottery ticket, in terms of return over
+But it's literally about _a million times better_ than the lottery ticket, in terms of return over
 the safe asset per unit of risk taken!  
 
 The lottery ticket is a terrible, terrible choice.  The alternatives are easily
