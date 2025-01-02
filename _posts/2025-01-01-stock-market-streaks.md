@@ -72,9 +72,9 @@ little [R](https://www.r-project.org/) script to do this <sup id="fn5a">[[5]](#f
 ### Estimating the Model With Daily Stock Market Data  
 
 Azul spoke of the Dow Jones Industrial Average, but that's pretty much a trash index.
-It's only 30 industrial stocks, and their price-weighted instead of
+It's only 30 industrial stocks, and they're price-weighted instead of
 capitalization-weighted to ease hand computation back in the day.  So if a stock has a
-split, the index changes, even though nothing economically meaningful has happened!  
+split, the index changes, even though nothing economically meaningful has happened!
 The only reason for the Dow is that the media keep shouting it into your ears.  
 
 He also mentioned, but did not analyze for streaks, the S&amp;P500.  Now, this is better:
