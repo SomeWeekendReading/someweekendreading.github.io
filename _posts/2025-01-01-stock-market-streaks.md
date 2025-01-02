@@ -28,11 +28,11 @@ He notes that the generally useless _CNN Business_ reported that:
 He goes on to talk about valuations.  He includes: 
 - The [Shiller](http://www.econ.yale.edu/~shiller/) CAPE10, which averages P/E ratios over
   business cycles with inflation adjustments (though originally found in Graham &amp;
-  Dodd's 1934 book, _Security Analysis_ <sup id="fn2a">[[2]](#fn2)</sup>, but popularized
+  Dodd's 1934 book, _Security Analysis_ <sup id="fn2a">[[2]](#fn2)</sup>, popularized
   in modern times by Shiller).  
 - He also mentions Buffet's stock market value-to-GDP ratio
   <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</sup>,
-  which is a similar thing but for the economy as a whole).  
+  which is a similar thing but for the economy as a whole.  
   
 Yes, stocks are overvalued, according to these longer-term indicators.  
 
@@ -61,7 +61,7 @@ $$
     \Pr\left(\mbox{market goes down today}\right) &= 1 - p
   \end{align*}
 \right.
-$$
+v$$
 
 for some parameter $p$ which is slightly bigger than 50%.  
 
@@ -219,6 +219,9 @@ __Caveats:__
   - So we took the last 3 factors (the choose and the 2 powers of $p$'s) into log
     space, summed up the logs, and re-exponentiated.  The small $p$ factors compensated
     and the result was always finite.  
+    ```
+    (-1)^(j+1) * (p + ((n-j*m+1)/j)*(1-p)) * exp(lchoose(n-j*m, j-1) + (j*m)*log(p) + (j-1)*log(1-p))
+	```
 - However, this is a _terrible way to proceed_ numerically, since the terms in the sum are
   alternating in sign and become quite large before settling down.  The chance that this
   is numerically stable is _extremely_ low!  
