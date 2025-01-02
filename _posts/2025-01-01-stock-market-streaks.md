@@ -28,8 +28,8 @@ He notes that the generally useless _CNN Business_ reported that:
 He goes on to talk about valuations.  He includes: 
 - The [Shiller](http://www.econ.yale.edu/~shiller/) CAPE10, which averages P/E ratios over
   business cycles with inflation adjustments (though originally found in Graham &amp;
-  Dodd's 1934 book, _Security Analysis_ <sup id="fn2a">[[2]](#fn2)</sup>, popularized
-  in modern times by Shiller).  
+  Dodd's 1934 book, _Security Analysis_ <sup id="fn2a">[[2]](#fn2)</sup>, but this measure
+  was popularized in modern times by Shiller).  
 - He also mentions Buffet's stock market value-to-GDP ratio
   <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</sup>,
   which is a similar thing but for the economy as a whole.  
@@ -51,8 +51,8 @@ __Prediction:__ We will find this is of no significance.
 
 We'll model each day's stock market result as an independent identically distributed draw
 from a [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution) (a
-slightly biased-upward coin flip, to get the overall trend that stocks mostly go up over
-time:  
+coin flip, but slightly biased in favor of "up" days, to get stocks going mostly up over
+time):  
 
 $$
 \left\{
@@ -61,7 +61,7 @@ $$
     \Pr\left(\mbox{market goes down today}\right) &= 1 - p
   \end{align*}
 \right.
-v$$
+$$
 
 for some parameter $p$ which is slightly bigger than 50%.  
 
