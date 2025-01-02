@@ -43,7 +43,7 @@ Happy Holidays, Finnish cops?  And everyone else, too?
 
 ## The Weekend Conclusion  
 
-<a href="{{ site.baseurl }}/images/2024-12-31-finnish-acanb-assistant-oatient-with-elephants.jpg"><img src="{{ site.baseurl }}/images/2024-12-31-finnish-acanb-assistant-oatient-with-elephants-thumb.jpg" width="400" height="533" alt="The Assistant Weekend Publisher, being patient with his people putting elephants on his tail" title="The Assistant Weekend Publisher, being patient with his people putting elephants on his tail" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2024-12-31-finnish-acanb-assistant-patient-with-elephants.jpg"><img src="{{ site.baseurl }}/images/2024-12-31-finnish-acanb-assistant-patient-with-elephants-thumb.jpg" width="400" height="533" alt="The Assistant Weekend Publisher, being patient with his people putting elephants on his tail" title="The Assistant Weekend Publisher, being patient with his people putting elephants on his tail" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 There is a saying in the US, of particular currency among the young: ACAB, or "all cops
 are bastards".  This has some substance behind it: the constant lying &amp; coverups, the
 paramilitary equipment, the violence with smug immunity, and the attitude of an occupying

@@ -1,0 +1,41 @@
+
+* Stock Market Streaks on Wed Jan 01 20:24:48 2025
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2025-01-01-stock-market-streaks.txt
+
+Loading data:
+-------------
+
+* Loading VTI daily price time series from ./2025-01-01-stock-market-streaks-vti-price-history.tsv.
+  - Date range: 2001-06-18 - 2024-12-30.
+  - We thus have 5921 trading days for which the day change is computable.
+
+Estimating probability of 1-day rise:
+-------------------------------------
+
+
+* Estimating probability stock market rises on any single day
+  - Naive estimate: of our 5921 trading days, the rise (true)/fall (false) days were:
+FALSE  TRUE 
+ 2695  3226 
+  - Naive probability stock market rises on a given day p = 54.48%
+  - Bayesian posterior Beta estimate (95% credibility interval): p = 54.48% (53.21% - 55.75%)
+  - Density plot to ./2025-01-01-stock-market-streaks-posterior-beta.png
+
+Characterizing streaks:
+-----------------------
+
+* Analyzing streaks with run-length encoding
+  - For down streaks (plot to ./2025-01-01-stock-market-streaks-barplots-down.png):
+  1   2   3   4   5   6   7   8 
+830 375 181  73  28  16   4   2 
+
+  - For up streaks (plot to ./2025-01-01-stock-market-streaks-barplots-up.png):
+  1   2   3   4   5   6   7   8   9  11 
+699 368 205 117  55  34  17   9   3   1 
+
+* For 5921 trading days, probability of decline of 45.52%, run length = 8 days:
+  - The probability is 0.997493.
+
+* Stock Market Streaks completed Wed Jan 01 20:24:48 2025 (0.1 sec elapsed).
