@@ -96,14 +96,14 @@ could be an actual investment accessible to ordinary folks.
 We obtained the price (and distribution series) for VTI from Yahoo
 Finance <sup id="fn6a">[[6]](#fn6)</sup>:
 - This got us 5922 trading days of data, from 2001-Jun-18 - 2024-Dec-30.  
-- Since we had to take the difference with respect to the previous day, we can't tell if
+- Since we have to compute the difference with respect to the previous day, we can't tell if
   the market went up or down on the first day.  So we have 5921 trading days where we know 
   if VTI went up or down, or just a hair over 23 years of data.  
 - In all cases, we used the "Adjusted Close" column, which is supposed to be corrected for
   things like splits and so on.  
 
 We found the market went up 3,226 days and down 2,695 days in that time interval.  A
-na&iuml;ve estimate of the probability the market goes up would then be:  
+na&iuml;ve estimate of the probability the market goes up on a single day would then be:  
 
 $$
 p = \frac{3226}{3226 + 2695} = 54.48\%
@@ -114,7 +114,7 @@ We can do a bit better with Bayesian methods to estimate the probability distrib
 reflecting our knowledge of $p$:  
 - Start with a uniform prior, i.e., $\Pr(p)$ is a uniform distribution on $[0, 1]$.  This
   is, in fact the Beta distribution $B_{1, 1}$.  
-- After observing 3226 up days out of a total of 5921 days, our posterior estimate should
+- After observing 3226 up days out of a total of 5921 days, our posterior estimate will
   still be a Beta distribution, but with much larger parameters reflecting our experience
   of a much larger number of trading days:  
   
@@ -146,7 +146,8 @@ the true answer is somewhere in 53.21% - 55.75%.
 Armed with this dataset, we can also see empirically how often there are runs of up days
 or down days.  This is exactly the job of the run-length encoding function
 [`rle()`](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/rle) in R;
-quoting from the transcript file:  
+quoting from the transcript file, we made frequency tables that tell us how often we
+observed up/down streaks of a given number of days:  
 
 ```
   - For down streaks (plot to ./2025-01-01-stock-market-streaks-barplots-down.png):
@@ -174,12 +175,12 @@ This is shown graphically in the 2 plots here.  We note that:
 
 Azul looked back about 50 years, to 1974.  We looked back about half as far, to 2001.  But
 even with our shorter dataset, we see that long(ish) streaks are a thing that happens
-often enough that you should expect to see them.  
+often enough that you should expect to see them a time or two.  
 
 ### Is That Reasonable?  
 
 We'd like to ask: if daily changes in the stock market are random walks with the $p$-Bernoulli
-distribution above, how often should we expect to see a streak of a given length?  
+distribution above, how often should we expect to see a streak of a given length or longer?  
 
 This turns out to be surprisingly difficult, with a variety of solutions proposed!
 <sup id="fn7a">[[7]](#fn7)</sup> <sup id="fn8a">[[8]](#fn8)</sup>
