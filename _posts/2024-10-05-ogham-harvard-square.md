@@ -66,7 +66,7 @@ reading, as shown here.
 
 Ok, fine&hellip; but what's that?  Wiktionary reliably informs us that
 ["anal&aacute;igh" is a word in (modern) Irish/Gaelige for the verb "breathe"](https://en.wiktionary.org/wiki/an%C3%A1laigh).
-(Though usually the second a has an acute accent, as in &aacute;.)  
+(Though usually the third 'a' has an acute accent, as in &aacute;.)  
 
 That _almost_ makes sense, since the yoga studio is named "BR&Emacr;ATHE", albeit with
 the incomprehensible macron over the E.  
