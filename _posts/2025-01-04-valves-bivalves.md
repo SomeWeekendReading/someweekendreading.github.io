@@ -33,6 +33,12 @@ If more than 4 out of the 8 mussels no longer care for the taste of the water an
 their shells, then a computer closes off the water supply.  The bivalves control the
 valves.  (The story does not say what the city does for water in that eventuality.)
 
+(__NB:__ Tom Scott's video is a bit more skeptical, but to satisfy that skepticism he got
+to talk to the staff of the water treatment plant.  The shutdown criterion is a bit more
+complex: 6/8 mollucs closed, all within 4 minutes, and overall activity drops below 25%.
+Probably a couple other things, too.  As Scott is careful to express clearly, this is
+_one part of a defense in depth_, along with other mechanical and chemical detectors.)  
+
 After a few months, the mussels become too accustomed to their new lives and are thus
 returned to the wild and replaced by new mussels.  At least on the surface, it sounds
 remarkably humane, as well as clever.
