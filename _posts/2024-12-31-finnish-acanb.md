@@ -59,7 +59,7 @@ example.  They fairly exude patience, like the Assistant Weekend Publisher, show
 He is probably thinking something like: 
 
 > "I note with some amusement that you have placed 2 small wooden sculptures of elephants
-> upon my tail.  I have no doubt that you have your own inscrutable reasons for this.  I
+> upon my tail.  I have no doubt that you have your own inscrutable reasons for doing this.  I
 > am being patient with you, because you are my very good friends and I love you.
 > However, it is an effort.  But you are worth it."  
 
