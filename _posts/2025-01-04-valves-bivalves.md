@@ -14,12 +14,14 @@ supply and closing valves.  With bivalves.
 
 <a href="{{ site.baseurl }}/images/2025-01-04-valves-bivalves-clam-water-detector.jpg"><img src="{{ site.baseurl }}/images/2025-01-04-valves-bivalves-clam-water-detector-thumb.jpg" width="400" height="202" alt="A mussel with a magnet and spring glued to its shell, so when it closes it trips a switch" title="A mussel with a magnet and spring glued to its shell, so when it closes it trips a switch" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <iframe width="400" height="224" src="https://www.youtube.com/embed/h1lRDdPbhio?si=IHgleAzoxoiJMjDe" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<iframe width="400" height="224" src="https://www.youtube.com/embed/i0RkEs3Xwf0?si=5Jv8CuhGb7r4DHeV" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 It appears that the city of Poznań, in western Poland, has an intriguing method of assaying and
   controlling their water supply. <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup> 
 <sup id="fn3a">[[3]](#fn3)</sup> <sup id="fn4a">[[4]](#fn4)</sup> <sup id="fn5a">[[5]](#fn5)</sup>
-They're partly worried about terrorist attacks on the water supply, but also about
-bacterial contamination.   And, being in an old East-Bloc nation, the occasional heavy
-metal contaminant, like chromium.  It's a problem, having to test for so many things at once!  
+<sup id="fn6a">[[6]](#fn6)</sup> They're partly worried about terrorist attacks on the
+water supply, but also about bacterial contamination.   And, being in an old East-Bloc
+nation, the occasional heavy metal contaminant, like chromium.  It's a problem, having to
+test for so many things at once!  
 
 They came upon an intriguing solution, involving local mussels.  They normally are very
 sensitive to a variety of pollutants, which cause them to close their shells.  So 8
@@ -78,3 +80,5 @@ Yeah, that crummy little joke was pretty much the whole reason for this post.
 <a id="fn4">4</a>: C Giamo, ["These Hardworking Mussels Monitor Poland’s Drinking Water"](https://www.atlasobscura.com/articles/wild-life-excerpt-water-quality-mussels), _Atlas Obscura_, 2024-Jun-14. [↩](#fn4a)  
 
 <a id="fn5">5</a>: J Pelka, ["Fat Kathy (Gruba Kaśka)"](https://www.polishshorts.pl/en/films/2063/fat_kathy), _Polish Shorts_ film collection.  Also [available full-length on YouTube](https://www.youtube.com/watch?v=h1lRDdPbhio).[↩](#fn5a)  
+
+<a id="fn6">6</a>: T Scott, ["Is Poland's tap water really protected by clams?"](https://www.youtube.com/watch?v=i0RkEs3Xwf0), _Tom Scott's YouTube Channel_,  2022-Oct-31. [↩](#fn6a)  
