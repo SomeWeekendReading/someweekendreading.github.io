@@ -71,6 +71,9 @@ it offers the precise amount of respect the question deserves.
 As you can see here, the Weekend Publisher &amp; Assistant Weekend Publisher agree.  They
 are devoting their attention to far more important matters.  
 
+And now, on the day Congress has certified the results of the 2024 US presidential
+election, it is more important than ever to continue to avow:
+
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
