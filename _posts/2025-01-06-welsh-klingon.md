@@ -57,6 +57,7 @@ The intrepid Mr Millar responded:
 
 ## The Weekend Conclusion  
 
+<a href="{{ site.baseurl }}/images/2025-01-06-welsh-ufo-klingon-publishers.jpg"><img src="{{ site.baseurl }}/images/2025-01-06-welsh-ufo-klingon-publishers-thumb.jpg" width="400" height="674" alt="The Weekend Publisher &amp; assistant, busy with more important projects." title="The Weekend Publisher &amp; assistant, busy with more important projects." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Oddly, this is not the first time on this Crummy Little Blog That Nobody Reads (CLBTNR)
 that we've had to take note of Welsh government Ministers behaving&hellip; _oddly._  Back
 in early 2021, we noted <sup id="fn2a">[[2]](#fn2)</sup> a death-wish policy that spread
@@ -66,6 +67,9 @@ arms as soon as possible.
 I like this more recent little jape much better, as nobody will die from hearing a
 sentence of Klingon in response to a dumbfoundingly stupid question.  One might even say
 it offers the precise amount of respect the question deserves.  
+
+As you can see here, the Weekend Publisher &amp; Assistant Weekend Publisher agree.  They
+are devoting their attention to far more important matters.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
