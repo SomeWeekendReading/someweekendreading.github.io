@@ -62,10 +62,10 @@ Oddly, this is not the first time on this Crummy Little Blog That Nobody Reads (
 that we've had to take note of Welsh government Ministers behaving&hellip; _oddly._  Back
 in early 2021, we noted <sup id="fn2a">[[2]](#fn2)</sup> a death-wish policy that spread
 vaccines out over the month until the next delivery, rather than just getting them into
-arms as soon as possible.  
+arms as fast as possible.  
 
 I like this more recent little jape much better, as nobody will die from hearing a
-sentence of Klingon in response to a dumbfoundingly stupid question.  One might even say
+sentence or two of Klingon in response to a dumbfoundingly stupid question.  One might even say
 it offers the precise amount of respect the question deserves.  
 
 As you can see here, the Weekend Publisher &amp; Assistant Weekend Publisher agree.  They
@@ -74,7 +74,7 @@ are devoting their attention to far more important matters.
 And now, on the day Congress has certified the results of the 2024 US presidential
 election, it is more important than ever to continue to avow:
 
-[(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+[_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
 ---
 
