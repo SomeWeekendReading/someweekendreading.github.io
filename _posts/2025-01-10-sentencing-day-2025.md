@@ -12,9 +12,9 @@ So&hellip; Trump Sentencing Day, eh?
 ## The Definition of Anti-Climax  
 
 We've in the past written about Trump's criminal
-[Indictment Day]({{ site.baseurl }}/indictment-day-2023), his 
-[Arraignment Day]({{site.baseurl }}/arraignment-day-2023), his
-[Conviction Day]({{ site.baseurl }}/trump-guilty-nyc), and hoped for his Sentencing Day.  
+[Indictment Day]({{ site.baseurl }}/indictment-day-2023/), his 
+[Arraignment Day]({{site.baseurl }}/arraignment-day-2023/), his
+[Conviction Day]({{ site.baseurl }}/trump-guilty-nyc/), and hoped for his Sentencing Day.  
 
 Alas, those should have come out in triplets: the NYC hush money case, the federal
 insurrection case, and the illegal possession of secret documents case.  The last two have
