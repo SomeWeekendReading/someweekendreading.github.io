@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harris at the Democratic National Convention
-tags: CatBlogging NotableAndQuotable PoliticsTheDivineMadness &Gammad;&Tau;&Phi;
+tags: CatBlogging NotableAndQuotable Politics TheDivineMadness &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: true
 ---
