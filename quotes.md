@@ -1362,3 +1362,4 @@ _Business Week_, 14-Nov-2003.
 - "Is it possible to pretend to be unpretentious?"  
 - "The world is big.  There's more stuff you don't know anything about that the stuff you
   already know.  _Expect surprises!_"  
+- "The canary in the coal mine isn't there for the benefit of the canary."  
