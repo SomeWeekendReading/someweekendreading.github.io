@@ -192,7 +192,7 @@ that has been, somehow, fried.  Possibly deep-fried.  They also sell a lot of ot
 Now, I almost get this one better than the previous one.  I mean, if you're gonna go for
 some insanely indulgent, artery-clogging, type 2 diabetes-inducing dessert, you might as
 well do something absurd.  I mean,
-[if you're gonna lose your grip on reality, you might as well let go with both hands.](http://localhost:4000/quotes/#:~:text=%E2%80%9CIf%20you%E2%80%99re%20gonna%20lose%20your%20grip%20on%20reality%2C%20let%20go%20with%20both%20hands.%20No%20half%20measures!%E2%80%9D)  
+[if you're gonna lose your grip on reality, you might as well let go with both hands.]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CIf%20you%E2%80%99re%20gonna%20lose%20your%20grip%20on%20reality%2C%20let%20go%20with%20both%20hands.%20No%20half%20measures!%E2%80%9D)  
 
 The [Scalzi _schadenfreude pie_](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
 comes to mind as an American example. Though that was irony, not a business model.
