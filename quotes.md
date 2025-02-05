@@ -1061,10 +1061,11 @@ is a fitting response to &mdash; and then to give it that response."
 [_The Examined Life_](https://en.wikipedia.org/wiki/The_Examined_Life).  
 
 "Always preach the gospel; use words, if necessary."
-&mdash; [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi) (though probably 
-[falsely attributed](http://www.americancatholic.org/Messenger/Oct2001/Wiseman.asp#F1), this 
-reflects the spirit of Chapter XVII of the 
-[Rule of 1221](https://en.wikipedia.org/wiki/Rule_of_Saint_Francis#The_Rule_of_1221)).  
+&mdash; [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi) (though probably
+[falsely attributed](http://www.americancatholic.org/Messenger/Oct2001/Wiseman.asp#F1), this
+reflects the spirit of Chapter XVII of the
+[Rule of 1221](https://en.wikipedia.org/wiki/Rule_of_Saint_Francis#The_Rule_of_1221): "All
+the Friars&hellip; should preach by their deeds" ).  
 
 "Life can only be understood backwards; but it must be lived forwards."
 &mdash; [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard),
@@ -1363,3 +1364,4 @@ _Business Week_, 14-Nov-2003.
 - "The world is big.  There's more stuff you don't know anything about that the stuff you
   already know.  _Expect surprises!_"  
 - "The canary in the coal mine isn't there for the benefit of the canary."  
+- "If my dreams won't come true, then I might as well sleep through them."  
