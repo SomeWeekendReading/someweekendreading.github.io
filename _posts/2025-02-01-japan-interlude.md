@@ -70,21 +70,21 @@ cool.
 Yes, this is [pareidolia](https://en.wikipedia.org/wiki/Pareidolia).   But it's _my_
 pareidolia.  
 
-<img src="{{ site.baseurl }}/images/2025-02-01-japan-interlude-gaufuru.jpg" width="300" height="400" alt="Display of 'gaufuru' wafer cookies, much beloved by my late beloved friend" title="Display of 'gaufuru' wafer cookies, much beloved by my late beloved friend" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-These are some Japanese cookies called _gaufuru_, apparently derived from 'gauffre'
+<img src="{{ site.baseurl }}/images/2025-02-01-japan-interlude-gaufuru.jpg" width="300" height="400" alt="Display of 'gofuru' wafer cookies, much beloved by my late beloved friend" title="Display of 'gofuru' wafer cookies, much beloved by my late beloved friend" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+These are some Japanese cookies called _gofuru_, apparently derived from 'gauffre'
 (except those are more like Belgian waffles).  They're extremely thin wafer cookies,
 sandwiching a very thin layer of various flavors.  
 
 They always catch my eye, because I used to bring them back as souvenirs for a friend who
 loved them.  That friend is now no longer with us, a victim of depression.  But every time
-I see _gaufuru_, I think 'Hey, I should get some for&hellip;' and then remember he's
+I see _gofuru_, I think 'Hey, I should get some for&hellip;' and then remember he's
 gone.  
 
 It's sad to feel his absence, but it's good to remember people, especially for the good
 they did with their lives.  While I hope the best for him in a religious sense, I also
 remember the good he did here, with his relentless kindness and good humor.  
 
-And, yeah&hellip; I get momentary tears in my eyes when seeing _gaufuru._  
+And, yeah&hellip; I get momentary tears in my eyes when seeing _gofuru._  
 
 Miss you, buddy.  
 
@@ -377,8 +377,8 @@ squirming a bit.  Most people will love it.)
 
 <a href="{{ site.baseurl }}/images/2025-02-01-japan-interlude-angelique-2.jpg"><img src="{{ site.baseurl }}/images/2025-02-01-japan-interlude-angelique-2-thumb.jpg" width="300" height="343" alt="Ang&eacute;lique: dix plats, prix fixe" title="Ang&eacute;lique: dix plats, prix fixe" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 We had a _prix fixe_ dinner of 10 plates, shown here.  My memory's gotten a bit vague, but
-working left-to-right/top-to-bottom: a bit of quiche, some tuna, a mushroom bake of some
-sort, a scallop, a soup probably of squash, a shrimp/mussels/risotto, a salad with
+working left-to-right/top-to-bottom: a bit of quiche, some seared tuna, a mushroom
+p&acirc;t&eacute;, a scallop, a soup probably of squash, a shrimp/mussels/risotto, a salad with
 brilliantly bright _mikan_ and kiwi, some beef with either a red wine sauce or
 _demi-glace_ (the latter is available in, it seems, every Japanese grocery store; in the
 US it's a specialty item so [we pull tricks like this](https://www.youtube.com/watch?v=V4WLUMS7Ung)),
