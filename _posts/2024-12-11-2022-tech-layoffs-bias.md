@@ -107,7 +107,7 @@ Now, a 1.8% probability of layoff doesn't sound so bad, does it?  Well, it _does
 realize this is 1.8% _per year_, which adds up quickly.  That's a 10% turnover every 5
 years through deliberate layoffs, not just attrition!  If you add in a _very_ optimistic
 5% turnover per year (most companies are 10% - 15%), then this means you're losing more
-than 1/3 of your employees every year.  
+than 1/3 of your employees every 5 years.  
 
 So we're beginning to get an inkling that tech has a problem with management addicted to
 layoffs.  
