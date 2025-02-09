@@ -81,7 +81,7 @@ Yeah, that crummy little joke was pretty much the whole reason for this post.
 
 <a id="fn2">2</a>: A Micu, ["In Poznan, Poland, eight clams get to decide if people in the city get water or not"](https://www.zmescience.com/ecology/poznan-mussel-water-plants-892524/), _ZME Science_, 2020-Dec-28.  Downloaded 2024-Jan-04. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Unknown Author, ["How clams help keep Polish water clean"](https://web.archive.org/web/20210817160139/https://www.economist.com/europe/2021/01/21/how-clams-help-keep-polish-water-clean), _The Economist_, 2021-Jan-21.  __NB:__ Link is to a Wayback Machine that may, or may not, get you past the paywall if you're judicious enough on disabling javascript. [↩](#fn3a)  
+<a id="fn3">3</a>: Unknown Author, ["How clams help keep Polish water clean"](https://web.archive.org/web/20210817160139/https://www.economist.com/europe/2021/01/21/how-clams-help-keep-polish-water-clean), _The Economist_, 2021-Jan-21.  __NB:__ Link is to a Wayback Machine that may, or may not, get you past the paywall if you're judicious enough about disabling javascript. [↩](#fn3a)  
 
 <a id="fn4">4</a>: C Giamo, ["These Hardworking Mussels Monitor Poland’s Drinking Water"](https://www.atlasobscura.com/articles/wild-life-excerpt-water-quality-mussels), _Atlas Obscura_, 2024-Jun-14. [↩](#fn4a)  
 
