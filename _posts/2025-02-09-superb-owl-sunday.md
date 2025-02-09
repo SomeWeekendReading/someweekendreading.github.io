@@ -12,7 +12,7 @@ should one celebrate this?
 
 ## How to Celebrate  
 
-<a href="{{ site.baseurl }}/images/2025-02-09-superb-owl-sunday-greek.jpg"><img src="{{ site.baseurl }}/images/2025-02-09-superb-owl-sunday-greek-thumb.jpg" width="400" height="456" alt="Ancient Greeks celebrated Superb Owl Sunday, too!" title="Ancient Greeks celebrated Superb Owl Sunday, too!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2025-02-09-superb-owl-sunday-greek.jpg"><img src="{{ site.baseurl }}/images/2025-02-09-superb-owl-sunday-greek-thumb.jpg" width="400" height="456" alt="Ancient Greeks celebrated Superb Owl Sunday, too! (Wikimedia)" title="Ancient Greeks celebrated Superb Owl Sunday, too! (Wikimedia)" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Easy: find a superb owl, then admire it.  
 
 Here, for example, is how superb owls were celebrated in ancient Greece.  This pottery,
