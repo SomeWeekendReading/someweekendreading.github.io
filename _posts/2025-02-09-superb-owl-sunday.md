@@ -64,4 +64,4 @@ That was easy!
 
 Accession number CA 2192.  
 
-Summary from the [Perseus Digital Library at Tufts University](https://www.perseus.tufts.edu/hopper/): "An owl, wearing a crest, and carrying a spear and shield, advances to the right, toward an olive frond that springs from the ground".[↩](#fn1a)  
+Summary from the [Perseus Digital Library at Tufts University](https://www.perseus.tufts.edu/hopper/artifact?name=Louvre+CA+2192&object=Vase): "An owl, wearing a crest, and carrying a spear and shield, advances to the right, toward an olive frond that springs from the ground".[↩](#fn1a)  
