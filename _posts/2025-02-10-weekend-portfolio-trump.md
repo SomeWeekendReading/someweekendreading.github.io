@@ -204,6 +204,8 @@ VTIAX = $I$11 * $B$23 - VTIAXt - (1 - $B$27)*VTWAX
 
 ## The Weekend Conclusion  
 
+This is not investment advice; it's just a summary of what we're doing Chez Weekend.  
+
 The world is terrible.  But as all the existentialists have said, "Nevertheless, here we
 are."  We have to cope with what is in front of us.  
 
