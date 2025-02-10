@@ -37,8 +37,9 @@ The ground rules were:
 > We want to maintain international diversification too.  The US is about 55% of the world
 > stock market, so an unbiased portfolio would have a US/foreign ratio of 55/45.  We achieve
 > that partly through using
-> [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX), the world stock index
-> fund, equivalent to the ETF [VT](https://investor.vanguard.com/etf/profile/vt).
+> [VTWAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtwax),
+> the world stock index fund, equivalent to the ETF
+> [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt).
 > 
 > We also want to diversify across the value and size factors, so we include tilts in the
 > stock portion to REITs (value-ish), US small value stocks, and foreign small stocks.  
@@ -239,7 +240,7 @@ As must we all.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Vanguard's foreign bond index fund [VTABX](https://investor.vanguard.com/mutual-funds/profile/VTABX) is currency-hedged back to the dollar, so it has no currency risk.  It's largely sovereign bonds of developed nations, so it looks like Treasuries.  Vanguard always recommends it.  
+<a id="fn1">1</a>: Vanguard's foreign bond index fund [VTABX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtabx) is currency-hedged back to the dollar, so it has no currency risk.  It's largely sovereign bonds of developed nations, so it looks like Treasuries.  Vanguard always recommends it.  
 
 The last time I looked, Vanguard's evidence said it wouldn't help diversification much&hellip; but wouldn't hurt either.  (See [here]({{ site.baseurl }}/assets/icrifi_032012_high.pdf), Figure 7 on p.10: note the broad, shallow "optimum" where the portfolio variance changes by only 0.2% as the foreign bond allocation goes from 0% to 100%!)  So I decided to take Vanguard's advice. [↩](#fn1a)  
 
