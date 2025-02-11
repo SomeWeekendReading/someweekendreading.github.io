@@ -175,8 +175,8 @@ $$
 \right.
 $$
 
-So, since those are substantially equal, our US/foreign allocation is indeed what we think
-it is at 50/50.  
+Since those are substantially equal, our US/foreign allocation is indeed what we think
+it is at a 50/50 split.  
 
 <!--
 domestic total market allocation = equity    * not REIT  * TotMkt * not foreign
@@ -205,7 +205,7 @@ VTIAX = $I$11 * $B$23 - VTIAXt - (1 - $B$27)*VTWAX
 
 ## The Weekend Conclusion  
 
-This is not investment advice; it's just a summary of what we're doing Chez Weekend.  
+This is not investment advice; it's just a summary of what we're doing here at Ch&acirc;teau Weekend.  
 
 The world is terrible.  But as all the existentialists have said, "Nevertheless, here we
 are."  We have to cope with what is in front of us.  
