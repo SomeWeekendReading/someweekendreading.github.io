@@ -99,7 +99,7 @@ our market indexing principles _very_ seriously, we might conclude that
 _no more than 45% of assets should be invested in the US._  
 
 We are, however, willing to invoke pragmatism: we live in the US, we earn in the US, we
-pay taxes in the US, and we spend in the US.  A certain amount of home market bias is
+pay taxes in the US, and we spend in the US.  A _small_ amount of home market bias is
 excusable.  
 
 What's not excusable is letting home market bias bind us to unique home market risks
@@ -109,16 +109,17 @@ imposed by Republicans.  We're getting slightly more defensive because of that.
 ## The Results   
 
 <img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-table.jpg" width="400" height="227" alt="Asset allocation table for the Weekend Retirement Portfolio" title="Asset allocation table for the Weekend Retirement Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-Here's what the old portfolio looked like, which we've held since around 2020 (before
-that, during the accumulation years we held a similar but more aggressive version with less bonds):  
+Here's what the old portfolio looked like.  We've held something very close to this since
+around 2020 (before that, during the accumulation years we held a similar but more
+aggressive version with less bonds):  
 - 60/40 stock/bond ratio  
 - 60/40 US/foreign stock ratio  
 - 60/40 total market/small-value tilts ratio  
 - 75/25 US/foreign bond ratio.  
 
 <img src="{{ site.baseurl }}/images/2021-06-19-retirement-portfolio-allocation-pie.jpg" width="400" height="150" alt="Asset allocation pie chart for the Weekend Retirement Portfolio" title="Asset allocation pie chart for the Weekend Retirement Portfolio" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"/>
-In terms of tax placement, it's less in the tax-free Roth compartment than you'll see
-below.  This is due to 2 factors:  
+In terms of tax placement, the old portfolio was less in the tax-free Roth compartment than you'll see
+below with the new portfolio.  This is due to 2 factors:  
 1. Relentless annual partial Roth conversions, in which we're gradually converting to a
    portfolio that will be largely immune to future tax rate changes (or at least
    reasonably diversified in that respect).  
