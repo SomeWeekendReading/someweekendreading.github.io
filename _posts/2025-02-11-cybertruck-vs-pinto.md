@@ -35,9 +35,9 @@ at Ford, and largely ignored:
 > According to The Unknown Iacocca, 117 lawsuits were brought against Ford for
 > Pinto-related injuries or deaths. There is no record of how much Ford paid out, though
 > in the case of Richard Grimshaw, Lilly Gray’s 13-year-old passenger, in 1978 the jury
-> awarded him $2.8 million in compensatory damages ($13.3 million in 2024 dollars) and
-> $125 million ($595 million in 2024) in punitive damages, the latter reduced to $3.5
-> million ($16.7 million) by the judge. After that verdict, Ford settled most of the rest
+> awarded him \\$2.8 million in compensatory damages (\\$13.3 million in 2024 dollars) and
+> \\$125 million (\\$595 million in 2024) in punitive damages, the latter reduced to \\$3.5
+> million (\\$16.7 million) by the judge. After that verdict, Ford settled most of the rest
 > of the Pinto cases out of court.  
 >  
 > In 1979, the state of Indiana indicted Ford on three counts of reckless homicide after a
