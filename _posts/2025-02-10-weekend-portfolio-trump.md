@@ -156,9 +156,11 @@ The pie charts show some of the same information, but in graphical form:
 - Obviously we have a 50/50 stock/bond ratio, and a 50/50 US/foreign stock ratio.  (The
   US/foreign bond ratio does not appear in this plot; perhaps it should?)  
 
-The US/foreign real estate allocation (REITs) are obviously 50/50 US/foreign.  
+The US/foreign real estate allocation (REITs) are obviously 50/50 US/foreign.  Also, the
+"tilt" funds to US small value and foreign small are obviously 50/50.  
 
-In order to verify the US/foreign stock ratio, some extra information is required:  
+In order to verify the US/foreign stock ratio of the cap-weighted funds, some extra
+information is required:  
 - VTCLX and VTMSX are 100% US stocks, 0% foreign.  
 - VTIAX is 0% US stocks, 100% foreign stocks.  
 - VTWAX is (as of 2024-Dec-31) 63.58% US stocks, 36.42% foreign stocks.  
