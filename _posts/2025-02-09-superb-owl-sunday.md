@@ -27,8 +27,8 @@ the owl for wisdom.
 
 Just admire it, and move on.  
 
-You have now celebrated Superb Owl Sunday.  You need not trouble yourself with any further
-ceremony on the subject.  
+You have now celebrated Superb Owl Sunday, correctly and completely.  You need not trouble
+yourself with any further ceremony on the subject.  
 
 Not even sportsball-related ceremonies.  
 

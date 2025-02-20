@@ -50,7 +50,7 @@ safety problems, and weighed the cost of fixing them versus the cost of paying o
 lawsuits, including wrongful death lawsuits.  Ford had to be compelled legally, kicking
 and screaming all the way, into making the Pinto at least somewhat safer.  
 
-If you thing the cost of a wrongful death lawsuit is an accounting problem, you have
+If you think the cost of a wrongful death lawsuit is an accounting problem, you have
 committed a serious [_category error_](https://en.wikipedia.org/wiki/Category_mistake).
 This is not about accounting, or even about money. It is a _moral_ calculation, which you
 have failed due to a sociopathic devotion to money.  
@@ -80,7 +80,7 @@ Cybertrucks. <sup id="fn3a">[[3]](#fn3)</sup>
 
 The fatality data is relatively straightforward to acquire since death tends to leave a
 paper trail.  They've gone with the lowest, most solidly verifiable numbers of deaths here
-in both cases.  However, the number of units manufactured is more difficult in a way that
+in both cases.  However, the number of units manufactured is more difficult to know, in a way that
 wasn't obvious to me:  
 - Ford's Pinto was a long(ish) time ago, so everything is kind of buried.  However, they
   offer their thanks in an amusing way:  
@@ -106,8 +106,8 @@ to be in the generally correct neighborhood, anyway.
 
 We need to normalize the death counts somehow; ideally we'd use something like
 passenger-hours.  That being unavailable, we'll use the number of units produced and
-assume people use their cars about the same.  (That could be quite a stretch between 1970
-and 2020!)  
+assume people use their cars about the same number of hours.  (That could be quite a
+stretch between 1970 and 2020!)  
 
 Our first rough estimate of the probability of a fire death is:  
 
@@ -194,11 +194,13 @@ exact test about the very large effect size.
 ## The Weekend Conclusion  
 
 Look, it's inescapable: the Cybertruck is a _greater danger of fire death_ than the infamous
-Ford Pinto.  There's no doubt the effect is real, and large.  
+Ford Pinto:
+- There is no doubt the effect is _real._  
+- There is no doubt the effect is _large._  
 
 The last time this happened (the Pinto) there were regulations, there were _criminal_
 cases, and the cars were forcibly changed against the will of the manufacturer.  Will we
-do the same against today's Neo-Gilded Age billionaires?  
+do the same against today's New Gilded Age billionaires?  
 
 If not, I suppose tumbrels are always a possibility.  
 
