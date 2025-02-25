@@ -504,6 +504,12 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "Il nous faut de l'audace, encore l'audace, toujours l'audace!" (We must dare, dare again, and always dare.) &mdash; [Georges Jacques Danton](https://en.wikipedia.org/wiki/Georges_Danton), L'Assembl&eacute;e legislative, Paris, 1792-Sep-02.  (Yes, it was the French Revolution.  He was still right.  At least about this.)  
 
+"&hellip; 'woke' just means you give a damn about other people." &mdash; [Jane Fonda](https://en.wikipedia.org/wiki/Jane_Fonda), upon receiving the SAG-AFTRA life achievement award, [2025-Feb-24](https://variety.com/2025/film/news/jane-fonda-sag-awards-speech-woke-empathy-1236312986/)  
+
+"Faites attention, quand une d&eacute;mocratie est malade, le fascisme vient &agrave; son chevet mais ce n'est pas pour prendre de ses nouvelles.  (Be careful. When a democracy is sick, fascism comes to its bedside, but it is not to inquire about its health.)" &mdash; [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), (citation uncertain)  
+
+"People say he's crazy and maybe he is, but you do not know anyone as stupid as Donald Trump. You just don't." &mdash; [Fran Lebowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz), after decades of close observation  
+
 
 ## Those of Rational &amp; Scientific Bent
 
@@ -1188,6 +1194,8 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 "&hellip; [deontology](https://en.wikipedia.org/wiki/Deontology) is just [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) for superstitious children who can't do math." &ndash; [Geoffrey Miller](https://twitter.com/primalpoly/status/1565421629202505730) (Not originally intended religiously, but easily adapted therunto.)  
 
 "Satire is meant to ridicule power. If you are laughing at people who are hurting, it's not satire, it's bullying." &ndash; attributed to [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett); apparently _falsely attributed_, though it's a good bet he'd have agreed  
+
+"Il faut imaginer Sisyphe heureux." (One must imagine Sisyphus happy. I.e., the task of life itself must be a source of joy, even without success.)  &mdash; [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), the last sentence of [_Le Mythe de Sisyphe_ (_The Mythy of Sisyphus_)](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)  
 
 
 ## The One Who Is Voltaire  
