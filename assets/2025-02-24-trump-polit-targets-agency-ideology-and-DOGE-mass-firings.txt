@@ -1,0 +1,145 @@
+
+* DOGE firings vs Ideology Estimates on Mon Feb 24 21:15:14 2025
+  - input data directory: .
+  - results directory:    .
+  - transcript to:        ./2025-02-24-trump-polit-targets-agency-ideology-and-DOGE-mass-firings.txt
+
+Loading data:
+-------------
+
+* Loading Bonica data from ./2025-02-24-trump-polit-targets-agency-ideology-and-DOGE-mass-firings.tsv
+  - Found 123 rows x 7 columns:
+    Agency, Perceived_Ideology_Estimate, Annual_Budget_USD, Total_Staff, doge_layoffs, targeted_for_dismantling, source
+
+Analyses:
+---------
+
+* Scatterplots colored by layoffs/dismantling:
+  - Scatterplot of Total_Staff vs ideology to ./2025-02-24-trump-polit-targets-Total_Staff-ideology-firings.png.
+  - Scatterplot of Annual_Budget_USD vs ideology to ./2025-02-24-trump-polit-targets-Annual_Budget_USD-ideology-firings.png.* Intended actions on agencies, by ideology score:
+                 Left Right Totals
+Both                2     0      2
+Dismantling Only    0     0      0
+Layoffs Only       25     7     32
+Neither            30    59     89
+Totals             57    66    123
+
+	Fisher's Exact Test for Count Data
+
+data:  freqs
+p-value = 1.076e-05
+alternative hypothesis: two.sided
+
+
+
+* Biclustering correlations to ./2025-02-24-trump-polit-targets-bicluster.png.
+  - Correlation matrix (pairwise complete observations):
+                            doge_layoffs Perceived_Ideology_Estimate
+doge_layoffs                        1.00                       -0.41
+Perceived_Ideology_Estimate        -0.41                        1.00
+Annual_Budget_USD                   0.26                        0.09
+Total_Staff                         0.07                        0.33
+                            Annual_Budget_USD Total_Staff
+doge_layoffs                             0.26        0.07
+Perceived_Ideology_Estimate              0.09        0.33
+Annual_Budget_USD                        1.00        0.65
+Total_Staff                              0.65        1.00
+
+* Regressions:
+  - Silly linear regression (uncrossvalidated):
+
+Call:
+lm(formula = doge_layoffs ~ Perceived_Ideology_Estimate + log(Annual_Budget_USD) + 
+    log(Total_Staff), data = bonicaData)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.6321 -0.2577 -0.1058  0.2919  0.9369 
+
+Coefficients:
+                            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                 -1.14007    0.41633  -2.738  0.00717 ** 
+Perceived_Ideology_Estimate -0.21011    0.03938  -5.335 4.91e-07 ***
+log(Annual_Budget_USD)       0.05627    0.02396   2.349  0.02056 *  
+log(Total_Staff)             0.01986    0.02865   0.693  0.48948    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.3947 on 114 degrees of freedom
+  (5 observations deleted due to missingness)
+Multiple R-squared:  0.2661,	Adjusted R-squared:  0.2468 
+F-statistic: 13.78 on 3 and 114 DF,  p-value: 9.938e-08
+
+
+  - Slightly less silly logistic regression (uncrossvalidated):
+
+Call:
+glm(formula = doge_layoffs ~ Perceived_Ideology_Estimate + log(Annual_Budget_USD) + 
+    log(Total_Staff), family = binomial(link = "logit"), data = bonicaData)
+
+Coefficients:
+                            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                  -9.4165     2.8449  -3.310 0.000933 ***
+Perceived_Ideology_Estimate  -1.3391     0.3136  -4.270 1.95e-05 ***
+log(Annual_Budget_USD)        0.2873     0.1518   1.893 0.058415 .  
+log(Total_Staff)              0.2001     0.1871   1.070 0.284681    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 141.71  on 117  degrees of freedom
+Residual deviance: 107.04  on 114  degrees of freedom
+  (5 observations deleted due to missingness)
+AIC: 115.04
+
+Number of Fisher Scoring iterations: 5
+
+# R2 for Generalized Linear Regression
+       R2: 0.262
+  adj. R2: 0.248
+
+  - Simplest model using just agency perceived ideology as a predictor:
+Call:
+glm(formula = doge_layoffs ~ Perceived_Ideology_Estimate, family = binomial(link = "logit"), 
+    data = bonicaData)
+
+Coefficients:
+                            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                  -1.1287     0.2398  -4.706 2.52e-06 ***
+Perceived_Ideology_Estimate  -1.1480     0.2720  -4.220 2.44e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 145.03  on 122  degrees of freedom
+Residual deviance: 121.62  on 121  degrees of freedom
+AIC: 125.62
+
+Number of Fisher Scoring iterations: 5
+
+# R2 for Generalized Linear Regression
+       R2: 0.161
+  adj. R2: 0.148
+
+  - Doing cross-validated, LASSO-regluated logistic regression with glmnet()
+    o Plot of coeffs vs lambda to ./2025-02-24-trump-polit-targets-glmnet-coeffs-vs-lambda.png
+    o Plot of crossvalidated error vs lambda to ./2025-02-24-trump-polit-targets-glmnet-cv-lse-vs-lambda.png
+    o Coefficients at lambda min:
+4 x 1 sparse Matrix of class "dgCMatrix"
+                                    s1
+(Intercept)                 -8.6750538
+Perceived_Ideology_Estimate -1.2165875
+Annual_Budget_USD            0.2765157
+Total_Staff                  0.1495411
+
+    o Coefficients at lambda 1se:
+4 x 1 sparse Matrix of class "dgCMatrix"
+                                    s1
+(Intercept)                 -3.8950396
+Perceived_Ideology_Estimate -0.6076673
+Annual_Budget_USD            0.1313817
+Total_Staff                  .        
+
+* DOGE firings vs Ideology Estimates completed Mon Feb 24 21:15:15 2025 (0.9 sec elapsed).

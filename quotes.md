@@ -1195,7 +1195,7 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 
 "Satire is meant to ridicule power. If you are laughing at people who are hurting, it's not satire, it's bullying." &ndash; attributed to [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett); apparently _falsely attributed_, though it's a good bet he'd have agreed  
 
-"Il faut imaginer Sisyphe heureux." (One must imagine Sisyphus happy. I.e., the task of life itself must be a source of joy, even without success.)  &mdash; [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), the last sentence of [_Le Mythe de Sisyphe_ (_The Mythy of Sisyphus_)](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)  
+"Il faut imaginer Sisyphe heureux." (One must imagine Sisyphus happy. I.e., the task of life itself must be a source of joy, even without success, and despite absurdity.)  &mdash; [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), the last sentence of [_Le Mythe de Sisyphe_ (_The Mythy of Sisyphus_)](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)  
 
 
 ## The One Who Is Voltaire  
