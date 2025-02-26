@@ -243,7 +243,7 @@ issuing death threats those who tell the truth.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: A Gold, ["The History (and Tragedy) of the Ford Pinto: Everything You Need to Know"](https://www.motortrend.com/features/ford-pinto/), _Motor Trend_,2024-Apr-04. [↩](#fn1a)  
+<a id="fn1">1</a>: A Gold, ["The History (and Tragedy) of the Ford Pinto: Everything You Need to Know"](https://www.motortrend.com/features/ford-pinto/), _Motor Trend_, 2024-Apr-04. [↩](#fn1a)  
 
 <a id="fn2">2</a>: J Wilkins, ["The Cybertruck Appears to Be More Deadly Than the Infamous Ford Pinto, According to a New Analysis"](https://futurism.com/the-byte/cybertruck-ford-pinto-comparison), _The Byte_, 2025-Feb-08. [↩](#fn2a)  
 

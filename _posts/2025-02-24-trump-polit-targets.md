@@ -58,22 +58,26 @@ Here's our attempt to reproduce Bonica's plot above: agency staff size on a log 
 ideological score.  It looks like he's imposed some limits on the vertical axis, to limit
 agency size to 1,000 to 1,000,000, so our plot shows a bit more at the top and bottom.
 But other than that, we reach pretty much the same conclusion:  
-- DOGE firings look like they have little relationship to agency size.  
+- DOGE firings look like they have little relationship to agency size. (The red/purple dots
+  are about evenly distributed, vertically.)  
 - DOGE firings do, on the other hand, look like they are politically targeted on agencies
-  that federal managers characterized as more liberal in outlook.  (Most of the red dots
+  that federal managers characterized as more liberal in outlook.  (Most of the red/purple dots
   are on the left.  The 2 purple dots that got a double-tap of layoffs and targeting for
   dismantling are USAID and CFPB, predictably.)  
 
 <a href="{{ site.baseurl }}/assets/2025-02-24-trump-polit-targets-Annual_Budget_USD-ideology-firings.png"><img src="{{ site.baseurl }}/assets/2025-02-24-trump-polit-targets-Annual_Budget_USD-ideology-firings-thumb.jpg" width="400" height="200" alt="Agency budget vs ideology score, colored by DOGE firings/dismantling, showing clear bias against lefty agencies, but no relation to budget." title="Agency budget vs ideology score, colored by DOGE firings/dismantling, showing clear bias against lefty agencies, but no relation to budget." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here's a similar plot, where the vertical axis is the agency budget on a log scale, and
 the horizontal axis is the ideological score of the agency.  Again, a similar conclusion:
-- DOGE firings look like they have little relationship to agency budget.  
+- DOGE firings look like they have little relationship to agency budget.  (The red/purple dots
+  are about evenly distributed, vertically.)  
 - DOGE firings do, on the other hand, look like they are politically targeted on agencies
-  that federal managers characterized as more liberal in outlook.  
+  that federal managers characterized as more liberal in outlook.  (Most of the red/purple dots
+  are on the left.)  
 
 So they're _not_ going after the "big game" in terms of staff or budget, as one would
-expect if they were sincere about saving money: that's where the money is _spent._
-Instead, it looks like they're just on a witch hunt to burn down stuff they dislike.  
+expect if they were sincere about saving money: that's where the money is _spent,_ so
+that's where you should look to _save._ Instead, it looks like they're just on a witch
+hunt to burn down stuff they personally dislike.  
 
 ### More Objectively: Is It _Statistically Significantly_ Suspicious?  
 
@@ -112,8 +116,38 @@ That tells us we got a $p$-value of $p \sim 1.076 \times 10^{-5}$.  There's only
 chance in 100,000 that the data would be this skewed toward left agencies when the truth
 was unbiased.  
 
-In other words: the bias against left agencies is _real_, not an artifact of chance in
-this dataset.  
+If we had narrowed this down to 2 rows &ndash; layoffs/dismantling or not &ndash; then we
+could have gotten an odds ratio out of the Fisher test, as a measure of
+strength of effect:  
+
+```R
+> tbl <- data.frame(Left = c(27, 30), Right = c(7, 59), row.names = c("Layoffs/Dismantling", "None")); tbl
+                    Left Right
+Layoffs/Dismantling   27     7
+None                  30    59
+> fisher.test(tbl)
+
+	Fisher's Exact Test for Count Data
+
+data:  tbl
+p-value = 5.945e-06
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  2.766889 22.708114
+sample estimates:
+odds ratio 
+   7.45096 
+```
+
+<a href="{{ site.baseurl }}/images/2025-02-11-cybertruck-vs-pinto-effect-size.jpg"><img src="{{ site.baseurl }}/images/2025-02-11-cybertruck-vs-pinto-effect-size-thumb.jpg" width="400" height="194" alt="Maher, et al.: Guidance on interpreting some common effect size statistics" title="Maher, et al.: Guidance on interpreting some common effect size statistics" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+The $p$-value is even smaller, at $p \sim 5.95 \times 10^{-6}$.  
+
+To interpret the odds ratio as effect size we consult Maher,
+_et al._ <sup id="fn4a">[[4, Table 2 shown here]](#fn4)</sup> This is beyond what's
+conventionally considered a large effect size.   
+
+In other words: the bias against left agencies is _real_ (not an artifact of chance in
+this dataset), and _large_ (not an inconsequential thing).  
 
 #### Some Regression Models  
 
@@ -125,19 +159,28 @@ Before jumping into any multivariate regression model, I like to look at the cor
 matrix to see just how many independent things are going on, and whether any of them
 relate to the dependent variable (DOGE layoffs or not) we're trying to predict.  
 - First, note in the lower left that log budget and log staff size are correlated.  This
-  should not be surprising: big agencies have big budgets.  
-- Second, note the negative correlation between DOGE layoffs and ideological score.
-  Again, unsurprising: negative/left score means they hate it.  
-- Third, there's at best a mild correlation between staff and budget levels with DOGE
-  layoffs.  We already know they're not particularly targeting the big game, so this is
-  just quantitative confirmation of that.  
+  should not be surprising: big agencies have big budgets!  
+- Second, note the strong negative correlation between DOGE layoffs and ideological 
+  score ($R \sim -0.41$). Again, unsurprising: negative/left score means they hate it and
+  want to destroy it with layoffs and dismantling.  
+- Third, there's at best a mild correlation between budget levels and DOGE
+  layoffs ($R \sim 0.26$).  There is practically no correlation with staff levels
+  ($R \sim 0.07$).  We already know they're not particularly targeting the big game, so
+  this is just quantitative confirmation of that.  
+- Fourth, note the negligible correlation between agency funding and agency
+  ideology ($R \sim 0.09$).  There is _absolutely no case to be made_ that the government
+  overfunds left-leaning agencies.  The giant Department of Defense is a glaring example
+  of how much money is given to a right-leaning entity, regardless of how one feels about
+  defense spending.  
   
-So we should expect that ideological score is the best predictor, followed by budget, and
-then by staff.  Indeed, under crossvalidation and LASSO regulation, the latter 2 variables
-might be ejected altogether from the model.  
+Like good little statisticians, we should always state the outcome we expect before doing
+a calculation. So, here we expect regression to tell us that ideological score is the best
+predictor, followed by budget, and then _maybe_ by staff.  Indeed, under crossvalidation
+and LASSO regulation, the latter 2 variables might be ejected altogether from the model.  
 
 Bonica did a regression model, but it seems he used Ordinary Least Squares as a predictor, i.e. finding
-coefficients $\beta_0$ - $\beta_3$ to optimize prediction in:  
+coefficients $\beta_0$, $\beta_1$, $\beta_2$, and $\beta_3$ to optimize prediction of DOGE
+layoffs in:  
 
 $$
 \mbox{DOGE Layoff} = \beta_0 + \beta_1 \mbox{Ideology} + \beta_2 \log\left(\mbox{Staff}\right) + \beta_3 \log\left(\mbox{Budget}\right)
@@ -149,7 +192,7 @@ Here's what he found, though he doesn't specify with what software.
   - He reports and $F$ statistic for the overall goodness of fit, but fails to report
 	the associated $p$-value.  
 
-    No problem, we can hook him up here:  
+    No problem, we can hook him up right here:  
 	```R
 	$ pf(14.198, 3, 114, lower.tail = FALSE)
 	[1] 6.333041e-08
@@ -160,11 +203,12 @@ Here's what he found, though he doesn't specify with what software.
   - We checked, and got similar results with a na&iuml;ve OLS linear model.  
 - On the other hand, this is crazy!  The dependent variable is the presence/absence of
   DOGE layoffs, basically coded as 0 or 1.  One shouldn't use a continuous predictor for a
-  discrete variable like that; it just makes no sense.
+  binary variable like that; it just makes no sense.
   
-Really, one should use [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
-instead, when predicting a binary outcome from continuous predictor variables.  This
-predicts the log odds ratio of DOGE layoffs from the other variables, e.g.,  
+Really, one should use the absolute bog-standared method of
+[logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+here.  We're predicting a _binary outcome_ from _continuous predictors_.  Logistic
+regression predicts the log odds ratio of DOGE layoffs from the other variables, e.g.,  
 
 $$
 \log\left(\frac{\Pr\left(\mbox{DOGE Layoffs}\right)}{1 - \Pr\left(\mbox{DOGE Layoffs}\right)}\right) = \beta_0 + \beta_1 \mbox{Ideology} + \beta_2 \log\left(\mbox{Staff}\right) + \beta_3 \log\left(\mbox{Budget}\right)
@@ -226,10 +270,14 @@ Number of Fisher Scoring iterations: 5
   > to be considerably lower than those of the $R^2$ index&hellip; For example, values of
   > 0.2 to 0.4 for $\rho^2$ represent __excellent__ fit."  
   
-So this looks pretty good: an excellent fit, emphasizing ideology score while reluctantly
-admitting a very slight effect for budget and staff size.  
+So this looks pretty good: an excellent fit by McFadden's pseudo-$R^2$ criterion,
+emphasizing ideology score while reluctantly admitting a very slight effect for budget and
+staff size.  (Though frankly, staff size had a bigger regression coefficient than I'd have
+initially thought.  Ah, well: that's why we do the statistics!  As
+[Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne) would have
+said, it is "pour essayer mes pens&eacute;es", or "to try out my thoughts".)  
 
-Now let's try doing everything right, for once.  We'll use the excellent `glmnet` library
+Now let's try doing everything right (for once!).  We'll use the excellent `glmnet` library
 to do both 10-fold crossvalidation and LASSO regularization.  The former will keep us from
 overfitting, and the latter will help us decide which predictors to take seriously, both
 on an objective basis.  
@@ -240,7 +288,7 @@ value of $\lambda$ which results in the best crossvalidated error rate, i.e., pr
 on a test set withheld during model building.  
 
 <a href="{{ site.baseurl }}/assets/2025-02-24-trump-polit-targets-glmnet-coeffs-vs-lambda.png"><img src="{{ site.baseurl }}/assets/2025-02-24-trump-polit-targets-glmnet-coeffs-vs-lambda-thumb.jpg" width="400" height="400" alt="Logistic regression coefficients vs lambda: all are eventually driven to 0" title="Logistic regression coefficients vs lambda: all are eventually driven to 0" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Here we see the 3 regression coefficients as a function of $\lambda$.  
+Here we see the 3 regression coefficients as a function of $\log\left(\lambda\right)$.  
 - For sufficiently large values of $\lambda$, all coefficients are eventually driven to 0
   and we end up with just a constant term for prediction.  That's clearly too strict!  
 - For smaller (more negative) values of $\lambda$, more coefficients are allowed, and
@@ -255,8 +303,8 @@ And that's exactly the question addressed here in the next graph.
 The vertical axis is the crossvalidated error rate (for a logistic regression model,
 "deviance").  The horizontal axis is $\log\left(\lambda\right)$, the L1/LASSO penalty.  Across the top of
 the graph, the mysterious integers are the number of parameters with regression
-coefficients allowed to be nonzero at that value of $\lambda$.  You can see it decrease
-from 3 to 2 to 1 as we make the penalty more severe.  
+coefficients allowed to be nonzero at that value of $\log\left(\lambda\right)$.  You can see it decrease
+from 3 parameters to 2 parameters to 1 parameter as we make the penalty more severe.  
 
 Obviously, we'd like the error rate to be small, and indeed as $\log\left(\lambda\right)$ is relaxed we
 introduce more variables, allow their regression coefficients to become large, and the
@@ -346,7 +394,7 @@ always failing.  In _The Myth of Sisyphus_, the last sentence Camus has for us o
 > [_Le Mythe de Sisyphe_ (_The Myth of Sisyphus_)](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
 
 So&hellip; one must imagine Sisyphus happy, for we are each of us living in Sisyphean times.
-_Saturday Morning Breakfast Cereal_ has the right of it, as shown here. <sup id="fn4a">[[4]](#fn4)</sup>
+_Saturday Morning Breakfast Cereal_ has the right of it, as shown here. <sup id="fn5a">[[5]](#fn5)</sup>
 
 I'm very sorry I have nothing better than that to offer you.  
 
@@ -488,6 +536,10 @@ in case the original disappears, and for ease of your peer review.
 There is also [a textual transcript of running this R script]({{ site.baseurl }}/assets/2025-02-24-trump-polit-targets-agency-ideology-and-DOGE-mass-firings.txt),
 so you can check it says what I say it says. [↩](#fn3a)  
 
-<a id="fn4">4</a>: Z Weinersmith, ["Hades"](https://www.smbc-comics.com/comic/hades), _Saturday Morning Breakfast Cereal_, 2019-Dec-28.  
+<a id="fn4">4</a>: JM Maher, _et al.,_ ["The Other Half of the Story: Effect Size Analysis in Quantitative Research"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3763001/), _CBE Life Sci Educ_ 12:3, 2013-Fall, pp. 345-351. DOI: [10.1187/cbe.13-04-0082](https://doi.org/10.1187/cbe.13-04-0082). PMID: [24006382](https://pubmed.ncbi.nlm.nih.gov/24006382/). PMC: [PMC3763001](https://pmc.ncbi.nlm.nih.gov/articles/PMC3763001/). 
 
-I particularly liked the comparison of the labor of Sisyphus to a Zen garden, and how it made Zeus (here apparently a [_deus otiosus_](https://en.wikipedia.org/wiki/Deus_otiosus) or [_deus absconditus_](https://en.wikipedia.org/wiki/Deus_absconditus)?) realize how bad things were in the mortal world. [↩](#fn4a)  
+See, in particular, Table 2 on interpreting an odds ratio as an effect size.  [↩](#fn4a)  
+
+<a id="fn5">5</a>: Z Weinersmith, ["Hades"](https://www.smbc-comics.com/comic/hades), _Saturday Morning Breakfast Cereal_, 2019-Dec-28.  
+
+I particularly liked the comparison of the labor of Sisyphus to a Zen garden, and how it made Zeus (here apparently a [_deus otiosus_](https://en.wikipedia.org/wiki/Deus_otiosus) or [_deus absconditus_](https://en.wikipedia.org/wiki/Deus_absconditus)?) realize how bad things were in the mortal world. [↩](#fn5a)  
