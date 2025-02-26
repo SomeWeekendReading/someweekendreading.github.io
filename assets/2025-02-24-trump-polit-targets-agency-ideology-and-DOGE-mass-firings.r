@@ -15,7 +15,7 @@ source(file.path(toolsDir, "pipeline-tools.r"))        # Random pipeline stuff
 library("performance")                                 # For r2_mcfadden()
 library("glmnet")                                      # Crossvalidated classifier
 
-## > rm("bonicaData", "actionTableDone", "scatterplotsDone", "regressionsDone", "biclusterDone"); doit()
+## > rm("bonicaData", "scatterplotsDone", "actionTableDone", "regressionsDone", "biclusterDone", "confusionMatrixDone"); doit()
 doit <- function(## Inputs
                  dataDir  = ".",
                  dataFile = "2025-02-24-trump-polit-targets-agency-ideology-and-DOGE-mass-firings.tsv",
@@ -237,13 +237,42 @@ doit <- function(## Inputs
     })
 
     cat(sprintf("\n    o Coefficients at lambda min:\n"))
-    print(coef(cv.glmMdl, s = "lambda.min"))
+    print(coef(cv.glmMdl, s = "lambda.min"))           #
 
     cat(sprintf("\n    o Coefficients at lambda 1se:\n"))
-    print(coef(cv.glmMdl, s = "lambda.1se"))
+    print(coef(cv.glmMdl, s = "lambda.1se"))           #
 
     TRUE                                               #
   }                                                    #
+
+  confusionMatrix <- function(bonicaData, mdl, lambdaName) {
+    ## Mostly because I don't understand assess.glmnet(), confusion.glmnet(), and roc.glmnet()
+    cat(sprintf("\n* Computing confusion matrix for %s:\n", lambdaName))
+    newx <- transform(subset(bonicaData, select = c(Perceived_Ideology_Estimate,
+                                                    Annual_Budget_USD,
+                                                    Total_Staff)),
+                      Annual_Budget_USD = log(Annual_Budget_USD),
+                      Total_Staff       = log(Total_Staff))
+    ## Hit calling threshold is probability of 50%; this is the ROC parameter if we wanna do that
+    preds <<- cbind(subset(bonicaData, select = c(Agency, doge_layoffs)),
+                   predict(mdl, newx = as.matrix(newx), s = lambdaName, type = "response") > 0.5)
+    tbl <<- table(subset(preds, select = -Agency))
+    print(tbl)
+
+    cat(sprintf("\n  - Overall correct   = %.2f%%\n  - Overall incorrect = %.2f%%\n",
+                100.0 * (tbl[[1, 1]] + tbl[[2, 2]]) / sum(tbl),
+                100.0 * (tbl[[1, 2]] + tbl[[2, 1]]) / sum(tbl)))
+
+    cat(sprintf("\n  - PPV = Pr(DOGE layoffs | model positive)    = %.2f%%",
+                100.0 * (tbl[[2, 2]] / (tbl[[2, 2]] + tbl[[1, 2]]))))
+    cat(sprintf("\n  - NPV = Pr(No DOGE layoffs | model negative) = %.2f%%",
+                100.0 * (tbl[[1, 1]] / (tbl[[1, 1]] + tbl[[2, 1]]))))
+    cat(sprintf("\n  - FDR = Pr(No DOGE layoffs | model positive) = %.2f%%",
+                100.0 * (tbl[[1, 2]] / (tbl[[1, 2]] + tbl[[2, 2]]))))
+    cat(sprintf("\n  - NOV = Pr(DOGE layoffs | model negative)    = %.2f%%",
+                100.0 * (tbl[[2, 1]] / (tbl[[2, 1]] + tbl[[1, 1]]))))
+    cat("\n")
+  }
 
   ## Main body of script begins here
   withTranscript(dataDir, resultsDir, txFile, "DOGE firings vs Ideology Estimates", function() {
@@ -261,6 +290,10 @@ doit <- function(## Inputs
     maybeAssign("biclusterDone",   function() { doBicluster(bonicaData, resultsDir, biclFile)     })
     maybeAssign("regressionsDone", function() {
       doRegression(bonicaData, resultsDir, glmnetFile1, glmnetFile2)
+    })
+    maybeAssign("confusionMatrixDone", function() {
+      confusionMatrix(bonicaData, cv.glmMdl, "lambda.1se")
+      confusionMatrix(bonicaData, cv.glmMdl, "lambda.min")
     })
 
     invisible(NA)                                      # Return nothing of interest

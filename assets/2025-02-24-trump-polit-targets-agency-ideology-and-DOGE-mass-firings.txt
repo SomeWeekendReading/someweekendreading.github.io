@@ -1,5 +1,5 @@
 
-* DOGE firings vs Ideology Estimates on Mon Feb 24 21:15:14 2025
+* DOGE firings vs Ideology Estimates on Tue Feb 25 19:16:30 2025
   - input data directory: .
   - results directory:    .
   - transcript to:        ./2025-02-24-trump-polit-targets-agency-ideology-and-DOGE-mass-firings.txt
@@ -129,17 +129,45 @@ Number of Fisher Scoring iterations: 5
     o Coefficients at lambda min:
 4 x 1 sparse Matrix of class "dgCMatrix"
                                     s1
-(Intercept)                 -8.6750538
-Perceived_Ideology_Estimate -1.2165875
-Annual_Budget_USD            0.2765157
-Total_Staff                  0.1495411
+(Intercept)                 -8.7953565
+Perceived_Ideology_Estimate -1.2363961
+Annual_Budget_USD            0.2782578
+Total_Staff                  0.1577868
 
     o Coefficients at lambda 1se:
 4 x 1 sparse Matrix of class "dgCMatrix"
-                                    s1
-(Intercept)                 -3.8950396
-Perceived_Ideology_Estimate -0.6076673
-Annual_Budget_USD            0.1313817
-Total_Staff                  .        
+                                     s1
+(Intercept)                 -2.43285940
+Perceived_Ideology_Estimate -0.46511838
+Annual_Budget_USD            0.06741818
+Total_Staff                  .         
 
-* DOGE firings vs Ideology Estimates completed Mon Feb 24 21:15:15 2025 (0.9 sec elapsed).
+* Computing confusion matrix for lambda.1se:
+            lambda.1se
+doge_layoffs FALSE TRUE
+       FALSE    84    0
+       TRUE     33    1
+
+  - Overall correct   = 72.03%
+  - Overall incorrect = 27.97%
+
+  - PPV = Pr(DOGE layoffs | model positive)    = 100.00%
+  - NPV = Pr(No DOGE layoffs | model negative) = 71.79%
+  - FDR = Pr(No DOGE layoffs | model positive) = 0.00%
+  - NOV = Pr(DOGE layoffs | model negative)    = 28.21%
+
+* Computing confusion matrix for lambda.min:
+            lambda.min
+doge_layoffs FALSE TRUE
+       FALSE    75    9
+       TRUE     18   16
+
+  - Overall correct   = 77.12%
+  - Overall incorrect = 22.88%
+
+  - PPV = Pr(DOGE layoffs | model positive)    = 64.00%
+  - NPV = Pr(No DOGE layoffs | model negative) = 80.65%
+  - FDR = Pr(No DOGE layoffs | model positive) = 36.00%
+  - NOV = Pr(DOGE layoffs | model negative)    = 19.35%
+
+* DOGE firings vs Ideology Estimates completed Tue Feb 25 19:16:31 2025 (1.0 sec elapsed).

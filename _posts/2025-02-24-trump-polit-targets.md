@@ -224,7 +224,7 @@ Number of Fisher Scoring iterations: 5
   > experienced in OLS, it is not as well behaved as the $\rho^2$ measure, for ML
   > estimation. Those unfamiliar with $\rho^2$ should be forewarned that its values tend
   > to be considerably lower than those of the $R^2$ index&hellip; For example, values of
-  > 0.2 to 0.4 for $\rho^2$ represent __excellent__ fit.  
+  > 0.2 to 0.4 for $\rho^2$ represent __excellent__ fit."  
   
 So this looks pretty good: an excellent fit, emphasizing ideology score while reluctantly
 admitting a very slight effect for budget and staff size.  
@@ -253,18 +253,18 @@ of regression coefficients we should believe.
 And that's exactly the question addressed here in the next graph.  
 
 The vertical axis is the crossvalidated error rate (for a logistic regression model,
-"deviance").  The horizontal axis is $\lambda$, the L1/LASSO penalty.  Across the top of
+"deviance").  The horizontal axis is $\log\left(\lambda\right)$, the L1/LASSO penalty.  Across the top of
 the graph, the mysterious integers are the number of parameters with regression
 coefficients allowed to be nonzero at that value of $\lambda$.  You can see it decrease
 from 3 to 2 to 1 as we make the penalty more severe.  
 
-Obviously, we'd like the error rate to be small, and indeed as $\lambda$ is relaxed we
+Obviously, we'd like the error rate to be small, and indeed as $\log\left(\lambda\right)$ is relaxed we
 introduce more variables, allow their regression coefficients to become large, and the
 error rate goes down.
 
 Up to a point!  
 
-The error does not decrease further below about $\lambda = -4$.  Technically, the minimum is just
+The error does not decrease further below about $\log\left(\lambda\right) = -4$.  Technically, the minimum is just
 around -5, where the vertical line indicates the "best" model with minimum error rate.
 But really, there's a broad, flat plateau where the error rate is about the same.  This
 "best" model is a 3-parameter model, using all 3 of our predictors.  
@@ -277,6 +277,20 @@ which has rejected one of our covariates.  Based on the correlation (smallest co
 with DOGE layoffs) and the na&iuml;ve regression above (least significant coefficient), we
 guess that it eliminates staff size.  
 
+The crossvalidated result from `cv.glmnet()` tells us the value of $\lambda$ at those 2
+points, the error rate, and the number of nonzero parameters:  
+```R
+> cv.glmMdl
+
+Call:  cv.glmnet(x = mx, y = foo$doge_layoffs, alpha = 1, family = binomial(link = "logit")) 
+
+Measure: GLM Deviance 
+
+     Lambda Index Measure      SE Nonzero
+min 0.00795    35  0.9648 0.09234       3
+1se 0.08140    10  1.0437 0.07921       2
+```
+
 Let's see what those models are:  
 - The "best" model uses all 3 variables:
   ```
@@ -287,10 +301,10 @@ Let's see what those models are:
   ```
 - The 1SE model (simplest one within 1 standard error of the best) uses 2, dropping staff:  
   ```
-  (Intercept)                 -3.8950396
-  Perceived_Ideology_Estimate -0.6076673
-  Annual_Budget_USD            0.1313817 (log value)
-  Total_Staff                  .         (log value)
+  (Intercept)                 -2.43285940
+  Perceived_Ideology_Estimate -0.46511838 
+  Annual_Budget_USD            0.06741818 (log value)
+  Total_Staff                  .          (log value)
   ```
 
 So which of these do we choose?
@@ -339,6 +353,100 @@ I'm very sorry I have nothing better than that to offer you.
 Please go do something wonderful and tell me all about it.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+
+
+## Addendum 2025-Feb-25: Predicting Layoffs, and Bayesian Performance  
+
+If you're curious how, after all that fitting, one _uses_ the model to make predictions,
+here's how!  Of course the details are in the R script; see the function
+`confusionMatrix()`.  
+- Create a matrix of the input variables ideology, log staff, and lot budget for which you
+  want predictions.  
+- Use the `predict()` generic function on the fitted model, the matrix of inputs.  Give it
+  a value of $\lambda$ and tell it you want the "response", or probability, as the
+  output.  
+  
+The we make a _confusion matrix_, which is a 2x2 matrix with the actual DOGE layoffs on
+the rows, and the predictions on the columns, each cell containing an agency count.  In an
+ideal world, this would be perfectly diagonal: the model would predict what happens, and
+no errors (off-diagonal elements) would occur.  
+
+For example, here's the confusion matrices for the $\lambda_{\mbox{min}}$ model with 3
+coefficients:  
+
+```R
+            lambda.min
+doge_layoffs FALSE TRUE
+       FALSE    75    9
+       TRUE     18   16
+```
+
+There are 9 times the model predicted layoffs where there were none, and 18 times when the
+model predicted no layoffs but they happened anyway.
+
+For comparison, here's the confusion matrix for the simpler $\lambda_{\mbox{1SE}}$ model
+about which I had a twitchy feeling:  
+
+```R
+            lambda.1se
+doge_layoffs FALSE TRUE
+       FALSE    84    0
+       TRUE     33    1
+```
+
+Note that this model has a _very_ peculiar property: it almost never predicts layoffs,
+except in 1 case!  Clearly this model has been regularized so violently by LASSO that it's
+been hung by the neck until dead.  
+
+Our intuition to pick the $\lambda_{\mbox{min}}$ model was correct.  
+
+Now we can compute some probabilistic assessments of model performance.
+
+First off, how often is it correct?  This is an overall assessment, useful for telling if
+the model is doing anything but not of much practical use after that:  
+
+$$ 
+\begin{align*}
+  \mbox{Overall correct}   &= \Pr\left(\mbox{DOGE Layoffs & Model prediction agree}\right) \\
+  \mbox{Overall incorrect} &= \Pr\left(\mbox{DOGE Layoffs & Model prediction disagree}\right)
+\end{align*}
+$$
+
+Next, we'd like some Bayesian probabilities: given what the model predicts, what is the
+probability that the actual presence or absence of DOGE layoffs agrees?  Those are,
+respectively, the Positive Predictive Value and the Negative Predictive Value.  
+
+Also, we'd like to quantify our errors.  The Negative Overlooked Value is the chance
+there's a layoff when we predict none, and the False Discovery Rate is the chance there is
+a no layoff when we predict one.  (_NB:_ Not the False Positive Rate, which is its
+Bayesian dual.)  
+
+$$ 
+\begin{align*}
+  \mbox{PPV} &= \Pr\left(\mbox{DOGE Layoffs }\;\;\;\;\:  | \mbox{model positive}\right) \\
+  \mbox{NPV} &= \Pr\left(\mbox{No DOGE Layoffs} | \mbox{model negative}\right) \\
+  \mbox{NOV} &= \Pr\left(\mbox{DOGE Layoffs }\;\;\;\;\:  | \mbox{model negative}\right) \\
+  \mbox{FDR} &= \Pr\left(\mbox{No DOGE Layoffs} | \mbox{model positive}\right)
+\end{align*}
+$$
+
+<a href="{{ site.baseurl }}/images/2025-02-24-trump-polit-targets-performance.jpg"><img src="{{ site.baseurl }}/images/2025-02-24-trump-polit-targets-performance-thumb.jpg" width="400" height="251" alt="Performance measures for best model, and simplest model within 1 std error of that" title="Performance measures for best model, and simplest model within 1 std error of that" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+So here are how the $\lambda_{\mbox{min}}$ and $\lambda_{\mbox{1SE}}$ models compare.
+
+By these measures, it appears the $\lambda_{\mbox{1SE}}$ is a bit better in some ways, and
+a bit worse in others.  However, if we had not looked at the confusion matrix above, we
+would not know that it _makes only 1 prediction of layoffs!_  That is, the
+$\lambda_{\mbox{1SE}}$ model barely does anything at all.  
+
+The $\lambda_{\mbox{min}}$ model, using ideology, log staff, and log budget, does rather
+well.
+- It's overall right about 77% of the time, which is probably more often than I am overall
+  right about anything.  
+- If it predicts layoffs, there's about a 64% chance that's true.  
+- If it predicts no layoffs, there's about an 81% chance that's true.  
+
+Overall, this is a credible model: it's a good fit, and it makes reasonably correct
+predictions (without being spookily correct like overtrained models).  
 
 ---
 
