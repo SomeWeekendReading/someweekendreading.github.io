@@ -172,6 +172,9 @@ relate to the dependent variable (DOGE layoffs or not) we're trying to predict.
   overfunds left-leaning agencies.  The giant Department of Defense is a glaring example
   of how much money is given to a right-leaning entity, regardless of how one feels about
   defense spending.  
+  - There is, however, some interesting positive news here: log budget is a partial
+    predictor of DOGE layoffs, and is independent of ideology score.  Independent
+    predictors are always good to have.  
   
 Like good little statisticians, we should always state the outcome we expect before doing
 a calculation. So, here we expect regression to tell us that ideological score is the best
