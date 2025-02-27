@@ -129,7 +129,7 @@ below with the new portfolio.  This is due to 2 factors:
 
 <a href="{{ site.baseurl }}/images/2025-02-10-weekend-portfolio-trump-2-asset-allocation.jpg"><img src="{{ site.baseurl }}/images/2025-02-10-weekend-portfolio-trump-2-asset-allocation-thumb.jpg" width="400" height="225" alt="Detailed asset allocation to individual index funds" title="Detailed asset allocation to individual index funds" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here's what our revised portfolio looks like
-[for comparison with our previous portfolio design]():
+[for comparison with our previous portfolio design]({{ site.baseurl }}/retirement-portfolio/):
 - The first column is the asset class, with colors going up the spectrum with risk from
   cash to stocks.  
 - The second and third columns are the mutual fund names, both by ticker symbol and a
