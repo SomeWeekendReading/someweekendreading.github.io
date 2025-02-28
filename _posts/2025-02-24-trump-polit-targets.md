@@ -90,13 +90,13 @@ targeting for dismantling, both, or neither vs whether the agency is left (score
 or right (score &gt; 0).  The data look like this:  
 
 ```
-                 Left Right | Totals
-Both                2     0 |      2
-Dismantling Only    0     0 |      0
-Layoffs Only       25     7 |     32
-Neither            30    59 |     89
-----------------------------+--------
-Totals             57    66 |   123
+                 Left Right | Row Totals
+Both                2     0 |          2
+Dismantling Only    0     0 |          0
+Layoffs Only       25     7 |         32
+Neither            30    59 |         89
+----------------------------+-----------
+Col Totals         57    66 |        123
 ```
 
 It sure _looks_ as if there's more destruction being wrought in the lefty agencies.  We
