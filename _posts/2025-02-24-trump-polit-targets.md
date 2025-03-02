@@ -192,7 +192,7 @@ $$
 <a href="{{ site.baseurl }}/images/2025-02-24-trump-polit-targets-bonica-2.jpg"><img src="{{ site.baseurl }}/images/2025-02-24-trump-polit-targets-bonica-2-thumb.jpg" width="400" height="566" alt="Bonica's linear regression model" title="Bonica's linear regression model" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here's what he found, though he doesn't specify with what software.  
 - On the one hand, it's not a bad fit:  
-  - He reports and $F$ statistic for the overall goodness of fit, but fails to report
+  - He reports an $F$ statistic for the overall goodness of fit, but fails to report
 	the associated $p$-value.  
 
     No problem, we can hook him up right here:  
