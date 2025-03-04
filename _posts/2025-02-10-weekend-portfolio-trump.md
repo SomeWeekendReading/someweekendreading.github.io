@@ -251,7 +251,7 @@ The last time I looked, Vanguard's evidence said it wouldn't help diversificatio
 
 <a id="fn3">3</a>: I've been unable to source this quote adequately!  Something similar appears in a paper by Arnott &amp; Asness, but I'm pretty sure Bogle is the original source. Anybody got a pointer? [↩](#fn3a)  
 
-<a id="fn4">4</a>: M Szikszai, K Crouch, ["Sizing Up the Global-Market Portfolio"](https://www.msci.com/www/blog-posts/sizing-up-the-global-market/05073690405), Morgan-Stanley Capital International, 2025-Nov-04..  
+<a id="fn4">4</a>: M Szikszai, K Crouch, ["Sizing Up the Global-Market Portfolio"](https://www.msci.com/www/blog-posts/sizing-up-the-global-market/05073690405), Morgan-Stanley Capital International, 2025-Nov-04.  
 
 See the first table for the fraction of global assets in fixed income; see the pie chart for the US share of the global investable portfolio. [↩](#fn4a)  
 

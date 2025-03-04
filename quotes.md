@@ -124,7 +124,9 @@ from [Paris 1780-May-12](https://www.masshist.org/digitaladams/archive/doc?id=L1
 dissolve, and the people, recovering their true sight, restore their government to its
 true principles." &mdash; [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_jefferson) 
 in 1798, after the passage of the 
-[Alien and Sedition Acts](https://en.wikipedia.org/wiki/Alien_and_sedition_acts)  
+[Alien and Sedition Acts](https://en.wikipedia.org/wiki/Alien_and_sedition_acts).
+Problem is, "a little patience" is wearing thin; I've been patient since the debacles
+began with the Reagan administration.  
 
 "Never believe that anti-Semites are completely unaware of the absurdity of their
 replies. They know that their remarks are frivolous, open to challenge. But they are
