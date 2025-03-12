@@ -240,7 +240,7 @@ NPR points out a _major_ problem with relative costs of lenacapavir vs PReP:
 > medications would __need to cost less than <span>$</span>54 a year per patient__ for
 > South Africa, for example, to afford them. Lenacapavir’s cost as HIV treatment in the
 > United States in 2023 was __<span>$</span>42,250 per new patient per year.__ Oral PrEP
-> options, on the other hand, can > cost __less than <span>$</span>4 a month.__  
+> options, on the other hand, can cost __less than <span>$</span>4 a month.__  
 
 So it appears, in order to get effective levels of uptake in Africa (and really, anywhere
 else, for that matter) they need to reduce the cost of 2 injections/year by about a factor
