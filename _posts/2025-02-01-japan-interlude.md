@@ -133,7 +133,7 @@ scrupulous that it doesn't smell bad.  (In the US, fish specialty shops in parti
 so awful I just can't go in.)  
 
 <img src="{{ site.baseurl }}/images/2025-02-01-japan-interlude-giant-carrots.jpg" width="300" height="400" alt="Giant carrots!" title="Giant carrots!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Also, no particularly obvious reason I'm fascinated by Japanese carrots.  Look at these
+Also, for no particularly obvious reason, I'm fascinated by Japanese carrots.  Look at these
 thick monsters!  They're not _quite_ as thick as my wrist, but almost.  I daydream about
 making a really nice stew with thick chunks of carrot, cooked slowly.  
 
@@ -191,8 +191,8 @@ that has been, somehow, fried.  Possibly deep-fried.  They also sell a lot of ot
 
 Now, I almost get this one better than the previous one.  I mean, if you're gonna go for
 some insanely indulgent, artery-clogging, type 2 diabetes-inducing dessert, you might as
-well do something absurd.  I mean,
-[if you're gonna lose your grip on reality, you might as well let go with both hands.]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CIf%20you%E2%80%99re%20gonna%20lose%20your%20grip%20on%20reality%2C%20let%20go%20with%20both%20hands.%20No%20half%20measures!%E2%80%9D)  
+well do something absurd.
+[If you're gonna lose your grip on reality, you may as well let go with both hands.]({{ site.baseurl }}/quotes/#:~:text=%E2%80%9CIf%20you%E2%80%99re%20gonna%20lose%20your%20grip%20on%20reality%2C%20let%20go%20with%20both%20hands.%20No%20half%20measures!%E2%80%9D)  
 
 The [Scalzi _schadenfreude pie_](https://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
 comes to mind as an American example. Though that was irony, not a business model.
@@ -252,7 +252,7 @@ the world should have access to high-quality food like that!
 What exactly is stopping us?  Just a [Gini index](https://en.wikipedia.org/wiki/Gini_coefficient)
 pointing at
 [oligarchs who soak up all the wealth to make everything else impossible]({{ site.baseurtl }}/unaffordable-rich/)?
-Well, that suggests a strategy, no?  
+(Well, that suggests a strategy, no?)  
 
 ### The Naming of Stores  
 
