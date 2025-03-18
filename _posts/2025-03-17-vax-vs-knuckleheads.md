@@ -209,10 +209,10 @@ Easy!  Do it.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: CDC Staff, ["Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States"](Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States), US Centers for Disease Control web site, 2024-Oct-31. Downloaded on 2025-Mar-17. [↩](#fn1a)  
+<a id="fn1">1</a>: CDC Staff, ["Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States"](https://www.cdc.gov/vaccines/covid-19/clinical-considerations/covid-19-vaccines-us.html), US _Centers for Disease Control_ web site, 2024-Oct-31. Downloaded on 2025-Mar-17. [↩](#fn1a)  
 
 <a id="fn2">2</a>: T Rosenbluth, ["An outbreak"](https://messaging-custom-newsletters.nytimes.com/dynamic/render?isViewInBrowser=true&nl=the-morning&uri=nyt://newsletter/d74e33bc-d618-5e24-904b-afa054db07df), "The Morning" newsletter, _The New York Times_, 2025-Mar-17. [↩](#fn2a)  
 
-<a id="fn3">3</a>: CDC Staff, ["History of Measles"](https://www.cdc.gov/measles/about/history.html), US Centers for Disease Control Web site, 2024-May-09.  Downloaded 2025-Mar-17. [↩](#fn3a)  
+<a id="fn3">3</a>: CDC Staff, ["History of Measles"](https://www.cdc.gov/measles/about/history.html), US _Centers for Disease Control_ web site, 2024-May-09.  Downloaded 2025-Mar-17. [↩](#fn3a)  
 
 <a id="fn4">4</a>: NC Achaiah, _et al._, ["R0 and Re of COVID-19: Can We Predict When the Pandemic Outbreak will be Contained?"](https://pmc.ncbi.nlm.nih.gov/articles/PMC7751056/), _Indian Jnl Crit Care Med_, 2020-Nov. DOI: [10.5005/jp-journals-10071-23649](https://doi.org/10.5005/jp-journals-10071-23649). [↩](#fn4a)  
