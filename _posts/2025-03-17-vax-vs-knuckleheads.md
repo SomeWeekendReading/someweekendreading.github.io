@@ -111,7 +111,7 @@ The evil miracle here is that we are allowing ignorance, superstition, and misin
 to cause people to walk away from that.  
 
 If more than 5% of the population fail to vaccinate, then _measles becomes a problem for everyone._
-Here at Ch&acirc;teau Weekend, we are determined both not to get sick and not to be
+Here at Ch&acirc;teau Weekend, we are determined both not to get sick _and_ not to be
 spreaders, so we won't be a burden on ourselves or others.  
 
 ### Next, Look at What People Do  
@@ -162,15 +162,17 @@ There are only a few ways to avoid getting sick and avoid spreading sickness to 
   of quarantines used in the 1918 flu pandemic where armed law enforcement officers force
   you into your home and arrest you if you come out.  That's more or less what's depicted
   in this photo, taken 1918-Nov-03 by Raymond Coyne in Mill Valley, California on Locust
-  Avenue.  
-- Get sick, and you _might_ recover with measles immunity.  Though, given the _immune amnesia_
-  effect, you might _also_ then have to get all your previous diseases all over again!
-- Get sick, and your death will definitely remove you from the pool of spreaders.
+  Avenue, including "Wear a Mask or Go to Jail".  
+- Get sick, and&hellip;
+  o you _might_ recover with measles immunity.  Though, given the _immune amnesia_ effect,
+    you might _also_ then have to get all your previous diseases all over again!
+    Or&hellip;  
+  o your death will _definitely_ remove you from the pool of spreaders.  
 
 Those are the choices.  Vaccination is cheap, safe, and effective; the other choices are
 none of those things.  
 
-The responsible thing to do is self-defense for myself and my family, and be the
+The responsible thing to do is self-defense for myself and my family, and to be the
 responsible sort who does _not_ spread anything I catch.  Practically, that amounts to
 getting an MMR booster.  
 
