@@ -25,7 +25,8 @@ was a particular favorite target of theirs, back in the day:
   piece by piece&hellip; until the spring melt revealed it was gone.  Fortunately, cooler
   heads prevailed.  That one time, anyway.)  
 
-<img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="400" height="428" alt="M Browning @ WBUR: Giant eyes on the MIT Great Dome" title="M Browning @ WBUR: Giant eyes on the MIT Great Dome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="400" height="299" alt="M Browning @ WBUR: Giant eyes on the MIT Great Dome" title="M Browning @ WBUR: Giant eyes on the MIT Great Dome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="400" height="261" alt="Robin Lubbock @ WBUR: 'Gaze to the Stars', or the Eye of Sauron at MIT" title="Robin Lubbock @ WBUR: 'Gaze to the Stars', or the Eye of Sauron at MIT" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <video width="400" controls playsinline preload="auto" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
   <source src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-gaze-to-the-stars.mp4" type="video/mp4">
   Your browser does not appear to support playing this video?
@@ -60,7 +61,7 @@ In fact, we MIT folk do _not_ believe in making rings of power, let alone giving
 them to authoritarians.  We're just little techno-hobbitses, we are.  
 
 Now, for _some_ kinds of powerful rings, we can do stuff.  Want a proton synchrotron with a
-$p-\bar{p}$ storage ring?  Hook you right up.  
+$p\bar{p}$ storage ring?  Hook you right up.  
 
 As long as you're not some demonic whatsit from another dimension.  
 
