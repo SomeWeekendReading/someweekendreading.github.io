@@ -46,7 +46,7 @@ volunteered to get video taken of their eyes, they were supposed to whisper secr
 AI.  (Which, to my mind, ups the creepiness factor immensely.)  ...  
 
 I'm kind of surprised a 75 foot eye on the Great Dome hasn't caused traffic accidents on
-Memorial Drive, where traffic is ordinarily frighteningly fast!  Taking a second to gawk
+Memorial Drive, where traffic is ordinarily frighteningly fast!  Gawking while driving
 would not be a good idea.  
 
 
