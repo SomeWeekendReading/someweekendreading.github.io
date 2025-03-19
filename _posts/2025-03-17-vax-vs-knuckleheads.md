@@ -164,10 +164,10 @@ There are only a few ways to avoid getting sick and avoid spreading sickness to 
   in this photo, taken 1918-Nov-03 by Raymond Coyne in Mill Valley, California on Locust
   Avenue, including "Wear a Mask or Go to Jail".  
 - Get sick, and&hellip;
-  o you _might_ recover with measles immunity.  Though, given the _immune amnesia_ effect,
+  - you _might_ recover with measles immunity.  Though, given the _immune amnesia_ effect,
     you might _also_ then have to get all your previous diseases all over again!
     Or&hellip;  
-  o your death will _definitely_ remove you from the pool of spreaders.  
+  - your death will _definitely_ remove you from the pool of spreaders.  
 
 Those are the choices.  Vaccination is cheap, safe, and effective; the other choices are
 none of those things.  
