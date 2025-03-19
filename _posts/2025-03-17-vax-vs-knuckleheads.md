@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Vaccinated Because&hellip; Knuckleheads!
-tags: CatBlogging COVID MathInTheNews PharmaAndBiotech Politics Sadness
+tags: COVID MathInTheNews PharmaAndBiotech Politics Sadness
 comments: true
 commentsClosed: true
 ---
