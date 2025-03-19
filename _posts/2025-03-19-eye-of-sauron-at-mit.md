@@ -25,7 +25,7 @@ was a particular favorite target of theirs, back in the day:
   piece by piece&hellip; until the spring melt revealed it was gone.  Fortunately, cooler
   heads prevailed.  That one time, anyway.)  
 
-<img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="400" height="299" alt="M Browning @ WBUR: Giant eyes on the MIT Great Dome" title="M Browning @ WBUR: Giant eyes on the MIT Great Dome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="400" height="199" alt="M Browning @ WBUR: Giant eyes on the MIT Great Dome" title="M Browning @ WBUR: Giant eyes on the MIT Great Dome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-2.jpg" width="400" height="261" alt="Robin Lubbock @ WBUR: 'Gaze to the Stars', or the Eye of Sauron at MIT" title="Robin Lubbock @ WBUR: 'Gaze to the Stars', or the Eye of Sauron at MIT" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <video width="400" controls playsinline preload="auto" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
   <source src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-gaze-to-the-stars.mp4" type="video/mp4">
@@ -43,7 +43,7 @@ Group, and a group of 11 students have taken video of eyes and projected them on
 Great Dome.  This is a giant dome in Building 10, at one end of the Great Court that abuts
 Memorial Drive.  The project is called "Gaze to the Stars".  Apparently when people
 volunteered to get video taken of their eyes, they were supposed to whisper secrets to an
-AI.  (Which, to my mind, ups the creepiness factor immensely.)  ...  
+AI.  (Which, to my mind, ups the creepiness factor immensely.)  
 
 I'm kind of surprised a 75 foot eye on the Great Dome hasn't caused traffic accidents on
 Memorial Drive, where traffic is ordinarily frighteningly fast!  Gawking while driving
