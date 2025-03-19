@@ -107,7 +107,7 @@ need to vaccinate _almost everybody_ to suppress a disease as contagious as meas
 
 The good miracle is that we pretty much did that, from 1963 - 2000 as the graph above shows.  
 
-The evil miracle here is that we are allowing ignorance, superstition, and misinformation
+The evil miracle is that we are allowing ignorance, superstition, and disinformation
 to cause people to walk away from that.  
 
 If more than 5% of the population fail to vaccinate, then _measles becomes a problem for everyone._
