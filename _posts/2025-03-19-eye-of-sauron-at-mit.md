@@ -60,7 +60,7 @@ Nuh-uh.  No, sir/ma'am/nonbinary.  Not in the least bit.
 In fact, we MIT folk do _not_ believe in making rings of power, let alone giving
 them to authoritarians.  We're just little techno-hobbitses, we are.  
 
-Now, for _some_ kinds of powerful rings, we can do stuff.  Want a proton synchrotron with a
+Now, for _some_ kinds of powerful rings, we can do stuff for you.  Want a proton synchrotron with a
 $p\bar{p}$ storage ring?  Hook you right up.  
 
 As long as you're not some demonic whatsit from another dimension.  
