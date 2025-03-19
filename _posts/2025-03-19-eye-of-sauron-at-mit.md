@@ -25,8 +25,8 @@ was a particular favorite target of theirs, back in the day:
   piece by piece&hellip; until the spring melt revealed it was gone.  Fortunately, cooler
   heads prevailed.  That one time, anyway.)  
 
-<img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="200" height="214" alt="M Browning @ WBUR: Giant eyes on the MIT Great Dome" title="M Browning @ WBUR: Giant eyes on the MIT Great Dome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<video width="200" controls playsinline preload="auto" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="400" height="428" alt="M Browning @ WBUR: Giant eyes on the MIT Great Dome" title="M Browning @ WBUR: Giant eyes on the MIT Great Dome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<video width="400" controls playsinline preload="auto" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
   <source src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-gaze-to-the-stars.mp4" type="video/mp4">
   Your browser does not appear to support playing this video?
 </video>
@@ -43,8 +43,6 @@ Great Dome.  This is a giant dome in Building 10, at one end of the Great Court 
 Memorial Drive.  The project is called "Gaze to the Stars".  Apparently when people
 volunteered to get video taken of their eyes, they were supposed to whisper secrets to an
 AI.  (Which, to my mind, ups the creepiness factor immensely.)  ...  
-
-(It seems the video here is not playing.  Anybody got an idea why?)  
 
 I'm kind of surprised a 75 foot eye on the Great Dome hasn't caused traffic accidents on
 Memorial Drive, where traffic is ordinarily frighteningly fast!  Taking a second to gawk
