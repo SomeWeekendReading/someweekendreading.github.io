@@ -153,7 +153,7 @@ She basically points out that people who don't trust science simply don't trust 
 So&hellip; _knuckleheads._  
 
 <a href="https://www.google.com/search?q=locust+avenue%2C+mill+valley+california" target="_blank">
-![Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA]({{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-mill-valley.jpg "Historical photo of 1918 flue pandemic masks in Mill Valley, CA, USA")  
+![Historical photo of 1918 flu pandemic masks in Mill Valley, CA, USA]({{ site.baseurl }}/images/2021-10-30-partisan-covid-deaths-mill-valley.jpg "Historical photo of 1918 flu pandemic masks in Mill Valley, CA, USA")  
 </a>
 There are only a few ways to avoid getting sick and avoid spreading sickness to others:  
 - Get vaccinated, so your probability of being sick or being a spreader is dramatically
@@ -162,7 +162,8 @@ There are only a few ways to avoid getting sick and avoid spreading sickness to 
   of quarantines used in the 1918 flu pandemic where armed law enforcement officers force
   you into your home and arrest you if you come out.  That's more or less what's depicted
   in this photo, taken 1918-Nov-03 by Raymond Coyne in Mill Valley, California on Locust
-  Avenue, including "Wear a Mask or Go to Jail".  
+  Avenue: "Wear a Mask or Go to Jail" means law enforcment of masking, quarantine, and so on.
+  (Though I note one knucklehead in the photo is wearing a mask below the nose!)  
 - Get sick, and&hellip;
   - you _might_ recover with measles immunity.  Though, given the _immune amnesia_ effect,
     you might _also_ then have to get all your previous diseases all over again!

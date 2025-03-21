@@ -54,11 +54,12 @@ would not be a good idea.
 
 <img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-sauron-1.jpg" width="100" height="220" alt="Eye of Sauron" title="Eye of Sauron" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
-Oh, no-no-no.  This does _not_ resemble the Eye of Sauron.  Not in any way, shape or form.
+Oh, no.  No-no-no.  This does _not_ resemble the Eye of Sauron.  Not in any way, shape or form.
 Nuh-uh.  No, sir/ma'am/nonbinary.  Not in the least bit.  
 
 In fact, we MIT folk do _not_ believe in making rings of power, let alone giving
-them to authoritarians.  We're just little techno-hobbitses, we are.  
+them to fascists.  We're just little techno-hobbitses, we are.  Trying to make the world
+better, one [_tikkun olam_](https://en.wikipedia.org/wiki/Tikkun_olam) step at a time.  
 
 Now, for _some_ kinds of powerful rings, we can do stuff for you.  Want a proton synchrotron with a
 $p\bar{p}$ storage ring?  Hook you right up.  
