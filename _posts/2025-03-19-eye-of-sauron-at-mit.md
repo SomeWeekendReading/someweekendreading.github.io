@@ -21,9 +21,9 @@ was a particular favorite target of theirs, back in the day:
 - I've seen it bombed with paint balloons.  
 - I've seen it with chairs welded to it.  
 - I've even seen it buried in snow, which is remarkable given it's over 20 feet tall.  (I
-  wondered, that year, if they'd go under the snow with cutting torches and take it out
+  wondered, that winter, if they'd go under the snow with cutting torches and take it out
   piece by piece&hellip; until the spring melt revealed it was gone.  Fortunately, cooler
-  heads prevailed.  That one time, anyway.)  
+  heads prevailed.  Well&hellip; that one time, anyway.)  
 
 <img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-1.jpg" width="400" height="199" alt="M Browning @ WBUR: Giant eyes on the MIT Great Dome" title="M Browning @ WBUR: Giant eyes on the MIT Great Dome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-wbur-2.jpg" width="400" height="261" alt="Robin Lubbock @ WBUR: 'Gaze to the Stars', or the Eye of Sauron at MIT" title="Robin Lubbock @ WBUR: 'Gaze to the Stars', or the Eye of Sauron at MIT" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -54,7 +54,7 @@ would not be a good idea.
 
 <img src="{{ site.baseurl }}/images/2025-03-19-eye-of-sauron-at-mit-sauron-1.jpg" width="100" height="220" alt="Eye of Sauron" title="Eye of Sauron" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
-Oh, no.  No-no-no.  This does _not_ resemble the Eye of Sauron.  Not in any way, shape or form.
+Oh, no.  No-no-no-no.  This does _not_ resemble the Eye of Sauron.  Not in any way, shape or form.
 Nuh-uh.  No, sir/ma'am/nonbinary.  Not in the least bit.  
 
 In fact, we MIT folk do _not_ believe in making rings of power, let alone giving

@@ -35,6 +35,9 @@ You can do that too, you know.
 
 <a href="{{ site.baseurl }}/images/2025-03-17-vax-vs-knuckleheads-nyt-1.png"><img src="{{ site.baseurl }}/images/2025-03-17-vax-vs-knuckleheads-nyt-1-thumb.jpg" width="400" height="324" alt="Rosenbluth @ NYT: Yearly measles cases in the US, 1985 - 2024" title="Rosenbluth @ NYT: Yearly measles cases in the US, 1985 - 2024" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <img src="{{ site.baseurl }}/images/2025-03-17-vax-vs-knuckleheads-cdc-1.jpg" width="400" height="109" alt="CDC: History of measles in the US" title="CDC: History of measles in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/2025-03-17-vax-vs-knuckleheads-wikipedia-1.png">
+  <img src="{{ site.baseurl }}/images/2025-03-17-vax-vs-knuckleheads-wikipedia-1-thumb.png" width="400" height="252" alt="***" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+</a>
 Everybody asks: isn't measles gone in the US, so we don't have to worry about that any more?  
 
 No, apparently not.  From a _New York Times_ article, here's an annual frequency plot of measles
@@ -46,6 +49,14 @@ But then&hellip; look at the bars after 2020: measles is _really trying_ to make
 comeback in the US.  More accurately, people are really trying to dive into conspiracy
 theories and disinformation to avoid vaccinating their kids against measles.  It's
 particularly bad right now in Texas, where we now have dead kids.  
+
+This final graph, [from Wikipedia on the MMR vaccine](https://en.wikipedia.org/wiki/MMR_vaccine#Measles),
+shows this in dramatic form.  Note how rapidly the incidence of measles plummeted
+post-1963, when the vaccine was introduced.  Then in the inset, note how rapidly measles
+has become a [revenant](https://en.wikipedia.org/wiki/Revenant) disease, because we're too
+stupid for words on the subject of vaccines.  Yes, individual freedom is important; but
+the word "public" in "public health" means we have a responsibility to each other, as
+well!  Right-wing disinformation about vaccines is _literally killing people_.  
 
 Also, measles can have a nasty side-effect: _immune amnesia_, where you lose all the
 resistance to other diseases you've built up over the years, and have to start again.  I
