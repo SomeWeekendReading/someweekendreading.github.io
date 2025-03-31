@@ -1,7 +1,12 @@
 ## Created on Tuesday, March 18, 2025 at 10:37am EDT by Weekend Editor on Weekend Editor Machine.
 ## UnCopyright (u) 2025, nobody-in-particular.  All rights reversed.  As if you care.
 
-plotScree <- function(evals) {                         # Scree plot(s) of eigenvalues: full
+plotScree <- function(evals,
+                      main      = sprintf("Scree of %d SVD Eigenvalues", length(evals)),
+                      xlab      = "SVD Factor Rank",
+                      ylabLeft  = "SVD Eigenvalue",
+                      ylabRight = "Cumulative % Variance Explained",
+                      colors    = c("evals" = "blue", "pctsvar" = "red")) {
 
   withPars <- function(bodyFn, ...) {                  # Call bodyFn with graphics pars set
     oldParList <- NULL                                 # Capture old vals: params changed only
@@ -30,36 +35,35 @@ plotScree <- function(evals) {                         # Scree plot(s) of eigenv
     mtext(label, side = side, las = 0, line = 2, col = col)
   }                                                    # Draw x axis, then left & right y axes
 
-  doScreePlot <- function(evals) {                     # Plot evals & pct variance explained
+  doScreePlot <- function(evals, main, xlab, ylabLeft, ylabRight, colors) {
     nFactors    <- length(evals)                       # Num factors, cum % variance explained
     pcts        <- 100 * cumsum(evals * evals) / sum(evals * evals)
     evalsScaled <- rangeScale(evals)                   # Scale everything so it plots on
     pctsScaled  <- rangeScale(pcts)                    #  common device; unscale for axes
     symbols     <- c(21, 24)                           # Plot symbols
-    colors      <- c("blue", "red")                    #  and their colors
+    colors      <- colors[c("evals", "pctsvar")]       # Ensure labels correct & in correct order
 
     matplot(x = 1 : nFactors, y = cbind(evalsScaled, pctsScaled),
             pch = symbols, col = colors, bg = colors,  # Plot scaled data; do axes below
-            main = sprintf("Scree of %d SVD Eigenvalues", nFactors),
-            type = "b", lty = "dotted", xlab = NA, ylab = NA, axes = FALSE, frame.plot = FALSE)
+            main = main, type = "b", lty = "dotted",   #
+            xlab = NA, ylab = NA, axes = FALSE, frame.plot = FALSE)
 
-    doAxis(NA,          1 : nFactors, nFactors / 10, 1, "black",     "SVD Factor Rank")
-    doAxis(evalsScaled, evals,        5,             2, colors[[1]], "SVD Eigenvalue")
-    doAxis(pctsScaled,  pcts,         5,             4, colors[[2]], "Cumulative % Variance Explained")
+    doAxis(NA,          1 : nFactors, nFactors / 10, 1, "black",             xlab)
+    doAxis(evalsScaled, evals,        5,             2, colors[["evals"]],   ylabLeft)
+    doAxis(pctsScaled,  pcts,         5,             4, colors[["pctsvar"]], ylabRight)
 
     legend(x = "right", inset = c(0.05, 0), bg = "antiquewhite",
            pch = symbols, col = colors, pt.bg = colors,# Legend explains points & colors
-           legend = c("SVD eigenvalue", "Cumulative % variance explained"))
+           legend = c(ylabLeft, ylabRight))            #
   }                                                    # Well, that was complicated...
 
   withPars(function () {                               # Guarantee graphics params restored
-    doScreePlot(evals)                                 # Do the scree plot
+    doScreePlot(evals, main, xlab, ylabLeft, ylabRight, colors)
   }, "bg"    = "transparent",                          # Transparent for use in a paper
      "las"   = 1,                                      # Horizontal tick labels
      "mgp"   = c(1.5, 0.5, 0),                         # Spacing of axis title, labels, & line
      "mar"   = c(3, 3, 1, 3),                          # Margins: (bottom, left, top, right)
-     "ps"    = 10,                                     # Type size in labels
-     "ask"   = TRUE)                                   # Don't grab the screen
+     "ps"    = 10)                                     # Type size in labels
 
   invisible(NA)                                        # Return nothing of interest
 }                                                      #
