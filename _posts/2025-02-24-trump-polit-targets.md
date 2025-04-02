@@ -465,11 +465,11 @@ $$
 
 Next, we'd like some Bayesian probabilities: given what the model predicts, what is the
 probability that the actual presence or absence of DOGE layoffs agrees?  Those are,
-respectively, the Positive Predictive Value and the Negative Predictive Value.  
+respectively, the __Positive Predictive Value__ and the __Negative Predictive Value.__  
 
-Also, we'd like to quantify our errors.  The Negative Overlooked Value is the chance
-there's a layoff when we predict none, and the False Discovery Rate is the chance there is
-a no layoff when we predict one.  (_NB:_ Not the False Positive Rate, which is its
+Also, we'd like to quantify our errors.  The __Negative Overlooked Value__ is the chance
+there's a layoff when we predict none, and the __False Discovery Rate__ is the chance there is
+a no layoff when we predict one.  (_NB:_ Not the _False Positive Rate,_ which is its
 Bayesian dual.)  
 
 $$ 
