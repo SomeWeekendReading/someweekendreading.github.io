@@ -1,5 +1,5 @@
 ## Created on Tuesday, March 18, 2025 at 10:37am EDT by Weekend Editor on Weekend Editor Machine.
-## UnCopyright (u) 2025, nobody-in-particular.  All rights reversed.  As if you care.
+## UnCopyright (u) 2025, www.SomeWeekendReading.blog.  All rights reversed.  As if you care.
 
 plotScree <- function(evals,
                       main      = sprintf("Scree of %d SVD Eigenvalues", length(evals)),
