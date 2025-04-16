@@ -99,7 +99,7 @@ network traffic on the vertical axis vs time on the horizontal axis.  See that s
 the morning of March 4?  That's DOGE, taking about 10Gb of data.  (We don't know if they
 compressed stuff, so it could be much more.)  
 
-At the same time, other monitors (apparently not disabled), found large amounts of data
+At the same time, other monitors (apparently not disabled) found large amounts of data
 leaving their case management system "nucleus", where all the data on current labor cases
 resides.  This includes whistleblower identities and testimony, case notes by department
 lawyers for upcoming civil and criminal cases, and all the most sensitive stuff you can
@@ -123,10 +123,10 @@ Now think about what he'll do with this list of labor lawyers.
 It gets even better.
 
 There's a DOGE dude by the name of Jordan Wick.  Apparently these guys put their stuff on
-GitHub, a public source-code control and management system used by your humble Weekend
-Editor for this very blog.  He apparently forgot, and made one of his repositories public,
-and it was screenshotted to show the name "NxGenBdoorExtract", shown here.  (It was
-quickly hidden.)  
+GitHub, a public source-code control and management system which is widely used (even by
+your humble Weekend Editor for this very blog).  He apparently forgot, and made one of his
+repositories public, and it was screenshotted to show the name "NxGenBdoorExtract", shown
+here.  (It was quickly hidden.)  
 
 Now, you can name your software anything you want.  But it happens that the NLRB's
 internal case management software is called "NxGen".  Seeing that on a DOGE repository
@@ -146,7 +146,7 @@ One software security expert said something to the effect of, "I'd be fired if I
 like that."  Yeah, umm&hellip; I think being _fired_ would be the least of your worries.
 You'd quickly end up in _prison_ if you did that to government systems.  
 
-Then the murder threats started.  Once the main whistleblower tried to get the incident
+__Then the murder threats started.__  Once the main whistleblower tried to get the incident
 investigated by government cybersecurity experts and the FBI, this happened:  
 
 > &hellip; someone "physically taping a threatening note" to his door that included sensitive
@@ -180,7 +180,8 @@ access to the internal NLRB data, that would be of tremendous advantage to him. 
 could he predict what government lawyers were doing, he could also engage in witness
 intimidation and firing of any whistleblowers.  
 
-But even more damning, Musk/SpaceX, Bezos/Amazon, and Starbucks are involved in a lawsuit
+A potential second reason: even more damning, Musk/SpaceX, Bezos/Amazon, and Starbucks are
+involved in a lawsuit
 to destroy the NLRB altogether.  <sup id="fn2a">[[2]](#fn2)</sup> <sup id="fn3a">[[3]](#fn3)</sup>
 Even though it was established by law in 1937, and has been presumed on rock-solid ground
 for the last 88 years, they claim to have suddenly discovered it is unconstitutional.
