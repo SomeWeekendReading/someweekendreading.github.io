@@ -7,7 +7,7 @@ commentsClosed: true
 ---
 
 It appears some DOGE boys have been Very _Bad_ Little Doggies, over at the National Labor Relations
-Board!  
+Board.  
 
 
 ## Prolegomenon to&hellip; All This
@@ -76,7 +76,7 @@ But&hellip; what _actually_ happened looked more like a spy incursion or a black
   - Manually turned off some more internal logging &amp; security systems  
   - Disabled multifactor authentication  
   - Installed libraries which appear to be designed to automate _and hide_ data exfiltration  
-  - Set up DNS tunnelling to hid the data transfer.  
+  - Set up DNS tunnelling to hide the data transfer.  
   
 In other words, they almost completely disabled security, wreaked some sort of havoc, and
 made a reasonably credible attempt to cover their tracks.  
@@ -88,7 +88,7 @@ newly created DOGE accounts!
 
 The score so far: they demanded unreasonable access, smashed security to pieces, installed
 what appears to be hacking software as well as other things we can't track, exfiltrated a
-bunch of data, maybe changed a lot of other data, and immediately leaked their passwords
+bunch of sensitive data, maybe changed other data, and immediately leaked their passwords
 to Russians.  
 
 Not bad enough for you?  Read on!  
@@ -144,7 +144,7 @@ Interviewing people who know how the NxGen system works, McLaughlin reported:
 
 One software security expert said something to the effect of, "I'd be fired if I operated
 like that."  Yeah, umm&hellip; I think being _fired_ would be the least of your worries.
-You'd quickly end up in jail if you did that to government systems.  
+You'd quickly end up in _prison_ if you did that to government systems.  
 
 Then the murder threats started.  Once the main whistleblower tried to get the incident
 investigated by government cybersecurity experts and the FBI, this happened:  
