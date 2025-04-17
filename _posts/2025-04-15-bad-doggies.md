@@ -226,6 +226,23 @@ That used to be funny.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2025-Apr-17: PBS News Interviews Whistleblower and His Lawyer  
+
+<iframe width="400" height="224" src="https://www.youtube.com/embed/oWpqJ8pD2Ng?si=yE0Y81dz6A558c67" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+PBS News last night has an interview, directly with the person who reported it.  
+
+Substantially the same information, but heard directly from the source.  Other individuals
+corroborate his result, occasionally using Musk's Starlink.  Treasury, Defense, and other
+agencies have also had public internet interfaces forcibly opened.  
+
+What triggered the scrutiny was the sudden spike of outgoing network traffic.  The data
+lined up at exactly the same time with data taken from an internal record keeping system
+for case data (presumably NxGen).  
+
+The Trump administration formally denied anything was wrong.  Which is curious, given the
+attempts by Russian IP addresses to log in within 15 minutes.  
+
 ---
 
 ## Notes &amp; References  
