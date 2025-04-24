@@ -47,7 +47,7 @@ _anti-democratic_ (deliberately designed to be so):
 <a href="{{ site.baseurl }}/images/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-NPVIC.jpg"><img src="{{ site.baseurl }}/images/2024-11-22-die-grundlagen-der-arithmetik-von-wyoming-NPVIC-thumb.jpg" width="400" height="1019" alt="Wikipedia: Status of National Popular Vote Interstate Compact" title="Wikipedia: Status of National Popular Vote Interstate Compact" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 About the Electoral College, there are only paths to a more democracy-centered system.
 Either:  
-- A constitutional amendment to replace it (with either a popular vote yet, a ranked
+- A constitutional amendment to replace it (with either a popular vote, or better yet, a ranked
   choice vote).  
 
   Republicans would, of course, block this _hysterically,_ as it would remove their
@@ -55,10 +55,11 @@ Either:
 - The
   [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact).  
 
-  This is a counter-Rube-Goldberg-Machine in which a block of states say they will
-  allocate their Electoral College votes to the winner of the _national_ popular vote, no
-  matter what their individual state vote is.  It only goes into effect when enough states
-  pass it to control 270 electoral votes, enough to decide the election.  
+  This is a Rube Goldberg Machine to _counter_ the Electoral College's Rube Goldberg
+  machine.  Here, a block of states say they will allocate their Electoral College votes
+  to the winner of the _national_ popular vote, no matter what their individual state vote
+  is.  It only goes into effect when enough states pass it to control 270 electoral votes,
+  enough to decide the election.  
 
   The current (2024-Nov-22) status, shown here from Wikipedia, has states holding 209
   electoral votes having passed it.  So&hellip; not quite enough yet.  But it's pending in
@@ -210,7 +211,7 @@ But really, we don't need statistical significance or an overwhelming majority, 
 need a majority that reflects the (barely) blue majority in the country and doesn't
 advantage conservative rural districts.  Do we have that?  
 
-Well, it depends.  Just because a state gets some new states doesn't mean we know how
+Well, it depends.  Just because a state gets some new seats doesn't mean we know how
 those seats will be allocated.  Let's consider 2 cases:  
 
 1. Suppose politicians are unable to resist gerrymandering &ndash; which seems like the
