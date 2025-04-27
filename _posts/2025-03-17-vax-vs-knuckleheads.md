@@ -84,7 +84,7 @@ that's large ($R_0 \gg 1)$, the disease is being rapidly transmitted.  If it's s
 enough ($R_0 \lt 1$), the disease will die out.
 
 For measles, $R_0 \sim 12-18$, i.e., 1 person would infect on average about 12-18 others if we
-had no vaccines or other immunity.  _This is _enormous._  COVID-19, for comparison had
+had no vaccines or other immunity.  This is _enormous._  COVID-19, for comparison had
 early in the pandemic $R_0 \sim 2-3$ <sup id="fn4a">[[4]](#fn4)</sup>, and that was no
 walk in the park; indeed COVID-19 _is still not under control._   
 
