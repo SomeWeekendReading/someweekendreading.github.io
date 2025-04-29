@@ -222,7 +222,8 @@ those seats will be allocated.  Let's consider 2 cases:
           67         73 
    ```
 2. If, on the other hand, we allocate seats in each state in proportion to the
-   Republican/Democratic seats in that state, we get about a 10 seat advantage to
+   Republican/Democratic seats in that state (thus carrying forward the current
+   mis-representation into a larger House), we get about a 10 seat advantage to
    Republicans:  
    ```
    Republican Democratic 
