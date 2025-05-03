@@ -1,6 +1,10 @@
 ## Created on Tuesday, March 18, 2025 at 10:37am EDT by Weekend Editor on Weekend Editor Machine.
 ## UnCopyright (u) 2025, www.SomeWeekendReading.blog.  All rights reversed.  As if you care.
 
+##
+## Isolated from libraries to make it easily distributable.
+##
+
 plotScree <- function(evals,
                       main      = sprintf("Scree of %d SVD Eigenvalues", length(evals)),
                       xlab      = "SVD Factor Rank",
