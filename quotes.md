@@ -99,6 +99,8 @@ coordination were founded: the United Nations and Starfleet." &mdash; Ozy Brenna
 
 ## The Political Ones &amp; The Economic Dismals  
 
+"If you see fraud and do not say fraud, you are a fraud." &mdash; [Nicholas Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)  
+
 "&hellip; if you want to get to pluralism you have to give up the myth of your moral superiority." &mdash; Richard D Bartlett, [Twitter 2023-Jun-15](https://twitter.com/RichDecibels/status/1669238258260234240).  
 
 "To maintain sanity in a country as bafflingly unequal as ours, you must convince yourself that your own comfort is causally (and morally) unrelated to the suffering of less fortunate strangers.  The alternative is an acknowledgment of our interdependence that is, frankly, incompatible with our social order." &mdash; Sam Adler-Bell, ["The Pandemic Interpreter: Why are so many liberals mad at David Leonhardt?"](https://nymag.com/intelligencer/2022/02/david-leonhardt-the-pandemic-interpreter.html), _New York Magazine_, "The Intelligencer", 2022-Feb-24.  It's also incompatible with any coherent sort of moral being.  
