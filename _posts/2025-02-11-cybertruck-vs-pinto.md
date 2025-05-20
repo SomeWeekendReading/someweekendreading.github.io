@@ -223,6 +223,46 @@ issuing death threats those who tell the truth.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2025-May-20: Glow-in-the-Dark Ripcords?!  
+
+<img src="{{ site.baseurl }}/images/2025-02-11-addendum-leadfoot-1.jpg" width="400" height="244" alt="K Leadfoot @ Fuel Arc: Tesla owners installing DIY ripcords that glow in the dark" title="K Leadfoot @ Fuel Arc: Tesla owners installing DIY ripcords that glow in the dark" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-02-11-addendum-leadfoot-2.jpg" width="400" height="234" alt="K Leadfoot @ Fuel Arc: DIY ripcord example; others say 'Don't Panic'" title="K Leadfoot @ Fuel Arc: DIY ripcord example; others say 'Don't Panic'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Again from our intrepid auto safety (and comedy, though not in this installment)
+correspondent Kay Leadfoot at _Fuel Arc_ <sup id="fn5a">[[5]](#fn5)</sup> comes word of
+market response to Cybertrucks and other Teslas being worse firetraps than Pintos in some
+cases, and entombing occupants to drown in others.  
+
+Apparently, market responses are a bit strange.  Rather than a reasonable requirement to 
+_make the cars safe_, as happened with the Pintos, the market has taken another course.
+Given that it's nearly impossible to coerce Tesla toward safety, given Musk's tight
+alliance with Trump and widespread destruction of any government safety organizations,
+people have to take their own actions.  
+
+So now, the unlabelled and absurdly well-hidden emergency escape wire can be
+_labelled with a day-glow or glow-in-the dark_ lanyard.  Some of them get mounted, in
+Leadfoot's words, "with a load-bearing plastic zip-tie".  Imagine our lack of enthusiasm
+for a small plastic strip destined to be pulled in case of a fire.  
+
+Also, why do we rely on people to _know this obscure wire_, and modify it themselves in
+order to be kept safe?  Are we essentially blaming anybody who dies in a Tesla
+fire/drowning accident for their "ignorance"?  Other car manufacturers have figured this
+out, so why won't Tesla?  
+
+Leadfoot sums it up with the correct final question:  
+
+> But that does leave one big question.  
+>  
+> Why doesn’t Tesla just fix the damn doors?  
+
+Indeed, why not?  
+
+We actually know why: Musk wants money (all of it), and has political invulnerability for
+now.  Perhaps we need modify our posting epitaph to include billionaires:  
+
+[(_Ceterum censeo, Trump et Musk incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+
+
 ---
 
 ## Notes &amp; References  
@@ -254,3 +294,5 @@ We assume, with great hope, that "Leadfoot" is a pseudonym.  Given the death thr
 <a id="fn4">4</a>: JM Maher, _et al.,_ ["The Other Half of the Story: Effect Size Analysis in Quantitative Research"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3763001/), _CBE Life Sci Educ_ 12:3, 2013-Fall, pp. 345-351. DOI: [10.1187/cbe.13-04-0082](https://doi.org/10.1187/cbe.13-04-0082). PMID: [24006382](https://pubmed.ncbi.nlm.nih.gov/24006382/). PMC: [PMC3763001](https://pmc.ncbi.nlm.nih.gov/articles/PMC3763001/). 
 
 See, in particular, Table 2.  [↩](#fn4a)  
+
+<a id="fn5">5</a>: K Leadfoot, ["Tesla Owners are Installing DIY Rip Cords to Avoid Being Trapped in Their Vehicles in Case of Fire"](https://fuelarc.com/evs/tesla-owners-are-installing-diy-rip-cords-to-avoid-being-trapped-in-their-vehicles-in-case-of-fire/), _Fuel Arc_, 2025-May-19. [↩](#fn5a)  
