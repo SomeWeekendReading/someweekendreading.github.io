@@ -156,6 +156,9 @@ the willing thugs of ICE.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
+__NB:__ This post was started 2025-May-15, hence its date.  However, it wasn't finished
+until 2025-May-20, hence the late-dated references below.  
+
 <a id="fn1">1</a>: P Krugman, ["Is This the Year We Doom Civilization?"](https://paulkrugman.substack.com/p/is-this-the-year-we-doom-civilization), Krugman on _Substack_, 2025-May-14. [↩](#fn1a)  
 
 <a id="fn2">2</a>: International Renewable Energy Agency Staff, ["RENEWABLE POWER GENERATION COSTS IN 2023"](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Sep/IRENA_Renewable_power_generation_costs_in_2023.pdf), _IREA_, 2024.  ISBN: 978-92-9260-621-3. [↩](#fn2a)  
