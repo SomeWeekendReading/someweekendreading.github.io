@@ -210,7 +210,7 @@ that:
 There's a lovely old book by PJ Davis, called
 _Thomas Gray, Philosopher Cat._ <sup id="fn6a">[[6]](#fn6)</sup>  It's a book
 
-about the slow, gentle life of an Oxford don in years gone by, as he solves academic
+about the slow, gentle life of a Cambridge don in years gone by, as he solves academic
 puzzles accompanied by his cat.  (The sort of life I desperately wanted to have as a young
 man; alas, the world has mutated in ways too hostile for that to happen any more.)  The main
 character avoids reading newspapers, since they are too troubling.  Instead, he reads them
