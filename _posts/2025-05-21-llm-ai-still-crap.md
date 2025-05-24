@@ -74,7 +74,7 @@ Behold the results of the mighty Google search AI:
 So&hellip; which is it?  
 
 It turns out the correct answer is "no".  But the answer Google's AI gives you is
-exquisitely sensitive to exactly how the query is phrased, _right down to punctuation!_  It
+exquisitely sensitive to exactly how the query is phrased, _right down to punctuation &amp; spacing!_  It
 will answer confidently, regardless of correctness.  
 
 Unearned confidence and high persuasiveness, without true knowledge, is the mark of a BS
