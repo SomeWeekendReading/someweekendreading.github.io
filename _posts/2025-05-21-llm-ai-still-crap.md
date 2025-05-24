@@ -358,8 +358,16 @@ are not anything, really, except tools for their owners.
 
 ## The Weekend Conclusion  
 
+I did find one person who had what seems to me a reasonable application.  He's teaching
+English to speakers of other languages, and wants to generate sample texts which are
+reasonably grammatical for them to study.  Stuff like, "Write a 3-paragraph story with the
+maximum number of verbs ending in '-ed'."  This is very reasonable, because the generated
+texts are almost always grammatical, and _it does not matter if they are nonsense!_  
+
+However, for everybody else:  
+
 LLM AIs are _not_ answering your questions!  They are _hallucinating_ how a plausible,
-persuasive-sounding response might sound.  In some universe&hellip; but probably not
+persuasive-sounding response might sound&hellip; in some universe.  But probably not
 _your_ universe.  
 
 Do not be deceived: LLM AI's are unfit for any purpose.  
