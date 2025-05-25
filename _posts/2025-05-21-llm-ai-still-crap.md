@@ -271,7 +271,7 @@ generate a list of books and not even checking that they exist!  (_Ars Technica_
 that 10 of the 15 books on the list are not just fiction, but themselves fictional &ndash;
 as in, failing to exist.)  
 
-We've previously on this Crummy Little Blog That Nobody Reads inveighed against AIs
+We've previously on this CLBTNR inveighed against AIs
 creating references to nonexistent papers. But they've also tried to cite nonexistent
 cases in courts, which is a whole 'nother level of contempt for truth.  
 
