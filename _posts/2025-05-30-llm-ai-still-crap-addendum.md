@@ -18,7 +18,7 @@ amusement.
 
 You would be incorrect in that assessment.  
 
-People are in fact going _the other way,_ increasing AI adoption.  Some of this appears to&
+People are in fact going _the other way,_ increasing AI adoption.  Some of this appears to
 be at the behest of corporate management (usually lawyers or MBAs), who have no clue.
 Less than a clue. _Negative_ clues.  
 
@@ -86,7 +86,7 @@ Keep these 2 facts in mind:
 So Microsoft hands you SharePoint, on which you depend; Microsoft also hands you Copilot,
 which eviscerates SharePoint security.  
 
-And you can't get out of that!  
+And you can't turn it off!  
 
 Pen Test Partners has published a slightly more in-depth view of the
 problem. <sup id="fn1a">[[1]](#fn1)</sup>  Basically, Microsoft has drilled a great,
