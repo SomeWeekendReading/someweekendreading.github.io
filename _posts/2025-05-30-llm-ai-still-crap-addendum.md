@@ -159,7 +159,7 @@ Their findings:
 
 They descend into incoherenet madness and anger.  
 
-Come to think of it, they sound like Trump.  That's _not_ a recommendation!_  
+Come to think of it, they sound like Trump.  That's _not_ a recommendation!  
 
 
 ## The Weekend Conclusion  
