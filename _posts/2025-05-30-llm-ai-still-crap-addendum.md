@@ -50,7 +50,7 @@ is pushed onto normies.
 
 ### Fit #11: Microsoft Copilot Borks Microsoft SharePoint Security  
 
-<a href="{{ site.baseurl }}/images/https://infosec.exchange/@paco/114509218709929701"><img src="{{ site.baseurl }}/images/2025-05-30-llm-ai-still-crap-addendum-sharepoint.jpg" width="300" height="464" alt="Paco Hope @ Mastodon: Microsoft Copilot defeats security in Microsoft SharePoint" title="Paco Hope @ Mastodon: Microsoft Copilot defeats security in Microsoft SharePoint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://infosec.exchange/@paco/114509218709929701"><img src="{{ site.baseurl }}/images/2025-05-30-llm-ai-still-crap-addendum-sharepoint.jpg" width="300" height="464" alt="Paco Hope @ Mastodon: Microsoft Copilot defeats security in Microsoft SharePoint" title="Paco Hope @ Mastodon: Microsoft Copilot defeats security in Microsoft SharePoint" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 There are 2 Microsoft things loose in the wild, much beloved by corporate managers:  
 - [Microsoft SharePoint](https://en.wikipedia.org/wiki/SharePoint) is an "enterprise
   content and document management system", which means it's basically a place for people
