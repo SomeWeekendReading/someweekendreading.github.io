@@ -171,6 +171,26 @@ universe.  Just&hellip; something you might imagine, as in a dream.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2025-May-30 Evening: More AI Spoor Spotted in Kennedy's MAHA Report  
+
+<img src="{{ site.baseurl }}/images/2025-05-30-llm-ai-still-crap-addendum-nr.jpg" width="300" height="571" alt="Houghtaling @ New Republic: Evidence RFK Jr used AI to write report with fake studies" title="Houghtaling @ New Republic: Evidence RFK Jr used AI to write report with fake studies" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
+Ok, now we've got a smoking gun, from evidence in _The New Republic_. <sup id="fn4a">[[4]](#fn4)</sup>
+It looks definite that RFK Jr used OpenAI's chatbots to write his report.  From the _NR_
+article:  
+
+> Artificial intelligence researchers claim there’s “definitive” proof that Health
+> Secretary Robert F. Kennedy Jr. and his team used AI to write his “Make America Healthy
+> Again” report.  
+>  
+> &hellip;  
+>  
+> Some of the 522 scientific references in the report include the phrase “OAIcite” in
+> their URLs—a marker indicating the use of OpenAI.  
+
+They didn't even bother to _try_ to cover their tracks!  Just outright fraud.  
+
 ---
 
 ## Notes &amp; References  
@@ -196,3 +216,5 @@ universe.  Just&hellip; something you might imagine, as in a dream.
 <a id="fn2">2</a>: E Kennard &amp; M Manto, ["The MAHA Report Cites Studies That Don’t Exist"](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors), _NOTUS_, 2025-May-29. [↩](#fn2a)  
 
 <a id="fn3">3</a>: A Backlund &amp; L Petersson, ["Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents"](https://arxiv.org/abs/2502.15840), _ar&chi;iv_ 2502.15840, 2025-Feb-20. DOI: [10.48550/arXiv.2502.15840](https://doi.org/10.48550/arXiv.2502.15840). [↩](#fn3a)  
+
+<a id="fn4">4</a>: EQ HoughTaling, ["RFK Jr. Used AI to Write His Report Full of Fake Studies"](https://newrepublic.com/post/195910/robert-f-kennedy-jr-maha-report-fake-studies-ai), _New Republic_, 2025-May-30. [↩](#fn4a)  
