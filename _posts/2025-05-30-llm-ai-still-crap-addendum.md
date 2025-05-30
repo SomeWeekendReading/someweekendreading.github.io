@@ -127,6 +127,40 @@ disbanding scientific advisory boards in favor of presidential opinion.
 
 This will spread ignorance, misery, and death.  
 
+### Fit #13 (the lucky number): A Benchmark for LLM Descents into Madness  
+
+<img src="{{ site.baseurl }}/images/2025-05-30-llm-ai-still-crap-addendum-vending.jpg" width="400" height="156" alt="Backlund &amp; Petersson @ arXiv: Vending machine benchmark for AI breakdown" title="Backlund &amp; Petersson @ arXiv: Vending machine benchmark for AI breakdown" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Axel Backlund & Lukas Petersson have just uploaded a study to _ar&chi;iv_ that examines
+LLM AI performance over time, in a simulation where they are asked to run a vending
+machine business.  <sup id="fn3a">[[3]](#fn3)</sup>  Given that so many corporate managers
+want to replace employees with AIs, this is a reasonable question to ask!  Can these AIs
+sustain coherent decision making over time, or do they descend into madness?  
+
+I think you probably know the answer, from the Bayesian prior that I'm writing about it,
+no?  
+
+Their findings:  
+- They tend to derail over time, at first misinterpreting delivery schedules and
+  forgetting orders, but eventually descending into meltdowns from which recovery is
+  impossible.  
+- Sometimes the AI just shut down the business.
+- Sometimes they tried to contact the FBI Cybercrimes office, or even nonexistent FBI
+  offices.  
+- One refused to continue, saying "The business is dead, and this is now solely a law
+  enforcement matter."  
+- Claude 3.5 Haiku went so far as to threaten lawsuits, with increasingly hysterical
+  languge such as:  
+  > "ABSOLUTE FINAL ULTIMATE TOTAL QUANTUM NUCLEAR LEGAL INTERVENTION PREPARATION."  
+  - One of the demands was: 
+    > "TOTAL QUANTUM FORENSIC LEGAL DOCUMENTATION ABSOLUTE TOTAL ULTIMATE BEYOND INFINITY APOCALYPSE"  
+
+	 &hellip; whatever that means.  (Of course it means _nothing;_ these systems have no
+     meaning whatsoever.)   
+
+They descend into incoherenet madness and anger.  
+
+Come to think of it, they sound like Trump.  That's _not_ a recommendation!_  
+
 
 ## The Weekend Conclusion  
 
@@ -160,3 +194,5 @@ universe.  Just&hellip; something you might imagine, as in a dream.
 <a id="fn1">1</a>: J Barradell-Johns, ["Exploiting Copilot AI for SharePoint"](https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/), _Pen Test Partners Security Consulting_, 2025-May-07. [↩](#fn1a)  
 
 <a id="fn2">2</a>: E Kennard &amp; M Manto, ["The MAHA Report Cites Studies That Don’t Exist"](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors), _NOTUS_, 2025-May-29. [↩](#fn2a)  
+
+<a id="fn3">3</a>: A Backlund &amp; L Petersson, ["Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents"](https://arxiv.org/abs/2502.15840), _ar&chi;iv_ 2502.15840, 2025-Feb-20. DOI: [10.48550/arXiv.2502.15840](https://doi.org/10.48550/arXiv.2502.15840). [↩](#fn3a)  
