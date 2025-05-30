@@ -157,7 +157,7 @@ Their findings:
 	 &hellip; whatever that means.  (Of course it means _nothing;_ these systems have no
      meaning whatsoever.)   
 
-They descend into incoherent madness and anger.  
+They descend into incoherent anger &amp; insanity.  
 
 Come to think of it, they sound like Trump.  That's _not_ a recommendation!  
 
