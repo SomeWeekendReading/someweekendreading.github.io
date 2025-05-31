@@ -102,7 +102,7 @@ placebo control arms instead of standard of care shows that he has no idea what 
 means.)  
 
 The recently issued 
-MAHA report](https://www.whitehouse.gov/wp-content/uploads/2025/05/WH-The-MAHA-Report-Assessment.pdf)
+[MAHA report](https://www.whitehouse.gov/wp-content/uploads/2025/05/WH-The-MAHA-Report-Assessment.pdf)
 shows significant signs of having been AI-written, as well as pushing arrant nonsense.  
 
 <img src="{{ site.baseurl }}/images/2025-05-30-llm-ai-still-crap-addendum-notus.jpg" width="400" height="655" alt="Kennard &amp; Manto @ NOTUS: MAHA shows AI-written tendencies, with 7 non-existent studies" title="Kennard &amp; Manto @ NOTUS: MAHA shows AI-written tendencies, with 7 non-existent studies" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
