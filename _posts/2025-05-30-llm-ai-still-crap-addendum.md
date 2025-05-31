@@ -90,7 +90,7 @@ And you can't turn it off!
 
 Pen Test Partners has published a slightly more in-depth view of the
 problem. <sup id="fn1a">[[1]](#fn1)</sup>  Basically, Microsoft has drilled a great,
-gaping hole in their security.  
+gaping hole in their own security.  
 
 ### Fit #12: RFK Jr's MAHA Report is AI-Written, Citing Non-Existent Sources  
 
