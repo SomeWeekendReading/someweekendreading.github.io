@@ -84,7 +84,7 @@ quite limited:
 So&hellip; more international bonds.  As you can see here, we've gone with 50/50 Treasuries
 &amp; TIPS/international bonds.  That makes us 50/50 in stock/bond ratio, 50/50 in
 US/international stocks, 50/50 in US/international REITs, and now 50/50 in US/international
-bonds.  
+bonds.  (See the bond sector in the red rectangle, shown here.)  
 
 There are, I think, 2 possible outcomes here:  
 - If I'm regrettably right, I'll probably wish this had been even more conservative, like a
