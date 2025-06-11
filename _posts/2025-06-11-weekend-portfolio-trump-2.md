@@ -90,8 +90,8 @@ There are, I think, 2 possible outcomes here:
 - If I'm regrettably right, I'll probably wish this had been even more conservative, like a
   40/60 stock/bond allocation.  But I'll be glad for this much protection compared to our
   neutral portfolio.  
-- If I'm wrong and the world does not melt down, and nobody will be more relieved than me to
-  see that, then this will have been a tick more defensive than needed but will not have
+- If I'm wrong and the world does not melt down (and nobody will be more relieved than me to
+  see that), then this will have been a tick more defensive than needed.  But it will not have
   cost too much return.  
 
 I can live with both of those.  
@@ -101,12 +101,14 @@ I can live with both of those.
 
 We can only repeat the conclusions from the last time we reallocated the portfolio:  
 
-As always: this is not investment advice; it’s just a summary of what we’re doing here at
+As always, this is not investment advice; it’s just a summary of what we’re doing here at
 Ch&acirc;teau Weekend.  
 
-The world is terrible. But as all the existentialists have said, “Nevertheless, here we are.” We have to cope with what is in front of us.
-
-For investments, that means becoming somewhat more defensive. Politically & practically, it means becoming as difficult as possible, throwing sand in all the gears of Republican fascism.
+The world is terrible. But as all the existentialists have said, “Nevertheless, here we
+are.” We have to cope with what is in front of us.  Any other policy is self-delusion.
+- For investments, that means becoming somewhat more defensive.  
+- Politically & practically, it means becoming as difficult as possible, throwing sand in
+  all the gears of Republican fascism.  
 
 At my age, I can do the former, but will have to choose carefully about the latter.
 
