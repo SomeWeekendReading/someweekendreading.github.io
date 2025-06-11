@@ -67,13 +67,16 @@ bizarrely self-inflicted financial injury.  While default is unlikely, he might 
   government databases now wildly inaccurate <sup id="fn3a">[[3]](#fn3)</sup> (and we've
   even documented some of that on this Crummy Little Blog That Nobody Reads
   (CLBTNR) <sup id="fn4a">[[4]](#fn4)</sup>, so it's not a stretch to think that Trump
-  might direct them to lie about inflation.  
+  might direct them to lie about inflation.  (It's time to resurrect the MIT
+  Billion Prices Project <sup id="fn5a">[[5]](#fn5)</sup>, which provided an independent
+  check on the US government CPI data from 2007 - 2015.  The US CPI was more or less
+  accurate.)  
 
 <a href="{{ site.baseurl }}/images/2025-06-11-weekend-portfolio-trump-2-asset-allocation.jpg"><img src="{{ site.baseurl }}/images/2025-06-11-weekend-portfolio-trump-2-asset-allocation-thumb.jpg" width="400" height="211" alt="Asset allocation: a bit more of the bonds are now foreign" title="Asset allocation: a bit more of the bonds are now foreign" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2025-06-11-weekend-portfolio-trump-2-pies.jpg"><img src="{{ site.baseurl }}/images/2025-06-11-weekend-portfolio-trump-2-pies-thumb.jpg" width="400" height="329" alt="Pie charts: Tax status and asset allocation" title="Pie charts: Tax status and asset allocation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So we decided to lighten up on Treasuries &amp; TIPS a little bit.  The alternatives are
 quite limited:  
-- We don't want corporate bonds, since we've previously done regression analyses those look like Treasuries plus a little stock. <sup id="fn5a">[[5]](#fn5)</sup>  You can't diversify away from stock risk by adding more stock!  
+- We don't want corporate bonds, since we've previously done regression analyses those look like Treasuries plus a little stock. <sup id="fn6a">[[6]](#fn6)</sup>  You can't diversify away from stock risk by adding more stock!  
 - Junk bonds are even more so, and quite risky even in ordinary recessions, let alone what's about to happen.  
 - Dividend stocks?  C'mon, say it with me: _you can't diversify away from stock risk by adding more stock!  
 - Alts like commodities, gold, futures, crypto?  Oh, please.  Those are not investments. Those are tools to fleece na&iuml;ve investors.  I'm na&iuml;ve, but not _that_ much.  
@@ -139,4 +142,6 @@ As must we all.
 
 <a id="fn4">4</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Bad Doggies!"]({{ site.baseurl }}/bad-doggies/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Apr-15. [↩](#fn4a)  
 
-<a id="fn5">5</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Stock Diversifiers: Treasury vs Corporate Bonds?"]({{ site.baseurl }}/treasuries-vs-corporates/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Apr-15. [↩](#fn5a)  
+<a id="fn5">5</a>: A Cavallo &amp; R Rigobon, ["The Billion Prices Project"](https://thebillionpricesproject.com/), _Billion Prices Project_ web site, downloaded 2025-Jun-11. [↩](#fn5a)  
+
+<a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Stock Diversifiers: Treasury vs Corporate Bonds?"]({{ site.baseurl }}/treasuries-vs-corporates/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Apr-15. [↩](#fn6a)  
