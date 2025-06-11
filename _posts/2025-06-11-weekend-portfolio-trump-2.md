@@ -117,6 +117,39 @@ As must we all.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2025-Jun-11, later in the day: VTABX Composition  
+
+Somebody on Mastodon complained (mildly and politely) about my choice of
+[VTABX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtabx),
+or its ETF share class [BNDX](https://investor.vanguard.com/investment-products/etfs/profile/bndx).
+The complaint was along the lines of "it's mostly corporate", when we want mostly
+government bonds of developed nations.  
+
+<a href="{{ site.baseurl }}/images/2025-06-11-weekend-portfolio-trump-2-morningstar-1.jpg"><img src="{{ site.baseurl }}/images/2025-06-11-weekend-portfolio-trump-2-morningstar-1-thumb.jpg" width="400" height="390" alt="Morningstar: portfolio composition of VTABX" title="Morningstar: portfolio composition of VTABX" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+So I did some checking.  Have a look on
+[Morningstar at their portfolio](https://www.morningstar.com/funds/xnas/vtwax/portfolio)
+as of 2025-Apr-30 (the last reporting date as of 2025-Jun-11), shown here:  
+- The table at top left shows the breakdown by bond type (government, corporate,
+  &hellip;).  Importantly, the last line shows 30% derivatives.  These are the curerncy
+  forwards used to hedge the various bond currencies back to the dollar.  It's probably
+  not quite right to include them in the asset breakdown, but at least you can see what's
+  what.  
+- The table at top right shows the breakdown by credit rating.  At least 75% of the
+  portfolio is AAA, AA, or A quality, which is all very good.
+- The bar chart at the bottom shows the credit quality breakdown (colors) by type of
+  bond.  This, of course, does _not_ include the currency hedges.  
+  
+Looking at the bottom bar chart, which includes _only_ the bonds and not the hedges, we
+see that the portfolio breaks down as:  
+- a hair under 80% government bonds,  
+- a hair over 5% secured bonds, i.e., something sort of like mortgages where an asset backs the bond
+  against default, and  
+- just a hair over 15% corporates for the rest.  
+
+__Conclusion:__ VTABX/BNDX is mostly government or securitized bonds, with only about 15%
+or so in corporates.  Not perfect, but good enough for now.  
+
 ---
 
 ## Notes &amp; References  
