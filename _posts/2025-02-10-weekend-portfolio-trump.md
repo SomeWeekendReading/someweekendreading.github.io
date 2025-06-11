@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Weekend Retirement Portfolio for the  Trump-Revenant Era
-tags: Investing Retirement Statistics
+tags: Investing Politics Retirement Statistics
 comments: true
 commentsClosed: true
 ---
