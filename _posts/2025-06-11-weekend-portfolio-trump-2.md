@@ -131,7 +131,7 @@ So I did some checking.  Have a look on
 [Morningstar at their portfolio](https://www.morningstar.com/funds/xnas/vtwax/portfolio)
 as of 2025-Apr-30 (the last reporting date as of 2025-Jun-11), shown here:  
 - The table at top left shows the breakdown by bond type (government, corporate,
-  &hellip;).  Importantly, the last line shows 30% derivatives.  These are the curerncy
+  &hellip;).  Importantly, the last line shows 30% derivatives.  These are the currency
   forwards used to hedge the various bond currencies back to the dollar.  It's probably
   not quite right to include them in the asset breakdown, but at least you can see what's
   what.  
