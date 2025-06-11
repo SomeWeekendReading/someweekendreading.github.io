@@ -136,7 +136,7 @@ As must we all.
 
 <a id="fn1">1</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["The Weekend Retirement Portfolio"]({{ site.baseurl }}/retirement-portfolio/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2021-Jun-19. [↩](#fn1a)  
 
-<a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["A Weekend Retirement Portfolio for the Trump-Revenant Era"]({{ site.baseurl }}/weekend-portfoio-trump), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Feb-10. [↩](#fn2a)  
+<a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["A Weekend Retirement Portfolio for the Trump-Revenant Era"]({{ site.baseurl }}/weekend-portfolio-trump/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Feb-10. [↩](#fn2a)  
 
 <a id="fn3">3</a>: A Wallace, ["DOGE layoffs may have compromised the accuracy of government data"](https://www.cnn.com/2025/06/05/economy/cpi-data-bls-reductions), _CNN_, 2025-Jun-05. [↩](#fn3a)  
 
