@@ -78,8 +78,8 @@ So we decided to lighten up on Treasuries &amp; TIPS a little bit.  The alternat
 quite limited:  
 - We don't want corporate bonds, since we've previously done regression analyses those look like Treasuries plus a little stock. <sup id="fn6a">[[6]](#fn6)</sup>  You can't diversify away from stock risk by adding more stock!  
 - Junk bonds are even more so, and quite risky even in ordinary recessions, let alone what's about to happen.  
-- Dividend stocks?  C'mon, say it with me: _you can't diversify away from stock risk by adding more stock!  
-- Alts like commodities, gold, futures, crypto?  Oh, please.  Those are not investments. Those are tools to fleece na&iuml;ve investors.  I'm na&iuml;ve, but not _that_ much.  
+- Dividend stocks?  C'mon, say it with me: _you can't diversify away from stock risk by adding more stock!_  
+- Alts like commodities, gold, futures, crypto?  Oh, please.  Those are not investments. Those are tools to fleece na&iuml;ve investors.  I'm na&iuml;ve, but not _that_ na&iuml;ve.  
 
 So&hellip; more international bonds.  As you can see here, we've gone with 50/50 Treasuries
 &amp; TIPS/international bonds.  That makes us 50/50 in stock/bond ratio, 50/50 in
