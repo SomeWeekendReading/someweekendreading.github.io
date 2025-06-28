@@ -12,7 +12,7 @@ straightened out.  Also, Medicare.  It was _not_ easy!
 
 ## Turning 65: Medicare, and Spousal Medicare  
 
-<img src="{{ site.baseurl }}/images/2025-07-28-soc-sec-journey-medicare-logo.jpg" width="400" height="125" alt="Medicare logo: senior healthcare in the US" title="Medicare logo: senior healthcare in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-06-28-soc-sec-journey-medicare-logo.jpg" width="400" height="125" alt="Medicare logo: senior healthcare in the US" title="Medicare logo: senior healthcare in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 I retired shortly after turning 65.  My newly-former employer put me on "retiree health
 care", which meant I applied for Medicare and the employer supplied a supplement
 (essentially Plan G, but Massachusetts is different) and Part D (prescriptions).  My
@@ -64,7 +64,7 @@ So far, so good: but it took _months_ of back-and-forth and maybe 4 visits to th
 
 ## Turning 70: Social Security Benefits  
 
-<img src="{{ site.baseurl }}/images/2025-07-28-soc-sec-journey-ssa-logo.jpg" width="400" height="385" alt="Social Security logo: senior retirement benefits in the US" title="Social Security logo: senior retirement benefits in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-06-28-soc-sec-journey-ssa-logo.jpg" width="400" height="385" alt="Social Security logo: senior retirement benefits in the US" title="Social Security logo: senior retirement benefits in the US" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 In the US, you can claim benefits as early as 62, though the benefit will be lower.  My
 "full retirement age" would have been 66 and 2 months.  But&hellip; if I delayed until age
 70, the benefits went up by 8%/year.  That's a good deal for an inflation-adjusted
@@ -173,8 +173,8 @@ hope, understand why we had no appetite to touch the system any more than we had
 
 ## The Weekend Conclusion  
 
-<img src="{{ site.baseurl }}/images/2025-07-28-soc-sec-journey-publishers.jpg" width="400" height="300" alt="The Weekend Publisher and the Assistant Weekend Publisher are unconcerned, as appropriate to their Zen mastery." title="The Weekend Publisher and the Assistant Weekend Publisher are unconcerned, as appropriate to their Zen mastery." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2025-07-28-soc-sec-journey-garden.jpg" width="400" height="300" alt="The Weekend Editrix's beautiful hillside shade garden, to contemplate during difficult times." title="The Weekend Editrix's beautiful hillside shade garden, to contemplate during difficult times." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-06-28-soc-sec-journey-publishers.jpg" width="400" height="300" alt="The Weekend Publisher and the Assistant Weekend Publisher are unconcerned, as appropriate to their Zen mastery." title="The Weekend Publisher and the Assistant Weekend Publisher are unconcerned, as appropriate to their Zen mastery." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-06-28-soc-sec-journey-garden.jpg" width="400" height="300" alt="The Weekend Editrix's beautiful hillside shade garden, to contemplate during difficult times." title="The Weekend Editrix's beautiful hillside shade garden, to contemplate during difficult times." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Looks like it's all sorted out, for now.  We'll keep watching the bank accounts to make
 sure it _stays_ that way, so long as Trump is in office.  We don't want to be victims
 unawares, of Republican mischief.  
