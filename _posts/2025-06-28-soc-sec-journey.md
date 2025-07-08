@@ -198,6 +198,113 @@ my age, I'm a bit frustrated that this is just about _all_ I can do.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
+## Addendum 2025-Jul-08: Trump Uses SSA for Propaganda  
+
+<img src="{{ site.baseurl }}/images/2025-06-28-soc-sec-journey-dkos-1.jpg" width="400" height="260" alt="Needham @ DailyKOS: Media shrugs off unhinged Social Security email" title="Needham @ DailyKOS: Media shrugs off unhinged Social Security email" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/2025-06-28-soc-sec-journey-propaganda-email.jpg"><img src="{{ site.baseurl }}/images/2025-06-28-soc-sec-journey-propaganda-email-thumb.jpg" width="400" height="461" alt="Trump propaganda email from the Social Security Administration" title="Trump propaganda email from the Social Security Administration" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+On 2025-Jul-04 (US Independence Day, of all things) we got an email from the Social
+Security Administration.  Along with, apparently, about 71 million other Americans who had
+ever made an account on the Social Security web site. <sup id="fn1a">[[1]](#fn1)</sup>  
+
+Notably, as you can see from the little red eye icon, the email contained one of the
+infamous "tracking pixels", that tattles to _somebody_ each time you open the email.  I've
+blocked it here with
+[PixelBlock, a Chrome extension](https://chromewebstore.google.com/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem?hl=en&pli=1).
+(However, the Chrome web store says it's "no longer available because it doesn't follow
+best practices for Chrome extensions".  Apparently it's against Google policy not to roll
+over submissively when they try to track you?  Sigh.  More corporate
+[en&lt;_mumble_&gt;ification](https://en.wikipedia.org/wiki/Enshittification).)  
+
+The email was, of course, not really about Social Security.  It was just blatant Trump propaganda
+about the passage of his "One, Big, Beautiful Bill" gutting much of the US government.  
+
+Amazingly, people continue to claim that the "OBBB" removes the Social Security taxation
+originally imposed by Reagan in 1983 as a budget saver.  This taxation doesn't go into the
+general fund, but back into the Social Security and Medicare trust
+funds <sup id="fn2a">[[2]](#fn2)</sup>:  
+
+> Under legislation enacted in 1983, the Social Security Trust Funds receive income based
+> on Federal income taxation of benefits. The funds receive taxes on up to 50 percent of
+> benefits from single taxpayers with incomes over \\$25,000 and from taxpayers filing
+> jointly with incomes over \\$32,000.  
+>  
+> Legislation enacted in 1993 extended taxation of benefits. The legislation increased the
+> limitation on the amount of benefits subject to taxation from 50 percent to 85 percent
+> for single taxpayers with incomes over \\$34,000 and for taxpayers filing jointly with
+> incomes over \\$44,000. All additional tax income resulting from the 1993 legislation is
+> deposited in Medicare's Hospital Insurance Trust Fund.  
+
+Obviously, it would be massively stupid to remove that tax, as it would deplete the trust
+funds _even faster_ than now, when it goes empty in the 2030's.
+
+So, in part we're just propagating a lie based on the fact that people _don't actually know_
+what's in the bill.  (As in: about 20% of Americans depend on Medicaid, basically health
+insurance for the poor, administered to through state programs which usually rename it.
+That all gets cut drastically just after the mid-term elections in 2026.)
+
+On the other hand, the bill _does_ slightly increase the standard deduction and add a
+"bonus" deduction for seniors.  (Though it phases out at higher incomes, and disappears
+altogether after 4 years.)  This partially offsets Social Security taxation, in a
+back-handed way that only applies in some cases. So they've inflated that to "We've made
+your Social Security tax-free!"  
+
+That is, of course, _lying._  In an official US government communication to seniors.  
+
+A statement from the Social Security Commissioner, with florid Trump-worship:  
+
+> "This is a historic step forward for America’s seniors," said Social Security
+> Commissioner Frank Bisignano. "For nearly 90 years, Social Security has been a
+> cornerstone of economic security for older Americans. By significantly reducing the tax
+> burden on benefits, this legislation reaffirms President Trump’s promise to protect
+> Social Security and helps ensure that seniors can better enjoy the retirement they’ve
+> earned."  
+
+Ok, so who is this Frank Bisignano guy?   A few bits of intel from
+Wikipedia <sup id="fn3a">[[3]](#fn3)</sup> reveal an unsavory character:  
+- He's a Wall Street investment banker type, coming up through
+  [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase).
+  He later worked at [First Data](https://en.wikipedia.org/wiki/First_Data) (basically
+  credit card servicing) and [Fiserve](https://en.wikipedia.org/wiki/Fiserv) (basically
+  fintech for banks and the like), growing by acquisitions.  So far, this is not exactly
+  my taste and not exactly a political qualification, but generally ok.  
+- He was the highest-paid CEO in the United States, clocking in at \\$100 million
+  in 2017.  This puts him in a peculiar attitude to run pensions at Social Security.  
+- Of his tenure at Fiserve, well&hellip; it wasn't pretty:  
+  > Under Bisignano's tenure, hundreds of First Data and FiServ locations have closed,
+  > resulting in the termination of thousands of employees. Employees who previously had
+  > remote positions due to the COVID-19 pandemic or other legacy reasons have reportedly
+  > been particularly targeted.[24]. Bisignano was heavily criticised for his leadership
+  > during his time with Fiserv resulting in high attrition and drop in share price. His
+  > view on lack of flexibility and focusing on people showcased his lack of empathy which
+  > later was picked up by opposition parties prior to him joining the Trump
+  > administration.  
+- He's a long-time supporter of Republicans, in particular Trump.  Between Bisignano and
+  his wife, they've donated about \\$1 million to Trump's campaigns.
+
+If he thinks the Social Security administration is like an investment bank, he's deeply
+confused about at least one of those things.  Indeed, he "joked" that he had to Google what
+the Social Security Commissioner did&hellip; which is not exactly a signal of high
+qualifications for the job.  
+
+So it looks like he's a billionaire CEO, a manager who doesn't mind cruelty in mass
+terminations, who appears to have bought his nomination with political donations despite
+lack of fitness for the position.  Smells like the political equivalent of
+[simony](https://en.wikipedia.org/wiki/Simony), the medieval term for sale of church
+positions, doesn't it?  
+
+The Social Security letter concludes ironically with a promise:  
+
+> Social Security remains committed to providing timely, accurate information to the
+> public and will continue working closely with federal partners to ensure beneficiaries
+> understand how this legislation may affect them.  
+
+This promise is already broken by the misleading email in which it was sent.  
+
+That is very on-brand for Trump.  
+
+Once more, with feeling: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+
 ---
 
 ## Notes &amp; References  
@@ -218,4 +325,8 @@ my age, I'm a bit frustrated that this is just about _all_ I can do.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-Nope.
+<a id="fn1">1</a>: L Needham, ["Media shrugs off unhinged Social Security email"](https://www.dailykos.com/stories/2025/7/7/2332211/-Media-shrugs-off-unhinged-Social-Security-email?detail=emaildkre), _Daily Kos_, 2025-Jul-07. [↩](#fn1a)  
+
+<a id="fn2">2</a>: Social Security Administration Staff, ["Taxation of Social Security Benefits"](https://www.ssa.gov/oact/progdata/taxbenefits.html), _Social Security Administration_ web site, downloaded 2025-Jul-08. [↩](#fn2a)  
+
+<a id="fn3">3</a>: Wikipedia Editors, ["Frank Bisignano"](https://en.wikipedia.org/wiki/Frank_Bisignano), _Wikipedia_, downloaded 2025-Jul-08.  [↩](#fn3a)  
