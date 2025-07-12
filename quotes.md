@@ -783,6 +783,8 @@ conviction that a hypothesis is true has no bearing over whether it is true or n
 
 "May you be your only victim." &ndash; health physicist [Phil Broughton](https://www.funraniumlabs.com/about-2/), [BlueSky](https://bsky.app/profile/funranium.bsky.social/post/3lcdt22pzbk22), 2024-Dec-02, speaking of playing with too-powerful lasers in a too-ignorant fashion, but doing so outside his personal circle of responsibility.  
 
+"On two occasions I have been asked, &ndash; 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' In one case a member of the Upper, and in the other a member of the Lower, House put this question.  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." &mdash; [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage), [_Passages from the Life of a Philosopher_](https://en.wikisource.org/wiki/Passages_from_the_Life_of_a_Philosopher), [Chapter V "Difference Engine No. 1"](https://en.wikiquote.org/wiki/Charles_Babbage#:~:text=On%20two%20occasions,Engine%20No.%201%22), (London 1864).  
+
 
 ## The Statistical Ones  
 
