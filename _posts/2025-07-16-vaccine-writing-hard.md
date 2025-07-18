@@ -32,7 +32,7 @@ maniac burning it down. We, though, face one maniac burning down civilization in
 
 This topic is hard enough for me that I want to get it all out at once, and not suffer
 through writing like this over and over, at least for a while.  So buckle up: we're going
-through 29 scientific papers today.  
+through 33 sources, mostly scientific papers, today.  
 
 
 ## The Reality of The Vaccines  
