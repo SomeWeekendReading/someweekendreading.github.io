@@ -341,7 +341,10 @@ Immunization Practices) and replaced them with what appears to be a raft of clow
 
 <img src="{{ site.baseurl }}/images/2025-07-16-vaccine-writing-hard-jacobs.jpg" width="400" height="314" alt="Professor emerita of epidemiology, Elizabeth Jacobs" title="Professor emerita of epidemiology, Elizabeth Jacobs" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2025-07-16-vaccine-writing-hard-jacobs-on-acip.png"><img src="{{ site.baseurl }}/images/2025-07-16-vaccine-writing-hard-jacobs-on-acip-thumb.jpg" width="400" height="330" alt="AkaSci's summary of Jacobs on the new ACIP members" title="AkaSci's summary of Jacobs on the new ACIP members" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-I dunno quite what to tell you about them.  They all look really, really bad to me.  
+I dunno quite what to tell you about them.  They all look really, really bad to me.
+For example, one panelist asked CDC scientists whether a "pattern of broad-based energy of
+some type" may be responsible for a surge in flu deaths this year (see reference 16).
+Yeah, it's all those negative vibes, man.  Pure woo!  
 
 But you don't have to take the word of some cranky old retired scientist/internet rando.
 Instead, consider the opinion of [epidemiology professor Elizabeth Jacobs](https://bsky.app/profile/elizabethjacobs.bsky.social),
