@@ -814,8 +814,7 @@ In the meantime, about some subjects, it is much harder for me to write optimist
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
-(And yes, "The Reality of the Vaccines" is a goof on "The Hypostasis of the Archons".
-Thank you for noticing!)  
+(And yes, "The Reality of the Vaccines" is a goof on ["The Hypostasis of the Archons"](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons). Thank you for noticing!)  
 
 ---
 
