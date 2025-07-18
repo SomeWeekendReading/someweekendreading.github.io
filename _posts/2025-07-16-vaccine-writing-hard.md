@@ -837,7 +837,7 @@ Thank you for noticing!)
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: AJ Shattock, _et al._, ["Contribution of vaccination to improved survival and health: modelling 50 years of the Expanded Programme on Immunization"](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00850-X/), _The Lancet_, 403:10441, pp. 2307-2316, 2024-May-25. DOI: [10.1016/S0140-6736(24)00850-X](https://doi.org/10.1016/S0140-6736(24)00850-X). [↩](#fn1a)  
+<a id="fn1">1</a>: AJ Shattock, _et al._, ["Contribution of vaccination to improved survival and health: modelling 50 years of the Expanded Programme on Immunization"](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00850-X/fulltext), _The Lancet_, 403:10441, pp. 2307-2316, 2024-May-25. DOI: [10.1016/S0140-6736(24)00850-X](https://doi.org/10.1016/S0140-6736(24)00850-X). [↩](#fn1a)  
 
 <a id="fn2">2</a>: T DeBold &amp; D Friedman, ["Battling Infectious Diseases in the 20th Century: The Impact of Vaccines"](https://graphics.wsj.com/infectious-diseases-and-vaccines/), _Wall Street Journal_, 2015-Feb-11. [↩](#fn2a)  
 
