@@ -863,6 +863,9 @@ Without both, one doesn't get to the bottom of anything.")
 
 ## The Religious Ones  
 
+"To be called 'woke' in a world that sleeps through suffering is no insult." &ndash; [Pope Leo XIV](
+)  
+
 "Pride does not go before a fall. Pride is a fall, in the instant understanding of all the
 intelligent who see it." &ndash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
 _Illustrated London News_, 1914-Aug-22.  
