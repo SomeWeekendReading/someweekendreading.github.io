@@ -353,8 +353,8 @@ who summarized it all.  Here's short summary table helpfully
 They're all&hellip; uniquely awful.  Not just unqualified, but anti-qualified.  
 
 NB: Retsef Levi, in particular, believes mRNA vaccines have killed more people than they
-have saved.  I don't want dive into his delusions to figure out why he thinks that.  It is
-in complete ignorance of the pharmacovigilance function of Phase IV, which detect 
+have saved.  I don't want dive into his statements to figure out why he thinks that.  It is
+in apparent ignorance of the pharmacovigilance function of Phase IV, which detect 
 _exactly that sort of thing._  
 
 For example, the COX2 inhibitor Vioxx/rofecoxib was initially hailed as a way to relieve
