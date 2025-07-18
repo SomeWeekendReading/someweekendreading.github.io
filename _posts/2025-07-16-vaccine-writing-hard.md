@@ -15,7 +15,7 @@ be obvious. Perhaps this post is less _analysis,_ and more _catharsis?_
 
 ## The Scent of Burning Libraries  
 
-<a href="{{ site.baseurl }}/images/library-envy.jpg"><img src="{{ site.baseurl }}/images/library-envy-thumb.jpg" width="250" height="189" alt="Yes, I have a serious case of library envy." title="Yes, I have a serious case of library envy." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/library-envy.jpg"><img src="{{ site.baseurl }}/images/library-envy-thumb.jpg" width="250" height="189" alt="Yes, I have a serious case of library envy.  This is the library of Trinity College, Dublin." title="Yes, I have a serious case of library envy.  This is the library of Trinity College, Dublin." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 A British friend &ndash; alas, I've forgotten whom, exactly, so if it happened to be
 you, please tell me so I can credit you with the witticism &ndash;
 compared the US now to how they felt in the UK during Brexit:  
