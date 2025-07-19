@@ -405,9 +405,8 @@ conservatives in the US, react with superstition instead of reality.
       _but allocated about \\$8 million to their sheriffs._  Because&hellip; apparently more
       cops make everything better? __For the flood alert system, they spent no money at all.__  
 
-    In consequence of this, more than 100 people lie dead.  
-
-    The rot runs deep.  Not even death deters them.  
+    In consequence of this, more than 100 people lie dead. The rot runs deep: not even
+    death deters them.   
 
 These are not the truth-seeking behaviors of scientists; these are the mathematically
 illiterate behaviors of superstitious _children._  
