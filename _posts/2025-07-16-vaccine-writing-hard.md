@@ -497,7 +497,7 @@ Here are a few examples of what could have gone right (or still could if we coul
    drops precipitously, but the red curve does not.  
    - That is, the vaccinated patients tended to have a longer recurrence-free survival (RFS)
      than the others &ndash; basically they lived for 4 more years at the end of the study!
-   - They reported a hazard ratio of $\mbox{\em{HR}} \sim 0.14$, with a confidence interval of
+   - They reported a hazard ratio of $\mbox{\emph{HR}} \sim 0.14$, with a confidence interval of
      0.03 - 0.59; we want to see that bounded away from 1 which is what we have here.  
    - Also, a log-rank 2-tailed test got $p \lt 0.007$, which amply passes all reasonable
      tests of statistical significance.  
