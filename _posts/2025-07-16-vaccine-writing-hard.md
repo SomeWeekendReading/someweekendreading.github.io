@@ -83,7 +83,7 @@ humanity.  The data is not hard to find.
    Just sit with that number for a moment: more than 93 million children saved.  This is an
    occasion for pride and gratitude, absolutely _not_ for suspicion of vaccines!  
 
-Vaccines are _good._  That is _reality._  
+This is _reality:_  vaccines are _good._  
 
 
 ## The Superstitious Reaction _to_ Vaccines  
