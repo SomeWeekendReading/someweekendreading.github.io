@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-[Mild Content Warning: this is a long, dark, angry post.  But it's grounded in the unfortunate
+[_Mild Content Warning:_ this is a long, dark, angry post.  But it's grounded in the unfortunate
 facts of a dark, angry time.  "Long" is just my own fault.] Periodically,
 [somebody asks me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about current news in
 vaccines.  I find it really hard now to write about that subject, for reasons that should
