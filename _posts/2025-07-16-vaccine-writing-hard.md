@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-[Mild Content Warning: this is a long, dark, angry post.  But it's grounded in unfortunate
+[Mild Content Warning: this is a long, dark, angry post.  But it's grounded in the unfortunate
 facts of a dark, angry time.  "Long" is just my own fault.] Periodically,
 [somebody asks me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about current news in
 vaccines.  I find it really hard now to write about that subject, for reasons that should
@@ -122,7 +122,7 @@ conservatives in the US, react with superstition instead of reality.
    - The right graph of cumulative death rates, continues to diverge: Republicans are killing
      themselves for their vaccine superstitions.  
 
-   Beliefs leading to increased deaths over a period of years are seldom the correct
+   Beliefs leading to increased needless deaths over a period of years are seldom the correct
    beliefs.  There is no virtue in dying for the stupidity of your tribe.  
 
    Alas, the stupidity of the Republican tribe knows no (upper) bounds.  
@@ -354,7 +354,7 @@ conservatives in the US, react with superstition instead of reality.
 
     NB: Retsef Levi, in particular, believes mRNA vaccines have killed more people than they
     have saved.  I don't want dive into his statements to figure out why he thinks that.  It is
-    in apparent ignorance of the pharmacovigilance function of Phase IV, which detect 
+    in apparent ignorance of the pharmacovigilance function of Phase IV, which detects 
     _exactly that sort of thing._  
 
     For example, the COX2 inhibitor Vioxx/rofecoxib was initially hailed as a way to relieve
@@ -535,8 +535,9 @@ Here are a few examples of what could have gone right (or still could if we coul
    years, compared to Keytruda alone.  They are 62% less likely to get a distant metastasis
    or death.  
 
-   Statistical significance was just around $p \sim 5.3\%$, but you'd expect that in a very
-   small Phase IIb trial.  A large Phase III trial is where that'll get settled.  
+   Statistical significance was just marginally non-significant ataround $p \sim 5.3\%$,
+   but you'd expect that in a very small Phase IIb trial.  A large Phase III trial is
+   where that'll get settled.  
 
    Phase III launched in melanoma and non-small cell lung cancer, but they will take several
    years.  Possibly that's good, since it might come up in the post-Trump era, presuming we
