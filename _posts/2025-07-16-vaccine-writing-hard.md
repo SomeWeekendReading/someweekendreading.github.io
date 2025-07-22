@@ -105,18 +105,20 @@ conservatives in the US, react with superstition instead of reality.
        that things changed; apparently Trump normalized lying.  Almost half the Republicans
        who previously valued childhood vaccinations decided they were unimportant (50% down
        to 25%).  Almost half!  
-   - Even more disturbingly, the second graph shows a sudden, steep increase, in Republicans
-     _only,_ who believe disease is less risk than vaccination for their children.
+   - Even more disturbingly, the second graph shows a sudden, steep increase, _in Republicans only,_ 
+     who believe disease is less risk than vaccination for their children.
      Apparently they fell that polio, measles, and COVID-19 are less of a big deal
      because&hellip; they only kill and maim children, whereas vaccines are a Democrat
-     pollution of their essence, or something?  (I find it hard to understand why this is not
-     just child abuse!)  
+     pollution of their
+     [precious bodily fluids](https://en.wikipedia.org/wiki/Opposition_to_water_fluoridation#Communist_conspiracy_theory_(1940s%E2%80%931960s)), 
+     or something?  (I find it hard to understand why this is not just child abuse!)  
 
 2. <a href="{{ site.baseurl }}/images/2025-07-16-vaccine-writing-hard-topol-1.jpg"><img src="{{ site.baseurl }}/images/2025-07-16-vaccine-writing-hard-topol-1-thumb.jpg" width="400" height="123" alt="Topol on Wash State Dept of Health data: cumulative death curves for Republicans continue to diverge" title="Topol on Wash State Dept of Health data: cumulative death curves for Republicans continue to diverge" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
    The estimable
    [Eric Topol on Mastodon](https://mathstodon.xyz/@erictopol@mstdn.social/112083201742283852)
    confirms this, with some data shown here from Washington State:  
-   - The leftmost graph shows demonstrably higher death rates among the unvaccinated.  
+   - The leftmost graph shows demonstrably higher death rates among the unvaccinated, over
+     and above the vaccinated.  
    - The middle graph, acknowledging Republicans are more likely to be unvaccinated, have
      been dying for years at higher rates in consequence of that.  
    - The right graph of cumulative death rates, continues to diverge: Republicans are killing
@@ -137,8 +139,8 @@ conservatives in the US, react with superstition instead of reality.
    any sort as weapons of mass destruction! <sup id="fn5a">[[5]](#fn5)</sup>  We checked, and
    there is &ndash; unfortunately &ndash; an actual bill,
    [HF3291/4991, designating mRNA injections and products as weapons of mass destruction](https://www.revisor.mn.gov/bills/text.php?number=HF3219&type=bill&version=0&session=ls94&session_year=2025&session_number=0).  It appears some of the language in the bill is the same as the Florida one, due to the
-   involvement in both of the Florida-based hypnotist, Joseph Sansone, previously featured in
-   this CLBTNR.  
+   involvement in both of the Florida-based hypnotist, 
+   [Joseph Sansone, previously featured in this CLBTNR]({{ site.baseurl }}/covid-disgrace/#florida-republicans-pass-resolution-to-ban-covid-19-vaccines:~:text=The%20author%20is%20one%20Joe%20Sansone).  
 
    Possibly it has little chance of passage.  So one may hope.  
 
