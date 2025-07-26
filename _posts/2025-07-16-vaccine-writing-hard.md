@@ -269,9 +269,9 @@ conservatives in the US, react with superstition instead of reality.
    - Kennedy claims &ndash; utterly falsely &ndash; that the aluminum salts used are
      "extremely neurotoxic" and "give[s] you allergies".  
      - On the other hand, _actual_ scientists studied 1.2 million Danish children, calculated
-       their aluminum exposures, and found __no statistically significant association to any of
-       over 50 chronic conditions._  This study is published in _Annals of Internal Medicine_
-       (citation at the footnote, below).  
+       their aluminum exposures, and found
+	   _no statistically significant association to any of over 50 chronic conditions._  This study is
+        published in _Annals of Internal Medicine_ (citation at the footnote, below).  
      - Kennedy, though, fired all the members of the CDC Advisory Committee on Immunization
        Practice (ACIP) and appointed wildly unqualified replacements.  He wants them to
        investigate aluminum adjuvants in vaccines, against all scientific evidence.  

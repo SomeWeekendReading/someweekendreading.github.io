@@ -312,7 +312,7 @@ On the one hand, we can be ["realists"](https://plato.stanford.edu/entries/reali
 about this story.  Or on the other hand, we can choose to do nothing for
 interpretation.  But if I choose nothing, my pessimistic (and usually depressed) mind will
 drift toward the dark.  No, it's not about good people wanting to pet dogs.  It's about
-jealous husbands, secrecy, authoritarian tyrrany, military occupation, state-authorized
+jealous husbands, secrecy, authoritarian tyranny, military occupation, state-authorized
 torture, political murder, and&hellip; look, I'm just gonna just stop there, ok?  
 
 On the gripping hand: it's a story about persistence in keeping a promise (the seal of
