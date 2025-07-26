@@ -818,6 +818,46 @@ In the meantime, about some subjects, it is much harder for me to write optimist
 
 (And yes, "The Reality of the Vaccines" is a goof on ["The Hypostasis of the Archons"](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons). Thank you for noticing!)  
 
+## Addendum 2025-Jul-26: Cancer screening is now 'too woke'  
+
+<img src="{{ site.baseurl }}/images/2025-07-16-vaccine-writing-hard-rawstory-1.jpg" width="400" height="208" alt="D Hampton @ Raw Story: RFKJr fires cancer screening panel for being 'too woke'" title="D Hampton @ Raw Story: RFKJr fires cancer screening panel for being 'too woke'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+This news was initially reported in _The Wall Street Journal_, but now it's out from behind
+their regrettable paywall and being reported in other media, like
+_Raw Story_.  <sup id="fn30a">[[30]](#fn30)</sup>  
+
+
+There's this thing called the
+[US Preventive Services Task Force](https://en.wikipedia.org/wiki/United_States_Preventive_Services_Task_Force).
+The members study things like cancer screenings and other preventive services.  One of
+their outputs is to decide which preventive screenings are accurate enough and have enough
+impact that they should be mandated for payment by insurance companies.  (Left to their
+own profit motive, we've seen that health insurers will _not_ prioritize their customers'
+health.)  
+
+One of the considerations is that sometimes these screening tests have different
+probabilities depending on the background of the patient, such as race or pregnancy.  They
+make recommendations about how to interpret and use preventive tests for _all_ patients,
+taking those things into account.  As a result, Kennedy is burning to the ground yet
+another bit of civilization:  
+
+> Health and Human Services Secretary Robert F. Kennedy Jr. plans to dismiss all 16
+> members of the U.S. Preventive Services Task Force, disparaging them as too "woke,"
+> people familiar with the matter told the Wall Street Journal on Friday night. The
+> independent panel of national experts is tasked with making recommendations about
+> clinical preventive services, such as screening tests, counseling services, and
+> preventive medications.  
+>  
+> The task force became a target for the right by using terms such as "pregnant persons"
+> and highlighting racial discrimination during a discussion on risk factors for anxiety
+> in older children and teens, according to the report.  
+
+They will no doubt be replaced with people more to RFKJr's taste, i.e., not 'woke', or
+just completely blas&eacute; about the health outcomes of minorities and women.
+Apparentlly the new strategy is to pretend it doesn't matter, and let people die.  
+
+Want to take bets on how soon the new task force asks, as the ACIP did above, about a
+"pattern of broad-based energy of some type"?  How about witchcraft?  
+
 ---
 
 ## Notes &amp; References  
@@ -913,3 +953,5 @@ M Eyting, _et al.,_ ["A natural experiment on the effect of herpes zoster vaccin
 <a id="fn28">28</a>: G Monbiot, ["Things are not going to get better as long as oligarchs rule the roost in our democracies"](https://www.theguardian.com/commentisfree/article/2024/jun/27/oligarchs-democracies-britain-1945-economic-powers), _The Guardian_, 2024-Jun-27. [↩](#fn28a)  
 
 <a id="fn29">29</a>: C Goldin &amp; RA Margo, ["The Great Compression: The Wage Structure of the United States at Mid-Century"](https://academic.oup.com/qje/article-abstract/107/1/1/1925779), _Qrtrly Jnl Econ_ 107:1, pp. 1-34, 1992-Feb.  DOI: [10.2307/2118322](https://doi.org/10.2307/2118322). [↩](#fn29a)  
+
+<a id="fn30">30</a>: D Hampton, ["RFK Jr. to oust entire panel behind cancer screening guidelines for being too 'woke': WSJ"](https://www.rawstory.com/rfk/), _Raw Story_ 2025-Jul-25. [↩](#fn30a)  
