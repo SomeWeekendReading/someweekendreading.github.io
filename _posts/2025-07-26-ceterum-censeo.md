@@ -59,14 +59,14 @@ Ummm&hellip; what?
 Attend: for it shall make sense!  (Eventually.)  
 
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt-thumb.jpg" width="400" height="408" alt="Echos of Antiquity shirt: Carthago delenda est" title="Echos of Antiquity shirt: Carthago delenda est" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-He saw the t-shrt shown here, sold by
+He saw the t-shirt shown here, sold by
 [_Echos of Antiquity_](https://echosofantiquity.com/products/carthago-delenda-est-mortons-salt-parody-logo-t-shirt?variant=51562587488523).
-(No, they are not sponsoring this blog in anyway.  They just happen to be brilliant, and I
+(No, they are not sponsoring this blog in any way.  They just happen to be brilliant, and I
 just happen to admire brilliance of this sort.)  Now, they've chosen a slight syntactic variant
-which is not my favorite ("delenda" _vs_ "delendam"), but it's in the zone.  
+which is not my favorite ("delenda est" _vs_ "delendam esse"), but it's in the zone.  
 
 And this metaphor is just about _perfect_, in eleventeen separate dimensions.  Please
-permit my inner pedant to squee about it for you:  
+permit my inner pedant to squee all about it for you:  
 
 1. First, it's making fun of a logo which is _extremely_ recognizable to anyone who's
    bought salt in the US over the last century.  The Morton Salt company in 1911 adopted
@@ -84,8 +84,10 @@ permit my inner pedant to squee about it for you:
    it pours."  The little girl absent-mindedly unaware of the leak in the package while
    walking in the rain is a near-perfect illustration of this.  
    
-   Step 1 in any good satire is to pick an easily recognizable trope.  So far, mission
-   accomplished.  Now&hellip; how has that been altered for this joke's purposes?  
+   Step 1 in any good satire is to pick an easily recognizable trope as a target, or at
+   least as a carrier meme.  So far, mission accomplished!  
+   
+   Now&hellip; how has that been altered for this joke's purposes?  
 
 2. She's wearing sandals, especially ones with the leather laces that go around the
    ankles, very suggestive of ancient Mediterranean culture.  The legions would wear
@@ -97,11 +99,11 @@ permit my inner pedant to squee about it for you:
 
 3. She's wearing a singlet/shift with a tie around the waist, resembling a
    [Roman tunic](https://en.wikipedia.org/wiki/Tunic#Roman_tunic).  These were often
-   dyed/bleached white, as that was cheap to do.  
+   dyed/bleached white, as that was cheap to do.  So even the color is correct here.  
 
 4. Her tunic is emblazoned "[SPQR](https://en.wikipedia.org/wiki/SPQR)", which in Roman
    times meant "Senatus Populusque Romanus", or "the Roman Senate and People" (the "Q" is
-   the "-que" enclitic which encodes an "and" before the noun to which it's attached).
+   the "-que" enclitic which encodes an "and" between the nominative-case nouns which precede).
 
    This was blazoned on coins, documents, and the sigils carried in front of legions.  It
    emphasized the governmental authority of whatever document or group of soldiers were
@@ -112,40 +114,44 @@ permit my inner pedant to squee about it for you:
 5. Spilling _salt_ specifically is on point: it was of great value in the ancient world,
    with salt mining likely under a local monarch's control.
 
-   A slightly doubtful tradition says portion of the compensation of a Roman soldier was
-   paid in salt to add to food.  This was the
+   A slightly doubtful tradition says portion of the compensation of Roman soldiers was
+   paid in salt to add to their food.  This was the
    [_salarium,_](https://en.wikipedia.org/wiki/Salary#Salarium) which is where English
-   gets the word "salary" and the expression that someone is "worth their salt."  
+   gets the word "salary" and the expression that someone is "worth their salt," i.e.,
+   worth their pay.  
 
-6. At the end of the 3rd Punic War, the Roman general Scipio Africanus pretty much nuked
-   Carthage: sacked the city, killed the men, enslaved the women &amp; children, and
-   destroyed all the buildings.  
+6. At the end of the 3rd Punic War (See? Cato was right, Carthage _kept coming back_), the
+   Roman general Scipio Africanus pretty much nuked Carthage: sacked the city, killed the
+   men, enslaved the women &amp; children, and destroyed all the buildings.  
    
-   A dubious tradition, sometimes ambiguous in medieval times, but really established in
-   modern times in the 19th century, says Scipio Africanus also
+   A dubious tradition, sometimes ambiguously reported in medieval times, but really
+   established in modern times in the 19th century, says Scipio Africanus also
    [had all the fields plowed up and then salt plowed into them](https://en.wikipedia.org/wiki/Salting_the_earth#Carthage).
    This would have made the land into a desert unsuitable for agriculture for many generations,
    perhaps forever.  
    
-   This would _complete_ the destruction of Carthage, making it impossible to rebuild.  
+   This would _complete_ the destruction of Carthage, making it nigh impossible to rebuild.  
 
 So our innocent little girl is&hellip; reprising &amp; commemorating a Roman genocide,
-with enthusiastic detail? Though, to be fair, Carthaginian culture was not exactly
+with enthusiastic detail? (Though, to be fair, Carthaginian culture was not exactly
 admirable.  Their 
 [Moloch worship, involving torturing children to death,](https://en.wikipedia.org/wiki/Moloch)
 is just the start, really.  My sympathy for them is quite limited.  Maybe not zero, but
-certainly not a lot.  
+certainly not a lot.)  
 
 It's really hard for nerds of a certain stripe to resist this!  
+
+(Yeah, I bought the shirt.  Did you _really_ think I had enough self-control to resist?  I
+mean, that's a kind thought&hellip; but a bit delusional.)  
 
 
 ## The Weekend Conclusion  
 
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-heso-ten-publishers.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-heso-ten-publishers-thumb.jpg" width="400" height="323" alt="The Weekend Publisher &amp; Assistant Weekend Publisher in yoga classes, practicing their 'heso-ten' poses" title="The Weekend Publisher &amp; Assistant Weekend Publisher in yoga classes, practicing their 'heso-ten' poses" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Sometimes it's hard for us Asperger-ish nerds to communicate to NTs just how _wonderful_ our
-obsessions are.  So it is, often, with oddities of Latin and other ancient languages.
-Most people don't get it, and even outright _refuse_ to get it, and won't even _try_ to
-get it.  
+Sometimes it's hard for us Asperger-ish nerds to communicate to all the NT folk just how
+_wonderful_ our obsessions are.  So it is, often, with oddities of Latin and other ancient
+languages.  Most people don't get it, even outright _refuse_ to get it, and won't even
+_try_ to get it.  
 
 For example, like all good editors with a cool story, I tried to explain it to the Weekend
 Publisher and the Assistant Weekend Publisher.  However, as you can see here, they were
@@ -158,6 +164,43 @@ Still, in these difficult times, I envy their ability to relax.
 We should help create a world to which that level of relaxation is a _proper_ response.  
 
 And, of course, once more with feeling: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
+
+## Addendum 2025-Jul-27: On Needing the Gerundive  
+
+Latin has long been used to torture middle schoolers and high schoolers about grammar.
+(It's the way I finally understood English grammar, because _finally_ somebody would state
+the rules explicitly.  Every English teacher before that was apparently afraid of being
+clear about the rules, for fear of exceptions.)  Nonetheless, Latin is full of little
+pecularities of syntax and semantics.  Some of them made me wonder, 
+[like physicist II Raabe upon hearing about the muon](https://cds.cern.ch/record/1728816/files/vol6-issue8-p152-e.pdf),
+"Who ordered _that?_"  
+
+The gerundive tense, as used above, is one such: a future passive participle meant to
+indicate not the useless thing you'd think it would, but instead a necessary or proper
+thing.  In English, we use modals like "should" or "must", but in Latin they torture the
+verb inflection.  Did the Romans _really_ need that?  
+
+<a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon-thumb.jpg" width="400" height="559" alt="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" title="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+Mike, an eagle-eyed member of the Weekend Commentariat and himself a classics professor, sent
+along this cartoon by way of illustration.  It's signed by
+[Bill Proud, an apparent pseudonym of Bill Tidy](https://en.wikipedia.org/wiki/Bill_Tidy),
+and likely appeared some time in Britain in [_Private Eye,_](https://www.private-eye.co.uk/)
+though I couldn't easily nail down the date.  
+
+The caption is a bit peculiar in English, but quite funny when you translate it to Latin.
+Saying "we should have a referendum" is best translated using the gerundive, i.e.,
+expressing the necessity of doing something.  But when that something is questioning the
+necessity of the gerundive _itself,_ then the sentence is doubting the utility of a verb
+tense that it is itself required to use!  (Take _that,_
+[Epimenides](https://en.wikipedia.org/wiki/Liar_paradox#:~:text=The%20semi%2Dmythical%20seer%20Epimenides,statement%20that%20all%20Cretans%20tell)!)  
+
+Something like:  
+
+> Referendum nobis __habendum est__ quo quaeritur utrum gerundivum nobis requirendum sit.  
+
+That "habendum est" is a gerundive: "we should have".  
+
+Look: you're just gonna have to trust me that this is funny, if you know some Latin.  
 
 ---
 
