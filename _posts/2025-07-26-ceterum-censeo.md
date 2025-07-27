@@ -28,17 +28,20 @@ participle construction, used to indicate _necessity/propriety,_ has always been
 little inflection to me.  But the meaning is clear, modulo tense fussiness: Cato wanted a
 war of annihilation against Carthage, Rome's periodic rival.  
 
-Now, I'm no fan of ol' Cato here.  He was a right bastard: a fascist authoritarian rich
-guy, in a state from whom we _derive_ our word for fascism (L. _fasces_)!  But&hellip; I
-have to admire his persistence.  He _simply would not let go_ of the idea that Carthage
-was a persistent threat, and had to be dealt with accordingly, lest the threat to Rome
-come back repeatedly.  
+Now, I'm no fan of ol' Marcus Porcius Cato here.  He was a right bastard: a fascist
+authoritarian rich guy, in a state from whom we _derive_ our word for fascism
+(L. _fasces_)!  But&hellip; I have to admire his persistence.  He _simply would not let
+go_ of the idea that Carthage was a persistent threat, and had to be dealt with
+accordingly, lest the threat to Rome come back repeatedly.  
 
 Here at Ch&acirc;teau Weekend, we feel similarly about the threat Trump is now executing
 upon American democracy and upon civilization itself.  He of course _should_ have been
 impeached &amp; removed during his first term.  He _should_ have been convicted of a
-number of felonies, most importantly the mishandling of secret documents.  Yet, here we
-are.  So, one might translate my dog-Latin as:  
+number of felonies, most importantly the mishandling of secret documents.  
+
+Yet, here we are.  
+
+So, one might translate my dog-Latin as:  
 
 > Ceterum censeo, Trump incarcerandam esse.  (Furthermore, I think Trump must be incarcerated.)  
 
@@ -74,8 +77,8 @@ permit my inner pedant to squee about it for you:
    Basically, pure salt in wet or humid weather absorbs water and clumps up to the point
    where it won't flow, or won't come out of a shaker.  This is why some restaurants in
    humid climates put uncooked rice in the salt shakers, to absorb the water.  The food
-   chemists at Morton discovered adding first magnesium carbonate and later calcium silicate 
-   could fix this problem.  <sup id="fn2a">[[2]](#fn2)</sup>  
+   chemists at Morton discovered adding first magnesium carbonate (replaced later with calcium silicate)
+   would fix this problem.  <sup id="fn2a">[[2]](#fn2)</sup>  
    
    The salt would flow freely even in moist conditions, hence the phrase "When it rains,
    it pours."  The little girl absent-mindedly unaware of the leak in the package while
