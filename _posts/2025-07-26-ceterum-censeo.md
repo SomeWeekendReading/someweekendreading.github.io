@@ -126,7 +126,7 @@ permit my inner pedant to squee all about it for you:
    
    A dubious tradition, sometimes ambiguously reported in medieval times, but really
    established in modern times in the 19th century, says Scipio Africanus also
-   [had all the fields plowed up and then salt plowed into them](https://en.wikipedia.org/wiki/Salting_the_earth#Carthage).
+   [had all the fields plowed up and then salt plowed back into them](https://en.wikipedia.org/wiki/Salting_the_earth#Carthage).
    This would have made the land into a desert unsuitable for agriculture for many generations,
    perhaps forever.  
    
