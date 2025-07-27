@@ -120,7 +120,7 @@ LLM AIs so far have shown a deeply obscene tendency to favor the positions of th
 regrettable and makes them essentially useless.  
 
 If that's an artifact of training on texts whose availability shows a right-wing bias,
-then it's understandable.  You might think that, when trained on a giant corpora _without_
+then it's understandable.  You might think that, when trained on giant corpora _without_
 such bias, they would be better, yes?  
 
 You would be incorrect in that guess, because bias creeps in subtly.  
