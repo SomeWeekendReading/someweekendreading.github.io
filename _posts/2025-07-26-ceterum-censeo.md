@@ -59,7 +59,7 @@ Attend: for it shall make sense!  (Eventually.)
 He saw the t-shrt shown here, sold by
 [_Echos of Antiquity_](https://echosofantiquity.com/products/carthago-delenda-est-mortons-salt-parody-logo-t-shirt?variant=51562587488523).
 (No, they are not sponsoring this blog in anyway.  They just happen to be brilliant, and I
-happen to admire brilliance of this sort.)  Now, they've chosen a slight syntactic variant
+just happen to admire brilliance of this sort.)  Now, they've chosen a slight syntactic variant
 which is not my favorite ("delenda" _vs_ "delendam"), but it's in the zone.  
 
 And this metaphor is just about _perfect_, in eleventeen separate dimensions.  Please
@@ -87,8 +87,10 @@ permit my inner pedant to squee about it for you:
 2. She's wearing sandals, especially ones with the leather laces that go around the
    ankles, very suggestive of ancient Mediterranean culture.  The legions would wear
    [_caligae_](https://en.wikipedia.org/wiki/Caligae) that look like this; ordinary people
-   would wear lighter-weight versions of that.  (Though I may be a bit 
-   [_supra crepidam_](https://en.wikipedia.org/wiki/Ne_supra_crepidam) here! :-)
+   would wear lighter-weight versions of that called [_crepidae_](https://en.wikipedia.org/wiki/Crepida).
+   (Though I may be a bit
+   [_supra crepidam_](https://en.wikipedia.org/wiki/Ne_supra_crepidam#:~:text=ne%20supra%20crepidam%20sutor%20iudicaret%5B1%5D%20(%22Let%20the%20cobbler%20not%20judge%20beyond%20the%20crepida%22))
+   here! :-)  
 
 3. She's wearing a singlet/shift with a tie around the waist, resembling a
    [Roman tunic](https://en.wikipedia.org/wiki/Tunic#Roman_tunic).  These were often
@@ -124,8 +126,9 @@ permit my inner pedant to squee about it for you:
    
    This would _complete_ the destruction of Carthage, making it impossible to rebuild.  
 
-So our innocent little girl is&hellip; enthusiastically reprising and commemorating a
-Roman genocide? Though, to be fair, Carthaginian culture was not exactly admirable.  Their 
+So our innocent little girl is&hellip; reprising &amp; commemorating a Roman genocide,
+with enthusiastic detail? Though, to be fair, Carthaginian culture was not exactly
+admirable.  Their 
 [Moloch worship, involving torturing children to death,](https://en.wikipedia.org/wiki/Moloch)
 is just the start, really.  My sympathy for them is quite limited.  Maybe not zero, but
 certainly not a lot.  
@@ -138,12 +141,14 @@ It's really hard for nerds of a certain stripe to resist this!
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-heso-ten-publishers.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-heso-ten-publishers-thumb.jpg" width="400" height="323" alt="The Weekend Publisher &amp; Assistant Weekend Publisher in yoga classes, practicing their 'heso-ten' poses" title="The Weekend Publisher &amp; Assistant Weekend Publisher in yoga classes, practicing their 'heso-ten' poses" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Sometimes it's hard for us Asperger-ish nerds to communicate to NTs just how _wonderful_ our
 obsessions are.  So it is, often, with oddities of Latin and other ancient languages.
-Most people don't get it, and even outright _refuse_ to get it, or even try.  
+Most people don't get it, and even outright _refuse_ to get it, and won't even _try_ to
+get it.  
 
 For example, like all good editors with a cool story, I tried to explain it to the Weekend
 Publisher and the Assistant Weekend Publisher.  However, as you can see here, they were
 engaged in yoga classes perfecting their _heso-ten_ poses.  (Japanese: "navel to the
-heavens".  No, it's not a real yoga pose.  Did you really expect that?)  
+heavens".  No, it's not a real yoga pose.  Did you really expect that? It's just how we
+speak Cat Japanese here at Ch&acirc;teau Weekend.)  
 
 Still, in these difficult times, I envy their ability to relax.  
 
