@@ -77,7 +77,7 @@ permit my inner pedant to squee all about it for you:
    Basically, pure salt in wet or humid weather absorbs water and clumps up to the point
    where it won't flow, or won't come out of a shaker.  This is why some restaurants in
    humid climates put uncooked rice in the salt shakers, to absorb the water.  The food
-   chemists at Morton discovered adding first magnesium carbonate (replaced later with calcium silicate)
+   chemists at Morton discovered adding magnesium carbonate (later replaced with calcium silicate)
    would fix this problem.  <sup id="fn2a">[[2]](#fn2)</sup>  
    
    The salt would flow freely even in moist conditions, hence the phrase "When it rains,
@@ -103,7 +103,8 @@ permit my inner pedant to squee all about it for you:
 
 4. Her tunic is emblazoned "[SPQR](https://en.wikipedia.org/wiki/SPQR)", which in Roman
    times meant "Senatus Populusque Romanus", or "the Roman Senate and People" (the "Q" is
-   the "-que" enclitic which encodes an "and" between the nominative-case nouns which precede).
+   the "-que" enclitic which encodes an "and" between the nominative-case nouns which
+   precede it).
 
    This was blazoned on coins, documents, and the sigils carried in front of legions.  It
    emphasized the governmental authority of whatever document or group of soldiers were
@@ -175,10 +176,10 @@ pecularities of syntax and semantics.  Some of them made me wonder,
 [like physicist II Raabe upon hearing about the muon](https://cds.cern.ch/record/1728816/files/vol6-issue8-p152-e.pdf),
 "Who ordered _that?_"  
 
-The gerundive tense, as used above, is one such: a future passive participle meant to
-indicate not the useless thing you'd think it would, but instead a necessary or proper
-thing.  In English, we use modals like "should" or "must", but in Latin they torture the
-verb inflection.  Did the Romans _really_ need that?  
+The gerundive construction, as used above, is one such: a future passive participle meant
+to indicate not the nearly useless thing you'd think it would ("will be being destroyed"),
+but instead a necessary or proper thing.  In English, we use modals like "should" or
+"must", but in Latin they torture the verb inflection.  Did the Romans _really_ need that?  
 
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon-thumb.jpg" width="400" height="559" alt="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" title="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Mike, an eagle-eyed member of the Weekend Commentariat and himself a classics professor, sent
