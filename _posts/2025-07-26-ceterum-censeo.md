@@ -143,7 +143,7 @@ certainly not a lot.)
 It's really hard for nerds of a certain stripe to resist this!  
 
 (Yeah, I bought the shirt.  Did you _really_ think I had enough self-control to resist?  I
-mean, that's a kind thought&hellip; but a bit delusional.)  
+mean, it's kind of you to think so&hellip; but a bit delusional.)  
 
 
 ## The Weekend Conclusion  
