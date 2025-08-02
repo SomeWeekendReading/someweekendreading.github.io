@@ -166,6 +166,7 @@ We should help create a world to which that level of relaxation is a _proper_ re
 
 And, of course, once more with feeling: [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/trump-danger-test/#the-weekend-conclusion)  
 
+
 ## Addendum 2025-Jul-27: On Needing the Gerundive  
 
 Latin has long been used to torture middle schoolers and high schoolers about grammar.
@@ -177,9 +178,10 @@ pecularities of syntax and semantics.  Some of them made me wonder,
 "Who ordered _that?_"  
 
 The gerundive construction, as used above, is one such: a future passive participle meant
-to indicate not the nearly useless thing you'd think it would ("will be being destroyed"),
-but instead a necessary or proper thing.  In English, we use modals like "should" or
-"must", but in Latin they torture the verb inflection.  Did the Romans _really_ need that?  
+to indicate not the nearly useless thing you'd think it would ("delenda" as in "will be
+being destroyed"), but instead a necessary or proper thing.  In English, we use modals
+like "should" or "must", but in Latin they torture the verb inflection.  Did the Romans
+_really_ need that?  
 
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon-thumb.jpg" width="400" height="559" alt="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" title="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Mike, an eagle-eyed member of the Weekend Commentariat and himself a classics professor, sent
