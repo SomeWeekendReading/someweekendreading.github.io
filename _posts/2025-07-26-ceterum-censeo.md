@@ -205,6 +205,30 @@ That "habendum est" is a gerundive: "we should have".
 
 Look: you're just gonna have to trust me that this is funny, if you know some Latin.  
 
+
+## Addendum 2025-Aug-06: The Shirt Arrives!  
+
+<a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt-arrives.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt-arrives-thumb.jpg" width="400" height="461" alt="The shirt arrives, and we pronounce ourselves well satisfied!" title="The shirt arrives, and we pronounce ourselves well satisfied!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+Over the weekend, while I was off kyoodling in the luminiferous aether in the Berkshires,
+a Mysterious Package arrived.  In due course, our excellent cat-sitter brought it inside
+and, after permitting the Weekend Publisher and the Assistant Weekend Publisher to give it
+the sniff test, more or less ignoreed it.  
+
+I opened it upon our return, and found within the _excellent_ shirt you see here, on my
+rather less-than-excellent torso.  (I've flipped left and right so the mirror selfie makes
+better sense, in case that puzzles you.)  
+
+It's just about perfect, for all the historical, grammatical, and advertising reasons
+cited above.  It's also reasonably roomy &ndash; as I prefer &ndash; and smooth material
+in dark, high-saturation colors.  
+
+The cats and I pronounce ourselves fully satisfied.  [Recommended.](https://echosofantiquity.com/products/carthago-delenda-est-mortons-salt-parody-logo-t-shirt?variant=51562587488523)
+
+This may have to be one of the Official Weekend T-Shirts here at Ch&acirc;teau
+Weekend. The other contenders, at the moment, are:  
+- Dresden Codak's [Cophenhagen Interpretation Fantasy Camp for quantum mechanics fans (apparently no longer available, so you'll just have to look at it regrettably modeled on my pudgy, aging torso)]({{site.baseurl }}/images/2025-07-26-ceterum-censeo-copenhagen-interpretation.jpg), and  
+- of course the [Gunnerkrigg Court sigil, with wing&egrave;d bismuth](https://topatoco.com/collections/gunnerkrigg/products/gk-redsymbol?_pos=2&_fid=7620debe3&_ss=c).  
+
 ---
 
 ## Notes &amp; References  
