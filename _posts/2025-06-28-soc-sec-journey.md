@@ -44,7 +44,7 @@ When she turned 65:
     escalation to a Social Security manager to resolve.  
   - Second, they claimed she didn't have the 40 quarters of work credits required.  She
     did, but just barely, and they hadn't processed the previous year's tax returns
-    yet to see that.  
+    yet to see that.  Also, she could get Medicare by _right_, since she was married to me.  
   - Third, they'd have to "investigate".  We supplied marriage certificates (along with US
     Consulate-certified translations), tax returns showing married filing jointly, and the
     deed to our house showing joint ownership in a trust.  Even my US passport and
@@ -60,7 +60,8 @@ insurance company), and Massachusetts-certified supplements that we knew would w
 since the state government had weeded out the bad actors and marginal players.
 
 So far, so good: but it took _months_ of back-and-forth and maybe 4 visits to the
-(fortunately nearby) Social Security office, with the stress of unclear insurance.  
+(fortunately nearby) Social Security office, with the stress of unclear insurance during a
+pandemic.  
 
 
 ## Turning 70: Social Security Benefits  
@@ -72,8 +73,9 @@ In the US, you can claim benefits as early as 62, though the benefit will be low
 annuity, so that's what we did.  
 
 (Some people want to game the system by taking it early or late based on perceived life
-expectancy.  But it's actuarially neutral.  There's no point in delaying past 70, but we
-_did_ want to get benefits flowing before Trump and DOGE burned it to the ground.  Also, we
+expectancy.  But it's actuarially neutral, so all that matters is the _difference_ between
+your life expectancy and the population average.  There's no point in delaying past 70, but we
+_did_ want to get benefits flowing before Trump and DOGE burned it to the ground.  So, we
 waited to age 70, not trying to maximize money: Social Security is not an investment; it's
 _insurance._  It insures against the possibility of getting very old and being broke
 because the portfolio's been depleted.  We want to maximize that insurance.)  
@@ -109,18 +111,19 @@ because the portfolio's been depleted.  We want to maximize that insurance.)
      benefits, and you get the larger one.  
      - Agent said no, that doesn't happen, there's no way to do that on the web site, it
        doesn't matter we said so on the application "because the computer doesn't read
-       that", it requires an interview, and no, he can't do the interview.  
+       that", it requires an interview, and no, he can't do the interview.  Well&hellip;
+       _that_ was helpful!  
      - So we set up an appointment for an interview, the closest appointment being 2 months
        in the future.  
      - As it happened, the Weekend Editrix was going to be in Japan at that time.  So we scheduled
        an international call at 3am Japan time.  (Thank heaven our US phones work in
        Japan!  iPhones with T-Mobile over-55 everything-unlimited plan, if you want to know.)
 4. __April 2025:__ The call came an hour late, but finally happened.  I was conferenced in by
-     the mechanism of an Internet voice call, with the volume dialed up so the agent could
-     hear both of us on the phone.  Like almost all the Social Security people, he was polite,
-     efficient, and even pleasant.  I was prepared to present all sorts of documents
-     saying we're married, but he just said it was enough for us to swear it to him over
-     the phone (under penalty of perjury, of course).  
+     the mechanism of a simultaneous Internet voice call on another device, with the
+     volume dialed up so the agent could hear both of us on the phone.  Like almost all
+     the Social Security people, he was polite, efficient, and even pleasant.  I was
+     prepared to present all sorts of documents saying we're married, but he just said it
+     was enough for us to swear it to him over the phone (under penalty of perjury, of course).  
 5. __May 2025:__ The corrected payments started showing up:  
    - I got my full payment, minus the Medicare Part B premium.  
    - I also got a credit for the previous month's Medicare Part B, which they had _both_
@@ -156,7 +159,7 @@ because the portfolio's been depleted.  We want to maximize that insurance.)
      It's a small thing, so I'm just gonna step back and leave that one alone!  
 
 So it took 7 months to get everything processed through, verifying identity, marriage, &amp;
-eligibility, getting spousal benefits, and getting taxes taken out.  
+eligibility, getting spousal benefits, and getting Medicare Part B premia &amp; taxes taken out.  
 
 It was _exhausting!_  Also, worrisome.  But&hellip; for now, it's _done:_ we have pensions
 flowing and good health insurance in force.  
@@ -170,10 +173,10 @@ closed.
 
 One thing we _could_ have done was have the Weekend Editrix apply for benefits on her own
 record when she reached age 67.  Then, a few months later when I turned 70, she could have
-switched to spousal benefits when I applied.  That would have gotten us about 3-4 months
-of a lower benefit, then trade up to our current benefits.  
+switched to spousal benefits after I applied.  That would have gotten us about an
+additional 3-4 months at her lower benefit, then a trade-up to our current benefits.  
 
-But&hellip; when you see how hard it was to apply in a straightforward way, you can, I
+But&hellip; when you see how hard it was to apply even in the _straightforward_ way, you can, I
 hope, understand why we had no appetite to touch the system any more than we had to.  
 
 
@@ -185,7 +188,8 @@ Looks like it's all sorted out, for now.
 
 We'll keep watching the bank accounts to make
 sure it _stays_ that way, so long as Trump is in office.  We don't want to be victims
-unawares, of Republican mischief.  
+unawares, of Republican mischief.  So I have calendar reminders set to check each bank
+account on the appropriate day, to verify a benefit payments made a safe landing.  
 
 As you can see, the Weekend Publisher and the Assistant Weekend Publisher remain
 unconcerned.  It is difficult to disturb the Zen-like aplomb of well-loved cats.  
