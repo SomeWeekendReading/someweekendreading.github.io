@@ -22,17 +22,19 @@ a Roman Senator, was said to end every speech, on every topic:
 > [Ceterum censeo](https://en.wiktionary.org/wiki/ceterum_censeo), Carthago delendam esse.
 > (Furthermore, I think Carthage must be destroyed.)  
 
-The exact wording is not known, and he may have changed it from time to time.  I've seen a
-couple variations in the exact verb tense, for example: that gerundive/future passive
-participle construction, used to indicate _necessity/propriety,_ has always been a tricksy
-little inflection to me.  But the meaning is clear, modulo tense fussiness: Cato wanted a
-war of annihilation against Carthage, Rome's periodic rival.  
+The exact wording is not known, and he may have changed it from time to time ("delendam
+esse" vs "delenda est").  I've seen a couple variations in the exact verb tense, for
+example: that gerundive/future passive participle construction, used to indicate
+_necessity/propriety,_ has always been a tricksy little inflection to me.  But the meaning
+is clear, modulo tense fussiness: Cato wanted a war of annihilation against Carthage,
+Rome's periodic rival.  
 
 Now, I'm no fan of ol' Marcus Porcius Cato here.  He was a right bastard: a fascist
-authoritarian rich guy, in a state from whom we _derive_ our word for fascism
-(L. _fasces_)!  But&hellip; I have to admire his persistence.  He _simply would not let
-go_ of the idea that Carthage was a persistent threat, and had to be dealt with
-accordingly, lest the threat to Rome come back repeatedly.  
+authoritarian rich guy, in a slaver state from whom we _derive_ our word for fascism
+(L. [_fasces_](https://en.wikipedia.org/wiki/Fasces))!  But&hellip; I have to admire his
+persistence.  He _simply would not let go_ of the idea that Carthage was a persistent
+threat, and had to be dealt with accordingly, lest the threat to Rome come back
+repeatedly.  
 
 Here at Ch&acirc;teau Weekend, we feel similarly about the threat Trump is now executing
 upon American democracy and upon civilization itself.  He of course _should_ have been
@@ -211,8 +213,8 @@ Look: you're just gonna have to trust me that this is funny, if you know some La
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt-arrives.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt-arrives-thumb.jpg" width="400" height="461" alt="The shirt arrives, and we pronounce ourselves well satisfied!" title="The shirt arrives, and we pronounce ourselves well satisfied!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Over the weekend, while I was off kyoodling in the luminiferous aether in the Berkshires,
 a Mysterious Package arrived.  In due course, our excellent cat-sitter brought it inside
-and, after permitting the Weekend Publisher and the Assistant Weekend Publisher to give it
-the sniff test, more or less ignoreed it.  
+and, after permitting the Weekend Publisher and the Assistant Weekend Publisher to conduct
+the required sniff test, they more or less ignored it.  
 
 I opened it upon our return, and found within the _excellent_ shirt you see here, on my
 rather less-than-excellent torso.  (I've flipped left and right so the mirror selfie makes
