@@ -105,7 +105,7 @@ permit my inner pedant to squee all about it for you:
 
 4. Her tunic is emblazoned "[SPQR](https://en.wikipedia.org/wiki/SPQR)", which in Roman
    times meant "Senatus Populusque Romanus", or "the Roman Senate and People" (the "Q" is
-   the "-que" enclitic which encodes an "and" between the nominative-case nouns which
+   for the "-que" enclitic which encodes an "and" between the nominative-case nouns which
    precede it).
 
    This was blazoned on coins, documents, and the sigils carried in front of legions.  It
