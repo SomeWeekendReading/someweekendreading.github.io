@@ -142,18 +142,18 @@ because the portfolio's been depleted.  We want to maximize that insurance.)
 6. __June 2025:__ Watching the payments to our bank accounts, it finally looks correct:
    the correct benefits (my own record and her spousal record), deducting Medicare Part B
    premia, and deducting taxes.  
-   - A minor oddity: they deduct the Medicare Part A premium _first_, and then taxes
-     _second_.  It's as though the Part A premium is tax-free, which it is not.  That is,
+   - A minor oddity: they deduct the Medicare Part B premium _first_, and then taxes
+     _second_.  It's as though the Part B premium is tax-free, which it is not.  That is,
      they paid:
 	 
      $$
-     \mbox{Payment} = (1 - 0.22) \times (\mbox{Benefit} - \mbox{Part A premium})
+     \mbox{Payment} = (1 - 0.22) \times (\mbox{Benefit} - \mbox{Part B premium})
 	 $$
 	 
 	 instead of:
 	 
 	 $$
-     \mbox{Payment} = (1 - 0.22) \times \mbox{Benefit} - \mbox{Part A premium}
+     \mbox{Payment} = (1 - 0.22) \times \mbox{Benefit} - \mbox{Part B premium}
 	 $$
 
      It's a small thing, so I'm just gonna step back and leave that one alone!  
