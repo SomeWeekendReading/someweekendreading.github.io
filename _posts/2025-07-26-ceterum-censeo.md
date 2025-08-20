@@ -45,7 +45,8 @@ Yet, here we are.
 
 So, one might translate my dog-Latin as:  
 
-> Ceterum censeo, Trump incarcerandam esse.  (Furthermore, I think Trump must be incarcerated.)  
+> Ceterum censeo, Trump incarcerandam esse.  
+> (Furthermore, I think Trump must be incarcerated.)  
 
 Feel free to correct my Latin.  Everyone does, eventually.  
 
@@ -186,7 +187,7 @@ like "should" or "must", but in Latin they torture the verb inflection.  Did the
 _really_ need that?  
 
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-cartoon-thumb.jpg" width="400" height="559" alt="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" title="Cartoon by Bill Proud/Bill Tidy, probably from Private Eye: 2 men in Roman dress, one saying 'We should have a referendum on whether we need the gerundive'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Mike, an eagle-eyed member of the Weekend Commentariat and himself a classics professor, sent
+Mike, _another_ eagle-eyed member of the Weekend Commentariat and himself a classics professor, sent
 along this cartoon by way of illustration.  It's signed by
 [Bill Proud, an apparent pseudonym of Bill Tidy](https://en.wikipedia.org/wiki/Bill_Tidy),
 and likely appeared some time in Britain in [_Private Eye,_](https://www.private-eye.co.uk/)
