@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI LLMs&colon; A Way to Make Yourself Crazy&hellip; Literally!
-tags: ArtificialIntelligence CorporateLifeAndItsDiscontents Sadness
+tags: ArtificialIntelligence CorporateLifeAndItsDiscontents JournalClub Sadness
 comments: true
 commentsClosed: true
 ---
