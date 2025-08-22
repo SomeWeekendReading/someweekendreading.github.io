@@ -507,7 +507,7 @@ So let us respect the gods, with our care for each other's lives, even in little
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: A Eichenberger, _et al.,_ ["A Case of Bromism Influenced by Use of Artificial Intelligence"](https://www.acpjournals.org/doi/10.7326/aimcc.2024.1260), _Annals of Internal Medicine: Clinical Cases_ 4:8, 2025-Aug-05. DOI: [10.7326/aimcc.2024.126](https://doi.org/10.7326/aimcc.2024.126). [↩](#fn1a)  
+<a id="fn1">1</a>: A Eichenberger, _et al.,_ ["A Case of Bromism Influenced by Use of Artificial Intelligence"](https://www.acpjournals.org/doi/10.7326/aimcc.2024.1260), _Annals of Internal Medicine: Clinical Cases_ 4:8, 2025-Aug-05. DOI: [10.7326/aimcc.2024.1260](https://doi.org/10.7326/aimcc.2024.1260). [↩](#fn1a)  
 
 <a id="fn2">2</a>: S Schr&ouml;der, _et al.,_ ["Large Language Models Do Not Simulate Human Psychology"](https://arxiv.org/abs/2508.06950), _ar&chi;iv_, submitted 2025-Aug-09. DOI: [10.48550/arXiv.2508.06950](https://doi.org/10.48550/arXiv.2508.06950).  __NB:__ A preprint, which has not yet been peer reviewed (other than on this CLBTNR). [↩](#fn2a)  
 
