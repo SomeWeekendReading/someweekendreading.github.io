@@ -139,9 +139,8 @@ has studied this.  (The video is a brief summary, as is the "Living with Machine
 There are quite a few more papers.)  They show us just how _hard_ it is to escape a bias
 toward the right-wing views of the wealthy upper class.  
 - The expensive Victorian newspapers, with their more conservative, even aristocratic
-  views, used high-quality (expensive) fonts:  
-  - These tend to be more legible in the first place, compared to the cheap fonts used by
-    newspapers for the non-wealthy.  
+  views, used high-quality (expensive) fonts.  These tend to be more legible in the first
+  place, compared to the cheap fonts used by newspapers for the non-wealthy.  
 - The expensive papers used higher quality printing presses and higher quality paper,
   leading to more legible type.  
 - Also, the unexamined politics of what gets collected and what is deemed too useless for
@@ -149,7 +148,7 @@ toward the right-wing views of the wealthy upper class.
 - Over the years, later generations have enviously imitated those expensive fonts, hoping
   for an upper-class sheen. (Ever wondered why it's called _Times_ New Roman?)  That means
   much of our text looks like them, and that's what trains our Optical Character
-  Recognition (OCR)a schemes.  
+  Recognition (OCR) schemes.  
 	
 So if you look at the OCR error rate, the upper-class newspapers scan almost flawlessly,
 the middlebrow ones scan with a lot of errors (non-words), and the cheap ones scan into
