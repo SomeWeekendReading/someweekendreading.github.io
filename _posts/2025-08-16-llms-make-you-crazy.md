@@ -71,8 +71,8 @@ gathering of poisonous mushrooms for food.
 
 ## It's Clear Why This Happens  
 
-People protest, "but the AIs are so smart"!  But&hellip; they are _not_ smart: they are
-BS artists who are indifferent to the truth and trained to sound convincing.  
+People protest, "but the AIs are so smart"!  Except&hellip; they are _not_ smart: they are
+BS artists who are indifferent to the truth while trained to _sound_ convincing.  
 
 We are, to put it embarrassingly simply, easily deceived.  
 
@@ -205,10 +205,10 @@ words like these.  That's my problem, not yours.  So, for the moment, I ask your
 
 <img src="{{ site.baseurl }}/images/2025-08-16-llms-make-you-crazy-frankfurt-1.jpg" width="400" height="614" alt="HG Frankfurt's 'On Bullsh*t': speech intended to persuade without regard for the truth" title="HG Frankfurt's 'On Bullsh*t': speech intended to persuade without regard for the truth" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 While it's clear they're partly using the word for shock value, they are quick to point
-out that they are basing this on the wok by the philosopher 
+out that they are basing this on the work by the philosopher 
 Harry Frankfurt, whose 1986 essay and 2005 book <sup id="fn4a">[[4]](#fn4)</sup> began to
 discuss a technical meaning for bullsh\*t:
-[speech intended to persuade without regard for truth](https://en.wikipedia.org/wiki/On_Bullshit).  
+[speech intended to persuade without regard for truth](https://en.wikipedia.org/wiki/On_Bullshit#:~:text=The%20liar%20cares%20about%20the%20truth%20and%20attempts%20to%20hide%20it%3B%20the%20bullshitter%20doesn%27t%20care%20whether%20what%20they%20say%20is%20true%20or%20false.).  
 
 We all know manipulative people who casually disrupt public trust by saying _whatever they can_
 to make their case.  It's not that they're _against_ the truth, so long as the truth
