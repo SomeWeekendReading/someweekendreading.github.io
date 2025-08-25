@@ -212,9 +212,10 @@ discuss a technical meaning for bullsh\*t:
 
 We all know manipulative people who casually disrupt public trust by saying _whatever they can_
 to make their case.  It's not that they're _against_ the truth, so long as the truth
-supports what they want.  They just won't go out of their way to speak the truth, and will
-say _something else_ if the truth does not support them.  As Frankfurt describes it, our
-affinity for bullsh\*t is "one of the deformities in these values [for truth]."  
+supports what they want.  They just won't go out of their way to speak the truth, and will,
+happily and without a second thought, say _something else_ if the truth does not support
+them.  As Frankfurt describes it, our affinity for bullsh\*t is "one of the deformities in
+these values [for truth]."  
 
 This is very like the way linguist Geoffrey Nunberg described politicians and their
 relationship to reason, which made such an impact upon your humble Weekend Editor as to
