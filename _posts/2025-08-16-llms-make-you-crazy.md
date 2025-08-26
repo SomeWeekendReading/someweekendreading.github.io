@@ -488,7 +488,7 @@ case you're keeping score):
 > Each minute and unseen part,  
 > For the Gods are everywhere.  
 >  
-> HW Longellow, ["The Builders"](https://www.hwlongfellow.org/poems_poem.php?pid=118#:~:text=In%C2%A0the%C2%A0elder%C2%A0days%C2%A0of%C2%A0Art%2C%0A%C2%A0%C2%A0Builders%C2%A0wrought%C2%A0with%C2%A0greatest%C2%A0care%0AEach%C2%A0minute%C2%A0and%C2%A0unseen%C2%A0part%3B%0A%C2%A0%C2%A0For%C2%A0the%C2%A0Gods%C2%A0see%C2%A0everywhere.%C2%A0)  
+> &endash; HW Longellow, ["The Builders"](https://www.hwlongfellow.org/poems_poem.php?pid=118#:~:text=In%C2%A0the%C2%A0elder%C2%A0days%C2%A0of%C2%A0Art%2C%0A%C2%A0%C2%A0Builders%C2%A0wrought%C2%A0with%C2%A0greatest%C2%A0care%0AEach%C2%A0minute%C2%A0and%C2%A0unseen%C2%A0part%3B%0A%C2%A0%C2%A0For%C2%A0the%C2%A0Gods%C2%A0see%C2%A0everywhere.%C2%A0)  
 
 So let us respect the gods, with our care for each other's lives, even in little things.  
 
