@@ -84,7 +84,8 @@ way.  They just provide a plausible continuation of a conversation started by th
 you give them.  "Plausibility" is heavily optimized, so you will _believe_ you're talking
 to a mind&hellip; when you are not.  
 
-Research has been done here from Schr&ouml;der _et al._ <sup id="fn2a">[[2]](#fn2)</sup>,
+Research has been done here from Bielefeld &amp; Purdue researchers 
+Schr&ouml;der _et al._ <sup id="fn2a">[[2]](#fn2)</sup>,
 responding to the _alarming_ proposal to use LLMs instead of human subjects in
 psychological studies!  This is _pretty_ obviously a terrible idea, though perhaps not
 dumb-as-dirt obvious: a previous study indicated that for ratings of the morality of 464
@@ -120,7 +121,8 @@ and AI-only regressions.  These were compared using Chow's test, which basically
 pooled regression should be better if the human and AI groups are basically the same, but
 if they're different then the group-separated regressions should be better.
 
-My statistician's soul is (reasonably) happy.  
+My statistician's soul is (reasonably) happy.  (More detail &ndash; and equations! &ndash;
+would have been better, but this is pretty much ok.)  
 
 <a href="{{ site.baseurl }}/images/2025-08-16-llms-make-you-crazy-arxiv-1-fig1.jpg"><img src="{{ site.baseurl }}/images/2025-08-16-llms-make-you-crazy-arxiv-1-fig1-thumb.jpg" width="400" height="241" alt="Schr&ouml;der et al., human vs AI: mean rating on re-worded items, showing AIs with more extreme judgments" title="Schr&ouml;der et al., human vs AI: mean rating on re-worded items, showing AIs with more extreme judgments" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 First, let's consider Figure 1, shown here.  
@@ -206,8 +208,8 @@ words like these.  That's my problem, not yours.  So, for the moment, I ask your
 <img src="{{ site.baseurl }}/images/2025-08-16-llms-make-you-crazy-frankfurt-1.jpg" width="400" height="614" alt="HG Frankfurt's 'On Bullsh*t': speech intended to persuade without regard for the truth" title="HG Frankfurt's 'On Bullsh*t': speech intended to persuade without regard for the truth" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 While it's clear they're partly using the word for shock value, they are quick to point
 out that they are basing this on the work by the philosopher 
-Harry Frankfurt, whose 1986 essay and 2005 book <sup id="fn4a">[[4]](#fn4)</sup> began to
-discuss a technical meaning for bullsh\*t:
+[Harry Frankfurt](https://en.wikipedia.org/wiki/Harry_Frankfurt), whose 1986 essay and
+2005 book <sup id="fn4a">[[4]](#fn4)</sup> began to discuss a technical meaning for bullsh\*t:
 [speech intended to persuade without regard for truth](https://en.wikipedia.org/wiki/On_Bullshit#:~:text=The%20liar%20cares%20about%20the%20truth%20and%20attempts%20to%20hide%20it%3B%20the%20bullshitter%20doesn%27t%20care%20whether%20what%20they%20say%20is%20true%20or%20false.).  
 
 We all know manipulative people who casually disrupt public trust by saying _whatever they can_
@@ -476,13 +478,17 @@ BS artists are never a good idea, not even human ones.  Neither are AI LLMs.
 
 We should instead take our inspiration from Frankfurt's _On Bullsh\*t_ essay (p. 86 in the
 PDF archived below), where he quotes Wittgenstein admiringly quoting Longfellow (that's
-your humble Weekend Editor quoting Frankfurt quoting Wittgenstein quoting Longfellow, in
+your humble Weekend Editor quoting Frankfurt quoting
+[Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) quoting
+[Longfellow](https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow), in
 case you're keeping score):  
 
 > In the elder days of art  
 > Builders wrought with greatest care  
 > Each minute and unseen part,  
 > For the Gods are everywhere.  
+>  
+> HW Longellow, ["The Builders"](https://www.hwlongfellow.org/poems_poem.php?pid=118#:~:text=In%C2%A0the%C2%A0elder%C2%A0days%C2%A0of%C2%A0Art%2C%0A%C2%A0%C2%A0Builders%C2%A0wrought%C2%A0with%C2%A0greatest%C2%A0care%0AEach%C2%A0minute%C2%A0and%C2%A0unseen%C2%A0part%3B%0A%C2%A0%C2%A0For%C2%A0the%C2%A0Gods%C2%A0see%C2%A0everywhere.%C2%A0)  
 
 So let us respect the gods, with our care for each other's lives, even in little things.  
 
