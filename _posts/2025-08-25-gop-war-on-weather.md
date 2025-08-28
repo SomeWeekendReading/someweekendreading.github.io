@@ -536,7 +536,7 @@ nnnnn</a>
 
 <a id="fn18">18</a>: M Copley, ["Trump administration halts work on an almost-finished wind farm"](https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy), _NPR_, 2025-Aug-23. [↩](#fn18a)  
 
-<a id="fn19">19</a>: L Friedman, B Plumer, M Joselow, ["Trump Administration Orders Work Halted on Wind Farm That Is Nearly Built"](https://archive.is/Xr0em#selection-505.0-505.73), _New York Times_, 2025-Aug-23.  __NB:__ Regrettably paywalled.  The link here goes to an [archive.is](archive.is) snapshot. [↩](#9a)  
+<a id="fn19">19</a>: L Friedman, B Plumer, M Joselow, ["Trump Administration Orders Work Halted on Wind Farm That Is Nearly Built"](https://archive.is/Xr0em#selection-505.0-505.73), _New York Times_, 2025-Aug-23.  __NB:__ Regrettably paywalled.  The link here goes to an [archive.is](archive.is) snapshot. [↩](#fn9a)  
 
 <a id="fn20">20</a>: _Reuters_ Staff, ["Trump administration plans to cancel approval of Maryland offshore wind project"](https://www.reuters.com/business/energy/trump-administration-plans-cancel-approval-maryland-offshore-wind-project-2025-08-25/), _Reuters_, 2025-Aug-26. [↩](#fn20a)  
 
