@@ -230,7 +230,7 @@ because you just can't keep secrets very well without extreme measures.
 
 Now from Pennycook and others at Cornell &amp; MIT comes an analysis of just _how_ some
 conspiracies do survive for a while: they're so damn _certain_ of their
-nonsense! <sup id="fn3a">[[13]](#fn13)</sup>  
+nonsense! <sup id="fn13a">[[13]](#fn13)</sup>  
 
 Their meta-analysis of 8 studies of a total of 4181 US adults showed conspiracy believers
 consistently overestimated their performance on numeracy and perception tests, even
@@ -542,6 +542,6 @@ nnnnn</a>
 
 <a id="fn21">21</a>: White House Staff, ["Temporary Withdrawal of All Areas on the Outer Continental Shelf from Offshore Wind Leasing and Review of the Federal Government’s Leasing and Permitting Practices for Wind Projects"](https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/), White House memoranda, 2025-Jan-20. [↩](#fn21a)  
 
-<a id="fn23">23</a>: Commerce Dept Bureau of Industry and Security, ["Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Wind Turbines and Their Parts and Components"](https://public-inspection.federalregister.gov/2025-16191.pdf), _Federal Register_, Docket No. 250818-0143, XRIN 0694-XC133, 2025-Aug-25. [↩](#fn23a)  
+<a id="fn22">22</a>: Commerce Dept Bureau of Industry and Security, ["Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Wind Turbines and Their Parts and Components"](https://public-inspection.federalregister.gov/2025-16191.pdf), _Federal Register_, Docket No. 250818-0143, XRIN 0694-XC133, 2025-Aug-25. [↩](#fn22a)  
 
 <a id="fn23">23</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Hank Green, John Green, and the Great Asymmetry"]({{ site.baseurl }}/greens-asymmetry/), _Some Weekend Reading_ blog, 2022-May-22. [↩](#fn23a)  
