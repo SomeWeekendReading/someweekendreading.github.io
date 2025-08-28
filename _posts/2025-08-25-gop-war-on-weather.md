@@ -397,10 +397,10 @@ the creation of chaos:
 	> “&hellip; __the effects on the national security of imports of wind turbines__ and their
 	> parts and components, &hellip;” <sup id="fn22a">[[22]](#fn22)</sup>  
 
-	Do these numpties _actually_ think wind turbines are a national security issue?  My
-    guess is no, that's just an excuse.  Speculation is that Trump is seeking to impose
+	Do these numpties _actually_ think wind turbines are a national security threat?  My
+    guess is no, that's just the excuse.  Speculation is that Trump is seeking to impose
     tariffs on imported wind turbine technology, and this is a way to get his hands around
-    their throats to extract money.  
+    their throats to extract money and create confusion.  
 - US Wind in Maryland, apparently also known as "Marwind", is a much larger project, but
   at an earlier stage.  
   - However, according to Reuters, the Trump administration intends to withdraw federal
@@ -441,6 +441,7 @@ us to die with fossil fuels:
 ## The Weekend Conclusion  
 
 So there you have it:  
+- the hysterical legislation to outlaw weather modification that _does not exist,_  
 - the war on weather to privatize &amp; sell the weather information with the army of
   psychotics on their domestic terrorism campaign against scientific instruments,  
 - the sequestration of data &amp; outright destruction of instruments that might point a
