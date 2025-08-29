@@ -15,7 +15,7 @@ everybody else.
 
 Remember back in ancient times, like last April, when we wrote on this Crummy Little Blog
 That Nobody Reads (CLBTNR) about the DOGE boys being bad little doggies for 
-[apparently illegally exfiltrating NLRB data while turning off safeguards like logging &amp; access controls]({{ site.baseurl }}/bad-doggies)?  
+[apparently illegally exfiltrating NLRB data while turning off safeguards like logging &amp; access controls]({{ site.baseurl }}/bad-doggies/)?  
 
 <img src="{{ site.baseurl }}/images/2025-08-29-bad-doggies-redux-engadget-1.jpg" width="400" height="397" alt="Revilla @ Engadget: Whistleblower on DOGE exfiltration of SSA data to insecure cloud" title="Revilla @ Engadget: Whistleblower on DOGE exfiltration of SSA data to insecure cloud" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2025-08-29-bad-doggies-redux-arstech-1.jpg" width="400" height="225" alt="Brodkin @ Ars Technica: DOGE copies SSA database to insecure cloud" title="Brodkin @ Ars Technica: DOGE copies SSA database to insecure cloud" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
