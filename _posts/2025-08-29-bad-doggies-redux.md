@@ -104,7 +104,7 @@ newspaper" doctrine of my youth.  Very few newspapers left, for one thing.  But 
 _do_ wanna swat these ignorant fascists on the nose with a rolled-up newspaper.  
 
 I'd of course settle for a change of government, mass prosecutions, convictions, and
-imprisonment.  That would be much better.  
+imprisonments.  That would be much better.  
 
 Say it along with me:  [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/ceterum-censeo/)  
 
