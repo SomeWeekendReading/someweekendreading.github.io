@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are the Trump Government Firinigs Politically Targeted?
+title: Are the Trump Government Firings Politically Targeted?
 tags: MathInTheNews Politics Sadness Statistics
 comments: true
 commentsClosed: true

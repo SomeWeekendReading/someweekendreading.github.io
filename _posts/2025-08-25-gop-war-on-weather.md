@@ -523,7 +523,7 @@ nnnnn</a>
 
 <a id="fn11">11</a>: _SPLC_ Staff, ["Veterans on Patrol"](https://www.splcenter.org/resources/extremist-files/veterans-patrol/), _Southern Poverty Law Center_, downloaded 2025-Aug-26. [↩](#fn11a)  
 
-<a id="fn12">12</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["On the Lifetime of COnspiracies"]({{ site.baseurl }}/conspiracy-life/), _Some Weekend Reading_ blog, 2022-Jun-12. [↩](#fn12a)  
+<a id="fn12">12</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["On the Lifetime of Conspiracies"]({{ site.baseurl }}/conspiracy-life/), _Some Weekend Reading_ blog, 2022-Jun-12. [↩](#fn12a)  
 
 <a id="fn13">13</a>: G Pennycook, _et al.,_ ["Overconfidently Conspiratorial: Conspiracy Believers are Dispositionally Overconfident and Massively Overestimate How Much Others Agree With Them"](https://journals.sagepub.com/doi/10.1177/01461672251338358), _Personality and Social Psychology Bulletin_, 2025-May-24. DOI: [10.1177/01461672251338358](https://doi.org/10.1177/01461672251338358). __NB:__ Regrettably paywalled. A preprint is [available here](https://osf.io/preprints/psyarxiv/d5fz2_v2). [↩](#fn13a)  
 
