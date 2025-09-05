@@ -13,7 +13,7 @@ use a dog?
 ## Cryptography and the Venerable TM-82  
 
 So, cryptography.  (No, not "crypto" as in Bitcoin, but good ol' respectable cryptography,
-as in sending private messages back and forth.  
+as in sending private messages back and forth.)  
 
 Cryptography changed drastically in the late 70s, with the invention of public-key,
 trap-door ciphers:  
@@ -272,7 +272,7 @@ They wrote some code in 6502 assembler, and ran it on an emulator.  The paper po
 to where to get the code, if you're interested.  
 - The code was 427 lines long.  
 - The ROM image had 794 code and data bytes, 256 were for the number to be factored.  
-- The code required 1792 bytes of RAM, which was easy.  
+- The code required 1792 bytes of RAM, which fit easily.  
 
 Notably, no multiplication or division operations were required, which is good because the
 6502 didn't have that, much less for "bignum" integers with 2,048 bits!
@@ -355,14 +355,14 @@ RSA cryptography system would permit.
 
 The authors present several sensible criteria for factorization claims going forward.
 They're about what you think:  
-- the factors should be chose sensibly by the criteria used in crypto (of which there are
+- the factors should be chosen sensibly by the criteria used in crypto (of which there are
   several),  
 - the experiment should be _blinded_ (the factoring researchers are not permitted to know
   the number in advance, nor the solution until they find it), and  
 - the process should be repeated on 10 different values chosen independently from the
   experimenters, to show reproducibility.  
 
-The real question to me is: how do papers like the sham factorizations and the sleight of
+The real question to me is: How do papers like the sham factorizations and the sleight of
 hand D-Wave paper get published?  Shouldn't at least one of the referees have some
 cryptography background to check for things like this?  Shouldn't there be a standard
 registry of appropriately chosen factoring problems, whose solutions are not revealed
@@ -526,7 +526,7 @@ __NB:__ The authors carefully explain one of their notational choices in footnot
 Just so you know what to expect, going in.   (Fair enough, though?  I like these guys.  I
 mean, I _really_ like them.)  [↩](#fn7a)  
 
-<a id="fn8">8</a>: C Wang, _et al.,_ ["A First Successful Factorization of RSA-2048 Integer by D-Wave Quantum Computer"](https://www.sciopen.com/article/10.26599/TST.2024.9010028), Tsinghua Science and Technology 30:3, p. 1270, 2025-Jun. DOI: [10.26599/TST.2024.9010028](https://doi.org/10.26599/TST.2024.9010028).  
+<a id="fn8">8</a>: C Wang, _et al.,_ ["A First Successful Factorization of RSA-2048 Integer by D-Wave Quantum Computer"](https://www.sciopen.com/article/10.26599/TST.2024.9010028), _Tsinghua Science and Technology_ 30:3, p. 1270, 2025-Jun. DOI: [10.26599/TST.2024.9010028](https://doi.org/10.26599/TST.2024.9010028).  
 
 _NB:_  As Gutmann &amp; Neuhaus wryly note:  
 
