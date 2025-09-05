@@ -503,7 +503,7 @@ But all of us here are agreed: [_Ceterum censeo, Trump incarcerandam esse._]({{ 
 
 <a id="fn3">3</a>: PW Shor, ["Algorithms for quantum computation: discrete logarithms and factoring"](https://ieeexplore.ieee.org/document/365700), _Proc 35th Symp Fndns of Comp Sci_, 1994-Nov.  DOI: [10.1109/SFCS.1994.365700](https://doi.org/10.1109/SFCS.1994.365700). [↩](#fn3a)  
 
-<a id="fn4">4</a>: LMK Vandersypen, _et al._, ["Experimental realization of Shor's quantum factoring algorithm using nuclear magnetic resonance"](https://www.nature.com/articles/414883a), _Nature_ 414:6866, 2001-Dec-20, pp. 883-887. DOI: [10.1038/414883a](https://doi.org/10.1038/414883a). PMID: [11780055](https://pubmed.ncbi.nlm.nih.gov/11780055).  
+<a id="fn4">4</a>: LMK Vandersypen, _et al._, ["Experimental realization of Shor's quantum factoring algorithm using nuclear magnetic resonance"](https://www.nature.com/articles/414883a), _Nature_ 414:6866, 2001-Dec-20, pp. 883-887. DOI: [10.1038/414883a](https://doi.org/10.1038/414883a). PMID: [11780055](https://pubmed.ncbi.nlm.nih.gov/11780055/).  
 
 There is an unpaywalled pre-print available at [arXiv:quant-ph/0112176](https://arxiv.org/abs/quant-ph/0112176).  [↩](#fn4a)  
 
