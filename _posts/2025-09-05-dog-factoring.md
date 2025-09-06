@@ -119,7 +119,7 @@ happened:
 <img src="{{ site.baseurl }}/images/2025-09-05-dog-factoring-nature-photonics-1.jpg" width="400" height="239" alt="Mart&iacute;n-L&oacute;pez, et al. @ Nature Photonics: 21 = 3 x 7" title="Mart&iacute;n-L&oacute;pez, et al. @ Nature Photonics: 21 = 3 x 7" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - There's a lot of effort going on here behind the scenes.  In order to reduce somewhat
   the resource consumption, Mart&iacute;n-L&oacute;pez and colleagues in
-  2001 <sup id="fn5a">[[5]](#fn5)</sup> figured out a way to reduce the number of required
+  2012 <sup id="fn5a">[[5]](#fn5)</sup> figured out a way to reduce the number of required
   qubits.  Instead of having an $n$-qubit register, they took a single qubit and recycled
   it $n$ times.  The result, as one can see after some math, is about 1/3 the number of
   qubits required by the more conventional Shor protocol.  (Conversely, one could perhaps
