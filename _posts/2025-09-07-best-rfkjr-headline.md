@@ -19,7 +19,7 @@ rural life, they memorably wrote <sup id="fn1a">[[1]](#fn1)</sup>:
 
 > Sticks Nix Hick Pix  
 
-Meaning: people who live in rural areas ("the sticks") say no to ("mix") rural-focused
+Meaning: people who live in rural areas ("the sticks") say no to ("nix") rural-focused
 movies ("hick pix").  It manages to be completely insulting, both on rural people as well as
 reflexively on the _Variety_ headline editors themselves.  
 
