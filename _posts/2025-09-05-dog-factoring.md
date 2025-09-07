@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-Prime factoring is one of the key algorithms to encryption security.  Does it help if you
+Prime factoring is one of the key algorithms to modern encryption security.  Does it help if you
 use a dog?  
 
 
@@ -149,9 +149,10 @@ nature!").  They demonstrated very impressively that:
 So the RSA prime factors cipher may not be in immediate danger, but the principle has been
 demonstrated.  Now it's a matter of engineering.  
 
-And you know how engineers are.  Especially when they can pull the rug out from under all
-the finance people using RSA for encrypted banking transactions.  Who _wouldn't_ like
-to annoy the finance bros?  
+And you know how engineers are.  
+
+(Especially when they can pull the rug out from under all the finance people using RSA for
+encrypted banking transactions.  Who _wouldn't_ like to annoy the finance bros?)  
 
 
 ## Does It Help If You Use a Dog?
@@ -187,6 +188,8 @@ algorithm on a trivial case.
 As a physics experiment, this is fine and noble.  As a claim about RSA crypto security,
 they are ridiculous.  Most such claims were not made by the experimenters, but added by
 credulous media.  
+
+### The 'Stunt Factorizations'  
 
 Nevertheless, people can't resist "stunt factorizations", in which the problem has been
 carefully prepared to have hidden structure to exploit and factorize on trivial amounts of
@@ -468,7 +471,7 @@ But all of us here are agreed: [_Ceterum censeo, Trump incarcerandam esse._]({{ 
   entered her room, taken the phone apart, decided it was too old to mess with, and put it
   back together incompetently.  
   
-  Is that probable attempt at bugging her phone related to my wanting a copy of an
+  Was that a probable attempt at bugging her phone, related to my wanting a copy of an
   encryption paper?  Sure feels like it!  
   
   So maybe in some FBI/CIA/DSA database, there's an entry about me from September 1977.  
@@ -491,12 +494,12 @@ But all of us here are agreed: [_Ceterum censeo, Trump incarcerandam esse._]({{ 
   
   > Mysterious angry voice: Does your phone have a __dial__ on it?!  
   > My colleague: Uh&hellip; yes?  
-  > Mysterious angry voice: Then __use__ it!  
+  > Mysterious angry voice: Then __use__ it!  (hangs up)  
   
-  Somebody had been in the relay room at the time, and hear the relays not going gently
+  Somebody had been in the relay room at the time, and heard the relays not going gently
   "clacketa-clacketa", but "SLAM!  SLAM!".  This sort of thing is hard on those ancient
   relays, so he worked back from the relays to the source number and expressed his fervent
-  desire that this abuse come to an end.  (Possibly a Bad Word _might_ have been used.)  
+  desire that this abuse should come to an end.  (Possibly a Bad Word _might_ have been used.)  
   
   My colleague then realized that as a 70s-era phone hacker, he was far from unique in
   that environment. [↩](#fn2a)  
