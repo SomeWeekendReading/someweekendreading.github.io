@@ -20,8 +20,9 @@ rural life, they memorably wrote <sup id="fn1a">[[1]](#fn1)</sup>:
 > Sticks Nix Hick Pix  
 
 Meaning: people who live in rural areas ("the sticks") say no to ("nix") rural-focused
-movies ("hick pix").  It manages to be completely insulting, both on rural people as well as
-reflexively on the _Variety_ headline editors themselves.  
+movies ("hick pix").  It manages to be completely insulting, both to rural people as well as
+reflexively to the _Variety_ headline editors themselves ("we're dumb enough we actually
+say this").  
 
 <a href="{{ site.baseurl }}/images/2025-09-07-best-rfkjr-headline-nyt-1.jpg"><img src="{{ site.baseurl }}/images/2025-09-07-best-rfkjr-headline-nyt-1-thumb.jpg" width="400" height="487" alt="Dowd @ NYT: Vax Quack Lacks Facts" title="Dowd @ NYT: Vax Quack Lacks Facts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 A couple days ago, Maureen Dowd writing at _The New York Times_ has achieved a similar
