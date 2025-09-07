@@ -212,7 +212,7 @@ Look: you're just gonna have to trust me that this is funny, if you know some La
 ## Addendum 2025-Aug-06: The Shirt Arrives!  
 
 <a href="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt-arrives.jpg"><img src="{{ site.baseurl }}/images/2025-07-26-ceterum-censeo-shirt-arrives-thumb.jpg" width="400" height="461" alt="The shirt arrives, and we pronounce ourselves well satisfied!" title="The shirt arrives, and we pronounce ourselves well satisfied!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Over the weekend, while I was off kyoodling in the luminiferous aether in the Berkshires,
+Over the weekend, while I was off kyoodling in the luminiferous &aelig;ther in the Berkshires,
 a Mysterious Package arrived.  In due course, our excellent cat-sitter brought it inside
 and, after permitting the Weekend Publisher and the Assistant Weekend Publisher to conduct
 the required sniff test, they more or less ignored it.  
