@@ -13,7 +13,7 @@ Usually headlines are just annoying, but once in a great while they're _perfect.
 
 <img src="{{ site.baseurl }}/images/2025-09-07-best-rfkjr-headline-variety-1.jpg" width="400" height="225" alt="McCall @ Variety, 1935: A headline eclipses the article it's supposed to highlight" title="McCall @ Variety, 1935: A headline eclipses the article it's supposed to highlight" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 On 1935-Jul-17, the Hollywood-focused newspaper _Variety_ wrote one of its most famous
-headlines, traditionally repetitive rhyming words rendering the meaning almost
+headlines, traditionally repetitive rhyming slang words rendering the meaning almost
 inscrutable.  In saying that rural filmgoers of the day had no interest in films about
 rural life, they memorably wrote <sup id="fn1a">[[1]](#fn1)</sup>:  
 
@@ -21,13 +21,13 @@ rural life, they memorably wrote <sup id="fn1a">[[1]](#fn1)</sup>:
 
 Meaning: people who live in rural areas ("the sticks") say no to ("nix") rural-focused
 movies ("hick pix").  It manages to be completely insulting, both to rural people as well as
-reflexively to the _Variety_ headline editors themselves ("we're dumb enough we actually
-say this").  
+reflexively to the _Variety_ headline editors themselves ("we're so dumb we actually
+said this, _in writing_").  
 
 <a href="{{ site.baseurl }}/images/2025-09-07-best-rfkjr-headline-nyt-1.jpg"><img src="{{ site.baseurl }}/images/2025-09-07-best-rfkjr-headline-nyt-1-thumb.jpg" width="400" height="487" alt="Dowd @ NYT: Vax Quack Lacks Facts" title="Dowd @ NYT: Vax Quack Lacks Facts" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 A couple days ago, Maureen Dowd writing at _The New York Times_ has achieved a similar
-degree of perspicuity, summing up the pig-headed ignorance around vaccines of 
-RFKJr in just 4 words <sup id="fn2a">[[2]](#fn2)</sup>:  
+degree of perspicuity, summing up the pig-headed ignorance of RFKJr around vaccines 
+in just 4 words <sup id="fn2a">[[2]](#fn2)</sup>:  
 
 > Vax Quack Lacks Facts  
 
@@ -39,15 +39,16 @@ month.  Since then, I've grown to realize what a monster we dodged with the poli
 vaccines.)  
 
 This is personal for Dowd, since she almost died of rubella when she was 3 years old.
-It'd a bit personal for me as well, since I also had rubella at the beginning of first
+It's a bit personal for me as well, since I also had rubella at the beginning of first
 grade (though in that time and place it was called "German measles").  It meant that when I
 went back to school, everybody else understood "how school works", and I did _not._
 
 And last spring, here at Ch&acirc;teau Weekend, we got MMR boosters
 (measles/mumps/rubella) along with COVID-19 boosters.  <sup id="fn3a">[[3]](#fn3)</sup>
-Because the anti-vax knuckleheads have loosed again the most contagious disease known to
-humanity, measles, which has no treatment but is easily preventable.  Given the high $R_0$
-for measles, you need about 95% of the population to be vaccinated to prevent outbreaks.  
+That was because the anti-vax _knuckleheads_ have loosed again the most contagious disease known to
+humanity, measles, which has no treatment but is easily preventable.  (Given the high $R_0$
+for measles, you need about 95% of the population to be vaccinated to prevent outbreaks.
+It really is just _that_ bad a disease, and we don't have to get it!)  
 
 Dowd points out that we are bringing _needless_ dangers down upon our children's heads:  
 
@@ -94,7 +95,7 @@ take!
 
 He's got a long history of being anti-vaccine and spreading misinformation.  He was
 previously smacked down by the FDA and CDC, before Republicans neutered them.  For
-example, he pushed the de-worming drug ivermectin against COVID-19.  He's been credibly
+example, he pushed the de-worming drug ivermectin against COVID-19.  He's also been credibly
 accused of altering data, to make analyses show mRNA vaccines for COVID-19 did various bad
 things.  
 

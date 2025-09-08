@@ -48,7 +48,7 @@ to continue fossil fuel production and consumption.
 However&hellip; fossil fuels accrue wealth to the incumbent corporations and the oligarchs
 who own them.  They would _very_ much prefer to keep their high status, regardless of
 costs to the public.  And in our wounded political system, they can just buy a government
-of Republicans who will do just that: support existing private wealth concentrations over
+of Republicans who will do exactly that: support existing private wealth concentrations over
 public wealth.  
 
 There are no subsidies needed for green energy any more, just get out of the way and
