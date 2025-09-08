@@ -202,8 +202,10 @@ like a full deck of cards, but really contain only one or two.)
   No real-world RSA system would allow such an $N$, but this inconvenient fact is seldom
   mentioned.  
 - Another example is the factorization of 1,099,551,473,989 which in binary begins with 
-  100000000000000&hellip; thereby hinting that a game of some sort is afoot.  Such a game
-   might be Callas Normal Form, where, if $n \le m$:  
+  100000000000000&hellip; thereby hinting that a game of some sort is afoot.  
+  
+  Another such game might be jokingly termed Callas Normal Form, after Jon Callas who
+  pointed it out.  Here, if $n \le m$:  
   
   $$
   \left\{
@@ -214,8 +216,8 @@ like a full deck of cards, but really contain only one or two.)
   \right.
   $$
 
-  then $N = p \times q$ begins in binary with $m-n$ 0s and ends in $n$ 1 bits.  At that
-  point, factorization proceeds more via hijinks than by cleverness.  
+  then $N = p \times q$ begins in binary with $n$ 1 bits, then $m-n$ 0 bits, and ends in
+  $n$ 1 bits.  At that point, factorization proceeds more via hijinks than by cleverness.  
   
   Again, this is a case no real-world RSA toolkit would generate.  
 
@@ -239,7 +241,7 @@ So $N = pq = (x-d)(x+d) = x^2 - d^2$, so $N + d^2 = x^2$ must be a perfect squar
 is either 1 or 3, just try $d = 3$ and see if it's a perfect square:  
 - Let $x$ be the integer square root of $N + 9$ and $r$ be its remainder.  
 - If $r = 0$, then $d = 3$, so the factors are $x-3$ and $x+3$.  
-- Else if $r = 8$, then $d = 0$, so the factors are $x-1$ and $x+1$.  
+- Else if $r = 8$, then $d = 1$, so the factors are $x-1$ and $x+1$.  
 - Else the problem is not one that has been rigged for you in advance.  
 
 These tricks are _common._  As the authors say:  
