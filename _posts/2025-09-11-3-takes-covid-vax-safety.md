@@ -476,8 +476,8 @@ science venue _Ars Technica_ has been writing negatively about him for years:
   > looking at cardiac events, noting that "the risk of stroke and heart attack was
   > actually __lower__ in people who had been vaccinated, not higher" (emphasis theirs).  
 
-It's a paper with a startling conclusion, but which just presents many problems before I can
-believe it.  
+It's a paper with a startling conclusion, but which just presents too many problems to
+believe it right out of the gate.  
 
 
 ## The Weekend Conclusion  
