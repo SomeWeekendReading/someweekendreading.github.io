@@ -6,7 +6,7 @@ comments: true
 commentsClosed: true
 ---
 
-[Somebody asked me]({{ site.baseurl }}/tags#SomebodyAskedMe) about safety data for this
+[Somebody asked me]({{ site.baseurl }}/tags/#SomebodyAskedMe) about safety data for this
 fall's COVID-19 booster vaccinations.  _Again._  
 
 
