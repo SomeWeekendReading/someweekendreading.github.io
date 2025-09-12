@@ -44,7 +44,7 @@ couple of terms:
   looking for the by-products.  Doing metagenomics, specifically focused on the SARS-CoV2
   genome, is a way to tell which strains are in circulation with a _very_ high level of
   honesty not relying on anybody reporting anything.  (Unless use of a toilet constitutes
-  "reporting", in which case I really don't want to hear about your theory of "reporting".)  
+  reporting, in which case I really don't want to hear about your theory of "reporting".)  
   
 This has been a big deal for some time with COVID-19; we've been writing enthusiastically
 about it in this CLBTNR for some years now.
@@ -272,7 +272,7 @@ A couple caveats:
 In the end you get (almost) an estimator for the incidence rate ratio, adjusted for the
 covariates, and a 95% confidence interval on it.  
 
-(I'd have done it differently using my method of ratio statistics on Beta-distributed even
+(I'd have done it differently using my method of ratio statistics on Beta-distributed event
 probabilities, but I admit that's a niche taste.)  
 
 
