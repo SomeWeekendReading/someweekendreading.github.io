@@ -419,7 +419,7 @@ $p$-values attached to the KM curves), and (c) a meta-analysis including _someon
 showing that the effect is real.  
 
 But honestly, the thing that _really_ made me twitchy was that one of the authors is
-Joseph Ladapo, currently surgeon general.  Absent some _really_ compelling argument to the
+Joseph Ladapo, currently surgeon general of Florida.  Absent some _really_ compelling argument to the
 contrary, he just looks _problematic_ to me.  The senior health reporter at the popular
 science venue _Ars Technica_ has been writing negatively about him for years:  
 
