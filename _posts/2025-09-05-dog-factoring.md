@@ -169,7 +169,7 @@ from the introduction to the original _Annotated Alice_:
 > explained.  
 
 So now that you know at least the bare bones about RSA ciphers, factorization algorithms,
-and the danger to them post by quantum computers&hellip; you're prepared to joke about
+and the danger to them posed by quantum computers&hellip; you're prepared to joke about
 them _in the proper fashion!_  
 
 <img src="{{ site.baseurl }}/images/2025-09-05-dog-factoring-crypto-eprint-1.jpg" width="400" height="231" alt="Gutmann &amp; Neuhaus @ Crypto ePrint Archive: Factoring with an 8-bit home computers, an abacus, and a dog" title="Gutmann &amp; Neuhaus @ Crypto ePrint Archive: Factoring with an 8-bit home computers, an abacus, and a dog" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -290,7 +290,7 @@ __Conclusion:__ The results reported in the D-Wave paper are trivial, since the 
 were chosen via sleight-of-hand to be easily solved.  
 
 The D-Wave paper's authors showed subtle comic taste in their choice to publish this joke,
-which I admire &amp; applaud.  However, they did not honestly admit to doing so, which I
+which I admire &amp; applaud.  However, they did not honestly admit to having done so, which I
 deplore: jokes are only funny if you _let people in on the joke!_  
 
 ### The Abacus  
