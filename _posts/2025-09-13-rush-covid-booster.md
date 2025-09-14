@@ -145,6 +145,24 @@ As always, with COVID-19 vaccination blog posts, tune in tomorrow to hear about 
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2025-Sep-14: Sequelae  
+
+So here we are, 24 hours later.  
+
+The vaccine mNEXSPIKE is advertised as provoking a stronger immune reaction (so it's given
+at a lower dose).  And yes&hellip; yes, it _does_ indeed do that.  I had a somewhat
+difficult night, with about 1.5&deg;C fever, extreme fatigue, and a headache that strobed
+every time I coughed.  But, honestly, it was not as bad as getting a mild case of the
+flu.  
+
+And by this afternoon it's not _entirely_ cleared up, but well enough.  And I can take
+some ibuprofen.  It'll be fine.  
+
+Absolutely worth it.  I so _very_ much look forward to not getting COVID-19 this winter.  
+
+You should, too.  
+
 ---
 
 ## Notes &amp; References  
