@@ -26,8 +26,7 @@ went so far as to learn [denotational semantics](https://en.wikipedia.org/wiki/D
 hoping it would help. (It did not help.  Opened a lot of other doors, but not _that_ one.)  
 
 Now&hellip; I knew that _I myself_ was na&iuml;ve.  But I had no idea just _how_
-na&iuml;ve. (That's the nature of na&iuml;vet&eacute;: almost by definition we are blind to
-our own, almost by definition!)  
+na&iuml;ve. (That's the nature of na&iuml;vet&eacute;: we are blind to our own, almost by definition!)  
 
 I actually thought &ndash; true story &ndash; that our world leaders would (or _should!_)
 be seized by a dread sense of their deep responsibility, and therefore be deeply moved
@@ -107,16 +106,17 @@ mathematical training.  They are confusing 3 entirely separate statistical domai
    says it shouldn't happen regularly.  
    
    If you achieve statistical significance, then the observation is likely to repeat in a
-   replication experiment.  This is what the much-maligned and misunderstood $p$-values
+   replication experiment.  This is what the much-maligned (and sadly misunderstood) $p$-values
    are all about.  
 
 2. _Strength of Effect:_ Once you've achieved statistical significance, you of course want
-   to ask whether the "real" effect is a big deal or not!  It could be real, but still be
-   too tiny to matter.  
+   to ask whether the "real" effect is a big deal&hellip; or just a little deal.  It could
+   be real, but still be too tiny to matter.  
 
    This is the subject of a variety of statistics, like
    [Cohen's $d$](https://en.wikipedia.org/wiki/Effect_size#Cohen's_d) and 
-   [Cohen's $h$](https://en.wikipedia.org/wiki/Cohen%27s_h).  It is also the subject of a
+   [Cohen's $h$](https://en.wikipedia.org/wiki/Cohen%27s_h) (and many other statistics not
+   named after Cohen).  It is also the subject of a
    good many pragmatic measures.  For example: during my days analyzing gene expression
    data, we used:
 
@@ -316,7 +316,7 @@ surges!)
 Notably, they cited a book by Nick Enfield on this subect. <sup id="fn4a">[[4]](#fn4)</sup>
 
 I haven't read Enfield's book, but as far as I can tell from the reviews it makes pretty
-much the same point, but with more data (and somewhat less bile) than I did above.
+much the same point I did above, but with more data (and somewhat less bile) than I did.
 Basically, language is _not_ about precise description and conveyance of information, or
 at least not completely.  Rather, it is mostly about social coordination, i.e., getting
 people to do things.  (Though it _sounds_ from the reviews as though he's buying into the
