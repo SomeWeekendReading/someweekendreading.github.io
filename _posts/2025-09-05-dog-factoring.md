@@ -63,7 +63,7 @@ The paper starts out with prophetic words:
 
 > The era of "electronic mail" may soon be upon us&hellip;  
 
-Yes, soon indeed.  (Yes, I had an ARPANET email address even back then.)  
+Soon, indeed!  (Yes, I had an ARPANET email address even back then.)  
 
 Still, the US government's reaction was as paranoid as you might expect: they attempted to
 declare it retroactively classified, then they declared it a "munition" to prevent its
