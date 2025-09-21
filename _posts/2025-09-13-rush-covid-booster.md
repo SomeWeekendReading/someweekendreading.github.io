@@ -176,7 +176,7 @@ It was, in the words of one epidemiologist, a "goat rodeo":
 - They tried to say it caused multiple child deaths, using unverified VAERS reports that
   did not check out anywhere else.  
 - They subjected CDC scientists to the verbal equivalent of waterboarding, with questions
-  that were wildly inappropriate, irrelevant, and disrespectful.  (Literally: "If a
+  that were wildly inappropriate, irrelevant, and disrespectful.  (Like: "If a
   hippopotamus appeared in your lab&hellip;")
 - They tried to blame Long COVID on vaccines, despite evidence saying the exact opposite
   (not to mention that most cases of Long COVID date from _before_ the vaccines were available).  
