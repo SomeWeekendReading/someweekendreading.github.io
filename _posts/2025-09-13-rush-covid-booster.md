@@ -177,7 +177,9 @@ It was, in the words of one epidemiologist, a "goat rodeo":
   did not check out anywhere else.  
 - They subjected CDC scientists to the verbal equivalent of waterboarding, with questions
   that were wildly inappropriate, irrelevant, and disrespectful.  (Like: "If a
-  hippopotamus appeared in your lab&hellip;")
+  hippopotamus appeared in your lab&hellip;")  
+- They listened to presentations from people with highly suspicious histories, such as 
+  [El-Deiry, who has 75 of his publications flagged on PubPeer for data irregularities.](https://retractionwatch.com/2025/06/10/wafik-el-deiry-nci-director-candidate-science-guardians-twitter-pubpeer-sleuths/)  
 - They tried to blame Long COVID on vaccines, despite evidence saying the exact opposite
   (not to mention that most cases of Long COVID date from _before_ the vaccines were available).  
 - They tried to impose a requirement for a prescription (just barely failed, on a 6-6 tie vote).  
