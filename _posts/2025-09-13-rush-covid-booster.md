@@ -163,6 +163,42 @@ Absolutely worth it.  I so _very_ much look forward to not getting COVID-19 this
 
 You should, too.  
 
+## Addendum 2025-Sep-20: ACIP Results  
+
+So, the CDC's Advisory Committee on Immunization Practice finally met.  
+
+It was, in the words of one epidemiologist, a "goat rodeo":  
+- They tried to rebunk the thoroughly debunked ["turbo cancer" anti-vax conspiracy theory](https://en.wikipedia.org/wiki/Turbo_cancer) that mRNA vaccines somehow cause cancer.  
+- They tried to promote the exceptionally stupid proposition that COVID-19 vaccines cause
+  "&hellip; changes in the immune system that cause other infections, autoimmunity, chronic
+  inflammation, immune tolerance and impaired immune surveillance including immune fatigue
+  or suppression."  
+- They tried to say it caused multiple child deaths, using unverified VAERS reports that
+  did not check out anywhere else.  
+- They tried to blame Long COVID on vaccines, despite evidence saying the exact opposite
+  (not to mention that most cases of Long COVID date from _before_ the vaccines were available).  
+- They tried to impose a requirement for a prescription (just barely failed, on a 6-6 tie vote).  
+- When that failed, they imposed a requirement for "shared clinical decision making" with
+  a healthcare provider.  
+  - An interesting loophole: [a pharmacist counts](https://www.cdc.gov/acip/vaccine-recommendations/shared-clinical-decision-making.html#:~:text=In%20this%20context%2C%20CDC%20defines%20a%20health%20care%20provider%20as%20anyone%20who%20provides%20or%20administers%20vaccines%3A%20primary%20care%20physicians%2C%20specialists%2C%20physician%20assistants%2C%20nurse%20practitioners%2C%20registered%20nurses%2C%20and%20pharmacists.), so if you ask a pharmacist for a vaccination, the requirement is met!
+  - Interestingly, given the requirement for younger people to have a medical need, the
+    [Michigan Chief Medical Executive declared](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2025/09/19/standing-rec) 
+    that not having the latest vaccination was _itself_ a condition that constituted
+    sufficient medical need to justify getting the latest vaccination.  It's come down to
+    that, apparently.  
+
+In general, they entertained arrant nonsense, disinformation and outright lies, while
+showing little to no understanding of the principles of public health.  
+
+Still&hellip; they did _not_ pull the authorization, so the vaccines are still available.
+While the "consultation with a health care practitioner" will almost surely be abused in
+red states to throw up barriers, at least the rest of us should not have too much problem
+getting vaccinated.  
+
+Still, I'm glad I got it done _before_ the "goat rodeo".  And I'm glad the Weekend Editrix
+will be able to get it upon her return from Japan.  
+
+
 ---
 
 ## Notes &amp; References  
