@@ -1383,3 +1383,4 @@ _Business Week_, 14-Nov-2003.
 - "The canary in the coal mine isn't there for the benefit of the canary."  
 - "If my dreams won't come true, then I might as well sleep through them."  
 - "The fault, dear Brutus, is not in our stars, but in ourselves, that we deem AI LLMs sensible." -- me, paraphrasing [a Cassius line from Shakespeare's _Julius Caesar_, Act I Scene ii](https://shakespeare.mit.edu/julius_caesar/julius_caesar.1.2.html#:~:text=The%20fault%2C%20dear%20Brutus%2C%20is%20not%20in%20our%20stars%2C%0ABut%20in%20ourselves%2C%20that%20we%20are%20underlings)  
+- "People say, 'Invest in yourself.'  But isn't that insider trading?"  
