@@ -106,7 +106,7 @@ universal electronic medical records!)
   disability.  
 - They first did a comparison between all the kids in each group, and then later did a
   genetics-sensitive comparison using only siblings that were exposed to acetaminophen vs
-  not.  (The latter will become _important_ anon!)  
+  not.  (The latter will become _important,_ anon!)  
 - The differences in rates between the acetaminophen vs no acetaminophen kids was
   measured, as is absolutely standard, with hazard ratios and their 95% confidence
   intervals.  
@@ -140,10 +140,10 @@ Now let's consider Alqvist, _et al._'s results, shown in the figure below.
 
 The latter distinction, i.e., using matched sibling pairs only, is important.  If you just
 look at the general population, you're assuming there is no genetic component to the
-neurodevelopmental condition and thus the drug is the only relevant thing to measure.  But
-we know, for example in autism, that genetics is a big factor!  So by measuring between
-siblings, we control for genetics and ask if the drug was an _additional_ risk factor,
-above and beyond genetics.  
+neurodevelopmental condition and thus exposure to the drug is the only relevant thing to
+measure.  But we know, for example in autism, that genetics is a big factor!  So by
+measuring between siblings, we control for genetics and ask if the drug was an
+_additional_ risk factor, above and beyond genetics.  
 
 The latter is The Correct Question to be asking here.  
 
@@ -179,7 +179,7 @@ disability:
   protective against autism too.  
 
 <a href="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4.jpg"><img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4-thumb.jpg" width="400" height="275" alt="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" title="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Interestingly, but unfortunately buried in the supplement, is a test for
+Interestingly &ndash; but unfortunately buried in the supplement &ndash; is a test for
 dose-responsiveness of acetaminophen.  If acetaminophen were really a cause, you'd expect
 high dose situations to produce a higher likelihood of autism, ADHD, or intellectual
 disability.  This should show up in a hazard ratio that rises monotonically with dose.  
