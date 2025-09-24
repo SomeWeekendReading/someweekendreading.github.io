@@ -43,13 +43,13 @@ since GSK stopped marketing it 27 years ago, the FDA withdrew approval.  Now the
 be forced to re-approve it, with an indication for autism where it has never been tested.
 
 <img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-newsweek-1.jpg" width="400" height="205" alt="Plummer @ Newsweek: Dr Oz invested in supplement company selling leucovorin" title="Plummer @ Newsweek: Dr Oz invested in supplement company selling leucovorin" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Somewhat more disturbingly, there are generic versions of leucovorin supplied by various
-unregulated or very lightly regulated supplement companies.  They stand to make a bundle
-if there's significant demand for leucovorin.  Dr. Mehmet Oz, known as "Dr Oz", is a
-wealthy, controversial, celebrity doctor, and now Trump's administrator for the Centers for Medicare
-and Medicaid Services (CMS).  He's also a significant investor in
-iHerb <sup id="fn2a">[[2]](#fn2)</sup>, a California supplement company that sells the folinic
-acid part of leucovorin.  
+Somewhat more disturbingly, there are generic versions of leucovorin (or its main
+ingredient) supplied by various unregulated or very lightly regulated supplement
+companies.  They stand to make a bundle if there's significant demand for leucovorin.
+Dr. Mehmet Oz, known as "Dr Oz", is a wealthy, controversial, celebrity doctor, and now
+Trump's administrator for the Centers for Medicare and Medicaid Services (CMS).  He's also
+a significant investor in iHerb <sup id="fn2a">[[2]](#fn2)</sup>, a California supplement
+company that sells the folinic acid part of leucovorin.  
 
 It _stinks_ that the wildly weird recommended therapy is now something that will profit
 Trump people.  Oz says he will divest, but in the Trump administration _nobody_ divests.  
