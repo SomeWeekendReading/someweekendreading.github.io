@@ -179,7 +179,7 @@ disability:
   protective against autism too.  
 
 <a href="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4.jpg"><img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4-thumb.jpg" width="400" height="275" alt="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" title="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-Interestingly &ndash; but unfortunately buried in the supplement &ndash; is a test for
+Interestingly &ndash; but unfortunately buried in the supplement &ndash; they did a test for
 dose-responsiveness of acetaminophen.  If acetaminophen were really a cause, you'd expect
 high dose situations to produce a higher likelihood of autism, ADHD, or intellectual
 disability.  This should show up in a hazard ratio that rises monotonically with dose.  
