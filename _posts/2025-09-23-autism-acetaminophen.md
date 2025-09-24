@@ -12,7 +12,6 @@ autism.  Is this stupid or not?
 
 ## What Has He Tried to Claim _Now?_  
 
-<img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-cnn-1.jpg" width="400" height="141" alt="Christensen, et al. @ CNN: Trump links acetaminophen to autism, despite evidence of safety" title="Christensen, et al. @ CNN: Trump links acetaminophen to autism, despite evidence of safety" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 After the CDC ACIP vaccine fiasco, and amidst the continuing debacle of failing to release
 the Epstein files, the Trumpists need a distraction.  RFKJr of course can be relied upon
 to supply controversial distractions at a moment's notice.  
@@ -23,6 +22,7 @@ the day, when Trump (of course) seized the spotlight and announced that the New 
 Opinion in Trumpland was that use of acetaminophen (paracetamol/Tylenol) during pregnancy
 was _somehow_ to blame.  
 
+<img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-cnn-1.jpg" width="400" height="141" alt="Christensen, et al. @ CNN: Trump links acetaminophen to autism, despite evidence of safety" title="Christensen, et al. @ CNN: Trump links acetaminophen to autism, despite evidence of safety" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 CNN <sup id="fn1a">[[1]](#fn1)</sup>, for example, reports:  
 
 > President Donald Trump announced Monday that the US Food and Drug Administration will
