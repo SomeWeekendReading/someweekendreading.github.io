@@ -481,6 +481,23 @@ but if he knew Latin, he'd approve of this CLBTNR's regrettably necessary motto:
 
 [_Ceterum censeo, Trump incarcerandam esse._]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2024-Sep-24: Revolution Wind Restarts  
+
+<img src="{{ site.baseurl }}/images/2025-08-25-gop-war-on-weather-reuters-2.jpg" width="400" height="221" alt="Reuters: Federal judge rules Revolution Wind can restart" title="Reuters: Federal judge rules Revolution Wind can restart" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+
+_Reuters_ reports <sup id="fn24a">[[24]](#fn24)</sup> that a federal judge has ruled that
+&Oslash;rsted can resume construction on the Revolution Wind project.  Trump had
+previously blocked it from being finished on "national security grounds", even though it
+was already 80% complete.  All offshore foundations are in place and 45 of the 65 wind
+turbines are installed.  
+
+Apparently this is not final: the Trump administration case can still proceed, though it
+appears the wind farm may be finished and delivering electricity by the time it's
+decided.  
+
+Will Trump be stupid enough to demand the dismantling of a 704 Mw generating facility?  
+
 ---
 
 ## Notes &amp; References  
@@ -546,3 +563,5 @@ nnnnn</a>
 <a id="fn22">22</a>: Commerce Dept Bureau of Industry and Security, ["Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Wind Turbines and Their Parts and Components"](https://public-inspection.federalregister.gov/2025-16191.pdf), _Federal Register_, Docket No. 250818-0143, XRIN 0694-XC133, 2025-Aug-25. [↩](#fn22a)  
 
 <a id="fn23">23</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Hank Green, John Green, and the Great Asymmetry"]({{ site.baseurl }}/greens-asymmetry/), _Some Weekend Reading_ blog, 2022-May-22. [↩](#fn23a)  
+
+<a id="fn24">24</a>: _Reuters_ Staff, ["Orsted resumes work on US offshore wind farm after stop-work order lifted"](https://www.reuters.com/sustainability/climate-energy/orsted-resumes-work-us-offshore-wind-farm-after-stop-work-order-lifted-2025-09-24/), _Reuters_, 2025-Sep-24. [↩](#fn24a)  

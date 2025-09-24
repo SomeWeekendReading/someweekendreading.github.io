@@ -139,7 +139,7 @@ Now let's consider Alqvist, _et al._'s results, shown in the figure below.
     exposed/non-exposed.  
 
 The latter distinction, i.e., using matched sibling pairs only, is important.  If you just
-look at the general population, you're assuming there is no genetic component to the
+look at the general population, you're assuming there is _no genetic component_ to the
 neurodevelopmental condition and thus exposure to the drug is the only relevant thing to
 measure.  But we know, for example in autism, that genetics is a big factor!  So by
 measuring between siblings, we control for genetics and ask if the drug was an
@@ -158,11 +158,12 @@ acetaminophen on autism:
   (95% CL: 0.93 - 1.04).  
   
   That is, the central estimate says acetaminophen is _mildly protective_ against autism,
-  though the error bar says it's not statistically significant.  In other words, _no effect._  
+  though the error bar says it's not statistically significant.  In other words,
+  _there is no effect._  
   
 __Result:__ There is no evidence whatsoever that associates acetaminophen with autism.
 Studies saying this are poorly controlled, failing to account for the known genetic
-component of autism.  As shown here, using siblings to control for genetics
+component of autism.  As shown here, when using siblings to control for genetics
 being the same on both sides, _there is no effect._  
 
 Now look at the rest of the figure.  _In every single case, the result is the same!_  If
@@ -195,7 +196,7 @@ Any acetaminophen/autism link is very, _very_ thoroughly debunked!
 __Conclusions:__
 - This study is _awesomely_ well powered, using essentially the entire population of
   Sweden over a period of 3 years.  
-- Acetaminophen, and pretty much everything else studied except aspirin, is _not_
+- Acetaminophen, and pretty much everything else studied except aspirin (_q.v._), is _not_
   associated with autism, ADHD, or intellectual disability.  
 - Anybody saying otherwise is doing a genetics-ignorant comparison, attempting to ignore
   the known strong genetic influence on those conditions.  
@@ -224,8 +225,8 @@ before offering an anti-Trump editorial opinion.)  As you can see, they are not 
 latest Trump&hellip; emissions.  In fact, they are not even much distracted from their nap
 schedule.  
 
-We should ignore their idiotic pronouncements, and keep up the grassroots political
-activity to throw them out ASAP.  
+We should ignore the idiotic pronouncements, and keep up the grassroots political
+activity to throw out the idiots ASAP.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
