@@ -141,7 +141,7 @@ Now let's consider Alqvist, _et al._'s results, shown in the figure below.
 The latter distinction, i.e., using matched sibling pairs only, is important.  If you just
 look at the general population, you're assuming there is no genetic component to the
 neurodevelopmental condition and thus the drug is the only relevant thing to measure.  But
-we know that, for example in autism, that genetics is a big factor!  So by measuring between
+we know, for example in autism, that genetics is a big factor!  So by measuring between
 siblings, we control for genetics and ask if the drug was an _additional_ risk factor,
 above and beyond genetics.  
 
@@ -158,7 +158,7 @@ acetaminophen on autism:
   (95% CL: 0.93 - 1.04).  
   
   That is, the central estimate says acetaminophen is _mildly protective_ against autism,
-  though the error bar says it's not statistically significant.  
+  though the error bar says it's not statistically significant.  In other words, _no effect._  
   
 __Result:__ There is no evidence whatsoever that associates acetaminophen with autism.
 Studies saying this are poorly controlled, failing to account for the known genetic
@@ -178,7 +178,7 @@ disability:
 - At the top of the chart, there's a just-barely significant result showing aspirin is
   protective against autism too.  
 
-<a href="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4-thumb.jpg"><img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4-thumb.jpg" width="400" height="275" alt="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" title="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4.jpg"><img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-jama-4-thumb.jpg" width="400" height="275" alt="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" title="Ahlqvist, et al. @ JAMA: Acetaminophen is not dose-responsive in autism, ADHD, or intellectual disability hazards" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Interestingly, but unfortunately buried in the supplement, is a test for
 dose-responsiveness of acetaminophen.  If acetaminophen were really a cause, you'd expect
 high dose situations to produce a higher likelihood of autism, ADHD, or intellectual
