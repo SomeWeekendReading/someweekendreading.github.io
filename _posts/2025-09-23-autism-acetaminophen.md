@@ -220,7 +220,7 @@ democracy.
 Don't be distracted.  
 
 Here, as an instructive example, are the Weekend Publisher and the Assistant Weekend
-Publisher.  (Given l'affaire Jimmy Kimmel, I thought I should consult with the publishers
+Publisher.  (Given l'affaire Jimmy Kimmel, I thought I should consult with my publishers
 before offering an anti-Trump editorial opinion.)  As you can see, they are not distracted by the
 latest Trump&hellip; emissions.  In fact, they are not even much distracted from their nap
 schedule.  
