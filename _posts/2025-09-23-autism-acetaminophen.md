@@ -293,4 +293,4 @@ __Summary:__
 
 <a id="fn3">3</a>: VH Ahlqvist, _et al.,_ ["Acetaminophen Use During Pregnancy and Children’s Risk of Autism, ADHD, and Intellectual Disability"](https://jamanetwork.com/journals/jama/fullarticle/2817406), _JAMA_ 331:14, pp. 1205-1214, 2024-Ap4-09.  DOI: [10.1001/jama.2024.3172](https://doi.org/10.1001/jama.2024.3172). [↩](#fn3a)  
 
-<a id="fn4">4</a>: _APA_ Offcial Statement, ["APA Statement on White House Announcement on Autism"](https://www.psychiatry.org/news-room/news-releases/apa-statement-on-white-house-announcement-on-autis), _American Psychiatric Association_ News Releases, 2025-Sep-22. [↩](#fn4a)  
+<a id="fn4">4</a>: _APA_ Staff, ["APA Statement on White House Announcement on Autism"](https://www.psychiatry.org/news-room/news-releases/apa-statement-on-white-house-announcement-on-autis), _American Psychiatric Association_ News Releases, 2025-Sep-22. [↩](#fn4a)  
