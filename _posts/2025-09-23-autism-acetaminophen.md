@@ -236,23 +236,24 @@ activity to throw out the idiots ASAP.
 <img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-apa-1.jpg" width="400" height="225" alt="APA statement on White House announcement on autism: basically, acetaminophen is ok and Trump/Kennedy are confused" title="APA statement on White House announcement on autism: basically, acetaminophen is ok and Trump/Kennedy are confused" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The _American Psychiatric Association_ is the oldest medical association in the United
 States, with more than 39,200 physician members specializing in the diagnosis, treatment,
-prevention, and research of mental illnesses.  Today the _APA_ weighed
-in <sup id="fn4a">[[4]](#fn4)</sup> with a reaction to the Trump's &amp; Kennedy's weirdly stupid
-pronouncements on autism and acetaminophen:  
+prevention, and research of mental illnesses.  
+
+Today the _APA_ weighed in <sup id="fn4a">[[4]](#fn4)</sup> with a reaction to the Trump's
+&amp; Kennedy's weirdly stupid pronouncements on autism and acetaminophen (__emphasis__ added):  
 
 > "It is essential that the administration prioritizes evidence-based support for
 > individuals on the autism spectrum and invests in long-term comprehensive research about
 > the disorder.  
 >  
-> Vaccines do not cause autism. Claims of any such association have been repeatedly
+> __Vaccines do not cause autism.__ Claims of any such association have been repeatedly
 > discredited in peer reviewed studies.  
 >  
 > Autism is a complex disorder, and it is incorrect to imply that a handful of studies
-> have established causation. A strong base of evidence shows that acetaminophen, when
-> taken as directed, is safe for use during pregnancy. Any decisions around a course of
+> have established causation. A strong base of evidence shows that __acetaminophen, when
+> taken as directed, is safe for use during pregnancy.__ Any decisions around a course of
 > treatment should be determined by a patient and their doctor.  
 >  
-> Leucovorin (folinic acid) has not been a recommended treatment for autism. It will
+> __Leucovorin (folinic acid) has not been a recommended treatment for autism.__ It will
 > require many more years of research before we know if leucovorin is an appropriate
 > treatment for individuals with autism.  
 >  
