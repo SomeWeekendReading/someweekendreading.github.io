@@ -234,7 +234,7 @@ activity to throw out the idiots ASAP.
 ## Addendum 2025-Sep-25: The APA Weighs In  
 
 <img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-apa-1.jpg" width="400" height="225" alt="APA statement on White House announcement on autism: basically, acetaminophen is ok and Trump/Kennedy are confused" title="APA statement on White House announcement on autism: basically, acetaminophen is ok and Trump/Kennedy are confused" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-The _American Psychaitric Association_ is the oldest medical association in the United
+The _American Psychiatric Association_ is the oldest medical association in the United
 States, with more than 39,200 physician members specializing in the diagnosis, treatment,
 prevention, and research of mental illnesses.  Today the _APA_ weighed
 in <sup id="fn4a">[[4]](#fn4)</sup> with a reaction to the Trump's &amp; Kennedy's weirdly stupid
