@@ -230,6 +230,36 @@ activity to throw out the idiots ASAP.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2025-Sep-25: The APA Weighs In  
+
+<img src="{{ site.baseurl }}/images/2025-09-23-autism-acetaminophen-apa-1.jpg" width="400" height="225" alt="APA statement on White House announcement on autism: basically, acetaminophen is ok and Trump/Kennedy are confused" title="APA statement on White House announcement on autism: basically, acetaminophen is ok and Trump/Kennedy are confused" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+The _American Psychaitric Association_ is the oldest medical association in the United
+States, with more than 39,200 physician members specializing in the diagnosis, treatment,
+prevention, and research of mental illnesses.  Today the _APA_ weighed
+in <sup id="fn4a">[[4]](#fn4)</sup> with a reaction to the Trump's &amp; Kennedy's weirdly stupid
+pronouncements on autism and acetaminophen:  
+
+> "It is essential that the administration prioritizes evidence-based support for
+> individuals on the autism spectrum and invests in long-term comprehensive research about
+> the disorder.  
+>  
+> Vaccines do not cause autism. Claims of any such association have been repeatedly
+> discredited in peer reviewed studies.  
+>  
+> Autism is a complex disorder, and it is incorrect to imply that a handful of studies
+> have established causation. A strong base of evidence shows that acetaminophen, when
+> taken as directed, is safe for use during pregnancy. Any decisions around a course of
+> treatment should be determined by a patient and their doctor.  
+>  
+> Leucovorin (folinic acid) has not been a recommended treatment for autism. It will
+> require many more years of research before we know if leucovorin is an appropriate
+> treatment for individuals with autism.  
+>  
+> Autism spectrum disorders exist on a spectrum of neurodiversity. The country must focus
+> its resources on expanding access to care and to building the evidence-base for future
+> treatments.”  
+
 ---
 
 ## Notes &amp; References  
@@ -255,3 +285,5 @@ activity to throw out the idiots ASAP.
 <a id="fn2">2</a>: K Plummer, ["Will Dr Oz Benefit From Trump's FDA Approving Leucovorin? What To Know"](https://www.newsweek.com/trump-fda-leucovorin-dr-oz-2134011), _Newsweek_, 2025-Sep-23. [↩](#fn2a)  
 
 <a id="fn3">3</a>: VH Ahlqvist, _et al.,_ ["Acetaminophen Use During Pregnancy and Children’s Risk of Autism, ADHD, and Intellectual Disability"](https://jamanetwork.com/journals/jama/fullarticle/2817406), _JAMA_ 331:14, pp. 1205-1214, 2024-Ap4-09.  DOI: [10.1001/jama.2024.3172](https://doi.org/10.1001/jama.2024.3172). [↩](#fn3a)  
+
+<a id="fn4">4</a>: _APA_ Offcial Statement, ["APA Statement on White House Announcement on Autism"](https://www.psychiatry.org/news-room/news-releases/apa-statement-on-white-house-announcement-on-autis), _American Psychiatric Association_ News Releases, 2025-Sep-22. [↩](#fn4a)  
