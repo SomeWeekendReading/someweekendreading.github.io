@@ -261,6 +261,8 @@ Today the _APA_ weighed in <sup id="fn4a">[[4]](#fn4)</sup> with a reaction to t
 > its resources on expanding access to care and to building the evidence-base for future
 > treatments.”  
 
+
+__Summary:__  
 - Vaccines don't cause autism.  
 - Acetaminophen doesn't cause autism.  
 - Leucovorin doesn't treat autism.  
