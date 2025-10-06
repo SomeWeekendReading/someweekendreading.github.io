@@ -12,7 +12,7 @@ collapse.
 
 ## Doctorow on the Inevitable  
 
-<a href="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-xkcd-1.png"><img src="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-xkcd-1-thumb.jpg" width="400" height="117" alt="R Munroe @ XKCD: Cory Doctorow blogs from a hot air ballon while wearing a red cape and goggles" title="R Munroe @ XKCD: Cory Doctorow blogs from a hot air ballon while wearing a red cape and goggles" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="https://xkcd.com/239/"><img src="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-xkcd-1-thumb.jpg" width="400" height="117" alt="R Munroe @ XKCD: Cory Doctorow blogs from a hot air ballon while wearing a red cape and goggles" title="R Munroe @ XKCD: Cory Doctorow blogs from a hot air ballon while wearing a red cape and goggles" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 <a href="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-doctorow-cape-goggles.jpg"><img src="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-doctorow-cape-goggles-thumb.jpg" width="400" height="321" alt="Cory Doctorow (in red cape &amp; goggles) with Randall Munroe of XKCD, at 3PiCon in 2008." title="Cory Doctorow (in red cape &amp; goggles) with Randall Munroe of XKCD, at 3PiCon in 2008." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow) is a modern Canadian/British
 fiction writer and tech journalist of some note.  
