@@ -52,7 +52,8 @@ companies that their growth alone determines our economic future.  They are _des
 whatever value of X, I was always disappointed that they never admitted they were wrong
 about what they demanded we do instead of X in the past.)  In this case, the "pivot to AI"
 has management drooling so hard because they fantasize they can jut fire most of those
-pesky employees, with their annoying demands for pay, insurance, time off, and retirement.  
+pesky employees, with their annoying demands for pay, insurance, time off, and retirement.
+(Not to mention diversity, equity, and inclusion.)  
 
 <img src="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-merchant-1.jpg" width="200" height="302" alt="B Merchant: Blood in the Machine" title="B Merchant: Blood in the Machine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This is _exactly_ the argument made in the Industrial Revolution for laying off
@@ -61,7 +62,7 @@ Machine_ <sup id="fn2a">[[2]](#fn2)</sup>, illustrates this in great detail with
 comparisons to modern oligarchs and monopolies.  
 
 Merchant quotes the historian Frank Peel, capturing the mood of the elite of 1811 (and of
-today) in their contempt for workers thusly (p. 44), with the suggestion of the
+today!) in their contempt for workers thusly (p. 44), with the suggestion of the
 'rational' economic alternative for workers:  
 
 > "Had they been better instructed, they would have known that it was their duty to lie
@@ -69,8 +70,9 @@ today) in their contempt for workers thusly (p. 44), with the suggestion of the
 
 In 1811 at the height of the cloth-making revolution in England, oligarch, aristocrats, and
 monopolies were the rule of the day.  This is the inevitable way in which they warp human
-minds.  Like Sauron's ring, this sort of economic power tempts with great fantasies, but
-morally destroys the holder in the end..  
+minds.  Like the fictionsl [ring of Sauron](https://en.wikipedia.org/wiki/One_Ring), this
+sort of economic power tempts with great fantasies, but morally destroys the holder in the
+end.  
 
 That is, of course, a _dark and hopeless_ fantasy:  
 
