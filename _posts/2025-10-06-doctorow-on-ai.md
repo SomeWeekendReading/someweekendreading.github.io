@@ -219,13 +219,13 @@ these highly correlated companies, will likely take down much of our economy.
 
 Doctorow explains, repeatedly, to plaintive questions from student that there just isn't
 much you can do about it other than try to survive.  Here's what we've done Chez Weekend:  
-- We've [revised our retirement investment portfolio to be less stock-oriented and less US-oriented]({{ site.baseurl }}/weekend-portfolio-trump-2/).  
+- We've [revised our retirement investment portfolio to be less stock-oriented _and_ less US-oriented]({{ site.baseurl }}/weekend-portfolio-trump-2/).  
 - We've got [Social Security and Medicare]({{ site.baseurl }}/soc-sec-journey/) in place and working.  
 - We've recently gotten solar and batteries on our house in case of power grid disruption, and
   next week will pull the gas furnace in favor of a second heat pump.  (More on that later, as we
-  get some winter experience with the solar installation, in particular.)
+  get some winter experience with the solar installation, in particular.)  
 
-I will be _ecstatic_ if that turns out to be unnecessary.
+I will be _ecstatic_ if that turns out to be unnecessary.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
