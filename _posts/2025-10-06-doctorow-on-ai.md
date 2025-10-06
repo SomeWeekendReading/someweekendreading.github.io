@@ -129,7 +129,7 @@ the stuff they write is very, very difficult to fact-check and debug.  Assigning
 to wade through the slop looking for plausible but wrong bits is hopeless.  
 
 That will quickly collapse into low-paid, low-morale workers who don't really bother to
-check on the AI slop.  
+check on the AI slop: reverse centaurs.  
 
 There appears to be little we can do about this.  We could just walk away from it, but
 given the obstinacy of our oligarchs, that is unlikely.  The result will probably be an
