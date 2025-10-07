@@ -71,8 +71,8 @@ today!) in their contempt for workers thusly (p. 44), with the suggestion of the
 In 1811 at the height of the cloth-making revolution in England, oligarch, aristocrats, and
 monopolies were the rule of the day.  This is the inevitable way in which they warp human
 minds.  Like the fictionsl [ring of Sauron](https://en.wikipedia.org/wiki/One_Ring), this
-sort of economic power tempts with great fantasies, but morally destroys the holder in the
-end.  
+sort of economic power tempts with great fantasies of fascist power, but morally destroys
+the holder in the end.  
 
 That is, of course, a _dark and hopeless_ fantasy:  
 
