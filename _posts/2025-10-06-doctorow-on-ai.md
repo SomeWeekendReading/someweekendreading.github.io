@@ -138,12 +138,12 @@ collapse and the world careens to war on multiple fronts.
 
 That will be very, very ugly.  
 
-As for what one might see next, Doctorow offered this advice to the head of LLM AI usage
-at a university:  
+As for what one might see next, Doctorow offered this advice to the head of LLM AI strategy
+at Cornell, for the university's benefit as an institution:  
 
 > Plan for a future where you can buy __GPUs for ten cents on the dollar,__ where there's a
 > __buyer's market for hiring skilled applied statisticians,__ and where there's a ton of
-> extremely promising open source models that have barely been optimized and have vast
+> __extremely promising open source models that have barely been optimized__ and have vast
 > potential for improvement.  
 
 > AI isn't going to wake up, become superintelligent and turn you into
