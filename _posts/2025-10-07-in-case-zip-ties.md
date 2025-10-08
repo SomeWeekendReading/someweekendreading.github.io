@@ -31,8 +31,9 @@ through it quite quickly.
 __But don't forget:__ At the end of this physics experiment, she says "And then you're
 free."  But&hellip; her shoelaces are at that point tied together &ndash; a configuration
 only good for sitting or lying down, not for walking.  Or running. So, if you try to replicate this
-physics experiment and are for some reason in a hurry, remember shoes must be retied in a more
-conventional manner!   
+physics experiment and are for some reason in a hurry, remember shoes must first be retied in a more
+conventional manner!  (And while she uses a square knot, perhaps a bowtie would be easier
+to undo at the end.)  
 
 I guess if you _insist_ on wearing loafers in fascist-infested areas, you should probably
 have a "decorative" loop of string around your wrist?  
