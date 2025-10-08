@@ -15,7 +15,8 @@ Just in case your hands are zip-tied for some reason&hellip; probably don't wear
   <source src="{{ site.baseurl }}/assets/2025-10-07-in-case-zip-ties-girl-breaks-zip-ties-using-shoelaces.mp4" type="video/mp4">
   Your browser does not appear to support playing this video?
 </video>
-There are a variety of videos of this sort on YouTube.  This one is from an account called
+There are a variety of videos of this sort on YouTube.
+[This particular one](https://www.youtube.com/shorts/XIomQSyfD0c) is from an account called
 ["FurFamily"](https://www.youtube.com/@furfamily/shorts), which seems to consist mostly of
 cute animal videos.  (However, I note that I couldn't find this video directly linked in
 their pages, so it may be in the process of being suppressed?  Hence it's archived here,
