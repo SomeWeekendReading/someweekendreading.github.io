@@ -28,10 +28,11 @@ tension, but are relatively lame about friction _across_ the tie.
 Therefore, using her shoelaces, she can apply enough friction to heat the plastic and rip
 through it quite quickly.  
 
-__But don't forget:__ At the end of this physics experiment, her shoelaces were tied
-together &ndash; a configuration mostly good for lying down, not for walking.  Or running.
-So, if you try to replicate this physics experiment and are for some reason in a hurry,
-remember to retie shoes in a more conventional manner!  
+__But don't forget:__ At the end of this physics experiment, she says "And then you're
+free."  But&hellip; her shoelaces are at that point tied together &ndash; a configuration
+only good for sitting or lying down, not for walking.  Or running. So, if you try to replicate this
+physics experiment and are for some reason in a hurry, remember shoes must be retied in a more
+conventional manner!   
 
 I guess if you _insist_ on wearing loafers in fascist-infested areas, you should probably
 have a "decorative" loop of string around your wrist?  
