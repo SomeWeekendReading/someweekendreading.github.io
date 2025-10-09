@@ -98,7 +98,7 @@ It's a _big_ study by Ahlqvist, _et al._ <sup id="fn3a">[[3]](#fn3)</sup> of a n
 cohort of 2,480,979 children born in Sweden in 1995 - 2019 to 1,387,240 birthing parents.
 (Let's hear it once again for the positive impact on research of universal health care and
 universal electronic medical records!)  
-- After filtering for one thing and another, as shown in the flow diagram reproduced here,
+- After filtering for one thing and another, as shown in the CONSORT flow diagram reproduced here,
   they had 185,909 children exposed to acetaminophen during pregnancy and 2,294,888
   children who were _not_ so exposed.  
 - They then diagnosed who among each group of children had a neurodevelopmental
