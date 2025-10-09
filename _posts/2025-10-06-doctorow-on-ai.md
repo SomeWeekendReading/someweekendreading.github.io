@@ -69,12 +69,12 @@ today!) in their contempt for workers thusly (p. 44), with the suggestion of the
 > down in the nearest ditch and die."  
 
 In 1811 at the height of the cloth-making revolution in England, oligarch, aristocrats, and
-monopolies were the rule of the day.  This is the inevitable way in which they warp human
-minds.  Like the fictionsl [ring of Sauron](https://en.wikipedia.org/wiki/One_Ring), this
-sort of economic power tempts with great fantasies of fascist power, but morally destroys
-the holder in the end.  
+monopolies were the rule of the day.  This is the inevitable way in which those things warp human
+minds.  Like the fictional [ring of Sauron](https://en.wikipedia.org/wiki/One_Ring), this
+sort of economic power tempts with great fantasies of fascist power, but in the end
+morally rots the holder to destruction.  
 
-That is, of course, a _dark and hopeless_ fantasy:  
+That is, of course, a _dark and hopeless_ fantasy on the part of the wealthy:  
 
 > Finally: __AI cannot do your job, but an AI salesman can 100% convince your boss to fire
 > you and replace you with an AI that can't do your job__, and when the bubble bursts, the
