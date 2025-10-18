@@ -30,7 +30,7 @@ Nobody Reads (CLBTNR). He's talking about a recent Bloomberg article <sup id="fn
 which contains the graph shown here.  (Definitely click to embiggen!)  
 
 Basically, there are 3 sorts of actors in this drama:
-- _The chipmakers like Nvidia, AMD, (and to some extent Intel)._  They make the chips, mostly
+- _The chipmakers like Nvidia, AMD, and (to some extent) Intel._  They make the chips, mostly
   GPUs, that power the matrix calculations used in what amounts to neural net LLMs.  
 - _The data center operators like Oracle build huge data centers with enormous computing
   power._  They rent this out to the AI companies, _q.v._  (They also consume entire city's
