@@ -53,7 +53,7 @@ be a sore point.
 A US Treasury default would be a world-wide economic disaster, from which nothing would be
 safe.  _Nothing._  Just an inescapable world depression.  
 
-That's unlikely, but&hellip; Trump _specializes_ in doing the horribly unlikely.  His
+That's unlikely, but&hellip; Trump _specializes_ in doing horribly unlikely horrible things.  His
 economic plan would push the deficit and its time integral, the debt, to heights of
 bizarrely self-inflicted financial injury.  While default is unlikely, he might try to:  
 

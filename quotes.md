@@ -915,7 +915,9 @@ perhaps one of the 20th century's greatest theologians
 "Reality is that which, when you stop believing in it, doesn't go away." 
 &mdash; [Phillip K Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  
 
-"When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist." &mdash; Dom H&eacute;lder Pessoa Câmara, archbishop of Recife and apostle of social justice  
+"When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist." &mdash; Dom H&eacute;lder Pessoa C&acirc;mara, archbishop of Recife and apostle of social justice  
+
+"The poor are not there by chance or by blind and cruel fate. Nor, for most of them, is poverty a choice. Yet, there are those who still presume to make this claim, thus revealing their own blindness and cruelty." &mdash; [Pope Leo XIV](https://en.wikipedia.org/wiki/Pope_Leo_XIV)  
 
 "Truth, like gold, is to be obtained not by its growth, but by washing away from it all
 that is not gold." &mdash; Leo Nikolaevich Tolstoy  

@@ -96,7 +96,7 @@ aren't we?
 ## A Contrary Opinion  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/bJ_LUeJHziQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-Now, not everybody agrees with me, sadly.  
+Now, not everybody agrees with me. (Sadly.)  
 
 But in a spirit of objectivity that is the _sine qua non_ of all scientists, let's have a
 look at _another_ Bloomberg interview that offers a contrary opinion.  
@@ -105,9 +105,9 @@ This one is with Mandeep Singh, their Bloomberg Intelligence Global Head of Tech
 Research. A heuristic I learned many years ago is perhaps too sarcastic, but sometimes
 applies: the importance of your position is inversely proportional to the number of words
 in your title.  Example: "President" is pretty important.  Example: "Deputy Undersecretary
-for Intergovernmental Affairs in Cheese Trade" is&hellip; less important.  I'm not saying
-that this applies to Mr. Singh, but I am revealing to you my bias.  Discount
-appropriately.  
+for Intergovernmental Affairs in International Cheese Trade" is&hellip; less important.
+I'm not saying that this applies to Mr. Singh, but I am revealing to you my bias.
+Discount appropriately.  
 
 His argument is, in essence, that AI demand will _definitely_ undergo hyperscaling levels
 of growth, because everybody wants it.  Now, that's contrary to my experience, where
