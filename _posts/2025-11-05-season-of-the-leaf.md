@@ -32,7 +32,7 @@ off.
 I mean, it's pretty, sure.  
 
 But what I really like is the serendipity.  You're just walking along, not thinking about
-what you see around you and&hellip; Nature grabs you by the frontal lobes and says,
+what you see around you and&hellip; Nature grabs you by the frontal lobes &amp; says,
 __Look!__  
 
 Other times, the beauty is just in an unexpected place. This is the Weekend Editrix's
@@ -87,7 +87,7 @@ photo from about 3am.  Normally they have a dominance battle for space; here we'
 the result after they've declared _pax._  
 
 I see yesterday was a _very_ good day for the Democrats.  May there be many more, so we
-can eventually, remove, indict, convict, and imprison as many Trumpistas as possible.
+can eventually remove, indict, convict, and imprison as many Trumpistas as possible.
 Then we also can declare _pax._  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
