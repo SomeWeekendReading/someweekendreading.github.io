@@ -46,7 +46,7 @@ that they'll be back in the spring.
 
 ## &hellip; And the Cleanup  
 
-<img src="{{ site.baseurl }}/images/2025-11-05-season-of-the-leaf-3.jpg" width="400" height="300" alt="40 lawn refuse bags of 30 gallons each, filled with 40 gallons each of leaves, making for a total of 60 bags so far this season &ndash; halfway!" title="40 lawn refuse bags of 30 gallons each, filled with 40 gallons each of leaves, making for a total of 60 bags so far this season &ndash; halfway!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-11-05-season-of-the-leaf-3a.jpg" width="400" height="300" alt="40 lawn refuse bags of 30 gallons each, filled with 40 gallons each of leaves, making for a total of 60 bags so far this season &ndash; halfway!" title="40 lawn refuse bags of 30 gallons each, filled with 40 gallons each of leaves, making for a total of 60 bags so far this season &ndash; halfway!" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 But with all that beauty comes the cleanup, as is so often the case.  That means leaf
 raking/blowing, bagging up, and disposing of the bags of harvested leaves.  A _lot_ of
 that.  It's back-breaking work for an old guy like me, or at least back-sore work.  
