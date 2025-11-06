@@ -75,7 +75,7 @@ spurts.
 
 ## The Weekend Conclusion  
 
-<img src="{{ site.baseurl }}/images/2025-11-05-season-of-the-leaf-4a.jpg" width="400" height="300" alt="The Weekend Publisher &amp; Assistant Weekend Publisher, asleep at the foot of the bed, for once not attempting to murder each other.  They approve of winter comforters." title="The Weekend Publisher &amp; Assistant Weekend Publisher, asleep at the foot of the bed, for once not attempting to murder each other.  They approve of winter comforters." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2025-11-05-season-of-the-leaf-4.jpg" width="400" height="300" alt="The Weekend Publisher &amp; Assistant Weekend Publisher, asleep at the foot of the bed, for once not attempting to murder each other.  They approve of winter comforters." title="The Weekend Publisher &amp; Assistant Weekend Publisher, asleep at the foot of the bed, for once not attempting to murder each other.  They approve of winter comforters." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The work of preparing for winter each autumn is something I've enjoyed since childhood:
 raking up the leaves, clearing out the gutters &amp; downspouts, bringing in the garden
 hoses to prevent freezing, and so on.  
