@@ -229,6 +229,17 @@ I will be _ecstatic_ if that turns out to be unnecessary.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2025-Nov-17: Reverse Centaur  
+
+From Jamie McKelvie on BlueSky comes a perfect drawing of a reverse centaur:  
+
+<a href="https://bsky.app/profile/mckelvie.bsky.social/post/3jugtivo2tb2e">
+  <img src="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-mckelvie-reverse-centaur.jpg" width="550" height="797" alt="Jamie McKelvie @ BlueSky: A reverse centaur" title="Jamie McKelvie @ BlueSky: A reverse centaur" style="margin: 3px 3px 3px 3px; border: 1px solid #000000; margin: 0 auto; display: block;">
+</a>
+
+Perfect.  No notes.  
+
 ---
 
 ## Notes &amp; References  
