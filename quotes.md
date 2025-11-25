@@ -1285,7 +1285,7 @@ _Business Week_, 14-Nov-2003.
 - "People are so intent on bashing each others brains out with authoritative quotes from impressively ancient tomes that they often forget to _read_ those lovely old books to find out what's actually in them."  
 - "If you're always at your best, then your range is too narrow."  
 - "Learn to love good, then live as you please." (Possibly inspired by Augustine's homily on John, above?)  
-- "Doubt is what keeps you from believing stupid stuff; fear is what keeps you from _doing_ stupid stuff."  
+- "Doubt &amp; fear aren't _always_ bad.  Doubt is what keeps you from believing stupid stuff; fear is what keeps you from _doing_ stupid stuff."  
 - "Authority is a poor excuse for leadership.  Real authority comes from truth, not power."  
 - "Certainty is just an excuse not to listen to new evidence."  
 - "Just because you see an example of something being done badly doesn't mean it cannot also be done well."  
@@ -1323,6 +1323,8 @@ _Business Week_, 14-Nov-2003.
 - "Interpretation is an active choice that you _must_ make, lest the world make an unsavory choice for you."  
 - "Who, me?  Oh, I'm just braiding the tassels on the lunatic fringe."  
 - "Clutch those pearls any harder, you're gonna strangle yourself."  
+- The male version of pearl-clutching: "The combination of gasps and raised eyebrows would
+  make them swallow their monocles."  
 - "Guessing is easy&hellip; but _stupid._  Estimating is hard."  
 - "Assassin?  No&hellip; more like freelance [psychopomp](https://en.wikipedia.org/wiki/Psychopomp)."  
 - "When we're young, we want to change the world.  When we're old, we ruefully appreciate  how resistant the world is to change."  
@@ -1335,7 +1337,7 @@ _Business Week_, 14-Nov-2003.
 - "The layoffs will continue until management morale improves." &ndash; what it sounds
   like to non-managers  
 - "It's a thin line between vision and delusion."  
-- "If you find yourself in a race to the bottom, let the other guy win."  
+- "If you find yourself in a race to the bottom, the correct strategy is to let the other guy win."  
 - "Once you identify the side with the Nazis, pick the other side."  
 - "Assigned Midwesterner at birth, New Englander by choice."  
 - "If your life is a tug-of-war, you can have more effect if you pull the rope sideways." (After a remark apparently due to Robin Hanson.)  
@@ -1359,13 +1361,13 @@ _Business Week_, 14-Nov-2003.
   end will definitely end up mean."  
 - "The best kind of dignity is when you care about what you do, not what other people
   think about it."  
-- "The most important lesson I learned in getting a PhD is to be less impressed with PhDs.
-  The second most important lesson was that working on something so steadily and
-  relentlessly that people think you have the patience of a _houseplant_ sometimes
-  pays off.  Well&hellip; sometimes."  
+- "The most important lesson I learned in getting a PhD is to be less impressed with PhDs
+  (_especially_ including myself).  The second most important lesson was that working on
+  something so steadily and relentlessly that people think you have the patience of a
+  _houseplant_ sometimes pays off.  Well&hellip; sometimes."  
 - "It used to be you could say 'Nazis are bad', and the only consequence would be people's
   annoyance with you for stating the obvious."  
-- "I may be only in my 60s, but I've got at least a century of trauma locked up in here.
+- "I may be only in my 70s, but I've got at least a _century_ of trauma locked up in here.
   After decades of psychotherapy, most of it's now safely crammed behind a thick vault door with
   the skull and crossbones logo of the Pandora Vault Company.  The warning on the door (of
   _course_ there's a warning on the door!) says, 'Do Not Open Until __Never__'.  I _don't_
@@ -1386,3 +1388,26 @@ _Business Week_, 14-Nov-2003.
 - "If my dreams won't come true, then I might as well sleep through them."  
 - "The fault, dear Brutus, is not in our stars, but in ourselves, that we deem AI LLMs sensible." -- me, paraphrasing [a Cassius line from Shakespeare's _Julius Caesar_, Act I Scene ii](https://shakespeare.mit.edu/julius_caesar/julius_caesar.1.2.html#:~:text=The%20fault%2C%20dear%20Brutus%2C%20is%20not%20in%20our%20stars%2C%0ABut%20in%20ourselves%2C%20that%20we%20are%20underlings)  
 - "People say, 'Invest in yourself.'  But isn't that insider trading?"  
+- "If you have to point out the obvious to people, they are almost never ready to hear it."  
+- "His grip on power is tighter than his grip on reality."  
+- "Why are so many 'innovations' just financial schemes for rent extraction camouflaged as tech?"  
+- "What if Cthulhu moved to the American South, and lived incognito as a trans woman named Cathy Lou?"  
+- "When mimes get arrested, do cops tell them they have the right to remain silent?"  
+- "Of course, the most pernicious nonsense is the sort that ALMOST makes sense, as
+  camouflage.  People blame themselves for not knowing enough when they see apparent
+  contradictions or buzzword salad."  
+- "Like adopted children and celestial exaltation: it doesn't matter _how_ you got here, it
+  only matters _that_ you got here."  
+- "If life were a role-playing game, your character class would be 'Object Lesson'."  
+- "Valkyrie eleison: for when you need saving, but you're gonna fight about it anyway."  
+- "American xenophobes get upset when their Asian neighbors celebrate Lunar New Year.  I
+  figure if my Asian neighbors celebrate something, 2 things are likely: (1) they might have tasty
+  almond cookies, and (2) they might be in a mood to share.  Bonus."  
+- "I'm not lost, I'm right _here!_  Now, I admit I'm just a little confused right now about where
+  everything _else_ is.  But _I'm_ not lost."  
+- "I put my lipstick on one lip at a time, just like The Joker."  
+- "Better late than never mind."  
+- "The Socratic method is a reasonable _pedagogical_ tool, but a lousy _conversational_
+  tool."  
+- "It's not true that only perfect people get exalted.  It _is_ true that imperfect people
+  get perfected on the way to exaltation."  
