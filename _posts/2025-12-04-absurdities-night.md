@@ -285,7 +285,7 @@ Which you should!
 
 <a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["The Republican War on… Weather?!"]({{ site.baseurl }}/gop-war-on-weather/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Aug-25. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Electric Power research Institute, ["BESS Failure Incident Database"](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database), downloaded 2025-Dec-04. [↩](#fn3a)  
+<a id="fn3">3</a>: Electric Power research Institute, ["BESS Failure Incident Database"](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database), _EPRI_ web site, downloaded 2025-Dec-04. [↩](#fn3a)  
 
 <a id="fn4">4</a>: Remember when you were a kid, reading old books, and you kept coming
 across phrases like "ye olde shoppe"?  
@@ -297,7 +297,7 @@ character they temporarily replaced it with a "y". Later we standardized on repl
 
 So, yeah, it's written "ye olde shoppe", but pronounced "the old shop". [↩](#fn4a)  
 
-<a id="fn5">5</a>: Visit G&auml;vle Staff, ["G&auml;vle's brilliant Christmas symbol"](https://www.visitgavle.se/en/gavle-goat), downloaded 2025-Dec-04. [↩](#fn5a)  
+<a id="fn5">5</a>: Visit G&auml;vle Staff, ["G&auml;vle's brilliant Christmas symbol"](https://www.visitgavle.se/en/gavle-goat), _Visit G&auml;vle_ web site, downloaded 2025-Dec-04. [↩](#fn5a)  
 
 <a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Gru&szlig; von Krampus!"]({{ site.baseurl }}/gruss-von-krampus/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2024-Dec-06. [↩](#fn6a)  
 
