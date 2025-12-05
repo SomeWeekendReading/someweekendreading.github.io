@@ -195,7 +195,7 @@ _experience._)
 ### Krampusnacht!  
 
 And now, on to serious matters: our second annual <sup id="fn6a">[[6]](#fn6)</sup> 
-"Gru&szlig; von Krampus!" post.  (Remember that &szlig; character above?  "Gruss" means "Greetings".)  
+"Gru&szlig; vom Krampus!" post.  (Remember that &szlig; character above?  "Gruss" means "Greetings".)  
 
 December 05 is Krampusnacht, the night when St Nicolas and his "assistant"
 Krampus <sup id="fn7a">[[7]](#fn7)</sup> come to evaluate children.  
@@ -299,6 +299,6 @@ So, yeah, it's written "ye olde shoppe", but pronounced "the old shop". [↩](#f
 
 <a id="fn5">5</a>: Visit G&auml;vle Staff, ["G&auml;vle's brilliant Christmas symbol"](https://www.visitgavle.se/en/gavle-goat), _Visit G&auml;vle_ web site, downloaded 2025-Dec-04. [↩](#fn5a)  
 
-<a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Gru&szlig; von Krampus!"]({{ site.baseurl }}/gruss-von-krampus/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2024-Dec-06. [↩](#fn6a)  
+<a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Gru&szlig; vom Krampus!"]({{ site.baseurl }}/gruss-von-krampus/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2024-Dec-06. [↩](#fn6a)  
 
 <a id="fn7">7</a>: Wikipedia Editors, ["Krampus"](https://en.wikipedia.org/wiki/Krampus), _Wikipedia_, downloaded 2025-Dec-04. [↩](#fn7a)  

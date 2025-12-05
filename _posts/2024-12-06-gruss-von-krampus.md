@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gru&szlig; von Krampus!
+title: Gru&szlig; vom Krampus!
 tags: Obscurantism Politics Religion Sadness &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: true
