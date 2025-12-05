@@ -58,7 +58,7 @@ And so it is here:
     _different_ chemistry, _indoors_ instead of outdoors, _without_ individual containment
     housings, _without_ the computer control of thermal characteristics, and before any of
     this was regulated.  In other words, nothing much to do with the present.  
-  <a href="{{ site.baseurl }}/images/2025-12-04-absurdities-night-epri-1.jpg"><img src="{{ site.baseurl }}/images/2025-12-04-absurdities-night-epri-1-thumb.jpg" width="400" height="211" alt="EPRI BESS database: Huge decrease in fires, increase in deployed batteries, and complete wipeout of incidents per GWhr storage" title="EPRI BESS database: Huge decrease in fires, increase in deployed batteries, and complete wipeout of incidents per GWhr storage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+  <a href="{{ site.baseurl }}/images/2025-12-04-absurdities-night-epri-1.png"><img src="{{ site.baseurl }}/images/2025-12-04-absurdities-night-epri-1-thumb.jpg" width="400" height="211" alt="EPRI BESS database: Huge decrease in fires, increase in deployed batteries, and complete wipeout of incidents per GWhr storage" title="EPRI BESS database: Huge decrease in fires, increase in deployed batteries, and complete wipeout of incidents per GWhr storage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
   - Indeed, according to the EPRI's BESS ("Electric Power Research Institute" and "Battery
     Energy Storage System") database, fire failure mode has gone down
 	98%, as shown here. <sup id="fn3a">[[3]](#fn3)</sup>  
