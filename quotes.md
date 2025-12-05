@@ -1411,3 +1411,6 @@ _Business Week_, 14-Nov-2003.
   tool."  
 - "It's not true that only perfect people get exalted.  It _is_ true that imperfect people
   get perfected on the way to exaltation."  
+- "If your business cannot prosper without breaking the law, then it is not a business.
+  It is organized crime.  Like those dependent on slavery, child labor, environmental
+  degradation, or wage theft, it should go out of business as soon as possible."  
