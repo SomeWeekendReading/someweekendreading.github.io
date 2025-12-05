@@ -297,7 +297,7 @@ character they temporarily replaced it with a "y". Later we standardized on repl
 
 So, yeah, it's written "ye olde shoppe", but pronounced "the old shop". [↩](#fn4a)  
 
-<a id="fn5">5</a>: Visit G&auml;vle Staff, ["G&auml;vle's brilliant Christmas symbol "](https://www.visitgavle.se/en/gavle-goat***), downloaded 2025-Dec-04. [↩](#fn5a)  
+<a id="fn5">5</a>: Visit G&auml;vle Staff, ["G&auml;vle's brilliant Christmas symbol"](https://www.visitgavle.se/en/gavle-goat), downloaded 2025-Dec-04. [↩](#fn5a)  
 
 <a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Gru&szlig; von Krampus!"]({{ site.baseurl }}/gruss-von-krampus/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2024-Dec-06. [↩](#fn6a)  
 
