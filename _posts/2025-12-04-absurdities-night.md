@@ -285,7 +285,7 @@ Which you should!
 
 <a id="fn2">2</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["The Republican War on… Weather?!"]({{ site.baseurl }}/gop-war-on-weather/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Aug-25. [↩](#fn2a)  
 
-<a id="fn3">3</a>: Electric Power research Institute, ["BESS Failure Incident Database"](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database#/media/File:Global_Grid-Scale_Storage_Deployment_and_Failure_2024.png), downloaded 2025-Dec-04. [↩](#fn3a)  
+<a id="fn3">3</a>: Electric Power research Institute, ["BESS Failure Incident Database"](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database), downloaded 2025-Dec-04. [↩](#fn3a)  
 
 <a id="fn4">4</a>: Remember when you were a kid, reading old books, and you kept coming
 across phrases like "ye olde shoppe"?  
