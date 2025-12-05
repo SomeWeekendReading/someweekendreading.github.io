@@ -61,7 +61,7 @@ And so it is here:
   <a href="{{ site.baseurl }}/images/2025-12-04-absurdities-night-epri-1.jpg"><img src="{{ site.baseurl }}/images/2025-12-04-absurdities-night-epri-1-thumb.jpg" width="400" height="211" alt="EPRI BESS database: Huge decrease in fires, increase in deployed batteries, and complete wipeout of incidents per GWhr storage" title="EPRI BESS database: Huge decrease in fires, increase in deployed batteries, and complete wipeout of incidents per GWhr storage" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
   - Indeed, according to the EPRI's BESS ("Electric Power Research Institute" and "Battery
     Energy Storage System") database, fire failure mode has gone down
-	98%, as shown here. <sup id="fn1a">[[1]](#fn1)</sup>  
+	98%, as shown here. <sup id="fn3a">[[3]](#fn3)</sup>  
   - Somehow nobody ever asks about the fire risks of _natural gas_ pipelines, and even the
     distribution system into individual houses!  
 - The plant is proposed on the site of a former auto junkyard, as shown in the aerial
