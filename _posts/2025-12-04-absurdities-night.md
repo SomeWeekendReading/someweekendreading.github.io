@@ -93,8 +93,8 @@ Ok, enough serious stuff!
 
 But on a related note, one of the things right-wingers eye with suspicion is any
 internationalization whatsoever of the US.  Let's see what's happening in software that
-might get their goat, if only they knew about it.  (Metaphorical goats.  Actual goats,
-_q.v._)
+might get their goat, if only they knew about it.  (Metaphorical goats.
+[Actual goats, _q.v._](#gävlebocken-the-gävle-goat))
 
 It turns out that in German there's a funny character: &szlig;, known as the "eszett" or
 "sharp s".  It means the "s" sound as in the English word "hiss", completely sibilant and
