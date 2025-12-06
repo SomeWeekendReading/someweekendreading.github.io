@@ -242,7 +242,7 @@ As we wrote last year upon this occasion:
 > more boisterous moral instruction from Krampus.  
 
 Once again, here at Ch&acirc;teau Weekend, we politely wonder if the esteemed Mr. Krampus
-could pay a visit to come evaluate Mr. Trump for deportation to Spain&hellip; or perhaps even
+could come pay a visit to evaluate Mr. Trump for deportation to Spain&hellip; or perhaps even
 warmer climes?  I mean, he's trying _so hard_ to earn that privilege!  
 
 
