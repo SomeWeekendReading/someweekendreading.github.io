@@ -101,9 +101,9 @@ It turns out that in German there's a funny character: &szlig;, known as the "es
 unlike what English writers would render as "sh" or "zh".  It looks like a Greek &beta;,
 but is quite distinct.  
 
-When rendering in character sets that are less accommodating, one writes "ss" as a reminder
-that it's an "s" as in "hiss".  For example, the German word for "foot" is "fu&szlig;",
-which would be written "fuss".  
+When rendering in character sets that are less than completely accommodating, one writes
+"ss" as a reminder that it's an "s" as in "hiss".  For example, the German word for "foot"
+is "fu&szlig;", which would be written "fuss".  
 
 Now the place where that interacts with computers is on MacOS, which takes seriously the
 duty to work for almost all languages.  
@@ -117,8 +117,8 @@ happen if you typed "&szlig;h" at the command line:
 
 The first bit of text shows that, if you type just "ssh", you get the help text for how to
 run ssh.  The second bit of text shows that, if you type "&szlig;h", MacOS translates "&szlig;" to
-"ss" and you get the same thing!  (NT folk who are on-members of the computer-oriented
-nerd tribe will just have to take my word for it that this is amazing and hilarious.)  
+"ss" and you get the same thing!  (NT folk who are non-members of the neurodivergent computer-oriented
+tribe of icky nerds will just have to take my word for it that this is amazing and hilarious.)  
 
 <a href="{{ site.baseurl }}/images/sharp-ssh.jpg"><img src="{{ site.baseurl }}/images/sharp-ssh-thumb.jpg" width="400" height="185" alt="Yes indeed: in MacOS Monterey 26.1, as of 2025-Dec-03, '&szlig;h' is recognized as 'ssh'" title="Yes indeed: in MacOS Monterey 26.1, as of 2025-Dec-03, '&szlig;h' is recognized as 'ssh'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So I couldn't just take his word for it, I _had_ to try it.  Here is the evidence on my
