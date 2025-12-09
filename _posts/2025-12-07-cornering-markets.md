@@ -102,9 +102,11 @@ collapses, and political corruption.  So&hellip; here we are:
   21-to-1 in 1965.  
 
   One reason wages can't go up is because _all_ the increased profits from increased
-  productivity have gone to the top.  Reich proposes an additional corporate tax based on
-  the CEO to (median?) worker ratio; that, of course, will have to wait for the return of
-  a degree of sanity to US politics.  
+  productivity have gone to the top.  
+  
+  (Reich proposes an additional corporate tax based on the CEO to (median?) worker ratio.
+  While sensible, that, of course, will have to wait for the return of a degree of sanity
+  to US politics.)  
 
 <img src="{{ site.baseurl }}/images/2025-12-07-cornering-markets-jrs-1.jpg" width="400" height="238" alt="Scheidel & Friesen @ Jnl Rom Stud: US now more unequal than ancient Rome" title="Scheidel & Friesen @ Jnl Rom Stud: US now more unequal than ancient Rome" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 - Not enough for you?  How about the Roman Empire?  
@@ -146,7 +148,9 @@ a few behemoths left today.  (Click to embiggen any of these pictures.)
 - Defense contractors (upper left) have collapsed from 75 companies to just 5.  
 - Airlines (upper right) have collapsed from 34 carriers to 5.  
 - Pharmaceuticals have done something similar.  Here we show the corporate ancestries of
-  Pfizer (combining 52 companies into 1 giant), and Sanofi (combining 18 companies into 1).  
+  Pfizer (combining 52 companies into 1 giant), and Sanofi (combining 18 companies into 1 giant).  
+  (Note that Sanofi is largely European; this is a phenomenon common in most of the
+  developed world.  Hence, so also is revenant fascism.)  
 
 These are _huge_ concentrations of corporate power.  With the ability of corporations to
 donate to political campaigns, particularly soft money and dark money, they are
@@ -232,7 +236,7 @@ maybe?
 We remind everyone of screenwriter [John Rogers's 3rd Rule of Crime](https://buttondown.com/kungfumonkey/archive/cons-heists-101-orientation/#:~:text=Rule%203%3A%20Nothing%20ever%20stops%20until%20a%20Rich%20White%20Guy%20goes%20to%20jail):  
 > Rule 3: Nothing ever stops until a Rich White Guy goes to jail.  
 
-That's the _moderate_ solution.  The other solution probably involves tumbrels.  
+That's the _moderate_ solution.  The other solutions probably involve tumbrels.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
