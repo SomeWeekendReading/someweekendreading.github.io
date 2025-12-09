@@ -229,6 +229,9 @@ This is a _classic_ monopolist's move!
 Look, billionaires are just no good.  We should tax them down to, say, \$100 million each,
 maybe?  
 
+We remind everyone of screenwriter [John Rogers's 3rd Rule of Crime](https://buttondown.com/kungfumonkey/archive/cons-heists-101-orientation/#:~:text=Rule%203%3A%20Nothing%20ever%20stops%20until%20a%20Rich%20White%20Guy%20goes%20to%20jail):  
+> Rule 3: Nothing ever stops until a Rich White Guy goes to jail.  
+
 That's the _moderate_ solution.  The other solution probably involves tumbrels.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
