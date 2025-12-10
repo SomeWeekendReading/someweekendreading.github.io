@@ -149,8 +149,8 @@ a few behemoths left today.  (Click to embiggen any of these pictures.)
 - Airlines (upper right) have collapsed from 34 carriers to 5.  
 - Pharmaceuticals have done something similar.  Here we show the corporate ancestries of
   Pfizer (combining 52 companies into 1 giant), and Sanofi (combining 18 companies into 1 giant).  
-  (Note that Sanofi is largely European; this is a phenomenon common in most of the
-  developed world.  Hence, so also is revenant fascism.)  
+  (Note that Sanofi is largely European; corporate mergers to form oligopolies is a
+  phenomenon common in most of the developed world.  Hence, so also is revenant fascism.)  
 
 These are _huge_ concentrations of corporate power.  With the ability of corporations to
 donate to political campaigns, particularly soft money and dark money, they are
