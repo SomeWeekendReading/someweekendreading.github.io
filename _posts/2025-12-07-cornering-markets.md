@@ -240,6 +240,26 @@ That's the _moderate_ solution.  The other solutions probably involve tumbrels.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2025-Dec-15: Historian Heather Cox Richardson Explains it All
+
+<iframe width="400" height="224" src="https://www.youtube.com/embed/AHgOYW8_Jow?si=qzdY_mNW-KRBPwu1" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+I try to listen to American historian
+[Heather Cox Richardson](https://en.wikipedia.org/wiki/Heather_Cox_Richardson) on an
+regular basis.  Her [_Letters from an American_](https://heathercoxrichardson.substack.com/)
+is worth checking frequently.  I also like her _YouTube_ videos, if only to hear her calm
+voice, explaining the horribly fascist reality of American politics at the moment.  
+
+This video is an excellent example, showing how relatively lower income inequality in the
+mid-20th century was a departure from the _norm:_ the oligarchs think it is _normal_ that
+they should rule.  She relates the variety of ways the "reactionary right" has tried to
+reassert economic and political power, to undo the 20th century reforms and re-institute
+their will as law.  It's all there: the racism, the xenophobia/deportation fever, the
+moral panic over LGBTQ folk, the regressive tax cuts piling wealth into the top 1%, and so
+on.  
+
+Very woth 15 minutes of your time!  
+
 ---
 
 ## Notes &amp; References  
