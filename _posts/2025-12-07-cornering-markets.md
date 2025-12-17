@@ -141,6 +141,11 @@ pre-requisite for getting mergers approved.)
       <a href="{{ site.baseurl }}/images/how-sanofi-got-too-big.jpg"><img src="{{ site.baseurl }}/images/how-sanofi-got-too-big-thumb.jpg" width="200" height="142" alt="How Sanofi got too big" title="How Sanofi got too big" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 	</td>
   </tr>
+  <tr>
+    <td style="vertical-align: middle">
+	  <a href="{{ site.baseurl }}/images/how-banks-get-too-big.jpg"><img src="{{ site.baseurl }}/images/how-banks-get-too-big-thumb.jpg" width="200" height="129" alt="How banks got too big" title="How banks got too big" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+	</td>
+  </tr>
 </table>
 Here are some examples of how _badly_ concentrated industries in the US have become in the
 last 40 or so years since Reagan.  They show the tree of corporate mergers leading to just
@@ -151,6 +156,10 @@ a few behemoths left today.  (Click to embiggen any of these pictures.)
   Pfizer (combining 52 companies into 1 giant), and Sanofi (combining 18 companies into 1 giant).  
   (Note that Sanofi is largely European; corporate mergers to form oligopolies is a
   phenomenon common in most of the developed world.  Hence, so also is revenant fascism.)  
+- Finally, at the bottom, we show how American banking became so concentrated: 37 banks
+  became just 4 "too big to fail" banks that have their tendrils into _everything._  This
+  is also why I've had 5 separate banks since coming to MIT as a grad student, despite
+  never changing my account: the banks just kept eating each other!  
 
 These are _huge_ concentrations of corporate power.  With the ability of corporations to
 donate to political campaigns, particularly soft money and dark money, they are
