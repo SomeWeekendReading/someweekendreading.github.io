@@ -115,9 +115,9 @@ ironically enough, it chooses by default a sans-serif typeface underneath all th
 That's about as contemptuous of your readers as you can get, short of actually spitting in
 their eyes.  Seems about on-brand for Trump.  
 
-I'm sure if the US State Department wants to use this as their new logo, we can work out a
-royalty agreement with Your Humble Weekend Editor and the owners of the LingoJam web
-site.  
+I'm sure if the US State Department wants to use this as their new logo, a royalty
+agreement can be worked out for them to pay Your Humble Weekend Editor and the owners of
+the LingoJam web site.  
 
 
 ## The Weekend Conclusion  
