@@ -242,7 +242,8 @@ is either 1 or 3, just try $d = 3$ and see if it's a perfect square:
 - Let $x$ be the integer square root of $N + 9$ and $r$ be its remainder.  
 - If $r = 0$, then $d = 3$, so the factors are $x-3$ and $x+3$.  
 - Else if $r = 8$, then $d = 1$, so the factors are $x-1$ and $x+1$.  
-- Else the problem is not one that has been rigged for you in advance.  
+- Else the problem is not one that has been rigged for you in advance (or at least not in
+  _this_ fasion).  
 
 These tricks are _common._  As the authors say:  
 
@@ -337,7 +338,7 @@ Good dog!
 He apparently failed at factoring 35, because he had learned to bark 3 times.  That's ok,
 the first quantum factoring attempt on 35 failed, too.  
 
-The RSA-2048 candidates proposed in the D-Wave paper were deemed beyond the scope of the dog.  
+The RSA-2048 candidates proposed in the D-Wave paper were deemed beyond the scope of this dog.  
 
 No dogs were harmed in the course of this research:  
 
