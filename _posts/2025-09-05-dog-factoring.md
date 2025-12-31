@@ -234,7 +234,7 @@ either 2 or 6.  So it's perfectly reasonable to take the integer square root of 
 search nearby!  In slightly more detail:  
 - There exists a 1024-bit integer $x$ halfway between $p$ and $q$.  
 - There exists an integer $d$ such that $p = x - d$ and $q = x + d$.  
-- The only choices allowed for $d$ are 1 and 3, depending on whether $p-q$ is 2 or 6,
+- The only choices allowed for $d$ are 1 and 3, depending on whether $|p-q|$ is 2 or 6,
   respectively.  
   
 So $N = pq = (x-d)(x+d) = x^2 - d^2$, so $N + d^2 = x^2$ must be a perfect square.  If $d$
