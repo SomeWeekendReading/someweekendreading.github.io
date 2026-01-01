@@ -30,7 +30,7 @@ _and you get to make fun back._
 <img src="{{ site.baseurl }}/images/2025-10-06-doctorow-on-ai-pluralistic-1.jpg" width="400" height="288" alt="C Doctorow @ Pluralistic: The AI bubble collapse is near" title="C Doctorow @ Pluralistic: The AI bubble collapse is near" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Doctorow's opinions on the current LLM version of AI aligns more or less with ours, here
 at Ch&acirc;teau Weekend: BS firehoses and bowls of warm sewage &amp; broken glass, best
-approached not at all or at least with appropriate safety equipment.  
+approached not at all, or at least with appropriate safety equipment.  
 
 While I'm not one of his regular readers, his latest summary of the causes of the AI
 bubble and its imminent collapse <sup id="fn1a">[[1]](#fn1)</sup> caught my eye.  

@@ -100,8 +100,9 @@ of federal records&hellip;  Sometimes the coverup is worse than the original cri
 ## The Weekend Conclusion  
 
 I know dog training has progressed beyond the "swat 'em on the nose with a rolled-up
-newspaper" doctrine of my youth.  Very few newspapers left, for one thing.  But I kinda
-_do_ wanna swat these ignorant fascists on the nose with a rolled-up newspaper.  
+newspaper" doctrine of my youth.  There are very few newspapers are left, for one thing.  But I kinda
+_do_ wanna swat these ignorant fascists on the nose with a rolled-up newspaper. (Ok, maybe
+gently, 'cause that's who I am.)  
 
 I'd of course settle for a change of government, mass prosecutions, convictions, and
 imprisonments.  That would be much better.  

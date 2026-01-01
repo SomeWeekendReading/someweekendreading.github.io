@@ -79,9 +79,10 @@ late-90s startups, just before the dot-com crash.
 <img src="{{ site.baseurl }}/images/2025-10-17-hank-green-ai-circular-investments-history-1.jpg" width="400" height="473" alt="Klein @ History.com: How the Gilded Age's Top 1 Percent Thrived on Corruption" title="Klein @ History.com: How the Gilded Age's Top 1 Percent Thrived on Corruption" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 In fact, this begins to resemble the 19th century corruption of the Gilded Age, which must
-now regrettably be called the "First" Gilded Age.  Between the circular movement of money,
-bizarre accounting for when it gets called revenue, and Trump's extortion of a cut of the
-trade, this is _exactly_ what was done then  <sup id="fn3a">[[3]](#fn3)</sup>:  
+now regrettably be called the "First" Gilded Age, the "Second" being now.  Between the
+circular movement of money, bizarre accounting for when it gets called revenue, and
+Trump's extortion of a cut of the trade, this is _exactly_ what was done 
+then <sup id="fn3a">[[3]](#fn3)</sup>:   
 
 > “This is a government of the people, by the people and for the people no longer,” former
 > president Rutherford B. Hayes wrote in his diary in 1886. “It is a government by the
@@ -111,7 +112,7 @@ Discount appropriately.
 
 His argument is, in essence, that AI demand will _definitely_ undergo hyperscaling levels
 of growth, because everybody wants it.  Now, that's contrary to my experience, where
-pretty much _nobody_ wants it and examples abound of AI used ignorantly go create
+pretty much _nobody_ wants it, and examples abound of AI used ignorantly create
 everything from absurdities to life-endangering hazards.  But, _if_ his "definitely"
 scenario is true, in order to profit from it you need to grow as fast as possible.  
 

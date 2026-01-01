@@ -208,10 +208,11 @@ __Conclusions:__
 
 ## The Weekend Conclusion  
 
-__Summary:__ Yes, what they said is stupid.  Acetaminophen, during pregnancy or not, has
-nothing to do with autism.  It has everything to do with Republican disdain for science,
-even for the very notion of evidence.  (And, possibly, with making a corrupt profit for
-Dr. Oz; still waiting to see if he divests.)  
+__Summary:__ Yes, what they said is stupid.  
+
+Acetaminophen, during pregnancy or not, has nothing to do with autism.  It has everything
+to do with Republican disdain for science, even for the very notion of evidence.  (And,
+possibly, with making a corrupt profit for Dr. Oz; still waiting to see if he divests.)  
 
 And their desire to distract from their massive policy failures and destruction of
 democracy.  

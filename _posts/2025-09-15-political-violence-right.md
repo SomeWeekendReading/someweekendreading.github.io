@@ -157,8 +157,8 @@ that's 1 study.
 ### Study 2: Alex Nowrasteh at the Cato Institute  
 
 Now, maybe you're a Republican thinking I'm some pointy-headed, academic-loving, liberal
-intellectual.  You are correct, though that's less of an insult than you might think.  So
-let me find a more conservative source for you.  
+intellectual.  You are correct.  Though, really, that's less of an insult than you might
+think.  So let me find a more conservative source for you.  
 
 How about the [Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute)?  It's a
 self-styled "libertarian think tank".  True, they like to distinguish that from

@@ -9,7 +9,7 @@ commentsClosed: true
 Today I got the fall 2025-2026 COVID-19 booster.  Why so early?  
 
 
-## You Have to Get Out Ahead of the Crazy  
+## You Have to Get Out Ahead of the Crazies  
 
 Normally, I'd say get both the flu and COVID-19 shots sometime early in October, so
 immunity would peak in the middle of winter.  Right now, mid-September, is a bit early.  Why

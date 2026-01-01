@@ -267,7 +267,7 @@ their will as law.  It's all there: the racism, the xenophobia/deportation fever
 moral panic over LGBTQ folk, the regressive tax cuts piling wealth into the top 1%, and so
 on.  
 
-Very woth 15 minutes of your time!  
+Very worth 15 minutes of your time!  
 
 ---
 

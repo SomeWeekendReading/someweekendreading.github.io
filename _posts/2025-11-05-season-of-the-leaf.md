@@ -17,7 +17,7 @@ I know you were expecting me to say
 after the [Donovan](https://en.wikipedia.org/wiki/Donovan) song from 1966/1967.  While the
 mononymous Donovan and his song presaging the psychedelic pop era have their charms,
 Hallowe'en is regrettably passed.  And frankly, New England has a shortage of witches this
-century.  (Yes there are the Wiccans.  They're&hellip; well, _peculiar,_ but in no way
+century.  (Yes there are the Wiccans.  They're&hellip; well, _peculiar_&hellip; but in no way
 frightening.)  
 
 <img src="{{ site.baseurl }}/images/2025-11-05-season-of-the-leaf-1.jpg" width="400" height="533" alt="Beautiful image of a tree with red/orange leaves, spotlighted by an opening with bright sunlight" title="Beautiful image of a tree with red/orange leaves, spotlighted by an opening with bright sunlight" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
