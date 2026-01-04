@@ -218,7 +218,7 @@ Now compare with Morningstar:
 - __Bonds:__ Morningstar's bond predictions look to be pretty much in line with
   Vanguard's.  
 - __Safe withdrawal rates vs equity percent:__ You might think that if Morningstar
-  analysts think stocks are having such high returns, they'd recommend more stocks in
+  analysts predict stocks would have such high returns, they'd recommend more stocks in
   their retirement portfolios, right?  
   
   Not so: they figure out the withdrawal rates a portfolio will support, with 90%
@@ -260,14 +260,14 @@ with.  I settled on 40% stocks, 60% bonds.
   in the Trad IRA.  Also, we're continuing our campaign of doing annual partial Roth
   conversions, to get as much money put in the tax-free part of the portfolio before RMDs
   begin.  That is, we're _diversifying the tax structure_ of the portfolio at the same time
-  as the rst of this.  
+  as the rest of this.  
 - __Overall allocation:__ 40% stocks/60% bonds.  
 - __US/International stock allocation:__ 40% US/60% international.  This applies both to
   stocks in general and to REITs.  It amounts to a moderate bias_away from the US._  
 - __US/International bond allocation:__ 50% US, equally between intermediate Treasuries
   and TIPS, and 50% international.  The international bonds are mostly government bonds of
   developed nations, with a currency hedge back to the dollar, as Vanguard recommends.  
-- __Tilts:__ We tilt fairly heavily away from US Large Growth stocks, in favor of US small
+- __Tilts:__ We tilt fairly heavily away from US large-cap growth stocks, in favor of US small-cap
   value stocks, international small stocks, and REITs both US and international (another
   form of value stock, really).  
 
