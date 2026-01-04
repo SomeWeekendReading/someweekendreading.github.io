@@ -14,12 +14,12 @@ it's time to make some defensive moves&hellip; _again._
 
 <img src="{{ site.baseurl }}/images/2026-01-02-weekend-portfolio-trump-3-fortune-1.jpg" width="400" height="212" alt="Tully @ Fortune: Vanguard recommends lowers stock percent" title="Tully @ Fortune: Vanguard recommends lowers stock percent" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 This summer, _Forbes_ landed an interview with Vanguard's chief investment officer, Greg
-Davis. <sup id="fn1a">[[1]](#fn1)</sup>  This is a measure of how seriously Vanguard takes
-this information: one does not get an interview like that easily, so Vanguard must really
-_want_ to get the news out.  (Though, strangely, _Forbes_ spent a paragraph describing how
-Davis was _dressed,_ as if that meant something.  I will _never_ understand why reporters
-are just obsessed about The Narrative, trying to make everything about the personalities
-of people with power.)  
+Davis. <sup id="fn1a">[[1]](#fn1)</sup> This is a measure of how seriously Vanguard takes
+this information: one does not get an interview with such an important person
+easily, so Vanguard must really _want_ to get the news out.  (Though, strangely, _Forbes_
+spent a paragraph describing how Davis was _dressed,_ as if that meant something.  I will
+_never_ understand why reporters are just obsessed about The Narrative, trying to make
+everything about the personalities of people with power.)  
 
 They're lowering the percentage of US stocks they recommend in portfolios for a pretty
 straightforward reason: stocks are expensive, as measured by P/E ratio or the even better
@@ -72,7 +72,7 @@ Armed with that fact, look at the regression plot that predicts the next 10 year
 inflation-adjusted stock returns being _negative,_ and then tell me about your risk
 appetite for stocks!  
 
-Though, let's be fair: if CAPE went from previously not working to predict stocks to
+Though, let's be fair: if CAPE went from previously not working at predicting stocks to
 working now, nothing prevents it from going back to not working in the next decade.  As 
 [Yogi Berra is alleged to have said](https://www.someweekendreading.blog/quotes/#:~:text=Prediction%20is%20hard%2C%20especially%20when%20it%E2%80%99s%20about%20the%20future.%E2%80%9D),
 "Prediction is hard, especially when it's about the future."  
@@ -124,7 +124,7 @@ Interestingly, there's also some helpful information on suballocations, i.e.,
 tilting the stocks toward value (away from high-P/E growth stocks), and small cap (away
 from the Magnificent 7 big tech stocks).  I found that gratifying, because for many years
 I've been using Vanguard's US small-cap value index fund and international small-cap fund
-for that exact purpose.  Now even Vanguard is cautioning people not to lean to heavily on
+for that exact purpose.  Now even Vanguard is cautioning people not to lean too heavily on
 US large-cap growth stocks.  
 
 Also gratifying, for a quantitative old nerd like your humble Weekend Editor, is the
