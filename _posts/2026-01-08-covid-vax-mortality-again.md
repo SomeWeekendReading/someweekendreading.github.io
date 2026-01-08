@@ -16,7 +16,7 @@ at _best_, misplaced.
 Let's start with the very, _very_ bad results that vaccine disinformation is having, all
 the way down to the doctor-patient relationship.  This stuff is just plain, pure, _evil._  
 
-<img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-stat-1.jpg" width="400" height="233" alt="Kuppalli @ STAT: Anti-science disinformation interfering with doctor-patient relationship" title="Kuppalli @ STAT: Anti-science disinformation interfering with doctor-patient relationship" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-stat-1.jpg" width="400" height="233" alt="Kuppalli @ STAT: Anti-science disinformation interfering with doctor-patient relationship" title="Kuppalli @ STAT: Anti-science disinformation interfering with doctor-patient relationship" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Since you probably don't want to take my word for it, consider Dr. Krutika Kuppalli,
 writing recently in _STAT News_.  <sup id="fn1a">[[1]](#fn1)</sup>  She is an infectious
 diseases physician, whose work focuses on emerging infectious diseases, outbreak response,
@@ -56,7 +56,7 @@ terrible things, under our anti-science authoritarian rulers.  We all want to fo
 might as well be the Zeroth Commandment: Don't Do Terrible Things.  But we are caught up
 in the tidal waves of evil driving us upon the rocks of Terrible Things.  
 
-<img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-propub-1.jpg" width="400" height="595" alt="Eldeib @ Pro Publica: COVID-19 risks in pregnancy, lowered by vaccination" title="Eldeib @ Pro Publica: COVID-19 risks in pregnancy, lowered by vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-propub-1.jpg" width="400" height="595" alt="Eldeib @ Pro Publica: COVID-19 risks in pregnancy, lowered by vaccination" title="Eldeib @ Pro Publica: COVID-19 risks in pregnancy, lowered by vaccination" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It gets even more tragic when you consider RFKJr's manipulation of the CDC into
 _withdrawing_ advice for pregnant people to get the COVID-19
 vaccine.  <sup id="fn2a">[[2]](#fn2)</sup>  
@@ -243,7 +243,7 @@ of arguing with semi-educated people who hadn't the depth of having read many bo
 If we let the classical allusion go either way, in science we should always fear the person
 of just one study: an effect really has to _replicate_ before we take it completely seriously.  
 
-<img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-1.jpg" width="400" height="496" alt="Semenzato, et al. @ JAMA: COVID-19 mRNA vaccination and mortality in France" title="Semenzato, et al. @ JAMA: COVID-19 mRNA vaccination and mortality in France" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-1.jpg" width="400" height="496" alt="Semenzato, et al. @ JAMA: COVID-19 mRNA vaccination and mortality in France" title="Semenzato, et al. @ JAMA: COVID-19 mRNA vaccination and mortality in France" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And so it is here: now comes a study from Semenzato, _et al._ <sup id="fn4a">[[4]](#fn4)</sup>, 
 telling us if Dahl, _et al._ above in Norway can be replicated in France.  
 
@@ -251,7 +251,7 @@ Like Dahl, this study is only possible because of universal healthcare and unifo
 electronic medical records. It used a great fraction of the population of France.
 Needless to say, the study is more than adequately powered.   
 
-<a href="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-1a.jpg"><img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-1a-thumb.jpg" width="400" height="268" alt="Semenzato, et al. @ JAMA: CONSORT flowchart of patient selection" title="Semenzato, et al. @ JAMA: CONSORT flowchart of patient selection" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-1a.jpg"><img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-1a-thumb.jpg" width="400" height="268" alt="Semenzato, et al. @ JAMA: CONSORT flowchart of patient selection" title="Semenzato, et al. @ JAMA: CONSORT flowchart of patient selection" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 They studied all causes of mortality for 4 years post-vaccination, in people ages 18-59.
 As shown by their CONSORT flowchart of patient selection shown here (their figure e2, in
 the supplement; click to embiggen), they started with a staggering 33,869,603 people from the French
@@ -280,7 +280,7 @@ Slightly unlike Dahl, instead of Poisson regressions they did
 properly account for "censorship" when you lose track of a subject.  This is, if anything,
 an _improvement_ over Dahl.  
 
-<a href="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-1b.png"><img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-1b-thumb.jpg" width="400" height="410" alt="Semenzato, et al. @ JAMA: Forest plot showing hazard ratios for mortality overall and several subgroups; vaccinated people were safer." title="Semenzato, et al. @ JAMA: Forest plot showing hazard ratios for mortality overall and several subgroups; vaccinated people were safer." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-1b.png"><img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-1b-thumb.jpg" width="400" height="410" alt="Semenzato, et al. @ JAMA: Forest plot showing hazard ratios for mortality overall and several subgroups; vaccinated people were safer." title="Semenzato, et al. @ JAMA: Forest plot showing hazard ratios for mortality overall and several subgroups; vaccinated people were safer." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 At that point they computed a hazard ratio: there's a lot of nuance to what that means,
 but basically it amounts to a sophisticated measure of mortality risk in vaccinated people
 divided by unvaccinated people.  Less than 1 means less risk for vaccinated folk.  A
@@ -322,7 +322,7 @@ subgroups.
 
 ### Study 3: Andersson, _et al._ of JN.1-Updated mRNA Vaccine Safety  
 
-<img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-2.jpg" width="400" height="380" alt="Andersson, et al. @ JAMA: Safety of JN.1-updated COVID-19 vaccines" title="Andersson, et al. @ JAMA: Safety of JN.1-updated COVID-19 vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-2.jpg" width="400" height="380" alt="Andersson, et al. @ JAMA: Safety of JN.1-updated COVID-19 vaccines" title="Andersson, et al. @ JAMA: Safety of JN.1-updated COVID-19 vaccines" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 One thing I've learned over the past 5 years is that people infected by vaccine
 disinformation are nothing if not persistent, sometimes fatally so.  They might, for
 example, conclude: "Yeah, those old vaccines might have been ok, but the new ones updated
@@ -355,7 +355,7 @@ significant only if the hazard ratio and its 95% whiskers were all above 1 (more
 below 1 (less risk).  The observation was for a period of 28 days after vaccination for
 the vaccinated population; I don't know exactly what they did for the unvaccinated.  
 
-<a href="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-2a.png"><img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-jama-2a-thumb.jpg" width="400" height="218" alt="Andersson, et al. @ JAMA: Forest plot showing NO INCREASED RISKS for people getting the JN.1 update." title="Andersson, et al. @ JAMA: Forest plot showing NO INCREASED RISKS for people getting the JN.1 update." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-2a.png"><img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-jama-2a-thumb.jpg" width="400" height="218" alt="Andersson, et al. @ JAMA: Forest plot showing NO INCREASED RISKS for people getting the JN.1 update." title="Andersson, et al. @ JAMA: Forest plot showing NO INCREASED RISKS for people getting the JN.1 update." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 - As you can see from the by-now familiar forest plot shown here (click to embiggen), most
   adverse events (rows in the table) have a hazard ratio that is statistically
   indistinguishable from 1: _i.e.,_ there is no increase in risk.  
@@ -385,7 +385,7 @@ works really well.
 COVID-19 vaccines mess with the immune system.  That's for the better, in terms of
 _not getting COVID-19,_ but does it affect the response to cancer immunotherapies?  
 
-<img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-nature-1.jpg" width="400" height="463" alt="Grippin, et al. @ Nature: mRNA vaccines sensitize tumors to immunotherapy" title="Grippin, et al. @ Nature: mRNA vaccines sensitize tumors to immunotherapy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-nature-1.jpg" width="400" height="463" alt="Grippin, et al. @ Nature: mRNA vaccines sensitize tumors to immunotherapy" title="Grippin, et al. @ Nature: mRNA vaccines sensitize tumors to immunotherapy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Yes, it does make response to at least one cancer immunotherapy better, according to a paper 
 by Grippin, _et al._ <sup id="fn6a">[[6]](#fn6)</sup>  
 
@@ -416,7 +416,7 @@ vaccines do not have this effect; it has to be mRNA + LNPs.)  However, the biolo
 details of the mechanism of action are something we'll leave to the biologists.
 Instead, we'll just skip to the summary effect, of whether it improves cancer survival.  
 
-<a href="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-nature-1a.jpg"><img src="{{ site.baseurl }}/images/2026-01-09-covid-vax-mortality-again-nature-1a-thumb.jpg" width="400" height="324" alt="Grippin, et al. @ Nature: Improved survival in various cancers with ICI + mRNA vax vs just ICI" title="Grippin, et al. @ Nature: Improved survival in various cancers with ICI + mRNA vax vs just ICI" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-nature-1a.jpg"><img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-nature-1a-thumb.jpg" width="400" height="324" alt="Grippin, et al. @ Nature: Improved survival in various cancers with ICI + mRNA vax vs just ICI" title="Grippin, et al. @ Nature: Improved survival in various cancers with ICI + mRNA vax vs just ICI" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 Here you see a collection of what are called Kaplan-Meier curves, for non-small cell lung
 cancer (NSCLC; top 3 plots) and melanoma (skin cancer; bottom 2 plots) (click to embiggen).  
 - The horizontal axis is time since start of treatment.  
