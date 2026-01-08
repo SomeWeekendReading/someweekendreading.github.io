@@ -1414,3 +1414,5 @@ _Business Week_, 14-Nov-2003.
 - "If your business cannot prosper without breaking the law, then it is not a business.
   It is organized crime.  Like those dependent on slavery, child labor, environmental
   degradation, or wage theft, it should go out of business as soon as possible."  
+- "Those who want to rewrite history seldom bother to read history in the first place (and
+  wish we wouldn't, either)."  
