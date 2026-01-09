@@ -337,7 +337,7 @@ This is, again, one of those lovely European studies made possible only with uni
 healthcare and uniform electronic medical records: their study population was more or less
 the entire population of Denmark.  (However, with a new version of the vaccine only
 recently available, this has to be a short-term study: from 2024-May-01 to 2025-Mar-31.)
-So this is a roughly 1-year follow-up on a cohort of:  
+So over a period of roughly 1 year, they did 28-day post-vaccination follow-ups on a cohort of:  
 - 1,585,883 subjects total,  
 - 1,012,400 of whom got updated mRNA COVID-19 shots optimized for the JN.1 lineage, and  
 - the rest who did not get such an update.  
@@ -362,12 +362,12 @@ the vaccinated population; I don't know exactly what they did for the unvaccinat
 - There are, however, many cases where the box and its whiskers are _below_ 1, i.e., a
   statistically significant _decrease_ in risk.  Among them are ischemic cardiac event,
   cerebrovascular event, cerebrovascular infarction, deep venous thrombosis, pulmonary
-  embolism, myocarditis, coagulative disorders, heart failure, acute kidney failure, and
+  embolism, pericarditis, coagulative disorders, heart failure, acute kidney failure, and
   acute pancreatitis.   
 
 __Conclusion:__  
 - In the 28 days after receiving the JN.1 updated mRNA COVID-19 vaccine,
-  there was _no statistically significant risk_ in any of 29 medical adverse events
+  there was _no statistically significant increase in risk_ in any of 29 medical adverse events
   studied.  
 - However, in 10 of those events, the risk appears to have been _statistically significantly lowered._  
 
@@ -386,7 +386,7 @@ COVID-19 vaccines mess with the immune system.  That's for the better, in terms 
 _not getting COVID-19,_ but does it affect the response to cancer immunotherapies?  
 
 <img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-nature-1.jpg" width="400" height="463" alt="Grippin, et al. @ Nature: mRNA vaccines sensitize tumors to immunotherapy" title="Grippin, et al. @ Nature: mRNA vaccines sensitize tumors to immunotherapy" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Yes, it does make response to at least one cancer immunotherapy better, according to a paper 
+Yes, it does make response to at least one cancer immunotherapy _better,_ according to a paper 
 by Grippin, _et al._ <sup id="fn6a">[[6]](#fn6)</sup>  
 
 There's a type of cancer immunotherapy called an immune checkpoint inhibitor (ICI).  Now,
@@ -402,7 +402,7 @@ checkpoints won't do much.
 
 One response to this has been "cancer vaccines", where we make a vaccine special for you,
 attuned to your particular cancer's mutations and weird proteins it expresses on the
-surface of its cells.  Needless to say, that's expensive.  
+surface of its cells.  Needless to say, that's expensive, complex, and difficult.  
 
 Grippin, _et al._'s striking result is that mRNA COVID-19 vaccines have a similar result:
 they stimulate your immune system enough that it responds _better_ to ICI therapy against
@@ -413,7 +413,7 @@ T cells, PD-L1 expression, various interferons, and so on.  And it turns out the
 has nothing much to do with SARS-CoV2, but a lot to do with the way mRNA vaccines and
 their lipid nanoparticle (LNP) vehicles strongly stimulate the immune system.  (Non-mRNA
 vaccines do not have this effect; it has to be mRNA + LNPs.)  However, the biological
-details of the mechanism of action are something we'll leave to the biologists.
+details of the mechanism of action are something we'll leave to the biologists for now.
 Instead, we'll just skip to the summary effect, of whether it improves cancer survival.  
 
 <a href="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-nature-1a.jpg"><img src="{{ site.baseurl }}/images/2026-01-08-covid-vax-mortality-again-nature-1a-thumb.jpg" width="400" height="324" alt="Grippin, et al. @ Nature: Improved survival in various cancers with ICI + mRNA vax vs just ICI" title="Grippin, et al. @ Nature: Improved survival in various cancers with ICI + mRNA vax vs just ICI" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -433,7 +433,8 @@ cancer (NSCLC; top 3 plots) and melanoma (skin cancer; bottom 2 plots) (click to
     the difference between the red and blue curves is significant, i.e., a _real_ thing
     likely to reproduce in the future.
 
-You pretty much want to be a patient on the upper curve, because they live longer.  
+You pretty much want to be a patient on the upper curves &ndash; the blue curves combining
+mRNA/NLP vaccines + ICI &ndash; because they live longer.  
 
 The really startling news here is that the patients who got the mRNA vaccine + ICI
 combination therapy always did better, and that the result is statistically significant.  

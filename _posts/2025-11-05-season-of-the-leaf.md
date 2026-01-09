@@ -73,6 +73,11 @@ somebody to help.  But it's overall enjoyable outdoor work so long as I do it in
 spurts.  
 
 
+### Addendum 2025-Nov  
+
+It ended up being a total of 114 bags of leaves this year.  Ouch.  
+
+
 ## The Weekend Conclusion  
 
 <img src="{{ site.baseurl }}/images/2025-11-05-season-of-the-leaf-4.jpg" width="400" height="300" alt="The Weekend Publisher &amp; Assistant Weekend Publisher, asleep at the foot of the bed, for once not attempting to murder each other.  They approve of winter comforters." title="The Weekend Publisher &amp; Assistant Weekend Publisher, asleep at the foot of the bed, for once not attempting to murder each other.  They approve of winter comforters." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
