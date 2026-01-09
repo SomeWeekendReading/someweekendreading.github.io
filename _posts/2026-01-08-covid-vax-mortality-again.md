@@ -172,8 +172,8 @@ care in general)?
 
 <img src="{{ site.baseurl }}/images/2025-09-11-3-takes-covid-vax-safety-medrxiv-1.jpg" width="400" height="254" alt="Dahl, et al. @ medR&chi;iv: mRNA vaccination all-cause mortality in Norway" title="Dahl, et al. @ medR&chi;iv: mRNA vaccination all-cause mortality in Norway" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 For that, we turn to a 3-year study by Dahl, _et al._ <sup id="fn3a">[[3]](#fn3)</sup>,
-who looked at all-cause mortality in a similarly broad population in Norway (universal
-health care!), over 2021-2023.  
+who looked at all-cause mortality in a broad population in Norway (universal
+health care!), over 2021-2023 (3 years).  
 
 Note that this is a preprint, which is not as yet peer-reviewed.  So&hellip; grain of
 salt.  
