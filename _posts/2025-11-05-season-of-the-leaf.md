@@ -73,7 +73,7 @@ somebody to help.  But it's overall enjoyable outdoor work so long as I do it in
 spurts.  
 
 
-### Addendum 2025-Nov  
+### Addendum 2025-Nov: The Total  
 
 It ended up being a total of 114 bags of leaves this year.  Ouch.  
 
