@@ -64,7 +64,7 @@ Now, there can be many reasons for that rather dramatic divide.
   
   This is, of course, pernicious nonsense.  Western European countries are far more
   credibly democratic socialist in their universal health care polices, and they do _not_
-  see this kind of price increase while seeing better health care outcomes than the US.
+  see this kind of price increase while seeing _better_ health care outcomes than the US.
   
   Far more likely is that the price rise is the product of a large number of private
   entities each seeking 'their share' of the large flow of health care money.  Look at an

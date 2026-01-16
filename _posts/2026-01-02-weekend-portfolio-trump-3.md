@@ -263,7 +263,7 @@ with.  I settled on 40% stocks, 60% bonds.
   as the rest of this.  
 - __Overall allocation:__ 40% stocks/60% bonds.  
 - __US/International stock allocation:__ 40% US/60% international.  This applies both to
-  stocks in general and to REITs.  It amounts to a moderate bias_away from the US._  
+  stocks in general and to REITs.  It amounts to a moderate bias _away from the US._  
 - __US/International bond allocation:__ 50% US, equally between intermediate Treasuries
   and TIPS, and 50% international.  The international bonds are mostly government bonds of
   developed nations, with a currency hedge back to the dollar, as Vanguard recommends.  
@@ -274,6 +274,7 @@ with.  I settled on 40% stocks, 60% bonds.
 I think that covers the bases:  
 - adjust the stock/bond ratio to be more in favor of bonds,  
 - tilt to small, value, and international stocks,  
+- keep the US bonds in intermediate term Treasuries and TIPS,  
 - have a large portion of international developed nation government bonds,  
 - continue to do partial Roth conversions to get a little more tax armor.  
 
