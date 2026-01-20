@@ -139,12 +139,12 @@ self-reports were higher or lower than the measurements.)
 
 __Conclusion:__ AI use in both populations is much lower than expected.  
 
+
+<img src="{{ site.baseurl }}/images/2026-01-19-who-uses-ai-pivot-tbl-3.jpg" width="400" height="197" alt="McKiinley, et al. @ Cyberpsych: Association of AI use with dark triad in students" title="McKiinley, et al. @ Cyberpsych: Association of AI use with dark triad in students" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Looking at the student population, they computed Spearman correlation of number of AI
 sites visited with the Big 5 personality types and the Dark Triad personality disorders.
-The statistically significant ($p \le$ 5%) Spearman rank correlations were:  
-- _Extraversion:_ $\rho \sim$ 0.126, $p \sim$ 0.005  
-- _Narcissism:_ $\rho \sim$ 0.213, $p \sim$ 0.000  
-- _Psychopathy:_ $\rho \sim$ 0.089, $p \sim$ 0.046  
+The statistically significant ($p \le$ 5%) Spearman rank correlations were as shown here:
+mild to moderate association, but statistically significant (_i.e.,_ reproducible).  
 
 They also report that, in the student population, Extraversion on the Big 5
 personality test is correlated with both Narcissism and Psychopathy.  This leads one to
