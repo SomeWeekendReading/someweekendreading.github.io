@@ -26,7 +26,7 @@ head, a tube to interfere with breathing, and a tentacle about the neck.  This i
 a riff on the
 [face-hugger monsters such as those in the old 70s horror flick _Alien._](https://en.wikipedia.org/wiki/Xenomorph#Facehugger)  
 
-He's reporting on a recently published &ndash; and thus peer-reviewed &ndahs; paper by
+He's reporting on a recently published &ndash; and thus peer-reviewed &ndash; paper by
 McKinley, _et al._ <sup id="fn2a">[[2]](#fn2)</sup>, in which they studied 2 pretty
 good-sized populations, measuring amount of AI usage and administering 2 different
 personality type tests to see what sort of people used AI more than others.  (__NB:__
@@ -195,7 +195,7 @@ engines), or _whether prolific AI use made them that way._
 
 This is a serious question: as we've written before <sup id="fn5a">[[5]](#fn5)</sup> on
 this Crummy Little Blog That Nobody Reads (CLBTNR), there is now significant anecdotal
-evidence of extreme AI risk _causing_ mental illness.  
+evidence of extreme AI use _causing_ mental illness.  
 
 Either way, this result is _alarming._  
 
