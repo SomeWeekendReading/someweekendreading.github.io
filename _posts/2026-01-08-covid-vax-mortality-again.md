@@ -448,7 +448,7 @@ wave this paper in their faces and demand an mRNA COVID-19 vaccine booster _imme
 ## The Weekend Conclusion  
 
 The evidence is starting to pile up:  
-- The entire nation of Norway (Dahl, _et al._) say that there is a remarkable _decrease_
+- The entire nation of Norway (Dahl, _et al._) says that there is a remarkable _decrease_
   in all-cause mortality among people who got COVID-19 vaccinations.  
 - The entire nation of France (Semenzato, _et al._) says that there is _also_ a remarkable
   _decrease_ in all-cause mortality.  And decrease in hospitalizations.  And decrease in
