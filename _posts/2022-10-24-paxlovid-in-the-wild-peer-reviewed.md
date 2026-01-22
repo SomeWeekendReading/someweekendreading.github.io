@@ -19,7 +19,7 @@ SARS-CoV2 has a very funny gene called [ORF1ab](https://www.ncbi.nlm.nih.gov/gen
 - What's "funny" about it is that it violates the "central dogma" of genetics: one gene
   makes one protein.  
 - ORF1ab is a _polyprotein_ gene: it makes a huge string of mRNA, which is transcribed
-  into a huge mess of amino acids that make not much sense as a protien.  
+  into a huge mess of amino acids that make not much sense as a protein.  
 - But then _another_ SARS-CoV2 protein called either 3CLpro ("3C-like-protease") or Mpro ("main
   protease") comes along and snips that polyprotein into pieces, some of which fold up into
   workable proteins.  
