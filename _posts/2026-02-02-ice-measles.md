@@ -24,7 +24,7 @@ CDC data reporting may be shut down based on what's happening, _q.v._).
 
 They've made a little interactive tool that shows you the cumulative cases of measles in
 the US, as of the current date. <sup id="fn1a">[[1]](#fn1)</sup>  Here's what it's showing
-as of today, 2026-Feb-02:  
+as of today, 2026-Feb-01:  
 - The horizontal axis is time within a given year.  
 - The vertical axis is the total number of measles cases seen so far that year.  
 - The curves shown are for 2023, 2024, 2025, and now the first month of 2026.  
