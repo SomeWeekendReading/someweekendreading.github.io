@@ -152,8 +152,9 @@ A couple caveats:
 In the end you get (almost) an estimator for the incidence rate ratio, adjusted for the
 covariates, and a 95% confidence interval on it.  
 
-(I'd have done it differently using my method of ratio statistics on Beta-distributed event
-probabilities, but I admit that's a niche taste.)  
+(I'd have done it differently using
+[my method of ratio statistics on Beta-distributed event probabilities]({{ site.baseurl}}/beta-ratios/),
+but I admit that's a niche taste.)  
 
 
 ### Study 1: Revisiting Dahl, _et al._ on All-Cause Mortality in Norway  
