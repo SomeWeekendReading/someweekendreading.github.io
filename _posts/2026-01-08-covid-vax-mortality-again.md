@@ -160,10 +160,10 @@ but I admit that's a niche taste.)
 ### Study 1: Revisiting Dahl, _et al._ on All-Cause Mortality in Norway  
 
 This Crummy Little Blog That Nobody Reads (CLBTNR) does't have wide readership.  But I
-know there are a _few_ of you who are incorrigible long-term readers, who will remember
+know there are a _few_ of you who are incorrigible long-term readers, and thus might remember
 when we [blogged about this paper back in September](https://www.someweekendreading.blog/3-takes-covid-vax-safety/#take-2-all-of-norway-3-years-after-vaccination).
 We're going to repeat that material here, both to have all the analyses in one place and
-just in case an innocent new reader might stumble by.  
+just in case an innocent new reader might stumble by.  (Hey, it could happen?)  
 
 As we wrote back in September:  
 
