@@ -36,7 +36,7 @@ timeline:
   - We did lots of correlation analyses between the various equipment types, as well as
     regressions.  
   - But in the end, we only really stuck with the casualties.  
-- _2024-Apr-10: We began collecting casualty data on the date for each increment of 100k.
+- _2024-Apr-10:_ We began collecting casualty data on the date for each increment of 100k.
   (With one exception at 50k.  That's how you know it's real data: you can see my
   mistakes, too!)  
   
@@ -62,10 +62,10 @@ The plot shown here is one of the results:
 __Research question:__ Is this statistically credible evidence that _something_ happened
 around day 420 or so (2024-Mar), to make Russian death rates increase?  
 
-Possible causes might be Russian reliance on human weave/meat grinder tactics that burn up
+Possible causes might be Russian reliance on human wave/meat grinder tactics that burn up
 their own soldiers, or Ukraine getting deadly clever about drone use, or several other
 things.  We won't explore the cause here; we just want to know if the data justifies that
-speculation or not, whatever the cause.  
+_something_ happened, whatever the particulars.  
 
 
 ## Segmented Regression  
@@ -124,8 +124,8 @@ pleasure. <sup id="fn17a">[[17]](#fn17)</sup>
   and we would have been content with the original linear model.  
 - We did not attempt regularization via LASSO or equivalent, because there just aren't any
   parameters to drop.  Instead we compared our kink model to the overall linear model, to
-  make sure our additional model complexity (2 more parameters, $\beta_2$ and $\psi$) were
-  earning their keep by lower the root-mean-square error of the model.
+  make sure our additional model complexity (2 more parameters, $\beta_2$ and $\psi$) was
+  earning its keep by lowering the root-mean-square error of the model.
 - We did 3-fold cross-validation, to make sure we were not over-fitting.  Given that there
   are only 9 red points in the plot above, we did not dare go for more folds.  We report
   below the performance of each of the 3 folds, and a final training run on the entire
@@ -136,7 +136,7 @@ pleasure. <sup id="fn17a">[[17]](#fn17)</sup>
 #### Need for a Kink in the Model  
 
 Davies test was ridiculously statistically significant, with $p \sim 1.62 \times
-10^{-72}$.  (R generally will not report a $p$ value less than 2.2e-16 without blushing,
+10^{-72}$.  (R generally will not report a $p$ value less than $2.2 \times 10^{-16}$ without blushing,
 so that's what appears in the transcript.  We reached inside the data structure of the
 Davies test result to see the actual answer.)
 
@@ -162,8 +162,9 @@ kink, for comparison.
 - The kinked model really begins to shine when we look at the RMS error, particularly on
   the out-of-sample test folds.  It is dramatically less, like a factor of 5 or so.  
   
-The stability under cross-validation and the dramatic reduction in RMS error make us
-believe the model is the correct choice, beyond a simple linear model.  
+The stability under cross-validation and the dramatic reduction in RMS error (compared to
+a simple linear model with no kink) make us believe the kinked-line model is the correct
+choice, beyond a simple linear model.  
 
 #### Interpretation  
 
@@ -201,8 +202,8 @@ Ukrainians apparently got 76% more efficient at killing Russians on or about 202
 
 ## The Weekend Conclusion  
 
-Yes, the Ukrainians did become about 76% more efficient at killing Russian soldiers in
-about March 2024.  
+Yes, the Ukrainians did become about 76% more efficient at killing Russian soldiers on
+or about 2024-Mar-08.  
 
 The evidence for this is very good&hellip; for values of "good" that include fascists
 invading their neighbors, which is sadly now widely relevant.  

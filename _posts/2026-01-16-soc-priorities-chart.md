@@ -60,10 +60,10 @@ trajectories.
 
 Now, there can be many reasons for that rather dramatic divide.  
 - The AEI folk will rant endlessly and senselessly about 'socialism', claiming that
-  government intervention in health care caused the price increase.  
+  government intervention in health care _caused_ the price increase.  
   
   This is, of course, pernicious nonsense.  Western European countries are far more
-  credibly democratic socialist in their universal health care polices, and they do _not_
+  credibly social democratic in their universal health care polices, and they do _not_
   see this kind of price increase while seeing _better_ health care outcomes than the US.
   
   Far more likely is that the price rise is the product of a large number of private
