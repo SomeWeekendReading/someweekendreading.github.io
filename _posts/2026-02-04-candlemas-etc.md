@@ -55,7 +55,8 @@ As always, XKCD has the goods, in this case [XKCD #3202](https://xkcd.com/3202/)
 here.  Munroe's pointing out the absurdity of weather divination from shadows of usually
 hibernating rodents, as well as the more modern film comedy,
 [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film)),
-which involves inexplicable time loops instead of inexplicable weather divination by rodents.  
+which involves inexplicable time loops instead of, or in addition to, inexplicable weather
+divination by rodents.  
 
 As to why it's now a groundhog and not the original German hedgehogs &amp; badgers, the XKCD mouseover
 text offers the usual surreal 'explanation':  
@@ -64,7 +65,7 @@ text offers the usual surreal 'explanation':
 > people agreed it made sense to standardize on a specific individual ground squirrel in
 > Pennsylvania.  
 
-(Though there's a lot to be said of the alternative French tradition, in which one simply eats 
+(There's a lot to be said of the alternative, and saner, French tradition: one simply eats 
 cr&ecirc;pes on this day, "La Chandeleur".  I think the groundhogs would also prefer we do
 that, and just left them to hibernate.)  
 
@@ -77,10 +78,10 @@ far as I can tell, is the epicenter.  They have a ceremony in which they announc
 "Punxsutawney Phil", as he is inevitably called, has seen his shadow or not.  (I have no
 idea how they know what the groundhog sees or does not see.)  
 
-As you can see here, the ceremony involves handling an otherwise hibernating groundhog in
-front of news cameras by a rather large number of older white men, mostly bearded, all in
-top hats.  It's difficult to know what the groundhog makes of all that.  It's difficult to
-know what _I_ should make of all that.  
+As you can see here, the ceremony involves handling an otherwise hibernation-adjacent
+groundhog in front of news cameras by a rather large number of older white men, mostly
+bearded, all in top hats.  It's difficult to know what the groundhog makes of all that.
+It's difficult to know what _I_ should make of all that.  
 
 This year, they declared that the shadow was indeed seen, and thus there would be 6 more
 weeks of winter.  The accompanying temperature forecast for the month of February from the
@@ -98,9 +99,9 @@ Sniff&hellip; sniff&hellip;  That smells like _data!_
 We know what to _do_ with data, here on this Crummy Little Blog That Nobody Reads (CLBTNR).  
 
 The Null Hypothesis is always something of the form "there's nothing going on here".  In
-this case, it's a binary decision ("more winter" vs "no more winter").  So if the weather
+this case, it's a binary decision ("more winter" vs "less winter").  So if the weather
 prediction is a guess, then it should be right about 50% of the time.  Anything which
-deviates from that (up or down!) indicates that _something_ is happening, which is the
+deviates from that (up _or_ down!) indicates that _something_ is happening, which is the
 Alternative Hypothesis.  
 
 <a href="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-groundhog-3.jpg"><img src="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-groundhog-3-thumb.jpg" width="400" height="177" alt="Groundhog Day: If you're only right 35% of 139 tries, that's way worse than guessing." title="Groundhog Day: If you're only right 35% of 139 tries, that's way worse than guessing." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
@@ -113,7 +114,7 @@ The result is shown in the 2 red boxes:
   right only 35% of the time in 139 tries is very tiny: $p \sim$ 0.000056, or about 5 one
   hundredths of one percent.  
 
-  In other words, _not a chance_ we should buy the Null Hypothesis!  
+  In other words, there is _not a chance_ we should buy the Null Hypothesis!  
 - The probability of a correct prediction at 35% after 139 tries has a 95% confidence
   interval of 27.2% &ndash; 43.6%.  
   
@@ -131,22 +132,22 @@ __Conclusion:__ Weather divination by rodent is statistically significantly _wor
   We've been reading his predictions _backwards_ for 139 years: if we just decided seeing
   his shadow meant early spring, then he'd have been correct a very solid 65% of the time.  
 
-From this we learn that: (a) accuracy of prediction is uncannily not one of the things
-people care about, and (b) we can nonetheless seek wisdom and light by looking objectively
+From this we learn that: (a) accuracy of prediction is uncannily _not_ one of the things
+people care about, and (b) we can nonetheless seek wisdom &amp; light by looking objectively
 at data.  
 
-So far, the Candlemas theme of seeking wisdom and light is holding up.  (Sort of.)  
+So far, the Candlemas theme of seeking wisdom &amp; light is holding up.  (Sort of.)  
 
 
 ## Sportsball and Its Discontents  
 
-<a href="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-1.jpg"><img src="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-1-thumb.jpg" width="400" height="193" alt="Google Trends: 'Super Bowl' and 'How to Read Roman Numerals'" title="Google Trends: 'Super Bowl' and 'How to Read Roman Numerals'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-<img src="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-2.jpg" width="400" height="543" alt="A superb owl, head nodded to one side, eyes closed, holding up 1 claw as if to say: 'No, actually...'" title="A superb owl, head nodded to one side, eyes closed, holding up 1 claw as if to say: 'No, actually...'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-<img src="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-3.jpg" width="400" height="491" alt="An owl carving in Chauvet Cave, France, approximately 32,000 years old" title="An owl carving in Chauvet Cave, France, approximately 32,000 years old" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 There is, alas, in the US, yet another ritual at this time of the year, involving
 sportsball.  I try very hard to speak of the Super Bowl in terms that are only _mildly_
 derisive, but I often fail at that level of restraint.  
 
+<a href="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-1.jpg"><img src="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-1-thumb.jpg" width="400" height="193" alt="Google Trends: 'Super Bowl' and 'How to Read Roman Numerals'" title="Google Trends: 'Super Bowl' and 'How to Read Roman Numerals'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<img src="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-2.jpg" width="400" height="543" alt="A superb owl, head nodded to one side, eyes closed, holding up 1 claw as if to say: 'No, actually...'" title="A superb owl, head nodded to one side, eyes closed, holding up 1 claw as if to say: 'No, actually...'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-02-04-candlemas-etc-superb-owl-3.jpg" width="400" height="491" alt="An owl carving in Chauvet Cave, France, approximately 32,000 years old" title="An owl carving in Chauvet Cave, France, approximately 32,000 years old" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The only interesting fact about the Super Bowl for me is that they are mysteriously
 numbered consecutively with Roman numerals.  This year is Super Bowl LX, i.e., the 60th
 iteration of this ritual of concussions and puzzlement over Roman numerals.  
@@ -161,16 +162,16 @@ CLBTNR.  The graph shows a 5 year retrospective of queries for the Super Bowl in
 queries for how to read Roman numerals in red.  They're both on the same scale, so of
 course the Super Bowl dwarfs the Roman numeral queries.  But&hellip; there is a germ of
 truth here: every year, around Super Bowl time, people wonder how to read MMCMDXLVII or
-the like.  
+the like.  (That example, BTW, is malformed.)  
 
-So ever years, people do seek a bit of wisdom.  Just like this _superb owl,_ raising a
+So every year, people do seek a _bit_ of wisdom.  Just like this _superb owl,_ raising a
 claw and reminding us that "No, actually&hellip; there's a great deal more to be
 experienced in the world beyond sportsball."  (Listen to the owl.  He is, after all, a
 symbol of wisdom.)  
 
 In fact, this has been true pretty much forever.  The first owl is reminding us of his
 venerable colleague, possibly an owl forebear of his, shown below him.  This is a bit of
-cave art, from the
+cave art is from the
 [_Grotte Chauvet-Pont d'Arc_, or Chauvet Cave, in France](https://en.wikipedia.org/wiki/Chauvet_Cave).
 It was apparently a bustling scene of Upper Paleolithic life, but then fell out of use and
 was undiscovered until 1994-Dec-18.  It contains some of the best preserved ancient cave
