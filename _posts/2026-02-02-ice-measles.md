@@ -199,6 +199,53 @@ vote.  I'm not sure which of the last 2 categories bothers me more.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2026-Feb-10: Tuberculosis, Too?!  
+
+<img src="{{ site.baseurl }}/images/2026-02-02-ice-measles-texas-1.jpg" width="400" height="264" alt="DeGuzman &amp; Kriel @ El Paso Matters: Now it's tuberculosis, too." title="DeGuzman &amp; Kriel @ El Paso Matters: Now it's tuberculosis, too." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Apparently that was not enough.  Now comes a report that at an El Paso ICE detention
+facility, there is both COVID-19 _and_ tuberculosis <sup id="fn7a">[[7]](#fn7)</sup>:  
+
+> Two cases of tuberculosis and 18 cases of COVID-19 were recently identified at Camp East
+> Montana, according to El Paso city officials and Congresswoman Veronica Escobar.  
+
+Of course, ICE is in full denial &amp; lying mode, as is the custom of their tribe:  
+
+> Tricia McLaughlin, a Department of Homeland Security spokesperson, and other ICE
+> spokespeople did not respond to detailed questions Saturday. More than 24 hours later,
+> McLaughlin denied in a statement that tuberculosis cases are currently present at the
+> tent camp.  
+
+It turns out that they were&hellip; simply _moved_ to another camp, so their existence could be
+denied.  This is the same detention center where (a) Geraldo Lunas Campos died after what
+ICE called "experiencing medical distress", (b) which they then later claimed was a
+suicide attempt, and (c) the El Paso medical examiner now rules was a homicide in which
+ICE agents put too much pressure on his chest and suffocated him.  
+
+<img src="{{ site.baseurl }}/images/2026-02-02-ice-measles-amny-1.jpg" width="400" height="332" alt="Moses @ AMNY: ICE prisoners hidden on other floors in NYC, lies told in court" title="Moses @ AMNY: ICE prisoners hidden on other floors in NYC, lies told in court" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+This utter contempt for human life is like the New York City situation, when a court
+ordered ICE to stop the inhumane conditions in a detention facility on the 10th floor of
+26 Federal Plaza: inedible food, sleeping on concrete floors, so few toilets they're soaked
+in sewage, and constant sickness.  ICE's response was&hellip; moving prisoners to another
+floor, claiming that the court order only applied to the original
+floor! <sup id="fn8a">[[8]](#fn8)</sup>  They then denied having done this.  
+
+Of course they lie about it, both to a Congressman and to the court:  
+
+> In a statement provided to amNewYork, Congressman Dan Goldman, a longtime critic of the
+> courthouse detentions, condemned the revelation.  
+>  
+> “ICE is not only lying to the Court, but they are lying to me,” Goldman said.  
+
+Look, just admit it: these are death camps.  They are _trying_ to make as many detainees
+die as they can, short of actual executions.  Sewage, food infested with worms, no medical
+care, and now a trifecta of COVID-19/measles/tuberculosis&hellip; these are simply killing
+people.  
+
+Depraved neglect at this level is simply murder.  
+
+ICE employees must, in the future, be tried and face long prison terms if convicted.  
+
 ---
 
 ## Notes &amp; References  
@@ -233,3 +280,7 @@ Data used here is the update as of 2026-Feb-01. [↩](#fn1a)
 <a id="fn5">5</a>: E Bregel, ["Measles outbreak at ICE detention centers in Arizona prompts quarantine"](https://tucson.com/news/local/border/article_637bb63e-44f4-4987-a206-2f1792274922.html), _Tucson.com_, 2026-Feb-01. [↩](#fn5a)  
 
 <a id="fn6">6</a>: E Olmsted, ["ICE Has Cut Its Detainees Off From Medical Care"](https://newrepublic.com/post/205458/ice-detainees-pay-for-medical-care), _The New Republic_, 20226-Jan-20. [↩](#fn6a)  
+
+<a id="fn7">7</a>: C DeGuzman &amp; L Kriel, ["Two cases of tuberculosis detected at Camp East Montana El Paso ICE facility"](https://elpasomatters.org/2026/02/09/tb-tuberculosis-covid-19-camp-east-montana-el-paso-ice-detention-center/), _Texas Tribune_ via _El Paso Matters_, 2026-Feb-09. [↩](#fn7a)  
+
+<a id="fn8">8</a>: D Moses, ["Multiple floors of 26 Federal Plaza in Lower Manhattan now being used to detain immigrants arrested by ICE, feds admit"](https://www.amny.com/news/federal-plaza-lower-manhattan-immigrant-detainees-ice/), _AM New York_, 2026-Feb-10. [↩](#fn8a)  
