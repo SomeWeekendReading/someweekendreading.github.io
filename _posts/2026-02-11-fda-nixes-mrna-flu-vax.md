@@ -46,7 +46,7 @@ Matthew Herper and Helen Branswell. <sup id="fn3a">[[3]](#fn3)</sup>
 So, ok.  I'm satisfied this is real news.  It is, however, _extremely_ unusual!  
 
 I have _never_ seen a "refusal to review" letter when the agency had previously approved
-the trial.  Apparently the object is, in the words of FDA vaccine director Vinay Prasad,
+the trial.  Apparently the objection is, in the words of FDA vaccine director Vinay Prasad,
 that the trial was not an "adequate and well-controlled trial" because the standard of
 comparison wasn't the FDA's preferred flu vaccine.  This is also _extremely_ unusual,
 since that was hashed out a couple years ago and the FDA agreed that the control vaccine
@@ -81,7 +81,7 @@ good:
 
 &hellip; but, apparently no more.  It seems
 [Moloch demands even more lives be sacrificed](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/),
-with Republicans trading more lives for power.  
+with Republicans salivating to trade more lives for short-term power in their base.  
 
 <img src="{{ site.baseurl }}/images/2026-02-11-fda-nixes-mrna-flu-vax-stat-2.jpg" width="400" height="161" alt="Lawrence @ STAT News: Vinay Prasad overrules FDA science staff to reject mRNA vaccine" title="Lawrence @ STAT News: Vinay Prasad overrules FDA science staff to reject mRNA vaccine" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 It appears <sup id="fn4a">[[4]](#fn4)</sup> that the FDA scientists were fine with
@@ -101,7 +101,7 @@ Reaction among scientists has been swift and relentlessly negative, as you might
 
 And it's not just me: here's an article from renowned med-chem writer Derek Lowe, a man
 normally of somewhat conservative/libertarian leanings, who over the last few years has
-become as enraged against republicans as your humble Weekend 
+become as enraged against Republicans as your humble Weekend 
 Editor. <sup id="fn5a">[[5]](#fn5)</sup>  
 
 > Last night brought news that the FDA has refused to review Moderna’s application for
@@ -144,10 +144,10 @@ Derek reaches about the same conclusions as me (__emphasis__ added):
 
 <img src="{{ site.baseurl }}/images/2026-02-11-fda-nixes-mrna-flu-vax-wsj-1.jpg" width="400" height="221" alt="WSJ Editorial Board: Prasad damages medical innovation" title="WSJ Editorial Board: Prasad damages medical innovation" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Now, I can already hear the objection that this is just the opinion of some weird, hippy
-scientists, and who cares what the longhairs think?  (Though my hair is considerably
-longer than Derek's.)  
+scientists, and who cares what the longhairs think?  (Let the record show that my hair is
+considerably longer than Derek's.)  
 
-How about _The Wall Street Journal_?  Is that sufficiently non-hippy to pass your
+How about _The Wall Street Journal_?  Is that sufficiently anti-hippy to pass your
 conservative purity tests?  Because the _WSJ_ coverage <sup id="fn6a">[[6]](#fn5)</sup> points
 the finger of blame directly at Prasad, and is subtitled, "Does the White House know the
 harm he's doing to public health?"  
@@ -183,16 +183,16 @@ pretend not to know it.
 This is pure political appeasement to the Trump base, who have a superstitious attachment
 to ivermectin.  Incorrigibly persistent readers of this Crummy Little Blog That Nobody
 Reads (CLBTNR) will recall that, in the past, we've had vehemently negative things to say
-about ivermectin. <sup id="fn8a">[[8]](#fn8)</sup> <sup id="fn9a">[[9]](#fn9)</sup>
-<sup id="fn10a">[[10]](#fn10)</sup> <sup id="fn11a">[[11]](#fn11)</sup> 
-<sup id="fn12a">[[12]](#fn12)</sup>  
+about the right-wing superstitions around ivermectin. <sup id="fn8a">[[8]](#fn8)</sup>
+<sup id="fn9a">[[9]](#fn9)</sup> <sup id="fn10a">[[10]](#fn10)</sup>
+<sup id="fn11a">[[11]](#fn11)</sup> <sup id="fn12a">[[12]](#fn12)</sup>  
 
 Let's be clear about a few things:  
 - Ivermectin is a perfectly reasonable drug for treating worm infestations, lice, and
   other invertebrate parasites.  
 
   If you've got worms, this might be the drug for you.  In the US, worms in humans are
-  rare, but it's widely used for veterinary purposes, hence the name "horse paste".  
+  rare but it's widely used for veterinary purposes, hence the name "horse paste".  
 - Ivermectin does not treat COVID-19, and never has.  
 
   The hints otherwise came from clinical trials conducted in countries where worm
@@ -203,7 +203,7 @@ Let's be clear about a few things:
   disinformation.  
   
   It's so _hard_ to get people to let go of ivermectin because they don't want to lose
-  their entire tribal identity as Trumps or Republicans.  It's difficult to admit you've
+  their entire tribal identity as Trumpers or Republicans.  It's difficult to admit you've
   been conned!  
 
 But&hellip; now apparently the knuckleheads want to test ivermectin in cancer.  The linked
@@ -258,7 +258,7 @@ power in their superstitious base.
 
 By forbidding a potentially superior vaccine while offering the most ignorant of excuses,
 they set up a situation where people will die.  But if it's in the service of Republican
-power, they probably think that's acceptable.  
+power, they probably think that's acceptable.  Moloch demands no less.  
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
