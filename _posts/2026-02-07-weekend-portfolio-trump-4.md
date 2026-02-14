@@ -115,7 +115,7 @@ We now stand at:
 ## The Weekend Conclusion  
 
 Keep in mind, this is not investment advice.  I'm (a) unaware of your particular
-situation, and (b) neither competent nor licensed to give investment advice.  
+situation, and (b) neither competent, licensed, nor inclined to give investment advice.  
 
 It's just a description of what we're doing to cope with retirement.  
 
