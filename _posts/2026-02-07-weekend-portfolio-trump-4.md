@@ -51,10 +51,10 @@ A US debt collapse would be _so_ disastrous that we can't really do much at all.
 perhaps we can do _something_ to hold off the damage in case there's a reaction against
 the US debt that is very bad in itself, but not a total collapse.  As we've written
 previously on this Crummy Little Blog That Nobody Reads (CLBTNR) <sup id="fn3a">[[3]](#fn3)</sup>
-<sup id="fn4a">[[4]](#fn4)</sup> <sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>,
-our neutral policy portfolio would be a bog-standard set of index funds, spread all around
-the world, at a 60% stocks and 40% bonds ratio, using US Treasuries &amp; TIPS as the bond
-portion.  
+<sup id="fn4a">[[4]](#fn4)</sup> <sup id="fn5a">[[5]](#fn5)</sup> <sup id="fn6a">[[6]](#fn6)</sup>
+<sup id="fn7a">[[7]](#fn7)</sup>, our neutral policy portfolio would be a bog-standard set
+of index funds, spread all around the world, at a 60% stocks and 40% bonds ratio, using US
+Treasuries &amp; TIPS as the bond portion.  
 
 In a series of steps, encouraged by public advice from Vanguard, we had moved to a 40/60
 allocation:  
@@ -154,3 +154,5 @@ _Caveat investor._
 <a id="fn5">5</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["A Weekend Retirement Portfolio for the Trump-Revenant Era"]({{ site.baseurl }}/weekend-portfolio-trump/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Feb-10. [↩](#fn5a)  
 
 <a id="fn6">6</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Some More Revisions to the Weekend Retirement Portfolio"]({{ site.baseurl }}/weekend-portfolio-trump-2/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2025-Jun-11. [↩](#fn6a)  
+
+<a id="fn7">7</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["An Even More Defensive Weekend Retirement Portfolio"](https://www.someweekendreading.blog/weekend-portfolio-trump-3/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2026-Jan-02. [↩](#fnya)  
