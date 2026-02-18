@@ -293,7 +293,7 @@ fantasy of medically inappropriate and outright illegal controls.  In a particul
 venomous moment, the recently appointed Marty Makary flirted with what looks to this
 non-lawyer like libel, by calling the Moderna trial "unethical".  
 
-But&hellip; at least they changed their minds, or somebody overrode Prasad.  
+But&hellip; they changed their minds, or somebody overrode Prasad.  
 
 So at least the mRNA flu vaccine will be reviewed.  On the other hand, it'll be too late
 for this year's flu season, the anti-vax nuts will almost certainly try to prevent
