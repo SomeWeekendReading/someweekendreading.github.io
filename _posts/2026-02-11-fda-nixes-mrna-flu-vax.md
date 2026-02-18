@@ -262,6 +262,43 @@ power, they probably think that's acceptable.  Moloch demands no less.
 
 [(_Ceterum censeo, Trump incarcerandam esse._)]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2026-Feb-18: FDA Changes Its 'Mind'  
+
+<img src="{{ site.baseurl }}/images/2026-02-11-fda-nixes-mrna-flu-vax-stat-4.jpg" width="400" height="285" alt="Lawrence @ STAT: FDA changes mind, will review Moderna mRNA flu vax" title="Lawrence @ STAT: FDA changes mind, will review Moderna mRNA flu vax" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+It appears the outcry of despair and contempt from the scientific &amp; medical
+communities has caused the FDA to change what's left of its mind. <sup id="fn14a">[[14]](#fn14)</sup>  
+- They will review the vaccine for adults ages 50-64 under normal rules.  
+- They will review it for seniors over 65 under accelerated approval rules, but will
+  require a post-marketing study.  
+- However, they will "aim to review the vaccine by Aug. 5", which is almost certainly too
+  late for the vaccine to get into the pipeline for this fall's flu season.  
+  
+The requirement for something like Phase IV on a _flu vaccine_ is a very odd extra
+requirement, it seems to me.  And I just don't get the foot-dragging on approval until
+it's more or less too late.  Maybe it takes time for them to make up disinformation to
+throw at it?  
+
+The FDA said Moderna didn't follow their advice to use the high-dose vaccine in controls,
+but:  
+1. The FDA previously said the control vaccine used was acceptable, so Moderna _did follow_
+   their revised advice.  Pretending otherwise is just Prasad lying about it, signaling
+   that FDA instructions can be changed without notice or rationale.  
+2. The high-dose vaccine is not medically appropriate for the participants ages 50-64.  
+3. The high-dose vaccine is not even legally available in Europe, where much of the trial
+   happened.  
+   
+So they're sticking to just outright lying about what is happening, and demanding a
+fantasy of medically inappropriate and outright illegal controls.  In a particularly
+venomous moment, the recently appointed Marty Makary flirted with what looks to this
+non-lawyer like libel, by calling the Moderna trial "unethical".  
+
+But&hellip; at least they changed their minds, or somebody overrode Prasad.  
+
+So at least the mRNA flu vaccine will be reviewed.  On the other hand, it'll be too late
+for this year's flu season, the anti-vax nuts will almost certainly try to prevent
+approval, and Trump/RFKJr/Prasad/Makary are still campaigning _against_ science.  
+
 ---
 
 ## Notes &amp; References  
@@ -310,3 +347,7 @@ __NB:__ Regrettably paywalled; see [archive copy here](https://archive.ph/4WbRX)
 <a id="fn12">12</a>: [Weekend Editor](mailto:SomeWeekendReadingEditor@gmail.com), ["Missouri: Ivermectin Gag Order"]({{ site.baseurl }}/ivermectin-gag-order/), [_Some Weekend Reading_]({{ site.baseurl }}/) blog, 2022-May-20.  [↩](#fn12a)  
 
 <a id="fn13">13</a>: M Lu, ["Ranked: Countries With the Best Reputations in 2025"](https://www.visualcapitalist.com/ranked-countries-with-the-best-reputations-in-2025/), _Visual Capitalist_, 2025-Oct-06. [↩](#fn13a)  
+
+<a id="fn14">14</a>: L Lawerence, ["FDA reverses course, agrees to review Moderna’s flu vaccine"](https://www.statnews.com/2026/02/18/fda-moderna-reverse-course-flu-vaccine/), _STAT News_, 2026-Feb-18. 
+
+__NB:__ [Archive reference](https://archive.is/cCkfg#selection-1481.77-1481.89), unpaywalled.  [↩](#fn14a)  
