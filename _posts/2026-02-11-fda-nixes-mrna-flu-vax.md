@@ -295,7 +295,7 @@ non-lawyer like libel, by calling the Moderna trial "unethical".
 
 But&hellip; they changed their minds, or somebody overrode Prasad, or&hellip;.  
 
-So at least the mRNA flu vaccine will be reviewed.  On the other hand, it'll be too late
+Now at least the mRNA flu vaccine will be reviewed.  On the other hand, it'll be too late
 for this year's flu season, the anti-vax nuts will almost certainly try to prevent
 approval, and Trump/RFKJr/Prasad/Makary are still campaigning _against_ science.  
 
