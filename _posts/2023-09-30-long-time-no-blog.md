@@ -233,7 +233,6 @@ disturbed of persons would agree with me that these are the high points:
    
    __What we can learn:__ The truth is beautiful.  Seek the truth.  Apply appropriate
    amounts of skepticism.  
-
 <a href="{{ site.baseurl }}/images/2023-09-30-long-time-no-blog-weekend-publisher-and-assistant.jpg"><img src="{{ site.baseurl }}/images/2023-09-30-long-time-no-blog-weekend-publisher-and-assistant-thumb.jpg" width="400" height="533" alt="Weekend Publisher and Weekend Assistant Publisher, in a high-level management staff meeting" title="Weekend Publisher and Weekend Assistant Publisher, in a high-level management staff meeting" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 10. __New Weekend Staff Member:__ Here at Ch&acirc;teau Weekend, we have a new staff
     member.  
