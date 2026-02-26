@@ -125,11 +125,13 @@ permit my inner pedant to squee all about it for you:
    worth their pay.  
 
 6. At the end of the 3rd Punic War (See? Cato was right, Carthage _kept coming back_), the
-   Roman general Scipio Africanus pretty much nuked Carthage: sacked the city, killed the
-   men, enslaved the women &amp; children, and destroyed all the buildings.  
+   Roman general
+   [Scipio Aemilianus (aka Scipio Africanus the Younger)](https://en.wikipedia.org/wiki/Scipio_Aemilianus)
+   pretty much nuked Carthage: sacked the city, killed the men, enslaved the women &amp;
+   children, and destroyed all the buildings.  
    
    A dubious tradition, sometimes ambiguously reported in medieval times, but really
-   established in modern times in the 19th century, says Scipio Africanus also
+   established in modern times in the 19th century, says he also
    [had all the fields plowed up and then salt plowed back into them](https://en.wikipedia.org/wiki/Salting_the_earth#Carthage).
    This would have made the land into a desert unsuitable for agriculture for many generations,
    perhaps forever.  
