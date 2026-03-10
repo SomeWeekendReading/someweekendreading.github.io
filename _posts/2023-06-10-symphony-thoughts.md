@@ -165,7 +165,7 @@ Some related gloomy thoughts:
   collapse of human civilization and at worst general extinction of humanity and a lot
   more?  
 - What if we can't depose the would-be aristocrats of economic inequality, and they move
-  from our current New Gilded Age to a New Dark Ages of hierarchical, fascist society?  
+  from our current New Gilded Age to a New Dark Age of hierarchical, fascist society?  
 - What if the idiots developing AI willy-nilly, in a _huge_ 
   [Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), pursue
   private interests to our extinction as a species, as seems the case now?
