@@ -162,7 +162,7 @@ Some related gloomy thoughts:
 - What if the resulting migrations cause even _more_ xenophobia and fascism?  
 - What if revenant fascism world-wide leads to something _worse_ than war in Ukraine,
   causing mass death and possibly burning us in nuclear fire, leading at best to a
-  collapse of human civilization and at worse general extinction of humanity and a lot
+  collapse of human civilization and at worst general extinction of humanity and a lot
   more?  
 - What if we can't depose the would-be aristocrats of economic inequality, and they move
   from our current New Gilded Age to a New Dark Ages of hierarchical, fascist society?  
@@ -195,9 +195,9 @@ especially how to respect and appreciate other cultures.  This was a time of ["m
 exoticism"](https://en.wikipedia.org/wiki/Exoticism#:~:text=The%20influences%20of,fantasies%20of%20opulence.),
 in which foreign patterns of harmony, rhythm, and style held great currency.  (And by
 "foreign" we mean something a bit narrow by modern standards, i.e., just within Europe.
-Who can say what they'd have thought of a Japanese geisha playing a koto, a multitonal
+Who can say what they'd have thought of a Japanese geisha playing a koto, a microtonal
 piece from China or something played on a Arabian oud, complex African drumming and
-dancing, or a Neanderthal flute?  Or, for that matter, something _atonal_ from
+dancing, or a Neanderthal bone flute?  Or, for that matter, something _atonal_ from
 Sch&ouml;nberg?  Pretty sure _I_ couldn't cope with at least some of those!)  
 
 The Rimsky-Korsakov piece is a perfect example: Russian composer, music along Spanish
@@ -217,14 +217,14 @@ Now, you can look at this from a couple different directions:
 
 I'm with the last group: anything Rimsky-Korsakov "misunderstood" was (a) unintentional,
 and (b) probably handled so brilliantly it looks less like a misunderstanding and more
-like a creative innovation.  
+like a creative reinterpretation.  
 
 As I pondered that, I came up with a way to say this in a nutshell.  Drawing upon a long
 history of Deep Nerdery, it's a riff on
 [Clarke's 3rd Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws#:~:text=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic),
 which says that "Any sufficiently advanced technology is indistinguishable from magic":  
 
->[Any sufficiently brilliant misunderstanding is indistinguishable from creativity.  So don’t fear misunderstanding people; fear __boring__ them.]({{ site.baseurl }}/quotes/#:~:text=Any%20sufficiently%20brilliant%20misunderstanding%20is%20indistinguishable%20from%20creativity.%20So%20don%E2%80%99t%20fear%20misunderstanding%20people%3B%20fear%20boring%20them.)  
+>[Any sufficiently brilliant misunderstanding is indistinguishable from creativity.  So don’t fear misunderstanding people; fear __boring__ them.]({{ site.baseurl }}/quotes/#:~:text=Any%20sufficiently%20brilliant%20misunderstanding)  
 
 
 ## The Weekend Conclusion  
@@ -262,4 +262,4 @@ paying attention.
 <iframe width="400" height="224" src="***" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 -->
 
-<a id="fn1">1</a>: Nah.  
+Nah.  

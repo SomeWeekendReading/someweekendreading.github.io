@@ -37,7 +37,7 @@ timeline:
     regressions.  
   - But in the end, we only really stuck with the casualties.  
 - _2024-Apr-10:_ We began collecting casualty data on the date for each increment of 100k.
-  (With one exception at 50k.  That's how you know it's real data: you can see my
+  (With one exception at 450k.  That's how you know it's real data: you can see my
   mistakes, too!)  
   
 <a href="{{ site.baseurl }}/images/2025-12-31-ukraine-1200k-regress-DayNum1200k-on-Soldiers.png"><img src="{{ site.baseurl }}/images/2025-12-31-ukraine-1200k-regress-DayNum1200k-on-Soldiers-thumb.jpg" width="400" height="400" alt="Current soldiers killed vs day number, compared to initial regression model" title="Current soldiers killed vs day number, compared to initial regression model" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
