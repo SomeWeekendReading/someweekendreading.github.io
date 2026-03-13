@@ -77,7 +77,7 @@ You can probably imagine what happened next: management retaliation.  SSA people
 instructed not to talk to Borges, which of course cripples his ability to do his job
 legally and ethically.  
 
-Journalist Marisa Kabas (and founder of [The Handbasket](https://www.thehandbasket.co/)
+Journalist Marisa Kabas (and founder of [The Handbasket](https://www.thehandbasket.co/))
 reported today that Borges has resigned, and supplies a copy of his letter of forced
 resignation:  
 <a href="https://bsky.app/profile/marisakabas.bsky.social/post/3lxkryweisk2e"><img src="{{ site.baseurl }}/images/2025-08-29-bad-doggies-redux-resignation-1.jpg" width="550" height="967" alt="Kabas @ BlueSky: Borges submits forced resignation; email later disappears from inboxes" title="Kabas @ BlueSky: Borges submits forced resignation; email later disappears from inboxes" style="margin: 3px 3px 3px 3px; border: 1px solid #000000; margin: 0 auto; display: block;"></a>
@@ -100,7 +100,7 @@ of federal records&hellip;  Sometimes the coverup is worse than the original cri
 ## The Weekend Conclusion  
 
 I know dog training has progressed beyond the "swat 'em on the nose with a rolled-up
-newspaper" doctrine of my youth.  There are very few newspapers are left, for one thing.  But I kinda
+newspaper" doctrine of my youth.  There are very few newspapers left, for one thing.  But I kinda
 _do_ wanna swat these ignorant fascists on the nose with a rolled-up newspaper. (Ok, maybe
 gently, 'cause that's who I am.)  
 

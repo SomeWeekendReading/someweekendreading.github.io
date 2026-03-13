@@ -1416,3 +1416,4 @@ _Business Week_, 14-Nov-2003.
   degradation, or wage theft, it should go out of business as soon as possible."  
 - "Those who want to rewrite history seldom bother to read history in the first place (and
   wish we wouldn't, either)."  
+- "Some of my disk drives are so old, their capacity is measured in trilobytes."  
