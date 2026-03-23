@@ -916,7 +916,7 @@ perhaps one of the 20th century's greatest theologians
 "Reality is that which, when you stop believing in it, doesn't go away." 
 &mdash; [Phillip K Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  
 
-"When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist." &mdash; Dom H&eacute;lder Pessoa C&acirc;mara, archbishop of Recife and apostle of social justice  
+"Quando dou comida aos pobres, chamam-me de santo. Quando pergunto por que eles são pobres, chamam-me de comunista." (When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist.) &mdash; [Dom H&eacute;lder Pessoa C&acirc;mara](https://en.wikipedia.org/wiki/H%C3%A9lder_C%C3%A2mara), archbishop of Recife and apostle of social justice; cited in [Zildo Rocha, _Helder, O Dom: uma vida que marcou os rumos da Igreja no Brasil_ (Helder, the Gift: A Life that Marked the Course of the Church in Brazil), Page 53, Editora Vozes, 2000 via WikiQuote](https://en.wikiquote.org/wiki/H%C3%A9lder_C%C3%A2mara#:~:text=Quando%20dou%20comida%20aos%20pobres%2C%20chamam%2Dme%20de%20santo%2E%20Quando%20pergunto%20por%20que%20eles%20s%C3%A3o%20pobres%2C%20chamam%2Dme%20de%20comunista).  
 
 "The poor are not there by chance or by blind and cruel fate. Nor, for most of them, is poverty a choice. Yet, there are those who still presume to make this claim, thus revealing their own blindness and cruelty." &mdash; [Pope Leo XIV](https://en.wikipedia.org/wiki/Pope_Leo_XIV)  
 
