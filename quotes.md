@@ -863,8 +863,9 @@ Without both, one doesn't get to the bottom of anything.")
 
 ## The Religious Ones  
 
-"To be called 'woke' in a world that sleeps through suffering is no insult." &ndash; [Pope Leo XIV](
-)  
+"When I was a boy and I would see scary things in the news, my mother would say to me, 'Look for the helpers. You will always find people who are helping.'" &ndash; [Fred Rogers](https://en.wikipedia.org/wiki/Fred_Rogers)  
+
+"To be called 'woke' in a world that sleeps through suffering is no insult." &ndash; [Pope Leo XIV](https://en.wikipedia.org/wiki/Pope_Leo_XIV)  
 
 "Pride does not go before a fall. Pride is a fall, in the instant understanding of all the
 intelligent who see it." &ndash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
