@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Kings Day II&colon; A Theme Song
-tags: CatBlogging Politics Sadness
+tags: Politics Sadness
 comments: true
 commentsClosed: true
 ---
