@@ -1,0 +1,288 @@
+
+* Segmented Analysis of Russian Casualties in Ukraine on Thu Apr 02 15:29:45 2026
+  - input data directory: ./results
+  - results directory:    ./results
+  - transcript to:        ./results/segmented-ukr-rus-casualties-transcript.txt
+
+Loading updated data:
+---------------------
+
+
+* Updated data file: ./results/russian-casualties-in-ukraine-updated-2026-04-02.tsv
+  - Found 124 rows x 3 columns:
+  - Columns: DayNum, Date, Soldiers
+
+Doing 3-fold crossvalidated segmented fits:
+-------------------------------------------
+
+
+  - Segmented fit, testFold = 1
+    o Train data: 82 points
+    o Test data:  42 points
+    o Simple linear fit, no kinks:
+Call:
+lm(formula = Soldiers ~ DayNum, data = trainData)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-85195  -7929   3396   9245  47654 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 1.054e+05  2.172e+03   48.53   <2e-16 ***
+DayNum      9.813e+02  9.676e+00  101.42   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 17140 on 80 degrees of freedom
+Multiple R-squared:  0.9923,	Adjusted R-squared:  0.9922 
+F-statistic: 1.028e+04 on 1 and 80 DF,  p-value: < 2.2e-16
+
+
+    o Davies test for need of kink:
+	Davies' test for a change in the slope
+
+data:  formula = Soldiers ~ DayNum ,   method = lm 
+model = gaussian , link = identity  
+segmented variable = DayNum
+'best' at = 433.67, n.points = 10, p-value < 2.2e-16
+alternative hypothesis: two.sided
+
+
+    o Segmented fit:
+	***Regression Model with Segmented Relationship(s)***
+
+Call: 
+segmented.lm(obj = linearFit)
+
+Estimated Break-Point(s):
+                Est. St.Err
+psi1.DayNum 404.118 12.476
+
+Coefficients of the linear terms:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 122569.14    1037.73  118.11   <2e-16 ***
+DayNum         698.58      15.49   45.11   <2e-16 ***
+U1.DayNum      525.40      17.89   29.36       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4483 on 78 degrees of freedom
+Multiple R-Squared: 0.9995,  Adjusted R-squared: 0.9995 
+
+Boot restarting based on 9 samples. Last fit:
+Convergence attained in 2 iterations (rel. change 5.2427e-10)
+               Est. CI(95%).low CI(95%).up
+psi1.DayNum 404.118     379.281    428.955
+$DayNum
+          Est. St.Err. t value CI(95%).l CI(95%).u
+slope1  698.58 15.4880  45.106    667.75    729.42
+slope2 1224.00  8.9584 136.630   1206.10   1241.80
+
+
+  - Segmented fit, testFold = 2
+    o Train data: 83 points
+    o Test data:  41 points
+    o Simple linear fit, no kinks:
+Call:
+lm(formula = Soldiers ~ DayNum, data = trainData)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-93617  -7815   3807  10070  42553 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 1.048e+05  2.352e+03   44.54   <2e-16 ***
+DayNum      9.886e+02  9.419e+00  104.95   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 18800 on 81 degrees of freedom
+Multiple R-squared:  0.9927,	Adjusted R-squared:  0.9926 
+F-statistic: 1.102e+04 on 1 and 81 DF,  p-value: < 2.2e-16
+
+
+    o Davies test for need of kink:
+	Davies' test for a change in the slope
+
+data:  formula = Soldiers ~ DayNum ,   method = lm 
+model = gaussian , link = identity  
+segmented variable = DayNum
+'best' at = 358.33, n.points = 10, p-value < 2.2e-16
+alternative hypothesis: two.sided
+
+
+    o Segmented fit:
+	***Regression Model with Segmented Relationship(s)***
+
+Call: 
+segmented.lm(obj = linearFit)
+
+Estimated Break-Point(s):
+                Est. St.Err
+psi1.DayNum 391.861 16.573
+
+Coefficients of the linear terms:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 122525.07    1378.97   88.85   <2e-16 ***
+DayNum         699.43      20.71   33.77   <2e-16 ***
+U1.DayNum      496.74      22.73   21.86       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 5998 on 79 degrees of freedom
+Multiple R-Squared: 0.9993,  Adjusted R-squared: 0.9992 
+
+Boot restarting based on 6 samples. Last fit:
+Convergence attained in 2 iterations (rel. change 3.7462e-10)
+               Est. CI(95%).low CI(95%).up
+psi1.DayNum 391.861     358.873    424.849
+$DayNum
+          Est. St.Err. t value CI(95%).l CI(95%).u
+slope1  699.43 20.7130  33.768     658.2    740.66
+slope2 1196.20  9.3588 127.810    1177.5   1214.80
+
+
+  - Segmented fit, testFold = 3
+    o Train data: 83 points
+    o Test data:  41 points
+    o Simple linear fit, no kinks:
+Call:
+lm(formula = Soldiers ~ DayNum, data = trainData)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-90728  -7718   3541   9713  50805 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 105160.17    2428.05   43.31   <2e-16 ***
+DayNum         981.19      10.13   96.89   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 19340 on 81 degrees of freedom
+Multiple R-squared:  0.9914,	Adjusted R-squared:  0.9913 
+F-statistic:  9387 on 1 and 81 DF,  p-value: < 2.2e-16
+
+
+    o Davies test for need of kink:
+	Davies' test for a change in the slope
+
+data:  formula = Soldiers ~ DayNum ,   method = lm 
+model = gaussian , link = identity  
+segmented variable = DayNum
+'best' at = 433.11, n.points = 10, p-value < 2.2e-16
+alternative hypothesis: two.sided
+
+
+    o Segmented fit:
+	***Regression Model with Segmented Relationship(s)***
+
+Call: 
+segmented.lm(obj = linearFit)
+
+Estimated Break-Point(s):
+                Est. St.Err
+psi1.DayNum 396.416 14.401
+
+Coefficients of the linear terms:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 122457.02    1213.78  100.89   <2e-16 ***
+DayNum         700.73      18.36   38.17   <2e-16 ***
+U1.DayNum      501.86      20.15   24.91       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 5311 on 79 degrees of freedom
+Multiple R-Squared: 0.9994,  Adjusted R-squared: 0.9993 
+
+Boot restarting based on 6 samples. Last fit:
+Convergence attained in 2 iterations (rel. change 4.4846e-10)
+               Est. CI(95%).low CI(95%).up
+psi1.DayNum 396.416     367.752    425.081
+$DayNum
+          Est. St.Err. t value CI(95%).l CI(95%).u
+slope1  700.73 18.3580   38.17    664.19    737.27
+slope2 1202.60  8.3031  144.84   1186.10   1219.10
+
+
+  - Segmented fit, testFold = NA
+    o Train data: 124 points
+    o Test data:  124 points
+    o Simple linear fit, no kinks:
+Call:
+lm(formula = Soldiers ~ DayNum, data = trainData)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-91893  -8011   3589   9665  47634 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 1.051e+05  1.889e+03   55.64   <2e-16 ***
+DayNum      9.840e+02  7.927e+00  124.13   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 18400 on 122 degrees of freedom
+Multiple R-squared:  0.9921,	Adjusted R-squared:  0.9921 
+F-statistic: 1.541e+04 on 1 and 122 DF,  p-value: < 2.2e-16
+
+
+    o Davies test for need of kink:
+	Davies' test for a change in the slope
+
+data:  formula = Soldiers ~ DayNum ,   method = lm 
+model = gaussian , link = identity  
+segmented variable = DayNum
+'best' at = 357.67, n.points = 10, p-value < 2.2e-16
+alternative hypothesis: two.sided
+
+
+    o Segmented fit:
+	***Regression Model with Segmented Relationship(s)***
+
+Call: 
+segmented.lm(obj = linearFit)
+
+Estimated Break-Point(s):
+                Est. St.Err
+psi1.DayNum 396.002  11.96
+
+Coefficients of the linear terms:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 122516.84    1000.80  122.42   <2e-16 ***
+DayNum         699.58      15.03   46.53   <2e-16 ***
+U1.DayNum      505.33      16.70   30.26       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 5330 on 120 degrees of freedom
+Multiple R-Squared: 0.9994,  Adjusted R-squared: 0.9993 
+
+Boot restarting based on 6 samples. Last fit:
+Convergence attained in 2 iterations (rel. change 1.0633e-09)
+               Est. CI(95%).low CI(95%).up
+psi1.DayNum 396.002     372.322    419.682
+$DayNum
+          Est. St.Err. t value CI(95%).l CI(95%).u
+slope1  699.58 15.0350  46.531    669.81    729.35
+slope2 1204.90  7.2692 165.750   1190.50   1219.30
+
+
+* Crossvalidation and final whole-dataset fit results:
+
+  TestFold    Kink sd.Kink. Slope1 sd.Slope1. Slope2 sd.Slope2. lm.Adj.R2
+1        1 404.118   12.476 698.58     15.488 1224.0      8.958     0.992
+2        2 391.861   16.573 699.43     20.713 1196.2      9.359     0.993
+3        3 396.416   14.401 700.73     18.358 1202.6      8.303     0.991
+4       NA 396.002   11.960 699.58     15.035 1204.9      7.269     0.992
+  Adj.R2  lm.RMSE     RMSE
+1  0.999 20596.01 7080.426
+2  0.999 17662.80 3906.167
+3  0.999 16404.75 5384.350
+4  0.999 18246.72 5243.688
+
+* Segmented Analysis of Russian Casualties in Ukraine completed Thu Apr 02 15:29:45 2026 (0.4 sec elapsed).
