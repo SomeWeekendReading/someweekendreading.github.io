@@ -12,7 +12,7 @@ Apparently, ICE is still persistently trying to 'deport' Native Americans?!
 ## ICE _vs_ Native Americans  
 
 <img src="{{ site.baseurl }}/images/2026-04-09-deporting-native-americans-snopes-1.jpg" width="400" height="600" alt="Rascou&euml;t-Paz @ Snopes: TX GOP candidate wants to deport Native American 'savages'" title="Rascou&euml;t-Paz @ Snopes: TX GOP candidate wants to deport Native American 'savages'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-Inveterate readers of this Crummy Little Blog That Nobody Reads will remember when we
+Inveterate readers of this Crummy Little Blog That Nobody Reads (CLBTNR) will remember when we
 wrote about attempts by _armed_ Trump advocates to harass Arizona state representative Eric 
 Descheenie, who is Navajo.  <sup id="fn1a">[[1]](#fn1)</sup>  That was before ICE, so it
 was just pure grass-roots Republican racism that led them to harass any brown-skinned
