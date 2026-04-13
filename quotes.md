@@ -1418,3 +1418,5 @@ _Business Week_, 14-Nov-2003.
 - "Those who want to rewrite history seldom bother to read history in the first place (and
   wish we wouldn't, either)."  
 - "Some of my disk drives are so old, their capacity is measured in trilobytes."  
+- "I'm as emotionally stable as an IKEA table: on any given day, it all depends on how
+  well put together I am."
