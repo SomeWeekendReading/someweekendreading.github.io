@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Snowmageddon Dream Come True
-tags: Beauty CatBlogging &Gammad;&Tau;&Phi;
+tags: Beauty &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: true
 ---
