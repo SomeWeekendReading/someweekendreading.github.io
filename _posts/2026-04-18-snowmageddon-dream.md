@@ -29,8 +29,8 @@ the unlikely source of a storm drain in front of Ch&acirc;teau Weekend.  As mois
 the storm drain is vented up, it hits the grate and collapses like faery magic on cold
 iron, leaving behind these very pretty little flower-like structures.  
 
-They only last a few hours, usually destroyed by sunlight, more moist air, or &endash; in
-this case &endash; being driven over by cars.  
+They only last a few hours, usually destroyed by sunlight, more moist air, or &ndash; in
+this case &ndash; being driven over by cars.  
 
 <img src="{{ site.baseurl }}/images/2026-04-18-snowmageddon-dream-globe-0.jpg" width="400" height="167" alt="Mahan @ Boston Globe: Comparing 2026 to 'Snowmageddon' 2015" title="Mahan @ Boston Globe: Comparing 2026 to 'Snowmageddon' 2015" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <a href="{{ site.baseurl }}/images/2026-04-18-snowmageddon-dream-globe-0a.jpg"><img src="{{ site.baseurl }}/images/2026-04-18-snowmageddon-dream-globe-0a-thumb.jpg" width="400" height="282" alt="People walking in deep channels cut in snow in downtown Boston, 2015" title="People walking in deep channels cut in snow in downtown Boston, 2015" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
