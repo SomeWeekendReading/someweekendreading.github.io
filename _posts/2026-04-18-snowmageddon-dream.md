@@ -132,6 +132,22 @@ The snow farms are kind of ugly after they've been there a few months, but amusi
 
 [(_Ceterum censeo, Trump incarceranda est!_)]({{ site.baseurl }}/ceterum-censeo/)  
 
+
+## Addendum 2026-Apr-28: Snowmageddons Past  
+
+<img src="{{ site.baseurl }}/images/2026-04-18-snowmageddon-dream-snow-farm-before-and-after.jpg" width="400" height="202" alt="Two views of a 2015 Boston snow farm: in winter, and in July.  Probably from the venerable Globe." title="Two views of a 2015 Boston snow farm: in winter, and in July.  Probably from the venerable Globe." style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+I just came across an image I'd saved, probably from the venerable _Globe._  It shows a
+Boston snow farm from 2015.  On the left is a wintertime view (obviously!) and on the
+right is the view in July when it had _finally_ melted.  Both are from about the same
+perspective.  
+- Note the tiny-looking earth-moving equipment atop the mound on the left.  Those are
+  giant earth-moving machines.  
+- Note the sizes of the buildings in the background across the water.  The one with the
+  sphere on top of it, visible on the left, is the air traffic control tower and its
+  radome at the airport.  
+  
+_Moral to the story:_  Snow farms can be _big._  
+
 ---
 
 ## Notes &amp; References  
