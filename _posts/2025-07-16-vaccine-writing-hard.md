@@ -593,7 +593,7 @@ Here are a few examples of what could have gone right (or still could if we coul
    These were "natural experiments", in that nobody set them up like that but they just
    happened due to a variety of social factors.  
    1. In the US, the rapid switchover from Zostavax to Shingrix allowed us to look at the
-      rats of Alzheimer's in each.  The Shingrix cohort got a 17% reduction in diagnoses.  
+      rates of Alzheimer's in each.  The Shingrix cohort got a 17% reduction in diagnoses.  
    2. In Wales, the excellent socialized medicine enabled the analysis to account for other
       kinds of medical care as confounders.  Due to the way there was an age cutoff for
       Shingrix, they observed a 20% reduction in Alzheimer's in the Shingrix cohort in 7
