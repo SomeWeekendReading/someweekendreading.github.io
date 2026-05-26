@@ -532,7 +532,7 @@ nnnnn</a>
 
 <a id="fn7">7</a>: PZ Myers, ["The perils of listening to Marjorie Taylor Greene"](https://freethoughtblogs.com/pharyngula/2025/07/21/the-perils-of-listening-to-marjorie-taylor-greene/), _Pharyngula_ blog, 2025-Jul-21. [↩](#fn7a)  
 
-<a id="fn8">8</a>: R Ruelas, ["Anti-government group with Arizona ties takes credit for weather radar sabotage"](https://archive.is/GsibI#selection-333.0-333.79), _AZ Central_, 2025-Jul-11.  __NB:__ Regrettably paywalled.  The link here goes to an [archive.is](archive.is) snapshot. [↩](#fn8a)  
+<a id="fn8">8</a>: R Ruelas, ["Anti-government group with Arizona ties takes credit for weather radar sabotage"](https://archive.is/GsibI#selection-333.0-333.79), _AZ Central_, 2025-Jul-11.  __NB:__ Regrettably paywalled.  The link here goes to an [archive.is](https://archive.is/) snapshot. [↩](#fn8a)  
 
 <a id="fn9">9</a>: JC Smith, ["An OKC man is accused of vandalizing a TV station's radar. Who else could be involved?"](https://www.oklahoman.com/story/news/crime/2025/07/11/news-9-weather-radar-damaged-vandalism-veterans-on-patrol/84541249007/), _The Oklahoman_, 2025-Jul-11. [↩](#fn9a)  
 
