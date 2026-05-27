@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memorial Day 2026&colon; More Thoughts on the Melian Dialogue
+title: Memorial Day 2026&colon; Thoughts on the Melian Dialogue and Philosopher Cats
 tags: NotableAndQuotable Politics Religion Sadness
 comments: true
 commentsClosed: true
