@@ -514,6 +514,8 @@ defiance of the world." &mdash; [Eric Hoffer](https://en.wikipedia.org/wiki/Eric
 
 "People say he's crazy and maybe he is, but you do not know anyone as stupid as Donald Trump. You just don't." &mdash; [Fran Lebowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz), after decades of close observation  
 
+"It might be concluded from this description that Lucas Fysst was of a melancholy, saturnine disposition, but this was not the case.  He was generally cheerful; well, let us say, as often as the sun shone in Cambridge, and this cheerfulness he attributed to the fact that he read no newspapers except on December 31st when the summary of the past year was published.  '_Gest&aelig; conservatorum_,' he called it, the Deeds of the Conservatives." &mdash; [Philip J Davis](https://en.wikipedia.org/wiki/Philip_J._Davis), [_Thomas Gray: Philosopher Cat_](https://archive.org/details/thomasgrayphilos00davi), 1988, chapter 5, "Her Conscious Tail", p. 32 in the First Harvest/HBJ paperback edition of 1990.  The chapter title is itself a riff on the Thomas Gray poem, ["Ode on the Death of a Favorite Cat"](https://www.poetryfoundation.org/poems/44302/ode-on-the-death-of-a-favourite-cat-drowned-in-a-tub-of-goldfishes#:~:text=Her%20conscious%20tail%20her%20joy%20declared) whose second stanza begins "Her conscious tail her joy declared".  
+
 
 ## Those of Rational &amp; Scientific Bent
 
@@ -1420,3 +1422,6 @@ _Business Week_, 14-Nov-2003.
 - "Some of my disk drives are so old, their capacity is measured in trilobytes."  
 - "I'm as emotionally stable as an IKEA table: on any given day, it all depends on how
   well put together I am."
+- "Is he ['smarter than the average bear'](https://en.wikipedia.org/wiki/Yogi_Bear#:~:text=smarter%20than%20the%20av%2Der%2Dage%20bear)?  Yes.  But, honestly: how smart is a bear?"  
+- "I might have impostor syndrome.  But how can I be sure I'm not just pretending?"  
+
