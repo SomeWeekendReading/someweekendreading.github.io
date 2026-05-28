@@ -103,7 +103,7 @@ under continual attack.  This, probably, is an intentional effect of the Republi
 the zone" strategy.  
 
 <img src="{{ site.baseurl }}/images/2025-05-21-llm-ai-still-crap-thomas-gray-philosopher-cat.jpg" width="200" height="261" alt="PJ Davis: Thomas Gray, Philosopher Cat" title="PJ Davis: Thomas Gray, Philosopher Cat" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-There’s a lovely old book by PJ Davis, called _Thomas Gray, Philosopher Cat_. <sup
+There’s a lovely old book by Philip J Davis, called _Thomas Gray, Philosopher Cat_. <sup
 id="fn4a">[[4]](#fn4)</sup> It’s a slow, gentle book about the slow, gentle life of a
 Cambridge don in years gone by, as he solves academic puzzles accompanied by his
 cat. (It's sort of life I desperately wanted to have as a young man; alas, the world has
@@ -162,7 +162,7 @@ His very blog name, _War by Other Means_, will of course be recognized as an iro
 
 So&hellip; politics is a continuation of war by other means?  Hmpf.[↩](#fn2a)  
 
-<a id="fn3">3</a>: N Toosi,  E Stokols, E Bazail-Eimil, D Nerozzi &amp; I Ward, ["We Learned Something Fascinating About Trump’s Foreign Policy This Week"](https://www.politico.com/news/magazine/2026/01/09/trump-foreign-policy-venezuela-roundtable-00714132?utm_content=user/politico&utm_source=flipboard), _Politico_, 2026-Jan-09. [↩](#fn3a)  
+<a id="fn3">3</a>: N Toosi,  E Stokols, E Bazail-Eimil, D Nerozzi &amp; I Ward, ["We Learned Something Fascinating About Trump’s Foreign Policy This Week"](https://www.politico.com/news/magazine/2026/01/09/trump-foreign-policy-venezuela-roundtable-00714132#:~:text=Thucydides%20would%20be%20so%20happy%20with%20Stephen%20Miller), _Politico_, 2026-Jan-09. [↩](#fn3a)  
 
 <a id="fn4">4</a>: PJ Davis, ["Thomas Gray, Philosopher Cat"](https://archive.org/details/thomasgrayphilos00davi), Harcourt Brace Jovanovich, 1988.  The quote is from Chapter 5, "Her Conscious Tail", p. 32 in the First Harvest/HBJ paperback edition of 1990.  
 

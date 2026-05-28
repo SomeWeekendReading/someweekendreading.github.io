@@ -130,7 +130,7 @@ $$
 \log\left(\frac{\mathbb{E}[Y_1 \vert \mathbf{x}_1]}{\mathbb{E}[Y_2 \vert \mathbf{x}_2]}\right) = \beta' (\mathbf{x}_1 - \mathbf{x}_2)
 $$
 
-So this plus the uncertainty estimates on $\beta$ from the regression get you an estimator
+So this plus the uncertainty estimates on $\beta'$ from the regression get you an estimator
 on the ratio and 95% confidence limits.  
 
 A couple caveats:  
