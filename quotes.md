@@ -887,6 +887,8 @@ _Illustrated London News_, 1914-Aug-22.
 
 "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." &mdash; [Bishop Desmond Tutu](https://en.wikipedia.org/wiki/Desmond_Tutu)  
 
+"There comes a point where we need to stop pulling people out of the river. We need to go upstream and find out why they're falling in." &ndash; [Bishop Desmond Tutu](https://en.wikipedia.org/wiki/Desmond_Tutu)  
+
 "Nothing worth doing is completed in our lifetime;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;therefore, we are saved by hope.<br>
 Nothing true or beautiful or good makes complete sense in any immediate context of history;<br>
