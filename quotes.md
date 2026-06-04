@@ -1213,6 +1213,8 @@ evidence." &mdash; [W. K. Clifford](https://en.wikipedia.org/wiki/William_Kingdo
 
 "Il faut imaginer Sisyphe heureux." (One must imagine Sisyphus happy. I.e., the task of life itself must be a source of joy, even without success, and despite absurdity.)  &mdash; [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), the last sentence of [_Le Mythe de Sisyphe_ (_The Mythy of Sisyphus_)](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)  
 
+"Nostalgia is a poisonous, sticky rat trap." &ndash; [Phil Broughton](https://www.funraniumlabs.com/about-2/), [BlueSky](https://bsky.app/profile/funranium.bsky.social/post/3mni7i7iob22c), 2026-Jun-04, thinking back on grad school days with a younger body but a much harder life.  Hard agree.  
+
 
 ## The One Who Is Voltaire  
 
