@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boston Go _BOOM!_
+title: Boston Go BOOM!
 tags: Beauty CatBlogging Physics &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: true
