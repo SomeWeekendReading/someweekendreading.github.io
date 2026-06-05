@@ -14,13 +14,13 @@ Where's the kaboom?  Boston, that's where!
 Last Saturday, 2026-May-30, at 2:06pm EDT (18:06 GMT) here at Ch&acirc;teau Weekend, we
 were just sitting on the couch reading.  It was raining, so it was no particularly
 shocking thing to hear the boom of thunder.  But&hellip; it was particularly _loud_
-thunder that shook not only the windows but the house.  
+thunder that shook not only the windows, but the entire house, too.  
 
 I thought maybe it was a nearby lightning strike, or at any rate thunder just above the
-house.  But there was no flash, and the Weekend Editrix was suspicious.  
+house.  But there was no flash, and the Weekend Editrix was correctly suspicious.  
 
 Later, it transpired that _everybody_ in eastern Massachusetts thought the thunder was
-above wherever they were.  And it was strong enough to register (slightly) on
+right above wherever they were.  And it was strong enough to register (slightly) on
 seismometers, like a potential earthquake.  (I've experienced very, very minor earthquakes
 in the US, but recently I got to experience a moderate Japanese earthquake.  We were
 eating dinner, and the house began shaking with an amplitude of about 0.5cm at a frequency
@@ -54,7 +54,8 @@ the GLM (geostationary lightning mapper).  It's (apparently, since there was lit
 accompanying explanation) showing the energy release concentrated almost exactly over the
 center of Cape Cod Bay.  
 
-It's worth reflecting for a moment on what makes meteors first glow, and then explode.
+It's worth reflecting for a moment on what makes meteors first glow, and then explode.  
+
 A [meteor air burst](https://en.wikipedia.org/wiki/Meteor_air_burst) is _not_ due to
 atmospheric friction, for the most part.  Instead, things coming in at speeds on the
 order of 120,000 km/hr are going to leave a trail of near vacuum behind them and extremely
@@ -62,22 +63,21 @@ compressed air ahead of them due to the shock wave of their hypersonic passage. 
 speed of sound is about 1,200 km/hr depending on air pressure, temperature, and humidity.
 So we're talking about 100x the speed of sound, in this case.)  
 
-If you adiabatically compress (physicist talk for "suddenly, without allowing time to come
-to equilibrium with surroundings) air that hard, it heats up _enormously._  There are
-nuances that make this statement not completely right, but think of taking all the energy
-in the air atoms in a large volume and compressing it suddenly down to a small volume.
-Suddenly the energy density is _dramatically_ higher, and hence (approximately) the
-temperature also.  
+If you suddenly (without allowing time to come to equilibrium with surroundings) compress
+air that hard, it heats up _enormously._ There are nuances that make this statement not
+completely right, but think of taking all the energy in the air atoms in a large volume
+and compressing it suddenly down to a small volume.  Suddenly the energy density is
+_dramatically_ higher, and hence (approximately) the temperature also.  
 
 <img src="{{ site.baseurl }}/images/2026-06-03-boston-go-boom-publishers-alert.jpg" width="400" height="500" alt="The Weekend Publisher and the Assistant Weekend Publisher are nonplussed" title="The Weekend Publisher and the Assistant Weekend Publisher are nonplussed" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-So the air in front starts to glow brightly, which makes it glow brightly.  Then it finds
-every single little crevice in the meteor and infiltrates it at high speed and high
-pressure.  This more or less blows the meteor apart: a good chunk of its kinetic energy
-upon entry to the atmosphere goes into the bow shock wave, which adiabatically compresses
-air to incandescence, which then pushes into the meteor and blows it apart.  The energy
-source is the kinetic energy of entry at orbital speeds; the transfer to the air is
-structurally fatal to anything other than smallish chunks, which themselves usually burn up
-chemically at high temperatures.  
+So the air in front is highly compressed and high temperature, which makes it glow
+brightly.  Then it finds every single little crevice in the meteor and infiltrates it at
+high speed and high pressure.  This more or less blows the meteor apart: a good chunk of
+its kinetic energy upon entry to the atmosphere goes into the bow shock wave, which
+compresses air to incandescence, which then pushes into the meteor and blows
+it apart.  The energy source is the kinetic energy of entry at orbital speeds; the
+transfer to the air is structurally fatal to anything other than smallish chunks, which
+themselves usually burn up chemically at high temperatures.  
 
 As you can see here, the Weekend Publisher and the Assistant Weekend Publisher took Official
 Notice of the disturbance, but were not otherwise perturbed.  They're both Good Boys
