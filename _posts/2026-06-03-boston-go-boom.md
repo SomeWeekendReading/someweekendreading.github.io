@@ -127,6 +127,6 @@ thought it would be.
 <a id="fn1">1</a>: E Shorey, ["NASA confirms exploding meteor caused boom"](https://thelocalinsidernews.com/nasa-confirms-boom/), _The Local Insider_, 2026-May-30.  
 
 I know approximately nothing about _The Local Insider_.  It appears to be an amalgam of
-what used to be in the now-late-lamented town newspapers.  I wish them well! [↩](#fn1a)  
+what used to be in the now-lamentably-late town newspapers.  I wish them well! [↩](#fn1a)  
 
 <a id="fn2">2</a>: M Dixit, ["75,000 mph-speeding meteor behind massive sonic boom over Massachusetts, NASA says"](https://www.msn.com/en-us/weather/topstories/75000-mph-speeding-meteor-behind-massive-sonic-boom-over-massachusetts-nasa-says/ar-AA24xzZg), _MSN_, no specific date but likely 2026-Jun-01. [↩](#fn2a)  
