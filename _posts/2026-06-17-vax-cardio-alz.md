@@ -161,10 +161,10 @@ shingles, you should get it.  Even if you've previously gotten the older Zostava
 
 ## The Weekend Conclusion  
 
-<a href="{{ site.baseurl }}/images/2026-06-17-vax-cardio-alz-publishers.jpg"><img src="{{ site.baseurl }}/images/2026-06-17-vax-cardio-alz-publishers-thumb.jpg" width="400" height="533" alt="The Weekend Publisher and Assistant find the bright spot somehow" title="The Weekend Publisher and Assistant find the bright spot somehow" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 As Derek Lowe notes in the blog post above that pointed us in this direction in the 
 first place(__emphasis__ added):  
 
+<a href="{{ site.baseurl }}/images/2026-06-17-vax-cardio-alz-publishers.jpg"><img src="{{ site.baseurl }}/images/2026-06-17-vax-cardio-alz-publishers-thumb.jpg" width="400" height="533" alt="The Weekend Publisher and Assistant find the bright spot somehow" title="The Weekend Publisher and Assistant find the bright spot somehow" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 > &hellip; coronavirus vaccines not only keep people out of the hospital with severe viral
 > infections - a fact that has been irrefutably proven in many large studies - but also
 > help to keep elderly patients from dying of major cardiac events. Add that to the
