@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the History Behind "Whitebread Racism"
+title: On the History Behind 'Whitebread Racism'
 tags: Politics Sadness &Gammad;&Tau;&Phi;
 comments: true
 commentsClosed: true
