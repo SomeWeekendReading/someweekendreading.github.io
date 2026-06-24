@@ -1339,7 +1339,7 @@ _Business Week_, 14-Nov-2003.
 - "If you're gonna make me watch this disaster, we're gonna need a _whole_ lot more popcorn."  
 - "It's not that I object so much to you re-inventing the wheel, as much as I want you to
   keep it being _round._"  
-- "For most sociopaths, 'guilt' is a difficult and largely irrelevant abstraction.  It
+- "For most psychopaths, 'guilt' is a difficult and largely irrelevant abstraction.  It
   strongly condemns our era in history that this is a relevant observation."  
 - "The layoffs will continue until management morale improves." &ndash; what it sounds
   like to non-managers  
@@ -1428,4 +1428,4 @@ _Business Week_, 14-Nov-2003.
   well put together I am."
 - "Is he ['smarter than the average bear'](https://en.wikipedia.org/wiki/Yogi_Bear#:~:text=smarter%20than%20the%20av%2Der%2Dage%20bear)?  Yes.  But, honestly: how smart is a bear?"  
 - "I might have impostor syndrome.  But how can I be sure I'm not just pretending?"  
-
+- "It's important to have empathy, but it's essential to have boundaries.  Big boundaries, sure.  But boundaries.  Otherwise the emotional vampires will bleed you dry, and nobody has empathy for _that._"  
