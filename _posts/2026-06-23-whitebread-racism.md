@@ -6,8 +6,8 @@ comments: true
 commentsClosed: true
 ---
 
-It turns out the phrase "whitebread" used to insult white racists has some actual history,
-involving actual&hellip; white bread?!  
+It turns out the term "whitebread", used to insult white American racists/nativists has
+some actual history, involving actual&hellip; white bread?!  
 
 
 ## White Bread and Your Humble Weekend Editor  
@@ -52,10 +52,11 @@ few years ago. <sup id="fn1a">[[1]](#fn1)</sup>
   about \\$300 million in the first half of 2023!  
 - The brand's emergence is related to a fear of immigrants, who owned a lot of small
   bakeries.  They were suspected of being 'dirty', and having 'disease' on their hands.
-  So the sloganeering involved factory bread that was "untouched by human hands":  
+  So the sloganeering involved factory bread that was "untouched by human hands"
+  (__emphasis__ added):  
 
-  > "It's a time when you see newspaper headlines saying, you know, dangerous bakeries
-  > menace the city and germs lurk in your bread. And there's all this kind of huge
+  > "It's a time when you see newspaper headlines saying, you know, __dangerous bakeries
+  > menace the city and germs lurk in your bread.__ And there's all this kind of huge
   > fear-mongering about dangerous bread from small bakeries &mdash; except when you look, no
   > one's actually getting sick or dying from bread," said Aaron Bobrow-Strain, professor
   > of politics at Whitman College and author of "White Bread: A Social History of the
@@ -63,11 +64,11 @@ few years ago. <sup id="fn1a">[[1]](#fn1)</sup>
   > &hellip;  
   > "Industrial Wonder Bread-type bread was everything that the counterculture was
   > against. It was corporate. It was chemical. It was bland. It was white. And so it was
-  > essentially the establishment or 'the man' in bread form," said Bobrow-Strain.  
+  > essentially the establishment or __'the man' in bread form__," said Bobrow-Strain.  
 
 So&hellip; ok.  "Whitebread racist" has some history, though it would be more accurate to
-call it "Wonderbread racist".  Though the latter would probably be bait for hostile
-attention from the team of lawyers the company no doubt has to police such things.  
+call it "Wonderbread racist".  (Though the latter would probably be bait for hostile
+attention from the team of lawyers the company no doubt has to police such things.)  
 
 
 ## The Weekend Conclusion  
