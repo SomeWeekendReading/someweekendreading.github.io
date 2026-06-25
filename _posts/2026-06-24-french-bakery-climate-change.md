@@ -191,6 +191,9 @@ the lies of the fossil fuel incumbents.
 So this is what we're doing: we're bribing companies out of green energy and forcing them
 into dirty fossil fuel energy&hellip; while Europe burns.  
 
+It is now _more expensive_ to try to stop green energy than it is to just let it
+peacefully and profitably happen.  
+
 <img src="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-unfcc-1.jpg" width="400" height="266" alt="UN Sec Gen Ant&oacute;nio Guterres at London Climate Action Week, 2026-Jun-23, calling for taxation of fossil fuel companies" title="UN Sec Gen Ant&oacute;nio Guterres at London Climate Action Week, 2026-Jun-23, calling for taxation of fossil fuel companies" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Meanwhile, UN Secretary-General Ant&oacute;nio Guterres spoke at the London Climate Action
 Week meeting a couple days ago.  <sup id="fn6a">[[6]](#fn6)</sup>  Illustrating how much
