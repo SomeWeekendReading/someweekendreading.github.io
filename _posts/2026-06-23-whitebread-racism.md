@@ -26,9 +26,9 @@ is Japanese rice, I nonetheless bake white bread from time to time.  It's mostly
   [no-knead bread](https://bittmanproject.com/recipe/no-knead-bread/), which yields a
   boule with a nice rustic crust and a chewy, tasty crumb.  
 
-The latter was particularly the bread of choice during the pandemic.  In our religious
-community, it became the bread we baked for our religious gatherings, and people really
-liked it!  
+The latter was particularly our bread of choice during height of the COVID-19 pandemic.
+In our religious community, it became the bread we baked for our religious gatherings
+(once those started happening again), and people really liked it!  
 
 But mostly, during my childhood, bread at home was a manufactured bread: Wonder Bread,
 which got no respect at all.  The crust always tasted kind of burnt to me, and the crumb
