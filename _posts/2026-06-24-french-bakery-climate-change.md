@@ -1,6 +1,6 @@
 ---
 layout: post
-title: French Bakeries and Climate Change
+title: French Bakeries &amp; Climate Change
 tags: CorporateLifeAndItsDiscontents Politics Sadness
 comments: true
 commentsClosed: true
