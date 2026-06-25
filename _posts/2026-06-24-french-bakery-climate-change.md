@@ -138,13 +138,13 @@ all out for us:
   US.  
 - The deaths in the US had to have something like "heat" on the death certificate, leading
   to a severe undercount.  
-- Defining "what's in the European Union" is&hellip; complicated.  
+- Defining what "Europe" or "the European Union" means is&hellip; complicated.  
 
 So she made a plot based on excess deaths over normal in both places, and did _per capita_
 normalization to account for the population difference (the US is somewhat larger, though
 not dramatically).  
 
-Ritchie sums it up nicely:  
+Ritchie sums it up nicely (__emphasis__ added):  
 
 > As I mentioned, I found the initial framing of guns and heat as a contest to be a bit
 > silly — they’re not substitutes. Europe is doing a bad job of protecting itself from
