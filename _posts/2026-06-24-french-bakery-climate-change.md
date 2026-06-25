@@ -128,8 +128,9 @@ Clearly a place for robotic exploration, not tourism!
 <a href="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-bythenumbers-2.png"><img src="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-bythenumbers-2-thumb.jpg" width="400" height="269" alt="H Ritchie @ By the Numbers: result of a more principled comparison of heat deaths &amp; gun deaths in the US &amp; Europe" title="H Ritchie @ By the Numbers: result of a more principled comparison of heat deaths &amp; gun deaths in the US &amp; Europe" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 One interesting, or at least darkly amusing, comparison I saw was that Europeans are
 starting to die of heat from climate change at about the same rate Americans are dying of
-gunfire.  In words usually attributed to HL Mencken, "Interesting, if true."  There are a
-number of issues, but fortunately one has the help of Hannah Ritchie, a senior researcher
+gunfire.  In words usually attributed to HL Mencken, "Interesting, if true."  
+
+There were a number of issues, but fortunately one has the help of Hannah Ritchie, a senior researcher
 at Oxford, writing at _By the Numbers_ <sup id="fn4a">[[4]](#fn4)</sup> to help sort it
 all out for us:  
 - The original measures _excess_ heat deaths over normal in Europe (to capture things like
