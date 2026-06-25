@@ -91,7 +91,7 @@ beyond which human survival is measured in minutes:
   isn't that much difference, at least to my suspicious eye?  
 - The horizontal axis is temperature in Celsius, and the vertical axis is relative
   humidity in %.  
-- The pink zone to the upper left is labelled the "Unsurvivable Zone".  A human here,
+- The pink zone to the upper right is labelled the "Unsurvivable Zone".  A human here,
   without life support equipment, will quickly die.  Even with life support equipment,
   consider: air conditioning _dumps the heat outside,_ which does not improve matters
   overall!  
