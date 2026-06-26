@@ -14,7 +14,9 @@ heavily populated places are quickly approaching medically unsurvivable levels.
 
 I love French bakeries.  Whether _boulangeries_ or _p&acirc;tisseries_, there is a
 delicious experience in the offing, as well as pleasant exchange with the proprietors and
-a cultural lesson.  
+a cultural lesson.  (One time I learned about the terms "pain au chcolat" vs
+"chocolatine", the history of Aquitaine _vs_ one Parisian suburb, and the _Chanson de
+Roland._  They take pastry _seriously!_)  
 
 <a href="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-france-temp-anomaly.jpg"><img src="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-france-temp-anomaly-thumb.jpg" width="400" height="328" alt="Temperature anomaly (deviation from average) in Europe, 2026-Jun-21" title="Temperature anomaly (deviation from average) in Europe, 2026-Jun-21" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 However, today's post on this Crummy Little Blog That Nobody Reads (CLBTNR) is about a
