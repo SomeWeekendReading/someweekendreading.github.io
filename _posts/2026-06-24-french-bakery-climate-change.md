@@ -105,7 +105,7 @@ The temperature in eastern France, say around Nantes, Tours, Le Mans (my PhD the
 advisor was from Le Mans), is 40&deg;C &ndash; 43&deg;C.  It is hotter than the Sahara
 desert, but of course _much_ more humid than a desert!  The chart above tells us that
 relative humidity cannot be above 60% and be compatible with human survival; we should
-expect death reports from western Europe because of climate change in a couple days.  
+expect excess death reports from western Europe because of climate change in a couple days.  
 
 <a href="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-Cristales_cueva_de_Naica.jpg"><img src="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-Cristales_cueva_de_Naica-thumb.jpg" width="400" height="267" alt="Naica Crystal Cave: filled with beautiful selenite crystals, but unsurvivable for more than 10 minutes due to water condensation in your lungs" title="Naica Crystal Cave: filled with beautiful selenite crystals, but unsurvivable for more than 10 minutes due to water condensation in your lungs" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 To be sure, there are worse situations of heat and humidity, but not many.  
