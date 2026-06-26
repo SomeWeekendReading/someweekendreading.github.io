@@ -239,7 +239,7 @@ Not much since then has persuaded me to change my mind.
 
 It really looks like right-wingers, particularly in the US, will cling to their beliefs
 until they're dead.  Unfortunately, a lot of the rest of us around the planet will also
-die for their beliefs.  
+die for their beliefs, just&hellip; _involuntarily._  
 
 Honestly, I dunno what to do about it.  
 
