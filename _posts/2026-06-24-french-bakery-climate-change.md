@@ -66,7 +66,7 @@ heat for better winter comfort; in summer that leads to the deadly result that i
 _hotter_ than outside!  
 
 Europe is also a place where summer humidity can be quite high.  That makes sweating
-ineffective at dumping heat &ndash; more below &ndash; and thus potentially deadly.  
+ineffective at dumping heat &ndash; more below &ndash; and thus potentially deadly.
 Scientists have a way of measuring that, with what's called a
 ["wet bulb" thermometer](https://en.wikipedia.org/wiki/Wet-bulb_temperature):  
 - One thermometer is just the usual thing, with the bulb exposed to the air.  
@@ -77,6 +77,9 @@ Scientists have a way of measuring that, with what's called a
     the air contains all the moisture it can absorb _from any source,_ including the wet
     bulb and including a sweating person.  So the wet bulb will indicate nearly the same
     temperature as the dry bulb.  
+- The difference between the wet bulb and dry bulb temperatures tells you how many degrees
+  of cooling you can expect from evaporation, e.g., by sweating.  Sometimes that goes to
+  zero.  
 	
 When that happens, sweating no longer works.  If the ambient temperature is _above_ human
 the body temperature 37&deg;C = 98.6&deg;F, then you will _absorb_ heat from the
