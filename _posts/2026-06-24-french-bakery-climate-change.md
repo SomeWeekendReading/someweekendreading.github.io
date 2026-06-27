@@ -117,12 +117,12 @@ without life support equipment is about 10 minutes.  Despite no bodies of water 
 present, _you will drown:_  
 - The temperature can be as high as 58&deg;C = 136&deg;F.  That's obviously a problem,
   right there.  
-- The humidity is around 90% &ndash; 99%.  Obviously _another_ problem, but&hellip;  
-
-That's firmly in the "Unsurvivable Zone".  Yes, it could kill you via heat shock, but
-mostly you're gonna drown: your lungs are quite cool compared to the cave air, so the
-humidity condenses in your lungs, which then fill with hot water.  Nothing good comes of
-a lungful of water, whatever the temperature.  
+- The humidity is around 90% &ndash; 99%.  Obviously _another_ problem, being firmly in
+  the "Unsurvivable Zone" in the figure above.  It _could_ kill you with heat shock, but&hellip;  
+- Mostly you're gonna drown.  Your lungs are quite cool compared to the cave air (by about
+  20&deg;C), so the humidity condenses in your lungs (like water beads up on a glass of
+  cold drink in humid summer).  Your lungs then fill with hot water.  Nothing good comes
+  of a lungful of water, whatever the temperature.  
 
 Using refrigerated suits containing large ice packs and cold breathing gear can extend
 your survival time&hellip; to about 30 minutes.  
