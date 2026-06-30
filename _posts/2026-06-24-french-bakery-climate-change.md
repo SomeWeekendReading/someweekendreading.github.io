@@ -247,6 +247,32 @@ Honestly, I dunno what to do about it.
 
 (_Et ceterum censeo, index Epsteiniani divulganda est!_)  
 
+
+## Addendum 2026-Jun-30: Boston's Turn in the Heat  
+
+<img src="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-bostonglobe-1.jpg" width="400" height="178" alt="Chiu &amp; Gloniger @ Globe: Boston getting dangerous wet bulb temperatures" title="Chiu &amp; Gloniger @ Globe: Boston getting dangerous wet bulb temperatures" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<a href="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-bostonglobe-2.jpg"><img src="{{ site.baseurl }}/images/2026-06-24-french-bakery-climate-change-bostonglobe-2-thumb.jpg" width="400" height="242" alt="Chiu &amp; Gloniger @ Globe: Massachusetts forecast wet bulb temperatures for 2026-Jul-02" title="Chiu &amp; Gloniger @ Globe: Massachusetts forecast wet bulb temperatures for 2026-Jul-02" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+Sooner or later, climate change comes around to threaten us all.
+
+Today comes an article from the venerable _Globe_ <sup id="fn7a">[[7]](#fn7)</sup>,
+warning of potentially lethal wet bulb temperatures later this week.  The forecast is
+summarized in the picture shown here: milder wet bulb temperatures out to see and in the
+western part of the state, but most of Mass will be in the 90&deg;F wet bulb range.  
+
+The article has an explanation of 'wet bulb temperature', though regrettably low-brow and
+flensed of any math.  Suffice to say that high wet-bulb temperatures are where sweating no
+longer works because the air simply cannot absorb more moisture.  A fan will _not_ help.
+After a very short time in that kind of humid heat come heat exhaustion, heat stroke, and
+death.  
+
+Recall that researchers differ as to whether the lethal limit is a wet bulb temperature of
+95&deg;F or a more frightening 87.8&deg;F.  Many places in Massachusetts later this week
+will be _above the lethal limit_ if the lower figure is correct.  This is likely a very
+serious situation developing.  
+
+Take shelter.  Many towns will have 'cooling centers' in air conditioned public spaces.
+You should use them.  
+
 ---
 
 ## Notes &amp; References  
@@ -278,3 +304,5 @@ Honestly, I dunno what to do about it.
 <a id="fn5">5</a>: B Plumer, ["Trump Administration to Pay $765 Million to Cancel 4 More Wind Projects"](https://archive.ph/Ghuwr#selection-685.0-685.71), _New York Times_, 2026-Jun-17.  [↩](#fn5a)  
 
 <a id="fn6">6</a>: Ant&oacute;nio Guterres, ["Secretary-General's special address at London Climate Action Week"](https://unfccc.int/news/secretary-general-s-special-address-at-london-climate-action-week), _UN FCC Secretariat_ (aka _UN Climate Change_) web site, 2026-Jun-23. [↩](#fn6a)  
+
+<a id="fn7">7</a>: A Chiu &amp; C GLoniger, ["How dangerous is this week’s heat wave? Check the ‘wet bulb temperature.’"](https://www.bostonglobe.com/2026/06/30/metro/how-dangerous-is-this-weeks-heat-wave-check-wet-bulb-temperature/), _Boston Globe_, 2026-Jun-30. [↩](#fn7a)  
