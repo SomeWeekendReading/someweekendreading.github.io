@@ -1002,7 +1002,7 @@ idealism is only a hobby." &mdash; [G. K. Chesterton](https://en.wikipedia.org/w
 
 "All science, even the divine science, is a sublime detective story. Only it is not set to detect why a man is dead; but the darker secret of why he is alive."
 &mdash; [G. K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton),
-[_The Thing_ Ch 9 'What do they think?'](http://www.gkc.org.uk/gkc/books/The_Thing.txt).  
+[_The Thing,_ Ch 9 'What do they think?'](http://www.gkc.org.uk/gkc/books/The_Thing.txt).  
 
 "I have sometimes had occasion to murmur meekly that those who endure the heavy labour
 of reading a book might possibly endure that of reading the title-page of a book.  For
