@@ -89,7 +89,7 @@ that
 [we made similar use of an essay in _The Thing_, whence the concept of Chesterton's Fence.](https://www.someweekendreading.blog/onion-fences/)  
 
 Today's memory that reached out the back of my skull &amp; yanked on my ponytail is from
-Chapter 9, "What Do They Think?":  
+Chapter 9, "What Do They Think?" ([enshrined on the quotes page]({{ site.baseurl }}/quotes/#:~:text=All%20science%2C%20even%20the%20divine%20science%2C%20is%20a%20sublime%20detective%20story%2E%20Only%20it%20is%20not%20set%20to%20detect%20why%20a%20man%20is%20dead%3B%20but%20the%20darker%20secret%20of%20why%20he%20is%20alive%2E%E2%80%9D) of this very CLBTNR):  
 
 > All science, even the divine science, is a sublime detective story. Only it is not set to
 > detect why a man is dead; but the darker secret of why he is alive.  
