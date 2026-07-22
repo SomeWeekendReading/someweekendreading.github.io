@@ -14,7 +14,7 @@ calendar we use in any sense optimal?
 
 <img src="{{ site.baseurl }}/images/2024-02-29-leap-year-revised-epicycle.jpg" width="400" height="345" alt="Epicycles and deferents in Ptolomean systems, or how planetary orbits look from the surface of the Earth" title="Epicycles and deferents in Ptolomean systems, or how planetary orbits look from the surface of the Earth" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The thing is, the mean solar year, determined astronomically, is 365.2421897 days.  It may
-perhaps come to your attention that this is not an integer.  This is because there is no
+perhaps have come to your attention that this is not an integer.  This is because there is no
 particular reason the earth should rotate on its axis an integer number of times during
 the time it goes once around the sun.  These are celestial bodies, not gears (Hipparchus, 
 Ptolemy and their [epicycles and deferents](https://en.wikipedia.org/wiki/Deferent_and_epicycle) 
@@ -23,7 +23,7 @@ notwithstanding!).
 Why should we care?  
 
 Consider your average Neolithic farmer in northern Europe.  The growing season is short,
-and the ancestral grain strains didn't grow as fast as modern ones.  If you plant to
+and the ancestral grain strains didn't grow as fast as modern ones.  If you plant too
 early, your crops freeze and die.  If you plant too late, fall comes before maturity and
 your crops freeze and die.  Shortly after that, you and everyone you know and love 
 will starve and die, since you had no harvest.  
