@@ -99,7 +99,7 @@ So:
 - The rest of us attacking the mystery of how we can all live meaningful and good lives is
   Safety-II (how to make it all go right).  
 
-Chesterton is qualified to have an opinion here, both as the author of books on relgion &amp;
+Chesterton is qualified to have an opinion here, both as the author of books on religion &amp;
 ethics, as well as the author of the
 [Father Brown mysteries](https://en.wikipedia.org/wiki/Father_Brown)!  
 
