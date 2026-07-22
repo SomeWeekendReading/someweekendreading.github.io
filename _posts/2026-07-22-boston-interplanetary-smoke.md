@@ -74,7 +74,7 @@ _rapidly_ worse, and lead to mass deaths in unexpected parts of the world.
 ## The Weekend Conclusion  
 
 The more important point: _we must stop burning fossil fuels &ndash; all of them, everywhere._
-Summer fires like this are going to be worse every year, for decades.  And the crop
+Summer fires like this are going to be worse every year, for decades.  And then the crop
 failures.  And the migrating disease organisms.  And the coastal inundations.  
 
 In the US, this will of course require a change in government, back to people who are at
