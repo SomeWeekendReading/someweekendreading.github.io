@@ -178,7 +178,7 @@ those who do know aren't telling."
 ## The Weekend Conclusion  
 
 [Panopticon](https://en.wikipedia.org/wiki/Panopticon) crap like this is making people
-really, _really_ angry (including your humble Weekend Editor; as you may perhaps have noticed).
+really, _really_ angry (including your humble Weekend Editor, as you may perhaps have noticed).
 We hate surveillance capitalism. We hate ICE.  We hate AI data centers.  But
 the powerful&hellip; they _love_ those things.  
 
