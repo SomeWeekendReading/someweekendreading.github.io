@@ -163,7 +163,7 @@ don't know what Massachusetts state law says about privately-owned surveillance 
 
 Why would Tufts do that? 
 - Do they think there is a wave of crime, perpetrated by criminals dumb enough to drive to
-  a crime site in their own cars?  
+  a crime scene in their own cars?  
 - Do they want to track students?  
 - Do they want to track faculty &amp; staff, particularly their work hours?  
 - Who in the Tufts administration or police force has access to this surveillance data,
@@ -178,7 +178,7 @@ those who do know aren't telling."
 ## The Weekend Conclusion  
 
 [Panopticon](https://en.wikipedia.org/wiki/Panopticon) crap like this is making people
-really, _really_ angry (including your humble Weekend Editor; perhaps you've noticed?).
+really, _really_ angry (including your humble Weekend Editor; as you may perhaps have noticed).
 We hate surveillance capitalism. We hate ICE.  We hate AI data centers.  But
 the powerful&hellip; they _love_ those things.  
 
