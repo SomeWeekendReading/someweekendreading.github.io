@@ -113,7 +113,8 @@ given that they have to use either cellular or WiFi to report data:
 
 <img src="{{ site.baseurl }}/images/2026-07-23-tufts-flock-gizmodo-1.jpg" width="400" height="261" alt="Caffier @ Gizmodo: public rage against surveillance cameras" title="Caffier @ Gizmodo: public rage against surveillance cameras" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Just _finding_ the cameras is a start, but many communities want to go further.  As
-reported by Justin Caffier in _Gizmodo_, it's gotten really, really _angry_ out there:  
+reported by Justin Caffier in _Gizmodo_ <sup id="fn1a">[[1]](#fn1)</sup>, it's gotten
+really, really _angry_ out there:  
 
 > Backlash against the $7.5 billion startup Flock Safety—the maker of AI-powered, license
 > plate-scanning, pole-mounted surveillance cameras—has gone from brewing to boiling over in
