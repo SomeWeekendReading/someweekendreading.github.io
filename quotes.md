@@ -1429,3 +1429,14 @@ _Business Week_, 14-Nov-2003.
 - "Is he ['smarter than the average bear'](https://en.wikipedia.org/wiki/Yogi_Bear#:~:text=smarter%20than%20the%20av%2Der%2Dage%20bear)?  Yes.  But, honestly: how smart is a bear?"  
 - "I might have impostor syndrome.  But how can I be sure I'm not just pretending?"  
 - "It's important to have empathy, but it's essential to have boundaries.  Big boundaries, sure.  But boundaries.  Otherwise the emotional vampires will bleed you dry, and nobody has empathy for _that._"  
+- "If you only respond to burning issues, people will learn to set stuff on fire."  
+- "It's harder than you might think to give Medusa a haircut."  
+- "Pick up chainsaws by the handle, not the blade.  Be certain which is which."  
+- "The end goal of investing is not to have to worry about money.  If your investments
+  make you worry about money, you're doing it wrong."  
+- "Common sense always sounds boring, until you try something else."  
+- "Changing one's mind based on experience is something to praise, not criticize.  People
+  who cannot change their minds can barely be said to have minds at all."  
+- "People are often afraid of looking foolish. Looking foolish is the natural consequence
+  of foolish behavior. But actually BEING a fool is the natural consequence of failing to
+  learn from this."  

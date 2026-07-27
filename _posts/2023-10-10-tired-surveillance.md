@@ -194,7 +194,7 @@ At this moment in history in the US, Cindy Cohn, executive director of EFF, says
 
 <img src="{{ site.baseurl }}/images/be-seeing-you.gif" width="200" height="150" alt="'Be seeing you' from 'The Prisoner', as a greeting in a highly surveilled dystopia" title="'Be seeing you' from 'The Prisoner', as a greeting in a highly surveilled dystopia" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 At least in the European Union, surveillance data can only be used to investigate
-serious crimes, not for constant surveillance of the public.  THe US has no federal
+serious crimes, not for constant surveillance of the public.  The US has no federal
 policy; anybody can do anything, and the state legislatures are pretty hoplessly
 gerrymandered for Republican obstinacy and power-worship.  
 

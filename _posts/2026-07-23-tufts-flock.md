@@ -37,8 +37,9 @@ The key questions for me are:
   for whom there's no current arrest warrant or not in hot pursuit is ignored? 
   - And can we get camera operators audited to enforce conforming with such a rule?  
 
+Now we can answer some of those questions, and the answers are _not_ pretty:  
+
 <a href="https://mefi.social/@MissConstrue/116927808934326955"><img src="{{ site.baseurl }}/images/2026-07-23-tufts-flock-mastodon-1.jpg" width="550" height="863" alt="MissConstrue @ Mastodon: Flock cameras used for political surveillance" title="MissConstrue @ Mastodon: Flock cameras used for political surveillance" style="margin: 3px 3px 3px 3px; border: 1px solid #000000; margin: 0 auto; display: block;"></a>
-Now we can answer some of those questions, and the answers are not pretty.  
 
 As reported here by an acquaintance on social media, there are ways to track such
 cameras (more ways below).  Some are via crowdsourcing, some are via requiring disclosure

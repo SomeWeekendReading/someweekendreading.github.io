@@ -75,7 +75,7 @@ There was one such snow farm next to my lab back in 2015.  Here are some views o
   snow farm has built a mountain about 4 stories tall, and as big as a parking lot that
   spans maybe half a city block.  And it was one of dozens such snow farms.  
 
-We had an office betting pool about when it would melt.  As I recall, nobody one because
+We had an office betting pool about when it would melt.  As I recall, nobody won because
 nobody would be so extreme as to guess it melted in July.  But, July it was.  It left
 behind mounds of broken glass, asphalt, a couple shopping carts, and even a fire hydrant:
 all stuff that got scraped off by giant snowplows, operated none too carefully.  
