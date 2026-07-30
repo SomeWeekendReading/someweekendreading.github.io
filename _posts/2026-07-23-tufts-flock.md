@@ -195,6 +195,68 @@ Elections are in November.  Vote for Democrats, no matter what.  Put a stop to t
 
 (_Et ceterum censeo, index Epsteiniani divulganda est!_)  
 
+
+## Addendum 2026-Jul-30: The Venerable Globe Weighs In on Massachusetts Backlash Against Flock  
+
+<img src="{{ site.baseurl }}/images/2026-07-23-tufts-flock-globe-1.jpg" width="400" height="478" alt="Toby @ Globe: Massachusetts backlash against Flock surveillance cameras" title="Toby @ Globe: Massachusetts backlash against Flock surveillance cameras" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+Just today, the venerable _Globe_ weighed in <sup id="fn2a">[[2]](#fn2)</sup> on the
+apparent backlash across Massachusetts against Flock surveillance cameras and ALPRs for
+tracking innocent people.  
+
+It's one thing to acknowledge that approximately everybody has a phone with a camera.
+People who think you're committing a crime or who witness police violence may record this
+and publish the result.  That's at least under individual control.  
+
+On the other hand, we're &mdash; regrettably &mdash; inured to some kinds of surveillance
+cameras, such as Ring doorbells.  We get even less comfortable when we find that the data,
+stored in the cloud, is used by police to surveil our neighborhoods.  The fact that this
+is all done with no warrants whatsoever is even more galling.  
+
+Yes, they help solve crimes.  Yes, they are also blatantly unconstitutional searches.
+Given power and the secrecy with which to use it, it is _inevitably_ abused and lied about
+to cover up that abuse(__emphasis__ added):  
+
+> At the same time, some uses by law enforcement have been more controversial: Authorities
+> in Texas, which has a near total ban on abortions, allegedly accessed Flock data to
+> __investigate a woman suspected of having an abortion__, claiming they were working on a
+> missing person’s case; some jurisdictions have __shared people’s data with Immigration and
+> Customs Enforcement, or ICE__.  
+>  
+> Another concern privacy advocates raise is the lax oversight over searches in the
+> system. To conduct a search, officers must select a reason for the search and have a
+> case number. But the American Civil Liberties Union says it found __officers often just
+> put down a single word: “investigation.”__ Earlier this year, two officers in Milwaukee
+> used the technology to __search for their ex-girlfriends__ — one reportedly did so more than
+> 120 times.  
+
+So police, tending to the far right politically, tend to abuse these systems in ways that
+are driven by their far right politics: tracking people who might be seeking reproductive
+health care, tracking ex-girlfriends, offering locations to ICE for their kidnappings,
+and so on.  
+
+Most galling to me is the show of complete contempt for the requirement of justification,
+with the single word "investigation": they think there should be _no_ limits on what they
+can do, and any requirements to the contrary are just going through the motions.  
+
+<a href="{{ site.baseurl }}/images/2026-07-23-tufts-flock-globe-2.jpg"><img src="{{ site.baseurl }}/images/2026-07-23-tufts-flock-globe-2-thumb.jpg" width="400" height="377" alt="Toby @ Globe: What Flock captures about your car" title="Toby @ Globe: What Flock captures about your car" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+There are _no_ restrictions on what police departments can do with the data, and _no_
+restrictions on how long they can keep it if they download it.  If you're an activist
+against ICE or police violence, expect them to know every trip you make in your car, for
+_years._  
+
+The excuse-making is also nearly endless:  
+
+> Some of the opposition to Flock has its origins in the Trump administration’s
+> controversial campaign to step up deportations of immigrants. __While Flock says it does not
+> contract directly with ICE, the immigration agency has been able to access its data
+> through cooperating law enforcement agencies that subscribe to Flock, according to
+> published reports.__  
+
+So Flock says it does not _itself_ share data with ICE, it is happy to supply data to
+police who _do_ share data with ICE, with enthusiasm.  The link doesn't even have to be
+direct: your police department might share data with another police department in, say,
+Texas which has no hesitation at involving ICE.  
+
 ---
 
 ## Notes &amp; References  
@@ -216,3 +278,5 @@ Elections are in November.  Vote for Democrats, no matter what.  Put a stop to t
 -->
 
 <a id="fn1">1</a>: J Caffier, [" It's Never Been Cooler to Take Down a Flock Camera"](https://gizmodo.com/its-never-been-cooler-to-take-down-a-flock-camera-2000786732), _Gizmodo_, 2026-Jul-17. [↩](#fn1a)  
+
+<a id="fn2">2</a>: Y Toby, ["Why Flock surveillance cameras are drawing fierce backlash across Massachusetts"](https://www.bostonglobe.com/2026/07/30/business/flock-safety-cameras-pushback-massachusetts/?event=event12), _Boston Globe_, 2026-Jul-30. [↩](#fn2a)  
