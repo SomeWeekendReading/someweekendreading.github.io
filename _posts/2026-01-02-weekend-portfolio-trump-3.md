@@ -324,7 +324,7 @@ __NB:__ The link here goes to an archival site, to avoid the regrettable paywall
 
 <a id="fn4">4</a>: W Edwards, ["Stocks are roaring higher this year, but Vanguard says investors should stick 70% of their money into bonds"](https://www.businessinsider.com/investing-advice-60-40-portfolio-vanguard-stock-vs-bond-2025-8), _Business Insider_, 2025-Aug-06. [↩](#fn4a)  
 
-<a id="fn5">5</a>: Vanguard Staff, ["Bonds remain in favor in time-varying model portfolio"](https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/bonds-remain-favor-time-varying-model-portfolio.html), _Vanguard_ web site, 2025-Dec-10.  __NB:__ This article is apparently updated periodically, so you should expect to have to look at the latest version. [↩](#fn5a)  
+<a id="fn5">5</a>: Vanguard Staff, ["Bonds remain in favor in time-varying model portfolio"](https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/bonds-remain-favor-time-varying-model-portfolio.html), _Vanguard_ web site, 2025-Dec-10.  __NB:__ This article is apparently updated periodically.  So you should expect this link to take you to the latest version, which will likely have changed from the time we used it. [↩](#fn5a)  
 
 <a id="fn6">6</a>: Vanguard Staff, ["Vanguard Capital Markets Model® forecasts"](https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-return-forecasts.html), _Vanguard_ web site, 2025-Dec-10. [↩](#fn6a)  
 
