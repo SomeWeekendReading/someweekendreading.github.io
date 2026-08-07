@@ -44,6 +44,9 @@ Need I point out that the residents of these territories would be unlikely to be
 considered sufficiently "white" by the standards of the white supremacists currently running the
 Republican party?  
 
+
+## Of Course, It Doesn't Stop There  
+
 It just keeps going on: they want to restrict voting so much, and make it so hard, that
 only their white conservative rural voters can do it.  
 
