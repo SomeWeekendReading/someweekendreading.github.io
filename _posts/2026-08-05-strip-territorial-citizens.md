@@ -68,7 +68,7 @@ time, for any reason.  And they do!  Most of those bills go nowhere, legislative
 are purely a virtue signaling mechanism to exhibit the beliefs of the legislator before voters and
 other politicians.  
 
-So this will almost certainly _not_ become law.  
+So the lamentable HR 9724 will almost certainly _not_ become law.  
 
 But&hellip; consider: _this_ venomous hatred of anything outside their narrow definition
 of American is what they _want_ to signal.  They think this is _virtue._  

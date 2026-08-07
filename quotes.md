@@ -1440,3 +1440,4 @@ _Business Week_, 14-Nov-2003.
 - "People are often afraid of looking foolish. Looking foolish is the natural consequence
   of foolish behavior. But actually BEING a fool is the natural consequence of failing to
   learn from this."  
+- "Where money is speech, the rich talk loud."  
