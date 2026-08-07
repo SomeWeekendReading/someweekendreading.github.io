@@ -71,7 +71,7 @@ other politicians.
 So the lamentable HR 9724 will almost certainly _not_ become law.  
 
 But&hellip; consider: _this_ venomous hatred of anything outside their narrow definition
-of American is what they _want_ to signal.  They think this is _virtue._  
+of 'American' is what they _want_ to signal.  They think this is _virtue._  
 
 [(_Ceterum censeo, Trump incarceranda est!_)]({{ site.baseurl }}/ceterum-censeo/)  
 
