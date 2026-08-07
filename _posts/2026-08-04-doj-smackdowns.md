@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Department of Justice Denied Access to State Voter Roles&hellip; Again
+title: Department of Justice Denied Access to State Voter Rolls&hellip; Again
 tags: CorporateLifeAndItsDiscontents MathInTheNews Politics R Statistics
 comments: true
 commentsClosed: true

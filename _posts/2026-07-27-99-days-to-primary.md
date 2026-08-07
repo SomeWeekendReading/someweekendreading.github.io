@@ -19,7 +19,8 @@ while we are all looking forward to the Big Trump Whump:
 
 > 99 days to the primary,  
 > 99 days remain.  
-> Mark one down, canvass your town,  
+> Mark one down,  
+> Canvass your town,  
 > 98 days to the primary!  
 
 As you can see from the photo, the Weekend Publisher and the Assistant Weekend Publisher
