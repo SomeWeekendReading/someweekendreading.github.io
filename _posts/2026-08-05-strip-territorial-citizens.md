@@ -48,7 +48,7 @@ It just keeps going on: they want to restrict voting so much, and make it so har
 only their white conservative rural voters can do it.  
 
 <img src="{{ site.baseurl }}/images/2026-08-05-strip-territorial-citizens-dd-1.jpg" width="400" height="223" alt="Democracy Docket: Republican National Committee proposes that Nebraska disenfranchise legitimate overseas voters" title="Democracy Docket: Republican National Committee proposes that Nebraska disenfranchise legitimate overseas voters" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
-For example, the sheer venom for everything outside the US makes Republicans want to
+For example, the sheer venom for everything outside the US makes Republicans even want to
 disenfranchise American citizens who live abroad.  _Democracy Docket_
 reports <sup id="fn3a">[[3]](#fn3)</sup> that the Republican National Committee itself is
 trying to get the state of Nebraska to do exactly that: nullify the votes of Americans who
