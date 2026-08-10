@@ -64,7 +64,7 @@ stupid &amp; stubborn fascists never give up until you remove them by force or b
 sentences, so this is worth knowing.  
 
 Let $p$ denote the unknown probability of success of the DoJ in lawsuits to get control of
-state voter registration.  Then, being charitably unbiased, we can say we know nothing of
+state voter registration.  Then, being charitably unbiased, we can posit that we know nothing of
 the value of $p$ before seeing some examples.  We would say, as Bayesians, that it has an
 uninformative prior like a uniform distribution on [0, 1]:  
 
@@ -93,7 +93,8 @@ $$
 $$
 
 where the normalization is
-$B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).  
+$B(\alpha, \beta)$ is the [complete Beta function](https://en.wikipedia.org/wiki/Beta_function).
+Here, $\alpha = k + 1$ and $\beta = N - k + 1$.
 
 This is something we've done many times on this Crummy Little Blog That Nobody Reads
 (CLBTNR).  It's a trick that should be _much_ more widely known!  
