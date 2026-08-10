@@ -73,18 +73,19 @@ p \sim \mbox{Uniform}(0, 1)
 $$
 
 Now, we've observed $N = 20$ trials of which the DoJ has won $k = 0$.  We can assume the
-number of successes should be independently identically binomially distributed, with
-success probability $p$:  
+number of successes should be independently identically distributed under a binomial
+distribution, with success probability $p$:  
 
 $$
 \Pr(N_{Successes}) = \binom{N}{k} p^k (1-p)^{(N-k)}
 $$
 
 But once we have evidence about $N$ and $k$, how should we update our beliefs about how
-$p$ is distributed?  Obviously one temptation is the point estimate of $p \approx k/N =
-0$, but that's an overcommittment.  We know the value of $p$ is _small,_ but it still
-might be nonzero.  It's well known, at least among people who know such things, that the
-result is a [Beta distribution of the first kind](https://en.wikipedia.org/wiki/Beta_distribution)
+$p$ is distributed?  Obviously one temptation is the point estimate of $p \approx k/N$,
+but that's an overcommittment, neglecting uncertainty due to the finite number of
+observations.  We know the value of $p$ is _small,_ but it still might be nonzero.  It's
+well known, at least among people who know such things, that the result is a
+[Beta distribution of the first kind](https://en.wikipedia.org/wiki/Beta_distribution)
 $p$:  
 
 $$
@@ -105,7 +106,7 @@ So let's see what it says about our case:
   of our remaining uncertainty about $p$.  
   
 __Conclusion:__ We're pretty sure the probability of any future success by the DoJ is
-about 3.2%.  We're 95% sure the limits are about 0.1% &ndash; 16.1%.  
+about 3.2%.  We're 95% sure it's somewhere between 0.1% &amp; 16.1%.  
 
 The [R](https://www.r-project.org/) script to do this is, as usual, available for your
 inspection and peer review. <sup id="fn2a">[[2]](#fn2)</sup>  
@@ -113,9 +114,13 @@ inspection and peer review. <sup id="fn2a">[[2]](#fn2)</sup>
 
 ## The Weekend Conclusion  
 
-Basically, at this point, we'd guess the DoJ has about a 3% chance of success at this
-business.  The smart lawyers, with a good sense of survival, have either already left or
+Basically, at this point, we'd guess the DoJ has about a 3% chance of success in this
+business.  The smart lawyers, with good survival instincts, have either already left or
 will at least stop doing _this._  
+
+Apparently there are many non-smart lawyers at DoJ.  
+
+Or at least many who are willing to be intimidated by non-smart fascist bosses.  
 
 [(_Ceterum censeo, Trump incarceranda est!_)]({{ site.baseurl }}/ceterum-censeo/)  
 
