@@ -1441,3 +1441,6 @@ _Business Week_, 14-Nov-2003.
   of foolish behavior. But actually BEING a fool is the natural consequence of failing to
   learn from this."  
 - "Where money is speech, the rich talk loud."  
+- "No, I am _not_ happy with Camus saying, 'One must imagine Sisyphus happy.'  Sisyphus in
+  that myth was in _hell;_ we can do better than that (almost by definition of 'hell').  A
+  better approach: 'One must imagine a world in which no one need imagine Sisyphus in hell.'"  

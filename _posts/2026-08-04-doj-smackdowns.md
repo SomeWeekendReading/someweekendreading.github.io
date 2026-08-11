@@ -63,6 +63,7 @@ What should we believe about the probability of success if they try it again?  B
 stupid &amp; stubborn fascists never give up until you remove them by force or by prison
 sentences, so this is worth knowing.  
 
+<img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-betas.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Let $p$ denote the unknown probability of success of the DoJ in lawsuits to get control of
 state voter registration.  Then, being charitably unbiased, we can posit that we know nothing of
 the value of $p$ before seeing some examples.  We would say, as Bayesians, that it has an
