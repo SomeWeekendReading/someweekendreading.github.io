@@ -1434,6 +1434,7 @@ _Business Week_, 14-Nov-2003.
 - "If you only respond to burning issues, people will learn to set stuff on fire."  
 - "It's harder than you might think to give Medusa a haircut."  
 - "Pick up chainsaws by the handle, not the blade.  Be certain which is which."  
+- "It doesn't matter how _gently_ you get hugged by a chainsaw."  
 - "The end goal of investing is not to have to worry about money.  If your investments
   make you worry about money, you're doing it wrong."  
 - "Common sense always sounds boring, until you try something else."  
