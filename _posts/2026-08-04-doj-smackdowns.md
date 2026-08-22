@@ -120,7 +120,7 @@ Basically, at this point, we'd guess the DoJ has about a 3% chance of success in
 business.  The smart lawyers, with good survival instincts, have either already left or
 will at least stop doing _this._  
 
-Apparently there are many non-smart lawyers at DoJ.  
+Apparently there are many other, non-smart, lawyers at DoJ.  
 
 Or at least many who are willing to be intimidated by non-smart fascist bosses.  
 
