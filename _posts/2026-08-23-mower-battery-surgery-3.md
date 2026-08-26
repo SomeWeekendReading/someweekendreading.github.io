@@ -61,7 +61,7 @@ After first propitiating the various trickster deities (most of whom are related
 [Wolfgang Pauli](https://en.wikipedia.org/wiki/Pauli_effect), waiting to pounce upon aging
 theoretical physicists attempting anything practical), we began the surgery.  
 
-Here you see our [_mise en place_](https://en.wikipedia.org/wiki/Mise_en_placee).  Unlike
+Here you see our [_mise en place_](https://en.wikipedia.org/wiki/Mise_en_place).  Unlike
 the previous time, we were not this time under the supervision of the Assistant Weekend
 Publisher &mdash; the junior cat Chez Weekend &mdash; as he was assisting the Weekend
 Publisher in some urgent cat-napping business.  So nobody was in Cat Jail this time, eager
