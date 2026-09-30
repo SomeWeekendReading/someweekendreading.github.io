@@ -1450,3 +1450,5 @@ _Business Week_, 14-Nov-2003.
 - "No, I am _not_ happy with Camus saying, 'One must imagine Sisyphus happy.'  Sisyphus in
   that myth was in _hell;_ we can do better than that (almost by definition of 'hell').  A
   better approach: 'One must imagine a world in which no one need imagine Sisyphus in hell.'"  
+- "I may not have my ducks in a row, but at least there's a statistically significant
+  regression line through them."  

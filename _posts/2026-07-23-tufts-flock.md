@@ -214,7 +214,7 @@ is all done with no warrants whatsoever is even more galling.
 
 Yes, they help solve crimes.  Yes, they are also blatantly unconstitutional searches.
 Given power and the secrecy with which to use it, it is _inevitably_ abused and lied about
-to cover up that abuse(__emphasis__ added):  
+to cover up that abuse (__emphasis__ added):  
 
 > At the same time, some uses by law enforcement have been more controversial: Authorities
 > in Texas, which has a near total ban on abortions, allegedly accessed Flock data to

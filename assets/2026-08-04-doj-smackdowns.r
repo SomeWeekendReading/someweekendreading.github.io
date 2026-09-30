@@ -12,6 +12,7 @@
 
 source("../../tools/graphics-tools.r")                 # Randumb graphics hax
 
+## > doit(k = 0, N = 24, plotFile = "foo.png") # 2026-Sep-16, https://bsky.app/profile/marcelias.bsky.social/post/3mvq6x6sta224
 doit <- function(k = 0, N = 20, destDir = ".", plotFile = "2026-08-04-doj-smackdowns.png") {
   withPNG(file.path(destDir, plotFile), 800, 400, FALSE, function() {
     withPars(function() {                              # Capture graphics to file
@@ -32,7 +33,7 @@ doit <- function(k = 0, N = 20, destDir = ".", plotFile = "2026-08-04-doj-smackd
 
       ## Magic numbers 0.005 & 5.5 from looking at the plot and guessing
       text(x = cls + c(-0.005, 0.005, 0.005), y = 5.5, pos = c(3, 1, 1), srt = 90,
-           col    = c("gray", "black", "gray"),
+           col    = c("gray", "black", "gray"),        #
            labels = c(sprintf("95%% LCL: %.3f", cls[[1]]),
                       sprintf("Median: %.3f",   cls[[2]]),
                       sprintf("95%% UCL: %.3f", cls[[3]])))
@@ -41,6 +42,8 @@ doit <- function(k = 0, N = 20, destDir = ".", plotFile = "2026-08-04-doj-smackd
              legend = c("Posterior Beta density", "Median", "95% Confidence Limits"),
              lty    = c("solid",                  "dashed", "dashed"),
              col    = c("blue",                   "black",  "gray"))
+
+      return(cls)
 
     }, pty = "m",                                      # Maximal plotting area
        bg  = "white",                                  # White background
