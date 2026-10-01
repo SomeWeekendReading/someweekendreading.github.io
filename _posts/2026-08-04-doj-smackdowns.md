@@ -63,11 +63,16 @@ What should we believe about the probability of success if they try it again?  B
 stupid &amp; stubborn fascists never give up until you remove them by force or by prison
 sentences, so this is worth knowing.  
 
+### The Math: Repeated Coin Flips  
+
+This is essentially the problem of observing $N$ coin flips of which $k$ come up heads,
+and asking whether the coin is loaded.  
+
 <img src="{{site.baseurl }}/images/2020-10-02-night-of-the-living-beta-binomials-betas.png" width="400" height="200" alt="Uniform prior, beta posterior" title="Uniform prior, beta posterior" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Let $p$ denote the unknown probability of success of the DoJ in lawsuits to get control of
 state voter registration.  Then, being charitably unbiased, we can posit that we know nothing of
 the value of $p$ before seeing some examples.  We would say, as Bayesians, that it has an
-uninformative prior like a uniform distribution on [0, 1]:  
+_uninformative prior_ like a uniform distribution on [0, 1]:  
 
 $$
 p \sim \mbox{Uniform}(0, 1)
@@ -99,6 +104,8 @@ Here, $\alpha = k + 1$ and $\beta = N - k + 1$.
 
 This is something we've done many times on this Crummy Little Blog That Nobody Reads
 (CLBTNR).  It's a trick that should be _much_ more widely known!  
+
+### The Application
 
 <a href="{{ site.baseurl }}/assets/2026-08-04-doj-smackdowns.png"><img src="{{ site.baseurl }}/assets/2026-08-04-doj-smackdowns-thumb.jpg" width="400" height="200" alt="Posterior distribution for probability of success, given 20 trials and 0 successes" title="Posterior distribution for probability of success, given 20 trials and 0 successes" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 So let's see what it says about our case:  
