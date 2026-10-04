@@ -23,7 +23,7 @@ environment.
 <img src="{{ site.baseurl }}/images/2026-10-02-market-revealed-preferences-shadowlands-poster.jpg" width="400" height="296" alt="Shadowlands: 1993 movie about CS Lewis" title="Shadowlands: 1993 movie about CS Lewis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 There's a line, attributed approximately to CS Lewis, in
 [the 1993 movie _Shadowlands_](https://en.wikipedia.org/wiki/Shadowlands_(1993_film))
-(sentimental but watchable), about understanding literature:  
+(sentimental but watchable&hellip; mostly), about understanding literature:  
 
 > Aristotle said __plot__ is character, forget psychology.  
 >  
@@ -57,14 +57,13 @@ Alas, it is not pretty.
 
 ## What Our Markets Say About Us  
 
-Let's look in turn at what we work to make cheaper, who gets paid for that and how much
-over others, what mostly makes up our stock markets now, and where job growth has been
+Let's look in turn at what we work to make cheaper, who gets paid for that &amp; how much
+they get paid over others, what mostly makes up our stock markets now, and where job growth has been
 recently.  
 
 ### What We Work to Make Cheaper  
 
-<a href="{{ site.baseurl }}/images/2026-01-16-soc-priorities-chart-aei-1.png"><img src="{{ site.baseurl }}/images/2026-01-16-soc-priorities-chart-aei-1-thumb.jpg" width="400" height="432" alt="Perry @ AEI: Inflation in various sectors, 2000-Jan to 2022-Jun" title="Perry @ AEI: Inflation in various sectors, 2000-Jan to 2022-Jun" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-We've written before <sup id="fn1a">[[1]](#fn1)</sup> about this chart from &mdash; of all
+We've written before <sup id="fn1a">[[1]](#fn1)</sup> about the chart below from &mdash; of all
 places! &mdash; the American Enterprise Institute.  <sup id="fn2a">[[2]](#fn2)</sup>  As I
 said before:  
 
@@ -77,6 +76,7 @@ said before:
 So it's doubly important for me to note when I _agree_ with them, because that's a point
 sharply made.  
 
+<a href="{{ site.baseurl }}/images/2026-01-16-soc-priorities-chart-aei-1.png"><img src="{{ site.baseurl }}/images/2026-01-16-soc-priorities-chart-aei-1-thumb.jpg" width="400" height="432" alt="Perry @ AEI: Inflation in various sectors, 2000-Jan to 2022-Jun" title="Perry @ AEI: Inflation in various sectors, 2000-Jan to 2022-Jun" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 In this case, we're looking at prices of various goods over time, over a 22 year period.
 The vertical axis is a percent change from baseline.  (This ignores the important effect
 of the [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill), in which
@@ -91,28 +91,28 @@ So we have an economy which _can_ work to make things better, but which mostly
 concentrates on luxuries.  The necessities get increasingly out of reach.  The AEI will
 moan loudly, complaining about some pernicious nonsense like the evils of socialism.  I,
 on the other hand, moan equally loudly about the pernicious effects of catering to the
-desires of the wealthy (In the words of bank robber Willie Sutton: 
+desires of the wealthy (in the words of bank robber Willie Sutton: 
 ["Because that's where the money is."](https://en.wikipedia.org/wiki/Willie_Sutton#:~:text=Because%20that%27s%20where%20the%20money%20is)).
 
 There's something else going on here about trade, because many of the cheaper goods are
 tradeable and thus get their prices competed down in world markets.  But we've tried
 pretty hard to dismantle _that_ with tariffs.  
 
-So the conclusion seems to be: the rich can always afford the necessities and care little
-whether the poor can do so, with the result that we value luxuries.  
+So the conclusion seems to be: the rich can always afford the necessities but care little
+whether the poor can do so, with the result that we value luxuries over necessities.  
 
 ### To Whom the Spoils Go  
 
 <a href="{{ site.baseurl }}/images/2026-10-02-market-revealed-preferences-reich-et-al-1.jpg"><img src="{{ site.baseurl }}/images/2026-10-02-market-revealed-preferences-reich-et-al-1-thumb.jpg" width="400" height="434" alt="Reich @ NYT and Econ Policy Inst: wages, productivity, and CEO compensation over time show 'The Great Regression'" title="Reich @ NYT and Econ Policy Inst: wages, productivity, and CEO compensation over time show 'The Great Regression'" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The graph shown here, from former labor secretary and professor of public policy Robert
-Reich shows a plot of wages and productivity versus time, from 1950 &ndash; 2010 or so.
+Reich, shows a plot of wages and productivity versus time, from 1950 &ndash; 2010 or so.
 The vertical axis shows growth rates of each.  Note the huge divergence which began
 roughly at the time of Reagan's instituting conervative economic policies:  
 - Worker productivity continued to grow, partly because of automation, computers, and
   telecommunications.  It reached 80% growth at the end of the period.  
 - However, pay initially kept track with productivity &mdash; you were paid for what you
-  produced &mdash; _until_ Reagan.  Then wages were basically flat, while productivity
-  kept going up.  
+  produced &mdash; but only _until_ Reagan.  After Reagan wages were basically flat, while
+  productivity kept going up.  
   
 In other words, under the policies begun in 1980, the rewards for productivity went to
 management and stockholders, not to employees.  
