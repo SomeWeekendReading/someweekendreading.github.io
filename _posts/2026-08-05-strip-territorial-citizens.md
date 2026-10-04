@@ -12,7 +12,7 @@ Now they want to 'deport'&hellip; Americans?!
 
 ## A Bill to Do What?!  
 
-Incorrigible readers of this Crummy Little Blog That Nobody Reads will recall we've
+Incorrigible readers of this Crummy Little Blog That Nobody Reads (CLBTNR) will recall we've
 repeatedly screamed in frustration at the naked racism of Republican attempts to deport
 people.  For example, the proposal to deport Native Americans <sup id="fn1a">[[1]](#fn1)</sup>
 is _incredibly_ stupid, given that Native Americans have a _superior_ claim to a North
