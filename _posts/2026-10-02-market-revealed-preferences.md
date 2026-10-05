@@ -17,7 +17,7 @@ It's a hard problem.  People will sometimes refuse to answer.  Sometimes they'll
 varying degrees of lying, by telling you what they think you want to know or what will
 make them look good.  This is one of the banes of political scientists designing polls,
 sociologists designing experiments, and psychologists pleading with therapy clients to be
-truthful.  It takes a _lot_ for a therapist to establish a safe, non-judgemental
+truthful.  It takes a _lot_ for a therapist to establish a safe, non-judgmental
 environment.  
 
 <img src="{{ site.baseurl }}/images/2026-10-02-market-revealed-preferences-shadowlands-poster.jpg" width="400" height="296" alt="Shadowlands: 1993 movie about CS Lewis" title="Shadowlands: 1993 movie about CS Lewis" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -107,7 +107,7 @@ whether the poor can do so, with the result that we value luxuries over necessit
 The graph shown here, from former labor secretary and professor of public policy Robert
 Reich, shows a plot of wages and productivity versus time, from 1950 &ndash; 2010 or so.
 The vertical axis shows growth rates of each.  Note the huge divergence which began
-roughly at the time of Reagan's instituting conervative economic policies:  
+roughly at the time of Reagan's instituting conservative economic policies:  
 - Worker productivity continued to grow, partly because of automation, computers, and
   telecommunications.  It reached 80% growth at the end of the period.  
 - However, pay initially kept track with productivity &mdash; you were paid for what you
@@ -118,7 +118,7 @@ In other words, under the policies begun in 1980, the rewards for productivity w
 management and stockholders, not to employees.  
 
 Some wag has added a red curve, showing CEO compensation. It had an offscale 611%
-growth!  So yes, profit from increased producdtivity went to management, but mostly to
+growth!  So yes, profit from increased productivity went to management, but mostly to
 _upper_ management in the C-suites.  
 
 <img src="{{ site.baseurl }}/images/2026-10-02-market-revealed-preferences-reich-et-al-2.jpg" width="400" height="300" alt="RB Reich @ NYT: The Limping Middle Class" title="RB Reich @ NYT: The Limping Middle Class" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
@@ -204,7 +204,7 @@ from
   
 The clear message is that almost all the growth in the last 13 or so years has been very
 concentrated in those very few bets on AI and tech.  By more than 4 to 1, in fact!  This
-is, in a word, madness: we are pusuing wealth not by creating valuable goods and services,
+is, in a word, madness: we are pursuing wealth not by creating valuable goods and services,
 but by taking bets on a bubble and hoping to get out before it bursts.  
 
 Quite a revealed preference, no?  
