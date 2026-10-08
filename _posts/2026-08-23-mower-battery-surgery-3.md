@@ -116,7 +116,7 @@ at least nobody's leaking.
 
 Because I'm a nasty suspicious old bastard, here _also_ are pictures taken from the front
 and the back, showing which colors of wires connect to which colors of terminals.
-Honestly, a lot of this is just about not offering yourself opportunities to do Dumb
+Honestly, a lot of this is just about not offering myself opportunities to Do Dumb
 Stuff.  As we noted last time:  
 
 > - __Front cell:__ red terminal on the right, two black wires connecting routed from each
