@@ -11,7 +11,7 @@ I voted in the US 2026 midterms!  (Can you guess which way?)
 
 ## Voting by Mail  
 
-<img src="{{ site.baseurl }}/images/2026-10-10-voted-2026-midterms-midterm-vote-1.jpg" width="400" height="155" alt="Secretary of the Commonwealth: Ballot mailed" title="Secretary of the Commonwealth: Ballot mailed" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-10-09-voted-2026-midterms-midterm-vote-1.jpg" width="400" height="155" alt="Secretary of the Commonwealth: Ballot mailed" title="Secretary of the Commonwealth: Ballot mailed" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 Like many other voters, I've requested a mail-in ballot.  If I recall correctly, there was
 a way to say "from now on" in that request, and I did so.  
 
@@ -24,12 +24,12 @@ So at the beginning of his week, I was happy to see the Secretary of the Commonw
 web site had my data as shown here: ballot mailed out, not yet returned.  I could expect
 to receive it in probably 2-3 days.  
 
-<img src="{{ site.baseurl }}/images/2026-10-10-voted-2026-midterms-midterm-vote-2.jpg" width="400" height="211" alt="Ballot arrived" title="Ballot arrived" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-10-09-voted-2026-midterms-midterm-vote-2.jpg" width="400" height="211" alt="Ballot arrived" title="Ballot arrived" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 And on Wednesday, here it was (suitably anonymized because&hellip; well, you know why
 &mdash; these are the times in which we live.)  Inside there was a letter of instruction,
 2 pages of ballot, a ballot envelope, and a return envelope.  
 
-<img src="{{ site.baseurl }}/images/2026-10-10-voted-2026-midterms-midterm-vote-3.jpg" width="400" height="533" alt="Ballot going into drop-box" title="Ballot going into drop-box" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-10-09-voted-2026-midterms-midterm-vote-3.jpg" width="400" height="533" alt="Ballot going into drop-box" title="Ballot going into drop-box" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 That was all pretty straightforward, so I filled it all out carefully, put the ballot in
 the ballot envelope with my signature, and put it in the return envelope with my return
 address on it.  
@@ -46,7 +46,7 @@ away, and a police station across the street.
 So, as you can see here, I felt very confident that I could submit my ballot here and
 cause the correct thing to happen.  
 
-<img src="{{ site.baseurl }}/images/2026-10-10-voted-2026-midterms-midterm-vote-4.jpg" width="400" height="159" alt="Secretary of the Commonwealth: Ballot accepted" title="Secretary of the Commonwealth: Ballot accepted" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+<img src="{{ site.baseurl }}/images/2026-10-09-voted-2026-midterms-midterm-vote-4.jpg" width="400" height="159" alt="Secretary of the Commonwealth: Ballot accepted" title="Secretary of the Commonwealth: Ballot accepted" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 
 Then began the checking phase, in which I attempted to be _sure_ that the ballot was
 received, judged to be in good order, and queued for counting.  We never used to have to
