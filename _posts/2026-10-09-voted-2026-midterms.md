@@ -39,7 +39,7 @@ postal delivery of ballots for me to relax doing that.
 
 So I walked it the mile or so to my local town office, and found their drop-box.  These
 are always under video surveillance, because in some states there have been goons
-"guarding" the drop-boxes intimidating anyone not suitably white who approached.  In my
+"guarding" the drop-boxes intimidating anyone not sufficiently white who approached.  In my
 particular situation, there was video surveillance, the town office only a few meters
 away, and a police station across the street.  
 
