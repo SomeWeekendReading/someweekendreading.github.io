@@ -1452,3 +1452,4 @@ _Business Week_, 14-Nov-2003.
   better approach: 'One must imagine a world in which no one need imagine Sisyphus in hell.'"  
 - "I may not have my ducks in a row, but at least there's a statistically significant
   regression line through them."  
+- "If a statistician is assimilated into the Borg, their designation will be $N$ of 1."  
