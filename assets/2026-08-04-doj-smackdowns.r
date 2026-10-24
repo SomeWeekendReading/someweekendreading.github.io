@@ -12,7 +12,7 @@
 
 source("../../tools/graphics-tools.r")                 # Randumb graphics hax
 
-## > doit(k = 0, N = 26, plotFile = "2026-10-01-DoJ-0-for-26-voter-rolls.png") # 2026-Sep-30, https://www.democracydocket.com/news-alerts/doj-now-0-26-after-judge-rejects-demand-for-georgia-voter-rolls/
+## > doit(k = 0, N = 27, plotFile = "2026-08-04-doj-smackdowns-update-0-27-posterior.png") # 2026-Oct-24, https://bsky.app/profile/democracydocket.com/post/3mylenx5ecq2q
 doit <- function(k = 0, N = 20, destDir = ".", plotFile = "2026-08-04-doj-smackdowns.png") {
   withPNG(file.path(destDir, plotFile), 800, 400, FALSE, function() {
     withPars(function() {                              # Capture graphics to file

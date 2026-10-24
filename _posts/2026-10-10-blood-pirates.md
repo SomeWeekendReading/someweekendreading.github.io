@@ -28,7 +28,8 @@ the front grille.  Yes, it is a skull made of what appears to be burnished stain
 steel.  It reminds me of one of those bowsprit sculptures put on old sailing ships; the
 skull suggests a pirate ship.  Though, probably not 
 the [_Pirates of Penzance_](https://en.wikipedia.org/wiki/The_Pirates_of_Penzance),
-because nobody was singing and there was no pretentious Major General in evidence.
+because nobody was singing and there was no 
+[pretentious Major General](https://en.wikipedia.org/wiki/Major-General's_Song) in evidence.
 (Unless that was _my_ role, in which case&hellip; harrumph.)  
 
 So it appears we donated blood to a bloodmobile with a pirate crew.  

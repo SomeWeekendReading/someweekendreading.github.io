@@ -135,6 +135,27 @@ Or at least many who are willing to be intimidated by non-smart fascist bosses.
 
 (_Et ceterum censeo, index Epsteiniani divulganda est!_)  
 
+
+## Addendum 2026-Oct-24: It's Now 0/27  
+
+Cases have been marching along, and via _Democracy Docket_ comes news that a
+Trump-appointed judge in Utah has torpedoed their 27th attempt at seizing unredacted voter
+rolls:  
+
+<a href="https://bsky.app/profile/democracydocket.com/post/3mylenx5ecq2q"><img src="{{ site.baseurl }}/images/2026-08-04-doj-smackdowns-update-0-27.jpg" width="550" height="603" alt="Democracy Docket: DoJ is now 0/27 in attempts to seize unredacted voter rolls" title="Democracy Docket: DoJ is now 0/27 in attempts to seize unredacted voter rolls" style="margin: 3px 3px 3px 3px; border: 1px solid #000000; margin: 0 auto; display: block;"></a>
+
+<a href="{{ site.baseurl }}/assets/2026-08-04-doj-smackdowns-update-0-27-posterior.png"><img src="{{ site.baseurl }}/assets/2026-08-04-doj-smackdowns-update-0-27-posterior-thumb.jpg" width="400" height="200" alt="Update on posterior distribution for future win probability, based on 0/27 record" title="Update on posterior distribution for future win probability, based on 0/27 record" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+And using the methods above, here's what the posterior Beta distribution looks like.  That
+is:
+- Start from the (generously) uninformative position that their initial chance of success
+  is anything between 0% - 100%, uniformly.  
+- After a Bayesian update, you should believe their chance of success is a random draw
+  from the posterior Beta distribution, shown here.  
+  
+__Bottom line:__ Median chance of success is 2.4%.  The 95% confidence interval is 0.1% -
+12.3%.  
+
+
 ---
 
 ## Notes &amp; References  
