@@ -99,6 +99,8 @@ coordination were founded: the United Nations and Starfleet." &mdash; Ozy Brenna
 
 ## The Political Ones &amp; The Economic Dismals  
 
+The Stockdale Paradox: "You must never confuse faith that you will prevail in the end—which you can never afford to lose—with the discipline to confront the most brutal facts of your current reality, whatever they might be." &mdash; [Adm James Stockdale](https://en.wikipedia.org/wiki/James_Stockdale#The_Stockdale_Paradox)  
+
 "If you see fraud and do not say fraud, you are a fraud." &mdash; [Nicholas Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)  
 
 "&hellip; if you want to get to pluralism you have to give up the myth of your moral superiority." &mdash; Richard D Bartlett, [Twitter 2023-Jun-15](https://twitter.com/RichDecibels/status/1669238258260234240).  
