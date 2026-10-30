@@ -286,7 +286,7 @@ in [Appendix B below.](#appendix-b-the-regression-method)
 
 For your peer review pleasure, all of the materials necessary to reproduce this analysis
 are available below <sup id="fn3a">[[3]](#fn3)</sup>, including raw data (or as close as
-feasible), [R](https://www.r-projects.org/) scripts, a complete transcript of running
+feasible), [R](https://www.r-project.org/) scripts, a complete transcript of running
 those scripts, and all the result files thereby generated.  
 
 ### [Paralipomenon](https://www.merriam-webster.com/dictionary/Paralipomenon), or Things Left Out  
