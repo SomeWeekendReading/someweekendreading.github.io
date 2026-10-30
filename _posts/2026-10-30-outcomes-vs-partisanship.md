@@ -144,7 +144,7 @@ informative just for looking at by human beings.)
 
 #### An Exploratory Look at the Social &amp; Economic Output Data  
 
-<a href="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-bicluster.png"><img src="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-bicluster-thumb.jpg" width="400" height="Bicluster of Pearson correlation of social &amp; economic outcomes data" alt="Bicluster of Pearson correlation of social &amp; economic outcomes data" title="***" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-bicluster.png"><img src="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-bicluster-thumb.jpg" width="400" height="400" alt="Bicluster of Pearson correlation of social &amp; economic outcomes data" title="Bicluster of Pearson correlation of social &amp; economic outcomes data" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 When faced with a matrix of continuous variables, variables on the columns and
 measurements on the rows, every statistician will do the same thing: calculate a Pearson
 correlation matrix, bicluster the result, and stare sagely at the pretty colors.  (Your
