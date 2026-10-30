@@ -1,0 +1,643 @@
+
+* Outcomes vs Partisanship on Thu Oct 29 11:55:59 2026
+  - input data directory: ./data
+  - results directory:    ./results
+  - transcript to:        ./results/outcomes-vs-partisanship-transcript.txt
+
+Loading data:
+-------------
+
+* Loading partisanship data from ./data/partisan-predictors.tsv
+  - Found and kept 24 rows, of 4 cols: Years, HouseParty, SenateParty, PresidentParty
+
+* Loading inflation data
+  - Loading Inflation data from ./data/bls-cpiu.tsv
+    o Found 48 rows of 2 columns: Year, Annual
+    o After canonicalization, 48 rows of 2 columns: Year, Inflation
+    o After combining over congressional terms with compounding, have 24 rows
+
+* Loading unemployment data
+  - Loading U6 data from ./data/U6RATE.csv
+    o Found 30 rows of 2 columns: observation_date, U6RATE
+    o After canonicalization, 30 rows of 2 columns: Year, U6
+    o After padding back to 1977 with NA's, have 48 rows
+    o After combining over congressional terms with averaging, have 24 rows
+  - Loading LFPR data from ./data/CIVPART.csv
+    o Found 48 rows of 2 columns: observation_date, CIVPART
+    o After canonicalization, 48 rows of 2 columns: Year, LFPR
+    o After combining over congressional terms with averaging, have 24 rows
+  - Combined unemployment data has 24 rows and 3 columns: Years, U6, LFPR
+
+* Loading GDP data
+  - Loading GDPGrowth data from ./data/GDP_PC1.csv
+    o Found 48 rows of 2 columns: observation_date, GDP_PC1
+    o After canonicalization, 48 rows of 2 columns: Year, GDPGrowth
+    o After combining over congressional terms with compounding, have 24 rows
+  - Loading GDPGrowthReal data from ./data/GDPC1_PC1.csv
+    o Found 48 rows of 2 columns: observation_date, GDPC1_PC1
+    o After canonicalization, 48 rows of 2 columns: Year, GDPGrowthReal
+    o After combining over congressional terms with compounding, have 24 rows
+  - Combined GDP data has 24 rows and 3 columns: Years, GDPGrowth, GDPGrowthReal
+
+* Loading stock market return data
+  - Loading VFINX data from ./data/vfinx-total-returns.tsv
+    o Found 46 rows of 2 columns: Year, VFINX
+    o After canonicalization, 46 rows of 2 columns: Year, VFINX
+    o After padding back to 1977 with NA's, have 48 rows
+    o After combining over congressional terms with compounding, have 24 rows
+  - Loading VTSMX data from ./data/vtsmx-total-returns.tsv
+    o Found 32 rows of 2 columns: Year, VTSMX
+    o After canonicalization, 32 rows of 2 columns: Year, VTSMX
+    o After padding back to 1977 with NA's, have 48 rows
+    o After combining over congressional terms with compounding, have 24 rows
+  - Combined stock data has 24 rows and 3 columns: Years, VFINX, VTSMX
+
+* Loading budget deficit data
+  - Loading Deficit data from ./data/FYFSD.csv
+    o Found 48 rows of 2 columns: observation_date, FYFSD
+    o After canonicalization, 48 rows of 2 columns: Year, Deficit
+    o After combining over congressional terms with summing, have 24 rows
+  - Loading DeficitGDP data from ./data/FYFSGDA188S.csv
+    o Found 48 rows of 2 columns: observation_date, FYFSGDA188S
+    o After canonicalization, 48 rows of 2 columns: Year, DeficitGDP
+    o After combining over congressional terms with summing, have 24 rows
+  - Combined deficit data has 24 rows and 3 columns: Years, Deficit, DeficitGDP
+
+* Consolidating 6 dataframes by outer join on 'Years'
+  - Result dataframe has 24 rows and 13 columns:
+      Years HouseParty SenateParty PresidentParty Inflation U6 LFPR GDPGrowth
+1 1977-1978   Democrat    Democrat       Democrat       7.1 NA 62.7      12.0
+2 1979-1980   Democrat    Democrat       Democrat      12.4 NA 63.8      10.2
+3 1981-1982   Democrat  Republican     Republican       8.2 NA 64.0       8.2
+4 1983-1984   Democrat  Republican     Republican       3.7 NA 64.2       9.9
+5 1985-1986   Democrat  Republican     Republican       2.7 NA 65.0       6.5
+6 1987-1988   Democrat    Democrat     Republican       3.9 NA 65.8       6.9
+  GDPGrowthReal VFINX VTSMX Deficit DeficitGDP
+1           5.1    NA    NA -112844       -5.1
+2           1.4   5.4    NA -114556       -4.1
+3           0.3  -1.8    NA -206945       -6.3
+4           5.9   6.1    NA -393169      -10.3
+5           3.8  13.0    NA -433535       -9.7
+6           3.8   4.7    NA -304908       -6.0
+...
+       Years HouseParty SenateParty PresidentParty Inflation   U6 LFPR
+19 2013-2014 Republican    Democrat       Democrat       1.5 12.9 63.1
+20 2015-2016 Republican  Republican       Democrat       0.7 10.1 62.8
+21 2017-2018 Republican  Republican     Republican       2.2  8.1 62.9
+22 2019-2020   Democrat  Republican     Republican       1.5 10.4 62.4
+23 2021-2022   Democrat    Democrat       Democrat       6.3  8.2 62.0
+24 2023-2024 Republican    Democrat       Democrat       3.5  7.2 62.6
+   GDPGrowth GDPGrowthReal VFINX VTSMX  Deficit DeficitGDP
+19       4.1           2.3  21.1  21.1 -1164568       -6.8
+20       3.3           2.4   4.9   4.8 -1026610       -5.5
+21       4.8           2.7   5.6   5.0 -1444524       -7.2
+22       1.7           0.2  22.6  23.4 -4079241      -19.0
+23      10.4           4.3  -4.0  -5.9 -4147765      -17.0
+24       6.2           2.9  21.7  21.0 -3502844      -12.3
+  - Saved to ./results/outcomes-vs-partisanship-omnibus-data.tsv
+
+Partisan crosstabulations:
+--------------------------
+
+
+* Crosstabulations of partisan control of the 3 branches
+  - HouseParty vs SenateParty
+           Democrat Republican Totals
+Democrat          9          4     13
+Republican        4          7     11
+Totals           13         11     24
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  tbl
+X-squared = 1.4377, df = 1, p-value = 0.2305
+
+
+	Fisher's Exact Test for Count Data
+
+data:  tbl
+p-value = 0.2173
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  0.5510319 30.0775540
+sample estimates:
+odds ratio 
+  3.701597 
+
+                    X^2 df P(> X^2)
+Likelihood Ratio 2.6353  1  0.10451
+Pearson          2.5926  1  0.10736
+
+Phi-Coefficient   : 0.329 
+Contingency Coeff.: 0.312 
+Cramer's V        : 0.329 
+
+  - HouseParty vs PresidentParty
+           Democrat Republican Totals
+Democrat          5          8     13
+Republican        7          4     11
+Totals           12         12     24
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  tbl
+X-squared = 0.67133, df = 1, p-value = 0.4126
+
+
+	Fisher's Exact Test for Count Data
+
+data:  tbl
+p-value = 0.4136
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.04936444 2.44003372
+sample estimates:
+odds ratio 
+ 0.3734813 
+
+                    X^2 df P(> X^2)
+Likelihood Ratio 1.5272  1  0.21653
+Pearson          1.5105  1  0.21906
+
+Phi-Coefficient   : 0.251 
+Contingency Coeff.: 0.243 
+Cramer's V        : 0.251 
+
+  - SenateParty vs PresidentParty
+           Democrat Republican Totals
+Democrat          8          5     13
+Republican        4          7     11
+Totals           12         12     24
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  tbl
+X-squared = 0.67133, df = 1, p-value = 0.4126
+
+
+	Fisher's Exact Test for Count Data
+
+data:  tbl
+p-value = 0.4136
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  0.4098304 20.2574967
+sample estimates:
+odds ratio 
+   2.67751 
+
+                    X^2 df P(> X^2)
+Likelihood Ratio 1.5272  1  0.21653
+Pearson          1.5105  1  0.21906
+
+Phi-Coefficient   : 0.251 
+Contingency Coeff.: 0.243 
+Cramer's V        : 0.251 
+
+
+Outcomes bicluster:
+-------------------
+
+* Biclustering econ correlations to ./results/outcomes-vs-partisanship-bicluster.png.
+  - Correlation matrix (pairwise complete observations):
+                 U6 VFINX VTSMX GDPGrowthReal Inflation GDPGrowth  LFPR Deficit
+U6             1.00  0.20  0.24         -0.60     -0.48     -0.61 -0.12   -0.23
+VFINX          0.20  1.00  0.99          0.12     -0.26     -0.14 -0.08   -0.21
+VTSMX          0.24  0.99  1.00          0.07     -0.38     -0.12 -0.13   -0.20
+GDPGrowthReal -0.60  0.12  0.07          1.00      0.02      0.63  0.09    0.28
+Inflation     -0.48 -0.26 -0.38          0.02      1.00      0.76 -0.20    0.19
+GDPGrowth     -0.61 -0.14 -0.12          0.63      0.76      1.00 -0.20    0.26
+LFPR          -0.12 -0.08 -0.13          0.09     -0.20     -0.20  1.00    0.64
+Deficit       -0.23 -0.21 -0.20          0.28      0.19      0.26  0.64    1.00
+DeficitGDP    -0.52 -0.24 -0.25          0.29      0.12      0.19  0.59    0.86
+              DeficitGDP
+U6                 -0.52
+VFINX              -0.24
+VTSMX              -0.25
+GDPGrowthReal       0.29
+Inflation           0.12
+GDPGrowth           0.19
+LFPR                0.59
+Deficit             0.86
+DeficitGDP          1.00
+
+Codings for regression analysis:
+--------------------------------
+
+* Encoding data for logistic regression
+  - Encoding 7 partisanship variables, to number controlled by Republicans/Democrats
+  - Encoding output variables to Good/Bad by various specific criteria
+  - Result has 24 rows and 17 columns: Years, House, Senate, President, HouseSenate, HousePresident, SenatePresident, HouseSenatePresident, InflationIndic, U6Indic, LFPRIndic, GDPGrowthIndic, GDPGrowthRealIndic, VFINXIndic, VTSMXIndic, DeficitIndic, DeficitGDPIndic
+  - Coded data for regression saved to ./results/outcomes-vs-partisanship-omnibus-coded.tsv.
+
+Regressions:
+------------
+
+* Logistic regression of outcome vars on partisanship vars: doInteractions = TRUE
+  - Regression predicting InflationIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-InflationIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+    Lambda Index Measure      SE Nonzero
+min 0.1797     5  0.3333 0.09829       2
+1se 0.1797     5  0.3333 0.09829       2
+8 x 1 sparse Matrix of class "dgCMatrix"
+                     lambda.min
+(Intercept)           0.2063093
+House                 0.1044797
+Senate                .        
+President             .        
+HouseSenate           0.1519528
+HousePresident        .        
+SenatePresident       .        
+HouseSenatePresident  .        
+         True
+Predicted Bad Good Total
+    Bad     7    2     9
+    Good    4   11    15
+    Total  11   13    24
+
+ Percent Correct:  0.75 
+                  Measure     Value
+1       Binomial Deviance 1.2256252
+2 Misclassification Error 0.2500000
+3                     AUC 0.8006993
+4      Mean-Squared Error 0.4211372
+5     Mean Absolute Error 0.9040876
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 28.5, p-value = 0.01004
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting U6Indic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-U6Indic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+    Lambda Index Measure     SE Nonzero
+min 0.2681     1  0.4286 0.1373       0
+1se 0.2681     1  0.4286 0.1373       0
+8 x 1 sparse Matrix of class "dgCMatrix"
+                     lambda.min
+(Intercept)           0.5877867
+House                 .        
+Senate                .        
+President             .        
+HouseSenate           .        
+HousePresident        .        
+SenatePresident       .        
+HouseSenatePresident  .        
+         True
+Predicted Bad Good Total
+    Good    5    9    14
+    Total   5    9    14
+
+ Percent Correct:  0.3571 
+                  Measure     Value
+1       Binomial Deviance 1.3035131
+2 Misclassification Error 0.3571429
+3                     AUC 0.5000000
+4      Mean-Squared Error 0.4591837
+5     Mean Absolute Error 0.9183673
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 22.5, p-value = NA
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting LFPRIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-LFPRIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+    Lambda Index Measure     SE Nonzero
+min 0.1552     1  0.4348 0.1057       0
+1se 0.1552     1  0.4348 0.1057       0
+8 x 1 sparse Matrix of class "dgCMatrix"
+                     lambda.min
+(Intercept)           0.2623643
+House                 .        
+Senate                .        
+President             .        
+HouseSenate           .        
+HousePresident        .        
+SenatePresident       .        
+HouseSenatePresident  .        
+         True
+Predicted Bad Good Total
+    Good   10   13    23
+    Total  10   13    23
+
+ Percent Correct:  0.4348 
+                  Measure     Value
+1       Binomial Deviance 1.3692326
+2 Misclassification Error 0.4347826
+3                     AUC 0.5000000
+4      Mean-Squared Error 0.4914934
+5     Mean Absolute Error 0.9829868
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 65, p-value = NA
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting GDPGrowthIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-GDPGrowthIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+     Lambda Index Measure     SE Nonzero
+min 0.07178     7  0.5417 0.1039       1
+1se 0.07178     7  0.5417 0.1039       1
+8 x 1 sparse Matrix of class "dgCMatrix"
+                      lambda.min
+(Intercept)          -0.01815921
+House                -0.21623344
+Senate                .         
+President             .         
+HouseSenate           .         
+HousePresident        .         
+SenatePresident       .         
+HouseSenatePresident  .         
+         True
+Predicted Bad Good Total
+    Bad     7    4    11
+    Good    5    8    13
+    Total  12   12    24
+
+ Percent Correct:  0.625 
+                  Measure     Value
+1       Binomial Deviance 1.3438210
+2 Misclassification Error 0.3750000
+3                     AUC 0.6250000
+4      Mean-Squared Error 0.4788360
+5     Mean Absolute Error 0.9730778
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 54, p-value = 0.2421
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting GDPGrowthRealIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-GDPGrowthRealIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+     Lambda Index Measure      SE Nonzero
+min 0.01017    28  0.6250 0.10095       3
+1se 0.07878     6  0.7083 0.09478       2
+8 x 1 sparse Matrix of class "dgCMatrix"
+                      lambda.min
+(Intercept)           0.04016057
+House                 .         
+Senate                0.69329338
+President            -0.37918419
+HouseSenate           .         
+HousePresident       -0.16565500
+SenatePresident       .         
+HouseSenatePresident  .         
+         True
+Predicted Bad Good Total
+    Bad     6    2     8
+    Good    6   10    16
+    Total  12   12    24
+
+ Percent Correct:  0.6667 
+                  Measure     Value
+1       Binomial Deviance 1.2534125
+2 Misclassification Error 0.3333333
+3                     AUC 0.6875000
+4      Mean-Squared Error 0.4374798
+5     Mean Absolute Error 0.8862952
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 45, p-value = 0.1212
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting VFINXIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-VFINXIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+    Lambda Index Measure     SE Nonzero
+min 0.0778     7  0.5652 0.1057       1
+1se 0.0778     7  0.5652 0.1057       1
+8 x 1 sparse Matrix of class "dgCMatrix"
+                     lambda.min
+(Intercept)           0.1009549
+House                 .        
+Senate                .        
+President             .        
+HouseSenate           0.1456015
+HousePresident        .        
+SenatePresident       .        
+HouseSenatePresident  .        
+         True
+Predicted Bad Good Total
+    Bad     6    2     8
+    Good    5   10    15
+    Total  11   12    23
+
+ Percent Correct:  0.6957 
+                  Measure     Value
+1       Binomial Deviance 1.3342555
+2 Misclassification Error 0.3043478
+3                     AUC 0.6515152
+4      Mean-Squared Error 0.4740281
+5     Mean Absolute Error 0.9663176
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 46, p-value = 0.2031
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting VTSMXIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-VTSMXIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+     Lambda Index Measure     SE Nonzero
+min 0.06518     8  0.5625 0.1281       1
+1se 0.06518     8  0.5625 0.1281       1
+8 x 1 sparse Matrix of class "dgCMatrix"
+                        lambda.min
+(Intercept)          -2.263972e-16
+House                 .           
+Senate                2.404514e-01
+President             .           
+HouseSenate           .           
+HousePresident        .           
+SenatePresident       .           
+HouseSenatePresident  .           
+         True
+Predicted Bad Good Total
+    Bad     5    3     8
+    Good    3    5     8
+    Total   8    8    16
+
+ Percent Correct:  0.625 
+                  Measure     Value
+1       Binomial Deviance 1.3406010
+2 Misclassification Error 0.3750000
+3                     AUC 0.6250000
+4      Mean-Squared Error 0.4772456
+5     Mean Absolute Error 0.9700876
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 24, p-value = 0.364
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting DeficitIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-DeficitIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+    Lambda Index Measure     SE Nonzero
+min 0.2118     4  0.3913 0.1041       2
+1se 0.2800     1  0.4348 0.1057       0
+8 x 1 sparse Matrix of class "dgCMatrix"
+                     lambda.min
+(Intercept)          -0.2512237
+House                 0.2161651
+Senate                .        
+President            -0.2161648
+HouseSenate           .        
+HousePresident        .        
+SenatePresident       .        
+HouseSenatePresident  .        
+         True
+Predicted Bad Good Total
+    Bad    13    3    16
+    Good    0    7     7
+    Total  13   10    23
+
+ Percent Correct:  0.8696 
+                  Measure     Value
+1       Binomial Deviance 1.1569945
+2 Misclassification Error 0.1304348
+3                     AUC 0.8807692
+4      Mean-Squared Error 0.3877298
+5     Mean Absolute Error 0.8649416
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 15.5, p-value = 0.001542
+alternative hypothesis: true location shift is not equal to 0
+
+
+  - Regression predicting DeficitGDPIndic
+
+    o Crossvalidation plot to ./results/outcomes-vs-partisanchip-cvplot-DeficitGDPIndic.png
+    o Regression results
+
+Call:  cv.glmnet(x = x, y = y, type.measure = "class", nfolds = nrow(foo),      family = "binomial", alpha = 1) 
+
+Measure: Misclassification Error 
+
+    Lambda Index Measure      SE Nonzero
+min 0.1245    10  0.2174 0.08794       1
+1se 0.1245    10  0.2174 0.08794       1
+8 x 1 sparse Matrix of class "dgCMatrix"
+                     lambda.min
+(Intercept)           0.5348651
+House                 .        
+Senate                .        
+President            -0.7253142
+HouseSenate           .        
+HousePresident        .        
+SenatePresident       .        
+HouseSenatePresident  .        
+         True
+Predicted Bad Good Total
+    Bad     8    4    12
+    Good    1   10    11
+    Total   9   14    23
+
+ Percent Correct:  0.7826 
+                  Measure     Value
+1       Binomial Deviance 1.0432829
+2 Misclassification Error 0.2173913
+3                     AUC 0.8015873
+4      Mean-Squared Error 0.3419350
+5     Mean Absolute Error 0.7650967
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lambda.min by y
+W = 25, p-value = 0.006377
+alternative hypothesis: true location shift is not equal to 0
+
+
+              DepVar                       Predictors Misclassification
+1     InflationIndic House = 0.10, HouseSenate = 0.15         0.3333333
+2            U6Indic                                          0.4285714
+3          LFPRIndic                                          0.4347826
+4     GDPGrowthIndic                    House = -0.22         0.5416667
+5 GDPGrowthRealIndic Senate = 0.21, President = -0.07         0.6250000
+6         VFINXIndic               HouseSenate = 0.15         0.5652174
+7         VTSMXIndic                    Senate = 0.24         0.5625000
+8       DeficitIndic                                          0.3913043
+9    DeficitGDPIndic                President = -0.73         0.2173913
+  MannWhitney
+1 0.010040283
+2         NaN
+3         NaN
+4 0.242112819
+5 0.121227482
+6 0.203149896
+7 0.364020640
+8 0.001542381
+9 0.006377301
+
+* Outcomes vs Partisanship completed Thu Oct 29 11:56:00 2026 (1.0 sec elapsed).
