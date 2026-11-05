@@ -14,7 +14,7 @@ for the deficit as a fraction of GDP.  The rest mostly doesn't survive LASSO
 regularization, leave-one-out crossvalidation, and a low error rate on predictions.  
 
 
-## Conventional 'Wisdom'  
+## Conventional Wisdumb  
 
 Let's revisit the topic of whether Democratic/Republican control of the 3 branches of the
 US government affects economic and social welfare outcomes in each Congressional term.
@@ -241,7 +241,7 @@ probabilistic model tend to sort the outcomes the way they actually came out?
 
 ## Results  
 
-<a href="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-regression-results.jpg"><img src="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-regression-results-thumb.jpg" width="400" height="100" alt="Summary table of regression results" title="Summary table of regression results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
+<a href="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-regression-results.jpg"><img src="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-regression-results-thumb.jpg" width="400" height="99" alt="Summary table of regression results" title="Summary table of regression results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The table here shows the results of the regressions on each of the 9 social &amp; economic
 variables.  
 - If the 3rd column is blank, that means LASSO regularization has thrown out all the
@@ -461,12 +461,14 @@ We do not propose to write our own tutorial here, tempting as it is.  We merely 
 our choices were:
 - Use logistic regression, on the "coded" partisan variables as above.
 - Do leave-one-out crossvalidation, on recommendation of the package authors (which came
-  as news to us):
+  as news to us, having always done $K$-fold crossvalidation instead of LOOCV):
+
   > In our extensive simulations, we have found that as $K$ increases,
   > the bias in CV error decreases significantly, while the variance does not
   > increase much. As such, we recommend using LOOCV in situations where run
   > time is not an issue. For all other cases, we recommend using industry
-  > norms $K$ = 5 or $K$ =10.  
+  > norms $K$ = 5 or $K$ = 10.  
+
   Since, according to the transcript, our analysis took about 1 sec total, we decided to
   take their advice as computing time was certainly not an issue!  
 - We elected LASSO regularization, i.e., a penalty for each nonzero regression coefficient
@@ -474,11 +476,11 @@ our choices were:
 - The measure we optimized on was the _misclassification rate_, i.e., how often the
   resulting regression model incorrectly predicted a "Good" or "Bad" outcome.  This is as
   was advised in
- [section 7.2.3 in the reference above](https://glmnet.stanford.edu/book/binary.html#when-should-i-use-each-error-measure).
+  [section 7.2.3 in the reference above](https://glmnet.stanford.edu/book/binary.html#when-should-i-use-each-error-measure).
   The model used crossvalidation to determine how hard to squeeze, and we chose the best
   model (i.e., $\lambda_{\mbox{min}}$).  
   
-  The results .zip file, available in reference 3 below, has all the relevant plots of
+  The results `.zip` file, available in reference 3 below, has all the relevant plots of
   misclassification rate versus number of parameters.  They're kind of ugly, since
   misclassification is by its nature a discrete integer number of mistakes out of 24
   chances in our 24-sample dataset.
@@ -533,7 +535,7 @@ part from 1977 (Carter) through 2025 (Biden), keeping only some of the more rele
 - Alas, the majority in control was denoted by _color,_ so (obligatory glare in statistician: grrr!)
   we explicitly tabulated that.  
 - The congressional terms were denoted something like 1977 - 1979, left-inclusive and
-  right-_exclusive_.  Oh, c'mon!  We hand-edited the data to denote a 2-year congressional
+  right- _exclusive_.  Oh, c'mon!  We hand-edited the data to denote a 2-year congressional
   term by the years it held power, e.g., 1977-1978.  You know, like _normal_ people.
   (No, I'm not normal.  But I can sometimes simulate it, to a degree, when required.  But
   only when required.)  
