@@ -1,0 +1,60 @@
+
+* Close 3-way Election on Tue Nov 10 12:47:14 2026
+  - input data directory: ./data
+  - results directory:    ./results
+  - transcript to:        ./results/close-3-way-election-transcript.txt
+
+Archiving this version of the analysis script:
+----------------------------------------------
+
+* Archived analysis script(s) to ./results:
+  - ./close-3-way-election.r
+  - ../tools/graphics-tools.r
+  - ../tools/pipeline-tools.r
+
+Reading candidates and votes:
+-----------------------------
+
+* Reading data from ./data/candidates-and-votes.tsv
+  - Found the expected 3 rows of 2 columns: Candidate, Votes
+  - Total votes: 954025
+
+   Candidate  Votes  FracTotal
+1      Colom 468339 0.49090852
+2 Hyde-Smith 465643 0.48808260
+3    Pinkins  20043 0.02100888
+
+Dirichlet analysis:
+-------------------
+
+* MAP estimates (modes) for each candidate's probability to attract a vote:
+
+   Candidate  Votes  FracTotal DirichletMode
+1      Colom 468339 0.49090852     0.4909090
+2 Hyde-Smith 465643 0.48808260     0.4880831
+3    Pinkins  20043 0.02100888     0.0210079
+Writing 'close-3-way-election-dirichlet000.png'Writing 'close-3-way-election-dirichlet001.png'Writing 'close-3-way-election-dirichlet002.png'Writing 'close-3-way-election-dirichlet003.png'Writing 'close-3-way-election-dirichlet004.png'Writing 'close-3-way-election-dirichlet005.png'Writing 'close-3-way-election-dirichlet006.png'Writing 'close-3-way-election-dirichlet007.png'Writing 'close-3-way-election-dirichlet008.png'Writing 'close-3-way-election-dirichlet009.png'Writing 'close-3-way-election-dirichlet010.png'Writing 'close-3-way-election-dirichlet011.png'Writing 'close-3-way-election-dirichlet012.png'Writing 'close-3-way-election-dirichlet013.png'Writing 'close-3-way-election-dirichlet014.png'Writing 'close-3-way-election-dirichlet015.png'Writing 'close-3-way-election-dirichlet016.png'Writing 'close-3-way-election-dirichlet017.png'Writing 'close-3-way-election-dirichlet018.png'Writing 'close-3-way-election-dirichlet019.png'Writing 'close-3-way-election-dirichlet020.png'Writing 'close-3-way-election-dirichlet021.png'Writing 'close-3-way-election-dirichlet022.png'Writing 'close-3-way-election-dirichlet023.png'Writing 'close-3-way-election-dirichlet024.png'Writing 'close-3-way-election-dirichlet025.png'Writing 'close-3-way-election-dirichlet026.png'Writing 'close-3-way-election-dirichlet027.png'Writing 'close-3-way-election-dirichlet028.png'Writing 'close-3-way-election-dirichlet029.png'Writing 'close-3-way-election-dirichlet030.png'Writing 'close-3-way-election-dirichlet031.png'Writing 'close-3-way-election-dirichlet032.png'Writing 'close-3-way-election-dirichlet033.png'Writing 'close-3-way-election-dirichlet034.png'Writing 'close-3-way-election-dirichlet035.png'Writing 'close-3-way-election-dirichlet036.png'Writing 'close-3-way-election-dirichlet037.png'Writing 'close-3-way-election-dirichlet038.png'Writing 'close-3-way-election-dirichlet039.png'Writing 'close-3-way-election-dirichlet040.png'Writing 'close-3-way-election-dirichlet041.png'Writing 'close-3-way-election-dirichlet042.png'Writing 'close-3-way-election-dirichlet043.png'Writing 'close-3-way-election-dirichlet044.png'Writing 'close-3-way-election-dirichlet045.png'Writing 'close-3-way-election-dirichlet046.png'Writing 'close-3-way-election-dirichlet047.png'Writing 'close-3-way-election-dirichlet048.png'Writing 'close-3-way-election-dirichlet049.png'Writing 'close-3-way-election-dirichlet050.png'
+
+* Movie of unit triangle written to ./results/close-3-way-election-dirichlet.gif.
+
+* Ternary plot of Dirichlet contours written to ./results/close-3-way-election-dirichlet.png.
+
+* Spreadsheet saved to ./results/close-3-way-election-dirichlet.tsv.
+
+Beta analysis:
+--------------
+
+* Median & 95% CL's for top 2 candidate's probability of attracting a vote:
+  - 95% confidence limits set at probabilities 0.025 - 0.975.
+  - The percent chance that Colom got below 50% is 0.26%.
+  - The winner LCL and the loser UCL are separated by +0.086%.
+
+   Candidate  Votes FracTotal   BetaLCL BetaMedian   BetaUCL
+1      Colom 468339 0.5014433 0.5004293  0.5014433 0.5024573
+2 Hyde-Smith 465643 0.4985567 0.4975427  0.4985567 0.4995707
+
+* Posterior Beta densities plotted to ./results/close-3-way-election-beta.png
+
+* Spreadsheet saved to ./results/close-3-way-election-beta.tsv.
+
+* Close 3-way Election completed Tue Nov 10 12:48:10 2026 (56.1 sec elapsed).
