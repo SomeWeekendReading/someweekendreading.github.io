@@ -24,7 +24,7 @@ conservative Republicans, endless voter suppression (with a history of actually
 _murderous_ intimidation of Black voters), anti-education, and relatively poor.  
 
 It is therefore notable that this race, among 3 politicians, involves 1 White Republican
-woman 2 Black men (1 Democrat and 1 independent but former Democrat).  This could be the
+woman and 2 Black men (1 Democrat and 1 independent but former Democrat).  This could be the
 first time Mississippi has elected a Black to the US Senate since
 [Sen. Blanche Bruce in 1874](https://en.wikipedia.org/wiki/Blanche_Bruce), during the
 Reconstruction period after the American Civil War.  (Indeed, the American failure to
