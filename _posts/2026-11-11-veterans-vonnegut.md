@@ -37,9 +37,6 @@ Before you think this too woke, I remind you that Vonnegut himself was a veteran
 War II, whose horrific experiences as a prisoner in Dresden during the fire-bombing led to
 his book _Slaughterhouse Five_.  Guy knows whereof he speaks.  
 
-<iframe width="400" height="224" src="https://www.youtube.com/embed/gODTTz3ayCk?si=SorjO9yiYpUzt-vz?rel=0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-<iframe width="400" height="224" src="https://www.youtube.com/embed/RpTDPTaOdVk?si=FhEpNzMGUpCcVdqW?rel=0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-<iframe width="400" height="224" src="https://www.youtube.com/embed/-yyfkCK0FTM?si=Yaew0lzBF7-Q6xnH?rel=0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 It's the peacemaking of Armistice Day we should remember, and peacemakers we should
 honor.  
 
@@ -47,6 +44,10 @@ One example I like is the end of the Colombian civil war with the FARC guerrilla
 something like 60 years of intractable civil war, they desperately reached out to
 MullenLowe, an advertising agency.  As these videos show, they used shared religious
 community symbols to _invite_ guerrillas back into society without penalty:  
+
+<iframe width="400" height="224" src="https://www.youtube.com/embed/gODTTz3ayCk?si=SorjO9yiYpUzt-vz?rel=0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<iframe width="400" height="224" src="https://www.youtube.com/embed/RpTDPTaOdVk?si=FhEpNzMGUpCcVdqW?rel=0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
+<iframe width="400" height="224" src="https://www.youtube.com/embed/-yyfkCK0FTM?si=Yaew0lzBF7-Q6xnH?rel=0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
 - One year, they put Christmas trees in the jungle that would suddenly light up at night
   when approached.  If you're a guerrilla marching at night in the jungle and something
   lights up, it usually means you're about to die.  These trees lit up and said, "If
