@@ -260,6 +260,20 @@ Wise cats.  (Also smartasses, but sure&hellip; "wise cats".)
 
 (_Et ceterum censeo, index Epsteiniani divulganda est!_)  
 
+
+## Addendum 2026-Nov-11: Race called for Colom  
+
+<img src="{{ site.baseurl }}/images/2026-11-10-close-elections-cnn-1.jpg" width="400" height="399" alt="CNN: Race called for Colom" title="CNN: Race called for Colom" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
+_CNN_ <sup id="fn3a">[[3]](#fn3)</sup> and several other outlets have announced they
+project the Democrat Scott Colom as the winner.  He will be the first Democrat in 40
+years, and the first Black since 1874 elected to the US Senate.  
+
+There is, of course still a chance Republicans will attempt to block certification of the
+vote, or submit false documents, or that somehow they'll try to get the Senate to refuse
+to seat Colom.  
+
+I guess we can relax a bit about this&hellip; _after_ 2027-Jan-03?  
+
 ---
 
 ## Notes &amp; References  
@@ -290,3 +304,5 @@ Also available are:
 - An [R script with the graphics tools]({{ site.baseurl }}/assets/2026-11-10-close-elections-graphics-tools.r) we used.  
 - A [tab-separated values file]({{ site.baseurl }}/assets/2026-11-10-close-elections-candidates-and-votes.tsv) with the vote counts from Wikipedia that we used.  
 [↩](#fn2a)  
+
+<a id="fn3">3</a>: F Schouten, ["Democrat Scott Colom will win US Senate seat in deep-red Mississippi, CNN projects"](https://www.cnn.com/2026/11/11/politics/live-news/hegseth-impeachment-congress?post-id=cmwco1b9100083b6wwzg3nve1), _CNN_, 2026-Nov-11. [↩](#fn3a)  
