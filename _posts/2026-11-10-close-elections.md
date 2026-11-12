@@ -268,6 +268,8 @@ _CNN_ <sup id="fn3a">[[3]](#fn3)</sup> and several other outlets have announced 
 project the Democrat Scott Colom as the winner.  He will be the first Democrat in 40
 years, and the first Black since 1874 elected to the US Senate.  
 
+No word yet on whether Hyde-Smith has conceded.  
+
 There is, of course still a chance Republicans will attempt to block certification of the
 vote, or submit false documents, or that somehow they'll try to get the Senate to refuse
 to seat Colom.  
