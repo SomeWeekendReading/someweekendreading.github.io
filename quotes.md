@@ -1455,3 +1455,4 @@ _Business Week_, 14-Nov-2003.
 - "I may not have my ducks in a row, but at least there's a statistically significant
   regression line through them."  
 - "If a statistician is assimilated into the Borg, their designation will be $N$ of 1."  
+- "A good person might awe us with their goodness. A saint makes us realize we can be good, too."  

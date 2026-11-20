@@ -57,9 +57,11 @@ community symbols to _invite_ guerrillas back into society without penalty:
   night, they put thousands of small blue lights in plastic bubbles with little toys and
   invitations to come home in the rivers.  Guerrillas picked them up, read the invitations,
   and took them.  
-- The next year, they dropped thousands of lighted plastic balls which said "Walk toward
-  the beacons, we are ready there to have you come home."  Then they set up big spotlight
-  beacons pointed at the sky, and embraced anyone who came out of the jungle.  
+- The next year, they learned that most guerrillas didn't have the maps their commanders
+  had &amp; couldn't just walk away without getting lost.  So they dropped thousands of
+  lighted plastic balls on safe paths which said "Walk toward the beacons, we are ready
+  there to welcome you come home."  Then they set up big spotlight beacons pointed at the
+  sky, and embraced _anyone_ who came out of the jungle.  
 
 These always bring me to tears of
 [elevation](https://en.wikipedia.org/wiki/Elevation_(emotion)).  
