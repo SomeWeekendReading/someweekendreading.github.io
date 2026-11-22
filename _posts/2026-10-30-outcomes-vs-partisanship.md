@@ -223,7 +223,7 @@ $$
 $$
 
 Now, readers of this CLBTNR are a suspicious lot.  (And I respect that!)  You should be
-squirming uncomfortably at my attempt to fit an 8-parameter model (the $\beta_i$'s and $\alpha$)
+squirming uncomfortably at my attempt to fit an 8-parameter model ($\alpha$ and the 7 $\beta_i$'s)
 with only 24 data points!  Fear not, for we fit using the
 [R `glmnet` package](https://glmnet.stanford.edu/book/):  
 - We do leave-one-out crossvalidation (LOOCV) to estimate on a fairly objective level how
@@ -244,11 +244,12 @@ probabilistic model tend to sort the outcomes the way they actually came out?
 <a href="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-regression-results.jpg"><img src="{{ site.baseurl }}/images/2026-10-30-outcomes-vs-partisanship-regression-results-thumb.jpg" width="400" height="99" alt="Summary table of regression results" title="Summary table of regression results" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
 The table here shows the results of the regressions on each of the 9 social &amp; economic
 variables.  
-- If the 3rd column is blank, that means LASSO regularization has thrown out all the
+- If the 2nd column is blank, that means LASSO regularization has thrown out all the
   partisan predictor variables.  
   - We should therefore conclude there's no evidence of predictability from party politics
     in U6 unemployment, the labor force participation rate, or the deficit as measured in
     raw dollars.  
+  - The regression just fits a value for $\alpha$, and makes a constant guess based on that.  
 - We generally want to demand a good $p$-value on the Mann-Whitney test, i.e., $p \lt 0.05$ 
   to support statistically significant belief that the model's predictions _matter_.  
   - On that basis, only inflation, and the deficit as a fraction of GDP matter.  
