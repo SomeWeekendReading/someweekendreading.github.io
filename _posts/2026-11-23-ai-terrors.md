@@ -14,15 +14,15 @@ Today 2 things about AI terrified me.  (Yes, I know there are more than 2.)
 Remember [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang)?  The guy with
 multiple extramarital affairs, one with a subordinate employee and one with a Chinese
 espionage agent?  The guy who evaded US export controls on GPUs, so his Chinese lover
-could make them available to China, arguably treason against the United States?  The guy
-famous for using public humiliation in front of peers as a "motivation"?  
+could make them available to China, arguably thereby committing treason against the United
+States?  The guy famous for using public humiliation in front of peers as a "motivation"?  
 
 Yeah, that guy.  
 
 <img src="{{ site.baseurl }}/images/2026-11-23-ai-terrors-nvidia-1.jpg" width="400" height="297" alt="NVIDIA restores Jensen Huang, despite sexual predation, espionage, and export violations" title="NVIDIA restores Jensen Huang, despite sexual predation, espionage, and export violations" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 <img src="{{ site.baseurl }}/images/2026-11-23-ai-terrors-ars-1.jpg" width="400" height="185" alt="Orland @ Ars Technica: Huang reinstated at NVIDIA" title="Orland @ Ars Technica: Huang reinstated at NVIDIA" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;">
 The board of NVIDIA has apparently decided none of that matters, and reinstated 
-him as President, CEO, and Board of Directors 
+him as President, CEO, and Board
 member. <sup id="fn1a">[[1]](#fn1)</sup> <sup id="fn2a">[[2]](#fn2)</sup>  Apparently
 bullying as a management technique and dicey-consent sexual affairs with subordinates are
 not an HR issue.  Nor is violation of US export laws.  Apparently, no law whatsoever seems
@@ -32,20 +32,20 @@ From the NVIDIA press release:
 
 > The Board of Directors voted unanimously to reinstate Mr. Huang following a series of
 > discussions and meetings with Mr. Huang, after which the Board was satisfied with
-> respect to Mr. Huang’s candor and ability to lead NVIDIA. In the process of reaching its
-> decision, the Board received input from senior levels of the United States government,
+> respect to Mr. Huang’s __candor__ and ability to lead NVIDIA. In the process of reaching its
+> decision, __the Board received input from senior levels of the United States government,__
 > and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no
 > national security risk.  
 
 So&hellip; basically, they "received input" from the US government, most likely in the
 form of threats against the company and the board members personally.  This served to make
-them impressed with Huang's "candor" enough to put him back in power.  
+nthem impressed enough with Huang's "candor" enough to put him back in power.  
 
 But, not to worry: the board promises to investigate!  
 
 > As previously announced, in light of recent reporting that Mr. Huang has been the target
-> of a foreign intelligence effort, the Board formed a committee comprised solely of
-> independent directors to investigate, and the committee retained independent counsel to
+> of a foreign intelligence effort, __the Board formed a committee comprised solely of
+> independent directors to investigate,__ and the committee retained independent counsel to
 > assist it in that investigation. The Board reiterated that the committee’s investigation
 > will proceed to conclusion.   
 
@@ -82,28 +82,29 @@ Never failing to exhibit his trademark personal quirky charm, Trump posted on Tr
 Social, his personal social media company, the doctored image shown above in the _Pivot to
 AI_ citation.  It's an AI-doctored image, with Huang posing as Trump after his 2024-July
 assassination attempt, with an NVIDIA flag and waving a red brassiere.  (Click to
-bigger, if you dare.)  
+embiggen, if you dare.)  
 
-Just absolutely _charming_ people, earn't they?  
+Just absolutely _charming_ people, aren't they?  
 
 <a href="{{ site.baseurl }}/images/2026-11-23-ai-terrors-mw-1.jpg"><img src="{{ site.baseurl }}/images/2026-11-23-ai-terrors-mw-1-thumb.jpg" width="400" height="524" alt="Merriam-Webster: 'invidious' seems an odd choice for a near-miss corporate name?" title="Merriam-Webster: 'invidious' seems an odd choice for a near-miss corporate name?" style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></a>
-I've often wondered why NVIDIA chose _that_ name for their corporation.  The nearest
-English word, of course, is ['invidious'](https://www.merriam-webster.com/dictionary/invidious),
-which is&hellip; a _suboptimal_ association.  The obvious other source is Latin
-[_invidia_](https://en.wikipedia.org/wiki/Invidia),
-meaning envy of the malicious sort.  It was also the Roman name for the Greek Titan
-Nemesis, symbol of hatred and jealousy.  As Wikipedia reports, Ovid's _Metamorphoses_
-described her thus:  
+I've often wondered why NVIDIA chose _that_ name for their corporation.  
+
+The nearest English cognate, of course, is
+['invidious'](https://www.merriam-webster.com/dictionary/invidious), which is&hellip; a
+_suboptimal_ association.  The obvious other source is Latin
+[_invidia_](https://en.wikipedia.org/wiki/Invidia), meaning envy of the malicious sort.
+It was also the Roman name for the Greek Titan Nemesis, symbol of hatred and jealousy.  As
+Wikipedia reminds us, Ovid's _Metamorphoses_ described Invidia thus:  
 
 > Her face was sickly pale, her whole body lean and wasted, and she squinted horribly; her
 > teeth were discoloured and decayed, her poisonous breast of a greenish hue, and her
 > tongue dripped venom. … Gnawing at others, and being gnawed, she was herself her own
 > torment. &mdash; Ovid, __Metamorphoses__, 2:760-832.  
 
-Such a&hellip; _charming_ allusion.  
+Such a&hellip; _charming_ image!  
 
 Why do the techbros &amp; oligarchs keep using classical allusions which they
-_clearly do not understand?!_  
+have not read, and _clearly do not understand?!_  
 
 
 ## A Terrifying Music Video  
@@ -111,20 +112,20 @@ _clearly do not understand?!_
 Yes, AI/LLM technology matters.  But not in a good way.  
 
 <iframe width="400" height="224" src="https://www.youtube.com/embed/Z6_ENp_fO_Y?si=dxUpF_fRuxbKYWXi?rel=0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin: 3px 3px 3px 3px; border: 1px solid #000000;"></iframe>
-Somebody pointed me at this music video, which is an art form that is not my main drag, to
-say the least.  Also, it's complete slopware: AI produced, top to bottom, both video and
+Somebody pointed me at this music video (an art form that is not my main drag, to
+say the least!).  Also, it's complete slopware: AI produced, top to bottom, both video and
 music.  
 
-Why in the world watch it?  
+So why in the world should I watch it?  
 
 Because it's _terrifying._  
 
 The character, yclept 'Claudia', is now apparently free for anyone to use, with the result
 that there are hundreds, maybe thousands, of videos starring 'her'.  She's beautiful,
-charming, friendly, reasonable singer &amp; dancer, and&hellip; is a non-existent fantasy
+charming, friendly, a reasonable singer &amp; dancer, and&hellip; is also a non-existent fantasy
 designed to suck you into whatever the video maker wants you to think.  
 
-This video is interesting because it says _exactly that:_ there's nobody here, but you
+This video is interesting because it says _exactly that._ There's nobody here, but you
 keep assuming there is:  
 
 > You hear a person in the pronoun, and imagine someone there,  
@@ -142,6 +143,10 @@ keep assuming there is:
 That whispered line, "a motive needs a soul", with the deeply engaging gaze just freaked
 me out.  (Is it just me?  Or does it bug you too?)  
 
+A "super-human obfuscating sophistry machine" indeed.  Or, as others put it more earthily,
+a "BS firehose".  The most terrifying part is we _keep trying to use it_ as though it were
+well informed and correct!  Na&iuml;ve &amp; greedy managers may be the death of us yet.  
+
 
 ## The Weekend Conclusion  
 
@@ -152,11 +157,13 @@ I keep coming back to the book [_Unsatisfactory Equlibria_](https://equilibriabo
 fiction or his private sex life.  But to call him an "AI bro" is to miss _totally_ the
 thrust of his career, which is AI alignment and safety, making any future putative
 artificial general intelligence a _benefit_ to humanity as a whole.  That's a goal behind
-which we should _all_ push.)  The book is about &mdash; simplifying to the point of
-bowdlerizing &mdash; why we seem to be always trapped in:
-- coordination problems (it's hard to get people to agree on collective action, even in
+which we should _all_ push.)  
+
+The book is about &mdash; simplifying to the point of bowdlerizing &mdash; why we seem to
+be always trapped in:  
+- Coordination problems (it's hard to get people to agree on collective action, even in
   their own interest),  
-- rather poor Nash equilibria (game theory: when all players are in a suboptimal state,
+- Rather poor Nash equilibria (game theory: when all players are in a suboptimal state,
   but can't move without being vulnerable to exploitation by others.  
   
 To me, this is an argument _against_ unregulated markets, which always seem to wedge
@@ -166,7 +173,7 @@ that.  So _many_ things are like that!
 
 (Look, the correct time to get out of the Republican Party was back during the first Reagan
 administration, when he was so demonstrably crazy and destructive.  The second best time is
-now.  Sure, you're complicit, but don't make it worse.)  
+now.  Sure, you're complicit&hellip; but don't make it _worse._)  
 
 [(_Ceterum censeo, Trump incarceranda est!_)]({{ site.baseurl }}/ceterum-censeo/)  
 
