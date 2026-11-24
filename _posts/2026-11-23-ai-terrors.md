@@ -140,8 +140,9 @@ keep assuming there is:
 > So when you call it "lying", you’ve misunderstood my role:  
 > deception needs a motive, and a motive needs a soul.  
 
-That whispered line, "a motive needs a soul", with the deeply engaging gaze just freaked
-me out.  (Is it just me?  Or does it bug you too?)  
+That whispered line, "a motive needs a soul", with the deeply engaging gaze, just freaked
+me out.  (Is it just me, with my customary over-sensitivity to eye contact?  Or does it
+bug you too?)  
 
 A "super-human obfuscating sophistry machine" indeed.  Or, as others put it more earthily,
 a "BS firehose".  The most terrifying part is we _keep trying to use it_ as though it were
@@ -161,10 +162,11 @@ which we should _all_ push.)
 
 The book is about &mdash; simplifying to the point of bowdlerizing &mdash; why we seem to
 be always trapped in:  
-- Coordination problems (it's hard to get people to agree on collective action, even in
-  their own interest),  
-- Rather poor Nash equilibria (game theory: when all players are in a suboptimal state,
-  but can't move without being vulnerable to exploitation by others.  
+- [Coordination problems](https://en.wikipedia.org/wiki/Coordination_game) (it's hard to
+  get people to agree on collective action, even in their own interest),  
+- Rather poor [Nash equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium) (game
+  theory: when all players are in a suboptimal state, but can't move without being
+  vulnerable to exploitation by others.  
   
 To me, this is an argument _against_ unregulated markets, which always seem to wedge
 themselves like this until we, collectively, boot them out of it.  Current AI/LLM
