@@ -174,8 +174,8 @@ technology is like that.  Our current deeply corrupt and fascist Republican part
 that.  So _many_ things are like that!  
 
 (Look, the correct time to get out of the Republican Party was back during the first Reagan
-administration, when he was so demonstrably crazy and destructive.  The second best time is
-now.  Sure, you're complicit&hellip; but don't make it _worse._)  
+administration, when Reagan got so demonstrably crazy and destructive.  The second best time is
+now.  Sure, you're already complicit&hellip; but don't make it _worse._)  
 
 [(_Ceterum censeo, Trump incarceranda est!_)]({{ site.baseurl }}/ceterum-censeo/)  
 
